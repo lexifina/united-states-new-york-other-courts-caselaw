@@ -1,0 +1,20 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-08-09"
+citations: ["17 N.Y. St. Rep. 800"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Maria Azzeli, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0800-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008253
+---
+
+# In re the Estate Azzeli
+
+## Majority (Ransom, S.)
+
+Ransom, S.
+It is impossible for me to decide the questions raised by the objections in this proceeding, because of the shiftless conduct of the referee in discharging his duties. The requisites of the statute and the rules of practice have not been regarded by him in any substantial respect. There is no testimony returned, simply notes here and there of something sworn to. The attorneys on both sides should have requested the referee to take all the testimony and caused it to be signed by each witness. If he neglected or refused to do this, application should have been made to the ■court for his removal. Waste of time and money could have been saved if the referee and the attorneys had appreciated their respective duties.
+The impbrtant question presented, viz., the actual amount of this estate, received by the administrator, may have been fully gone into, but there is no evidence returned. Some of the items of the undertaker’s bill seem too large, notably those for coaches and for flowers. The charge for jewelry for the corpse may be justified, but no evidence is returned to sustain it. Funeral charges should be allowed on a liberal scale, but they must be in keeping with the deceased’s •station in life. The rights of creditors must be regarded. I have tried to dispose of this matter without further proof, but I cannot do so. Let an order be presented vacating the order of reference, and providing for another referee, to whom must be referred the whole matter. As the court is now in vacation, the reference need not be commenced until September third, unless all parties consent to go on at an earlier date. It must proceed, however, at that time, and be closed and report of referee filed on or before the fifteenth of that month, unless prevented by causes satisfactory to the referee other than consent of the attorneys. Any modification of this decision in respect of the commencement and continuance of the reference may be applied for by either side on affidavits to be served three days before they are submitted to me.
