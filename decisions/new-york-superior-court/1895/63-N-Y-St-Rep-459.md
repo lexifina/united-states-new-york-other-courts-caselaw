@@ -1,0 +1,25 @@
+---
+court: "New York Superior Court"
+decided: "1895-01-07"
+citations: ["63 N.Y. St. Rep. 459"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John M. Schmidt, Resp’t, v. The Manhattan Railway Company, App'lt."]
+source_url: "https://static.case.law/ny-st-rep/63/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2101850
+---
+
+# Schmidt v. Manhattan Railway Co.
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The suit is by an abutting owner to enjoin the running of the defendant’s elevated railroad- in front of the property known as No. 544 Ninth avenue, on the northeast corner of said avenue and Fortieth street, in the city of New York, upon the theory of continuing trespass. Injunctive relief was granted unless the defendant, within a time specified, paid $2,000 for a release of the easement. The judgment also awarded the'plaintiff the sum of $1,068.66 for rental damages to the 'property from January 31, 1887, to March 14, 1894, the date of the trial.
+The award so made of fee and rental damages is fully warranted by the evidence, and it sufficiently appears that such damages were actually sustained over and above all benefits resulting from the operation of the defendant’s road. They were purely consequential, and attributable exclusively to the defendant.
+The trial judge found, at the defendant’s request, that the rent, of the business portion of the premises increased over the highest prices paid in 1873 (request 17); that the fee value is several thousand dollars more than in 1873 (request 19); and that the proximity of the station has increased the value of property in the locality (requests 27, 28). The defendant urges that in view of these findings the judgment cannot be sustained. But these findings are to be considered with reference to the other findings, from which it appears that these benefits were considered in mitigation, and in one of which„(thq 19th) it is determined: “ That after the year 1883 an increase in the fee value of the plaintiff’s premises took place, owing to the increase in population and general growth of the city. At the same time fee values of property in other streets and avenues in the vicinity of the plaintiff’s said premises, where there is no elevated railroad, increased very much more. That the advance in fee value of the plaintiff’s said premises and in property on other streets and avenues was not caused by the elevated railroad, but by the general growth of the city in population and by the demand for real estate for business and dwelling purposes, and by causes other than said elevated railroad.”
+Other findings are of similar import. The latter portion of the’twentieth finding is that, “but for the construction, maintenance and operation of the elevated railroad in front of the plaintiff’s premises, the plaintiff’s said premises would have shared more fully in the general increase in the fee value of real estate, and would now be worth more than they are at the present time.”
+The findings must, be construed in their entirety, one reflecting its light upon the other. There is no inconsistency between them, for they harmonize as a whole. In short, the record shows this to be one of the ordinary elevated railroad cases, in which there is the usual conflict of evidence, and that credited and acted upon by the trial judge in this instance fully sustains his findings and conclusions. The case seems to have been disposed of according to the settled rules of law governing the award of damages to abutting owners.
+We find no error, and the judgment appealed from must be affirmed, with costs.
+Freedman, P. J., concurs.
