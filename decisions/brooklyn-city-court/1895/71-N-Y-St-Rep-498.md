@@ -1,0 +1,26 @@
+---
+court: "Brooklyn City Court"
+decided: "1895-12-23"
+citations: ["71 N.Y. St. Rep. 498"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Silverman, App’lt, v. Simon et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/71/cases/0498-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2125892
+---
+
+# Silverman v. Simon
+
+## Majority (CLEMENT, C. J.)
+
+CLEMENT, C. J.
+learned counsel for the plaintiff, in his brief used on this motion, states as follows:
+“The general term opinion reasons that the evidence in the bank book would not have been legitimate corroboration of plaintiff’s testimony, if offered in his original case. Ho one ever claimed that it would be, and it was admitted solely because it was competent to meet a new and independent issue raised in defendant’s proof, which was that plaintiff had never had the money in the bank which he claimed to have loaned, and never withdrew any such money, and hence that his testimony was fabricated.”
+The plaintiff, on his cross-examination, testified that he deposited the sum of $1,000, which he' received from the uncle of his wife, in the State Bank, and that he drew on that bank the check for $500. On his redirect examination, he made a correction, and said that the $1,000 was deposited in the East Side Bank. Subsequently, the defendants put in evidence a correct copy of the ledger of the State Bank, showing the account of Silverman, and proving that his account in that bank was not opened until December 19, 1892, at least two months after the time when the check of $500 was claimed by plaintiff to have been drawn. The plaintiff was then recalled, and his testimony is to be found on page 99 of the case. At the foot of the page, his testimony is correctly summed up.
+• “By Mr. Patterson: Q. Wasn’t this the way that you first spoke about your account in the State Bank, and said you deposited in the State Bank, and, while you were on the stand yesterday, you corrected it, and said it was in the East Side Bank it was? A. That is what I said. Q. That is the way it occurred yesterday? A. Yes, sir.”
+The testimony was then closed, and a recess taken. After recess, counsel for plaintiff asked to reopen the case, and recall Mr. Silverman, and said:
+“I want to put in evidence this bank book of the East Side Bank, showing the deposit of one thousand dollars and the draft of this $500 check.
+After some discussion and a re-examination of Mr. Silverman, five pages of the bank book were admitted, under objection and exception as incompetent. Thé bank book does not show any deposit omf the exact sum of' $1,000, and is no evidence whatever of “the draft of this $500 check.” It may or may not have been competent testimony to show that Mr. Silverman had a bank account in the East Side Bank as early as September 29, 1892. We have not, in our previous opinion, passed on the point, and it is not necessary so to do. To prove the opening of the account, it was only necessary to read the first entry. We think it is right to hold the learned counsel to the offer made at the trial as to the ground on which he sought to reopen the case, and put in the testimony, and not to accept the reason now set forth in his brief on the motion for reargument.
+The motion for reargument is denied, with $10 costs.
