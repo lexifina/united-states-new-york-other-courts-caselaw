@@ -1,0 +1,26 @@
+---
+court: "New York Surrogate's Court"
+decided: "1882-01"
+citations: ["2 Dem. Sur. 154"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thompson v. Mott. In the matter of the judicial settlement of the account of Henry A. Mott, executor of the will of Adelaide Thompson, deceased."]
+source_url: "https://static.case.law/dem-sur/2/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1137248
+cites_cases: ["56 N. Y., 615", "7 Abb. N. C., 149"]
+---
+
+# Thompson v. Mott
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+A motion has been made before me, in behalf of the executor, to set aside both the written objections which have been filed in opposition to his final accounting, and the order of reference heretofore made in that behalf, upon the grounds : 1. That such objections appear to be unverified, though a verification is claimed to be necessitated by rule 16 of this court; and, 3. That, in many particulars specially set forth in the moving papers, such objections fail to comply with the requirements of rule 8. &
+The first ground is untenable, as the requirement of rule 16 is limited to the verification of petitions and answers only, and has no application to such a paper as is here under consideration. I have no doubt of the Surrogate’s power under section 3533 of the Code to enlarge the scope of the 16th rule so as to make it include objections to accounts. But despite the arguments in support of that change, which have been urged upon the present motion, I doubt the wisdom of its adoption.
+I am of the opinion that the second ground cannot be maintained. Rule 8 requires that, upon any accounting by an executor, any party interested, or creditor, shall file specific objections in writing, and that the contest of such account shall be confined to the items or matters so objected to. It is not suggested, by the briefs of counsel on either side of the controversy, that the words “specific objections” have as yet received judicial interpretation. It seems to me, however, that in determining whether, in a given case, objections are sufficiently specific, regard should be had to the particular circumstances of such case, and to the facilities afforded the contestant for compliance with the terms of the rule. Objections which might be deemed under some circumstances vague might, under other circumstances,, be regarded as sufficiently specific, within the fair interpretation of the rule.
+The special features of the case now under discussion should, therefore, be considered as having a direct bearing upon the question whether the motion herein ought to be granted. It appears that, by the provisions of the codicil to the will of his widowed mother the testatrix, the objector was a co-executor with Mr. Mott, and a testamentary guardian of his infant sister and brother, who are, like himself, legatees under the will; that the testatrix died recently in Europe, where she had been uninterruptedly residing, with her children, since the year 1872 ; that, during her absence, Mr. Mott acted as her agent, and had sole management of her large estate; that the objector has been but a short time in this country, and has only recently attained his majority-; that, as would almost inevitably result from these circumstances, he has no knowledge or information as to the correctness or incorrectness of the numerous items in his co-executor’s account, but is desirous, for his own sake and that of his wards, to subject it to such scrutiny as the law permits. It is accordingly urged, by his counsel, that the objections which he has already filed comply as nearly with the requirements of rule 8 as is, under the circumstances, practicable.
+This claim seems to me well founded. Before the adoption of the rule in question, there was no requirement of the law and no formal rule of court which required, in any such case, the filing of specific objections (Peck v. Sherwood, 56 N. Y., 615; Redfield's Surr. Prac., 2nd ed., 671; Matter of Hall, 7 Abb. N. C., 149). From my examination of the latter case, I greatly doubt whether the late Surrogate himself designed by his establishment of the rule under discussion to change the procedure, which, under the peculiar circumstances of that case, he then held to be correct.
+It has been urged upon me that proceedings before the referee under this order are to be deprecated, as likely to result in great expense to the estate. This court will very heartily co-operate with the executor in keeping this expense within the narrowest reasonable limits, but the facts should not be ignored, "that the person at whose instance this reference has been ordered is himself a co-executor, one of the distributees under the will, and the guardian of all the others. . The affidavits for and against this motion contain many matters, some of them hotly disputed, upon which I do not feel called upon to comment; but the matters not at all in dispute seem to me to justify my conclusion that, without any change in the form of the objections, proceedings should be had before the referee as hitherto ordered.
+Ordered accordingly.
