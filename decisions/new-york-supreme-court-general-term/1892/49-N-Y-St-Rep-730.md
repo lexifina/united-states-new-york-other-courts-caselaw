@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-11-18"
+citations: ["49 N.Y. St. Rep. 730"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The China Mutual Insurance Company et al., Resp’ts, v. William M. Forge et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/49/cases/0730-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2093228
+cites_cases: ["13 Mass., 1", "2 Cow., 56", "2 Ware, 68", "3 Conn., 253", "61 N. Y., 283", "74 N. Y, 246", "76 N. Y. 207", "82 N. Y., 413", "93 U. S., 274"]
+---
+
+# China Mutual Insurance v. Forge
+
+## Majority (Truax, J. Per Curiam.)
+
+The following is the opinion at special term:
+Truax, J.
+In April, 1889, one Daniel GL Bacon, a citizen of New York, at the city of New York, entered into a charter party with the owners of an Italian bark, to carry a cargo from the city 'of New York to Eangoon. The charter party provided for the payment of freight upon delivery of cargo at port of discharge. The bark was wrecked before it reached the port of discharge, and became a constructive total loss, and no part of the cargo was ever delivered to the consignees, although some of it was saved by salvors, and together with the bark, her apparel and furniture, sold pursuant to an order of the court of the recorder of Eangoon, a court of vice admiralty jurisdiction. The proceeds of the sale were brought into the registry of the said court, and, pursuant to an order of said court, part of the proceeds of said sale was paid to the salvors. The remaining part was paid to the agent of the defendants, who bad advanced money to the master of the bark for necessary port disbursements, while in New York, upon his draft, which pledged the vessel and freight and directed that it be paid "by the consignees at the port of destination. Plaintiffs have succeeded to the lights of said Bacon. The defendants contend that the charter party is to be construed according to the laws of Italy, because the vessel was an Italian vessel, and that if so construed they would be entitled to retain the money received by them, because, by the commercial laws of Italy, freight had been earned j>ra rata. Plaintiffs concede that defendants should have judgment in this action, if such construction be sound.
+. It is 'a well-settled principle of law in this state, if not in this country, that a contract made between a foreigner and a citizen is deemed to be governed by the law of the place where it is made and it is to be executed, unless it appears that by the agreement of the parties the contract is to be governed by the laws of some other country. Faulkner v. Hart, 82 N. Y., 413 ; Blanchard v. Russell, 13 Mass., 1; Smith v. Mead, 3 Conn., 253; Bank v. Shaw, 61 N. Y., 283. I am of the opinion that this charter party is to be governed by the laws of New York, and not by those of Italy. I have called attention to the fact that the charter party provided that freight was to be paid pro rata upon delivery of cargo at port of discharge. In this respect it followed the rule of law in this state. Hubbell v. Insurance Co., 74 N. Y, 246; New York C. & H. R. R. R. Co. v. Standard Oil Co., 87 id., 486; Richmonds. Steamboat Co., id., 240; 8 Kent Com. (11th ed.), 219, 225.
+The defendants also contend that the judgment of the court of the recorder of Rangoon is binding upon the plaintiffs, although they were not parties to the proceeding in which that judgment was rendered. It may be taken as granted that a purchaser, under the decree of the recorder’s court of Rangoon, got good title to the property purchased, without granting that the subsequent disposition of the proceeds of the sale to the defendants is binding upon the plaintiffs. A foreign sentence in admiralty is conclusive only as to matters essential to the decree, and is not conclusive as to matters that are merely incidental or collateral, or not necessarily involved in the adjudication. 2 Black. Judgm., § 817. The rights of the salvor are in rem and not in personam. The Emblem, 2 Ware, 68. The salvors would be entitled to salvage, whoever owned the property. The only thing necessarily involved in the proceeding in the court of the recorder of Rangoon was the sale of the salved property for the purpose of paying thesalvors. In fact, nothing is said in the order of said court, by virtue of which defendants obtained the money, about the proceeds of the cargo. But if there had been anything said, it would not have been conclusive, for a sentence of a court pronounced against a party without hearing him, or giving him an opportunity to be heard, is not a judicial determination of his rights, and is not entitled to respect in any other tribunal. Windsor v. McVeigh, 93 U. S., 274. It was held in Vandenheuvel s. Insurance Co., 2 Caines Gas., 217 (reported more fully in 2 Johns. Gas., 127, 451), that an adjudication by the vice admiralty court of Gibraltar, that a ship and its cargo were not neutral, was not binding upon a citizen of the United States in an action upon a policy of insurance issued here; and to the same effect is Insurance Co. v. De Wolf, 2 Cow., 56. It follows that part of the money received by the defendants was the money of the plaintiffs, which they can recover in this action. Tugman s. Steamship Co., 76 N. Y. 207.
+Judgment is ordered for the plaintiffs in accordance with findings.
+Wing, Shoudy & Putnam (Harrington Putnam, of counsel), for app’lts; McFarland & Parkin (W. W. McFarland, of counsel), for resp’ts.
+Per Curiam.
+Judgment affirmed upon opinion of the court below, with costs and disbursements.
+Van Brunt, O’Brien and Lawrence, JJ., concur.
