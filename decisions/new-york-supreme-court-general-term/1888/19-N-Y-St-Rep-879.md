@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-24"
+citations: ["19 N.Y. St. Rep. 879"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Almira Lee, Resp’t, v. The Co-operative Life and Accident Association of the United States, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0879-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650626
+cites_cases: ["41 Hun, 61", "87 N. Y., 141"]
+---
+
+# Lee v. Co-operative Life & Accident Ass'n of United States
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The action has been brought to recover the sum of $4,450 and interest from October 20, 1887, upon an insurance on the life of plaintiff’s husband. This was effected by his becoming a member of the defendant and performing the conditions and obligations of its by-laws. The attachment was issued upon an affidavit made bv Homer Lee, who was the plaintiff’s brother-in-law. He dqes not state, neither has it in any manner been otherwise shown, that he had personal knowledge of the existence of any of the facts which the law has required to be established to entitle the plaintiff to the attachment.
+In the third paragraph of his affidavit the statement is made that the action has been brought to recover this sum of money, “being the balance claimed tobe due from the defendant to the plaintiff as damages for breach of contract, over and above all counter-claims known to the plaintiff, or to this deponent, upon a cause of action existing in favor of the plaintiff against the said defendant, arising out of the following facts.” And those facts are the admission of the deceased to membership in the defendant, and the performance by him of the duties incumbent upon him as such member and h:s subsequent decease.
+What the law has required to entitle the plaintiff to the attachment is 'that “the affidavit must show that the plaintiff is entitled to recover a sum stated therein, over and above all counter claims known to h'im ,, Code of Civil Procedure § 636, Subd., 1. But this affidavit has not shown and it has not been stated as a fact by the affiant, that this balance is due and owing from the defendant to the plaintiff, over and above all counter-claims known to her; but the statement is that the balance is claimed to be due to her over all counter-claims. Neither does it appear that the person making the affidavit had any knowledge whatever that this amount was owing over counter-claims. Nor is he shown to have such a relation to the business itself as will support the inference that he possessed that knowledge, which in fact he did not, by this statement in the affidavit profess to have. All that he proved was that this was a balance claimed, not that it was a balance existing either to his knowledge, or the knowledge, of the plaintiff herself, and on account of these defects the affidavit fails to bring the case within this subdivision of section 636, of the Code. Jordan v. Richardson, 7 Civ. Pro. R., 411; Buhl v. Ball, 41 Hun, 61; Marine National Bank v. Ward, 35 id.. 395; Cribben v. Schillinger, 30 id., 248.
+. These authorities are directly adverse to the sufficiency of this statement as proof of the fact required to be shown.
+In American Ex. Bk. v. Voisin (7 N. Y. State Rep., 381) it was held where the business appeared to have befen transacted by the person making the affidavit, and as the statement .itself complied in form with the requirements of the law, it was sufficient to maintain the attachment. But that authority fails to support this attachment, as it does not appear that the person making the affidavit was in any manner connected with the business out of which the balance is alleged to have been claimed. Neither does he state as a fact that this balance is due and owing over and aboye counter-claims. The case of Ruppert v. Haug (87 N. Y., 141) also fails to support this proceeding. For,, that does not relieve the applicant for the attachment from the obligation to substantially comply with this requirement of the law.
+The affidavit is also defective in the statement contained in it from which the conclusion has been deduced that the defendant has disposed of or assigned its property with intent to defraud any of its creditors. To support this fact reliance has been placed upon statements made by the secretary, and upon an article published in the Brooklyn Morning Journal, and an examination of the defendant’s affairs under the authority of the insurance department. But neither these statements, nor the article itself, or the result of the examination, prove the fact to be that any of the property of the defendant had been assigned or disposed of to defraud its creditors. In both respects the affidavit on which the attachment was issued was materially defective. Neither of these defects were supplied or removed by the other affidavits or papers used upon the hearing of the motion.
+The order should be reversed, with the usual costs and disbursements, and an order entered setting aside the attachment.
+Van Brunt, P. J., and Bartlett, J., concur.
