@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-11-22"
+citations: ["49 N.Y. St. Rep. 42"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hiland H. Chapin, Resp’t, v. A. V. Pratt, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/49/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2093241
+cites_cases: ["15 Hun, 494", "16 N. Y., 297", "29 St. Rep., 662", "3 Hun, 352"]
+---
+
+# Chapin v. Pratt
+
+## Majority (Putnam, J.)
+
+Putnam, J.
+The check in suit was given for a valuable consideration, and plaintiff, as endorsee, properly obtained judgment thereon, unless the defense asserted by defendant of rescission of contract, or accord and satisfaction, was established on the trial. The burden was upon the defendant to establish such defense. He claimed that the alleged settlement was made between William J. Huggins, as agent of the defendant, and himself. It was for the defendant to show the authority of the agent, and he was bound to show an express authority, no general agency being shown. Messmore v. Haulenbeek, 15 Hun, 494.
+The only testimony produced by the defendant to show such agency was that of William J. Huggins himself. He testified ■on that subject, in substance, as follows: “I came to Port Edward at the request of my wife; she instructed me to go there and offer them eighteen dollars, or ten dollars, I should say; she would throw off ten dollars on the check, or she would give them ten dollars and return the check; my wife would throw off ten dollars on the check if they would pay the lien, or she would give them ten dollars and take back the colt and send them the check.” This is the only evidence in the case on the subject of the authority of William J. Huggins. It shows a special agency to offer ten dollars, take back the horse and return the check. This offer was not accepted, and the agent was not shown to have any authority to make any different settlement of the matter, and hence the arrangement, in fact, made between William J. Huggins and defendant was not binding on Mrs. Huggins. It appears that Huggins did not have the check in his possession, and it is not shown that Mrs. Huggins ever received back the horse; hence there is no question of ratification involved in the case.
+I conclude that defendant failed to show the authority of the agent Huggins to make the settlement alleged as a defense. Therefore, the defendant was not injured by the error of the referee, if it was an error, in striking out the testimony of Huggins as to the instructions given him by his wife.
+But again I, think the referee was right in striking out the testimony referred to, although not for the reason stated by him. The answer was merely a general denial, and under that pleading the defendant could not properly prove a rescission of the contract or an accord and satisfaction. Such rescission or accord, like the defense of payment, should be pleaded as an affirmative defense. Potter v. Gates, 29 St. Rep., 662; McKyring v. Bull, 16 N. Y., 297.
+The plaintiff on the trial and by motion to strike out objected to evidence tending to show this defense on the ground that such testimony was incompetent under the answer. Hence the referee did not err in striking out said testimony and his conclusion should be sustained, although for a different reason than that stated by him. The evidence in question being properly stricken from the case, no testimony remained showing the agency of William J. Huggins of any kind.
+The judgment .should be affirmed, with costs.
+Mayham, P. J., concurs; Herrick, J.—I concur on ground last stated in the opinion.
