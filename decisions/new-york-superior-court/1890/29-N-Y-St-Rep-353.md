@@ -1,0 +1,25 @@
+---
+court: "New York Superior Court"
+decided: "1890-01-06"
+citations: ["29 N.Y. St. Rep. 353"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leopold Beyer, Pl’ff, v. Philip Braender, Def't."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664498
+---
+
+# Beyer v. Braender
+
+## Majority (Ingraham, J.)
+
+Ingraham, J.
+The contract for the sale of the property was to have been performed on the 10th of October, 1888, and on that day counsel for the purchaser requested further time to examine the title to the property, which being refused counsel for the vendor tendered a warrantee deed of the premises in question and handed the same to the counsel for the vendee, who examined it and handed it back to the counsel for the vendor, saying “We decline to accept this deed. We refuse to take this title. I do not consider that Mr. Braender has a good and marketable title to these premises,” to which counsel for the vendor replied “Very well, we stand upon our contract and our title.”
+Subsequent to that time the counsel for the respective parties had correspondence as to the purchaser accepting the title, but on October 20, 1888, counsel for the vendee stated that he could not take the title and then proposed to cancel and rescind the contract and that the defendant should repay the $1,000, which had been paid on the executing of the same and pay $100 for the examination of the title, which was refused, and this action is brought to recover the amount paid on the execution of the contract.
+At no time did the plaintiff ever offer to perform, nor does it appear that he was ever able to perform his contract. He rests his refusal solely on a defect in the title. It was not claimed on the argument before us that the defendant’s title was defective or not marketable. It further appeared that on the 18th of October defendant had executed a contract to sell the same premises to another person, which contract was finally completed by the delivery of a deed on the 30th of October of the same year.
+To entitle plaintiff to recover in this action, he must show that the defendant failed to complete his contract; the defendant must be in default.
+The facts, however, conclusively show that the defendant was not in default, but that it was the plaintiff who was in default. Defendant was ready to complete his contract, deliver a deed of the premises on the day that the contract was to be completed, and from that time down to the 30th of October, when he conveyed the premises to another purchaser, could have at any time complied with his contract. On the refusal of the plaintiff to accept-the deed on the 10th day of October, the defendant was justified in assuming that the plaintiff had broken the contract and treating ifc&s at an end, and that followed by-the absolute refusal to accept the title on the 20th of October and the demand for the repayment of the money paid on the execution of the contract and the damages sustained by the plaintiff was a final breach of the contract. The subsequent letters between counsel for the parties did not in the slightest degree change the relations that then existed. The request in the letter of October 25 was merely for the sale of another house, and had nothing to do with the premises in question.
+The exceptions should therefore be overruled and judgment ordered on the verdict, with costs.
+Sedgwick, Oh. J., and Freedman, J., concur.
