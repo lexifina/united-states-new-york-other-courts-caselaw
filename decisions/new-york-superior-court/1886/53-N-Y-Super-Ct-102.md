@@ -1,0 +1,21 @@
+---
+court: "New York Superior Court"
+decided: "1886-03-01"
+citations: ["21 Jones & S. 102", "53 N.Y. Super. Ct. 102"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES F. BERWIND, et al., Appellants, v. THE GREENWICH INSURANCE Co., Respondent."]
+source_url: "https://static.case.law/ny-super-ct/53/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1684081
+---
+
+# Berwind v. Greenwich Insurance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+When the court dismissed the complaint, no testimony had been given to show the loss or its cause. The protest of the captain, which stated that the boat had sprung a leak and had sunk, was given in evidence as a part of a notice of loss that the policy provided should be served upon the insurers. The declarations of that protest were not shown to be true, and were not evidence in the cause on the main issues.
+But if it be supposed that the protest was evidence as to loss, it still is true that it does not show a loss from any peril insured against. It is not necessary to determine whether there was any implied warranty of seaworthiness. In general, whether the warranty of seaworthiness be implied or expressed, or whether the burden of showing compliance rests upon the assured, or of showing a breach rests upon defendant, the failure to show compliance or the proof of a breach prevents a recovery, although the loss did not occur from unseaworthiness. The warranties alluded to, when they exist as independent stipulations, also have the effect of restraining the general perils of the seas insured against at the time the warranty applies, to extraordinary perils, and not to such risks as it is presumed a seaworthy vessel will meet safely. In the present case, such an effect does not rest upon the inference from an independent warranty. There is, from the perils which the defendant takes upon itself, an exception specifically of “ rottenness, inherent defects, and other unseaworthiness. ” If the vessel were in fact rotten, inherently defective or unseaworthy, and that caused the loss, there could be no recovery, unless, perhaps, the cause of the loss was the immediate effect of some peril insured against. In this case, unseaworthiness from such a former peril is not shown. Therefore, to recover, the plaintiff should have shown that the peril was not one forming an exception, and which by the policy the insurers were not to bear. To do this successfully, the plaintiff was bound to prove in one way or another that the boat was seaworthy when lost, and this could be proved either by direct proof as to seaworthiness, or by proving a cause of loss that would exclude an inference of unseaworthiness at the time. There was no proof of the specific cause of loss. The captain’s protest declared that the vessel unaccountably sprung a leak and took in water. He was unable to specify the cause. There was no proof of a storm, or unusual waves or winds. There was no direct proof of the seaworthiness. Some time before she had been seaworthy, and had been repaired. Her condition at a later day than August 28, was not proved. Then she was a seaworthy vessel for the purpose of carrying coal, or doing a general freighting business around the harbor of New York, as a witness testified. The same witness testified that if, after she left his dock, “ she had one heavy cargo on her, she might have been rendered unseaworthy; she might have been ruined by one cargo.” No proof having been given to show how she had been used, or what had been her adventures, from the time she left the dock until she unaccountably sunk, about eight weeks afterward ; the, only just inference would be that her condition had changed from that of seaworthiness to unseaworthiness. At any rate, the testimony would not have justified the jury in finding that she was lost from a peril other than that of rottenness, inherent defect, or unseaworthiness. The plaintiff did not prove directly or circumstantially that the vessel was seaworthy at the time of the loss, so as to make a question for the jury on that point.
+Judgment affirmed, with costs.
