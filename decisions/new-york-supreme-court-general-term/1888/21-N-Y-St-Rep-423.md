@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-12-10"
+citations: ["21 N.Y. St. Rep. 423"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nason Manufacturing Co., Resp’t, v. Benjamin E. Stephens, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017725
+---
+
+# Nason Manufacturing Co. v. Stephens
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+The findings of fact upon which the judgment depends were found upon conflicting evidence, and we are not able to say that they are not supported by the testimony. The reference can, in such cases, better than can the appellate court, determine what weight to give to the testimony of the differing witnesses.
+We do not find any errors of law requiring a new trial.
+The argument of appellant that defendant cannot be held to pay for extra work because he did not request it to be done, and did not promise to pay for it, cannot be sustained. The contract required the water to be kept at a certain height for the facility of construction. Defendant failed to keep it there, thereby making it necessary to abandon the work or to erect expensive scaffolds. When defendant failed to keep the water where he agreed, plaintiff might have refused to continue the work and brought his action for the breach of contract. But he was not obliged to take that course. He might elect to erect the scaffolds and charge the expense thereof as extra work rendered necessary by the act of the other party to the contract. This he might do, even against the will of the other party.
+To hold otherwise would deprive a party not in fault of his right to perform his contract and reap the resulting profits.
+Judgment affirmed, with costs.
+All concur.
