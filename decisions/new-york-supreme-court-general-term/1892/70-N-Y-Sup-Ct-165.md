@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-02"
+citations: ["70 N.Y. Sup. Ct. 165"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnard, P. J., and Dykman, J., concurred."]
+parties: ["In the Matter of the Final Judicial Settlement of the Account of RICHARD A. KENWORTHY and Another, as Executors of THOMAS KENWORTHY, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/70/cases/0165-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4642345
+cites_cases: ["2 Barb. Ch., 430", "78 N. Y., 439"]
+---
+
+# In re the Final Judicial Settlement of the Account of Kenworthy
+
+## Majority (Pratt, J.:)
+
+Pratt, J.:
+Section 2736 of the Code provides that where a decedent’s personal estate amounts to $100,000, or more, over all debts, each executor, not exceeding three, is entitled to full compensation, -unless the court shall apportion the aggregate according to the services rendered. I do not understand that the power to apportion includes the power-totally to abate any executor’s compensation except, possibly, in the case of misconduct, resulting in loss, or where the net estate is less than $100,000.
+There seems to have been no occasion to apportion the aggregate in this case, at least no such thing was done, and nobody complained on that account. Two executors have received their full compensation. The executrix was not allowed any compensation. I think this was wrong. The statute as applied to this ease says that she was entitled to full compensation, because there was nothing taken from her compensation by any apportionment. She qualified and did do some acts in administration.
+The basis for her commissions is the amount of the estate. I can see no other meaning to the words “full compensation.” This “ compensation ” is by means of commissions. Full compensation, therefore, means “full commissions.” And that is based on the whole estate irrespective of which executor actually handled it. (Valentine v. Valentine, 2 Barb. Ch., 430.)
+I do not understand the case of Manice (31 Iiun, 119) to be in conflict with these views. That was a ease of two executors who had administered an estate. It does not appear that the net estate amounted to $100,000. Hence there was but one commission to be allowed, and that was awarded to the executor who did the work. Here, as already observed, the statute is peremptory and gave this executrix full commissions, because nothing was taken from her commissions by apportionment.
+I do not understand that the surrogate has allowed full commissions to the trustees as trustees, but one-half commissions for receiving the trust and one-half for paying out such a part as they have paid. This seems sanctioned by authority.
+Assuming that the rax was a proper charge, the disposition which the surrogate made of the matter was just and fair. We cannot now undertake to hold the tax invalid as against the jniblic authorities, and it may be that we could not lawfully do so when we come to hear what they have to submit. But it would seem from the facts now disclosed that it may well be doubted if any tax is payable.
+There seems to be an irregularity in the assessment which, under Trowbridge v. Horan (78 N. Y., 439), will render it invalid. The tax authorities cannot tax the estate of a decedent. They may tax the property against the owner thereof, whether held absolutely or in trust. They do not seem to have done that, but to have assessed the estate as such. This form of assessment was held invalid in Trowbridge v. Horan, and I do not see why it was valid in this instance. I cannot, therefore, concur with the learned surrogate in actually charging the parts of this tax on shares. Non constat it may never be paid. For aught that I can now see, it ought not to be paid. It may be, however, that when the public authorities come to be heard on this matter they may show some facts not now disclosed, which will show that this tax ought lawfully to be paid. If so, it will be time enough to direct payment thereof. The decree should, therefore, be modified by allowing the retention of the money in the proportions indicated, which shall be charged if the tax is held payable, otherwise it should be distributed among the parties entitled thereto.
+In view of the fact that the appeal of the executrix is well founded, she ought to have her costs and disbursements of this appeal payable as a part of the expenses of the estate generally. The result also shows that it was reasonable that she should have the * benefit of the advice and services of counsel before the surrogate on the accounting. She was, therefore, entitled to indemnity against her expense for that cause, within the statutory limit, quite as plainly as for her traveling and other expenses.
+-The decree should be resettled so as to provide for her commissions and the costs and disbursements of this appeal, and her counsel’s services within the statutory limits, as part of her expenses, and also to provide for the tax matter as herein indicated.
+Barnard, P. J., and Dykman, J., concurred.
+Part of decree appealed from modified in accordance with opinion of Judge Pratt, order to be settled by him.
