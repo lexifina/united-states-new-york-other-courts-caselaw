@@ -1,0 +1,62 @@
+---
+court: "New York Supreme Court"
+decided: "1872-01"
+citations: ["43 How. Pr. 33"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joshia H. Turner, appellant, agt. Seth A. Van Riper, and others, respondents."]
+source_url: "https://static.case.law/how-pr/43/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2358654
+cites_cases: ["23 Barb., 313", "25 How., 289", "37 How., 15", "6 Hill., 631"]
+---
+
+# Turner v. Van Riper
+
+## Majority (By the court, Mullin, P. J.)
+
+By the court, Mullin, P. J.
+—This action- was brought to recover treble damages for trespassing on the lands of the plaintiff, and cutting down and carrying away timber pursuant to title 6, chap. 5, 3d part of the Revised Statutes (Sec. 2, R. S., 2d ed., 261, § 1, &c).
+The plaintiff recovered $5. The special term held the defendant was entitled to costs, for the reason that the plaintiff recovered less than $50 damages.
+The defendant’s answer admitted that the land on which the timber was cut belonged to the plaintiff, but alleged that it was cut by the leave and license of the plaintiff.
+It has been repeatedly held that a plea of license does not raise a question of title to land.
+And there is no evidence before us by the certificate of the judge who tried the cause, that title came in question on the trial. A certificate of the judge is the only competent evidence of that fact.
+We must assume for the purposes of the question as to who is entitled to costs, that the question of title was not raised either in the pleading or oh the trial.
+The plaintiff insists that he was entitled to costs, and not the defendant, because the provisions of the Revised Statutes giving costs to the plaintiff, on a recovery by him of any amount of damages in an action for trespass on lands, ara still in force, not having been repealed by the Code, either in terms or by implication.
+By § 3 oftitle 1 of chap. 10, of the 3d part of the Revised Statutes (2 R. S., 2d ed., 508, and 9), it is provided that in the following cases, if the plaintiff recover judgment by default upon confession verdict, demurrer or otherwise in any action or proceeding at law, he shall recover the costs allowed for services in the court in which the action shall be brought.
+1. In all the actions relating to real estate enumerated in the fifth chapter of the act and in all proceedings to recover the possession of land forcibly entered or forcibly detained.
+2d. In all actions in which title to land shall be put in issue by the pleadings or come in question on the trial.
+3d. In suits and proceedings upon writs of scire facias, &C., &c.
+An action for cutting down and carrying off trees or timber from the land of another is one of the actions in which by the third section, above cited, costs of the court in which the action is brought are given to the plaintiff upon a recovery therein, without regard'to the amount of such recovery.
+It only remains to inquire whether this provision of the Revised Statutes, giving costs in this class of actions, has been repealed.
+Section 303 of the Code declares that all statutes, establishing or regulating the costs or fees of attorneys, &c., in civil actions, and all existing rules and provisions of law, restricting or controlling the right of a party to agree with an attorney, &c., for his compensation, are repealed, and hereafter the measure of such compensation shall be left to the agreement, express or implied, of the parties. But there may be allowed to the prevailing party upon the judgment certain sums, by way of indemnity for his expenses in the action, which allowances are in this act termed costs.
+. This section was obviously intended to effect three objects : 1st. To abolish the fee bill prescribed by the Revised Statutes.
+2d. To set aside the rule established in and enforced by both the Courts of ¿Law and Equity in this State, that an agreement between an attorney or solicitor and client, that the former should receive a part of the subject matter or proceeds of the litigation as compensation for his services, was illegal and void, and,
+3d. To establish a new measure of indemnity to the successful party for his expenses in the action.
+The Revised Statutes (2 R. S. 2d Ed., 508, &c.) gives the costs in an action to the party and next to the attorney or solicitor. In this -respect the Revised Statutes do not differ ftom the Code.
+But the fee bill established by the Revised Statutes provided compensation for specific services rendered by. officers of the courts and by attorneys, solicitors and counsellors.
+By the fee bill established by the Code, an allowance is made to the party for certain specified services, without regard to the person or officer by whom the service is rendered. But as attorneys and counsellors and clerks and judges must render such services, the result is not materially changed. The two fee bills are in these respects substantially the same.
+It is a very narrow construction of section 303 of the Code to limit its operation to a repeal of that part of the former fee bill which prescribes the costs or fees of attorneys, &c., and leaves the provisions of the Revised Statutes as to the actions in which costs may be recovered in force. It necessarily follows that all the provsions of the Revised Statutes are left by such a construction in force, if section 303 only repeals the fee bill.
+Again, section 304 of the Code gives costs to the plaintiff as of course upon a recovery in the following cases:
+1st In an action for the recovery of real property, or where a claim of title to real property arises on the pleadings or is certified to have come in question on the trial.
+2cl. In an action for the recovery of the possession of personal property.
+3d. In actions in which a court of justice of the peace has no jurisdiction.
+4zth. In an action for the recovery of money only when the plaintiff shall recover $50.
+The first two cases included in this list are embraced in section 3 of title 1 of chapter 10 of the 3d part of the Revised Statutes above cited. And by the first subdivision of that section, costs in actions of ejectment, trespass on land, and other actions and proceedings relating to real property, are provided for. Thus it will be seen -that the Code expressly provides for costs in some of the cases embraced in the Revised Statutes, and as the last expression of the legislative will must prevail, the former statutes on the same subject inconsistent therewith must be deemed to be repealed.
+The Code does not in terms provide for costs in actions of trespass on land, but as it provides for costs in actions of ejectment, and in actions in which title to real estate shall come in question, and is silent as to actions of trespass, it must be assumed that that class of actions was intended to be embraced by some other of its provisions, if there are any which can apply to it. The only other provision of section 304, which can be said to embrace this class of actions, is subdivision of said section which gives costs to the prevailing party in actions for the recovery of money when the plaintiff recovers $50. No reason is perceived why this section does not apply to actions of trespass. It is an action for the recovery of money, and it may be brought in a justice’s court. If the party will not bring it in that court, and recovers less than $50, he ought not to recover costs if he sues in the Supreme Court.
+If this is a correct exposition of the statutes, we are compelled to overrule the case of Utter agt. Gifford in the 25 How., 289.
+We cannot agree with the learned judge who wrote the opinion in that case, that the provision of the Revised Statutes, giving costs to the prevailing party on a recovery in this court of any amount, is not repealed by the Code. To hold those provisions unrepealed would involve the question of costs in the most inextricable uncertainty and confusion, without being productive of' the slightest benefit to either parties or attorneys.
+In The Earl of Craven agt. Price, 37 How., 15, the General Term of the Eighth District take the same view of the question that I have attempted to establish, and hold that a plaintiff who recovers in • an action of trespass on real estate .less than $50 cannot recover costs, but must pay them.
+The plaintiff insists that if he should be held not entitled to costs under the Revised Statutes, he is entitled to them because the plaintiff claimed in his complaint $1,080 damages, a sum heyond the jurisdiction ot a justice—a justice’s jurisdiction being restricted to cases in which the damages do not exceed $300.
+It is said in Cowan’s Treatise, 2d ed., that where a plaintiff claims damages to an amount exceeding the jurisdiction of the justice, he has no jurisdiction of the cause. It was so held in Yager agt. Hannah, (6 Hill., 631), and that a declaration claiming as damages a sum exceeding the jurisdiction of a justice, was defective.
+In Humphrey agt. Persons, (23 Barb., 313), it was said if not decided, that the Code had changed the law as laid down in Yager agt. Hannah, and that it is now necessary for a defendant to appear when the summons claims damages exceeding the jurisdiction as there are eases in which the jurisdiction is without limitation in certain cases, such as in actions on justices’ judgments and on security bonds.
+All that was intended by the remark. I apprehend, was, that a defetidant cannot safely keep away on the return day notwithstanding the summons may claim damages beyond a justice’s jurisdiction, least the plaintiff declare for a cause of action over which the justices’jurisdiction is unlimited as to the amount.
+It is singular legislation to sa.y the least of it, that makes the jurisdiction of a court depend on the amount a plaintiff may claim, and reward him for making an unfounded claim in certain cases, by giving him costs of the court into which the defendant was forced by reason of the unfounded claim, when the inferior court would have had jurisdiction if the plaintiff had claimed no more than he was entitled to recover.
+A. owes B. $50, on a note of hand, B. sues in the supreme court, and claims $1,000 damages. A justice of the peace has jurisdiction of such an action, when the amount claimed does not exceed $300. The plaintiff sues in the supreme court, and recovers $50, and demands costs, because he made a claim of damages beyond the jurisdiction oí the justice. It would seem that the courts have heretofore sanctioned this injustice, and we are to inquire whether that rule of law is still in force.
+Subdivision 3 of § 304, cited (supra), gives costs, of course, to a plaintiff upon a recovery in actions of which a court of justice' of the peace has no jurisdiction.
+He has jurisdiction of an action on a note or other contract, although the damages claimed may exceed $200, but because of the amount of the claim, he cannot try it. This description of actions are not those to which subdivision 3, of % 304, is intended to apply.
+The court has jurisdiction of such actions, but not of the particular cases. It is sometimes provided in village charters that police justices shall have the same civil jurisdiction as a justice of the peace, but persons living beyond the corporate limits, are excluded from his jurisdiction. The jurisdiction as to the forms of actions is complete, but when it appears, that the defendant resides beyond the boundaries of the corporation, his authority to proceed at once terminates. It could not be said in such a case, that the action was one of which the justice had no jurisdiction, but rather that the defendant was one over whom he neither had nor could acquire jurisdiction, without his consent.
+When actions of which a justice of the peace has no jurisdiction, are spoken of, those only are referred to that are expressly withdrawn from them. They are enumerated in ^ 54 of the Code, and do not embrace an action of trespass on lands, unless when title comes in question.
+This was the construction given to the provisions of the Code, to which reference has been made by the general term of the first district, in Blank agt. Westcott, (7 Abb., N. S., 225), and by the general term of the second district in the-same volume, 433).
+The order of the special term must be affirmed, with $10 costs.
