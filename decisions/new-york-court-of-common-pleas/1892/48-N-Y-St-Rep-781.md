@@ -1,0 +1,24 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1892-11-07"
+citations: ["48 N.Y. St. Rep. 781", "20 N.Y.S. 728"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John G. Crotty, Pl’ff, v. Robert S. Jarvis, Def’t."]
+source_url: "https://static.case.law/ny-st-rep/48/cases/0781-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2089793
+cites_cases: ["17 N. Y. Supp. 949", "42 St. Rep., 956"]
+---
+
+# Crotty v. Jarvis
+
+## Majority (Bischoff, J.)
+
+Bischoff, J.
+The order appealed from directs the receiver to-pay within ten days, out of the assets in his hands, the amount of respondent’s claim, with interest, and our interpretation of it is that it purports to do no more than to audit respondent’s claim as one proper to be paid out of the fund in court.
+Bearing in mind that this is an action brought for the dissolution of a co-partnership and an accounting between the parties, that the co-partnership assets are in custodia curice, the receiver being but the officer of the court, that respondent’s claim is for referee’s fees incurred in this very action,and so part of the expenses necessarily to be incurred in its prosecution and entitled to preference in payment over any amount which may be adjudged due to the parties, or either of them, that its justice was fully determined by judgment recovered in an action against the parties to this action, and that no personal claim is made against the receiver, it is inconceivable to us how the latter is aggrieved by the order appealed from or how he can have any tenable objection thereto.
+We observe that the receiver urges that he has incurred liabilities, with the previous sanction of the court, in excess, or to the full extent at least, of the assets in his hands which are available for the purposes of payment, and that in justice to him, so that he may be thereby relieved from personal obligation, payment of respondent’s claim should be postponed until after the liabilities already incurred have been discharged. If the facts be as represented, they furnish at most ground for withholding enforcement ■of the order appealed from against the receiver personally and may be properly considered in proceedings hereafter to be instituted upon the footing of that order; but to deny the validity of the ■order would in effect be to deprive respondent of his right at any time to resort for payment of his claim to available funds in the receiver’s hands.
+Our conclusion is that appellant’s objection is premature and that the order appealed from should be affirmed, with costs.
+Pryor, J., concurs.
