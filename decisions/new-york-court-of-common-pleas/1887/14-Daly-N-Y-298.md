@@ -1,0 +1,26 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1887-12-05"
+citations: ["14 Daly (N.Y.) 298", "12 N.Y. St. Rep. 663"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marcella F. Crook, as Administratrix etc. of Samuel H. Crook, Jr., Deceased, et al., Respondents, against Samuel H. Crook et al., Appellants."]
+source_url: "https://static.case.law/daly-ny/14/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 915542
+cites_cases: ["24 Hun 642", "24 Hun, 642", "27 Hun 384", "97 N. Y. 610", "97 N. Y., 610"]
+---
+
+# Crook v. Crook
+
+## Majority (Larremore, Ch. J. — [After stating the facts as above.]')
+
+Larremore, Ch. J. — [After stating the facts as above.]'
+— In regard to the service of the judgment, there can be no doubt but that the same was proper and sufficient under subdivision 2 of section 797 of the Code. Mr. Carney occupied offices with Judge Tappen, the defendant’s attorney, which had an entrance in common. The office was open at the time of such service, but the defendant’s attorney was absent therefrom. Mr. Carney, however, was present in such offices, and even if he had not assumed to admit service of such judgment in the name of the defendant’s attorney, I should have no hesitation in holding that he had charge of said office within the meaning of section 797. If, therefore, the service of the judgment and notice of entry thereof was sufficient to limit defendant’s time to appeal, we are powerless to grant any relief on the present application, even if, on the inherent equities of the case, we might be inclined to do so.-
+It seems that the copy of the referee’s report was not served upon the defendant’s attorney personally, and was not served at all at Ms office. In lieu thereof, such service was made upon John L. Hill, Esq., who acted as counsel for said defendant upon the trial. It is asserted on behalf of the said defendant that Mr. Hill was not authorized to receive or accept service of any papers. On the other hand it is alleged by plaintiffs’ attorney that the service of the copy of the referee’s report was made upon Mr. Hill, upon his special request and upon Ms representation that he had power to admit service thereof, m the name of the defendant’s attorney. It is not denied that Mr. Hill did admit service of such report in the name of defendant’s attorney. Upon these facts, and in the absence of any affidavit of Mr. Hill as to what his authority was in the premises, I should deem it necessary to have an inquiry instituted, by reference or otherwise, as to whether or not the counsel for defendant had been authorized to admit due service of the referee’s report in the name of the defendant’s attorney, if the legality or proper form of such service were an essential feature on this application.
+But, under the present provision of the Code, I think the manner of the service of the referee’s report is immaterial, in view of the fact that there is no doubt but that the judgment itself and the notice of entry thereof were duly served. Section 1228 of the Code provides that “where the whole issue is an issue of fact which was tried by a referee, the report stands as a decision of the court. Except where it is otherwise expressly prescribed by law, judgment upon such a report or upon the decision of the court, upon the trial of the whole issue of fact without a jury, may be entered by the clerk, as directed therein, upon filing the decision or report.” It follows from this language that judgment can be regularly entered upon the report of the referee simply upon filing the same with the clerk of the court, and without serving a copy thereof upon the attorney for the opposite party. Under the old Code the rule was different, and provided that judgment might be entered not “ upon filing the decision or report,” but “ after the expiration of four days from the filing of the decision or report, and the service upon the attorney for the advérse party of a copy thereof and notice of the filing, but not before ” (Code Pro. §§ 267-272). The language of the old Code was unmistakable and imperative that a judgment upon the report of a referee could be regularly entered only after the expiration of four days and the service upon the opposite party of a copy thereof. The omission of this language in the present law is equally significant, and shows that the intention of the legislature was to allow judgment to be entered under such circumstances simply upon filing the referee’s report. This having been done, the judgment was regularly entered, and all that the said defendant was entitled to in order to have his time to appeal limited was service of a copy of the judgment and the notice of entry thereof.
+It appears that such judgment and such notice were duly served upon him, and his present prayer is therefore nothing more or less than an application to extend his time to appeal, and this, it is well settled, is beyond the power of a court to grant (Lavalle v. Skelly, 24 Hun 642; Piper v. Van Buren, 27 Hun 384; Durant v. Abendroth, 8 Civ. Pro. 87; Clapp v. Hawley, 97 N. Y. 610).
+The order appealed from should be affirmed, with costs.
+J. F. Daly and Van Hoesen, JJ., concurred.
+Order affirmed, with costs.
