@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-10-23"
+citations: ["40 N.Y. St. Rep. 575"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rebecca E. Whiteman, Pl’ff, v. John Hyland, Imp’ld, Def’t."]
+source_url: "https://static.case.law/ny-st-rep/40/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2065127
+cites_cases: ["36 N. Y., 499", "66 Barb., 119", "90 N. Y., 649"]
+---
+
+# Whiteman v. Hyland
+
+## Majority (Dwight, P. J.)
+
+Dwight, P. J.
+The action was ejectment for the undivided "two-thirds of an acre of land, known as the Ossiah street lot in the village of Dansville in Livingston county.
+The plaintiff claims title as devisee under the will of Reuben "Whiteman who, in January, 1885, took a deed of the undivided "two-thirds from H. Tracey Dorr and Reuben H. W. Dorr, who, in turn, were devisees in common with Robert Gr. Dorr of the lot-in question, together with other lands, under the will of their father, Robert L. Dorr, the common source of title, who died in. 1880.
+The defendant claims title to the whole lot, by redemption in; October, 1885, as a judgment creditor of Robert Gr. Dorr, after a, sheriff’s sale of the latter’s interest in the premises on a prior judgment, in July, 1884.
+It is apparent that the validity of the alleged title of the plaintiff on the one hand, and the extent of the defendant’s title, on the other hand, depends upon the.extent of the title or interest of Robert G. Dorr in the premises, which passed by the sheriff’s-sale of such interest on the first judgment above mentioned. The contention of the plaintiff is that such interest was title to an undivided one-third only in Robert as tenant in common with his brothers ; that of the defendant that it was title to the whole lot. based upon an oral agreement of the three brothers for a partition; of all the lands devised to them by their father.
+It is conceded that the defendant by his redemption took all1 the legal title which Robert had in the premises in July, 1884, and it follows that if such title extended to the whole premises, Reuben Whiteman, the plaintiff’s devisor, took nothing by his-deed from the other two brothers in 1885, and that the plaintiff has no title to support her action.
+The facts upon which the determination of the question thus-propounded depends cannot be regarded as now in dispute. Many of the leading facts are admitted by the pleadings or established by uncontroverted exidence, while all the facts which were-in dispute on the trial must be regarded as found by the trial court in accordance with the view of the evidence most favorable to the plaintiff, for the reason that both parties submitted the decision of the facts to the court, the-defendant by his motion for a nonsuit at the close of the evidence, and the plaintiff by her request for the direction of a verdict, which was granted, and that neither party asked that any question be submitted to the-jury
+This was in effect an agreement to submit all the questions of" fact to the court; and in such case, if there is any evidence to support the decision, it will be sustained. Dillon v. Cockcroft, 90 N. Y., 649; Ormes v. Dauchy, 82 id., 443; Bank of Attica v. Pottier & Stymus Mfg. Co., 17 N. Y. State Rep., 327, 382.
+The principle upon which the defendant relies, viz.: that of a-, paroi partition of lands, requires that the oral agreement between the parties should be “ followed by possession in accordance therewith and the exercise of acts of exclusive ownership.” Wood v.. Fleet, 36 N. Y., 499, and the cases cited. In this case the fact; of an oral agreement between the three sons of Robert L. Dorr, for the partition between themselves of all the lands devised to them in common, is established by uncontroverted evidence ; also-that conveyances in severalty were duly executed to Reuben and Tracy of the lands respectively assigned to them by the agreement ; also that no conveyance of the premises in question was;. executed to Robert. The evidence also tends to show that he never became entitled to such conveyance, by reason of his failure to perform, on his part, the stipulations of the agreement which were required for equality of partition. The evidence also tends to show that there was never any actual change of possession of the premises in question, nor acts of exclusive ownership thereof by Robert, which, in the absence of a conveyance, were necessary to carry into execution the paroi agreement
+These facts being, as we must assume they were, found by the trial court adversely to the defendant, there was, at the best, only an equitable interest in Robert in the undivided two-thirds of the premises, to which the lien of the judgment under which his interest was sold could not attach, and which therefore did not pass-by the sale under that judgment, and was not acquired by the redemption of the defendant. It was therefore permitted to the trial court to hold, and it must be presumed to have held, in support of the direction of a verdict, that by his redemption the defendant took title only to the undivided one-third of the premises; that the legal title to the undivided two-thirds remained in Reuben and Tracy Dorr, and passed to the plaintiff’s testator by the deed of the two last named brothers, subject, it may be, to the equitable interest, if any, of Robert, which interest, however, did not pass to the defendant and can not be interposed by him as an equitable defense to the plaintiff’s action based upon the legal title.
+The right of the plaintiff as a tenant in common to maintain ejectment against her co-tenant is, under the facts shown in .this. case, not subject to question. The defendant was in the actual possession of the whole premises, and he had, in various ways, and especially by his answer to this action, persisted in asserting his. title to the whole premises and his right of possession exclusive; of the plaintiff. This undoubtedly entitled the plaintiff to maintain ejectment for her undivided share. Valentine v. Northrop, 12, Wend, 494; Trustees of the Church and Society of North Greig v. Johnson, 66 Barb., 119.
+Hone of the exceptions taken during the trial are argued by counsel for the defendant.
+We think that the direction of a verdict was justified upon the principles above stated, and that the motion for a new trial must be denied.
+Motion for a new trial denied and judgment ordered for the plaintiff on the verdict
+Macomber and. Lewis, JJ., concur.
