@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-13"
+citations: ["24 N.Y. St. Rep. 345", "1 Silv. Sup. 338"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Probate of the Last Will and Testament of Sarah Gray, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024361
+---
+
+# In re the Probate of the Last Will & Testament of Gray
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+Sarah Gray died in June, 1883, at her residence in Eiverhead, Suffolk county. She executed a will in March, 1882, and a codicil thereto in May, 1882. These instruments were offered for probate and were admitted by the surrogate of Suffolk county. The evidence discloses that the testatrix was a very old woman, over ninety years of age. She had made a will in 1880, and in 1882, at the date of the will in question, this old will was read over, and she said it was just as she wanted the new will so far as she indicated, being the nine first clauses in the old will, and then she gave specific instructions as to the additions to be made. The codicil was prepared from her personal instructions, and both will and codicil were read over to her by the daughter after they were prepared. As to the former execution of the will there is no doubt. The appellants claim that the testator was incapable to make a will, and that it was obtained by fraud, duress and undue influen ce. An examination of the very voluminous case fails to show any real basis for the claim. The testimony of the witnesses to the will, which in point of time is of supreme importance in cases like this, is direct and positive in favor of abundant capacity to make a will. Mr. Stackpole, who drew the will of 1880, was sent for to change that will. The changes were slight, but he directed them to-be made.
+The codicil, likewise, was directed to be drawn by herself, and the changes only affected an executor. A new one was substituted. Mr. Wells, one of the witnesses, had known testatrix about twenty years; both of the witnesses state that she was of sound mind, and Mr. Wells discovered no change in her, except that she was sick. She told Mr. Wells that she owed him a, bill, and she got the money and paid him there. She further told Mr. Wells, when her codicil was drawn, “ that there would be some dissatisfaction, that she had worked hard to get her money together, her property together, and that is just what she wanted to do with it.” The testatrix had about ten thousand dollars in real estate, and left a husband, ¿nd eight children by other husbands. The bulk of the property was given to Henry Webb, one of these children. Neither one of the witnesses to the will knew him, had never seen him, and had received no communication from him. The deceased managed her property, down to the time of her death; she kept a savings bank book; she employed agents, she leased houses, she fixed the rent value, and received it herself. Without going into a particular discussion of the evidence as to capacity as shown by the general conduct, it can be- stated that while there is evidence of a capable testatrix, and one who was mentally unchanged, notwithstanding her great age, there was also proof tending to show that she had become very feeble and helpless, and occasionally wandered in her mind, and did and said things which would indicate incapacity, the evidence of capacity is easily drawn from • all this conflicting testimony. In addition to the general business, habits and acts, there is proof that the, will accords with previously expressed declarations of the testatrix.
+Not long before the will of 1882, she told Mrs. Hamer, just after the death of a daughter, that it was necessary to make a new will; that she intended to give Henry Webb “the most of her property,” and expressed feelings of contrition at her treatment of him while young. That he was ruptured, and she was afraid she had made “him work too hard when he was young.” The testatrix told Mr. Ackerly that she wanted Henry Webb “to have her property,” giving abundant reasons therefor. She substantially made the same statement to Mr. Stackpole, who drew the will of 1880. There is no proof to justify or call for an inference even of undue influence. If it be credited that Henry Webb insisted on a Will in his favor, there is not the slightest evidence that the will was obtained thereby.
+If the witnesses to the will are to be credited, it was an entirely unsolicited and voluntary act of the testatrix, and she was a capable testatix. There is nothing in the case to overthrow the testimony of these witnesses.
+The decree should, therefore, be affirmed, with costs.
+All concur.
