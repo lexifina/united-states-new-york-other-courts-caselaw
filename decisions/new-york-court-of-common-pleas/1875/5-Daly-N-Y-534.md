@@ -1,0 +1,29 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1875-06"
+citations: ["5 Daly (N.Y.) 534"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harmon D. Hull et al. against Virgil L’Eplatinier."]
+source_url: "https://static.case.law/daly-ny/5/cases/0534-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1303839
+---
+
+# Hull v. L'Eplatinier
+
+## Majority (Daly, Chief Justice.)
+
+Daly, Chief Justice.
+The statute confers upon every court of record the power to punish by fine and imprisonment any misconduct by which the rights and remedies of the party in a cause, or matter depending in such court, may be defeated, impaired, impeded, or prejudiced, in all cases where attachments and proceedings for contempts have been usually adopted and practiced in courts of record to protect the rights of any party to a suit (2 Rev. Stat. 534, § 1, subd. 8).
+The act of which Lee was guilty was misconduct of this description, and it is that species of misconduct where attachments in proceedings as for contempts have, in the language of the statute, been usually adopted and practiced in courts of record to protect the rights of a party to a suit (Anon. 1 Strange, 384; Smith v. Bond, 13 Mees. & Wells.)
+Lee, in a suit in which his wife was the plaintiff1, in which judgment had been given against her, and from which she had appealed, knowingly procured a minor to become surety in the undertaking upon the appeal, who, with Lee’s knowledge, made an affidavit, stating that he was a householder, an importer of Swiss goods, at No. 147}- Franklin street; that he was worth over $1,000 above his debts and liabilities, and that his property consisted of imported goods, and of stock in business, and fixtures in trade ; when the fact was that he was not an importer, but a sign painter, at 170 West Broadway ; not a householder, but a minor, living with his father at 147} Franklin street, where they kept house together, hut paid no rent, his father being the agent for the owner of the house, and who received the use of the premises as a part of his compensation as such agent. It also appeared upon the motion that Lee told the father of the minor who became the surety that he, Lee, did not want to give a good bail at the time in the suit, and that nothing could he done to his son, as he was an infant ; and that Lee wanted the father to make an affidavit in contradiction to the one he had made in the proceeding.
+It also appeared, farther, that before the young man became surety that his father told Lee that be was only 19 years of age; to which Loe replied, “That makes no difference; it is only a matter of form ; your son will do.” That when the young man himself went to the lawyer’s office to become bail, he stated when he was born, showing he was only 19 years of age; that the lawyer said, “ That won’t do, Mr. Lee,” and that Lee said to the young man, “ Are you not 24 ? well you could pass for 24,” upon which the young man went with Lee and the lawyer to the court room.
+And as evidence of Lee’s interest in the suit brought in his wife’s name, it appeared by an affidavit that he told the person who made the affidavit that he was doing business in his wife’s name, in order to protect his property from his creditors.
+Upon the appeal, judgment was given against the appellant; an action was brought upon the undertaking, and judgment recovered for $325 94,-the amount recoverable in accordance with the condition of the undertaking, and an execution was issued, which was returned nulla bona. For this misconduct and contempt the judge below, after a full hearing, upon notice to Lee, who appeared with his counsel and opposed the motion, imposed a fine upon him equal to the judgment against the sureties on the undertaking, together with the expenses of the motion or proceeding, and ordered that he be imprisoned until the fine was paid, the imprisonment not to exceed GO days. This, in my opinion, the'judge liad the power to do, and the amount which he imposed was the proper measure of the loss and injury which the defendant may be assumed to have sustained by having this incompetent and worthless surety imposed upon the court and the party by means of a false statement under oath as to the qualifications and sufficiency of the surety; which Lee, to enable his wife to bring an appeal from the judgment rendered against her, was instrumental in bringing about; in accomplishing which, as is evident from what appeared upon the motion, he was the principal and chief agent.
+If the defendant had had what he was entitled to, a rvspon-. sible surety upon the appeal, it would have been a security for the amount of the undertaking. This he lost by the fraudulent acts and misconduct of Lee, and the false swearing of the minor, whom he procured to become a surety, and the amount of the judgment upon the undertaking was therefore a proper measure of the defendant’s loss and injury, it appearing, by the issuing and return of an execution, that nothing could be collected from either of the sureties upon the judgment.
+It does not follow that because the surety might be indicted for perury in the making of such an affidavit, or that Lee might be indicted for what he did, that the court have not the power, under the provision referred to in the Revised Statutes, to punish Lee for his misconduct by imposing upon him a fine sufficient to indemnify the defendant in the action for the loss and injury which Lee was chiefly instrumental in producing.
+The order should be modified, however, by reducing the amount of the fine, by $29 84, as that amount was collected upon the execution issued upon the judgment for the defendant in the suit brought in the name of Mrs. Lee; and in all other respects the order should be affirmed.
+Loew and Larremore, J.j., concurred.
+Ordered accordingly.
