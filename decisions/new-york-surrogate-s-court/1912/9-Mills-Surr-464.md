@@ -1,0 +1,20 @@
+---
+court: "New York Surrogate's Court"
+decided: "1912-10"
+citations: ["9 Mills Surr. 464"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement of the Account of Proceeding of Charles F. Bauerdorf, as Surviving Executor of the Last Will and Testament of Kilian Heintz, Deceased."]
+source_url: "https://static.case.law/mills-surr/9/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1080355
+cites_cases: ["134 N. Y. 220", "21 Abb. N. C. 392"]
+---
+
+# In re the Judicial Settlement of the Account of Proceeding of Bauerdorf
+
+## Majority (Cohalan, S.)
+
+Cohalan, S.
+The term “ issue ” in the third paragraph of "the will is used by the testator in a general and unrestricted sense and all the descendants of each of the sisters and the brother are entitled to share equally in such part of the estate as he or she woiild have become entitled to upon surviving the life beneficiary. Drake v. Drake, 134 N. Y. 220; Soper v. Brown, 136 id. 244; United States Trust Co. v. Tobias, 21 Abb. N. C. 392. Renotice decree for settlement.
