@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-07"
+citations: ["10 N.Y. St. Rep. 326"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alexander Buchanan, App'lt, v. The Rome, Watertown and Ogdensburg R. R. Co., Resp't."]
+source_url: "https://static.case.law/ny-st-rep/10/cases/0326-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 647472
+cites_cases: ["101 N. Y., 396", "103 N. Y., 312", "19 Hun, 216", "84 N. Y., 77", "88 N. Y., 264"]
+---
+
+# Buchanan v. Rome, Watertown & Ogdensburg Railroad
+
+## Majority (Boardman, J.)
+
+Boardman, J.
+This is an appeal from, a judgment of non-suit. The action was for the recovery of damages occasioned by a piece of steel flying from a chisel under a blow of a hammer and destroying one of plaintiff’s eyes. The counsel for the appellant has stated the facts in his brief as favorably to his client as the case will warrant. Assuming such statement to be correct, does it show any negligence on the part of the defendant, or the absence of contributory negligence on the part of the plaintiff, constituting a case which should have been submitted to the jury?
+The defendant was bound to furnish suitable implements and tools for the use of his employees. That was done in the present case presumptively. A portion of such tools, the chisels, became worn and battered up at the head by use •as always occurs. The fact was reported to Bowers, the road master, not that the chisels were dangerous to use. Plaintiff tells Bowers that “these tools need fixing and the chisel heads,” he had complained of them several times before the injury. Bowers tells him to send them to the shop and have them fixed. He sends them with directions to fix the heads, but the employee at the shop only sharpens the points and sends them back, in which condition plaintiff receives and uses them and is hurt.
+How was the defendant in this guilty of negligence? If we suppose for the moment that Bowers was the alter ego of defendant he was not notified that the chisels were dangerous or unfit to be used. The heads were broomed or battered up by use and wanted putting in shape again. The defendant had no notice therefore that the chisels were in an unsafe or dangerous condition. If that were otherwise, what fault attaches to Bowers or defendant. The plaintiff was told to have them fixed as he wanted. His co-employee at the shop overlooked or disregarded the directions and sent the chisels back with their heads untouched. If there was negligence in not making the repairs was it not due to the co-employe at the shop? But we think Bowers was not the alter ego of defendant and that notice to him was not notice to the defendant. In such case the defendant had received no notice of the impaired and defective condition of the chisels and until notice and neglect to repair could not be made liable. Barringer v. Del. and Hud. Canal Co., 19 Hun, 216; McCosker v. L. I. R. R. Co., 84 N. Y., 77.
+Again every employee accepts the service subject to the risks incident thereto. Was not this casualty one of such risks? At what stage of the battering down of the head of a chisel does the railroad company become negligent if advised of the fact? Is the wearing away of machinery and tools any negligence that tends to create a liability in the employer unless they become dangerous to use and notice of that fact is given? In short cannot an accident happen without fault to any one? The manner in which this injury occurred could not have been anticipated and provided against. The separation of a particle of steel or iron under the blow of a hammer may occur, we apprehend, at any time and in any condition of a chisel. It was not therefore one of those dangers, which ordinary prudence and care would undertake to provide against.
+A non-suit seems to us to be more especially justified upon the ground that the plaintiff possessed entire knowledge of the condition of the chisel when he used it. If it was in a dangerous condition and unfit for use, he knew it. The defendant cannot be made responsible, where the employee had perfect knowledge of the defect by which the injury occurred. Marsh v. Chickering, 101 N. Y., 396; Sweeney v. Berlin, etc., Co., id., 520; Powers v. N. Y, L. E. and W. R. R. Co., 98 id., 274; Burke v. Witherbee, id., 562; Bajus v. S. B. and N. Y. R. R. Co., 103 N. Y., 312, 317, 318; 3 N. Y. State Rep., 96; Shaw v. Sheldon, id., 667, 3 N. Y. State Rep., 679; DeForest v. Jewett, Rec’r, 88 N. Y., 264. There is- no evidence that the defendant had any knowledge that the continued use of this chisel or of these tools was dangerous or likely to cause injury to its employees. Where therefore the latter knew of all the dangerous defects, if any, and the defendant had no knowledge of their existence an action for injuries resulting therefrom cannot be sustained.
+The exception to the exclusion of evidence of the condition of the road was not well taken. It did not tend to show negligence in the defendant as to the tools in question, nor want of negligence in plaintiff in making use of such tools. The accident in no respect arose from the condition of the road and would equally have occurred in cutting a rail on any road good or bad.
+The judgment should be affirmed, with costs.
+Follett and Hardest, JJ., concur.
