@@ -1,0 +1,21 @@
+---
+court: "New York Superior Court"
+decided: "1867-07"
+citations: ["7 Rob. 219", "30 N.Y. Super. Ct. 219"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Mayor, &c. of the City of New York, plaintiffs, vs. Emanuel S. Baumberger, defendant."]
+source_url: "https://static.case.law/ny-super-ct/30/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1393249
+cites_cases: ["14 N. Y. Rep. 526", "22 Barb. 414"]
+---
+
+# Mayor v. Baumberger
+
+## Majority (Jones, J.)
+
+Jones, J.
+I believe it to be now. well settled that any private individual who suffers such special damage from a public nuisance as cannot well be compensated in damages, máy have an injunction against the continuance of the nuisance. (Wetmore v. Story, 22 Barb. 414. Davis v. The Mayor, &c. 14 N. Y. Rep. 526.) If, then, the deposit of the mash in question creates a public nuisance, and is especially injurious to the plaintiffs, and it is being deposited through the defendant’s act, the injunction should be retained, unless such deposit is with the express or implied license of the plaintiffs. Any unlawful obstruction that impedes the free use of a navigable river for the purposes of navigation is a public nuisance. The affidavits show that the deposit of the mash impedes the free use of the Hudson river for purposes of navigation, by diminishing the depth of water. The result of which diminution, at present, is that vessels of a size that were accustomed to navigate that part of the river, can no longer do so, and a continuance of such, deposit would gradually diminish the depth of water, so that as it diminished, the size of the vessels capable of navigating that part of the river would diminish, until, perhaps, finally, not even a row boat could navigate it. Such a deposit as this, if made without authority, would be a public nuisance. As the effect of this deposit would be to prevent vessels coming up to the plaintiffs’ wharf, thereby depriving the plaintiffs of dockage and wharfage, it is especially injurious to them, and that injury cannot well be compensated in damages. The affidavits leave no room for doubt that the deposit in question is formed of mash coming from the .defendant’s brewery. ' The fact that the mash is carried to the river through the sewer does not make the deposit any less the act of the defendant. The mode in which he gets it to the river makes no difference. It is immaterial whether he takes it there in carts, or runs it through a branch of the sewer into it, and then through the main sewer itself. If the defendant has no authority to make the deposit, and the plaintiffs have given him no license, this injunction must be retained. The defendant does not claim so to carry off such refuse under authority from the state, nor” any authority or license from the city, other than such as can be implied from the construction of the sewer, and the license given to him to connect by a branch with it. He claims this gives him a right to use the sewer for all purposes for which it can be properly and legitimately used. And if the plaintiffs have s<p constructed it, that such use results in damage to them, it is damnum absque injuria. The first part of the claim is undoubtedly correct; upon the last part it is unnecessary to express an opinion, for I have come to the conclusion that the use the defendant is making of the sewer is not proper or legitimate. Sewers are constructed for the purposes of drainage, and to carry off dirty water, filth and refuse matter. (Webster’s Dictionary.) And such r'efuse matter must be such as is readily soluble by the ordinary action of the water remaining in the sewer. The mash in question is neither filth nor refuse water; it possesses value; other brewers make it a source of profit; they sell it, and their vendees have no difficulty in removing it without the aid of a sewer. Whatever other purposes a sewer may be intended to sub-serve, that of carrying off as useless and refuse stuff, an article, the sale of which is a source of profit, and which is usually sold and carried away to be made use of, cannot be one.
+Injunction sustained, with $10 costs.
