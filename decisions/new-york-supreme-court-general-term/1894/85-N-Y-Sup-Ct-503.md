@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["85 N.Y. Sup. Ct. 503"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, Haight and Beadket, J\"L, concurred."]
+parties: ["Frederick R. Justum, Appellant, v. The Bricklayers, Plasterers and Stonemasons’ Union of the City of Rochester and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4720281
+cites_cases: ["28 N. Y. St. Repr. 891"]
+---
+
+# Justum v. Bricklayers, Plasterers & Stonemasons' Union
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+Tlie plaintiff claims damages for a wrong done him ■ by the defendants, which had the effect to cause contractors and employers in his trade and calling to refuse to employ him, and thus rendered him unable to obtain employment, and deprived him of his means of earning a livelihood.
+The order appealed from requires the plaintiff, by a bill of particulars, to specify the names and addresses of the contractors and employers who have thus been influenced to refuse him employment.
+The requirement seems to be very reasonable and one to which no objection can be made on the merits. It is no answer to it to say that the defendants have already answered in the action and denied all the allegations of which the particulars are sought. Of course, if the defendants are innocent of any wrong of the character charged against them, they know their innocence and can assert it; but they cannot, for that reason, know what particular acts of wrong or items of damage the plaintiff will attempt to prove, and of these particulars they have a right to be informed. They are not, necessarily, Seeking to discover what the plaintiff’s evidence is to be, but what matters the plaintiff will attempt to prove. The case seems to be strictly within the doctrine of Post-Express Printing Co. v. Adams (28 N. Y. St. Repr. 891); Childs v. Tuttle (17 id. 943) and Williams v. Folsom (37 id. 635), in which bills of particulars were allowed in cases very similar to the present.
+The only objection which seems to call for discussion is that on the ground of laches. The fact that the motion was deferred until after answer served, is not, necessarily, an objection. The defendants may, and if their answer is true must, have had knowledge of their entire innocence of the charge made against them, and thus have been able to answer by a general denial, when, without particular specifications of the charge, .they may have been wholly unable to prepare for trial. The question for a defendant, in such case, is not what is the truth of -the case, but what is the untruth which the defendant will attempt to establish? The delay in making the motion is, in a measure, certainty, accounted for by the pendency of negotiations for an adjustment of differences between the parties. That is a good reason, as far as it goes, for a suspension of hostilities ; and, for the rest, the suggestion of the learned judge at the Special Term is probably a sufficient answer, viz., that, so far as appears, the plaintiff can as easily furnish the particulars asked for now as he could have done at any earlier stage of the action.
+We think the order is right and should be affirmed.
+Lewis, Haight and Beadket, J"L, concurred.
+Order appealed from affirmed, with ten dollars costs and disbursements.
