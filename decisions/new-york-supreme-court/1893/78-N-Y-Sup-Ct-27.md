@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1893-07"
+citations: ["78 N.Y. Sup. Ct. 27"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt, J., concurred."]
+parties: ["In the Matter of the Probate of the Alleged Will of Adeline D. Bernsee, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/78/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8592401
+cites_cases: ["113 N. Y. 62", "95 N. Y. 329", "95 N. Y. 516"]
+---
+
+# In re the Probate of the Alleged Will of Bernsee
+
+## Majority (Barnard, P. J.:)
+
+Barnard, P. J.:
+The will was fully proven by the subscribing witnesses to it. It was executed the 24th of October, 1890. One witness, .Black, testifies that it was signed by the testatrix in his presence and in the presence of the witness Bellows, and that at the time she declared the instrument to be her last will and testament and requested the witnesses to attest it as such. The witness Bellows makes no real issue with him. He signed his name as a witness. He was asked by Mr. Bernsee if he was willing to sign his mother’s will. He looked at his mother and said, “ Is that your will ? ” holding the paper in his hands. The testatrix nodded her assent. Bellows then requested the witness Black to sign first, which he did, and then Bellows signed. Bellows testifies that he didn’t see the testatrix sign her name to the will. It makes no difference whether the name of the testatrix was signed before she went to Bellows’ office. What transpired is sufficient to prove the acknowledgment of her signature to the will, if not signed in the witnesses’ presence. This is on the assumption that a real issue is made as to the signature being in Bellows’ presence. The testimony shows the fact to be ■otherwise. The testatrix’s name is on the will. The attestation clause is full. Bellows does not remember to have seen it. He “took it for granted that everything was right.” lie knew he was attesting as a witness that the paper “ was her will” and to give the paper effect and validity. The testatrix was nervous but of sound mind. She knew what the instrument was. “ If she had not (testifies this witness) I would not have signed it.” She appeared to be under no restraint and was willing to execute the will. The will was arranged that the testatrix’s name must have been seen when this witness signed it, and the purport of the testimony of the witness is that he does not remember to have-seen it. If that was a material fact, his testimony would be wholly insufficient to overcome the facts and circumstances. The execution was made under legal direction. The attestation clause is perfect-in form and the witnesses both signed it. The parties met to have a will executed. The witness Bellows knew that it was a will from her declaration and asked if she, testatrix, had left him anything by it. The will was, therefore, fully proven under Matter of Cottrell (95 N. Y. 329); Lane v. Lane (Id. 494); Matter of Hunt (110 id. 278). Under these cases a finding against the execution of the. will could not be upheld. The positive oath of one witness, with the surrounding facts and circumstances, would prevail, as against, the failure of memory of the other witness. There is no proof whatever of undue influence in the legal sense of that term. It will not be presumed. It will not be established by irregularity; nor from the fact that the beneficiary stood in a confidential relation to the testatrix. (Matter of Smith, 95 N. Y. 516.) There is proof that the will was voluntary and perhaps excusing the inequality in this will.
+A short time before the will was made, the testatrix lived with on& of her daughters, Mrs. Collin. A son, Frederick Bernsee, also lived there. A quarrel arose between mother and daughter, on account of the daughter directing this son to leave the house. The mother-said she would go with him, and she did go. There was a dispute-over a bed and bedding, which her daughters claimed. Mrs. Dono-hue, another daughter, on this same occasion, compelled the mother to open her trunk, and made her take out therefrom some blankets, and compelled the mother to go before a police officer, and then produced a bill of sale from her, for a nominal consideration, to Mrs.. Collin. The testatrix had forgotten the bill of sale, but was greatly incensed at what she supposed to be insulting to her. All friendly relations ceased between mother and daughters, and this will was. made as the mother wished to make it. The question as to the admissibility of the testimony of one of the beneficiaries, Christopher Bernsee, who was present at the execution of the will, is, under-the view I take of the case, immaterial. If improperly admitted,, no ground of reversal would be furnished. (Code, § 2544; Matter of Eysaman, 113 N. Y. 62; Matter of Smith, 95 id. 516.)
+If the will was proven without his testimony, the judgment would not be reversed.
+The judgment and order denying new trial should be affirmed, with costs.
+Pratt, J., concurred.
+Judgment and order denying new trial affirmed, with costs.
