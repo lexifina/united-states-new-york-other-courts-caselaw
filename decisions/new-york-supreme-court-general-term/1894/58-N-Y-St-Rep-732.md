@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-02-12"
+citations: ["58 N.Y. St. Rep. 732"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Will of Alexander F. Wilson, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/58/cases/0732-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 705219
+cites_cases: ["1 Tuck. 132", "19 St. Rep. 245", "20 N. Y. Supp. 123", "22 St. Rep. 896", "27 N. Y. Supp. 961", "5 N. Y. Supp. 270"]
+---
+
+# In re the Will of Wilson
+
+## Majority (Cullen, J.)
+
+Cullen, J.
+This is an appeal from a decree of the surrogate of Westchester county, refusing to admit the will to probate. The will was subscribed by the testator’s mark in the presence of the two attesting witnesses. The attestation clause is full and complete. One of the witnesses has died. The other testified to the proper publication of the will, and that he saw the testator sign his mark thereto. The surrogate refused probate on the ground that the making of the mark by the testator must be proved by another and additional witness, following his own previous ruling In re Reynolds' Will, 4 Dem. Sur. 68. We think that that decision does not rest on sound principle. Section 2620 of the Code permits, in case of the death of a subscribing witness, the will to be proved by proof of the handwriting of the testator and that of the deceased witness.1 In re Walsh, 1 Tuck. 132, it was held that a mark was not handwriting, within this provision, because it has no characteristics, and that therefore the will of a marksman could not be admitted to probate except on the testimony of the two subscribing witnesses. This rule has not been followed in any reported case. The next case was In re Reynolds, already cited. Subsequently, In re Dockstader, 6 Dem. Sur. 106 ; 19 St. Rep. 245, the rule in the Reynolds Case was not followed, but the will was admitted to probate on the testimony of a single subscribing witness that he saw the testator make his mark, the other witness being deceased. In re Phelps, 5 N. Y. Supp. 270; 22 St. Rep. 896, the surrogate of New York adhered to the rule of the Reynolds Case, but subsequently, In re Hyland, 27 N. Y. Supp. 961; 58 St. Rep. , the same judge reversed.his previous ruling. In re Kane, 20 N. Y. Supp. 123, the surrogate of Eockland follows the ruling in the Hyland and Dockstader Cases. The current of authority and custom is, therefore, against the decision made by the court below. If a mark be handwriting, and the subject of proof at all within this provision of the Code, it may be proved as well by one witness as by more, if the witness commands eredence ; and one disinterested witness is as competent as another to prove the fact. The only objection to the sufficiency of proof by a single surviving attesting witness is that in every case the statute requires the testator to either sign in the witness’ presence or acknowledge his signature, and to prove the will the witness must testify to either one or the other of such requisites, either of which would be proof of the handwriting of the deceased: that hence, when the statute prescribes that proof must be made of the handwriting of the testator, some further evidence, or evidence of further witnesses, is required. If the section cited referred only to cases where some attesting witness survived or could be produced, there would be great force in this objection ; but the provison of the Code is general, and applies to cases where the testimony of no attesting witness can be obtained. We think that we are not warranted in limiting the provisions of this section to proof of handwriting by others than the attesting witnesses. It is possible to imagine cases where this construction would perhaps render fraud more easy, but such a danger is more imaginary than real. On the other hand, to uphold the rule laid down by the surrogate will cause many properly executed wills to fail without any fault or neglect on the testator's part. The current of practice and authority being against that rule, we think that it should not be upheld. The decree appealed from should be reversed, and a decree entered admitting the will to probate.
+All concur.
