@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-28"
+citations: ["25 N.Y. St. Rep. 344", "2 Silv. Sup. 513"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Josiah M. Favill, Resp’t, v. C. Lawrence Perkins, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/25/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657572
+---
+
+# Favill v. Perkins
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The order setting aside the verdict of the jury ought_ to be affirmed on two grounds. Evidence was given tending to show an absolute contract to convey certain freight at a certain price. The contract was made by the shipping clerk of the defendant. It was finally reduced to writing and signed by the plaintiff. The defendant was permitted to prove that he told his clerk when the contract was shown to him to get an extension of time to deliver the freight until the 3d of September, 1887, the contract calling for a delivery in August, 1887, “ If the vessel should arrive here, so that we could deliver the rails to him by September 3.” There was no proof that the clerk ever reported the instructions to the plaintiff. It was not inserted in the paper, and the paper was without this condition being entered in it. The clerk was sent to make this contract, and he made it for the principals. An instruction given to him to make it conditional never commu ■. nicated to the plaintiff and never agreed to by him was improperly received. The verdict was so entirely against the evidence as to call upon the court to set it aside. The agreement is in its terms absolute. It was not performed by the defendant. The plaintiff was damaged. There was not the slightest proof -that the agreement was in fact subject to a condition. There is proof tending to show that a breach of the contract by the defendant was occasioned by the fall in freight. The owners of the iron, by their manager, instructed the defendant that the contract was an option, and that as the iron did not arrive in time to deliver it to the plaintiff by the third of September, the option had expired, and he proposed to take advantage of the lower rate, except that he would allow the plaintiff five cents per pound higher than the market rate. If there was no condition, there was no option, and the reason assigned was only a pretense to break the contract.
+The order setting aside the verdict should therefore be affirmed, with costs of the appeal.
+Pratt, J., concurs._
