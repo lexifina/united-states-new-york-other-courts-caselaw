@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-12-10"
+citations: ["21 N.Y. St. Rep. 961"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James White, Resp’t, v. Andrew Mowbray, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0961-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2018034
+---
+
+# White v. Mowbray
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is an action for deceit in the sale of a. horse.
+The defendant sold to the plaintiff a horse which was-suffering from a complication of ailments and which died in eight or ten days after the sale.
+According to the testimony on the part of the plaintiff the horse exhibited some signs of disease and unsoundness, by a discharge from the nostrils and an enlargement on one of its legs, which excited the apprehension of the plaintiff at the time of the purchase. Such manifestations were accounted for by the defendant, who made statements for that purpose well calculated to suppress the material facts and allay the fears of the plaintiff, and induce him to-believe the symptoms to be merely transient and the result, of temporary difficulties only which would soon disappear.
+The defendant, in his testimony, denied all such efforts and swore positively that he made no representations respecting the age or condition of the horse, and the witnesses introduced by him corroborated his evidence.' So-the case was made for the jury. The testimony was contradictory and irreconcilable, and the jury found á verdict for the plaintiff for the amount paid for the horse and the; expenses incurred in endeavoring to effect his cure. ¡
+If the testimony on the part of the defendant had received credit from the jury, the verdict for the plaintiff could not have been reached and we must, therefore assume for the. purposes of this appeal that the testimony on the-part of the plaintiff commanded and received the belief of' the jury, and with such assumption the verdict has ample-support from the evidence.
+The horse was afflicted with ring-bone and spavin which must both have existed for about six months, and a knowledge of their existence on the part of the defendant might have been presumed by the jury from all the surrounding facts, and circumstances without any violent presumption.' Such an inference seems very natural. Both the enlargement and the discharges were plainly visible and the defendant was a dealer in horses. Yet with such knowledge the defendant would have incurred no liability upon the sale had he remained silent. The leading maxim of our law in. relation to the contract of sale is “ Caveat emptor,” which imposes care and responsibility upon the buyer, and where there is neither fraud nor warrantee upon an executed contract of sale, the buyer assumes the risk of the quality and condition of the article sold.
+But the maxim, “ Caveat emptor,” can be made available only to a vendor who is free from fault. If he used any artifice to mislead the buyer or quiet his suspicions, or allay his apprehensions or arrest his inquiry or investigation he thereby places himself beyond the protection of the maxtm and becomes liable for deceit and fraud.
+Such and so grew the liability of the defendant in this action. He might have reposed in security upon the protection afforded him by the law and bestowed upon the plaintiff the charity of his silence but he did not. His replies to the inquiries of the plaintiff respecting the enlargement of the legs of the horse, and the discharge from his nostrils were well calculated to mislead and deceive the plaintiff, and the jury may well have deduced a fraudulent design in their utterance, and the verdict rendered makes the inference easy that such deduction was made.
+Our examination, therefore, leads us to a conclusion in favor of the verdict and we think also the measure of damages adopted was proper. The wrong perpetrated by the defendant was characterized by fraud and deceit, and the plaintiff was entitled to recover all the damages resulting from such wrong.
+The judgment and order appealed from should be affirmed, with costs.
+All concur.
