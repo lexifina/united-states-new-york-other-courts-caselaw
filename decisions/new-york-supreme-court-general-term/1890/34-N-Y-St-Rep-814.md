@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-12-06"
+citations: ["34 N.Y. St. Rep. 814"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Simeon Hill, App’lt, v. William McDonald, as Trustee, et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0814-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2047372
+cites_cases: ["71 N. Y., 92"]
+---
+
+# Hill v. McDonald
+
+## Majority (Martin, J.)
+
+Martin, J.
+This action cannot be regarded as a judgment creditor’s action, as the plaintiff was not a judgment creditor. The purpose of the action was to recover the plaintiff’s claim against the trust estate in the hands of the defendant McDonald. The trust was originally created by deeds from John I. Birdsall and his wife to the defendant McDonald and another as trustees. One of the purposes of the trust was to pay all the just debts of the defendant Birdsall. The defendant McDonald and liis co-trustee duly qualified and acted until relieved by the supreme court. In April, 1868, they were relieved from the trust and F. B. Gilbert and John Bell were appointed as trustees in their place. Gilbert and Bell acted until November 2,1874, when Bell was relieved and Gilbert was appointed sole trustee. In November, 1881, Gilbert was relieved from the trust and the defendant McDonald was again appointed as trustee in his place.
+When the trust deeds were given, John I. Birdsall was justly indebted to the plaintiff’s assignor in the sum of twenty-five dollars, for which Birdsall gave his promissory note, which became due in Apiil, 1868. This note was transferred by the payee to E. L. Gustin before its maturity. On September 25,1873, Birdsall gave a new note for this debt, and another renewal note was given by him in November, 1879.
+After the first note became due, and as early as the month of December, 1868, the then holder presented it to the trustees for payment, and payment was refused. It was again presented in 1875 and payment demanded, which was again refused. In October, 1880, the then trustee requested the holder of the note to ■send it to his counsel for allowance. This was done, but the note was disallowed by the trustee, and has never been paid. The note with all his equities and claim against the trust estate were assigned by the holder to the plaintiff on January 3, 1883. At the time of the trial the debt and interest amounted to $66.49. This action was commenced in May, 1883. The trial court held that the plaintiff’s claim against the trustees of this estate was barred by the statute of limitations. The correctness of that determination presents the only question involved in this case.
+When this action was commenced more than fifteen years had elapsed since the plaintiff’s debt became due, and nearly that time had elapsed since it was presented and rejected by the trustees of this estate. It was, therefore, barred by the statute of limitations, if the statute is operative as to such a claim. The plaintiff contends that an express trust was created between the trustees and the creditors of the defendant Birdsall, and that the statute of limitations has no application to such a case.
+If we assume that a direct, positive and technical trust, such as belongs exclusively to the jurisdiction of a' court of equity, existed in favor of the plaintiff’s assignor, the question is whether ■the rule invoked applies to this case. The rule which exempts such a trust from the bar of the statute is subject to two qualifications that seem to be as well established as the rule i tself. These qualifications are, first, that no circumstances exist to raise a presumption from lapse of time of an extinguishment of the trust; and, second, that no open denial or repudiation of the trust is brought home to the knowledge of the cestui que trust which requires him to act as upon an asserted adverse title.
+As we have already seen, the plaintiff's claim was positively rejected and payment denied by the trustees. This action upon the part of the trustees must, we think, be regarded as an open and positive denial or repudiation of the trust as to the plaintiff’s assignor and the debt which the plaintiff now seeks to enforce. It was brought home to the knowledge of the assignor in a manner which called upon him to assert his rights. We think this case comes within the second qualification of the rule stated, that the-statute, commenced to run against the plaintiff’s debt from the time when payment was refused by the trustees, and that the court properly held that this claim was barred by the statute of limitations.
+We find no merit in the claim that this action was on a sealed instrument. Loder v. Hatfield, 71 N. Y., 92. Nor can we find anything in the case to justify the conclusion that the refusal to pay the debt had been waived or that the defendant was estopped from insisting upon the statute as a bar by reason of the request of the trustee to the holder of this note to send it to the counsel to-be presented on an accounting had by such trustee. We are of the opinion that the case was properly disposed of by the special term, and that this appeal should not prevail.
+Judgment affirmed, with costs.
+Hardin, P. J., and Merwin, J., concur.
