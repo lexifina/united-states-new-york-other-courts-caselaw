@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1857-03"
+decided_precision: "month"
+citations: ["4 Abb. Pr. 282"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAQUES a. ARESON."]
+source_url: "https://static.case.law/abb-pr/4/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2371735
+---
+
+# Jaques v. Areson
+
+## Majority (By the Court—Birdseye, J.)
+
+By the Court—Birdseye, J.
+—Upon the complaint in this action, which was duly verified, an injunction was obtained. The defendants put in answers duly verified, and moved thereon to dissolve the injunction. On the motion, plaintiffs offered, and were allowed, to read affidavits in support of the complaint, the defendants objecting. The only question presented on the appeal is, whether they were properly so read.
+There has been no little contrariety of opinion upon this point. It was early held, by Edwards, J., in Servoss v. Stannard (2 C. R., 56), that the plaintiff could not in such a case read affidavits to contradict the answer; and in Hartwell v. Kingsley (2 Sandf S. C.R., 674, and note), that position is stated to have been approved by all of the judges of the Superior Court of Hew York city. In the Merrimac Manufacturing Company v. Garner (2 Abbotts’ Pr. R., 318, 322), in the Hew York Common Pleas, Woodruff, J., held, at special term, that the plaintiff in such a case could not read affidavits to support the allegations in the complaint. The learned judge declined to express any opinion whether in a case in which the defence rests upon new matter set up in the answer in avoidance of the facts charged in the complaint, but admitting the charges to be true, the answer may be regarded as itself an affidavit of such new matter, so as to let in opposing affidavits on the part of the plaintiffs. The general term gave no opinion upon this question, placing their decision upon a different point.
+The case of Benson v. Fash (1 C. R., 50) was decided with reference to pleadings verified merely on belief , according to section 133 of the Code as originally enacted.
+In Krom v. Hogan (4 How. Pr. R., 225), it was held by Parker, J., that affidavits could be read by the plaintiff in a case like the present. The same ruling was made in Schoonmaher v. The Reformed Protestant Dutch Church of Kingston (5 Ib., 265, 268), and in Hascall v. Madison University (1 C. R., N. S., 170), and more recently in Hollins v. Mallard (10 How. Pr. R., 540). Although this point was not directly involved, I think the same conclusion will follow from the cases of Benson v. Fash (1 C. R., 50), Roome v. Webb (1 C. R., 114; S. C., 3 How. Pr. R., 327), Minor v. Terry (6 How. Pr. R., 211) : all of which hold that a pleading verified in the manner required by section 157 of the present Code, is, within the meaning of the Code, an affidavit, and to he used as such in moving for the injunction or to dissolve it. The opposite views taken of this point in Millikin v. Cary (5 How. Pr. R., 272 ; S. C. 3 C. R., 250), are, I think, long since and generally abandoned. (See 1 C. R., 170, and 6 How. Pr. R., 210.)
+It would seem, therefore, that the weight of authority was decidedly in favor of the position taken by the judge at special term, in allowing the plaintiffs’ opposing affidavits to be read on the motion.
+But, upon principle, I think the conclusion right. By section 225 of the Code, applications to vacate injunctions are divided into two classes. The first class includes applications founded on the insufficiency of the case made by the plaintiff. In such instances, the motion to vacate may be made upon the complaint and the affidavits on which the injunction was granted. These are all that can be needed to present for decision the question of the sufficiency or insufficiency of the plaintiff’s case. The other class of these applications is where the defendant moves upon a state of facts different from that which the plaintiff has stated. These facts must be shown upon affidavits. This class of motions is, therefore, to be made “ upon affidavits on the part of the defendant.” He may or may not read his answer, at his election. By section 226 :—“ If the application be made upon affidavits on the part of the defendant, but not otherwise, the plaintiff may oppose the same by affidavits or other proofs in addition to those on which the injunction was granted.” It has been truly said that this provision is not very clearly expressed (6 How. Pr. R., 68). But it seems to me that the meaning of the section, taken in connection with the previous one, is, that whenever the motion is not founded on the insufficiency of the plaintiff’s own case; or in other words, if the motion falls within the second class above mentioned; and is founded on a different state of facts alleged by the defendant, the plaintiff may rebut the proofs of the defendant by reading affidavits and other proofs in addition to those on which the injunction was granted. These views are well expressed in Schoonmaker v. The Reformed Protestant Dutch Church in Kingston, and Hollins v. Mallard (supra), and are confirmed by the cases of Krom v. Hogan, Hascall v. The Madison University, Benson v. Fash, and Roome v. Webb (supra).
+The order appealed from should be affirmed with costs.
+Present S. B. Strong, Birdseye, and Emott, JJ.
