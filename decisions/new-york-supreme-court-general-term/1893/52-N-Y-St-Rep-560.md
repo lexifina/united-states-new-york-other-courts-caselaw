@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1893-04-14"
-citations: ["52 N.Y. St. Rep. 560", "52 N.Y. St. Rep. 559"]
+citations: ["52 N.Y. St. Rep. 560"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Henry A. Gildersleeve, Resp't, v. G. H. Lester Impl'd, App'lt."]
 source_url: "https://static.case.law/ny-st-rep/52/cases/0560-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 682442
-cites_cases: ["134 N. Y., 269", "16 St. Rep., 255", "36 Hun, 378", "48 Hun, 586", "48 St Rep., 166", "63 N. Y., 252", "77 N. Y., 423", "95 N. Y., 486"]
+cites_cases: ["16 St. Rep., 255", "36 Hun, 378", "48 Hun, 586", "63 N. Y., 252", "77 N. Y., 423", "95 N. Y., 486"]
 ---
 
 # Gildersleeve v. Lester
