@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-11"
+citations: ["49 N.Y. Sup. Ct. 225"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bookes, J., concurred."]
+parties: ["WALTER S. CHURCH, Appellant, v. DE WITT C. SCHOONMAKER, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/49/cases/0225-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4536082
+cites_cases: ["39 Barb., 513", "53 N. Y., 293", "79 N. Y., 390", "94 N. Y., 309"]
+---
+
+# Church v. Schoonmaker
+
+## Majority (Landon, J. :)
+
+Landon, J. :
+In 1795, Stephen Yan Renselaer leased to Jacob Post a lot of four acres for the term of sixteen years at six pounds rent per annum. Post took possession under the lease. Paul Settle afterwards came into possession, and in 1851 conveyed the premises to his -son Edward, who paid up the arrears of rent in full to January, 1860. On the 26th of March, I860, Edward Settle, by quit-claim deed, conveyed the premises to John J. Becker, the deed reciting: “ Subject to the rents and covenants and conditions reserved in the original lease to Jacob Post.” Becker conveyed, March 29, 1861, a parcel of said premises to the defendant Schoonmaker, by warranty deed, without any mention of rent or of the Post lease, and Schoonmaker has since been in possession, the defendant G-allup also occupying with him at the time this action was commenced. No rent has ever been paid by Schoonmaker, and none demanded of him before February 24, 1883, the date of 'the commencement of this action. On the 5th of July, 1883, Becker, defendant’s grantor, paid to the plaintiff the rent in arrear upon the whole four acres, but without the knowledge or consent of the defendant. The plaintiff, by deed, acquired the interest of the Yan Rensselaers in the premises February 1, 1882. 'When the plaintiff obtained the deed from the Yan Rensselaers, Schoonmaker had held the premises upwards of twenty years under his warranty deed from Becker. Becker at the time he gave the warranty deed to Schoonmaker was the tenant of the Van Rensselaers. The term of sixteen years, expressed in the Post lease, had expired long before, and Becker’s tenancy was from year to year. Becker could convey no better title than he held; he, therefore, conveyed to Schoonmaker a tenancy from year to year. ( Whiting v. Edmunds, 94 N. Y., 309.) The possession of Schoonmaker was the possession of the Van Rensselaers until Schoonmaker’s tenancy expired. (Code Civil Pro., § 373.)
+The relation of landlord and tenant existed. But there had been no written lease between these parties or their grantors, since it could not be said that the Post lease, the term of which had long since expired, was the existing lease; the law made a lease after the expiration of the Post lease and referred to that lease for the conditions and yearly rents, if no other had been fixed; but other rate of rent had been fixed between Becker and the Van Rensselaers.
+By section 373, Code of Civil Procedure, the tenancy between the Van Rensselaers and the occupant continued “until the expiration of twenty years after the last payment of rent, notwithstanding that the tenant has acquired another title, or claimed to hold adversely.” The last rent was paid, so far as Schoonmaker is affected, to January, 1860. The landlord, therefore, was constructively in possession until January, 1880. At that date Schoonmaker’s holding commenced to be adverse. The adverse possession, therefore, had not continued long enough to bar this action (Code Civil Pro., § 368), if the Van Rensselaers had brought it. But the reasons given make the deed to the plaintiff of February 1,1882, void for champerty. The statute provides that a deed shall be void if when delivered the lands are in the actual possession of a person claiming “ under a title adverse to that of the grantor.” Schoonmaker had title to the land from Becker, but, as we have seen, that title, up to January, 1880, was constructively the title of a tenant, and he could not start an adverse possession under it until January 1, 1880. He then had a title, not good against the Van Rensselaers’ action of ejectment, but adverse to the Van Rensselaers; adverse, first, because it did not in fact recognize the Van Rensselaers’ title, but was of the entire fee, and hence inconsistent with it (Sands v. Hughes, 53 N. Y., 293), and, second, because, by twenty years’ non-payment of rent, the law did not longer attach any relation of landlord and tenant to it. It is true that Schoon maker’s title was not superior to the Yan Rensselaers’ title, but it had become hostile or adverse to it, and was a title, not a mere claim of titje. (Dawley v. Brown, 79 N. Y., 390; Fish v. Fish, 39 Barb., 513.) The Yan Rensselaers could only show paramount title by evidence extrinsic to the two titles, and the policy of the champerty act is, as said in Sands v. Hughes, to prevent the party out of possession from transferring his right to litigate that question.
+The defendant was not a party to the payment of rent by Becker, in 1883, and had no knowledge of it. The appellant insists that this finding is not supported by the evidence. But Schoonmaker had reason to suppose that there was no rent reserved, and Becker had reason to pay without the knowledge of Schoonmaker. Becker certainly could not, after he had assumed to convey full title, without the knowledge of his grantee, do any act to the prejudice of the title he had given. Either the landlord or tenant must suffer from the act of Becker, and it would seem that the negligence of the landlord was greater than that of the tenant, since the landlord knew and the defendant did not, that rent was due, and the landlord was put upon inquiry by the long occupation of Schoonmaker, as to his claim to occupy.
+The plaintiff suggests that he should be permitted to amend by substituting his grantors as plaintiffs. (Code Civil Pro., § 1501.) If the statute of limitations had barred his action in the name of his grantors this suggestion would have more force.
+Judgment affirmed, with costs.
+Bookes, J., concurred.
+
+## Concurrence (Learned, P. J.:)
+
+Learned, P. J.:
+I concur in the result, but am not willing to say that an action could be successfully maintained against the defendants by the Yan Rensselaers.
+Judgment affirmed, with costs.
