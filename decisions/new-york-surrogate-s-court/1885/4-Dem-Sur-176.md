@@ -1,0 +1,35 @@
+---
+court: "New York Surrogate's Court"
+decided: "1885-12"
+citations: ["4 Dem. Sur. 176"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Salomon v. Heichel. In the matter of the estate of Theodore Heichel, deceased."]
+source_url: "https://static.case.law/dem-sur/4/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1140812
+cites_cases: ["1 Den., 159", "2 Barb. Ch., 414", "3 Lans., 26", "47 Barb., 413", "98 N. Y., 342"]
+---
+
+# Salomon v. Heichel
+
+## Majority (The Surrogate. The Surrogate.)
+
+The Surrogate.
+Counsel for a creditor of this decedent objects to the inventory lately filed by the administratrix, upon the ground that the appraisement of the assets of decedent’s estate was made without the previous posting of notice required by E. S., part 2, ch. 6, tit. 3, § 3 (3 Banks, 7th ed., 2294). If such posting may be dispensed with, without impairing the validity of the inventory, why may not also the giving notice to the next of kin or the taking of an oath by the appraisers, and any and all other requirements of the statute ? The appraisement is invalid (Estate of Scofield, N. Y. Daily Reg., June 6th, 1879). This settles, so far as this court is concerned, the controversy between the administratrix and appraisers in respect to fees, for it is manifest that the estate must not be saddled with the expenses of an invalid appraisement.
+The administratrix should begin anew, and should take heed that she complies with the directions of the statute. Let a re-appraisement be had within ten days from date of service, upon the administratrix, of the order to be entered upon this decision, and after such new appraisement, let the inventory be amended as may become necessary.
+Subsequently, the same creditor applied to the court, under Code Civ.- Pro., § 2717, for a decree directing the administratrix to pay his judgment; ■whereupon the following opinion was filed, December 19 th, 1885-:
+The Surrogate.
+The petitioner herein recovered a judgment against this decedent in his lifetime, and now asks for an order directing that such judgment be paid by decedent’s administratrix. He alleges that he presented his claim, properly verified, in December, 1884, and that " said administratrix has neither disputed nor rejected ” the same.
+The respondent has filed an answer whereby—
+1. She denies the petitioner’s last named allegation, and declares that, on December 12th, 1884, “ she formally and expressly rejected ” the petitioner’s claim;
+2. She insists that the petitioner has lost his right to maintain any remedy to enforce payment of such claim, by failing, for six months after the same was rejected, to commence an action for its recovery; and
+8. She denies that she has in her possession belonging to the estate any money or property applicable to the payment of petitioner’s demand, or any money or property whatever.
+First. Even if the averment of the administratrix as-to the rejection of the claim here in question were undisputed, the mere fact of such rejection would not deprive the Surrogate of authority to direct payment of the petitioner’s judgment. To oust this court of jurisdiction in the premises, it is necessary, under Code Civ. Pro., § 2718, subd. 1, that the administratrix should interpose an answer, “ setting forth facts which show that it is doubtful whether the petitioner’s claim is valid and legal, and denying its validity or legality.” As the claim is in the form of a judgment, the facts alleged in attacking it must be such as would operate as a defense to such judgment, or to an avoidance of the same (Kidd v. Chapman, 2 Barb. Ch., 414 ; Lambert v. Craft, 98 N. Y., 342). The respondent’s answer does not set up such facts.
+Second. The contention of the administratrix that the petitioner’s claim is barred by the short statute of limitations could not be upheld, even if such claim were conceded to have been rejected in December, 1884. For it does not appear that the administratrix has ever published a notice for presentation of claims of creditors, and" it is only by such publication that the short statute can be set in operation.
+That statute is as follows (Code Civ. Pro., § 1822): “ Where an executor or administrator disputes or rejects a claim against the estate of the decedent, exhibited to him either before or after the commencement of the publication of the notice requiring the presentation of claims, as prescribed by law..... the claimant must commence an action .... within six months after the dispute or rejection.....in default whereof,” etc.
+This provision was borrowed from B. S., part 2, ch. 6, tit. 3, § 38 (3 Banks, 6th ed., 97). As it there appears, it contains no allusion to the publication of notice to creditors, but simply declares that a claimant, whose claim is disputed or rejected and is not referred, shall be forever barred from maintaining an action thereon, unless he commence such action within six months. So intimate, however, ivas the connection between this provision and § 34 of the same title, which provided for notice to creditors, that § 38 was repeatedly declared by the Supreme court to be inoperative, except in cases where such notice had in fact been given (Whitmore v. Foose, 1 Den., 159; Broderick v. Smith, 3 Lans., 26 ; Hardy v. Ames, 47 Barb., 413; Williams v. McIntyre, 16 Weekly Dig., 351). The same view was taken of this statute by the Court of Appeals, in Tucker v. Tucker (4 Keyes, 136).
+Section 38 was substantially incorporated in § 1822 of the Code, but as originally enacted the latter section expressly restricted the operation of the short statute to claims presented “ after the commencement and before the completion ” of publication, etc. Mr. Commissioner Tniioop, in a note to § 1822 of his edition to the Code, states that the words above quoted were inserted so that the language of the new statute should conform to the construction given to the old, in Tucker v. Tucker (supra).
+Section 1822 was amended in 1882 by substituting in place of the words, “ after the commencement and before the completion,” the words, “ either before or after the commencement.” The sole object and the sole effect of this amendment, as I interpret it, was to enlarge the scope of the limitation statute, so that in cases where publication had in fact been made, and in such cases only, it should apply to claims presented for payment before as well as to those presented after the commencement of such publication.
+Third. The respondent will be given an opportunity to interpose such an answer as is provided for by subd. 1 of § 2718 (supra). If she shall fail to do so within five days, I shall direct her to file an intermediate account, showing what property of the decedent has come to her hands, and what disposition she has made of it, with a view to ascertaining whether she ought now to have assets applicable to the payment of petitioner’s claim (id., § 2723).
