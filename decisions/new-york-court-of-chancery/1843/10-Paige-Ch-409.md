@@ -1,0 +1,23 @@
+---
+court: "New York Court of Chancery"
+decided: "1843-11-21"
+citations: ["10 Paige Ch. 409"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reed vs. Marble."]
+source_url: "https://static.case.law/paige-ch/10/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 482490
+---
+
+# Reed v. Marble
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+Wesley was a competent witness to prove the fact of his agency and the other matters testified to by him. And no written power was necessary, to authorize him to receive a conveyance of the equity of redemption in the mortgaged premises and to agree to give up the bond of the mortgagor, and to discharge the mortgagor from his personal liability for the debt, in consideration of such conveyance. No question therefore arises upon the statute of frauds in relation to that matter. If the conveyance had not actually been made by Marble until after he had notice of the revocation of the agency of Wesley, by the assignment to Mead, a question would have arisen, whether the agreement by parol to convey, which was not binding on Marble under the statute of frauds, was binding upon Jennings so as to divest the claim of his assignee to recover upon the bond. I think it would not. The complainant, however, has wholly failed to establish notice of the assignment by Jennings, or any thing which was sufficient to put Marble on inquiry, until the bargain was consummated by the execution of the deed, and the giving up of the bond, with the agent’s endorsement thereon. The agent had left the bond and deed with the scrivener, with directions to give up the bond when the deed was executed by the wife and duly acknowledged. It is not material therefore, whether Wesley took the deed on the 17th of July, or Marble left it at that time with the scrivener for him. Either would be a good delivery to Jennings, so as to pass the title to him.
+The assignee of a bond and mortgage, as well as assignees of other choses in action, must give notice of the assignment, if he wishes to protect himself against a bona fide payment to the assignor, or his duly constituted agent, by the mortgagor. Even the recording of an assignment of a mortgage is only constructive notice to subsequent purchasers or assignees of or from the mortgagee, or the original assignor. But by the express provisions of the revised statutes, the recording of the assignment is not of itself to be deemed notice of such assignment, to the mortgagor, or his heirs or personal representatives, so as to invalidate any payments made by them, or either of them, to the mortgagee. (1 R. S. 763, § 42.)
+Again; the objection was well taken, in the answer, that Jennings, to whom the legal estate in the equity of redemption was conveyed previous to the filing of the complainant’s bill, was a necessary party to the foreclosure suit. And it appears by the bill that the complainant had actual notice of the execution and recording of that deed, before this suit was commenced. And where the mortgagor has conveyed his interest in the equity of redemption, no suit in this court, to foreclose the mortgage, can be commenced against him without making the owner of the equity of redemption a party • although the mortgagor is still liable upon his bond for the deficiency. For where the owner of the equity of redemption is not a party to the suit, the master’s deed will give no title to the purchaser as against him. And in the recent case of Cornell v. Prescott and wife, (In Chan. Oct. 5th, 1843,) where it appeared upon the face of the bill, in a foreclosure suit against the mortgagor and a subsequent mortgagee of his grantee, that the owner of the equity of redemption was not a party to the suit, this court decided that a demurrer to the bill was well taken.
+The testimony of J. H. Reed was properly suppressed ; as the mere declarations of a stranger were not proper evidence for any purpose, and the objection that the agent only had authority to give up the bond upon receiving “ a good deed,” cannot be sustained. The evident meaning of that expression, was that the defendant should give such a deed as would convey the whole title wdiich he received from the mortgagor^ the time of giving the mortgage ; so as to save to Jennings the expense of a foreclosure suit for the purpose of cutting off the rights of persons claiming under the mortgagor. No incumbrances were proved, nor was there any pretence at the hearing that any such existed. If Jennings wanted the deed on record, his agent was the proper person to see that it was recorded.
+The order appealed from must be affirmed with costs.
