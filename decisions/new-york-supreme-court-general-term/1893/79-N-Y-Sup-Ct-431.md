@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-10"
+citations: ["79 N.Y. Sup. Ct. 431"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis and Bradley, JJ., concurred; Dwight, P. J., not sitting."]
+parties: ["William H. Crandall, Plaintiff, v. Lehigh Valley Railroad Company, Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/79/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4690750
+cites_cases: ["109 N. Y. 613", "50 N. Y. St. Repr. 553"]
+---
+
+# Crandall v. Lehigh Valley Railroad
+
+## Majority (Haight, J.:)
+
+Haight, J.:
+This action was brought to recover the damages which the plaintiff sustained to his person and property by reason of a collision with one of the defendant’s trains upon Orchard street in the city of Auburn.
+Orchard street runs east and west. It is crossed by Baker avenue, which runs north and south. The defendant’s road approaches Orchard street from the northeast and crosses the same east of Baker avenue, and then passes diagonally across Baker avenue south of Orchard street.
+On the 22d day of August, 1891, about half-past four o’clock in the afternoon, the plaintiff approached Orchard street on Baker avenue, in a light open wagon, driving a horse. The horse was upon a trot, but as the plaintiff approached the railroad crossing in Baker avenue he slowed down to a walk, passed over the crossing and then started the horse into a trot. He passed down to Orchard street, turned to the east into that street, crossed two branch tracks and the Eair Haven main track, and at that instant a train approached upon the depot track. The plaintiff turned his horse to the south to escape the train but was unable to do so. The side of the wagon came in contact with the passing train, causing an injury to plaintiff’s person and damages to his property. At the time of the collision a freight train headed by an engine stood upon one of the branch tracks north of Orchard street, the pilot of the engine reaching to the north line of the street. The evidence on the part of several of plaintiff’s witnesses tends to show that they heard the whistle sounded of the approaching train and also heard its bell ring. It also appears that there was a flagman stationed at the crossing, but the plaintiff testifies that he stood talking with another man with his flag rolled up and did not warn him of the approaching train; that he did not see the approaching train until he had crossed the branch tracks and was within thirty feet of the crossing ; that as soon as he could he turned his horse to avoid a collision. He claims that the train was running at a higher rate of speed than authorized by the ordinances of the city, and that there was negligence on tlie part of the flagman in failing to warn him of the approaching train.
+Upon the conclusion of his testimony the trial court ordered a nonsuit, we presume upon the ground that the plaintiff was guilty of contributory negligence, and we shall only consider that question.
+It appears from the plaintiff’s testimony that the horse was more than an ordinary fast horse; that from the crossing in Baker avenue he drove on a trot at an ordinary road gait up to the turn into Orchard street, and that just after he turned into Orchard street he heard some one to his left say: “ Eor God’s sake, look out; here comes the trainthat this was just as he saw the train and he then turned his horse to the right.
+Ilis witness James Keefe testified that “the horse was going a nice gait; ” that he heard the bell of the approaching train ringing, and as the plaintiff turned into Orchard street to cross the tracks he hollered to him.
+Ilis witness Edward Keefe testified that “ He was driving very fast. lie was holding his horse with a stiff rein and coming with good speed. Would say more than a good road gait. Saw him first about fifty feet from Orchard street crossing; I next saw him turn into Orchard street with a short turn,” and upon the cross-examination he testified that his attention was first attracted by the whistle of the train coming around the curve and the ringing of the bell; that “ I heard the whistle and the bell ring a period of time before I saw Crandall. First saw Crandall coming through Baker avenue just before he turned the corner of Orchard street, coming out from, in front of the building ; he was driving at a very fast gait; he was driving at what I should call a good gait; might have been a trifle over three minutes ; between a three and a four-minute gait; ” that one Jerry Murphy was standing between the Weedsport track and the main track and tried to stop the plaintiff; that he shouted to him and held up his hands; that there were several people there who also shouted to him.
+Witness Le May testified that “ From the time I saw Crandall until he was struck he was driving on a trot, a pretty good road gait; ” that some one hollered first, and two or three hollered right away afterwards; that the plaintiff had then turned off from Baker avenue and was by the hydrant.
+Witness Vrooman testified that he saw “ a man coming towards the railroad track with a horse and buggy, and coming pretty fast; the horse appeared to be on a jump when I saw him, as though trying to run; as though he was frightened.”
+The witness McClelland was upon horseback and riding along Baker avenue on a trot. The plaintiff passed him between the railroad crossing on Baker avenue and Orchard street; turned into Orchard street and collided with a passing train as the witness arrived at the intersection of Orchard street with Baker avenue.
+It further appears from the map and exhibits introduced in evidence that the approaching train could have been seen by the plaintiff from the time he crossed the railroad tracks in Baker avenue until he reached Orchard street. There may be a doubt as to whether he could see the train whilst turning into Orchard street by reason of the engine standing upon one of the branch tracks, but after reaching the branch tracks the view of the approaching ti-ain was then unobstructed.
+The plaintiff’s own evidence is to the effect that his horse was gentle and easily controlled. He was well acquainted with the locality, and had often crossed at the place in question. The evidence of his witnesses tends to show that he was driving very fast, and it appears to us that had he been driving slower, exercising his senses by looking and listening, he could have seen the train in time to have avoided injury, and under the authorities of Powell v. The N. Y. C. & H. R. R. R. Co. (109 N. Y. 613), and Martin v. The N. Y. C. & H. R. R. R. Co. (50 N. Y. St. Repr. 553), the nonsuit should be sustained.
+The motion for a new trial should, therefore, be denied, with costs, and judgment ordered for the defendant upon the nonsuit.
+Lewis and Bradley, JJ., concurred; Dwight, P. J., not sitting.
+Plaintiff’s motion for a new trial denied, and judgment ordered for the defendant on the nonsuit.
