@@ -1,0 +1,52 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-05-24"
+citations: ["8 N.Y. St. Rep. 531"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People ex rel. Abel S. Myers v. The Town Auditors of the Town of Highland."]
+source_url: "https://static.case.law/ny-st-rep/8/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 640514
+cites_cases: ["12 Abb. N. C., 272", "24 Hun, 340", "45 N Y., 199", "52 N Y., 227", "74 N. Y., 310", "82 N. Y., 80", "82 N. Y., 82", "93 N. Y., 404"]
+---
+
+# People ex rel. Myers v. Town Auditors of Highland
+
+## Majority (Landon, J. Learned, P. J.)
+
+Landon, J.
+The judgment in the county court was recovered against the relator in his name of office in an action which he was authorized to bring The judgment was a town charge. 1 R. S., 357, § 8.
+An execution, however, would issue against the relator; he was, therefore, obliged to pay the judgment. Code Civ. Pro., § 1931. This section requires that the sum collected must be allowed the officer in the settlement of his official accounts, except as otherwise specially prescribed by law.
+It appears that this sum has not been allowed the relator in the settlement of his official accounts, and the only way open to him to obtain it is to have the board of town auditors include it in their statement and certificates of the town charges to the board of supervisors.
+The defendants, however, object; that the relator is not entitled to be reimbursed the amount of this judgment:
+1. Because he brought the action against Hickok, the overseer of the highways, upon his own motion and not upon the complaint and indemnity of any resident of the town.
+2. He was defeated and, therefore, had no cause to bring the action.
+3. As he was beaten in the justice’s court he had no right to appeal.
+4. The account had once before been presented to the town auditors and rejected:
+First. We think the commissioner may prosecute a delinquent overseer upon his own motion, if in his judgment the public interest requires it—that is, if he does so in good faith.
+The commissioner of highways is charged both with the power and the duty “to give directions for the repairing of roads and bridges” (1 R. S., 501, § 1), and to enjoin certain duties upon the overseer, whose duty it is to obey under peril of penalties to be sued for by the commissioner. Section 16. Unless the commissioner can of his own motion sue for these penalties he is denied the means to enforce his authority.
+The seventeenth section provides that the commissioner shall upon complaint made to him by a resident of the town that the overseer has refused and neglected to perform any of such duties, and upon giving or offering to give sufficient security to indemnify the commissioner against the costs, forthwith prosecute such overseer for the penalty.
+Authority implies power to enforce it. The seventeenth section is clearly an additional provision to compel the commissioner to use the power he possesses, not a condition precedent to his possession of the power.
+Second. That the relator failed to recover in his actions against the overseer, does not deprive him of recourse to the town. The law is not so unreasonable as to require a public officer to guarantee the success of a litigation in which he may within the scope of his official duties become involved. In good faith, perhaps not wisely, he sought to exercise a power with which he was clothed. The power to bring the action implies the power to incur its charges. The People ex rel. Van Keuren v. Town Auditors (74 N. Y., 310), is cited.
+The difficulty with the relator in that case was, he thought he was lawfully acting as an overseer of highways in removing an obstruction from a public highway, and he found out on the trial that he was simply an individual trespasser upon the private road of the person who sued him. The court held the town was not obliged to reimburse him for the judgment and expenses he incurred in his law suit with the person whom he had no official or personal right to injure. If in the suit with Hickok it had been shown that Hickok was not an overseer of highways either de jure or defacto, then this relator would have been outside of the statute and its protection, because he would not have sued an overseer, and the case cited would have been in point.
+Third. But this case cited is claimed to be authority for the position that the relator having been beaten in the justice’s court had no right to appeal solely upon his own motion. That was held true of an overseer who was the subordinate of the commissioner, and who committed the trespass complained of in obedience to the orders of the ■commissioner in the belief that his action was lawful. In such case it was said that if he could look either to the commissioner or to the town as his immediate superior, he was entitled to indemnity against the natural consequences of having innocently performed their unlawful requests, but having once been beaten he could not enhance the damages by continuing, by appeals, the litigation without the ■consent of one or the other.
+In this case the commissioner is the officer charged with instituting and carrying on this litigation against the overseer, Why he was defeated we do not know, but he was clothed with the power, and, hence, with the judgment and discretion applicable to the case.
+Fourth. The fact that the town auditors had once before refused to audit and certify this judgment does not defeat the relator’s right. The law says it shall be allowed him; the town auditors are the officers to give effect to the law. They cannot, by their perverseness or misjudgment, repeal it, and we see no reason why that duty does not remain in full force until it is performed. The People ex rel. Thurston v. Town Auditors, 82 N. Y., 80.
+To reject the bill altogether is a refusal to audit what the law says shall be allowed. Such a claim differs from the ordinary unliquidated claim in this respect. In the former the board of town auditors have no jurisdiction of the amount of the claim, in the latter they have. It is true that it is remarked in People ex rel. Everett v. Board of Supervisors (93 N. Y., 404), that the provision requiring the claim upon the judgment to be presented to the board of town auditors implies the power on their part to reject it altogether, but this remark is obiter.
+If, as we think, the relator had a clear, legal right to have this claim allowed him, and that right was denied or refused, there is nothing to review upon certiorari, and mandamus is his only remedy.
+The foregoing views dispose of the relator’s other claims adversely to him. When they were rejected we cannot say, as in the case of the judgment, that the claims were not judicially examined and disallowed. If so, the relator is bound by the decision of the board of town auditors unless he brings certiorari to review it.
+It follows that the relator is entitled to a new trial, cost to abide event.
+Learned, P. J.
+The case says* “It is admitted that the bills were presented to the board of town auditors of 1885; that they examined them, and decided that the town was not legally liable to pay for the whole, or any part of them, and rejected them. The same admission is made as to the action of the board in the year 1883.”
+The distinction between auditing a bill and rejecting it, on the one hand, and refusing to audit on the other may seem small, but it. is real.
+It is pointed out in People ex rel. v. Town Auditors of Elmira (82 N. Y., 82), where the court say: “That if the bill had been in fact audited, the mandamus was improper, otherwise right.” In that case the board “assumed the right to allow what they pleased without disputing the facts on the one hand, or the law on the other.”
+Now, in the present case, the stipulation says that the board examined the bills and decided that the town was not legally liable. That plainly means, that without disputing the facts, they did dispute the law. Therefore the board made á decision.
+Grant that it was erroneous, it was a decision. Can we by mandamus compel them to decide otherwise ? I think not. If there was an erroneous decision of law, the relator’s remedy, assuming that he had any, was by certiorari. Code Civil Procedure, § 2140, subd. 3. If, without competent evidence, the board had decided the facts against the relator, he would not be without remedy. Subd. 5.
+Thus, again, in People ex rel. v. Board of Apportionment (52 N Y., 227), it is said, “to audit a claim ex vi-termini imports the exercise of judgment.” Again, it was said of a mandamus to audit: “This submits to the officers the power of determining ‘pro hac vice ’ the legality of the claim as well as its amount.” People ex rel. v. Cooper, 24 Hun, 340. To the same effect, People ex rel v. Supervisors, 93 N. Y., 404. So People ex rel v. Fairman (12 Abb. N. C., 272, affirmed general term and court of appeals), which seems quite in point.
+Now there are certain cases in which an auditing board has to exercise its judgment upon the amount of a claim. In such cases, if the board refuses to exercise its discretion, mandamus has been held to lie to compel this exercise of discretion. Possibly it would be difficult to make certiorari applicable, where the inferior tribunal had not decided on the question of facts. See People v. Supervisors, 45 N Y., 199.
+But in the present case there is no discretion which the board has refused to exercise. The amount of the claim on the judgment against relator was fixed. If it was a legal claim, the refusal to allow it was an error of law—an incorrect decision; to be reviewed, as it seems to us, by certiorari.
+But again, what would the mandamus command ? Not certainly that the board should allow relator’s claim. We are not by mandamus to direct an inferior tribunal how to act. The command would be only to audit, that is, to examine and pass upon the claim. But this the defendants have already done. See remarks in People ex rel. v. Town Auditors of Elmira, supra.
+I think the judgment should be affirmed, with costs.
+Mayham, J., concurs.
