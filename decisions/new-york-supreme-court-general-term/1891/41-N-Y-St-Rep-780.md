@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-12-14"
+citations: ["41 N.Y. St. Rep. 780"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ida E. Phillips, App’lt, v. The Northern Railroad of New Jersey, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/41/cases/0780-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2068344
+cites_cases: ["20 N. Y., 93", "26 Barb., 618", "34 Hun, 433", "5 Denio, 68", "67 N. Y., 425", "80 N. Y., 27"]
+---
+
+# Phillips v. Northern Railroad of New Jersey
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+Assuming that the ticket purchased by the plaintiff was issued in the name of the Northern Eailroad of New Jersey, a fact not as well proven as might be expected, it was an excursion ticket providing for a ride only from Norwood to Jersey City and back. It gave no right to go elsewhere or farther. In travel-ling beyond Norwood on her return from the city, and especially in attempting to get upon the east bound local train at Sparkhill, a point beyond the limitations of her ticket, the plaintiff enjoyed no contractual relations with the defendant whatever.
+Her case arises ex delicto, and can only stand upon some, duty toward her on the part of the persons controlling and operating the-train, from the neglect or violation of which she received her injuries.
+It is difficult to see that the managers of the train owed her any undischarged duty under the circumstances of the case. The train had made its regular stop at the station, had received its passengers and passed on to a side track, where it was awaiting the passage of the western express to clear its way on the main track. The plaintiff was a passenger on that western express, and when it had gone by the train in question was due to proceed on its way. Under these circumstances the plaintiff alighted from the express when it stopped at the station, hurried backward to the side track where the east bound train was standing, and undertook to get upon the rear platform of the rear car just as the train was about to move. No conductor or brakeman was in sight It was her own act and at her own risk and peril.
+An effort is made to overcome this fatal defect in the plaintiff’s case by showing a custom on the part of persons going westward by the express of taking the eastward local train at this point, so as to charge the railroad company with a duty of care in that particular! The evidence, however, is insufficient for the purposa A custom is not shown to exist in respect to passengers like the plaintiff, nor does it appear that the change of cars took place under any custom in any other than the regular way at the station.
+We think that when a party undertakes without a ticket to get hastily on a train at a place other than the station with no conductor or brakeman in view and at a moment when the train is liable to start, if such a party is injured by the inadvertent starting of the train, a recovery cannot be had against the railway company.
+But the ground upon which the learned trial judge bases his judgment is not answered by the appellant
+As already stated, the plaintiff’s cause of action rests solely, if it exists at all, upon some negligence on the part of those who were controlling and operating the train from which she received her injuries; and the train was being operated and was in its movements under the control of the Brie Railway Company alone. The lease or contract put in evidence by the defendant, m substance, transfers the control, management and operation of the trains from the defendant to the Brie Railway Company at a compensation of sixty-five per cent, of the gross receipts plus five forty-eighths of the remainder. As the contracting parties were not to share in profit and loss but were to receive simply a fixed share of the gross earnings, the agreement would scarcely constitute a partnership, even at common law. Story on Partnership, § 34; Heimstreet v. Howland, 5 Denio, 68 ; Merrick v. Gordon, 20 N. Y., 93.
+Here, however, was an express statute authorizing such an agreement, and it would seem that the provisions of the contract rendering the Brie Railway exclusively responsible for the negligence of the conductors or other servants in the operation of the train had the support of legislative authority. Whatever may be the force of those provisions of the contract which reserve to the defendant a certain supervision over the receipts or the right to sell tickets at specified points, or the power of approval of the employment of conductors, etc., etc., it is still indisputable that the contract took from the defendant the management, operation and control of the trains and placed that service and duty, with all- its liabilities and consequences, absolutely upon the Erie Company, and this indisputable provision, which is all of the contract applicable to the case at bar, has plain validity founded upon the statute.
+If then, the plaintiff were in truth injured through any negligence of the conductor or bralceman of the train in question, she could not, under any head of the doctrine of respondeat superior, hold the defendant liable. The Erie Railway Company was the only principal responsible in such a case. See Norton v. Wiswall, 26 Barb., 618, at 621, 622 and 623 ; Blake v. Ferris, 5 N. Y., at 53 to 57—61; Ditchett v. R. R. Co., 67 N. Y., 425; Fisher v. Metropolitan R. R. Co., 34 Hun, 433; Abbott v. Johnstown R. R. Co., 80 N. Y., 27.
+The difficulty with the appellant’s authorities is that they arise in cases where the transfer of the operation of the road had been without statutory authority or ultra vires, or where the plaintiff had, by the purchase of a ticket, enjoyed contractual relations with the defendant. A contract would make a party liable irrespective of its relations to the inculpated agent. But here there was no ticket or contract, and the agents inculpated were, in fact and law, the agents of the Erie Company alone in the service under consideration.
+For these reasons the judgment of the trial court must be affirmed, with costs.
+Dykman, J., concurs; Barnard, P. J., dissents.
