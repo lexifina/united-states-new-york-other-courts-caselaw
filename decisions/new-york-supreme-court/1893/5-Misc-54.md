@@ -1,0 +1,42 @@
+---
+court: "New York Supreme Court"
+decided: "1893-08"
+citations: ["5 Misc. 54"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of Elizabeth Winegard for a Writ of Certiorari v. Charles Kromer et al., Assessors of Seward, Schoharie County."]
+source_url: "https://static.case.law/misc/5/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 691958
+cites_cases: ["125 N. Y. 471", "125 N. Y. 484", "14 N. Y. St. Repr. 439", "24 Hun, 66", "32 N. Y. St. Repr. 599", "48 N. Y. St. Repr. 283", "9 N. Y. St. Repr. 469"]
+---
+
+# Winegard v. Kromer
+
+## Majority (Mayham, J.)
+
+Mayham, J.
+The defendants moved to set aside a writ of certiorari granted in the above matter upon three grounds, specified in the notice of motion, as follows:
+First. It ivas improperly granted concerning matters not raised before the assessors.
+Second. The town clerk should have been made a party to the proceedings.
+Third. The writ was not authorized by section 3 of chapter 269 of the Laws of 1880, and the Code of Civil Procedure.
+I do not think the objection that the relator failed to appear and object on grievance day, can prevail on this motion, for the reason that while that would be a fatal objection to this proceeding if true (People ex rel. Western, etc., Co. v. Dolan, 32 N. Y. St. Repr. 599), the petition and exhibits accompanying the same in this case show that the relator did appear and file objections on grievance day, and also filed affidavits and gave oral proof under oath before the assessors.
+The defendants further urge upon the same point, that the writ is illegal in that it commands the defendants to return the original assessment roll and matter upon which the assessment was made, when at the time of granting the writ the assessment roll had, in pursuance to the requirements of the statute, been by them delivered to, and left with, the town clerk, and was, therefore, out of the control of the defendants, and that they could not properly be compelled to return the assessment roll, not in their possession, and over which they, at that time, liad no control.
+There is great force in the contention of the defendants upon this point, and if a literal compliance with the wording of the writ were required, it would be fatal to it, as the court would not, by this writ, require the assessors to remove from the custody of the town clerk the assessment roll, when the statute required the same to be filed with, and remain in his custody. ,
+But the legislature have provided a method by which the defendants can comply with the commands of the writ without removing from the custody of the clerk the assessment roll. Section 3 of chapter 269 of the Laws of 1880, provides as follows: ÍC The assessors or other officers making a return to such writ shall not-be required to return the original assessment roll or other original papers acted on by them, but it shall be sufficient to return certified or sworn copies of the roll, or other papers, or of such portions thereof as may be called for by such writ.”
+I think a fair interpretation of this language is, that when the assessment roll is called for by the writ, the exigency of the command in the writ is met, and complied with by returning certified or sworn copies of the papers, the originals of which are called for by the writ. In other words, when the writ calls for the original., its commands are complied with by, the defendants by returning certified or sworn copies of such originals.
+This interpretation seems reasonable and necessary, else it would be difficult, if not impossible, to review by certiorari the action of the assessors.
+Immediately after grievance day the law requires the assessment roll to be delivered by the assessors to the town clerk, and as the certiorari requires the review of the assessment upon the roll, and makes the assessors the proper and necessary parties to such review, if they could not answer or return to the writ without returning the originals, they would be unable to make any return, and hence the certiorari to correct an erroneous assessment would fail.
+If I am right in this conclusion, I see no difficulty in the defendants making a return in this case by certified or sworn copies of the roll and other documents used by them on this assessment, and now on file in the clerk’s office. Certified copies could be obtained of the clerk, which would be a compliance with section 3 of chapter 269 of the Laws of 1880.
+But I think this question is settled upon authority in People ex rel. W. S. R. R. Co. v. Adams, 125 N. Y. 471.
+In that case Judge Andrews says : “ The fact that the assessment rolls of Avliich correction is sought, Avere not in the possession of the trustees when the writs Avere issued, is, Ave think, unimportant under the act of 1880. The original assessment rolls are not required to be returned in ansAver to the Avrit.’’
+The next objection made by the defendants is, that the toAvn clerk was a necessary and proper party, and should have been made a party in this proceeding, and the failure of the relator to make him a party is fatal to the proceeding.
+We cannot agree with the learned counsel for the defendants in this contention. It is true that the records at the time of the granting of this writ, Avere in the custody of the town clerk, and the proceedings of the assessors in making their return, might, if he Avere by law a proper party, be greatly facilitated by having his services in making the return, but the revieAv sought to be made by these proceedings is in no sense a revieAv of the action of the clerk. His only duty in connection with the assessment is to receive and file the assessment roll as the same is fixed and certified by the board of assessors.
+It would, therefore, seem to be illogical to make him a party to a proceeding Avhere his acts were in no sense the subject of review; but this question has been fully settled, upon authority, upon the relation of People, etc., ex rel. W. S. R. R. Co. v. Pitman, 9 N. Y. St. Repr. 469-472.
+It was held that the clerk was not the proper person or party to whom the writ of certiorari issued. See, also, People ex rel. Ulster & Delaware R. R. Co. v. Smith, 24 Hun, 66 ; People ex rel. W. S. R. R. Co. v. Adams, 125 N. Y. 471; People ex rel. Warren v. Carter, 14 N. Y. St. Repr. 439.
+The third objection raised by the defendants is tjiat the writ was not authorized by section 3 of chapter 269 of the Laws of 1880, or by the Code of Civil Procedure. That section provides as follows : “ The court or justice granting the writ shall prescribe in the writ the time within which the return thereto must be made, which shall not be less than ten days, and may extend such time. The assessors or other officers, making a return to such writ shall not be required to return the original assessment roll, or other original papers acted upon by them, but it shall be sufficient to 'return certified or sworn copies of the roll or other papers, or of such portions thereof as may be called for by such writ,” etc.
+The criticism made by the learned counsel for the defendants is, that as the original assessment roll was filed with the clerk before the granting of this writ, the writ should have required a return of certified or sworn copies instead of requiring a return of. the original roll. This objection, we think, is answered by the section itself, which provides that copies may be furnished, instead of the original roll, where by the writ the original roll is required to be returned, the copies thus taking the place, so far as these proceedings are concerned, of the original roll. People ex rel. W. S. R. R. Co. v. Adams, 125 N. Y. 484. The granting of the writ in cases of this character, where the court acquires jurisdiction of the parties and subject-matter, by the petition, is not dis-cretionary, but the relator is absolutely entitled to the writ, and the court or judge thus having jurisdiction is required to issue the same. Laws of 1880, chap. 269, §§ 1, 2.
+In Matter of Corwin, 48 N. Y. St. Repr. 283, it was held that a taxpayer, who by his petition brings his case within the provisions of the above statutes, is entitled, as matter of absolute right, to a writ of certiorari.
+Upon the whole, we see no reason for setting aside this, certiorari, but think the motion should be denied.
+Motion denied, with ten dollars costs.
