@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-12"
+citations: ["69 N.Y. Sup. Ct. 221"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt, J., concurred ; Dvkman, J., not sitting."]
+parties: ["ADRIAN ISELIN, Respondent, v. SARAH SMITH and Others, Appellants, Impleaded with Others, Defendants."]
+source_url: "https://static.case.law/ny-sup-ct/69/cases/0221-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4638586
+---
+
+# Iselin v. Smith
+
+## Majority (Barnard, P. J.:)
+
+Barnard, P. J.:
+The plaintiff: fenced in what he asserts to be his private road. This road runs along in front of defendants’ premises. The fence cut them off from the road and they tore it down. The plaintiff •commenced an action to restrain the defendants from interfering with ,this fence. The defendants answer that they have a right to use the road by their deed,' and because the road was- a public .highway.
+The defendants ask, by the answer, an injunction to restrain plaintiff from building up the fence. The plaintiff asked leave to discontinue on payment of costs and disbursements. Leave was granted, and the defendants appeal. By the answer a counter-claim is set up, and, if proven, will entitle the defendants to the affirmative relief of an injunction based upon a right to use the road shut up. The defendants should not be deprived of their right to prove .their title to the road. As the case now stands, the inference is very :strong against the plaintiff. He has shut up an open .road, claiming it to be his private property. The defendants assert a right, and the plaintiff commences an action for an injunction against them. ’The defendants admit the destructioii ■ of the fence by them, and .a determination to again destroy it if constructed. The plaintiff •ought not; to be permitted to discontinue his action unless, upon .stipulation, to never again close the defendants from access to the ■road. If he is not willing to do this, let the defendants have an •opportunity, under the answer, to prove their defense and get an .affirmative judgment.
+Order reversed, with costs and disbursements, and motion denied, with costs.
+Pratt, J., concurred ; Dvkman, J., not sitting.
+Order reversed, with costs and disbursements, and motion denied, with costs.
