@@ -1,0 +1,30 @@
+---
+court: "New York Surrogate's Court"
+decided: "1910-04"
+citations: ["7 Mills Surr. 502", "67 Misc. 360"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Appraisal Under the Acts in Relation to Taxable Transfers of Property of the Estate of Janette W. Baker, Deceased."]
+source_url: "https://static.case.law/mills-surr/7/cases/0502-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1076061
+cites_cases: ["137 N. Y. 77", "145 N. Y. 144", "149 N. Y. 618", "25 App. Div. 94", "3 App. Div. 208", "30 Misc. Rep. 27"]
+---
+
+# In re the Appraisal Under the Acts in Relation to Taxable Transfers of Property of the Estate of Baker
+
+## Majority (Ketcham, S.)
+
+Ketcham, S.
+The question is presented by the appeal of the residuary legatees: Where at the time of the decedent’s death she was under contract to sell lands in another State, and left a¡. conveyance thereof which was delivered on the day after her death, in consideration of the price named .in the contract, m the transfer tax to- be imposed upon the cash which was received after death as the price of the lands ?
+The land was not taxable, and the order by which its proceeds had been taxed can only he justified on the theory that the testatrix had possession of these proceeds. 'She could not have been ¡both seized of the land and possessed of the money, and as she had not parted with the legal title to the real estate no one will-claim that she was legally possessed of the cash. Hence, the faxing officer is reduced to the contention that for the present purpose the decedent was equitably the owner of the moneys^ because under her contract she would have become such owner if she had lived and performed the contract.
+The claim leads one to wonder what would have been the attitude of the transaction if the decedent at her death had been possessed of a sum of money which was then about to be paid for Nebraska lands under her contract for their purchase. In the case supposed, there would be as much conversion of money into land as in the case at bar there is a conversion of lands into money, and, if the tax imposed can be sustained, it must be upon reasoning which would inevitably lead to an escape from the tax whenever the decedent dies while under contract to purchase nontaxable property.
+The doctrine of equitable conversion, in its application to a decedent’s estate, concerns only those who have come into relations of contract or privity with the decedent or his estate. The .fiction of conversion adjusts rights and imposes equities, but it cannot change facts or work inequity. In adopting it, the law makes belief that the things which have been arranged to be done have been done, but this amiable pretense must be confined by .the impulses Which inspire it to the persons in privity with the transaction. There is no equitable neeid for its extension to, others. ¡Strangers have nothing to do, with the reason for its being land nothing to do with its operation. In the best defined case of equitable conversion, the legal owner of the lands retains as to persons not in equitable relations to himself all the rights and duties which belong to his seizin.
+Though his land be equitably converted into money, he will still be prosecuted for its unlawful use and made liable for injuries resulting from its negligent or unlawful condition, and: strange would be the defense that he no longer owned the land because it had been equitably ¡converted.
+The term itself, by which the conversion is expressed, confesses that the persons whose lands are converted remains the legal owners. “ He is deemed in equity to stand seized of the land for the benefit of the purchaser.” Williams v. Haddock,. 145 N. Y. 144. His legal estate descends to his heirs, although they in turn take their estate burdened with the equity under ,which they may be compelled to convey. It is not only impossible that a legal estate can be extinguished by the law’s imagination, but it is essential to the operation of the doctrine itself that the legal title remain in the original owner.
+In Matter of Swift, 137 N. Y. 77, this- question was determined. The observations in that case are none the less controlling because the conversion there resulted from the directions of the testator’s will. The teaching of the case doubtless is that, however the equitable conversion may have been effected, by will or contract, the property is to be taxed or exempted -according torts nature and tenure at the decedent’s death. It is there said “ The question of the jurisdiction of the State to tax is one of" fact and cannot -turn upon theories or fictions which, as has been observed, have no place in a well-adjusted system of taxation. * * * If .(¿2Q pro,perty in the foreign jurisdiction was in landr or in goods and chattels, when, upon the testator’s death, a new title, or ownership, -attached to it, the bringing into this State of its cash proceeds, subsequently, no matter by what authority of will, or of statute, did not subject it to the tax.”
+To the same effect i-s: Matter of Sutton, 3 App. Div. 208; aff’d,. 149 N. Y. 618.
+The rule that the transfer tax should be imposed upon property in the -form in which it stands at the testator’s -death has been -applied to the -advantage of the taxing' power where the equitable conversion changed a portion of the estate from taxable to nontaxable property. Matter of Offerman, 25 App. Div. 94; Matter of Bartow, 30 Misc. Rep. 27.
+The order appealed from should he so- modified that no tax shall be fixed upon the sum of $26,400, reported by the appraiser as additional personal property.
+Decreed accordingly.
