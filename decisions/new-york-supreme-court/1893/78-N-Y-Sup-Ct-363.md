@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court"
+decided: "1893-09"
+citations: ["78 N.Y. Sup. Ct. 363"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Merwin, J., concurred."]
+parties: ["Emily Locke, Appellant, v. Hiram B. Locke, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/78/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8594566
+cites_cases: ["129 N. Y. 566", "34 Hun, 157"]
+---
+
+# Locke v. Locke
+
+## Majority (Parker, J.: Hardin, P. J.:)
+
+Parker, J.:
+In July, 1876, in an action for separation upon the ground of .cruel and inhuman treatment, the plaintiff recovered a decree against her husband, Hiram B. Locke, awarding her as alimony the sum of $500 annually, and payable semi-annually in sums of $250 each on the twenty-seventh day of January and July, in each year, and further awarding to the plaintiff execution for the collection of such installments as they became due. Default being made in the payment of the $250 that bepame due January 27, 1893, and no execution having ever been issued on such judgment, the plaintiff applied at Special Term for leave to issue execution against the defendant for that amount. The defendant opposed the issuing of such execution on the following grounds:
+On the 22d day of April, 1892, the plaintiff made her promissory note for $1,000 payable to the order of John B. Locke in three months from date at the Chemung Canal Bank, Elmira, N. Y. Such note was indorsed by the payee, John B. Locke, and under him by the defendant, Hiram B. Locke. It was discounted by the bank, and the payee, John B. Locke, had all the avails thereof. John B. Locke was the adopted son of the plaintiff and defendant, and they both became parties to such note, at the request of John B. Locke, and solely for his accommodation, neither of them having any benefit from the note or its proceeds.
+Default was made in the payment of the note at its maturity. The bank sued all the parties thereon, and recovered a judgment against them all for the amount of the note and costs. Such judgment was paid in full by this defendant, and the assignment thereof was taken to him. The plaintiff and John B. Locke were insolvent and nothing could be collected from them on the judgment.
+Upon such facts the defendant claims that the plaintiff is indebted to him in the amount of such judgment and costs, that is, $1,036.43, and he asked from the court an order setting off against the plaintiff’s claim for alimony due Jankary, 1893, so much of his judgment as is necessary to satisfy it.
+The court denied the plaintiff’s motion for leave to issue execution, and granted the defendant an order setting off his judgment against her claim as above stated. From such orders, the plaintiff appeals to this court.
+The case of Stevenson v. Stevenson (34 Hun, 157), decided by this court in October, 1884, holds that such a claim for alimony, fixed by judgment in favor of the wife against the husband, may be reached and appropriated by the creditors of the wife by bill in equity, or upon proceedings supplementary to execution, and it places this decision upon the theory that such a claim is a debt, and that, inasmuch as there is no statute exempting it from liability for her debts, it may be taken to satisfy'them as any other chose in action could be taken. It does not appear from the report of that case whether the claim against the wife was for necessaries or not, but the line of argument treats the alimony simply as a debt against the husband. The reasoning of that case fully sustains the decision in this.
+In Romaine v. Chauncey (129 N. Y. 566), the Court of Appeals has since decided that alimony awarded to a wife may not be taken for the satisfaction of a debt contracted by her, and actually subsisting prior to the date of the decree. In the case before us, the debt which the husband claims to set off was not contracted until long after her right to the alimony was decreed, but such debt was not one contracted for necessaries, or for any benefit accruing to herself. It was an obligation incurred solely as a surety for her son John, and the husband has none of the equities which a creditor would have, who had furnished her with such necessaries and means of support as the allowance of alimony is designed to provide her with.
+Applied to these circumstances, the reasoning of the latter case exempts this alimony from a liability to pay the debt which the husband seeks to set off against it. In that case it is said that, “ Alimony is not strictly a debt due to the wife, but rather a general duty of support made specific, and measured by the court,” and the line of argument goes to the extent of holding that, while the alimony might be held liable to satisfy a debt contracted for her support with a creditor who had naturally relied upon it as a means of payment, it cannot be appropriated for the payment of debts contracted by her under such circumstances, and of such a nature that her husband would never have been liable to pay them; that the object of the decree awarding alimony was but to continue the husband’s liability for support of his wife after the divorce, and not to compel him to provide a fund for the payment of debts not otherwise chargeable against him. Nor should the means so provided for the support of the wife be diverted to an entirely different purpose.
+Had no decree ever been granted against the defendant, he would not, as husband, have been liable to pay the note which she signed for their son John, and, hence, within the decision above cited, such note was not a debt that could be collected from her alimony. If the bank could not have so collected it, there is no reason why the husband should be allowed to do so.
+Upon the authority of the case last cited, therefore, the order appealed from must be reversed, with costs.
+Merwin, J., concurred.
+Hardin, P. J.:
+Although I joined in the decision of Stevenson v. Stevenson (34 Hun, 157), I feel constrained to concur in the foregoing opinion upon the reasoning and authority found in Romaine v. Chauncey (21 Civ. Proc. Rep. 76), and the same case in 129 N. Y. 566.
+I, therefore, join Parker, J., in reversing the order in this case.
+Order reversed, with ten dollars costs and disbursements.
