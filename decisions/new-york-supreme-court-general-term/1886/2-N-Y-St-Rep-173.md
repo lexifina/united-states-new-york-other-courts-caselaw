@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-06-17"
+citations: ["2 N.Y. St. Rep. 173"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eliza Singleton as administratrix, etc., respondent, v. Alonzo Smith, appellant."]
+source_url: "https://static.case.law/ny-st-rep/2/cases/0173-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1976298
+cites_cases: ["30 Hun, 269"]
+---
+
+# Singleton v. Smith
+
+## Majority (Haight, J.)
+
+Haight, J.
+This action was brought to recover the amount of two promissory notes of $200 each. The referee has found as facts that William Howett died on the 21st day of June, 1863, intestate, leaving him surviving, Ann Howett, his widow, and the plaintiff, his only child and heir-at-law; that at the time of his death he was possessed of certain personal property,' among other things, the two notes in controversy, which passed into the custody and manual possession of his widow; that soon after his death his widow and daughter entered into an agreement to the effect that the widow should hold and possess the personal property, including the notes, and receive and have to her own use the entire income thereof during her life, and that upon her death the property should go to the daughter, to be entirely and absolutely hers; that in accordance with the agreement, the widow collected and used the-income from the notes during her life, and when the principal was paid she reinvested the money in other notes, running to herself or bearer, as payee; that she subsequently married one Richard Smith and continued to live with him until his death, and at the date of her own death, which occurred on the 23d day of May, 1883, she still held outstanding two notes for $200 each; that these notes passed into the hands of the defendant, her executor, who has collected the money thereon; that the plaintiff was appointed administratrix of the goods etc., of William Howett on the 17th day of January, 1884, and thereupon demanded of the defendant the notes in question or the amount thereof, which was refused.
+The referee has found as a conclusion of law that the plaintiff is entitled to recover the sum of $349.12 and ordered judgment for that amount.
+The referee refused to find that Ann Howett, after the month of September, 1883, assumed and exercised dominion over and treated and used the Howett notes and the proceds thereof as her own personal, individual property.
+It is contended on the part of the appellant that there was a conversion of the notes in question by Ann Howett, and that consequently the plaintiff’s right of action was barred by the statute of limitations. But, as we have seen, the referee has refused to find that there was a conversion, and such refusal appears to be based upon evidence that sustains the' referee. The mother and daughter appear to have lived in harmony, the mother recognizing the agreement and making statements that at her death the property was to become the daughter’s, so that we are of the opinion that the appellant’s claim in this regard must fail.
+The agreement that was entered into between the widow and daughter was one that they had the power to make, except in so far as would interfere with the rights of creditors. The daughter had the right to give her interest in the estate to the mother; the mother "had the right to give her portion of the estate to the daughter. If the daughter saw fit to give to the mother the use of the entire estate during her life, and the mother, in consideration therefor, saw fit at her death to give her portion of the estate to the daughter, we see no reason for holding the contract unconscionable and one that should not be performed. On the contrary, it appears to us as one eminently just as between the mother and daughter, and that the same should now be recognized and fulfilled by the personal representatives of the mother. This agreement did not interfere with the rights of creditors, for it appears that William Howett, at the time of his decease, only owed the sum of three dollars. Neither did this agreement deprive the administrator, when appointed, of his right to the possession of the property, for upon distribution the agreement would have been binding between the parties and the proceeds would have gone to the mother for her use during life. But it appears in this case that the daughter, one of the parties to the agreement, was subsequently appointed administratrix. By this appointment her previous acts in reference to the estate are made valid and binding as the acts of an administratrix de son tort. Smith v. Robinson, 30 Hun, 269.
+She having agreed that her mother should have the use of the personal property during her life, in consideration that the mother’s portion should then become hers, she could not, even as administratrix, then demand possession of the property until her mother’s death, but at her death her right to demand and recover the possession of the property became absolute, and we think the action may properly be maintained by her as administratrix.
+Under the contract, the mother was entitled to the possession of the property during her life; no cause of action could accrue until her death; consequently, the statute of limitations did not commence to run until that event.
+Numerous exceptions were taken to the findings of fact by the referee and to his refusals to find as requested; the chief one is to the refusal to find facts constituting a conversion of the notes, which we have already considered. None of the others require special discussion.
+The judgment should be affirmed. So ordered.
