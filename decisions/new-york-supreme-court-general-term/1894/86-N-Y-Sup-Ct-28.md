@@ -1,0 +1,45 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["86 N.Y. Sup. Ct. 28"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Bradley, JJ., concurred."]
+parties: ["Martha Brayman, Respondent, v. William E. Stephens and Others, as Executors, etc., of David W. Langley, Deceased, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/86/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2388894
+cites_cases: ["17 N. Y. Supp. 657", "18 N. Y. St. Repr. 445", "37 Hun, 385", "6 Hun, 115", "70 N. Y. 595"]
+---
+
+# Brayman v. Stephens
+
+## Majority (Haight, J.:)
+
+Haight, J.:
+David "W. Langley died on the 5th day of July, 1888, and thereafter letters testamentary were issued to the defendants.
+The claim presented by the plaintiff was as follows:
+“ March 21, 1877, to a quantity of millinery goods sold and delivered at the agreed price of............... $250 00
+And interest on the same.......................... 231 36
+$481 36
+“Allegany County, ss. :
+“Martha A. Brayman, being duly sworn, says she was well acquainted with David W. Langley in his lifetime; that she sold and delivered to him the goods charged'in the above bill at the price charged herein, and that no part of the same has in any manner been paid or satisfied and is not secured by judgment or mortgage.
+“MARTHA A. BRAYMAN.
+“ Subscribed and sworn to before i me, this 1st day of June, 1889. j
+“ ~W. J. Sutein,
+“ Notary Public.”
+This claim was rejected by the defendants, and upon stipulation an order of reference was entered under the statute.
+It appears from the findings of the referee that Mrs. Brayman and Mrs. Langley were co-partners carrying on the business of milliners and dressmakers, and were each equal owners of the stock of goods ; that on the 21st day of February, 1877, they sold and delivered the same to David W. Langley, who was to pay the plaintiff one-half of the amount of what the same should bring when sold by him. That thereupon Langley sold the stock of goods to one James Roblee, without making an inventory thereof, and that within a month thereafter Roblee sold the same to Mrs. Stone ; that an inventory was then made and their cost price and value amounted to the sum of $580, and that the interest of the plaintiff was of the value of $290. It further appears from the findings that on the 21st day of November, 1878, John W. Brayman, the husband of the plaintiff, ■entered into an agreement with Langley, in and by which Langley ■agreed to sell, and Brayman agreed to purchase, a certain lot of land situate in the village of Canisteo, for the sum of $1,367.86, which sum was to be paid in ten equal semi-annual payments, with interest; that thereafter and during the year 1879 it was agreed between the parties that Langley should keep the money that was ■due and owing the plaintiff on the sale of the millinery goods and apply it on the last payments on the contract between Langley and Brayman; that at the time of the death of Langley, in 1888, the ■contract remained in full force and effect, but the amount due and ■owing the plaintiff had not been applied thereon. The referee further found that the goods so purchased of the. plaintiff had not been paid for ; that the testator was, at the time of his death, indebted to her in the sum of $290, and interest thereon from the 21st day of February, 1877, amounting to $571.86, for which sum he reported ■she was entitled to judgment.
+The referee’s report appears to have been based upon the testimony of the plaintiff’s husband. If further appears from his testimony that on the 3d day of 'July, 1886, he assigned all his right, title and interest in the land contract to Langley as collateral security for indorsing a note of $100 at the bank of Porter & Davis, and that subsequently Langley had to pay the note so indorsed by him; that Langley died by reason of a gunshot wound, and, after receiving such wound, Brayman was at Langley’s house in company with the defendants, and before his death he said to them that Brayman had no interest in the house, but he wanted the executors to sell the house and lot, and if there was any balance, after deducting what was owing him, they should pay it to Brayman. It further appears •■that the executors subsequently sold the premises, Brayman uniting with them in such sale; that there was a balance of $250 which the ■executors paid to Brayman.
+It appears that the referee has found the plaintiff’s claim to be .greater than that presented by her to the executors, but no exception is taken to the report in this regard, and we are, therefore, not called upon to consider it. The contention on the part of the executors was that the claim had been paid; that it had been applied upon the contract, as evidenced by the indorsement thereon of $367.86, November 21, 1882, and that the same was barred by the Statute of Limitations.
+The claim was upwards of twelve years’ standing at the time it was presented to the executors, and in view of its long standing it was important for the plaintiff to show that the claim had not been paid. To do this she was sworn as a witness in her own behalf and was asked the question, “ Have you ever had your pay for those goods ? ” This was objected to upon the ground that the question called for a personal transaction between the witness and the deceased. The objection was overruled and “ the evidence received as to all others, except the decedent.” An exception was taken by the defendants, and the witness answered that she had never been paid for the goods.
+We do not quite understand what the referee meant by receiving the evidence as to all the others except the decedent. The decedent was not a party; the defendants were. The evidence was received. It could have no bearing except as against the defendants, and tending to establish the plaintiff’s claim. We do not understand that it was competent.
+In McMurray v. McMurray (17 N. Y. Supp. 657) the General Term in the second department-held that, under section 829 of the Code of Civil Procedure, a mortgagee is incompetent to testify that payment of the mortgage was never made to him by the deceased mortgagor.
+In Lerche v. Brasher (37 Hun, 385) the action was for services rendered to the, defendant’s intestate. It was held error to allow the plaintiff to testify that his claim had not been paid.
+In Howell v. Van Siclen (6 Hun, 115) the action was upon a promissory note made by the defendant’s testator. It was held that the plaintiff should not have been permitted to testify that the note had not been paid, and for that reason the judgment should be reversed. Upon appeal to the Court of Appeals this judgment was affirmed. (70 N. Y. 595.)
+This is not an appeal from a decree of a Surrogate’s Court, and consequently the cases to which the respondent has called our attention have no application.
+In Wheeler v. Wheeler (18 N. Y. St. Repr. 445) there was no issue or controversy in the case upon the question to which the evideuce related. It is, therefore, not in point. But in this case the question of payment was the main and important issue in the case.
+The plaintiff was also permitted to testify under objection and exception that Langley was a man who boasted of his property; that he boasted of having notes, mortgages and evidences of debt. We cannot understand the purpose of this evidence. He was dead, and his character and credibility were not involved. The plaintiff had no greater rights against the estate because of the wealth of the deceased. The evidence certainly was immaterial, and had it been given before a jury we should not hesitate in holding that its purpose was to prejudice, and, therefore, harmful. Perhaps, before a referee, we should not so regard it. Because of the first exception discussed, the judgment should be reversed and a new trial granted, costs to abide the final award of costs.
+Dwight, P. J., Lewis and Bradley, JJ., concurred.
+Judgment and order appealed from reversed and new trial granted, costs to abide the event.
