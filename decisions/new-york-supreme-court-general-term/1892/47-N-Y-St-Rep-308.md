@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-06-29"
+citations: ["47 N.Y. St. Rep. 308"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of Arthur L. Sardy."]
+source_url: "https://static.case.law/ny-st-rep/47/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2086967
+---
+
+# In re Sardy
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+—An application was made in this matter to compel the respondent to pay over moneys which it was alleged he had received in a professional capacity. It was claimed by the moving party that the respondent was employed by him to sell certain real estate in "Westchester county for an agreed commission and at the total amount for which the property would sell; that the respondent procured a loan to be made upon the property, for which a bond and mortgage were given, and that subsequently and while acting in a professional capacity he obtained for the petitioner another loan on the same property for the sum of $1,000, and a mortgage was given for that amount; that of the $1,000, $650 were paid to the petitioner, and that then the respondent presented an account to the petitioner showing a balance due of $284.14 which has been demanded and has not been paid.
+The respondent, in answer to this petition, claims that he was not acting in a professional capacity at all, but was employed merely as a broker to negotiate the sale of the Westchester property, and failing that, that he did succeed in raising money upon mortgage for the petitioner; and he denies that any demand was ever made upon him for the balance which it is now insisted he should turn over to the petitioner.
+The merits of the application were presented to the court below upon the petition of Mr. "Sardy, and upon an affidavit of one Brown to the effect that Todhunter had admitted that the money claimed had not been turned over, and upon the answering affidavit of the respondent. Upon these papers the court below denied the motion to compel the respondent to pay over the money referred to in the petition, and held that the moving party should be left to his action at law. This disposition we think was proper, and the order should therefore be affirmed, with ten dollars costs and disbursements.
+Van Brunt, P. J., O’Brien and Patterson, JJ., concur.
