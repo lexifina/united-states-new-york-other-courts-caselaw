@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-06-23"
+citations: ["46 N.Y. St. Rep. 843", "19 N.Y.S. 452"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Ketchum, App’lt, v. Eugene E. Lewis, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0843-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084229
+cites_cases: ["109 N. Y. 290", "109 N. Y., 290", "15 St. Rep., 52", "16 N. E. Rep. 332"]
+---
+
+# Ketchum v. Lewis
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+The learned justice at the special term was of the opinion that the complaint in this action contained three separate causes of action, namely, one for damages for fraud in inducing the sale of certain property to one Hopkins; 2, a cause of action for lumber sold and delivered by the plaintiff to the defendant; and 3, a cause of action for an accounting for the lumber owned jointly by the parties. The court was further of the opinion that the action for damages and that for the sale of lumber were common law actions, and hence triable by a jury, while that for a general accounting between the plaintiff and the defendant was triable before the court as an equity action. It also directed that these several causes of action be separately stated.
+In these conclusions, however, we are unable in this instance to concur with the learned justice. It seems to us from an inspection of the complaint that there is but one cause of action set forth, and that is, that the plaintiff and defendant had had. dealings as copartners in somewhat extensive transactions, and that upon an accounting it would be shown that the defendant was indebted to the plaintiff in a considerable sum of money. The complaint avers that no settlement had ever been had between the parties as copartners in respect to their dealings. The prayer of the complaint is for an account to be taken of all the dealings and transactions from the commencement of the copartnership, and of the moneys received and paid out by the plaintiff and defendant respectively, in relation to such copartnership; that the property remaining unsold and undisposed of belonging to the plaintiff and defendant should be sold ; that all debts contracted by them in carrying on their joint business be paid and the surplus, if any, be divided between the parties according to their respective rights and interests; that the sale to Hopkins be declared null and void as against the plaintiff, and that the defendant be adjudged and required to account for the full value of the property alleged to have been fraudulently sold by him. to Hopkins, and that a receiver be appointed, etc.
+We do not find in the complaint any allegation which does not relate to the joint dealings of the plaintiff and the defendant. The facts stated all appertain to" the business transactions of the parties, and constitute but one cause of action under subd. 9, § 484 of the Code of Civil Procedure. The allegation in the complaint respecting a fraudulent sale by the defendant to one Hopkins of a portion of the lumber which was owned in common, is not a separate cause of action within the meaning of the provisions of the Code of Civil Procedure, because it is not sought thereby to set aside such a sale (Hopkins not being made a party), but to declare that the plaintiff should be relieved from his assent to such sale procured through the false representations of the defendant, and that the defendant be required to account for the actual value of the property sold to Hopkins, rather than for the money actually received from him.
+As was said by the court in the case of King v. Barnes, 109 N. Y., 290; 15 St. Rep., 52 : “But we know of no rule of .law requiring that charges of fraud, incidentally arising upon an accounting with reference to partnership transactions, shall be tried by a jury. It has been the invariable rule of courts of equity to try all questions arising before a referee in the stating of accounts between partners or joint owners, and necessarily involved in such accounting since their origin, and we are referred to no authority questioning their power to do so.” This authority is sufficient warrant for our position upon that part of the decision appealed from which holds that the allegations in respect to the sale to Hopkins rendered that portion of the case one to be tried by a jury.
+ín respect to the charge in the complaint touching the sale by the plaintiff to the defendant of certain quantities of lumber, it is sufficient to say that the lumber in question appears to have been the joint property of the plaintiff and the defendant, and that the same was turned over to the defendant by the consent of both parties. It is spoken of in the complaint, it is true, as a sale by the plaintiff to the defendant; andina certain sense it was a sale. The defendant had no right to take into his own possession and control this property without the consent of the plaintiff.
+We see in the complaint but one cause of action, and that is for an accounting between the partiSs of their copartnership transactions. It follows, therefore, that the order appealed from should be reversed.
+Order appealed from reversed, with ten dollars costs and disbursements, and the motion denied, with ten dollars costs.
+Dwight, P. J., and Lewis, J., concur.
