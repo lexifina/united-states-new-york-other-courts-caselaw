@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-06-02"
+citations: ["38 N.Y. St. Rep. 574"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Harley, App’lt, v. The Buffalo Car Manufacturing Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/38/cases/0574-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2057880
+---
+
+# Harley v. Buffalo Car Manufacturing Co.
+
+## Majority (Dwight, P. J.)
+
+Dwight, P. J.
+The action was for personal inj uries sustained by the plaintiff while engaged as a laborer in the defendant’s employment .at its works in Buffalo. The cause of action claimed by the plaintiff is based upon an allegation of negligence on the part of the defendant in failing to furnish safe machinery and appliances for use in its business. “ The particular appliance complained of was the belt in use on a wood-plainer near which the plaintiff was set at work.
+The belt was composed of strips of leather four inches wide, joined at the ends by what was called the Buffalo fastener, which •consisted of a slender piece of steel of the thickness of a shingle nail and am inch and a half long, bent into a hook 'at each end. The ends of the strips were butted against each other, without lapping, and were simply hooked together by the fasteners mentioned, seven of which were employed at each joint
+Thus it is seen that the entire strain of the belt came upon these thin hooks, its constant tendency being to straighten them out or break them at the bend; and that the security of the fastening depended upon the tenacity and rigidity of the hooks. The defendant’s foreman, still in its employ, and recommended by the defendant’s counsel as an expert, testified, among other things, that this belt had been in use for two or three years, with fastenings of the same character, and that he could not tell how many times it had parted; that he would swear that it was as many as three times, on all of which occasions these fasteners would give out; “they would sometimes break and sometimes straighten out;” that he examined the belt after the accident in question, to see whether the leather parted or whether the fasteners pulled out, and found that the fasteners pulled out; that the leather did not break, but remained all right. He testified that a rivet was a good deal better than these fastenings for splicing a belt, but could not be used on such a joint as this because there was no lap; that these joints might have been made with a lap, but that it would have taken more time and been more expensive ; that of these belts, parting every day, more parted by the staples giving way, than by the leather giving way. He testified that “ it was not practical to repair a belt when it parts by getting a longer piece of leather and lapping and riveting it, because it takes too long a time, and you cannot use the belt the same day, because the cement is not set; if we had an extra belt to put on when we were doing that, it would be all right; when I have to repair a belt in that way, by lapping, cement and rivets, it is a better way than by these staples; the other way by rivets and cement is more expensive and takes more time.”
+The result- of the use of the cheaper and more expeditious mode of fastening in this particular case, was that the belt parted at a moment when the plaintiff went near the planer to do some work which he was directed to do; that one end of the loose belt struck him in the face, cutting his right cheek to the bone, and cutting the eye-ball in two, permanently destroying the eye, so that it had to be removed.
+Other experts who had used the “ Buffalo staples ” in their own works testified to its insufficiency for fastening belts where rapid motion was employed. Mr. Williams, of the firm of Williams, Bach & Co., of Tonawanda, running a planing mill at that place, testified, “We have tried them ourselves and find they do not hold; it is too small and light; in the first place they make them too soft and they stretch right out; they do not hold; I have used them at Tonawanda; we use them now on belts that have light work and run slow; for a cylinder belt it runs too fast, the velocity is so fast it will not stand the strain * * * for a quick motion it is no good.”
+Isaac P. Whitman, foreman of the planing mill of Walkan, Dohn & Fisher at Buffalo, who had used the Buffalo fastener for some purposes for six years, testified: “I do not consider the Buffalo fastener a strong, safe fastener; I consider it a fastener that is good for tacking down laps, or something of that kind, but for putting two ends of a belt together that is anything over three inches wide, I do not consider it a safe thing. * * * I had them once on a four inch belt, and the result was they came apart; I do not use them now for fastening four inch belts on planers; I do not use them for fastening any belts now; I should say in regard to that staple for fastening belts, in the way it draws out, that it was too light, too small.”
+Upon testimony of this character, the plaintiff was clearly entitled to have the question submitted to the jury, whether the defendant used all due and reasonable care to provide suitable machinery and appliances with a view to the safety of the men in its employ.
+There was no evidence or suggestion of contributory negligence on the part of the plaintiff. He had been but a few days employed in the mill, and knew nothing of what was necessary to the safety of the machinery. He went about the work to which he was assigned, and met the accident described while in the proper discharge of his duties.
+The exceptions to the order for a nonsuit, and to the denial of the plaintiff’s request to go to the jury on the question of the defendant’s negligence, were well taken.
+The nonsuit should be set aside and a new trial granted.
+Order appealed from reversed, and a new trial granted, with ■costs to abide the event
+Macomber, J., concurs.
