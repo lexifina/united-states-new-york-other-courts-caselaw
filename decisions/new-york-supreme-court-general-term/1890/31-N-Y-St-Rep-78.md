@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-03-14"
+citations: ["31 N.Y. St. Rep. 78"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George P. Lawrence et al., Resp’ts, v. Jerome F. Manning et al., Deft’s."]
+source_url: "https://static.case.law/ny-st-rep/31/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2036726
+cites_cases: ["39 Hun, 596", "45 N. Y., 647"]
+---
+
+# Lawrence v. Manning
+
+## Majority (Brady, J.)
+
+Brady, J.
+The main dispute, the existence of which rendered this action necessary, in the judgment of the plaintiffs and their counsel, springs out of an agreement between Jerome F. Manning and the plaintiffs, who, as we have seen, were acting in reference to numerous claims which they were authorized to collect. The dispute relates to the compensation which the defendant Manning is entitled to; he insisting that the written contract relates to the claim owned by the plaintiffs only, and that he is entitled, as to the others, to such compensation as may be awarded on proper judicial investigation. There is no doubt that the plaintiffs designed to dispose of that question in reference to all the persons who were made defendants, and whose claims were defended by Manning; and also, if the agreement controlled, whether he has forfeited any part of the compensation by his prohibition from practice in the court of claims, and his consequent inability to give them personal attention.
+The propriety of this action seems to be conceded by all the defendants except Mrs. Sale, who appeals from the order restraining her suit, and doubtless upon the supposition that the action is one which should not be maintained, for reasons assigned by her counsel in his argument. The position, however, of the plaintiffs as trustees is such that all responsibility attendant upon their efforts to collect the different claims presented for adjudication should be charged upon the respective funds proportionately; and the presence of Mrs. Sale for that purpose is as essential as that of any of the other beneficiaries who are joined with her. Such an action should be encouraged. As is said in the case of Railway Co. v. Ramsey, 45 N. Y., 647, “ the jurisdiction of a court of equity to interfere to prevent a multiplicity of suits, or to draw to one action cognate questions and interests sought to be litigated in many actions, is well established.” And again: “ The suit to bring to one judgment all the actions must be in one of the courts; and to make that suit effectual to the end sought, the power must be in that court -to enjoin the parties to the suits in the co-ordinate courts from proceeding therein.” It is true that the action of Mrs. Sale is the only one brought against théjrlaintiffs; but as the parties interested are numerous, it may be assumed, for the purpose of equitable interference, that the exposure of the plaintiffs to numerous and harassing litigations, apparently unnecessary, calls for the exercise of its power. This is an action in which full and complete justice can be administered to the parties interested in the action of Mrs. Sale, and hence its maintenance is not obnoxious to the doctrine of Hayward v. Hood, 39 Hun, 596. The propriety of such an action as this is distinctly stated in Railway Co. v. Ramsey, supra, in which it is said that an action may be maintained to restrain proceedings in another suit where the relief demanded in the second suit cannot be secured in the one previously commenced. In Babcock v. Arkenburgh, 22 W. Dig., 478, it was held that “ an action in equity may be maintained for the purpose of settling in one suit what might otherwise require the prosecution and determination of a number of different actions, and an injunction may issue in such suit to prevent the continuance or commencement of such other actions pending its determination.” And in 1 High on Inj., § 12, the rule is stated that the prevention of vexatious litigation and of a multiplicity of suits constitutes a favorite ground for the exercise of the jurisdiction of equity by way of injunction ; and, further, that where there is one common right in controversy, which is to be established by or against several persons, one person asserting the right against many, or many against one, equity may interfere, and instead of permitting the parties to be harrassed by a multiplicity of suits, determine the whole matter in one action.
+For these reasons the order should be affirmed, with ten dollars costs and disbursements.
+Yan ¡Brwt, P. J., and Daniels, J., concur.
