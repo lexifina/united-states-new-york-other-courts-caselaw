@@ -1,0 +1,27 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1855-06"
+citations: ["4 E.D. Smith 255"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Martin v. William V. Leggett."]
+source_url: "https://static.case.law/ed-smith/4/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 884796
+---
+
+# Martin v. Leggett
+
+## Majority (Woodruff, J.)
+
+By the Court.
+Woodruff, J.
+This appeal is submitted to us without any points or brief by counsel, from which we can learn upon what view of the facts, or the law applicable to those facts, the appellant expects a reversal. If the counsel for the appellant does not deem, his case of sufficient importance to require some examination, and a suggestion by him to the court of the views by which, in his judgment, the disposition of the appeal should be governed, he will not be surprised if we assume that he has little confidence in his appeal. And where appeals are submitted to us by counsel whose legal skiE and learning are rehed upon by the party in interest, and such counsel are either unwilling or unable to furnish arguments in support of the appeal, or aid us by a reference to such authorities as may be cited in support of their arguments, they ought not to expect the court to be astute to discover possible errors in the proceedings below, for the purpose of reversing the judgment.
+I have not been able, in this case, to discover any sufficient reason for a reversal. The notice of appeal states, as the sole and only ground thereof, that “ the justice erred in ordering that the plaintiff be nonsuited on the evidence given for the plaintiff at the trial of this action.”
+IJpon examining the return, it appears that the action was brought by the plaintiff, to recover for an aBeged balance due to him upon a contract for performing the mason work, and furnishing materials for a house. The defendant’s answer sets up the special contract for the performance of the work, &c., and avers that the work was not done in conformity with the agreement, nor to the satisfaction of the architect therein named, and that the certificate of the architect was not procured as the agreement required.
+On the trial the agreement was admitted by the parties, and the plaintiff probably gave prima, facie evidence that the work was done in conformity with the agreement. But no evidence was given that the manner of performance was satisfactory to the architect therein named, or that the plaintiff had at any time procured the certificate of the architect that the work was done in the manner specified. Nor did the plaintiff give any evidence that the defendant had waived the production of such certificate, either expressly or by partial payments, without such certificate, or by accepting the work as a performance of the contract, or in any other manner. Some of his witnesses say, that the defendant was, from time, to time, at the building, and they did not hear him find fault or express himself dissatisfied; and that is all there is in the case indicating acquiescence on his part.
+The contract, after providing in general terms for the erection of the building in the manner specified, to the satisfaction and under the direction of the architect, to be testified to by a writing or certificate under the hand of the said architect, provides for the payment therefor to the defendant the sum of $1,800, in the manner following: “ when the walls are ready for the first tier of beams, $150”—and so on, by sundry installments, “ provided that in each of the said cases a certificate be obtained and signed by the said architect.”
+By this agreement the parties had mutually agreed upon an architect, under whose superintendence and direction the building should be erected, and the manner of the work and the quality of the materials was to be approved by him; and they made it a condition, that before being entitled to receive the payments stipulated for, the plaintiff should procure his certificate that the work was properly done. This was a perfectly lawful and proper condition. It was properly made for the protection of both, by interposing the science and judgment of an expert to secure fidelity in the performance of the work and in the use of suitable materials. No excuse for the non-production of this certificate was shown. If parties voluntarily stipulate for the performance of such a condition, I can perceive no reason why it should not be enforced. On the other hand, I could suggest many reasons why the inexperienced and unskillful have need of the protection which just such a condition, rightly interpreted, will give them. In my opinion, therefore, the plaintiff was not entitled to recover any thing without proving either the production of the certificate, or a sufficient excuse for not producing it. Had he shown that the certificate was iraudulently withheld, or refused hy the architect through collusion, with the defendant, or that the defendant had waived it, he might he entitled to recover on showing, jmma faoie, that the agreement was, in other respects, performed; but I am clearly of opinion that he could not treat this condition, thus explicitly made and assented to, as a mere nullity, and claim to recover, without showing that the certificate was produced, or even demanded, or offering any excuse for its non-production.
+The judgment should be affirmed.
+Judgment affirmed.
