@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1878-04"
+citations: ["20 N.Y. Sup. Ct. 632"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Mullin, P. J'., Talcott and Smith, JJ."]
+parties: ["RICHARD FRALICK, Respondent, v. IRA BETTS, JAMES H. LOOMIS and JUDSON W. LOOMIS, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/20/cases/0632-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2355925
+cites_cases: ["20 N. Y., 181", "20 Wend., 181", "3 Hun, 545", "39 N. Y., 19", "43 N. Y., 554", "44 N. Y., 415", "45 Barb., 269"]
+---
+
+# Fralick v. Betts
+
+## Majority (Taloott, J.:)
+
+Taloott, J.:
+This is an appeal from a judgment rendered on the report of a referee.
+The action is upon a bond to procure tbe discharge of a canal boat, seized by tbe sheriff of Oswego county, on a process issued by the county judge of that county under the act providing for tbe collection of demands against ships and vessels, (Laws of 1862, chap. 482.) Tbe referee reported in favor of tbe plaintiff .for a balance due bim on a demand originally belonging to bim, and on two demands which bad been assigned to bim for tbe sum of $231.65. From this judgment tbe defendants appeal.
+Tbe canal boat in question, tbe J. K. Post, was owned by one J. D. Hartson, and was by bim taken to tbe dry dock of J. L. Pierce & Son, at tbe village of Phcenix, in Oswego county, for repairs, and she was repaired by tbe said J. L. Pierce & Son, and men in their employ, under a contract with J. L. Pierce & Son. Tbe latter were to do tbe work and furnish tbe materials. Tbe plaintiff Fralick, and bis assignors, were workmen for the said J. L. Pierce & Sons, and as such worked on the said boat in making tbe said repairs, and also on the other boats which were at tbe time in the said dry-dock for repairs. Tbe said John L>. Hartson paid J. L. Pierce & Son in full for tbe work done and materials used in tbe repairs of tbe said boat, including tbe work done by tbe plaintiff and bis assignors of tbe other demands. But Pierce & Son have not paid tbe plaintiff or bis said assignors. On tbe 17th day of October, 1874, Fralick, tbe plaintiff, made application to tbe county judge for a warrant to enforce bis claim by a seizure of tbe boat under tbe act of 1862, and such warrant was issued, and tbe boat was seized by tbe sheriff of Oswego county on tbe 16th day of November, 1874.
+It is held that a canal boat is a “ vessel ” within tbe meaning of tbe law of 1862, before referred to. (Emmons et al. v. Wheeler et al., 3 Hun, 545; S. C. more fully in 5 Sup. Ct. Rp., by Thompson & Cook, 618; Crawford v. Collons, 45 Barb., 269.)
+Tbe defendants insist that the law is unconstitutional and void, as attempting to confer on State courts jurisdiction of subject-matters of admiralty jurisdiction, in regard to which, jurisdiction is vested exclusively in tbe courts of tbe United States. (In re Josephine, 39 N. Y., 19; Vose v. Cockroft, 44 N. Y., 415.) But admiralty jurisdiction does not extend to contracts relating to a vessel wholly engaged in tbe internal commerce of a State, and no maritime lien or claim can be founded on such contracts, and tbe courts of tbe United States are wholly without jurisdiction in such eases. (Maguire v. Card, 21 Howard [U. S.], 248; Allen v. Newberry, id., 244; Brookman v. Hamill, 43 N. Y., 554, op., 558.)
+The referee finds that “ the said boat J. K. Post was an ordinary canal boat, without sails or masts, towed by horses, and was designed to navigate the canals of this State.” This finding is prima facie sufficient to show that the business of the boat was to be wholly engaged in the internal commerce of the State, and therefore contracts relating to repairs and supplies to her, are properly the subject of State regulation, and the law of 1862 is valid as to such a vessel.
+But we think the referee committed a fatal error in another respect. The action on the bond is, in effect, a jiroceeding m rem. The boat was seized by the sheriff and in order to procure its discharge from custody, the owner was compelled to enter into the bond on which the action was brought, with sureties, and if there was, in fact, no power or jurisdiction in the county judge, existing in the facts of the case, to authorize the issuing of the warrant and the seizure of the vessel, then the proceedings cannot be upheld, and this action cannot be maintained. (Vose v. Cockroft, 44 N. Y., 415, 418.)
+The referee finds that the labor performed by the plaintiff and his assignors upon the boat, was performed at the request of J. L. Pierce & Son, and was charged by the plaintiff and his assignors on his and their books of account, to J. L. Pierce & Son. In fact the plaintiff and his assignors were workmen in the employ of Pierce & Son in their dock yard, and, as such, performed labor upon this and other boats indiscriminately as they were directed by Pierce & Son. The contract of Hartson, the owner, for the repairs of the boat was made with J. L. Pierce & Son, and he paid J. L.. Pierce & Son in full for all the labor and repairs done on the boat. Pierce & Son might have, by proceeding under the Statute of 1862, obtained a lien against the boat had the owner failed to pay them for the repairs. The following named persons only, can by their contracts, create liens under the act of 1862: (See § 1.) The master, owner, charterer, builder and consignee. Pierce & Son were neither, they were employed by the owner to repair. It cannot be that every hand employed in a boat yard can file a lien on every vessel which the owner of the yard is employed to repair, especially, when the owner has paid for the labor and materials furnished, and in full for tbe repairs to tbe party with wbom bis contract was made, and tbus tbe owner of tbe boat be made to pay many times over for tbe value of tbe work done and materials furnished. We tbink tbis point is fully decided in Hubbell v. Denison (20 Wend., 181); Low v. Austin (20 N. Y., 181); and Smith v. Steamer Eastern R. Road, (1 Curtis, 253.)
+There existed, then, in tbe facts of the case, no authority entitling tbe plaintiff to proceed under tbe act of 1862, if we are correct in tbe views above stated, and tbe conclusion of law of tbe referee was erroneous and must be reversed.
+Judgment reversed and new trial ordered before another referee, costs to abide tbe event.
+Present — Mullin, P. J'., Talcott and Smith, JJ.
+Ordered accordingly.
