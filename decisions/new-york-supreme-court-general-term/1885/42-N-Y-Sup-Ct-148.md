@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1885-01"
-citations: ["42 N.Y. Sup. Ct. 148", "42 N.Y. Sup. Ct. 153"]
+decided_precision: "month"
+citations: ["42 N.Y. Sup. Ct. 148"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["TIMOTHY W. GOODING, Appellant, v. SPENCER A. BROWN and Others, Respon
 source_url: "https://static.case.law/ny-sup-ct/42/cases/0148-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2360120
-cites_cases: ["1 Johns. Ch., 149", "103 Mass., 408", "14 Hun, 110", "14 Johns., 15", "16 Abb., 465", "17 Hun, 87", "27 Hun, 331", "29 N. Y., 426", "31 Hun, 403", "41 N. Y., 480", "41 N. Y., 486", "45 N. Y., 589", "5 Am. Law. Reg., 177", "5 How., 278", "6 N. Y., 454", "61 N. Y., 564", "63 Barb., 555", "66 N. Y., 227", "7 Hun, 184"]
+cites_cases: ["1 Johns. Ch., 149", "103 Mass., 408", "14 Johns., 15", "27 Hun, 331", "41 N. Y., 480", "45 N. Y., 589", "5 Am. Law. Reg., 177", "6 N. Y., 454", "66 N. Y., 227"]
 ---
 
 # Gooding v. Brown
