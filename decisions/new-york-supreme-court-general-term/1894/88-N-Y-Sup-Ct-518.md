@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-11"
+citations: ["88 N.Y. Sup. Ct. 518"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., concurred."]
+parties: ["Marie Schutz, Respondent, v. Joseph Morette, as Sole Executor, etc., of Margaretha Metzger, Deceased, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/88/cases/0518-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4739234
+cites_cases: ["32 Hun, 466", "6 Barb. 352", "98 N. Y. 342"]
+---
+
+# Schutz v. Morette
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+An executor has power to settle an account or liability which, it is claimed, was incurred by his testator. If it be established that lie has settled or stated,such an account it is sufficient to authorize a judgment against him in his representative capacity, in an action in which the plaintiff claims to recover on an “ account stated.” The fact that the executor has settled such an account or liability may be established by proof of an express promise on his part, by acts on his part and on the part of the plaintiff, from which the law irrebuttably presumes an express promise, or by acts on the part of both, from which the tribunal determining the issue of fact properly infers the existence of such a promise. The foregoing propositions are too well settled by authority and founded in reason to require the support of many authorities. (Lambert v. Craft, 98 N. Y. 342; Magee v. Vedder, 6 Barb. 352; 3 Will. Exrs. [6th Am. ed.] 1772, 1940 and cases cited.) The fact that a settlement by an executor of an account or claim is not binding on the heirs, next of kin, devisees and legatees of a decedent, lends no support to the proposition that the executor is not bound and may dispute the claim.
+A complaint will not be held bad on demurrer which is based on the ground “that the complaint does not state facts sufficient to constitute a cause of action,” if the facts alleged (being admitted and unexplained by the demurrer) are such as authorize the inference of a liability of the defendant, or in the case at bar, if the facts alleged are sufficient to authorize a finding that defendant settled, or should be held to have settled, or to have adjusted, the claim.
+This action was begun April 17, 1894, by the service of a summons and by a conrplaint verified April 11, 1894, in -which it is alleged that, November 18, 1892, the plaintiff delivered to the defendant a verified statement of her claim against the defendant’s testatrix, a copy of which is set out in the complaint. If the statements contained in the verified claim are true, the testatrix, at the time of her death, was indebted to the plaintiff in the sum of $1,000. The claim is for personal services rendered by the plaintiff for the testatrix during some years immediately preceding her death. It is alleged, as before stated, that tlie claim was presented November 18, 1892, nearly seventeen months before this action was begun, during which time it is also alleged “ said defendant has had a reasonable opportunity for examination into the validity and fairness of the claim so presented; he has not disputed or rejected the same, and refuses to pay the same or any part thereof.”
+This unexplained delay on the part of defendant to take any action in respect to the claim is sufficient to authorize the inference that it has been accepted by him as a liability of the estate within the rule laid down in Lambert v. Craft (supra), the facts of which are more fully reported in T N. Y. Civ. Proc. Rep. 364. In that case the verified claim was presented June 1] 1883, and on the thirtieth of the same month proceedings were begun in the Surrogate’s Court requiring the executor to show cause why he should not pay the claim. These facts being shown and the further fact that the executor had taken no action whatever in respect to the claim, the Surrogate’s Court inferred the liability and decreed payment, which adjudication was affirmed at General Term (32 Hun, 466) and by the Court of Appeals (98 N. Y. 342). ¥e think that under the case last cited the court would be authorized to infer, from the unexplained facts alleged in the complaint, that the defendant had acknowledged the liability of the estate for the claim presented.
+On the trial of this case facts may be shown which will authorize the trial court to find that the defendant, under the circumstances, ought not to be held to have conceded the liability of the estate for the plaintiff’s claim. The facts alleged are now admitted, and, although the defendant may be unable to deny them in his answer, or to disprove them on the trial, he may be able to give evidence of , such explanatory facts as will leave the issue — whether the defendant has settled'the claim— an open one for the determination of the tribunal before which the action shall be tried.
+The interlocutory judgment should be affirmed, with costs, with leave to the defendant to withdraw his demurrer and answer upon the payment of costs.
+Yan Brunt, P. J., concurred.
+Judgment affirmed, with costs, with leave to defendant to withdraw demurrer and answer on payment of costs.
