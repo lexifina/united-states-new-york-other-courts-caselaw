@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-01-24"
+citations: ["29 N.Y. St. Rep. 372"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Patrick O’Neil, Administrator, Resp’t, v. Charles Kinken, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664567
+---
+
+# O'Neil v. Kinken
+
+## Majority (Yan Brunt, P. J.)
+
+Yan Brunt, P. J.
+After reading the evidence produced upon the trial of this case we see no ground for disturbing the verdict of the jury. The principal contention of the appellant upon this appeal is that the verdict is against the weight of the evidence. The deceased was a child of about four and one-half years old, and is claimed to have been injured by falling down a stair which was in a defective condition. The evidence produced upon the part of the plaintiff tended to prove that as the deceased was going down these stairs, just in front of her mother, she took hold of a rung of the banister which came out and she fell to the bottom of the stairs and was injured. There was further evidence that the stairs had been a long time out of repair, and that the defendant, the landlord of the premises, had been notified of it, but had neglected to repair the same. There was no proof that the parents of the deceased knew of the defective condition of the stairs, although the jury would have been justified from the evidence m finding that if they were in such bad repair that they must have known it
+The evidence upon the part of the defendant tended to show that the stairs were not out of repair, that they were in good, condition, and that the accident could not have happened from the cause assigned.
+This conflict of evidence raised an issue which the jury were called upon to solve, which they did against the defendant, and there does not seem to be any such preponderance of evidence in support of the theory of the defense as would justify us in reversing this verdict
+The jury had the witnesses before them, their motives for testifying were brought out before them, and they were well able to judge of their credibility.
+It is further urged that the complaint should have been dismissed at the end of the case, because of the contributory negligence of the parents of the deceased. That if the plaintiff’s contention as to the wretched condition of the stairs is true, it was very clearly contributory negligence to allow the child to go up and down without holding her hand, and that the parents should not have remained upon the premises.
+It is undoubtedly true, as has been already said, that the jury might from this evidence have found contributory negligence; but they have found that there was none, and, in view of the evidence of the mother of the child, that she did not know of the defective condition of the rungs of these banisters, the court could not as matter of law say that she knew, but was bound to leave the question to the jury.
+The only exception to the charge which is brought to our attention is not well taken.
+The only evidence upon the subject was to the effect that hip disease had been occasioned by the injury, and that it would be permanent, and this was certainly a fair and the only inference that could be drawn from the evidence.
+The question was not whether hip disease was ever cured or .not, but whether this case was curable, and the evidence distinctly was that it was not, and fully justified the charge of the court.
+There is one other exception referred to, but it does not need particular mention. The judgment and order appealed from should be affirmed, with costs.
+Brady and Daniels, JJ., concur.
