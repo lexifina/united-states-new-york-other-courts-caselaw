@@ -1,0 +1,34 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1892-06-27"
+citations: ["47 N.Y. St. Rep. 116", "19 N.Y.S. 818"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Horton A. Chapin, App’lt, v. Louis M. Allen, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/47/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2086915
+cites_cases: ["10 Johns. 198", "10 Johns., 198", "18 N. Y. Supp. 143", "45 St. Rep., 50", "46 St. Rep., 191", "60 N. Y. 146", "60 N. Y., 146", "9 Allen, 45", "92 N. Y. 529"]
+---
+
+# Chapin v. Allen
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+—This action was brought upon a promissory note. On the trial the following facts appeared: Early in the .spring of 1890 appellant entered into a contract with the respondent to place a steam-heating apparatus in his house at W estwood, N. J., the whole to cost $409.72. When the work was done, the respondent paid all but fifty dollars in cash, and at the same time gave the promissory note in question in the words and figures following:
+-“ $50.00. Westwood, June 20Ih, 1890.
+“ Six months after date I promise to pay to the order of Horton A. Chapin fifty dollars, at Westwood, for value received; payable ■sooner, provided that the heater in my house at Westwood proves to work satisfactorily.
+“L. M. Allen.”
+At the .time this payment was made, the appellant signed the following special warranty, endorsed upon a letter written by him in April, 1890, containing specifications for the heater and a portion of the terms :
+“ P. S.—The above apparatus to thoroughly heat your house to ;a temperature of seventy degrees in zero weather, and to work to your satisfaction.
+“Yours, etc., H. A. Chapin.”
+On the trial the appellant maintained that this warranty was ■demanded on the day the payment was due for the first time, that is, in the month of June; while the respondent maintained that it was only the embodiment in writing of a previous oral warranty made at the time of the oral contract and omitted from plaintiff’s letter containing specifications, etc. There being this •conflict of evidence, the finding of the court below is conclusive upon us, and we are bound to hold that the warranty was a part of the original agreement, and hence appellant’s contention that it was without consideration fails.
+In December, 1890, there was an interview between the respondent arid appellant, and during that month several letters passed between them ; the respondent asserting that appellant’s apparatus was leaking and otherwise working unsatisfactorily. Late in that month the appellant sent a mechanic to the respondent’s house, who performed certain work on the apparatus in Mr. Allen’s absence, but which did not, as he claims, remedy the defects in the boiler. At maturity the note was presented for payment, which was refused; hence this action.
+The judge who tried the case rendered a judgment in favor of the respondent on his defence to the note, but dismissed the counterclaim which was set up, without prejudice, for lack of evidence from which to compute the exact extent of respondent’s damages. From what has been said it is apparent that the promissory note sued upon was subject to a condition precedent, the non-performance of which would be a bar to a recovery in this action. It was not an ordinary commercial note made as part payment. It was a conditional one, the condition being that the apparatus put in should work satisfactorily. In other words, a part of the purchase money was withheld until the apparatus could be tested in cold weather. And as security for its satisfactory working, this note was given in .pursuance of the warranty before mentioned; and if there was a failure of the apparatus to properly heat, then of course the note was not to be paid in whole or in any part, if it required the whole of the note to put the apparatus in proper working order.
+That this was the understanding of the parties at the time we think is established by the admission of the plaintiff, who says: “ It was understood this note was to take the place of a guarantee and the language of the note, which was made “ payable sooner provided the heater proves to work satisfactorily;” this would never have been inserted had it been given simply to obtain credit. We think it necessarily implies a condition, the full expression of which would be, “ payable in part only, or not at all unless the apparatus works satisfactorily.” The rule of law that between maker and payee conditions precedent can be proved by paroi is unquestioned, even where the face of the note is absolute. Steph. Dig. Ev., Chase ed., 163; Denniston v. Bacon, 10 Johns., 198; Bookstaver v. Jayne, 60 N. Y., 146; Juilliard v. Chaffee, 92 id., 529; Aldrich v. Stockwell, 9 Allen, 45. On the trial it appeared from the respondent’s evidence, which the court believed to be the most reliable, that the apparatus did not work satisfactorily; that it did not heat the house as it should; that it consumed more .coal than had been represented, and that it leaked and otherwise worked unsatisfactorily. These defects were substantial, and such as a reasonable man would have a right to object to, and largely diminished the value of the apparatus and the work done in putting it up. Hence, the appellant failed to perform the condition precedent, and had no right to recover upon the note anything except that which might be left after putting the apparatus in complete working order. It does not appear from the return how much this would have been, but we think there was quite enough evidence in the case to sustain the judgment rendered in the court below, and that to cure the defects Would have cost at least the amount of the note in controversy, and properly gave a verdict in his favor upon that ground.
+The learned judge who tried the case having found that the warranty was a part of the original contract, which was verbal throughout, and was subsequently by the appellant only in part reduced to writing, the question of paroi evidence to vary a written instrument does not arise. It is not analogous to the case of Lamson Consolidated Store Service Co. v. Hartung, 45 St. Rep., 50, and the cases there cited. See also the opinion in the same case handed down at the last general term of this court. 46 St. Rep., 191.
+The question of a counterclaim having been litigated in the court below, and the learned judge having dismissed it for want of proof, we think it the end of that counterclaim. It cannot be again litigated, as the matter is res adjudicata between the parties ; there having been evidence offered upon that subject, they cannot' be permitted to again litigate it. But we do not think it is necessary to reverse this judgment for that reason.
+The judgment should be affirmed, with costs.
+Bischoff, J., concurs.
