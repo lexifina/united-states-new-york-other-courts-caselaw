@@ -1,0 +1,33 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1888-06-07"
+citations: ["16 N.Y. St. Rep. 688"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Muhr, App’lt, v. The Mayor, etc., of the City of New York, Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/16/cases/0688-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2004449
+---
+
+# Muhr v. Mayor of New York
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+On the argument it was admitted by the counsel on both sides that there was no conflict of evidence on any material point in the case.
+On the 15th of January, 1887, at about nine o’clock in the evening, the plaintiff was crossing the Harlem bridge, going northward, to his home in Mott Haven.
+While the plaintiff was on the draw the signal was given to open the bridge, and the gates on the stationary part of the bridge at both ends of the draw were closed and the draw began to move.
+The plaintiff was then within fifteen or twenty feet of the north end of the draw, he says walking fast, the defendants’ witnesses say running, to get on the northern end of the bridge toward his home; when he reached the end of the draw he says he fell from it into the river; defendants’ witnesses say he got on the northerly end of the stationary part of the bridge and fell from that.
+He says he did not hear any whistle blow. That he was not paying any attention to it, whether it was or not; he did not see the police officer, nor the gate keeper, although both were there on the stationary part of the bridge. He didn’t see the lamp, nor whether it was lit or not because he was going home in a hurry. He saw lights on the bridge and also many people, but did not notice whether the gates on the north end of the bridge were shut or not.
+It was proved that the bridge was thoroughly lighted by electric lights, and that the night was clear. He was seen by the policeman stationed on the bridge, and also by the gate keeper, both of whom were standing on the northern stationary part of the bridge, he was then walking and fifteen feet from the end of the draw, as it commenced to move, he started to run; and the policeman shouted to him to stand back and also made a pass at him with his club in the endeavor to push him back on the draw, where he would have been safe.
+Plaintiff has, for some years, lived near the bridge, and daily worked within sight of it; and be says that “from having seen the bridge open, he knew" it was apt to be opened at any moment.”
+It is as much the duty of the plaintiff to show, either by direct testimony, or by facts and circumstances by which it may be reasonably inferred, that he was himself free from negligence as to establish the fact that defendants were guilty of negligence.
+It is true, that plaintiffs in negligence actions, seldom fail to do this; and hence dismissals, on this ground are rare. But when a case arises on uncontradicted evidence, requiring the court to dismiss the complaint, or direct a verdict, it is its duty to do so.
+While the defendant is bound to keep its streets and bridges in such repair that one may pass along them in safety, without being on the constant lookout for dangerous places, yet, if one, in consequence of not looking, steps over the edge of the sidewalk and falls or is injured he cannot recover.
+According to plaintiff's own testimony, he walked on the draw of the Harlem bridge, which he knew was liable to be opened any moment, without looking around to see whether it was about to be opened or not. He paid no attention to the warning whistle, nor to the shouts of the policeman. Although the bridge was well lighted and the night was not dark, he failed to see that the gates were closed on the end of the bridge he was approaching. He also failed to observe that the draw was in motion. In fact, according to his testimony, he exercised no caution whatever in crossing what he knew Was a place where some care was needed.
+If, on the other hand, we assume the testimony offered by the defendants the true version" of the occurrence, then he was equally guilty of negligence in attempting to get off the draw while it was in motion, in disregard of the warning of the policeman. In either case he cannot recover.
+Nor do we think there was any negligence proven on the part of the defendants. The only fact which could in any way be construed into negligence on their part is that the-gates at the southerly end of the bridge were not closed when plaintiff went upon the draw. It does not appear how long he had been upon it, nor how long it would take-him to cross it. At any rate, the fact of his being upon the draw when it was opened was not th’e proximate cause of the injury. Had he chosen, he could have remained on it-until it was closed again with perfect safety. This he did not choose to do, but because he was in a hurry to get home, he attempted to get on the northerly end of the bridge while the draw was in motion, taking upon himself the peril of the act, or else walked off in sheer heedléSsness. The defendants having placed gates on both ends of the stationary part of the bridge, and persons in charge to-close them when the draw was about to be opened, and these persons having apparently done that duty in this, case, it cannot be possible that the defendants were guilty of negligence in not having put up a gate or chain at the ends of the draw to prevent reckless persons from walking off.
+The judgment should be affirmed, with costs.
+Larremore, Ch. J., and Allen, J., concur.
