@@ -1,0 +1,19 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-01-18"
+citations: ["65 N.Y. St. Rep. 205"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sarah Lazarus et al., Resp’ts, v. Metropolitan Elevated Railway Company et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/65/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2107530
+---
+
+# Lazarus v. Metropolitan Elevated Railway Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+May 27, 1893, this action was referred to a referee to hear and determine; and on March 22, 1894, it was finally submitted to him for decision, and, by written stipulations between the attorneys, his time to decide the cause was extended until October 27, 1894. On May 12, 1894, chapter 688 of the laws of that year was enacted, to take effect June 1, 1894, repealing § 1023 of the Code of Civil Procedure, which authorized either party to a litigation to request the court or referee to determine all of the issues of fact and law deemed to have been involved in the action. Section 1023 was repealed after this action was submitted to the referee, but the repeal took effect before he made his decision. The attorneys for the defendants, believing that 58 issues of fact and 22 issues of law were involved in the action, on the 22d of March, 1893, requested the referee to pass on that number of issues of fact and law. Upon the decision of the case, the referee did not note on the margin of the various propositions of fact and law how he had disposed of them, but, instead, stated concisely the facts found and ins conclusions of law, in the form prescribed by § 1022 of the Code of Civil Procedure, as amended by the third section of chapter 688 of the Laws of 1894. At the date of the decision of this case, there was no statute which required the referee to determine the various propositions of law and fact requested by either litigant, and there is no provision in the statute excepting from its operation cases pending at the time of its passage. Section 1023 did not relate to the substantive law of the state, but prescribed a rule of procedure; and it is too well settled to require the citation of authority that the practice of the court may be changed so as to affect pending actions. The referee, so far as the procedure was concerned, had the right to adopt the form of decision authorized at the time he rendered his decision. In case a statute taking effect after a cause had been submitted to a referee should require the report to be made in a particular-form, or that it should be filed within a given time, we have no doubt that it would control the practice of a case so situated. By the Code of 1848, and again by the Code of Civil Procedure, the practice of the courts was radically changed, and the new practice has been held applicable to pending cases, and that a step in procedure is to be taken according to the rule in existence when the prescribed step is taken. We think that neither party had' the right to require the referee to pass upon the requests, pursuant to the repealed section of the Code. The order should be affirmed, with $10 costs and disbursements.
