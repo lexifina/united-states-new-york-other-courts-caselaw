@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02"
+citations: ["62 N.Y. Sup. Ct. 463"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY J. MILLSPAUGH, Appellant, v. DE WITT VAN ZANDT, Individually and as Executor of the Last Will and Testament of ABRAM B. VAN ZANDT, Deceased, and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/62/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4612395
+---
+
+# Millspaugh v. Van Zandt
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+' This is an action for the partition of real property, and is brought in disregard of a will which undertook to dispose of tbe property.
+Abram B. Yan Zandt died seized and possessed of the premises in question in July, 1881, leaving a last will and testament, which was duly proved and admitted to probate in the following month. By his will, after some provisions unimportant here, the testator gave all the residue of his property, which included the farm in question, to his executors in trust for several purposes, and this, among others: “ It is my desire, and I hereby direct my said executors to hold my said farm for the purposes of the trust herein declared for and during the natural life of my said wife, unless before that time the sum of ninety dollars per acre can be realized therefor, or unless before that time, in the judgment of all my executors hereinafter named, or so many of them as shall be then surviving, it shall be deemed to be for the best interest of my said estate and of my said wife and children that the same should be sold at a less price, and in each of the several cases above contemplated I hereby authorize, direct and empower my said executors to sell my said farm at public or private sale, and give to the purchaser or purchasers thereof good and sufficient deed or deeds of conveyance thereof.”
+Another object and purpose of the trust was to apply certain income from this farm towards the support and maintenance of the wife of the testator so long as she remained unmarried.
+Another provision of the will was this: “ When the said farm shall be sold as hereinbefore provided, I direct my executors to convert all my estate into cash, and to divide the proceeds into such number of equal parts as will give one share to my wife, if then living.” * * *
+The executors executed the will but never sold the farm. They applied the income to the support of the widow until her death in March, 1886, and now the theory of the plaintiff, upon which this action is prosecuted, is that the power of the executors to sell the land has ceased, because the power of sale was not exercised during the lifetime of the widow.
+Our view is directly the reverse. The primary intention and purpose was plainly expressed, to place the title of the property in the executors m trust, tobe held by them for the benefit of his wife during her life, unless sold for ninety dollars an acre, or for some other cause which they might deem sufficient, and on the death of the wife they were to convert the whole property into money and make a division of the same among the devisees in the manner provided. It follows that the plaintiff has no title and that the action cannot he maintained.
+The judgment should be affirmed, with costs.
+Barnard, P. J., concurred.
+Judgment affirmed, with costs.
