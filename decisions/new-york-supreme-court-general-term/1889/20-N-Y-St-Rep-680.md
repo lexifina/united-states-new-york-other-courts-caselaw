@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-01-11"
+citations: ["20 N.Y. St. Rep. 680"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John McEwen, Resp’t, v. The Northern New York Manufacturing Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/20/cases/0680-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2014962
+---
+
+# McEwen v. Northern New York Manufacturing Co.
+
+## Majority (Barker, P. J.)
+
+Barker, P. J.
+We sustain the appellant’s position that the answer sets up a counter-claim.
+The damages sustained by the defendant by reason of the breach of warranty were unliquidated, and in the law are to be considered as nominal only in the absence of proof that they were actually more. No case has been made giving a history of the trial. We have nothing before us but the judgment-roll.
+If the recitals in the referee’s report can be accepted as presenting the rulings which were made by the referee on the trial, and in such form and manner that they may be considered by this court on this appeal, no exceptions were taken thereto by the appellant. Therefore no legal' question is presented for review.
+The report states that the defendant offered no proof, so it cannot be said that he is entitled to have the amount of the plaintiff’s recovery diminished beyond a nominal sum for any reason appearing by the record. After the trial was concluded, neither party having offered any proof, the defendant asked the referee to hold, as matter of law, that the answer set up a counter-claim, and he refused so to find, and the defendant filed and served an exception to such ruling. This exception is not available to the appellant, as at the time the ruling was made and the exception taken, the trial had been concluded, and if the referee had held that the answer set up a counter-claim, as we think it did, it would not have availed the defendant anything, as it had not proved any damages arising from the breach of the contract sued upon; nor does it appear that the defendant at any time offered to prove that it had sustained any damage by reason of a non-performance of the agreement by the plaintiff.
+For these reasons we think this judgment should be confirmed.
+All concur.
