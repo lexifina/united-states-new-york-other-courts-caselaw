@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1885-03"
+citations: ["2 How. Pr. 105"]
+reporter: "how-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of New York, respondents, agt. Edward Seeley, appellant."]
+source_url: "https://static.case.law/how-pr-ns/2/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2290761
+cites_cases: ["11 Hun, 82", "28 Hun, 1", "36 N. Y., 369", "83 N. Y., 194", "84 N. Y., 478"]
+---
+
+# People v. Seeley
+
+## Majority (Barker, J.)
+
+Barker, J.
+The statute creating and defining the offense of which the defendant was convicted, is terse in expression as well as plain in its provisions. It declares that “ a person who takes a female under the age of sixteen years for the purpose of prostitution or sexual intercourse, or without the consent of her father, mother, guardian or other person having legal charge of her person, for the purpose of marriage, * * * is guilty of abduction and punishable by imprisonment for not more than five years, or by a fine of not more than one thousand dollars, or by both.”
+The only serious question presented is as to what acts on the part of the accused person will constitute an unlawful and criminal taking within the sense and meaning of the statute. We think it clear,- in view of the nature of the wrong which the statute intended to punish, that it is not necessary to constitute the crime that the accused should in any case use any force or practice any fraud or" deception, and that it is 'sufficient within the statute if the female is induced by his request, advice or persuasion to go from the place where the accused met and approached the prosecutrix with the request and solicitation for her to accompany him or meet him at some other place indicated by the accused, with the intent and purpose there to accomplish the wicked act of her defilement.
+The offense may be accomplished without an actual manual capture of the female, nor is it necessary that she should be taken against her will. The section, as originally adopted, required that the taking should be without the consent of the father, mother, guardian, or other person having legal charge of the prosecutrix. To constitute the offense, as the statute now reads, it is not necessary that the girl should be taken from.her parents or other custodian of her pez-son. If the constz’uction which we have placed upon the statute, is the correct one, then the evidence was szzfficient to sustain the conviction and the defendant’s guilt was established beyond much, if any, doubt.
+As the unlawfzil act mentioned in the statute constitutes the cz'ime of abduction, we are aided in giving construction to the statute by the definition and meaning of the phrase abduction, as the same is used by jurists, law writers and lexicographers. Blackstone defines abduction to be the taking and carz’ying away of a child of a parent, or the wife of a husband, either by fraud, perszzasion or open violence. (3 Blacks. Com., 139, 140.)
+When the word is used as a law phz’ase, Webster adopts and approves of this definition.
+The English statute on the same subject (9 Geo. IV., chap. 31, sec. 20), ■ provides : “ If any person shall unlawfully take or cause to be takezi any unmarried female, being under the age of sixteen yeaz’S, oizt of the possession and against the will of her father or mother, or of any other person having the legal chaz*ge of her pezuon, shall be guilty of a misdemeanor.” The English couz’ts, in giving construction to this statute have frequently held that thez’e need be no foz’ce, actual or constructive, and that slight enticeznent and persuasion, by which the female either accoznpanies or meets the abductor is sufficient (Regina agt. Mankelton, 6 Cox Crim. Cases, 143; Regina agt. Timmins, 8 Cox Crim. Cases, 401). In Regina agt. Oliver (10 Cox Crim. Cases, 403), the court said that if the prosecutrix acted under the advice and persuasion of the accused, it constituted an unlawful and criminal taking within the meaning of the statute.
+Upon the trial of an indictment founded upon a section of the ¡Revised Statutes, which enacts that every person who shall take any woman, unlawfully against her will, with intent to compel her by force, menace or duress to marry him, or to marry any other person, or to be defiled, it was held that it was not necessary for the prosecution to show that actual physical violence had been used by the prisoner, to constitute a taking of the prosecutrix against her will, within the meaning of the section, but that it was sufficient if she had been induced by deceit or false pretenses of the prisoner, to go to the place, and proof that she had been induced to go there on the pretense that she could find employment as a servant constituted a violation of the statute, and brought the case within the sense and meaning of the law and justified a conviction (Beyer agt. The People, 36 N. Y., 369; Schineker agt. The People, 83 N. Y., 194).
+We have looked into the case of Kaufman agt. The People (11 Hun, 82), where the indictment was founded on chapter 105 of the Laws of 1848, and we are unable to find any point adjudicated contrary to the views which we have expressed. The charge of the court was fair and intelligent, clearly presenting for the consideration of the jury all the legal propositions involved, to which the defendant interposed no .exceptions, and we are unable to discover any reason for reversing the judgment after considering the legal questions presented.
+The motion for a new trial after the verdict was rendered, upon the ground that the jury were guilty of misbehavior was properly denied, and in reaching a conclusion on this question we follow the case of the People agt. Draper (28 Hun, 1), which is a decision of this court.
+The omission of the jury to render .a verdict upon the second and third counts is not such an irregularity as should lead to a new trial, for the omission to find one way or the other is equivalent to an acquittal on those counts, and a judgment as to them is a bar to a further prosecution (People agt. Dowling, 84 N. Y., 478.)
+As judgment has been pronounced upon the conviction, and there does not appear that there has been any stay in its execution, it is only necessary for us to order an affirmance.
+Judgment and order affirmed.
+All concur.
