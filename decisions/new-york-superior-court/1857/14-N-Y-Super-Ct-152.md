@@ -1,0 +1,43 @@
+---
+court: "New York Superior Court"
+decided: "1857-04-25"
+citations: ["1 Bosw. 152", "14 N.Y. Super. Ct. 152"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carrington & Dougherty v. The Commercial Fire and Marine Insurance Company of Jersey City."]
+source_url: "https://static.case.law/ny-super-ct/14/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1346051
+---
+
+# Carrington v. Commercial Fire & Marine Insurance of Jersey City
+
+## Majority (By the Court. Bosworth, J.)
+
+By the Court. Bosworth, J.
+By the terms of the contract of November 30, 1854, the defendants “re-insure the .American Mutual Insurance Company, of Amsterdam, upon the following policies issued by them,” (a detailed statement of which policies is embodied in and forms part of the contract,) “ loss, if any, payable to the assured upon the same terms and conditions, and at same time, as contained in the original policies. Re-insured, from November 30, 1854, twelve o’clock at noon, to the expiration of the policy.”
+If the word “ assured, ” as used in this contract, means the party re-insured, the present plaintiffs have no interest in the contract, and no right to maintain an action upon it.
+Assuming the word “ assured,” as there used, to have that meaning, and the contract to be valid, the plaintiffs must look to the American Mutual Insurance Company alone, and to its assets which have and may come to the hands of its receiver, for indemnity.
+They have no lien upon the contract in question, nor right to the moneys which the defendants may pay under it. Such moneys, when paid, will form part of the assets of the company which insured them, and the plaintiffs must be paid pro rata with its other creditors.
+These propositions are so well settled, that it is unnecessary to do more than refer to the cases which have determined them: Hone et al., Receivers, &c., v. The Mu. Safety Ins. Co., 1 Sand. 137; affirmed by the Court of Appeals, 2 Coms. 235; 1 Arnould on Ins. 288, § 119; Parsons on Mercantile Law, 514, § iv.
+The contract of the 30th of November, according to the view taken of it by the complaint, is one, by which the defendants “ agreed, in substance, to assume, and did thereby assume, the liabilities, contracts, and agreements of the said American Mutual Insurance Company, in the said policy created and contained; and promised and agreed to pay the loss, if any, under the said policy, to the plaintiffs,” &c.
+The complaint, however, also avers, that on or about the 30th of July, 1855, the said American Insurance Company released and assigned to the said plaintiffs all the claim and demand of the said American Insurance Company against the said defendants, by reason of the premises, of which the said defendants had notice: These allegations are put in issue by the answer.
+There is no evidence in support of the fact of such an assignment, and there could not well be any, as such corporation had been dissolved long prior to the 30th of July, 1855.
+If the word “ assured” does not mean the party “ re-insured,” and that party only, then it includes and embraces not only the plaintiffs, but also nineteen other individuals and firms. By the contract of re-insurance, the defendants took upon themselves the risks, which the corporation re-insured, had incurred, by issuing twenty separate and distinct policies.
+The Chief-Justice must have supposed that the word “assured,” as used in the contract in question, was a word of clear import and obvious application, and, for that reason, excluded evidence offered to show, that by it the defendants and the agent of the other contracting party, understood and intended it to apply to the persons named as the assured in the original policies. The contract is one of re-insurance.
+The risks incurred by the American Mutual Insurance Company, by the particular policies which it had previously issued, were the subjects of the contract. By the very terms of the contract, the latter Company were re-insured “ upon the following policies issued by them,” and were properly and truly named in it, as the “ assured.” They were as truly, in fact and in law, the “ assured,” within the meaning of that word, as used in that contract, as were the plaintiffs, in the policy issued to them by the American Mutual Insurance Company.
+To treat it as made for the benefit of the original assured, and providing that the loss, if any, should be paid to them, so as to give them a right to recover the amount of the loss, and retain the money for their own indemnity, is in effect making it a double insurance, rather than a contract of re-insurance.
+If a contract of re-insurance, the fruits of the contract belong solely to the party re-insured, and must be distributed by the receiver, as part of its general assets, and in the same manner, as the other assets of the insolvent corporation.
+If it is a contract, by virtue of which the original assured may recover in their own names, and retain for their exclusive indemnity, the moneys which the defendants are liable to pay, then it possesses none of the elements of a contract of re-insurance.
+To give it such a construction, is not only varying its clear legal import, but, in our opinion, its express terms.
+Any parol evidence offered to produce that result, should be excluded; 1 Sand. S. C. R. 151, 152.
+In the case of Hone et al, Receivers, v. The Mu. Safety Ins. Co., 1 Sand. 138-9, the contract of re-insurance “was the usual printed form of a fire policy, with no change, except the insertion in writing of the prefix re, before the word insure, in the commencement of the instrument.” By it, citing its words, “the said company do hereby promise and agree to make good unto the said insured, their executors, administrators and assigns,” &c.
+That contract, being by its terms one of re-insurance, the Court refused to receive parol evidence, varying its legal import as such.
+We think it quite clear, that even assuming the contract to be valid, it is one in which the plaintiffs have no interest, and therefore one, upon which no action can be maintained, in their names, as plaintiffs.
+This presents a case of an entire failure to prove, in substance, or legal effect, the averments contained in the complaint, as the basis of a cause of action in favor of the present plaintiffs. Code, § 171; Mann v. Morewood et al., 5 Sand. 557.
+These views, if sound, render it unnecessary to determine the question whether the contract is obligatory upon the defendants.
+The contract by its terms, and in legal effect, is one between two corporations. One of them, the party re-insured, was disabled from contracting, by an order of the Supreme Court, made prior to the date of the contract. That order enjoined and restrained that corporation, and each and every of its officers “ from exercising any of its corporate franchises,” and sequestrated its effects, and continued it “ in existence so far only as” might (“ may) be necessary to enable the receiver to be appointed,” &c., “ and for no other purpose whatever,” and declared that for all other purposes, “ when the above specified objects shall be attained, the said corporation be, and is hereby dissolved.”
+Whether the receiver, at his election, with or without an order of the Court, is competent to adopt and ratify the contract, and enforce it against the defendants, is a question which does not now arise.
+We think it quite evident, that neither the Corporation, nor any of its officers, subsequent to the order of the 27th of November, could make any contract, which would bind the Corporation as such, or on which any claim could be established, creating a right to have it satisfied out of its assets.
+The contract was made by its agent, and the defendants, upon a mutual mistake, as to the continuing capacity of the re-insured Corporation to make a contract. Whether the defendants, after having received the whole consideration of the contract, and continuing to retain it, can be made liable to any party by reason of, and upon the contract, we are not disposed to discuss, having come to the conclusion, that the plaintiffs have given no evidence in support of the allegations, that by the terms of the contract, the loss, if any, was to be paid to them, and that all the interest of the American Mutual Insurance Company in it, as a competent and actual contracting party, had been assigned to the plaintiffs. The verdict must be set aside, and a judgment entered dismissing the complaint—under the stipulation, giving that power to the Court, and contained in the printed case.
