@@ -1,0 +1,40 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-05"
+citations: ["93 N.Y. Sup. Ct. 508"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Putnam, J., concurred."]
+parties: ["Clarissa Miles, Respondent, v. The Fonda, Johnstown and Gloversville Railroad Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/93/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4778081
+cites_cases: ["111 N. Y. 199", "80 Hun, 92"]
+---
+
+# Miles v. Fonda, Johnstown & Gloversville Railroad
+
+## Majority (Stover, J.:)
+
+Stover, J.:
+The circumstances under which this accident occurred have been heretofore reviewed by this court in the case of Shires v. The Fonda, Johnstown & Gloversville Railroad Company (reported in 80 Hun, 92). In the case cited the action was brought by the driver and the owner of the vehicle. This action is brought by a passenger.
+I think the evidence in this case shows a different state of facts from that appearing in the Shires case. In this case four witnesses have testified that they were listening; that no bell was rung, whistle blown or signal given as defendant’s train approached the crossing. Other witnesses testified that a hell was rung; hence this question was properly submitted to the jury.
+As to the contributory negligence of the plaintiff, in the Shires case the plaintiff testified that he did not look to the south, from which direction the train was approaching, after he reached a point forty-five feet from the railroad track. In this case plaintiff swore slie looked when twenty-five or thirty feet from the track, but did not see the approaching train. The question for the jury was whether the passenger had been guilty of contributory negligence, and I think that question was properly submitted to the jury.
+On the whole case, as the facts appear on- this trial, I think the question of contributory negligence was for the jury within principles established in Hoag v. N. Y. C. & H. R. R. R. Co. (111 N. Y. 199); Massoth v. D. & H. C. Co. (64 id. 524) and like cases. In the Hoag case deceased and her husband could see down the track a long distance for seventy feet before reaching it, yet the court held the case should have been submitted to the jury.
+In this case there is evidence that plaintiff was going from four to six miles an hour and the train eighteen miles. At that rate the wagon was traveling about seven feet per second and the train about twenty-six feet. Probably the train could not have been seen before the wagon passed the elm tree sixty feet from the track. "When the plaintiff passed the tree the horse was only about seven or eight seconds from the track and the train may not have been in sight. It should be remembered that the railroad track made a short curve from the bridge to the crossing and that the plaintiff, Shires and Shires’ wife were sitting on one seat facing the west. 'When the wagon was about thirty feet away, say four seconds, from the track, at which point plaintiff said she looked to the south, the train may have been one hundred feet distant. The evidence of the plaintiff that she looked and did not see it is not incredible. The train was coming around a curve, behind her. As she sat facing the west, with two others in the seat, doubtless unable to turn around and look back of her, it is not improbable that the cars were not in her line of vision, looking to the left as far as she could see. The witnesses who afterwards stood in the street at the place of the accident, with their faces to the south, could see to the railroad bridge, but a person driving to the west, sitting on a seat with two others, and naturally unable to look backwards, could not very likely see more than seventy-five or one hundred feet as the witness Cross testified.
+As we have seen, when plaintiff passed the elm tree, the horse’s head was probably about eight seconds from the track. Plaintiff then might, without being deemed negligent, turn and look to the right and after that to the left, as she swears she did at twenty-five or thirty feet from the track. When she again looked the horse was on the track.
+The facts were all before the court and jury. I do not think it clearly appeared from the uncontradicted evidence that plaintiff’s negligence contributed to her injury, and hence conclude the case was properly disposed of on the trial.
+Putnam, J., concurred.
+
+## Dissent (Herrick, J.)
+
+Herrick, J.
+(dissenting):
+This is an appeal from a judgment rendered upon the verdict of a jury in favor of the plaintiff and against the defendant. The action is founded upon an accident that occurred on the 10th day of May, 1893.
+Another case arising out of the same accident has been heretofore before this court, and is reported in 80 Hun, 92.
+The facts in each case are substantially the same; practically the only difference' is that in that case the action was brought by the driver of the wagon that collided with defendant’s train, and in this action the plaintiff was a passenger in said wagon.
+The horse attached to the wagon in which plaintiff was seated appears to have been entirely under the control of the driver, and as stated in the Shires Case (80 Hun, 92), defendant’s train was in plain sight of the occupants of the wagon for a distance of 200 feet before the crossing was reached at which the accident occurred; it could be seen by the occupants of said wagon, had they looked, in sufficient time to have stopped, or to have turned out upon either one of two turnouts from the main road before the crossing was reached.
+Recognizing the fact that the responsibility of the driver of a vehicle and of a passenger therein is different in degree, still I am unable to find any evidence in this case to submit to a jury showing that the plaintiff was, free from contributory negligence. And in cases of this kind it is too well established to need citation of authorities that the plaintiff must show affirmatively her own freedom from negligence in order to enable her to maintain her action; this she has failed to do.
+From the oral evidence in this case, and the maps of the locality-submitted, it is perfectly apparent that had the plaintiff discharged the duty devolving upon a person approaching a dangerous crossing it would have been impossible that she should not have either heard or seen the approach of the defendant’s train in ample time before the crossing was reached to have avoided the danger, or at least to have made an attempt to avoid the danger, that would have released her from the imputation of contributory negligence. Under the circumstances of this case, the fact, if it be a fact, that she did not hear or see the approaching train, is of itself sufficient to satisfy me that she neither looked or listened, when she should, or might have done so ; therefore, she did not discharge the duty resting upon her in approaching such a locality. The judgment should be reversed and a new trial granted, costs to abide the event.
+Judgment affirmed, with costs.
