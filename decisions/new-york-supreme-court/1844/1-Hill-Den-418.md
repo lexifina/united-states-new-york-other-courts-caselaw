@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court"
+decided: "1844"
+citations: ["1 Hill & Den. 418"]
+reporter: "hill-den"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Field vs. Moore."]
+source_url: "https://static.case.law/hill-den/1/cases/0418-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2182934
+cites_cases: ["1 Pick., 476", "13 Pick., 213", "15 Johns., 349", "17 Mass., 110", "2 Hill, 137", "2 Hill, 138", "2 Johns., 13", "3 N. H. Rep., 382", "6 Cow., 250", "6 Cow., 253", "6 Hill, 208", "6 Pick., 280", "7 Cow., 85"]
+---
+
+# Field v. Moore
+
+## Majority (Beardsley, J.)
+
+By 'the Court,
+Beardsley, J.
+When the written contract was entered into and the purchase money paid, the defendant, Moore, Jiad several thousands of barrels in the Wordsworth warehouse. These barrels were of different descriptions and placed in different parts of the building. There was no particular pile or parcel of one thousand barrels in the warehouse, nor were any particular barrels delivered or selected, as those mentioned in the contract. About two thousand barrels were piled across the south end of the building", 'which were all substantially alike, and from which, it was stated, the one thousand should be taken.
+As the contract was not performed, and all the barrels in the warehouse were burnt, the question to be determined is whether their destruction is a legal excuse to the defendant for not delivering a thousand barrels when demanded. And this depends upon another question which, is, whether the right of property in one thousand of the barrels then in the warehouse passed to the plaintiff by the contract and payment of the stipulated price'? for, if it did, the loss was his and he can not recover.
+I am clearly of opinion that no title to any barrels passed under this contract, and that for several reasons.
+1. Ideritity in the subject of a sale is indispensable. A sale is an executed contract bj7 which the right of property is transfered from the seller to the buyer. (2 Bl. Com., 446; Boss on Pur. and Vend., 1; Long on Sales, 1.) The thing sold must therefore be specific, ascertained and identified. (Long on Sales, r3; White v. Wilks, 5 Taunt., 176; Dixon v. Yates, 5 B. & Adol., 313, per Parke, J.; Rapelye v. Mackie, 6 Cow., 250; Davis v. Hill, 3 N. Hamp. R., 382; Merritt v. Hunervill, 13 Pick., 213; 2 Kent’s Com., 468, 5th ed.)
+Where the thing agreed to be sold is not thus ascertained and identified, but is thereafter to be selected and delivered, there is not, strictly speaking, a sale, but a special agreement to be executed in futuro. Such a contract conveys no present title or property to the one who agrees to purchase; his whole right is in action. (2 Kent, 468; McDonald v. Hewett, 15 Johns., 349; Brewer v. Smith, 3 Greenleaf, 44; Davis v. Hill, supra; Mucklow v. Mangler, 1 Taunt., 318; Downer v. Thompson, 2 Hill, 137.)
+The case of Whitehouse v. Frost (12 East, 614) is certainly in conflict with these principles. In that case A., having forty tons of oil in a cistern, sold ten tons to B. and received his pay. B. sold the ten tons to G. and gave him a written order on A. to deliver the oil, who wrote his acceptance on the order. The ten tons were not drawn off but continued in the cistern with the remaining thirty tons, until 0. became a bankrupt. It was held that this was a complete sale, so that the assignees of 0. might maintain trover for the ten tons of oil. This case, however, has been directly overruled, and is wholly irreconcilable with the current of authorities. (Long on Sales, 155 to 159; White v. Wilks, 5 Taunt., 176; Shepley v. Davis, ib., 617; Austin v. Craven, 4 id., 644; Busk v. Davis, 2 M. & S., 397; Rhode v. Thwaites, 6 B. & Cres., 388; Ross on Pur. & Vend., 35, 74; Young v. Austin, 6 Pick., 280.)
+In the present case the contract did not apply to any particular one thousand barrels, but was an agreement to sell that number out of a larger number then in the defendant’s warehouse. No title to any barrels passed to the plaintiff; his right was in action, and was in no degree affected by the destruction of the barrels in the warehouse.
+2. But if this had been an agreement for a particular and selected parcel of barrels, it still would have been executory in its character, and would not have transfered a present right of property to the plaintiff. The principle is settled that where any thing remains “ to be done on the part of seller, as between him and the buyer, before the commodity purchased is to be delivered, a complete present right of property has not attached in the buyer.” (Hanson v. Meyer, 6 East, 626; Long on Sales, 154; Tarling v. Baxter, 6 B. & Cres., 360; Davis v. Hill, supra; Simmons v. Swift, 5 B. & Cres., 857; Outwater v. Dodge, 7 Cow., 85; Wallace v. Breeds, 13 East, 522; Bush v. Davis, 2 Maule & S., 396; Shepley v. Davis, supra; Downer v. Thompson, supra.
+The last case refered to (Downer v. Thompson) was reversed by the court of errors (6 Hill, 208), but on a ground which leaves the principle on which it was determined in this court untouched. Having been of counsel for the defendant in that case at the circuit and in this court, I may add that the point on which the judgment appears to have been reversed was not raised before the circuit judge or on the argument here. I would not be understood to suggest that the question could not be made on the record, although it had escaped the attention of counsel until started in the court of errors.
+By the contract in the case to be determined, it was agreed that the barrels should be delivered by the seller, at the mill of the purchaser, in good order, at any time, when requested, between the date of the contract and the fifteenth day of November then next. They; were therefore to be conveyed to the mill and, if need be, repaired, so as to be in good qrder when delivered, and as these acts were to be done by the seller, it is quite plain that the parties intended title should not pass to the purchaser, until the barrels were so delivered.
+But this is not all which the contract contains to indicate that intention. The barrels were to be delivered free from all charges “ except' the fire insurance after the 27th day of July ” (then) “next to the time of delivery.” Such charges, it is to be infered, the purchaser was to pay to the" seller. The latter therefore was to effect the insurance, which would be done as owner, the absolute right of property remaining in her.
+The charge of the recorder was erroneous, and the judgment should be reversed.
+Judgment reversed,
