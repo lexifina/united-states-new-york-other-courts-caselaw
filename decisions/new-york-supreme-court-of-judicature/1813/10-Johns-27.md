@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1813-01"
+citations: ["10 Johns. 27"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mounsey against Drake and Goff."]
+source_url: "https://static.case.law/johns/10/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2136012
+---
+
+# Mounsey v. Drake
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+One of the conditions of the bond was, that Tuttle should, on or before a given day, “ surrender himself into the custody of the sheriff of. St. Lawrence, in the suit” therein mentioned. It is not pretended that the other disjunctive condition has been performed, by the payment of the money, and the question then recurs, is here the requisite evidence of the performance of this condition ? Tuttle himself says, that he appeared at the court-house on the day, (which was the day of holding the court of common pleas,) and talked repeatedly with the sheriff as to his errand, and about, surrendering himself, and that he also mentioned his business to the plaintiff’s attorney. But neither the sheriff nor the attorney recollect- any such conversation, and if they had, the conversation cannot be considered as amounting to a surrender, within the meaning of the condition. He was to surrender himself into custody. He was to perform this specific act, and the defendants were bound to see it performed, or pay the money. The loose conversation which Tuttle might have had with the sheriff and attorney, was no surrender. That conversation was liable to be misunderstood; and to place reliance upon it might be productive of uncertainty, mistake, or fraud. The condition of the bond required the performance of an act not to be mistaken or misunderstood, and the. defendants were bound, at their peril, to see that the sheriff took or received Tuttle into custody, as a prisoner in the suit. The plaintiff was not to do any act to facilitate the surrender. No precedent act was required on his part, and it is no excuse for the non-performance of the condition, that the plaintiff might, and did not, issue an execution to the sheriff, or that the sheriff might, and did not, or would not, take or receive Tuttle into custody. It is not sufficient for the defendants to show that Tuttle had even done all in his power. A performance must be shown, unless prevented by the act of God, or by the act of the law, or by the act of the obligee himself. Lord Coke says that if A. undertake to enfeoff B., he is bound to prevail on B. to accept livery of seisin- So if A. covenant that B. shall resign his living at a particular time, the covenant is forfeited, though the bishop will not accept the resignation. Thus in the case of Hesketh v. Gray (Sayer, 185.) the condition of the bond was, that the obligor should deliver up a vicarage into the hands of the proper ordinary, and it was held to be no excuse for the non-performance of the condition, that the obligor had offered to resign and deliver up the vicarage, and that the bishop had refused to accept the resignation. The bishop was a stranger to the obligee, and, therefore, as Sir Dudley Ryder- observed, it was incumbent upon the obligor to procure bis acceptance; for if an obligor undertake for the act of a third person who is a stranger to the obligee, it is incumbent upon the obligor to. procure the act to be done, unless at the time of entering into the bond there was an impossibility of doing the act, or the doing of it had since become impossible, by the act' of God, or of the law. There are many other cases, and through every period of the law, in which the same principle is laid down, and with equal strictness. (Lamb’s Case, 5 Co. 23. Doughty v. Neal, 1 Saund. 215. Studholme v. Mandell, 1 Ld. Raym. 279. 1 Roll. Abr. 452.1. and several cases there quoted from the Year Books.) The bond in this case was, therefore, forfeited, and the plaintiff is entitled to judgment.
+Judgment for the plaintiff.
