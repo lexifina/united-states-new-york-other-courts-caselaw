@@ -1,7 +1,8 @@
 ---
 court: "New York Court of General Sessions"
 decided: "1920-02"
-citations: ["38 N.Y. Crim. 268", "110 Misc. 556", "38 N.Y. Crim. 261", "110 Misc. 548"]
+decided_precision: "month"
+citations: ["38 N.Y. Crim. 268", "110 Misc. 556"]
 reporter: "ny-crim"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["THE PEOPLE v. GHEDALE GOLDENBERG ET AL."]
 source_url: "https://static.case.law/ny-crim/38/cases/0268-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1222181
-cites_cases: ["17 N. Y. Crim. 225", "173 N. Y. 395", "185 N. Y. 317", "194 N. Y. 178", "195 N. Y. 116", "199 N. Y. 1", "20 N. Y. Crim. 175", "23 N. Y. Crim. 173", "35 Misc. Rep. 763", "76 N. Y. 288", "77 N. Y. 427", "83 App. Div. 226", "92 Misc. Rep. 579"]
+cites_cases: ["17 N. Y. Crim. 225", "173 N. Y. 395", "185 N. Y. 317", "194 N. Y. 178", "195 N. Y. 116", "20 N. Y. Crim. 175", "23 N. Y. Crim. 173", "76 N. Y. 288", "92 Misc. Rep. 579"]
 ---
 
 # People v. Goldenberg
