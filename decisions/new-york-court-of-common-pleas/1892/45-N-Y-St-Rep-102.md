@@ -1,0 +1,22 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1892-03-07"
+citations: ["45 N.Y. St. Rep. 102"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sarah A. Barnum et al., App’lts, v. John Fitzpatrick, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/45/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2081017
+cites_cases: ["42 St. Rep., 179", "5 Daly, 283"]
+---
+
+# Barnum v. Fitzpatrick
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+We have carefully reviewed this case and do not find any question of fact or citation “ decisive of the case ” was overlooked in arriving at the conclusion reached. We are not satisfied from the evidence given that the landlords used the orders of the city departments merely as a pretext to drive the tenant out, or that they unnecessarily delayed the work for that purpose. All the authorities cited on the motion for a reargument were examined before announcing the decision. Nor are the questions of law raised novel; they have been repeatedly decided by the court of last resort. The case we think comes fairly within Curley v. Tomlinson, 5 Daly, 283. Both the motion for reargument and for leave to go to the court of appeals must therefore be denied, with ten dollars costs.
+If the landlords commence new proceedings, the questions of fact may be clearly presented and the length of time which has. now elapsed will of itself be strong evidence of good or bad faith on their part.
+Bookstaver, Bischoff and Pryor, JJ., concur.
