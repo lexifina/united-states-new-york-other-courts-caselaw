@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-05"
+citations: ["94 N.Y. Sup. Ct. 190"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., and Follett, J., concurred."]
+parties: ["Hannah Springer, Respondent, v. Robert E. Westcott, as President of The Westcott Express Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/94/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4785236
+cites_cases: ["107 N. Y. 148", "47 N. Y. 199"]
+---
+
+# Springer v. Westcott
+
+## Majority (Parker, J.:)
+
+Parker, J.:
+Tbe court submitted to tbe jury a ground of liability not suggested by tbe pleadings, and it is the rule that if, in such case, there be a general verdict, tbe judgment will not be upheld unless tbe other ground of liability be so clearly established that bad a direction of a verdict been ordered it would be sustained. (Baldwin v. Burrows, 47 N. Y. 199.)
+Tbe action was to recover for a breach of contract in failing to deliver a trunk and contents to tbe plaintiff. Plaintiff delivered a check which she bad received from a railroad company for her trunk, to tbe agent of tbe defendant, who caused the trunk, but not its contents, to be delivered to her.
+She alleged in her complaint, “ that on the 14th day of September, 1889, tbe plaintiff caused to be delivered to tbe said association, and tbe said association received, her trunk and its contents at the Grand Central Depot in tbe city of New York,” but defendant omitted to convey tbe contents of the trunk to tbe place agreed upon. Tbe defendant, on this trial, attempted to show, by one of its expressmen, that the trunk was delivered to tbe plaintiff in tbe same condition in which it was received by the defendant. When the court came to instruct the jury, however, it charged them, in effect, that if they should reach the conclusion that the trunk was rifled while in the baggage room of the railroad company, the defendant could, nevertheless, be charged with liability for its neglect in failing to demand promptly the trunk from the railroad company, as will appear from a brief quotation from the charge: “ As I said before, the question is with reference to the diligence of the defendant’s servants as regards that subject. Was that baggage lost because they did not get it in time, or get there in time to claim it for the plaintiff, and to take possession of it and deliver it at its appointed place of destination t It is for you to determine, under all the circumstances of the case, whether that is so or not. If you find that the defendant is responsible in that way for its negligence, and if the baggage was lost by fault of the defendant in the way indicated, then the plaintiff would be entitled to recover. If you find in favor of the plaintiff upon that issue, that the defendant, or its servants, did not do what they should have done, and did not get the baggage from the baggage room, and that the theft or loss was accomplished by reason of that negligence, then you will come to the consideration of another-question.”
+The other “question” referred to by the court in the concluding sentence involved the question, of damages. It wall be observed that the charge, in such respect, was inconsistent with the complaint, which not only did not contain an allegation of negligence in failing to demand the trunk promptly, but, on the other hand, positively alleged that on the day mentioned the trunk and its contents was delivered to the defendant at the Grand Central Depot.
+The opening of counsel contains no suggestion that plaintiff intended a recovery upon any other ground than that mentioned in the complaint, nor was there anything done or said, so far as the record discloses, during the trial, prior to the charge of the court, to indicate that such a question was to be presented to 'the jury. Apparently'the form of the complaint was not brought to the attention of the court, and the jury were instructed as to the law as seemed to it proper under the facts proved. Exceptions, however, were properly taken by defendant’s counsel, and they are available to him for a reversal of the judgment, for the plaintiff’s evidence in support of the ground of liability alleged in the complaint was not of such a character as would have justified the court in directing a verdict in favor of the plaintiff upon that issue.
+It may be said that the testimony warranted the instructions given to the jury by the court, and, therefore, this court should amend the complaint to conform to the facts proved. It would doubtless be proper to do so had the parties, in apparent disregard of the pleadings, tried the case as if the questions involved were such as the court presented to the jury.- But the record shows that this case was not tried upon any such theory. Not only is it silent touching any claim of that character by plaintiff’s counsel, but it contains objections by defendant’s counsel which show that he not only understood the boundaries of the complaint, but intended to confine plaintiff within them. This will sufficiently appear by quoting from the record a question asked of the plaintiff, and defendant’s objection thereto : “ Q. Did you tell this "Wescott’s Express man, or did he tell you when this trunk would be delivered? [Objected to as irrevelant, and because declarations are not admissible to bind defendant, and because this action is not brought for delay in delivering or delay in demanding, but on the contract which is set forth in the complaint.]”
+The fundamental rule that judgment shall be secundum allegata, et probata (Day v. Town of New Lots, 107 N. Y. 148 ; Romeyn v. Sickles, 108 id. 650) having been violated, the judgment cannot be sustained.
+The judgment should be reversed and a new trial granted, with costs to the appellant to abide the event.
+Van Brunt, P. J., and Follett, J., concurred.
+Judgment reversed, new trial granted, costs to appellant to abide event.
