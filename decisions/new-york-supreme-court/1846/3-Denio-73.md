@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1846-05"
+citations: ["3 Denio 73"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Smith vs. Briggs."]
+source_url: "https://static.case.law/denio/3/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2187597
+cites_cases: ["10 John. 27", "24 Wend. 447"]
+---
+
+# Smith v. Briggs
+
+## Majority (By the Court, Beardsley, J.)
+
+By the Court, Beardsley, J.
+According to the contract, as set out in the second count, the receipt by the defendant of such a certificate as is mentioned in it was a condition precedent to any right to a note for the instalment now claimed, or to an action for its recovery. In this count the plaintiff has not averred that such a certificate had been made or received; but a letter, addressed by the architect to the defendant and received by him, is set out in words and figures, and which, is alleged by the pleader to be within the meaning of this covenant. But this is a question of law arising on the face of these papers, and not a matter to be settled by averment in pleading, and by the finding of a jury thereupon. The averment in this case is idle and unmeaning, and the character and effect, of this letter is not in the least degree changed by it. On looking at the letter or certificate, as it may be called, of the architect, (Mr. Webb,) it will be seen to fall far short of what the covenant requires. He has not certified “ that the work was fully and completely finished according to the specification,” nor any thing to that effect, although he does “ pronounce the said houses finished.” But that is not what the covenant requires; he must show that they were not only finished, but “ finished according to the specification.” Until this is certified in terms or in substance and spirit, no cause of action can possibly arise on this branch of the agreement; and giving the most indulgent construction to the language used by the architect, I think his certificate falls short of what the contract requires. It shows indeed, to my mind very clearly, that he did not and could not certify to a complete performance of the contract. The matters which he states are not those which these parties had agreed upon. Mr. Webb, as owner, might accept such work as he pleased; but Mr. Webb, as architect, was to say whether this work was " completely finished according to. the specification.” His was a plain duty and required but an ordinary and independent exercise of his skill and judgment, to perform. He was not to make a contract for these parties; for that had been done by themselves. It was his province to determine whether that contract had been completely performed as its terms and provisions required, and if so to make a certificate to that effect. But such a certificate has not been made, and the language used clearly shows, as I think, that he could not and would not so certify. To be sure there is an approach towards it, but the point is not reached even in the clause in which he declares that “ on the work and materials taken as a whole,” he is satisfied, and hopes the parties will be satisfied that he has acted conscientiously. But this is not a “ certificate of finish”—“ according to the specification,” but "of finish so that Mr. Webb was satisfied as to “ work and materials taken as a whole.” It would have been very easy to say that this job was completed “ according to the specification,” and this the defendant was entitled to have done. The work was to be well done and completely finished, not only “as a whole,” but in all its parts. This has not been certified, and taking the letter altogether it is palpable that Mr. Webb did not mean to certify any such thing. lie thought it would be but fair for the defendant to accept the houses as they were, and we cannot, say but this was an equitable view of the whole matter. But the covenant required a strict performance of what the plaintiff had engaged to do, and that such performance should be certified by the architect. This certificate falls short of the mark. The second count therefore was bad, and the judgment must be reversed.
+Judgment reversed.
