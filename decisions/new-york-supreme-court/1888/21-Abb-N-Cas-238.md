@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1888-05"
+citations: ["21 Abb. N. Cas. 238"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MATTER OF BENNETT."]
+source_url: "https://static.case.law/abbn-cas/21/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1960471
+cites_cases: ["43 Hun, 443", "8 Abb. N. C. 237"]
+---
+
+# In re Bennett
+
+## Majority (Bartlett, J.)
+
+Bartlett, J.
+[After stating the facts.] This motion was denied, as the order states, on the ground that the court-had no power to confirm the report, “because the same was not filed within sixty days after the matters referred to-the said referee were finally submitted to him, and the notice that the said Bennett elected to "terminate the said reference was duly served on the said referee.”
+It is apparent from this language that it was solely by reason of a supposed want of power that the judge at Special Term denied the motion. This appeal, therefore, does not bring up any question relating to the contents of the referee’s report, or whether it should be confirmed or not upon the merits.
+If the referee had been directed to try an issue of law or an issue of fact, or to take an account, or to determine and report upon a question of -fact in an action, the conclusion of the learned judge below would have been correct, for section 1019 of the Code of Civil Procedure permits a reference to be terminated in any of these cases where the report is not filed or delivered within sixty days from the time when the case or matter is finally submitted. But a reference to take proof in a special proceeding to compel an attorney to pay over money, does not fall within the scope of this section, and is not terminable in the manner therein prescribed. The provisions of the section are stringent, and their application .should not- be extended by construction, but should be carefully limited to the cases expressly mentioned therein. They relate only to references in actions as distinguished from special proceedings ; and that this matter is a special proceeding, admits of no doubt.
+The order appealed from should be reversed, with costs and disbursements, and the matter remitted to the Special Term, with direction to entertain the motion and dispose of it as justice may require.
+Van Bbunt, P. J., and Daniels, J., concur.
