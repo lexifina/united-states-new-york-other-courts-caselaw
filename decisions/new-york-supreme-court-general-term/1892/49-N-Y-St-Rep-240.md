@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-12-09"
+citations: ["49 N.Y. St. Rep. 240"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Daniel B. Hayden, Executor, Resp’t, v. The Wheeler & Tappan Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/49/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2093326
+---
+
+# Hayden v. Wheeler & Tappan Co.
+
+## Majority (Martin, J.)
+
+Martin, J.
+A careful examination of the evidence leads us to the conclusion that the court properly submitted to the jury the question whether the defendant ratified the agreement of its secretary and treasurer to hire the premises in question until May, 1892. We are also of the opinion that the evidence was sufficient to justify the verdict, and that the court properly denied the defendant’s motion for a non-suit.
+The appellant, however, contends that the court erred in declining to charge “that upon the evidence in this case the defendant was under no legal obligation to pay the three hundred and fourteen dollars on the first attachment suit’’ It had already charged that if they found that the agreement was as claimed by the plaintiff, yet, that there was no evidence to show that the secretary and treasurer had any authority to bind the defendant, and then submitted to the jury the question whether there had been a ratification of the agreement, stating that if there had been no ratification, it must find for the defendant, but if it found that there had been a ratification of the agreement, it must find for the plaintiff.
+At the request of the defendant, the court then charged, “ that in the teeth of the by-laws of this defendant, no verbal lease entered into between this plaintiff and Robert Forsyth, as secretary and treasurer of defendant, could impose any legal obligation upon the defendant; that under the by-laws and manner of contracting of this defendant, as indicated by said by-laws, Robert Forsyth, as secretary and treasurer of this defendant, could not bind under a verbal lease this defendant for the rental of these stores from plaintiff, even though plaintiff had no notice of the existence of such by-laws.” The court also further charged, “ that if the jury found that this attachment was ordered paid by this defendant in ignorance of the circumstances and material facts, and the nature of the attachment, then such order of payment was not a ratification of any unauthorized alleged agreement between this plaintiff and Robert Forsyth.”
+By this examination of the charge, it will be seen that the court •had already charged that the contract made by the defendant’s secretary and treasurer with the plaintiff was not binding, and subsequently charged that if the jury found that the attachment was paid in ignorance of the circumstances and material facts that the order of payment was not a ratification of any unauthorized alleged agreement between the plaintiff and its secretary and treasurer. Moreover, the question for the jury to decide was not whether the defendant was under any legal obligation to pay the three hundred and fourteen dollars on the first attachment suit, but whether the defendant bad so far ratified the agreement made by its secretary and treasurer as to become liable for the rent sought to be recovered in this action. In view of the charge of the court upon this subject, it seems quite manifest that it properly declined to charge as requested, as it had already charged as favorably to the defendant as it was entitled. We think the defendant’s exception to that portion of the charge was not well taken.
+As our attention is called by the appellant’s brief to no other exception, and as we find none that is sufficient to justify a reversal of the judgment, it follows that the judgment and order should be affirmed, with costs.
+Judgment and order affirmed, with costs.
+Hardin, P. J., and Merwin, J., concur.
