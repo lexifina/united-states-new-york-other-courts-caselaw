@@ -1,0 +1,30 @@
+---
+court: "New York Court of Chancery"
+decided: "1845-01-25"
+citations: ["2 Sand. Ch. 314"]
+reporter: "sand-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCabe v. Cooney and O’Brien."]
+source_url: "https://static.case.law/sand-ch/2/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2164644
+cites_cases: ["5 Hill, 327"]
+---
+
+# McCabe v. Cooney
+
+## Majority (The Assistant Vice-Chancellor.)
+
+The Assistant Vice-Chancellor.
+It is contended by the complainant’s counsel that the bankrupt discharge is not sufficiently set out in the answer to show that the court granting it, had jurisdiction. The defects alleged are, the omission to state that the petition of the bankrupt contained a list of his creditors, together with an inventory of his estate; and the failure to charge in the answer, that the complainant’s debt is not one of those which are excepted from the operation of the bankrupt act. Finally, the counsel insisted that the answer must state all the matters showing the jurisdiction of the court, and the course of proceeding, with the same precision that the Supreme Court held to be requisite in pleading a bankrupt discharge, in the late case of Sackett v. Andross, 5 Hill, 327.
+The answer of Cooney sets forth his application ; that he was then a resident of the city of Albany in the Northern District of this state, and was largely indebted and was owing debts which had not been contracted as executor, &c., (following the exception contained in the act of Congress.) That he became a bankrupt within the meaning of the act of Congress, referring to its title, &c. at large; that being such bankrupt he applied to the United States District Court in the Northern District by petition, according to the rules and practice of that court, for the benefit of the act. That such proceedings were had in that court, according to its rules and practice, on such petition that the defendant was declared a bankrupt by a decree of the court which remains in full force; and that such further and other proceedings were had in that court according to its rules and practice and the act of Congress, that afterwards by a decree of the court, he was discharged from his debts ; and he received a certificate thereof from the clerk under the seal of the court. The discharge itself is then set out, verbatim.
+This is the substance of the pleading, and as an answer, I think it sufficient. It is by no means clear, that if it were contained in a plea, it would be held defective in this court. The case of Carleton v. Leighton, 3 Merivale, 667 ; (S. C. Beames’ Pleas in Equity, 122.) decided in 1805, is a strong authority in favor of great certainty and strictness in such a plea. Sir Samuel Romilly argued there, that the plea must state distinctly, the trading, the contracting debts, the petitioning creditor’s debt, the act of bankruptcy, the commission, the finding the party bankrupt, and the assignment; and Lord Eldon said it was clearly contrary to all practice to plead bankruptcy without stating all the facts successively and distinctly, and to admit a mode of pleading by general language would be very inconvenient. The plea there set forth that a commission of bankruptcy was duly issued, under which the party was afterwards duly found and declared a bankrupt, and all his estate and effects were duly transferred and assigned, (fee.; and the plea was overruled.
+Nevertheless in 1818, in the similar case of De Tastet v. Sharpe, 3 Madd. 51, a plea of bankruptcy was allowed by the Vice-Chancellor, which did not contain the successive facts; and indeed in reference to the English bankrupt acts then in force, was more meagre in its statements than the answer in question..
+It is laid down in a book of practice of high authority, that although in stating a defendant’s case, it is necessary to use such a degree of certainty as will inform the plaintiff of the nature of the case to be made against him, it is not requisite that the same degree of accuracy should be observed in an answer as is required in a bill. (2 Daniell’s Ch. Pr. 244.) And the author illustrates the proposition by the manner of stating a modus in a bill and in an answer. (1 Ibid. 479, 480; See 1 Barb. Ch. Pr. 138, s. p.)
+Resort is frequently had to an answer, in order to set up a defence which would be appropriate in a plea, for the reason that less certainty and precision is required in an answer than in a plea.
+I think I should require more observance of technicality and form in preparing an answer, than is requisite to promote the ends of justice, and more than is customary in our practice, or «ailed for by the principles of equity pleading, were I to decide that this answer is defective in its statement of the bankruptcy proceedings and discharge.
+Nor do I think it necessary for the answer to allege that the complainant’s debt was not within the excepted debts which are excluded from the operation of the law.. That fact, like any other matter intended to avoid the effect of the discharge, must be shown by the complainant. In support of the answer, the certificate of the defendant’s discharge, is sufficient evidence for him, until it is impeached or avoided.
+My conclusion is that the answer and testimony show that the judgment against Cooney is discharged ; and if, as the complainant contends, the property in question was acquired since his petition in bankruptcy, so that it did not pass to his assignee, such discharge is a bar to the complainant’s reaching it by the judgment.
+If on the other hand, the property were in truth acquired by the defendant prior to his proceedings in bankruptcy, it became vested in his assignee, on his being decreed a bankrupt. The decree was made at least ninety days prior to the date of his discharge, and therefore the property was vested in the assignee in bankruptcy before this bill was filed.
+The bill must be dismissed, but without costs as to Cooney. The costs of O’Brien may be set off against the complainant’s judgment.
