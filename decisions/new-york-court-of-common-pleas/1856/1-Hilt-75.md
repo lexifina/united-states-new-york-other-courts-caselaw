@@ -1,0 +1,27 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1856-02"
+citations: ["1 Hilt. 75"]
+reporter: "hilt"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Talbot Murden v. Peter Priment."]
+source_url: "https://static.case.law/hilt/1/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821761
+cites_cases: ["1 Hill, 414", "12 Wend. 517", "13 Johns. 302", "13 Wend. 277", "14 Johns. 377", "22 Wend. 155", "25 Wend. 669", "3 Wend. 236", "5 Denio, 306", "5 Hill, 63", "8 Johns. 358", "8 Wend. 109", "9 Cow. 57"]
+---
+
+# Murden v. Priment
+
+## Majority (INGRAHAM, First Judge. Daly, J.)
+
+INGRAHAM, First Judge.
+Tbe evidence offered of a counterclaim was properly rejected. I arn at a loss to see bow any counter-claim can arise in an action for trespass on. lands. If there could be any case to admit of it, by tbe Code, § 150, it can only be where it is for a cause arising out of tbe transaction set forth in the complaint. This was for pouring water through boles in a floor upon tbe plaintiff’s premises. Tbe defendant sought to recover damages occasioned by smoke arising from tbe plaintiff’s premises. How smoke from the plaintiff's premises. ' can be said to arise out of a transaction such as the plaintiff complains of, viz.: pouring water from defendant’s premises upon bis, it is difficult to discover, unless it was occasioned by tbe ex-tinguishment of tbe fires of the plaintiff by the defendant’s acts. The evidence was neither admissible as a counter-claim nor in mitigation of damages.
+The cause of action was fully proved to have been committed by some one on the plaintiff’s premises, and under circumstances from which the assent or knowledge of tbe defendant might be presumed.
+Tbe conduct of tbe defendant and bis answers, when informed of tbe injury, strengthened that presumption, and warranted a finding in tbe plaintiff’s favor.
+Tbere was no error in the justice’s charge of which the defendant can complain. If there was any, it was in the defendant’s favor.
+The return does not show what verdict or judgment was rendered, but as the defendant appeals from a judgment, I conclude the judgment rendered was for the plaintiff. If so it should be affirmed.
+Daly, J.
+The defendant ashed to set up a distinct and independent tort, committed by the plaintiff, by way of counter-claim or as a recoupment of damages. The injury complained of could not be set up as a counter-claim, for the reason stated by the first judge, that it had no connection with the transaction upon which the plaintiff’s right of action was founded, nor $as it available to the defendant by way of a recoupment of damages. As the law stood before the Code, a'recoupment of damages was allowed against a party seeking to enforce a contract where he had done something or omitted to do something, under the contract, whereby the other party had sustained loss or injury. As where the plaintiff erects a house for the defendant, but the work or materials are inferior to what was-con trac ted for, then the defendant shall recoupe, or cut off, the deteriorated value of the work or materials from the contract price. Foster v. Butler, 7 East, 479 ; Grant v. Button, 14 Johns. 377 ; Ives v. Van Epps, 22 Wend. 155. So, where the contract is sought to be enforced, the defendant might rceoupe damages for a breach of warranty on the thing sold (Rait v. McAllister, 8 Wend. 109 ; Jones v. Scriven, 8 Johns. 358 ; Cook v. Mosely, 13 Wend. 277), or for fraud, as where the plaintiff sold a mare, knowing it to be diseased, or made fraudulent representations on the sale of land. Benton v. Stewart, 3 Wend. 236; Spalding v. Vandercock, 2 id. 431 ; Allaire v. Whitney, 1 Hill, 414 ; Bleecker v. Vrooman, 13 Johns. 302 ; Till v. Rood, 15 id. 230 ; Lewis v. Cosgrove, 2 Taun. 2 ; Van Epps v. Harrison, 5 Hill, 63. So, in an action by an attorne or surgeon for services, the defendant might reeoupe for the damages resulting from the plaintiff’s want of skill (Gleason v. Clark, 9 Cow. 57; Hopping v. Quin, 12 Wend. 517 ; Fleming v. Niagara C. P., 12 id. 246 ; Duffet v. James, cited in 7 East, 479), or in an action for use and occupation, the defendant may recoupe damages for the breach of an agreement to lreep the premises in repair. Westlake v. Degraw, 25 Wend. 669 ; Ethridge v. Osborn, 12 id. 529 ; Dorwin v. Potter, 5 Denio, 306. But there can be no recoupment for a distinct and independent wrong on the part of the plaintiff. Cram v. Dusser, 2 Sandf. S. C. 120. It is allowable only where a man brings an action for a breach of a contract between him and the defendant, and the defendant can show that he has sustained inj uiy, in consequence of the violation of some stipulation or condition in the ,@j|atract on the part of the plaintiff. Ives v. Van Epps, 22 Wend. 155. Thus, in Oram v. Dusser, the tenant, in an action for rent, was not allowed to recoupe damages for negligent and tortious behavior on the part of the landlord, his servant, in making repairs upon the pi’emises, though the right to enter and make repairs ivas reserved by the lease. It is presumable that all that was allowable formerly by way of recoupment is available under the Code as a counter-claim, and if the defendant could not set up the injury complained of as a counter-claim, he could not do so by way of recoupment.
+Judgment affirmed.
