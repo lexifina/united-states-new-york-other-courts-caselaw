@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1886-10"
-citations: ["49 N.Y. Sup. Ct. 16", "5 N.Y. St. Rep. 262", "49 N.Y. Sup. Ct. 90"]
+decided_precision: "month"
+citations: ["49 N.Y. Sup. Ct. 16", "5 N.Y. St. Rep. 262"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["THE FIRST NATIONAL BANK OF UNION MILLS, Appellant, v. JUDSON H. CLARK
 source_url: "https://static.case.law/ny-sup-ct/49/cases/0016-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4528680
-cites_cases: ["100 N. Y. 262", "100 N. Y., 262", "14 Johns., 63", "16 N. Y., 595", "28 N. Y., 590", "29 N. Y. 146", "29 N. Y., 146", "3 Rob., 115", "3 Rob., 615", "33 Barb., 654", "33 Hun, 54", "39 Barb, 634", "39 Barb., 634", "4 Duer, 154", "4 Duer., 154", "48 N. Y, 482", "48 N. Y., 482", "51 N. Y., 410", "52 Barb., 637", "57 Barb., 449", "6 How. Pr., 321", "6 N. E. Rep , 123", "60 N. Y. 265", "60 N. Y., 265", "67 Barb., 407", "71 N. Y. 325", "71 N. Y., 325", "83 N. Y. 318", "83 N. Y., 318"]
+cites_cases: ["100 N. Y. 262", "100 N. Y., 262", "16 N. Y., 595", "28 N. Y., 590", "29 N. Y. 146", "29 N. Y., 146", "39 Barb, 634", "39 Barb., 634", "4 Duer, 154", "4 Duer., 154", "48 N. Y, 482", "48 N. Y., 482", "51 N. Y., 410", "6 N. E. Rep , 123", "60 N. Y. 265", "60 N. Y., 265", "67 Barb., 407", "71 N. Y. 325", "71 N. Y., 325", "83 N. Y. 318", "83 N. Y., 318"]
 ---
 
 # First National Bank v. Clark
