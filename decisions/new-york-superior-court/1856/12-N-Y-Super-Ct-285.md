@@ -1,0 +1,37 @@
+---
+court: "New York Superior Court"
+decided: "1856-02"
+citations: ["5 Duer 285", "12 N.Y. Super. Ct. 285"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Quirk v. Rodman."]
+source_url: "https://static.case.law/ny-super-ct/12/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1350832
+cites_cases: ["19 Wend. 518", "2 Barb. Rep. 28", "2 Edw. Rep. 138", "7 John. 0"]
+---
+
+# Quirk v. Rodman
+
+## Majority (By the Court. Bosworth, J.)
+
+By the Court. Bosworth, J.
+The question in this case is, was the transaction of the 16th of July, 1849, between Hogins and Cargill, a sale of the bond and mortgage made by Morse, or a transfer of them, as security for the repayment of a loan of $500, and interest ?
+The instrument, executed by Hogins to Cargill, in terms, sells and transfers the bond and mortgage, absolutely, to the latter.
+The instrument, of the same date, executed by Cargill to Ho-gins, gave him the privilege of purchasing the bond and mortgage, within two months after they fell due, or on or before the 14th of July, 1850, “ for the sum of five hundred dollars, and the interest thereon, after the rate of seven per cent, deducting therefrom the interest which may have been paid thereon, agreeable to the conditions” of such bond; but it was expressly declared that such privilege was not to continue beyond that time.
+Looking at the terms of the instrument alone, there was first an absolute sale of the bond and mortgage, and second, a covenant of the purchaser, that he would sell it to Hogins within a period named, but not after that, for the price that had been paid for it, with interest thereon.
+Whether this was all that the security might reasonably be supposed to be worth, having reference to the value of the mortgaged property, the amount of prior incumbrances, and the estimated responsibility of the mortgager, we have no means of determining, with much certainty of arriving at an accurate conclusion.
+Neither Prince nor Hogins could have anticipated that the bond and mortgage would be paid when they became due, for the privilege,' given to Hogins to purchase them, was to continue two months after that time would arrive.
+Hogins entered into no contract to pay Prince any part of the $500, or of the interest thereon, if he should be unable to realize it from the bond and mortgage, or to collect it of Morse.
+Prince did not advance his own money, nor was he personally interested in, or to be benefited by the purchase. The money belonged to an estate, of which he was an executor. Before Prince made the purchase, he advised with the persons who would be entitled to the money, and they consented to the purchase being made. Valentine Cargill took the bond and mortgage, at the price which had been paid for them, as so much money, and they were charged to him, in the accounts of the executors.
+After the purchase had been made, and the transfer had been executed, Prince, before executing the covenant giving to Hogins a right to repurchase, consulted those entitled to the moneys, belonging to the estate of which he was an executor, and obtained their assent to his giving it.
+Hogins never claimed the right to redeem, and Morse never claimed that, by force of that transaction, and of the subsequent conveyance of the mortgaged premises, he was legally or equitably relieved from liability to pay interest on more than $500 of principal, or to pay less than the whole principal.
+The only facts proved to overcome all this, and show that the transaction was a mortgage, and not a sale, are, that Hogins, when he applied to Prince for money, applied for a loan; and that he obtained a covenant, giving him a right to purchase from his vendee, within a time named.
+It is admitted that he applied for a loan, but such application was at once repelled. There is nothing to justify the inference, that the money was a loan, or that the transaction was so regarded by the parties at the time, except the naked fact that a loan was applied for. That was refused. And Prince told Hogins, if. he would sell it, out and out, for $500, he would try and persuade one of the boys to buy it.
+Unless it is a principle of law or equity, that when a loan is applied for, on the security of a bond and mortgage, made by a third person, and money is received on a transfer of them by an instrument which declares it to be a sale, and which is made in pursuance of a clear agreement to sell, it is necessarily a mortgage, provided the person advancing the money subsequently, and on the same day, agrees to resell them to his vendor, within a time named; then it will be difficult to assign any satisfactory reason for reversing the judgment appealed from.
+In Brown v. Dewey, (1 Sand. Ch. R. 73,) Vice-Chancellor Sand-ford assented to the proposition, acted upon in other adjudged cases, that the absence of a personal liability, as in this case of Hogins, for the repayment of the $500, and interest, is a strong circumstance in favor of holding the paper executed by Prince, a contract to sell, instead of holding the transaction a mortgage. That such a circumstance, in connection with the adequacy of consideration, would have been controlling with him, in that case, were it not for certain strongly marked features that appeared in it. These features were, first, the reservation of $175, annual interest, while the annual rent of the land conveyed was not worth over about $115; second, an agreement of the grantor, to expend annually, besides paying such interest, $50 in permanent improvements upon the premises; and third, taking a note of the grantor, with a surety, in the sum of $200, as a security that the grantee should receive, at the end of five years, $300, in addition to the $2,500 he had advanced, and the interest thereon.
+Ho such marked features are found, in this case, to.rebut the effect deemed to be due to the fact, that Hogins was not personally liable to repay principal or interest, and to the absence of evidence to show that the consideration paid, was clearly inadequate.
+It may be true, as was contended on the argument, that a person may mortgage property to secure the payment of a sum of money, without being personally liable for the payment of sueh money: that is, it may be true that a party executing an instrument, which is in terms a mortgage, to secure the payment of a sum named, if it contains no covenant to pay, nor acknowledges the existence of a debt, may not be liable on an implied covenant, to pay in the absence of an actual agreement to pay. But although this may be so, it is not obvious on what principle that consideration can aid the defendant in this case in arriving at the conclusion, that the instruments in question amount, in the intendment of the parties and in equity, to a mortgage, or render the fact of the absence of all personal liability of Hogins, to pay any portion of the sum advanced to him, less significant in this case, than it has been uniformly held to be, in similar cases which have been the subject of adjudication.
+The principal authorities bearing on the question presented, are cited in the opinion of the Judge who tried this action at Special Term, and we agree with him, that they sustain the proposition, that this transaction, upon the facts and circumstances disclosed by the pleadings and proofs, was a conditional sale, and not a mortgage.
+The judgment appealed from must be affirmed.
