@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1899-07"
-citations: ["2 Liquor Tax Rep. 135", "28 Misc. 278", "59 N.Y.S. 828", "28 Misc. Rep. 278", "59 N.Y.S. 968", "28 Misc. Rep. 408", "2 Liquor Tax Rep. 142", "28 Misc. 408", "2 Liquor Tax Rep. 139", "59 N.Y.S. 971", "28 Misc. Rep. 385", "28 Misc. 385"]
+decided_precision: "month"
+citations: ["2 Liquor Tax Rep. 135", "28 Misc. 278", "59 N.Y.S. 828", "28 Misc. Rep. 278"]
 reporter: "liquor-tax-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Matter of the Application of Henry H. Lyman, State Commissioner of Ex
 source_url: "https://static.case.law/liquor-tax-rep/2/cases/0135-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1293542
-cites_cases: ["148 N. Y. 171", "16 App. Div. 379", "18 Misc. Rep. 653", "28 App. Div. 127", "28 Misc, 385", "28 Misc. 278", "28 Misc. 408", "38 Misc. Rep. 653", "42 N. E. 584", "44 N. Y. Supp. 1124", "50 N. Y. Supp. 977"]
+cites_cases: ["28 Misc. 278"]
 ---
 
 # In re Lyman
