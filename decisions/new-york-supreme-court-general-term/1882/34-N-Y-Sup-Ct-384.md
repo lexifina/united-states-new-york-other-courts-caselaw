@@ -1,0 +1,40 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1882-06"
+citations: ["34 N.Y. Sup. Ct. 384"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith, P. J., and Haight, J., concurred."]
+parties: ["WILLIAM I. PIPER and GEORGE A. KENYON, Respondents, v. GILES VAN BUREN, Appellant, Impleaded, etc."]
+source_url: "https://static.case.law/ny-sup-ct/34/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4480208
+cites_cases: ["13 How., 409", "16 How., 385", "24 Hun, 642", "27 N. Y., 638"]
+---
+
+# Piper v. Van Buren
+
+## Majority (Hardin, J.:)
+
+Hardin, J.:
+Clearly it appears that the time for an independent appeal from the order denying the motion for a new trial on the minutes expired on the 26th day of March, 1881. Therefore, when the notice of appeal from the judgment was served on the 5th day of April, 1881, the only right that remained in the plaintiffs to renew the order denying the motion for a new trial on the minutes depended upon section 1316 of the Code of Civil Procedure, which declares,viz.: “An appeal taken from a final judgment brings up for review an interlocutory judgment or an intermediate order which is specified in the notice of appeal and necessarily affects the final judgment. * * *
+The right to review an interlocutory judgment or an intermediate order, as prescribed in this section, is not affected by the expiration of the time within which a separate appeal therefrom might have been taken; and upon section 1301, which is as follows: “ Where the appeal is from a final judgment or from a final order in a special proceeding, and the appellant intends to bring up for review thereupon, an interlocutory judgment or an intermediate order, he must, in the notice of appeal, distinctly specify the interlocutory judgment or intermediate order to be reviewed.”
+Prior to these sections the party who sought to review an intermediate order was under the necessity of taking an appeal therefrom within the time allowed by statute, under the penalty of being conclusively bound by the interlocutory judgment or intermediate order if such an appeal was not taken. (See Throop’s note to section 1316 of the Code of Civil Procedure.)
+Apparently the object of these sections, in their provisions in respect to an interlocutory judgment or an intermediate order, was to give an appellant a second opportunity to appeal therefrom if he desired to do so, in conjunction with an appeal from a final judgment; and as a condition of the enjoyment of such second opportunity of appeal, the statute made it necessary, as a condition precedent, that in the appeal from the final judgment the appellant must “ distinctly specify the interlocutory judgment or intermediate order to be reviewed.” Such specification is as essentially a condition precedent to the right to exercise a second opportunity to appeal as any other condition as to the right of appeal.
+In other words, the second opportunity is statutory, and when the statute says “ he must,” in the notice of appeal, distinctly specify the interlocutory judgment or intermediate order to be reviewed, it annexes to the second opportunity to effectuate an appeal a condition which must be observed.
+That condition was not observed in this case; therefore there was no compliance with the provisions of the statute. True, had the notice of appeal specified the order made upon the motion for a new trial on the minutes, then -the right of review would have been perfected, because section 1316 prescribes that “the right to review an interlocutory judgment or an intermediate order, as prescribed in this section, is not affected by the expiration of the time within which .a separate appeal therefrom might have been taken.” Having thus reached the conclusion that a specification in a notice of appeal is a condition precedent to the right to review an intermediate order, can such specification be inserted in a notice of appeal after the time has expired for the bringing of an appeal from a judgment? We think not.
+V ery liberal powers are given to the court to allow amendments to pleadings and proceedings. (Secs. 721, 722, 723, 724.)
+But it has been settled in numerous cases that courts have not the power to enlarge the time which statutes allow for the bringing of an appeal. (Fry v. Bennett, 16 How., 385; Lavelle v. Skelly, 24 Hun, 642; Code of Civil Proc., § 784.)
+In Lavelle v. Shelly, the plaintiff appealed from an order denying a motion for' a new trial, and not from the judgment. Thereafter, and after the time to appeal from the judgment had expired, upon discovering that the questions he sought to review could not be considered upon the appeal from an order, he applied for leave to amend his notice of appeal by inserting therein a notice of appeal from the judgment as well as from the order; and the court held that, as the time to appeal from the judgment had expired, the court had not the power to grant the application.
+Section 784 of the Code of Civil Procedure is as follows: “ A court or a judge is not authorized to extend the time fixed by law within which to commence an action or take an appeal.” Nor does section 1303 confer the power to extend the time within which an appeal must be taken, or to permit the party to specify an order which he seeks to review after the time to review has expired, after the appeal from a judgment has been taken, and after the right to appeal from such judgment has expired.
+That section provides, viz.: “ Where the appellant seasonably and in good faith serves the notice of appeal, either upon the clerk or upon the adverse party or his attorney, but omits, through mistake, inadvertence or excusable neglect, to serve it upon the other, or to do any other act necessary to perfect the appeal, * * * * the court in or to which the appeal is taken, upon proof by affidavit of the facts, may, in its discretion, permit the omission to be supplied, or an amendment to be made upon such terms as justice requires.”
+The appeal taken in this case was perfect. The notice of appeal was perfect. No amendment is “.necessary to perfect the appeal.”
+If the amendment authorized by law was allowed, it would not render any more perfect the appeal which was taken, than it was at the time of the service of the notice of appeal. It would rather insert a specification which should have the force and effect of a new appeal, of another appeal; would bring to the enjoyment of the appealing party a right which he allowed to pass from him by his omission to comply with the requirements of the statute in regard to the second opportdnity provided for a review.
+The opportunity he allowed to expire. The flux of time cut-off his right, and section 784 declares that a court is not authorized to extend the time fixed by law to take an appeal. (Bryant v. Bryant, 4 Abb. [N. S.], 138; Humphrey v. Chamberlain, 1 Kernan, 274; Salles v. Butler, 27 N. Y., 638.) Irwin v. Muir (13 How., 409), much relied upon by the Special Term, was decided by a Special Term of the New York Common Pleas, and simply holds that after a notice of appeal was served to bring up a judgment of the Marine Court, that it might be amended so as to specify the grounds of the appeal. Such an amendment as that differs from the one here in review.
+Here it is sought to draw into a review a decision made long anterior to the judgment appealed from, and to exercise a supposed right of review of such anterior decision, after the expiration of the time set by two limits found in the statutes, to which we have adverted.
+We do not recognize the case as an authority justifying the order made at the Special Term.
+These views lead to the conclusion that the Special Term had no power to grant such an amendment as was allowed.
+We must therefore reverse its order, with ten dollars costs and disbursements.
+Smith, P. J., and Haight, J., concurred.
+Order reversed, with ten dollars costs and disbursements.
