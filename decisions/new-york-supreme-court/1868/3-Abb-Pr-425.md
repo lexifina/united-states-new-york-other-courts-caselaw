@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1868-03"
+citations: ["3 Abb. Pr. 425"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KINNIER against KINNIER."]
+source_url: "https://static.case.law/abb-pr-ns/3/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1955851
+cites_cases: ["1 Iowa, 575", "11 Abb. Pr., 230", "15 B. Mon., 364", "17 Ill., 95", "18 Ala., 668", "2 Greene, 94", "2 McLean, 511", "22 Penn.,. 195", "3 Const., 332", "3 Edw. Ch., 462", "3 Gray, 388", "3 Md., 54", "30 Barb., 48", "31 Barb., 669", "48 Barb., 566", "6 Ind., 76", "6 Ired., 243", "6 Rich., 487", "9 Ga., 247", "9 Mass., 440"]
+---
+
+# Kinnier v. Kinnier
+
+## Majority (Cardozo, J.)
+
+Cardozo, J.
+The allegation in the complaint that the parties resorted to Illinois to obtain a decree of divorce in fraud or violation of the laws of the place of their domicile, Ij think unimportant here. I can very well see how the State of! Massachusetts might complain that its citizens had violated! their allegiance to it, and how the courts of that State might disregard the judgment of another jurisdiction which granted1 a divorce to persons domiciled in the former State, who could not have obtained such a decree in the tribunals of that State. But I do not know of any principle, and have not been referred to any decision which sustains the doctrine that the courts of; lids State should thus protect the sovereign rights of Massa-, elm setts. The complaint does not question the jurisdiction of .the Illinois court over the subject matter, and it shows that. that tribunal acquired jurisdiction of the persons of the parties —of the plaintiff by his bringing the action, and of the defendant by her appearing and answering the bill. Whether the rest of complaint be deemed to charge in effect only that certain irregularities were had in the progress of the suit, or whether it sufficiently alleges that the parties practiced a fraud on the court and thus procured the decree, will not be material to determine. If the former be the true construction, then it is enough to say that mere irregularity could not affect the decree, and that the plaintiff here, a stranger to that litigation, cannot be heard to question the regularity of the proceedings of that suit. He may raise jurisdictional questions, but not mere points of regularity in practice.
+If, however, the right view of the pleading be the latter one, above mentioned, and if the courts of this State can entertain a suit to annul the decree of a court of another State on the ground of fraud, yet this plaintiff is not in a position to ask any such relief. No one can claim to have a judgment or a deed avoided for fraud, unless it injuriously affects him, and such is not the case with this plaintiff. Giving the complaint the most liberal construction for the plaintiff, it charges that the representation upon the faith of which the plaintiff married the defendant was that she “ had procured a valid divorce ” from her former husband. In other words, that this plaintiff and she might lawfully be married. Now if this be true, the plaintiff has not been harmed by this deception, and even if the representation were inaccurate he will not be entitled to annul the marriage. The complaint does not dispute, but that if the decree of divorce stands, the defendant would be at liberty to marry, and that, therefore, must be assumed; but it avers that the parties to the divorce suit colluded together, and by such collusion fraudulently obtained the judgment. If that be so, neither of those parties could possibly avoid that decree. (Bish. Marr. & Div., 706.) It is binding upon both of them, and the marriage between this plaintiff and the defendant was valid. Where both parties unite to practice a fraud; neither can be heard to seek relief against it; and as the plaintiff cannot be prejudiced if his marriage were lawful, he, a stranger, has no interest in the matter which would authorize him to impeach the judgment for that fraud. That his feelings or prejudices might have revolted at marrying a woman under such circumstances, gives him no standing in court. (Clarke v. Clarke, 11 Abb. Pr., 230.)
+Without adverting to other views which lead me to think that this complaint cannot be sustained, enough has been said to show that, in my opinion, the demurrer is well taken, and that there must be judgment thereon for the defendant, with costs.
