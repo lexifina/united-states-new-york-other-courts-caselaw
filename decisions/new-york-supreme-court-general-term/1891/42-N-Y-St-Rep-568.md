@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-12-14"
+citations: ["42 N.Y. St. Rep. 568"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of The Pierce, Butler & Pierce Co., App’lt, v. Frederick Bleckwenn, Treasurer, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/42/cases/0568-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2071178
+cites_cases: ["76 N. Y., 475"]
+---
+
+# Pierce, Butler & Pierce Co. v. Bleckwenn
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+The relator’s claim is a just one and if the defendant can be made to pay it without violating any principle of law it should be done.
+We do not think any issue of fact was raised by the respondent’s denial that he had any funds applicable to the payment of the warrant presented, or that the claim was founded upon contract.
+Such an answer was evasive and involved a question of law. He did not say he had no money in hand, but was careful to say “applicable to pay the warrant.” It was incumbent upon him to state facts and not his conclusions of law upon that subject.
+Each of the warrants was drawn against an appropriation of $50,000, made in this year’s tax levy of Long Island City for the furnishing of the goods mentioned in relator’s bills.
+The respondent did not deny that he had in his hands that money so appropriated, but he claimed the contracts were void because they were made prior, to the tax levy, and, second, that the appropriation was void because it was in excess of the limitations imposed by the charter.
+The contracts were valid; the charter, chapter 461, Laws of 1871, title 9, chap. 2, confers ample power on the board of education to erect and furnish school houses and to make all needful repairs and pay the expenses out of the revenues raised pursuant to the act.
+The act of 1887, chap. 519, upon which the court below based its decision, was passed, not for the purpose of limiting the powers of the board of education, or the city authorities in building school houses or making repairs, but for the purpose of enabling the city to issue bonds, and there is nothing in that act that requires that the school houses shall be completed solely with the money derived from a sale of the bonds.
+The only effect of that act was to authorize certain sums to be raised in that manner and applied towards the purchase of lands and the erection of school houses.
+It did not act and cannot be construed as a limitation of the powers of the board of education and the common council in regard to building school houses. If the money so appropriated was insufficient to complete the school houses, I see no objection to the municipal authorities proceeding to complete the same under the provisions of the charter as above quoted. People ex rel. Murphy v. Kelly, 76 N. Y., 475.
+If such is a fair construction of the act of 1887, chap. 519, with its amendments, 1890, then it was not incumbent upon the relator to show that the respondent had in his hands money derived from the sale of the $50,000 of bonds referred to in that act.
+It clearly appeared that by the tax levy an appropriation was made of $50,000 for furnishing said steam heating, and there was no pretense in the answer of the respondent or his affidavits that such appropriation had been exhausted.
+The respondent claims, under § 9, title 9, chap. 2 of charter, that the appropriation of $50,000 was illegal, because that specific appropriation was in addition to another for precisely such a percentage of the assessment.
+The section reads as follows: “ The common council of Long Island City shall annually raise and collect, by tax upon all the taxable property of said city, a sum of money equal to the sum specified in the estimated amount required by the board of education for public school purposes, not exceeding three-fourths of one per cent on one hundred dollars valuation of such taxable property, in the same manner as the contingent charges of the said city are levied and collected, to be applied to the purposes and benefit of the public schools of the said city; and the board of education shall apportion the money so raised to the public schools according to the number of children over four and under twenty-one years of age, who were actual residents of Long Island City at the time of their attendance in such school without charge the preceding year. * * * The sum apportioned to any school under the charge of the board of education shall- be paid by the treasurer of said city upon the drafts drawn on him by the board of education.”
+It is very plain that the money thus appropriated is intended to provide for the current expenses of the schools, and not for the extraordinary ones incident to erecting new school houses. That the expenses of erecting new school houses was not intended to be a charge on the moneys appropriated under the section quoted above, it is only necessary to refer to §§ 13 and 14, quoted in our first point. The closing paragraph of the latter section expressly provides how such expense is to be met, namely: it “ shall be paid out of the revenues levied and raised pursuant to the provisions of this act.” This does not mean that it is to be paid out of the per capita allowance to the schools already in existence in the ward in which the new school is located, but out of the general fund of the city. This is the only possible construction of the law which would ever enable a new school house to be erected, or new schools to be established.
+It is clear, even under the respondent’s contention, that if the common council had no right to make the additional appropriations, still these claims should be paid, as all drafts made upon either fund should be paid until all the drafts should have aggregated the three-fourths of one per cent of the assessed valuations.
+The common council had a right to appropriate up to the three-fourths of one per cent, and until this amount was expended it did not lie with the treasurer to question the right to draw upon funds in his hands.
+It is to be observed that the respondent makes no pretense that he has paid out on the drafts of the board of education to the extent of the three-fourths of one per cent on the assessed valuations.
+We think it clearly appeared that the contracts for which payments were demanded on the drafts were valid and regular; that the respondent had funds properly applicable thereto.
+Order reversed. Mandamus to issue as prayed for.
+Barnard, P. J., and Dykman, J., concur.
