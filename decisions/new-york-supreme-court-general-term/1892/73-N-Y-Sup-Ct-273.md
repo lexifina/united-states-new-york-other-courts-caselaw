@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1892-11"
-citations: ["73 N.Y. Sup. Ct. 273", "73 N.Y. Sup. Ct. 278"]
+decided_precision: "month"
+citations: ["73 N.Y. Sup. Ct. 273"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["NANNIE L. VAUGHN, Respondent, v. MARY M. STRONG, as Administratrix of
 source_url: "https://static.case.law/ny-sup-ct/73/cases/0273-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2381352
-cites_cases: ["103 N. Y., 666", "103 N. Y., 680", "19 Hun, 595", "19 N. Y. St. Rep., 50", "43 N.Y., 279", "45 N. Y. St. Rep., 489", "6 Wend., 554"]
+cites_cases: ["43 N.Y., 279"]
 ---
 
 # Vaughn v. Strong
