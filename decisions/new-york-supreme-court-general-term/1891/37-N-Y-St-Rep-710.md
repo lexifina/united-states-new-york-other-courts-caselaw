@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-02-09"
+citations: ["37 N.Y. St. Rep. 710"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward Jacoby, Resp't, v. Henry Ockerhausen, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/37/cases/0710-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2054594
+---
+
+# Jacoby v. Ockerhausen
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+Keeping ferocious dogs without confinement or restraint and in a condition to gratify their disposition to do mischief is negligence which is nearly allied to criminality. It manifests a disregard for human safety and even human life which merits and receives the condemnation of the law.
+The liability of owners of animals for the injuries which they perpetrate is based upon their propensity to do mischief, and it is, therefore, the duty of all persons who keep animals which are mischievous or savage to so control them as to incapacitate them from committing injuries, and if they fail in the performance of that duty they become liable to respond in damages for the injuries they perpetrate.
+In this case the plaintiff went to the residence of the defendant in the day time for a legitimate purpose, and while he was at the front door he was attacked by four dogs belonging to the defendant and was severely lacerated and torn by them, and even his life seems to have been placed in jeopardy. The dogs were unmuzzled and unsecured, and their ferocity is fully .established by their attack upon the plaintiff. Besides that the servant of the defendant said he would not dare go into the place even though the dogs knew him, and the wife of the defendant told the plaintiff she did not want him to come in for fear of the dogs.
+The knowledge of the defendant of the savagery of the elder of the dogs which tore the plaintiff is established by the fact that she bit another person in his presence some time before she bit the plaintiff.
+The evidence thus brought the case fully up to the requirements of the law and the jury gave the plaintiff a verdict which might well have been much larger.
+All vicious dogs should be either killed or confined and persons who keep them are held to a rigorous rule of liability, because it is a grave offense against the law and against society to keep ferocious dogs and expose human life and human safety to their ferocity.
+The judgment and order denying 'the motion for a new trial, should be affirmed, with costs.
+Pratt, J., concurs; Bardard, P. J., not sitting.
