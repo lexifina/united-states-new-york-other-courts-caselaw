@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1878-01"
+citations: ["20 N.Y. Sup. Ct. 115"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Learned, P. J., Bockes and Osborn, JJ."]
+parties: ["In the Matter of the GUARDIAN MUTUAL LIFE INSURANCE COMPANY. In the Matter of the WIDOWS AND ORPHANS’ BENEFIT LIFE INSURANCE COMPANY. In the Matter of the NEW YORK STATE LIFE INSURANCE COMPANY. In the Matter of the RESERVE MUTUAL LIFE INSURANCE COMPANY."]
+source_url: "https://static.case.law/ny-sup-ct/20/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2357676
+cites_cases: ["59 N. Y., 163", "64 N. Y., 557"]
+---
+
+# In re the Guardian Mutual Life Insurance
+
+## Majority (Learned, P. J.: Bocees, J.:)
+
+Learned, P. J.:
+In the ease of Ruggles v. Chapman (59 N. Y., 163) the Court of Appeals decided that the receiver of the Eclectic Life Insurance Company was not entitled to have a transfer to him of the securities deposited with the superintendent of the insurance department. Tbe receiver in that case was appointed under tbe provisions of tbe Revised Statutes, in a suit brought by a creditor and a stockholder.
+In tbe present cases tbe application for a similar transfer is made by a receiver appointed under chapter 463, Laws of 1853. And it is urged, on bis behalf, that tbe foregoing decision is not applicable; because in tbe seventeenth section of that act it is declared that tbe court shall decree a dissolution of tbe company and a distribution of its effects, including the secwriUes in the hands of the superintendent.
+But a statute was passed in 1815 in regard to that Eclectic Life Insurance Company to facilitate tbe distribution of its effects. (Laws of 1815, chap. 331.) That act recited tbe appointment of a receiver of tbe company, and provided that tbe attorney-general might apply to tbe Court of Common Pleas for an order directing tbe distribution of tbe securities' deposited with tbe insurance department; and that upon tbe granting of such order tbe superintendent of that department should transfer such securities as might thereby be directed. That act therefore gave substantially as much power to tbe Court of Common Pleas in tbe action which bad been commenced by a creditor, and as to tbe Eclectic Insurance Company, as is given by chapter 463 of tbe Laws of 1853 to tbe Supreme Court in' proceedings.taken by tbe attorney-general, as to life insurance companies generally. After tbe passage of that act tbe receiver of that company obtained an order from tbe Court of Common Pleas, directing tbe transfer of those securities to tbe receiver. And thereupon a manda/nms was granted in tbe Supreme Court to compel tbe superintendent to make such transfer. On appeal to tbe Court of Appeals, tbe order for a mandamus was reversed. Tbe court held that tbe transfer of tbe securities from tbe superintendent to the receiver was not contemplated by tbe act, nor authorized by its requirements. They held that tbe transfer was a needless proceeding, which might increase expense and be detrimental to those who were interested in tbe fund. (People ex rel. Ruggles v. Chapman, 64 N. Y., 557.)
+That decision seems to be conclusive on tbe matter before us. Tbe power given by tbe act of 1815 to tbe Court of Common Pleas to distribute these securities is as full in its language, and appears to be as great in its extent, as tbe power given to tbe Supreme Court by tbe act of 1853. As it was held that tbe act of 1875 did not contemplate or authorize a transfer to a receiver who is even mentioned in the act, certainly the act of 1853 does not require any transfer, in its general application to the subject.
+It is true that the act of 1853 gives the Supreme Court power to decree a distribution of these securities. That provision means a distribution to those who are entitled as policyholders or otherwise. There is no necessity whatever, in order to carry out such distribution, that the securities should be removed from the present lawful custodian. If the court could decree a distribution, in case the securities were in the hands of a receiver, they can decree the same distribution by the superintendent. All of the questions which are said to be intricate can be determined on the application of the superintendent, or of the parties interested, or in some proper form, as well if the securities remain where they are, as if they should be put in a receiver’s hands.
+We see no authority in the court to take the property out of the hands of the superintendent, who is the official trustee, except by decreeing a distribution. (See Ruggles v. Chapman, ut supra.) And it is evident that such a transfer as is asked for would be undesirable. It would burden those securities with the taxable fees and expenses of a receivership instead of leaving them in the management of a salaried officer of the State.
+The orders granted should be reversed, with ten dollars costs and printing.
+Bocees, J.:
+The decision by the Court of Appeals in the cases cited seems conclusive of the question here presented. I confess I should have readily, as it seems too readily, reached a different conclusion in the absence of the binding authority of those cases. It strikes me that the correct mode of working out an application of the funds to be obtained from the securities held by the superintendent to the use and benefit of those entitled to share them, would be through the receiver; and that to this end the latter, under proper safeguards, should have the custody of such securities with a view to their collection and the proper distribution of the avails. This mode of administering the assets for the benefit of those entitled to them, appears to me the most simple, expeditious, and least expensive ; and, for aught I can see, it would be, or could be made to be, entirely safe. But, under the binding authority of the decisions cited, the question is not open to discussion. The orders appealed from must be reversed.
+Present — Learned, P. J., Bockes and Osborn, JJ.
+Orders reversed, with ten dollars costs and printing disbursements.
