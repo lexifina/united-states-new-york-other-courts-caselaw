@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1889-12-07"
-citations: ["28 N.Y. St. Rep. 292", "28 N.Y. St. Rep. 130"]
+citations: ["28 N.Y. St. Rep. 292"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Joseph H. Beckwith, an Infant, by John H. Beckwith, his Guardian, Res
 source_url: "https://static.case.law/ny-st-rep/28/cases/0292-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2033435
-cites_cases: ["101 N. Y., 419", "104 N. Y., 652", "112 N. Y., 234", "113 N. Y., 364", "40 Hun, 286", "98 N. Y., 203"]
+cites_cases: ["101 N. Y., 419", "104 N. Y., 652", "113 N. Y., 364", "98 N. Y., 203"]
 ---
 
 # Beckwith v. N. Y. C. & H. R. R. R.
