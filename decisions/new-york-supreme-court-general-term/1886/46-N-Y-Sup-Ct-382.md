@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-01"
+citations: ["46 N.Y. Sup. Ct. 382"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Follett and Kennedy, J J., concurred."]
+parties: ["OSCAR WENDELL, Respondent, v. L. D. STONE, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/46/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4522256
+cites_cases: ["6 Barb., 108", "66 N. Y., 232", "89 N. Y., 257"]
+---
+
+# Wendell v. Stone
+
+## Majority (Hardin, P. J.:)
+
+Hardin, P. J.:
+Plaintiff, by the evidence offered, clearly and satisfactorily proved the agreement to have been made by and between him and defendant substantially as set out in the complaint. The admissions of the defendant in his answer, considered with plaintiff’s evidence and the feeble denial made by defendant as a witness of the alleged agreement, having all been considered and weighed, lead irresistibly to the conclusion that the referee properly found the agreement to have been made as stated by the referee. The defendant’s position is that he leased the premises for one year and no more. But the facts of the case, as shown by the evidence, are against his position. We must deal with the case upon the assumption that the defendant agreed to give a lease of the premises for one year, with an option or privilege to the plaintiff to have, hold and occupy for a second year.
+That being clearly made out, the defendant ought not to escape from his agreement unless some substantial reason is furnished. His first position is that the agreement is void by the statute of frauds. Plaintiff’s reply to that is that he expressly refused to make an agreement for the premises without a condition that he might have the same a second year if he elected so to hold them. Plaintiff cut his carpets and adapted himself to the premises, relying upon the agreement, and moved into the premises relying upon the agreement which he had entered into with defendant. Under it he paid rent and performed wholly and fully on his part. The modification as to the month plaintiff was to take possession was made, and under.the modification “plaintiff, on or about the first day of March, 1883, entered into possession of the premises, and has since remained in the possession thereof.” We cannot regard the modification as to which month the occupation should begin as a new and independent agreement, abrogating all the other terms agreed upon between the parties.
+The modified agreement having been made the defendant consented to .the possession of the premises, and the plaintiff took possession under it, and paid rent under it, and so far as he was required fully performed the agreement on liis part. The acts of part performance were under the agreement and in part performance of it, having direct reference to the agreement. Such acts of part performance were and are sufficient to take the case out of the statute o.f frauds, and they justify a court of equity in requiring a specific performance on the part of the defendant of that part of his agreement remaining unfulfilled. By defendant’s assent and acts the plaintiff was induced to take the premises, to adapt himself to the terms of the agreement, to move in, cut his carpets, pay rent, and rely upon the terms of the agreement. Defendant is estopped from setting up the statute and from questioning the validity of his agreement to give a lease for one year with the privilege of another. (Rathbun v. Rathbun, 6 Barb., 108.)
+The terms of the agreement distinctly appear by the evidence, by the admissions and by the findings of fact, and they are quite satisfactorily made out and should be accepted, and the defendant held bound by them. (Parkhurst v. Van Cortland, 1 Johns. Chy., 273.) A court of equity will carry out “ an agreement framed in general terms when the law will supply the details.” (Fry on Specific Performance, p. 162, § 221.)
+We think the contract made between the parties was fair and reasonable, and that the conduct of the plaintiff under it was fair and reasonable. There was no evidence of plaintiff being guilty of fraud or felony, or any proof of insolvency, either of which facts might, under well established precedents, have induced the court to refuse to enforce a specific performance. (Taylor’s Landlord and Tenant, p. 283, § 47, and cases there cited. Story’s Equity Jurisprudence, §§ 722, 763, 764.)
+It was the duty of the defendant after the demand for the lease, which his agreement required him to give, to have it drawn and executed. (Taylor’s Landlord and Tenant, p. 29, § 60.) After it had been executed by the defendant and delivered to and accepted by the plaintiff, he would have been bound by it. It would then have become the written evidence of the terms and conditions agreed upon by the parties. The case of Wheeler v. Reynolds (66 N. Y., 232), referred to by the appellant is unlike the one in hand. J udge Earu says, in that case, viz : “ Every act done by the defendant was such as he had a perfect right to do, by virtue of his mortgage and his deed * * Here all the acts of the parties in respect to the premises in question were in virtue of the agreement which the plaintiff seeks to enforce. For, strictly speaking, the agreement made not only provided the terms upon which the premises might be, and were to be accepted, but that a written lease evidencing such agreement should be executed. As before said all of plaintiff’s acts are under and referable to the agreement which he seeks to have the defendant carry out on his part. (Robbins v. Robbins, 89 N. Y., 257.) We see no error occurring on the trial which was prejudicial to the defendant. (Code Civil Pro., § 1003.)
+The judgment should be affirmed, with costs.
+Follett and Kennedy, J J., concurred.
+Judgment affirmed, with costs.
