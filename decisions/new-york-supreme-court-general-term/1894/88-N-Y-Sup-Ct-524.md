@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-11"
+citations: ["88 N.Y. Sup. Ct. 524"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., and Parker, J., concurred."]
+parties: ["James Stoddard, Respondent, v. John McAuliffe and Another, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/88/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4738019
+---
+
+# Stoddard v. McAuliffe
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+This action was begun in November, 1891, against Richard K. Fox to recover $1,500 deposited by plaintiff with him as a stakeholder. On the 10th of December, 1891, Fox paid the amount in his hands into court, and John McAuliffe and Jeremiah Mahony, the present defendants, who claimed to be entitled to the sum, were substituted as defendants in the place of Fox. No question is raised over the validity of the substitution.
+In 1891 a prize fight or a boxing- match was arranged to take place in September of that year at the Granite Club at Hoboken, N. J., between Austin Gibbons and John McAuliffe. ' The plaintiff swears that a prize fight was to be fought, the terms of which were stated in a written, agreement, signed by the fighters, while the defendants’ witnesses swear that the two men were simply to contest for a purse or prize. But it is quite indifferent to the statute relating to betting and gaming whether the contest was a prize fight or a contest to determine which was the superior boxer. All agree that the plaintiff deposited in the hands of Fox $1,500, which belonged to him, and that the defendant Jeremiah Mahony deposited a like sum, which belonged to him, with Fox. It is also agreed by the witnesses that in case McAuliffe whipped Gibbons the money was to be paid to McAuliffe, and that in case Gibbons whipped McAuliffe the money was to be paid to Gibbons. The witnesses on both sides testified that a written agreement was signed by Gibbons and McAuliffe fixing the terms of the contest or fight. This agreement was drawn and left with William E. Harding, one of the defendants’ witnesses, but it was not produced on the trial on the plea that it could not be found. The plaintiff testified that it was provided in this agreement that the fight was to be for $3,000 — $1,500 on a side. The draughtsman and depositary of the agreement called by the defendants testified: “ I don’t think this agreement contained the provision that this contest should be for the sum of $1,500 a side. I can’t swear that it did not.”
+Dunn, who was the official referee and manager of the fight, was called as a witness by the defendants, and testified: “ The prize put up by the club was $4,000. We exacted from each side for their appearance on the occasion and their faithful training up to that time, that they put $3,000 between them — $1,500 each. Each man was to put up $1,500.”
+McAuliffe, one of the defendants, testified: “ Mr. Fox was the stakeholder. Some friend of mine put up $1,500 for me. Fifteen hundred dollars was put up on the other side. I claim the money put up by Stoddard because it belonged to the purse agreement. I claim it as mine. There was no knock out; it was a point of boxing, and who was decided the best man won. The referee was chosen mutually between us two. It was Mr. Dunn, and I was given the decision on points. I did not knock him down on that occasion. I am very sorry. I hit him a number of times — fifty times. The police asked us to stop the contest. They said it was finished and I stopped. They told me to stop. The decision was awarded after they told us to stop and I had won the contest.”
+The police interfered and stopped the fight, but the referee decided that McAuliffe had won.
+It is useless to attempt to disguise the transaction, which was a bet or wager within the definition of the statute under which this plaintiff has a right to recover the sum, and the verdict was properly directed.
+The judgment should be affirmed, with costs.
+Van Brunt, P. J., and Parker, J., concurred.
+Judgment affirmed, with costs.
