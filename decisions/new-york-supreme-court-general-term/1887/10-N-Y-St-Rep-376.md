@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-07-01"
+citations: ["10 N.Y. St. Rep. 376"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary E. Ryan, Resp’t, v. The Manhattan Railway Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/10/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 647381
+---
+
+# Ryan v. Manhattan Railway Co.
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+This plaintiff obtained a verdict for $4,500 against defendant for injuries sustained by her at its Grand street station in New York city, by her stepping inadvertently into the space between the car platform and the station platform, as she was attempting to board its train. She sprained her ankle and scraped her shin. She doubtless' suffered considerable pain and incurred a doctor’s bill. The doctor says that eighty dollars was a reasonable charge for his services, etc. The plaintiff does not seem to have lost much time from her work, which was that of a lace winder, at a salary of ten dollars or twelve dollars per week—say $624 dollars per year at the outside. We are not satisfied from the evidence that there was a serious permanent injury, and while we cannot, as matter of law, hold that the verdict was excessive, it certainly was very liberal and went to the very verge of propriety in this respect, to say the least of it. It is, therefore, manifest that the jury might have been influenced by every circumstance which was introduced in her favor.
+Looking into the evidence we find that she was permitted to answer the following question against defendant’s objection: “ Did the foreman excuse you from work by reason of your injury?” to which she answered, “my boss was sorry for me; he knew I had to work and make my living, and he gave me a girl help, if they were not very busy.” The boss was not called as a witness to say what he did do, or to give the reason for his conduct, and we cannot see how it was proper for the jury to know what he thought about her injury or the reason why he excused her from work, if he did excuse her, or why he gave her help, if he did give her help. But the question went even farther than this. It called upon the plaintiff to state either her conclusion of her boss’s mental operations, which would have been incompetent if he had been called to state them himself, or else it . called upon her to state the result of his statement to her in giving reasons why he excused her from work. So, too, it called upon her to state a fact which was not proper matter of evidence, whether or not her boss did excuse her. The real inquiry was the extent of her injury and her ability to work; and the question thus called for the boss’s unsworn declarations or acts and her inferences respecting his opinion of her affliction. True, the answer was not direct; but, still, was responsive to the question, and the plaintiff’s counsel may be fairly said to have thus called for her answer that her boss was sorry for her and gave her help. We think the answer was fairly subject to the same criticism which we have passed upon the question.
+The facts thus stated had a tendency to excite sympathy, to arouse passion and stimulate the jury to give large damages. We have already noted that the verdict was heavy for the case made by her evidence. Such a verdict should rest upon testimony wholly free from any incompetent testimony. The presumption is that the jury was affected by it, and, as we have already observed, that was its tendency.
+We entertain grave doubt also upon the point whether or not there was evidence of neglect in the construction of the platform, or bringing the train to it. The track curved at this point in the street, so that each car made a tangent to the station platform. It follows, as matter of necessity, that the centre of the car would thus be brought near the station platform, while the platform of the car would be much farther from the station platform than at the centre.
+It is not made clear from the case that this result could have been avoided. The plaintiff was bound to look when she stepped, and to exercise, at least, ordinary care in observing this peculiarity, in which would seem to be the necessary construction of this station platform. But we do not pass upon this, question. Posssibly, on a new trial, she may more satisfactorily explain this difficulty; and since we think it was error to overrule the objection above mentioned and admit the testimony of what the boss did, and plaintiff’s opinion or conclusion respecting his motive in doing it, we grant a new trial on that ground, with the costs of this appeal to abide the event of the action.
+Barnard, P. J., concurs; Dtkman, J., not sitting.
