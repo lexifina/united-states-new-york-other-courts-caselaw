@@ -1,0 +1,28 @@
+---
+court: "New York Surrogate's Court"
+decided: "1884-06"
+citations: ["2 Dem. Sur. 489"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tilden v. Dows. In the matter of the judicial settlement of the account of David Dows, and others, executors of the will of William Tilden, deceased."]
+source_url: "https://static.case.law/dem-sur/2/cases/0489-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1137256
+---
+
+# Tilden v. Dows
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+In the proceeding for the judicial settlement of the account of this decedent’s executors, Beverly B. Tilden, a legatee and devisee under his will, appeared as a contestant. The account and objections were submitted to a referee, whose report was, in March last, submitted to the Surrogate. Exceptions thereto were subsequently filed and served by the contestant. It now appears that, on January 18th, 1884, while the accounting proceedings were pending before the referee, said contestant executed and made delivery of a certain deed whereby he conveyed, to one Edward P. Kennard all the property of which he was possessed, including c< any and all real estate and personal property which he now has or is entitled to, or hereafter may be or become entitled to under and by virtue of the will of his deceased father, William Tilden, and all his estate, -share, right, title, interest, claim and demand, whether vested or contingent, in him now being, or to him hereafter to accrue under and by virtue of the same.”
+The property is thus conveyed by Tilden upon certain trusts, one of which is the payment to himself while he lives of the whole net annual amount of the rents, issues, income and profits thereof. It is agreed between the parties that, with the consent of the trustee, and upon the application of Tilden, the trust estate shall terminate, as shall also be the case in the event of the trustee’s death during Tilden’s lifetime.
+Upon this state of facts, the executors ask that the exceptions to the referee’s report heretofore filed in the name of Tilden be stricken from the files of the court, and that Kennard as Tilden’s successor in interest, be brought in as a party to the proceeding, with leave to file exceptions in his own behalf if he shall be so advised.
+This application is based upon § 756 of the Code of Civil Procedure, which contains the following provision :
+“In case of a transfer of interest . . . the action may be continued by or against the original party, unless the court directs the person to whom the interest is transferred ... to be substituted in the action or joined with the original party, as the case requires.”
+If the section just cited is applicable to Surrogates’ courts, there can be no doubt that the granting or denying this motion is purely discretionary with the Surrogate. How that section forms a part of title 4th of chapter 8 of the Code.
+Those portions of chapter 8 which apply to the procedure of Surrogates’ courts are indicated by §§ 2588 and 3347. The former section makes applicable the 1st title and a part of the 6th, but no part of the 4th. Section 3347 expressly declares (subd. 6) that chapter 8 shall not apply to proceedings in an action or special proceeding in any other courts than the Supreme court, Superior city courts, County courts and the Marine court of the city of Hew York. Certain portions of the chapter are specifically excepted from this sweeping declaration, but those excepted portions do not include § 756.
+I cannot, in the face of these positive statutory provisions, give to subdivision 11 of § 2481 the construction which is claimed for it by the counsel for the executors. It is true that, by that section, the Surrogate is empowered, “with respect to any matter not expressly provided for in the foregoing subdivisions of this section, to proceed in all matters subject to the cognizance of his court according to the course and ¡oractice of a court having by common law, jurisdiction of such matters.” But this somewhat ambiguous delegation of authority is thus restricted—“except as otherwise prescribed by statute.” Surely the statute “otherwise prescribes” when it explicitly declares that title 4th of chapter 8 shall have no application to the practice and procedure of this court.
+I hold, therefore, that, if I have any authority to grant this application, it is not derived from § 756. Nor is its source in § 452, which provides for the bringing in, under certain circumstances, of additional parties to an action. That section forms a part of title 2nd of chapter 5. By reference to subdivisions 3 and 4 of § 3347, it will appear that Surrogates’ courts are not among those which are brought under the operation of that title. Whether I have discretionary power, independently of Code provisions, to substitute Kennard in the place of Tilden in this proceeding, I do not think it necessary to determine. For assuming that I have such power, I am not, under all the circumstances, disposed to exercise it.
+In view, however, of the provisions of § 2743, there can be no doubt that, without displacing Tilden as a party, Kennard may be brought in as an additional party to this proceeding. That section sets at rest a question which was disputed before the enactment of the Code as to the authority of the Surrogate to direct payment and distribution to the assignees of creditors, legatees, next of kin, etc. I deny the motion to strike out Tilden5s exceptions to the referee’s report, and direct that, if the executors shall so elect, a supplemental citation shall issue for making Kennard a party to this proceeding.
