@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court"
+decided: "1870-01"
+citations: ["2 Lans. 81"]
+reporter: "lans"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willis G. Chaffee v. Daniel G. Fort, as the Assignee of James H. Goldey."]
+source_url: "https://static.case.law/lans/2/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4818162
+cites_cases: ["1 Hill, 302", "17 Wend., 94", "19 Barb., 249", "20 Barb., 253", "21 Barb., 585", "23 W., 372", "29 N. Y., 146"]
+---
+
+# Chaffee v. Fort
+
+## Majority (Mulley, P. J.)
+
+By the Court
+Mulley, P. J.
+It is admitted in the case,, that Goldey knew at the time of receiving the money from the plaintiff, that lie was, and'for several months had been insolvent; and that he had determined to assign his property to an assignee for the benefit of his creditors, within a day or two, unless he should receive assistance, which would' c-habl'e him to continúe his business.
+Had he assigned the plaintiff’s money on ascertaining that-he would not obtain aid he would have been guilty of gross fraud upon the plaintiff. It would have been receiving property on credit not only, but with the intention not to-repay it.
+Had he purchased property of the plaintiff under such circumstances and then assigned it, tlie same, or the next day, for the benefit of all his creditors it would not be seriously contended that the transaction would not have been fraudulent. (Buckley v. Artcher, 21 Barb., 585; Durell v. Haley, 1 Paige, 492 ; Ash v. Putnam, 1 Hill, 302 ; Acker v. Campbell, 23 W., 372.)
+I am of the opinipn that the time had- arrived in the affairs of (xoldey when he was bound to disclose to his depositors that he was insolvent.
+It was held in Mitchell v. Worden (20 Barb., 253), that.a. purchaser was bound to disclose to his vendor, with whom he. had had dealings for a great length of time, that he had made an assignment of his property, and that the omission to do so was fraudulent.
+While a person is carrying on business apparently solvent* yet in fact insolvent, he is not bound to disclose his pecuniary: condition unless required to do so, and his concealment is not of itself fraudulent.
+But nay he continue to purchase property and be silent* knowing of his insolvency, until he has actually obtained the property of his vendor, and assigned it for the benefit of hi& creditors? It seems to me that good faith and the protection of tlose with whom such a man deals, require that the moment he becomes satisfied that an assignment must be mace by him, he should disclose his condition.
+I; is perhaps right that in a country like ours where so. much. of the business is done upon credit, and by men who. are in fact insolvent during a large part of the time they are-in lusiness, they should not be required to disclose their eonditbn to those with whom they' deal.
+They desire to struggle on, and they may ultimately succeed.- and acquire a fortune. Disclosure of their real condition vould be quite likely to destroy their credit and prevent them tram further prosecuting business. The country cannot afford to be deprived of the enterprise and energy and perseverance of such men, and hence the wisdom of not imposing on them, disclosure, as a duty which it would wish them to perform ; but unless they may continue the concealment until they have. not only obtained the property, knowing they cannot pay for it, but actually assigned and disposed of their entire means to pay their liabilities, the duty of disclosure must begin at .a point of time when it will protect the seller, and that time is when the purchaser knows he can no longer continue business, and that his property must be applied to pay his debts.
+A depositor in a bank is as much entitled to be informed of the condition of the banker with whom he deposits, and has the same claim for the practice toward him of good faith as has a vendor of property, each is entitled to the benefit of the same rules of law.
+Goldey did not" design to defraud the plaintiff and others, who deposited with him after halfpast twelve p. m. of the 8th, September, 1869. Knowing his insolvency and inability to continue business, he kept the plaintiff’s deposit separate from his own funds, marked it with the plaintiff’s name in order to identify it, with the intention of returning it to pMntiff,, should lie, Goldey, be unable to continue his business. It is true, this purpose of Goldey was not disclosed to the plaintiff when he made the deposit. The money was handed to Goldey by the plaintiff, with the intention, on his' part, of transferring the title to Goldey, and apparently the ordiuary contract between a depositor and his depositary was made. The plaintiff had the right'to insist upon this contract; bn; if it was true that Goldey had been guilty of a fraud upon him, in obtaining the deposit, it was competent for plaintiff wlen informed of the fraud, to repudiate the contract and sue for his money. Goldey would have been guilty of fraud, had he taken it as a deposit and thus enabled himself to transfer the plaintiff’s money to his assignees. This result he avoided by retaining the money, with the intention not to acquire title to it, but to retain it as the property of the plaintiff. The assignee of Goldey obtained no better title to the money than his assignors had, and as he had none the assignee acquired none.
+If Goldey had fraudulently attempted to withhold the sums deposited on the afternoon of the 8th September, 1869, from the assignee, it is possible he might have held them. But Goldey never intended to pass those moneys to the assignee, unless there was some rule of law which took from him all discretion on the subject, and compelled him to pass them over to the assignee.
+I know of no such rule of law. It follows if these views are correct, that the delivery to the assignee of the package of money, addressed to and to be delivered to the plaintiff, was a delivery to the plaintiff which revested in him the title to said money, and the defendant was and_ is the mere bailee of the plaintiff, on demand being made for the amount in said package.
+I cannot perceive how this case is to be distinguished from that of Ash v. Putnam (1 Hill, 302).
+In that case, one Dawmus, who was a member of the firm of A. Dawmus & Go., fraudulently purchased of the plaintiff, living in Philadelphia, Pa., a quantity of books on a credit of six months, and the books were shipped to the purchasers at Syracuse, their place of business.
+' The plaintiffs sent by mail an invoice of the books. Soon after the receipt of it, and before the seizure by the sheriff of Schenectady county, one of the firm of Dawmus & Co. wrote to the plaintiffs, informing them that the firm was insolvent, that the goods were somewhere between. Hew York and Albany, and they were at plaintiffs’ orders to dispose of as they pleased. The invoice was returned at plaintiff’s request.
+The defendant, as sheriff, seized and sold the books on á fi fa, against the purchasers, and this action was brought for the wrongful taking. The consent of the partner that plaintiffs might take the goods, was given in January, and the seizure by the sheriff was in March following.
+It was held that the sale was rescinded, and the title to the books was in the plaintiffs, and hence that Dawmus & Co., the purchasers had not at the time of the levy any interest in the books which could be taken and sold on execution. The case of Atkin v. Barswick (1 Strange, 165), cited by Cowen, J., in Ms opinion in the case of Ash v. Putnam, in principle, is identical with this case and governs it.
+I am of opinion that there should be judgment in favor of' the plaintiff, and against the defendant for eighty.dollars, and interest thereon from the time of demand and refusal:
