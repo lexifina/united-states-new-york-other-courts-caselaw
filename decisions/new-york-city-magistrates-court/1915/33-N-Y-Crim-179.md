@@ -1,0 +1,42 @@
+---
+court: "New York City Magistrates' Court"
+decided: "1915-05"
+citations: ["33 N.Y. Crim. 179"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. DELIA L. GANS."]
+source_url: "https://static.case.law/ny-crim/33/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1211577
+cites_cases: ["42 N. Y., 258", "47 N. Y., 330"]
+---
+
+# People v. Gans
+
+## Majority (Duel, C. M.:)
+
+Duel, C. M.:
+Among other legal anomalies appearing in this prosecution is the fact that by substituting the attorney appearing for the defense as party defendant he could interpose a plea in bar under the constitutional guaranty that “ no person shall be twice put in jeopardy for the same offense.”
+Another is the defense of res judicata in a criminal action; so unusual is this that outside of former jeopardy a somewhat diligent search has failed to disclose a single precedent or a legal text writer who has discussed the subject.
+If that defense is rejected and the defendant is held for trial, the committing magistrate practically must declare to the trial court. “ You were clearly wrong in your former judgment and I am sending the case back for your further consideration.” As justification for doing so; I am reminded by the prosecution that I recently held a defendant for trial for a tenement house violation in which the “ objections were almost identical with the ones ” presented here, and the defendant was convicted and fined in Special Sessions. That case was not contested in the Magistrate’s Court and if it had been neither the magistrate nor the trial court could have been embarrassed because the issue was not identical, the parties were not the same, and the judgment relied on now would not have been admissible evidence therein.
+The judgment relied on as establishing the defense of res judicata in this case was clearly admissible because the issue of law and fact were identical and the actions were between the same parties or their privies. That a grantee is in privity with the grantor is not a debatable question.
+The actions were in the name of the People, but the machinery of justice was put into operation by different tenement house commissioners; however, the commissioner now in office is in privity to each one of his predecessors in the same office (23 Cyc., 1270).
+The actions concerned the same tenement house, number 86 Lewis street, a five-story structure built in 1892, designed for two families on the ground floor and for three on each of the other floors. Its frontage is twenty feet on a lot one hundred feet deep. Fire-escapes front and rear were provided, which in neither action was challenged by the department. A fire-escape was provided for the central apartments, which, in construction and capacity, was unobjectionable. This fire-escape leads down into an “ outer court ” a trifle larger than “ five feet in width from wall to wall ” in each direction. It has a passageway two feet wide between solid walls to the yard, which made the court a “ yard court.” If the passageway had been to the street it would have been a “ street court ” (Ten. H. Law, sec. 2, Definitions).
+This passageway, both here and in the former trial, is and was the single “ bone of contention.”
+The department claims, under the strict letter of the law, that such passageway should be at least five feet wide. The law, or so much thereof as is here applicable, reads:
+“ In the case of tenement houses erected prior to April 10, 1901, fire-escapes that are already erected shall be deemed sufficient in the following cases: ® * *
+2. If located in an outer court at a point not more than thirty feet from the outer end of such court, and provided such court is not less than five feet in width from wall to wall at any point between such fire-escape and the outer end of said court ” (sec. 16, subd. 3, par. 2).
+To make this passageway conform to the views of the department would require three feet to be cut from the rear apartments, which was what defendant Joseph Gans doubtless had in mind in 1910 when, then testifying at the trial, he said: “ It would be impossible to improve the conditions without tearing down the building.”
+There is no contention that this passageway of two feet is not fully equal to the descending capacity of a fire-escape the balcony openings of which are “ twenty-one by twenty-eight inches.” It is common knowledge that persons can flee to safety through such a passageway much more rapidly than they can descend the fire-escape. But the exit facilities from this particular court were not confined to the passageway. There was another exit two and one-half feet wide to the adjoining premises.
+It is easy to conceive of this particular “ court ” as being both a “ yard ” and a “ street ” court, which it would be if it also had a similar passageway to the street. As thus constructed the exit capacity of the “ court ” would be much enlarged and would be more than double the descending capacity of the fire-escape. Nevertheless, such a “ court,” under the contention of the commissioner, would be in violation of the provisions in question because one or the other of the passageways did not measure at least five feet wide.
+Thus it is seen that the contention of the department rests upon the conception that the Legislature was deliberately uneconomical and extravagant. If there be another construction open to the court which will accomplish equally good results and without extravagant waste or injustice, that construction may be adopted (Hyatt v. Taylor, 42 N. Y., 258; Smith v. People, 47 N. Y., 330).
+It is quite probable, therefore, that the trial court came to the conclusion that the word “ court was used by the Legislature in its lexicographic meaning: “ An inclosed space connected with a building or buildings of any kind, and serving property for their particular uses or service” (Century 1). In that view the “ outer end for the “ court ” would be the opening end of the passageway. It is apparent that as to an “ inner court ” the word was used as above defined.
+Did the Legislature intend that buildings complying with the law when erected must be torn down and rebuilt because forsooth they did not comply exactly with the literal requirements of the new law?
+The foregoing observations are not intended as the actual reasons operating on the mind of the trial court, nor are they intended to express my construction of the statute in question if the case were before me as a new problem, but they are presented to show the two-sided character, of the issue before the trial court. They are also presented so as to narrow the actual issue in each case to the smallest limits. The judgment of 1910 was wholly based upon the associative relationship of the passageway and outer court, and the decision was against the contention of the department.
+Is that judgment binding upon the present tenement house commissioner as against this defendant ? Is it binding upon all successors in office as against persons in succession to Joseph Gans, the owner in 1910 and the defendant then prosecuted? Is it binding upon a committing magistrate whose limited province is to determine whether a crime has been committed and sufficient cause to believe the defendant in the case before him is guilty thereof?
+If Joseph Gans had remained in ownership no crime could have been committed, because as to him the conditions were entirely legal under the constitution by the final judgment of a competent court. Did not the power therefore rest in him to convey all his right, title and interest in and to the premises in question? In other words, were not the former criminal proceedings which fixed the status of that particular property quasi in rem (23 Cyc. 1440, E.) and universally binding?
+Is the defense of res judicata in a criminal action irrational and erratic because, forsooth, no decision to sustain it and no legal text writer to discuss it can be found?
+These are some of the perplexing questions arising out of the anomalous facts presented by this prosecution.
+In answer thereto I find that all of the requisites and all of the legal principles and economies for sustaining the doctrine of res judicata in civil cases are present in this criminal action, and I am unable to offset them by substantial reasons.
+It necessarily follows that the defendant should be discharged.
