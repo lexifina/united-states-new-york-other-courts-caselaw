@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-05-09"
+citations: ["46 N.Y. St. Rep. 376"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Board of Commissioners of Charities and Corrections of Kings County, Pl’ff, v. The Board of Supervisors of Queens County, Def’t."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084255
+---
+
+# Board of Commissioners of Charities & Corrections of Kings County v. Board of Supervisors
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+By the Revised Statutes all persons convicted for a criminal misdemeanor were to be imprisoned in a county jail where imprisonment was included in the sentence. 2 R. S. (3d ed.), 784, § 56.
+The prisoners were to be supported in the jails by the several counties. Felonies were punishable by an imprisonment in the state prison and in no other place. Prisoners in the state prisons were to be supported by the state at large. This law has never been changed, and the support of convicts for felonies has never been put upon the counties. By chapter 158, Laws of 1856, convicts for felonies punishable by imprisonment in a state prison, between the age of sixteen and twenty-one, might be sentenced to a penitentiary in the judicial district in which the conviction was had. The cost of delivery of the convicts at the penitentiary was directed to be paid by the state treasurer. Chapter 247, Laws of 1874.
+By chapter 574, Laws of 1869, in all counties having, a contract with the Albany penitentiary, state prison convicts could be sentenced to the Albany penitentiary without charge to either state or county.
+By chapter 571, Laws of 1875, all sentences which could be punished by an imprisonment in a state prison of three years or less could be sentenced to a penitentiary in the judicial district. The comptroller of the state was directed to pay for the maintenance of these convicts.
+By chapter 172, Laws of 1877, all females convicted of offenses punishable by imprisonment in a state prison were directed to be sent to the county penitentiary within the judicial district, and this law provided that the state comptroller should pay for the support of these convicts. It will be thus seen that no contract for the support of persons convicted of an offense punishable by imprisonment in a state prison was ever needed. The charge therefor was a state charge and nort a county one. The change in the place of detention of county jail convicts commences with chapter 139, Laws of 1858. By this act two counties were authorized to contract with the Albany penitentiary for the support of persons sentenced to imprisonment not less than sixty days; and by chapter 209 of the Laws of 1874 all counties might contract with a county having a county penitentiary for the support of prisoners convicted of a crime “ not punishable in a state prison.”
+The power to contract with the plaintiff upon the part of Queens county, as to the support of prisoners punishable in a state prison, never existed. The contract must be held to be within the spirit of the law, which is to authorize Queens county to board its jail prisoners who are sentenced to detention over sixty days to be detained in a pententiary, where occupation will be furnished to the prisoners, and incidentally to compel the prisoner to earn his own support.
+Judgment should therefore be given for the defendant upon the submitted case.
+Dykman and Pratt, JJ., concur.
