@@ -1,0 +1,32 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1890-06-16"
+citations: ["16 Daly (N.Y.) 309", "32 N.Y. St. Rep. 326", "11 N.Y.S. 69"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James C. French et al., Appellants, against John George Bauer et al., Respondents."]
+source_url: "https://static.case.law/daly-ny/16/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1609739
+cites_cases: ["14 Daly 131", "14 Daly, 131", "55 N. Y. 491", "55 N. Y., 491"]
+---
+
+# French v. Bauer
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+The action was brought to foreclose a mechanic’s lien filed against the premises 3467 Third Avenue, in this city.
+"The defendant Bauer was the owner of the lot and the defendant Peter Spoonheimer entered into a contract with him to erect and fully complete a building thereon, for which he was to be paid in six instalments. The fifth instalment was to become due when the cellar was concreted and the sidewalk and all exterior iron and stone work was completed.
+Spoonheimer contracted with the firm of Findley & Bowman to do all the iron work required on the building and. the sidewalk, and the plaintiffs, on or about the 13th of October, 1888, contracted with Findley & Bowman to put"down all the patent light frames and tiles required by Spoonheimer’s contract, for the sum of $100. Plaintiffs performed their contract on or before the 24tb. of October, 1888. All the stone work and exterior ironwork had been fully completed before the 29th of October, 1888, and on that day the architect gave his certificate to that effect, and on the same day the defendant Bauer paid the defendant Spoonheimer the fifth instalment due.
+On the 2nd of November, 1888, Spoonheimer and Findley &, Bowman had a settlement and adjustment of their matters, and on that day the former gave a check, dated November 5th, for the balance found due the latter, and they gave him a receipt in full dated on the last named day. The check thus given was cashed on the same or the following day, and paid by Spoonheimer’s bank when it was presented.
+On the 3rd of November, Findley & Bowman made an assignment, and on the 7th of November one of the plaintiffs had an interview with Mr. Bauer and Mr. Spoonheimer and asked payment of his claim; he was told that Findley & Bowman had been paid in full, and also that they had made an assignment, as they had learned from the papers. .On the 9th of the same month plaintiffs filed the lien which this action is brought to foreclose. At that time the last instalment of $1,000 had not been paid to .Spoonheimer, nor was it then due. Notice of the lien was also served on Bauer.
+All the foregoing facts appeared on the trial, and the attention of the jury was sharply called by the charge of the court, strongly in favor of plaintiffs, to the question of the good faith of the fifth payment, and also of Spoonheimer’s payment to Findley & Bowman, and the jury, on what we consider sufficient evidence, found in favor of the defendants. So the facts that Bauer did not make the fifth payment before its maturity, and that Spoonheimer made his final payment to Findley & Bowman in good faith, we must regard ns established beyond controversy.
+Appellants contend that, notwithstanding these facts, inasmuch as there still remained $1,000 of the contract price to be paid by Bauer to Spoonheimer for work not then completed, they should have been paid out of that, claiming that the contract price is a common fund out of which all liens should be paid.
+But, by the terms of the contract between the defendants, Bauer was required to make the fifth payment when the cellar was concreted and the sidewalk and all exterior iron and stonework completed. This was all done on the 29th of October, and as no lien had then been filed by plaintiffs, Bauer paid, as in duty bound, the whole amount of that instalment" to Spoonheimer. And the latter, as the jury have found, paid Findley & Bowman in good faith all that remained due them on or before the 5th of November. The plaintiffs did not file their lien until the 9th of that month, and of course acquired no lien before that time. When they did file their notice of lien it could only attach to what was due or to become due to Findley & Bowman (Lumbard v. Syracuse, etc., R. R. Co., 55 N. Y. 491), and there was nothing then due or to become due them, so nothing was attached. There was no privity of contract between the plaintiffs and the defendant Spoonheimer ; the former contracted with Findley & Bowman, and if plaintiffs did not rely upon the responsibility of that firm, but upon the lien given by the statute, it was their duty to have examined not only Findley & Bowman’s contract but also the contract between the defendants to ascertain the terms of payment, and then they should have filed their lien in time to have anticipated the fifth payment. See Sagan v. Amer. Baptist etc. Soc. (14 Daly 131), where this question is fully discussed, and authorities cited.
+Appellants’ contention, if sustained, would work a great injustice to the principal contractor Spoonheimer, for -tire law of 1885 (L. 1885 c. 342 § 1), expressly provides the owner shall be liable to pay no greater sum than the price stipulated to be paid in the contract, and the mere fact that he saw one o£ the plaintiffs doing some work there would not alter his liability in this respect, as he had not contracted with him. The principal contractor would therefore be the only one who would have to pay the claim, but he had contracted for this work with Findley & Bowman and not with the plaintiffs. He in good faith paid that firm for this very work without any notice given by plaintiffs of their claim, and it would be unjust to compel him to pay for the same work twice. It is not the duty of the contractor to hunt up everyone who may have worked for or furnished materials to a subcontractor, and ascertain whether they have been paid; it is their duty to give him the notice required by law in order to bind him. The cases cited by the appellants do not support their contention, but each one of them recognizes the principle herein set forth.
+The judgment should therefore be affirmed, with costs.
+Labbemobe, Ch. J., concurred.
+Judgment affirmed, with costs.
+Leave to appeal to the Court of Appeals from the judgment entered on this decision was granted December 1st, 1890.
