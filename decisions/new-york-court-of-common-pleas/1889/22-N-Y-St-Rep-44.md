@@ -1,0 +1,36 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1889-02-11"
+citations: ["22 N.Y. St. Rep. 44"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Warren H. Lewis, Resp’t, v. The Ocean Navigation and Pier Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/22/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020454
+---
+
+# Lewis v. Ocean Navigation & Pier Co.
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+—The defendant made a lease to the plaintiff and another of certain premises at Coney two seasons, terminating with the close of the season of 1885,
+By the terms of the lease-the lessees were to contract a building upon the demised premises which they were authorized to remove at the expiration of their term if all rents and arrearages of rents should be fully paid; but if such rents were not so paid, the building was forfeited to and became the property of the lessor, the defendant.
+When the lease came to an end the lessees were in arrear with their rent and then owed the sum of $150 therefor, which was subsequently paid by the plaintiff.
+The lessees continued to occupy the building so erected Tby them upon the demised premises until the month of May, 1886, when they were summarily removed for holding over after the expiration of their lease.
+The defendant prevented the removal of the building by the lessees, and this action was brought for the recovery of the value thereof and its appurtenances, the co-lessee of the plaintiff having assigned to him his interst in the cause of action.
+The complaint was dismissed upon the trial at the close of the plaintiff’s case, and the exceptions taken by the plaintiff were directed to be heard at the general term.
+If the severe and unrelenting principles of the common law relating to the subject of forfeitures for the non-performance of conditions are to be applied to this case then the rulings of the trial judge dismissing the plaintiff’s complaint in this action may be upheld and affirmed under the roles of law pertaining to that subject, otherwise they are erroneous and cannot be sustained. We must, therefore, furnish the solution to that question.
+It was within the contemplation of the parties to the lease and provided in that instrument that a building should be erected upon the demised premises by the lessees in accordance with plans and designs to be approved by an officer of the company, which should be used and occupied by them for the purposes of the business to be conducted at that place during the continuance of their term, and removed by them at the expiration of their lease if all the rents and arrearages of rents should be fully paid. If not so paid the building should be forfeited to and become the property of the lessor.
+Under and in pursuance of the authority so conferred, and in reliance upon the- rights and privileges so secured, such a building was erected and occupied by the lessees during the two seasons embraced in and covered by the lease. And when the last payment of $250 became due and payable in July, 1885, the president of the company directed the .plaintiff to go on and pay the balance of the rent, and said he could remain there another year and run it the same way, and he would be able to make all up the next summer. Then the plaintiff paid all the rent for the year, 1885, during that season except the sum of $150 which he paid in. February, 1886.
+We think this last arrangenient with the president constituted an extension of the time for the payment of the rent and a waiver of all rights which might have accrued, to the company by reason of a failure to pay when the rent, became due by the terms of the lease.
+We also think there was no forfeiture of the building-under the terms of the lease. By that instrument the-lessees were entitled to remove the structure at the expiration of the lease, if the rent was fully paid, and' “if not so paid,” that is, if not fully paid, the building was to be* forfeited, and so conversely, if the rent was fully paid, them no forfeiture resulted. Time was not made the essence of the contract, nor an important element in any respect. If the rent was fully paid there was no forfeiture, and it was fully paid and accepted.
+If these parties entertained th.e design to make the for-, feiture of the building, dependent upon the failure to pay the rent when it became due, they would have expressed such intention in appropriate and decisive language. So* much may fairly be assumed, and when instead of employing any language expressive of such a design or intention,, we find a plain expression of a purpose to make the forfeiture dependent upon the ultimate failure to pay the rent in full, we cannot hesitate to find such to have -been the-intention of all parties. Moreover, the conduct and conversations of the parties have been in full harmony with such an interpretation of the lease.
+No measures were taken to enforce the forfeiture or reenter upon the premises when the lessees failed to pay the-rent. On the contrary, further time was granted for payment and encouragements were held out for the occupation of the premises another year, and when finally the detérmination was reached to turn out the tenants, no re-entry was. made and no claim of forfeiture was interposed, but a resort was had to summary proceedings under a claim that-the tenants were holding over after the expiration of their term.
+The provision for a forfeiture was evidently inserted in the lease as a security for the payment of the rent reserved,, and when the rent was paid, its office was performed, and its operation was at an end, and to allow it any further-operation would be a perversion of its intention and cony vert it into an instrument of oppression and confiscation.
+The lessor was only entitled to receive the rent reserved' in the lease, and when that was paid it was in natural justice entitled to no more.
+This corporation can insist upon no construction of the lease which would enable it to grasp and convert the building in question without the payment or loss of a single dollar, when a contrary view is so much more consonant with justice and the intention of the parties.
+This examination, therefore, leads us to conclude that the dismissal of the complaint was erroneous, that the exceptions were'well taken, and anew trial should be granted, with costs to abide the event.
+All concur.
