@@ -1,0 +1,38 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-02-13"
+citations: ["44 N.Y. St. Rep. 163"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Watkins, Resp’t, v. William P. Jones, Impl’d, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/44/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2075006
+cites_cases: ["107 N. Y., 346", "12 St. Rep., 263", "28 Hun, 17", "7 Hill, 45", "9 N. Y., 85"]
+---
+
+# Watkins v. Jones
+
+## Majority (Merwin, J.)
+
+Merwin, J.
+This action is against William P. Jones and David T. Jones upon a note for $377, reading as follows :
+“ On the 1st day of January next, we promise to pay Robert Watkins or order, three hundred and seventy-seven dollars, for value received, with use.
+“Remsen, lí. Y., March 29, 1882.
+“W. P. Jones.
+“D. T. Jones.”
+In the complaint it is alleged that the interest has been paid to March 29, 1889. The defendant, William P. Jones, alone answers. He admits the execution of the note, alleges that he signed solely for the accommodation of the other maker, denies that he has made any payments and sets up the statute of limitations.
+"Upon the trial, the plaintiff, as a witness in his own behalf, testified that the defendant, David T. Jones, paid the interest on the note up to March 29, 1889; that after this and in October, 1890, he saw William P. Jones and told him he should have to look to him for the payment of the note, as he didn’t think David would ever pay it, and asked him what he proposed doing about it; that William replied lie would pay it but would have to have time and would see that the plaintiff got the interest and some of the principal that fall; that in January, 1891, he, the plaintiff* wrote William a letter, in which he said to him that he had promised to pay the interest and some of the principal, and that he had. "been waiting quite a while, and asked him what lie proposed doing about it; that in reply to this he received from defendant the-following letter:
+“ Remsen, January 24, 1891.
+“ Robert Watkins:
+“Dear Sir—Your letter was duly received, and in answer will say that David is trying to sell the horse he has and I am trying to sell it also. As quick as he can dispose of it he will pay you some. I expected last fall to be able to help him some, but the cheese sold so slow that my dairy did not bring me enough to-pay my rent and help. Will help him to pay some as soon as I can. “W. P. Jones.”
+No other evidence, material to the question here, was given. Thereupon the counsel for defendant asked the court to nonsuit, the plaintiff and dismiss the complaint on the ground that the note was outlawed; that the verbal promise did not take the case-out of the statute, and that the letter was not such a promise or recognition of liability upon the note as to take it out of the-statute, and also that it was conditional and not effective to aid the plaintiff except upon the happening of the condition. This, motion was denied and defendant excepted. Thereupon, upon motion of plaintiff, the court ordered a verdict for the plaintiff on the note and defendant excepted.
+It .sufficiently appeared that the letter of defendant referred to the note in suit. The oral evidence was admissible to identify the debt. Manchester v. Braedrter, 107 N. Y., 346; 12 St. Rep., 263.
+Beyond that, the oral evidence cannot be considered, as the-promise or acknowledgment required by the statute cannot be-partly in writing and partly by paroi. Ñor can the contents of the letter written by the plaintiff to the defendant be considered,, as the statute calls for a writing signed by the party to be charged.
+Assuming, then, that the letter of defendant refers to the claim of plaintiff on the note, -the question is whether the letter contains an acknowledgment or promise sufficient to take the case out.of the statute. The defendant does not- say he will pay the-plaintiff anything, nor does he intimate that anything is due from him to plaintiff. He says .that the other maker will pay him something when he sells his horse. It does not appear that the horse has been sold. He says he will help the other maker pay some as soon as he can. It does not appear that he is now abiete do it He says he expected last fall to be able to help the other maker to pay some, blit failed for reasons stated. He indicates a willingness and expectation to help the other maker, but-does not acknowledge any liability from himself to the plaintiff. It does not appear what the relations were between the defendant, and the other maker except as it may be inferred from the fact, that defendant had paid none of the interest, and was not apparently called on for anything as long as the other maker was good.
+Anderson v. Sibley, 28 Hun, 17, and Manchester v. Braedner, supra, are cited by plaintiff as applicable here. In the Anderson case, the plaintiff and defendant’s intestate entered into a written stipulation to submit their matters in difference to an arbitrator named and on the hearing before the arbitrator to waive the statute of limitations. The defendant’s testator the next day revoked the submission. Thereupon the plaintiff having sought to enforce his claim, the statute of limitations was set up. It was held that the agreement to waive the statute on the hearing before the arbitrator was a sufficient written acknowledgment to remove the bar of the statute. It was said that the stipulation and the facts attending it raised an implied promise to pay the claim, unless some defense should be found to exist to it other than the statute of limitations and that, no such defense appearing, the written promise or acknowledgment was sufficient. In the Manchester case, the defendant had given to the plaintiff written orders on a third party to an amount equal to plaintiff’s claim. The orders were not paid. It was held that the orders implied the relation of debtor and creditor between the plaintiff and defendant to the extent of the sums specified in the orders and a willingness ón the part of the defendant to pay the debt, and constituted a sufficient acknowledgment to avoid the statute. These cases do not reach the present. There is here no order in fact or substance upon a third party, nor is there any promise from which a recognition of the debt may be implied. The fact that defendant was willing, for some undisclosed reason, to help the other maker does not authorize the inference of a recognition of the existence of a debt from defendant to plaintiff On the contrary, the expressions used rebut the idea of any intention on the part of defendant to recognize any liability upon himself to plaintiff. He does not propose to pay anything to plaintiff, he only proposes to help the other party. At the timé the letter was written the six years had fully run as against the defendant, as it is not claimed that the payments made by the other party affected the defendant.
+So far as there was any promise that was conditional, it was incumbent on the plaintiff to show the condition fulfilled, Cocks v. Weeks, 7 Hill, 45; Wakeman v. Sherman, 9 N. Y., 85; Tebo v. Robinson, 100 id., 27; Angell on Limitations, 6th ed., § 236.
+The foregoing suggestions lead to the conclusion that the letter in question was not sufficient to show an acknowledgment or promise that would relieve the bar of the statute. It follows that the court erred in directing a verdict for plaintiff
+Judgment reversed upon the exceptions and a new trial ordered, costs to abide the event.
+Martin, J., concurs; Hardin, P. J., not voting.
