@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-03"
+citations: ["70 N.Y. Sup. Ct. 533"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Yan Brunt, P. -I., O’Brien and Ingraham, JJ."]
+parties: ["SARAH R. MEETEER, Respondent, v. THE MANHATTAN RAILWAY COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/70/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4641840
+---
+
+# Meeteer v. Manhattan Railway Co.
+
+## Majority (Per Curiam :)
+
+Per Curiam :
+The action was brought to recover for injuries sustained by the plaintiff while a passenger on defendant’s elevated railroad through the alleged negligence of the defendant.
+The question which has been principally urged upon this appeal relates to the amount of damages which were awarded, and which, it is claimed, were based upon an erroneous theory as to the evidence which was necessary to justify a finding that the injuries caused by the accident were of a permanent character. In the reception of evidence, and in the efforts made to exclude what was regarded by the defendant as incompetent evidence, and in the charge of the court, the effect was, to some extent, to permit the jury to understand that they were at liberty to award damages for injuries which were likely to be permanent, instead of confining their verdict to damages for such injuries as would with reasonable certainty be permanent.
+It is not necessary for us to go over the entire testimony to point out the different instances in which such rulings were made. But, as an illustration, Dr. Dana, an expert, called for the plaintiff, was asked by the court the following question: “ Can you say with reasonable certainty whether this injury is likely to be permanent ? And the witness answered “ I can.” He was then asked, “ Is it, or is it not, likely to be permanent ? ” To which he answered: “ It is likely to be permanent in the sense that it will improve somewhat,, but she is not likely to ever get entirely over it.”
+The same witness was also asked : “ Q. Can you say with reasonble certainty whether this disease tends to shorten life or not % A. I can say that. Q. Does it ? A. In many cases it does.”
+The counsel for defendant excepted to the answer, and moved to strike it out as incompetent and improper. The court denied the motion and defendant excepted.
+The court, in the charge, said: “ If you consider she has been permanently injured, you may award compensation for that.” And when defendant excepted to this portion of the charge, the court said: “ "When I say if you consider, I mean if you consider from the evidence ? ” In view of what had proceeded, to which attention has been called, it is evident that sufficient weight was not given to the true rule that should be applied in regard to giving-damages for permanent personal injuries in cases of this kind.
+Furthermore, it appears from the record that counsel for the defendant requested the court to charge that the jury, if they saw fit, might reject the whole or any part of the plaintiff’s testimony as to how the accident happened, or as to the nature and extent of her injuries, because she was pecuniarily interested in the result.
+This the court declined, except as charged. And it appears from a reading of the charge that the court did not instruct the jury at all as to their right to reject the plaintiff’s testimony because of interest, but simply left the questions at issue upon the evidence, leaving the jury to infer that they were bound to consider the evidence of the plaintiff as of equal weight with that of any other witness. And this view is emphasized by the fact that in reference to the expert testimony he expressly charged the jury that they were not bound by such evidence.
+The counsel for the defendant also requested the court to charge that the jury were not to consider the fact of the refusal of the court to dismiss the complaint as any indication of the opinion .of the court as to the facts of the case. This the court declined and defendant excepted.
+"We think that the court should have charged as requested, for the mere fact that the court held that it was bound to submit the question of fact to the jury was no indication that if the court had been at liberty to determine the questions it would have determined them in favor of the plaintiff. It was only an indication that in the opinion of the court there was some evidence tending to support the claim of the plaintiff.
+The judgment should be reversed and new. trial ordered, with costs to appellant to abide event.
+Present — Yan Brunt, P. -I., O’Brien and Ingraham, JJ.
+Judgment reversed and new trial ordered, with costs to the appellant to abide event.
