@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court Special Term"
+decided: "1885-05"
+citations: ["16 Abb. N. Cas. 265"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AKEN v. KELLOGG."]
+source_url: "https://static.case.law/abbn-cas/16/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 631232
+cites_cases: ["33 Northw. Rep. 696"]
+---
+
+# Aken v. Kellogg
+
+## Majority (Westbrook, J.)
+
+Westbrook, J.
+The plaintiff, as the widow of Benjamin Aken, deceased, brings this action to recover dower in the real estate described in the complaint, of which her husband died seized, and alleges the follow! ing facts:—
+By the will of Benjamin Aken, which is made a part of the complaint, the testator gives to his “beloved wife, Alletta A. Aken, one-third part of ” his “ personal property absolutely also the one-third part of his real estate to Asa S. Kellogg, his son-in-law and executor, in trust, to pay over the rents, issues and profits thereof, unto his said “beloved wife, Alletta A. Aken, during her natural life, and upon her death to distribute said real estate between ” his “ daughter Sarah A. Kellogg, and the issue of ” his “son Theodore Aken, so that” his “said daughter, Sarah A. Kellogg, shall receive one-half thereof, and the issue of said Theodore A. Aken one-half thereof, share and share alike.”
+The testator by his will declares, “The provision above made for my said wife is made, and is to- be received by her in lieu of dower.”
+The will also gave to his daughter, Sarah A. Kellogg, wife of the executor, Asa B. Kellogg, another one-third part of all his “ estate both real and personal wherever situate absolutely and at all events and also to his executor the remaining one-third of all his estate real and personal in trust to pay over the rents, issues and profits thereof to his “son Theodore Aken, during his natural life, and upon his death to distribute and divide said estate among his lawful issue then living, share and share alike.”
+The complaint avers that Asa B. Kellogg, the husband and agent of Sarah A. Kellogg, the defendant, stated and represented to the plaintiff that it would be much more advantageous to this plaintiff to accept the provisions of said will, than to claim her right of dower in the estate left by the said Benjamin Alien, and that such representations and statements were made to this plaintiff by the said Asa B. Kellogg in the presence of the defendant Sarah A. Kellogg, acting as her agent and for her benefitand that the executor had paid to the plaintiff, who has received the'same, portions of the income of the estate of her deceased husband under the will.
+It also charges that in consequence of the statements made to her by the executor, which both said executor, Asa B. Kellogg, and his wife Sarah, knew to be false, the plaintiff omitted to take any steps whatever to possess or recover her dower in any of the lands of which her husband died seized, and that, in consequence of the insolvency of the estate of Benjamin Aken, she will receive nothing under the will. Wherefore she asks that she may “be relieved from the penalty imposed by statute for not having within one year after the death of her husband ” rejected the provisions of the will made for her benefit in lieu of dower, and that she be now allowed to make her election under the will, to renounce the provisions therein made for her benefit, and to recover her dower in the premises.
+To this complaint thete is a demurrer upon the ground that such complaint shows no cause of action, and the question which it presents arises under the revised statutes (1 R. S. 741, §§ 12, 13,14), which provide that when provision is made for a woman in lieu of dower, and she is required by such statute to make an election between the provision and the dower (and this is such a case), “ she shall be deemed to have elected to take such jointure, devise or pecuniary provision, unless within one year after the death of her husband she shall enter on the lands to be assigned to her for her dower, or commence proceedings for the recovery or assignment thereof.
+It is proposed in this opinion to state briefly the reasons why the demurrer should be sustained, without any formal or elaborate argument.
+First. The alleged fraud of Sarah A. Kellogg and her husband can not alter or change the statute. Fraud may relieve a person from an agreement, but it can not extend the statute time for bringing an action or to make an election one day. To recover her dower the plaintiff was bound to commence her action or proceeding within one year-after the death of her husband, and the court is powerless to extend the time. If an actionable fraud has been perpetrated, damages by way of compensation may be awarded, but the court can not relieve from a statute bar.
+Second. Even though the court could enlarge the time to recover dower against the perpetrators of the alleged fraud—Sarah A. Kellogg and her husband—it could not do so against parties not implicated therein. The defendants, Edna Aken and Maud C. Aken, grandchildren of the testator, are, according to his will, equally interested with the defendant, Sarah A. Kellogg, in the premises in which the dower is asked to be assigned. There is no allegation in this complaint, that their interest has been assigned by Sarah A. Kellogg. It is true, it is averred that said Sarah “claims the title to all of said lands and premises,” but it is not charged that the interest of the grandchildren has been transferred to her; on the contrary, it is charged “that the defendants, Edna Aken and Maud C. Aken have, or claim to have some title or interest in said premises.” As these parties are implicated in no fraud, the plaintiff can not have the relief she asks, because thereby as against confessedly innocent parties, the statute time for bringing an action is enlarged.
+Third. There is no averment in the complaint that the statement made to the plaintiff was for the intent or purpose of influencing her action ; and it was not the statement of a fact, but the expression of an opinion.
+Fourth. The plaintiff has received a part of the income of the estate under the will, and she is in no condition to repudiate the election which she made, without restoring or offering to restore its fruits.
+For these reasons the demurrer must be sustained with costs. The plaintiff to be allowed, on payment of costs, to serve an amended complaint.
