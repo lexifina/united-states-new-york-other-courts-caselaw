@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-01-23"
+citations: ["35 N.Y. St. Rep. 538"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Rochester, App’lt, v. Simon V. McDowell et al., Impl’d, Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/35/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 673806
+cites_cases: ["47 N. Y., 428"]
+---
+
+# City of Rochester v. McDowell
+
+## Majority (Corlett, J.)
+
+Corlett, J.
+On the 8th day of March, 1887, the defendant, John A. Davis, was elected treasurer of the city of Rochester for the term of two years, which commenced on the 1st day of April. Davis as principal and the other defendants as sureties executed a bond to the plaintiff in the penal sum of $50,000, the condition of which was in substance that the treasurer would faithfully discharge and perform all the duties of his office.
+Davis was elected to succeed himself in March, 1889, and executed, with the same sureties, a like bond.
+Davis as treasurer was in default, and misappropriated moneys-in each of his terms of office, and in March, 1890, the plaintiff commenced an action against him and his sureties to recover $60,500 with interest, the amount of the alleged misappropriations.
+The complaint contains two counts: The first charged him, in substance, with misappropriating $33,000 during his first term, and the second with misappropriating $27,500 during his second term. Davis never appeared in the action, but the sureties did. The complaint has not been answered, but those appearing demanded a bill of particulars, which the plaintiff did not furnish. The defendants, thereupon, made application upon affidavits to the special term for a bill of particulars, which the plaintiff opposed by affidavits. The special term granted the following order:
+“ It is ordered, that within twenty days after service of copy hereof, the plaintiff do deliver to the defendants aforesaid a bill of particulars of the claim of the plaintiff specified in each of the counts of said complaint, showing at what time or times, and in what particulars the said Davis failed to comply with the conditions of each of the said bonds set forth in said complaint, and at what time or times, and in what particulars he failed to perform his duties as such treasurer and the duties imposed upon him by law in respect to the money, property and affairs of said city, and at what time or times and in what particulars he failed to serve the plaintiff well, truly and honestly or faithfully in his capacity as treasurer, or failed to pay over to his successor in office moneys or property belonging to the plaintiff, and at what time or times the said Davis wrongfully took, appropriated or converted any sums of money received by him and belonging to the plaintiff, and what said various sums of money, and each thereof were, and what particular sums of money of the plaintiff, and at what times, the said Davis failed or omitted to turn or pay over to the finance committee of the plaintiff’s common council or its chairman, and that the plaintiff be precluded from giving evidence upon the trial hereof of any of the allegations of said complaint upon the matters and things hereinbefore mentioned, except as specified in such bill of particulars.”
+The affidavits upon which the order was granted show in substance that, under the advice of counsel, the defendants cannot answer until furnished with a bill of particulars. The affidavits on the part of the plaintiff tend to show that it was out of its power to furnish more particulars than those appearing in the complaint
+Ordinarily, upon demand, a bill of particulars should be furnished, under § 532 of the Code of Civil Procedure. The bill of particulars need contain nothing more than the plaintiff is required to prove at the trial. Matthews v. Hubbard, 47 N. Y., 428.
+The order directing the bill of particulars was in the usual form. After the demand was served on the plaintiff, it should have furnished such particulars as it had power, without compelling the defendants to make a motion. The practice is for the party, when requested, to serve a bill of particulars, and if the other party is not satisfied, a motion can be made to compel a further bill. If the plaintiff should show in its bill of particulars that it could not state the time or times when moneys were misappropriated, or the amount or amounts misappropriated at any particular time or times, it would be a substantial compliance with the order, which, while full and covering the whole ground, was not intended to require an impossibility or prevent the plaintiff from proving its case, if it obeyed the order to the extent of its power. It should serve on the defendants all the items required by the order which it has power to furnish. This would inflict neither hardship nor injustice. After the service of such a bill properly verified, the defendant, if so advised, might move for fuller or more specific information. If such application should be made, "the court would be in a position to dispose of the whole question upon the merits according to the ordinary rules of practice ; but if the defendants acquiesced in the bill all controversy on that subject would be ended.
+It follows that the order appealed from should be affirmed.
+affirmed, with ten dollars costs and disbursements.
+Dwight, P. J., concurs; Macomber, J., not sitting.
