@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1886-05-13"
+citations: ["1 N.Y. St. Rep. 80"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Farnsworth, receiver, etc., v. Western Union Telegraph Company."]
+source_url: "https://static.case.law/ny-st-rep/1/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 637266
+---
+
+# Farnsworth v. Western Union Telegraph Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This action by the complaint appears to have been brought for damages for alleged trespasses committed by the defendant in entering upon the property of which the plaintiff is receiver, and cutting and detaching the wires and cables, and removing wires, cables and telegraph instruments, the property of the company of which he had been appointed receiver., and interfering with his custody and management of such property and the business designed to be carried on by its use.
+These allegations impute to the defendant the commission of. positive wrongs, for which the plaintiff, as receiver, will be entitled to recover damages if they shall be sustained. The defendant is not a party to the action in the circuit court of the United States, neither does it appear to have acted under any authority conferred, upon it by the complainant in that action. All that the defendant was entitled to do, under its contract with Edward Harland, as receiver of the American "Rapid Telegraph Company, and complainant in the action in the circuit court of the United States, was to take possession of and manage and operate the property vested in Harland, as receiver, under and by virtue of orders referred to in the agreement, including poles, wires, insulators, fixtures, instruments, batteries, offices, office machinery and equipment apparatus, furniture, tools, implements, materials and machinery in use and in stock or on hand, with the appurtenances thereof and the property appertaining thereto, and the franchises, rights of way, easements, inventions and patents which the receiver himself was authorized and empowered to take, possess, hold, manage and operate under tho orders referred to, and not otherwise, and to hold the same during the full period of his receivership or that of his successor or sue ■ cessors, and to use the property and take and receive the revenue and profits arising therefrom, and all earnings of the property, and all and every part thereof, for which it was to pay the receiver a monthly compensation. This, agreement did not authorize or empower the defendant to take possession of any part of the property or wires of the Bankers and Merchants’ Telegraph Company, of which the plaintiff was appointed receiver, and neither the action in which Harland was the receiver, nor the agreement made between himself and the defendant authorized the defendant to take any part of the property of Bankers and Merchants’ Telegraph Company, or to cut or destroy its wires, or to interfere with or interrupt its business. And it is for' acts of this description that it is the object of this action to make the defendant legally accountable.
+The trial and determination of the action in the circuit court of the United States, accordingly, will not dispose of the present action between the plaintiff, as receiver of the Bankers and Merchants’ Telegraph Company, and the defendant. For, however that may be terminated, if the plaintiff has a right of action against this defendant for the wrongs alleged in the complaint, it will still be necessary to try and determine this suit, whatever may be the disposition made of the action in the circuit court of the United States. And where that is the relation which the later action bears to the earlier, it is not the practice, neither should it be, to delay the trial of the later suit until the hearing and disposition of the other. That is the case presented here. It affords no legal grounds upon which the court would be justified in making an order staying the trial of this action until the action in the circuit court of the United States shall be heard and disposed of. Both actions may well proceed together, and if the plaintiff is entitled to any legal redress it can only be properly secured by the trial and determination of this suit.
+The order from which the appeal has been taken should be affirmed, with costs.
