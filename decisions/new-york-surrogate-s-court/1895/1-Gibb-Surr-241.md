@@ -1,0 +1,21 @@
+---
+court: "New York Surrogate's Court"
+decided: "1895-02"
+citations: ["1 Gibb. Surr. 241", "68 N.Y. St. Rep. 828"]
+reporter: "gibb-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Wilson G. Hunt, Deceased."]
+source_url: "https://static.case.law/gibb-surr/1/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1146131
+---
+
+# In re the Estate of Hunt
+
+## Majority (Arnold, S.)
+
+Arnold, S.
+Applications are made by the guardian of certain infants to whom ancillary letters, have been granted by this court for the payment to it of legacies given by the will of Wilson G. Hunt to said wards. There is no opposition made, further than that the executors claim that it is doubtful whether they can safely make such payments until or unless the ancillary guardian gives a bond similar to that required under like circumstances from a domestic guardian, under section 2746 of the Code.
+The ancillary letters were granted, upon proof, among other things, that the applicant for same was the duly appointed general guardian of the minors, and had given the security described in subdivision 1 of section 2838. It is to be assumed that such security was directed and given for the whole of the infants’ estates, including the legacies in question. While under the like conditions a domestic guardian would have to' give an additional bond, it does not follow that the ancillary guardian must do so; and, unless there is some express or implied requirement of law calling therefor, it should not be required of it. I do not find any such requirement; but, on the contrary, section 2840 of the Code expressly provides that ancillary letters, if granted, shall be issued without security, and the ancillary guardian shall thereupon be authorized to demand and receive the personal property of the ward, and may remove same from the State. The receipt of the ancillary guardian in this case will be a full protection to the executors in paying over to it the legacies here in question.
+Application granted.
