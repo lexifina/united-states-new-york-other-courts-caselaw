@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-12-01"
+citations: ["56 N.Y. St. Rep. 200"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward D. Burt et al., App’lt, v. William H. Nafus, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/56/cases/0200-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 697666
+cites_cases: ["131 N. Y., 669", "137 N. Y., 616", "43 St. Rep., 923", "51 St. Rep., 167"]
+---
+
+# Burt v. Nafus
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The plaintiffs are the executors of Charles-Whiting, deceased. In 1889, acting utider a power of sale given by the will, they sold certain premises of the deceased to Kronacher & Etziel for the sum of $10,000. The defendant is an attorney at-law and was employed to pass the title. The deed was delivered and the money consideration paid to the defendant. He paid to the plaintiffs $9,355 and retained $645. The action is brought to obtain a judgment for this sum. The defendant, in his answer, avers that there was a serious defect in the title of record. That very valuable services were rendered in removing the defect, and considerable sums of money were expended by defendant in securing the proper releases to remove the objection, made to the title. The answer further alleges that the sum of $645 was the price agreed upon between the plaintiffs and defendant as the fair and reasonable value of the defendant’s services and expenditures, and that that sum was deducted from the amount received by the defendant, with the assent of the plaintiffs. The case is not referable compulsorily. The only issue is one of payment.
+If the trial involves the necessity of proof of the items of services rendered under the releases to remove defects of title, the case is not referable by compulsion.
+The case presented cannot be distinguished from Randall v. Sherman, 131 N. Y., 669; 43 St. Rep., 923; and the case of Spence v. Simis, 137 N. Y., 616 ; 51 St. Rep., 167.
+The order should be reversed, with costs and disbursements to abide event of action.
