@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1890-10"
+citations: ["64 N.Y. Sup. Ct. 558"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Macomber and Corlett, JJ., concurred."]
+parties: ["LYDIA HULBERT and Another, Administrators, etc., of REUBEN D. HULBERT, Deceased, Respondents, v. WILLIAM B. CLARK and CHARLOTTE M. CLARK, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/64/cases/0558-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4606399
+cites_cases: ["14 N. Y., 16", "18 Hun, 10", "29 Barb., 277", "33 Hun, 622", "9 Abb N. C., 319"]
+---
+
+# Hulbert v. Clark
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+The action was for the foreclosure of a mortgage of real estate given to secure a simple contract debt evidenced by a series of eight promissory notes, the last of which became due more than six but less than twenty years before the commencement of this action. Also, the last payment allowed as a credit on the notes was made more than six years before the commencement of the action, and more than six years before the death of the plaintiff’s intestate, who was the payee and mortgagee named in the notes and mortgage. It is admitted that all of the notes except two, the sixth and eighth of the series, were paid during the lifetime of the' intestate, and the plaintiffs seek to recover, by a foreclosure of the mortgage, the amount of the two notes alleged to be unpaid and which were found among the papers of the deceased after his death. The principal contest on the trial seems to have been made on the issue of payment. The evidence on that subject was conflicting and the fact was not free from doubt, but the affirmative of the issue was with the defendants, and they have failed to satisfy the mind of a careful and conscientious referee that the two notes in question had been paid. The finding is to the contrary, and with that result, we do not feel at liberty to interfere.
+The plea of the statute of limitations which was interposed by an amendment to the answer, allowed on the trial, presents the simple question whether an action to foreclose a mortgage of real estate, for the collection of a simple contract debt, which the mortgage was given to secure, is barred by the six-years statute of limitations. Upon that question we regard the law as settled in this State, against the contention of the defendants. (Waltermire v. Westover, 14 N. Y., 16; Pratt v. Huggins, 29 Barb., 277; Gillette v. Smith, 18 Hun, 10; Kincaid v. Richardson, 9 Abb N. C., 319; Matter of Latz, 33 Hun, 622.)
+The argument of counsel for the defendants is based largely upon the assumption that the statute of limitations raises the presumption of payment of the debt or obligation within the time prescribed by the limitation. But this assumption is erroneous. There is only one case in which, by our statute, a jn’esumption 0f payment is created by the lapse of time; and that is the case of a judgment or decree for the payment of money. (Code of Civ. Pro., § 376.) In all other cases the effect of the statute is only to limit the time within which an action may be commenced. (Id., §§ 381, 382 et seq.) In all these cases the debt or obligation remains unaffected, except-as to the remedy for its collection or enforcement. It is still recognized by the law as a good and valuable consideration for any subsequent promise or undertaking or transfer of property. If a party has two remedies for the collection of the same debt, he may pursue either within the time limited by the statute for its pursuit. In this case the debt evidenced by the notes in question was not paid or satisfied by the lapse of six years from the time it became due; the statute only forbade after that time an action on the notes for its recovery. But the same debt was also secured by the mortgage, upon which an action might be maintained at any time within twenty years; and that was the action brought by the plaintiffs. The plea of the statute of limitations was, therefore, properly overruled, and a judgment ordered for a foreclosure of the mortgage. But the same considerations above presented show that in one respect the judgment entered, and from which the appeal was taken, was one to which the plaintiffs were not entitled, and which was not warranted by the findings of the referee. The action being on the mortgage, and not on the notes, was solely an action in rem, and no personal judgment could be had therein against either of the defendants. The judgment, as entered, directs that the defendant, ’William B- Clark, pay to the plaintiffs whatever deficiency may arise oh the sale of the mortgaged premises. The judgment should be modified by striking out the provision mentioned, and as modified affirmed, without costs of this appeal to either party.
+Macomber and Corlett, JJ., concurred.
+Judgment modified by striking out the provision for personal judgment against the mortgagor, and as so modified affirmed, without costs of this appeal to either party.
