@@ -1,0 +1,42 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-07"
+citations: ["87 N.Y. Sup. Ct. 349"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman and Cullen, JJ., concurred."]
+parties: ["John Bohleber, Respondent, v. August Waelden and Another, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/87/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4731524
+cites_cases: ["14 N. Y. 531", "54 Hun, 532", "69 Hun, 79"]
+---
+
+# Bohleber v. Waelden
+
+## Majority (Brown, P. J.:)
+
+Brown, P. J.:
+This case has been before this court on a prior appeal by the plaintiff from a dismissal of the complaint. (69 Hun, 79.) It was then assumed that the assignment to Schmidt was made upon his promise to pay the premiums and keep the policy alive, and that it was qualified by the words “ as interest may appear.” Under those facts it. was held that plaintiff was entitled to an accounting and to a reassignment upon payment of what was due to the defendants for premiums paid by them.
+The case now before us as made by the pleadings, evidence and findings is very different from that stated in the opinion of Justice Barnard, and we feel at liberty to consider it disembarrassed from the former decision.
+It appeared that in August, 1877, the Equitable Life Assurance Society, in consideration of seventeen dollars and ninety-one cents, payable by Maria Bohleber, plaintiff’s wife, and of quarterly' premiums to be paid during the continuance of the policy, issued its policy of insurance on the plaintiff’s life, payable “ to the said wife for her sole use, if living, in conformity with the statute, and if not living, to the children of said John Bohleber or their guardian for their use, or if there be no such children or wife surviving, then to the executors, administrators or assigns of said John.”
+On December 14, 1889, said Maria Bohleber and John Bohleber executed and delivered an assignment of said policy to the appellant Charles Schmidt, “ as interest may appear.” On March twenty-eighth Schmidt executed and delivered to the appellant Waelden an assignment of said policy absolute in form.
+The court found that no fraud or mutual mistake was proven against the defendants or either of them upon obtaining the assignment to Schmidt. The plaintiff’s wife died in April, 1890, and no children survived her.
+■ The complaint alleged and the court found that the assignment to Schmidt wras made on his promise to pay the premiums and “ keep the plaintiff and his wife from want and from distress caused by lack of funds or sickness.” And that in September, 1890, said •defendant refused to render assistance to the plaintiff, although he was then in want and distress, and thereafter failed to support him.
+I can find no evidence in the case that Schmidt ever refused to support the plaintiff. All that the plaintiff testified to on his direct examination was that Schmidt lived on Marcy avenue and moved from there to the country in December, 1890, and that he did not move with him because Schmidt did not take him with him!'
+Being recalled in rebuttal, he said: “ I did nothing about going with Schmidt when he moved, from Marcy avenue to the country; I did not move with him. * * "" He didn’t say anything to me. On the contrary, I helped him move out for a whole week, and I ■supposed that when he got settled there and in order that he would take me out with Mm. He never offered to take me.
+“ Q. Did you ever offer to go with him ? A. No, I did not. I have thought that he would send his son for me and take me to him. I was living in a hired room at the time, for which I paid three dollars a month.”
+Upon the plaintiff’s theory of the case, therefore, he failed, as he certainly could not be entitled to the relief he seeks until the defend■ant was in default by a refusal to perform his contract.
+But independent of this finding, this section cannot be sustained without disregarding well-settled rules of law. We may assume for the purpose of this appeal, without deciding it, that under the condition of the policy relating to payment, the plaintiff, by the death of Ms wife and children, acquired a vested interest therein which •entitled him to maintain an action for its protection.
+But the rule is well settled that the jurisdiction of a court of equity to cancel an instrument is exercised only upon allegation and proof of fraud or mistake. ( Wilson v. Deen, 14 N. Y. 531-535; Herrick v. Starkweather, 54 Hun, 532.)
+No such allegations are made in the complaint, and no evidence thereof was given upon the trial, and the court distinctly found that the assignment to Schmidt was not the product of any fraud or mistake.
+The charge is that the defendant Schmidt failed to keep and perform the contract which was the consideration of the assignment.
+By the very terms of the agreement, its performance by Schmidt was to begin after the execution and delivery of the assignment, and the omission to perform it cannot be made the ground for setting aside the assignment.
+It may afford a basis for an equitable action for specific performance or a legal action for damages, but not an action to annul the instrument of which it was made the consideration.
+The expression “ as interest may appear,” contained in the assignment, adds nothing to the'plaintiff’s ease. There was no indebtedness to Schmidt from plaintiff or his wife; and the words quoted appear to be without meaning in the contract actually proven.
+Schmidt had no interest in the policy except such as he acquired by the assignment. It was not given as security, but as a consideration for his agreement to support the assignors.
+Under settled rules of law the title to the policy subject to the conditions therein stated upon the delivery of the assignment vested in Schmidt, and upon the death of plaintiff’s wife became absolute. He could sell it and transfer a good title, and his assignment to. Waelden was not subject to any equities in the plaintiff.
+Eor these reasons the judgment must be reversed and a new trial granted, costs to abide the event.
+Dykman and Cullen, JJ., concurred.
+Judgment reversed and new trial granted, costs to abide event.
