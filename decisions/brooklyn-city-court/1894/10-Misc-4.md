@@ -1,0 +1,25 @@
+---
+court: "Brooklyn City Court"
+decided: "1894-10"
+citations: ["10 Misc. 4"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph W. Mackie, Respondent, v. The Brooklyn City Railroad Co., Appellant."]
+source_url: "https://static.case.law/misc/10/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 702507
+---
+
+# Mackie v. Brooklyn City Railroad
+
+## Majority (Clement, Ch. J.)
+
+Clement, Ch. J.
+The questions involved in this action seem to be purely of fact. The theory of plaintiff was that he drove a horse and cart on February 21,1893, in an easterly direction along Third street, and that, when he had nearly reached the westerly crosswalk of Third street and Third avenue, he saw a trolley car of the defendant on Third avenue, 500 feet away, and running in a southerly direction toward Third street; that plaintiff moved on and endeavored to drive across the track on which the car was approaching to the other track; that he could not drive between the curb and the first track for the reason that the snow which had been thrown off the track was there two feet deep, and that the plaintiff had to drive twenty-three feet to get to the first track. The plaintiff further proved that, when the left wheel of his cart was over the first track and the right wheel was turning off, his cart was struck in the rear by the car, and that he sustained injuries as the result of the collision. Plaintiff was substantially corroborated by the testimony of a fellow-workman. The motorman testified that the cart was off the track, and that, when his car approached, the plaintiff pulled his reins and suddenly turned in front of him. The testimony of three witnesses for the company tended to corroborate the motorman.
+We do not think that the plaintiff was guilty of contributory negligence, as matter of law; but hold that the same was a question of fact for the jury. The plaintiff, when he saw a car approaching at a distance of 500 feet, had the right to assume that he could drive twenty-eight feet before the car would reach him. The track is less than five feet wide. If we held otherwise, in many streets in this city it would be impossible to drive a business wagon. The cart was in full view of the motorman for a long distance, and he had ample time to check the speed of his car.
+The case turned mainly on the question whether the plaintiff was turning off the track when his cart was struck by the car, or whether he was driving along the street and suddenly turned his cart upon the track upon which the ear was moving.
+We have carefully examined the exceptions and discover no error.
+The judgment and order denying a new trial affirmed, with costs.
+Tax Wyok, J., concurs.
+Judgment and order affirmed, with costs.
