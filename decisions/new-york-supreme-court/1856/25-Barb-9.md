@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1856-05-05"
+citations: ["25 Barb. 9"]
+reporter: "barb"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hardenburgh vs. Lockwood."]
+source_url: "https://static.case.law/barb/25/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5002971
+cites_cases: ["3 Wend. 142", "5 Denio, 259", "5 Denio, 264", "7 Barb. 297"]
+---
+
+# Hardenburgh v. Lockwood
+
+## Majority (By the Court, Harris, J.)
+
+By the Court, Harris, J.
+It is not denied that the defendant’s cattle entered upon the plaintiff’s land, or that the plaintiff had sustained damage thereby. - This, at the common law, would have entitled the plaintiff to recover. For it is only by statute, that a man is required to protect his land by fences. (See The Tonawanda Rail Road Co. v. Munger, 5 Denio, 259.)
+The defendant had chosen to let her land lie unfenced. This she had a right to do, and, doing it, she was excused from any obligation to make or maintain any part of the division fence between her and the. plaintiff. (1 R. S. 353, § 30.)
+But the plaintiff, if he would protect himself from injury, or have a right of action for any damage he might sustain, was bound to maintain a fence in conformity with the town regulation. The electors of each town are authorized to make such rules and regulations as they may think proper 11 fop ascertain ing the sufficiency of all fences in such town. (1 R. S. 340, § 5, sub. 11.) Under this authority, the electors of Fallsburgh had declared that “ a lawful fence be fifty-two inches high and composed of good materials.” By the 44th section of the article of the revised statutes relating to “ division and other "fences,” it is declared, that “ whenever the electors of any town shall have made any rule or regulation, prescribing what shall be deemed a sufficient fence in such town, any person who shall thereafter neglect to keep a fence according to such rule or regulation, shall be precluded from recovering compensation, in any manner, for damages done by any beast, lawfully going at large on the highways, that may enter on any lands of such person, not fenced in conformity to the said rule or regulation, or for entering through any defective fence.”
+It is due to the fame of the revisers to notice, that the section just quoted is not their production. Nothing half so clumsily or obscurely expressed ever came from their hands. The section was engrafted on the article that had been reported, while on its way through the legislature. It is one of those enactments which Lord Coke describes as “ penned or corrected, on a sudden, by men of very little or no judgment in the law.” I am not quite sure that I comprehend it; but if I have- been able to\ discern its meaning, the section constitutes a statutory bar to. )j every action brought to recover damages for injuries done byJj cattle entering through a defective fence, which the party complaining is bound to maintain, in any town where the electors have prescribed what shall be deemed a sufficient fence. This, construction of the statute is, of course, fatal to the plaintiff’s cause of action.
+Having come to this conclusion, I have not deemed it necessary to discuss at length the validity of the statute which authorizes the electors of a town to determine the times and manner in which horses, cattle and sheep shall be permitted to go at large on highways. It is enough to say, that I have not much doubt of its constitutionality. The statute has been in existence since 1788 at least. Lands occupied as highways may well be deemed to have been acquired with reference to the exercise of the authority thus conferred upon the electors of the town. This authority had been exercised without being questioned, from the commencement of the state government, until Judge Cowen, in his elaborate note to the case of Bush v. Brainard, (1 Cowen, 78,) suggested a doubt as to the right of the legislature to confer this authority upon the electors of the towns: This doubt was reiterated by Chief Justice Savage in Holladay v. Marsh, (3 Wend. 142.) And yet, substantially the same provision, but in more explicit and unequivocal terms, was reported by the revisers and adopted by the legislature, in the revision of 1830. In The Tonawanda Rail Road Co. v. Munger, (5 Denio, 264.) although the question was not involved in the ease, Chief Justice Beardsley expressed an opinion that a town regulation authorizing cattle to run at large on highways is void. In Griffin v. Martin, (7 Barb. 297,) the question came before this court, under circumstances very similar to those presented in this case, and it was determined by a majority of the court, Hand, J., dissenting, that the statute in question is not in conflict with the constitution. In that decision I concur. x I regard the right to allow cattle, horses or sheep to go at large \ on highways, as one of the easements or servitudes pertaining to. ) the land occupied as a highway. The right is supported byx' usage as old as the history of our country. The land is presumed to have been taken with reference to this usage, and < the exercise of this right by the proper authorities. The owner 'j may well be presumed to have been compensated for this, as ' well as every other easement or servitude to which the land, as / a highway, may be subjected. “ The damages of the owner of the soil,” says Mr. Justice Willard, “ are regulated by what he relinquishes to the public. He is thus compensated, not only for parting with the right of way, but the right of pasturage.
+[Albany General Term,
+May 5, 1856.
+It cannot with truth be said that a by-law, like the one in question, takes the property of one man and gives it to another, or even to the public, without compensation.”
+I think the judgment of the county court should be affirmed.
+Harris, Watson and Gould, Justices.]
