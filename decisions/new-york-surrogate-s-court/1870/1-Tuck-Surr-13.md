@@ -1,7 +1,8 @@
 ---
 court: "New York Surrogate's Court"
 decided: "1870"
-citations: ["1 Tuck. Surr. 13", "1 Tuck. Surr. 51"]
+decided_precision: "year"
+citations: ["1 Tuck. Surr. 13"]
 reporter: "tuck-surr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
