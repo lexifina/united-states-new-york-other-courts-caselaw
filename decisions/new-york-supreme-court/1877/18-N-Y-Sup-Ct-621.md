@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court"
+decided: "1877-09"
+citations: ["18 N.Y. Sup. Ct. 621"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Learned, P. J., and Bockes, J.; Boardman, J., not sitting."]
+parties: ["NORMAN COX, as Executor, etc., of HENRY PECK, Deceased, Respondent, v. THE NEW YORK CENTRAL AND HUDSON RIVER RAILROAD COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/18/cases/0621-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4449743
+cites_cases: ["13 N. Y., 333", "4 Hun, 116", "47 Barb., 196", "48 N. Y., 655", "63 N. Y., 414"]
+---
+
+# Cox v. New York Central & Hudson River Railroad
+
+## Majority (LeabNed, P. J.:)
+
+LeabNed, P. J.:
+It has always been tbe law that a right of action for an injury to tbe person dies with tbe party aggrieved. Not merely does tbe action abate (as it formerly did always on tbe death of tbe plaintiff), but tbe right of action is absolutely gone. Tbe reason is that there is no longer any person who has been injured and who ought to be compensated. Tbe executors represent tbe estate; but neither they nor tbe estate have suffered from tbe personal injury. And so it was said by tbe Court of Appeals, that executors cannot maintain an action on an express or implied promise where tbe damage consists entirely of personal suffering of tbe deceased, whether mental or corporeal. (Zabriskie v. Smith, 13 N. Y., 333.)
+Tbe statutory action given to tbe representatives of a deceased party by wrongful injury is no exception to this rule. Tbe ground of that action is not tbe injury to tbe deceased, but tbe injury to bis surviving relatives, to whose support he bad contributed. The right of action wbicb the deceased might have had for the injury which caused his death dies with him.
+The English courts have made one wise exception. When the injury has affected the estate of the deceased by preventing him from earning money as usual, or by occasioning expense in paying for medical aid, to this extent the right of action survives to the executors or administrators, because they represent the estate thus injured. (Bradshaw v. Lancashire amd Y. R. W. Co., L. R., 10 Com. Pl., 189.)
+In the present case, however, there was no injury to the .estate of Mr. Peck, the deceased. The wrong occasioned only bodily and mental pain. But it was held by the Court of Appeals (63 N. Y., 414) that the stipulation of, the defendant’s counsel had given the estate of the deceased as assets in the hands of the executors a right of action which it would not otherwise have had. And on the last trial his executors claimed, and were allowed, to recover damages, to go to his estate, on account of the insult which Mr. Peck had received and the suffering, bodily and mental, which he had endured. And the question is now presented by the defendant, what are the proper damages which will compensate Mr. Peck’s executors or his estate for pain in his feelings and pain in his finger.
+At the first statement, it would seem that such damages could be only nominal. Eor it might be said that it is no compensation for an assault and battery on Mr. Peck to pay money to his executors, any more than it would be to pay it to any other persons. But the Court of Appeals would not have sent the case back for the recovery of nominal damages. They must, therefore, have held that Mr. Peck’s estate was entitled to recover, for the benefit of his creditors and legatees, pecuniary damages, as compensation for his sufferings in mind and body, by reason of the assault and battery.
+It might have been suggested that analogy to the English case would hold that the expense of the litigation, already incurred before Mr. Peck’s death, was the rule of damages in behalf of his estate. But no such view was taken by the Court of Appeals. We conclude, therefore, from that decision, that Mr. Peck’s death transferred to his executors his right of action to recover the sum which would have compensated him for the injury, although, as by the case then appeared, his estate had not suffered at all.
+"Were tbe damages given by tbe jury excessive ? Tbis ease bad been previously tried twice. Tbe damages given on both of those trials bad been held excessive. But it was said on tbe argument, and not denied, that on each of those trials tbe plaintiff bad been allowed to recover exemplary damages. On tbe present bis recovery was limited by tbe court to damages compensatory. Tbis is,.therefore, tbe first time that a jury has passed on tbe question of damages in that light.
+It was necessary for tbe conductor to use some force, for Mr. Peck made some resistance, though slight. Tbe principal alleged injury was in pulling him from tbe car, when be bad bis band on tbe railing. It is claimed that tbis act wrenched him and injured bis finger, so that subsequently a felon came on it, from which be suffered two weeks. No bone was broken; no blow inflicted. No inability to work was occasioned, unless during those two weeks. And, even as to them, it appears that, at tbis time, Mr. Peck was on. an excursion for health or pleasure.
+If any individual, without malice, bad inflicted tbis amount of injury on Mr. Peck, would a jury have rendered a verdict of $3,000 % Considering that tbe conductor was doing what be thought be ought to do, can we avoid tbe conclusion that tbe jury was prejudiced ? Perhaps tbe fact that tbe difficulty arose about Mr. Peck’s claim to ride in a parlor car may have prejudiced them. But whatever tbe cause, is it not obvious that these damages were rendered for something more than tbe mere actual injury to body and mind ? Tbe defendants ought not to be punished for being a corporation, or for running parlor cars. And yet it seems to us that some motive of tbis kind must have influenced tbe verdict. If tbe jury bad passed on tbis question twice before, we might think differently.
+Ve think tbe damages excessive, and a new trial must be granted on payment of costs by tbe defendants.
+If, however, tbe plaintiff prefers to stipulate within twenty days after service of a copy of tbis order to reduce tbe damages to $1,500 (Murray v. H. R. R. R. Co., 47 Barb., 196; affirmed, 48 N. Y., 655) then tbe motion for a new trial is denied, and tbe order denying a new trial affirmed, without costs to either party.
+Present — Learned, P. J., and Bockes, J.; Boardman, J., not sitting.
+Motion for new trial granted, costs to abide tbe event, unless, witbin twenty days after notice of tbis decision, tbe plaintiff stipulates to reduce tbe verdict to $1,500, and, in that event, new trial denied, without costs to either party.
