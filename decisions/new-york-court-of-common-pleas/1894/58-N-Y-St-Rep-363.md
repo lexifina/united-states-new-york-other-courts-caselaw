@@ -1,0 +1,22 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1894-04-02"
+citations: ["58 N.Y. St. Rep. 363"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Hecla Powder Company, Resp’t, v. The Hudson Ore and Iron Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/58/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 705209
+cites_cases: ["108 N. Y. 650", "13 St. Rep. 864", "133 N. Y. 425", "138 N. Y. 192", "45 St. Rep. 227", "52 St. Rep. 138"]
+---
+
+# Hecla Powder Co. v. Hudson Ore & Iron Co.
+
+## Majority (Pryor, J.)
+
+Pryor, J.
+The effect of subsequent examination and reflection is to confirm the impression intimated on the argument that pleading one cause of action, the plaintiff was allowed to recover ■upon another and different cause of action. In his brief the learned counsel for the respondent says: “ The plaintiff brought suit for a quantity of blasting powder sold t® the defendant.” In his report the learned referee says : “ This suit is brought to recover the contract price ” of the powder; and his conclusions of law on the facts proceed upon the same hypothesis. We cannot so construe the complaint. It alleges an agreement by plaintiff to deposit sixty thousand pounds of powder in store at defendant’s place of business, and to sell it to defendant at a certain named price; that defendant stipulated to use said powder 41 to the exclusion of all other powder; that defendant neglected to use the said powder stored as aforesaid, but has used the powder of other manufacturers; and that in April, 1889, defendant refused to use said powder ; that said powder so stored would all have been consumed before January, 1885, if the defendant had used it to the exclusion of all other; that said powder had deteriorated before April, 1889, through the breach aforesaid, and She negligence of the defendant in allowing it to freeze and thaw many times, and had become worthless; that the plaintiff has been damaged by the conduct of the defendant as aforesaid, in the sum of four thousand two hundred dollars.” Here indisputably, is a claim of unliquidated damages for breach of another agreement than to buy and pay for the powder. But, be the claim for such damages upon the breach of an executory contract of purchase, it is still a different cause of action from that for which the recovery was had, namely, goods sold and delivered.
+The point that the cause of action pleaded was not proved, the defendant raised by motion to dismiss the complaint.
+In Romeyn v. Sickles, 108 N. Y. 650; 13 St. Rep. 864, the court of appeals ruled that a pleading cannot be amended in a material respect, except at a time which will give the opposite party a right and an opportunity to meet by proof the new allegations against him,—saying, “it is a fundamental rule that judgment shall be secundum allegata etprobata, and any departure from the rule is certain to produce .surprise, confusion and injustice.”' In Reed v. McConnell, 133 N. Y. 425; 45 St. Rep. 227, the judgment was reversed because the recovery was for a cause of action not exhibited by the complaint; and, adverting to the remedial policy of the reform Code, the court says : “ The rule that a party coming into court asserting one cause of action cannot recover on another and difference one is unchanged. It is essential to the orderly administration of justice and the protection of the rights of litigants.” In Douglass v. Ferris, 138 N. Y. 192 ; 52 St. Rep. 138, it was held that a defendant cannot avail himself on appeal of a defense not pleaded though apparent in the record, saying, “ it is not every fact that appears in the record that a party can have the benefit of in this court, but only such facts as have been pleaded and proven. Secundum allegata et probata is the rule that governs such cases.” Respondent solicits us, by virtue of § 723 of the Code, to conform his complaint to the proof; but the provision expressly qualifies the power of the court by the condition that the “ amendment does not change substantially the claim or defense.” Romeyn v. Stickles, supra. Other exceptions of probable validity appear in the record, but, since for the error indicated the judgment cannot stand, they require no discussion. Judgment reversed, and new trial ordered, costs to abide the event. All concur.
