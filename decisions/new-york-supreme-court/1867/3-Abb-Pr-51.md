@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1867-04"
+citations: ["3 Abb. Pr. 51"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GORI against SMITH."]
+source_url: "https://static.case.law/abb-pr-ns/3/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1955790
+cites_cases: ["3 Duer, 676", "30 How., 149", "5 Sandf., 663"]
+---
+
+# Gori v. Smith
+
+## Majority (By the Court—Robertson, Ch. J.)
+
+By the Court—Robertson, Ch. J.
+Court of Appeals having held in the ■ case of The People v. The New York Central Railroad (referred to in S. C. in 30 How., 149), that an i order "for an allowance in addition to. costs, was appealable, it becomes necessary that the facts on which the motion for them is made should be presented in such a mode as to have them passed upon by an appellate court on appeal:—The principle announced was, that “an order which.peremptorily and finally charged a party with the payment of a sum of money more than he ought to pay affected his right not merely in form but substance also. In the same case, upon its return to the Supreme Court, it was suggested by that court (ubi sup) that parties claiming any additional sum ought to furnish the court with some specific facts, such as moneys actually expended or Eabilities incurred by them, or time or labor consumed by them, counsel or servants, the time consumed on the trial, the number of trials and postponements, and of arguments at a General Term, and whether there was a long account involved or a reference had.
+■ The presiding justice (Blown) added, that without these the Court could not form an intelligent and satisfactory estimate of the sum to be awarded as a compensation and indemnity for the unusual and extraordinary character of the litigation. The Special Term order was reversed in that case simply because it was supposed to cover services after the entry of judgment in that court. The 52d general rule of court, it is true, provides that the application can only be made to the court before which the trial is had, or the judgment rendered. This has been supposed to mean the judge, but without reason. It is evidently meant to exclude appellate courts only, as judgment is rendered by a court, not by a judge, and “ which” does not properly apply to a person. But even if it did mean the judge, the only object would have been to enable him to determine the proper amount, as to which his discretion is final. (Cook v. Dickerson, 5 Sandf., 663; Dickson v. McElvain, 7 How., p. 139). It could never mean that such a motion was to be determined solely upon the judge’s own personal knowledge alone; in which case neither the counsel making nor resisting would know on what facts to argue, nor would the grounds of the decision appear. On an appeal, unless a statement was made by the judge before whom the motion was made, of what he considered to be facts in the case, the appeal would be nugatory, and the making of such statements would lead' to unseemly contests between the bench and thé bar as to what took place. I think, therefore, such motion cannot be made without some affidavits containing facts of the kind suggested in the case first cited, (People v. Central R. R., ubi sup) so that the grounds of the decision may appear on an appeal. In the present case nothing of the kind appears, it does" not even appear by the papers before us, that a trial has been had or in whose favor judgment has been rendered, or what disposition was made of the defendants counter-claim. After such counterclaim was made and replied to, the plaintiff could not discontinue without the defendant’s consent (Cockle v. Underwood, 3 Duer, 676), nor conld the defendant withdraw his counterclaim without the plaintiff’s consent. H it was litigated and the defendant was defeated, it would be hard to charge the plaintiff with any part of the allowance for that branch of the litigation, and it would be equitable to take it into consideration in fixing the allowance to the defendants. .In any event I think the order was made on insufficient papers, and should be reversed without costs on the merits with privilege to renew on other papers.
+A separate’motion was made to dismiss the appeal upon the ground that the order was not appealable; that motion must be denied with seven dollars costs to the plaintiff.
