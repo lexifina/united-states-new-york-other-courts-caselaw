@@ -1,0 +1,48 @@
+---
+court: "New York Superior Court"
+decided: "1889-12-05"
+citations: ["28 N.Y. St. Rep. 587"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cornelia Gilman, App’lt, v. Preble Tucker et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/28/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2033494
+cites_cases: ["2 N. Y., 60", "42 N. Y., 26", "6 Johns., 296", "70 N. Y., 253", "70 N. Y., 266", "89 N. Y., 634", "9 Daly, 21"]
+---
+
+# Gilman v. Tucker
+
+## Majority (Sedgwick, Ch. J. Freedman, J.)
+
+Sedgwick, Ch. J.
+The case of Denton v. Noyes, 6 Johns., 296, has been approved by the highest court in the state, in particular by Brown v. Nichols, 42 N. Y., 26. Against such an approval the dissenting opinion in the latter case cited Robson v. Eaton, 1 Term, 62. This last case was an instance of a forged warrant of attorney, and Ferguson v. Crawford, 70 N. Y., 253, held that in such a case, no process having been served, the judgment was void.
+In the present case, following Denton v. Noyes, the judgment was not void, and was regular when entered, and the appropriate relief for the unauthorized appearance is by an application to the court by which judgment was given, and the relief given by the court in its discretion, when the attorney appearing is insolvent, would be to allow the defendant to come in and plead. My opinion is that in this action the plaintiff could not be relieved of the judgment, as it was in the power alone of the court giving judgment to set aside the judgment. But if this proposition is not correct, the relief that should be given in the action should be no greater than could be obtained in the court that gave the judgment ; that is, the defendant in the judgment, to entitle herself to relief, should show that she has a defense on the merits.
+In my opinion there should be an affirmance of the judgment appealed from, with costs.
+Freedman, J.
+I am of the opinion that the judgment should be affirmed, with costs, for the reasons assigned by the learned chief judge, and the further reason that the complaint in this action, on its face, shows no equitable cause of action.
+
+## Dissent (Truax, J.)
+
+Truax, J.
+dissenting —The plaintiff was the owner of certain premises in the city of New York. On the 7th day of August, 1884, a judgment was entered in the office of the clerk of the city and county of New York in an action in the supreme court of the state of New York, wherein one of the defendants herein, Augustus Prentice, was plaintiff, and the above named Cornelia Gilman and one Andrew E. Smyth were defendants, for the sum of $1,800.78.
+The plaintiff herein alleges that neither the summons nor complaint in said action was ever served upon her; that she never authorized any attorney to appear for her in said action, and never authorized any person or persons to employ or authorize any attorney to appear on her behalf. That she never had any knowledge of any proceedings in said action, or that any attorney had claimed to appear for her until on or about the 28th day of June, 1886; that an attorney, without her knowledge or consent, did appear in said action; that judgment was entered therein as on a default to answer; that execution was issued on this judgment in favor of the said Prentice, and that on the 10th day of March, 1885, the premises hereinbefore mentioned were sold under said execution, and at such sale Prentice became the purchaser.
+The plaintiff further alleges that on the 1st day of March, 1886, one Mary A. P. Tucker obtained a judgment against her for the sum of upward of $10,000. That the above named defendant, Preble Tucker, took an assignment of the said judgment, and redeemed the premises hereinbefore mentioned from said Prentice, and paid said Prentice the amount of the first mentioned judgment, and received a deed of said premises from the sheriff. That thereafter said Preble Tucker instituted summary proceedings in the district court for the sixth judicial district of New York, and that thereupon the plaintiff brought this action to restrain the enforcement of such summary proceedings, and to set aside the said first mentioned judgment and the execution issued thereon, and all the proceedings thereunder.
+This action was referred, and on the trial the complaint was dismissed by the referee.
+I think that the referee erred in dismissing the complaint dn the grounds stated by him, viz., that the plaintiff had a “perfect remedy by motion in the original action to set aside the judgment in that action.”
+It may be that the plaintiff could have moved in the action in which the judgment was obtained to set aside the judgment, but she also has the right to bring an action to set aside the judgment.
+That a remedy at law exists is not a valid objection to an action in equity if the equitable remedy is concurrent with the remedy at law. Crary v. Smith, 2 N. Y., 60.
+Equitable actions of the nature of this, are not unknown to the courts of this state.
+In McIntyre v. Sanford, 9 Daly, 21, affirmed in 89 N. Y., 634, it was held that an action would lie to set aside a sheriff's sale of real estate under an execution, and it was so held, although the plaintiff in that action had his remedy by motion in the action in which judgment had been obtained against him.
+The principal, and in my opinion, the only important, question in this case is, can the plaintiff in this action show that the appearance by the attorney in the other action was unauthorized and void?
+The printed book shows that the plaintiff herein never was served with the summons in the action in the supreme court; never authorized any attorney to appear for her in that action; had no knowledge that the action had been begun, and knew nothing of the judgment that was obtained therein, nor of the sale under execution, until possession of her estate was demanded, and this was after the time to redeem had expired, and that the attorney who so appeared for her is not now a resident of this state.
+It was held by this court in Bolton v. Jacks, 29 Supr. Ct., 166, that want of jurisdiction renders void the judgment of any court, whether of superior or inferior, general or limited, or local jurisdiction, and the recital of jurisdictional facts in the record of such judgment is not conclusive (unless made so by statute) but only prima facie evidence of the existence or occurrence of such facts, • and the party against whom the record of such judgment is offered in evidence is not estopped by such recitals from showing affirmatively by proof dehors the record that they are untrue, and thus avoiding the judgment.
+This case was cited, with approval, by Judge Rapallo in Ferguson v. Crawford, 70 N. Y., 266, 267.
+Judge Rapallo, after referring to many cases on this subject, in this state and in other states, says that “ it thus appears that the current of judicial opinion in this state is very strong and uniform in favor of the proposition stated by Jones, J., in Bolton v. Jacks. It has not as yet, however, been directly adjudicated, and if sustained it must rest upon the local law of this state, as it finds no. support in the adjudications elsewhere. There are reasons however, founded upon our system of practice, which would war-’ rant us in so holding, the powers of a court of equity being vested in our courts of law, and, equitable defenses being allowable, there is no reason why, to an action upon a judgment, the defendant should not be permitted to set up by way of defense any matter which would be ground of relief in equity against the judgment; and it is conceded in those states where the record is held conclusive, that when judgment has been obtained by fraud or without bringing the defendant into court, and the want of jurisdiction does not appear upon the face of the record, relief may be obtained in equity. The technical difficulty arising from the conclusiveness of the record is thus obviated.”
+In Howard v. Smith, 33 Supr. Ct., 124, this court held that “ whenever it appears by the record of a judgment of a sister state that the defendant appeared by attorney, it is prima facie evidence of the fact, but in such case the defendant may rebut, this presumption by proof that the attorney named in the record was not his attorney in fact, and never had any authority to appear for him in the action.” In other words, notwithstanding the recital of the record, he may disprove the authority of the attorney to appear.
+And the court of appeals, in Ferguson v. Crawford, said, in effect, that there is no distinction in this respect between domestic and foreign judgments, and for this reason this case of Howard v. Smith is an authority for reversing this judgment.
+There is no distinction between a forged notice of appearance and a notice really given by an attorney not authorized to give it, and jurisdiction is not acquired in either case. Burton v. Sherman, 20 N. Y. W. Dig., 419.
+On the trial of the action the court may, and will, determine on what terms relief will be granted to the plaintiff.
+The judgment should be reversed and new trial ordered, with costs to the appellant to abide the event.
+Judgment affirmed.
