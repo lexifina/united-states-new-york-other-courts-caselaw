@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1842-10"
+citations: ["3 Hill & Den. 495"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Smith and others vs. Randall."]
+source_url: "https://static.case.law/hill/3/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2172595
+cites_cases: ["1 Hill, 249", "20 John. 357", "20 Wend. 67", "6 Wend. 663"]
+---
+
+# Smith v. Randall
+
+## Majority (By the Court, Bronson, J.)
+
+By the Court, Bronson, J.
+The act of 1838 gives the justice authority to issue a commission to one or more competent persons to take and certify the depositions of witnesses, “ and to return the same according to the directions given with such commission.” (Stat. 1838, p. 132, § 2.) u The commission shall be executed and returned as is prescribed by statute when a commission issues out of a court of record, and the deposition and testimony taken in pursuance thereof shall be received on the trial.” (§ 4.) The interrogatories are to be settled by the justice, and certified by his approbation endorsed thereon. (§ 2.) The authority to issue the commission is substantially the same as that which is given to courts of record. (2 R. S. 393, § 11.) When a commission issues out of a court of record, the officer who settles the interrogatories directs upon the commission the manner in which it shall he returned, which may be by an agent, or through the post office, and the commissioner must return it in such manner as shall have been directed on the commission. (§ 15, 16.) In this case the justice settled the interrogatories, but he gave no direction as to the mode of returning the commission. This is a fatal objection. Statutes which innovate upon the common law rules of evidence must be strictly pursued. The mode of returning the commission is highly important for the purpose of guarding against frauds, and no substantial requirement of the statute can be dispensed with. The case of Jackson v. Hobby, (20 John. 357,) is decisive upon this point. In Williams v. Eldridge, (1 Hill, 249,) the interrogatories were not settled by a judge, and the manner of returning the commission was agreed upon by stipulation of the parties.
+Seals are no longer necessary to the warrants of district trustees. (Stat. 1841, p. 241, § 29.) But under the law as it stood at the time this warrant issued, seals were expressly required. (1 R. S. 484, § 88.) Indeed, the term warrant implies a seal, in cases where a seal has not been dispensed with by statute. (Beekman v. Traver, 20 Wend. 67.) This objection could not be got over if the case steod upon the warrant as it was originally issued by the old trustees. But I think the renewal of the warrant by the defendants under their hands and seals obviates the difficulty. The renewal of the warrant made it new process for all the purposes of collecting the taxes which then remained unpaid. By renewing “ the within warrant,” the defendants said, in effect, to the collector, “ we command you, as within you are commanded,” to collect &c. It is the same thing, substantially, as though the original warrant had been recited in the renewal; and thus we have a warrant under the hands and seals of the trustees for the collection of the tax.
+We are referred to a dictum of Sutherland J. in Preston v. Leavitt, (6 Wend. 663,) which militates against this doctrine. He says that the renewal of a justice’s execution “ does not per se constitute a new execution. It is what the statute calls it, a renewal of the original execution.” That remark was not necessary to the decision, and I cannot but think that the renewal or repetition of a command is fully equivalent to an original order. If the warrant had been defective in point of form, the .renewal would have been chargeable with the same vice. But the language of the warrant was perfect, and when the defendants said “ we renew it,” they, in effect, gave a new or original command to levy the money.
+In rejecting the warrant as a defence, the court below went on the ground that the want of seals was a fatal defect, and I do not, therefore, think it necessary to examine the other objections which have been urged against the validity of the process. If the decision had been put upon the ground that there was a defect of proof in relation to the original formation of the district, or as to giving notice of the meeting at which the tax was voted, or in showing that the plaintiff was a taxable inhabitant of the district, the defendants might then have given further evidence upon these points. But as an indispensable link in the chain of defence was rejected for a supposed defect which no further proofs could supply, and as the decision was erroneous, justice requires that there should be a new trial.
+Judgment reversed.
