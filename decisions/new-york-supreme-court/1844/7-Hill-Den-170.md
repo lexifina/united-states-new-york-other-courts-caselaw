@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1844-12"
-citations: ["7 Hill & Den. 170", "7 Hill & Den. 168"]
+decided_precision: "month"
+citations: ["7 Hill & Den. 170"]
 reporter: "hill"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
