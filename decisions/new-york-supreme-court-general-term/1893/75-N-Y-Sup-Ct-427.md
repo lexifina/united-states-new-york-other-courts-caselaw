@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-04"
+citations: ["75 N.Y. Sup. Ct. 427"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Brien and Follett, JJ., concurred."]
+parties: ["Michael Edesheimer and Another, Appellants, v. Amos Quackenbush, Respondent, Impleaded with Huldah Ann Wicks."]
+source_url: "https://static.case.law/ny-sup-ct/75/cases/0427-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2385747
+cites_cases: ["3 Hill, 330"]
+---
+
+# Edesheimer v. Quackenbush
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+This action was brought against the defendant, Amos Quackenbush, and his mother, Huldah A.Wicks, to recover damages claimed to have been sustained by the plaintiffs for breach of the covenant of quiet enjoyment in a lease executed by said Wicks and Quackenbush to the plaintiffs.
+The complaint alleged the execution of the lease, which was admitted by the answer; and that the defendants unlawfully and in violation of the terms and covenants of the lease have wholly neglected and refused to give possession to the plaintiffs of the entire buildings and premises leased, but have unlawfully seized and kept the plaintiffs from the possession and occupancy of a valuable part of ■said premises, to the damage of the plaintiffs. The summons and complaint herein were served upon the defendant Quackenbush ■only, and he only answered.
+Upon the trial it appeared that the plaintiffs had been in possession of a portion of the premises in question for a considerable period of time under a sublease executed by one Storz, who held a lease of the whole premises from the defendants, and that one McMahon was a subtenant of said Storz of the balance of the premises in question. Prior to the 1st of May, 1890, the date of the •expiration of the Storz lease, the plaintiffs had negotiations with the defendant Wicks for a lease of the premises in question. These negotiations resulted in the signing and acknowledging by the defendants on the 14th of April, 1890, of an instrument leasing the whole of the premises in question to the plaintiffs; the execution of which lease was completed on the 3d of May, 1890, by the signing and acknowledging thereof by the defendants, and delivery to the plaintiffs. The plaintiffs being unable to get possession of the whole of the premises, because of the occupancy of McMahon of the part which he had leased from Storz, brought this action, claiming among other things, that McMahon remained in said premises by and with the consent of the defendants; and that, therefore, there was a breach of the covenant of quiet enjoyment.
+It was attempted to be proved upon the trial that McMahon remained in tbe premises in pursuance of some arrangement or agreement with the defendant "Wicks in respect thereto. This evidence was excluded upon the ground that the defendant Wicks had not. been served with process, and was not in court, and that she could not bind the defendant Quackenbush. The complaint was subsequently dismissed, and an exception taken, and from the judgment thereupon entered, this appeal is taken.
+It is urged upon the part of the respondent, that this action cannot be maintained, because the defendants were under no obligation to place the lessees in possession of the premises in question under the authority of Gardner v. Keteltas (3 Hill, 330). But it seems-to us that in view of the evidence which was offered upon the trial of this action, the case of Gardner v. Keteltas is not a controlling-authority.
+There is no question but that if McMahon was in possession of' the premises by and with the consent of the landlords, this action would lie; and, therefore, the point presented, is whether there was. an attempt to prove such consent by competent evidence.
+We think that proof tending to show that McMahon was in the premises by the consent, and under an agreement with one of the joint lessors named in this lease, and one of the common owners of the premises in question, was competent.
+It appears from the evidence which was actually admitted, that-the owners of the premises in question did not each act for themselves, but that Mrs. Wicks acted on behalf of both, and that the renting of this property was attended to on behalf of both for a considerable period of time, as it might be most convenient for each to attend to the same. And it appears from the evidence that the-negotiations for the renting of the premises to the plaintiffs was had with the defendant Wicks alone, and that the lease was subsequently-executed by the defendants Wicks and Quackenbush. From all these facts, if for no other reason, it was within the province of the jury to infer an authority upon the part of the defendant Wicks to-act in regard to this property and to bind the defendant Quackenbush. And it must be borne in mind that in respect to the terms-of this lease, the defendants Wicks and Quackenbush are joint obligors. They both executed the lease; they both entered into the covenants therein contained, and, therefore, it may well be urged that the action of either in respect to premises over which they both, assumed control, whereby the covenants of a lease which they both executed were broken, made both liable to the penalties thereby incurred.
+We think, therefore, it was error to take the case from the jury and also to exclude the evidence tending to show that the trespasser who withheld possession of a portion of the premises leased to the plaintiffs, did so by and with the consent of one of the lessors named in the lease.
+The judgment should be reversed and a new trial ordered, with costs to appellants to abide event.
+O’Brien and Follett, JJ., concurred.
+Judgment reversed and new trial ordered, with costs to appellants to abide event.
