@@ -1,0 +1,21 @@
+---
+court: "New York Surrogate's Court"
+decided: "1916-04"
+citations: ["16 Mills Surr. 444", "95 Misc. 68"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of John Neher, Deceased."]
+source_url: "https://static.case.law/mills-surr/16/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1094192
+cites_cases: ["176 N. Y. 570", "213 N. Y. 109", "37 Misc. Rep. 445", "81 App. Div. 645", "86 App. Div. 286", "87 Misc. Rep. 445"]
+---
+
+# In re the Estate of Neher
+
+## Majority (Fowler, S.—)
+
+Fowler, S.—
+The executors of decedent’s estate allege that they are dissatisfied with the appraiser’s-report because it suspends taxation of the remainder after the life estate of Marie E. B. Haber in the sum of $15,059.02, and they have appealed from the order entered on the report. The decedent gave the income of all his estate to his wife during her life, with power to dispose of one-half of the remainder by her will. He also empowered her to nse so much of the principal of the estate as she considered necessary for her enjoyment and support. By a subsequent clause he provided for the disposition of any part of his estate that was not used by his wife during her life or disposed of by virtue of the power of appointment given to her. The appraiser reported- that the value of the widow’s life estate in the entire estate left by the decedent was presently taxable. He reported that the remainder was not presently taxable, as one-half of it was subject to a power of appointment, and the life tpnant had the power to use so much of it as she considered • necessary. The one-half of the remainder over which the widow has a power of appointment is not presently taxable. (Matter of Howe, 86 App. Div. 286, affd., 176 N. Y. 570.), The amendment of section 230 effected by chapter 800 of the Laws of 1911 did not change the language of the statute so as to ■ make the principle of the decision in Matter of Howe inapplicable, as that amendment provided only for the entry of a temporary order by the surrogate. That part of section 230 which provides for the imposition of a tax at the highest rate was in force at the date of the decision in Matter of Howe (supra). Therefore that decision is still controlling, and a remainder which is subject to an -absolute power of appointment- is not taxable until the power is exercised. As to the other'one-half of the remainder, I am inclined to think that its taxation is governed by the decision of the Court of Appeals in Matter of Zborowski (213 N. Y. 109), and that that decision in effect overrules the decision in Matter of Babcock (87 Misc. Rep. 445, affd. without opinion, 81 App. Div. 645). All the property of which the decedent died seized or possessed was transferred by his will. The Tax Law provides that the tax is imposed upon the transfer of the property, but the rate of taxation is dependent upon the value of the interest transferred. The widow has a life interest in all the testator’s estate, consequently the value of that life interest is presently taxable. She may also use all the property, and it is, therefore, impossible to ascertain the exact amount that will pass to the legatees who are given one-half of the remainder after her death. Section 230 provides that where the property is transferred in trust, and the interest of the transferees are dependent upon contingencies whereby they may be in part defeated, the tax is imposed upon such transfer at the highest rate which, on the happening of any of the contingencies, would be possible. One-half of the remainder after the life estate of the widow is transferred to legatees, but their interests are liable to be defeated by the widow using all the property. Such transfers, therefore, are within the language of section 230 of the Tax Law, and are presently taxable. (Matter of Zborowski, supra.) The order .fixing tax will be reversed, and the appraiser’s' report remitted to him for the purpose of assessing a tax .at the highest rate upon one-half of the remainder after the life estate of the widow.
+Order reversed.
