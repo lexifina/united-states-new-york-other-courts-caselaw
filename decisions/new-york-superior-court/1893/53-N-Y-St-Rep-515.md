@@ -1,0 +1,33 @@
+---
+court: "New York Superior Court"
+decided: "1893-07-03"
+citations: ["53 N.Y. St. Rep. 515", "23 N.Y.S. 1063"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Esther Jacobs, Resp’t, v. Henry B. Sire, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/53/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686041
+cites_cases: ["12 N. Y. Supp. 282", "125 N. Y. 214", "125 N. Y., 214", "13 N. Y. Supp., 282", "130 N. Y. 523", "130 N. Y., 523", "24 N. Y. 252", "24 N. Y., 252", "26 N. E. Rep. 308", "26 St. Rep., 963", "29 N. E. Rep. 997", "30 Hun, 282", "34 St. Rep., 770", "35 St. Rep., 17", "4 Daly, 168", "42 N. Y. 474", "42 St. Rep., 588", "64 N. Y. 440", "64 N. Y., 440", "7 N. Y. Supp. 78", "7 N. Y. Supp., 78", "79 N. Y. 506", "79 N. Y., 506", "8 Hun, 171"]
+---
+
+# Jacobs v. Sire
+
+## Majority (Freedman, J)
+
+Freedman, J
+The action was brought to recover damages for a breach of an alleged promise of marriage.
+In submitting the case to the jury, the learned trial judge charged with a good deal of particularity that, in case of a promise to marry, and a breach thereof, the plaintiff was entitled, in the first place, to recover such damages as would fully compensate her for the loss of marriage, and the items were referred to for which compensatory damages might be given. The jury were further charged that over and above such compensatory damages the plaintiff was absolutely entitled to exemplary damages upon proof to the satisfaction of the jury of certain additional facts. The precise instruction upon this point was as follows, viz.:
+“If you find, having ascertained the compensation that she is entitled to, if you find that the defendant under all the circumstances of the case, judging from the evidence, the testimony, and his testimony included, has wronged her purposely and intentionally, if his conduct be malicious, you are bound to give what are called exemplary damages; in the first place, such sum as you think that it is proper for the malice of the conduct; in the secoucl place, if he is guilty, as an example to prevent other men in like ease attempting the same thing.”
+This instruction deprived the jury, in case they found the facts referred to, of all discretion upon the question whether exemplary damages should or should not be given. They were told that in that event they were bound to give exemplary damages. Such is not the law.
+In actions for breach of contract, with a single exception, the amount recovered is limited to the actual damage caused by the breach. The measure of damages is the same, whether the defendant fails to comply with his contract through inability', or wilfully disregards it. The exception is an action for breach of promise of marriage, in whicheexemplary damages may be given, because, although founded on contract, it is regarded as being somewhat in the nature of an action founded on tort. Johnson v. Jenkins, 24 N. Y., 252; Thorn v. Knapp, 42 id., 474; Chellis v. Chapman, 125 id., 214; 35 St. Rep., 17.
+But the cases sustaining the exception go no further than to hold that it should be left to the good judgment'and discretion of the jury whether or not exemplary damages should be given.
+Sedgwick and- other text writers on Damages agree upon the proposition that where there is evidence of circumstances sufficient to uphold a verdict for exemplary damages, the question whether they shall be given or not is one for the jury, and it is erroneous to instruct the jury to give exemplary damages, for the plaintiff can never recover them as matter of law.
+The decision of the court of appeals in Chellis v. Chapman, 125 N. Y., 214; 35 St. Rep., 17; affirming S. C., 7 N. Y. Supp., 78; 26 St. Rep., 963, seems to have settled this question beyond any doubt, so far as this state is concerned.
+Even in actions for torts of an aggravated character, it is within the discretion of the jury to say whether or not exemplary damages, or vindictive or punitive damages, as they are sometimes called, shall or shall not be given, and such discretion is to be exercised upon all the facts and circumstances as a punishrnent to the defendant, and as a protection to society against a violation of personal rights and social order. Voltz v. Blackmar, 64 N. Y., 440.
+The conclusion is therefore unavoidable, that the instruction given to the jury in this case upon the question of exemplary damages was erroneous. The errror was a radical one and presumably worked substantial injury to the defendant. Upon a careful examination of the whole case I am unable to say that no prejudice to the defendant resulted therefrom. The case is therefore one in which the general term is called upon to notice the error and to rectify the damage by ordering a new trial. The power to do so does not depend upon an exception duly taken. Cumber v. Schoenfeld, 13 N. Y. Supp., 282; 34 St. Rep., 770; Standard Oil Co. v. Amazon Ins. Co., 79 N. Y., 506; Lattimer v. Hill, 8 Hun, 171; Maier v. Homan, 4 Daly, 168; Mandeville v. Marvin, 30 Hun, 282.
+Moreover, the instruction complained of was excepted to, and although the defendant's counsel, in having his exception noted, failed to complain specifically of the use of the word “ bound,” the exception as taken is sufficient, if an exception were necessary. The case therefore falls within the ruling of the court of appeals in Moore v. N. Y. Elevated R. R. Co., 130 N. Y., 523 ; 42 St. Rep., 588, to the effect that a misdirection of the court which inay have prejudiced a party cannot be disregarded on appeal.
+The conclusion reached renders it unnecessary to consider any other question discussed on the appeal.
+The judgment and order should be reversed and a new trial ordered, with costs to appellant to abide the event
+G-ildersleeve, J., concurs.
