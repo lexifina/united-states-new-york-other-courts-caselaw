@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1899-03"
-citations: ["2 Liquor Tax Rep. 47", "26 Misc. 629", "2 Liquor Tax Rep. 33", "26 Misc. 568", "57 N.Y.S. 488", "26 Misc. Rep. 568"]
+decided_precision: "month"
+citations: ["2 Liquor Tax Rep. 47", "26 Misc. 629"]
 reporter: "liquor-tax-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Matter of the Petition of Henry H. Lyman, as State Commissioner of Ex
 source_url: "https://static.case.law/liquor-tax-rep/2/cases/0047-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1293460
-cites_cases: ["26 Misc. 563", "26 Misc. 629"]
+cites_cases: ["26 Misc. 629"]
 ---
 
 # In re Lyman
