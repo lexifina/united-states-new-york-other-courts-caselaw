@@ -1,0 +1,34 @@
+---
+court: "New York Superior Court"
+decided: "1867-10-07"
+citations: ["5 Rob. 183", "28 N.Y. Super. Ct. 183"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas B. Tweddle, plaintiff, vs. George Hoffman and another, defendants."]
+source_url: "https://static.case.law/ny-super-ct/28/cases/0183-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1397880
+---
+
+# Tweddle v. Hoffman
+
+## Majority (Barbour, J. Robertson, Ch. J.)
+
+Barbour, J.
+This case comes before us upon one motion by the plaintiff, upon exceptions and the evidence, for judgment in his favor, (non obstante veredicto,) or for a new trial, and another, in behalf of the defendants, for a judgment upon the verdict rendered by the jury at trial term.
+The action was brought to recover the value of $1000, in gold, alleged in the complaint to have been deposited by the plaintiff with the defendants to be expended for the purchase of certain silver mines in Mexico, and which, it is averred, they have failed so to expend, or, on demand, to return. The receipt of the defendants, which is the evidence of the obligation or trust, is in the following words:
+$700 in gold. • “New York, October 6, 1865.
+Received of Thomas B. Tweddle seven hundred dollars in gold, being the amount subscribed by him for the purchase of the Rosairo and Valencia Silver Mines in Chihuahua, Mexico, which will entitle him to seven hundred dollars subscription. George Hoeemah,
+M. H. Rose, Trustees.
+$700 subscription.”
+The answer denies that any funds were received by the defendants in their individual capacity, or otherwise than as trustees; and avers, among other things, that no money was delivered to them by the plaintiff, but only a certificate of stock of the Hoffman Oil and Land Company, amounting, nominally, to $1000; that steps have been taken by the defendants to complete the purchase of the mines, but that sufficient time has not yet elapsed to enable them to do so; and they express their readiness to return such certificate of stock upon the surrender to them of their receipt for .the $700 in gold.
+The evidence shows that the defendants were negotiating with the owner for the purchase of the Mexican mines, on behalf of such persons as were or should become subscribers to the fund for that purpose, for the price of $150,000 in gold, but for a portion of which such owner had agreed to receive in payment certificates of stock of the Oil and Land Company at the rate of $1000 in such stock for $700 in gold; that, pending such negotiations, the defendants applied to the plaintiff, and advised him to become one of the subscribers to such contemplated purchase, and informed him that they would receive his stock and apply it in the making of such purchase, in lieu of, and as representing $700 in gold, and that, thereupon the plaintiff delivered to them his certificate of stock, and took from them the receipt set forth in the complaint.
+As evidence was given upon the trial tending to prove that the project of purchasing the mines had been abandoned, sufficient to have authorized a finding by the jury to that effect, tbe single question is, whether the plaintiff is entitled, merely, to the return of the certificate of stock which he delivered to the defendants, or to recover, in this action, the value of the gold mentioned in the receipt.
+The receipt, of itself, unconnected with the evidence in the case, neither expresses nor implies any trust to be performed by the defendants, nor any obligation to return the gold therein mentioned. If, therefore, the defendants are bound to account in this action for the value of, such gold, that obligation must be found in the facts proven upon the trial. How, the testimony shows that no gold whatever was received by the defendants, but that the plaintiff delivered to them, without any transfer of the title or ownership thereof, a certificate of stock in the Oil and Land Company, of the nominal value of $1000, to be by them applied to the purchase of the Mexican mines, for the plaintiff’s benefit, as well as that of the other subscribers who were, or were to be, associated with him in such purchase. It was, probably, a power in trust that was thus conferred upon the defendants, which would have enabled them to transfer the title to the stock if the purchase had been completed; but, as no purchase was made, and the' negotiation has been abandoned, the power in trust has ceased, and the plaintiff will be entitled to the possession of his certificate, upon demanding the return thereof. But no obligation or duty was assumed by the defendants, either by the delivery to them of the certificate, or the. giving of the gold receipt, except to apply the certificate to the purchase of the mines, or to return it to the plaintiff.
+The claim of the plaintiff that the money originally paid by him to the defendants, or one of them, for the certificate of stock in the oil company, is the $1000 mentioned in the complaint, has not a shadow of merit. That transaction was not connected in any manner with this, but was entirely closed by the transfer or assignment of stock in the oil company, in consideration of such payment, some time before the certificate was delivered to the defendants.
+Judgment should be entered for the defendants upon the ^verdict, with costs.
+Garvin, J. concurred.
+Robertson, Ch. J.
+The terms of the receipt set out in the complaint, were capable of being disproved, and it clearly appears by the testimony that the statement in the complaint as sworn to by the plaintiff, that he deposited any money for the purpose therein set out, was untrue. He had paid $1000 to the defendant Hoffman, and claimed and took from him therefor a certificate of stock in an oil company. This he subsequently exchanged with a third person (Mr. Selden) for a subscription for the purchase of certain mines in Mexico, apparently with the intent of having it delivered to the seller of such mine as payment of such subscription. At all events, such seller received it as such, and the title to the mine was thereby secured.
+The testimony of the defendant Hoffman, that the subscribers “ gave up ” the contract, is clearly not to be understood as implying a rescission of it, because he says “ nothing was done about it” and that “ the title to the mine had been secured.” He, undoubtedly, meant to speak of a failure to prosecute the enterprise on account of the war. The defendants, therefore, did what by the terms of their arrangement with the plaintiff, they agreed to do, to wit, acquired for him an interest in the mines to the extent of the amount mentioned in the receipt. I, therefore, concur in overruling the exceptions and ordering judgment for the defendants.
