@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-02"
+citations: ["66 N.Y. St. Rep. 214"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["National Cash Registering Company, App’lt, v. Harry C. Coleman, Resp't."]
+source_url: "https://static.case.law/ny-st-rep/66/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2110294
+cites_cases: ["10 Bush, 337", "12 St. Rep. 662", "15 N. Y. 409", "17 St. Rep. 476", "2 Hill, 326", "2 Lans. 225", "21 Abb. N. C. 182", "23 Vt. 568", "26 St. Rep. 888", "49 Hun, 94", "54 Hun, 116", "6 Misc. Rep. 236", "61 St. Rep. 869", "62 N. Y. 1", "77 N. Y. 397", "80 Hun, 602"]
+---
+
+# National Cash Registering Co. v. Coleman
+
+## Majority (Merwin, J.)
+
+Merwin, J.
+In November, 1892, the plaintiff delivered to the defendant a cash register, in pursuance of a written contract, signed by the defendant, by which he agreed to pay therefor the sum of $175, of which $30 was tobe paid down in cash, and $10 monthly thereafter; and it was provided that, in case of default in making any payment, the plaintiff might take possession of and remove the register, and the balance of the purchase price should at once become due and payable. It was also in the writing agreed that the title of the register should not pass until the same was paid for in full, and should remain the property of the plaintiff until that time. Payments to the amount of $100 were made upon the contract, and then default was made. The plaintiff thereupon took possession of the register, and still has it. Soon after taking possession, the plaintiff brought suit against the defendant for the balance of the purchase price, being the sum of $75 ; and on the 7th August, 1894, recovered judgment therefor. An execution was issued thereon to the sheriff of Onondaga county-, and by him returned wholly unsatisfied, on the 5th September, 1894. Thereafter the plaintiff commenced proceedings against defendant supplementary to execution, and then the defendant moved at special term to set aside the return of the execution, and the order appealed from was made. The ground for setting aside the execution was stated in the order to be “ that the defendant has a leviable interest in the register, and that the sheriff did not levy upon the same, because he was informed by the attorneys for the plaintiff that the defendant had no interest subject to levy therein.” The arrangement between the parties was a conditional sale, and there is no doubt about its validity. Frank v. Batten, 49 Hun, 94; 17 St. Rep. 476, and cases cited. The title, as between the parties at least, did not pass. Herring v. Hoppock, 15 N. Y. 409; Comer v. Cunningham, 77 N. Y. 397. In such a case, as it has been held in numerous cases, the purchaser has no leviable interest until the purchase money is fully paid. Strong v. Taylor, 2 Hill, 326 ; Herring v. Hoppock, supra ; Cole v. Mann, 62 N. Y. 1.; Burchell v. Green, 6 Misc. Rep. 236, affirmed in 80 Hun, 602 ; 61 St. Rep. 869 ; Freem. Ex’ns, § 124, and cases cited. The recovery of the judgment, as long as it remained unsatisfied, did not affect the title of the plaintiff in the property. Hil. Sales, 23 ; Root v. Lord, 23 Vt. 568 ; Vaughn v. Hopson, 10 Bush, 337.
+In Brewer v. Ford, 54 Hun, 116, 120; 26 St. Rep. 888, it is said:
+“ The rights asserted by the plaintiff that, under the contract, he may retain the title to the property, and at the same time enforce the vendee’s promise to pay the purchase price, are not inconsistent, and both propositions have their foundation in the agreement, which was in all respects lawful as between the parties thereto.”
+See, also, Marvin Safe Co. v. Emanuel, 12 St. Rep. 662 ; 21 Abb. N. C. 182, and note at page 197.
+There is nothing in the case to indicate that the plaintiff has waived any of its rights. If, as the defendant suggests, the plaintiff is to be treated as mortgagee, the-defendant would have no leviable interest in the property, as the defendant is in default, and the plaintiff is lawfully in possession. The defendant would have only an equity of redemption, which is not the subject of seizure and sale on execution. Nichols v. Mead, 2 Lans. 225. If the defendant claims that the right of plaintiff to sue for and recover the balance of the purchase price was affected by its retaking possession of the property, that was a matter to be raised in the action, as the retaking was before it was commenced. It is not a question that can be considered here. We are referred to no authority which requires the plaintiff to have its lien—if it be called that—foreclosed by allowing the property to be sold on the judgment which we assume it had a right to recover for the balance of the purchase money. It has a right to collect, if it can, its judgment in the ordinary way. It only seeks to recover its debt; it does not claim to hold the register after the debt is paid. We fail to see how it can legally be said that the defendant has any leviable interest in the register. It follows, therefore, that the order of the special term cannot be sustained/ -
+Order reversed, with $10 costs and disbursements, and motion denied, with $10 costs.
+All concur.
