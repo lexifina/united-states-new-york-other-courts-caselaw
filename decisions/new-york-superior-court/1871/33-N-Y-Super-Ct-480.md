@@ -1,0 +1,22 @@
+---
+court: "New York Superior Court"
+decided: "1871-12-31"
+citations: ["1 Jones & S. 480", "33 N.Y. Super. Ct. 480"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES H. SMITH, Plaintiff and Respondent, v. TIMOTHY J. COE, Defendant and Appellant."]
+source_url: "https://static.case.law/ny-super-ct/33/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1415264
+---
+
+# Smith v. Coe
+
+## Majority (By the Court.—Barbour, Ch. J.)
+
+By the Court.—Barbour, Ch. J.
+This action was brought upon an alleged breach of a covenant on the part of the defendant, contained in a sealed lease executed by and between the plaintiff and himself whereby he agreed that he would not, at any time before June, 1867, negotiate for, or accept, or be interested in, any lease of certain premises, except from the plaintiff, under the forfeiture of ten thousand dollars, to be paid as liquidated damages and not as a penalty.
+Upon the trial, after the proofs were closed, the court was the counsel for the to charge the jury that the damages were liquidated at ten thousand dollars, and that the plaintiff was entitled to recover that sum, if the jury were satisfied from the evidence that the defendant, before June, 1867, himseif or by another, negotiated for, accepted, or became interested in, any lease of the premises described in the lease. The judge refused that request, but told the jury, fully and in detail, what the defendant had covenanted that he would abstain from doing, as above, and instructed them, in effect, that the only question for them to decide was whether there had been a breach of that covenant, and that, if they found the-defendant had broken such covenant by confederating with or assisting another to obtain a lease of the premises, the plaintiff would be entitled to a verdict for ten thousand dollars with interest. Upon the defendant’s request, the learned judge also charged that the plaintiff could not recover, unless the defendant, by negotiating for some lease or interest in the premises, otherwise than under the plaintiff, prevented or embarrassed the latter in getting a new lease. Exceptions were taken by the plaintiff’s counsel to that charge, as well as to the refusal of the court to charge as requested by him. A verdict was rendered for the defendant; whereupon a motion was made on the part of the plaintiff, before another judge at special term, upon a case and exceptions, for an order setting aside the verdict and directing a new trial. That motion was granted, and the case comes here upon an appeal from the order thereupon entered.
+The court charged the jury, in substance, all that was asked for by the plaintiff in the request which was refused; and that, too, as I understand it, without any qualification whatever. The exception in that regard, therefore, must be overruled; for an exception will not lie to a refusal to charge in the exact words of a request where its substance is fully complied with. x
+The exception to that portion of the charge which was made at the request of the defendant, however, was well taken. It was not necessary for the plaintiff to prove upon the trial that the defendant’s violation of his covenant prevented the former from obtaining a new lease, or in any way embarrassed him in his efforts to accomplish that object. Indeed, it would, probably, have been difficult, if not impossible, for him to do so, or to show that he had sustained any specific injury which could be computed in money, because of the breach of the covenant; and it may have been for that very reason that the defendant was required to stipulate in the lease, that, if his covenant should be broken, he should forfeit and pay to the plaintiff a sum certain as liquidated damages. However that may be, it was sufficient that such stipulation was contained in the lease, and that it was operative according to its terms. Upon proving a breach, therefore, the plaintiff was entitled to a verdict for the amount the defendant had covenanted to pay him, in that case, as liquidated damages ; and it follows that the charge which directed the jury that the plaintiff was not entitled to recover unless the defendant had, by a breach of his covenants, prevented or embarrassed him in getting a new lease, was erroneous. For that reason, alone, the order appealed from ought to have been granted, and should now be affirmed, with costs.
