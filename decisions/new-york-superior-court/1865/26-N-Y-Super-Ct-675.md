@@ -1,0 +1,28 @@
+---
+court: "New York Superior Court"
+decided: "1865-02-11"
+citations: ["3 Rob. 675", "26 N.Y. Super. Ct. 675"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter R. Strong, plaintiff and appellant, vs. Mart E. Strong, defendant and respondent."]
+source_url: "https://static.case.law/ny-super-ct/26/cases/0675-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1423609
+cites_cases: ["15 How. 299"]
+---
+
+# Strong v. Strong
+
+## Majority (Robertson, Ch. J.)
+
+Robertson, Ch. J.
+The order appealed from appears to have been based upon the assumption of a fact, or a principle, and a presumption of law, none of which, in my judgment, can be sustained.
+The fact is assumed, that the letters in question belonged to a series, which, of course, implies some connection with each other ; whereas, nothing of the kind appears any where in the papers before us. All the parts of a connected correspondence bearing relation to the same subject may undoubtedly all become evidence where one is introduced. But no such presumption could arise in regard to friendly letters between intimate connections, In the case of Ferguson v. Hely, (10 Jurist N. S. 34, February, 1865,) the motion was granted expressly upon the ground that the correspondence was an entirety, and the parts required to be produced contained evidence in favor of the defendant, to shew a rescisión of the contract sued upon. There is no pretense in this case, except by surmise of counsel, that the letters in question contain any thing favorable to the defendant. On the contrary, the suggestion was made that the defendant was entitled to an inspection of them, the better to enable her to explain, on the trial, any unfavorable statements in them.
+The principle of law applied, was that the 388th section of the Code did not require that documents whose production was sought for under it, must be such as could be read by the applicant on the trial. That section does require that they shall contain evidence in relation to the matters to be tried, but divides such evidence into that relating to the merits.of the action, and that relating to the defense, evidently intending by the former an application by the plaintiff, and in the latter one by the defendant. If it had been intended that either litigant had a right to know what evidence his adversary intended to introduce against him, such principle would have included the briefs, memoranda of law and facts of counsel, and instructions of their clients, as well as documents, and, indeed, should extend to an oral examination of the parties themselves. The law has always considered sacred the right of both, parties to keep secret their preparations and means of attack and defense, the right of discovery being confined entirely to evidence in the applicant’s favor. But, even, if such section (388) were susceptible of such a latitudinarian construction, there is no room for its application in this place; since there is no proof before us that the letters demanded contain any evidence relating to the matter in issue. .
+And, lastly, it was presumed that such letters being part of a series, as they are called, must have related to the same subject. I know óf no principle upon which every friendly letter between the same parties is to be presumed in law to continue to advert .to some one subject; or that confessions of guilt on that subject must be supposed to be reiterated, or protestations of innocence inserted in every one. Every thing is sometime or other brought to an end, and every subject is sometimes absent from our thoughts or writings. Even a friend does not always continue to be a confessor. And there is no experience of mankind which warrants the conclusion adopted in this case.
+The application was made upon quite slight grounds. The want of possession of copies of the letters, or recollection of their contents, is not sworn to by the defendant, but by a third person alone, and that, too, not on information and belief. How it is possible for one person to testify to the want of such possession, and recollection by another, I am at a loss to conceive. It has not the support of even information to that effect by that other and confidence in it by the recipient. Even the residence of the defendant is unknown to her brother, and no communication seems to have passed between them since the examination of Mrs. Bedell. The petition is also vague in not stating how the person verifying it obtained the information that such letters were intended to be used on the trial, or who had such intent.' At all events, the intent would be of little avail, if they were not admissible as evidence.
+It is true, that the petition states that such letters are, as the defendant is advised by her counsel, material and necessary .for the defense of the defendant, which consists of a denial of the allegations of the complaint. But the advice of counsel, or belief of a party, cannot be substituted for the judgment of the court upon the facts and.circumstances shewing the necessity of the production which are to be spread before it. (McAllister v. Pond, 15 How. 299. Jackling v. Edmonds, 3 E. D. Smith, 539.) The court, therefore, not having before it sufficient information of the contents of such letters to enable it to decide that they would be either prejudicial or beneficial to either party, as evidence, ought not to compel their production ; as the application becomes thereby entirely a fishing one.
+The order appealed from should be reversed, with costs.
+Garvin, J, concurred.
+McOunn, J. dissented/
