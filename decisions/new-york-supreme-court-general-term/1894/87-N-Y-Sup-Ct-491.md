@@ -1,0 +1,38 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-09"
+citations: ["87 N.Y. Sup. Ct. 491"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PutNam and HeeRIOK, JJ., concurred."]
+parties: ["Gilbert Newton, Respondent, v. The Central Vermont Railroad Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/87/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4733734
+cites_cases: ["46 N. Y. St. Repr. 145", "71 Hun, 213", "71 Hun, 613"]
+---
+
+# Newton v. Central Vermont Railroad
+
+## Majority (Mayham, P. J.:)
+
+Mayham, P. J.:
+The plaintiff was a passenger on one of the defendant’s passenger cars, for which he held a passenger ticket from Marion to Bombay, two stations on defendant’s railroad. As the train approached Bombay the ’conductor announced the name of the station, and the train slowed up, and the plaintiff with other passengers started for file door of the car to alight on reaching the door. The evidence tends to prove that the coach was suddenly jerked, and the plaintiff precipitated across the platform between the ends of the guard rails, between the ends of which the chain which is usually extended from the end of one railing or guard to the other was at that time unhooked, and plaintiff fell between the passenger car on which he was riding and a freight ear which was hauled in that train, andwvas injured. Two questions are presented in this, as in most appeals of this character:
+First. Did the plaintiff on the trial prove any negligent act or omission on the part of the defendant for which the jury were justified in finding it liable to the plaintiff for the injury complained of ?
+Second. Did the plaintiff by the proof establish his freedom from contributory negligence ?
+The evidence relied upon by the plaintiff to establish negligence of the defendant was the proof that no chain or bar was placed between the ends of the guard or railing on the outer edge of the platform across the passageway from one car to another to prevent the plaintiff and other passengers from falling between the cars in case of any sudden and unexpected movement of this passenger coach while passengers were on the platform for the purpose of alighting from the train.
+It is a well-known fact that passenger coaches, where no other means of protection are provided to prevent passengers from falling between cars through the space between the railings or guards at the outer edge of the platform, have chains which may be extended from one rail to the other, thus forming barriers, as a prevention against such accidents. We think that the failure of the defendant to have in place such barriers at the time of this accident was a fact from which the jury might impute negligence to the defendant. (Fiero v. N. Y. C. & H. H. R. R. Co., 71 Hun, 213.)
+It was, we think, a question of fact for the jury under the circumstances of this case, and their determination upon that question should not be disturbed on this appeal.
+It is also insisted that there was a sudden jerk or movement of the cars after the conductor had invited passengers to alight by calling out the name of the station, which precipitated this accident, for which the defendant is responsible.
+On the part of the defendant it is insisted that that movement was necessarily incident to the movement of a mixed train composed of freight and passenger cars, such as the train in question, and that the defendant is not responsible for such unavoidable incident in this case.
+That too,- we think, under the circumstances of this case, was a question for the jury, and was properly left to them for determination.
+The jury having found for the plaintiff, there is sufficient evidence in the case to uphold their verdict. (Curry v. Gleason, 71 Hun, 613; Millott v. N. Y. & N. E. R. R. Co., 46 N. Y. St. Repr. 145, 146.)
+But it is insisted on the part of the defendant that the plaintiff failed to establish freedom from contributory negligence, and that the evidence of the intoxication of the plaintiff was of itself proof of contributory negligence, which should preclude him from a recovery in this case. That question having been submitted to the jury under proper instructions from the court, we do not see how their determination can be disturbed on this appeal.
+We cannot hoklthat the bare fact of intoxication, as proved upon this trial, is evidence of negligence per se, which contributed to the accident; and we think it was properly submitted to the jury by the learned trial judge, for them to determine whether or not it contributed to the injury complained of.'
+It is also urged that as the plaintiff left his seat while the train was in motion he by that act was guilty of contributory negligence. It has been frequently held that an attempt to board or alight from a moving train is negligence per se. Rut the evidence in this case only discloses that the plaintiff arose from his seat and was moving towards the door, but was not alighting from, the car. We cannot hold that what he did in this case, in moving towards the door of the car after the name of the station was announced by the conductor, was, as matter of law, such negligence as would preclude a recovery.
+It is also insisted that the judge erred in his charge to the jury, and that for that this judgment should be reversed.
+The only exception taken by the defendant to the charge was to his refusal to charge, as requested by the defendant, on the question of plaintiff’s intoxication. We think the judge’s refusal to charge, as requested, and his qualification of such refusal, were both correct.
+The judgment should, upon all the questions raised, be affirmed.
+PutNam and HeeRIOK, JJ., concurred.
+. Judgment affirmed, with costs.
