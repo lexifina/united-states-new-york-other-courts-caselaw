@@ -1,0 +1,23 @@
+---
+court: "New York Court of Chancery"
+decided: "1828-10-21"
+citations: ["1 Paige Ch. 239"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stafford v. Bryan."]
+source_url: "https://static.case.law/paige-ch/1/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2178464
+cites_cases: ["8 Cranch, 72", "8 Cranch, 93"]
+---
+
+# Stafford v. Bryan
+
+## Majority
+
+The Chancellor :—It is unnecessary in this case to express any opinion as to the probability of the note’s being paid. The existence of the note being once established, and its loss sufficiently proved, the complainant must recover, unless the defendant can establish the fact of payment, or the recovery is barred by the lapse of time. By a reference to the cash book of the complainant, (exhibit Y,) it appears that in June, 1814, the defendant is charged with §2,110 41, cash, and credited by discounted note $987 17, cash on check $300, and by note on demand in full, $821 24, which last is probably the note in controversy in this cause. It appears, also, from the same book, that there were large cash dealings between the parties for one or two years afterwards, amounting to more than $8,000 on each side. But if the note in question was included in any of the settlements which took place between the parties, no reason is given why it was not delivered up. On the contrary, it appears by the testimony of Lewis Benedict that a note precisely answering the description of the note in the complainant’s bill, except that it was not upon interest, was in the store of Staffords, Spencer & Co., ' among the papers belonging to the former firm of Staffords & Spencer, until and after the month of March, 1819, at which time he presented it to the defendant, who promised to give his note for the same, payable on the 1st of September thereafter.
+*The only question, therefore, in this cause is, whether the recovery is barred by the statute of limitations. This suit was not commenced until nearly eight years after the acknowledgment and promise to Benedict; and although the complainant commenced two suits in the Supreme Court in the meantime, one of which was discontinued, and in the other he was nonsuited because he could not then prove sufficient to take the case out of the statute, neither of those suits can avail him any thing here.
+The defendant is called upon by the complainant to answer, whether he has not admitted his indebtedness, or promised to pay this demand within six years previous to the commencement of this suit. In his answer, the defendant explicitly denies both; and the answer being responsive to the bill, is evidence in his favor, and must be considered conclusive, unless disproved by more than one witness. If, therefore, the testimony of the complainant’s sons can be reconciled with the truth of this answer, it puts the question at rest. Joab Stafford testifies to a conversation with the defendant at his store, where he went to buy fur caps, in which the defendant admitted he owed his father a good deal of money, and wanted him to trade it out in furs, &c.
+In opposition to this, the defendant’s son testifies that the fur caps were purchased of him when his father was not present, and he produces the original entries in the books, to show the articles were charged directly to Joab Stafford, and not to his father. The same is substantially the case as to a similar conversation testified to by Spencer Stafford, junior. It also appears that at the times testified to by these witnesses, there was an outstanding account against the defendant in favor of the complainant. Under these circumstances, if the complainant’s sons are correct, and the defendant’s sons incorrect, as to the facts, their testimony is not inconsistent with the truth of the defendant’s answer, as these conversations may have related to the unsettled account. Without going into a detail of all the contradictory testimony on this subject, it may be sufficient to state that although great exertions were made to obtain testimony to take the case out of the statute, no such testimony was given on the trial at law. *There is not, therefore, sufficient in this case to satisfy me that the defendant has, within six years before the commencement of this suit, admitted that he owed or promised to pay the note in question; and the admission in his answer of the giving the note, accompanied with the declaration of his belief that it had been paid, is certainly not sufficient to take the case out of the statute of limitations. (Clementson v. Williams, 8 Cranch, 72.)
+The complainant’s bill must therefore be dismissed with costs.
