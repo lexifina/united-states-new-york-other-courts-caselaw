@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1886-01"
+citations: ["17 Abb. N. Cas. 267"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WALLACH v. HOEXTER."]
+source_url: "https://static.case.law/abbn-cas/17/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 632566
+cites_cases: ["18 Hun, 484", "26 N. Y. 91", "56 N. Y. 462", "59 N. Y. 587", "7 Lans. 6"]
+---
+
+# Wallach v. Hoexter
+
+## Majority (Van Vorst, J.)
+
+Van Vorst, J.
+—The defendant Fannie Strauss Hoexter, a married woman, being seized of a separate estate, at the instance and upon the urgency of her husband, mortgaged the same to the plaintiff. In this action, which is brought for its foreclosure, she seeks to avoid the mortgage, upon the ground that she executed the same under duress of her husband, she receiving no consideration therefor.
+The evidence does not justify the conclusion that the mortgage was executed under circumstances of constraint amounting to duress. That the defendant executed the mortgage through the persuasion of her husband-, and for his benefit, and through threats on his part that if she did not do.so “he would come in and go out of the house as he pleased,” and would “ stay away from her at nights and would withhold speech from her,” admits of no denial.
+Tlié fear that her husband would withdraw himself from her society at his pleasure and seek enjoyment elsewhere, or that when in her presence he would remain silent, in case of her refusal to do what he wished, may have constituted the chief reasons why she executed the mortgage, but in the end she consented to do so and did sign the papers voluntarily.
+There was no duress qr illegal constraint exercised sufficient to impeach the mortgage in the hands of this plaintiff, who was an innocent lender of money, within the meaning of those ■ terms as understood- in the courts.
+The constraint and duress which has generally availed to impeach a contract, even as to transactions between husband and wife, has proceeded from actual violence or well-grounded fear of personal injury. An assent obtained through such means is regarded as neither freely nor voluntarily given, and as creating no valid obligation.
+Such was the character of the duress in Loomis v. Ruck (56 N. Y. 462), to which I am referred by the learned counsel for the defendant.
+In Rexford v. Rexford (7 Lans. 6), it was distinctly ruled that if declarations made by the husband to his wife are relied upon to establish duress sufficient to invalidate a conveyance made,by her, they should be of á character to show beyond any question that she .acted under an apprehension of personal injury or grievous wrong, and that his declaration that unless she signed the deed £< she should not live with him in peace,” was not sufficient to invalidate the deed.
+In Lord v. Lindsay (18 Hun, 484), Rexford v. Rexford is approved, and the court says that the duress and coercion, to avail as a defense to a mortgage executed by a wife upon her separate estate to secure her husband’s debt, 66 must go to the extent of depriving the party of her free volition by reason of personal injury or great wrong.”
+In the case of Barry v. Equitable Life Assur. Soc. (59 N. Y. 587), while duress was found by the court below to have been exercised by the husband, it also appeared that the instrument sought to be impeached was obtained by the husband from his wife by false representations and was used to secure an antecedent obligation. It also appeared that the wife did not fully understand the nature of the instrument she was signing, and that her assent was not voluntary.
+Duress in a more extended sense may mean a degree of severity ££ either threatened or actually inflicted,” which is sufficient “ to overcome the mind and will of a person of ordinary firmness” (Ato. Law Div. title ££Duress”). And there may be cases in which a party would be entitled to relief against a contract where it is made under “the influence of extreme terror, or of threats, or of apprehensions, short of duress” (Story Eq. Jur. § 289), and circumstances of ££ extreme necessity and distress of the party” may be sufficient “to overcome his free agency.” A case of that description was Eadie v. Slimmon (26 N. Y. 91), where a wife was terrified by a creditor of her husband into the execution of a. iransfer of her separate property by threats of his prosecution for an alleged embezzlement.
+There is sufficient in the case to satisfy me that the wife thoroughly understood the transaction, and that in the end she gave her consent to it. Her action was voluntary. ■ Doubtless she would have preferred not to have incumbered her separate estate, and she may have regretted that there was any occasion for it. But the threats to which she has testified, and the urgency of her husband, were not of a nature to prevent the exercise of her reason, judgment and free will. She had ample opportunity, before giving her final consent, and carrying the same into execution, to reflect upon the matter, and, if she needed advice, to consult with her friends. She went, the next day after the interview with her husband, to the office of the attorney who prepared the mortgage, and remained there some time, her husband not being present, while the papers were being prepared. She exhibited no hesitancy or timidity. Her manner was composed. She then met the plaintiff and his agents, who. were present to advance the money and close the transaction. She gave no information that the mortgage was not voluntarily made by her.
+If her case otherwise had strength, it is here weak. If she had any occasion to feel that she was yielding to the urgency or constraint of her husband’s necessities and influence, it was her duty to have given the plaintiff some information as to the state of her mind upon the subject, and not to have allowed him- to loan his moneys under the belief that she was acting freely and uninfluenced by her husband. There is no equity in the defendant’s position superior to that of the plaintiff, whoacted bona fide. The defendant declared to the notary public that she was acting freely, and signed an order for the payment of the sum loaned on the mortgage to her husband, who received a check for the amount in her presence. What he did with the proceeds does not appear.
+There is no defense to this mortgage, and there must be judgment of foreclosure and sale.
