@@ -1,0 +1,34 @@
+---
+court: "New York Surrogate's Court"
+decided: "1887-10-06"
+citations: ["10 N.Y. St. Rep. 696"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Estate of Margaret McCready, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/10/cases/0696-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 647447
+---
+
+# In re the Estate of McCready
+
+## Majority (Rollins, S.)
+
+Rollins, S.
+It is, among other thing, provided by section 1 of chapter 483 of the Laws of 1885, that “all property which shall pass by will from any person who may die seized or possessed of the same while being a resident of this state to any person or persons other than to certain classes of persons in such section specified, shall be subject to a tax of five dollars on every hundred dollars of the clear market value of such property,” etc.
+It is by the same section further provided that “an estate which may be valued at a less sum than $500, shall not be subject to said tax.”
+This testatrix, who was, at the time of her death, a resident of the county of New York, and who died seized and possessed of property of the value of several thousand dollars, bequeathed by her will three legacies of $400 each to persons not included within any of the classes exempted from taxation.
+Are those legacies hable to the tax ? In other words does the $500 proviso above quoted relate to the entire “estate” of a testator, or does it relate rather to the particular “ estate” which is conferred by such testator’s bounty upon his legatee or devisee ?
+Of these two interpretations the former seems most consistent with certain portions of the statute in question and the latter with certain other portions, but taking the act as a whole I am of the opinion that whatever may be the extent of a testator’s possessions, such of his bequests and devises as are of less value than $500 are not subject to tax.
+The title of the statute here under considerations is “An act to tax gifts, legacies and collateral inheritances,” and this title is well chosen to indicate in general terms the purpose declared by the legislature in the body of the statute.
+The tax is not imposed upon a testator’s entire “estate” as such; it is imposed, under certain circumstances, upon each and every passing or devolution of property ordered by his will in favor of each and every beneficiary not within the excepted classes.
+The burden of this tax rests upon such beneficiary, and not upon the general estate of his testator; apart, therefore, from any critical examination of the somewhat obscure phraseology of the statute, it would seem probable that the legislature intended that the exemption should apply, not to such general estate, but to the legacies and devises which, save for such exemption, would be subject to tax.
+There is surely little reasonableness in a scheme that would relieve from taxation the taker of a $400 bequest, parcel of a $450 estate, but would deny such relief to the taker of a like bequest, parcel of an estate of more considerable value.
+The contention that the proviso relates to the several parcels of property passing to a testator’s beneficiary rather than to the entire property of the testator himself finds support in the circumstance that the estate exempted is not an estate which is of less value than $500, but “an estate which may be valued at a less sum than $500.” Valued by whom ? The answer to this question is found, I think, in section 13, which directs the appointment of appraisers ‘ ‘ to fix the value of property of persons whose estates shall be subject to the payment of such tax;” and, as has been stated already, the estates of decedents are not, as an entirety, subject to tax at all.
+The valuation referred to in section 1 is thus discovered to be the valuation of appraisers, which appraisers are not called upon under the act to value any portion of a decedent’s estate, except portions passing to persons of the taxable class.
+It may be added that if the proviso to section 1 was intended to effect any other purpose than the relief from taxation of the recipients of small bequests, devises and distributive shares, it must have been intended to relieve persons upon whom the law casts the labor of assessing and collecting the tax, from performing that labor in cases where only a petty revenue would result to the state.
+But how far is that object effected by the proviso here in question, assuming that its word “estate ” means the estate of the decedent.
+If a testator, leaving property of the value of $500, or upwards, gives all of it except a single dollar’s worth to persons exempt from the tax, and gives that dollar’s worth to a person not exempt, the machinery of the statute must be set in operation to collect the five cents to which the state is in such a case entitled.
+Herein lies an argument against any interpretation of the proviso, except an interpretation that would involve the freedom from taxation of the three legacies of $100 each in the cáse at bar.
+I hold that those legacies are not taxable.
