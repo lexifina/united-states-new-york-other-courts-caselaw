@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-06-12"
+citations: ["39 N.Y. St. Rep. 232"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William D. Mackey et al., App’lts, v. Benjamin Rausch et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061994
+---
+
+# Mackey v. Rausch
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+—This action was brought against one Hugh Littlejohn to recover upon a promissory note made by him to the order óf the plaintiffs, who were copartners doing business as coffee brokers upon the Hew York Coffee Exchange. Said Littlejohn admitted in his answer the making of the note and set up various defenses, the only one of which relied upon on the trial was that the note was given in payment of losses incurred in transactions which were bets and wagers, and void under the statutes of the state.
+It appeared from the evidence in the case that the losses had been incurred in speculations in options in coffee for future delivery, and the defendants, upon the trial, gave evidence which, it is claimed, tend to show that there was no intention upon the part of the parties that there should be actual transactions, and that the form of contracts of sale and purchase were resorted to as a mere cover for betting on the future price of the commodity agreed to be bought and sold; and that that was the real meaning of the transactions between the parties, and that no actual sale or purchase was intended.
+Upon the part of the plaintiffs contradictory testimony was given, and the case was submitted to the jury under a charge from ¿the judge that it was incumbent upon the defendants to make out this defense, otherwise the plaintiffs were entitled to the judgment which they sought. The jury rendered a verdict in favor of the defendants, as assumed by the counsel for the ¡fiaintiffs, although there is no evidence of that fact contained in the judgment roll as printed in the case, and from the judgment entered upon such verdict this appeal is taken. The' principal grounds' urged upon this appeal are, that the court erred in not granting the plaintiffs’ motion for a direction of a verdict at the close of the defendants’ case, and in denying plaintiffs’ motion for a new trial upon the ground that the verdict was against the weight of evidence.
+It is undoubtedly true that there appear to be contradictions in the defendant’s testimony, he having first testified that nothing was ever said about the possession of the coffee, nor did he ever state to them that he had no coffee to sell, and that nothing was ever said about the possession or actual delivery of the coffee, and that he subsequently stated in his examination that the plaintiff told him it was not necessary to deliver the coffee, but that it was necessary to pay fifty cents a bag margin, and that the transaction would be settled, the difference between purchase and sale price.
+It is also true that the plaintiff denied having had any such conversation with the defendant and testified that he never told Littlejohn that he was willing that transactions should be made in which no delivery of coffee was contemplated; and that they were prepared, at any time, to deliver the coffee if called upon to do it,, and that coffee was not delivered to him because he did not pay the money to receive it, but closed the account by ordering its sale; that they never had any understanding with Littlejohn, directly or indirectly, that this transaction should not contemplate a delivery of the coffee.
+This presented a question of fact which was to be determined upon the evidence of Mackey & Littlejohn, and the other evidence in the case, by the jury, and this question was submitted to the jury by the learned court with proper instructions, that the burden of proof was upon the defendant to establish the defense.
+Tbe jury having chosen to believe the statement of the defendant, and having drawn the inference therefrom, which they had the right to do, that it was the intention of both these parties that there should be no actual transactions but simply a settlement of differences, the case is brought within the decision declaring such contracts to be wager contracts, and not enforceable at law.
+It is true that it is claimed by the plaintiffs that these contracts were made under the rules of the exchange, and these required the actual delivery of the merchandise.
+But if it was the understanding of the parties, as the jury have found, that no merchandise was to be delivered but only the differences settled for, then there was an intention to make a wager contract, and the rules of the exchange would not make it otherwise.
+It is urged that it was error to admit the question asked of Littlejohn, whether at the time the coffee was sold for him he had any coffee, and the question asked the plaintiff whether at the time he made certain sales he had the coffee in his hands.
+It certainly would not have been error to have excluded it, but we fail to see, in the way in which the case was submitted to the jury and the questions they were called upon to pass upon, the plaintiff suffered any injury, because the jury were instructed that contracts for future delivery where a party was not in possession of the merchandise was a perfectly valid contract. The only question submitted to the jury was whether they were satisfied from the evidence that the form of a contract of sale was resorted to for a mere cover for betting on the future price of the commodity agreed to be sold.
+Therefore, the question as to whether either of these parties had the merchandise in possession at the time this contract was made was entirely immaterial. The jury was so instructed, and it was not pretended that they were required under the circumstances to have the possession of the merchandise, the subject matter of the contracts, in order that the contracts should be legal.
+We see no reason for disturbing the verdict of the jury, and the judgment and order should be affirmed, with costs.
+Daniels, J., concurs.
