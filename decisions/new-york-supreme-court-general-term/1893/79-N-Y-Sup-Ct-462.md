@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-10"
+citations: ["79 N.Y. Sup. Ct. 462"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, Haight and Bradley, JJ., concurred."]
+parties: ["Rochester Distilling Company, Plaintiff, v. Martin O’Brien, Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/79/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4689131
+cites_cases: ["66 Barb. 495", "7 Abb. Pr. 392", "87 N. Y. 550"]
+---
+
+# Rochester Distilling Co. v. O'Brien
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+The action was against an attorney at law to recover damages for the conversion of money of the plaintiff, collected and received by the defendant as such attorney. The complaint contained all the allegations necessary to bring the case within the provisions of subdivision 2 of section 549 of the Code of Civil Procedure, rendering the defendant liable to be arrested in the action. The answer of the defendant, besides a denial of some of the allegations of the complaint, pleaded a counterclaim for the value of professional services rendered by him to the plaintiff “ in prosecuting a certain suit and in counselling and advising said plaintiff, and in drawing aryl copying various instruments in writing for plaintiff.” There was no allegation that the services, which are the basis of the alleged counterclaim, or any part of them, were rendered in the same action in which the money was collected for the recovery of which this action was brought.
+The plaintiff did not serve a reply, but went to trial on the issues made by the complaint and answer. On the trial it gave evidence tending to establish its cause of action. The defendant gave no evidence, but asked to be allowed the amount of his counterclaim on the ground that the same was admitted by the failure to reply. The court denied the request and directed a verdict for the plaintiff for the amount of its cause of action —■ holding, in effect, that the action was one sounding in tort; that the new matter set up in the answer was neither a cause of action arising out of -the transaction set forth in the complaint as the foundation of the plaintiff’s action, nor was it connected with the subject of the action, and that it was, therefore, not allowable as a counterclaim. (Code Civ. Proc. § 501, sub. 1.)
+"We have no doubt of the correctness of this holding and of the consequent direction of a verdict. Nor is the conclusion weakened by the fact now pointed out by counsel for the defendant, that the answer avers all the facts necessary to entitle the defendant to a lien on the moneys in question to the extent of the value of the services mentioned in the answer. Such is the answer and such the law applicable to it. The attorney is entitled to a lien upon all moneys of his client which come into his hands for all professional services rendered that client, whether or not in the action or matter in which the moneys are collected. (Ward v. Craig, 87 N. Y. 550, 560 ; Bowling Green Sav. Bank v. Todd, 52 id. 489.) And the answer sufficiently avers a lien when it states the facts which give rise to a lien without stating the legal conclusion which results therefrom. So it may be conceded that this answer sets up a lien in favor of the defendant, on the moneys in his hands, to the extent of the value of his services alleged; but a lien is not a counterclaim. It constitutes a defense by way of avoidance. The answer implies an admission that the money was received by the defendant, and that he refused to pay it over on demand, and it justifies such refusal on the ground that he has a lien on those moneys for the services rendered by him.
+As we have said, a lien is not a counterclaim, nor is it the subject of counterclaim. A lien is a certain right or control which one man has in or over the property of another ; in this case the right of the defendant to hold or retain the moneys of the plaintiff in his hands to satisfy his claim for. services. The lien is something entirely ■ distinct from the claim; it is in the nature of security for the claim ; it may or may not be asserted as such, and the claim may be enforced with or without its aid.
+In no sense, therefore, did the defendant’s cause of action either arise out of the transaction alleged in the complaint, nor was it connected with the subject of the plaintiff’s action. His lien was related to the plaintiff’s cause of action only as a defense to it, and his lien was not his cause of action, but only an incident thereto. (See Gottler v. Babcock, 7 Abb. Pr. 392, note ; Rogers v. King, 66 Barb. 495.) As a defense the lien of the defendant was sufficiently averred, but it required to be proved. It is only defenses by way of counterclaim which are admitted by failure to reply. The fault of this defense, therefore, was not in the pleading but in the proof. No evidence having been given in support of the answer, the court necessarily directed a verdict in favor of the plaintiff for the cause of action established in its behalf.
+The defendant’s exception to the direction of a verdict must, therefore, be disallowed, his motion for a new trial denied, and judgment ordered for the plaintiff on the verdict.
+Lewis, Haight and Bradley, JJ., concurred.
+Defendant’s motion for a new trial denied, and judgment ordered for the plaintiff on the verdict.
