@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1892-02"
+citations: ["30 Abb.N. Cas. 139"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["N. Y. BIBLE SOCIETY v. BUDLONG."]
+source_url: "https://static.case.law/abbn-cas/30/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1973014
+cites_cases: ["22 Minn. 28", "23 Vt. 401", "85 N. Y. 285", "93 N. Y. 529"]
+---
+
+# N. Y. Bible Society v. Budlong
+
+## Majority (INGRAHAM, J.)
+
+INGRAHAM, J.
+The sole question in this case is whether a corporation organized under the act of 1848 for the distribution of Bibles and Testaments without note or comment and to raise funds in aid of the American Bible Society, is a charitable or benevolent “ institution ” within the provisions of chapter 104 of the Laws of 1872.
+The act of 1872 is entitled : “ An act in relation to trustees and directors of charitable and benevolent institutions,” and the act prohibits any trustee or director of any charitable or benevolent institution from receiving any salary or emolument from said institution and prohibits the directors or trustees of any institution organized for charitable or benevolent purposes from voting or allowing any salary or compensation for services either as trustee or director, or in any other capacity.
+The prohibition contained in the act applies not to corporations, but to institutions, and while a corporation may be organized under the act of 1848 for the purpose of establishing an institution for benevolent or charitable purposes, it is not every corporation that is organized under the act that is organized for such purpose.
+The act of 1848 provides for the incorporation of societies for literary, historical, scientific or missionary purposes, for the furtherance of religious opinion and for Sunday school purposes and for mutual improvement in religious knowledge, and under its provisions the plaintiff was organized as a corporation to distribute the Sacred Scriptures and for the raising of funds for such purposes and in aid of the American Bible Society.
+From the very nature of the work it was to do, no institution was contemplated within the ordinary meaning of that word, and the legislature by its adoption of the word “ institution ” instead of “ corporation ” apparently intended to distinguish between such corporations or societies as established asylums or homes for benevolent or charitable purposes and -which would be entitled to receive the public money, and such corporations as were private in their character and were organized for literary or religious objects.
+It is clear that a religious corporation or a library . would not come within the provision of the act in question, •and this distinction is, I think, recognized by the legislature in other statutes that have been passed, and which have been referred to by counsel for the defendant.
+The provisions of the Revised Statutes regulating charities clearly distinguish between benevolent institu-" tions and corporations formed under the law of 1848 for benevolent, charitable and other purposes, and I think that the act of 1872 does not apply to corporations organized for the purpose specified in the certificate of incorporation. I think, therefore, the defendant is entitled to judgment.
+If plaintiff desires to appeal, however, I will direct that all proceedings after the entry of judgment be stayed until the determination of such appeal.
+No appeal was taken.
