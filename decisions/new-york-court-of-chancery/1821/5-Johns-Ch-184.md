@@ -1,0 +1,27 @@
+---
+court: "New York Court of Chancery"
+decided: "1821-02-24"
+citations: ["5 Johns. Ch. 184"]
+reporter: "johns-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Higinbotham against Burnet and others."]
+source_url: "https://static.case.law/johns-ch/5/cases/0184-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1980755
+cites_cases: ["1 Johns. Ch. Rep. 354", "10 Johns. Rep. 495"]
+---
+
+# Higinbotham v. Burnet
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+This is a demurrer to the whole bill, and there are two causes of demurrer assigned, (1.) That the plaintiffs claim to be seized in fee of the premises, and therefore the matter is properly and exclusively cognizable at law. (2<) That the bill contains no matter of equity.
+Perhaps it would be sufficient to dispose of the demurrer, by referring to the rule, (Laight v. Morgan, 1 Johns. Cases, 429.) that if a demurrer be general to the whole bill, and be bad, in part, it must be overruled. If it be good for discovery, and not for relief, a general demurrer to the whole bill is bad. The defendants should in such a case give the the discovery, and demur to the relief; and this rule was so settled, in the case referred to, in the Court of Errors. I cannot sée any doubt, in this case, of the right of the plaintiffs to a discovery concerning the deeds charged in the bill to have been lost, and concerning their contents.
+But the bill appears to me to state several distinct and sufficient heads of equity jurisdiction.
+ít is easy to perceive, that the real ground of the claim of the defendants, as heirs of Vredenbergh, rests on the defec- . . ° , live conveyance from him to John Carpenter, under whom the plaintiffs claim title; and that defect consists in the omission of words of inheritance, the want of which, I apprehend, would confine the operation of the assignment, in a Court of law, to an estate for life. But when the right of the soldier rested originally in equity, and continued so when he conveyed his right to Smith, and when Smith transferred that right to Vredenbergh, and when we consider the charge in the bill that Vredenbergh and Carpenter negotiated and agreed for the sale and purchase of that entire right, and the circumstances attending the assignment from V. to C. and the language and mode of the assignment, and the accompanying delivery of the patent and original discharge of the soldier, there is good cause to infer a mistake in that assignment; and that owing to a defect in drawing it, the intention of the parties was not carried into effect. To remedy this defect, and to prevent an unconscientious advantage being taken of it, may afford a very fit case for equitable interposition. Under such special circumstances, a trust in fee may be considered as created, which this Court would execute according to the conscience and intention of the parties. There are many cases at common law in which a fee has been held to pass without the word heirs; (Co. Litt. 9. b.) and if a trust interest in fee was intended to be created by the assignment from V. to C., in like manner as a trust interest in fee was conveyed by the deed from Elliot to Smith, and by the assignment from Smith to Vredenbergh, then this Court, according to the doctrine in Fisher v. Fields, (10 Johns. Rep. 495.) would decree an adequate legal conveyance, according to that intention, notwithstandthe want of words of inheritance.
+The allegations in the bill on which so much stress has been laid by the counsel for the defendants, that the plaintiffs were seized of the land in question, must be understood t0 mean an equitabie, and not a legal seisin. The whole scope of the bill, and the very fact of coming into this Court, demonstrate this meaning.
+The bill also states facts, from which we are to infer, that Vredenbergh and his heirs, the present defendants, are equitably estopped from asserting any claim to a reversionary interest in the land. It is charged, that V. after the death of Carpenter for 13 years, stood by and saw great and costly improvements made upon the land, by persons claiming, and believing themselves to be owners in fee, under Carpenter, and never interposed any pretension of right or title. It appears from the cases referred to in Wendell v. Van Rensselaer, (1 Johns. Ch. Rep. 354.) that though the right of the party, who thus misleads third persons by his silence, be merely a reversionary interest, and subject to a life estate, in the very person whom he suffers to deal with the property as absolute owner, the rule of equity still applies, that he never shall be permitted to exercise bis legal title against such person. He is bound, and all persons claiming under him, are bound, by his silence. This case is much stronger than ordinary ones of the kind; for here the silence was maintained for thirteen years, after the assumed life interest of Carpenter had terminated. If Carpenter was bound to know the duration of his title, those who succeeded to the estate, after his death, were certainly encouraged and misled by the studied silence or express admissions of Vredenbergh ; and the case as stated, presents one of the strongest claims for the assistance of this Court against the assertion of a title under him by his heirs. It is to be traced up to imposition and fraud.
+The demurrer must, therefore, be overruled with costs, and the defendant ordered to answer.
+Order accordingly.
