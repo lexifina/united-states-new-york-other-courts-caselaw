@@ -1,0 +1,54 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-12"
+citations: ["98 N.Y. Sup. Ct. 324"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown, P. J., concurred; Pratt, J., dissented."]
+parties: ["Adela McNish, Respondent, v. The Village of Peekskill, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/98/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4797261
+cites_cases: ["107 N. Y. 531", "145 N. Y. 238", "18 N. Y. Supp. 389", "32 N. Y. 489", "4 N. Y. Supp. 312", "42 Hun, 161", "53 Hun, 171"]
+---
+
+# McNish v. Village of Peekskill
+
+## Majority (Dykman, «L:)
+
+Dykman, «L:
+This is an appeal from a judgment in favor of the plaintiff, entered upon the verdict of a jury, against the defendant.
+There is also an appeal from an order denying a motion for a new trial made upon the minutes of the court, but the case contains no order.
+Neither does it contain a certificate that all the evidence, or all bearing upon the questions sought to be reviewed, has heen included-in the case.
+Under such circumstances, we can only consider the questions presented by the exceptions taken upon the trial. (Lewis v. Merritt, 42 Hun, 161; Porter v. Smith, 107 N. Y. 531; Murphy v. Board of Education, 53 Hun, 171.)
+Tlie omission to enter an order denying a motion made upon the minutes of the court to set aside the verdict, and the failure to insert a certificate or stipulation that the case contains all the evidence, is equivalent to an admission that the verdict is sustained by the evidence and that the order is sustained hy the evidence.
+The only exception requiring attention is the exception to the denial of tlie motion made at the close of the plantiff’s case to dismiss the complaint on the ground that the plaintiff had made out no cause of action.
+It will he observed that the ground of the motion is not specifically stated, and there is some question respecting its sufficiency in that respect to raise the question intended to be presented thereby.
+The rule of law upon, the subject requires the defendant to specify the ground of his motion, and where a defendant moves to dismiss a complaint without specifying any ground, and the motion is denied, he cannot maintain his exception on appeal, provided the failure of proof could have been supplied. (Haines v. N. Y. C. & H. R. R. R: Co., 145 N. Y. 238.)
+In this case the ground stated was that the plaintiff had made out no cause of action, and although the statement is a general one, yet it refers to the insufficiency of the proof to charge the defendant with negligence. It is not like the case of a failure to prove a demand or a notice of which proof might have been supplied if attention had been directed to the omission.
+We are, therefore, inclined to examine the case to determine whether the denial of the motion was erroneous.
+The facts which had been developed upon the trial when the plaintiff rested her case were these :
+Hudson avenue is one of the outlying streets in the village of Peekskill. It leads east and west with an ascending grade towards the east, and is crossed by Washington street and 'Ring-gold street, which are about 500 feet apart, the former being west of the latter.
+The first house on the south side of the avenue was Reardon’s, about 220 feet east of the former street. The next house was that of Scribner, the mother of the plaintiff.
+There was no sidevyalk on the south side of the avenue west of Reardon’s house, and the surface of the ground was in its natural condition. There was a path on the south side from Reardon’s west to Washington street, “ if,” as one of the witnesses said, “ you could find it.” On the 1st day of May, 1895, a contractor working-on behalf of the village commenced to grade the avenue, and ran a furrow with a plow along wliat was probably intended to be the north side of the sidewalk on the southerly side of the avenue in the neighborhood of Reardon’s house. The witnesses differed about the depth of the furrow, but it must have been, of course, less than twelve inches. The earth was left undisturbed south of that furrow.
+On the evening of the 1st day of May, 1895, the plaintiff, with her two daughters and a Mr. Fox, went to the house of her mother at about eight o’clock in the evening. They walked up on the north side of the avenue, which was better than the south side. While at her mother’s house there came a violent rain shower accompanied with lightning and thunder, and while the storm was. yet prevailing the plaintiff and her two daughters and Fox started out of the house to go to her home.
+Instead of crossing the avenue and going west on the north side,, the same way they had come, they started west on the south side of the avenue, along the path, and, after proceeding a short distance, the plaintiff turned to cross the street and fell between two trees, into the furrow that had been made that morning and fractured her knee pan.
+Are these facts and circumstances sufficient to charge the defendant with negligence, and to prove the plaintiff’s freedom therefrom ?
+In the administration of the law, negligence is the omission of duty, and, under well-settled principles, it is the duty of municipal corporations to exercise care and vigilance to maintain the public streets and avenues within their borders in a safe and suitable condition for public travel, and they must be proved guilty of a neglect of that duty before they can be rendered liable for injuries resulting” from their condition.
+Ordinary care is all the law requires, and extraordinary diligence is not exacted.
+An essential element of negligence is knowledge of facts which rendered foresight possible,'«and the circumstances necessary to be known before the liability for the consequences of an act or omission will be imposed must be such as would lead a prudent man to apprehend danger. All are bound to foresee -what experience will teach them is likely to follow from the existence of a given state of facts. In a given case, action must be dictated by experience.
+Where there is no knowledge of facts which would lead to an apprehension of danger, there can be no imputation of foresight or blameworthiness, and these two ingredients are necessary to constitute negligence.
+It now remains for us to apjffy the foregoing rules to the facts of this case. Ilere we have an avenue in a state of nature, with an unfrequented path on each side. The path on the north side was better than the one on the south side. It is within the discretion of the municipal authorities to make improvements in streets and avenues within their domain, or. to omit. them. In this case, no sidewalk liad, been made or ordered made in this avenue, and for a failure to exercise the power to construct and regulate it, no civil action is maintainable. (Mills v. City of Brooklyn, 32 N. Y. 489; Danaher v. City of Brooktyn, 4 N. Y. Supp. 312; Harrigan v. City of Brooklyn, 16 id. 743.)
+A municipal corporation may determine for itself the extent of the improvements it will make. In this case the authorities had made no plan for a sidewalk, and so had never invited the public to use the path in question as such except at their own risk. There were neither excavations nor obstructions in the avenue in any place. A plow had been run along the south side of the avenue on the day of the accident, but the earth remained untouched and soft.
+Under such circumstances, it is not too much to say that no human foresight could have anticipated such an accident as befell the plaintiff. She did not fall by reason of any defect in the path over which she was walking. That was free from obstruction. It was a good way of its sort, and, as we have already seen, no civil liability arises from the failure of the municipality to provide a better kind.
+The plaintiff, therefore, has no legitimate right to complain of the inaction of the corporation, inasmuch as her injury did not result from anj- omission of duty which the law imposed upon it. No diligence or vigilance of the corporate authorities would have arrested the fall of the plaintiff or have averted her injury. If it be true that the avenue was not lighted, it is eqnally true that there was no legal obligation to light it. There was, however, an electric light at "Washington street 150 feet from the place where the plaintiff fell.
+Turning now to the conduct of the plaintiff, we find it not only careless but heedless. She went out unnecessarily into the darkness of a fearful night, and instead of returning the way by which she went on the north side of the avenue, and which she knew to be safe, she immediately started west on the south side of the avenue, upon a narrow path. More than that, and as if to augment the perils of her environment, she turned aside and started to pass over the avenue where there was no crossing and where she knew the street had been torn up that day.
+She unnecessarily left the path over which her companions had passed in safety in advance of her, and turned upon an untrodden way between buslies and trees, although it was so dark that she could not see where she wras stepping.
+There was no instant from the time the plaintiff left her mother’s house on that unfortunate night that she was not in imminent and impending danger; and she encountered it all voluntarily and unnecessarily.
+Her willful encounter of the perils not only contributed to the injury she sustained, but it was the entire cause of all her woes.
+The case of McCabe v. The City of Buffalo (18 N. Y. Supp. 389) is quite analogous to this. It there appeared that the plaintiff, who was a woman, liad before dark passed a portion of a street which was undergoing repairs, and seeing that it was torn up, and that there was no pavement or crosswalk, passed around the same upon planks temporarily laid down, and, returning in the dark, attempted to cross the unpaved space and was injured.
+It was there held that it was a ease in which the plaintiff was denied the right to presume that the crossing outside of the planks was in a safe condition, because she had before observed what its condition was, and that she was guilty of contributory negligence.
+In no view of this case is the plaintiff entitled to a recovery, and the judgment must be reversed and a new trial granted, with costs to abide the event.
+Brown, P. J., concurred; Pratt, J., dissented.
+Judgment reversed and a new trial granted, with costs to abide the event.
