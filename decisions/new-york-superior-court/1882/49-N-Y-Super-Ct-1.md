@@ -1,0 +1,28 @@
+---
+court: "New York Superior Court"
+decided: "1882-12-30"
+citations: ["17 Jones & S. 1", "49 N.Y. Super. Ct. 1"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM B. PARKER, Appellant, v. RICHARD C. SPEER, Respondent."]
+source_url: "https://static.case.law/ny-super-ct/49/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1675414
+---
+
+# Parker v. Speer
+
+## Majority (By the Court.—Sedgwick, Ch. J.)
+
+By the Court.—Sedgwick, Ch. J.
+—The current of precedent and of opinion among lawyers, is in favor of the position that, in actions in tort, under the conditions prescribed by the Code, when there is judgment for costs in favor of the defendant, the plaintiff may be taken by execution against his person. I of course accede to this and its consequences. If it were a new question, I should have come to a different conclusion.
+The answer to the question rests solely upon the construction of the Code. In that is' found the only authority to issue executions, and it gives all the contingencies upon which they may be issued.
+In section 288 of the Code of Civil Procedure, it is declared, that “if the action be one in which the defendant might have been arrested,” under preceding sections, “an execution against the person of the judgment debtor may be issued.” In construing this it was said that in such an action, a plaintiff failing to recover might be the judgment debtor, and therefore he could be arrested.
+In the next sentence, however, it is said, “ but no execution shall issue against the person of a judgment debtor unless an order of arrest has been served as in this section provided, or unless the complaint contains a statement of facts showing one or more” causes of arrest. To my mind, the words “judgment debtor” here intend the defendant, on whom only an order of arrest can be served. Were the words in the first sentence intended to mean more than the words in the second sentence ?
+The employment of the words in the first sentence seems to have arisen in this wise. The framer of the section began with a description of the action in which it was intended to provide for an execution against the person. It was an action in which, according to the previous section, an arrest might be made. At the beginning of the action there was no judgment debtor. Only a defendant as such could be arrested. When, however, an execution might be issued, the defendant had become a judgment debtor. He was so designated, instead of being called defendant, that it might be intimated that the execution was to issue against the defendant, only when judgment had peen obtained against him.
+Clearly the policy of the statute regarded more largely the cases of defendants against whom judgment had been obtained for fraud or other wrongs. The considerations that pertained to plaintiffs in unsuccessful actions in tort, were of a minor or subordinate kind, and too, of a kind that differed widely from those that regarded defendants. The idea would seem to be this: although a judgment for costs against a plaintiff j is in the nature of a contract debt, and imprisonment on account of contract debts has been abolished, yet if a plaintiff endeavors to obtain a judgment which will justify his issuing execution against the person and is unsuccessful, let him suffer what he attempted to inflict, whether he was free from malice or acted upon probable cause or not, unless he can pay the costs. This idea is embodied in the words “judgment debtor,” which means partly defendant, and partly plaintiff. It seems to me, that the words should be confined to such judgment debtors as are defendants, on the principle of the maxim, “ad ea qucs frequentius aecidunt jura adaptanturP This maxim is applicable to statutes as well as to the unwritten law (Broome's Maxims, 42).
+I think this view is made somewhat stronger by a construction of the present Code of Civil Procedure, which controlled rights to issue execution against the person, at the time of the present case. Section 1487 of that Code says, “an execution against the person, of the judgment debtor may be issued in two cases. First, where the plaintiff’s right to arrest the defendant depends upon the'nature of the action. It may be assumed that these words justify the same position that was taken under the old Code, that the judgment debtor intended, might be the plaintiff. Still, I think that more doubtful under the language of the present Code. The second class is in any other case where an order of arrest has been granted and executed in the action, and if it was executed against the judgment debtor, where it has not been vacated. It would' seem to me to be quite clear, that as the judgment debtor of this clause can only be a defendant, the same thing was meant by the judgment debtor of the introductory clause. It will be observed that the codifier did not think it worth while to make the discrimination that ah order of arrest must be executed while the party is but a defendant, and before judgment is entered against him.
+It has been unnecessary to state these personal opinions, for I believe the new Code did not intend to change the substance of the Code of Procedure on this point, and the authorities have construed the latter to authorize, in certain cases, the arrest of. a plaintiff under execution. If such be the law, the conclusion seems to be inevitable that the plaintiff was lawfully arrested under the execution issued by the attorney who had a lien upon the judgment for the amount of costs recovered.
+Order affirmed, with $10 costs.
+Freedman, J., concurred.
