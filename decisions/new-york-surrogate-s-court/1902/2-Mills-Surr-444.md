@@ -1,0 +1,34 @@
+---
+court: "New York Surrogate's Court"
+decided: "1902-01"
+citations: ["2 Mills Surr. 444", "37 Misc. 54"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement of the Account of William T. Rogers, as Executor, etc., of Daniel McCollum, Deceased."]
+source_url: "https://static.case.law/mills-surr/2/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8825284
+cites_cases: ["109 N. Y. 333", "169 N. Y. 153", "60 App. Div. 438", "8 App. Div. 362"]
+---
+
+# In re the Judicial Settlement of the Account of Rogers
+
+## Majority (Church, S.)
+
+Church, S.
+— This is a. motion to confirm a referee’s report made upon a hearing of objections to the final account of an executor.
+The referee herein has evidently given to this case very careful attention, and in support of his report has written an opinion which shows a very careful study of both the facts and law covering the matter, and, in my judgment, his report should be confirmed.
+The question involved in the confirmation of this report is mainly a question of law, and arises upon the following facts:
+By the will of tbe deceased be gave tbe income of bis entire property, real and personal, to bis wife, Elizabeth, during ber natural life, and upon bis wife’s death, after making certain minor bequests to some grandchildren, all of tbe residue of his estate was given to bis '.six children.
+A simple power of sale of bis real estate was given to bis executors, but no trust as to tbe real estate was created by tbe will in any way. Tbe testator named bis widow, Elizabeth, and bis son-in-law, William T. Rogers, executors of such will. Tbe testator at tbe time of bis death was conducting a coal business, in copartnership with bis two nephews, and in tbe inventory of personal estate, which was duly made by tbe appraisers, “The testator’s interest in tbe firm of Daniel McCol-lum & Co. was appraised at $40,395.93.” After tbe testator’s death tbe executors did not require the surviving partners to immediately pay this appraised value, but allowed the partners to continue tbe business for a period of two years and five months, at which time a final settlement and adjustment was bad between tbe executors and tbe surviving partners, in which tbe surviving partners paid to tbe executors tbe full appraised value of tbe interest of said testator in such co-partnership. At tbe time of this settlement it appeared that during tbe continuance of tbe business by tbe surviving partners, previous to making this payment to tbe executors, the interest of tbe testator in such business bad made a profit of $20,752.25, and this income or profit was also paid to tbe executors. The executors at once drew' a check paying this latter sum to tbe widow of tbe testator, treating tbe same as an income of tbe estate to which she was entitled under tbe will.
+Tbe widow, Elizabeth McCollum, has since died.
+Two of tbe remaindermen object to this payment by tbe executors, and contend that this should be treated as an increase in the estate, and that tbe widow was not entitled to any portion of tbe same. It has been decided that where a devise is made of tbe income of any estate tbat tbe income is to be reckoned as commencing immediately upon tbe .testator’s death. Matter of Slocum, 60 App. Div. 438; affd., 169 N. Y. 153.
+In making tbis provision in favor of tbe widow, tbe testator must be presumed to bave bad tbis intention in mind, and to bave, therefore, intended that immediately upon bis death bis widow would bave means of support, and in considering tbe respective rights of tbe life-tenant, and tbe remaindermen, tbe intent of tbe testator is to be given paramount effect. Where tbe income of property is given to a life-tenant, it is immaterial whether such income is in the nature of rents, ordinary interest on money, or profits from some particular or special enterprise; tbe life-tenant is, nevertheless, entitled to tbe same. See Century Dictionary, definition of income.
+Tbe counsel for tbe remaindermen contesting this account bave objected very strongly to^ tbis payment, quoting tbe familiar principle tbat where executors speculated with a fund they are not allowed to derive tbe profit therefrom. Tbe correctness of their proposition of law and tbe necessity of tbe strict upholding of same is not disputed, but, as I view tbe matter, it has no application to tbe circumstances of tbe present case. In tbe first place it is to be noted: The two executors did not take any of tbe. funds of tbe estate and invest it in any speculative business to seek to obtain tbe profits thereof. Even if tbis business bad not been a copartnership, and tbe executors bad, in their judgment, carried it on until they could dispose of tbe same, and then p-ay the profits to tbe life-tenant, I doubt if this principle would apply, unless there were special circumstances which would make them liable, as tbe benefits would not be derived by tbe trustees, but would go to the life-tenant. But tbat is not the situation of tbe case at bar.
+This interest of tbe testator was in a co-partnership. The principle governing tbe rights of a decedent’s representative in copartnership property are well known and correctly stated in Parsons on Partnerships, 344: “The death of a partner invests the surviving partners with the exclusive right of possession and management of the whole partnership property and business, but only for the purpose of selling and closing the same.” Williams v. Whedon, 109 N. Y. 333. Therefore, the executors had no power to carry on this business, or anything to say in the possession or management of it, except that they could require a sale and accounting by the surviving copartners. It is a matter of common business knowledge that time should be allowed to the surviving partners in order to sell out and close the business, and there is not a scintilla of proof showing that the time allowed by these executors was unreasonable or improper.
+On the contrary the fact that not only has not a dollar of loss accrued to the remaindermen, but that a handsome profit has been made for the life-tenant justifies the wisdom of the executors in not unduly pushing the surviving partners. It appears also that the deceased had suggested to this executor the propriety of continuing this business.
+The accounting executor has not, directly or indirectly, profited by this arrangement or attempted to profit by it to the extent of a penny, and his absolute good faith and good intention in the matter cannot be questioned.
+The inventoried value of this co-partnership interest is also in no way assailed.
+The motion to confirm the report of the referee is granted.
+Motion granted.
