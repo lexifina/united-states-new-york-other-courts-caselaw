@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1852-06"
+citations: ["7 How. Pr. 210"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Herkimer County Mutual Insurance Company agt. Fuller."]
+source_url: "https://static.case.law/how-pr/7/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2193231
+---
+
+# Herkimer County Mutual Insurance v. Fuller
+
+## Majority (Harris, Justice.)
+
+Harris, Justice.
+It was insisted by the counsel for the plaintiffs, upon the argument, that the directors, having acquired jurisdiction by ascertaining the loss, acted judicially in making their assessment; that it was for them to determine whether an assessment was necessary, and if it was, upon what members it should be made, and how much should be paid by each. But I do not so understand the requirements of the plaintiffs’ charter. The 8th section of the act to incorporate the Jefferson Mutual Insurance Company (Sess. Laws 1836, p. 44), the provisions of which are adopted in the plaintiffs’ charter (Sess. Laws 1836, p. 197) declares that every member of the company shall be bound to pay for losses, &c. “ in proportion to the amount of his deposit note;” and the 10th section provides that the directors, having ascertained the loss, “ shall settle and determine the sums to be paid by the several members of the company, as their respective proportion of such loss,-” and declares that “ the sum to be paid by each member shall always be in proportion to the original amount of his deposit note or notes.”
+In pursuance of their duty, as thus prescribed, the directors, having ascertained that the company is liable for a loss, and that the company have not funds sufficient to pay such loss, are first to ascertain who were members of the company at the time the loss occurred, and having ascertained this, their assessment is to be made upon each, in the proportion which the amount of his deposit note bears to the aggregate amount of all the deposit notes. I can not agree with the plaintiffs’ counsel that the directors have a right to take into consideration the length of time any person has been a member, in determining the amount of his assessment, or whether he shall be assesed at all. Whether he has been a member for a day or a year, and whatever the amount he has previously paid, but one rule of assessment is prescribed. It is the proportion which his deposit note bears to the amount of the deposit notes of all the members. If, therefore, the directors have, as the defendant has alleged in his answer, “omitted to assess the deposit notes of divers persons, then being members and liable for their proportions of the losses,” and have thus increased the amount of the defendant’s assessment, they have done what, I think, they had no authority for doing, and the assessment is invalid. So too, if they have included in the assessment the amount of previous assessments, from the payment of which the parties assessed had been released, it seems to me, very clear, that they transcended the power conferred upon them by their act of incorporation.
+The allegations in that part of the answer to which this motion applies, are, therefore, not irrelevant. On the contrary, unless I am mistaken in the view I have taken of the provisions of the plaintiffs’ charter, in respect to the power of the directors to make assessments, these allegations, if sustained at the trial, will prove fatal to the plaintiffs’ action. The motion must, therefore, be denied with $7 costs.
