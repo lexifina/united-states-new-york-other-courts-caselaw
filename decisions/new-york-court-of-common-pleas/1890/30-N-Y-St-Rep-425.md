@@ -1,0 +1,25 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1890-04-07"
+citations: ["30 N.Y. St. Rep. 425", "16 Daly (N.Y.) 166", "9 N.Y.S. 492"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William C. Shailer, as Rec’r, App’lt, v. George Morgan, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669655
+cites_cases: ["14 Daly 110", "14 Daly, 110", "3 N. Y. St. Rep. 608"]
+---
+
+# Shailer v. Morgan
+
+## Majority (Bischoff, J.)
+
+Bischoff, J.
+The N. H. Leadbetter, Limited, was a domestic corporation engaged in the livery and hack business in the city of New York, of which plaintiff was appointed receiver on or about November 1, 1889. At the time of the appointment of the receiver defendant was indebted to the corporation in the sum of $59.63 for the hire of horses, etc., and this action was brought for the recovery of that indebtedness. Bor the purposes of the trial defendant conceded the facts respecting his indebtedness in the amount claimed, but contended that prior to the appointment of the receiver he had paid the same. In support of the defense of payment defendant established the following facts upon the trial: On October 10, 1889, defendant at the office of the corporation met Harry Leadbetter, the managing employee of it, who, at the time, was individually indebted to defendant for furniture sold and delivered to him in the sum of $50.75, and referring to his (defendant’s) indebtedness to the corporation, the defendant produced the sum of $50.75, and placing the money on a desk requested Harry Leadbetter to apply the same in part payment of defendant’s said indebtedness, at the same time intimating to Lead-better that payment of the latter’s debt to defendant was desired. It will be noticed here that the money actually produced was exactly equal to the amount of Leadbetter’s debt to the defendant. Leadbetter took the money, counted it, and thereupon returned it to defendant with the request that defendant should apply the amount in satisfaction of Leadbetter’s debt and promising that defendant’s debt to the corporation should be credited with an equal amount in part payment. With this understanding defendant accepted the return of the money. On the trial the right of Leadbetter to receive payment of money due to the corporation was not questioned, and the trial justice rendered judgment for defendant. Plaintiff claiming the facts to be insufficient to prove payment appeals to the court.
+Whether or not the production of the money by the defendant, and the passing thereof to Leadbetter, was intended by both parties as a payment on account of defendant’s indebtedness to the corporation, or only as a subterfuge to lend plausibility to the claim of payment, and whether or not defendant, at the time of such alleged payment had surrendered all dominion and control over the money produced so that it became the property of the corporation and subject to its possession and control, are facts to be ascertained from the conduct of the parties and the surrounding circumstances as shown upon the trial. This action having been tried before the justice, without a jury, it was applicable to them, and judgment having been rendered for defendant, it must be assumed, for the purpose of this appeal, that every fact in support of which there is some evidence and which is necessary to sustain the judgment, was found by the justice. It may well be that upon the same testimony the appellate court would have arrived at a conclusion concerning the intention of the parties differing from that of the justice, but that alone is not sufficient to warrant a reversal. Fixam v. Brown, 3 N. Y. State Rep., 608.
+It must be accepted as established, therefore, that the sum paid by defendant was paid by him to, and received by Leadbetter as the authorized agent or representative of the corporation, in part payment of defendant’s indebtedness, and the money paid thereby became the property of the corporation. A subsequent misappropriation or conversion of such money by the agent or employee of the corporation, although with defendant’s knowledge and participation, cannot bperate to rescind or disaffirm the payment. Whatever redress plaintiff may have against defendant for his participation in the application of the property of the corporation to the payment of Leadbetter’s individual debt, should be sought in the proper action.
+The trial justice erred, however, in awarding judgment for defendant A reference to the pleadings and proofs will show that plaintiff’s claim was fifty-nine dollars and sixty-five cents, while the payment claimed by defendant was but fifty dollars and seventy-five cents, so that for the excess of his claim plaintiff should have had judgment against defendant.
+Judgment reversed, with costs, and a new trial ordered.
+Larremore, Gh. J., concurs.
