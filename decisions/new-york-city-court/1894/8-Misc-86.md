@@ -1,0 +1,38 @@
+---
+court: "New York City Court"
+decided: "1894-04"
+citations: ["8 Misc. 86"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Schwabeland et al., Respondents, v. Herman Buchler et al., Appellants."]
+source_url: "https://static.case.law/misc/8/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 699189
+cites_cases: ["140 N. Y. 593"]
+---
+
+# Schwabeland v. Buchler
+
+## Majority (Conlan, J.)
+
+Conlan, J.
+This is an action of replevin originally brought, against John J. Gorman, as sheriff of the city and county of New York, and the present defendants were afterwards substituted, they being indemnitors. '
+The plaintiffs seek to recover for forty-six tubs of butter,, 172 cases of eggs and four boxes of cigars, alleged to have-been fraudulently obtained by one Krieger from them in the month of April, 1892. While the goods in question were in the possession of Krieger, they were taken by the sheriff, as. alleged in the answer, on executions against Krieger.
+The goods were demanded of the sheriff and refused, and this action followed, April 22, 1892.
+It appears from the evidence that in January, 1892, Krieger represented to the plaintiffs that he was a person of means and had property which he described to the plaintiffs’ credit clerk, Henry Schlebohm, with whom he had the conversation; that he was perfectly reliable, and that all the parties he owed anything to were the plaintiffs and the Grliinm Brothers; that he had money in the State Bank and $2,000 in the savings bank which he was thinking of investing in real estate.
+The witness says the first representations were made about the tenth or fifteenth of January, and the last about March 26,1892, and relying on these representations, he gave instructions to the salesman to sell to Krieger, and he afterwards obtained goods from the plaintiffs to the amount of $1,212.60 in April on credit of ten days. Krieger, in January, 1892, owed the plaintiffs $700, and in March $285, of which $200 was paid by check in the latter month, leaving a balance of eighty-five dollars due plaintiffs at the time the credit of $1,212.60 was obtained.
+It appears further that Krieger confessed judgment on the 22d of April, 1892, in favor of Buckler, one of the defendants, for the sum of $905, and on the same day he also confessed judgment in favor of one Schneifer for the further sum of $760, within three days after he had obtained a considerable amount of goods from the plaintiffs upon the representations that he had made to their credit clerk.
+It is admitted that the only question involved is one of fraud and false representations.
+Upon the trial the defendants decided "not to put in any evidence and asked to go before the jury on the question of fraud, which request was granted.
+We are unable to find any reason in the rulings of the trial judge which would call for a reversal of the judgment.
+The plaintiffs appear to us to have made out their case by clear proof of fraudulent representations on the part of Krieger, whereby they were induced to part with their property in April, 1892, and the defendants offer no evidence in explanation of the conduct of Krieger in making the representations and obtaining this credit.
+Krieger was not called as a witness nor his absence in any way accounted for, and the introduction in evidence of the two judgments against Krieger confessed April 22, 1892, is a sufficient refutation of the truth of his statements to the plaintiffs’ credit clerk and upon which the plaintiffs relied in parting with their property.
+The act of confession was to the plaintiffs an available reason for rescission of the contract of sale and an immediate right of action, as the consideration for the judgments appears to have been an indebtedness other than to the plaintiffs or Glimm existing at the time of the representations by Krieger to the plaintiffs’ credit clerk, and not disclosed, but continued and very materially added to, down to and during the time of the purchases made by Krieger of the olaintiffs in April, 1892.
+This case is distinguished from that of Wise v. Grant, 140 N. Y. 593. In that case it was alleged and proven that the sheriff levied upon the goods under an attachment against the fraudulent vendee before the sale was rescinded, and there was notice before rescission. And the court held that replevin would not lie because the fraudulent vendee had a leviable interest which had been attached before rescission.
+But there was no proof whatever by the defendants as to how the sheriff had acquired possession of the property from Krieger, and it was not proven that he acquired the right to possession by either attachment or execution, one of which conditions must necessarily appear; for all that appears in the case he might have been a naked trespasser acting without the warrant of any legal authority; the allegation in the answer that he took the property by virtue of certain executions proves nothing.
+The sheriff was in possession without notice to the plaintiffs as to how he became so, and the demand upon him was sufficient for the purposes of replevin.
+The motion for nonsuit was properly denied.
+Ko errors were committed on the trial, and the judgment should be affirmed, with costs.
+Newburger, J., concurs.
+Judgment affirmed, with costs.
