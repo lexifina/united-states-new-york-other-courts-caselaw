@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1895-07"
-citations: ["96 N.Y. Sup. Ct. 82", "96 N.Y. Sup. Ct. 259"]
+decided_precision: "month"
+citations: ["96 N.Y. Sup. Ct. 82"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
