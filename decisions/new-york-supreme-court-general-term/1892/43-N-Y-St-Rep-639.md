@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-03-15"
+citations: ["43 N.Y. St. Rep. 639"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George S. Wallace, App’lt, v. The Central Vermont Railroad Company, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/43/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2077655
+cites_cases: ["116 N. Y., 628", "125 N. Y., 526", "27 St. Rep., 760", "35 St. Rep., 814", "36 St. Rep., 755", "59 Hun, 225"]
+---
+
+# Wallace v. Central Vermont Railroad
+
+## Majority (Herrick, J.)
+
+Herrick, J.
+This is an appeal from a judgment of nonsuit entered upon. an order made at the close of the appellant’s evidence, upon the trial.
+The action is to recover damages for injuries sustained by the appellant by reason of the alleged negligence of the respondent.
+The appellant was in the employ of the respondent as a freight brakeman, and received the injuries complained of between ten and eleven o’clock in the forenoon on the 12th day of June, 1889, about one mile westerly from the village of Chateaugay, in Clinton county.
+At the point where the accident occurred the road of defendant is crossed by a bridge, which is about sixteen feet above the rails of respondent’s road. Before reaching the bridge there is a reverse course upon a down grade, where trains were liable to break apart. Between fifty and sixty feet from the bridge is-what is called a tell-tale, or tickler, to warn brakemen of the proximity of the bridge. It is constructed of an upright upon each side of the road, a pole running across the road upon the up rights, and from such pole a number of strands of wire are suspended. At the time of the accident there is evidence showing that some of these wires had become twisted and displaced, and it is contended on the part of the appellant that thereby the distance between such hanging wires had become so great that it was possible for a person standing upon the top of the cars to pass between such wires without being touched, and he says that prior to the accident he had not noticed the ticklers or been'warned by them. The appellant knew 'of the bridge and had passed ■under it upward of thirty trips.
+At the time of the accident the train consisted of fifty-four cars and one engine, and there was one brakeman besides the •appellant.
+It was the duty of the appellant when the train was in motion to be on top of the cars to respond to any call to put on the brakes, and to keep watch of the train and see that it did not part and run together, and to be in such a position' that if such an accident occurred he could signal the engineer of the train. As the train.approached the bridge on the down grade over the reverse ■curve, going at the rate of from twelve to fifteen miles an hour, .the appellant was on the tenth car from the engine, looking towards the rear end of the train and with his back to the bridge, leaning forward a little with his hands on his knees. The car upon which he stood was about twelve feet in height and the respondent himself is five feet ten inches in height. While in the position ■described, watching the rear of the train to see that it did not break apart, the appellant reached the bridge, .was struck by it, and rendered insensible, his skull fractured and his shoulder dislocated.
+The appellant on the trial testified that he was not looking out for the bridge on the occasion when he was hurt; that he was attending to other matters; that he had forgotten about it.
+For the purpose of this appeal it would be profitless to discuss the question as to whether there was negligence on the part of the respondent; if the appellant was not free from contributory negligence, the fact that respondent was negligent will not avail him.
+The appellant was in the ordinary discharge of his duty; he had come to a part of the road where from its perilous condition •■added watchfulness was needed on his part; at the same time that fact was also a warning to him that he was approaching a point of danger and notice to him to prepare for it; he knew of the existence of the bridge, where it was located, and knew that it was a low bridge; he had passed under it many times before on the tops of cars, yet he approached it standing up and with his back towards it. It could not be that he did this relying upon being warned by the ticklers or tell tales, because he says that prior to that time he had never noticed them, and had never been struck by them at the bridge before. It was, therefore, as to him as if no ticklers or tell tales were - in fact there, and “it was his duty to use due care and caution in approaching the bridge to avoid injury from it.” Fitzgerald v. N. Y. C. & H. R. R. R. Co., 59 Hun, 225; 36 St. Rep., 755.
+The fact that he had forgotten about the bridge does not relieve him from the charge of contributory negligence any more than the forgetfulness of a railway officer to perform his duty -would relieve a railroad from responsibility for resulting injuries.
+I do not mean to say that forgetfulness may not occur under such circumstances as to relieve the person forgetting from the ■charge of want of due care on his part, but in this case he was in the ordinary discharge of his duty, the road was in its usual condition, there was nothing to cause excitement, hurry or confusion, and he must be held to have assumed the risks incidental to a hazardous employment, and of the danger arising from an “ open, ■visible structure known to him, or of which he must have known had he exercised ordinary care and observation.” Williams v. D., L. & W. R. R. Co., 116 N. Y., 628, 27 St. Rep., 760.
+When it is held that pedestrians crossing a railroad must, in "the absence of circumstances excusing it, look in each direction to •apprise himself of approaching danger, and cannot omit that precaution in reliance upon the railroad company to perform its duty to give notice of approaching trains, Rodrian v. N. Y., N. H. & H. R. R. Co., 125 N. Y., 526, 35 St. Rep., 814, it seems to me .not too much to say that a railroad employee who takes the ordinary risks of his employment, and who knows of the existence of a structure of the kind in question, has passed under it many times, should, in approaching it, keep his eyes open and his senses ■about him, and should not in broad daylight rush upon it, standing up with his back towards it, and yet be held to have exercised ■due care and caution.
+The judgment and order appealed from should be affirmed, with costs and with printing disbursements.
+Putnam, J., concurs, Mayham, P. J., not sitting.
