@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-01-10"
+citations: ["29 N.Y. St. Rep. 58"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of a Paper Propounded as the Last Will, etc., of John Frederick Eilers, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0058-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664589
+cites_cases: ["88 N. Y., 370", "95 N. Y., 494"]
+---
+
+# In re Paper Propounded as the Last Will of Eilers
+
+## Majority (Brady, J.)
+
+Brady, J.
+The learned surrogate disposed of the issues raised in this contest in a very brief opinion, but embracing all that was necessary to be said. The objections of the contestants were two, namely, a failure to comply with the provisions of the statute upon the execution of the alleged will, and undue influence exercised over the testator by his wife and sole devisee. The testator was shown to be a man of strong mind.
+This mental condition was not in any way assailed. He called upon a lawyer who had known him for years and asked him to draw his will. It was done while the testator sat at his side. When asked to whom he wanted to give his property he said, “I would like to give the property to my wife,” and he gave as a reason that he and his wife had earned the money together and saved it together. The will was then made, it appears, for the reason that he was going to Europe, and thought it advisable to make provision in case of accident. The witnesses who became such, all being present, did so at his request after the instrument was signed and after his declaration that it was his last will. All the evidence considered leaves no doubt that the statute was fully complied with, as stated by the learned surrogate in his opinion. The proofs were more conclusive and much stronger than in Lane v. Lane, 95 N. Y., 494, and Matter of Beckett, 108 id., 167, and it is equally clear that the charge of undue influence is wholly unsustained. Indeed, it may be justly said that the record shows no effort on the part of his wife to control the testator in the disposition of his property by any means undue or otherwise, and none which would justify the finding that she could have done so had she made the effort.
+The influence to be available must be such as to overpower and. subject the will of the testator, thus producing a disposition of property which the testator would not have made if left freely to act his own pleasure and this kind of influence must be proved like any other fact. Marx v. McGlynn, 88 N. Y., 370. His will was indeed a voluntary recognition of his wife’s services and economy most natural and most just and was an act which his relatives only would combine as they did to overcome.
+Assuming that she did not like his relatives, that was not a source of domestic trouble and he may have considered her quite justified in her feelings toward them.
+Such an incident is not so uncommon as to create surprise even in a court of j ustice, nor does the fact that a man dislikes his own relatives. Such an incident as that is not uncommon. It may be an unfortunate phase of life, but human affections are variable if not very uncertain, and may be diverted by circumstances which when necessary to be invoked can readily be called into view.
+His reason for the gift to his wife is most satisfactory and the act, especially when resting upon such a basis, should be sustained and cherished. It may be that writing thus much is not necessary but the learned counsel for the appellants has so earnestly presented his appeal that it was deemed proper to do it.
+The decree should be affirmed, with costs.
+Van Brunt, P. J., and Daniels, J., concur.
