@@ -1,0 +1,34 @@
+---
+court: "New York Surrogate's Court"
+decided: "1899-03"
+citations: ["1 Mills Surr. 34"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of Assessing and Determining the Transfer Tax on the Estate of Philip Becker, Deceased."]
+source_url: "https://static.case.law/mills-surr/1/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1064127
+cites_cases: ["104 N. Y. 317", "152 N. Y. 102", "90 Hun, 166"]
+---
+
+# In re Assessing & Determining the Transfer Tax on the Estate of Becker
+
+## Majority (Marcus, S.)
+
+Marcus, S.
+This is an appeal by the comptroller of- the State of Hew York, and the treasurer of Erie county, Hew York, from the report of the transfer tax appraiser, fixing, assessing and determining the transfer tax upon the property of the above-named deceased, on the following grounds:
+“ That the deduction made from the estate before assessing the transfer tax amounting to $10,000, the estimated amount of the national war revenue tax, is an erroneous and improper deduction, which should not be allowed.”
+Upon the part of the executors and trustees, the point is raised that the appraiser has failed to deduct and allow the estimated commissions of the trustees under the will.
+As to the appeal by the comptroller and the county treasurer, it may safely be said that the Transfer Tax Act is the exercise of power which every State having sovereignty possesses of regulating the manner and terms upon which property, real and personal, within its dominion, may be transmitted by last will and testament, or by inheritance; and of prescribing who shall and who shall not be capable of taking it, and upon what conditions.
+It may annex to such transmission those conditions that its interests or policy require.
+The percentage fixed by the State for its own use cannot be (diminished even by the law of the United States.
+The title and possession of property, when transmitted upon the death of the owner, is by the consent of the State, not the United States. The State has the power to say who shall and who shall not take, and also the conditions which is desires to annex.
+“ Upon the death of an individual, his estate reverts to the State, and inheritance and testamentary dispositions are the ■exercises of the sovereign power. The State has the absolute ■dominion over the estate, and taxes can be levied to the extent -of that dominion.” Matter of Moore, 90 Hun, 166.
+The State being the owner, may, if it thinks proper, direct that the property shall be taken entirely for its own use. This power clearly does not reside in the national government. It, therefore, seems clear that with such authority and absolute -control, its policy as defined in this act taxing successions, and the percentage fixed for its own use cannot be diminished by first subtracting the tax fixed by the United States for war revenues.
+Whether the estimated commissions of a trustee should properly have been deducted by the transfer tax appraiser in fixing •the net value of the estate of the deceased seems to be an open question.
+It has been held in the Matter of Westurn, 152 N. Y. 102, “ The principle that, in administering the statute, debts, commissions and expenses of administration should be deducted in ascertaining taxable values, accords with the general practice and is permitted hy a just construction of the law.”
+There is no doubt as to the correctness of deducting the commissions of an executor or administrator in determining the net value of an estate, but after executors have paid the debts of a deceased, as also the tax to the State, and all other just and proper accounts, collected what is due, their duties, in so far as the State of ¡New York and the other interested parties, apart from those mentioned in a will, are concerned, is at an end.
+When a testator determines after the close of the duties of executors, the property shall be turned over to trustees for the benefit of those ultimately entitled to receive it, it is in the nature of a luxury for the beneficiaries, so that when the testator decides that such beneficiaries are, in his judgment, unable to prudently care for the property until after a particular time has elapsed, or for any other reason, then such a creation on the part of the testator for the protection of the beneficiaries rests between those parties alone, and there is no substantial reason why the State should have the tax diminished in such account.
+It is considered that this is a special tax (Matter of McPherson, 104 N. Y. 317), and should be construed strictly against the State, and realizing that the standing of a trustee to an estate is recognized in importance as equal to that of executors, if not greater; that public policy demands such a plan or arrangement ; that the law of this State likewise recognizes the necessity of trustees, and that the Court of Appeals has held that commissions for administrators should be deducted under a just construction of this law; that the Code provides the amount of commissions to be paid to a trustee as well as to an executor, I am, nevertheless, inclined, although it is conceded that the duties of the executors and trustees in this case are not blended, but separable, to believe that the commissions of trustees form no part of the regular administration of an estate, to put trustees upon a par with executors or administrators so that commissions should be deducted as an expense of' administration, hut that the expense is one to he home by the trust and its beneficiaries, and cannot be deducted to reduce the tax due to the State.
+Decreed accordingly.
