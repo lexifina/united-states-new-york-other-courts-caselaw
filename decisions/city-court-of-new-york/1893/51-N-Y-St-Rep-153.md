@@ -1,0 +1,21 @@
+---
+court: "City Court of New York"
+decided: "1893-02-08"
+citations: ["51 N.Y. St. Rep. 153"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Erastus Crawford, Resp’t, v. Thomas M. Tyng, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/51/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 678241
+---
+
+# Crawford v. Tyng
+
+## Majority (Van Wyck, J.)
+
+Van Wyck, J.
+The plaintiff’s action is for the recovery of $1,000 on contract, and defendant counterclaims on contract for $1,000, the value of his professional services rendered as the attorney of record and counsel for this plaintiff in the action in the supreme court of Mayor, etc., v. Crawford, in which this plaintiff was the defendant. Defendant’s professional services were rendered at the trial of that case at circuit, the hearing on appeal at general term, and on the hearing of the final appeal in the court of appeals. The plaintiff’s most vigorous defenses at trial, to this counterclaim, were that the services were worth nothing because “ any lawyer who had the least skill could have decided that there was no defense ” to that action, and because this defendant “bad acted in bad faith ” in interposing a defense for this plaintiff in that action, and in continuing such defense on appeal first to the general term and then to the court of appeals, which affirmed the' judgment rendered at trial against Crawford.
+The plaintiff, against defendant’s objection and exception, was allowed to substantiate these defenses to the counterclaim by reading in evidence the opinion of Judge Finch, of the court of appeals, upon the decision affirming the judgment in Mayor v. Crawford, and again,against the same objection and exception, his counsel was allowed to incorporate an extract of over 200 words from this same opinion into a hypothetical question put to a lawyer who was on the witness stand as an expert as to the value of services, and upon which he was asked to give his opinion as to the value of the services rendered by defendant. This opinion read in evidence, and the extract from the same incorporated into the hypothetical question, contained Judge Finch’s reasons for the decision, and these reasons as given in the opinion undoubtedly influenced the jury in the verdict returned against the defendant for the full amount claimed by plaintiff; and that they were so influenced it would seem to appear from the following extract of the record: “Defendant’s counsel: I ask you to charge that there is no evidence of bad faith on the part of Mr. Tyng in acting as counsel for Mr. Crawford. The court: I will leave that to the jury because of the opinion of the court of appeals. Defendant exce¡Dts. Defendant’s counsel: I ask your honor to charge, that the court of appeals make no suggestion of any bad faith on the part of counsel in defending the suit. The court: I will leave that to the jury. Defendant excepts.’’ This opinión, which was improperly admitted in evidence, is at best the declarations, secondary evidence, made by the court of its reasons for making the decision, and moreover, the judge writing an opinion in a given case is simply giving the reasons for his decision, and even if called as a witness will not be allowed to testify as to his reasons for reaching his decision, although he may be allowed, under certain circumstances, to testify as to what occurred before him; but the order or judgment entered on his opinion is the best evidence of the adjudication. The safest rule to follow is: That the whole record is the highest evidence of what the court decided and the record alone is binding, even if the opinion contains adverse expressions. Thus, if the opinion gives the best of reasons for holding with the plaintiff, but the judgment entered thereon is in favor of the defendant, it cannot be attacked collaterally and will ever remain as the highest evidence of the adjudication until it is vacated or reversed. The judgment and order appealed from are reversed and a new trial granted, with costs to appellant to abide the event.
+McGown, J., concurs.
