@@ -1,0 +1,38 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1881-01"
+citations: ["31 N.Y. Sup. Ct. 43"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bookes and Boaedman, JJ., concurred."]
+parties: ["ANNIE A. GRATTAN, as Administratrix, etc., of HUGH P. GRATTAN, Deceased, Appellant, v. THE METROPOLITAN LIFE INSURANCE COMPANY OF NEW YORK, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/31/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1916184
+cites_cases: ["67 N. Y., 185"]
+---
+
+# Grattan v. Metropolitan Life Insurance
+
+## Majority (Learned, P. J.:)
+
+Learned, P. J.:
+On the trial’Henry E. Mereness, a physician regularly admitted, was called as a witness and examined on behalf of the defendant. Objection was made by the plaintiff that he should not be allowed to testify, under section 834 of the Code. The objection was overruled and the plaintiff excepted.
+Terence Grattan, in regard to whom this witness testified, came to the private office of Dr. Mereness, and was there some twenty minutes. No one but Grattan and the doctor were present. The doctor made an examination of him. This was done at the request of Mr. Jeffries, in whose employment Grattan was, and who had previously spoken to the doctor about making the examination. When Grattan came, he said he wanted to be examined. He took off his coat and vest; stripped off down to the waist; so that his breast was bare. The doctor percussed or auscultated; sounded him with his fingers; placed his ear at different parts of the chest; had him count or cough; placed his ear at the back; had him inhale and exhale; took the measurement of his chest; listened to the action of the heart; felt of the pulse; asked him questions; asked him how he felt in the region of the lungs.
+The doctor testifies that it required a careful examination of the person to enable him to tell what the disease was.
+Grattan told the doctor that he came to know, for Jeffries’ satisfaction, or for his own, whether or not he was capable of continuing in the business in which he was. The ¿tactor gave a written opinion on that subject addressed to Jeffries, and stated verbally to Grattan (in substance) that he would not live long. The doctor did not prescribe for Grattan, but he took a sufficient diagnosis to enable him to prescribe.
+On the trial the doctor was permitted to testify, against plaintiff’s objection, that on this examination he discovered that Grattan had disease of the lungs, and to give the details of the disease.
+The defendant insists that there was no relation of physician and patient between Mereness and Grattan. First. Because Mereness had not known Grattan before this interview. But the first interview with a physician is as sacred as any other. Second. Because Grattan did not consult him as to a prescription, and the doctor did not prescribe. But the day has passed when it was thought that a physician’s advice was of no use unless he ordered a dose of medicine. Third. Because the examination was made for Grattan’s employer, and the employer paid the doctor. Then if a father calls a physician to examine and advise as to a child, the child is not the physician’s patient. Or if, out of benevolence, a man requests a physician to examine some poor person, the physician is at liberty to reveal all he discovers.
+Next, the defendant insists that there was no attendance of the doctor on Grattan, because he was not called upon to examine or consult, in order to give advice or relief. The defendant cannot mean that a physician must attend at the patient’s house instead of having the patient at the physician’s office. And the doctor was requested to give advice — advice of the most important kind — that is, whether Grattan was capable of doing certain work. Such advice, in a case of consumption, was probably more valuable than any prescription would have been.
+Next, the defendant insists that the doctor did not act in a professional capacity, because he gave no prescription and no advice. But it is plain enough that there are cases where a physician, on examining a patient, sees that medicine will do no good; and that there is no advice to give, except just what the doctor gave to Grattan, to make the best of the present, because he would not remain here very long.
+And it is incorrect to say that the words in section 834, “ which was necessary to enable him to act in that capacity,” limit the restriction imposed by the section to cases where the physician actually prescribes a dose of medicine or gives some medical advice.
+In fact the physician does act in a professional capacity when, after examining a patient, he decides that neither medicine nor advice are needed, and therefore gives neither.
+I am unable to see how this testimony can be allowed under the statute. The information which the doctor acquired was not such as might have been obtained by any person on a casual sight of Grattan. It was obtained by removing a part of Grattan’s clothing ; and by percussing and by listening to the action of the lungs. These are professional acts, and the information was obtained professionally. (Edington v. Mut. Life Ins. Co., 67 N. Y., 185; Grattan v. Met. Life Ins. Co., 21 Alb. Law Jour., 288.)
+Eve.n if Grattan had no desire to know what his own condition was, but had consented to go to the doctor’s office because Jeffries, his employer, desired him to do so, still I do not see that this would change the matter. The object of the statute is plainly this, that persons may feel sure that whatever they disclose to a physician, in his professional capacity, in regard to their bodily condition, whether it be by word or by allowing a physical examination, shall be held sacred. It matters not whether the patient or some one else pays the doctor’s bill; or whether it is ever paid at all.
+And it matters not whether the patient visits the physician to relieve his own anxiety, or to relieve that of some friend. The information which he thus enables the physician to acquire is protected.
+It may, however, be urged by the defendant that the other ground on which the verdict was ordered, viz., the false statement as to the cause of the death of Hugh P. Grattan’s sister is sufficient to authorize an affirmance of the judgment.
+The case of Grattan v. Metropolitan Life Ins. Co., above cited, is almost precisely like the present. It was the case of an insurance policy issued on the life of another member of the same family. And the information on which the answers to questions were written was obtained in the same way. One fact appears in that case, viz., that much of the certificate, and particularly the part relating to the sister’s death, was in blank, when Terence Grattan signed; and that the statement therein was inserted by Dr. Gnadendorf. But aside from that fact, the transaction seems to have been the same in both these cases. I do not think that the court in that case rested its decision exclusively on the fact above referred to; but rather on the truthfulness of the applicant in making statements to Eicholz, and the inadvertent omission of Dr. Gfnadendorf to put down the answers properly.. And it is only necessary to examine the opinion there given to see that there was, in the present case, a question for the jury as to the point now under consideration.
+Eor these reasons the judgment should be reversed and a new trial granted, costs to abide the event.
+Bookes and Boaedman, JJ., concurred.
+Judgment reversed, new trial granted, costs to abide event.
