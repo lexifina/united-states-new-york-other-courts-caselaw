@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05"
+citations: ["85 N.Y. Sup. Ct. 26", "61 N.Y. St. Rep. 58"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Putnam and Herrick, JJ., concurred."]
+parties: ["Charles E. Bullard and Another, Respondents, v. James H. Kenyon and Another, Appellants, Impleaded with Mary C. Harris."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4720716
+---
+
+# Bullard v. Kenyon
+
+## Majority (Mayham, P. J.:)
+
+Mayham, P. J.:
+On the 10th of February, 1881, the plaintiffs obtained a judgment against the defendant James H. Kenyon for $151.31. On the 23d of February, 1891, they caused an execution to be issued and placed in the hands of the sheriff of Saratoga county, where the defendant James H. Kenyon resided. On the 6th of July, 1889, the defendant James H. Kenyon and Ellen M. Kenyon, his wife, mortgaged all or nearly all the personal property in their possession to the defendant Mary C. Harris, who, when the, sheriff sought to seize the property so mortgaged, asserted her right to it under the mortgage and threatened to prosecute the sheriff for selling such property, or any one who should purchase the same at the sheriff’s sale.
+The chattel mortgage was never recorded or filed in the town clerk’s office.
+To relieve this property from the cloud of the mortgage, so that the same would sell for its true value, under this execution, the plaintiff brought this action, charging that as against their judgment the mortgage was fraudulent and void and asking to have it so adjudged, with costs against Harris, the mortgagee.
+As the mortgage had been foreclosed and the mortgaged property taken by Harris before the action was brought, it may be doubted whether the Kenyons were necessary parties to this action, but that question does not seem to have been raised by them on the answer or at the trial, and as the judgment in the action does not charge them with costs, it is difficult to see what interest they have in'this litigation or how they can be benefited by a reversal of this judgment except as to the question of costs on the appeal.
+The trial judge found on this trial that the defendants Kenyon were guilty of no active fraud in executing this mortgage, but that the mortgage itself was fraudulent and void, and this last proposition is not seriously contested on this appeal.
+Ve see no grounds for the reversal of this judgment, and as the defendants have prosecuted this appeal when the judgment as to them in no way injured or jeopardized them or their - property, it must be affirmed.
+Putnam and Herrick, JJ., concurred.
+Judgment affirmed, with costs and disbursements.
