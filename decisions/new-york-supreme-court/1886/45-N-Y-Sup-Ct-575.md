@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1886-01"
+citations: ["45 N.Y. Sup. Ct. 575"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J., and Beady, J., concurred."]
+parties: ["JOSEPHINE Z. ROSE, Appellant, v. MENSOR P. SAUNDERS, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/45/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4500134
+cites_cases: ["11 Wend., 375", "45 N. Y., 175", "58 N. Y., 262", "9 Hun, 125"]
+---
+
+# Rose v. Saunders
+
+## Majority (Daniels, J.:)
+
+Daniels, J.:
+Two causes of action were set forth in the complaint — one for fraud, arising out of the procurement by the defendant of a writing from the plaintiff, permitting him to leave the jail liberties of the county of New York, where he was under arrest under an execution against his person, issued upon a judgment recovered by her, and to proceed to the city of Brooklyn, which he did — and the other for slanderous words charging her with sexual misconduct. The court, at the trial, dismissed the first cause of action, and the jury rendered a verdict in her favor upon the second for the sum of six cents. The dismissal of the first cause of action was directed upon the ground that the representations made by the defendant to induce the plaintiff to subscribe the writing permitting him to leave the jail liberties were, that it would not affect her rights or interests in the judgment or her remedy for the enforcement thereof; and if that had been the extent of the representations made, inducing her to execute the writing, the dismissal would probably be correct, for the incorrectness of a mere legal opinion as to the effect could not be made the basis of an action for damages for deceit or fraud. But this was not the only representation set forth in the complaint, and which the evidence given upon the trial tended to prove. It was alleged, and evidence was given to establish the allegation, that the defendant represented that he desired the paper only to prevent his arrest, or to prevent him from being molested in Brooklyn by the sheriff, upon an execution out against Mm there, and that he wanted to give up books and papers that he held at that time, and that he could not give them up without this paper. These representations the plaintiff testified she believed; and to complete her right of action, by showing them to have been false and fraudulent, evidence was offered tending to prove that these statements were false, from which, if it had been given, the jury might have inferred an intent on the part of the defendant to defraud the plaintiff. They were in no manner in the nature of opinions concerning the effect of the paper procured from the plaintiff, but they included material matters of fact, and if they were falsely and fraudulently made, and in part induced her to sign the paper, a right of action existed in her favor against the defendant for damages.
+The legal principle upon this subject is that if one party, “ for the purpose of inducing the other to contract with him, shall state that which is not true in point of fact, and which he knew, at the time he stated it, not to be true, and if, upon that statement of what is not true, and what is known by the party making it to be false, the contract is entered into by the other party, this, generally speaking, and unless there is more than that in the case, there will be at law an action open to the party entering into such a contract, an action of damages grounded upon the deceit.” (Oberlander v. Spiess, 45 N. Y., 175-178; White v. Merritt, 3 Seld., 352, 356; Taylor v. Guest, 58 N. Y., 262, 266.) And it is not requisite that the fraudulent representations shall be the only moving inducement to the contract, but all that is required is that it would not have been entered into if they had not been made and relied upon. (Addington v. Allen, 11 Wend., 375.) The evidence which was offered and rejected would have, if it had been received, sufficiently brought the case within these legal principles to require its submission to the jury. It ought not, therefore, to have been rejected, and this part of the plaintiff’s complaint dismissed. There is also reason for believing that injustice was done to the plaintiff by the nominal verdict rendered in her favor upon the other cause of action. But probably, under the case of Wavle v. Wavle (9 Hun, 125), the court would not be justified in directing a new trial because of this circumstance. But as to the other part of the case, the law is in the plaintiff’s favor. She should have the opportunity, which was denied her at the trial, of giving evidence to prove that the representations concerning the facts referred to by the defendant were, at the time, known to him to be false, and were made to deceive her to her prejudice.
+The judgment and order should be reversed, and a new trial directed, with costs to abide the event.
+Davis, P. J., and Beady, J., concurred.
+Judgment and order reversed, new trial ordered, costs to abide event.
