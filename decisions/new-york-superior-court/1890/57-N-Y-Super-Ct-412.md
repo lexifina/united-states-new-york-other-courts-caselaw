@@ -1,0 +1,33 @@
+---
+court: "New York Superior Court"
+decided: "1890-01-06"
+citations: ["25 Jones & S. 412", "57 N.Y. Super. Ct. 412"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM B. ROSS, Respondent, v. THE METROPOLITAN ELEVATED RAILWAY COMPANY, et al., Appellants."]
+source_url: "https://static.case.law/ny-super-ct/57/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1691538
+---
+
+# Ross v. Metropolitan Elevated Railway Co.
+
+## Majority (By the Court.—Ingraham, J.)
+
+By the Court.—Ingraham, J.
+An examination of the evidence has satisfied us that the amount awarded by the court as the damages sustained by the plaintiff caused by the trespass, and the amount fixed by the court as the value of the property in the street appropriated by the defendants, were not excessive.
+•We are also of the opinion that the finding “that attached to the plaintiff’s premises above described as a part thereof, was an easement of light, air and access over said 53rd street and appurtenant thereto, in front of and adjoining said premises, of which easement the plaintiff has been dispossessed since July 16, 1868,” was sustained by the evidence.
+- It was stipulated that 53rd street in front of the plaintiff’s premises was opened and laid out as a public street or highway, in the year 1838, under and by virtue of chap. 36, Laws of 1813. There was offered in evidence a conveyance of the premises to plaintiff, dated July 10,1868, and it appeared that the plaintiff had owned the premises and been in possession thereof continuously from that date, which was prior to the erection of the elevated railroad.
+It thus appeared that by the opening of the street and its appropriation as a public street under the Act of 1813, that a contract was- created between the public and the abutting owners by which the street was to be kept open as a public street forever, and that thereby an easement was created appurtenant to the abutting premises which enured to the benefit of such abutting owners.
+By the conveyance to the plaintiff of such abutting property such easement vested in him, and it appeared by the evidence that he entered into possession thereof and was enjoying such easement when the same was appropriated by defendants for the purpose of its railroad, and it is clear that such possession was sufficient to sustain an action for trespass.
+The only remaining questions that require - examination are raised by exceptions taken by defendants to the admission of testimony and to the denial of a motion to strike out part of an answer.
+After a lengthy cross-examination of the plaintiff to show that he had notice of the construction of the railroad and took no proceedings against the company, and that he had used the defendants’ road as a means of travel—between his residence and his place of business, "counsel for defendants asked the witness the following question: “ And during all this time you were reserving your objections ? ” when the court interposed and said, “ You have gone far enough on that point: you can ask no more questions on these points,” to which the counsel for the defendants duly excepted.
+It is clear that the question was entirely irrelevant and immaterial. The operation of the plaintiff s mind at that time had nothing to do with any question before the court. The examination of the witness had been exhausted as to facts, and if Counsel for defendants had desired to ask any further question he should have asked the question and taken a ruling as to its admissibility.
+There was not the slightest proof offered which tended to show that the defendants had relied upon the acquiescence of the plaintiff in-building its road, or that the plaintiff was in any way estopped from maintaining this action.
+The extent to which such a cross-examination should be allowed is largely in the discretion of the court, and such discretion was properly exercised in refusing to allow questions to be put which were absolutely immaterial; which did not tend to prove any issue presented by the pleadings, and which could not be asked for any other purpose except to waste time.
+The other exception relied on by defendants is to the denial of a motion to strike out a part of the answer to a question put to a real estate expert as to what was the market value of plaintiff’s primises at any time since 1883, and prior to the construction of the defendants’ structure.
+The witness answered that that property was valued at one time as high as $30,000, and he had submitted an offer to Mr. Ross of $30,000. Defendants’ counsel moved to strike out the portion of the answer stating that he had submitted an offer of $30,000, which motion was denied.
+That this testimony was incompetent to prove a value is clear, but the evidence as to the value of the property was competent, and this was simply a remark of the witness as a basis for forming his judgment. While it would not have be.en error to have excluded the testimony we do not think that it was incompetent in the connection in which it was given, or that the testimony in any way affected the result.
+On the whole case we think that there are no exceptions that require a reversal of the judgment, and it should, therefore, be affirmed with costs.
+Sedgwick, Oh. J., concurred.
