@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1892-05-13"
-citations: ["45 N.Y. St. Rep. 485", "45 N.Y. St. Rep. 484"]
+citations: ["45 N.Y. St. Rep. 485"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["J. Henry Hallock, Resp’t, v. Etta D. Bacon et al., Executrices, App
 source_url: "https://static.case.law/ny-st-rep/45/cases/0485-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2080957
-cites_cases: ["1 Lans., 450", "102 N. Y, 599", "103 N. Y., 681", "110 N. Y. 568", "110 N. Y., 562", "111 N. Y., 577", "115 N. Y., 401", "119 N. Y., 621", "15 Abb. N. C., 452", "16 Abb. N. C., 208", "17 Hun, 138", "17 St. Rep., 911", "18 St. Rep., 873", "19 Hun, 599", "2 St. Rep., 175", "2 St. Rep., 178", "2 St. Rep., 555", "20 St. Rep., 130", "22 Abb. N. C., 291", "22 St. Rep., 563", "23 Hun, 249", "26 St. Rep., 277", "26 St. Rep., 508", "28 St. Rep., 675", "3 St. Rep., 642", "33 St. Rep., 807", "36 St. Rep., 314", "37 Barb., 235", "40 Hun, 72", "41 Hun, 9", "42 Hun, 164", "48 Hun, 256", "5 Hun, 555", "5 St. Rep., 180", "52 Hun, 100", "58 Hun, 172", "67 How., 202", "81 N. Y., 305", "88 N. Y., 456"]
+cites_cases: ["1 Lans., 450", "102 N. Y, 599", "103 N. Y., 681", "110 N. Y. 568", "110 N. Y., 562", "111 N. Y., 577", "115 N. Y., 401", "119 N. Y., 621", "15 Abb. N. C., 452", "16 Abb. N. C., 208", "17 St. Rep., 911", "18 St. Rep., 873", "19 Hun, 599", "2 St. Rep., 175", "2 St. Rep., 178", "2 St. Rep., 555", "20 St. Rep., 130", "22 St. Rep., 563", "23 Hun, 249", "26 St. Rep., 277", "28 St. Rep., 675", "3 St. Rep., 642", "33 St. Rep., 807", "37 Barb., 235", "40 Hun, 72", "41 Hun, 9", "42 Hun, 164", "48 Hun, 256", "5 St. Rep., 180", "52 Hun, 100", "58 Hun, 172", "67 How., 202", "81 N. Y., 305", "88 N. Y., 456"]
 ---
 
 # Hallock v. Bacon
