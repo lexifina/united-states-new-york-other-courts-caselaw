@@ -1,0 +1,29 @@
+---
+court: "New York Surrogate's Court"
+decided: "1910-03"
+citations: ["7 Mills Surr. 448", "67 Misc. 24"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Final Judicial Accounting of William Bedell as Surviving Executor of the Last Will and Testament of Gilbert T. Pearsall, Deceased."]
+source_url: "https://static.case.law/mills-surr/7/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1076015
+cites_cases: ["135 N. Y. 40", "135 N. Y. 49", "87 N. Y. 462"]
+---
+
+# In re the Final Judicial Accounting of Bedell
+
+## Majority (Hopkins, S.)
+
+Hopkins, S.
+Under the will of Gilbert T. Pearsall, de ceased, which was proved in this court February 19, 1891, after disposing of his personal estate he gave his wife the use and income of all his real estate for life. He then directed that il after the death of my wife, Jane Ann Pearsall, I order and direct my executor to sell and dispose of all my real estate with the consent of a majority of my children living at that time and the moneys arising from the sale of the above real estate' to be divided equally among my children, etc.”
+The wife died in 1909. The surviving executor sold the real estate, realizing nine thousand one hundred dollars therefrom, and brings the proceeds into court upon this accounting for the distribution under the provisions of the will.
+It is conceded that the said proceeds are to be divided into five shares, one of which passes, under the will, to a son, William H. Pearsall. This son transferred his interest in the estate •of his father by four different instruments, viz.:
+First. He made an assignment of such interest to Anna T. Pearsall, his sister, dated November 13, 1893, as collateral security for the payment of two promissory notes; one for $200, •dated July 8, 1891, with interest from date, and one for $100, •dated July 7, 1893', with interest from date.
+Second. An assignment to Jane Ann Pearsall, his mother, dated November 13, 1893, as collateral security for a promissory note of $100-, dated May 1, 1891, with interest from date, Jand another note dated August 7, 1893, upon which there was due $505, with interest from date; also for the amount of $100 •and interest from September 14, 1892, being the balance then due upon a note of $1,300, besides the sum of $25 balance •due on store rent.
+Third. An assignment to Alice G. Pearsall, his wife, dated November 14, 1893, for the consideration of $242.40-, purporting to assign all the first party’s interest referred to in the two former assignments, but subject thereto. All of these assignments were recorded in the Dutchess county clerk’s office in "the record of deeds. Subsequently and on May 18, 1897, said Pearsall conveyed by deed to his son-in-law, Lavergne H. Spence, all the title and interest of himself and his wife, Alice G. aforesaid, in all the real estate owned by his father, for an ■express consideration of $571, which deed was duly recorded in said clerk’s office. Mr. Spence now claims that he is the absolute owner of the share of William H. Pearsall in the proceeds of the sale of the- testator’s real estate, by virtue of his •■deed, for the reason that he had no actual or constructive notice of the existence of the previous assignments, on account of their having been recorded in the records of deeds, instead of record of mortgages, and that he was a bona fide purchaser for value and is protected by the recording act. His testimony discloses that the deed was given to him in satisfaction of an antecedent debt, that is, for money loaned William H. Pearsall some time before the transfer. Such being the case, he was not a bona fide purchaser for value and, even having no notice of the previous assignments, he does not come within the protection or meaning of the recording act; and, therefore, the assignments to Anna T. Pearsall and Jane Ann Pearsall are superior to, and. take precedence of, the conveyance made to him. Young v. Guy, 87 N. Y. 462; Howells v. Hettrick, 160 id. 308.
+As was said in Ten Eyck v. Witbeck, 135 N. Y. 49: “If the rejection of the later conveyance will leave the grantee in the same position, with respect to his property rights, as he occupied before its execution and acceptance, he cannot be permitted to aid, however innocently, the fraudulent grantor in his effort to defeat a prior conveyance by him of the same lands.” The facts in the ease at bar come within this rule. William H. Pearsall had nothing that he could honestly convey to Spence, in view of the former assignments to his sister and mother, unless his share of the proceeds of the sale of testator’s real estate was more than their claims. He knew this, and, if he intended to give Spence an absolute title, he then deliberately intended to defraud his mother and sister, otherwise, the deed was only intended as collateral security for the amount due Spence. If the grantor intended to commit a wrong, his grantee, in justice and equity, should not be permitted to profit by it. As between these claimants, I think it was not necessary to record the assignments or the deed. William H. could convey no absolute title to his interest, except such as might be, and eventually was, defeated by a sale under the power given the executor in the will of the deceased.
+It is my opinion, and I therefore conclude, that the share) of William H. Pearsall should be distributed among the holders of the various conveyances, according to priority, and that the claim of Spence, under his deed, is subject and subordinate) to the liens and claims made under the assignments to Anna T. and Jane Ann Pearsall..
+Decree to be entered on three days’ notice by either party.
+Decreed accordingly.
