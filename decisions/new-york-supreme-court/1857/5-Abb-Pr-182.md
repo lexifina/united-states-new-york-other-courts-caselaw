@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1857-07"
-citations: ["5 Abb. Pr. 182", "5 Abb. Pr. 73"]
+decided_precision: "month"
+citations: ["5 Abb. Pr. 182"]
 reporter: "abb-pr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["CONOVER’S CASE."]
 source_url: "https://static.case.law/abb-pr/5/cases/0182-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4575767
-cites_cases: ["13 Wend., 604", "13 Wend., 664", "15 Wend., 198", "20 Johns., 80", "5 Hill, 616"]
+cites_cases: ["13 Wend., 604", "13 Wend., 664", "15 Wend., 198", "20 Johns., 80"]
 ---
 
 # Conover's Case
