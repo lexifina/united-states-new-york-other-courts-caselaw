@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-11-15"
+citations: ["70 N.Y. St. Rep. 495"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCaslin Machine Company, App’lt, v. George W. McCaslin, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/70/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2122373
+cites_cases: ["1 Story, 590", "3 Story, 742", "5 C. C. A. 33", "55 Fed. 69", "9 Wall. 812", "99 U. S. 645"]
+---
+
+# McCaslin Machine Co. v. McCaslin
+
+## Majority (Follett, J.)
+
+Follett, J.
+The important issues of fact contested before the special term were (1) whether the inventions described in the letters were made by defendant while in plaintiff’s service; (2) whether the inventions were an “improvement upon, or new method of making, any machine or machinery relating to or to be used in making the chain conveyer now owned and used by said company, or any other machinery manufactured or to be manufactured by said company,” and so within the terms of the contract. Both of these issues were found in favor of the defendant, and, if they were well found, that is' an end of the case, unless errors were committed in the reception or rejection of evidence. To make a case against the defendant it was necessary to establish that, while in the plaintiff’s service, he so far developed the inventions subsequently patented that they were substantially perfected. While it was not necessary to show that all of the minute details had been worked out, it was necessary to show that the subsequent claims made by the defendant and recognized as new and patentable by the patent office, could have been readily understood and applied. An imperfect invention, resting in theory,— a mere conception, and no so far perfected as to be patentable,— which the defendant subsequently perfected, is not embraced within the contract. Reed v. Cutter, 1 Story, 590; Fed. Cas. No. 11,645 ; Christie v. Seybold, 6 U. S. App. 520 ; 5 C. C. A. 33 ; 55 Fed. 69. While the defendant was in the employment of the plaintiff he made a drawing representing certain proposed improvements to conveyers, which, on the trial of this action, was introduced in evidence by the plaintiff for the purpose of showing the identity of the improvements shown by the drawing and those patented under the letters. For the purpose of making it plain that the improvements described in the drawing and those subsequently patented were substantially the same in principle, the plaintiff called an expert, and proposed to show by him wherein the improvements described in the drawing and in the claim upon which the patents were issued were alike. To this the defendant objected, and the objection was sustained, and an exception taken. The court ruled that it would not permit an expert to testify as to what the sketch indicated. In this, we think, the court erred. It is competent to permit mechanical experts to describe the differences and similarities of inventions shown by different drawings, claims and models. This rule is so well settled that it does not require the citation of many authorities. Bischoff v. Wethered, 9 Wall. 812 ; Spring Co. v. Edgar, 99 U. S. 645 ; Allen v. Blunt, 3 Story, 742, Fed. Cas. No. 216. Of course, cases may arise so simple in their character that the testimony of experts may not be required to make the similarities and differences between various patents, claims, and drawings plain to the mind of a judge or jury ; but this, we think, was not such a case, and that the court erred in rejecting this class of evidence.
+The judgment and order should be reversed, with costs to the plaintiff to abide the event. By the reversal of the judgment it becomes unnecessary to consider the appeal from the order denying a motion for a new trial on the ground of newly-discovered evidence, which falls with the reversal, and neither party has any furthor interest in it, or the appeal therefrom, except the costs which might be awarded, and would not exceed $20 and disbursements ; and the order is set aside, without costs to either party.
+All concur.
