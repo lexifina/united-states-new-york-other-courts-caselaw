@@ -1,0 +1,23 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1870-11"
+citations: ["3 Daly (N.Y.) 331"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Wright v. Charles H. Marshall and others."]
+source_url: "https://static.case.law/daly-ny/3/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1302572
+cites_cases: ["20 Johns. 611", "25 Barb. 605", "27 How. 381", "33 N. Y. Rep. 43", "7 Bosw. 318", "7 How. Pr. 4"]
+---
+
+# Wright v. Marshall
+
+## Majority (Larremore, J.)
+
+Larremore, J.
+This action was brought in May, 1869, against Charles H. Marshall and twenty other defendants, as owners of the ship, James Foster, Jr., for violation of a contract alleged to have been made by them with the plaintiff to transport him, as a passenger in said ship, from Liverpool to New York, whereby plaintiff had sustained damages to the amount of $10,000. Eleven of said defendants have appeared and put in an answer to the complaint in said action, and a notice of trial on the part of the plaintiff was, on November 19, 1869, served on the attorneys of the said defendants who had appeared, and said attorneys admitted due and timely service thereof. A few month since, Alfred J. Oipriant (a defendant who had not been served with process, and who has not appeared in the action), died, and the fact of his death was communicated by the defendants’ attorneys to the attorney for the plaintiff. No proceedings have been taken to bring in the legal representatives of the deceased defendant. The attorneys for the defendants who have appeared now move to compel the plaintiff to bring in the said legal representatives as parties, to serve all the other defendants with process, and meanwhile that all proceedings on the part of the plaintiff be stayed; Two questions are involved in the decision of this motion. 1. Are the legal representatives of the defendant, Cipriant, necessary parties to this action ? 2. Can the plaintiff proceed to trial or take judgment against the defendants served without service of process upon, or appearance of the other defendants who are named in the'summons?
+The several owners of a vessel are tenants in common, and must join or be joined in an action at law brought by or against them. (Buckman v. Brett, 13 Abb. Pr. R. 119; Donnell et al. v. Walsh, 33 N. Y. Rep. 43; Merritt v. Walsh, 32 N. Y. R. 685.) If so joined as plaintiffs and one die, the right of action survives to the surviving part owners, who may afterwards be compelled to pay to the personal representatives of the deceased the value of his share. If joined as defendants and the death of one of them occurs, the executor or personal representatives of the one so dying cannot he sued or joined with the summons as the liability differs in the case of each. The executor is charged de bonis testatoris, the survivors de bonis propriis, and. the judgment could not be thus rendered. (Buckman, v. Brett, 13 Abb. Pr. R. 119; 11 Ib. 110.) The second question raised upon the argument is answered, by the pleadings in the action and the Code of Procedure governing the same.
+The contract, for a violation of which this action is brought, is a joint contract upon which the part owners of the ship are jointly liable. (Kohler v. Wright, 7 Bosw. 318; Stedman v. Feidler, 25 Barb. 605; Parson’s Marit. Law, I, p. 94; Story on Part. §§ 419, 455, 458.) All the owners are interested in, and entitled to a share of the earnings of the ship, and not to any fixed sum as in" the case of a chartered vessel. The Code (§ 136) provides that, in actions" against defendants jointly indebted upon contract, the plaintiff may proceed against the defendants served unless the court otherwise direct, and if he recover judgment it may be entered against all the defendants thus jointly indebted, so far only as that it may be enforced against the joint property of all and the separate property of the defendants served. The plaintiff, having joined as defendants in this action all the owners of the vessel, upon the joint contract alleged in the complaint, may proceed to trial against the defendants served as provided by said section 136 of the Code. (Stannard v. Mattice, 7 How. Pr. 4; Niles v. Battershall, 27 How. 381.) The defendants who are thus proceeded against, if forced to pay more than their just proportion of the claim, may compel the other defendants to contribute their share. (Mumford v. Nicoll, 20 Johns. 611, and cases and authorities above cited. "With this view of the case and the law governing the same, it follows that this motion must be denied. The costs of the motion to abide event of suit.
+Motion denied.
