@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-01-18"
+citations: ["50 N.Y. St. Rep. 619"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jacob Koehler, Resp't, v. The Rochester & Lake Ontario Railway Co., App'lt."]
+source_url: "https://static.case.law/ny-st-rep/50/cases/0619-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2096088
+---
+
+# Koehler v. Rochester & Lake Ontario Railway Co.
+
+## Majority (Dwight, P. J.)
+
+Dwight, P. J.
+The plaintiff was hired as a musician to accompany a pleasure party from Rochester to Irondequoit Bay on a Sunday morning in August, 1892. There were twenty-eight of the party, and they went and returned in a hired carryall, driven by the owner. On their return, in the evening, they came into the city by Jennings street, and it was just about nine o’clock when they reached the intersection of Jennings street with North Avenue, on the east side of which was the track of the defendant’s road. At this crossing the carryall was struck by a locomotive engine of the defendant, drawing a train from the north, and. the plaintiff was badly injured.
+There was evidence strongly tending to show that as the carriage approached the crossing, and up to the moment of the collision, the company was engaged in hilarious singing and shouting, which must probably have prevented any effective listening for an approaching train. This evidence was given by some eight or ten persons who were near the corners of the two streets,, either on the sidewalks, or on the piazzas or in open windows of neighboring houses. Several of them testify that the loud noise of singing and shouting continued up to the moment when the crash of the collision and the screams of terror were heard. This evidence was to some extent contradicted by some members of the party in the carriage, but if the fact wras a material one, the evidence was clearly such as to require the submission of the question to the jury.
+The plaintiff’s own testimony showed that he was familiar with the crossing and its surroundings and with the running of trains at that point. He knew that an orchard, with thick foliage, and a building in the angle between Jennings street and North avenue, completely obstructed the vision of the driver in the direction from which the train approached, until his horses’ heads were actually upon the track of the railroad. He knew that a train was due at that crossing only a very few minutes, if at all, before the arrival of his party there. He had looked at his watch under an electric light about 500 feet from the crossing, and found the time to be “ nine o’clock, or a little before,” and he knew that the train was due at the North street station at five minutes before nine.
+Such being the case, counsel for the defendant at the proper time requested the court to charge “ that if the plaintiff and his companions in the carryall approached this railroad with music and singing, and that thereby they were prevented, or he was prevented, from hearing the bell of the train, if it was rung, he was guilty of contributory negligence, and cannot recover.”
+The court declined to vary the charge already given in this respect, and counsel for defendant excepted. But the court thereupon proceeded to instruct the jury further in this particular, and to the effect that only so far as the plaintiff concurred in making the noise, and was a party to it, and helped it along, could he be charged with carelessness in going upon the crossing with such a noise about him. This was not what the court was requested to charge, but, rather, was calculated, we think, to convey an impression contrary to the purpose of the request. The proposition which, we think, was fairly presented by the request, was that it was negligence in the plaintiff to go upon the track with the din of noise in his ears which prevented him from hearing the sound of the approaching train ; and this without regard to -whether he was making or helping to make the noise.
+We think the proposition was a correct one; that it was the duty of the plaintiff, familiar as he was with the situation and its dangers, knowing that the train', if approaching, could not be seen, and that the only safeguard was the sense of hearing, to refuse to go upon the crossing in a noise which prevented the exercise of that faculty. If his warnings and expostulations had no effect upon the driver or the company, it was his duty to look out for his personal safety and escape, if he reasonably might, from an environment so fraught with danger to himself. And this, it would seem, he could easily have done, because, as he testifies, the horses were going at a walk, and he was seated immediately at the door in the rear end of the vehicle; in the last seat on the south side, next the top of the steps by which passengers alighted.
+We think the defendant is entitled to an instruction to the jury, substantially to the effect that if the plaintiff permitted himself, under the circumstances of this case, to be carried upon that crossing in a noise of singing and” shouting which prevented him from exercising his sense of hearing to discover the approach of the train, he was guilty of negligence which contributed to produce the casualty of which he complains, whether he was engaged in making a noise or not.
+The judgment and order denying the motion for a new trial should be reversed.
+Judgment and order appealed from reversed and a new trial granted, with costs to abide the event.
+Macomber and Lewis, JJ., concur.
