@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05"
+citations: ["85 N.Y. Sup. Ct. 23"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Mayham, P. J., Putnam and Herrick, JJ."]
+parties: ["John S. Hutt, Respondent, v. Abram Zimmer, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4722886
+cites_cases: ["76 N. Y. 32"]
+---
+
+# Hutt v. Zimmer
+
+## Majority (Pee Cueiam :)
+
+Pee Cueiam :
+The parties on December 20, 1889, entered into a written contract for the sale of hops by the defendant to plaintiff for the three years next ensuing. A printed blank was used in drawing tbe contract, which was thus partly in print and partly in writing. It contains the following clause, of which the part in italics was written and the residue printed:
+“ The party of the first part hereby agrees to sell, and does hereby sell and agrees to deliver or cause to be delivered to the party of the second part, or their authorized agent, all of the hops grown on his farm, not to exceed fifteen acres, now under cultivation for the term of three years.”
+The question in the case is as to the construction to be given to this clause. On December 20, 1889, at the time of the making of the contract, defendant had but eight acres of hops under cultivation. In the last year of the contract defendant had more than eight acres of hops, but not over fifteen, under cultivation, and produced 3,405 pounds of hops not raised on the eight acres under cultivation when the contract was executed, which he refused to deliver to plaintiff, claiming that under the writing he was only bound to deliver the product of the said eight acres.
+The rule which must govern us in construing such a contract as the one under consideration is well stated in 2 Parsons on Contracts (7th ed.), 647, 648, as follows: “Instruments are often used which are in part printed and in part written; that is, they are printed with blanks, which are afterwards filled up; and the question may occur, to which a preference should be given. The general answer is, to the written part. What is printed is intended to apply to large classes of contracts, and not to any one exclusively; the blanks are left purposely that the special statements or provisions should be inserted which belong to this contract and not to others, and thus discriminate this from others. And it is reasonable to suppose that the attention of the parties was more closely given to thosq, phrases which they themselves selected, and which express the especial particulars of their own contract, than to those more general expressions which belong to all contracts of this class. But if the whole contract can be construed together, so that the written words and those printed make an intelligible contract, this construction should be adopted. Because the intention of the parties is presumed to be ‘ alive and active throughout the whole instrument, and that no averments are anywhere inserted without meaning and without use.’ ” (And see Hill v. Miller, 76 N. Y. 32; Bryant v. Poughkeepsie Mutual Ins. Co., 17 id. 200; Miller & Ors. v. Han. & St. Jo. R. R. Co., 90 id. 430.)
+It follows that if the written and printed portions of the clause of the contract above quoted can be reconciled by any reasonable construction, such a construction must be given. But if the written and printed parts of said clause are, in fact, irreconcilable, effect must be given to the written portion.
+Under the written part of the clause of the contract in question, omitting the printed words “now under cultivation,” defendant agreed to sell and deliver to plaintiff “ all of the hops grown on his farm, not to exceed fifteen acres,” for the term of three years. But at the time of making this contract, there being only eight acres under cultivation, under the printed words in said clause “ now under cultivation,” defendant was only bound to deliver to plaintiff the hops grown on eight acres during the three years. It, therefore, appears that the written and printed parts are repugnant to each other. If the construction placed on the contract by the appellant is the true one, the words “ not to exceed fifteen acres ” are surplusage. The contract should have simply contained an agreement to sell and deliver to the plaintiff all the hops grown on his farm on the part under cultivation.
+The learned counsel for appellant suggests that the printed and written parts of the clause in question can be reconciled and should be read as follows, viz.: “ Defendant is to deliver to plaintiff all the hops grown on his farm now under cultivation, not to exceed fifteen acres, for the term of three years.” We are unable to agree with this contention of the appellant. Such a construction of the contract is inconsistent with the language used in the written portion. If the intent of the parties was as suggested by the appellant the words “not to exceed fifteen aci'es” would have been omitted, and in any event the natural language would have been not exceeding instead of “ not to exceed,” and as defendant doubtless knew how many acres he had in hops the contract would, after the words not exceeding, have contained the words “ eight acres.” The written part of the contract, in using the words “not to exceed fifteen acres,” was apparently so drawn because the parties did not know how many 'acres the defendant would put in hops for the three years during which the contract was to last. It was not the natural or proper language to use if it was the real intention of the parties that defendant should only deliver to plaintiff under the contract the hops grown on the eight acres then in cultivation.
+We conclude, therefore, that the case was properly disposed of at Circuit, and that the judgment should be affirmed, with costs.
+Present — Mayham, P. J., Putnam and Herrick, JJ.
+Judgment affirmed, with costs.
