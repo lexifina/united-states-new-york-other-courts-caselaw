@@ -1,0 +1,60 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1865-09"
+citations: ["8 Abb. Pr. 161"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CONKLIN against FURMAN."]
+source_url: "https://static.case.law/abb-pr-ns/8/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1964084
+cites_cases: ["20 Johns., 668", "21 N. Y., 96", "28 Barb., 661", "3 Hill, 188", "35 How. Pr., 205"]
+---
+
+# Conklin v. Furman
+
+## Majority (Ingraham, J. Scrugham, J.)
+
+Ingraham, J.
+Two questions are raised in this case.
+I. Whether proof of the judgment was sufficient evidence of the indebtedness of the company to charge a stockholder ?
+II. Whether the statute of limitations barred the action ?
+1. "Upon the trial of the cause the plaintiff introduced in evidence the judgment and execution recovered against the company, and rested.
+The defendants moved for a nonsuit on the ground that no debt had been proved against the company, and that the plaintiff’s claim was barred by the statute.
+■-i The court denied the motion, and defendant excepted.
+The act under which the liability is sought to be enforced (Laws of 1847, ch. 210), provides that the stockholders shall be liable in their individual capacity for the payment of the debts of such company, &c., to be recovered of the stockholder' who is such when the debt is contracted (section 14), and also provides “that no suit shall be brought against such stockholder, until judgment on the demand shall have been obtained against the- company," and execution thereon returned unsatisfied” (section 46).
+In Bailey v. Bancker (3 Hill, 188), Bronson, J., says, of this liability of the stockholders, “We have considered this and other charters of a similar character as placing the stockholders on the same footing as though they had not been incorporated, and making them answerable as partners for the debts of the company.”
+Again: “The suit against the stockholders is not based upon the judgment, but upon the original demand, and the creditor is to recover- the same,” and in that case the court held the plaintiff was: not entitled to recover the costs in the judgment against the corporation.
+In Witherhead v. Allen (28 Barb., 661), James, J., says, the shareholders are placed precisely on the same footing as though not incorporated, answerable as partners at common law for all debts contracted by the association. Then the shareholders are the principal debtors, and the statute suspends action against them personally until redress has been sought against the company.
+In this case Judge James expresses his opinion that the stockholders are liable for the debt after it is merged in the judgment, and for the costs in the judgment, but adds, “the extent of liability does not arise on this appeal.”
+In Corning v. McCullough (1 N. Y. [1 Comst.] 47), the whole question is thus concisely stated upon these two sections taken together: the personal liability of the stockholder for the payment of the debt is immediate and absolute the! moment the debt is contracted or incurred by the company; but the recourse of the creditor by suit to the stockholder upon that personal liability is deferred until he shall have first exhausted his remedy at law against the corporation, or the corporation shall be dissolved ; and Beonson, J., in the same case, says, “The stockholders were answerable to the creditors' of_the company as original and principal debtors,- though the creditors were ¡first to exhaust their remedy against the corporation.” ¡
+In Belmont v. Coleman (21 N. Y., 96), this question, whether the judgment was evidence of indebtedness against the stockholder, was discussed at some length by Bacon, J.; but the case was disposed of on other grounds, and on this point the court was equally divided.
+It will be seen from this review of the cases that the question whether the judgment is prima facie evidence of indebtedness against the stockholders is involved in much difficulty, and by the court of appeals is considered a doubtful question. I am not disposed, under these conflicting decisions, to depart from the opinion of the learned judge before whom the case was tried, and would apply to this case the decision in Slee v. Bloom (20 Johns., 668), that the judgment debt against the corporation is binding on the stockholders,, unless shown to have "been obtained through collusion or fraud.
+The other question, as to the statute of limitations, is the only remaining one in this case. There can be no difficulty, under the decisions which I have cited, in holding that the liability of the stockholder is created at the same time that the indebtedness of the company l takes place. All the cases hold the stockholders to be liable as partners, on the same footing as persons interested in private associations, and the principal debtors. If there, was no suspension of the right to sue, there could be no doubt that the lapse of six years after the claim was payable would bar the action. Nor can there be any doubt that if the right of action is suspended against the stockholder until a judgment is recovered against the corporation and execution issued and returned, that the statute does not commence to run until the plaintiff has a right to bring an action against the stockholder.
+By section 91 of the Code, the limitation to bringing the action is six years.
+" By section 74, the action can only be commenced within that time after the cause of action has accrued.
+And by section 105, it is provided that when the commencement of an action shall be stayed by statutory prohibition, the time of the continuance of the prohibition shall not be part of the time limited for the commencement of the action.
+It is apparent from these provisions that in cases where the creditor is prohibited from sueing the stockholder until judgment is recovered against the company, the six years does not commence to run until the recov. ery of such judgment, because until then the créditohad no right to bring the action. If that were all h this case on this question, there Avould be no difficult; in disposing of the case in the plaintiff’s favor.
+The statute (Laws of 1847, ch. 210, § 46) provides, that the plaintiff may include as defendants any one or more of the stockholders who shall be claimed to be liable to contribute to the plaintiff’s claim, and provides for the recovery of judgment against such stockholders, if judgment is recovered against the company.
+Here there is a clear right of action given against the stockholder at the moment the debt is due from the corporation. There is nothing to prohibit such action for a ■moment; and in fact such action was commenced against the company and some of the stockholders, but not prosecuted as to the latter, for some cause that does not appear.
+• We have, then, this state of facts. The stockholders are liable for all the debts of the company to an amount equal to the amount of stock held by them, and are so liable as partners on the indebtedness as original debtors at the moment the contract with the company is completed.
+The statute contains a prohibition against sueing the stockholders separately until a judgment is recovered against the corporation, but gives the right to the creditor to sue one or all of thé stockholders with the corporation, and on recovering.judgment against the corporation, gives a judgment against the stockholder.
+There is no period of time, then, when a cause of action does, not exist against him, at any time after the debt is incurred by the company. It is true that a particular mode of proceeding, viz: a separate action against the stockhold'er, is restrained, but this does not affect the general right to sue both the company and all the stockholders or any of them. It cannot be said that the right of action against the stockholders is either surrendered or prohibited. That right is just as perfect at the time of commencing the action against the stockholders as it is against the company. They may all be sued in the same action at the same time, and judgment be recovered against all at the same moment. Under these circumstances we cannot say that the commencement of the action is stayed by statutory prohibition, "because the plaintiff had a right of action against the defendants immediately, which was not prohibited.
+The provision that prevented the plaintiff from sueing in a particular manner would be immaterial if he had a right of action in another form at once. He suffered that right to remain unexercised, and cannot now say, because he could not sue in another mode which he preferred, that the statute did not run against the claim.
+It is suggested to us that the right to sue the stockholders with the company is merely cumulative. The same remark may be made as to the right to sue them alone. In fact, as partners they should be sued together ; and if either fremedy is to be considered as cumulative, it is that which allows them to be sued separately.
+My conclusion is, that the defendants were entitled to their motion for a nonsuit, upon the ground that the claim was barred by the statute of limitations.
+A new trial should be granted, costs to abide event.
+Scrugham, J.
+The liability of the individual corporators accrued at the time the company became liable. The cause of action against them then arose. An action upon it could not be commenced after the expiration of six years, unless it had been stayed by injunction or statutory prohibition. The statute prohibits the bringing of an action against corporators without joining the company, until judgment "has been recovered [against the company, and an execution returned unsatisfied. But this prohibition does not extend to actions commenced against them with the company. Such an action may be commenced at any time after the cause of action accrued, and within six years therefrom. The object of the statute is to force the determination of claims within certain periods after their cause accrued ; and its effect, when no disability, injunction, or prohibition prevents the commencement of an action, is to extinguish the liability after the expiration of the period limited. If any action affording a complete remedy can be brought within the period, it -must be brought within it, or the liability will cease.
+To decide differently would be to hold that a person is liable upon the same cause of action for six years in one form of action, and for twelve years in another
+A new trial should be ordered.
+The judgment in Witherhead v. Allen was reversed in the court oi appeals, that court-holding that the liability of the stockholder was on the original cause of action, not alone on the judgment (3 Keyes, 562. Compare Miller v. White, Ante, 54; McHarg v. Eastman, 7 Robt., 137; S. C., 35 How. Pr., 205).
+
+## Dissent (J. F. Barnard, J. (dissenting).)
+
+J. F. Barnard, J. (dissenting).
+The statute gives a creditor of certain corporations two actions, one against the corporation and such stockholders as he chooses to join as defendants with the corporation, and another and different action against the stockholders alone, as jointly and severally liable to him for the debt of the corporation.
+This is an action against the stockholders alone. It could not, by the statute which gives the right' to sue them, be brought until after a judgment had been obtained against the corporation, and execution thereon returned unsatisfied. .The debt was contracted over six years before the. commencement of this action, which, however, was brought within about six months after the judgment was recovered and execution returned unsatisfied.
+The'right to bring this action was not perfect until the recovery of that judgment and return of execution therein, and the time in which the plaintiff could not sue should be deducted, and the_defense of the statute of limitations is not good.
+■ Judgment reversed and new trial ordered, with costs to abide the event.
