@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1891-03"
+citations: ["66 N.Y. Sup. Ct. 536"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["■Brady and Daniels, JJ., concurred."]
+parties: ["CATHARINE McINTYRE, Appellant, v. THE GERMAN SAVINGS BANK and JAMES CARROLL, Respondents, Impleaded with Others."]
+source_url: "https://static.case.law/ny-sup-ct/66/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4623205
+---
+
+# McIntyre v. German Savings Bank
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+Section 3239 of tbe Code provides that upon an appeal from an interlocutory judgment or order in an action, costs are in tbe discretion of tbe court, and may be awarded absolutely or to abide tbe event, except as follows: When tbe appeal is taken from an order granting or refusing a new trial, and tbe decision upon tbe appeal refuses a new trial, the respondent is entitled, of course, to tbe costs of tbe appeal.
+In the case at bar, tbe appeal was from an order of tbe Special Term denying a motion for a new trial on a case and exceptions, and such order was affirmed, and, in pursuance of tbe section of the Code which has been cited, tbe respondent was entitled, as matter of course, to tbe costs of tbe appeal. They were not in the discretion of the court. The court bad no power to make these costs .abide the final event of the action, but the respondent, upon the affirmance of such an order, had an absolute right to these costs, and they were awarded by the order of the General Term, entered upon the affirmance of the order of the Special Term. This brings the case clearly within the provisions of section 779 of the Code, where the costs of a motion or any other sum of money directed by an order to be paid are not paid within the times therein specified, an execution against the personal property of the person required to pay the same may be issued by any person to whom said costs or sum •of money is made payable by said order.
+If it be said that the costs of an appeal from an order are not motion costs, it may be sufficient to answer that they clearly are such within the contemplation of the Code, because there is no other provision made for their collection.
+It may be argued that they may be included in the final judgment, but occasions may arise where such costs are incurred after the entry of a final judgment, as section 1005 provides that a motion for a new trial may be made after final judgment.
+It is clear that, in the contemplation of the Code, an appeal from an order denying a motion is nothing but a continuation of the motion; and whatever costs may be incurred in the continuation of the motion are the costs of the motion, and have no relation whatever to the general costs of the action. We think, therefore, that the plaintiff had the right to collect these costs, she being, by the provisions of the Code, absolutely entitled to the same.
+As to the claim that the plaintiff, by appealing from so much of the order as restrained her from collecting the costs, leaving standing in her favor that part of the order denying the motion to compel her to enter judgment, thereby waived her right to appeal, we fail to see the force of the suggestion. A party moved against is successful in defeating a part of the' relief. asked upon such motion; and because of such success it is claimed she is deprived of the right to appeal from so much of the order as grants relief against her.
+This is certainly a novel proposition, that a party must be entirely defeated in order that she may have a right to appeal; and that where the success of the moving party is only partial no right of appeal exists.
+The order should be reversed and the motion denied, with tern dollars costs and disbursements.
+■Brady and Daniels, JJ., concurred.
+Order reversed and motion denied, with ten dollars costs and. disbursements.
