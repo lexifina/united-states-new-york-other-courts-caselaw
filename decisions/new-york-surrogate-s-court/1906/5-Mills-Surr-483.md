@@ -1,0 +1,38 @@
+---
+court: "New York Surrogate's Court"
+decided: "1906-08"
+citations: ["5 Mills Surr. 483", "51 Misc. 370"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Appraisal of the Estate of John D. Parsons, Jr. Pursuant to Article X. of the Tax Law Relating to Taxable Transfers."]
+source_url: "https://static.case.law/mills-surr/5/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1071363
+cites_cases: ["117 App. Div. 321"]
+---
+
+# In re the Appraisal of the Estate of Parsons
+
+## Majority (Vanderzee, S.)
+
+Vanderzee, S.
+The State Comptroller appeals to the surrogate from a decree made June 13, 1906, confirming the report of the transfer tax appraiser for Albany county, filed that day, and assessing tax in accordance therewith, affecting the estate of John D. Parsons, Jr., who died December 16, 1904, alleging error in the failure to tax an alleged transfer of 165 shares of the stock of the Rational Exchange Bank and 200 shares of the stock of the American Telegraph and Telephone Company, aggregating $53,350, and three policies of insurance upon the life of the decedent aggregating $50,433.
+From such report it is necessarily implied that the appraiser held such property formed no part of the estate of which said testator died possessed, and that the transfer, if any, made of such stock and policies was not a gift made by him in contemplation of death or intended to take effect in possession or enjoyment at or after his death.
+While the facts relating to the two blocks of stock and the three policies of insurance are not severally identical, yet they are sufficiently similar to permit the questions arising therefrom to be determined as though they involved but two alleged transfers, respectively those of the stocks and policies.
+The certificates of stock were originally issued to, and at the time of the death of the testator stood in the name of, the wife of the testator, but were then held by the Albany Trust Company as collateral security for the payment of two notes made by her, not by him — though at other times the same loans were secured by stocks owned by the testator —■ whereof the proceeds, however, were paid to him, not to her.
+The assignment of the certificates were not made by the usual indorsement on the certificate customary upon the actual transfer of ownership of stocks, but by separate instruments—appropriate for their use as collateral—attached thereto, and detached when the notes were paid.
+The testator at his death was a holder of large blocks of both stocks, carried in his own name, recognized his wife as owner of the bank stock by joining with her and others in an assignment in trust with relation thereto whereby a controlling interest in the bank was secured and protected, and was not at death the actual holder in possession of the certificates.
+The widow having, by her oath upon the inventory of the personal estate filed in this court and by her formal deposition made 'before the appraiser, twice sworn that the stock, issued to her about two years before his death, and also the policies, formed no part of the estate of which the testator died possessed; the certificates of stock not being technically negotiable instruments ; stocks being commonly loaned for use as collateral; the undisputed facts not creating a presumption of ownership by, or of title having at any time been passed from Mrs. Parsons to the testator; and no evidence having been introduced tending even to show that the testator bought, ever owned, or received any of the dividends from the stock, the appraiser was justified in his determination as to no transfer of the stock having been made by the will of the testator and that the transfer, if any, otherwise; was not made in contemplation of death or intended to take effect in possession or enjoyment at or after his death.
+As affected by the Transfer Tax Law, the questions arising with relation to the transfer of the policies of insurance are novel and seem not to have been the subjects of judicial determination.
+The New England policy and one Connecticut Mutual policy were upon issuance made payable to the testator’s estate, while the other Connecticut Mutual policy was made directly payable to the testator if he should—which he did not—survive the endowment period; otherwise, as the others, to his estate. More than a year prior to his decease, the testator, in accordance with the provisions of the policies and the regulations of the companies, assigned each of the policies to his widoW absolutely, if she should survive him—which she did—excepting as to the endowment policy, whereof the assignment to her was absolute if he should predecease her prior to the expiration of the endowment period—which he did.
+The instruments of assignment were all brought, by the testator, to the attention of the companies and duly entered accordingly upon their books. Duplicate assignments were attached to the Connecticut Mutual policies and an indorsement was made by the New England company upon its policy that the insurance thereunder was payable to the widow if she should survive the testator.
+By reason of the above facts, which are uncontroverted, at the death of the testator, by the books of the companies, all the policies were payable directly to the widow individually as assignee thereof and not as executrix under his will, and were in fact so paid and receipted for, though at the time of the death of the testator the policies were in. the testator’s box in the Albany Trust Company.
+It is contended by the State Comptroller that the transfers mentioned of the policies are subject to the tax, because they were not completed by a legal delivery of the policies and assignments, or, if such a delivery were made, the transfers were gifts made to take effect in possession or enjoyment at the death of the testator.
+No evidence of actual physical delivery has been offered, nor has it appeared that the existence of the assignments was ever brought to the individual attention of the assignee.
+If any technical delivery were essential, the action of the testator in causing the books of the companies to show the transfers of interest to his wife would warrant the determination that a constructive delivery had been made to her, her husband being deemed to have acted as her agent in so giving proper notice of the assignments; and a constructive delivery is legally sufficient. r 'rr,R';
+But the assignment of a policy of insurance is not the same as an ordinary gift of a chattel; it is only a modification of a contract to pay money to the insured, his estate, or one having an insurable interest in his life—which a wife has—at a fixed future time, in consideration of the payment of premiums, the assignment being made in accordance with the contract and the regulations of the insurer with relation thereto.
+Whatever interests in the policies the wife at any time had were secured by contract made at the time of the assignments, not by the will of the testator at the time of his death. Her rights became technically vested when the assignments were completed by their acceptance and recognition by the companies, and were in no wise modified or increased at the death of the assignor.
+No gift, then, was made which might be construed as having been made to take effect in possession or enjoyment at the time of the death of the testator.
+The decree confirming the report of the appraiser herein should be affirmed, with costs, and an order may be entered accordingly.
+Decree affirmed, with costs.
