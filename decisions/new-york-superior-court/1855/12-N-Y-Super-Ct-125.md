@@ -1,0 +1,44 @@
+---
+court: "New York Superior Court"
+decided: "1855-12"
+citations: ["5 Duer 125", "12 N.Y. Super. Ct. 125"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert J. Cheseborough v. George V. House and Caroline E., his wife."]
+source_url: "https://static.case.law/ny-super-ct/12/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1350856
+cites_cases: ["10 Howard, 109", "3 Code Rep. 50", "4 Duer, 96"]
+---
+
+# Cheseborough v. House
+
+## Majority (By the Court. Hoffman, J.)
+
+By the Court. Hoffman, J.
+The principal question in the case is one of importance and some difficulty. It is whether such a judgment as has been entered can be rendered against Mrs. House, a married woman, upon these pleadings and testimony.
+But other and minor questions, necessary to be passed upon, should first be determined.
+1. The point whether the cause was not tried at Special Term without a jury, irregularly and contrary to the Code, depends upon the question whether the judgment can be sustained as it stands. It is a judgment against the separate estate of a married woman, to be satisfied out of that. It must rest upon her capacity to bind such separate estate—upon her having it—and upon her having actually and legally bound it. Such a case is manifestly an equitable cause of action; the judgment must be an equitable judgment. It was appropriate to the Equity Tribunal before the Code. Under the received construction of the 253d and 254th sections of the Code, it clearly would be a case triable by the court. (Hill v. M'Carthy, 3 Code Rep. 50.)
+2. The next question relates to the rent which Smith agreed to pay by the contract with the defendants.
+The facts are merely these:—Lent was the landlord of the premises, and Smith his lessee. Upon transferring the furniture, and as part of the stipulations between him and the defendants, he was to pay all the rent and interest thereon down to the 21st of March, 1853, the date of the agreement. Suits arising between Smith and Lent, the former, under orders in the suits, paid into court all the rent due down to that time, but without interest. Lent, the landlord, proves this, and that he received the moneys. He says the amount paid in was due to him. He has never, so far as known in the case, made a claim for any thing in the shape of interest. It seems clear- that Lent never could sue, or in any way molest the defendants, or the property, for the rent falling due up to the 21st of March, 1853; and, hence, the spirit of Smith’s engagement has been fulfilled.
+3. In regard to the admission of the statements of the husband as to the amount due upon the mortgage, this is to be observed:— The opinion of the Judge at Special Term, and the finding show, from testimony, independently of the husband’s testimony, that the sum of $506.22 was due. This is not shown to rest solely on the husband’s admissions.
+4. The material, indeed the only question of difficulty in the cause, is that which relates to the liability of the separate estate of Mrs. House to this judgment. Could she bind it at all ? Did this contract bind it?
+The complaint states that both of the defendants were interested and concerned in the purchase of the said furniture, goods and chattels, and are now interested in the same. Yet as it was contemplated by the defendants to pay for such furniture, &c., usually out of funds belonging to said Caroline E. House, in her own right, it was agreed and arranged by the defendants, that the said Caroline should take and hold the title and ownership of the said goods, &c., in her own name, which was accordingly done; and the said Caroline, with the consent of her husband, and under his direction, executed a written agreement in her own name, with Smith, to purchase such furniture, and to make the payments therefor in effect as above specified.
+The defendants answered jointly and severally, and deny that both of them were interested in, and concerned in the purchase of the furniture, &c., but that the said Caroline was alone ^concerned and interested in the purchase thereof, and now is solely interested in the purchase thereof, and that the money paid on account of the purchase thereof was paid out of her own separate and private funds. This was repeated in nearly the same terms in the amended answer. Again, it is stated in the answer, that the said Caroline was worth, in her own right, at leást $6,000.
+The agreement on which the action chiefly rests, is between Smith and Caroline E. House. It is to this effect:—
+That in consideration of $3,500, to be paid to him, Smith, by Caroline E. House, party of the second part, he had bargained and sold to her all the furniture, &c., then on the premises 345 Broadway, and 92 Leonard street, to hold to her the said party of the second part. Mrs. House, the party of the second part, covenanted to pay in the manner stipulated, $500 on delivery; $658 to be paid to Beardesly to cancel a mortgage held by him; $1,400 on or before the 15th of May ensuing; a piano-forte at $325 ; and the balance on the payment by Smith of all rent due on such premises to the date, with interest.
+This instrument was executed by Smith, and Caroline E. House.
+Certain payments are endorsed upon it, one of $250, another of $1,142, composed of the piano $325, cash in court $750, and sundries $67. In the summer of 1853, Smith states Mrs. House admitted there was $1,400 due on the purchase. Then, in September, 1853, an instrument is executed by Caroline E. House, with her husband, acknowledging that there remained due on the Beardesly mortgage $693.38, and agreeing to pay it in the right of, and for the benefit of the said Caroline E. House. The plaintiff had obtained an assignment of this mortgage, and the above-stated covenant was therefore to pay the amount to him.
+It has been contended that the case is governed by that of Switzer v. Valentine, (10 Howard, 109,) decided in this court. The differences are marked, and, in my opinion, decisive.
+The action was by the husband claiming articles of furniture against a mortgagee, who had taken possession. The wife had given her note, and executed a chattel mortgage on the furniture, to secure the purchase money, and rent paid for, and meats and provisions furnished to her, while she was conducting a boardinghouse. The articles seized under the mortgage by the defendant were in the husband’s house. He had never consented to, nor authorized, the execution of the mortgage by the wife. He had never done any act to waive his right to treat the property as his own by the marital law. There was no evidence of any separate estate belonging to the wife, and no evidence of any engagement to pay for the property out of it.
+The decision of the court in favor of the plaintiff was placed on the following positions.
+The acts of 1848 and 1849 only capacitate a married woman to hold a separate property as her own, and to dispose of it as effectually as if she were unmarried. The capacity given to her to purchase is limited to purchases which she may make on the credit of her separate estate, or for which she may pay with such separate estate. A married woman, who has no separate estate, cannot make a contract now which would not have been valid before the statutes; and there was no evidence that Caroline Switzer ever had any separate estate. The husband was hable for its price, and it could be taken on execution against him.
+In the present case, Mrs. House possesses separate property. The complaint avers that payment was to be made out of it. The answer absolutely denies a joint purchase. The proof is distinct by the instruments, to one of which the husband is a party, that she and her separate estate were alone to be bound. It may be doubted whether the husband is in any way liable.
+It is then, I apprehend, the substitution of 6ne piece of separate property, by an engagement to pay money, which was her separate property, in order to procure it.
+Can the fact that she meant to go on and use the furniture, &c;, in keeping a boarding-house, in other words, in trading, make a difference ? I apprehend not.
+In The North American Coal Co. v. Dyett, (7 Paige, 1,) a married woman had constituted an agent to carry on a manufactory of cotton, in which she was interested as her separate estate. His contracts were held to bind her property, for supplies furnished, and labor bestowed.
+Her liability for even general personal engagements is, probably, settled by authorities; at any rate, a specific engagement to pay out of her separate estate is amply sufficient. \
+The present amounts, in substance, to such a case, (3 Mylne & Keene, 209.)
+It cannot be that the husband, in this instance, could assert any right to this property.
+The judgment must be affirmed, with costs.
