@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1876-05-01"
+citations: ["9 Jones & S. 228", "41 N.Y. Super. Ct. 228"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GARDNER S. SPOFFORD, et al., Plaintiffs and Appellants, v. THE TEXAS LAND COMPANY, et. al., Defendants and Respondents."]
+source_url: "https://static.case.law/ny-super-ct/41/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1656427
+cites_cases: ["45 N. Y. 499", "5 Lans. 36"]
+---
+
+# Spofford v. Texas Land Co.
+
+## Majority (By the Court.— Curtis, J.)
+
+By the Court.— Curtis, J.
+The plaintiffs, as two of the stockholders of the Texas Land Company, on behalf of themselves and such other stockholders as should unite with them, brought this action against the company and certain of its directors, to restrain the defendants from issuing two hundred thousand dollars of debentures of the company, in payment of certain lands, and to restrain the completion of a contract for their purchase, on the ground that such lands were the individual property of the directors, and their purchase fraudulent and ultra vires. No damages were claimed, and this injunction was the sole relief asked.
+At the trial no witnesses were examined, and the case was submitted upon agreed findings of fact. These agreed findings of fact, and the answers of the defendants, do not appear in the papers on the appeal. The judge found at the trial, that as the directors of the company owned, or were interested in the' lands proposed to be purchased, that the contract for the same was void against the plaintiffs, and all other stockholders not assenting to such purchase, and without deciding whether such purchase was beneficial or not to the company, granted an injunction against the defendants completing the purchase.
+The plaintiffs apply for an -allowance' under § 309 of the Code, upon the “ subject matter involved” in the action. So far as appears by the findings of the judge, the only matter involved in the action, and adjudicated upon at the trial, was the right of the plaintiffs to restrain by injunction the consummation of the contract, made under such circumstances by the directors of the company. There is an affidavit i support of the plaintiffs’ motion, referring to the statement of the plaintiffs in the complaint, that the consummation of this purchase will impair their stock to the amount of one-half of its value. The complaint alleges that the stock is worth two or three times its par value, and it appears that the, plaintiffs have seventy-one shares each. But the papers fail to show the pecuniary interest of the plaintiffs as the question to be settled. It is apparent from the findings of the judge, that he passed upon the controversy irrespective of it.
+Consequently,' it is very difficult to find a basis upon which to determine the percentage for an allowance. The latter not being a common law right, the statute must be strictly construed. The capital of the company, in this suit for an injunction against the company and its directors, to restrain the completion of a contract, was not the subject matter of the action, but the alleged right to the injunction was. The capital of the company may have been indirectly affected by the action, or the result of it, but the legislature could not have intended that this capital was to be the basis of ■a per centage for an allowance, and to be distributed in that way, whenever a stockholder obtained an injunction of this character. The words of the Code, “subject matter involved,” are not broad enough to embrace interests that may be remotely or indirectly affected by an action. These words refer to matter material to, and included in the issues and the adjudication.
+The same reasoning that tends to show that the capital of the company is not a basis for estimating a percentage, applies with equal force to the two hundred thousand dollars of debentures, that were to be issued in payment for the lands proposed to be purchased, and also to the plaintiffs’ stock. The debentures were not in existence, there was no evidence as to their value, and they were not directly referred to, or incln ed in the adjudication. Neither was the plaintiffs’ stock otherwise involved in the action, further than the holding of it gave him a footing, and put him in a position to seek to have his right to this injunction to protect it heard and passed upon. Even if it was the “ subject matter involved,” there is nothing in the papers on the appeal that supplies data for estimating a percentage for an allowance. Neither is there anything to take this case out of the general rale, that an action simply for an injunction, and where it is impossible to ascertain a money basis on which to calculate a percentage, is one in respect to which there is no provision made by law for an allowance (Coates v. Goddard, 34 Sup'r. Ct. 132: The People v. The Albany & Susquehanna R. R. Co. 5 Lans. 36; Coleman v. Chauncey, 7 Robt. 578; Atlantic Dock Co. v. Libby, 45 N. Y. 499).
+The order appealed from, should be affirmed with costs, including disbursements.
+Sanford, J., concurred.
