@@ -1,0 +1,20 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1895-02-19"
+citations: ["67 N.Y. St. Rep. 246"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John R. Foley, Jr., as Administrator, etc., Pl’ff, v. Mercantile National Bank et al., Def’ts."]
+source_url: "https://static.case.law/ny-st-rep/67/cases/0246-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2113180
+---
+
+# Foley v. Mercantile National Bank
+
+## Majority (Daly, Ch. J.)
+
+Daly, Ch. J.
+The plaintiff moves to compel the defendants the bank and St. John to separately state and number the defenses and counterclaims contained in their respective answers to the complaint. The complaint sets up general transactions between the plaintiff’s intestate, John E. Foley, and the defendant Alexander Lutz, on the one part, and the defendant bank and its president, William P. St. John, on the other part, by'which loans of money were made to Foley and Lutz by the bank upon certain securities, consisting of real estate and other property, and asks an accounting of such transactions, alleging incidentally breaches of duty on the part of defendants with regard to the management and disposition of the securities, usury in some of the loans, and claiming that upon the accounting a large sum will be found due to the plaintiff. The bank and its president, “ for separate answer to the amended complaint, and by way of counterclaim,” setup, each in a pleading of over 100 folios, details of the transactions which are the subject of the plaintiff’s complaint, deny all the charges of breach of duty and of usury, and also demand an accounting. There does not appear to be any counterclaim of specific indebtedness due from the plaintiff to the defendants, but the account as set up in the answer seems to show a balance due to the bank. All the transactions of the president individually were on behalf of his bank. The Code requires that “ each defense or counterclaim must be separately stated and numbered ” (section 507) ; and, where a defendant describes his pleading as a counterclaim, he is bound to state it separately from his other defenses. Denials are no part of a counterclaim. Section 500. A counterclaim is a cause of action in favor of the defendant against the plaintiff, whether independent of the plaintiff's claim or connected with it. Section 501. A separate statement of a counterclaim is indispensable in order that plaintiff may take issue with it by a reply.
+Motion granted, with $10 costs to abide the event of the action.
