@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1893-07"
-citations: ["78 N.Y. Sup. Ct. 7", "78 N.Y. Sup. Ct. 11"]
+decided_precision: "month"
+citations: ["78 N.Y. Sup. Ct. 7"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["Charles Greite, Respondent, v. Charles Henricks, Appellant, Impleaded
 source_url: "https://static.case.law/ny-sup-ct/78/cases/0007-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8592190
-cites_cases: ["106 N. Y. 473", "11 N. Y. Supp. 504", "113 N. Y. 476", "47 N. Y. 40"]
+cites_cases: ["106 N. Y. 473"]
 ---
 
 # Greite v. Henricks
