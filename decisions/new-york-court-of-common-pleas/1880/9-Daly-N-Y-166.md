@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Common Pleas"
 decided: "1880-04-05"
-citations: ["9 Daly (N.Y.) 166", "9 Daly (N.Y.) 172"]
+citations: ["9 Daly (N.Y.) 166"]
 reporter: "daly-ny"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
