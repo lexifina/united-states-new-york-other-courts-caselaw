@@ -1,0 +1,33 @@
+---
+court: "New York Surrogate's Court"
+decided: "1877-05"
+citations: ["3 Redf. 69"]
+reporter: "redf"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gunning v. Carman. In the matter of the final accounting of Charles E. Carman, as trustee under the will of Richard F. Carman, deceased."]
+source_url: "https://static.case.law/redf/3/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1156939
+cites_cases: ["106 Mass., 547", "11 How. Pr., 489", "2 Bradf., 311", "3 Edw. Ch., 178", "5 Johns. Ch., 482"]
+---
+
+# Gunning v. Carman
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+—It seems to be conceded by the respective counsel that the real estate thus assessed has yielded no income in fact. On this subject the rule is, that if an assessment is made against the estate, or something in the nature of a permanent improvement or betterment of the whole estate, so that it may be actually and equitably divided between the tenant for life and remainderman, the equitable tenant for life must pay interest upon all incumbrances upon the estate, to the extent of the rents and profits, which would seem to indicate that in the absence of rents, or profits, or income, he might not be liable to pay even interest. (Perry on Trusts, § 554.)
+In Plymton v. The Boston Dispensary (106 Mass., 547,) it was held that assessments must be treated, as between the tenant for life and remainderman, as an incumbrance on the whole estate, to which the tenant for life must contribute to the extent of the interest during his life, on the amount paid at his death, the remainderman to bear the charge of the principal, and that, in case of incumbrance, the tenant for life is bound to keep down the interest, the principal, upon the discharge of a mortgage, to be paid by the remainderman. Strict adherence to the rule would require the tenant for life to pay interest on the amount during his life, although, for convenience of all parties, the value of such an annuity is usually paid at once.
+In Williams v. Cox (3 Edw. Ch., 178,) it was held that an assessment upon testator’s realty must be borne by the heirs; that the widow could only be required to bear one-third of. the interest of the capital of the assessment upon the lots assigned to her for dower, at 7 per cent., to commence from the confirmation, or, if not confirmed till after the husband’s death, then from his death. (See 4 Kent's Comm., 75.)
+In Swaine v. Perine (5 Johns. Ch., 482,) it was held that where the heir has redeemed the land by paying off the mortgage, and the widow files her bill against him for dower, she is to contribute by paying, during her life, to the heir, one-third of the interest on the amount paid by him, to be computed from the time of such payment, but as it would be inconvenient and embarrassing to charge her such an annuity, the value of such annuity was directed by the Chancellor to be ascertained by a master and deducted from the amount, her age and health considered.
+In Stilwell v. Doughty (2 Bradf., 311,) it was held that, 'the testator having given his wife the income of certain real estate, the assessment having been levied upon premises for a permanent improvement, the life tenant should pay, annually, interest on the assessment; and that the principal should be charged against the remainderman. This was decided by Surrogate Bradford in March, 1853. (See Fleet v. Dorland, 11 How. Pr., 489.)
+In the Matter of Miller (1 Tucher, 346,) an apportionment was ordered of an assessment for permanent improvements, between the life tenant and residuary devisee, according "to the age of the life tenant. That case was decided in 1867, but makes no reference to the case in Bradford.
+From the.several authorities cited upon this subject, the rule is to be deduced, that assessments are to be apportioned justly and equitably, and while some of the cases bear the construction that the amount to be paid by the life tenant is to be determined by the Northampton tables, there are cases where present payment is provided for, and before the termination of the life tenancy, in which case it is necessary to resort to the probabilities of life of the tenant, and to fix the amount of liability, though the amount of liability should be computed with interest upon the amount of the assessment.
+In Stilwell v. Doughty (supra,) the Surrogate says: “ Upon the supposition of a benefit accruing to the estate by the improvement for which the assessment is laid, the life tenant has only the use of the improvements to the extent of the annual value, and not of the gross charge. So, on the other hand, the remaindermen have not the present use, and will derive no advantage until the estate comes into possession. It is equitable that the parties should bear the burthens in proportion to their interests. I think the life tenant should pay the annual interest on the assessment, and that the principal should be charged against the remaindermen.”
+This reasoning seems to me to be sound and satisfactory. The interest upon the assessment appears to be the best measure of the benefit derived by the life tenant, by his enjoyment of the improvement, and" when his tenancy ceases, the remainderman becomes possessed of its permanent benefit, and should therefore be charged with its full amount as of that date.
+The probabilities arrived at by the Northampton tables are only approximate, and adopted from the necessities of the case, and in particular instances do obvious injustice. In this case the uncertainty of these tables need not be incurred, as all uncertainty has been providentially resolved by the death of the life tenant.
+It is true that sometimes equity adjudges a thing to have been done when it ought to have been done, but such a principle should never • be invoked to produce an inequitable result, and certainly any resort to the tables, which would impose upon a life tenant the payment of interest for a longer period than he actually enjoyed the estate, would be inequitable, and charging him for the use of what he did not enjoy, for the benefit of the remainderman, who did enjoy it.
+Regarding the assessment as an incumbrance on the premises for the permanent benefit of the estate, equity seems to require that the life tenant should pay interest upon the incumbrance during the term of his enjoyment, and no longer.
+I am of the opinion that the account, as rendered, and the charges made to the respective parties, are equitable and just, and in conformity to the settled principle promulgated in such cases.
+Order accordingly.
