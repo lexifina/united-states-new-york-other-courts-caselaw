@@ -1,0 +1,33 @@
+---
+court: "New York Superior Court"
+decided: "1883-10"
+citations: ["13 Abb. N. Cas. 144"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MAPLESON v. DEL PUENTE."]
+source_url: "https://static.case.law/abbn-cas/13/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1954005
+cites_cases: ["16 Fed. Rep. 37", "16 Fed. Rep. 38", "49 How. Pr. 150", "5 Johns. Ch. 169"]
+---
+
+# Mapleson v. Del Puente
+
+## Majority (O’ Gorman, J.)
+
+O’ Gorman, J.
+Counsel on both sides have urged on me the importance of an early decision with so much earnestness that I comply with their request, although the time allowed me is too short to make it possible to give more than a mere- outline of some of the reasons which have led me to the conclusion at which I have arrived.
+In my opinion, the plaintiff’s motion for an injunction should be denied.
+First. The purpose of this action is to compel a specific performance by defendant of his contract to sing for the plaintiff. This court,has no power to compel defendant to sing ; or, if it have such power, it has never yet, as far as I am aware, been claimed by the court or putin force (De Rivafinoli v. Corsetti, 4 Paige, 264). As far, then, as plaintiff’s prayer for specific performance is concerned, he is not entitled to the judgment claimed in his complaint, and his action thus far fails.
+Second. In connection with the plaintiff’s claim for this release by way of specific performance, and as ancillary thereto, he seeks to have the contract on which he sues reformed in certain important particulars, in which he avers that it does not truly express the actual agreement made between him and the defendant. The defendant, in his answer, and in various affidavits used in his behalf on the motion, denies that the contract is in these particulars defective, or that any reformation of it would be proper.
+Third. The plaintiff, in his complaint, also prays judgment for a permanent injunction against the defendant to the same effect as that for which he now moves pendente lite. The granting of an injunction pendente Hie is always in the discretion of the court, and should be ordered with caution, and even with some reluctance, and only when the rights of the plaintiff on the law and the facts are clear, and the necessity for that form of equitable relief is manifest, in order to prevent a failure of justice. In the case at bar, a sufficient remedy seems to exist a.t law. There is no evidence that plaintiff is exposed to irreparable injury by reason of defendant’s failure to sing for him. His theatre is now engaged in the performance of operas, in which the place which would have been filled by the defendant is filled by another artist. His reported.’ interview with a newspaper agent is significant on that subject. The defendant, by Ms letter of June 23,1883, gave the plaintiff ample time to secure himself against irreparable injury by securing a substitute for the defendant. In these respects the facts of the case differ materially from those before the court in Daly v. Smith (49 How. Pr. 150), in which Judge Fbeedmaüt granted an injunction.
+Fourth. The negative clause in .this contract prohibits the defendant from singing in concerts, and does hot in terms prohibit him from singing in operas, theaters, &c. There is no prohibition against his singing in theaters on days in the week other than those specified. by the contract. It is a question whether plaintiff is entitled to an injunction restraining him from commission of an act not prohibited in this negative clause (McCaul v. Braham,16 Fed. Rep. 38). It is open to argument whether the clause in the contract binding the defendant to pay to the plaintiff 15,000 francs “for damages and expenses,” in case of defendant’s failure to perform the contract, does not fix and limit the amount of liquidated damages to which the plaintiff would be entitled. The contract is in the Italian language, and the meaning of the language used is not quite clear; and whether it was intended to fix a penalty or the damages to which plaintiff would be entitled may be gathered from the surrounding circumstances, which may throw light on the intention of the parties (McCaul v. Braham, supra, 41). I am disposed to regard the sum as “liquidated damages and if that be so, the defendant having tendered the amount to the plaintiff in open court, he has complied with that obligation of the contract. This tender also is important as to the question of the inability of the defendant to pay damages to the plaintiff if a judgment for damages were rendered against him. In any case, the possible inability of. defendant to respond in damages is a danger attending all demands, and does not of itself authorize the issuing of an injunction pendente Hie (Watson v. Hunter, 5 Johns. Ch. 169). This action is now at issue on the complaint and answer, and there, is no reason why it should not be speedily tried and the various questions of law and fact which arise in it be deliberately and finally disposed of. I have no time to refer at greater length to such other reasons as have led me to the conclusion at which I have arrived. On the whole case as it now stands there is no ground sufficiently firm and clear on which to base a claim for injunction pendente lite.
+Plaintiff’s motion is denied, with §10 costs.
+In the case of Mapleson v. Lablache, Superior Court, Special Term, October, 1883, an injunction pendente lite, restraining defendant from singing for others, in violation of her contract to sing for ihc plaintiff, was denied, as the complaint did not aver that plaintiff would suffer irreparable injury from defendant’s refusal to sing for him, nor that he could not easily have procured an artist competent to fill defendant’s place.
+Wm.. 3. Arnoux and Haley Fiske, for plaintiff.
+Stephen E. Olin and George L. Bines, for defendant.
+O’Goiíman, J.—The complaint does not aver that the plaintiff would suffer irreparable injury if the defendant does not sing for him; and the facts as they appear on the whole case before me on the pleadings and affidavits do not warrant such a conclusion.
+It is scarcely possible that the plaintiff could not easily have procured an artist competent to fill the place of the defendant; and if she have broken her contract with him, the remedy which the law affords him in an action against her for damages wTould seem ample to enable him to recover compensation for such loss as he may have suffered.
+In my opinion, there is nothing in the case to entitle Mm to an injunction pendente lite.
+The motion on the part of the plaintiff is denied, with $10 cosis.
