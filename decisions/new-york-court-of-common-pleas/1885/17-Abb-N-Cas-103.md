@@ -1,0 +1,27 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1885-04"
+citations: ["17 Abb. N. Cas. 103"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BANNERMAN v. QUACKENBUSH."]
+source_url: "https://static.case.law/abbn-cas/17/cases/0103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 632540
+cites_cases: ["1 Abb. Pr. 167", "1 Abb. Pr. 283", "10 N. Y. Leg. Obs. 316", "16 Abb. Pr. 292", "16 How, Pr. 203", "19 Barb. 592", "3 Sandf. 752", "67 How. Pr. 271", "9 How. Pr. 131"]
+---
+
+# Bannerman v. Quackenbush
+
+## Majority (Daly, J.)
+
+Daly, J.
+—The first sentence of section 738 of the Code of Civil Procedure is identical with section 385 of the former Code, and provides: “The defendant may, before the trial, serve upon the plaintiff’s attorney, a written offer, to allow judgment to be taken against him for a sum or property, or to the effect therein specified, with costs.” Under the former Code, it was held that one joint debtor, or one copartner, might make an offer, that the plaintiff should take judgment against the defendant jointly liable, and if he were authorized to make such an offer by his co-defendants, or if there were a general appearance for all, or if the offer were made to secure a bona fide creditor, judgment might be entered upon the offer against all the defendants in form, and enforced against their joint property and against the individual property of the defendant served (Olwell v. McLaughlin, 10 N. Y. Leg. Obs. 316, Com. Pleas Sp. T., Daly, J., 1852, approved in Bridenbecker v. Mason, 16 How, Pr. 203-207, Supreme. Ct. See also Binney v. Le Gal, 19 Barb. 592; 1 Abb. Pr. 283; Emery v. Emery, 9 How. Pr. 131).
+It was also held that where one of two defendants jointly indebted made an offer to plaintiff to take judgment against him, and his co-defendants were in default for want of an answer, and had not appeared, so that the plaintiff on receipt of the offer might at once enter judgment against both defendants, he must accept it or proceed at his peril as to future costs (La Forge v. Chilson, 3 Sandf. 752; Bridenbecker v. Mason, above).
+The offer made by defendant John E. Quackenbush, was not within any of the above authorities. His co defendant was not in default and had not been served with process, and the offer was not made on behalf of the joint debtors, but was an offer of judgment against himself alone. It was expressly held in Everson v. Gehrman (1 Abb. Pr. 167), that such an offer authorized the entry of judgment against the defendant making the offer, but did not authorize a judgment against him and his copartner as joint debtors ; and a judgment against both entered upon such an offer was set aside as irregular. If the effect of an offer by one of two joint debtors, to allow judgment against himself, is to authorize an individual and not a joint judgment, so that the plaintiff cannot have execution against the joint property, then it is of course an offer of a less favorable judgment than that which he recovers against both joint debtors in form. This was decided in the cáse of joint and several debtors where two' out of four defendants offered to allow judgment against themselves separately (Griffiths v. De Forest, 16 Abb. Pr. 292).
+The Code of Civil Procedure contains a provision not found in the former Code, by which one or more defendants in an action which can be severed, may make the offer of a separate judgment. This provision was inserted to cover such cases as Griffiths v. De Forest (supra), where the action is brought against defendants jointly and severally liable as to whom the action may be severed, and against whom separate judgments may be taken ; but it has no reference to actions against defendants whose liability, is joint, as in the case of copartners sued upon a copartnership debt.
+It has been held since the adoption of the Code of Civil Procedure, that there is no authority for one copartner to make an offer of judgment for the firm (Garrison v. Garrison, 67 How. Pr. 271, and that no offer by one copartner is effectual without evidence that the other copartners approved or ratified it (Weed v. Bergstresser, 2 Monthly L. Bul. 55, following Binney v. Le Gal (supra). But whether we hold that an offer of one joint debtor on behalf of all is as effectual under the present Code as under the former, we must hold upon the authorities under the former Code, that the offer made by John E. Quackenbush to allow judgment against himself was not an offer of a joint judgment, and therefore not an offer of as favorable a judgment as plaintiffs finally obtained against him and his copartner.
+It is urged that as the summons and complaint did not name Abraham Quackenbush as defendant, John E. was not bound to offer judgment against him ; but. it appeared from the answer of John E. that the goods for which the action was brought were purchased by “defendant’s firm,” and his counter-claim was upon an indebtedness to “defendant’s said firm,” and he knew, therefore, that if plaintiff recovered it would be against the firm, and that a judgment against one partner would not be as favorable as a judgment against all, and he was bound to make an offer that would embrace all the members of the firm, whether they were named in the summons and complaint or not.
+The order appealed from should be affirmed, with costs.
+Larremore, Ch. J., and Van Hoesen, J., concurred.
