@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1883-05"
+citations: ["37 N.Y. Sup. Ct. 90"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J., concurred.", "Present — Learned, P. J., Bocees and Boardman, JJ."]
+parties: ["ANNA M. HOUSE, Respondent, v. AMBROSE J. EISENLORD and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/37/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4476672
+cites_cases: ["45 N. Y., 708", "69 S. C., 7", "7 Abb., 340", "9 Hun, 23"]
+---
+
+# House v. Eisenlord
+
+## Majority (Boardman, J.:)
+
+Boardman, J.:
+This action was brought to foreclose a mortgage. By reason off seventeen dollars and fifty cents of interest due May £5, 1880, . remaining unpaid more than thirty days, it was claimed that the whole principal became due and the foreclosure was begun, claiming the whole amount was due-under a provision of the mortgage so providing. The court finds that the payment of the seventeen dollars and fifty cents was deferred, with the consent of plaintiff’s agent and in her interest, under circumstances which prevented the plaintiff from taking any advantage thereof or electing that the whole sum unpaid became due by reason of such default'; that the foreclosure is legal and valid for the seventeen dollars and fifty cents which was the only sum due at the commencement of the action; that no sufficient tender of that sum had been made by the mortgagor and that the plaintiff is not entitled to recover costs. The usual judgment of foreclosure and sale was ordered. TLe defendant appeals, claiming that the action should not have been .sustained and that the complaint should have been dismissed, with; costs to defendant.
+We do not consider this case unreasonable or oppressive. It is .not worthy of imitation. The defendant could at any time have paid the seventeen dollars and fifty cents. No obstacle was interposed. The neglect was his own voluntary act. So far as the plaintiff has attempted to take advantage of it she hás been thwarted and has her own costs to pay. The bad faith of her agent and her own have not profited the plaintiff, nor have they harmed the defendant beyond 'what is due to his own neglect to perform his contract and pay. his interest. The plaintiff waited from May till September before the action was brought. The foreclosure for the seventeen dollars and fifty cents was pursuant to law and' to the terms of the mortgage contract between the parties, and we think the judgment was proper.
+The allowance of costs in equity actions is in the discretion of the trial court. That discretion will not be interfered with on appeal except in case of abuse, which cannot be claimed here, or of palpable error in disregard of-recognized equities and rights. (Morris v. Wheeler, 45 N. Y., 708; Barker v. White, 1 Abb. Ct. of App. Dec., 95.) In Noyes v. Clark (7 Paige, 179) it was the trial oowrt which exercised its discretion in the matter of costs, not an appeal as here. But in that case costs were not allowed the defendant. The same is true of Adams v. Staton (1 Bing., 69 S. C., 7 J. B. Moore, 365), a much stronger case for the defendant than the one under consideration, yet no costs were asked for or given to the defendant. The same is time of the case of Johnson v. Houlditch (1 Burr., 578) which was held to be an oppressive proceeding and for that reason the plaintiff was not allowed any costs. In Slee v. Manhattan (1 Paige, 49, 81), the mortgagor brought his action to redeem against the mortgagee. Because an unconscionable defense was interposed the trial court against the ordinary rule gave the plaintiffs costs. In Detillin v. Gale (7 Ves. 584), Lord Eldon says: “It is admitted there is no instance in which a mortgagee has been called upon to pay costs.” Such a precedent, he says, “ ought to be made upon great consideration.” That was a case by a client against his agent and solicitor (his mortgagee) for redemption. The solicitor by his bad faith in the use of his client’s money and in the conduct of the action made heavy costs, a part of which for these reasons were by the trial court charged against him. Pratt v. Ramsdell (7 Abb., 340, n.), is a Special Term case, and the decision was by the trial cowrt. In Law v. McDonald (9 Hun, 23) a decision was made, Learned, P. J., dissenting, reversing the judgment as to costs because not awarded in accordance with recognized principles of equity. It was considered an extreme exercise of the power of an appellate court. In that case the plaintiff had failed in one cause of action, tried at great length and expense, and succeeded in another. The trial- court charged the defendant with all the costs. In the case before us the defendant is charged with no costs. It was believed that the referee in Law v. McDonald had granted the plaintiff full costs through inadvertence and because his attention had not been called to the subject.
+Had the trial court seen fit to give costs to the defendant this court would not in all probability have disturbed such decision. It would be equally improper to do so now. There was no abuse of discretion. Costs were not given to the mortgagee according to the. usual practice of the court. To that extent the discretion was exercised wisely in favor of defendant. Beyond that, the occasion for the litigation being the neglect of duty and failure to perform his promise by the defendant, he was entitled to no special consideration.
+The case was properly disposed of by the learned justice at Special Term, and no good reason is apparent for protracting the litigation after the decision at Special Term.
+The judgment is affirmed, with costs.
+Learned, P. J., concurred.
+Present — Learned, P. J., Bocees and Boardman, JJ.
+Judgment affirmed, with costs.
