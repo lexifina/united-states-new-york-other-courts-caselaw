@@ -1,0 +1,18 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1889-04-25"
+citations: ["22 N.Y. St. Rep. 1006"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN OTTERSTEDT, Resp’t, v. HENRY KIRK, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/22/cases/1006-05.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020493
+---
+
+# Otterstedt v. Kirk
+
+## Majority
+
+Final order affirmed, with costs.
