@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-12-09"
+citations: ["49 N.Y. St. Rep. 275"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank Dilts, Resp’t, v. Anthony W. Sweet, App’lt"]
+source_url: "https://static.case.law/ny-st-rep/49/cases/0275-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2093002
+cites_cases: ["14 Hun, 444", "4 St. Rep., 167", "41 Hun, 215"]
+---
+
+# Dilts v. Sweet
+
+## Majority (Hardin, P. J.)
+
+Hardin, P. J.
+Plaintiff in his complaint alleges “ That said mill was fully equipped in or about the month of January, 1891, and was duly accepted and taken possession thereof by said defendant. ” The trial court found “ That the defendant, about the 2d day of January, 1891, took possession of said paper mill and accepted the same, and has ever since occupied and used the same in the manufacture of paper.” And also found: “ That thereafter and on or about the 27th day of March, 1891, the plaintiff demanded of the defendant that he execute the bond- and mortgage as security for the payment of the contract price for said labor and materials furnished by him. That the defendant claimed some slight defects in the performance of the work under said contract, to wit: that the arch in which the boiler was set had. cracked, and that the roof over the bqiler leaked, and he then promised when these were fixed he would execute the mortgage. That at that time no claim was made by the defendant for damages sustained because the mill had not been completed on the 1st day of December, 1890, as provided in the, contract. That the plaintiff thereupon relaid the arch and repaired the roof in a manner satisfactory to the defendant as he then declared, which said work was done at an expense of about seventy dollars to the plaintiff.”
+We think these findings are supported by the evidence. After the findings quoted had been made by the trial judge, we think there was no occasion to yield to the request found as Ho. 27, to wit: “ That the plaintiff failed to complete said mill on December 1,
+1890, as he had agreed to do by the terms of said written contract mentioned in the first finding of fact.” If such request had been yielded to, it is not apparent how the result would have been changed. In the second conclusion of law it is provided: “ If said defendant elect to remove the said steam engine hereinbefore described from his said paper mill and return it to the plaintiff, he be credited upon said sum of $797.63 the sum of $175, the actual cost of a like engine made at Baldwinsville, H. Y., which I deem is equitable to allow him in case he elects to restore said engine to said, plaintiff.” Under the circumstances disclosed by the evidence this provision seems to be just and reasonable and to eliminate all questions in respect to the engine.
+(2) Whether the defendant should be charged with the costs of this equity action, was a question resting in the discretion of the trial court. To disturb the exercise of that discretion, we should be required to say that it had been abused. Woodford v. Bucklin, 14 Hun, 444; Staiger v. Schultz, 3 Abb., N. S., 377. Assuming that the finding mentioned is correct to the effect that the defendant on the 2d of January, 1891, took possession of the paper mill and accepted the same, and agreed that if the slight defects mentioned in the interview of the 27th of March, 1891, were remedied he would execute the mortgage, his subsequent conduct in receding from that agreement and litigating unsuccessfuly several questions made upon the trial, warranted the exercise of the discretion in regard to the costs as stated by the trial judge.
+In Couch v. Millard, 41 Hun, 215 ; 4 St. Rep., 167, it was said: “ When a creditor recovers a debt in an equitable action, he recovers costs also, unless'special and strong reasons to the contrary prevent.” We find no occasion to differ with the learned trial judge in his conclusions of fact or statement of the rules of equity found in his findings and opinion delivered at the special term.
+Judgment affirmed, with costs.
+Martin and Merwin, JJ., concur.
