@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court"
+decided: "1879-05"
+citations: ["25 N.Y. Sup. Ct. 214"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Learned, P. J.; BoardmaN and Bocees, JJ."]
+parties: ["THE GLEN’S FALLS PAPER COMPANY, Appellant, v. WILLIAM H. WHITE, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/25/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8594267
+cites_cases: ["3 N. Y., 66", "63 N. Y., 66"]
+---
+
+# Glen's Falls Paper Co. v. White
+
+## Majority (Learned, P. J.:)
+
+Learned, P. J.:
+This is an action by a judgment creditor of the “ Evening Mail Association,” against a trustee thereof, to recover the amount of the judgment, on the ground of a failure to file and publish the annual statement required by law. A certain statement was published, and is set forth in the complaint. But the plaintiff claims that such statement was imperfect and defective, and that the defendant is, therefore, liable. The defendant demurred, and the court below sustained the demurrer. The plaintiff appeals ; and the only question is on the sufficiency of the statement, and of its verification.
+I. It is claimed that the statement was not signed by the requisite number of trustees. The statute requires the statement to be signed by the president and a majority of the trustees. There -were five trustees, of whom the president was one. The statement was signed by the president and two other trustees. That was sufficient.
+II. The statute requires the report to be verified by the oath of the president or secretary. In the present case the affidavit of the president is attached, stating that the report “is in all respects true to the best of his knowledge and belief.” The plaintiff claims that the affidavit should have boon positive, and not qualified by the phrase “ to the best of his knowledge and belief.” The statute does not expressly require a positive affidavit; and, indeed, it gives no form whatever. The word “ verified” by no means implies, in all cases, an unqualified affidavit. Pleadings are “verified ; ” although the affidavit is in part on information and belief. It may be impossible for the president to swear positively to the amount of debts ; because it is easy to conceive that other officers of the company may have contracted debts for which the company is liable, and of which ho is ignorant. The verification was in proper form.
+III. It is objected that the statement does not show the amount of existing debts. The language of the statement is: “ The amount of its existing debts does not exceed $75,000.” The object of the statute in requiring these statements is to exhibit to 'the public the pecuniary condition of the company, in order that the public may know how far it is safe to deal with it. It might be difficult to compute to the very cent the exact amount of indebtedness, with accrued interest, owing at the date of the report. It is a reasonable compliance with the statute to show that the indebtedness does not exceed a certain amount. (Whitney Arms Co. v. Barlow, 63 N. Y., 66.)
+IY. A further objection is made that the statement does not state what proportion of the capital stock has been paid in, or how much was issued for money, or how much for property. The defendant claims that this defect is not averred in the complaint. But the complaint sets out the whole statement in full, and avers that it is not in compliance with the statute. Whether it is, or is not, is a question of law, not of fact. In the case of McHarg v. Eastman (4 Robt., 635), on which the defendant relies, it does not appear that the complaint set out the statement. The contrary would appear from the opinion. We think, therefore, that the plaintiff may raise this point to sustain his complaint.
+The statement in this particular is in these words: “Amount of capital stock, of which all but five shares were issued for the purchase of property necessary for the business of the association, and such five shares have been paid in full, $150,000.” The detect alleged is, that this does not show what proportion of the capital stock has been paid in, nor what has been issued for property. (Sess. Laws, 1853, ch. 333, § 2.) It seems to us that, in this respect, the statement is radically defective. One cannot discover, or conjecture, from that statement how much money has been paid in; because no indication is given of the par value of the shares. If the shares are five dollars each, then the company has twenty-five dollars paid in. If the shares are $5,000 each, then the company has $25,000 paid in. And, therefore, the amount issued for property is eritirely uncertain. The defendant has no right to urge that this uncertainty might be cleared up by an examination of the certificate of incorporation on file. That certificate formed no part of the published statement.
+Nor is the defendant aided by the decision in Whitney Arms Co. v. Barlow (ut supra). There the court held that, notwithstanding a grammatical criticism, the fair meaning was that the. capital was $300,000, and that the whole of that amount had been issued for the purchase of property. But, in this present case, no possible grammatical construction of the statement will inform the reader “the proportion actually paid in,” or the amount of stock issued for property. If the statement had also given the total number of shares, or the par value of a share, or the amount of cash paid in, in either case, the matter would have been clear. But, as it is, we think the statement was defective in a material respect.
+The opinion of the learned justice who decided the case below discusses only the three points first above mentioned. And in regard to these, we agree with his conclusions. He says nothing on this last point, on which alone we reverse the judgment.
+The judgment appealed from must be reversed and judgment given for the plaintiff on the demurrer, with costs ; with leave, however, to defendant to answer within twenty days after service of a copy of this judgment, upon payment of costs on the demurrer in the court below, and also on this appeal.
+Present — Learned, P. J.; BoardmaN and Bocees, JJ.
+Ordered accordingly.
