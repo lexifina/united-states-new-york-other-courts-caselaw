@@ -1,0 +1,25 @@
+---
+court: "New York Surrogate's Court"
+decided: "1896-01"
+citations: ["73 N.Y. St. Rep. 3"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of a Petition for Probate of the Will of Nelson B. Gregory, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/73/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990791
+cites_cases: ["128 Ind. 472", "13 Misc. Rep. 363", "69 St. Rep. 478", "89 N. C. 441"]
+---
+
+# In re a Petition for Probate of the Will of Gregory
+
+## Majority (ARNOLD, S.)
+
+ARNOLD, S.
+A paper writing is here offered for probate as the last will and testament of Nelson B. Gregory, deceased. It was duly executed on the 27th day of June, 1889, and devises and bequeaths all the testator’s property to his brothers and sisters, nephews and nieces. The contestant is the adopted daughter of the testator. She is not named in the will, and no provision has been made for her in any way by the testator. All of the facts in this case fully appear in a former decision of this court. In re Gregory’s Estate, 13 Misc. Rep. 363; 69 St. Rep. 478.
+The contestant was duly adopted by testator on the 23d day of July, 1894. Hedied on the 23d day of September, 1894. Her special guardian here contends that the effect of this adoption was to revoke the will, or at least to render it inoperative. The Be-vised Statutes of this state provide the ways in which wills shall be canceled or revoked. See 2 Rev. St. p. 64, §§ 42, 43, 49. None of the provisions of the Bevised Statutes ajd contestant in her contention. She must rely entirely upon chapter 830 of the Laws of 1873, as amended by chapter 703 of the Laws of 1887. Section 10 of the above act reads as follows :
+“A child, when adopted, shall take the name of the person adopting, and the two henceforth shall sustain toward each other the legal relation of parent and child, and have all the rights and be subject to all the duties of that relation [including] the right of inheritance, and the heirs and, next of kin of the child so adopted shall be the same as if the said child was the legitimate child of the person adopting, excepting that as respects the passing and limitation over of real and personal property, under and by deeds, conveyances, wills, devises and trusts, dependent upon the pérson adopting dying without heirs said child adopted shall not be deemed to sustain the legal relation of child to the person so adopting as to defeat the rights of remaindermen, and in case of the death óf the person so adopted the person so adopting as above provided shall, for the purpose of inheritance, sustain the relation of parent to the person so adopted.”
+By this act the legal effect of an adoption in this state now is to put the person adopting and the child adopted in the relation of parent and child, accompanied by all the legal consequences of that relationship.
+Saving the exception noted in the section of the above quoted as to the passing of property dependent upon the person adopting dying without heirs, the contestant, by this adoption, was placed in exactly the same position as though she were the child of Nelson B. Gregory, born in lawful wedlock. She was not given by this act the rights of. an after-born child under the statute, but she was given all the other rights of a child. She had the same right of inheritance as a legitimate child of the person so adopting, and no greater. Suppose that Dr. Gregory, at the time of adopting contestant, had had a legitimate child, who was born before the making of this will, tills will would at his death, if unrevoked, have cut off the rights of such legitimate child in his property. It works the same result with the adopted child. The right of in- „ heritance of an adopted child is like that of any other child or heir, subject to the testamentary power of the adopting parent. Austin v. Davis, 128 Ind. 472; Davis v. Fogle, 124 id. 41; Davis v. King, 89 N. C. 441. A will made either before or after the adoption must be admitted to probate. The court, before it could make an order of adoption, was required to be satisfied that the moral and temporal interests of the child would be promoted by adoption. The intent of the law was that the adoption should work an advantage to the child, and such was, doubtless, the intent of Dr. Gregory; but, before anything was done to effectuate this, death visited him, and this will was left in existence. The circumstances in this case lead me to express the hope that the persons receiving the benefits given by this will will remember that this contestant is the natural daughter, as well as the adopted daughter, of decedent, and that they may be led to give to her some portion of that which the law cannot give. The will must be admitted to probate.
+Decreed accordingly.
