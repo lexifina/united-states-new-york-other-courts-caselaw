@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-25"
+citations: ["17 N.Y. St. Rep. 681"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emma L. Doremus, App’lt, v. Abraham Lott et al., Executors, etc., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0681-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008228
+cites_cases: ["38 How. Pr., 413"]
+---
+
+# Doremus v. Lott
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+seems to me this case falls within the excep_ tion to the rule that where one lives with another as a member of the family, to be provided for and brought up as such member, for services rendered while in this relation no recovery can be had.
+The plaintiff was not a relative of the deceased and the proof shows that she was not treated as if she had been a daughter of the testatrix.
+It may well be that for several years the board and clothing of the plaintiff was an equivalent for her services, but this cannot be said of the later years of her service.
+The fact that the plaintiff ate at the same table and joined in conversation is not conclusive that she was treated as a member of the family, especially in view of the fact that she was not permitted to attend school, but was required to work continuously as a servant.
+The testatrix refused to send the plaintiff to school giving as a reason that she desired her to work. This indicates that she did not receive her into the family to be treated as a member thereof. The plaintiff received no education whatever, although there was a free school in the immediate neighborhood.
+The evidence was sufficient to warrant the inference that plaintiff was to be remunerated for her services.
+The testatrix stated to a third party in 1872 that she had up to that time clothed the plaintiff but now she could buy her own clothes. Such a statement indicated that some arrangement had been made by which the plaintiff was to receive wages.
+The fact that the testatrix desired to change her will and give plaintiff a legacy shows that either she thought the plaintiff had not been paid or that she deserved a gratuity for kind and faithful services.
+The inference can be fairly drawn from all the testimony that in a legal sense the plaintiff was never regarded as a member of the family but rather as a favored servant.
+In any event we fail to see, under all the circumstances, why she should not have been allowed for services after she arrived at full age. 38 How. Pr., 413 and 414.
+Judgment reversed, and new trial ordered.
+Barnard, P. J., and Dykman, J., concur.
