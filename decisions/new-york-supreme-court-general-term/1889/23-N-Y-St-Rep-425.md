@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-03-29"
+citations: ["23 N.Y. St. Rep. 425"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anne Harnickell, Resp’t, v. Parrot Silver Mining Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/23/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 653753
+---
+
+# Harnickell v. Parrot Silver Mining Co.
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This case has once before been to the general term upon substantially the same testimony, the complaint having been dismissed at the trial; and it was then held that the questions of fact should have been submitted to the jury for their consideration. 15 N. Y. State Rep., 223. There does not seem to have been any material variation in the testimony upon this second trial.
+It is true it is claimed upon the part of the appellant that one of the witnesses for the plaintiff gave additional testimony which was favorable to the defendant; but an examination ,of the case shows that there was evidence in the previous case to the same purport, and from which the jury might have drawn the same inference. We, therefore, do not think it necessary to discuss again the questions which we discussed upon the previous appeal. The court having held that these questions should have been submitted to the jury, and they having been submitted to the jury, and the jury having found against the defendant thereon, the court will not disturb the verdict unless there have been some errors in the admission or rejection of testimony.
+Our attention has been called to such objections, and great reliance seems to have been made upon the same by the counsel for the appellant. But upon an examination of the same, it will appear that the rulings were correct and form no ground for a reversal of the judgment.
+It is urged that the court erred in ruling out this question; “Was Hamickell retained by, or did he act for, the defendant in this case, in any respect, in the negotiation of this contract?”
+This was objected to as calling for a conclusion of law; the court sustained the objection, and the defendant excepted. It may be true that the question did not entirely call for a conclusion of law, but it undoubtedly called for a conclusion, and not for evidence.
+The question as to whether Mr. Harnickell was retained by, or whether he acted for the defendant, depended upon the acts and conduct of the parties; and the answer was necessarily a mixed question of law and fact, the question of law being dependent upon the, question of fact. It was the point upon which the jury were to determine, and it was asking the witness to usurp the functions of the jury which it is not necessary to cite authorities to show is error.
+The exceptions taken at fols. 16 and 71 do not seem to have had any valid foundation. The question objected to may have been leading, and the judge might have been justified in excluding them upon this ground, but no such objection was taken and the party examining had the right to have the witness explain the meaning of the answers which he had given to previous interrogatories.
+Objection is also taken to the following question: “Mr. Harnickell originated the idea of the selling by the Silver and Copper Co. to you of their copper, did he not ?” This question was objected to upon the ground that the witness could not tell what originated in Mr. Harnickell’s mind.
+This objections is clearly untenable because that is not the purport of the question. It is apparent that mental operations were not being inquired into; but that it was intended to ask the witness whether Mr. Harnickell did first suggest the idea, and not whether the idea did not first originate in his mind.
+It was clear that the court so understood it, and it was clear that the witness so understood it, and it would be the ordinary acceptation of the terms used in the connection in which they were employed.
+The objections to the question at folios 160 to 163 seem to be unavailable. The questions were all asking for the conclusion of the witness as to the very issue upon which the jury were to determine. It was in no way calling for evidence or for testimony as to what took place between these parties from which the jury were to draw conclusions, but it was an inquiry as to a conclusion of the witness.
+The answer to the question at folio 163 was properly stricken out, as it was entirely irresponsive.
+The witness was asked whether he could state any conversation that ever occurred between himself and Harnickell upon a given subject; and his answer‘was that there never had been any such conversation. He had not been asked to state the conversation; and upon motion of the plaintiff’s counsel the answer was properly stricken out. Whether, if after answering the inquiry, the evidence given by the witness upon the .subject was competent or not is not before us, as no question tending to bring out that evidence was asked and excluded.
+It is urged that the court erred in allowing the plaintiff to read from a letter of Pope, Cole & Co., to the defendant, dated March, 1883, long after the contract was made. But it appears from the record that no objection whatever was taken to the reading of this letter, and, consequently, none can be urged here, and if there were, it does not, by any means, appear that such objection would be well taken.
+The allowance of the question at folios 187 was entirely proper. The witness had given testimony which seems to be contradicted by this subsequent action. At folio 179 the witness’ had sworn that he did not consider this claim of the plaintiff as a serious matter at all, and that he supposed when Harnickell first spoke of it that he was joking, and they had a right to show that the witness •did consider this claim of great importance, and not the trivial matter which he claimed to consider it by his previoustestimony. And furthermore at folio 180 the same question had been asked and answered without objection.
+1 We do not think that any of the exceptions to which attention has been directed call for a reversal of the verdict, and the judgment appealed from must therefore be affirmed, with costs.
+Daniels and Brady, JJ., concur.
