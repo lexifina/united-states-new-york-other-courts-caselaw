@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court"
+decided: "1893-09"
+citations: ["78 N.Y. Sup. Ct. 369"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin, P. J., and Merwin, J., concurred."]
+parties: ["Edward H. Foley and John Costello, Respondents, v. Farragut Fire Insurance Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/78/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8594595
+cites_cases: ["17 N. Y. 391", "2 N. Y. 210", "45 N. Y. 606", "5 Bosw. 247", "55 N. Y. 343", "60 N. Y., 619"]
+---
+
+# Foley v. Farragut Fire Insurance
+
+## Majority (Parker, J.:)
+
+Parker, J.:
+The question presented upon this appeal, briefly stated, is as follows:
+Plaintiffs insured with defendant three wooden houses in process of construction, by a contractor, upon their premises, and upon stone foundations built by themselves. Under the terms of the contract the builder was to furnish hll materials and do all the work, and he was to be paid within ten days after the completion of the houses. The amount of the insurance was “ Four hundred' dollars upon each of their three, two-story, frame, shingle-roofed buildings and extensions thereto,” etc., and was not to exceed in all $1,200.
+Soon after the insurance, and before either building was completed or accepted, a fire totally destroyed two of them and injured another to the extent of $100. At the time of the fire the plaintiffs had paid only $250 upon their contract. Under such circumstances are the plaintiffs entitled, in an action upon the policy, to recover as their damages the actual value of the property burned, or must they be confined to the value of the foundations built by themselves ?
+Upon the trial, the court held that the loss was to be ascertained from the actual value of the property destroyed, and as there was no dispute over that ainount, a verdict was directed in favor of tlie plaintiffs. From the judgment entered upon such verdict this appeal is brought.
+The defendant claims that inasmuch as the contractor must furnish new materials and rebuild the houses entirely before he can claim any compensation whatever, the plaintiffs suffer no damage by the destruction of that part under contract, and hence that they can recover nothing for it.
+Unless the contract indicates that it was the intention of the assured to effect the insurance for himself and any other person who, during the continuance of the policy, should have an interest in the property insured (as was the case in Waring v. Indemnity Fire Co., 45 N. Y. 606), a policy of insurance is deemed a personal contract of indemnity, and the insured cannot recover beyond the extent of his interest in the subject insured. (Wood on Fire Insurance, § 473 ; Grosvenor v. Atlantic Fire Ins. Co., 17 N. Y. 391, 392 ; Shotwell v. Jefferson Ins. Co., 5 Bosw. 247 ; Murdock v. Chenango Co. Mut. Ins. Co., 2 N. Y. 210 ; Cross v. National Fire Ins. Co., 132 id. 133.)
+But the application of that rule to the case before us does not sustain the position taken by the defendant’s counsel. The plaintiffs in this action were the owners and in possession of the premises and foundations upon which these houses were erected. Although they were not yet completed, and the plaintiffs were under no obligation to pay for them at the time they were burned, they were, nevertheless, the property of the plaintiffs. They were annexed to their freehold, and added to its value. Their destruction diminished its value by just the value of the houses as they stood there, and, hence, the plaintiffs had an interest in them to just that amount.
+The plaintiffs’ interest in the houses was none the less an insurable one because they had not been paid for. (Excelsior F. Ins. Co. v. R. Ins. Co. of Liverpool, 55 N. Y. 343.) Nor were they any the less their property because the contractor was bound to rebuild them before he could demand his pay. Suppose the contractor refused to rebuild and abandoned his contract, in that event, very dearly, tbe plaintiffs would lose the benefit of such houses to their premises. True they might recover damages against him for a breach of his contract, but that would not be for the full value of the houses, and no adequate compensation for their loss.
+We think there can be no doubt but that the plaintiffs had an interest in the preservation of those houses upon their premises, to the extent of their value, and, hence, they had the right to insure such interest. (Cone v. Niagara Fire Ins. Co., 60 N. Y., 619; Figgs v. Commercial Mutual Ins. Co., 125 id. 7.) They could do so for the very purpose of obtaining a better security against their loss than the personal obligation of the contractor. (Hancox v. Fishing Ins. Co., 3 Sumn. [U. S.] 132.)
+The defendant has contracted with them as if they had such interest, and the policy itself fixes the manner in which the loss or damage shall be ascertained —that is, it shall be ascertained or estimated according to the actual cash value of the property insured. There is no claim that there was any misrepresentation or misconception of what the defendant’s interest was, and, therefore, no reason is shown why the defendant should be allowed to lessen the recovery against it below the amount fixed by its contract.
+The judgment is correct and should be affirmed, with costs.
+Hardin, P. J., and Merwin, J., concurred.
+Judgment affirmed, with costs.
