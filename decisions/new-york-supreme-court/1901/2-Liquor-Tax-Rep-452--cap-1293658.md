@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1901-02"
-citations: ["2 Liquor Tax Rep. 452", "2 Liquor Tax Rep. 451"]
+decided_precision: "month"
+citations: ["2 Liquor Tax Rep. 452"]
 reporter: "liquor-tax-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
