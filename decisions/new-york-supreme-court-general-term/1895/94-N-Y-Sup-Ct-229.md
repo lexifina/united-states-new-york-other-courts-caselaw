@@ -1,0 +1,37 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-05"
+citations: ["94 N.Y. Sup. Ct. 229"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Brien, L, concurred; Van Brunt, P. J., dissented."]
+parties: ["The People of the State of New York v. The American Steam Boiler Insurance Company of New York City (Henry S. Ward as Receiver), Respondent. The Superintendent of the Insurance Department of the State of New York, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/94/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4786306
+cites_cases: ["81 Hun, 198"]
+---
+
+# People v. American Steam Boiler Insurance
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+The American Steam Boiler Insurance Company was incorporated, pursuant to chapter 463, Laws of 1853, with an authorized and paid-up capital of $200,000. By the 6th section of this statute, as amended by chapter 551, Laws of 1853, insurance corporations were required to deposit with the Comptroller of this State securities of a certain value, to be held by him pursuant to this provision of said section:
+“ The Comptroller shall hold such stocks or securities as security for policy holders in said companies; but, so long as any company so depositing shall continue solvent, may permit such company to collect the interest or dividends on its stocks or securities so deposited, and, from time to time, to withdraw any of such securities, on. depositing with the Comptroller other securities of like character, the market value of which shall be, at the time of such deposit, at or above par.”
+By chapter 366, Laws of 1859, the insurance department was created, and the securities deposited with the Comptroller were transferred to the department of insurance, and thereafter all securities were required to be deposited with that department.
+November 5, 1883, the American Steam Boiler Insurance Company deposited with the insurance department, pursuant to said section, United States four and one-half per cent registered bonds of the par value of $100,000, which were subsequently withdrawn, and consolidated three per cent stock or dock bonds of the city of New York (the interest on which is payable on May first and November first in each year) were substituted in the place of the bonds of the United States so withdrawn. By section 2 of chapter 517, Laws of 1888, it was provided:
+“ § 2. The stock and securities so deposited may be exchanged from time to time for other securities, receivable as aforesaid, and so long as the company so depositing shall continue solvent and comply with the laws of this State, it may be permitted by the said Superintendent to collect the interest or dividends on said deposit.”
+In 1892 the statutes relating to insurance were revised and consolidated by chapter 690, and by section 14 of this act it is provided:
+“ § 14. Exchange of securities ; i/nterest.— The stocks and securities deposited with the superintendent of insurance, pursuant to the provisions of this chapter, or heretofore deposited with him, may be exchanged from time to time for other securities receivable, as provided in this chapter, and so long as the corporation depositing the securities shall continue solvent and comply with the laws of the State, it shall be permitted by the superintendent to collect the interest or dividends on such deposits.”
+November 6, 1893, an action was begun in this court to dissolve the corporation, pursuant to the 3d subdivision of section 1785 of the Code of Civil Procedure:
+“ § 1785. In either of the following cases an action to procure a judgment, dissolving a corporation created by or under the laws of the State, and forfeiting its corporate rights, privileges and franchises, may be maintained, as prescribed in the next section : * * *
+“ 3. Where it has suspended its ordinary and lawful business for at least one year.”
+On the 21st of November, 1893, a final judgment was entered in the action dissolving the corporation under which Henry S. Ward was appointed permanent receiver of the corporation and of its assets. The receiver gave a bond, which was duly approved, and since that time he has been engaged in the discharge of his duties.
+The 1st day of May, 1891, the insurance department collected $1,500, the interest due on that date on said bonds, and thereafter the receiver .duly demanded the payment of said sum to him, which was refused, and in June, 1891, he applied at a Special Term of this court for an order requiring the department to pay over said sum. The motion was denied, but on appeal the order was reversed by this court and leave granted to make a new motion (81 Hun, 198). In the meantime $1,500, the interest due on said bonds November 1, 1891, fell due, which the department also collected. This sum was duly demanded by the receiver, and upon refusal a motion was made for an order requiring the department to pay to the receiver said two sums, amounting to $3,000, which was granted, and the department appealed.
+By the record it appears that the American Steam Boiler Insurance Company is not insolvent, but has sufficient assets to pay all of its liabilities, and, besides, a considerable dividend to its shareholders. The corporation was not dissolved because it was insolvent, but because it chose to discontinue its business. These facts are not disputed. It is clear that the department has no right to collect and hold the interest on the ground that the corporation is insolvent, for it is conceded that it is not, nor can the department retain the inter•est on the ground that the corporation has failed to comply with the laws of the State, because it is not alleged that it has failed to •comply with the laws in any respect. The statutes authorize such a corporation voluntarily to discontinue business and wind up its affairs, and we see no ground on which the department has the right to retain the interest collected on the bonds. It is not alleged that the receiver lias been guilty of any misconduct, or that he has not discharged his duties pursuant to the statutes of the State and the rules of the court.
+By the 16th section of chapter 690, Laws of 1892, it is provided that in case an insurance corporation shall be adjudged to be insolvent and a receiver shall be appointed, he “ shall take possession of all such assets and credits, including the securities deposited in the insurance department.” The next section provides that the court may order the securities held by the department to be converted into money and the proceeds paid by the department to the, receiver. It cannot be that the Legislature intended that the securities of insolvent corporations should be turned over to receivers or the avails thereof pursuant to an order of the court, and that the •court should not have power to direct that the income arising from securities should be paid over to the receiver of a solvent corporation for the purpose of winding up its affairs. The reasons given for the judgment rendered when this case was first before this court are sufficient and satisfactory, and further discussion seems unnecessary.
+The order should be affirmed, with ten dollars costs and disbursements.
+O’Brien, L, concurred; Van Brunt, P. J., dissented.
+Order affirmed, with ten dollars costs and disbursements.
