@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12"
+citations: ["90 N.Y. Sup. Ct. 50"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Follett and O’Brien, JJ\"., concurred."]
+parties: ["In the Matter of Opening and Widening Riverside Avenue Between One Hundred and Twenty-seventh Street and Claremont Place. Daniel F. Tiemann and Another, Appellants. The Mayor, Aldermen and Commonalty of the City of New York, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/90/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1930788
+---
+
+# In re Opening & Widening Riverside Avenue Between One Hundred & Twenty-Seventh Street & Claremont Place
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+In 1892 the Legislature passed an act (Chap. 548) providing for the taking of land for the widening of Riverside drive, between One Hundred and Twenty-seventh street and Claremont place, which widening consisted in taking fourteen feet from the lands on the easterly side thereof. Commissioners of appraisal were appointed in pursuance of said act, and they having reported, the report was confirmed, and from the order of confirmation this appeal is taken.
+There is no question about the fact that the report of the commissioners of appraisal is subject to the supervision of this court. Otherwise there would be no necessity for any application to the court for confirmation. The mere fact that such application is required to be made shows that it was the intention of the Legislature that the court should have control and supervision over the action of the commissioners. '
+In the case at bar it is urged that the awards were contrary to the evidence and were calculated upon an erroneous principle, and that the commissioners were guilty of misconduct, because they viewed the premises, which they had no authority to do. It is also claimed that the report should be set aside because one of the commissioners took very little part in the matter of appraisal.
+In the consideration of these objections it is proper that they should be taken up in their inverse order of statement.
+The fact that one of the commissioners was not present at most of the hearings does not seem to invalidate the proceeding. (Chap. 410, §§ 967 and 989, Laws of 1882.) In any event, our attention is not called to any statute which has any such effect.
+The claim that the commissioners erred in viewing the premises is founded upon the meagre phraseology of the act under which the commissioners of appraisal acted. The act provides that “ the counsel to the corporation, on the petition of the commissioners of public parks in said city, shall apply to a Special Term of the Supreme Court in the first judicial department for the appointment of commissioners of appraisal to ascertain and determine the loss and damage to the owners of the property required for such widening in consequence of relinquishing the same to public use. All provisions of law in relation to notice of application for the appointment of commissioners of estimate and assessment in street opening proceedings, and in relation to hearings therein, the making and confirmation of the report therein, and the taxation of costs and the amount thereof, and the payment of awards made for lands taken, shall be applicable to proceedings under this act, provided that no assessment for benefit shall be made in such proceedings, but the expense incurred for the improvement shall be paid in the manner hereinafter provided.”
+It was evidently the intention of the Legislature that the commissioners of appraisal should proceed in the same manner in which similar commissioners in street opening proceedings were required to proceed by law. The provision of the statute is that all the provisions of law in reference to notice of application for the appointment of commissioners in street opening proceedings and those in relation to hearings thereon, and as to the making and confirmation of the report, etc., should be applicable. It would' be impossible for the provisions of the statute in reference to hearings to be applied, without the proceedings which, under the street opening act, are preliminary to the hearing should have been also performed. In street opening proceedings it is provided that the commissioners may view the lands, and then they are to make a just and equitable estimate and assessment and to file proper maps; and then comes the provision granting to objectors an opportunity to be heard. Without these preliminary proceedings there would be nothing in respect to which the objectors could be heard; and it is the clear intent of the act that the commissioners, after the hearing only, shall have authority to make corrections or alterations in their assessment which the said commissioners, or any two of them, shall find to be just and proper, and after this, their report is to be presented to the court for its action. The commissioners, therefore, would seem to have had the authority to view the premises, if they considered it necessary, for the purpose of appraisement.
+The next question to be considered is that of the damages which have been awarded for the taking of the property in question. "We see no reason for interfering with the conclusion of the commissioners in th..t regard. We think the claim advanced upon the part of the appellants is not well founded and that the commissioners adopted the true rule of damages, which w'as the difference between the value of what remained and the value of the whole lot, including the fourteen .feet taken for this improvement.
+It is true that the commissioners had no right to take into consideration the question of benefits, as they were not authorized to levy any assessment for benefits. But the ordinary rule of damages is the difference between the value of the thing as damaged and its value in its original condition. This seems to have been the rule applied by the commissioners in the case at bgr, and fully indemnified the owners of the lands for the property taken.
+The order appealed from should be affirmed, with costs.
+Follett and O’Brien, JJ"., concurred.
+Order affirmed, with costs.
