@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1857-09"
-citations: ["5 Abb. Pr. 227", "5 Abb. Pr. 229"]
+decided_precision: "month"
+citations: ["5 Abb. Pr. 227"]
 reporter: "abb-pr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["LOWERRE a. VAIL."]
 source_url: "https://static.case.law/abb-pr/5/cases/0227-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4575662
-cites_cases: ["14 N. H., 121", "2 Wend., 285", "3 Den., 164", "3 Den., 165", "3 Johns., 249", "4 Cow., 548", "4 Wend, 209", "5 Cow., 14", "5 Cow., 267", "8 Ired., 74", "9 Wend., 486"]
+cites_cases: ["2 Wend., 285", "8 Ired., 74"]
 ---
 
 # Lowerre v. Vail
