@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1881-10"
+citations: ["32 N.Y. Sup. Ct. 234"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin and Haight, JJ., concurred."]
+parties: ["ADELINE M. PERRIGO, Appellant, v. CATHERINE DOWDALL, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/32/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1918918
+cites_cases: ["1 Wend., 295", "5 N. Y., 558"]
+---
+
+# Perrigo v. Dowdall
+
+## Majority (Smith, P. J.:)
+
+Smith, P. J.:
+The evidence is convincing that Thomas Dowdall conducted the defense of this action on his own account, the defendant on the record being his mother and his tenant. The action was for trespass on the plaintiff’s land, and one of the defenses set up was that the locus in quo was owned by Thomas Dowdall and he was entitled to the possession of it, and the acts constituting the alleged trespass were done by his direction. It is understood that the motion to charge Dowdall with the costs of the defense was denied on the ground that such a practice prevails only in actions of ejectment, when the suit being against the tenant, his landlord undertakes the defense. Such was once the law; but the reason for it was that there was a statute then in existence which gave the landlord in such case an opportunity to come in and defend his title, on being notified by the tenant, and the opportunity thus given was confined to landlords whose title was involved in actions of ejectment. (1 R. L., 443; Jackson v. Van Antwerp, 1 Wend., 295 ; The Farmers’ Loan and Trust Company v. Kursch, 5 N. Y., 558.) A change of the statute gave the rule a broader application. The Revised Statutes provided that “no imparlance, voucher, aid, prayer or receipt shall be allowed ; but whenever any action shall be brought against any tenant to recover the land held by him, or the possession of such land, the landlord of such tenant, and any person having any privity of estate or interest with such tenant, or with such landlord, in the premises in question, or in any part thereof, may be made defendant with such tenant in case he shall appear, or may at his election appear, without such tenant.” Under that statute it was held in the case of The Farmers’ Loan and Trust Company v. Kursch (supra) that a person who was not the landlord of the defendant in ejectment but was his grantor-with warranty, and who, without causing himself to be made a party, had defended the suit unsuccessfully in the name of the original defendant, should pay the costs of the plaintiff after execution against the defendant on the record had been returned unsatisfied. The opinion of Chief Justice Ruggj,es in that case reviews the prior cases and asserts the doctrine, as we understand it, that where a person not a defendant on the record, to whom the statute gives the opportunity of defending, avails himself of the opportunity by defending in the name of the party sued, lie is liable for costs in case of failure, no matter what the form or nature of the action may be, provided the costs cannot be collected of the defendant on the record. If he avails himself of the opportunity of defending given by the statute, he is chargeable with costs if he fails. By the application of that rule Dowdall is liable if the costs cannot be collected of the defendant. The last clause of •section 452 of the Code of Civil Procedure, which had taken effect prior to the commencement of this action, provides that “ where a person^ not a party to the action has an interest in the subject thereof or in real property, the title to which may in any manner be affected by the judgment, and makes application to the court to. be made a party, it must direct him to he brought in by the proper amendment.” Here, by the pleadings, the title to land claimed by Dowdall was put in issue. The defendant was his tenant, and she set up his title. It was a case in which, by the statute, he had a right to come in and defend. Having defended unsuccessfully in the name of his tenant, without asking to be made a party, he is liable for costs under the rule above stated.
+There is, however, one defect in the case of the moving party'. There is no legal evidence that the costs cannot be collected from the defendant. The only legal evidence of that fact is the return of an execution unsatisfied.
+It is suggested hy the appellant’s counsel that if the court is not prepared to reverse the order we should modify it, so as to permit the plaintiff to apply'- for leave to open the judgment and move for an order of arrest, with a view to issuing an execution against the person of the defendant. We see no occasion for that course. The return of an execution against property unsatisfied will be sufficient evidence of inability to collect the costs from the defendant.
+The result is that the order appealed from should be affirmed, with ten dollars costs and disbursements, on the ground that the motion was premature, without prejudice, however, to the right of the plaintiff to renew the motion on the return of an execution against the property of the defendant unsatisfied.
+Hardin and Haight, JJ., concurred.
+So ordered.
