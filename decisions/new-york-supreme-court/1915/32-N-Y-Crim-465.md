@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1915-01"
+citations: ["32 N.Y. Crim. 465", "83 Misc. 643"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE EX REL. LOUIS FUCHS v. POLICE COMMISSIONER OF NEW YORK."]
+source_url: "https://static.case.law/ny-crim/32/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1209675
+cites_cases: ["145 App. Div. 513", "196 U. S. 364", "207 U. S. 100"]
+---
+
+# People ex rel. Fuchs v. Police Commissioner
+
+## Majority (Ford, J.:)
+
+Ford, J.:
+Here a prisoner is held under a warrant of the governor for extradition, and brought before the court on a writ of habeas corpus. The return is traversed by denial of the identity of the relator with the person named in the indictment on the ground that he was not in the demanding state at the time of the commission of the crime, and, therefore, not a fugitive from justice. Upon the issue so raised, oral testimony was taken which shows a direct and material conflict. The question before me resolves itself into this: Can this court find in favor of the relator and sustain the writ on such conflicting testimony? Mr. Justice Carr’s masterly review of the authorities in People ex rel. Genna v. McLaughlin, 145 App. Div. 513, is decisive, and the question there decided is so strikingly similar to the one here as to make a lengthy opinion on my part a presumptuous work of supererogation. In that case the rule is flatly laid down that “ this question of jurisdictional fact must be determined by the court as is any other question of fact which it has the power and duty to determine, according to the rule of the common law as to the preponderance of evidence.” - The preponderance of evidence I find to be heavily on the side of the relator and the writ will therefore be sustained and the prisoner discharged. The case mainly relied upon by the district attorney in opposition is Munsey v. Clough, 196 U. S. 364, decided in 1905. That case is discussed in the Genna Case, supra, decided in 1910, and the extract quoted from the former case in the brief of the district attorney to the effect that “ the court will not discharge a defendant arrested under the governor’s warrant where there is merely contradictory evidence on the subject of presence in or absence from the State, as habeas corpus is not the proper proceeding to try the question of alibi, or any question as to the guilt or innocence of the accused,” is held to be “ entirely apart from the question then up for decision.” The case of McNichols v. Pease, 207 U. S. 100, is cited as the later and controlling adjudication by the Federal Supreme Court which, by implication at least, supports the view taken by the Appellate Division.
+Writ sustained and prisoner discharged.
