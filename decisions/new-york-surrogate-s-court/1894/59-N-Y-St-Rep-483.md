@@ -1,0 +1,27 @@
+---
+court: "New York Surrogate's Court"
+decided: "1894-04"
+citations: ["59 N.Y. St. Rep. 483"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application to Revoke Letters of Administration with the Will Annexed, Issued to T. Chesley Richardson et al."]
+source_url: "https://static.case.law/ny-st-rep/59/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1979076
+cites_cases: ["3 Dem. 164"]
+---
+
+# In re to Revoke Letters of Administration with the Will Annexed, Issued to Richardson
+
+## Majority (Coffin, S.)
+
+Coffin, S.
+It is a curious fact and a matter of considerable moment in this case that T. Chesley Richardson never became a legally constituted executor of the will of Thomas Richardson, deceased, but has been regarded and treated as such. An order was made sanctioning his appointment by the executors of his mother’s will, but he never qualified or received letters as such. He could not legally act as executor any more than if he had been -named executor in his father’s will and failed to qualify. He was simply executor de son tort, and subject to all the consequences flowing from that relation.
+■ Section 2594 of the Code provides "that before letters testamentary shall be issued to a person named as executor, he shall take the oath of office as therein prescribed. As has been already stated, this has not been done, nor letters issued. Thus, the liability of Mr. Richardson should have been sought to be established under § 2706, not inserted in the Code until 1893,- but which is as old as the Revised Laws of 1813. See also, 2 R. S. 81, § 60; Id. 449, § 17. It also appears by the findings of fact and conclusions of law made in, the first accounting, dated July 7, 1893, prepared by Mrs. Kirkland’s counsel, that the trust under the will was acknowledged by her to have been terminated in so far as she was concerned, and yet she subsequently applied' to this court to have him removed in both capacities. It is quite plain that not only on that accounting, but in all subsequent proceedings no jurisdiction was obtained or existed to deal with him as an executor, and the trust, according to the findings, having1 been executed as to her, there was no sufficient basis for any action, in that respect, on her part. Nevertheless, all decrees and directions of this court, however futile, have been complied with by the so-called executor and trustee, and the estate has suffered no loss or injury by any act of his. Ah the material facts stated as grounds for the revocation of his present letters of administration with the will annexed were furnished by the testimony of himself on the first accounting, and, if we are allowed to regard them here, disclose no intended wrong, but rather a misconception of the rights, duties and powers of an executor. They alone would not seem to justify a revocation of letters testamentary had they ever been issued to him.
+The singular order for the removal and acceptance of the resignation of Richardson, as executor, when he was not such, was entered by consent and was a nullity. No court could remove a person from an office he had never held, nor revoke letters which, had never been issued, nor accept a resignation from such office. And as to his removal as trustee, it had been conceded by the petitioner here that the trust* had been executed, and there was, therefore, and could be no cause for his removal. He could not he removed from an office which he had fully executed, nor resign from one he had never held, as above stated.
+I have examined the cases of Suarez, 3 Dem. 164; Matter of Dearing, 4 id. 81; Matter of Beakes, 5 id. 128, cited by the learned counsel for petitioner, and find that all of them rélate to cases where the executors had qualified. Doubtless, none similar to this can be found. Here a resigned office has not been allowed to be resumed.
+It is alleged that the letters of administration -vyere obtained by a false suggestion of a material fact, to wit, that the petitioner concealed the fact that he had acted as executor and trustee and been removed and had resigned. There seems to be no force in this allegation under the circumstances already stated. The petition was in the ordinary and usual form, and there was no occasion to make such a statement had it been true.
+Another objection is that Mrs. Kirkland had no notice of the application for the letters. He was a residuary legatee, and where such a person applies he is bound, under § 2644 of the Code, to cite no one. It is only where a person having a subordinate right petitions that he must cite those having a prior one, and residuary legatees have the first right.
+Letters of administration with the will annexed having been duly issued to Eichardson, with Moran joined with him, and they having given satisfactory bonds with proper sureties, no sufficient reason is discovered, under all the remarkable and somewhat complex circumstances, for their revocation.
+Application denied, with costs.
