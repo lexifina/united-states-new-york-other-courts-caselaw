@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court"
 decided: "1887-06-23"
-citations: ["22 Jones & S. 563", "54 N.Y. Super. Ct. 563", "22 Jones & S. 564", "54 N.Y. Super. Ct. 564"]
+citations: ["22 Jones & S. 563", "54 N.Y. Super. Ct. 563"]
 reporter: "ny-super-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
