@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-12-10"
+citations: ["21 N.Y. St. Rep. 941"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George C. Carter, Resp’t, v. John H. Byron, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0941-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2018031
+---
+
+# Carter v. Byron
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The motion for re-argument is based' upon an allegation that the opinion was based upon a fact not proven. The complaint Was based upon a lease of land by defendant to plaintiff, and a forcible taking of a portion thereof, after the plaintiff had entered into possession. The-testimony of plaintiff upon the trial, is as follows: “ I continued in possession of the whole ■ premises from April 1st, until May 17, 1887. On that day 17 by 105 feet was-taken away by running a fence through my yard from the street to the rear line.” The defendant “ said the premises-belonged to him and he could do as he liked.” The opinion therefore, correctly stated that the evidence shows an ouster as to 17 feet front and 105 feet deep..
+The plaintiff declined to pay the rent by reason of this eviction, and upon proceedings being instituted against, him, he was advised to pay the whole rent so as to continue in possession of the remnant of the leased premises, left to him, upon which the house stood. The evidence is as-follows: “I was advised legally that I must pay the rent-in order to continue in possession of the premises, and this-was in the presence of Mr. McClellan.
+A. “Yes, sir; and Mr. McClellan says that is the only way you can do, I had to pay my rent and proceed against Mr. Byron.” Mr. Byron had treated me wrongfully. Mr. McClellan was the defendant’s agent in respect to the property.”
+The opinion, therefore, correctly states the argument as to the payment of the rent in order to restore possession, and the reservation of the right of action for the wrong-done was an agreement between the parties.
+The motion should, therefore, be denied, with ten dollars costs.
+Pratt, J.,
