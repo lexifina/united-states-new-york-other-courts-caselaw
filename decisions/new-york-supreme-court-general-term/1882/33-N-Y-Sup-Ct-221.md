@@ -1,0 +1,38 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1882-01"
+citations: ["33 N.Y. Sup. Ct. 221"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Smith, P. J., and Dwight, J., concurred."]
+parties: ["FIRST NATIONAL BANK OF MILWAUKEE, Appellant, v. JOHN N. SMITH, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/33/cases/0221-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4463933
+cites_cases: ["25 N. Y., 619", "36 N. Y., 90", "37 N. Y., 336", "5 Cow., 489"]
+---
+
+# First National Bank v. Smith
+
+## Majority (Hardin, J.:)
+
+Hardin, J.:
+After the drafts went to protest and prior to September 26, 1866, the plaintiff entered into an agreement with Boardman, in consideration of a steam mill at Avoca, Wisconsin, “ to release the said Boardman from all liability and demands arising out of the drafts ” and further agreed “ to pay said Boardman one-half of all sums that shall be collected from said Smith hereafter on said claims.”
+On the 26th of September, 1866, the' said Boardman having fulfilled his agreement on his part, the plaintiff certified that fact to Boardman, and also “ he is now free from liability upon the claims named whatever, a/nd entitled to one-half the amount collected of J. N. Smith,” the defendant. Such arrangement was known to the defendant, and in August, 1870, he opened a negotiation for 'the purpose of effecting a settlement and compromise of his liability to said Boardman. That resulted in an arrangement that the defendant should execute a/nd deliver to Boardman a deed conveying some land in Iowa to Boardman’s son and pay also thirty-three dollars and sixty-two cents in money (that being the sum required to free the land from taxes), in satisfaction of Boardman’s claim then held and owned by him .against said Smith. Subsequently, and in 1871, Boardman’s son having received a deed of the Iowa lands, and the thirty-three dollars and sixty-two cents having been advanced, executed a paper evidencing the consummation of the arrangement, and upon the bach of the agreement given by the bank, in these words, viz.:
+“ For value received I this day assign my interest in the within to John N. Smith.
+“E. BOARDMAN.”
+What was the effect of this arrangement between Boardman and Smith ? It is insisted in behalf of the plaintiff that it amounted to a payment by Smith the defendant upon his debt, under such circumstances as to justify an implication of an acknowledgment of the residue of the debt, and that it was evidence from which an intention to renew the original promise or debt may be inferred. The referee held otherwise and decided that the arrangement with Boardman was not a payment to th% plaintiff, nor a payment upon any claim in suit owned by the plaintiff separately or jointly with said E. Boardman.
+After Boardman arranged with the plaintiff he was free from all liability to the plaintiff; evidently the plaintiff’s officers so understood the effect of the arrangement which they entered into with Boardman.
+Manifestly, no obligation remained upon Boardman to account for and pay over to the bank any part of the sum which he should obtain from Smith, to indemnify him for the moneys so paid by Boardman to the bank to effect a settlement and compromise with the bank. Nor did Boardman and Smith understand, when they arranged in 1870 or 1871, that any part of the adjustment contemplated a payment to the bank of the avails of the adjustment. Boardman had been obliged to pay and was entitled to indemnity. He sought such indemnity and Smith yielded, and to effect it agreed to convey the Iowa lands, not as a payment upon the original debt, as such, but to reimburse Boardman for the moneys he had been required to pay, as a surety upon the drafts.
+We think it would be doing violence to the intention of the parties to hold that there was an intention to collect the original debt, or any part of it out of Smith, and an intention on the part of Smith to pay Boardman as the holder of any part of the original debt. It was rather an intent to reimburse a surety for moneys he had been obliged to pay by reason of his indorsement.
+The case therefore lacks the element of payment on the original debt, from which an intention to renew the original debt may be implied or inferred. (Shoemaker v. Benedict, 1 Kern., 185; McLaren v. McMartin, 36 N. Y., 90; Harper v. Fairley, 53 id., 442; Smith v. Ryan, 66 id., 354.) As was said by Raparlo, J., in Harper v. Fairly (supra): “ It is impossible to spell out of the transaction any new promise of the debtor * * * to pay the residue of the debt.”
+The agreement of the plaintiff was to release the said Board-man from all liability and demands arising out of the drafts, which is entirely different from an agreement to assign him a portion of the original debt. The paper of 26th April, 1866, declared that Boardman “ is. now free from liability upon the claims named.” That is not an assignment of a part of the original debt.
+But it is insisted that the further words, viz., “ and entitled to one-half the amount collected of J. N. Smith,” make Boardman the owner of an undivided one-half interest in the claim, and the bank the owner of the other half, but we do not so construe the words. They do not provide for a sale of half the debt or claims to Board-man; they rather contemplate an ownership in the bank of the whole debt, and stipulate “to pay,” when “collected,” one-half of all money which said Smith shall pay or be made to pay to the bank.
+Smith v. Miller (25 N. Y., 619) is referred to by the appellants, but there the agreement or receipt given by the sheriff for the money stated that the judgment was not to be canceled “ if the plaintiff will assign the judgment,” and he did subsequently assign the judgment and adopted and verified the act of the sheriff, and therefore the court properly held that the judgment was pjurchased and not paid by the money delivered to the sheriff. Gram v. Cadwell (5 Cow., 489) is distinguishable from the case in hand. There the remaining partner was to have the settlement of the business of the dissolved firm, and that fact was known to the defendant, and it was held that he improperly dealt with the outgoing partner after such notice.
+Carrington v. Crocker (37 N. Y., 336) is pressed upon our attention as applicable to the case before us, but in that case Fullerton, J., says: “ If the demand had been severed by a valid agreement before the payment was made, then ‘the payment would necessarily have applied solely to the extinguishment of Pardee’s interest. But that was not the case,” * * * and he adds, “ Carrington could have compelled Pardee to account to him for one-half the $200 ” (the payment).
+In the present case the release to Boardman was before the settlement made by the defendant with him, and as we have , already., intimated, the circumstances and relations of the parties were such that Boardman was not liable to account to the bank for the property and money which he received from the defendant.
+¥e reach the conclusion that no promise or payment which can be construed as evidence of a promise was made by the defendant to the creditor, or to one liable to account to the creditor, and that the transactions in 1870 and 1871 between Boardman and the defendant did not have the effect to take the plaintiff’s demands out of the statute of limitations. (Bloodgood v. Bruen, 4 Seld., 368; Wakeman v. Sherman, 5 id., 85.)
+The judgment must be affirmed.
+Smith, P. J., and Dwight, J., concurred.
+Judgment affirmed, with costs.
