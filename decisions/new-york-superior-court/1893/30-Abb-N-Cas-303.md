@@ -1,0 +1,23 @@
+---
+court: "New York Superior Court"
+decided: "1893-07"
+citations: ["30 Abb.N. Cas. 303"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MURRAY v. BARTH."]
+source_url: "https://static.case.law/abbn-cas/30/cases/0303-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1972997
+cites_cases: ["124 N. Y. 114"]
+---
+
+# Murray v. Barth
+
+## Majority (Gildersleeve, J.)
+
+Gildersleeve, J.
+This is a motion to cancel a lis pendens. The action was brought to foreclose a mechanic’s lien. The defendants, who are the owners of the premises, were allowed to give an undertaking, under subd. 6, sec. 24, chap. 342, of the Laws of 1885, in discharge of the lien, and an order was granted discharging the same. But the lis pendens which the plaintiffs filed, still remains, and defendants now move to have it cancelled, claiming that they are entitled to the relief'sought, for the reason that they have amply secured the plaintiffs’ rights by the bond which they have filed in discharge of the mechanic’s lien.
+I am of the opinion that it is not within the power of the court to cancel the Us pendens in this case. Section 1674 of the Code provides under what circumstances a Us pendens may be cancelled ; which are: (1) Where the action is settled, discontinued or abated, or final judgment is. rendered therein against the party filing the notice, and! the time to appeal therefrom has expired ; (2) if a plaintiff filing the notice unreasonably neglects to proceed in the action ; and (3) in a judgment creditor’s action, upon payment into court of the amount indicated or the filing of the bond specified in the section. None of these conditions are presented in the case at bar. Where the action is one in which the right is given the plaintiff by the Code to file a Us pendens, the right is absolute, not resting in the discretion of the court; and if the notice is properly filed it may not be canceled except pursuant to the provisions of section 1674 of the Code (Beman v. Todd, 124 N. Y. 114). The provisions of the section should be strictly followed in all their essential requirements (Willis v. Bellamy, 53 Super. Ct. 94). The General Term of the court of common pleas held, in the case of Niebuhr v. Schreyer (1 State Rep. 626) that “ the right to file a Us pendens is an absolute right, not depending on the discretion of the court, and a proper notice once filed in a proper action the court cam only order cancelled when the action shall be settled, discontinued or abated, or final judgment rendered against the party filing the notice, and the time to appeal has expired, or .when the party unreasonably neglects to proceed.”
+Since that decision was rendered, however, the legislature (Laws of 1892) has extended the scope of the statute (sec. 1674 of the Code), so that now, in a judgment creditor’s action the Us pendens can be cancelled upon paying money into court or giving a bond, as provided for in the section. But this amendment does not affect the case at bar, which is an action to foreclose a mechanic’s lien, not a judgment creditor’s action ; and the rule, above laid down, that the statute must be strictly construed, and that the court has no power to cancel the Us pendens, except in accordance with the provisions of section 1674 of the Code, controls this motion.
+The motion to cancel the lis pendens must be denied, with 110 costs.
