@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1888-05-10"
+citations: ["17 N.Y. St. Rep. 859"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thurlow W. Abell et al. v. Alonzo Bradner and Andrew J. Holden, Impleaded With Others."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0859-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008411
+cites_cases: ["10 How., 313", "24 Hun, 440"]
+---
+
+# Abell v. Bradner
+
+## Majority (Angle, J.)
+
+Angle, J.
+Section 3269, Code Civil Procedure, provides that the defendant may require security for costs to be given, where after the commencement of the action the plaintiff ceases to be a resident of the state, and section 3272 provides that where security for costs is required to be given the court in which the action is pending, or a judge thereof, upon due proof by affidavit of the facts, must make an order requiring the plaintiff to give such security.
+It is abundantly settled that in the cases mentioned in section 3269 the defendant may require security for costs as a matter of absolute right, and that the court has no discretion, but must under section 3272 make the order for security. But wherever the application therefor has been unusually delayed, the granting of it rests in the sound discretion of the court, and the defendant’s right to require security may be lost by loches and his neglect promptly to avail himself of such benefit. 4 Civ. Pro. Rep., 82, note, and cases cited.
+Since the authorities in that note collected the following pertinent to the question of delay and waiver have followed in the same direction. In Fitzsimmons v. Curley (6 Civ. Pro. R., 156), where it was claimed that the plaintiff, had become a non-resident since the commencement of the action, the court said: “We are also of opinion that the defendant by proceeding with the trial before Judge Freedman waived his right to the security. So far as appears, he knew all about the facts he has stated in his affidavit prior to commencing the trial, and knowing all those facts he proceeded with the trial, and did not make this application until Judge Freedman had suspended the trial and ordered certain issues to be tried by a jury. It was then too late.” In the present case, the defendant by not disclosing when he acquired the knowledge that plaintiffs had become non-residents, no presumption is to be indulged in his favor as to when he obtained the knowledge. They were all non-residents as early as September, 1887, and since then and before making this application, the interlocutory judgment on the decision of the general term has been entered, and the hearing before the referee has been «entered upon.
+In McDonald v. Peet (7 Civ. Pro. R , 200) the action was «commenced July 31, 1883, by a plaintiff who was known to the defendants to be a non-resident, but they did not move for security until February 15, 1884, and it was held that although the right to security was absolute, not resting in the discretion of the court, yet that it was lost by the loches which operated as a waiver. That case differs from the present in that it appeared that defendants knew of the non-residence of the plaintiff when the action was commenced. I am led to the conclusion that the delay of defendant must defeat this motion.
+Another point is made against this motion, viz., that the interlocutory judgment against the defendants must defeat it. This would certainly have been so under the Revised Statutes. Butter v. Wood, 10 How., 313; Flint v. Van Deusen, 24 Hun, 440. In a case arising under section 3276, where the language is as imperative on the court to grant the order as it is in section 3272, it was held that a judgment against the defendant should defeat his motion. Brackett v. Griswold, 12 N. Y. State Rep., 402; citing Flint v. Van Deusen, supra. And I am inclined to the opinion that this point is good in the present case.
+Motion denied, wdth ten dollars costs.
