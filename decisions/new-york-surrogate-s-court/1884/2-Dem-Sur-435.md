@@ -1,0 +1,28 @@
+---
+court: "New York Surrogate's Court"
+decided: "1884-04"
+citations: ["2 Dem. Sur. 435"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Delafield v. Schuchardt. In the matter of the estate of Catharine A. Schuchardt, deceased."]
+source_url: "https://static.case.law/dem-sur/2/cases/0435-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1137303
+---
+
+# Delafield v. Schuchardt
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+This decedent left, her surviving, her husband, four daughters and two grandchildren,' for all of whom she made provision by her will. Her entire estate, real and personal, with certain exceptions that need not here be specified, she gave by that will to her executors, directing them to apply one half of the net income to the use of her husband for the term of his natural life. Of the other half, she directed that one fifth part be applied to the use of each of her four daughters, and the remaining one fifth to the use of her two grandchildren during their minority. After this direction comes the provision following :
+“From and after the death of my said husband, I give devise and bequeath all of my aforesaid estate as follows : namely, to my daughter Amelia, the one equal undivided one fifth part thereof, to have and to hold the same to her, her heirs and assigns, as to the real estate, and to her, her executors, administrators and assigns, as to the personal estate, for her sole and separate use and benefit.”
+Each of the other daughters is then in similar terms given one fifth, and the grandchildren are made beneficiaries of the fifth then remaining. Then comes the following direction:
+“For the purpose of carrying out the provisions of this my will, and dividing my estate among my children and grandchildren ... I do further will and declare that it shall and may be lawful for my said executors . . . and I do hereby devise to them . . . full powel1 and authority to grant, bargain, sell and assign, transfer and convey, by way of sale, partition, release or exchange, all or any of my real estate, or any part or parts thereof, or any reinvestments or substitutions thereof, and to execute and deliver good and valid releases and conveyances thereof in fee simple, or of any less or other estate therein to the purchasers or grantees thereof.”
+Certain real property of the estate has been sold by the executors, and, in the present accounting proceeding, they ask that their action in effecting such sale be sanctioned by the court. Three of the children of the testatrix object, claiming, among other things, that the •executors in disposing of the property in question exceeded their authority. This objection must be overruled. The power of sale is almost as complete and absolute as words can make it. It is not restricted by any limitations of time, and whether the executors should exercise it during the lifetime of Mr. Schuchardt or should postpone its exercise until after his death, was a matter which rested, as it seems to me, wholly in their own discretion. I sustain the referee’s finding with respect to this sale.
+Second. The same contestants except to the conclusion of the referee in respect to an item of twenty thousand dollars contained in “schedule Gf-” of the executors’ account. This item relates to a transaction between the accounting parties and Mrs. Leverich, one of decedent’s daughters, to whom the executors have lent the sum of twenty thousand dollars upon the security of the interest of the borrower in this estate. The objectors claim that practically this so called loan is an advance made to Mrs. Leverich on account of her interest, and that such advance has been made by the executors without authority, and in contravention of the directions of the will.
+The estate which the will gives to each of- the daughters of Mrs. Schuchardt is a “ future estate,” “vested” within the meaning of section 13, article 1, title 2, part 2, ch. 1, of the Revised Statutes. It is therefore (sec. 35) “descendible, devisable and alienable in the same manner as estates in possession” (3 Banks 7th ed., 2178).
+It is manifest that, at the time when Mrs. Leverich effected the loan in dispute, and mortgaged her interest in this estate as security therefor, she was fully. empowered to assign or transfer to a stranger all or any part of such interest, and was empowered also to mortgage all or any part of the same as security for a loan. It is claimed by the objectors that the executors do not in this regard stand in the same relation to Mrs. Leverich, or to themselves, as would a stranger. Eo judicial decision has been cited by counsel in support of this contention, and my own search for authority regarding it has been unavailing-. I think that the transaction between the executors and Mrs. Leverich was lawful, and that the loan to her was a proper investment. The fact that the will names her as an executor is of no importance, as she has never taken out testamentary letters. Should she do so hereafter, while the loan is outstanding, the propriety of the investment may be again brought to the attention of the court.
+Third. Objection is made, in behalf of the executors, to the referee’s finding that they should furnish to the objectors quarter-yearly statements of their dealings with the estate.
+I doubt the Surrogate’s power to give that specific direction. Of course, the objectors should be allowed full opportunity for examining the books and accounts relating to the affairs of the estate. If their reasonable requests shall be disregarded, they may make application to the Surrogate for relief.
