@@ -1,0 +1,22 @@
+---
+court: "New York Surrogate's Court"
+decided: "1885-07"
+citations: ["4 Dem. Sur. 130"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kurst v. Paton. In the matter of the judicial settlement of the account of David Paton, as trustee under the will of John Kurst, deceased."]
+source_url: "https://static.case.law/dem-sur/4/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1140735
+---
+
+# Kurst v. Paton
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+Upon the accounting of this testator’s trustee, a question has. arisen as to the construction of the ninth article of his will. The third article gives his widow a life interest in the residue, in trust for her own support, for the support, education and maintenance of their child, Julia, until she shall be able to provide for herself, and also for the support, education and maintenance of any other children that may be afterwards born to them, until such other children shall also become self-supporting. The fifth article directs that, in the event of the death of the widow, before the time shall have arrived when the daughter Julia, and such other child or children as may thereafter be born, shall be able to provide for themselves, the executor shall make provision for such daughter, and such other child or children, until they shall respectively cease to require it. Clause sixth orders the investment of the net income of the estate in the event of the decease of the widow before the youngest child shall arrive at the age of twenty-one. The seventh and eighth clauses are for present purposes unimportant.
+The ninth is as follows : “ I order and direct that, after the decease of my said wife, and after my youngest child shall arrive at the age of twenty-one years, my executor, or such person as may then legally represent my said estate and the interest of my said children, shall dispose of all such property as may then remain of my estate,.....and, after first deducting all necessary expenses, divide the proceeds thereof, together with all other property belonging to my said estate equally among the children I may then have, or those who may he legally entitled thereto.”
+At the time of the execution of the will, in 1858, the testator had three living children, John, Charles and Julia. Of these, John alone is living. Julia, the youngest, died in her father’s lifetime, and without issue. Charles outlived the testator, but pre-deceased his mother, leaving a wife and two children, who still survive, and are represented by counsel in this proceeding. John claims the whole of the residue now ready for distribution. The widow of Charles claims such share as she would have been entitled to receive if her husband had outlived his mother, and, without receiving his share in the estate, had died intestate. The children of Charles contend that, under the ninth clause of the will, the proceeds of the residue should be divided either into two equal parts, one half for their uncle John, and the other half for themselves, or into three equal parts, whereof he should be accorded one, and they the two remaining.
+It seems to me that the testator, in providing for distribution “ equally among the children I may then have, or those who may be legally entitled thereto,” intended that such of his children as might outlive his widow should enjoy the exclusive benefits of this provision, and did not intend that the words, “ or those who may be legally entitled thereto,” should become operative save m the event of the death of all such children in the lifetime of their mother. In that contingency, and in that contingency only, his purpose as here expressed, was that the property disposed, of by the ninth clause should be divided among those persons who, under the laws of this State, would be entitled thereto in the absence of any testamentary direction for its disposition. There is nothing in this will to indicate that the word “ children ” is used in any other sense than in that which the law always ascribes to it in the absence of evidence that it was intended to have a special and more extended meaning. I hold, therefore, that that word does not include the children of the testator’s son, Charles, and' that his son John is entitled to the whole of the proceeds here in dispute (Kirk v. Cashman, 3 Bern., 242, and cases cited).
