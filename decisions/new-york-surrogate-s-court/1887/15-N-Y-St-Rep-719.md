@@ -1,0 +1,29 @@
+---
+court: "New York Surrogate's Court"
+decided: "1887-12-31"
+citations: ["15 N.Y. St. Rep. 719"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Estate of Joseph Wellenberger, deceased."]
+source_url: "https://static.case.law/ny-st-rep/15/cases/0719-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2001591
+cites_cases: ["1 Dem., 48", "2 Dem., 329", "4 Dem., 341", "4 Lans., 102", "67 N. Y., 408"]
+---
+
+# Estate of Wellenberger
+
+## Majority (Rollins, S.)
+
+Rollins, S.
+—This is a proceeding whereby Maria A. Bosch, as administratrix of the estate of Joseph Wellenberger, deceased, seeks to obtain the judicial settlement of her account.
+Wellenberger was engaged in business in partnership with one Joseph Ganter. Ganter died in decedent’s lifetime, and while such partnership existed, leaving a will whereof the decedent was appointed executor. The decedent applied for and received testamentary letters, and, after his death, one Emil Welte, was appointed administrator, c. t. a., of Ganter’s estate. . Mr. Welte, as such.administrator c. t. a., has been cited by the petitioner herein to attend her accounting, because of the fact" that he has claimed to be interested in this estate as the representative of decedent’s deceased partner. Mr. Welte has appeared for the purpose óf protesting against his being treated as a party to this proceeding, to be bound as such, by any decree in which it shall terminate.
+In an affidavit submitted in his behalf, he aíléges the pendency of an action in the supreme court, “for an accounting by her ” (this petitioner) “ of the goods, property, and effects, which were, of the late firm of Wellenberger & Ganter, and of the property in her possession belonging to the estate of said Gánter;” and he denies the jurisdiction of the surrogate’s court to settle the. account, for whose settlement, he has brought the supreme court action above referred to. .
+The administratrix now moves that Mr. Welte’s objection be overruled. It is alleged on her part, and is not denied by her adversary, that the supreme court action was commenced since the initiation of this proceeding. But this circumstance is, in the view I take of the situation immaterial. It was certainly very proper for the administratrix to make Mr. Welte a party to the present proceeding; indeed she could not prudently have neglected to take that course. Dakin v. Demming, 6 Paige, 95; Montrose v. Wheeler, 4 Lans., 102; Bunnell v. Ranney, 2 Dem., 329; Estate of Coman, 6 N. Y., Surr., Dec., 209.
+Her proceedure has been regular, even though it should appear that the surrogate’s court is not a competent tribunal to determine the respective rights of the parties. In that event, the sustaining of Mr. Welte’s objection simply necessitates the withdrawal from the surrogate’s consideration, of the questions and issues which the objector insists should not here be passed upon. The accounting may, in all other respects proceed, or, if the circumstances of the case shall seem to warrant, it may be suspended, until there is a disposition in another tribunal of the particular matter involved in this decision.
+I am of the opinion that Mr. Welte’s objection to the jurisdiction of the surrogate must be held to be well taken, unless the accounting party herein is willing to concede an indebtedness on the part of her decedent to the estate of his decedent’s deceased partner, and to concede, as the amount of such indebtness, the amount which the repre sentative of the latter is willing to agree to and accept. The attitude in which Ganter’s representative here stands, is that of one urging a claim as creditor, in common with other creditors of the estate. If this claim is admitted, it is competent for the court to direct its payment; if it is disputed, and is not adjusted by agreement of the parties, resort must be had to some other tribunal for its settlement. Bunnell v. Ranney (supra); Estate of Coman (supra); Montrose v. Wheeler (supra); Greene v. Day, 1 Dem., 48.
+The case of Dakin v. Demming (supra), so far as it contains a contrary intimation is not authoritative. The dictum there appearing was based upon a statutory construction, which has since been declared erroneous. Green v. Day (supra).
+Neither Becker v. Lawton (4 Dem., 341), and the authorities there cited, nor section 2739 of the Code of Civil Procedure has any reference to a situation such as here exists. The cases referred to recognize the power of this court to determine the validity of a claim made in behalf of a decedent’s estate against its representatives, to the same extent such that power existed under the Revised Statutes. By the same section of the Code the surrogate is, also, given authority to pass upon a demand against the estate in favor of its representatives. The principle underlying the decisions of the cases cited, is enunciated in the opinion of Chief Judge Folger in Kyle v. Kyle (67 N. Y., 408).
+The learned judge there says: “It has been held that the surrogate may hear and determine a claim against the executor in favor of the estate. (Citing Gardner v. Gardner, 7 Paige, 112 ). It is for the reason, that unless he may do so, those interested in the estate have no remedy save by bill in equity, inasmuch as no suit at law can be brought; for the executor, who is the legal representative of the estate, cannot sue himself. The same reason is applicable here, and is probably the basis of. the statute cited.” (The statute here referred to is section 37, chap. 460; Laws 1837.)
+I hold that neither at the instance of this accounting party, nor upon the demand of the objector, nor by the consent of both, can the surrogate’s court, in this proceeding, adjust the differences between the parties.
