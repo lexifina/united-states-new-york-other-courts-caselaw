@@ -1,0 +1,37 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-03-02"
+citations: ["15 N.Y. St. Rep. 1"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Delia D. Lafayette, Resp’t, v. Michael J. Gaffney, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/15/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2001159
+cites_cases: ["26 Fed. Rep., 860", "5 Bissell, 190"]
+---
+
+# Lafayette v. Gaffney
+
+## Majority (Brady, J.)
+
+Brady, J.
+The plaintiff sought in this action to recover damages sustained by the sinking of the canal boat “Delia D. Lafayette,” which was caused, it was alleged, by the defendant’s tortious conduct. The trial was distinguished by a severe conflict of evidence on all the material issues springing from it, as well as upon the controlling or real issue which was as stated by the learned justice presiding at the trial, to be whether the defendant induced the plaintiff to send the boat to the wharf where the injury was sustained, or requested her to send it there, and thereupon having failed to unload it within eight days, caused it to be placed in a dangerous position where it was struck by ice and sunk, and without any negligence on the part of the plaintiff. This issue was the result of statements by the witness for the plaintiff that she refused to take the boat to the place indicated at the request of the defendant until he promised to indemnify her against any injury from floating ice of which apprehension was entertained. The contract was made with the sailing master or captain, but in her hearing. The vessel was loaded with coal, and her hull and cargo were insured. She was raised after the injury, and repaired, and some money was received from the insurance ■company in which the insurance was secured, but it was not enough, it was averred, to compensate the plaintiff for the loss sustained by injuries to hull and cargo.
+Several questions relating, to the latter item have been suggested and argued as well as to the former item, but as to the view that is taken of one exception to evidence and to the charge on the same subject it is thought unnecessary to consider them. Sufficient for the day is the evil thereof. The boat, as already said, was raised and repaired.
+The stipulation on that subject is not as disingenuous as it might be, because of the word “temporarily,” but it is connected with the admission that the boat had been in use since the accident, that is up to the time of the trial, as appears from the record, and is sufficient for the purpose.
+The conclusion is “that the boat Lafayette had been temporarily repaired, and had been in use since the time of the accident.”
+The object or design of this form may or may not be. determined correctly as matter of impression, but the effect must be the same as if the word temporarily had not been employed. The fact that the boat was in use can have no other interpretation than that she was in proper condition to carry on the business to which it was to be devoted, and that the repairs, though designated as mentioned, were in truth and in fact substantial.
+If they were in the proper sense temporarily made, which would indicate that they were imperfectly and insufficiently made, and only pro tempore as contradistinguished from fully and thoroughly made, it was the duty of the plaintiff to show it and thus lay the foundation for ■the proof by estimate which then would have been admissible as we shall see.
+This was not done, and though such a thought may be regarded as purely hypothetical, it, nevertheless, seems that the word temporarily was used in order to avoid the objection that might be successful against the proof of an estimate by which it was sought to show the necessary expenditure for' repairs.
+This was an important element of the controversy, for if the defendant, on the evidence, were found to be liable by the verdict of the jury on the main issue, he would be responsible as one item of damage for the cost of the repairs, such as would put the boat in the same condition as it was-when the injury was sustained. The only proof on that subject given upon the trial was the estimate made on the subject, and to which objection and exception was taken.
+There can be no doubt that if the repairs be not made, the estimates of persons having the capacity to make them are comoetent to prove the item, but when the repairs have been made the estimates become, secondary and the proof of the expense m'ust be given. There is no reason why this. rule should be departed from in such a case as this. There do not appear to have been any extraordinary circumstances •attending the repairs, whatever they were which excuse the presentation of the proof mentioned, and as the estimate was placed at $2,000, it became an important, if not controlling feature on the subject discussed. It may have exceeded the amount actually spent. There is no pretense that it was not sufficient for the purpose. The adjudications bearing upon the question intimate, if they do not affirm the proposition that estimates are valueless when the repairs have been made, and are therefore, susceptible of the better proof—indeed, the certain proof of the expense incurred. The Sam Gaty, 5 Bissell, 190; Gedney v. The Minnie, 26 Fed. Rep., 860; The City of Chester, 27 id., 399; The Mayflower, 1 Browns, Ad., 393; The Schooner Catherine v. Dickinson, 17 How. U. S. Rep., 170.
+In the last case it was said: “But where the vessel has been raised and repaired, or is undergoing repairs, as in the ease of the San Louis, there is no necessity for resorting even to the opinion and estimates of experts, as to the probable expenses, for as to these the reasonable expenses incurred in raising and repairing her are matters of fact that may be ascertained from the parties concerned in the work.”
+The defendant covered the objectionable evidence by exception duly taken when the question as to the estimates was asked, and also by requests to charge as follows:
+“17. Estimates of the amount required to repair her, made before she was repaired and not afterwards expended or incurred, are not items of damage against the defendant.”
+“18. There is no evidence in the case of sums expended for repairs; therefore, this item cannot be taken into consideration by the jury.”
+And further by an exception to that part of the charge in which the jury were instructed that they were to determine upon all the evidence what the cost of the repairs would have been to restore the boat to the condition in which she was before the accident.
+In a controversy so marked as this was upon the trial by antagonisms of eyidence, the rules should be strictly enforced to prevent injustice. Indeed it may be said that when such a spectacle is presented, comparatively insignificant circumstances become important factors and have weight sufficient to formulate serious results. And it may be said further that in such a case estimates should never be permitted to usurp the place of positive testimony when it can be furnished, and which, if allowed, may favor a speculative or hypothetical award of damages.
+For the reasons assigned, the judgment should be reversed.
+Ordered accordingly, with costs to the appellant to abide the event.
+"Van Brunt, P. J., and Daniels J., concur
