@@ -1,0 +1,27 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-12-24"
+citations: ["19 N.Y. St. Rep. 698"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Seabury Brewster, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0698-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650646
+cites_cases: ["2 Dem., 221"]
+---
+
+# In re the Estate of Brewster
+
+## Majority (Ransom, S.)
+
+Ransom, S.
+Seabury Brewster, by his will, bequeathed to William O. Brewster, $100,000, and to Seabuiy Brewster -Cook, Seabury Brewster Wiley, Anna Seabury Brewster, .John Wiley, Elizabeth R. Wiley and Charles Wiley, $5,000 -each ; and to Henry B. Brewster and Mary O. de Tennuenne, $1,000 each.
+Henry B. Brewster, in his own right and as assignee of the legacy of William O. Brewster, and in behalf of the other legatees above named, applies for the payment of his and their shares in the estate. I will first consider the application for the payment of the legacy of $100,000 to the assignee of the legatee.
+My learned predecessor has determined this precise point in' Matter of Peyser (2 Dem., 221). In the course of his opinion Judge Rollins says: “Section 2717 of the Code provides for cases in which a petition may be presented to the surrogate’s court, praying for a decree directing an executor or administrator to pay the petitioner’s claim, and for a citation directing him to show cause why such a decree should not be made. It declares that such petition may be presented ‘ by a person entitled to a legacy or any other pecuniary provision under the will, or a distributive share, for the payment or satisfaction thereof, or of its just proportional part, at any time after one year has expired since letters were granted.’ Under this provision I do not think that either Dorethea Peyser or Prederich M. Peyser, the assignees, has any standing to institute this proceeding. Whatever rights, they may have they take under the several alleged assignments and not under the will.”
+This decision is directly in point and controlling upon the application made here by the assignee, which must be denied.
+I next, come to that part of the application that is made by Henry B. Brewster, in his right as legatee and in behalf of the other legatees above named.
+The affidavit submitted by one of the executors shows that letters testamentary were issued to them January 21, 1885; that the balance now in their hands is $389,397.85, a greater part of which—viz.: $252,000—consists of the proceeds of the sale of the real estate of the testator; that on June 15, 1885, an action was commenced by the public administrator against them, claiming $618,523, which would absorb the entire estate; that in that action judgment was entered January 19, 1888, in favor of the defendants, and on February 18, 1888, the plaintiff filed and served notice of- appeal, which appeal was duly perfected in June, 1888; that another action against the executors, in which Mrs. Andrews is plaintiff, is pending, and involves one-third of the whole estate. There are other estimated charges against the estate, which, eliminating the legacies, amount to about $60,000. The legacies, with interest, amount to -$155,760.85.
+It will be readily seen that if these suits against the estate are successful, there will not be sufficient assets to liquidate them. In view of this condition of affairs, it would not be proper for the surrogate to direct the executors to pay any of these legacies, it not being proved to his satisfaction that there is money or other personal property of the estate applicable to the payment or satisfaction of the petitioner’s claims, and which may be so applied without injuriously affecting the rights of others entitled to priority or equality of payment or satisfaction. Section 2718, sub. 2, Code Civ. Pro.
+Having made the disposition of this motion as above indicated, it is not necessary to determine whether the legacies are a charge on the real estate
