@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-11"
+citations: ["97 N.Y. Sup. Ct. 439"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., concurred."]
+parties: ["Robert M. Curtiss, Respondent, v. John C. Mott, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/97/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4791135
+cites_cases: ["39 N. Y. St. Repr. 515"]
+---
+
+# Curtiss v. Mott
+
+## Majority (Parker, J.:)
+
+Parker, J.:
+We do not see how this judgment can stand, although it may well be that in this particular instance it works substantial justice.
+The plaintiff as broker undertook to sell the defendant’s property at a fixed price, at a rate of commission agreed upon. Under the authorities of this state it was necessary for him, in order to earn his commissions, to produce a purchaser who should be ready and willing to purchase the property upon the would-be seller’s terms. This he did not do, but instead he brought a man who would have bought it at the seller’s terms provided the monthly rentals at the time had been equal to those represented to him by the broker. Now, if the broker had obtained the information as to the amount of the rentals from any other source than that of the intended vendor, it would not be pretended that he could recover commissions.
+But the jury have found, and, therefore, it must be taken to be true, that Mott, in respose to an inquiry of him by the broker, stated the. monthly rentals to have been $510, whereas they were in fact $488. The property had rented at the larger figure, but at the time of the inquiry of the broker, as well as at the time when Mr. Phillips, the prospective purchaser, concluded to take the property at Mr. Mott’s figures if it' was rented at $510 per month, it was in fact renting at $488 per month. In the disposition of the case by the trial court it was assumed that it made no difference whether the representations were mistakenly made and in good faith, or with full knowledge of their untruth, the position taken being that the representations made to the broker about his property formed a part of the seller’s contract with him, and, if any of such representations prove not to be true, and solely by reason thereof the broker fails to bring about a sale upon the terms of the seller, then the broker has performed his part of the contract, and is entitled to commissions as if the sale had actually taken place. Undoubtedly the owner of property wishing to sell could make such an agreement with a broker, in which event he would be bound by it, but it has never been understood, nor has it been held by the courts, so far as we have observed, that a broker who is merely authorized to make a sale of property at a price named is entitled to receive his commissions unless he secures a purchaser who is ready and willing to take the property upon the terms fixed by the owner. The legal effect of the ordinary and usual broker’s contract, such as this one, has been so long settled by the courts, and has become so thoroughly understood by men of business, that the courts should not lightly permit other conditions to be imported into it.
+French v. Brush-Swan Electric Light Co. (39 N. Y. St. Repr. 515) supports the position we have taken, that the plaintiff has not performed his contract, and that being so, he is not entitled to recover commissions which can only be based upon its performance.
+"Whether in a proper action this plaintiff could recover damages, because ■ of misrepresentations which prevented performance of his contract, we need not consider, as that question is not before us.
+The judgment should be reversed and a new trial granted, with costs to the appellant to abide the event. ' •
+Van Brunt, P. J., concurred.
+
+## Dissent (O’Brien, J.:)
+
+O’Brien, J.:
+I dissent, flunking the judgment should be affirmed.
+Judgment reversed, new trial ordered, costs to appellant to abide event.
