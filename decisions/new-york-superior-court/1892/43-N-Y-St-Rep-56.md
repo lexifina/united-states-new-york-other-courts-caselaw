@@ -1,0 +1,24 @@
+---
+court: "New York Superior Court"
+decided: "1892-01-11"
+citations: ["43 N.Y. St. Rep. 56"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Hutton et al., Resp’ts, v. Caroline M. S. Weber, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/43/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2078259
+cites_cases: ["107 N. Y., 41", "11 St. Rep., 200", "125 N. Y., 616", "13 N. Y., 522", "2 Bosw., 161", "36 St. Rep., 190", "97 N. Y., 56"]
+---
+
+# Hutton v. Weber
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The sole objection to the title arises upon the deed from William Wolf and wife to August Kenow, executed by the grantors September 1, 1870. The deed is correct in every respect, excepting that in the record thereof the words in the acknowledgment “to me known” to be the individuals described in and who executed the instrument, are omitted. The loss of the original deed was proved, and the notary testified that he knew the grantors personally, that he saw them execute the deed, knew them to be the persons described therein, and that they properly executed and acknowledged the same. The deed was witnessed by the notary, and was effectual to pass title without being acknowledged. 1 Edm. R. S., 689, § 137; Wood v. Chapin, 13 N. Y., 522. Such a deed is good between the parties to it, and only subsequent purchasers or incumbrancers for value and without notice can take objection to it. There are no such persons to make objection here, and the deed effectually conveyed every interest the grantor had in the property. It follows, therefore, that the title tendered was good and the defendant properly ordered to take. The deed was executed and delivered more than twenty years ago, and the grantee and those claiming under him have been in undisputed possession of the property ever since. That the defect alleged may lead to controversy is such a very remote and improbable contingency, and is such a slender possibility only, that it is a proper case for the application of the principle upon which the court declined to relieve the purchaser. Cambrelleng v. Purton, 125 N. Y., 616; 36 St. Rep., 190.
+In Moser, Ex'r, v. Cochrane, 107 N. Y., 41; 11 St. Rep., 200, citing Schermerhorn v. Niblo, 2 Bosw., 161, the court of appeals said: “As the law does not regard trifles the bare possibility that the title may be affected by the existing causes which may subsequently be developed, when the highest evidence of which the nature of the case admits, amounting to a moral certainty, is given that no such cause exists, will not be regarded as sufficient ground for declining to compel a purchaser to perform his contract.”
+In Hellreigel v. Manning, 97 N. Y., 56, it was held that nothing but a reasonable doubt will excuse the vendee from taking title, and that defects in the record title may be cured or removed by paroi evidence, and the same case also holds that there is no inflexible rule that a vendor must furnish a perfect record or proper title. The defect is not such as renders the land unmarketable, and the court was right in directing a specific performance of the contract.
+Judgment affirmed, with costs.
+Gildersleeve, J., concurs.
