@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-06-05"
+citations: ["68 N.Y. St. Rep. 762"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Fitzgerald, as Administrator, etc., Resp’t, v. New York Central and Hudson River Railroad Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/68/cases/0762-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2116274
+cites_cases: ["36 St. Rep. 755", "52 St. Rep. 351", "59 Hun, 225", "62 St. Rep 46", "80 Hun, 306"]
+---
+
+# Fitzgerald v. New York Central & Hudson River Railroad
+
+## Majority (Merwin, J.)
+
+Merwin, J.
+— The plaintiff’s intestate, Thomas Fitzgerald, was on November 11, 1887, in the employ of the defendant as a brakeman on a freight train that left De Witt early in the morning, passing eastwardly. The claim of the plaintiff is that, as the train passed under a low bridge between Green’s Corners and Eome, the decedent, who was then on the top of one of the freight cars, was hit by the bridge and killed. It was between five and six o’clock in the morning, not fully light, and at that place there is a down grade, and there is evidence that the train was then going at the rate of about twenty miles an hour. It is claimed the defendant was negligent in not having at the bridge suitable warning sjgnals, as required by section 2 of chapter 439 of the Laws of 1884, which was then in force. It was shown that the defendant, in this regard, had failed to perform its duty, and it was a question of fact whether the decedent met his death at the bridge by reason of such failure. Upon a former appeal in this case (59 Hun, 225; 36 St. Rep. 755), it was held that the decedent was chargeable with contributory negligence ; it then appearing from the testimony of one of plaintiff’s own witnesses that the decedent knew of the dangerous character of the bridge, and that there were there no warning signals. The witness who gave this testimony was not called by the plaintiff upon the trial now under review, but was called by the defendant, and gave substantially the same testimony as he gave before. He was the conductor on the train. It was held by the trial judge — correctly, we think — that the credibility of the witness was for the jury, and that it should not be said, as matter of law, from his testimony, that the decedent knew of the danger and the lack of signals. If he knew the location of the bridge, and that it was low, and still, by reason of being occupied, at the time with the discharge of his duties, he did not take notice of its near approach, he would not necessarily be charged with contributory negligence, within the rule laid down in Wallace v. Central Vt. Railroad Co., 138 R. Y. 302; 52 St. Rep. 351. As the case now stands, we think that it should not be said, as matter of law, that the decedent took the risk of the dangerous bridge, or was guilty of contributory negligence. There was evidence that he had passed over the road but once before. The train was a long one, on a down grade, at a rapid rate for a freight train. He was told by the fireman that it was not necessary for him to go on top of the train, but, in the absence of any direction from the conductor or engineer, he had the right to infer, as the jury may have thought, from'the rules of the company, that it was his duty to be on top. There is evidence that this was, to some extent, for him to determine according to his own judgment, in view of the situation as it then was. Whether, in this respect, in view of all the circumstances, he exercised reasonable care, was for the jury to say.
+Our attention is called to some rulings upon evidence, but we find no reversible error. It was proper to show the situation at the time at the bridge as to signals. Whether there was an reason or necessity for the decedent’s going onto the top of the car was for the jury to say, upon all the facts.
+The defendant claims that the court, in its charge, gave undue force to á rule of the defendant that provides that •
+“In descending grades, the conductors will see that their men are at their posts, and not allow their trains to acquire a greater speed than one mile in four minutes. Conductors and engine men must not violate this rule under any circumstances.”
+One of the witnesses of the defendant testified that this applied only to the West Albany and Schenectady grades. The rule contained no such limitation, and, for aught that appears, the decedent has the right to. believe that it applied just as generally as it read. The defendant claims that the amount of the verdict is excessive. The decedent was about twenty-two years old, was unmarried, and lived with his father, the plaintiff, who was fifty-eight years old. He was receiving wages at the rate of $1.85 per day, and had worked steadily from the time he was sixteen. His father was the next of kin. Tfie amount of the verdict was largely in the discretion of the jury (Code, § 1904), and it should not, we think, be disturbed. See Johnson v. L. I. Railroad Co., 80 Hun, 306 ; 62 St. Rep 46, and cases cited.
+J udgment and order affirmed, with costs.
+All concur.
