@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-12-09"
+citations: ["49 N.Y. St. Rep. 598"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of The St. Lawrence & Adirondack Railroad Company, Resp’t, to Acquire Real Estate of Julia L. De Camp et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/49/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2093059
+cites_cases: ["11 Pacific Rep., 85", "133 N. Y., 270", "18 Wend., 9", "45 St. Rep., 207", "7 Barb., 426", "9 Colo., 190"]
+---
+
+# In re the St. Lawrence & Adirondack Railroad
+
+## Majority (Per Curiam)
+
+Per Curiam
+The discretion and power of the special term were exercised after considering the affidavits and allegations found in the papers. Upon those affidavits and papers the special term found, as is stated in its order, that it appeared to its satisfaction “ that the plaintiff- is in possession of the premises sought to be condemned.” It may be fairly assuiped that the special term readied the conclusion that the company was in possession under a color of claim or had acquired possession in good faith ; and that the special term was not of the opinion that the possession which the company asserted originated in a trespass known to have been such or that it was taken without color of authority. The case made before the special term therefore differs from the one appearing upon the papers in the' case reported in 133 N. Y., 270 ; 45 St. Rep., 207, between the same parties. Section 3379 of the Code of Civil Procedure. Under this section the court apparently exercised its discretion and allowed the plaintiff “to continue in possession ” upon depositing the sum of $5,000. It was assumed by this court in its decision made in February, 1892, of the case between these parties reported 133 N. Y., 270; 45 St. Rep., 207, that § 3379 was constitutional. We see no reason why we should not adhere to that conclusion. W e understand the court of appeals simply to have decided that where a railroad company has unlawfully entered upon land “ under the claim or pretense of right, in clefiance of the will of the owner, under no mistake or misapprehension and without color of authority ” that § 3379 does not apply to such a case. If the findings of the special term in the case now before us are upheld, as upon an examination of the papers before the special term we are inclined to think they should be, the decision so made by the court of appeals is not applicable to the case in hand.
+In Cherokee Nation v. Kansas Railway Company, 135 U. S., in the opinion at page 659, it was said “ The constitution declares that private property shall not be taken ‘ for public use without just compensation.’ It does not require or provide that compensation shall he actually paid in advance of the occupancy of the land to be taken. But the owmer is entitled to reasonable, certain and adequate provision for obtaining compensation before its occupancy is disturbed ;” and in that case a deposit had been made in court to pay a compensation to the owner and it was held to be an adequate provision for the owner.
+In 9 Colo., 190 ; 11 Pacific Rep., 85, it was held that a statute authorizing the court to permit a petitioner in condemnation proceedings to have temporary possession is not unconstitutional.
+In Bloodgood v. Mohawk & Hudson River Railroad Company, 18 Wend., 9, it was held: “It is enough that such provision is made : it is not necessary that the damages or compensation should be actually ascertained and paid previous to the appropriation of the property.”
+In Smith v. Helmer, 7 Barb., 426, Allen, J., in speaking for the general term of the fifth district, said : “ It is sufficient for this case that by the settled construction of the constitution which prohibits private property to be taken for public use without just compensation, actual compensation need not precede the appropriation, and that the law authorizing the reconstruction and alteration of the road in question provides for compensation, but does not make it a condition precedent to the entry upon and appropriation of premises for the purposes of the road.” According to the order brought before us authorizing a deposit in court of the sum of $5,000, a deposit was made “ subject in all respects to the order of the court to be held as security for the payment of the compensation which may be finally awarded to the defendants as owners or parties interested in said lands and the costs of this proceeding.” It appeared to us upon the argument that condemnation proceedings are now pending, and that the road of the petitioner is substantially completed across the premises in question, and that commissioners have been appointed to assess the damages sustained by the defendants. And from the views already expressed, it may be assumed that the rights and interests of the defendants are sufficiently guarded and protected by the order appealed from. We think it should remain.
+Order affirmed, with ten dollars costs and disbursements.
+Hardin, P. J., Martin and Merwin, JJ., concur.
