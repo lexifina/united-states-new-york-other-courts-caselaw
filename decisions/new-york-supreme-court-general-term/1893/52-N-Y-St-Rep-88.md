@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-04-13"
+citations: ["52 N.Y. St. Rep. 88"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis J. Shelmire, Resp't, v. The Williams & Clark Fertilizer Company, App'lt"]
+source_url: "https://static.case.law/ny-st-rep/52/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 682230
+cites_cases: ["2 St. Rep., 106", "48 N. Y., 648", "48 St. Rep., 690"]
+---
+
+# Shelmire v. Williams & Clark Fertilizer Co.
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+This action was originally brought in the-municipal court of the city of Rochester, and, on the trial thereof before one of the judges of that court, resulted in a decision in favor of the defendant upon the merits. On appeal by the plaintiff from such judgment demanding a new trial, the case was retried in the county court of Monroe county, before the county judge and a jury, and resulted in a verdict in favor of the plaintiff for the amount claimed in the complaint, and to which the plaintiff was entitled, provided he had any right of action.
+The action was brought to recover the plaintiff’s unpaid and unearned salary, for five months from September 30, 1891, upon the ground of a discharge of the plaintiff from the employment of the defendant in violation of the written agreement between the parties. This contract bears date October 3, 1890. It appears, however, that it was executed in duplicate, or in supposed duplicate, consisting of a letter from the defendant to the plaintiff, and the latter’s acceptance of the same. The one relied upon by the plaintiff is as follows:
+“Mr. L. J. Shelmire, Dear Sir: We will pay you the sum of eight hundred dollars and traveling expenses, for'the term of one year, commencing October 1,1890, and ending September 30,1891. We to have your service for two additional years at a salary of one thousand dollars per year and expenses as above stated. You to attend to shipping and such office work as we may assign to you, and traveling on the road, soliciting orders if we wish you to.”
+The plaintiff duly accepted in writing the terms of the foregoing proposition properly indorsed upon the letter. The paper which was retained by the plaintiff was marked “ copy,” although it was, in fact, signed by the defendant as an original, and accepted as an original by the plaintiff.
+The contract retained by the defendant, executed in the same way, was in all respects like the one above quoted, except that in the second sentence it read: “We to have the refusal of your services for two additional years,” instead of “ we to have your services for two additional years.”
+It is plain, therefore, if the contract relied upon by the plaintiff was the true and only one between the parties, that the judgment appealed from should be sustained; while it is equally apparent, that if the contract retained by the defendant is the true one, no cause of action was made out by the plaintiff; for it is clear that a contract for the “refusal ” of the services of the employe for the two years would not obligate the employer to accept such services.
+But for the purpose of arriving at the intent of the parties, and particularly for the purpose of determining any liability of the defendant, these two instruments must be construed together as constituting the agreement between the parties. Morss v. Salisbury, 48 N. Y., 648; Martin v. Martin, 48 St. Rep., 690.
+The plaintiff has no legal right, because he happens to be in possession of the duplicate favorable to his present contention to claim that the defendant shall respond to him in damages, while the duplicate of such agreement, executed with the same formalities, in the hands of the defendant, shows that he cannot recover anything. The burden of proof rested upon the plaintiff to show that the contract in his possesion was the true one. This he has failed to do, because the contract in the possession of the defendant must be deemed equally true and binding. The plaintiff having failed, therefore, to establish bis case by a preponderance of the evidence, such evidence consisting wholly of writings for the construction of the court, should have been non-suited at the trial. Syms v. Vyse, 2 St. Rep., 106.
+It is true that evidence was permitted to be given upon the trial by the plaintiff designed to establish that the verabal agreement between the plaintiff and the defendant was for an employment for three years at the rate of eight hundred dollars for the first year, and a thousand dollars per year for the two remaining years. But in an action at law, in a court having no general equity jurisdiction, and hence, with no power to reform a contract, this evidence appears to'us to have been incompetent under the well established rule, that all negotiations leading up to a written contract are deemed to be merged in the written instrument.
+The learned county judge permitted the jury to have recourse to the conversation and circumstances anteceding the making of the agreement. The relation of facts given by the plaintiff was diametrically denied by the principal officer of the defendant, with whom the negotiations were conducted, and whose testimony tended to show quite clearly that, on account of the lack of experience of the plaintiff, and hence the uncertainity of his giving satisfaction to the company, the defendant’s agent would not enter into any arrangement beyond one year at the outset, but would determine afterwards, and in view of the character of the services, whether he would retain the plaintiff iti the employment of his company. These were the only two witnesses testifying upon that subject.
+Should this judgment be permitted to stand, it would be palpably in violation of a written contract executed by the plaintiff and held by the defendant. We must hold, therefore (the case having originated in a court where a reformation of the contract was neither sought nor attainable), that the plaintiff has failed to carry the burden imposed upon him by law, of showing that his right to recover was based upon a preponderance of the evidence.
+The judgment and order appealed from should be reversed.
+Judgment and order of the county court of Monroe county appealed from reversed and a new trial granted, with costs to abide the event.
+Dwight, P. J., Lewis and Haight, JJ., concur.
