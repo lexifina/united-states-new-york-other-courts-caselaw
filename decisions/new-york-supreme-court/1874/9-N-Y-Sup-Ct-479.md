@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1874"
+citations: ["9 N.Y. Sup. Ct. 479"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PATRICK SANDS, Appellant, v. ELMER D. BENEDICT, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/9/cases/0479-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2356155
+---
+
+# Sands v. Benedict
+
+## Majority (Mullin, P. J.:)
+
+Mullin, P. J.:
+In August,. 1872, the defendant, a justice of the peace of the town of Perinton, in the county of Monroe, was in the highway, near plaintiff’s house in said town, and, hearing loud and angry words therein, went into the house and found plaintiff in the bedroom where his wife was sitting. He was drunk. He told her he would knock the brains out of her damned head — would knock her head off; and he struck her with his fist on the side of the head. The justice ordered him to desist. The plaintiff said he would knock hell out of her; used profane and threatening language toward the justice, and finally ordered him out of the house, and approached him to put him out. The justice, fearing to have a personal conflict with the plaintiff, backed out of the door, having told plaintiff that he was a justice of the peace, and had the right to require him to keep the peace; and he required him to do it, and if he did not desist from his violence toward his wife, he would have him arrested. There was no person present to aid the justice, and he went to his office and there issued his. warrant for the arrest of said plaintiff; and the next day he was brought before the said justice, and when the warrant was read to plaintiff, he said it was all right. Upon being required to give sureties for his appearance at the next Court of Sessions, to be held in and for said county, he refused to give the same, and the justice thereupon made out a commitment of the plaintiff to the common jail, there to remain until he gave the security required, or was otherwise discharged; and the plaintiff was committed accordingly. He subsequently gave the bail as required, and was discharged, and thereupon brought an action against the justice for false imprisonment. The cause was referred to a referee, who dismissed plaintiff’s complaint; and from that judgment plaintiff appeals.
+The ground on which the action is sought to be maintained, is, that the justice had not power to cause the arrest and commitment of the plaintiff upon his own view, except at the very time of the affray during which violence was used or threatened, and that the arrest and commitment in this case, being a day after the affray, the justice had no jurisdiction to cause the arrest, and was therefore liable for falsely imprisoning the plaintiff.
+By section 1 of chapter 2, of part 4 of the Revised Statutes, magistrates are authorized to cause to be kept all laws for the preservation of the peace, and to require persons to give security to keep the peace, as provided in that chapter. Section 8 of said chapter provided, that every person, who, in the presence of any magistrate, or in the presence of any court of record, shall make any affray, or threaten to kill or beat another, or to commit any offense against his person or property, and all persons who, in the presence of such magistrate or court, shall contend with hot and angry words, may be ordered by such magistrate or court, without any other proof, to give such security as above specified; and, in case of refusal so to do, may be committed in like manner as above provided.
+This case furnishes as forcible an illustration of the absurdity of the construction of the section cited, that would limit the power of the magistrate to arrest upon view a person committing a breach of the peace, as can be found in or out of the books. He found a drunken maniac not only threatening to kill his wife, but actually using violence toward her; he is physically unable to cope with the offender; he is driven from the house, and violence threatened if he does not at once leave it. There is no one present to make the arrest, or to aid the officer in making it. The officer may go before another justice and swear out a warrant, and then procure the arrest and commitment of the offender; but why not issue the warrant himself? If he may do it a moment of time before the affray ends, without other evidence than his own senses furnish him, why may he not do it an hour or a day after ? During the affray, he may be excited by fear or passion ; the day after, he would be quite likely free from feelings that would interfere with the exercise of a sound and impartial judgment.
+I can appreciate the propriety of requiring a sheriff or constable to make an arrest to prevent a breach of the peace, at the very time it is being committed, but the reasons that justify the limitation in such a case, have no application to an arrest by a judical officer, charged with the duty of compelling persons to keep the peace.
+The referee has, in his opinion, furnished reasons for the judgment he has rendered, which are to my mind sufficient to sustain it.
+The judgment must be affirmed.
+Present — Mullin, P. J., Smith and Gilbert, JJ.
+Judgment affirmed.
