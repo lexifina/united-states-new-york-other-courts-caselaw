@@ -1,0 +1,26 @@
+---
+court: "Brooklyn City Court"
+decided: "1893-03"
+citations: ["3 Misc. 40"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Devlin v. Kosel."]
+source_url: "https://static.case.law/misc/3/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 687259
+---
+
+# Devlin v. Kosel
+
+## Majority (Clement, Oh. J.)
+
+Clement, Oh. J.
+This action was brought to recover possession of certain chattels, two horses, one set of double harness, one pair of blankets, one canvas truck cover, two ropes and one double truck, of the value of $700. On the 6th of January, 1892, the defendant was introduced to the plaintiff by one Evans, as a party who wished to purchase the team of horses in suit. After some negotiations, the defendant agreed to buy the chattels above described for the sum of $700. The defendant paid the plaintiff the sum of $200 and was to pay the balance on the following morning. The plaintiff returned the $200 to the defendant, saying, “ Kosel, I don’t know you; the best thing you can do is to pay me the $700 to-morrow morning, nine o’clock.” Folio 31. Kosel then said he would give his check for the $700, and went into his office, and after looking at his check book stated that he had only $600 on deposit. Plaintiff told him, “Well, you pay me the whole business to-morrow morning at nine o’clock.” The parties then went to the stable of one Shotwell where the horses were kept, and the defendant asked permission of the plaintiff to use the horses and truck at seven o’clock in the morning. Plaintiff gave his consent, provided his man should act as driver. Folios 31 and 35. Between two and three o’clock in the morning, the defendant took out the team and truck from the stable, and at nine o’clock the plaintiff called upon the defendant to receive his money, who then said that he had found out that there was a mortgage on the property for $125. The following facts were undisputed: that the defendant himself held the mortgage by assignment from Frederica Grandeman; that he had held such assignment for several days before January sixth; that the mortgage only covered the harness, which was worth only forty dollars (folio 160), and that the defendant demanded to be allowed a credit of $125 on the purchase price, and refused to return the prop'erty. The plaintiff testified at the trial that the mortgage had been paid.
+On the foregoing statement of facts, it is difficult to see how the jury could have found a verdict for the defendant. If the defendant told the truth on the trial, even then he was in the wrong. When he found that the plaintiff disputed the mortgage, he should have returned the property and foreclosed his mortgage. The jurors evidently thought that the defendant obtained the property by trick, in order to compel the plaintiff to allow the mortgage. A party cannot foreclose a mortgage in the manner attempted by the defendant, who had the right to refuse to complete his purchase until the mortgage was satisfied, but in the meantime, it was his duty to return the property to plaintiff when demand was made.
+The exceptions at folios 59, 148 and 164 were not well taken. The defendant offered to show that there was a mortgage of $100 on the truck, which he (defendant) had been compelled to pay since the commencement of the action. In an action of replevin, the jurors, when the verdict is for plaintiff and the property is in possession of defendant, assess the value of the chattels at the date of trial. Code, § 1726. The testimony would be admitted if at all, to reduce the value of the property, but the difficulty is that the defendant has the option, under the judgment, to return the property or pay its value. If he is allowed a reduction of $100 in the value, and afterwards returns the property, he would not receive the $100 which he has paid out.
+The exception at folio 81 cannot avail the defendant, where counsel wanted to show all that he said when the team was taken away from the stable. Plaintiff’s question at folio 73 was, “I don’t ask you to say what he said; what did he do?” "We have carefully considered the other exceptions in the case and can discover no error.
+The counsel for defendant does not complain of the rule of damages adopted at the trial, and no point is made that the damages are excessive.
+Judgment and order denying new trial affirmed with costs.
+Tan Wyck, J., concurs.
+Judgment affirmed.
