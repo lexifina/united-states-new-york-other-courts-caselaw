@@ -1,0 +1,23 @@
+---
+court: "New York Court of Chancery"
+decided: "1822-03-15"
+citations: ["6 Johns. Ch. 46"]
+reporter: "johns-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Corporation of the City of New-York against Mapes and Schermerhorn."]
+source_url: "https://static.case.law/johns-ch/6/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1982812
+cites_cases: ["18 Johns. Rep. 506"]
+---
+
+# Corporation of New York v. Mapes
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+Wo vested rights have been acquired in consequence of the report of a committee of the common council, on the 27th of November last, in favour of a new line to be adopted on opening Seekman-street to the East river. All that has been done under that report, is the confirmation of it by the common council, and an application to the Supreme Court for leave to discontinue proceedings under the former plan, adopted in 1816, for opening Beelcman-street, and for the appointment of commissioners of estimate and assessment, under the. new arrangement. No commissioners have as yet been appointed ; and, according to the decision of the Supreme Court, in the case of The Corporation of New-York v. Dover-street, (18 Johns. Rep. 506.) until the appointment of commissioners, no rights are so vested as to deprive the corporation of the power of refusing to go on ; and on application by them for leave to discontinue proceedings, it would, of course, be granted, and it was granted in that case. Perhaps, the better opinion is, that the corporation are not bound to go on, but may recede, and abandon their plan, at any time before the commissioners of assessment shall have reported, and their report shall have been confirmed, in pursuance of the 178th section of the act referred to in the bill. (Laws of N. Y. vol. 2. p. 342.) On the confirmation of the report of the commissioners, rights then become acquired and vested in the parties respectively. The corporation become seised, and may take possession of the land, and the individual owners become entitled to the damages assessed. (Laws of N. Y. vol. 2, p. 414. 418.) It is sufficient, however, for the consideration ** ' * i ^ of the present motion, that commissioners have not been appointed in this case, and that no rights are vested on either side. The owners of property affectéd by the plan proposed, cannot compel the corporation to go on, and carry the plan into execution. The corporation may abandon it, at their discretion; and the question then arises, whether the rights of the parties be not reciprocal, and whether the corporation can, or ought to have a power, in the mean time, to control the individuals who may be affected by their meditated arrangements, from the use and improvement, in their discretion, also, of their own property.
+I have not been able to discover any principle that will authorize the interposition of this Court, by order or injunction, to stay the improvements which it is alleged the defendants are making upon their own ground. If the corporation should persevere in their new plan, and commissioners should be appointed by the Supreme Court, (and we cannot now know that either event will happen,) and damages should be assessed, the plaintiffs may, perhaps, have to pay for the value of the buildings now erecting by the defendants. This is all the inconvenience or loss that the plaintiffs can sustain, and would it not be damnum absque injuria ? It is a loss which the Court cannot prevent, without a dangerous and unprecedented interference with the enjoyment of private right. Suppose the injunction should be granted, and at the next term of the Supreme Court, the plaintiffs should elect to withdraw their application for the appointment of commissioners, or the Court should deny their motion, the defendants would have sustained a loss by the interruption of their business, and suspension of their improvements, for which no compensation could be afforded.
+The great defect of the bill is, that the plaintiffs do not allege, or show any vested right, legal or equitable, to the ground owned by the defendants; and I do not know the o v / ease where this remedy has been afforded without the aliegation of some such right, which might be greatly, if not irreparably affected, by the acts sought to be restrained. As the case stands, the plaintiffs have shown no right or title, or raised any equity which can be a ground for an injunction, or by which I am authorized to control the defendants in the usual and ordinary enjoyment and improvement of property, to which, it is assumed, they have an absolute title.
+Motion denied.
