@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1878-05"
+citations: ["21 N.Y. Sup. Ct. 496"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ingalls, P. J., and Potter, J., concurred."]
+parties: ["MARY A. MACDONALD, Respondent, v. JAMES MACDONALD, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/21/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2359246
+cites_cases: ["29 N. Y., 418", "41 How., 365"]
+---
+
+# Macdonald v. Macdonald
+
+## Majority (Daniels, J.:)
+
+Daniels, J.:
+The object sought to be obtained by. the prosecution of this action is a limited divorce, because of the cruelty of the defendant in the course of the marital intercourse of the parties. By the complaint none of these acts are stated to have been committed in the county of New York. But they are alleged to have mostly taken place in Essex county, where the parties resided and lived together, -and at a hotel in the city of Albany, where they were at the time temporarily located. These circumstances warrant the inference that the witnesses, whose evidence must be relied ■ upon to substantiate as well as to disprove the charges made, will be found in those localities. And that inference is very decidedly supported by the affidavit of the plaintiff herself, who only claims that she has three witnesses in the city of New York who can be expected to be of any service to her upon the trial of the action. And from the affidavit of one of them it appears to be very doubtful whether they can be relied upon by her for any favorable evidence in support of her case.
+The defendant is charged with habits of intoxication and acts of marital misconduct of a most aggravated character. If these charges are well founded, the place of his residence, where he must have been almost constantly observed, and where these acts may be authenticated by evidence, is the proper locality for their investigation. It is much more probable that the truth can be ascertained, and justice between the parties administered there than elsewhere. And the affidavit, made by the defendant in sup-' port of the motion for a change of the place of trial, very surely sustains the correctness of that conclusion. For, while he has enumerated and named many persons whose attendance will not ' probably be required as witnesses, there are still many others whose evidence will be both material and important. And for that reason, as there are no very material witnesses for the plaintiff in this county, the motion made ought to have been allowed to prevail.
+It has been. objected that the order denying the motion is not appealable, but in a case of this nature, where the probabilities are all in favor of the application, that cannot be held to be the true construction of the law. It has been provided that the place of trial may be changed where the convenience of witnesses and the ends of justice will be thereby promoted. (Code of Civil Procedure, § 987, sub. 3.) In the case of Fisk v. Albany & Susq. R. R. Co. (41 How., 365), a doubt was expressed whether an appeal could be sustained from an order of this description. That doubt was placed upon the fact that the mere convenience of the witnesses in the case was not a substantial right of the party applying for the change. But it will be observed from the language of the section referred to, that another object shoidd also be considered in the determination of the question. And that is whether the ends of justice will not be promoted by the change. If they will, then it is the right of the party to have the change made, and the . denial .of the motion would necessarily affect a substantial right and render the order a proper one for an appeal.
+By requiring the party to secure the attendance of a large number of witnesses in a distant county, great expense and inconvenience must be imposed upon him and them; and where that is not to be counterbalanced by the convenience of the witnesses of the adverse party, no legal justification for the alternative can be discovered. Then both the convenience of the witnesses and the cuds of justice combine in favor of the application; and the right to have it prevail is substantial within the rule adopted in the case of People v. N. Y. Central R. R. (29 N. Y., 418). That was the view which was adopted in Wiggin v. Phelps (17 N. Y. Sup. Ct. R., 187). And in principle it was afterwards followed in Hoffman v. Sparling (19 id., 83). These authorities, as well as the •objects to be obtained, as they have been mentioned in the statute, ■render the order made in this case appealable; and the circum.'stances require that it should be reversed, and an order entered changing the place of trial to Essex county, upon the condition that, within ten days after notice of this decision, the defendant •stipulate that the plaintiff may have the evidence of such witnesses as she shall desire to have examined in the city of New York, whether residing here or in the state of New Jersey, taken before a referee in this city and read upon the trial, with the same effect as though the witnesses themselves personally attended such trial.
+Ingalls, P. J., and Potter, J., concurred.
+Ordered accordingly.
