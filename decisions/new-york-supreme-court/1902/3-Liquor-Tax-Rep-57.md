@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court"
 decided: "1902-12-30"
-citations: ["3 Liquor Tax Rep. 57", "3 Liquor Tax Rep. 56"]
+citations: ["3 Liquor Tax Rep. 57"]
 reporter: "liquor-tax-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
