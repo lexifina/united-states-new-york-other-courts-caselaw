@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-11-01"
+citations: ["3 Silv. Sup. 552"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Baruch Wolf et al., Appellants, v. Harris Strahl, Impleaded, etc., Respondent."]
+source_url: "https://static.case.law/silv-sup/3/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039073
+---
+
+# Wolf v. Strahl
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action was brought to recover for goods alleged to have been sold to the defendants by the plaintiffs.
+To support this allegation the plaintiffs attempted to prove that the defendants were, or that the defendant respondent,, who is the only person who defends the action, had represented to the plaintiffs that they were copartners, and that it was. relying upon this representation that the credit was given.
+This representation was made in the month of March, 1886, at a time when the respondent was endeavoring to effect a compromise of a claim which the plaintiffs then held against the son of the respondent, the non-defending defendant. As an inducement to the acceptance of the offer' the respondent said that he was going into copartnership with his son, and that then the plaintiffs would be able to sell them a lot of goods.
+In July the goods in question were ordered by the son, and one of the plaintiffs swears that he told his salesman to sell the goods, and then follows in the testimony the following : “ He was in already; he told me that he was helping his son along.” He said at that time, “ that he was going into a full partnership with his son to help him along.”
+It seems to be clear that any statement that he was going into copartnership with his son at some time in the future could not bind him as a partner, and the only piece of evidence which could possibly have that effect would be the use of the words “ he was in already.” An examination of the testimony does not show that the witness intended to state that the respondent made any such statement, but rather meant it as a deduction from what the respondent .did tell him, viz., that he was helping his son along.
+In fact, upon looking over the evidence, it seems to distinctly appear that the only representations made by the respondent were that he was going into partnership, which is inconsistent with the interpretation of the words first above referred to that it was a representation that he was already a partner.
+Upon cross-examination the witness made no similar statement, and the other plaintiff who testified did not pretend that he heard any such statement.
+The respondent had nothing to do with the sale of the goods,- and there is no evidence that he had any knowledge of their purchase.
+There being no proof of partnership, the disposition made of the case by the court below was right.
+There was no necessity for any amendment of the complaint, by adding the allegation as to copartnership of the defendants.
+By proof that the goods were sold to one of the defendants while conducting business in which both were copartners together, would have proved the allegation in the complaint that the goods were sold to the defendants.
+The judgment appealed from should be affirmed,- with costs.
+Judgment affirmed, with costs.
+Brady and Daniels, JJ., concur. .
