@@ -1,0 +1,37 @@
+---
+court: "New York Supreme Court"
+decided: "1871-01-07"
+citations: ["4 Lans. 53"]
+reporter: "lans"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William F. Foster, Respondent, v. Henry C. Coe, Appellant."]
+source_url: "https://static.case.law/lans/4/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1932283
+---
+
+# Foster v. Coe
+
+## Majority (Mullin, P. J.)
+
+Mullin, P. J.
+This action is brought to recover damages for a breach of an agreement entered into by the defendant with the plaintiff, to deliver him a promissory note made by himself, and indorsed by one Lewis Coe, for the sum of $349.88, being the price of property sold and delivered by the plaintiff to the defendant, and payable in one year from the date of the sale. The plaintiff avers a demand of and refusal to deliver said note, and he prays judgment for said sum and interest.
+The defendant sets up, by way of counterclaim, two promissory notes made by plaintiff, and payable to Nathan C. Coe, amounting in the aggregate to the sum of $301, exclusive of interest, and a claim for the sum of $600, which said Nathan 0. Coe, delivered to the said plaintiff, to be invested by him in stock in a tannery, and alleged that these demands had been assigned to him before the commencement of the suit.
+The plaintiff by his reply denied the transfer of these claims to the defendant.
+The referee, to whom the issues were referred for trial, found that the facts charged in the complaint and answer were true, and ordered judgment for the plaintiff for the price of the goods sold to the defendant.
+It was proved on the trial, that on the 29th of June, 1869, Nathan C. Coe, the payee of said notes, transferred by an instrument in writing, under his hand and seal to the defendant all his real and personal property for a consideration therein expressed, in trust for the uses following and none other; that is to say, for the sole and separate use of myself and wife for and during my natural life and so as I alone or such person as I shall appoint, shall take and receive the rents, issues and profits thereof, and from and after my decease, in trust to be disposed of to my heirs as I may have directed by will or otherwise, or according to law, and in furtherance of the premises; and the said Nathan 0. appointed the defendant his attorney, with full power and authority to do all acts and things that might be necessary in the premises, to sue, prosecute and implead for the same. Subsequently, and in November of the same year, the said Nathan C., transferred to defendant, absolutely, by writing signed by him, the several demands against the plaintiff mentioned and set forth in the defendant’s answer.
+The only question for consideration on this appeal is, whether the claims set out in the answer were admissible by way of set-off, or counterclaim to the demand of the plaintiff.
+The ground mainly relied on to defeat the counterclaim is, that the defendant held them not in his own right but as trustee for Nathan C. Coe, and such others as have an interest in the property of said Nathan C., under the trust instrument above mentioned. It in terms grants, bargains, sells, assigns and transfers all his (Nathan C. Coe’s) land, tenements, hereditaments, goods, and chattels and effects, and all accounts, debts and demands, due, owing and belonging to him, together with all securities for the same. It cannot be doubted but that this transfers the legal interest subject to the trust. It is said, however, that inasmuch as by the instrument the trustee takes for the solo and separate use of himself and wife, so as he alone or such other person as he shall select, shall take and receive the rents, &c., and at his death in trust to be disposed of to his heirs as he by will or as the law should direct, confers on the trustee no powers over the trust property, but he is to hold it in order that the grantor may use and dispose of it at his pleasure, and that by reason the trust is void, and the title remains in the grantor, and as a consequence the defendant acquired no interest, legal or equitable in the property.
+I shall not stop to inquire whether this trust is valid as a trust of real estate. So far as the property in question is concerned, it is personal; and the question is, whether it is a valid trust of personal property. A trust embracing both real and personal property may be valid as to the one kind of property, but invalid as to another. A trust of personal estate, for the use and benefit of the grantor or donor, is valid, and vests the legal title in the trustee, unless the purposes of the trust are unlawful.
+A trust of personal property, for the benefit of the person creating the trust, is valid. (Gott v. Cook, 7 Paige, 521.) In this case, it was said by the chancellor that the Revised Statutes have not attempted to define the objects for which express trusts of personal estate may be created, as they have done in relation to real estate. Such trusts, therefore, may be created for any purposes which are not illegal.
+In Wright v. Miller (4 Seld., 9) the trust was of real estate for the benefit of the grantor; yet it was held valid.
+If the conveyance to defendant, as trustee, is valid, the question arises, whether Nathan C. Coe and defendant could relinquish that trust, .and the former could convey to the latter the property absolutely relieved from the trust.
+The wife of Nathan C. Coe is, by the trust instrument, entitled to share in the income of the trust property during his life. No other persons are designated as eestuis que trust. I think, as to her, the trustee could not abandon the trust, nor convey the property to any person having knowledge of the trust discharged of it.
+It was competent for N. 0. Coe to release or relinquish his interest under the trust; but, as that would not affect his wife’s interest, the property remained subject to the trust.
+Ordinarily, no one can insist that property is subject to a trust, or that a conveyance is in violation of the terms of a trust, who has not an interest in supporting the trust; but, when a trustee is endeavoring to avail himself of a set-off of demands held by him as a trustee against demands owing by him personally, the holder of the latter has the right to insist that the person seeking the set-off shall show, in order to entitle him to a set-off, that the claims in suit are due by the defendant in the same right as that in which he seeks to make a set-off. (2 Stat. at Large, 365, § 18.)
+A trustee cannot set off a demand held by him, as trustee, against one owing by him personally. (1 Wait’s L. and P., 969; Waterman on Set-off, 209, 210; Turner v. Satterlee, 7 Cowen, 480; Fair v. McIver, 16 East, 130; Brown v. Cuning, 2 Caines, R. 34a.)
+The counterclaim is much more extensive than set-off; yet the principle that forbids a set-off by a trustee of demands held by him as such against demands owing by him in his own right applies in all its force to counterclaims of demands held by him as trustee against those owing by him in his own right.
+If a person with whom a person deals has no knowledge of the trust, it is quite probable that he might deal with the trustee as if the trust property was his own, and his rights would be regulated accordingly.
+I think the referee was right in disallowing the set-off, or counterclaim; and the judgment should be affirmed.
+Judgment affirmed.
