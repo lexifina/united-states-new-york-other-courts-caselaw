@@ -1,0 +1,19 @@
+---
+court: "New York City Court, General Term"
+decided: "1894-11-20"
+citations: ["63 N.Y. St. Rep. 306"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael Kirchner, Resp’t, v. Peter Otto, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/63/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2101870
+---
+
+# Kirchner v. Otto
+
+## Majority (Yaw Wyck, J.)
+
+Yaw Wyck, J.
+The record shows that plaintiff produced, - on the trial, receipts signed by Peter Otto, the defendant, for $218.50 worth of materials delivered by him -to defendant, and plaintiff admitted a payment of $50; while defendant contended that the entire amount had been paid, and, moreover, claimed that he had informed plaintiff that he had taken a partner, and that, therefore, he was not individually liable for a part of the materials, but jointly with this partner, who was not made a party defendant. These receipts, signed “Peter Otto,” are proof that the materials were sold and delivered to him ; and that it was not error for the court to instruct the jury to find for the plaintiff for the balance of $168.50, unless they should determine that the defendant had paid the same, as he claimed by his evidence. • The verdict for plaintiff for such balance and interest is not against the weight of evidence, and the judgment and order are affirmed, with costs.
