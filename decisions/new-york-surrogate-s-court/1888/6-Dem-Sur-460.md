@@ -1,0 +1,26 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-07"
+citations: ["6 Dem. Sur. 460"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of Masterton. In the matter of the estate of Mary Masterton, deceased."]
+source_url: "https://static.case.law/dem-sur/6/cases/0460-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1144382
+---
+
+# In re Estate of Masterton
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+The answer to the petition is inartificially and discursively drawn, and without any apparent regard to the requirements of § 2710 of the Code, as amended in 1881. It is there provided that, if the person cited shall interpose a written answer, duly verified, that he is the owner of said property, or is entitled to the possession thereof by virtue of any lien thereon, or special property therein, the Surrogate shall dismiss the proceeding. I think it may fairly be considered that the person cited in this case states facts sufficient, in his answer, to show that he claims to be entitled to the possession of the property in question by virtue of a lien thereon for his commissions and services as agent for Caroline Masterton, and also by reason of a special property, therein as the executor named in her will.
+As the interest of an executor in the estate is derived, primarily, from the will, it vests in him from the moment of the testatrix’s death. It so happens, ' in this instance, that the will of Caroline was admitted to probate pending this proceeding, and before the answer was filed. As the interest of John A. Todd in her estate became vested in him, as her executor, at the time of her death, and' as this property, or evidence of property, was in her possession at that time it would be improper for this court, in this proceeding, to order it to be delivered to the executor of Mary Master ton’s will.
+The case is somewhat complicated. Mary and Caroline were maiden sisters, residing together at Tarry town, having joint interests in some, and several interests in other, property, with no heirs at law or next of kin nearer than cousins. Some years since, while on a visit to some of the relatives in Albany, Mary executed a will and left it in the hands of said Robert F. Todd, named therein as executor. She then rejoined her sister in Tarry town, studiously concealing from her the fact of her having made a will, until she died in October, 1883. Caroline, finding no will of Mary, and believing her to have died intestate, took out letters of administration on her estate, and thus came into possession of these pass books and other property of Mary, and regarded herself as sole owner of the whole, after the payment of debts, etc.
+As she, personally and through John A. Todd her agent, drew the interest on the amounts of the deposits in the savings banks, she must have filed with them certificates of the Surrogate that she was the duly appointed administratrix of Mary’s estate, and the accounts are still, doubtless, to her credit as such. Caroline then died, in May, 1887, having previously made a will, which was then offered for probate, and about the same time the will of Mary also was presented for a like purpose. Both were contested, but admitted to probate. If the executor of Mary’s will were to take these pass books to the banks with the Surrogate’s certificate of his appointment, the banks would, probably, refuse to pay him funds which stand to the credit of Caroline as administratrix.
+However that may be, as Caroline’s estate vested in interest in the executor of her will, and as she claimed to be the owner of the deposits of which these pass books are the evidence and to the possession of which her executor claims the right, by reason of a special property therein, the present application must be dismissed, without prejudice to the petitioner’s pursuing any other remedy open to him.
+As Caroline dealt with the property left by Mary as her own, and as she may have made deposits in these banks which are credited on these same pass books, and as she may have withdrawn and used some of the funds for the benefit of the estate of Mary, it is obvious that whatever equities may exist, as between the two estates, cannot be adjusted in this proceeding.
+Perhaps a proceeding under § 2606 may furnish a solution of the difficulty.
+Proceeding dismissed.
