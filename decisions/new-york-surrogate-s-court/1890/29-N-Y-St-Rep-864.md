@@ -1,0 +1,44 @@
+---
+court: "New York Surrogate's Court"
+decided: "1890-03-17"
+citations: ["29 N.Y. St. Rep. 864"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Danforth Daggett, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0864-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664774
+---
+
+# In re the Estate of Daggett
+
+## Majority (Spring, S.)
+
+Spring, S.
+This is a proceeding to compel an amendment of an inventory, and involves the construction of chapter 406, Laws of 1889.
+In this case the intestate died seized in fee of real estate valued at $1,150 and personal property amounting to about $500. The appraisers seeking to comply wth the act cited, set apart to the widow a tract of land valued at $1,000 and the $150 in personal property provided by chapter 157 of the Laws of 1842, and also the enumerated articles of household furniture designated in the Revised Statutes so far as the scant penates of decedent permitted.
+The contention of the widow is that the appraisers have not set apart sufficient personal property to meet the requirement of subdivision 2 of the act of 1889.
+That act first adds an additional section to" chapter 2 of article 2 of the Revised Statutes, and purports to give a widow something in addition to any interest she may have by the preceding sections pf that chapter. The occult significance of this is unfathomable, in view of the fact that chapter 2 relates solely to title to real property by descent and does not by express terms, or by implication, give a widow anything whatever.
+It seems plain, however, that the meaning of this additional § 30 is to give the widow of an intestate the use of real estate of the value of $1,000 unless he leaves no descendant, in which event her title is absolute in fee, and this interest in real property is in addition to any title she may otherwise have in the estate of her deceased husband, for it does not assume to restrict or be in lieu of her dower right
+Section 2 of this act is, however, an amendment of chapter 157 of the Laws of 1842, and relates to personal property, and is contingent in its scope and effect upon the previous section.
+If the decedent leaves real estate so that the actual present value of the portion set apart to the widow in compliance with § 30, and the actual present value of her dower interest and this $150 provided for in this section amount to $1,000, then the appraisers are not to set apart to her any other personal property; but if these together make less than $1,000, then they they are to appraise for her use sufficient personal property to make up for this deficiency. That is, to render effectual these new duties foisted upon the appraisers, it is their office:
+First. To set apart to the widow real estate of the value of $1,000.
+Second. To ascertain the age of the widow and compute the present value of this interest by the annuity tables.
+Third. To make a similar computation as to her dower interest.
+Fourth. To set apart the $150 required by § 2 of the act.
+Fifth. Add together these sums, and if their sum total is $1,000, the complex duties of the appraisers terminate.
+If, however, they do not amount to that sum, then they are to set apart personal property sufficient in value to make up the $1,000.
+To the ordinary appraiser unlearned in the niceties of the annuity tables, this involves much circumlocution and imposes upon him more of a burden than is consistent or reasonable, yet there is no other method devised to carry into execution this well meaning but intricate statute.
+There is no provision in the statute empowering the appraisers to set off this land by metes and bounds, or to incorporate a description of it in the inventory, or to cause the same to be re-' corded in the office of the clerk of the county in which the land is situate. The only authority they seem to possess as to the real estate is to appraise it for the purpose of making operative § 2 of the act, but this makes an appraisal necessary in every instance, for in no other way can it be determined whether or not the widow is entitled to the additional personal property. The counsel for the widow argues that in making the computation for the purpose of arriving at the amount of personal property to be set apart to her, the value of the dower interest and the $150 are not to be taken into account. That is, that the design of the statute is to increase the interest of the widow by $1,000 in any event, and the words in § 2, “in addition to the dower rights, etc.,” are words of exclusion.
+The language does not warrant this construction. The first section relates exclusively to real estate, and it is clearly an enhancement of the widow’s interest therein, but no mention is made of her dower.
+In the second, specific reference, by words of inclusion, is made not alone to the preceding section but also to the dower right and the $150, using the significant term, “ together,” to show the unity of these two, and .the equally pointed phrase, “ in addition,” to indicate they are to be taken in the computation with the interest referred to in § 80.
+If the intention was to have the computation based solely upon the first section, there was no necessity of lugging in any language referring to the dower interest, for there had been no mention of that right in the preceding portion- of the statute. If the design had been to restrict this calculation to the value of the land mentioned in § 80, there would have been an entire omission of the words, “in addition to her dower right and together with said $150.” Either that language must be given its ordinary significance, or else treated as surplusage, and the latter course will not be followed where the words can be given their usual acceptation without repugnance to the general scope of the statute.
+Again, the words “ in addition ” do not ordinarily mean “ exclusive of,” but are diametrically opposed to the idea of diminution or abatement, but signify an increase of or accession to. There is still another question of grave importance involved in the construction of this statute.
+Does this portion set apart to the widow apply as against the creditors of decedent ?
+I am inclined to think it must have that" effect Section 2 of the act is an amendment of the statute extending the list of articles exempted “ from distress for rent and sale under execution," and surely, so far as that section is concerned, the interest the widow takes in the property is absolved from any interference by the creditors of the deceased husband. The $150 set apart to her by this statute are not amenable to the husband’s debts, and the other property coming to her by virtue of this same statute would also be freed from the debt charge as they passed by the same language.
+It would hardly be consistent to make the property set apart under the first section of this act of 1889, subject to the claims against the husband, while that provided for the widow in the second section without any variation in the languarge and which is interwoven with and dependent upon the first section is held by her exempt from such claims.
+While this interpretation may be unjust to creditors, the same argument is patent when applied to her dower interest or to her rights acquired by her in his personal property under the act of 1842, and prior to the passage of this statute in controversy. The whole scheme is predicated upon an evident intention to assure to the widow a larger interest in the deceased husband's property and is simply in line with the rights formerly possessed by her.
+In this case the widow is of the age of seventy-two years.
+The actual present value of her dower interest is..... $105 49 Of the land set apart to her by the appraisers........ 275 20 Add property set apart by appraisers................ 150 00 Total....................................... $530 69
+Leaving to make up the sum of $1,000; $469.81 which the appraisers must set apart to the widow from the personal property or in case there is insufficient for that purpose so much thereof as there may be and an order will be entered accordingly.
