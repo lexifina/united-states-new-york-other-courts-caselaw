@@ -1,0 +1,21 @@
+---
+court: "Buffalo Superior Court"
+decided: "1894-12"
+citations: ["9 N.Y. Crim. 472", "65 St. Rep. 417; 10 Misc. 590", "65 N.Y. St. Rep. 417", "10 Misc. 590"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. JOSEPH LUCZAK."]
+source_url: "https://static.case.law/ny-crim/9/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1171562
+cites_cases: ["10 Misc. 590", "3 Park. Cr. Rep. 465", "39 How. Pr. 454", "45 Hun, 34", "5 Wend. 253", "65 St. Rep. 417", "9 St. Rep. 412"]
+---
+
+# People v. Luczak
+
+## Majority (HATCH, J.)
+
+HATCH, J.
+The defendant was convicted by a court of special sessions of the offense of petit larceny, and sentenced to be confined in the Erie county penitentiary for the term of five months, and pay a fine of $25. Motion is now made to discharge him from custody, upon the ground, among others, that the judgment of conviction is fatally defective in omitting to show that defendant failed to demand a trial by jury when arranged for trial. bTo complaint is made that the recital of the judgment is defective in any other respect. The act which gave the right to trial by jury for the offense of which defendant is convicted was passed in 1824. It has been since that time changed in phraseology, but the substance in the present regard has not been changed, and is now embodied in the Code of Criminal Procedure (section 701). Therein it is provided that, “if the defendant do not demand a trial by jury, the court must pro deed to try the issue.” It was held under the original act, where the right to demand a trial by jury was given, that it was not necessary for the court to inform the prisoner of his right to be tried by a jury, ór that he should expressly waive such right to render valid the judgment of conviction. People v. Goodwin, 5 Wend. 253. If it be not necessary to inform defendant of his right, it cannot be necessary to recite that he was so informed. In People v. Moore, 3 Park. Cr. R. 465, it was 'held that" such recital was not necessary to the validity of a commitment. This result is also supported in People v. Cook, 45 Hun, 34; 9 St. Rep. 412. The doctrine laid down in People v. Mallon, 39 How. Pr. 454, relied upon by defendant, so far as it affects the present question, conflicts with the authority of the foregoing cases, ■and we believe that it ought not to be followed. The discussion upon this point was not necessary to a determination of the question presented, for it there appeared that defendant demanded a trial by jury, which was refused. In the present case defendant made no objection to the trial proceeding before the court, and he must be held to have elected to be so tried. This leads us to the conviction that the judgment set out in the return is valid, and must be upheld. Defendant is remanded to the custody of the keeper of the penitentiary, and the writ is dismissed.
+Ordered accordingly.
