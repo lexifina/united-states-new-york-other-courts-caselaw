@@ -1,0 +1,23 @@
+---
+court: "New York Surrogate's Court"
+decided: "1910-06"
+citations: ["7 Mills Surr. 558"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Probate of the Last Will and Testament of Sara A. McCarty."]
+source_url: "https://static.case.law/mills-surr/7/cases/0558-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1075961
+---
+
+# In re the Probate of the Last Will & Testament of McCarty
+
+## Majority (Ketcham, S.)
+
+Ketcham, S.
+It is provided that, in this court, “ Either party may, upon the settlement of a case, request a finding upon any question of fact, or a ruling upon any question of law.” Code Civ. Pro., § 2545.
+The proposed case has been presented, with the amendments proposed thereto, and the amendments and the case have been marked according to the disposition intended by the court. Thereafter, the appellants request findings upon questions of fact and rulings upon questions of law. It is contended by the respondent that such requests cannot be considered.
+This argument can only prevail if it can properly be said that the case on appeal was settled before the requests were made. The mere disposition of amendments or.the correction of the case upon its face is not the settlement. Strict practice, and this is a case for strictness, requires that the case in its final form shall be certified as settled by the judged signature.
+The requests have been passed upon.
+Decreed accordingly.
