@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-10"
+citations: ["61 N.Y. Sup. Ct. 140"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concurred."]
+parties: ["WALLACE BRADLEY, Respondent, v. THE CITY OF ROCHESTER, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/61/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4582889
+cites_cases: ["19 Hun, 550", "82 N. Y., 324"]
+---
+
+# Bradley v. City of Rochester
+
+## Majority (Dwiuht, J. :)
+
+Dwiuht, J. :
+The action was to recover back sums of money paid by the plaintiff and his assignors to the defendant for huckster’s license fees. The judgment appealed from reversed that of the Municipal Court which dismissed the plaintiff’s complaint. The County Court held that the ordinance of the common council of the city of Rochester which provided for the licenses in question was void for the reason that it assumed to delegate to the mayor an authority given by statute to the common council itself, and which could only be exercised by it. In this view of the case we think the County Court erred.
+The charter (chap. 143 of 1861, as amended by chap. 14 of 1880) of the city of Rochester (§ 40) gives to the common council the “ power to make * * * such ordinances, by-laws and regulations as it may. deem desirable within the said city for the following purposes; ” among them, by subdivision 19, as amended by chapter 120 of Í882, “to regulate the vending of wood, coal or other fuel, meats, vegetables, fruits, fish, poultry, milk and provisions of all kinds, * * * and to prescribe the fees' to be paid for license for the sale of the aforesaid commodities; ” and, by subdivision 24, “ to regulate and restrain hawking and peddling in the streets.”
+The ordinance in question is entitled “ an ordinance regulating the sale of vegetables and provisions,” and is as follows:
+“ Section 1. No person shall peddle or sell from house to house within the city of Rochester, any kerosene oil, vegetables, fruit, garden produce or provision of any kind whatever, without having a license therefor under penalty of ten dollars for each offense.
+“ Section 2. The mayor of the city of Rochester shall license any proper person to sell as above on payment therefor of a license fee of fifteen dollars for each wagon employed.”
+Here is no attempt to delegate to the mayor any authority conferred by the charter upon the common council. On the contrary the enactment of the ordinance was a direct exercise by the common council of the authority conferred upon it, viz., to regulate and restrain (by ordinance) the peddling of certain commodities in the streets of Rochester. This the ordinance seeks to accomplish by establishing a system of licenses for such traffic, and prescribing the license fees to be paid therefor. It does not delegate to the mayor the authority belonging to the common council, but, in the exercise of that authority, imposes upon the mayor a duty appropriate to his office. The authority conferred upon the common council by statute is not to issue licenses, but to make an ordinance providing for licenses to be issued. The duty imposed upon the mayor by the ordinance is to issue the licenses thus provided for. The imposition of that duty upon the mayor is clearly within the authority conferred upon the common council.
+Counsel for the respondent (here) makes the further objection to the ordinance that it discriminates in favor of some and against other forms of traffic, to all of which the statute equally applies. There does not seem to be much force in the objection even under the first subdivision (subd. 19) of the statute quoted above; but it is entirely obviated by the second subdivision quoted (subd. 24), which selects hawking and peddling on the streets as special objects for the regulating and restraining power conferred upon the common ■council. It is further objected, on the part of the respondent, that the licenses are illegal and void because they are not signed by the mayor but only by the city clerk. There are, at least, two answers to this objection: First. So far as appears the licenses were as effectual to secure to the plaintiff and his assignors the privileges paid for as if they had been signed by the mayor. Second. No objection was made by the parties taking the licenses on this ground. So far as this objection was concerned the payment of the license fees was voluntary. The licensees were not required to pay their money for licenses not in due form; and the city having accepted their money would have been estopped to question the regularity of their licenses.
+" That the adoption of an ordinance providing for license was a valid exercise of power conferred by the legislature upon the common council is not open to question. (People ex rel. Larrabee v. Mulholland, 19 Hun, 550; affirmed, 82 N. Y., 324.) The judgment of the County Court should be reversed, and that of the Municipal Court of Rochester affirmed.
+All concurred.
+Judgment of the County Court reversed and that of the Municipal Court of Rochester affirmed, with costs.
