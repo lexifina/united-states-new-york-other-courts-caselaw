@@ -1,0 +1,24 @@
+---
+court: "New York Surrogate's Court"
+decided: "1916-07"
+citations: ["17 Mills Surr. 271"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Frederick E. Gilbert, Deceased."]
+source_url: "https://static.case.law/mills-surr/17/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1095838
+---
+
+# In re the Estate of Gilbert
+
+## Majority (Fowler, S.—)
+
+Fowler, S.—
+The testator died possessed of undivided interests in real estate situate in the county of Hew York, but subject to particular mortgages on separate parcels. The appraiser arrived at the value of testator’s undivided interests by allowing a deduction of fifteen per cent upon the gross value thereof. Such deduction was allowed in view of the probable expenses consequent upon a possible sale under a judgment in partition or foreclosure. The appraiser also made a further deduction equal to the mortgage encumbrances upon said interest. The difference the appraiser found to be the value of the taxable interest of the testator in the property mentioned.
+The State Comptroller in his appeal contends that the appraiser’s method of arriving at the value of such taxable interests is in error, and he submits, in lieu thereof, that the appraiser should have first deducted the value of the mortgages from the gross value of testator’s undivided interest, and from the result which was testator’s equity in the premises, he should then have deducted the fifteen per cent above mentioned.
+The real question is, Should the fifteen per cent be calculated upon the gross value of the testator’s undivided interest, 'or upon his equity therein? I think the answer to this question is found in the answer to another question: What would be sold under a judgment in partition or in foreclosure ? Certainly all of testator’s undivided interest, not his equity alone, would be sold. His entire interest, and not alone the equity, would, therefore, be subjected to the payment of expenses incurred.
+The executors, on the other hand, contend in their appeal that the appraiser’s report and the order entered fixing a tax erred in fixing fifteen per cent as the possible deduction in casi of a sale of the kind above referred to of the testator’s undivided interests. They contend that the appraiser should have accepted the testimony in the form of an affidavit made by an expert, and to the effect that twenty-five per cent was the proper allowance. I do not think the appraiser erred in this finding. There seems to be given to the transfer tax appraiser considerable latitude, by the language of the statute providing for the creation of his office, concerning the evidence he shall accept as to values. In fact, the use of the official title of “ appraiser ’? carries with it a significance that this officer, in so far. as his work shown in his report is concerned, is to be the judge of the nature of the evidence he desires submitted to him on the question of valuation. Of course this is true only-sub modo, and in cases fairly treated by him.- If an affidavit submitted on the question of deduction, such as is now under consideration, were to -show that the deduction, should be fifty per cent and the appraiser in his report rejected that allowance and found that it should be fifteen per cent, I would certainly support the appraiser’s finding as not only within the limits of his powers as an appraiser to so find, and in consonance with his powers, but also as a reasonable finding, in so far as the matter involved was concerned.
+The order fixing tax will be affirmed.
+Order affirmed.
