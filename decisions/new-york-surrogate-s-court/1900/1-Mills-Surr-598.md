@@ -1,0 +1,20 @@
+---
+court: "New York Surrogate's Court"
+decided: "1900-07"
+citations: ["1 Mills Surr. 598", "32 Misc. 296"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Henry P. Sondheim, Deceased."]
+source_url: "https://static.case.law/mills-surr/1/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1064164
+---
+
+# In re the Estate of Sondheim
+
+## Majority (Thomas, S.)
+
+Thomas, S.
+Application to vacate and resettle an order. The decedent died on May 9, 1896, at which time his estate became taxable under chapter 399 of the Laws of 1892. Subsequently, and on June 15, 1896, the Law of 1892 was repealed and substantially re-enacted, both as to the imposition of the tax and the machinery for its collection, by Laws of 1896, chapter 908, known as “ The Tax Law,” Article X. The remedy was found in section 11 of the Laws of 1892, chapter 399, which gave to the surrogate power “ to appoint a competent appraiser to fix the fair market value, at the time of the transfer thereof, of property of persons whose estates shall be •subject to the payment of any tax imposed by this act,” and in section 230 of Laws of 1896, chapter 908, which used the •same words, substituting the word “ article ” for the word “ act.” The Statutory Construction Law, being Laws of 1892, •chapter 677, section 31, provides that the repeal of any provision of a statute which amends a provision of a prior statute leaves such prior provision in force unless the amendatory statute be a substantial re-enactment of the statute amended. As a result of this the Statute of 1892, both as to the liability for the tax and the remedy for appraisal, remainded unrepealed .and unaffected by the act of 1896. By Laws of 1900, chapter 658, section 230 of the Tax Law of 1896 was amended so as to require the State Comptroller to appoint, and at pleasure remove, not to exceed five persons in the county of New York to act as appraisers, who were to be salaried officials. The surrogate was required, on proper application or on his own motion, to, “ by order, direct one of such persons so designated as appraisers to fix the fair market value of property of persons whose estates shall be subject to the payment of any tax imposed by this article,” to wit, Article X of the Tax Law of 1896. The order now sought to be vacated or resettled follows the language of the act of 1900, and merely directs one of the appraisers appointed by the State Comptroller to proceed with an appraisal of property taxable under the Law of 1896, and it is requested that I shall either adopt the appraiser .as my own appointment, or that some other person be nominated and appointed by me so as to make the order comply with the Law of 1892, under which, if at all, the estate is said to be taxable. The difficulty is that, as I construe the recited legislation, the power of the surrogate to appoint an appraiser has been entirely taken away, and his only power and duty is to make the direction prescribed by the act of 1900. The method of selecting an appraiser under the act of 1892 was continued under the act of 1896 as originally passed, but was substantially varied and changed by the act of 1900, and the specifically enacted repeals of the provisions of both of the earlier statutes are, to this extent at least, consummate and complete. I, therefore, deny the application to resettle the order on the ground that I have no power to nominate an appraiser or to do anything more or different than I have already done in the order objected to. I do not intend by this to pass upon the legal effect of the order as it stands. The question as to whether the appraiser appointed by the State Comptroller and directed by me to proceed with the appraisal has or has not jurisdiction to assess a tax which was imposed by the act of 1892 is too grave to be determined on a mere application to vary the form of the order of appraisal, and should properly be raised and decided after full argument on an appeal from the order fixing the tax.
+Decreed accordingly.
