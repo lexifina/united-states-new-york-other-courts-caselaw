@@ -1,0 +1,44 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-07"
+citations: ["87 N.Y. Sup. Ct. 310"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cullen, J., concurred ; Brown, P. J., not sitting."]
+parties: ["Charles A. Hedges and Another, Appellants and Respondents, v. The West Shore Railroad Company and Another, Respondents and Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/87/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4728093
+cites_cases: ["104 N. Y. 287", "133 N. Y. 79", "135 N. Y. 83"]
+---
+
+# Hedges v. West Shore Railroad
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+As the law is now settled in this State, an upland owner, whose legal title extends to high-water mark upon a navigable stream of water, has property rights therein incident to his riparian proprietorship, which constitute property within the meaning of the fundamental law, of which he cannot be deprived without just compensation.
+Among such rights are access to the navigable part of the stream from the front of his land, and the right to construct a wharf for his own use, or for the use of the public. (Rumsey v. N. Y. & N. E. R. R. Co., 133 N. Y. 79.)
+Another principle equally well settled is this : “ The fact that the owner of land bounded by a navigable river has conveyed to a railroad company for the use of its road a strip of the land along the water front over which its route runs, does not deprive him of the character of riparian owner, within the meaning of the statute in reference to grants of lands under water, nor does it give to the company that character. Although the title granted to the company is a fee, it holds and can only use the land for the purposes of its road.” (N. Y. C., etc., R. R. Co. v. Aldridge, 135 N. Y. 83.)
+These two principles will furnish material aid in the determination of this appeal. The plaintiffs are the owners of a parcel of land in the town of Cornwall on the westerly shore of the Hudson river, and they have also obtained from the Commissioners of the Land Office of this State a grant of land under the waters of the Hudson river in front of their premises.
+Upon the upland premises the plaintiffs have constructed a brick yard, and all the structures and appliances appropriate to the manufacture of brick, and they have conducted that business there for several years last past. The plaintiffs received their title to the upland in 1886, and their water grant in 1887.
+In 1882 the New York, West Shore and Buffalo Railway Company, the predecessor of the West Shore Railroad Company, constructed a railroad along the Hudson river in front of the lands of the plaintiffs, and between them and the navigable waters of the river. The road is so constructed as to obstruct the access to the river from the premises of the jjlaintiffs.
+The West Shore Railroad Company has succeeded to the rights of-the corporation which constructed the railroad, and is subject to all the obligations and duties imposed upon railroad companies incorporated.
+The defendant, the New York Central and Hudson River Railroad Company, is the lessee of the road from the West Shore Company, and now operates the railroad.
+This action is brought for the purpose of restraining the operation of the railroad, and recovering the damages which have resulted therefrom.
+The cause has been tried before a judge without a jury, and a judgment rendered in favor of the plaintiffs for $1,750 damages in the use of the brick yard, and $9,000 damages to the fee of the premises. The judgment declares that the plaintiffs are entitled to an injunction restraining the defendants from the further maintenance of the obstruction to the access to the Hudson river; but in case the defendants pay or tender to the plaintiffs such sum, with interest, then the injunction is not to issue, and then the plaintiffs must deliver to the'defendants a release conveying to the defendants ■the right to use the waters and the lands under water within the boundaries of the lands granted by the People of the State to the defendants for the maintenance and operation of their railroad as the same is now constructed or shall be hereafter changed, and a release of all future damages to be incurred by the plaintiffs from the maintenance and operation of said railroad as the same is now constructed and as it shall be hereafter changed.
+The defendants have appealed from the entire judgment, and the plaintiffs have appealed from that portion of the judgment which directs them to release to the defendants the right to use the waters .and the land as the same shall be hereafter changed, and to release all future damages resulting from the maintenance and operation, of the railroad as the same shall be hereafter changed.
+There was a claim for damages to a piece of property called Sloop Hill, but the claim was rejected by the trial court, and the plaintiffs have not appealed from that portion of the decision. We, therefore, make no mention of the claim or its rejection.
+In relation to the appeal of the defendants which involves the merits of the action, it is only necessary to say that the first principle laid down at the head of this opinion is sufficient for the maintenance of this action.
+The Hudson river is viewed as a great public thoroughfare, and the rights of riparian proprietors upon that river and the rights of .abutting landowners upon public streets are regarded as similar, and the rights pertaining to each are considered the same.
+Commencing with the /Story case and continuing through the numerous cases against the elevated railroads, and the JRumsey cases and the Aldridge cases, the questions have all been examined with a fertility of learning and reasoning, and a wealth of illustration which have exhausted the subject. This case falls within the principles of those decisions.
+The plaintiffs had a right of access to the river from their property, and the railroad was an obstruction and an impairment of such right, and caused, damages to the plaintiffs in the prosecution of their business; and diminished the value of their property. The amount of both sorts of damage has been assessed by the trial judge in amounts which are reasonable. Our conclusion, therefore, is that the appeal of the defendants presents no error.
+We think, howevel-, that the trial judge has required too much from the plaintiffs in directing them to release to the defendants all future damages to be incurred from the maintenance and operation of the railroad as the same shall hereafter be changed.
+That requirement is not in harmony with the theory upon which the damages were assessed. The fee damages were awarded to the plaintiffs as compensation for the injury already inflicted by the obstruction as it existed prior to and at the time of the commencement of the action.
+The provision requires the plaintiffs to release the defendants from damages which may result from any change of the structure, however injurious it may be. That seems to be inequitable. No damages have been allowed for future injuries, and none could be.
+The Lahr Case (104 N. Y. 287) holds that abutters upon public streets are entitled to such damages as they may have sustained by reason of the invasion of the street by the elevated railroad, and such is the rule established in that class of cases.
+We have found no case which authorizes such a provision in regard to future injuries in a judgment, and we have been referred to none.
+The judgment should be modified by striking out that portion of the judgment, and, as so modified, affirmed, with costs to the plaintiffs.
+Cullen, J., concurred ; Brown, P. J., not sitting.
+Judgment modified by striking out the provision requiring the plaintiffs to execute and deliver to defendants a release of all further damages, and, as modified, affirmed, with costs to the plaintiffs.
