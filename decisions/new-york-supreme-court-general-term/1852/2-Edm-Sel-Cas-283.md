@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1852-12"
-citations: ["2 Edm. Sel. Cas. 283", "2 Edm. Sel. Cas. 308"]
+decided_precision: "month"
+citations: ["2 Edm. Sel. Cas. 283"]
 reporter: "edm-sel-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["The People v. Joseph Clark. The People v. James Sullivan."]
 source_url: "https://static.case.law/edm-sel-cas/2/cases/0283-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4565438
-cites_cases: ["12 Ohio Rep. 52", "12 Wend. 348", "13 Wend. 159", "2 Tenn. Rep. 8", "24 Wend. 558", "3 Denio, 98", "7 Cow. 525"]
+cites_cases: ["12 Ohio Rep. 52", "13 Wend. 159", "2 Tenn. Rep. 8", "24 Wend. 558"]
 ---
 
 # People v. Clark
