@@ -1,7 +1,8 @@
 ---
 court: "New York Surrogate's Court"
 decided: "1870"
-citations: ["1 Tuck. Surr. 339", "1 Tuck. Surr. 145"]
+decided_precision: "year"
+citations: ["1 Tuck. Surr. 339"]
 reporter: "tuck-surr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["The final accounting in the Estate of Joseph Black."]
 source_url: "https://static.case.law/tuck-surr/1/cases/0339-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 454964
-cites_cases: ["1 Wend., 583", "9 Cow., 34"]
 ---
 
 # In re the Final Accounting in the Estate of Black
