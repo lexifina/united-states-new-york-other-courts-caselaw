@@ -1,0 +1,20 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-11-03"
+citations: ["18 N.Y. St. Rep. 812"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of Hannah Gilligan."]
+source_url: "https://static.case.law/ny-st-rep/18/cases/0812-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2011853
+cites_cases: ["2 Dem., 247"]
+---
+
+# Estate of Gilligan
+
+## Majority (Ransom, S.)
+
+Ransom, S.
+Letters of administration on the estate of decedent were issued to Thomas G-illigan, her husband, in December, 1881. George Grau recovered a judgment against said Thomas Gilligan, in the city court, and instituted proceedings supplementary to execution in said action, in which Theodore Martzloff was appointed receiver, with the usual powers and duties. As such receiver, he filed a petition in this court for a compulsory accounting herein, and subsequently a voluntary proceeding was instituted by the administrator, and the two proceedings merged. The account of the administrator was duly filed, .and objections thereto were duly made and filed by the receiver. The matter was sent to a referee, who has filed his report, to which the administrator has filed exceptions. The first exception is to the first finding, or conclusion of law, that Theodore Martzloff, as receiver, was entitled to and properly did appear in this proceeding. Section 2743, Code of Civil Procedure, provides that where an account is judicially settled, as prescribed in this article, and any part of the estate remains, and is ready to be distributed to- the creditors, legatees,, next of kin, husband or wife of the decedent, or their assigns, the decree must direct the payment and distribution thereof, etc. This receiver is the assignee of the administrator’s share in his wife’s estate. In Gibbons v. Shepard (2 Dem., 247) it was held that not only could one claiming as assignee of a legatee’s interest intervene upon the judicial settlement of the executor’s account, under section 2743, but that an assignee of a legacy or distributive share should be cited to attend proceedings for accounting and distribution. There can be no doubt but that this receiver was entitled to, and properly did, appear on the accounting. The exception is overruled. The referee has charged the administrator with a large sum ■for rent from 1881 to 1886. He also finds as a fact that prior to the appointment of the receiver, the said administrator used the balance of the estate for his individual uses, and that he was the husband of intestate, who has no heir or next of kin. The administrator was entitled to the entire estate in his right as the husband of intestate. 3 R. S., part II, art. 3, § 79. Hence it follows that the receiver could receive nothing in the right of the judgment-debtor, because the administrator had nothing in his hands as such administrator belonging to him. The referee’s report in this respect is erroneous and must be overruled.
