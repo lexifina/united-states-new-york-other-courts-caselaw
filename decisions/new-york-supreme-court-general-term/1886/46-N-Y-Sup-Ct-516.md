@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-03"
+citations: ["46 N.Y. Sup. Ct. 516"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Beady, J., concurred."]
+parties: ["THE NEW YORK LAKE ERIE AND WESTERN RAILROAD COMPANY, Appellant, v. GEORGE W. CARHART and CLARENCE A. BLANCHARD, Respondents, Impleaded with Others."]
+source_url: "https://static.case.law/ny-sup-ct/46/cases/0516-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4510468
+---
+
+# New York Lake Erie & Western Railroad v. Carhart
+
+## Majority (Davis, P. J.:)
+
+Davis, P. J.:
+This case is a peculiar one in the facts and circumstances. The defendant Oarliart was an agent of plaintiff, and as such received certain freight moneys for plaintiff, which were by him deposited in the defendant, the New York Produce and Exchange Bank, to the credit of the defendants Carhart & Blanchard, who were partners in business. The action was brought to compel Carhart, as plaintiff’s agent, to account for and pay over the freight moneys collected and received by him, and an injunction was obtained restraining the withdrawal of the moneys on deposit in said bank. The issues joined in the action were referred. It was not disputed on the trial but that the money on deposit was collected by Carhart, as agent, and deposited as alleged, but it was insisted that Carhart was entitled to divers credits against the fund, and that he had a claim against the plaintiff upon a breach of contract for his employment by plaintiff as its agent for one year, which he set up by way of counter-claim against the demand for said moneys.
+On the trial, the referee, in taking and stating the account, as it is claimed by plaintiff, improperly allowed, items in favor of Carhart amounting to some $4,000, which reduced the balance due plaintiff upon the accounting, to about the sum of $13,000. The referee also found that the alleged contract for Carhart’s employment had been broken by plaintiff to the damage of Carhart in some $6,000, which he was entitled to recover as a counter-claim against the balance of moneys owing by him as agent, and thereupon reduced plaintiff’s recovery on the accounting to a sum between seven and eight thousand dollars, which he directed paid out of the funds in bank, as aforesaid.
+The plaintiff, deeming the rulings and findings of the referee as to the deduction of the $4,000 and the recovery of their counterclaim erroneous, desire to appeal; but as upon entering judgment on the report of the referee the injunction, except as to the amount of the balance it is entitled to under the report, will terminate, and as it alleges Carhart not to be responsible if the residue of the moneys are withdrawn, it asks either for a receiver or for the payment of the fund into court, or for a continuance of the injunction in such form that if it succeeds upon the appeal and establishes its right to the whole, or a greater amount than has been allowed it by the referee out of the funds collected and deposited by its agent, it may be secure of its final recovery.
+The case is an anomalous one and calls for some form of equitable relief. The admissions on all hands that some $19,000 of the money in bank consist of plaintiff’s money collected by Carhart as .its agent, and that the substantive litigation is over the claim of some $4,000 allowed by the referee as proper credits in Carhart’s favor, and the counter-claim of damages for the alleged breach of contract. It is manifest that the effect of the judgment ought not to be to hand those sums over to Carhart while his right to them is in controversy, as the case will stand on entering judgment on the X'eferee’s report. Caidiart in substance will recover a judgment on his alleged counter-claim against plaintiff for the amount thereof as found by the referee, payable at once out of plaintiff’s money in bank, and also will be entitled to reclaim thereout some $4,000 more of credits disputed and still to be conti’overted on the appeal by plaintiff. On the entry of judgment the injunction ceases as to those amounts and Carhart can withdraw the'same, and then if plaintiff ultimately succeeds in reversing the judgment as to those items and defeating Carhart’s right to them, may ultimately cause great injustice.
+Under the authorities the denial of a continuance of the present injunction after judgment may be right. A x-eceiver of the fund does not seem to be necessary because that is an expense that ought, if practicable, to be avoided, nor is it necessary to bi’ing the fund into coui’t. The proper relief to be granted, as it seems to us, will be to order that, on the appeal to be taken, the recovery of the counter-claim and of the $4,000 of alleged disputed items be treated as a judgment in Carhart’s favoi*, the collection or enforcement of which may be stayed during the pendency of the appeal on the execution of an appropriate bond as upon judgment»; against plaintiffs for the amount with interest and damages and costs, if the judgment be affirmed.
+Upon the execution of such a bond, on the appeal to be taken, an order staying the payment by the bank of any of the money on deposit to the extent such moneys have been found by the referee to be sums collected by Carhart, as agent of plaintiff, should be made.
+The order, of the court below denying the continuance of the injunction and the appointment of a receiver, etc., are modified accordingly, and affirmed as modified, without costs of the motions or of the appeals to either party.
+Beady, J., concurred.
+Order modified, as directed in opinion, and affirmed as modified, without costs to either party.
