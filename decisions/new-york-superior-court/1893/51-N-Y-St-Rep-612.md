@@ -1,0 +1,24 @@
+---
+court: "New York Superior Court"
+decided: "1893-03-06"
+citations: ["51 N.Y. St. Rep. 612"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William T. G. Weymouth, Resp’t, v. The Broadway & Seventh Avenue Railroad Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/51/cases/0612-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 678092
+---
+
+# Weymouth v. Broadway & Seventh Avenue Railroad
+
+## Majority (Dugro, J.)
+
+Dugro, J.
+This is an appeal from a judgment entered upon a verdict.
+The trial judge did not err in refusing to allow in evidence the entry in the police blotter. It was not admissible as proof of what the plaintiff said, for it was not the best evidence; that of Mr. McLaughlin was certainly better. It was not admissible to contradict McLaughlin, as his attention had not been called to the statements therein, and it was not admissible to corroborate McLaughlin, as for this it was but hearsay.
+There was no error requiring reversal in the charge or refusals to charge. That part of the charge which referred to the lack of evidence of notice was not erroneous, for it did not appear that the notice was posted up or placed where it could be seen by the plaintiff. The only evidence upon the point is that “ it was on both sides of the inside of the car, about the center of the car.” As the evidence showed that the seats of the car were filled and persons were standing up, it became material to know with more particularity than is disclosed by the evidence just where the alleged notice was, in order that the jury could say whether or not it was a notice to the plaintiff or should be considered as such. It does not appear that with the seats filled the alleged notice was visible, and a guess is not permissible.
+The refusal to charge defendant’s request “ that proof having been given that the notice required by the general railroad act was posted in the car on which the accident to the plaintiff happened, and that plaintiff. was riding upon the front platform and was upon the step of the car when injured, etc.,” was not error, as the defendant had not pleaded the facts which would entitle it to the exemption which it claims that the act in question' allows. The evidence required the submission of the questions of negligence and contributory negligence to the jury.
+Upon the whole case the judgment should be affirmed, with costs.
+Gildersleeve, J., concurs.
