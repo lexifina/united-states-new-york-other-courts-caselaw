@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-11"
+citations: ["80 N.Y. Sup. Ct. 177"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Brien, J., concurred."]
+parties: ["In the Matter of the Petition of John Looram, Respondent, for the Payment of a Claim against the Estate of Patrick J. Keenan, Deceased. Esther Keenan, as Administratrix, etc., Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/80/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4695878
+cites_cases: ["45 N. Y. 786", "94 N. Y. 381"]
+---
+
+# In re Looram
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+It appears that on the 16th of April, 1873, the petitioner, John Looram, obtained a judgment against Patrick J. Keenan, since deceased, in the Marine Court of the city of New York for $378.81, a transcript of which judgment was duly docketed and filed in the office of the clerk of the city and county of New York upon the same day and an execution issued thereon. The said Keenan having died in 1891, letters of administration were duly granted upon his estate to the appellant, Esther Keenan. The respondent having presented his petition for the payment of his claim to the Surrogate’s Court, and a citation having been issued by said court directing the administratrix to show cause why the claim should not be paid, tbe administratrix interposed an answer, and the Surrogate’s Court referred the question to a referee to take proofs with respect to the payment of the whole or any part of the judgment upon which the claim was based, and to report the same with all convenient speed, with his opinion thereon. The referee having reported that the claim liad not been paid, the Surrogate’s Court made an order confirming the report of the referee, and adopting his findings of fact and conclusions of law, and ordering and adjudging the administratrix to pay the respondent the amount of said claim. An application having been made for a rehearing, and denied, the administratrix appeals to this court.
+The judgment in question, at the time of the death of Keenan, had been docketed for nearly twenty years; and it was attempted to be proved upon the part of the administratrix that during all this period of time the alleged judgment debtor had been in good circumstances and the judgment creditor had been in poor circumstances, as bearing upon the question of a presumption of payment. This evidence was excluded by the referee (which exclusion was duly excepited to) upon the ground that the court cannot indulge in such presumption, relying upon the case of Daby v. Ericsson (45 N. Y. 786) as an authority for this proposition. This case undoubtedly seems to sustain the ruling of the referee. But later eases have established a different rule; notably that of Bean v. Tonnele (94 N. Y. 381). In that case the court say:
+“The presumption of payment from a great lapse of time is founded upon the rational ground that a person naturally desires to possess and enjoy his own, and that an unexplained neglect to enforce an alleged right for a long period casts suspicion upon the existence of the right itself. This presumption may be fortified or rebutted by circumstances; the fact that a plaintiff during the period when he might have enforced his demand by suit, if he had one, was in indigent circumstances and needed the use of his means, is, we think, a circumstance tending to fortify the presumption that the demand has been paid or otherwise satisfied.”
+This principle, laid down in the case cited, has been approved in several later cases, and seems to be the one now prevailing in this State. It was, therefore, error to reject the evidence, and to refuse to consider the presumption.
+The decree should be reversed and the proceedings remitted to the Surrogate’s Oourt for a new trial, with costs to the appellant to abide the event.
+O’Brien, J., concurred.
+Decree reversed and the proceedings remitted to the Surrogate’s Oourt for a new trial, with costs to the appellant to abide the event.
