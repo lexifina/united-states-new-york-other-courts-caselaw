@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1878-03"
+citations: ["20 N.Y. Sup. Ct. 526"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J., and DaNiels, J., concurred."]
+parties: ["J. G. SMITH, ARCHIBALD TAYLOR and CHARLES R. SCRIBNER, Plaintiffs, v. ABRAHAM KRAUSKOPF and JOSEPH A. GUNSEN, Defendants."]
+source_url: "https://static.case.law/ny-sup-ct/20/cases/0526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2356485
+cites_cases: ["11 Md., 92", "12 Wheat., 366", "15 John., 467", "17 Johns., 467", "4 How., 262", "40 Ind., 70", "53 N. Y., 419", "6 Johns., 125", "9 Wend., 312"]
+---
+
+# Smith v. Krauskopf
+
+## Majority (Beady, J.:)
+
+Beady, J.:
+The question presented by tbis appeal and decisive of the plaintiffs’ right to recover is whether the defendants could anticipate a contingent liability as indorsers; convert it into an existing debt or liability and secure a discharge from it by proceedings under the bankrupt law. (Section 5103, A. 22, June, 1874, § 17, known as a composition, proposed and accepted.) The defendants were indorsers of a promissory note, and before the note matured the proceedings were accomplished. They set forth the note in their statement of debts, and tendered the twenty-five per cent accepted to the plaintiffs in due time, but it was rejected.-
+The plaintiffs neither proved nor offered to prove any claim in bankruptcy against the defendants, and did not, so far as revealed, in any way participate in the proceedings mentioned. The defendants were not bound as indorsers until the failure of the maker to pay. They could waive notice of presentation and of non-payment and all other ceremonies which should be observed to make their contingent liability absolute, but the maker must fail to pay before their obligation matures. He is primarily liable, and if he pays, the indorsers are discharged, no matter what they have said or done in regard to the claim. It may be that the insolvency of the maker would have some effect upon the determination of the question discussed, but that fact does not appear, and we cannot assume it to have been the ease. For aught that appears the assumption 0f the note by the defendants was entirely gratuitous, and took away from legitimate creditors whose debts were due some portion of the defendants’ estate, which, being left, would have increased the sum to be paid in composition. There is no statement that the maker could not pay. Section 5069 contemplates the obstacle from contingent liabilities.
+It provides as follows: “ When the bankrupt is bound as drawer, indorser, surety or bail, or guarantor upon any bill, bond, note or any other specialty or contract, or for any debt of another person, but his liability does not become absolute until after the adjudication of bankruptcy, the creditor may prove the same after such liability becomes fixed and before the final dividend.” The reason for this is apparent, and is what has been .suggested, namely, the primary debtor may pay the debt, and thus absolve the surety, guarantor or indorser. It is further provided (§ 5072) that no other debts than those specified in the five preceding sections shall be proved or allowed against the estate. The defendants’ contingent liability was not one of the debts specified which could be proved or allowed against the estate, and could not be discharged by the composition for the same reason. It was not a debt or liability which had “ become fixed ” at the time the decree in favor of the defendants was rendered. The State insolvent laws being analogous to those in bankruptcy, may be invoked m determining whether such a liability would be discharged. Our statute provided that a discharge under the insolvent laws should be a bar to all debts of the insolvent, whether due or to become due, which existed at the time of the insolvent’s assignment. Tet it was held that when the insolvent was indorser on a note not due when his petition was filed his discharge was no bar to an action on the indorsement after he had been properly charged as indorser, per Wbi&ht, J. (Rome Exch. Bk. v. Eames, 1 Keyes, 597; see, also, Mechanics and Farmers' Bk. v. Capron, 17 Johns., 467; Ford v. Andrews, 9 Wendell, 312.) In illustration of this doctrine the section referred to declares only, that the provisions of a composition accepted shall be binding on all the creditors whose names and addresses and the amounts of the debts due to whom are shown in the statement of the debtor produced, etc. The contingent debt of the defendants incurred by the indorsement had not become due from the defendants. The note had not matured when the proceeding was consummated.
+It may be that the defendants, by analogy to the mode in which bankrupts are relieved as to contingent obligations (§ 5069, swpr<£) could apply upon the maturity of their indorsement to have it included in the composition in accordance with the provision made for it by the resolution of the. creditors, but of that it is not necessary for this court to declare its views. Without, however, pursuing the subject further, it is quite clear that the plaintiffs are entitled to judgment.
+Davis, P. J., and DaNiels, J., concurred.
+Ordered accordingly.
