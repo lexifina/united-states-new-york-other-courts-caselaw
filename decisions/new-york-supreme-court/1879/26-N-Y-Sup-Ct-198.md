@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1879-11"
+citations: ["26 N.Y. Sup. Ct. 198"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J. and Bockes, J., concurred. •"]
+parties: ["JAMES McDERMOTT, as Administrator, etc., of BERNARD McDERMOTT, Deceased, Respondent, v. CITY OF KINGSTON, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/26/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4455343
+cites_cases: ["46 Barb., 604", "47 N. Y., 639", "57 How., 359", "58 N. Y., 391", "59 N. Y., 660"]
+---
+
+# McDermott v. City of Kingston
+
+## Majority (Boardman, J..:)
+
+Boardman, J..:
+For any obstructions or defects created by the city for its own purposes, in its streets or its sidewalks, whereby persons are injured, the city will be liable, if the injury be due to the negligence of the city officials or employes. The same result follows if the work on the streets or sidewalks be done by others, by the consent and under the supervision of the city authorities. (Wendell v. City of Troy, 4 Abb. Ct. App. Cas., 563.) If a trespasser obstructs the ways of a city, whereby an injury occurs to an individual, the city will not be liable, except after notice, actual or constructive, and neglect to put the street in good condition after such notice. (Hume v. Mayor, etc., of N. Y., 47 N. Y., 639; S. C., 57 How., 359, in Court of Appeals, second time; Gorham v. Village of Cooperstown, 59 N. Y., 660.) But, if the work is done by the consent only of the city, and not under its immediate supervision, the city will not be liable for the negligence of those doing the work, but only for its own negligence in not correcting the evil after notice, actual or constructive. (Masterton v. Village of Mt. Vernon, 58 N. Y., 391; Dorlon v. City of Brooklyn, 46 Barb., 604).
+The last principle stated applies to the present case. The excavation was made by the gas company for its own private purposes. Its license, authority or consent for so doing was derived from a city ordinance regulating the laying of gas and water pipes. By virtue of this ordinance, the act of the gas company was lawful, so far as excavating the ditch. In the absence of such authority, the gas company would have been a wrong-doer. The ordinance provides for ho supervision by city officers, and none in this case was had. “ Under these circumstances, it is held,” says the learned judge in his charge, “ that if the excavation was left in an unsafe condition, and the plaintiff, while traveling upon the sidewalk and using due and ordinary care, was injured solely by reason of the unsafe condition thereof, the defendant is responsible to him for the injuries sustained thereby.” An exception being taken thereto, its correctness is now presented for review.
+We think this charge cannot be sustained upon authority. It would make the defendant an insurer against injuries of this character. The city did not make this excavation. It was not made at its instance or request. It did not supervise, direct or control the act done. It had no notice of any defect. The element of negligence, on the part of defendant, is wholly ignored. The fact that one of the aldermen saw excavations being made is not perse evidence that the defendant was guilty of neglect. It might have been a circumstance to have been submitted, with other evidence, for the consideration of the jury. The judge, however, says, in substance, the gas company had' the right to dig this ditch, an alderman saw its employes digging in that vicinity, though he did not see the dangerous and careless way in which the work was left at night; therefore, the defendant is liable, if the employes of the gas company were negligent, and plaintiff’s intestate ivas free from negligence, for the damages caused thereby. This goes too far in imposing liabilities upon municipal corporations. The defendant did not consent to the leaving of an open or unsafe ditch across the sidewalk. The consent given was upon condition of thorough and adequate protection of the public against danger or injury. It was the wrongful act of the gas company and its employes in leaving the ditch at night in an unsafe and dangerous condition. To that extent the gas company was the wrong doer. The city could only be made liable for its own neglect to repair or protect, after notice of the danger. (Hume v. Mayor, etc., of N. Y, 57 How. [Ct. of App.], 359.) The error consisted in making the city liable for the wrongful act of the gas company in leaving this ditch in a dangerous condition without notice to the city of its defects. Until such notice had been brought home to the defendant it was not guilty of any negligence. Without negligence it cannot be held liable for the acts or misconduct of others to which it is not a party. (2 Dillon on Corp., § 790.) At the most, it may have been a question for the jury whether, under the facts, there was any evidence of negligence on the part of the defendant. Instead of that the city is made liable under the charge.
+The judgment and order should be reversed, and a new trial granted, costs to abide the event.
+Learned, P. J. and Bockes, J., concurred. •
+Judgment and order reversed, new trial granted, costs to abide ■event.
