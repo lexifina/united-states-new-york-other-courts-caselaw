@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-05-14"
+citations: ["15 N.Y. St. Rep. 855"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph J. Harris, Resp’t, v. Richard Cuff, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/15/cases/0855-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2000993
+---
+
+# Harris v. Cuff
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+—The plaintiff is a ship builder, and was •employed by the defendant to repair a vessel called “William S. Homer.” The bill for the work was not paid, and the plaintiff obtained a judgment therefor, which was pending in this court on appeal. The parties then entered into an agreement by and under which the plaintiff was to do more work on the same vessel at an agreed price. The contract then provided as follows:
+“And Harris to stop the case now pending between Harris and Cuff on sloop W. S. Homer, on the following conditions: For the party of the second part (Cuff) to settle all taxable and legal costs incurred in the above suit to September 14, 1885.”
+The agreement then provided for other work to be done on the schooner William Bickly, presumably, but this is so blindly stated that the work may refer to the Homer. It appears that the plaintiff did not perform the agreement as to the new work to be done under the agreement. This fact furnishes no defense to the claim of the attorney for his costs. The costs were the earnings of the attorney, and the agreement respected his rights by providing for his payment. The settlement of this appeal was not effected by the mere signing of the agreement, as there was no provision for the payment of the attorney at all hazards. If he was paid, the appeal was to be stopped, otherwise this part of the agreement was inoperative.
+The attorney’s knowledge of the settlement is not destructive of his rights. If he is paid he will get under the agreement what he is entitled to, and if not, the judgment is not settled.
+The motion to dismiss the appeal should be granted, unless the defendant within ten days pay the costs, according to the agreement, with ten dollars costs of this motion.
+Pratt and Dykman, JJ., concur.
