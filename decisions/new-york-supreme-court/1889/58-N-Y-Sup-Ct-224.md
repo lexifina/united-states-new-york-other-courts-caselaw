@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court"
+decided: "1889-01"
+citations: ["58 N.Y. Sup. Ct. 224"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH STERN and Others, Executors, etc., of ELIZA EISNER, Deceased, Respondents, v. SAMUEL L. EISNER, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/58/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4576953
+cites_cases: ["36 N. Y., 327", "36 N. Y., 333", "95 N. Y., 316"]
+---
+
+# Stern v. Eisner
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+This action was brought by the plaintiffs, as executors of the will of Elizabeth Eisner, deceased, to recover from the defendant the sum of $1,000, money loaned by the deceased in her lifetime to the defendant, such loan being evidenced by the promissory note set up in the complaint. The answer denied any loan or indebtedness. Upon the trial of the action the defendant was examined as a witness on his own behalf, and he was asked whether he had ever been present when his mother, the deceased, was having a conversation with anyone else about this claim, and he answered “Yes;” he was then asked: “ State what you heard her say and to whom; that is, not yourself, but anyone besides yourself ? ” This was objected to as conflicting with the provisions of section 829 ; the objection was sustained and exception taken. He was then asked: “ What conversation did you hear your mother have with your sister Mary about it?” Objected to on the same ground; objection sustained and exception taken. This seems to have been error.
+In the case of Lobdell v. Lobdell (36 N. Y., 333), where a similar question was asked of a party who was testifying, it was expressly held that such a question did not come within the language of the section, and that, under such circumstances, the transaction or communication in question was not between himself and the deceased person, but between the deceased and a third person, and for that reason did not come within the provisions of the section. It is true there is a slight change in the language of the Code as it existed at the time of that decision,-but there does not seem to have been any change which renders the reasoning of that case inapplicable to the section of the present Code above referred to. The change of the language seems to have been only another instance of the many which are found in the present Code, where, for some unexplained reason, language well understood, and which had been interpreted by numerous decision, is altered to satisfy the whim or caprice of the codifier, for no other reasonable ground can be given for making it.
+The judgment should be reversed and a new trial ordered, with costs to appellant to abide event.
+Daniels, J., concurred.
+
+## Dissent (Bartlett, J.)
+
+Bartlett, J.
+(dissenting):
+After the exception was taken which has been deemed fatal to the judgment by a majority of the court, the defendant was examined further in regard to the circumstances of the conversation between his mother and sister, and was allowed, under objection, to give a full account of the interview. This testimony ivas subsequently stricken out on the plaintiff’s motion, and the defendant duly excepted. The evidence thus taken and stricken out was very important in its bearing upon the question whether the court was right or not in excluding the testimony of the defendant as to the conversation between his mother and sister, and it leaves no doubt in my mind that such testimony was properly excluded.
+While it is doubtless true that an interested person, who is a mere listener, is not prohibited by section 829 of the Code from testifying to a conversation which he overheard between a decedent and a third person, a party interested in the event cannot testify to such a conversation if he participates therein. Such is the construction very recently given to this provision of the Code in the case of Holcomb v. Holcomb (95 N. Y., 316, 326), which was a unanimous decision of the Court of Appeals, and in which Judge Dakfobth expressly says: “ If the proposed witness has asked a question of the decedent and it is answered, it is a conversation; if, while the decedent is conversing with a third person, the witness, by word or sign, participates in it, or is referred to, his evidence of what occurred cannot be received.” If there is anything in the case of Lobdell v. Lobdell (36 N. Y., 327) in seeming conflict with this view, it must be regarded as limited or overruled by the latter decision.
+In the present case it distinctly appears that the conversation concerning which the defendant was interrogated was a talk in which his mother, his sister and himself, all took part. He says, in so many words, that it was a general conversation in which he spoke about the annoyance and trouble and work he had had; that his sister said he had done a great deal of work, and his mother then made the remark to her which is relied upon as showing that the money represented by the instrument in suit was intended to be a gift to the defendant.- In my opinion, a statement made by the decedent under these circumstances, comes both within the letter and spirit of the prohibition prescribed by section 829 of the Code.
+For these reasons I am unable to concur in the conclusion reached by my associates in this case.
+Judgment reversed and new trial ordered, with costs to appellant to abide event.
