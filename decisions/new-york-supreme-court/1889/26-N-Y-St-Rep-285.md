@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court"
+decided: "1889-10-15"
+citations: ["26 N.Y. St. Rep. 285"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Petition for a Peremptory Mandamus Against the Town Board, etc., of the Town of Lloyd."]
+source_url: "https://static.case.law/ny-st-rep/26/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2027670
+---
+
+# In re the Petition for a Peremptory Mandamus Against the Town Board of Lloyd
+
+## Majority (Learned, J.)
+
+Learned, J.
+On the application of Daniel J. Donaldson and others to the commissioner of highways in January, 1889, for the laying out of a new highway, such proceedings were had that such new highway was, by the order of the commissioner, in February, 1889, laid out, and subsequently the owners of the land through which the road was to run released the same. Whether the proceedings were, in all respects, regular I need not say at present
+At a meeting of the town board July 27, 1889, the commis•sioner of highways was authorized to advertise for proposals for building the road.
+On the first Monday, the 2d of September, 1889, there was a meeting of the town board, viz., the supervisor, the town clerk, four justices, and the commissioner of highways. The bids for building the highway were opened by the commissioner of highways at the meeting.
+One of the residents of the town urged that the board make an appropriation to build said road. One of the board opposed, •claiming that the former proceedings were void, and that the board could not legally vote the funds.
+The meeting then adjourned without taking any action.
+. The original applicants for the laying out of the road now apply for a peremptory mandamus to require the town board to convene and determine what amount, if any, shall be borrowed on the credit of said town to build said road.
+This motion came on to be heard on the last Tuesday of September. The full examination of the case has not been completed by the court until after the 7th of October.
+The motion is made to compel action under chap. 855, Laws 1869, as amended by chap. 260, Laws of 1874 The first section requires the town officers aforesaid, sometimes called the town board, to meet on the first Monday of September to determine what amount, if any, shall be borrowed on the credit of the town for the purposes mentioned in that section, and for what roads or bridges such amount shall be borrowed or appropriated.
+The previous part of the section authorizes the board of supervisors to authorize the supervisor of any town with the consent of the commissioner of highways, justices and town clerk, to borrow on the credit of the town such money as they may deem necessary, among other things, to build a road.
+Another provision of the section is that the board may adjourn, but no meeting shall be held subsequent to the first Monday of October.
+This provision would seem to prevent the court from granting the writ since that day has passed.
+But I think there are other objections. The board is not required to borrow any money. They are to determine what amount if any shall be borrowed.
+Now it is true that there are certain cases where the court will by mandamus compel a board to act, without directing how it should act And it is probably in this view that this motion is made. The petitioners desire that the board should act in some way, and not merely neglect to act.
+When, however, the statute permits the board to determine what amount, if any, shall be borrowed, and the board does not determine to borrow any, this appears to be a refusal to borrow. And this refusal is within their discretion. They may think it advisable that the town should not borrow, but that any needed money should be raised by tax. Borrowing money is not the only, nor is it the best, way of making public improvements. I do not think that the statute requires the town board to borrow the money needed, even if they are of the opinion that the road has been legally laid out. The general rule is that towns should pay by tax in every year the proper expenses incurred or to be incurred within the year. And while the provisions of this statute may be occasionally useful where an unusually large expenditure is required, the court cannot compel the town board, against its own judgment, to run the town into a bonded debt. Chapter 615, Laws of 1857, seems to give the commissioner of highways the opportunity to bring before the town meeting the necessity of a larger sum of money. Should the town raise the money, the need of a loan will not exist.
+Of course I express no opinion as to the desirableness of the proposed highway, or as to the regularity and legality of the proceedings to open it
+The motion for a peremptory mandamus is denied, with ten dollars costs.
