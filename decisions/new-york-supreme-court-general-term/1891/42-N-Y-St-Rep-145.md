@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-12-31"
+citations: ["42 N.Y. St. Rep. 145"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Peter Cain, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/42/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2071520
+---
+
+# In re the Estate of Cain
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+We see no reason whatever for interfering with the order of the learned surrogate in this proceeding.
+It appears that the will of the testator was admitted to probate .and letters testamentary issued to the executors on the 6th of February, 1890, and that in March, 1891, the petitioner presented her petition to the surrogate for the payment of her legacy on the ground that more than a year had elapsed since the granting of letters testamentary. The executors’ answer admitted that they had in their hands a sum sufficient to pay the amount claimed, but denied the right of the petitioner to any part thereof because it .appeared that the time forthe presentment of claims against the estate as fixed by their advertisement had not expired and that the petitioner had refused to accept the provisions of the will in lieu of dower, and had brought an action in the supreme court for the admeasurement of her dower in the real estate of her husband.
+The will not being before the court, the validity of the last objection overruled by the surrogate cannot be considered. It is true that attached to the printed papers submitted on the appeal is what purports to be the will. But the paper annexed does not seem from the certificate of the clerk of the surrogate’s court to have been before the surrogate at the time of the making of the order in question, and therefore forms no part of the appeal papers, .as such certificate states that the other papers contained in the book were all the papers upon which the order appealed from was made.
+The other ground of objection, that the time of advertising for claims had not expired, does not seem to be well taken. The executors had refrained for a long period of time to advertise for claims, and their delay in this respect cannot be held to deprive a legatee of the right to claim a legacy, unless the executor can with ■certainty point out the existence of claims which may be made .against the estate which may impair the right of the legatee to receive the money. In the case at bar there is no pretense of the existence of any claim; simply a statement that because the time of advertisement bad not expired the executors might be put in peril if they were not in funds to respond to claims which might be presented.
+We do not think, under the circumstances, that this is sufficient. An executor cannot plead his own procrastination in answer to a ■claim of a legatee for payment
+The order appealed from should be affirmed, with costs.
+Barrett and Andrews, JJ., concur.
