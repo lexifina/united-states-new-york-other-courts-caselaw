@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court"
 decided: "1862-05-10"
-citations: ["9 Bosw. 601", "22 N.Y. Super. Ct. 601", "9 Bosw. 605", "22 N.Y. Super. Ct. 605"]
+citations: ["9 Bosw. 601", "22 N.Y. Super. Ct. 601"]
 reporter: "ny-super-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Eugene Guilhon et al., Plaintiffs and Respondents, v. Gabriel and San
 source_url: "https://static.case.law/ny-super-ct/22/cases/0601-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1315671
-cites_cases: ["12 How. Pr., 342", "13 How. Pr., 296", "14 How. Pr., 47", "18 Barb., 139", "19 How. Pr., 542", "2 Barb. Ch., 101", "2 Bosw., 1", "2 Sandf. Ch., 598", "2 Sandf. Ch., 603", "2 Sandf. Ch., 611", "2 Sandf., 599", "25 Barb., 76", "3 Bosw., 626", "3 Duer, 624", "5 Duer, 646", "5 How. Pr., 196", "5 Wend., 134"]
+cites_cases: ["13 How. Pr., 296", "18 Barb., 139", "19 How. Pr., 542", "2 Sandf. Ch., 598", "2 Sandf. Ch., 611", "2 Sandf., 599", "3 Bosw., 626", "5 How. Pr., 196"]
 ---
 
 # Guilhon v. Lindo
