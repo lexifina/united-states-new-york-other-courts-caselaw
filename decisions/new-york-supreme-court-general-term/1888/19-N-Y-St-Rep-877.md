@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-24"
+citations: ["19 N.Y. St. Rep. 877"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary G. Barrill, App’lt, v. The Calendar Insulating Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0877-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650657
+cites_cases: ["130 Mass., 391", "2 N. Y. Sup. Ct., 653", "29 Penn., 534", "29 Vt., 220", "40 Ind., 361", "49 Penn., 118", "91 Ill., 63"]
+---
+
+# Barrill v. Calendar Insulating Co.
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The plaintiff sued as the assignee of William H. Gluion to recover compensation for his services as president of the defendant. He was elected to this office on the 30th of June, 1883, and held it to the 7th of November, 1885. During that period he discharged the duties appertaining to this office of president of the company, but no other services were performed by him for the company while he acted in that capacity. He received in bonds and money during the time he held the office the sum of $3,100, which he applied on his services. But no agreement was proven to have been made between himself and the company, or the officers acting in its behalf, for the payment to him of any compensation whatever for the performance of the services appertaining to his office, and which were the only services performed by him for the defendant. On the trial the court submitted the question to the jury whether there was, or could be inferred to have been, an agreement on behalf of the company to pay the president for the services performed by him in the discharge of the duties of his office. And on the submission of that inquiry to the jury they found a verdict in favor of the plaintiff.
+This was considered to be unauthorized by the evidence, and for that reason the court set aside the verdict.
+In this disposition of the case the court appears to have been sustained by the authorities applicable to it, for the rule has become quite well settled that an officer of a' corporation is not entitled to receive compensation, in the absence of an agreement securing it, for his services performed in the legitimate discharge of the duties of his office. While, if other services are performed by the officer acting in another and different capacity than that of an officer, and it appears that the right to compensation is conceded there, he may recover compensation for those services the same as though he held no office whatever under the corporation. This was the conclusion adopted in Jackson v. N. Y. C. R. R. Co. (2 N. Y. Sup. Ct., 653). And without following and considering all the cases so assiduously collected and presented by the counsel for the appellant, it can be affirmed to have been followed in the leading case of Pew v. Gloster National Bank (130 Mass., 391). There it was held that the president of the bank was not entitled to recover for his services as president. And the principle was further applied, excluding his right to compensation as a member of the repairing committee, for the reason that there was no evidence that compensation was expected to be demanded, or conceded, on either side. The same principle was declared and applied to the office of secretary in Talcott v. Olcott Mfg. Co., 11 Weekly Dig., 141), and in' Kilpatrick v. Penrose (49 Penn., 118), where the claim was made for compensation for services rendered as president and secretary of the company. In Loan Association v. Stonemetz (29 Penn., 534), a director was, in like manner, denied compensation for services rendered by him for discharging the duties of his office. And the same rule was applied for the decision of Hodges v. Rutland, etc., R. R. Co. (29 Vt., 220), and in Maux Ferry Gravel Co. v. Branegan (40 Ind., 361), and also in Illinois Linen Co. v. Hough (91 Ill., 63).
+It is not necessary that any more elaborate consideration of the authorities shall be made for the disposition of this appeal. For, on a point of the same import, raised in the case of Gill v. N. Y. Cab Co. (16 N. Y. State Rep., 236), in which the presiding judge of this general term wrote the opinion, it was held that, under circumstances not dissimilar in their legal effect to those presented in this action, a director of the corporation who acted as secretary and an executive officer and also vice-president of the company, was not entitled to compensation for the services rendered by him in the discharge of the duties of those offices. This decision is controlling in this court upon the disposition of this case. And it results from it, as well as from other authorities referred to and considered, that the order was right, and it should be affirmed, with costs.
+Van Brunt, P. J.; and Brady, J., concur.
