@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-01"
+citations: ["46 N.Y. Sup. Ct. 399"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin, P. J\"., and Kennedy, J\"., concurred."]
+parties: ["WILLIAM E. JAMES, JOHN D. LOVETT and WILLIAM W. WEBBER, Respondents, v. SPENCER D. RICHARDSON, J. FORMAN WILKINSON and ALFRED D WILKINSON, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/46/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4510215
+cites_cases: ["27 Hun, 352", "35 Hun, 395"]
+---
+
+# James v. Richardson
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+The defendants moved at Special Term, upon the papers upon which the warrant of attachment was granted, for an order vacating it, which was denied. An order was entered from which the defendants appeal. The action is for the' recovery of $309 the price of the goods sold by the plaintiffs to the defendants as copartners, dealing with the plaintiffs under the name of “ S. D. Richardson.”
+But two questions are raised upon this appeal: First. That a cause of action is not shown to exist against the defendants. Second. That it is not shown that plaintiffs are entitled to recover the sum stated over and above all counter-claims known to them. An affidavit made by the agent or attorney of a plaintiff will support au attachment if it proves the necessary facts. (The Marine National Bank v. Ward, 35 Hun, 395; Gribbon v. Back, Id, 541.) Statements in affidavits will be presumed to have been made on personal knowledge, unless stated to be on information, or unless it appears affirmatively or by fair inference that they could not have been, or were not made on such knowledge. Statements made upon information and belief are entitled to little weight, unless the sources of information and the grounds of belief are disclosed, and a sufficient reason given why hearsay instead of primary evidence is offered. (3 Chitty’s Pr., 540; 1 Tidd’s Pr., 182; 4 Wait’s Pr., 582.)
+The evidence that the defendants were-copartners in the business for which the goods were purchased, is derived from the deposition, oral admissions of the 'defendant Richardson, and from the books used in the business. Richardson testified, in proceedings supplementary to execution in another action, that the defendants were copartners. A copy of this deposition is annexed to the affidavit of the plaintiff’s attorney. The excuse for using the deposition instead of an original affidavit is that Richardson had refused in other cases to make an affidavit. This, in the case of a party, is a ■ sufficient excuse.
+Section 885, Code of Civil Procedure, does not authorize the examination of an adverse party to obtain evidence for use on a motion, and the rule that the best evidence must be produced is not so inexorable as to exclude the deposition of a party made in another cause, when its genuineness is proved and it is shown that he will not make an affidavit for the purpose of the motion. In Bennett v. Edwards (27 Hun, 352) it was held that the affidavit of a clerk of the defendants, made in his own case, might be proved and used in a subsequent case if he refused to make a like affidavit for use in that case.
+The defendant Richardson testified upon the examination referred to, in effect, that the defendants were copartners. Weston testifies in his affidavit: “ That the defendants were, and now are, copartners, doing business in Syracuse, N. Y., under the firm name and style of S. D. Richardson, at the times therein mentioned.” Also, “ that said Richardson kept books in said business from 1877, and they show that such division has been made and that there was equal sharing, both in the losses as well as the pi’ofits of the business.” Though the affiant does not expressly testify that he had examined the books referred to, and knew their contents, the inference is, from the positive form in which the statement is made,, that he knew what the books contained. In the absence of a denial we think a prima facia case that defendants were liable as copartners, was made out. Assuming that a prima facia case of copartnership is made out, the admissions of Richardson are (until the presumption is overcome), binding upon his co-defendants. The plaintiffs’ attorney testifies: “ That heretofore, and before the eleventh day of December, 1884, the plaintiffs sold and delivered to the defendants, at their request, goods and merchandise for the agreed price and the aggregate value of $412, which sum became due and payable before the commencement of this action, with interest from the thirtieth day of January, 1885, and no part of which has been paid except the sum of $103.”
+Weston further testified that Richardson told him January 30, 1885, that the plaintiffs’ bills amounted to $412 or $415, less the dividend paid by his assignee; the amount of which lie did not know, “ and that there were no counter-claims thereto.” The absence of counter-claims known to the plaintiffs is also stated.
+We think they make out a prima facia case for an attachment. The point that no reason was given why the affidavit was made by the attorney instead of one of the plaintiffs, does not seem to have been taken at Special Term, nor is it specified in the notice of motion. The affidavit discloses that the plaintiffs are engaged in business in Massachusetts, which, though not stated as a reason, is a reason for the attorney’s making the affidavit; and, besides that, none of the facts (except the indebtedness) were within the knowledge of the plaintiffs. While the affidavits upon which the attachment was granted are inartificial, we think they make out a prima facia case for "an attachment.
+We think the order of the Special Term should be modified so as to permit the defendants, or any of them, to make a new motion upon fresh proofs to vacate the attachment; and as modified .affirmed, with costs. This will preserve all of the rights of the parties
+The order should be affirmed, with costs.
+Hardin, P. J"., and Kennedy, J"., concurred.
+Order modified so as to permit defendants, or any of them, to ■move to vacate the attachment upon fresh proofs, and as modified ¡affirmed, with ten dollars costs and disbursements.
