@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12"
+citations: ["90 N.Y. Sup. Ct. 208"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bb.own, P. J., concurred; Dykman, J., not sitting."]
+parties: ["Cora E. Bliven, Appellant, v. George H. Robinson and Others, as Executors and Trustees, etc., of Joseph Colwell, Deceased, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/90/cases/0208-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1930820
+---
+
+# Bliven v. Robinson
+
+## Majority (Cullen, J.:)
+
+Cullen, J.:
+This is an appeal from a judgment dismissing plaintiff’s complaint on the merits, entered-on the decision of the Special Term.
+The plaintiff is the daughter of one Joseph Colwell, deceased, and one of the beneficiaries under his will. The defendants are executors of that will. At the time of his decease Colwell was a partner in business with one Hepworth. The agreement of co-partnership provided that the death of either partner during the partnership term should not be deemed a dissolution of the partnership, but that the same should be continued by the surviving partner till the expiration of the term for the benefit of himself and the wife and children of the decea'sed partner. By the will of Colwell his executors were directed to hold his residuary estate in trust in separate shares, the income thereof to be applied to his children dinting life, and upon the death of any child the principal of the share to go to his issue. The defendants loaned the bulk of his residuary estate to Hepworth to carry on the partnership business, and Hepworth thereafter failed. At the time of these loatís, or some of them, the plaintiff wrote letters to and executed an agreement with the executors, which it is alleged that the defendants will set up as a justification for their action in proceedings for an accounting. This suit is brought to set aside and cancel such instruments on the ground of fraud.
+It is first to be stated that a large part of the appellant’s argument is devoted to a discussion of questions that cannot be determined in this action. It is doubtless true that no action or assent by the equitable life tenant of the fund can bind the remaindermen. It is susceptible of grave doubt whether the beneficiary of' the income of a trust fund unassignable, itself can estop herself by her covenants or agreements. Whether the will of Colwell or the agreement executed by plaintiff authorized the investment made by the executors may be debatable. But this action is not for an accounting against the executors nor to determine the effect of the instruments executed by the plaintiff, but solely to cancel those instruments on the ground of fraud. The case, therefore, presents that single issue.
+We think the evidence justifies the trial court in its findings that no fraud was practiced upon the plaintiff.
+The plaintiff at the time of the execution of the papers was the wife of a lawyer, the same lawyer who now brings this suit on her behalf. The important instrument, the agreement or release of ■May, 1885, was submitted to her husband and its form amended by him. The husband said he told the plaintiff not to sign it, and the plaintiff says the same. But the plaintiff is unable to state whether the paper was brought to her for signature by her husband or by her brother, one of the executors and defendants. It is conceded that there were negotiations between plaintiff’s husband and the lawyer of the executors concerning this instrument, and the instrument was executed in the form finally agreed upon with the husband. The proofs did not establish any fraudulent or dishonest misrepresentations made to the plaintiff for an inducement for her act, though there may have been immaterial inaccuracies in the statements to her.
+The interest of herself and her brother, one of the defendants, was identical. We, therefore, do not see that the plaintiff was imposed upon, and she must stand by her acts, leaving their effect to be determined when the question may arise.
+The complaint was properly dismissed on the merits. It was not a case of a nonsuit. The complaint was not dismissed because of a failure by plaintiff to produce proof in support of her claim sufficient to present a question of fact for determination. The court determined the questions of fact and made findings of fact and law. That it decided the cause on the spot has no different legal effect than the rendition of a verdict by a jury without retiring. In either case the question of fact is decided.
+The judgment and order denying motion to modify judgment •appealed from should be affirmed, with costs.
+Bb.own, P. J., concurred; Dykman, J., not sitting.
+Judgment and order affirmed, with costs.
