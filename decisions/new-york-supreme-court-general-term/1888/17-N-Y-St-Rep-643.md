@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-25"
+citations: ["17 N.Y. St. Rep. 643"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles B. Gilmore et al., Resp’ts, v. A. Augustus Healy, Impleaded with Others, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0643-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008252
+cites_cases: ["70 N. Y., 512"]
+---
+
+# Gilmore v. Healy
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The principal question in this case is as to the validity of a deed from the registrar of arrears of the city of Brooklyn to A. Augustus Healy, covering the lands sought to be sold in partition. The evidence shows that the land originally belonged to one Nathaniel Gilmore, who died in 1859, leaving a will and codicil by which he gave to his wife and children a right of occupancy in the premises during her widowhood. The widow and certain of the children availed themselves of this right to occupy and live on the premises from testator’s death until the death of the widow in 1880. One of these children was Theophilus Gilmore. Those who occupied were, by the terms of the will, bound to pay the taxes and keep the premises in repair. The remainder in these lands was given to seven children and their representatives. Among these children entitled to the remainder was Theophilus Gilmore. Prior to the widow’s death, six years’ taxes and water rates were supposed to remain unpaid. Theophilus Gilmore occupied the premises exclusively from the spring of 1883 to the spring of 1885. The rental value of the property is proven to be $1,000 a year. Theophilus Gilmore and wife conveyed his interest in the premises in June, 1882, to three trustees, of whom the defendant, A. Augustus Healy, was one. The trust was an active trust. The deed authorized the trustee to take possession of the land and to collect the rents and to sell the lands and invest the proceeds. The beneficia'ries were, first, Theophilus Gilmore’s wife; second, Theophilus himself; third, the trustees were to convey the property after the death of both of these to the appointee of Theophilus Gilmore, and if there was no appointee, then to the children of Theophilus Gilmore.
+Such being the state of the title, the city of Brooklyn sold the land for unpaid taxes, and A. Augustus Healy bought the same in his own name.
+He admits that this purchase must be held subject to the rights of Theophilus Gilmore and wife, but, as against the other owners, he claims the deed to be good.
+It seems clear that the trustees of Theophilus Gilmore became, by the deed of trust, tenants in common in the lands with the other owners.
+The case is not one which is embraced within the principle held in Stevenson v. Lestey (70 N. Y., 512).
+There a remainder was devised which was outside of the trust entirely. In this case it is clear that the entire title passed as between the parties to the trust, and thereby the trustees became the owners of the land, and were bound by all the obligations under which the land was placed by the will.
+The trust deed in terms imposed the duty upon the trustees of paying all necessary and proper expense upon the land. Theophilus Gilmore, at the time of the trust deed, was bound to pay his share of these taxes, under the special direction in the will, and as one of the tenants in common.
+One tenant in common cannót purchase an outstanding title or incumbrance on the joint estate for his exclusive benefit and use it against his co-tenants. The purchase is for all, and the purchaser is to be reimbursed ratably. Van Horne v. Fonda, 5 J. Chy., 389; Burhans v. Van Zandt, 7 N. Y. (3 Seld.), 523.
+If this conclusion be right, the right to redeem within a year has no application. The title never vested in the purchaser as against his co-partners, as against his co-owners. It was a purchase for them, and not against them.
+The decree protects the holder of the tax title. He will be paid back his money upon equitable principles.
+The judgment should be affirmed, with costs.
+Pratt and Dykman, JJ., concur.
