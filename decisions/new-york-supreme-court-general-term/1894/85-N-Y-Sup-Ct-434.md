@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05"
+citations: ["85 N.Y. Sup. Ct. 434"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., and Parker, J., concurred."]
+parties: ["In the Matter of the Application of The Manhattan Railway Company, Respondent, v. Henry M. Taber and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4719273
+---
+
+# Manhattan Railway Co. v. Taber
+
+## Majority (Eollett, J. ?)
+
+Eollett, J. ?
+The order confirming the report of the commissioners awarding $30,250 damages for taking the street easements appurtenant to the abutting lands contains no provision in respect to costs, and after it was entered the defendants moved that it be modified so as to grant them taxable costs and an additional allowance, which was denied. The defendants have appealed from the final order of confirmation “ in so far only as the same fails to direct that the defendants recover of the plaintiff the costs of the proceeding, less the costs of the trial of the issues raised by the answer herein,” and they have also appealed from the order of the Special Term denying their motion to have the order of confirmation modified so as to allow them costs and an additional allowance.
+Section 3372 of the Code of Civil Procedure provides: “ If the compensation awarded shall exceed the amount of the offer with interest from the time it was made, or if no offer was made, the court shall, in the final order, direct that the defendant recover of the plaintiff the costs of the proceeding,-to be taxed by the clerk at the same rate as is allowed, of course, to the defendant when he is the prevailing party in an action in the Supreme Court, including the allowances for proceedings before and after notice of trial; and the court may also grant an additional allowance of costs, not exceeding five per centum upon the amount awarded. * * * If a
+trial has been had, and all the issues determined in favor of the plaintiff, costs of the trial shall not be allowed to the defendant, but the plaintiff shall recover of any defendant answering the costs of such trial, caused by the interposition of the unsuccessful defense, to be taxed by the clerk at the same rate as is allowed to the prevailing party for the trial of an action in the Supreme Court.”
+Under tliis section the plaintiff became entitled to and has been awarded the costs of the trial of the issue joined by the pleadings, but the fact that it became entitled to the costs of the trial does not deprive the defendants of their right to the other taxable costs of the proceeding. The last clause of the section quoted is not intended to deprive the defendants of their costs of the proceeding in case an unsuccessful defense is interposed to the right of the plaintiff to condemn the land, but to charge them with the costs of that issue. The question as to what costs the defendants may be entitled to recover, or whether disbursements may be taxed under the section, is not a question now before the court, but the statute gives to defendants, in ease the award is greater than the offer, an absolute right to taxable costs, of which they cannot be deprived by the court. We think the final order should have provided that the landowners recover their taxable costs, which would have enabled them to have presented to the clerk a bill of the items claimed for taxation.
+The record not disclosing whether the Special Term denied the motion for an additional allowance on the ground that the defendants, not being entitled to taxable costs, were, therefore, not entitled to an allowance, or on the ground that on the merits they were not entitled to such an allowance, this question must be remitted to the Special Term to be determined.
+Section 3379 provides: “At any stage of the proceeding the court may authorize the plaintiff, if in possession of the property sought to be condemned, to continue in possession, and may stay all actions or proceedings against him on account thereof, upon giving security, or depositing such sum of money as the court may direct to be held as security, for the payment of the compensation which may be finally awarded to the owner therefor and the costs of the proceeding, and in every such case the owner may conduct the proceeding to a conclusion, if the plaintiff delays or neglects to prose- ■ elite the same.”
+The purpose of this section is to provide a remedy for the protection of the plaintiff’s possession of the property sought to be condemned during the pendency of the proceedings, but it is not designed to authorize the court to grant, after the order of confirmation has been entered, an order forever restraining the defendants from maintaining actions in respect to the property. When the final order has been entered, and the award has been paid or deposited, the plaintiff is entitled to the possession of the property condemned, and the defendants, in case they appeal, are required to stipulate not to disturb the plaintiff’s possession during the pendency of the appeal.
+This restraining order is not authorized by section 3379, and it should he reversed.
+The order denying defendants’ motion for an amendment of the final order is reversed, which final order should be amended so as to award the defendants their taxable costs, less the costs taxed against them upon the, trial of the issue formed by the pleadings, and they should be given leave to apply at Special Term for an additional allowance, and the restraining order should be reversed.
+The appellants are entitled to ten dollars costs and their disbursements on this appeal.
+Van Brunt, P. J., and Parker, J., concurred.
+Order denying motion for additional allowance reversed, with ten dollars costs and disbursements, and remitted to Special Term for determination. Restraining order reversed, with ten dollars costs and disbursements. Order denying motion for amendment of final order reversed, with ten dollars costs and disbursements, and order amended as directed in opinion.
