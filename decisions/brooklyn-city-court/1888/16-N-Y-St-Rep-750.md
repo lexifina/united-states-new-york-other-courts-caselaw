@@ -1,0 +1,32 @@
+---
+court: "Brooklyn City Court"
+decided: "1888-04-23"
+citations: ["16 N.Y. St. Rep. 750"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Abrayan, App’lt, v. The Manufacturers’ National Bank of Brooklyn, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/16/cases/0750-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2004620
+cites_cases: ["78 N. Y., 310"]
+---
+
+# Abrayan v. Manufacturers' National Bank
+
+## Majority (Osborne, J.)
+
+Osborne, J.
+In 1884, defendant became the owner of certain premises on the southeast corner of Lorimer and Scholes streets, in this city; on these premises were certain buildings that had theretofore been used as a brewery; in front on Scholes street was a frame shed used as a lager beer saloon, and also a two-story frame house; between these two structures was an alley way leading into an inner court, on which were erected a two-story brick stable, a four-story brick building adjoining, and also another four-story brick building adjoining the last named one, formerly used as an ice house. These premises remained vacant till about June 10, 1886, when they were leased by defendant to the firm of Pfeiffer & Lavanburg for a term of years, with privilege of purchase. Said firm used these premises as a paint factory.
+On October 5, 1886, the plaintiff entered into the employ of Pfeiffer & Lavanburg, as a general workman about the premises, and continued so to work up to December 25, 1886; on that day and while plaintiff was at work in the fourth floor of the building adjoining the ice house [so called] a fire broke out in the ice house, which communicated to the building where plaintiff was working; he went down one flight of stairs in his effort to escape, was driven back by the smoke to the fourth floor, and to save himself was compelled to jump from one of the side windows on that floor to the roof of a two-story building adjoining, thereby breaking his leg and sustaining other injuries.
+Plaintiff brings this action against the defendant as owner of the premises, to recover damages for such injuries, on the ground that it had failed to provide said building with a fire escape.
+At the close of the testimony, defendant’s counsel moved to dismiss the complaint on the grounds that defendant owed no duty to the plaintiff; that if it did, plaintiff had waived the obligation by continuing to work there after he knew of the absence of a fire escape; that the burden of proof was on the plaintiff to show that he could have escaped by a fire escape, if there had been one there; and, also, that there was nothing to show that the buildings were erected to be used, or were used, as a factory by defendant, or that defendant, leased them with knowledge that they were to be so used.
+Plaintiff’s counsel asked to go to the jury on the whole case, which request was denied, and the motion to dismiss the complaint was granted. Plaintiff duly excepted to these rulings of the learned trial judge, and this appeal comes before us on those exceptions,
+Section 36 of title 13 of the city charter of 1873, provides, inter alia, that all buildings already erected, or that may hereafter be erected, more than two stories in height, occupied as, or built to be occupied as a * * * factory, mill, offices, manufactory or workshops, in which operatives are employed in any of the stories above the first story, shall be provided with such fire escapes and doors as shall be directed and approved by the commissioners; and the owner or owners of any building upon which any fire escapes may now be, or may hereafter be erected, shall keep the same in good repair, etc.”
+We think it is too plain for argument, that this building in which plaintiff was employed, was one that under the provisions of the statute just quoted, was required to be provided with a fire escape. This was an absolute duty imposed upon the owner for the sole benefit of the operatives employed, so that they would have a mode of escape in case of a fire. Willy v. Mulledy, 78 N. Y., 310. True, defendant seeks to avoid this obligation on the ground that when it leased the premises to Pfeiffer & Lavanburg, it had no knowledge that they were to be used as a factory. We think there was ample evidence in the case to sustain a find ing by the jury that it had such knowledge; the lease to Pfeiffer & Lavanburg, from defendant, reserved the right to the defendant to remove from the premises the steam engine, boiler, shafting, tubs, vats, machinery, apparatus, tools, implements, and other chattels then on the premises, and theretofore used in carrying on the brewery business therein, excepting one small tubular boiler and shafting for elevator; and also authorized the lessees to make certain alterations and covenanted that they should have the right, before the expiration of the lease, to remove from the premises any steam engine, boiler, shafting, vats, tubs, machinery apparatus, tools or implements, which they might place upon the demised premises.
+It is difficult to conceive how, under these provisions of the lease any plainer notice could have been given to the defendant of the uses to which these buildings, “more than two stories in height,” were intended to be put. Nor do we think that plaintiff could be held as matter of law to have waived the performance of the duty imposed upon the defendant by the statute, as he was lawfully on the premises and there was no present danger of fire or anything to indicate the probability thereof. Jetter v. N. Y. and H. R. R. Co., 2 Abb. Ct. of App. Dec., 458.
+It would be going too far to hold as matter of law that plaintiff was bound to investigate the premises in advance and search for means of escape in case of fire, and failing to find them, that it was his duty to seek employment elsewhere, or else be deemed to have waived the performance of a duty imposed by statute on the defendant.
+Whether plaintiff could have escaped in case there had been a fire escape provided was a question of fact for the jury to determine and we think there was enough in the case to go to the jury on that point.
+We are, therefore, of opinion that the learned trial judge erred in dismissing the complaint and in denying plaintiff’s request to be permitted to go to the jury on the whole case and that the exceptions thereto should be sustained.
+Judgment reversed and new trial granted, with costs to abide the event.
+Van Wyck, J., concurs.
