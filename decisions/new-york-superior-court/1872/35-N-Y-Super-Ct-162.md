@@ -1,0 +1,37 @@
+---
+court: "New York Superior Court"
+decided: "1872-11-30"
+citations: ["3 Jones & S. 162", "35 N.Y. Super. Ct. 162"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE MERCHANTS’ EXCHANGE NATIONAL BANK OF MEMPHIS, Plaintiff and Appellant, v. ABRAHAM H. CARDOZO and Another, Defendants and Respondents."]
+source_url: "https://static.case.law/ny-super-ct/35/cases/0162-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1412402
+---
+
+# Merchants' Exchange National Bank of Memphis v. Cardozo
+
+## Majority (By the Court.—Sedgwick, J.)
+
+By the Court.—Sedgwick, J.
+The ground specifically stated "by the court below, for dismissing the complaint, was, that the letter of November 6, 1868, from the defendants to their agent, W. S. Bearden, was not an unconditional promise to accept, within the meaning of section 8, p. 768 of 2 R S. On the trial, no part of the letter was pointed to as making a condition.
+The express authority to draw is equivalent to a promise to accept (Barney v. Worthington, 37 N Y. R. 116; Johnson v. Clark, 39 N. Y. R. 217). On the face of the letter no condition or qualification was annexed to the authority given to draw.
+The argument for the respondents is, that the letter, "by its contents, appeared-to be an answer to a previous letter written to defendants by Bearden. Whatever Bear-den’s letter may have had in it by way of request, or promise, or representation, the letter of defendants none the less contained an unconditional authority to him to draw. Nor does it appear that Bearden’s letter had referred to the subject of authorizing him to draw on the defendants.
+Another suggestion is, that defendants’ letter gave only a restriction or limitation to some authority theretofore given, the nature of which does not fully appear, and did not purport to give an authority for the first time. This is "based upon the words “We can at present only authorize you to draw at sight for $5,000 at the very outside,” etc.
+This only refers to an authority given at the time of writing, and has no intimation that any authority was in existence "before the writing.
+The only restriction is upon a sum "beyond $5,000. Up to that amount, there was no restriction.
+It is further said that the letter manifestly referred to a draft of a different character from those in suit—that is, to a single draft of $5,000, and not to several drafts, which in the aggregate were not to exceed $5,000.
+The letter does not support this view. It says in the next sentence hut one to that giving the authority, that the cashier of Bearden’s Bank at Memphis had “ told “us he was satisfied they would take any bills you “might wish to make.” The defendants evidently meant to authorize the drawing of more than one bill. It is also argued, that, from the letter, it must have appeared that Bearden was only to draw bills against shipments of cotton for advances on the same. The last extract given from the letter is at variance with this. By that, it appears that defendants expected that Bear-den would make the bills, and that his bank would take them, there being no reference to their being accompanied by bills of lading for cotton, or by anything of that nature.
+Again, so far from Bearden’s authority to draw sight bills being in the letter made contingent upon Bear-den’s being unable to “negotiate time bills,” it seems to have been the reverse. The defendants wrote, “We had hopes that you could negotiate time bills; but as you could not do that, we authorize you to draw sight bills.”
+The defendants again say, that the authority, if equivalent to an unconditional promise, is not within the statute, because the bills were on sight, and were to be presented only for payment, but not for acceptance ; and that, as there was to be no acceptance, the letter could not be construed to be a promise to accept. We think this is erroneous. Suppose Bearden had procured the plaintiffs to discount these bills in Memphis, the bills at the time having thereon written an acceptance by the defendants, payable in Mew York. The defendants would be liable on that acceptance. Or, it was possible that the bills, by defendants’ consent, might have been presented for acceptance before payment was demanded, and in case of acceptance by them, they would be liable on that.
+The respondents, the defendants below, claimed that the complaint should be dismissed on the ground ‘£ that the plaintiff has not established legally, for the purposes of this action, its corporate existence nor its corporate right to maintain the action, either within the act of Congress, or the statutes of this State.” This was, in substance, that no evidence had been given upon which to go to the jury, on the issue of the existence of the plaintiff, or the corporation described in the complaint.
+There certainly was some evidence as to whether or not there was such a corporation as the plaintiff. A certified copy of the certificate of its organization was put in evidence, under objection.
+The objection was general in form, and at the most could raise only the question of the materiality, relevancy, and competency of the proposed proof. There was no objection that the certificate was not genuine, or that its genuineness was not proven. On the contrary, it is stated in the case, as a fact, that the copy put in evidence was certified by the Comptroller of the Currency, as required by the act of Congress. This evidence was relevant and material to the issue, and, in connection with other facts, tending to show that the plaintiff had acted as a corporation under the certificate, was sufficient to take the case to the jury.
+The second ground stated by defendants’ counsel for a dismissal of the complaint was, that there was no proof that there had been a compliance with that part of the 18th section of the act of Congress, creating National Banks, which made it the duty of this association to cause the certificate of the Comptroller of the Currency, referred to in the section, to be published in a newspaper, etc.
+The objection was not material, for the section does not say that the corporation is not to commence business, or to be deemed to be organized, until such publication. On the contrary, the certificate must be, that the association has complied with all the provisions of the act required to be complied with, before being entitled to commence the business of banking under the act.
+The third and last ground taken by the defendants’ counsel for dismissing the complaint was, that it was the duty of the plaintiff to introduce into his case the letter of Mr. Bearden, referred to in the letter authorizing him to draw, or prove its contents. We have seen that the plaintiff had given proof of an unconditional authority to Bearden to draw, and therefore he was not called upon to produce anything further on that point.
+The ground, among others, on which the court dismissed the complaint, and which was the only ground specified by the court, as has been before stated, was the one we examined in the first instance.
+After reviewing all the grounds, both that stated by the court, and those by the defendants’ counsel, we come to the conclusion that the complaint should not have been dismissed.
+A new trial is therefore ordered, with costs to the appellant to abide the event.
