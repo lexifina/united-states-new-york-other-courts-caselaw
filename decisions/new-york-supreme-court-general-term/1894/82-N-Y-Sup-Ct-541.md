@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-02"
+citations: ["82 N.Y. Sup. Ct. 541"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pbatt and Cullen, JJ., concurred."]
+parties: ["John H. Caufield, Executor of Bridget Caufield, Deceased, Respondent, v. William B. Davenport, Public Administrator, etc., Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/82/cases/0541-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11279123
+cites_cases: ["36 N. Y. 44"]
+---
+
+# Caufield v. Davenport
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+The defendant is the public administrator of the county of Kings, and, as such, became possessed of certain bonds and mortgages which be claims as a portion of tbe personal property of John Caufield, deceased.
+The plaintiff is the executor of Bridget Caufield, the widow of John Caufield, and he claims the bonds and mortgages as the property of his testatrix, by virtue of a gift causa mortis from John Caufield.
+This action was brought for the recovery of such bonds and mortgages. A trial was had before a judge without a jury, and he found the evidence sufficient to sustain the gift of one of the bonds and mortgages known as the Calhoun mortgage, and insufficient to sustain a gift of the others.
+Judgment has been entered upon such decision, from which the defendant has appealed, but the plaintiff has not appealed.
+The sole question, therefore, involved upon this appeal has reference to the ownership of the Calhoun bond and mortgage.
+We find the evidence sufficient to sustain the findings of the trial judge, and the rules of law which control the case have been so frequently stated and are so thoroughly settled that a restatement of them would be unprofitable if not stale.
+This point is made, however, by the appellant, assuming the evidence sufficient to show a compliance with all other requisites to a donatio causa mortis, that there was no evidence of a delivery of the Calhoun bond, and without such evidence proof of the delivery of the mortgage is insufficient.
+That argument is based upon the theory that the bond is the principal and the mortgage is the incident of the debt it was intended to secure.
+The case of Merritt v. Bartholick (36 N. Y. 44) is referred to as an authority, and it does recognize the principle as a general proposition, but after saying that the principal shall not pass by the grant of the incident, the court says: “Unless we are authorized to say that such was the intent of the parties we cannot hold that it did.” That is, that the transfer of the mortgage did operate as a transfer of the bond also. “ This is a question of fact.”
+Under that authority, therefore, whether the donee intended to give the bond as well as the mortgage to the plaintiff’s intestate is a question of fact, and it was so treated by the trial judge.
+Upon that subject he found that John Caufield, in recognition of tbe equitable right of his wife, in view of impending death, delivered to her as a gift thereof, and of the money secured thereby, the bond described as having been made by Annie E. Calhoun to John Cau-field to secure the payment of the principal sum of $9,000, together with the mortgage therein also described, bearing the same date and executed by the same person for the same sum with the same conditions as the said bond.
+As a conclusion of law, the trial judge found that the delivery of the Calhoun bond and mortgage as aforesaid by the said John Canfield to the said Bridget Canfield, and the acceptance thereof by her as aforesaid, constituted a valid gift thereof for the purposes-declared by the said John Caufield.
+The finding of fact of the trial judge is amply sustained by the evidence, and his conclusion of law is justified.
+. Our conclusion is that the judgment should be affirmed, with costs payable from the estate in the hands of the defendant.
+Pbatt and Cullen, JJ., concurred.
+Judgment affirmed, with costs.
