@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1885-11"
+citations: ["45 N.Y. Sup. Ct. 255"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bocees and LaNdoN, JJ., concurred."]
+parties: ["MARY MITCHELL, Respondent, v. THE HOME SAVINGS BANK OF THE CITY OF ALBANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/45/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4489515
+cites_cases: ["21 N. Y., 543", "46 N. H., 78", "5 Hun, 605", "57 N. Y., 418"]
+---
+
+# Mitchell v. Home Savings Bank
+
+## Majority (Learned, P. J.:)
+
+Learned, P. J.:
+Section 23 of chapter 371, Laws of 1875, provides for tbe repayment of deposits “ under such regulations as tbe board of trustees shall prescribe,” which regulations are to be printed in tbe passbook and put up in a conspicuous place in the business room of the corporation. Section 32, as amended by chapter 347, Laws of 1878, provides that a savings bank shall not pay any interest or deposit or portion of a deposit, unless the pass-book be presented and the proper entry made therein, and further provides that the trustees may make by-laws for the payment in case of loss ©f pass-book, etc.
+' The trustees of defendant had passed certain by-laws which were properly put up and were printed in plaintiff’s pass-book. One of these required that, on making the first deposit, the depositor should subscribe and thereby signify his or her assent to the by-laws. The plaintiff had done this. By-law eight provided that in case of loss of a pass-book, on satisfactory proof and adequate indemnity, a duplicate might be issued. By-law ten was as follows: “ No person shall have the right to demand or receive any sum as principal or interest without his or her pass book that the amount demanded and paid may be entered therein.”
+The plaintiff was a depositor. She testified on the trial that she had lost her pass-book, and had not assigned or transferred it. She offered no indemnity, and she sought to recover the deposit. Judgment was entered in her favor on the report of the referee and the defendant appeals.
+These by-laws enter into-, and form part of, the contract between plaintiff and defendant. They are made for the protection of the depositors and of the bank. They protect depositors against forged orders and orders obtained by fraud. They are reasonable and valid, and they were assented to by plaintiff. It was then a part of the contract that the plaintiff should not have the right to demand her money without the pass-book, in order that the amount paid might be entered thereon. Now in case.of loss it will be seen that the contract was, not that the money should be paid, but that a duplicate book should be issued on giving adequate security. If the plaintiff had demanded a duplicate book, is there any doubt that she must have given adequate security, and that such adequate security might justly have been equal in amount to the deposit ? Would it be correct to say, as plaintiff claims, that the defendant needed no security, inasmuch as the plaintiff had not assigned her book ; and therefore that the bank could be required without any security to issue another pass-book? We think not. True, in tbe present case, the plaintiff sues for her money and not for the issuing of a pass-book. But the case we have supposed illustrates the meaning of the parties when they agreed for adequate security.
+The plaintiff insists that, inasmuch as she testifies that she has not assigned the book, and inasmuch as no person has yet given notice to the defendant of any assignment, the bank may safely pay to her, and that it needs no security. The same argument would apply if she were demanding a duplicate pass-book. Yet it could not be that the defendant would be bound, without having security,fo issue a duplicate pass-book. The plaintiff cannot escape the obligation to give security, by changing her claim from a demand for a duplicate pass-book into a demand for the money. Certainly this by-law was intended to have some meaning. If the plaintiff’s position is right, the by-law is entirely ineffectual.
+But the liability of the defendant is not a mere debt without qualification. It is a debt payable on presentation of the pass-book. If, therefore, the pass-book has been assigned, the assignee, seeing that provision in the book, may well believe that his lawful possession of the book secures to him the deposit although he gives no notice to the defendant. He may say that, by the very terms of the deposit, the failure to produce the book is notice to the defendant not to pay to the plaintiff except at its peril. (See in this connection Schoenwald v. Metropolitan Savings Bank, 57 N. Y., 418.) Thus we held in National Bank of Fort Edward v. Washington County National Bank (12 Sup. Ct. N. Y.; 5 Hun, 605) that, where a certificate of deposit had been issued by defendant payable only on return of the certificate properly 'indorsed, the defendant was liable to a Iona fide holder, for the whole amount, although the defendant had made a payment to the original depositor. There the certificate was issued in 1863; the payment made in 1864, and the certificate transferred in 1870. The analogy between the cases consists in this, that in both the payment of the amount deposited is, by the terms of the instrument, to be made only on return or presentation thereof.
+The case of Warhus v. Bowery Savings Bank (21 N. Y., 543) decides only that the administrator of a depositor, not producing the pass-book, could not recover without proof that it had been lost or destroyed. The question of security was not raised or decided.
+Tbe eases of Wall v. Provident Institution for Savings (3 Allen [Mass.], 96), and Heath v. Portsmouth Savings Bank, (46 N. H., 78), are directly in favor of defendant’s position.
+¥e are of opinion that tbe by-laws formed part of tbe contract, ■and that the plaintiff must comply with them; that adequate security does not mean no security; that tbe defendant has a right to be protected against tbe risk that tbe pass-book has passed into the hands of some other person who is, or who may claim to be, tbe rightful owners.
+Judgment reversed, and new trial granted, referee discharged, costs to abide event.
+Bocees and LaNdoN, JJ., concurred.
+Judgment reversed, new trial granted, referee discharged, costa to abide event.
