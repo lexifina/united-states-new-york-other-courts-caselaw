@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-12-10"
+citations: ["21 N.Y. St. Rep. 895"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People ex rel. Adolph Wasserman v. James D. Bell, as Commissioner of Police and Excise of the City of Brooklyn."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0895-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2018030
+---
+
+# People ex rel. Wasserman v. Bell
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The main feature of the charge for violation of the rule which forbids a policeman to leave his post, is substantially admitted. The officer left his post on the night of the 20th of May, 1888, and went into a private house, and stayed nearly three-quarters of an hour.
+The issue made by the officer was that he was sick, and went into the house because of it. The proof does not sus"tain the excuse. It is proven that before the officer went in, a young man came out of the area of the house, and said to him, “all right, come!” This was preceded by a careful looking up and down .the street. The officer denies the remark being made, “ all right, come in! ” He did go in and ■did stay some considerable time. He produces a book in which he says he made an entry while in the portion of the area of the building, in which he says he was. The book is not produced, and the force of the entry is not presented. The fact is proven that there was no light in the place when the policeman said he made the entry, and then he returned to the stand to deny that he had so testified, but that the ■entry was made in another
+The commissioners’ finding is not supported by the evidence.
+The other charge was using bad language, and trying to ■shoot a brother officer with a pistol. The appellant began the use of language designed to provoke a quarrel. The words were a specific allusion to a circumstance deemed disreputable. An officer asked the accused if he meant him, -and he said no. The insulted officer then took the accused by the neck, and when told to let go by a person present, he ■did so at once. Worseman, the accused, then went and got a stick, and that was taken away from him. The accused followed demanding the stick, and while doing so, drew his revolver, and was instantly seized and disarmed by those present.
+Such an officer has neither the good deportment nor the sufficient control, nor the obedience which ought to be possessed by one to whom the public peace and safety is commended. The judgment should, therefore, be affirmed, with costs.
+Pratt, J., concurs.
+
+## Dissent (Dykman, J.)
+
+Dykman, J.
+(dissenting).—This is a certiorari to review the proceedings before the defendant, which resulted in the dismissal of the relator from the police force of the city of .Brooklyn. The relator, who was a policeman in that city, was charged with a violation of rule 109, which forbade him to leave his post until regularly relieved, except in discharge of police duty, and the specification charged him with leaving his post, and entering the basement of a private residence, and remaining there forty-two minutes. Upon the trial of the relator, it appeared that he entered the basement with the knowledge and consent of the persons in charge, to satisfy a call of necessity. That fact was established by the undisputed testimony of two witnesses, besides that of the accused. Xo improper purpose is suggested for the entry into the basement, and no improper conduct is charged against him while there, and our conclusion is that his visit to the basement was entirely justifiable. The relator was also charged before the commissioner with conduct unbecoming an officer, and misconduct, and the specific charge was that the relator engaged in an altercation with patrolman James H. Boyle, in the station house, during which profane and coarse language was used, and an attempt to use a pistol and club was prevented. Upon the trial of the relator it appeared without dispute, that Boyle was the aggressor, and, although the conduct of the accused was not fully justified, yet he acted in the heat of passion brought on by the severe assault of Boyle, and under such circumstances his conduct may well be excused. Our conclusion is that the decision was not justified by the testimony, and the conviction should be reversed, and the relator should be reinstated, with costs.
