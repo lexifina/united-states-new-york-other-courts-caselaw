@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-06-30"
+citations: ["1 N.Y. St. Rep. 592"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Andrew Randall v. Albany City National Bank."]
+source_url: "https://static.case.law/ny-st-rep/1/cases/0592-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 637398
+cites_cases: ["53 N. Y., 211", "66 N. Y., 518", "90 N. Y., 368"]
+---
+
+# Randall v. Albany City National Bank
+
+## Majority (Bookes, J.)
+
+Bookes, J.
+Appeal from an order setting aside a verdict in favor of the plaintiff and granting a new trial..
+We are of the opinion that a new trial was here properly granted, on the ground that the judge was in error in permitting evidence as to sales of the stock at a period too remote from the date of its alleged conversion, if for no other reason. The period of limitation was extended against the defendant’s objection and exception to six months from the date of the sale of the stock complained of; and it. is insisted that under the circumstances of the case such limitation' was too extended and operated to the defendant’s serious injury. The measure of damages in the case where a person makes an -unauthorized sale of stock which he is carrying for another, or holds in pledge, is the difference between the price received on the sale and the price such other party would be obliged to pay, within a reasonable time after the sale to replace it. Baker v. Drake, 53 N. Y., 211, 66 N. Y., 518; Colt v. Owens, 90 N. Y., 368. Such is the settled rule in case of listed stock where purchases could be made from day to day in open market, and so too where purchases were infrequent yet could be made with diligence. If for any reason the stock could not be obtained the question would still be its value at the time of its conversion, to be shown by the best evidence obtainable in the particular case bearing on the subject of inquiry.
+Now, in the case under examination, the alleged unauthorized sale was made June 15th, at a trifle less than nine dollars per share, the defendant, however, being allowed and credited at that rate; the defendant was immediately informed of the transaction. Following this and within a month or two, sales were in fact made at about or less than that complained of; but after a time, and about six months following the sale, , under a scheme gotten up by parties to control the stock and for such purpose, sales were made at twenty dollars per share; and as it seems the jury accepted this as an estimate of its value on the 15th of June previously, and based their verdict thereon. Was it fair and just to the defendant to hold it to a price paid six months after the sale for a special purpose, instituted and carried out with little, if, indeed, with any regard whatever to its real and true value? Is it not manifest that twenty dollars per share was greatly beyond the real and fair value of the stock, June 15th? Or, rather, to put the question in its legal bearing, was not the evidence of the sales in November at twenty dollars per share, under the circumstances under which they were made, inadmissible as ground of estimate of its value in June? We are of the opinion that it was improper and inadmissible. It should have been, as we think, excluded. An exact period, during which the examination as to sales of stock should be limited in determining its value at a particular time, cannot be arbitrarily fixed and made applicable to all cases alike. The hmitation, however, should in all cases be for a reasonable time under the circumstance of the particular case. Thus, all we can here hold is that the evidence here given of the sales in November—six months after the conversion—und_er the circumstances proved to have existed, was improper and inadmissible, as bearing upon the question of value in June, and it should have been excluded from consideration by the jury.
+. Holding to this conclusion, we shall not consider other questions of importance in the case; to wit, whether the plaintiff, with knowledge of the sale, remained inactive and uncomplaining during a time when injury to the defendant would have been trifling, if indeed any would in fact have resulted, had he asserted his rights; also whether, according to the weight of evidence, demand of payment was not made upon the defendant with plain indication to him that unless payment was made as demanded the stock would be sold under and according to the terms of the pledge. How the case may stand on the evidence on a retrial on these subjects we cannot anticipate with certainty; hence an examination of them on the case here made will be omitted as quite unprofitable.
+The order granting a new trial is not in form according to the practice, in this, that it gives ten dollars costs of motion. This clause should be stricken out, and with that modification the order should be affirmed, with costs of appeal to abide the event.
+Landón and Parker, JJ., concur.
