@@ -1,0 +1,57 @@
+---
+court: "New York Supreme Court"
+decided: "1876-09"
+citations: ["1 Abb. N. Cas. 134"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KLEIN v. WOLFSOHN."]
+source_url: "https://static.case.law/abbn-cas/1/cases/0134-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1945731
+cites_cases: ["14 Vt. 107", "18 N. J. Eq. 336", "20 N. Y. 420", "3 Abb. Ct. App. Dec. 220", "31 Iowa, 107", "34 Pa. St. 401", "5 Johns. Ch. 482", "53 N. Y. 398", "6 Hill, 482"]
+---
+
+# Klein v. Wolfsohn
+
+## Majority (Van Vorst, J.)
+
+Van Vorst, J.
+By her verified complaint, the plaintiff alleges that on May 28, 1875, she was married to the defendant. She avers that she was induced to consent to the marriage, by certain representations made to her by the defendant, which she believed at the time of the marriage to be true, and by her ignorance of facts concealed from her by defendant. The false representations of which complaint is made, were in respect to the character and property of the defendant ; he having alleged substantially, that he was <a man of good character, and was worth $15,000, and that from his income he could support himself and plaintiff. The plaintiff avers, that the defendant was, and is in fact, a man of bad character, and was not worth the amount he claimed, and had no property or means. And that upon discovering the falsehood of his statements, and on June 15, last, she refused, and still refuses to live with him..
+Upon such allegations in a complaint, if true, I do not think the court is authorized to dissolve the marriage tie.
+Before entering upon the marriage, the plaintiff should have informed herself, both as to the character and means of the defendant, and if she blindly relied upon his representations, she cannot properly ask the court to release her from a solemn .marriage, so heedlessly formed.
+It would not answer to make this case a precedent for dissolving a marriage, upon such grounds.
+The fraud, for which a court of equity would be justified in decreeing a dissolution, is clearly not of the character indicated by the complaint. And if judicial favor was given to this application, it would open the door to a class of cases, not heretofore entertained, and disturb the sanctity with which the marriage bond should be regarded. It is not to be annulled upon every ground of false representation, which is sufficient to cancel an ordinary contract.
+Another ground is urged in support of this application, that the plaintiff did not understand the ceremony to be a marriage, but that it was represented to her to be a betrothal simply, and that the marriage has not in fact been followed by cohabitation.
+This ground is not alleged in the complaint, and would appear to be inconsistent with the statement, sworn to by the plaintiff, that she was married to the defendant, and that her consent to the marriage had been obtained by the false representations of the defendant.
+For the reason that the new ground, now urged, was not alleged in the complaint, and that the defendant has had no opportunity to answer it, I cannot consider the ex parte evidence taken upon that subject.
+The report of the referee in this case cannot be confirmed, and the application for a dissolution of the marriage for the reasons urged is denied.
+But a secret voluntary conveyance by the man, on the eve of marriage, of land he had represented to her he owned, and with intent to prevent an inchoate right of dower arising, may be set aside, as to the dower. So held, by Van Vorst, J., in N. Y. Supreme Court, First Department; Special Term, February, 1875.
+The action was by Jennie Youngs against Hannah M. Carter, and Netta Youngs.
+Luther B. Marsh, for the plaintiff.
+Stephen W. Fullerton, for the defendant.
+Van Vorst, J.—When Daniel S. Youngs asked the plaintiff to become his wife he was a widower, of the age of fifty-two years and upwards, and she twenty-three years of age. He had two children by a former wife, daughters, both of whom were of full age.
+He was, at the time of the proposed marriage to the plaintiff, seized of real estate in the city of New York, worth one hundred and fifty thousand dollars. This constituted his principal property. The fact that he owned this real estate, he had communicated to the plaintiff before his offer of marriage.
+The plaintiff accepted the proposal, and the day for the celebration of the marriage was fixed for August 27. But on account of the illness of the plaintiff, the wedding was postponed for a few days, and on September 3, following, it took place.
+On August 30, four days before the marriage, the father deeded to his daughters, by a conveyance absolute in fee simple, the real estate in question. Natural love and affection is the consideration expressed in the deed.
+The fact of such conveyance being contemplated or made, was not communicated to the plaintiff, and she was kept in ignorance thereof, until long after the marriage. The deed was not recorded until November, 1873.
+The effect of this conveyance, made on the eve of marriage, and evidently in contemplation of its occurrence, if upheld by the court, is to deprive the plaintiff of her inchoate right of dower in the premises in question, and the possibility of her title to dower becoming consummate, in the event that she survives her husband.
+The provisions of law, in respect to dower, were intended for the support of the widow, and the nurture of her children.
+“Dower is a title inchoate, and not consummate, till the death of the husband; but it is an interest which attaches on the land as soon as there is the concurrence of marriage and seisin” (4 Kent Com. 50).
+Baker v. Chase (6 Hill, 482), was an action at law, ejectment being brought by the widow to recover dower. The husband, a few days before his marriage with the plaintiff, conveyed the lands to one of his children by a former marriage, by way of advancement, with the intention of preventing the plaintiff from acquiring a right of dower. It was held that an action at law could not be maintained. In Swaine v. Perine (5 Johns. Ch. 482), which was an action in equity, it was held that a deed given by the husband, just before his marriage, to his daughter, without consideration, and kept secret until after the marriage, is fraudulent and void as against the wife’s claim of dower.
+To the same effect is Smith v. Smith (2 Halst. Ch. 515). The chancellor said, “I am of opinion that a voluntary conveyance, by a man, on the eve of marriage, unknown to the intended wife and made for the purpose of defeating the interest which she would acquire in his estate by the marriage,, is fraudulent as against her.” And the chancellor adds, “I see no sound distinction between this case and the like conveyance by a woman under like circumstances.”
+The equity of the husband to his wife’s estate is of no higher character than the equity of the wife to her husband’s (Willard Eq. Jur. 696).
+Carleton v. Dorset (2 Vern. 17), is a case in which a conveyance made by a woman before her marriage, for her separate use, without the husband’s privity, was held not to bind the husband; and to the same effect is Howard v. Hooker (2 Reports in Ch. 81; Claney on Rights of Woman, 614, 615).
+A question was raised on the trial, as to whether an action in a . court of equity could be maintained, for tha conservation of an inchoate right of dower, and as to whether the wife, claiming to have been injured, should not wait before bringing her action until it be determined, by the death of her husband, that she was absolutely entitled to dower.
+As already observed, inchoate _ dower is an interest which attaches to the land, as soon as there is a concurrence of marriage and seizin.
+But that inchoate right of dower is such an interest as the law will protect from injury, is well settled in Simar v. Canaday (53 N. Y. 398), in which case it was held (Folger, J.), that “an inchoate right of dower in lands is a subsisting and valuable interest which will be protected and preserved (to the wife) and that she has a right of action to that end.”
+The learned judge refers to various cases in which it is held in substance “that the inchoate rights of the wife are as much entitled to protection, as the vested rights of the widow.”
+In" Petty v. Petty (4 B. Monroe, 215), a man advanced in life, having children by a former wife, contracted marriage with a woman in moderate circumstances, though much younger than himself. Two days before the marriage, he conveyed to his children by the first marriage, all his land, without the knowledge of the intended wife. It was held that the chancellor, on the bill by the wife, even before the death of the husband, might declare the conveyance void, so far as it might defraud her of dower in the land, in case she survived her husband.
+By the statutes of Vermont, the widow is entitled to one third of the real estate of which the husband dies seized.
+In Thayer v. Thayer (14 Vt. 107), it was held that a conveyance by the husband, shortly before his death, of all his property, without any valuable consideration, and with the intent to' defraud his wife of dower, is void against the claims of the wife, and will be set aside. Chandler v. Hollingsworth, referred to in Washburn on Real Property, as “an important and leading case” (vol. 2, p. 597, marg.), decided by Bates, Chancellor, in Delaware, considers the English and American cases. The chancellor comes to the conclusion “that for a man or woman, on the eve of marriage, to convey his or her estate (in this case it was the entire property of the husband), if done without a valuable consideration, and not disclosed to the other party before the marriage, would be so far a fraud per se upon the marital rights of the other party, that equity would set it aside, so far as it conflicted with these rights, although the party so defrauded did not know whether the person he or she was about to marry, had been possessed of the property or not.”
+This brief examination of the cases, shows that dower is highly favored in equity. It is not only a legal, but a moral right, as it is a provision in favor of the dowress, for her maintenance out of her husband’s estate.
+And if, as is decided in Mills v. Van Voorhies (20 N. Y. 420), and affirmed and re-affirmed in Mathews v. Duryee (N. Y. Court of Appeals, 3 Abb. Ct. App. Dec. 220), and Simar v. Canaday, supra, “the inchoate rights of the wife are as much entitled to protection as the vested rights of the widow,” the plaintiff in this case has unquestionable claims for relief, upon principles of reason and justice, and through the application of analogous doctrines of equity.
+The deed executed before her marriage, under the facts and circumstances of this case, should have no other effect upon her rights and interests, than if executed afterwards.
+It is not asked by the plaintiff, that the deed executed by her husband to his daughters, on the eve of her marriage, should be set aside as to him or them. But it is asked, that it be declared void as to the present interest, which, but for the deed, the plaintiff would have, viz., her inchoate right of dower, and her future absolute light of dower, in case of the death of her husband in her life-time.
+To this extent she is entitled to relief, and there should be judgment accordingly.
+See on this subject, also, Leckey v. Bloser, 34 Pa. St. 401; Gevers v. Wright, 18 N. J. Eq. 336.
