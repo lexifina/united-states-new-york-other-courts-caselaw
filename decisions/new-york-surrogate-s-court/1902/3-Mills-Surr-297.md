@@ -1,0 +1,23 @@
+---
+court: "New York Surrogate's Court"
+decided: "1902-10"
+citations: ["3 Mills Surr. 297"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Application for Taxation of the Estate of Anna M. Schmidt, Deceased."]
+source_url: "https://static.case.law/mills-surr/3/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1066981
+cites_cases: ["56 App. Div. 479"]
+---
+
+# In re the Application for Taxation of the Estate of Schmidt
+
+## Majority (Petty, S.)
+
+Petty, S.
+The decedent died in 1895, and her will was proved in that year. In June, 1902, upon application of the State Comptroller, the usual order was entered referring the appraisal for purposes of taxation to the county appraiser. Thereupon -this motion is brought in behalf of the estate, all action having been stayed in the meantime. At or about the time of the probate of the will, an affidavit was filed by the executor setting forth the assets and liabilities of the estate and showing the value of the net estate to be below the amount required by the statute for purposes of taxation. It is alleged and undisputed that the court at that time, at request of counsel, gave its opinion that the estate was not liable to taxation. Hothing further has been done until this proceeding. The motion is to dismiss the proceeding on the ground that the matter was determined by,the court in 1895, the remedy of the State, if dissatisfied, being the right of appeal only.
+The conclusion that the proceeding should be dismissed is correct, provided the premise on which it is based be correct, viz., that the matter was determined in 1895 (Matter of Crerar, 56 App. Div. 479), but with this premise I do not agree. ¡No decree was ever entered, either taxing or exempting the estate, consequently no one had notice that the proceeding was before the court, nor was there anything from which an appeal could have been taken. If no appeal was possible the State is not barred by lapse of time. The estate has in fact rested in good faith, believing the estate to be free from appraisal or taxation, but so far as the record shows, no judicial determination has been made one way or the other. The oral opinion of the court, given informally upon a statement of fact, cannot bar the statutory proceeding when no judgment was entered and no notice thereof given, to the persons entitled thereto. ¡No official appraisal has ■ever been made and it is to this that the State is entitled whether the result shows a tax'due or not.
+The motion should be denied, without costs, the stay heretofore granted removed, and the proceeding remitted to the appraiser.
+Motion denied, without costs, stay removed, and proceeding remitted to appraiser.
