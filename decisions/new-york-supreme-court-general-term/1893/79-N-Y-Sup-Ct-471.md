@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-10"
+citations: ["79 N.Y. Sup. Ct. 471"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, Haight and Bradley, JJ\\, concurred."]
+parties: ["Betsey A. Vaughan, Respondent, v. The Buffalo, Rochester and Pittsburgh Railway Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/79/cases/0471-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4686501
+cites_cases: ["115 N. Y. 203", "51 N. Y. 573"]
+---
+
+# Vaughan v. Buffalo, Rochester & Pittsburgh Railway Co.
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+The action was to recover damages for a bodily injury resulting to the plaintiff from a defect in a public highway in the town of Machias in Cattaraugus county, upon which she was driving. The facts upon which the liability of the defendant was charged, were alleged in substance as follows: That the railroad owned and occupied by the defendant at the time of the accident, was built in the year 1874 by a corporation known as the Rochester and State Line Railroad Company; that in the construction of its line through the town of Machias its track was laid along and upon the highway before mentioned in such manner as to occupy its whole width, and exclude the public entirely therefrom for a certain distance, for which distance the railroad company constructed a new highway adjacent to its line ; that said highway was not then, and never was before the time of the accident in question, restored to its'former state or to such state as not unnecessarily to have impaired its usefulness, but, on the contrary, at the point where the accident happened to the' plaintiff, it was left in an unsafe and dangerous condition and was a public nuisance and so remained down to the time of the accident.
+The complaint further alleges that the defendant became, before the date of the accident in question, the successor, in title and possession, of the said Rochester and State Line Railroad Company,
+“ through and by various reorganizations ” of that company, and was successor to all its right and title to said railroad and its appurtenances.
+The contention of counsel in support of the demurrer is that, without an allegation of notice of the defect in the highway as restored or constructed by its predecessor in title, the complaint fails to state a cause of action against the defendant, and they rely upon the cases of Conhocton Stone Road v. Buffalo, N. Y. & Lake Erie R. R. Co. (51 N. Y. 573), and Ahern v. Steele (115 id. 203), as authority for that proposition.
+We find both of the cases cited clearly distinguished from the case at bar and neither of them authority for the application of the rule in respect to notice to this case. The former was an action to recover damages for an injury to the plaintiffs roadbed caused by the same being washed and flooded by the waters of a stream which the complaint alleged was dammed by an embankment and bridge of the defendant. The evidence showed that the structures complained of were erected many years before, by the predecessor in title of the defendant, and there was no evidence that the defendant had notice of any defect of construction which was liable to cause an injury such as that complained of. It was Held in that case that such notice was necessary to give a cause of action against the | successor in title who merely permitted the nuisance to exist. I
+The distinction between that case and the present is manifest. The I thing complained of in that case was a private nuisance erected on the property of one corporation and affecting only the property of another. The wrong in that case was in the plan of construction of the bridge, and the damage resulted only in case of a flood in the stream, which, it seems, had not before occurred since the defendant obtained the title. In this case, on the contrary, the nuisance was a public one, rendering dangerous a public highway of the town, and its existence was directly due to a violation of a public statute of the State, by a failure to restore the highway to its former condition of usefulness. This was primarily the duty of the defendant’s predecessor in title ; but it was a continuing duty, and its neglect was a continuing violation of the law, and that whether by the first owner of the railroad or its successor in title. The piece of road in question was one of the structures of the railroad, not for the purposes of its own traffic but for a purpose more directly affecting the public. It was rendered necessary by the appropriation of a portion of a public highway for the uses of the railroad, and it was constructed in pretended compliance with the statutory requirement that the highway should be restored as nearly as possible to its former condition of usefulness. This requirement continued in force until fully performed, and bound each successive owner of the railroad as fully as the original owner.
+These considerations, of course, apply only to defects in the original construction of the substituted highway, and such was the defect described in the complaint.
+The case of Ahern v. Steele (supra, 115 N. Y. 203), is even less apparently in point than the one so far considered. It was a case in which it was sought to charge an owner who was never in possession, with liability for a nuisance erected by a previous owner and maintained or continued by an occupant, without proof or presumption of notice of its existence to the defendant. Yet even the judgment in that case, acquitting the defendant of liability, was made by a divided court, three of the judges uniting in a very earnest dissent, expressed in an opinion by Danforth, J.
+We find no authority in either of the cases referred to for the contention that notice was required to the defendant in this case, of a failure to perform a statutory duty on its own part.
+The question of contributory negligence is so purely one of fact that it would be an extraordinary case, indeed, in which it could be held that the plaintiff did, as matter of law, make out that defense by the allegations of his complaint. This case seems to us not to present that extraordinary feature.
+We think the demurrer was properly overruled, and the interlocutory judgment appealed from should be affirmed.
+Lewis, Haight and Bradley, JJ\, concurred.
+Interlocutory judgment appealed from affirmed, with costs, with leave to the defendant to withdraw demurrer and answer over within twenty days, on payment of the costs of the demurrer and of this appeal.
