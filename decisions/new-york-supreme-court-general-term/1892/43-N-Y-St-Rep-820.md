@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-02-13"
+citations: ["43 N.Y. St. Rep. 820"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Loren Doing, Adm'r, v. The New York, Ontario & Western Railway Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/43/cases/0820-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2078227
+---
+
+# Doing v. New York, Ontario & Western Railway Co.
+
+## Majority (Hardin, P. J.)
+
+Hardin, P. J.
+We have looked into the opinion delivered by the learned circuit judge commenting upon the case, and we find the conclusion of his opinion to be as follows: “ It must be held, therefore, as matter of law, that the decedent Hare had equal opportunities of knowledge of the custom of the employees in kicking cars into that cripple track as had the defendant company, and that by continuing in their employ without protest and with that knowledge he has assumed the risk, and for the injury resulting therefrom the company cannot be held liable.” The court made an order “ that the motion for a new trial be, and the same is hereby granted, with costs to the defendant to abide the -event of the action.”
+Important and serious questions were involved in the trial. . It was in effect stipulated upon the trial that if the court should at a subsequent stage be of the opinion that the plaintiff was for .any reason not entitled to recover the decision should be made and the plaintiff should “ stand in precisely the same relation and position that ” he had if the nonsuit were granted upon the trial. Apparently the court yielded to the language used by the plaintiff' in the stipulation given by the plaintiff on the trial. The order made upon granting a new trial does not observe and carry out. the stipulation made during the progress of the trial. Without passing upon the serious questions involved in the merits of the action, we are inclined to hold that there was a mistrial. We are therefore inclined to the conclusion that the rights of the respective' parties can be more safely and reasonably protected by requiring a new trial to be had before expressing our opinion upon the-questions involved in the merits. We therefore direct a new trial, and in form sustain the order appealed from. We think the order should be affirmed, without costs to either party.
+Order affirmed, without costs.
+Merwin, J., concurs ; Martin, J., concurs in result.
