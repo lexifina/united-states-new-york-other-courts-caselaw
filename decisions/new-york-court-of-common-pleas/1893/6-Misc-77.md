@@ -1,0 +1,39 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1893-12"
+citations: ["6 Misc. 77"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Strauss v. Trotter."]
+source_url: "https://static.case.law/misc/6/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 695262
+cites_cases: ["1 Lans. 476", "102 N. Y. 327", "113 N. Y. 662", "124 N. Y. 164", "131 N. Y. 490", "17 Am. St. Rep. 580", "19 Hun, 35", "19 N. Y. Supp. 120", "2 Am. St. Rep. 511", "2 Hall, 307", "21 Barb. 531", "32 Hun, 448", "32 N. Y. 397", "4 Sandf. 704", "58 How. Pr. 244", "6 Hun, 55", "7 Cow. 46", "7 How. Pr. 316", "76 N. Y. 521", "8 Wend. 130", "97 N. Y. 371", "99 Mo. 407"]
+---
+
+# Strauss v. Trotter
+
+## Majority (Pryor, J.)
+
+Pryor, J.
+. We are of opinion that neither of the five defenses interposed to the complaint is tenable.
+1. Acknowledging himself a trustee, the appellant denies that all his codefendants were trustees; that is to say, he pleads a misjoinder of parties defendant. At common law the defect was fatal, upon the ground that “ a contract by X ■and Y is a different contract from one by X alone.” Dicey ■on Parties, 12, 507, m. p. To prevent a miscarriage of justice upon so technical an objection, the Code provides (§ 456) that where the summons issues against two or more defendants alleged to be severally liable, and is served upon some only, these may be proceeded against as if the only defendants, named; and that where the summons is served upon all, the plaintiff may take judgment against one or more, where he would be entitled to judgment if the action were against the ■one or more only.
+The comjplaint exhibits the joint and several liability of the defendants, and so judgment . may well go against the. •appellant alone. Stedeker v. Bernard, 102 N. Y. 327; Brumskill v. James, 11 id. 294; Pruyn v. Black, 21 id. 300; McIntosh v. Ensign, 28 id. 169.
+Appellant’s denial of liability, being a traverse of a legal conclusion, is, of course, nugatory. The office of an answer is to raise issues of fact; and in pleading, questions of law may be presented only by demurrer.
+2. Alleging that the note was accepted by plaintiff in payment and satisfaction of a precedent debt of the club corporation for goods sold, appellant contends that he is discharged from liability. From liability for the club’s original indebtedness appellant is doubtless discharged by the extinction of that indebtedness; but he is sued, not upon that indebtedness, but upon the note in which it is merged. That it is so merged appellant himself avers; and hence Parrott v. Colby, 6 Hun, 55, and Jagger Iron Co. v. Walker, 76 N. Y. 521, are no authority for the validity of the defense.
+Independently, however, of appellant’s express' admission, his answer discloses that the note is fortified by the indorsement of third parties; and hence the case is not within the operation of the principle he invokes, namely, that a debtor’s promise alone is ineffectual to merge or extinguish his antecedent obligation. Jaffray v. Davis, 124 N. Y. 164, 173 ; Ludington v. Bell, 77 id. 138; Allison v. Abendroth, 108 id. 470, 472; Cumber v. Wane, 1 Smith’s L. C. part 1, p. 633, and notes.
+3. The insufficiency of this defense, that no judgment has been obtained against the club, is so conclusively settled by adjudication as to render argument upon it not only superfluous but impertinent. State Bank v. Andrews, 2 Misc. Rep. ,394; Merritt v. Goodrich, Id. 578; Robinson v. Fay, 19 N. Y. Supp. 120; Rogers v. Decker, 131 N. Y. 490.
+4. The fourth defense challenges the constitutionality of the act imposing defendant’s liability; but ’ as the appellant fails to sustain the proposition, either by argument or authority, we are to presume it thrown out merely as tabula in na/afragio.
+Its invalidity is self-evident.
+5. For final defense to the action appellant alleges judgment recovered by plaintiffs against an indorser of the note, and attributes to that judgment the effect of satisfying and discharging his liability.
+If the judgment against Hoyt be upon his indorsement, a distinct, different and independent contract, then, manifestly, it is no merger or satisfaction of the club’s liability as maker of the note. Ely v. Clute, 19 Hun, 35; Kelsey v. Bradbury, 21 Barb. 531; Farmers’ Bank v. Blair, 44 id. 641. If the ■ judgment were upon Hoyt’s liability as trustee, then, since that liability was joint or several — an equivalent expression for joint and several (Dicey, rule 50, page 234)—the judgment would be no bar to the action against appellant, another trustee. 5 Lawson’s Rights & Rem. § 2852 ; 15 Am. & Eng, Ency. of Law, 345.
+Although his defenses he invalid, the appellant still insists-that he should have judgment on the demurrer, because of defects in the complaint.
+That upon demurrer to the answer the complaint is open to question, is common learning; yet. upon such demurrer the complaint may not be challenged for formal defects, but only for substantial insufficiency; e. g., for failure to exhibit a cause of action. People v. Booth, 32 N. Y. 397; Girvins v. Hickman, 58 How. Pr. 244; Newman v. Board, 1 Lans. 476; Noxon v. Bentley, 7 How. Pr. 316; Schwab v. Furniss, 4 Sandf. 704; Allen v. Crofoot, 7 Cow. 46; Tubbs v. Caswell, 8 Wend. 130; Roberts v. Kelly, 2 Hall, 307. “ However defective may be apy of the defenses, they are not liable to demurrer while the pleading which they assume to answer is radically insufficient to call for any defense whatever.” Allen v. Malcolm, 12 Abb. (N. S.) 336. “ An entirely bad answer is good upon demurrer where there is an entirely bad complaint.” Morey v. Ford, 32 Hun, 448. Omission of objection, by answer or demurrer, waives every infirmity in a complaint save only want of jurisdiction or cause of action. Code, § 499.
+It follows, therefore, that upon the demurrer to his answer the appellant may not avail himself of a defect of parties if, indeed, such defect be apparent in the complaint.
+He contends, however, that the complaint is bad in substance, because it fails to show that the debt of the club corporation was contracted while he was acting as trustee, was payable within a year and was sued upon within a year after due.
+Whether compliance with these conditions of appellant’s-liability be apparent depends upon whether the note be itself the debt of the club corporation, or only the evidence and extension'of its antecedent indebtedness. If the latter, then the complaint omits to state the facts which the statute prescribes as indispensable to the action. It must be conceded that, upon the face of the complaint, it is questionable whether the note be itself a debt, or only the renewal and extension of the previous debt; and that so the complaint is insufficient in substance. Clark v. Dillon, 97 N. Y. 371. But a defect for which a complaint would be condemned on demurrer will be supplied and repaired by allegation of the requisite fact in the answer. Cohu v. Husson, 113 N. Y. 662; Haddow v. Lundy, 59 id. 328; Pratt v. R. R. Co., 21 id. 305, 313; Bate v. Graham, 11 id. 237; Lyon v. Logan, 68 Texas, 521; 2 Am. St. Rep. 511; Henry v. Sneed, 99 Mo. 407; 17 Am. St. Rep. 580. Here the answer exhibits that the note of the club in suit, though given for an existing indebtedness, was secured by the indorsement of third parties, and was accepted by th'e plaintiffs in payment and satisfaction of their original demand. That thus the note was a valid accord and satisfaction, and is itself the debt for which appellant is responsible, is already demonstrated in the discussion of the second defense, supra.
+It results that the conclusion of the court below is correct.
+Judgment affirmed, with costs.
+Daly, Oh. J., and Bookstaver, J., concur.
+Judgment affirmed, with costs.
