@@ -1,0 +1,45 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-03-15"
+citations: ["44 N.Y. St. Rep. 229"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People, App’lts, v. The Fitchburg Railroad Company, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/44/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2074949
+cites_cases: ["22 St. Rep., 497", "28 Hun, 64", "52 Hun, 98", "92 N. Y., 627"]
+---
+
+# People v. Fitchburg Railroad
+
+## Majority (Mayham, P. J.)
+
+Mayham, P. J.
+The Troy & Boston Eailroad Company, a corporation formed under the laws of the state of Hew York, consolidated with the Fitchburg Eailroad Company, a corporation created under the laws of the state of Massachusetts, and filed their articles of consolidation in the office of the secretary of state of the state of Hew York. The state of Hew York by its officers claimed that such consolidated railroad company became by virtue of such consolidation liable to pay a franchise tax into the treasury of the state to the amount of $18,003.25. This claim was disputed by the railroad company and to settle that controversy the parties made and submitted a case to this court under the authority of the section of the Code above referred to.
+On the hearing on such case at the general term, the ¿curt gave judgment for the plaintiff for the amount claimed and judgment was entered for that amount and the costs of an action.
+From that judgment the defendant appealed to the court of appeals, where the judgment of the general term was in all things reversed, and judgment absolute was ordered for the defendant.
+The defendant now asks for an additional allowance of five per cent upon the amount claimed by the plaintiff under the provisions of § 3253 of the Code of Civil Procedure.
+By § 1280 of the Code it is provided the written submission provided for in the preceding section must be filed with the clerk. “ The filing is a presentation -of the submission; and thenceforth the controversy becomes an action, and each provision of law relating to a proceeding in an action applies to subsequent proceedings therein, except as otherwise prescribed in the next section.”
+The only provision in the next section which could in any way bear upon this question is that which provides that: “ The costs thereof are always in the discretion of the court, but costs cannot be taxed for any proceeding before notice of trial ”
+There is nothing, therefore, that prohibits the court, from granting an extra allowance in the provisions of § 1281 of the Code, and the same rule upon that subject that would govern in ordinary actions would, under the provisions of § 1280, obtain in a submitted case.
+It is true that in granting an additional allowance, on the ground that the action is difficult' and extraordinary, the statute confines the court to cases where a defense has been interposed. But it has in effect been held that when a controversy has been submitted it carries with it the idea of a claim of some kind on one side, which is opposed and defended on the other, and it is a defense within the meaning of § 3253 (Kingsland et al. v. The Mayor of New York, 52 Hun, 98; 22 St. Rep., 497), and that the court may, in a proper case, in the exercise of its discretion, grant an additional allowance.
+But it must be borne in mind that by § 1280 the controversy after submission becomes an action, yet unlike many forms of actions, the costs of such action upon a submission are by the provisions of § 1281 always in the discretion of the court. The exercise of that discretion if not restricted by the submission, would put it in the power of the court to deprive the prevailing party of all costs.
+But in this case the parties have seen proper to control the exercise of that discretion in the court by providing that the prevailing party is to have costs. Thus the parties have so far as they could by their stipulation of submission, abridged or restricted the exercise by the court of the discretion vested in it.
+If the court should reach the conclusion that in the exercise of its discretion this was not a proper case to allow costs to the prevailing party, it would nevertheless be called upon to carry out the stipulation of the parties, unless that stipulation violated some provision of law, or sound public policy. In the case of Kingsland v. The Mayor, 52 Hun, supra, the parties had made no stipulation as to costs, and the general term granted an additional allowance in the exercise of their discretion.
+In the case at bar, as we have seen, the parties stipulated as to costs, and we think, within the authorities, that stipulation must be substituted for the exercise of any discretion by the court. In Fish v. Coster, 28 Hun, 64, the parties stipulated in their submissi on of a controversy upon agreed state of facts that "the judgment, in favor of whichever party it shall be, shall be given with costs and disbursements.
+Davis, J., on an application for an additional allowance says :• “ We do not consider the question whether this court has power to grant an additional allowance, because by the express terms of the submission it is provided that the judgment, in favor of whatever party it shallbe, shall be given with costs and disbursements, and those words we think were used with reference to the proper taxable costs in such cases.” This ruling of Judge Davis was affirmed in the court of appeals on his opinion, in 92 U. Y., 627. We think the case is substantially identical in principle, and in the facts, with the one at bar.
+The stipulation as to the allowance of costs, we think, did not, in terms or effect, embrace an additional allowance, but in effect did embrace the taxable costs as to the extent and limit of costs to the prevailing party.
+The motion for an additional allowance must be denied.
+Motion denied, with ten dollars costs and printing disbursements to the plaintiff.
+
+## Concurrence (Herrick, J.)
+
+Herrick, J.
+I concur out of deference to the case of Fish v. Coster, referred to in the opinion of Mayham, P. J. As an original proposition I should entertain views directly the reverse of those therein expressed.
+
+## Concurrence (Putnam, J.)
+
+Putnam, J.
+I also concur for the reason stated by Judge Herrick. In my opinion the stipulation that the prevailing party should recover costs should be construed to mean not only the ordinary taxable costs under § 3251 of the Civil Code, but also an extra allowance under § 3253, if the case should prove difficult, and the proper court, in its discretion, should thereafter hold it proper to make such allowance. I am ' unable to see why the stipulation relieving the court from the exercise of discretion as to the ordinary taxable costs should prevent the exercise of that discretion as to an allowance. But the general term of the first district in the case of Fish v. Coster have passed upon this question and arrived at a different conclusion. This case was affirmed by the court of appeals. 92 N. Y., 627. The defendant, however, in whose favor-the order denying the extra, allowance was made, was appellant, and I presume the question of the power of the general term to grant an allowance was not passed upon. The question involved, therefore, remains undecided in that court. I think it proper to follow the holding of the general term of the first district. The order should state that the denial is upon the ground that the parties having stipulated as to costs this court is not authorized to grant an allowance. The defendant will thus be authorized to submit the question involved to the court of appeals.
