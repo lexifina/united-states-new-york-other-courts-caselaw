@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1886-06-01"
-citations: ["1 N.Y. St. Rep. 476", "2 N.Y. St. Rep. 139"]
+citations: ["1 N.Y. St. Rep. 476"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Jones et al. v. Sparks et al."]
 source_url: "https://static.case.law/ny-st-rep/1/cases/0476-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 637460
-cites_cases: ["100 N. Y., 98", "4 Hun, 133", "64 Barb., 412", "64 N. Y., 236", "7 Daly, 376"]
+cites_cases: ["100 N. Y., 98"]
 ---
 
 # Jones v. Sparks
