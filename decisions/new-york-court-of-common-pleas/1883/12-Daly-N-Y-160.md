@@ -1,0 +1,29 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1883-06-25"
+citations: ["12 Daly (N.Y.) 160"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ferdinand J. Bold, Appellant, against James O’Brien, Respondent."]
+source_url: "https://static.case.law/daly-ny/12/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 913741
+cites_cases: ["2 Daly 140", "25 Hun 405"]
+---
+
+# Bold v. O'Brien
+
+## Majority (Van Beunt, J.)
+
+Van Beunt, J.
+This is an appeal from an order of the General Term of the Murine Court reversing a judgment entered upon the verdict of a jury in the Marine Court of .the city of New York. The action was brought to recover damages to personal property caused by the falling of a building of which the defendant was the owner. The plaintiff resided with his family upon the top floor of the premises in question. It appears from the evidence in the case that, for some time prior to the falling of the building, the fact that the building was in an unsafe condition was known by the defendant; that the same was called to his attention by the plaintiff and by his wife, but that the plaintiff was persuaded to remain in the building upon the assurance of the defendant that it was all right, and he would have the difficulty fixed, and that whatever damage was done to the plaintiff’s furniture, he would pay for it.
+In the case of Eagle v. Swayze (2 Daly 140), it was ex.pressly held that a tenant from year to year, renting part of a dwelling house, the residue of which is occupied by other tenants, is under no obligation to make repairs of so general, substantial and lasting a nature as the rebuilding of a chimney which has fallen down, and that, in the absence of an express agreement on the part of the tenant to do so, it is the duty of the landlord to repair any injury to the building of this description; and if he negligently suffers one of the chimneys to remain in so defective a state that it tumbles down, causing loss and injury to the tenant, lie is answerable to the tenant for the consequences. That case is entirely applicable to.the one at bar. The defect of the building was of a general character; it extended beyond the premises occupied by the plaintiff; he was one of a number of co-tenants, and, unless he has been guilty of some contributive negligence, the plaintiff in this action is entitled to recover the damages which he has sustained by the falling of this building.
+It is urged that the defendant-was seeking during this time to get the permission of the fire department to make these repairs; that the delay caused by the negligence of the fire department in their examination to pass upon this application does not excuse the defendant in this action, because, at the solicitation, as it appears by the record, of the defendant, the plaintiff in this action remained in the premises, he having promised that the premises should be fixed the next week, and any damages caused to his furniture by the want of repair of the building, he (the defendant) would pay. Under these circumstances, if the plaintiff remained, it was for the jury to say whether or not he was excused because of the promise and solicitation of the defendant.
+The case of Marsh v. Chickering (25 Hun 405) is entirely parallel in this respect. There an employee of the defendants was using a ladder which was improperly constructed. He called the attention of his employers to the fact, and they told him to go on and use ■ it and they would have it fixed in a day or two ; but before it was fixed the plaintiff fell from the ladder in consequence of the imperfect construction; and it was held that a recovery could not be defeated, as matter of law, because of his alleged contributory negligence; he having gone on and used the ladder by the direction of his employers, they being aware of its infirmity, the defense of contributory negligence could not be availed of by them as matter of law.
+So in the case at bar: the premises being unsafe, to the knowledge of the landlord, and, we might say, to the knowledge of the tenant, but the landlord having assured the tenant it was all right, the premises would be fixed next week, and he would pay any damage which the furniture would sustain, if the jury believed that the tenant was justified in remaining, as they have found by their verdict, trusting to the promise of the landlord that the premises should be speedily repaired.
+It seems to us that the learned court below fell into the error of treating the relations between the plaintiff and the defendant as though the plaintiff was a tenant of the whole of the premises and not of only a small part thereof; the relations between the landlord and tenant in the latter case being entirely different from what they are in the former. The landlord, as far as the tenant is concerned, where the tenant occupies but a small portion of the tenement, is bound to keep the parts of the tenement under his control in such a state of repair that the tenant may occupy his premises with safety.
+The jury having found that the defendant in this case knew of the dangerous condition of the house, we are of the opinion, therefore, in view of the evidence of the assurances given to the plaintiff by the defendant that the. premises were all right and would be repaired at once, and that all damages sustained would be repaid by him, and the finding of the jury thereon, that the plaintiff’s right to recover was established.
+The order of the General Term must therefore be reversed, with costs, and the judgment of the trial term affirmed.
+Charles P. Daly, Ch. J., and Beach J., concurred.
+• Judgment reversed, with costs, and judgment of trial • term affirmed.
