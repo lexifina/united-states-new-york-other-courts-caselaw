@@ -1,0 +1,38 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1882-02-06"
+citations: ["10 Daly (N.Y.) 353"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James J. Cosgrove, Respondent, against Peter Bowe, as Sheriff of the City and County of New York, Appellant."]
+source_url: "https://static.case.law/daly-ny/10/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1603830
+cites_cases: ["10 Abb. Pr. 282", "10 Johns. 220", "10 Johns. 563", "10 Wend. 515", "12 Abb. Pr. 448", "12 How. Pr. 35", "12 Johns. 503", "13 Johns. 121", "15 N. Y. 425", "17 Am. Law Reg. 348", "17 Wend. 543", "19 L. J. Q. B. 309", "2 Bosw. 106", "2 Duer, 675", "23 Barb. 575", "3 Abb. Pr. 86", "30 N. Y. 581", "31 Barb. 62", "31 N. Y. 255", "35 Barb. 514", "35 N. Y. 385", "44 N. Y. 762", "49 N. H. 147", "5 Johns. 182", "5 Mass. 310", "6 Abb. Pr. 206", "6 Johns. 270", "64 Barb. 568", "7 Johns. 188", "7 N. Y. 493", "83 N. Y. 23", "9 How. Pr. 188", "9 Johns. 117", "9 Johns. 234", "9 N. Y, 208"]
+---
+
+# Cosgrove v. Bowe
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action was brought to recover damages alleged to have been sustained by the plaintiff, by reason of an escape suffered by the defendant. The complaint alleges that in an action brought in the Marine Oourt against one Andrew Bergen for wrongfully converting property belonging to the plaintiff, an order was duly made by one of the justices of the court whereby the defendant as sheriff was required to arrest the said Andrew Bergen and hold him to bail in the sum of $1,500: that thereafter the order was duly delivered to the defendant as said sheriff to be executed: that thereafter the said defendant as such sheriff arrested said Bergen pursuant to said order, but in violation of his duty as such sheriff has since voluntarily and before the commencement of this action and without the consent of this plaintiff permitted the said Andrew Bergen to go at large, and refused to detain him in his custody, or to imprison him as required by law and by the said order of arrest, and the said Andrew Bergen then and there and by reason thereof went and was at large without the assent of the plaintiff. That by reason of the premises the plaintiff has been put to great trouble and expense in claiming and preserving his rights, and the remedies afforded him by the law in his said action against the said Andrew Bergen, and the securities of the law so afforded him therein; and in the employment of attorney and counsel in and about the preserving and enforcement of his rights and remedies and otherwise to his damage of two thousand dollars.
+The defendant in this action demurs to this complaint upon the ground that it appears upon the face thereof that the complaint does not state facts sufficient to constitute a cause of action.
+This demurrer was overruled, and fz-om the judgment thereupon entered this appeal is taken.
+The appellant claims (1) That no action can be maintained for an escape where the prisoner is held upon mesne process ;
+(2) That the coznplaint does not allege that Bez’gen was at large beyond the liberties of the jail; and,
+(3) That the complaint does not allege any indebtedness of Bergen to the plaintiff. Other grounds were urged which it is not necessaiy, however, now to mention.
+That the first ground is not well taken seems to be established by section 158 of the Code of Civil Procedure, which provides “ where a person in the sheriff’s custody goes or is at large beyond the liberties of the jail, without the assent of the party at whose izistance he is in custody, the sheriff is answerable therefor in an action against him as follows:
+(1) “ If the prisoner was in custody by virtue of an order of arrest,” and so forth.
+This language gives clearly a right of action to the plaintiff to the extent of damages sustained by him, in case, without taking bail, the sheriff allows a prisoner whom he has arrested under an order of arrest to go beyond the liberties of the jail, and the long list of authorities which have been cited by the counsel for the defendant under this proposition, seem to have no application in view of the section in question.
+The second point, namely, that the complaint does not allege that Bergen was at-large beyond the liberties of the jail, seems to be well taken. There is no allegation whatever that Bergen had been allowed to go beyond the jail limits. It has simply a particular allegation that the sheriff has allowed said Bergen to go at large, and what the plaintiff meant by the allegation “ go at large ” seems to be defined by the next paragraph of the complaint, where he says “ and refused to detain him in his custody or to imprison him as required by law and by the said order of arrest.” The whole allegation read together would seem to lead to the conclusion that the party making the allegation in the complaint meant to claim that the sheriff was bound to retain the defendant Bergen in his physical custody and actually imprison him, or he would be liable as for an escape; and hence he alleged that the said Andrew Bergen was allowed to go at large because of the fact that the sheriff refused to keep him in his physical custody and actually to imprison him.
+How in the Code the language used is exceedingly distinct : it is " at large beyond the liberties of the jail,” which would seem to indicate that the use of the words “ at large ” would not by any means indicate that the prisoner had been allowed to go beyond the liberties of the jail.
+It is urged by the counsel for the respondent that the allegation contains necessarily an implied averment of the fact that he went beyond the liberties; but I entirely fail to see the force of this suggestion, because as has already been seen the allegation contains a definition of what the pleader meant by the prisoner going at large, and which would be entirely true without any escape having been permitted. It would seem, therefore, that there was no sufficient allegation of escape.
+The third ground by which the appellant seeks to sustain the demurrer seems to be also well taken, and that is, that the complaint does not allege any indebtedness of Bergen to the plaintiff. That this allegation is necessary is expressly laid down in Greenleaf on Evidence, § 584, and Chitty on Pleading, vol. 2, p. 738. The sheriff has a right to take issue upon this question of indebtedness, and to avail himself of every defense which the prisoner would have had against such indebtedness.
+It is an issuable fact, therefore, and must be distinctly alleged in order that issue may be taken thereon. In the complaint under consideration the allegation is that, on the 21st of June, 1881, in an action brought in the Marine Court of the City of Hew York against one Andrew Bergen for wrongfully converting property belonging' to plaintiff, an order was duly made by one of the justices of said court, and so on.
+This allegation might be entirely true, and yet no indebtedness exist, in favor of the plaintiff as against the said Bergen.
+The fact that an action was commenced is not equivalent to an allegation of indebtedness and proof thereof. The plaintiff might prove every allegation contained in the complaint, and give no evidence whatever of the existence of any cause of action in the plaintiff against Bergen.
+It would seem, therefore, that the complaint is defective in the respects above mentioned, and that the demurrer must be sustained with leave to the plaintiff to amend his complaint within twenty days, upon payment of the costs of the court below and of this appeal.
+Beach, J., concurred.
+Judgment accordingly.
