@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court"
 decided: "1891-03-02"
-citations: ["27 Jones & S. 121", "59 N.Y. Super. Ct. 121", "13 N.Y.S. 610", "37 N.Y. St. Rep. 369", "27 Jones & S. 136", "59 N.Y. Super. Ct. 136", "13 N.Y.S. 614"]
+citations: ["27 Jones & S. 121", "59 N.Y. Super. Ct. 121", "13 N.Y.S. 610", "37 N.Y. St. Rep. 369"]
 reporter: "ny-super-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
