@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court"
+decided: "1876-10"
+citations: ["15 N.Y. Sup. Ct. 409"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bbadt, J., concurred."]
+parties: ["DAVID C. BANCKER and MICHAEL J. QUIGG, Respondents, v. THE MAYOR, Etc., OF THE CITY OF NEW YORK, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/15/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11279196
+cites_cases: ["22 N. Y., 323"]
+---
+
+# Bancker v. Mayor of New York
+
+## Majority (DaNiels, J.:)
+
+DaNiels, J.:
+The judgment from which the appeal has been take^, was recovered for the value of labor and materials performed and supplied by the plaintiffs in the erection of the Harlem court-house, in the ninth judicial district of the city of New York. The controversy was limited to the point of the liability of ,the defendant for the debt, the amount of which was practically undisputed. The materials were furnished and the work performed under the immediate employment of Mr. Scallon, who represented himself as the superintendent under the commissioners designated in the act for the erection of the court-house. His declarations of the fact that he was superintendent were received without objection, during the trial, as evidence in the case. And it appeared that he presented a bill to the defendant, which contained a charge for his services in that capacity during the year 1870, in which the plaintiffs commenced their work, and that it was allowed and paid by the authorities of the city. From these facts the referee was warranted in finding that Scallon was, as he claimed he was, the superintendent in charge of the erection of the building.
+The commissioners were empowered by the act designating them, to employ him in that capacity ; for it was provided in it that they might employ the necessary assistants required in the performance of their duties, and that they should be paid by the comptroller of the city, upon vouchers approved by the commissioners. (Laws of 1870, chap. 410, § 3 ) Under that general authority the plaintiffs were also employed- and- performed the services and supplied the materials for which payment was claimed by them, and it was clearly broad enough for that purpose. The commissioners were empowered to locate and erect the court-house and for that purpose to employ the necessary assistants, and as such the plaintiffs seem to have been engaged.
+There is- nothing in the act by which the commissioners themselves were rendered liable for the price, etc., or value of the materials supplied and work performed in erecting the building; neither have they been provided with any fund for the payment of the -expenses to be incurred. It could not have been designed, therefore, that they should become personally liable for such payment. The act provided that the land purchased and the building erected under the superintendence of the commissioners should be the property of the defendant (Laws of 1870, chap. 410, § 1), and that payment of the necessary assistants employed by them should be made by the comptroller of the city in the usual method for making payments for city purposes,- upon vouchers approved by at least a majority of the commissioners, and that the board of supervisors should raise the necessary funds for that purpose by a tax upon the real and personal estate within the city. (Id., § 3.) From these provisions it is very clear that the work was to be done by the commissioners for the defendant and at its expense. They were made its agents, and it became liable for their lawful acts, and it was properly held to be so by the referee. The case in this respect is entirely different from those relied upon in support of the appeal, and in which no such agency and obligation to make payment appeared to have been provided for.
+It was not objected that the tax had not been levied and collected, as directed by the act for the payment of the expenses incurred, but it was claimed that uo recovery could be had, because the commissioners had approved of no vouchers entitling the plaintiffs to payment. To meet this defect -in the case, it was shown that an application was made to them for the approval of the bills, which they refused, for the assigned reason that they had no personal knowledge on the subject. That was an unreasonable refusal. If they had no personal knowledge, it was their duty to have instituted such an investigation as would have enabled them to have discharged the duty which the statute had imposed upon them. It was the intent of the act, that they should determine the justice of the demand made before payment could be legally required, and it was their duty to acquire the knowledge requisite for the intelligent performance of that duty. By refusing to do that they put it out of the plaintiffs’ power to comply with this provision of the act, and entitled them to payment of what was justly owing without the vouchers unreasonably denied them. This was held in substance by the Court of Appeals, in the decision of the case of The Bowery National Bank v. The Mayor, etc. (not yet reported).
+The referee must have adopted this view of the evidence, although he has not so stated in his report. But as the fact appeared by the evidence, which was not contradicted, and it was essential to the right of the plaintiffs to recover, it is to be presumed, in support of the judgment, that it was found though not stated by the referee. (Cooper v. Bean, 5 Lansing, 319; Grant v. Morse, 22 N. Y., 323; Chubbuck v. Vernam, 42 id., 432.)
+The judgment should be affirmed.
+Bbadt, J., concurred.
+
+## Dissent (Davis, P. <T.)
+
+Davis, P. <T.
+(dissenting):
+The city was not bound, nor was the comptroller authorized to pay until the presentation of the vouchers required by the act. The approval of the commissioners was an essential part of such vouchers, made so by the act itself. The respondents were bound to present to the comptroller such approval, or to satisfy him that it was improperly or unreasonably withheld. Nothing of that kind was attempted to be shown. If the city authorities, on such facts being shown to them, had refused to allow and pay the demand, notwithstanding the unreasonable and illegal refusal of the commissioners to approve the account, then the plaintiffs might, upon proper proof, maintain their action. The referee has not, however, thought the question whether or not the commissioners unreasonably withheld their approval, one of sufficient importance to be passed upon by him. To me it seems important that he should not only have found an unreasonable refusal, but also that the fact that the vouchers had been presented to the commissioners and approval refused, on improper grounds, was made known to the city authorities when payment was demanded or before suit brought.
+I think there should be a new trial, with costs to abide event.
+Judgment affirmed.
