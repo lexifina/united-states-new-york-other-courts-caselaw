@@ -1,0 +1,43 @@
+---
+court: "New York Superior Court"
+decided: "1890-03-04"
+citations: ["30 N.Y. St. Rep. 242"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Lyceum, App’lt, v. John S. Ellis, trustee, et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669679
+cites_cases: ["69 N. Y., 339", "90 N. Y., 889"]
+---
+
+# Lyceum v. Ellis
+
+## Majority (Sedgwick, Gh. J.)
+
+Sedgwick, Gh. J.
+The plaintiffs are a corporation formed under the act of the state for the formation of manufacturing ■and other kinds of corporations.
+They contest in this action the validity of a mortgage upon the Teal estate of the corporation made to secure the payment of bonds of some of which the defendants are the holders. The ground taken to impeach the validity is that “the written assent of the stockholders owning at least two-thirds of the capital stock ’’ of the corporation was not given. There was a written assent. The plaintiff’s claim as to this is that eighty shares represented in the assent had never been lawfully issued and that the remaining .shares represented were not two-tliirds of the capital.- The learned judge below, in effect, found that if the eighty shares were excluded, there were still represented in the assent two-thirds of the ■capital stock.
+In this he was correct, under the casé of Greenpoint Sugar Co. v. Whiton, 69 N. Y., 339. That case decided that “for the purposes of this act, etc., the amount actually issued and owned should be regarded as the amount of the capital stock. The design was to confer this power of assent upon those who represented two-thirds of the actual stock. They represented two-thirds of the pecuniary interest and property of the corporation.”
+The learned counsel for the plaintiff argues that the case cited makes a limitation of the general principle announced by saying in reference to what it held to be the amount of the capital stock or the 2,000 shares, “and for aught that appears, no more was intended to be issued.” The meaning of this I take to be that an assent to a mortgage made by two-thirds of the then actual capital stock will not be sufficient, if also then there is a definite intention of increasing the actual stock by future issuing of shares in a manner that will increase the actual stock. The intention referred to is not a general intention that is presumed as to all shares not transferred. It would be an attempt to evade the statute that a mortgage should be made upon the assent of two-thirds of the actual capital when that was accompanied by the beginning of an arrangement to increase the capital,-or even by an intention forthwith to make such an arrangement. That method would be fraudulent as to those who might afterwards become the owners of shares.
+In the present case, the fact is that if there were an intention to issue the shares 120 in number of which the 80 was represented in the assent, the result would be that those 120 shares must be considered part of the actual capital and then the persons to whom the issue was made would be considered the owners of the shares. In such case there was an assent of two-thirds of the capital stock,, upon the position taken by the plaintiff.
+There was further objection taken on the ground that 40 shares-represented in the assent had not been paid for in full but had been paid for only to the extent of the nominal value of 12 shares. It is held in Wheeler v. Millar, 90 N. Y., 889, that neither the issuing of a certificate for shares nor payment for the shares is indispensable to a subscriber being an owner of shares in capital stock. “ Whatever may be said of a case where no fact is present-as the foundation of an inference that title has passed except the bare fact of a subscription, it is entirely reasonable that where in addition, the corporation has explicitly recognized the alleged stockholder as such and the latter has ateted in that capacity, such facts should be deemed sufficient to justify a conclusion of ownership and make the subscriber a stockholder." In the present case the facts justified the inference made by the judge belovf, that the persons who claimed in the assent to be the owners of the 40 shares were, in fact stockholders and owners of capital stock to-that amount.
+It is not necessary to determine that the 120 shares were or were not legally issued. They were issued to the other stockholders without any consideration received by the corporation. Whether they were legally issued or not, the result in this case would be the same. The findings show that the judge below acted upon this view.
+The plaintiff further complains of the issuing of bonds of the' company to the defendants or some of them upon the consideration of the payment to the company of seventy-five per cent, of the. face of the bonds. The transaction in itself is not invalid. '.If the obligation were given by a natural person, there might be a valid objection that they were void for usury. A corpora-tion cannot avoid its obligation for such a reason.
+Assuming, however, that such of the defendants as were trustees of the company when they took the bonds from the company held such a relation to the company that the company could avoid the transaction, that right to avoid was an equitable right. The transaction was not void and might be ratified. And if the stockholders ratified expressly or by -acquiescence after knowledge for a sufficient time, the plaintiffs cannot avoid. 'The finding below, that there was such a ratification or acquiescence by all the stockholders, was supported by direct and circumstantial evidence.
+The case does not disclose any errors and the judgment should be affirmed, with costs.
+Freedman, J., coucurs.
+
+## Dissent (Ingraham, J.)
+
+Ingraham, J.
+(dissenting).—I am unable to concur with my .-associates. The plaintiff was authorized by statute to execute a mortgage upon its property to secure existing debts. It has been held that when a bond of a corporation is issued it is a debt and that a mortgage to secure such a bond is valid, but- the bond as 'between the obligor and the obligee, where such obligee is one of ■the trustees of the corporation, is only, an obligation for the amount •paid thereon. When therefore the corporation issued to its trustees bonds for which they paid seventy-five cents on the dollar, the obligee could only have recovered from the plaintiffs the .amount that he had advanced to the company, and the bond was .a valid debt of the company to that extent only.
+The mortgage was valid to secure the payment of the valid debt, but was not Valid to secure what never was a debt of the ■company.
+I do not think that the evidence justified the court in finding that all the stockholders ratified the acts of the trustees in giving to themselves obligations of the company at seventy-five cents on -the dollar. There was no formal act of ratification. At most it was .a failure of the stockholders to take the bonds at that price when offered to them, and subsequently, after the transaction was completed, a failure to take proceedings in disaffirmance thereof. But the corporation was under the control of the same trustees who had authorized the issue of the bonds, and it does not appear that it was able to repay to the trustees to whom the bonds bad been issued the amount that they had actually paid to the corporation.I think the stockholders had a' right to wait until the obligations became due, or the obligees attempted to enforce the obligations, .and then tender the amount actually due.
+The delay of the stockholders has not changed the position of ■the parties, and there is nothing to show that either the corporation or its stockholders are estopped from asserting that the corporation is only liable to repay what it had actually received.
+It is clear that Ellis purchased the bonds for himself, paid for them, with his own money, and took them in the name of Julia E. Effia
+It is not necessary to determine whether there can be any relief as against these bonds issued to Ellis in this action without making Julia E. Ellis a party.
+I think that plaintiff was entitled to a judgment declaring that the bonds issued to its trustees, and now held by them, are valid ■only to the extent of seventy-ñve per cent., and allowing it to discharge such obligation on a payment of that amount and interest.
+I think, therefore, the judgment should be reversed, and a new trial ordered.
+Judgment affirmed, with costs.
