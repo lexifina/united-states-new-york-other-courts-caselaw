@@ -1,0 +1,26 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1882-04-03"
+citations: ["10 Daly (N.Y.) 450"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James McCarthy, Respondent, against Lewis McDermott, Appellant."]
+source_url: "https://static.case.law/daly-ny/10/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1603724
+cites_cases: ["3 Sandf. 69", "7 Daly, 550"]
+---
+
+# McCarthy v. McDermott
+
+## Majority (J. F. Daly, J.)
+
+J. F. Daly, J.
+[After stating the facts as above.]—The facts as to the alleged change of possession upon the sale of the furniture by Skinnell to the plaintiff were undisputed, and presented a question for the court to decide and to instruct the jury upon, under the statute. On February 1st, 1875, when the sale took place, the furniture was at 54 Clinton Place, where Skinnell and his wife carried on a boarding house, and the furniture sold was all the furniture used in the business. Plaintiff at that time had a residence in Brooklyn, keeping house and paying rent there, but Ms family lived at 54 Clinton Place. His wife and Skinnell’s wife were sisters. It was not shown whether he lived with his family at that house. On the day the bill of sale to him was executed, plaintiff went with Skinnell to 54 Clinton Place, went all through the house with his (plaintiff’s wife), stated that he took possession of the property, and delivered to Mrs. Skinnell a writing dated February 1st, 1875, and signed by himself, placing the property in her care and custody to take charge of it for him and for his benefit, to be surrendered to him whenever he should require or demand the same; and that until he should require said property she was to have the use and custody of it as compensation for caring for it. Mrs. Skinnell and plaintiff’s wife then carried on the boarding house ; plaintiff's wife was sick at the time; plaintiff’s wife and family remained in the house for six weeks, when he and they went back to Brooklyn. Skinnell remained in the house a few weeks or a month, then went to Boston, and then returned before May 1st, 1876, when he went by direction of his wife to hire the house 28 W. 9th St., she being authorized by plaintiff to hire it. On May 1st, 1876, the Skinnells moved into 28 W. 9th St. with the furniture, and plaintiff and his family moved there from Brooklyn. Flaintiff and his family went back to Brooklyn on September 1st, 1876, and left Skinnell and his wife in the 9th St. house ; Mrs. Skinnell had charge of the house for plaintiff; Skinnell was not there at all times. The furniture was seized and sold there by defendant upon execution against Skinnell on March 7th, 1877.
+It is clear that the change of possession on February 1st, 1875, was constructive only. The véndor remained in the house with the furniture, and the boarding house business continued, his wife running the establishment instead of his doin'g so. Nothing in the apparent ownership of the property was changed. There was nothing to disclose that the title had been transferred from Skinnell to plaintiff. There were words spoken by plaintiff announcing that he took possession ; there was a paper given by him to the vendor’s wife constituting her a bailee for him of the property, but that was all;—words and the delivery of a paper. Skinnell, the vendor, remained in the house, the property remained in the house, and the whole change was constructive, not actual. Even if there had been an actual change at the date of the transfer, and Skinnell had gone away, his return to the house and remaining there with the property, household furniture, while plaintiff moved away from the house, would have brought the case within the statute, for the change of possession was not continued. The change of possession must be actual, as distinguished from constructive, and must in addition be continued, in order to remove the presumption of fraud in the transaction as against the vendor’s creditors (2 R. S. 136 ; Randall v. Parker, 3 Sandf. 69 ; Betz v. Conner, 7 Daly, 550).
+The court should have charged defendant’s request as made, and not left the question of change of possession to the jury. It is said by respondent, that as defendant subsequently requested the court to charge “ if you find from the evidence that there was no transfer of possession of the property sold, to McCarthy, the fact that the bill of sale was not put on record would alone create a presumption of fraud,” this-was virtually an acquiescence in the court’s leaving the question of possession to the jury. I hardly think defendant was left free to choose. His request to take the question from the jury was refused, and the court left it to them; he was entitled to ask any instruction he thought fit, consistent with that action of the court, without losing the right to object to such action, and to avail himself of his exception formally taken to the refusal to instruct the jury that there was no actual and continued change of possession.
+The judgment should be reversed and a new trial ordered, costs to abide event.
+Beach, J., concurred.
+Yah Hoesen, J., dissented.
+Judgment reversed and new trial ordered, with costs to abide event.
