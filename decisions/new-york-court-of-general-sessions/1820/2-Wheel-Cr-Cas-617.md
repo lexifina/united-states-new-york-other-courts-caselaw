@@ -1,0 +1,30 @@
+---
+court: "New York Court of General Sessions"
+decided: "1820-09"
+citations: ["2 Wheel. Cr. Cas. 617"]
+reporter: "wheel-cr-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People v. John G. Scholtz and Daniel L. Scott."]
+source_url: "https://static.case.law/wheel-cr-cas/2/cases/0617-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1268365
+---
+
+# People v. Scholtz
+
+## Majority (By the Court.)
+
+By the Court.
+The defendant Scholtz was convicted by the verdict of a jury, on an indictment containing two counts, the first of which charges, that he and Scott intending unlawfully, fraudulently and deceitfully, to cheat and defraud one Miller, and unlawfully to obtain from him his property and moneys, viz. 200 dollars due to him on a pension granted by the" United States, did conspire to defraud, cheat, and from him (Miller) to obtain §200 as aforesaid, viz. the money due on the pension aforesaid, &c.
+The second count charges that Scholtz and Scott conspired and combined to defraud and cheat the president of the Branch Bank, viz. Isaac Lawrence, to obtain by fraudulent means, §200 due the said Miller, upon a pension granted to him by the government of the United States, &c.
+A motion is made by the prisoners’ counsel, in arrest of judgment, founded on the following objections to the indictment : T
+■ 1st. That the indictment does not state the means which the conspirators intended, or had agreed to adopt, to effect their object.
+2d. That it does not state that the defendants unlawr fully conspired.
+3d. That the indictment is fatally incorrect by the omission of the word “ him.”
+In support of the first objection, it is contended, by the defendants, that though it may be sufficient to state that the defendants conspired when the object of the com spiracy is in itself unlawful, yet where this is not the case, where the object to be effected may be lawful, then the indictment must show that the conspirators had agreed or intended to pursue unlawful means to effect they- end; anc[ t0 apply these principles to this case, it is contended, that the object of the conspiracy, as set forth in the indictment, was not necessarily unlawful, because it might not have been unlawful to obtain Miller’s $300.
+But the indictment states, that the defendants conspired and agreed to obtain the money by cheating him. To cheat and defraud a man of his money is certainly unlawful, and therefore I cannot think the principles advanced by the defendants’ counsel, however correct they may be, apply to this case.
+I forbear to reason on the subject farther, because I think the authorities which have been referred to, on the part of the prosecution, establish the validity of the indictment.
+•.In the note to 13 East, 231. we have the opinions of Lord Mansfield and Judge Buller, that it is sufficient to state the conspiracy and its object, and that it is not necessary that the means should be set forth. In that case (The King against Eccles and others) the defendants were indicted for conspiring, by indirect means, to prevent one H. B. from exercising the trade of a tailor. It was moved to arrest the judgment, because the indictment did not state the fact upon which the indictment was founded, or the means used, or intended to be used, for the purpose. The two great law characters I have mentioned, overruled the objection: Judge Buller saying it would have been sufficient that the defendants conspired for the purpose mentioned, without saying that they intended to effect it by indirect means. Now, if it be said that this decision was made on the ground that the object of the conspiracy was unlawful, viz. to prevent H. B. from exercising the trade of a tailor, it may be answered, that it did not follow, necessarily, that it was unlawful to do this, because, peradventure, he might have wanted the qualifications requisite, by the laws of England, to authorize him to follow that trade. At all events, it must be as unlawful to cheat and defraud a man of his money, as to endeavour or design to prevent' his exercising a particular trade.
+There are, in a variety of books of high authority, precedents which support the sufficiency of this indictment; among others, (3 Chitty, 1186. 1188. Starkie, 685.) In each of these cases, the indictment contains a general count of this nature.
+So, in an indictment against a person for being accessory to a felony, before the fact, it is not necessary to set forth the means, by which the accessory incited or aided the principal to commit the felony, or where the charge is against an accessory, after the fact, how the accessory comforted the felon, because, says the book, it was perfectly immaterial in what way the purpose of the one was effected, or the harbouring of the other secured; and, as the means are frequently of a complicated nature, it would lead to great inconvenience and perplexity, if they were always to be described upon the record. It is on this last ground that this case of conspiracy, and some others, are permitted to be exceptions to the. general rule that an indictment must not only charge the ubi quando, quid, &c. but the quo modo ; and if this exception was not admitted, as to conspiracies, it would, in most instances, be impossible to frame a good indictment. For if the means by which it was intended to effect fraud must be stated, it must be that all the means are to be fully and truly stated ; an omission or mis-statement, as to any particular and essential part, would be fatal. When it is considered how ingeniously complicated these fraudulent schemes are, it must be obvious how difficult it would be, in most cases, to set out truly, on the face of an indictment, all the contrivers may have intended. The testimony on -the trial afforded evidence of a combination of circumstances which the defendants had involved in their designs, that could not have been set out in an indictment with all legal .force and certainty, without a prolixity which would be highly inconvenient.—Indictment held sufficient.
