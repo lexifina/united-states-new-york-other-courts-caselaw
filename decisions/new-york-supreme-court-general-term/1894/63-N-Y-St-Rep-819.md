@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12-10"
+citations: ["63 N.Y. St. Rep. 819"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas L. Storm et al., as Trustees, etc., Resp’ts, v. New York and New England Railroad Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/63/cases/0819-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2101739
+---
+
+# Storm v. New York & New England Railroad
+
+## Majority (Brown, P. J.)
+
+Brown, P. J.
+This action was brought in equity to restrain the appellant from using its tracks across land claimed to be owned by the plaintiff, and to compel the removal of the same, and to recover damages for the trespass. In its answer the defendant prayed that, in case the complaint was not dismissed, the court would fix the amount which the plaintiff was entitled to recover for past and future damages, and direct that on payment thereof the plaintiff be decreed to deed to defendant the lands occupied by it, and which were the subject of the action. The case was brought to trial at special term, and the court found that the difference in the value of the land with and without the railroad was $1,500; and it awarded plaintiff judgment for that sum and costs, and provided that if it was not paid the plaintiff might bring an action of ejectment against defendant for the land. The appellant does not now dispute the plaintiff’s title, or claim that the damages are excessive. Its claim is that the court should have assessed the damages as for a trespass solely, and that the award of the value of the land taken was erroneous. The facts decided by the court were within the issue made by the pleadings, and if the proper judgment had been rendered the appellant would have no cause for complaint. The court has power, upon this appeal, to modify the judgment, and conform it to the facts proven, and this should now be done. The judgment should be modified so as to provide that, upon payment of the damages within 30 days after service of a feopy of the judgment, plaintiff convey to the defendant—by deed to be approved, as to form, by a justice of the court—the land occupied by it, and that, in case the damages are not paid within the time aforesaid, plaintiff have leave to maintain an action in ejectment to recover the land, and that, so modified, the judgment be affirmed, without costs of appeal.
+All concur.
