@@ -1,0 +1,43 @@
+---
+court: "New York Supreme Court"
+decided: "1879-11"
+citations: ["26 N.Y. Sup. Ct. 174"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Learned, P. J., Bocees and Boardman, JJ."]
+parties: ["THOMAS LANDERS, Respondent, v. THE WATERTOWN FIRE INSURANCE COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/26/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4456059
+cites_cases: ["14 N. Y., 79", "16 Pet., 495", "22 N. Y., 402", "45 N. Y., 463", "69 N. Y., 128"]
+---
+
+# Landers v. Watertown Fire Insurance
+
+## Majority (Learned, P. J.: Boardman, J.:)
+
+Learned, P. J.:
+We think it is plain that the paper called an application was not, in any respect, the plaintiff's act. It was not signed by him, nor authorized by him. So the jury must have found; and, indeed, they could not find otherwise. (Sprague v. Holland Purchase Ins. Co., 69 N. Y., 128; Vilas v. N. Y. Central Ins. Co. 72 id,, 590.)
+And, therefore, we do not see that this application constituted any part of the contract. It is true that the formal part of the policy refers to “ an application or survey bearing even date herewith, .and which is hereby referred to as forming a part of the-policy.”
+But the policy would be valid if there were no such application. (Clinton v. Hope Insurance Co., 45 N. Y., 463.) And this reference must, in the nature of the case, apply only to some paper-signed or authorized by the insured.
+It would be unjust to say that the company might make out and file away in their office something called an application, and hold the insurer bound by it, although he had never signed or authorized it.
+The insured had, therefore, a right to look upon the policy as-the contract. So far as that goes the only description of the property is, that it was “ his two story frame dwelling-house, Afton, N. Y.” This description would apply either to the building which was burned, the so called mill-house, or to the house where the plaintiff lived. It would not apply to the (so called) tenant-house.
+In fact, however, on the trial, the defendant was allowed to give evidence tending to show that it was the so called tenant-house which was insured; and the plaintiff also gave evidence tending to show that it was the so called mill-house. And the question was submitted to the jury to determine from the evidence which house was insured. We think, therefore, that the judge was right of refusing to nonsuit. And the jury have found for the plaintiff.
+The judge also submitted to the jury the question, whether Cannon was the plaintiff’s agent, and the jury must have found that he was not.
+The defendants insist further that the court erred in deciding that the previous policy in the Glen’s Falls Insurance Company had become void, and, therefore, that there was no double insurance. The policy in question contains the usual clause that if the insured should have any other insurance on the premises, not indorsed thereon, or consented to by the company, the policy should be void. And it was issued August 1, 1873. About May 1, 1871, the plaintiff had procured a policy on the mill-house from the Glen’s Falls Company to run for three years. In 1872, he put an engine and boiler in the mill-house, and subsequently made an addition to the mill, bringing it sqme thirteen feet nearer the house. The house had also remained vacant for several months. All of these matters were without the consent of the Glen’s Falls Company. The policy in the Glen’s’Falls Company contained the usual provision that, if the premises should become vacant, or the risk be increased by the erection of neighboring buildings, or by any means whatever, the policy should be void. We may then assume, for the present, that these acts of the plaintiff had rendered that policy void. The question then is, whether the plaintiff was bound to give notice of it to the defendants.
+In Bigler v. N. Y. C. Ins. Co. (22 N. Y., 402), this question is examined. In that case it was claimed that where a condition in a policy required notice of subsequent insurance, the policy was avoided by failure to give notice of a subsequent policy, although such subsequent policy was void; its invalidity, however, not appearing on its face. That case follows Carpenter v. Providence W. I. Co. (16 Pet., 495), in which the court intimate very, strongly that the stipulations in a policy, “as to notice of any prior and subsequent policies, were designed to apply to all cases of policies then existing in point of fact, without any inquiry as to their original validity and effect, or whether they might be void or voidable.”
+The Court of Appeals, in the case cited, reviews some cases in Massachusetts and other States which hold a different doctrine.
+In that case, the insurance claimed to operate as an avoidance, was a subsequent insurance. In the present, it is a prior insurance. But that circumstance can make no difference. The fact, however, did exist in that case that the insured had brought an action against the subsequent insurer, and the liability of that company had been acknowledged. So that the subsequent policy had been treated as valid. That circumstance does not exist in this case; but it is evident that the plaintiff considered the policy in force and valid.
+In the case in 16 Peters, the ground on which the other insurance was claimed to be void was, that it was obtained by misrepresentation. If this were so, then it was void ab initio, and was not merely rendered void by a subsequent act of the insured.
+But we see no reason to distinguish the present case from the case in the 16th of Peters, which was approved, as above, by the Court of Appeals.
+The plaintiff, when he received his policy from the defendants, had a policy, not expired, in the Glen’s Falls Company. If, by his acts, he had furnished that company with a good defence, it was not certain that they would avail themselves thereof. If the plaintiff had surrendered up his policy to the Glen’s Falls Company, the case would be different. But nothing of this kind appears. In fact, the plaintiff testified that, when Cannon first came to him to see about insuring, Cannon told him that his policy on the mill-house was about expired; and he said he believed the policy was in the Glen’s Falls, and he thought the company a good one, and thought it would be as well to put it there again. Evidently, therefore, the plaintiff did not suppose that his policy in the Glen’s Falls had become void. There was a mistake as to its having nearly expired. But there was no thought that it was not in force.
+This condition, that other insurance not consented to, shall make a policy void, must have a reasonable construction. The company has a light to know of the existence of other policies, if any are in existence. A company may well be unwilling to insure where other policies exist, on the . same property, to. an amount, perhaps, in excess of the value. And the company, when sued, is not to be required to try the defences which might be set up in the other policies.
+For these reasons, I think, the judgment should be reversed and a new trial granted, costs to abide event; but a majority of the court clo not agree with the latter part of this opinion, and the judgment is, therefore, affirmed, with costs.
+Boardman, J.:
+I must dissent from the view of brother Learned as to the effect of the old policy in Glen’s Falls company. By the terms of that policy ( §§ 75, 78), “if the insured shall hereafter make any other insurance on the property * * * without the consent of the company written hereon * * * then this policy shall be void.”
+When the policy in defendant’s company was taken out, the Glen’s Falls policy became void, but defendant’s policy was valid. (Mussey v. Allas Ins. Co., 14 N. Y., 79.)
+I am not clear that the principle established in Rowley v. Empire Insurance Company (4 Abb. Ct. of App. Dec., 131), does not also apply. The agent, Cannon, had full knowledge of the former insurance, and he was the duly authorized agent of the defendant to consent to it. Why should a company take advantage of a fact, known to its agent, to avoid its liability. The knowledge of the agent is its knowledge, and the consent of the agent to take the new policy, with such knowledge, ought, in fairness, to bind the company, the more so since the taking of the new policy is a legal abandonment of any claim under the old.
+I think the judgment should be affirmed, with costs.
+Present — Learned, P. J., Bocees and Boardman, JJ.
+Judgment and order affirmed, with costs.
