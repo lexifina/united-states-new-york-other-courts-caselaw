@@ -1,0 +1,37 @@
+---
+court: "New York City Court"
+decided: "1886-10"
+citations: ["19 Abb. N. Cas. 301"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PURCELL v. DALY."]
+source_url: "https://static.case.law/abbn-cas/19/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1957121
+cites_cases: ["51 N. Y. 246"]
+---
+
+# Purcell v. Daly
+
+## Majority (Monell, J.)
+
+Monell, J.
+This action is brought by the1 plaintiff, Michael Purcell, to recover from the defendant, August Daly, the sum of three dollars, the price paid by Leon Stedoker for two (2) reserved seats at Daly’s Theatre for the performance of March 23, 1885. The ticket of admission was sold to Barney Aaron, who purchased the same at the request and for the benefit of Stedoker. This ticket was subsequently sold by Stedoker to Bobert B. McUeany at an .advanced price, but when presented at the' gate or entrance to the auditorium it was not honored and admission refused.
+McFTeany then presented this ticket at the box office of the Theatre and demanded the return of the price paid for it, namely three dollars, which was refused.
+Stedeker then repaid to MoNeany the money paid to him for the ticket and in person presented the ticket at the box-office, and demanded the return of the amount paid for it. This second demand was also refused. Stedeker then assigned his claim to recover back the price of the tickets to the plaintiff.
+Augustin Daly is the proprietor of Daly’s Theatre, and Leon Stedeker is a speculator in theatre tickets duly licensed by the proper authorities. The defendant for some time past has endeavored to stop speculation in tickets of admission to his theatre, and to that end issues a peculiar form of ticket to persons applying for admission, and caused a notice to be conspicuously displayed in the vestibule of his theatre informing all persons that tickets purchased or sold on the sidewalk were worthless and that they would not be received at the door of the theatre, and requesting all parties to read the notification on each slip.
+This notification, which was printed on each slip or ticket, is to the effect that a ticket so issued is a simple license and is issued to the party applying for the same by name and is not transferable and will be refused at the door if sold or purchased on the sidewalk.
+At the time of the purchase of the. ticket in question by .Aaron or Stedeker the latter was aware of the notification contained on the face of the ticket, and was also aware of the sign displayed in the vestibule of the theatre prohibiting speculation in tickets of the theatre.
+[Neither Aaron nor Stedeker ever .presented the ticket in question at the gate of the theatre, nor was admission ever refused them personally on the ticket.
+From the foregoing summary of the evidence presented to the court it is impossible to see that Stedeker sustained any damage at the hands of the defendant, and consequently nothing passed to the plaintiff in this action by the assignment from Stedeker to him. The theatre is owned by the defendant; is private property ; and is governed, so far as the public is concerned, by such rules and regulations as the defendant may see tit to make. It is in no sense a public enterprise, and is consequently not governed by the same rules which relate to common carriers or other public institutions of a like character.
+The proprietor of a theatre is under no obligation to the public to give any performance therein. lie has no duties to perform with which the public are in any legal sense concerned or with which the public have any right to interfere. It is true that he pays a license for the privilege of giving theatrical exhibitions, but this in no way changes the character of the institution from a private to a public one.
+He may shut up his theatre, or he may use the theatre property for other purposes than theatrical entertainments, in which case he is under no obligation to pay a license. It is only when he uses his property for that purpose that a license fee is exacted.
+If the proprietor of a theatre sees fit to discontinue performances the public can not complain. This being so, the proprietor of a theatre has a perfect right to say who he will or will not admit to his theatre, and should any one apply at the box-ofiico of a theatre and desire to purchase tickets of admission and be refused, there can be no question that he would have no cause of action against the proprietor of the theatre for such refusal. And in the same way, if tickets are sold to a person the proprietor may still refuse admission, in which case the proprietor would be compelled to refund only the. price paid for the tickets of admission, together with such other expense as the party might have been put to, but which expense must be directly connected with the issuing of the ticket of admission. For he could not accept money for the right of admission to his theatre and then, upon refusing that admission, seek to retain possession of the price paid for the privilege. A theatre ticket is simply a license to the party presenting the same to witness a. performance to be given at a certain time, and being a license personal in its character can be revoked (Mendenhall v. Klinck, 51 N. Y. 246 ; Wood v. Leadbitter, 13 Mees. & W. 838).
+It is unnecessary to discuss the question whether a person to whom tickets of admission to a theatre are issued has the right to transfer thorn to a third ■ party, as under the peculiar form of ticket in the present case this point is not at issue. The ticket in question was issued to Barney Aaron acting for Leon Stcdeker and entitled him or possibly Stedeker to two admissions to the theatre, and contained a statement that it was a personal license, and was not trairsferrable. The ticket itself does not form a contract as it is not signed by either party and consequently can only be received as evidence of the oral contract made between the defendant and Aaron or Stedeker. The contract is in effect as though Aaron or Stedeker had applied for admission to Daly’s theatre, and Daly had said, I will sell yon the right of admission for two persons (for yourself and another) to my theatre, but you must not transfer the ticket to any body else for I will not receive the same if it is so transferred.
+That is the gist of the contract made between the parties, and as admission was not refused either to Aaron or Stedeker to witness the performance on the night for which the ticket was issued, no breach of contract on the part of the defendant occurred. There was no agreement on the part of the defendant to refund the money in case the ticket so issued was not used, and hence under any aspect of the case, the only liability on the part of the defendant would have resulted from his refusing admission to the theatre to the person to whom the ticket was issued, and as this was not done, there should be judgment for the defendant dismissing the complaint.
+II. Common Pleas, November, 1886.
+From the judgment of the District Court dismissing the complaint, the plaintiff appealed.
+Daniel P. Mahony, for the plaintiff, appellant.:
+Richard M. Henry, for the defendant, respondent, i
+The General Term (Larremore, Ch. J., VanHoesen and Bookstaver, JJ.) affirmed the judgment,' all concurring, upon the opinion of the court below.
