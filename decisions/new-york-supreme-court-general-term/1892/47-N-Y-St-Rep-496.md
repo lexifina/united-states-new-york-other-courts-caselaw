@@ -1,0 +1,42 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-07-22"
+citations: ["47 N.Y. St. Rep. 496"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Williamsburgh Savings Bank, Resp’t, v. The Town of Solon, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/47/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2086975
+cites_cases: ["114 N. Y., 122", "23 St. Rep., 138", "35 Hun, 1", "47 Hun, 632", "66 N. Y., 18", "67 N. Y., 162"]
+---
+
+# Williamsburgh Savings Bank v. Town of Solon
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+—This is an action based upon certain coupons detached from bonds of the town of Solon, made and issued in obedience to the provisions of chapter 907 of the Laws of 1869.
+The bonds were executed in aid of the Utica, Chenango & Cortland Railroad Company, and delivered to that corporation in exchange for its stock. They were dated September 1, 1870, and the plaintiff became the owner of several of them, amounting in value to $16,000, in the year 1875.
+When the cause came on at the circuit, the counsel for the parties stipulated that the trial should be had before the judge without a jury, and be disposed of at the conclusion of the evidence as though a jury was present, and that a verdict should be directed by the court.
+That stipulation was equivalent to a request by both parties for a direction of a verdict, and, under well settled principles, constituted and amounted to an admission that only questions of law were involved, and that there were no disputed or controverted questions of fact in the case.
+At the close of the trial the court directed a verdict in favor of the plaintiff for $8,960 for the principal or face of the coupons, and $4,244:52 for interest thereon, making the total amount of the verdict $13,204.52.
+From the judgment entered upon that verdict the defendant appealed to the general term, but there was no motion for a new trial upon the minutes of the court, no order denying such motion, and no appeal from any such order.
+It is thus rendered plain that this appeal involves the examination of questions of law only.
+The interest upon all the bonds was paid from the time of their issuance until the year 1877, and in June, 1881, an action in equity was commenced by the town of Solon against the Williamsburgh Savings Bank to procure the nullification and cancellation and surrender of the bonds held by it. That action proceeded upon substantially the same grounds as the defense to this, and it was tried at the special term and decided in favor of the plaintiff.
+From the judgment entered upon that decision in February, 1883, the defendant appealed to the general term in the fourth department, and the judgment was reversed, and a new trial was granted. The order for that new trial was entered in January, 1885.
+In the able and exhaustive opinion of the court upon that appeal prepared by Judge Follett, all the questions were fully examined and decided adversely to the contention of the town. Town of Solon v. The Williamsburgh Savings Bank, 35 Hun, 1.
+Then the cause was retried and decided in favor of the bank, and from that judgment the town appealed to the general term, where the judgment was affirmed upon the opinion of Judge Follett, delivered on the former appeal. 47 Hun, 632.
+The town appealed to the court of appeals, where the judgment was affirmed. 114 N. Y., 122; 23 St. Rep., 138.
+There again the questions were fully examined and decided in favor of the bank, and the opinion 'of the court prepared by Judge Bradley leaves nothing requiring further consideration, and the two opinions referred to are decisive of this appeal.
+A new examination could only proceed upon the same lines, and over the same ground, and is therefore unnecessary.
+The force and effect of those opinions will not be augmented by the contribution of our approval, but they have our concurrence, and we consider them conclusive.
+The point respecting the interest upon the coupons was not and could not be examined in the former cases, and therefore requires our determination.
+The question is by no means free from embarrassment. The coupons are alike, except in their time of payment, and this is their form": “ $17.50. The town of Solon will pay to bearer at the National Park Bank of New York, seventeen 50-100 dollars on the first day of September, 1889, being six months interest on bond No. —.”
+It appears therefore distinctly upon the face' of the instruments that they are for the payment of interest, and it is now settled law in this state that compound interest can only be recovered upon some new and independent agreement for its payment. Young v. Hill, 67 N. Y., 162.
+At the same time it is to be conceded that these instruments partake largely of the character of commercial paper. They are promises to pay money at a specified time and place to the bearer, and are therefore negotiable and transferable by delivery.
+Such instruments have been held to be promissory notes, although detached from the bonds to which they refer. Evertson v. National Bank of Newport, 66 N. Y., 18.
+We have concluded, therefore, to affirm the judgment upon this point also and allow the question to be presented to the court of appeals for determination with the others.
+The judgment should be affirmed, with costs.
+Barnard, P. J., and Cullen, J., concur.
