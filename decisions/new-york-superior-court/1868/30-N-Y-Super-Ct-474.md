@@ -1,0 +1,20 @@
+---
+court: "New York Superior Court"
+decided: "1868-11"
+citations: ["7 Rob. 474", "30 N.Y. Super. Ct. 474"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charlotte Hoffman, plaintiff, vs. Edward Hoffman, defendant."]
+source_url: "https://static.case.law/ny-super-ct/30/cases/0474-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1393267
+---
+
+# Hoffman v. Hoffman
+
+## Majority (Barbour, J.)
+
+Barbour, J.
+This is an application, on the part of the plaintiff, in a suit for divorce on the ground of adultery, for an order requiring the' defendant to pay to her an allowance for her support, and the expenses of the action during the litigation. The papers show that each of the parties is a professional musical artist, and has been in the habit of performing at concerts, giving'lessons, &c. and receiving and appropriating the proceeds thereof to his or her individual use. Up to about a year ago, the husband seems to have contributed somewhat to the support of the wife, but since that time she has sustained herself out of previous earnings and accumulations. She is now entirely unemployed, professionally, and is rat present unable to obtain an engagement; while the husband is earning some $1200 per year, or more. But the wife has money and property to the amount of several hundred dollars, and the husband has nothing except his earnings, as they accrue from week to. week.
+In a suit for divorce, upon the ground of adultery, brought by the husband against the wife, where an answer has been put in denying the adultery, on oath, it is usual to direct an allowance, during, the controversy, to be paid to the defendant, for her support and expenses, unless she has herself a sufficient income for that purpose. The poverty of the husband is no defense, in such a case, upon an application for an allowance; for, as it is his duty to protect and defend the character and rights of his wife, when unjustly assailed, a court of equity will not aid him in attacking ■ them himself in an action for a divorce, unless he shall furnish her with the means necessary for her defense. But that reason is not applicable in a suit brought by the wife, and, therefore, the practice, in such cases, is somewhat different. If the "adultery is prima facie established upon the application, and it appears that the parties occupy such a position in life that it is the duty of the husband, wholly or partially, to support his wife out of his income or earnings, he will be compelled to pay to her a suitable allowance for that purpose during the progress of the suit; if she has no income of her own. I see no reason, however, particularly since ■ the passage of the recent acts, by which a married woman’s earnings and property are secured to herself, so that the husband cannot appropriate them, why a wife, who is a professional musician, and has been in the habit of earning enough in her vocation to support herself, and is still able to do so, can be entitled, in such an action as this, to an allowance from a husband who is in a precisely similar condition. But it appears here that the plaintiff is rapidly consuming, for her necessary support, the small sum she has been able to accumulate from her former earnings, and is now wholly unable to obtain employment, and that the defendant is earning more than is necessary for his own subsistence. It seems just, therefore, that he should be required to contribute for the support of his wife, and the payment of her expenses, a reasonable sum out of his earnings. An order will be entered, directing him to pay to his wife, or to her attorney, $50 towards her expense's of the litigation, within five days from the service of the order, and $10 per week for her support during the pendency of the action; with liberty to the defendant, however, to move to lessen or withdraw the allowance upon proof that the plaintiff is earning, or, with proper exertions, is able to earn, in her vocation enough to support herself, entirely or in part.
