@@ -1,0 +1,28 @@
+---
+court: "New York Court of Chancery"
+decided: "1836-10-04"
+citations: ["2 Edw. Ch. 625"]
+reporter: "edw-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the matter of the Receivers of the Globe Insurance Company. On the petition of Braine and others."]
+source_url: "https://static.case.law/edw-ch/2/cases/0625-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1986617
+cites_cases: ["8 Wend. 115"]
+---
+
+# In re the Receivers of Globe Insurance
+
+## Majority (The Vice-Chancellor:)
+
+The Vice-Chancellor:
+As between the company and the assured, there would be a clear right of set-off at law. In a suit upon the bond by the Globe Insurance Company, the petitioners might avail themselves of the present statutory provisions on the subject of set-off; and claim that the loss which had accrued upon the policy should be deducted from the bond and the balance only considered the debt due from them.
+There are here all the requisites of a set-off:—a demand arising upon contract—due to all the petitioners jointly in their own right—liquidated or capable of being ascertained by calculation—and existing and belonging to them at the time of commencing the suit, provided a suit should be now commenced, and the suit thus commenced being for a demand of such a nature, namely, the bond debt, which could itself be the subject of a set-off: 2 R. S. 354.
+The question then is: whether the insolvency of the Globe Insurance Company and the placing of all its property and effects in the hands of receivers, for the benefit of creditors, has taken away the right of set-off"?
+There is nothing in the various provisions of the statute, in relation to the dissolution of insolvent corporations and the duties of receivers, which can have such an effect. On the contrary, the right of set-off is recognized, while, at the same time, the principle of an equitable distribution among creditors of the assets of insolvent corporations, like those of insolvent and absconding debtors under the statute, is adhered to and declared.
+By the act of the last session, passed 18 January, 1836, and by virtue of which act the present receivers of the Globe Insurance Company were appointed, it is declared that receivers shall have all the powers and authority conferred and be subject to all the obligations and duties imposed upon receivers under any law of this state; and byr turning to the general law, in relation' to receivers of insolvent corpo-' rations, we find, with respect to their powers and authority and the duties and obligations imposed upon them, that they are placed upon the same footing as assignees or trustees of the estates of insolvent debtors: 2 R. S. 464, § 42 ; Ib. 469, 470, § 68, 72, 73, 74. And by recurring to those powers and duties, it will be seen that, in the enumeration of them and particularly in declaring that such trustees shall have power to sue in their own names, the right of set-off in the party sued is expressly provided for, taking care to restrict it to debts owing before public notice of the appointment of the trustees or of the commencement of proceedings by which they become by relation vested with the estate : 2 R. S. 41, § 7; and where mutual credit has been given by any debtor and any other person or mutual debts have subsisted between such debtor and any other person, the trustees are expressly authorized, without any suit or action being instituted, to set off such credits or debts and to pay the proportion or receive the balance due : 2 Ib. 47, § 36.
+A similar provision is contained in the English Bankrupt Law in cases of mutual debts or where mutual credits have been given, and it is the common practice to allow set-offs there—taking the balance as the debt really due which the debtor of the bankrupt pays to the assignees or, when the bankrupt is the debtor, upon which the creditor receives his dividend equally with other creditors.
+When rightly considered, there is nothing in all this that can militate against the principle of equality being equity among the creditors of a bankrupt or insolvent estate: for where parties have had dealings so as to produce mutual debts or credits or reciprocal demands growing out of the same transaction, it is the balance only which exists as the debt: Reab v. Mc Alister, 8 Wend. 115; and a set-off in such case is not a means of paying one debt in preference to other debts which the bankrupt or insolvent owes ; for, to the extent of the demands set-off or compensated, there was no debt—from the moment they were contracted, they extinguished each other. Hence, the operation of a set-off is, not to pay, but to ascertain a debt made up of the difference between the amounts of respective debits and credits.
+The case under consideration may be regarded as one of mutual credit; and the respective demands as arising out of the same transaction. The Insurance Company lends its money upon the security of a bond and mortgage ; and, at the same time, they agree to insure the building. Now, insurance companies generally make it a condition upon which they consent to lend their money on bond and mortgage that the borrower shall effect an insurance with them; and if not an express, there is, certainly, an implied understanding that the loss, if any, upon the policy, shall go towards extinguishing the bond debt.
+A court of equity will go as far as a court of law in enforcing such an understanding; and for these reasons, I am of opinion the receivers are bound to allow the set-off" claimed by the petitioners.
