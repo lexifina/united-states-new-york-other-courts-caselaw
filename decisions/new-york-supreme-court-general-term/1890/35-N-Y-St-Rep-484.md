@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-12-29"
+citations: ["35 N.Y. St. Rep. 484", "12 N.Y.S. 356"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Theodore C. Boyd, Resp’t, v. Angus J. McDonald, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/35/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 673764
+---
+
+# Boyd v. McDonald
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+The complaint alleges the incorporation of the California Land & Timber Company, under the Laws of California, with a capital stock of $1,000,000, divided into 10,000 shares, and that at the time the debt therein set forth was incurred 6,000 shares of capital stock had been subscribed, and no more; that at the time said debt was contracted the defendant "was the owner and holder, and there stood in his name upon the books of the corporation 400 shares of the capital stock of the corporation; that on said date the said corporation duly made and executed to one Davidson its promissory note, payable thirty days after date, for $10,000, and at the time of the making of said note one James T. Boyd was the president and H. I. ISTation was the secretary of said company, they being the parties who executed the note on its behalf; and that in March, 1888, said Davidson for a good and valuable consideration, assigned, transferred and delivered the promissory note in question to the plaintiff, who thereupon became and still is the lawful owner and holder thereof. The complaint then sets up § 322 of the Civil Code of the state of California, which provides that the stockholders of a corporation shall be individually and personally liable for such proportion of its debts and liabilities as the amount of the stock owned by him bears to the whole subscribed capital stock of the corporation.
+Then follows the allegation that the note had not been paid, and a demand of judgment against the defendant for the sum of $666.66.
+The defendant by his answer admits the incorporation of the California Land & Timber Co., but for want of knowledge and information denies the allegations as to the issuance of the stock. He admits that at the time the alleged debt or liability is stated to have been incurred he was the owner of 400 shares of the capital stock of said company. The balance of the complaint he denies.
+By the tenth paragraph of his answer and for a further and separate defense he alleges that said James T. Boyd, on or about the 23d of March, 1888, paid this note to Helena Davidson and that in order that the alleged claim of said Davidson might be kept alive against the company or its stockholders or both, for the benefit of said James T. Boyd, said .obligation was transferred nominally by said Davidson to the plaintiff, James T. Boyd's brother; and the answer alleged that the real party in interest was the said James T. Boyd.
+By the eleventh' paragraph of the answer the defendant for a further and separate defense by way of counterclaim alleged upon information and belief certain representations made by the agent of James/T. Boyd and the other directors of the company to the defendant to induce the purchase of certain shares of stock,-which representations were false, and that the defendant, relying thereon, purchased the stock and was damaged to a large amount
+The plaintiff demurred to the defense set up in the tenth paragraph upon the ground that it was insufficient in law upon the face thereof; and to the eleventh paragraph upon the grounds, first, that the alleged counterclaim is not of the character specified'in § 501 of the Code, or one that is available 'to the defendant, and, second, that the said counterclaim does not state facts sufficient to constitute a cause of action.
+Upon the hearing of this demurrer by the court. below the demurrer to the tenth paragraph was overruled and the demurrer to the defense by way of counterclaim in the eleventh paragraph of the answer was sustained, and from the interlocutory judgment thereupon entered this appeal is taken.
+The whole argument of the appellant to sustain his appeal rests upon some supposed allegation contained in the counterclaim that this action was being prosecuted for the benefit of James T. Boyd • and that the question as to the validity of the counterclaim was to be treated in the same manner as though James T. Boyd was the plaintiff in the action.
+We have examined the counterclaim in vain to find any such allegation. It is true that it is alleged in the tenth paragraph that James T. Boyd is the real party in interest. But that allegation relates only to the defense set up in that answer, namely, the defense of payment. When we come to the counterclaim we find no such allegation. It is a familiar rule of pleading that a defendant may set forth in his answer as many defenses or'counterclaims as he chooses; but it is equally well settled that each defense or counterclaim must be separately stated and numbered, § 507, Code Civil Procedure, and, therefore, each defense and counterclaim must be complete in itself and allegations contained in another part of the answer not referred to in the counterclaim cannot avail to help out the pleading.
+In the case at bar the counterclaim contains no allegations of any relations between James T. Boyd and the plaintiff. It contains no reference to any allegations contained in the separate answer wherein it is alleged that James T. Boyd was the real party in interest. Under such circumstances the allegations in the counterclaim utterly failed to state any cause of action which the defendant might avail himself of either as a counterclaim or set-off.
+Under this condition of the pleadings it is clear that the demurrer was well taken, and although the decision in the court below did not proceed upon this ground, yet still it seems to be apparent; and it is not necessary to discuss the other questions raised as long as this defect exists.
+The judgment should be affirmed, with costs, with leave to defendant to amend the answer in respect to the counterclaim upon payment of costs of the appeal and of the court below.
+Brady and Daniels, JJ., concur.
