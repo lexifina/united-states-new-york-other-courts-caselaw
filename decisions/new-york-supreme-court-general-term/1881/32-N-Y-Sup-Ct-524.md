@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1881-11"
+citations: ["32 N.Y. Sup. Ct. 524"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Learned, P. J., Bockes and Boardman, JJ."]
+parties: ["THE PEOPLE OF THE STATE OF NEW YORK ex. rel. MARIA TUTHILL v. WILLIAM F. RUSSELL, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/32/cases/0524-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1919137
+cites_cases: ["10 Met., 309", "129 Mass., 143", "15 N. Y., 405", "24 Wend., 35", "35 N. Y., 256", "4 Hill, 522", "4 Hill, 529", "5 Allen, 409", "58 N. Y., 315", "72 N. Y., 300", "81 N. Y., 573"]
+---
+
+# People ex. rel. Tuthill v. Russell
+
+## Majority (Learned, P. J.:)
+
+Learned, P. J.:
+This is an action against the surety on a sheriff’s official bond, and the question is whether a judgment recovered against the sheriff for a false return is evidence against the surety, of a breach of the bond. The condition of the bond, as usual, is that the principal “ shall well and faithfully, in all things, perform and execute the office of sheriff.” And therefore we must inquire whether the judgment is evidence, as against this defendant, that the sheriff did not faithfully perform his office. .
+. Now it must be noticed that the obligation of this surety is in its form quite different from that of a surety on an administrator’s bond. In such a bond ■ the surety undertakes that the principal, among other things, “ shall obey all orders of such surrogate touching the estate.” When, then, an order of the surrogate has been made, the surety has undertaken that the principal shall obey iff Therefore the production of the order on the trial of the action against the surety shows a breach of the bond. And this is conclusive against the surety unless he show fraud or collusion. He has agreed that the principal shall obey the surrogate’s order; the surrogate, as a matter of fact, has ordered the principal to pay such moneys; therefore the surety is liable. The judgment proves, not the fact of the principal’s misconduct, but the fact that the surrogate has made a certain order, i. e., rem, ipsam. (Gerould v. Wilson, 81 N. Y., 573; Casoni v. Jerome, 58 N. Y., 315.) This is evidently what the court mean in that last case, where they say that, by his contract, the surety has made himself privy to the proceedings against the principal. In other words, the surety has agreed that the principal shall obey the judgment. (See, in illustration, Douglass v. Howland, 24 Wend., 35; Jackson v. Griswold, 4 Hill, 522; Annett v. Terry, 35 N. Y., 256.)
+It is on the same principle that sureties on an injunction undertaking are concluded by the assessment of damages against' the principal, unless they show fraud or collusion. (Jordan v. Volkenning, 72 N. Y., 300.) For the surety undertakes to pay the damages’ which may be recovered by the party enjoined. (Code Civ; Pro., 611.) Hence, proof that the party enjoined has in fact recovered so much makes the surety liable.
+It is not that, in either of these classes of cases, the surety is a privy to the judgment, and is for that reason bound thereby. He is not a privy in estate, blood or law. (1 Greenl. Ev., § 189.) But he has agreed to pay the judgment or the order; and therefore the judgment or order shows his liability. As if the surety had given a bond to pay all promissory notes made by his principal, the production ol a note would show his liability; because, as a matter of fact, it was the thing he had agreed to pay; not because he was a privy to the note, in accurate language.
+But the surety on the sheriff’s official bond has not agreed that his principal shall pay any specific judgment, or that his principal shall pay any judgment whatever. And hence the production of the judgment shows no liability. He has agreed that the principal shall faithfully perform his office. But the judgment against the plaintiff does not, as against the surety, show that the sheriff did. not so perform. The surety was a stranger to that judgment, and on well settled principles it is no evidence for or against him. This is so held in Douglass v. Howland (ut supra, 53, etc.); and again in Jackson v. Griswold (4 Hill, 529).
+In Thomas v. Hubbell (15 N. Y., 405) the sheriff sued his deputy and the sureties of the deputy for misconduct of the deputy. A previous action had been brought against the sheriff for the misconduct of the deputy, of which action the deputy had notice. This previous action, therefore, was conclusive against the deputy, and the subsequent action stood practically as if a judgment had been recovered against the deputy for his misconduct. But it was held that a judgment against the sheriff (which was, as above stated, conclusive against the deputy) was not evidence against the sureties. That case is closely analogous with the one- under consideration. It was again before the court in 35 New York, 120, and no dissent was expressed from these views. We think the rule is settled by authority and sound in principle.
+A different rule is laid down in Massachusetts (Lowell v. Parker, 10 Met., 309; Tracy v. Goodwin, 5 Allen, 409, and'adhered to in Dennie v. Smith, 129 Mass., 143); and also, it is said, in Pennsylvania. The Massachusetts case admits the question to have been held differently by different courts, and there is no reasoning there which shakes the doctrine of Thomas v. Hubbell {ut supra). The appellant urges that the judgment was prima facie evidence, even if' not conclusive. But that was not the doctrine of the case just cited. And indeed if the defendant is properly a privy to the judgment it would be conclusive, unless it were shown to have been obtained by fraud or collusion. If he is not a privy, then it is not prima, facie evidence of the sheriff’s misconduct.
+Motion for new trial denied, and judgment ordered for defendant on nonsuit.
+Present — Learned, P. J., Bockes and Boardman, JJ.
+So ordered.
