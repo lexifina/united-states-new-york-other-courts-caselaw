@@ -1,0 +1,31 @@
+---
+court: "New York Surrogate's Court"
+decided: "1916-07-10"
+citations: ["17 Mills Surr. 465"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["New York Life Insurance and Trust Company, as trustee of Certain Trusts Created by the Last Will and Testament of Joseph E. Bulkley, Deceased, Respondent, v. Edmund B. Wells and Others, Appellants, Impleaded with George A. Wells and Others, Defendants, and Thomas D. Entz and Others, Respondents."]
+source_url: "https://static.case.law/mills-surr/17/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1095864
+---
+
+# New York Life Insurance & Trust Co. v. Wells
+
+## Majority (Page, J.—)
+
+Page, J.—
+Joseph E. Bulkley died in 1879, leaving a will, in which he made the following distribution of his residuary estate:
+“ Eighth. As soon after my death as practicable, I authorize and direct my Executors, the survivors and survivor of them to allot divide and distribute all the rest residue and remainder of my estate or so much thereof as can then under the provisions of this my will be lawfully divided and distributed to and between my children Edmund W. Bulkley, Justus L. Bulkley, Josephine Barnes, wife of Theodore M. Barnes, Mary Entz, wife of Ferdinand Entz, Marguerite Bulkley and my stepdaughter Elizabeth Wells wife of George A. Wells, their heirs, executors, administrators and assigns in equal shares and proportions, that is; one-sixth share to each — The shares or portions of my two sons to be paid them in cash and the shares or portions of my daughters and of my step-daughter to be retained by my Executors whom or such- of them as shall act, I hereby constitute and appoint Trustees for my said daughters and step-daughter respectively, to be invested by them in their names as such Trustees in first class productive securities — the interest and income from such investments to be paid over to my said daughters and step-daughter respectively during their natural lives as and when received by said Trustees. On the decease of each of my said daughters and of my step-daughter I give devise and bequeath the principal so set apart for the share of such daughter or step-daughter dying to the issue and descendants of the one so dying.
+“ In the event of the death of any or either of my said children or of my said step-daughter without leaving lawful issue or descendants, then I give devise and bequeath the same to the survivor or survivors of my said children and step-daughter their respective heirs and assigns; so to be divided and distributed between them that in all cases the children of a deceased child or step-daughter shall take only the share the parent would have taken or been entitled to if living.”
+One son, Edmund W. Bulkley, died before his father, leaving no issue.
+One daughter, Josephine Barnes, died in April, 1915, leaving two unmarried children and no issue of any deceased child. Her share was divided between her two children. The stepdaughter, Elizabeth L. Wells, died in July, 1915, leaving four children, the defendants Edmund B. Wells, George A. Wells, Mary L. Keyes and Elizabeth M. Warburton, and four grandchildren, the defendants Edgar Lawrence Keyes, George A. Wells, Jr., Helen Wells and Frank Wells Warburton. The defendant Edmund B. Wells is unmarried.
+The immediate question upon which the trustee asked instructions is whether the share of Elizabeth L. Wells now goes by representation to her four children, or whether it goes to her four children and her four grandchildren per capita,. If it is to be divided between the children of Elizabeth L. Wells each would take one-fourth of her share. If per capita, her grandchildren share equally with their living parents and their uncle Edmund B. Wells, each taking one-eighth.
+The judge at Special Term adopted the latter construction. In this I am of opinion he was clearly wrong. An examination of the entire will shows that it was the testator’s intention to make an equality of distribution between his children, treating his stepdaughter, Elizabeth L. Wells as a child. In the 5th clause of the will it is provided:
+“ The said principal sum of One hundred thousand dollars, I give and bequeath on the death of my said wife to my children and to my step-daughter hereinafter named in equal shares to be divided and distributed to and among them in the same manner as hereinafter in the Eighth clause of this my Will directed as to the residue of my estate.”
+And in the 6th clause, upon the death of the life tenant a similar provision is made for the distribution of the bequest provided for in that clause, and in the last portion of the 8th clause recited above, the share of any of his children or his stepdaughter who shall die without leaving lawful issue or descendants, provides that such share is to be divided and distributed between them; that in all cases the children of the deceased child or stepdaughter shall take only the share the parent would have taken or been entitled to if living, and in my opinion the use of the words “ issue ” and “ descendants ” of the one so dying used in the former portion of the 8th clause shows the intention of the testator to distribute the share to the children of the one so dying, or in case of the death of the child leaving issue to the descendants of such child the proportion that the parent would have taken, and, therefore, that the interlocutory judgment should be reversed and the contrary findings should be reversed.
+The two surviving daughters of the testator, Mary L. Entz and Marguerite Bulkley Reed and the children and grandchildren of Mrs. Entz have been made parties and a construction of the will is desired by the trustees as to the distribution of their share in case of their death. This has been disposed of in the foregoing considerations,' and distribution should be made in the same manner as stated for the distribution of the share of Elizabeth L. Wells.
+Settle findings and decree in accordance herewith.
+Clarke, P. J., McLaughlin, Scott and Smith, JJ., concurred.
+Interlocutory judgment reversed and judgment directed as stated in opinion. Order to be settled on notice.
