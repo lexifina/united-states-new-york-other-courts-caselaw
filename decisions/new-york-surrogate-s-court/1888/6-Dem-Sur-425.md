@@ -1,0 +1,26 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-06"
+citations: ["6 Dem. Sur. 425"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of Whelan. In the matter of the estate of Patrick Whelan, deceased."]
+source_url: "https://static.case.law/dem-sur/6/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1144425
+---
+
+# In re Whelan
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+This is an application by proponent to charge the contestant personally with the costs of the contest. I am afforded the opportunity to give formal expression of my views on the subject of contests forced upon the proponents of wills by disappointed next-of-kin, who, in virtue of our very liberal statute, may without the shadow of just cause, compel the beneficiaries under the will to suffer unavoidable delay and expense, whilst a contestant indulges in a fishing expedition.
+The practice of filing objections to wills without real cause for believing that the decedent was incapable, or was the victim of fraud and undue influence, is most reprehensible. In many cases, I think the majority, objections are filed and withdrawn at once the subscribing witnesses are examined; and in the case now under consideration, it seems by the affidavit of the attorney for the contestant, they were withdrawn without even notifying the proponent’s attorney, whose proceedings were therefore further delayed and additional expense incurred.
+The simple inspection of any paper propounded for probate as the last will of a decedent will inform the persons interested or their attorneys whether the formalities required by law have been complied with. No contest "need, be instituted for that purpose; and if it is, it is not in good faith. So, also, the persons interested may gain perfect information of the facts within the knowledge of the subscribing witnesses by attending before the probate clerk and taking part in their examination. A contest in court is not needed for that purpose, and if instituted it is not in good faith.
+Good faith means much more than simple freedom from any intent to wilfully block the expeditious probate of the paper propounded or to hinder and delay the proceeding for the purpose of forcing some recognition of fancied rights, or to grope about with a wavering hope that something may turn up which shall be of advantage. The means afforded by our statutes and practice are ample to afford all persons complete information upon which to base a contest by such inquiries as can be made before the probate clerk.
+Good faith means not only an earnest, honest belief in the justice of one’s claim, but also in the respects now under consideration, I hold it to be the conscientious exercise of reasonable business judgment which ' should induce the party to avoid needless delay and expense by taking advantage of his opportunity and the right given him by law to attend on the return of the citation and obtain leave to cross-examine the subscribing witnesses.
+On the affidavit of the contestant’s attorney in this proceeding one fact is made very plain, to wit: that he had no facts, absolutely none, on which to found a contest, and his only hope was evidently grounded upon some notion that delay and expense might in some way benefit him, or that the subscribing witnesses, either or both, might turn out to bé forgetful or fraudulent persons. He surely could not have expected to sustain his objections by them unless they were one or both. A contest was not proper or necessary to develop any such expectation or suspicion. In one hour or less before the probate clerk, who is an assistant to the Surrogate, and authorized to take the testimony and in duty bound to report it to him in all cases, any fact justifying such expectations or suspicion could have been made plain. Instead of taking this course the contestant has compelled by his objections long delay and considerable labor thrust upon the proponents and upon the court, all of which ought to have been avoided.
+If the contestant in this proceeding—and I believe such would be the fact in the majority of all similar proceedings—had acted in good faith, as I have defined that expression, this will would have been admitted to probate on the return day of the citation. Nothing has been done by the contestant since that might not have been done then.
+The law gives the Surrogate the power and makes it his duty to impose the costs upon the estate or fund, or upon the party personally, as justice requires (Code, § 2557). In this proceeding I have no doubt that justice requires the contestant i to pay the costs, and I so decide. In all cases of contest I shall hold the contestants strictly to the doctrine laid down here, and in all cases applicable I shall charge the entire costs upon them.
