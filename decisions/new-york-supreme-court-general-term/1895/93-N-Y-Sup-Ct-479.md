@@ -1,0 +1,57 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-04"
+citations: ["93 N.Y. Sup. Ct. 479"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Martin and Merwin, JJ. concurred."]
+parties: ["William Youmans, Respondent, v. George H. Paine and Another, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/93/cases/0479-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4776132
+cites_cases: ["12 Am. St. Rep. 583", "121 N. Y. 461", "132 N. Y. 181", "134 N. Y. 561", "135 N. Y. 354", "138 N. Y. 517", "148 Mass. 513", "46 Hun, 1", "60 Hun, 319", "62 Barb. 256", "69 Hun, 613", "83 Hun, 220", "9 Wkly. Dig. 181"]
+---
+
+# Youmans v. Paine
+
+## Majority (Hardin, P. J.: Eorbes, J.:)
+
+Hardin, P. J.:
+Upon a former appeal from a nonsuit granted in this case, this court granted a reversal of the judgment then entered upon the non-suit, and ordered a new trial (69 Hun, 613). Upon the second trial a verdict was rendered for the plaintiff. Since the trial the learned judge wlio presided at the Circuit, upon hearing a motion made by the defendants for a new trial on the case and exceptions, delivered an elaborate opinion discussing the various questions arising in the case, and I am inclined to advise an affirmance upon the opinion so delivered by the trial judge. (See, also, Griebel v. Rochester Printing Company, 60 Hun, 319.)
+Martin and Merwin, JJ. concurred.
+Judgment and order affirmed, with costs, upon the opinion delivered by the trial judge.
+The opinion of the trial judge was as follows :
+Eorbes, J.:
+This is an action to recover damages for libel.
+The case was tried at the Delaware Circuit September 6, 1893, before a jury, and a verdict was rendered for the plaintiff for $1,000.
+A motion was made for a new trial upon the minutes, and the . argument was heard upon a case and exceptions made upon an order and settled by the judge presiding at the Circuit.
+There are two questions presented upon this motion :
+The first is that the complaint does not state facts sufficient to constitute a cause of action.
+The second, that there was no proof upon the trial, as shown by the record, that the defendants printed or published the alleged libel.
+The libelous article is set out in the complaint in full. A motion was made at the opening of the trial, and also at the close of plaintiff’s case, to dismiss the complaint upon the ground that the complaint does not state facts sufficient to constitute a cause of action; and, assigning as a reason therefor, that there is no allegation in the complaint showing that the article published refers to the plaintiff in this action.'
+The complaint was not demurred to, and for that reason, upon the trial, all of the pleadings may be looked into and examined for the purpose of seeing whether a cause of action has been set forth in the complaint, or whether any indefinite allegation of the complaint has been supplied or admitted by the answer. In other words, “ the joleadings are always before the court upon the trial and are particularly in evidence whether introduced in form or not.” (Holmes v. Jones, 121 N. Y. 461.)
+In the case at bar the complaint fully sets forth, by a direct averment, that the article was printed and published by the defendants, of and concerning the plaintiff, and that this was done maliciously, for the-purpose and with the intent to injure the plaintiff.
+The answer expressly admits the printing of the article by the defendants, but they deny that it was printed or published by them with malice or with an intent to injure the plaintiff.
+The answer also sets forth in detail all of the facts and circumstances relied upon by the defendants to show a want of malice on their part, for the purpose of showing that the publication is privileged ; in effect, admitting that it was published of and concerning the plaintiff.
+If it were any longer necessary, under section 535 of the Code of Civil Procedure, to plead by innuendo the application of the language used, the complaint and answer taken together leave no doubt as to the character of the issue framed. (Fairchild v. Lynch, 9 Wkly. Dig. 181.)
+It was there held: “ When the facts upon which a defense rests appear in the complaint, it is not necessary that they should be pleaded in an answer in order to entitle the defendant to the benefit of them.”
+A portion of section 535 of the Code of Civil Procedure reads as follows: “ It is not necessary in an action for libel or slander to state in the complaint any extrinsic fact for the purpose of showing the application to the plaintiff of the defamatory matter, but the plaintiff may state generally that it was published or spoken concerning him, and if that allegation is controverted, the plaintiff must establish it upon the trial.” (Palmer v. Bennett, 83 Hun, 220.)
+This fact was not controverted, but was admitted b.y the answer. This is not a case in which it may be assumed that the words, if published by the defendants, are harmless.
+The case of Hemmens v. Nelson (138 N. Y. 517) does not apply to the proposition made by the defendants’ counsel upon the motion made to dismiss the complaint.
+An averment of the application of the words to the plaintiff needs words of innuendo only, when the words themselves are harmless and innocent until coupled with the plaintiff in some manner to his injury. In such a case the court still holds that innuendoes are necessary. (See 138 N. Y. 517, supra)
+The second proposition submitted upon the argument is equally difficult to sustain in favor of the defendants.
+The defendants, by their answer, practically, specifically admit the publication of the alleged libel, and in their answer, as a separate defense to the publication, reiteiute a portion of the libelous article, and justify its publication by them; and they cannot be heard upon this motion, nor could they have been heard upon the trial of the case, to deny the admission made by the answer. (Getty v. Town of Hamlin, 46 Hun, 1; Ferris v. Hard, 135 N. Y. 354.)
+There was evidence upon the trial to show that Bell and both of the defendants, as well as the plaintiff, lived at the time of the publication of this article in the village of Delhi, and from the evidence upon the trial the jury had the right to infer that the defendants had knowledge of the unfriendly relations existing between Bell and the plaintiff.
+Notwithstanding the fact of this knowledge, more or less made public by the proceeding to disbar Youmans, the defendants’ agent and foreman printed and placed in Bell’s possession the alleged libelous article, with full knowledge, at the time, that the printed slips were to be used by Bell for illegitimate purposes. He swears that he was told by Bell at the time they were printed that they were to be furnished to witnesses to be produced upon the trial before the referee. And while it may be said that Mr. Bell had the right to employ the defendants to print certain questions which he desired to use professionally upon the trial, it cannot be assumed that the spreading broadcast, among witnesses to be called, of questions of the character of those printed and published, is the circulation of privileged communications, or that conduct of that character, “horse-shedding the witnesses,” is either-professional or innocent.
+The evidence shows that the defendants admitted, to the witness Youmans, knowledge of this publication.
+It is claimed on the part of the plaintiff that at least one of the defendants had, for a long time prior to the publication of this article, been unfriendly to him, so that the manner of its publication and all of the facts concerning the printing and delivery to Bell, for the purpose for which the article was to be used, were all questions for the jury in determining how far the defendants had knowledge and were actuated by malice.
+The presumption of law is that the publication, if false and libelous, was malicious. (Warner v. Press Pub. Co., 132 N. Y. 181.)
+That presumption -was sought to be rebutted by the defendants upon the trial of the case by showing that they had no personal knowledge of the publication'; and, in fact, that whatever was done was done by their agent.
+It must be assumed under the answer and from the fact of the justification therein, that they became liable for the act of their agent, and stood upon that justification as a defense. The agent was acting in the course of his employment. (Fogg v. Boston & Lowell R. R. Co., 148 Mass. 513; S. C., 12 Am. St. Rep. 583, and note.)
+The case was fairly submitted to the jury in all of its bearings, as a question of fact. (132 N. Y. 181, supra.)
+The court having held that the publication was libelous, the disputed question of fact as to whether there had been an abuse of privilege was one for the jury to determine. (132 N. Y. 181, supra.)
+The jury also had the right to determine, as a question of fact, whether the justification of the article, by the answer, was set up in good faith. (Marx v. Press Pub. Co., 134 N. Y. 561.)
+It is only in case where the defamatory article is shown to have been privileged, that the burden of. showing actual malice is cast upon the plaintiff. (Hemmens v. Nelson, 138 N. Y. 517, supra.)
+It is true that the jury had the opportunity to say, under proper instructions by the court, upon the disputed evidence, that the communication was privileged; that, the article was published in good faith; and that the defendants were not actuated by malice. This they refused to find, and it cannot now be said that they disregarded the instructions of the court upon that subject, and found contrary to those instructions. (Sweetman v. Prince, 62 Barb. 256.)
+The motion for a new trial must, therefore, be denied, with costs to abide the event of the action.
