@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1884-02"
+citations: ["39 N.Y. Sup. Ct. 43"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Baenaed, P. J., DyKhan and Peatt, JJ."]
+parties: ["ELIZABETH BARNES, Appellant, v. JEREMIAH WINTRINGHAM, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/39/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11277521
+---
+
+# Barnes v. Wintringham
+
+## Majority (PRATT, J.:)
+
+PRATT, J.:
+In December, 1875, Margaret A. Roper owned four houses and lots in Brooklyn, eacli of them incumbered and subject to a mortgage to secure a bond of $3,000. On the fifteenth of that month defendant loaned Margaret A. Roper $2,000, to secure which sum she gave back four separate bonds of $500 each. These bonds were respectively secured by a separate mortgage given by her upon one of each of the four houses respectively. The mortgages were all recorded about the same day. The plaintiff purchased one of the four houses from Margaret A. Roper, subject to the two mortgages. The houses had meantime been numbered, plaintiff’s number being' 166£. On the 2d day of February, 1877, the plaintiff, intending to pay off the $500 on her house No. 166|, paid the defendant the full amount due on that $500 bond and mortgage, and the defendant received the money, knowing her purpose, and himself intending to accept the money in .satisfaction of that indebtedness. The defendant gave to plaintiff a satisfaction piece, which by mutual mistake described the wrong mortgage. It purported to satisfy the mortgage on the house and lot adjoining the plaintiff’s property No. 168. The defendant at the same time gave to plaintiff the wrong bond and mortgage, i. e., the one covering No. 168. The plaintiff filed the satisfaction piece before the mistake was discovered, and so the record of the wrong mortgage was marked discharged. Afterwards, and before the discovery of the error, Margaret A. Roper, who still owned the adjoining premises (No. 168) which had been erroneously discharged, executed another $500 mortgage upon the property. In January, 1882, the holder of the first $3,000 mortgage'on No. 168 brought a foreclosure suit making defendant a party. Judgment was recovered and the property was sold, leaving a net surplus of $155.19. After discovery of the error the plaintiff’s attorney called on defendant’s attorney and offered to deliver up the ’bond and mortgage which she had received, and asked for a satisfaction piece of the mortgage on the plaintiff’s property. The plaintiff sued defendant to have the $500 mortgage on her premises (No. 166^-) declared satisfied. The court at Special Term refused her prayer. I think this was error. The plaintiff paid and defendant received the money. The indebtedness upon the bond was extinguished. The mortgage, which was a mere collateral to that bond, became satisfied and ceased to be a lien upon the premises. The bond and mortgage upon her property then became funotvs offioio, but the mortgage still remained as an apparent lien upon her property, she was therefore entitled to have from the defendant some evidence that the mortgage had been in fact satisfied and to have the record cleared of the apparent lien.
+The decision below proceeds upon the theory of mutual mistake. But there was no mistake in paying the debt, nor in the actual satisfaction of the mortgage. The mistake was made after the mortgage was actually satisfied, and in giving the mere evidence of that satisfaction the delivery of the wrong bond and mortgage and the execution of an erroneous satisfaction piece, did not revive the debt or lien which had been paid and discharged. It was a blunder for which the defendant was primarily responsible. He uttered the paper which worked the mischief of which he complained, knowing its intended use. Plaintiff had done her whole duty when she paid the debt. Defendant then undertook to clear the record and by mistake he cleared off the wrong mortgage. He cannot be heard to plead his own blunder as against the plaintiff’s plain right to a clean record and his plain duty to give her a proper satisfaction piece.
+Nor is there any element of estoppel, because the plaintiff’s conduct has not prejudiced him. He sent her to the register’s office with an improper paper. It was his act which resulted in the entry of the discharge of the wrong mortgage. The fault was primarily bis own. There surely can be no equity in his keeping her money as indemnity against his own blunder.
+The judgment should be reversed, with disbursements on this appeal, but without other costs, and judgment should be entered •declaring said mortgage satisfied and directing the register to mark the mortgage upon plaintiff’s property as discharged .in pursuance •of the decree to be so entered.
+Present — Baenaed, P. J., DyKhan and Peatt, JJ.
+Judgment reversed with disbursements and no other costs of-appeal. Decree made that the mortgage on plaintiff’s property is paid and directing register to cancel same.
