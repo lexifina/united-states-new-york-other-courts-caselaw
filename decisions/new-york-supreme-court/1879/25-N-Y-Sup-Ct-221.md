@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court"
+decided: "1879-05"
+citations: ["25 N.Y. Sup. Ct. 221"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — LearNEd, P. J., BoaudjiaN and Follett, JJ."]
+parties: ["IN THE MATTER OF THE PETITION OF CHARLES E. PATTERSON, Receiver, etc., of the MERCHANTS AND MECHANICS’ BANK OF TROY."]
+source_url: "https://static.case.law/ny-sup-ct/25/cases/0221-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8594337
+cites_cases: ["13 Hun, 269", "69 N. Y., 358"]
+---
+
+# In re Patterson
+
+## Majority (Learned, P. J. :)
+
+Learned, P. J. :
+A deposit was originally a thing delivered to a person for gratuitous safe keeping; and it remained the property of the owner. The word, however, is now used to designate a certain kind of loan. For money, deposited in the ordinary way, becomes the property of the bank or banker ; and the deposit is a debt.
+When we attempt to state what kind of loans are properly called deposits, we find that, to some extent, the original meaning of the word colors its present meaning. For there is an idea in the mind that money on deposit is lying in the bank, on hand, ready to meet the demand of the owner, and that it is kept there for his convenience.
+While it is difficult to make an accurate definition of a deposit, which shall distinguish it from every other loan, yet there are many particulars by which it may be described. And generally we may say that it is a loan to a bank or banker ; that it is made for the convenience of the lender (or depositor), in his business ; that it is variable in amount from time to time ; that it is subject to be demanded at any time and in any amount; that it is evidenced only by entries on a pass-book, and on the books of the bank ; that it is paid out upon checks of the depositor, to be paid at once, on presentation, without notice.
+A savings bank must necessarily keep a considerable amount of money on hand, to meet sudden calls and emergencies. The '■statute has indicated that ten per cent of its deposits is not an unreasonable amount. If that seems large, we must notice that, when the statute was passed, there was not in existence the great amount of United States securities which we now have, and in which investments can now bo made, convertible at once into cash. The Troy Savings Bank had very large deposits, and it Was a wise course, therefore, to divide up, among several banks, the money to be thus kept on hand. And, to prevent favoritism and jealousy among these banks, it was well to apportion this money equally and to arrange a regular mode of distribution. That was what was done in the present case. The agreements between the Troy Savings Bank on the one side, and the Merchants and Mechanics’ Bank, and the three other banks, on the other, simply provide for an equal distribution among the four hanks of the deposits to be made by the Troy Savings Bank. There was nothing illegal on the part of the Troy Savings Bank in its obtaining interest on these moneys. And if the four banks were severally to pay interest, it is plain that they might reasonably insist on a ratable division of these moneys among them.
+Nor does it change the character of these moneys that the Merchants and Mechanics’ Bank agreed not to pay to others interest on small deposits ; that is, not to carry on a savings bank business. It was wise and proper that they should never pay such interest; and an agreement not to do, what good banking forbade, can do no harm.
+The contract does not agree on any definite time, for which" the money is to remain on deposit. It is payable at any time on the checks of the Troy Savings Bank. The agreement that, at the end of the three years, the Merchants and Mechanics’ Bank would pay to the Troy Savings Bank any of the moneys then on hand is what the law would have implied without an agreement. It docs not postpone the liability of the Merchants and Mechanics’ Bank. The moneys are spoken of as deposits, and they have all the characteristics of deposits. They are the moneys needed for the business of the depositor; they are deposited, from time to time, as its business brings them in, and they are to be drawn out in like manner and upon checks as business requires; they are evidenced by entries on a pass-book and on the books of the Merchants and Mechanics’ Bank, and the arrangement is for tht convenience of the Troy Savings Bank in its business. The fact that interest is to be paid on them, however unwise on the part of the Merchants and Mechanics’ Bank, does not change their character or prevent them from being deposits in the ordinary meaning of that word, (Upton v. N. Y. and Erie Bk., 13 Hun, 269.) The transaction is wholly unlike that which was examined in the case of Rosenback v. Manuf. and Build. Bk. (69 N. Y., 358).
+If these moneys were deposits, within the meaning of the statute, then the Troy Savings Bank is entitled to its preference. If it should be admitted that the amount thus kept on deposit at some time was more than ought, under the statute, to have remained uninvested, that would not affect the present question. The savings bank may, by such act, have forfeited its charter ; but that is a question for the State, and does not relieve the Merchants and Mechanics’ Bank from paying its debts ; nor its receiver from paying them in the order prescribed by law.
+It is not disputed that the deposits of the Troy Savings Bank, at the time of the failure, were less than twenty-five per cent of the capital of the Merchants and Mechanics’ Bank. The whole amount, therefore, of these deposits is entitled to a preference. No question has been made here as to the rate of interest allowed on this balance of deposit, in the order appealed from. The order must be affirmed, with ten dollars costs and printing disbursements against the api^ellants.
+Present — LearNEd, P. J., BoaudjiaN and Follett, JJ.
+Order affirmed, with ten dollars costs and printing disbursements.
