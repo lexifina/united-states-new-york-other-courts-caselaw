@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, Otsego General Term"
+decided: "1859-07"
+citations: ["4 Park. Crim. Rep. 199"]
+reporter: "park-crim-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lewis Dibble, plaintiff in error, v. The People, defendants in error."]
+source_url: "https://static.case.law/park-crim-rep/4/cases/0199-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1260648
+---
+
+# Dibble v. People
+
+## Majority (Balcom, J.)
+
+By the Court,
+Balcom, J.
+The district attorney proved that the prisoner passed the counterfeit note or bill described in the indictment,- to one Newman, as genuine.. He then proved, by Smith Kinyon, that the-prisoner, a day or two thereafter, went from his residence, near Oneonta, to Catskill, and that while going there he staid over night at a tavern kept by one Stevens, and there bought a ring of a pedler, and gave him a five dollar bill to pay for it. The pedler remarked that the bill was good, and he would take it for any goods he had. A bystander said it was not good, but the pedler took it and gave the prisoner the difference in small bills and change—the price of the ring being two or three dollars. That at Steele’s the prisoner' purchased a ring of another pedler for two dollars. He gave the pedler a five dollar bill in payment therefor, and received small-bills and change from him, over and above the price' of .the -ring;-' The last mentioned pedler again saw the prisonei át Prattsville, and there said to him the bill he let him have was bad, and that a postmaster told him.it was' bad. The prisoner then said to the pedler, he would take it back, “ as he took it for good money,” and he -thereupon gave back the ring, small bills -and change to the pedler, and received the five dollar bill from him.
+Kinyon could not tell the name of the bank by which the two bills the prisoner passed to the pedlers purported to have been issued. Those bills were not produced at the trial, nor was there any evidence given, except that above mentioned, to show they were forged or counterfeit.
+The prisoner’s counsel moved the court to strike out the testimony of Kinyon, as illegal, irrelevant and incompetent, because the proof did not show on what bank either bill he spoke of was, or that they were counterfeit, and upon the ground that the bills were not produced, which motion the court denied, and the prisoner’s counsel excepted to the decision. The court charged the jury that the testimony of Kinyon was clearly admissible, as connected with the evidence of Isaac B. Smith, but left the question to the jury as to its importance and materiality, and whether it reflected much or little, or none at all, upon the guilty knowledge of the prisoner in passing the bill for which he was indicted. The prisoner’s counsel excepted to the charge.
+Smith never saw either of the bills the prisoner passed to the pedlers, and never heard the prisoner say anything about them, or speak of having passed any such bills to any person.
+The weight of authority is, that in order to enable the prosecutor to give evidence of other utterings of forged notes or bills subsequent to that charged in the indictment, they must in some way be connected with the principal case, or the notes or bills must be of the same manufacture and precisely similar. (Wharton's Am. Cr. Law, 2d ed., 233; Roscoe's Cr. Ev., 4th Am. ed., from 3d London ed., 93, 94; Cow. & Hill's Notes, 462, 463.) Greenleaf says: “It has been held that in case of subsequent facts they must appear to have some connection with the principal fact charged. Thus, in a charge of forgery, evidence of the subsequent uttering of other forged notes was held inadmissible, unless it could be shown that they were of the same manufacture.” (3 Greenl. Hv., 4th ed., § 15.)
+The passing of the bills to the two pedlers by the prisoner, was in no way connected with the passing of the one to ¡Newman, for which he was indicted, and it was not shown that the bills passed to the pedlers were forged or counterfeit, except by what one of them and a bystander said, and the act of the prisoner in taking one of them back, and the circumstances under which he passed them; nor was there any proof that those bills were of the same manufacture, or on the same bank, or similar to the one passed to Newman; Hence, according to the authorities above cited, the court erred in refusing to strike out the testimony of Kinyon; and also in charging the jury it was admissible as connected with that of Smith. The testimony of Smith did not in any way connect the passing of the bills to the pedlers with the passing of the one to Newman. It only tended to show that the prisoner committed another and independent felony subsequent to the uttering of the counterfeit bill ■ or note to Newman. It should, therefore, have been struck out of the case, and the jury should have been directed to disregard it. The judgment of the Otsego Court of Sessions should be reversed, and a new trial granted to the prisoner in that court, and he should be required to appear at the next term of such court and abide its order and determination.
+Decision accordingly.
