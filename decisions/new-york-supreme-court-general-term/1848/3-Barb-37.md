@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1848-05-02"
+citations: ["3 Barb. 37"]
+reporter: "barb"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before the same Justicies."]
+parties: ["Wiles vs. Brown, sheriff. &c."]
+source_url: "https://static.case.law/barb/3/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8592095
+cites_cases: ["1 Hill, 154", "15 John. Rep. 152", "25 Wend. 483", "8 John. Rep. 69"]
+---
+
+# Wiles v. Brown
+
+## Majority (Willard, J.)
+
+By the Court,
+Willard, J.
+Wilson H. Woodruff was committed to the custody of the defendant as sheriff of Otsego county, in July, 1846, by virtue of a ca. sa. issued upon a judgment obtained in this court in favor of the now plaintiff, “ for converting a certain quantity of plank or lumber of the plaintiff.” On his application to a supreme court commissioner, he was brought up on a habeas corpus and discharged from that imprisonment. The commissioner allowed a writ of discharge purporting to be issued out of the supreme court, and reciting the commitment of Woodruff on the said ca. sa. and that that was the sole cause of his detention, and that the commissioner decided that the imprisonment was illegal; and it commanded the sheriff to whom it was addressed to discharge Woodruff, from imprisonment. The sheriff accordingly discharged him ; and this action has been brought by the plaintiff against the sheriff, for the escape. The question is whether the decision of the supreme court commissioner affords a protection to the sheriff, for discharging Woodruff out of custody,»
+It is quite clear that the commissioner decided wrong in granting the discharge. The facts stated in the sheriff’s return,namely, the ca. sa. showed that Woodruff was rightly imprisoned, and he should have been remanded. The first section of the act to abolish imprisonment for debt, and to punish fraudulent debtors, passed April 26,1831, (Laws of 1831, p. 396,) prohibits the arrest or imprisonment on civil process, or on any execution, &c. in any suit or proceeding instituted for the recovery of any money due upon any j udgment or decree, founded upon contract, or due upon contract, express or implied, or for the recovery of any damages for the non-performance of any contract.” If, then, the judgment on which the ca. sa. issued was recovered in an action founded on a prior judgment not founded on contract, but founded on a tort, such as trespass, trover, and the like, the defendant is still liable to be taken in execution as before the act of 1831. The ca. sa. in this case, showed on its face, that the original judgment was “for converting a certain quantity of plank or lumber of the plaintiff,” which are the appropriate terms for describing a judgment in the action of trover. It thus appeared to be issued in a case in which the defendant was by law liable to be imprisoned. It was fair on its face. Even had it been otherwise in point of form, but the defects had been such as were amendable, the commissioner should have remanded the prisoner. For formal defects in the process the remedy is either in the same court out of which it issued, or by motion to set it aside; or, if the case require it, by certiorari to this court. They cannot be corrected by habeas corpus. (The People v. Nevins, 1 Hill, 154, 377. 3 Hill, App. n. 647, 661, 663, &c. 25 Wend. 483. 2 R. S. 568, § 41.)
+The important question therefore arises, whether the decision of the commissioner is not a complete bar to this action, and a protection to the she]'iff. The petition for the writ being in the prescribed form, the commissioner was bound by law to allow it, under the penalty of one thousand dollars. (2 R. S. 564, §§ 25, 26, 31.) On the return of the writ, the commissioner was required to proceed to examine into the facts contained in it, and into the cause of the confinement or restraint, and if no legal cause was shown for such imprisonment, to discharge the party from custody or restraint. (Id. §§ 38, 39.) He thus became possessed of jurisdiction of the subject matter and of the parties; and the law clothes him with judicial powers. In analogy to other proceedings, his decisions cannot be impeached in a collateral way. (Wood v. Peake, 8 John. Rep. 69. Rogers v. Bradshaw, 20 Id. 739.) And express provision is made, in the statute, for removing his decisions to this court, and ultimately to the court of appeals. (2 R. S. 573. Judiciary-act of 1847.)
+The case of Cable v. Cooper, (15 John. Rep. 152,) in which a discharge upon a habeas corpus was held not to protect the, sheriff in an action for an escape, and which case is urged by the plaintiff as an authority for the present action, arose under the former habeas corpus act. (1 R. L. of 1813, p. 425, 426.) And the decision of that case led to the passage of the act of April, 1818, ch. 277, which has been incorporated into the re-, vised statutes.
+The sheriff must be protected in obeying the discharge granted by the supreme court commissioner, although it was. an erroneous exercise of power. The decision of the circuit judge in nonsuiting the plaintiff was right, and the motion for a new trial must be denied.
