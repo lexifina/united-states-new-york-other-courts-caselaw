@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1877-05"
+citations: ["18 N.Y. Sup. Ct. 38"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brady and Daniels, JJ., concurred."]
+parties: ["MARY L. JAMIESON, Respondent, v. DAVID F. JAMIESON, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/18/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4448596
+cites_cases: ["12 How., 289"]
+---
+
+# Jamieson v. Jamieson
+
+## Majority (Davis, P. J.:)
+
+Davis, P. J.:
+This is an action under the statute, brought by the plaintiff against her husband for a separation from bed and board forever. The statute provides that such separation may be decreed for the following, amongst other causes: First, “ the cruel and inhuman treatment, by the husband, of his wife; ” and second, “ such conduct, on the part of the husband towards his wife, as may render it unsafe and improper for her to cohabit with him.”
+The complaint in this action and the affidavit on which the order of arrest is made stand undenied; and they establish the most cruel acts of personal injuries and violence, often repeated, accompanied by threats against the life of the plaintiff, under such circumstances as make it entirely clear that she is entitled to the relief prayed for, to wit, a permanent separation and proper provision for the support of herself and her infant child.
+The only question, therefore, is whether the action is one in which an order of arrest can properly be made under the provisions of section 1Y9 of the Code. This question depends upon the construction to be given to the first subdivision of that section. That subdivision provides for an arrest on several causes of action : First, in an action for the recovery of damages on a cause of action, not arising upon contract, where the defendant is not a resident of the State, or is about to remove therefrom; and second, where the action is for an injury to person or character, or for injuring or wrongfully taking, detaining or converting property. The action is not within the first of these classes, because it is not an action for the recovery of damages on the cause of action therein described; and to bring it within the second it is apparent that it must be an action for “ an injury to person,” because it is clearly not one for either of the other wrongs named in such clause.
+If it be an action for an injury to person, within the meaning of the séction, there seems to us no difficulty in upholding the order, for in that case the part of section 179 under consideration would be read for the purposes of this motion as though it were in the following words : “ The defendant may be arrested as hereinafter described * * * where the action is for an injury to person.”
+In McIntosh v. McIntosh (12 How., 289), the court said, in substance, that an action for a limited divorce, on the ground of cruel. treatment, is an action for an injury to the person; and it was there held that under the provisions of the Code such a cause of action could not be joined with one for divorce on the ground of adultery. This was following Smith v. Smith (4 Paige, 92), where the chancellor held that those two causes of action could not be united in a bill, of equity. The right of arrest, under section 179, does not depend upon the question whether the action is an equitable or a purely legal one.
+Section 2 of the Code defines an action to be an ordinary proceeding in a comt of justice, by which a party prosecutes another for the enforcement or protection of a right, the redress or prevention of a wrong, or the punishment of a public offense; and the word “ action,” wherever used in the Code of Procedure, must be construed with regard to this definition. Within that definition this is very clearly an action for the redress and prevention of a wrong; and the fact that the remedy is to be pursued in an equitable form of procedure, does not change the substance or nature of the action itself, nor does the relief sought for have that effect. The relief in this case must be strictly equitable, but- there is nothing inconsistent between that fact and the fact that the action is for an injury to the person. The cause of action as alleged in the complaint and affidavit, and as required by the statute relating to divorces of this kind, springs out of direct personal injury by the husband of his wife, which must be of such a character as to prove cruel and inhuman treatment, or such conduct on his part as to render it unsafe and improper for her to cohabit with him.
+In this case, upon the facts alleged, the acts of the husband were in part criminal assaults and batteries frequently repeated, and which inflicted serious injuries upon the person of the plaintiff. These injuries gave her the right of action for the remedy which she now pursues; and we think her cause of action may be properly described, in the language of the Code, as one for injury to the person. If so, the right to arrest the defendant is given by section 119 of the Code, upon showing that the cause of action exists, in the manner described in another section of the Code.
+Under the former system the plaintiff’s remedy must have been pursued by bill in equity; and by showing a state of facts required by the practice in chancery, the plaintiff could have procured the defendant to be arrested and held to bail upon a writ of ne exeat. That remedy still exists in such cases, but does not prevent the use of any other provisional remedy given by the Code. Upon careful consideration, we have concluded, contrary to our first impressions, that the order of arrest in this case can lawfully be upheld. The case, as presented to us, is one in which this remedy should be permitted to be granted, if it can be in any case of this character.
+So far as relates to the motion to reduce the amount of bail, we think there was no error in denying the motion. The plaintiff’s property is shown to be entirely personal, consisting of securities of various kinds, and to amount to about $30,000. The relief granted to the wife and child, if the facts which we are now-to assume to be true are satisfactorily established, may not improperly reach an amount equal to the security required on this arrest.
+The order should be affirmed, with ten dollars costs and disbursements.
+Brady and Daniels, JJ., concurred.
+Order affirmed, with ten dollars costs and disbursements.
