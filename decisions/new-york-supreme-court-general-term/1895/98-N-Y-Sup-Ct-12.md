@@ -1,0 +1,42 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-12"
+citations: ["98 N.Y. Sup. Ct. 12"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Putnam and Herrick, JJ., concurred."]
+parties: ["Peter Nugent, Respondent, v. Jules Breuchard and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/98/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4796468
+cites_cases: ["131 N. Y. 390"]
+---
+
+# Nugent v. Breuchard
+
+## Majority (Mayham, P. JT.:)
+
+Mayham, P. JT.:
+This action was prosecuted by the plaintiff Nugent against the defendants for injuries suffered by the plaintiff to his person by reason of the alleged negligence of the defendants in furnishing unsafe and improper implements, by reason of which the plaintiff was injured while engaged in the service of the defendants.
+The defendants were engaged in the construction of the Otis Elevated railroad, running from Palenville to the top of the Catskill mountains, and were excavating a deep rock cut on the line of said road. The cut was twenty feet wide and twenty feet deep, with perpendicular rock walls on either side. The plaintiff was employed in the cut barring out and loading stones into a bucket, which had to be hoisted from the bottom of the cut to the surface, and high enough above the surface to be swung on the arm of a derrick and dumped. The derrick was located on the surface on one side of the cut, and was so adjusted that when stones were elevated in the bucket they would swing around by their own gravity over the dump, and to keep the arm of the derrick from swinging'before the bucket was elevated above the surface there was attached to it a guy rope, which was held or managed by a man located upoii the surface, who wrapped the guy rope around the stump of a tree so as to enable him to hold it sufficiently tight to prevent the swinging of the arm of the derrick. On the occasion of the injury the plaintiff was in the bottom of the cut handling stone with a bar, and, as the tub was being elevated by the machinery of the derrick, the guy rope broke and allowed the arm of the derrick to swing around, and the stones in the bucket were precipitated against or upon the plaintiff, breaking one of his legs and in other respects injuring him.
+The contention on the part of the plaintiff was that the defendants were negligent in not furnishing a guy rope sufficiently strong to hold the derrick arm in position, and that by reason of the defective rope the injury occurred.
+On the part of the defendants it is insisted that the plaintiff was negligent in not being at the place to which it was claimed he was assigned by his employers, and that his negligence contributed to the injury which he suffered.
+There was some proof given in the case that the guy rope was old and very much worn, and that some of the strands were broken, and that it was consequently a defective appliance, and not suitable for the purpose for which it was being used, and that by reason of its defects this injury occurred.
+The contentions on both sides had the semblance of support upon the evidence offered by the respective parties, só that it clearly became a question of fact:
+First. Whether the defendants were negligent in not furnishing safe implements and appliances for their employees, by reason of which this injury occurred ?
+Second. Whether the plaiiitiff himself used the care and diligence which the dangerous nature of his employment required, to relieve himself from the imputation of contributory negligence ?
+These questions, we think, were proper for the consideration of the jury, and were, under a careful charge by the learned judge, submitted to them for their consideration. .We think they were proper questions for the jury, and the jury having passed upon them, and reached a conclusion in favor of the plaintiff, their determination should not be disturbed, unless there was some error committed by the learned trial judge which affected their verdict.
+The duty of an employer to furnish a reasonably safe place of employment and reasonable safe appliances for the use of his employees is too well settled to need any citation of authority. And, on the other hand, the duty of the employed to show on the trial of an action for injuries claimed to have resulted to him from the negligence of his employer, that he in no way by his own negligence contributed to the injury, is also too well settled to require citation of authorities, and where the negligence, either of the employer or employed, is the subject of controversy, about which men of ordinary intelligence might differ upon the facts disclosed, it becomes eminently a question of fact for the consideration of the jury.
+It is insisted by the learned counsel for the appellants that this judgment should be reversed for alleged errors committed by the trial judge in the admission of testimony and in his charge of the jwy-
+On the trial the question was asked by plaintiff’s counsel of McCormick, a witness: “ What was done with this line after it parted ? ” This was objected to as immaterial and irrelevant by the defendants, to which the court responded: “What was done there on the same occasion may be proved as a part of the res gestae.”. The answer was: “ I think to the best of my opinion it was put into use again, tied up. I won’t swear positively.” This evidence the defendants moved to strike out.
+The court thereupon propounded this interrogatory: “ Q. Done right away do you mean? A. Yes, sir. Q. And its use resumed? A. Yes, sir. The Court. I think that will do.”
+We do not think that the ruling of the learned judge, when taken in connection with the answers given by the witness, was error for which this judgment should be reversed.
+It does not seem to contravene the principle laid down in Clapper v. The Town of Waterford (131 N. Y. 390). In that case the evidence which was objected to, and the reception of which was held error, was quite unlike the evidence offered in this case. In that case the plaintiff was permitted to prove, against the defendant’s objection and exception, that the commissioner of highways of the town was seen repairing the alleged defective walk several days subsequent to the accident, and it was held error, for the reason that the jury might construe it as evidence of the knowledge or admission of the commissioner of highways that the defect in the sidewalk complained of really existed and needed repair.
+In this case no such inference can be drawn from the question, answer and ruling of the learned trial judge, and it does not seem that any harm could have resulted to the defendants from the reception of the evidence; and particularly as it was confined by the learned trial judge to the time of the accident. Nor do we see any error in the charge of the learned trial judge which would justify a reversal of this judgment.
+The part of the charge urged as objectionable, to which attention is called, is as follows : “ If you find the defendants have been at fault in this respect, the next question is, whether the plaintiff has been neglectful. He had a right to be in this place. He was not informed — it is for yon to say whether he was or not — that he must not work in the place where he was at work at the time this accident happened.” “ Did he do anything that he ought not to have done ? ” “ Did he omit to do anything that he ought to have done, that a man commonly prudent and careful of himself, while employed in a dangerous situation, would have done ? ”
+Taking these statements of the learned judge as a whole, we fail to see that they enunciate any improper rule of law. The language of the judge, that “ he had a right to be in this place,” when fairly and liberally interpreted, means in the rock cut in which he was employed. The statement of the judge, “ he was not informed,” followed immediately by the qualifying words, “ it is for you to say whether he was or not,” submits the question of information to the consideration of the jury, and is not such an assertion of a fact as would make the statement of the judge erroneous for that reason.
+On the whole case, we see no error for which this judgment should be reversed.
+The judgment should be affirmed, with costs.
+Putnam and Herrick, JJ., concurred.
+Judgment affirmed, with costs.
