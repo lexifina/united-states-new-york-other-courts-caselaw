@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1887-04"
+citations: ["51 N.Y. Sup. Ct. 293"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin, P. J., and Follett, J., concurred."]
+parties: ["THE PEOPLE OF THE STATE OF NEW YORK ex rel. NATHAN S. LEE v. BENJAMIN DOOLITTLE and Others, Members of the Board of Commissioners of Police of the City of Oswego."]
+source_url: "https://static.case.law/ny-sup-ct/51/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4538868
+cites_cases: ["30 Hun, 376", "93 N. Y., 97", "96 N. Y., 666"]
+---
+
+# People ex rel. Lee v. Doolittle
+
+## Majority (Boardman, J.:)
+
+Boardman, J.:
+This hearing is had upon a return of defendants to a writ of certiorari issued upon affidavits and after notice to defendants.
+The affidavit of Glynn charges the relator with using obscene, abusive, etc., language of and concerning Glynn. But it does not show that such language was used by Lee while in the discharge of his duty as captain of night police. The affidavit of Matson charges Lee with being asleep, while on duty, about April 1,1886, between twelve and one o’clock at night. Upon a trial, evidence was given tending to prove that Lee was asleep on the night in question, and a greater amount of evidence that he was not then asleep. Evidence was also given, against the objections of Lee, tending to prove that he had been asleep on duty at other times not specified in the charge. After the trial, the defendants, by a majority vote, resolved to discharge Lee from the force “ for incompetency, inefficiency and using language unbecoming an officer on April 12, 1886 (the day of the trial), in presence of and within the hearing of this board while in session.” Of this last charge no proof or recital appears in the return or elsewhere in the papers, except the resolution. By the charges made, the defendant had jurisdiction of the subject-matter and, in a proper case, the power to try upon charges and dismiss the relator from the police force. The difficulty is that the defendants did not keep within their jurisdiction.' The relator was tried for the use of vile language and neglect of duty. Those were the only charges made against him. He was convicted of incompetency, of which there is no evidence; of inefficiency, of which there is no satisfactory evidence, and of using language unbecoming an officer during the trial, of which there is no evidence. It is not stated even what such language was, nor the circumstances under which it was used. What is still more serious, he was convicted of offenses of which he had not been accused and for which he had not been tried. This, in our judgment, does not answer 'the requirements of the law. Section 10 of chapter 255, Laws of 1870, provides that any officer “may be removed by the board, on proof of charges, preferred before them in writing, -of ..illegal, corrupt or otherwise improper conduct, on which he has had an opportunity to be -heard in his defense.” Plainly no such charges were made or tried as he was convicted of, nor' did he have an opportunity to be heard in his defense as to them so far as the returns show. While a technical and critical proceeding in such cases was not contemplated by the Legislature, it was the intention that a summary trial be had upon what might be deemed an informal accusation, where the accused should know of what he is accused and have a fair opportunity to meet the charges. Such .proceedings should not be required to be conducted with the same precision and accuracy as the trial of an action at law. But the substance should be fairly preserved and enforced. (People ex rel Flanagan v. Board of Police, 93 N. Y., 97) The questions to be determined on a .review are stated in section 2140 of the Code. Tinder the fifth clause this court has power to reverse the proceedings where they are dlearly against the weight of evidence. (93 N. Y., 97, ante; People ex rel. Fitzsimmons v. James Jourdan, Police Comr., 13 W. Dig., 207; People ex rel. Drevet v. Board of Fire Comrs., 30 Hun, 376; affirmed, 96 N. Y., 666.) In th ecase under consideration there is au entire absence of evidence which could justify the resolution passed by the defendants and the consequent dismissal of the relator. The trial, as we have seen, is an investigation upon written charges upon notice to the accused.
+It is authorized, that the discipline, efficiency and purity of the police force may be maintained and that those unfit for such stations may be removed. The law should, therefore, be construed liberally, with a view to accomplish the purpose intended. But we think no indulgence could sustain the present proceedings and decision of the defendants without opening the door to all kinds of corrupt and vicious misconduct on the park of commissioners whenever they choose to indulge in them.
+The proceedings and decision of the defendants, as commissioners, are wholly reversed and annulled. The relator is given thirty dollars costs and his disbursments against the defendants under section 2143 of the Code of Civil Procedure.
+Hardin, P. J., and Follett, J., concurred.
+1 The decision of the commissioners reversed, with thirty dollars costs and disbursements.
