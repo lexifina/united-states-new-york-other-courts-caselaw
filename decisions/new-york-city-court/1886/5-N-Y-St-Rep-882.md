@@ -1,0 +1,39 @@
+---
+court: "New York City Court"
+decided: "1886-12-28"
+citations: ["5 N.Y. St. Rep. 882"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hyatt and Ehrlich, J.J., concur."]
+parties: ["Catharine Brennan, Resp’t, v. Germain Lachat, Appl’t."]
+source_url: "https://static.case.law/ny-st-rep/5/cases/0882-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8711866
+cites_cases: ["98 N. Y., 10"]
+---
+
+# Brennan v. Lachat
+
+## Majority (Hall, J.)
+
+Hall, J.
+The defendant was the owner of a tenement house at Number 9 Yarick place, having accommodation for nine families or more, and having common stairways for the use of all the occupants of the house.
+On and prior to the 5th of May, 1885, the plaintiff and her family occupied an apartment in said house, and on the evening of that day in descending the stairway her dress caught in some obstruction on the stairs by reason of which she was thrown violently down tlie stairs causing her severe injuries, for which this action is brought, and upon the trial a verdict was rendered for four hundred dollars damages.
+The duty which the defendant owed to the plaintiff and other tenants in his house was to keep the stairways and passages which were used in common by all the tenants, in good and sufficient repair, and for a breach of this duty and injuries resulting, he is liable to the party injured, providing that such want of repair has been called to his attention by direct notice, or has existed for so great a period of time as to raise a presumption of notice by implication of law.
+This has been the law for many years, founded in justice and reason, and established by an unbroken line of authorities which it is needless to cite, and in addition to the decisions the statutes of the state having reference to the city of New York especially provide that in all tenement and lodging houses the stairs shall be provided with proper banisters and railings and the stairways shall be kept in good repair. In the absence of a special agreement to the contrary this duty would devolve upon the landlord, as the stairs are reserved for general use, and the generalrule as to repairs as between landlord and tenant does not apply.
+The duty of the defendant and its breach are clearly set forth in the complaint and were proven on the trial, it is not necessary or indeed proper to say in a complaint in so many words that defendant owed a duty or that he failed to perform his duty, this would be a conclusion which the law would deduce from the facts.
+The complaint sets forth the facts out of which the duty arose, viz.: the ownership of the house by defendant, its use as a tenement house and the fact that the passages and stairways were used in common by ail the tenants and the occupancy of an apartment by plaintiff for hire, and the conclusion of law arising from those facts is that defendant owed the duty to plaintiff to keep the passages and stairways in good repair.
+The breach of the duty consists in allowing the stairways to be out of repair, and covered with metal which was worn and broken and the edges of which were sharp and ragged and curled up, and the injuries to plaintiff arose from this condition. All these facts are carefully set forth in the complaint, and evidence was given to substantiate them upon the trial.
+The evidence as to the condition of the stairs, and the notice to and knowledge by defendant of such condition and as to the manner in which the injury was caused, was conflicting, but was passed upon by the jury, and is abundantly sufficient to sustain their verdict.
+The defendant’s third request to charge was properly denied. It requested the court to charge that there was no evidence of any duty imposed ou tbe defendant wbicli was violated, or of any contract obligation between plaintiff and defendant which had been violated. To charge as there requested would have been equivalent to directing a verdict in favor of defendant.
+There was plenty of evidence given to show the relations of the parties out of which the law raises the presumption of a duty and the same may be said in regard to the breach of violation of the duty.
+The fourth request to charge was properly refused; except as had been before charged upon that point, it would have been needless repetition. The charge of the judge on the question of contributory negligence was full, clear and explicit, and it was not necessary to repeat it in terms. The trial judge repeated in three separate portions of his charge that the plaintiff’s recovery depended upon her freedom from contributory negligence, and he calls the special attention of the jury to the contention and claim of the defendant in regard to plaintiff using the stairs in the dark knowing that they were out of repair, and correctly left it to them to say whether, under the circumstances disclosed by the evidence, it was or was not prudent for her to use them; and if such use of them was negligence which contributed to her injury they were instructed to find for defendant. This was a full and fair statement of the law and was all that defendant had the right to ask or expect. Palmer v. Dearing, 98 N. Y., 10.
+The only exception to the admission of evidence was the question asked of the witness Brennan as to whether there were' any alterations made to the stairs after the accident.
+It is the general rule that negligence cannot be proven by evidence tending to show that after the happening of an accident something was done to alter the condition of things as they before existed, because it may well be that although a party had not been negligent, he might in the event of an accident-which was not caused by any fault of his, take precautions to prevent the recurrence of such an accident, and that such an act should not be proven against him so as to raise therefrom a presumption that he had been negligent in causing the previous, accident; but the question objected to in the case at bar, was plainly asked for the purpose of ascertaining whether any thing had been done by defendant or any one to remove the broken or worn out covering of the stairs so that it could not readily be. ascertained what had caused the accident, and the answer clearly shows that the witness so understood the question that upon the steps where plaintiff had fallen there were small pieces of tin and they had been taken off, “ they removed the pieces and smoothed the place.” The defendant and his witnesses were afterwards allowed without objection to testify as to exactly what was done the next day.
+The evidence was clearly competent as tending to show that defendant had removed the cause of the accident.
+The cases cited by appellant are all cases where it was attempted to be shown that after an accident a different and perhaps safer mode of structure or, preventive, or a different mode of conveyance or rate of speed was adopted after an accident, except the case in the 31st Hun, where it was attempted to be shown that some months after an accident happened in the hallway of a tenement house by reason of a defective oilcloth covering that the landlord put down a new one; there can be no question but what such evidence is incompetent as tending to prove negligence.
+If an accident happened upon a railroad by reason of a broken rail, it would be quite competent to show that after the accident the broken rail was removed and replaced by a sound one as a mere matter of fact, but it would be incompetent to show that after the accident a different make and style of rail was used as tending to show negligence in using the style of rail upon which the accident took place.
+It follows that the judgment and order denying the motion for new trial must be affirmed with costs to respondent.
+Hyatt and Ehrlich, J.J., concur.
+. Affirmed, 6 N. T. State R.
