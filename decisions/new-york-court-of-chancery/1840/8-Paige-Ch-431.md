@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1840-07-21"
+citations: ["8 Paige Ch. 431"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Freeland & Hoffman vs. Nott."]
+source_url: "https://static.case.law/paige-ch/8/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 480877
+---
+
+# Freeland v. Nott
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+Several provisions of the act, under which this question arises, are so inartificially drawn as to render it very difficult to say what was the real intention of the legislature; especially that clause which declared that the act should not affect any suit or proceeding, nor the fees or costs therein, which should be commenced before the act took effect. If that section should be construed to apply to every proceeding in suits commenced before the first of June, 1840, and not merely to the fees and costs in such suits, it would require different modes of entering and docketing judgments, and different forms of executions in suits commenced before and after that time. Such a construction of the act, although in strict accordance with its terms, would produce endless perplexity and ruinous litigation. And I see no other way to avoid this difficulty than to depart from the literal construction of this section, and to consider it as only applicable to those provisions of the act which relate to fees and costs in suits ; that is, to construe it as if its language was, "this act shall not affect the fees or costs in any suit or proceeding which shall be commenced before the same takes effect.” Upon such a construction of this section of the act it will not be necessary, in the affidavit of service of papers upon a register of clerk as agent, to state whether the suit in which the service was made was commenced before or after the first of June, 1840. The affidavit of service in the present case is therefore sufficient in that respect, although it does not specify when the suit was commenced.
+The remaining question is, whether the seventh section of the act precludes the appointment of any other person, as agent of an attorney or solicitor, except a register, assistant register or clerk of the court. Here again the language of the legislature is probably not in accordance with the real intention of the law makers. I presume the object of this section was to relieve the lawyers from the necessity of appointing agents at all the various registers’ and clerks’ offices ; but without depriving them of the right to select their own agents, at those places where their principal business was done, if they thought proper to do so. If this section, therefore, had declared that the register or clerk should be agent at the place where his office was kept, in case no other agent was appointed by the attorney or solicitor, it is probable the real object of the framers of that section would have been better attained. But the language of the section is imperative, as it now stands,that where the rales or practice of the court require the appointment of agents, the register, assistant register and clerks shall be such agents. And it would be doing violence to the language of the statute to say, that the service of papers upon the register, assistant register, or clerk, was not a good service upon the agent of the other- party. There is nothing, however, in the act which necessarily prevents the attorney or solicitor from appointing his own agent also, at the same place, if he thinks proper to do so ; and in such cases I can see no possible injury which can result from considering the service of papers upon such agent as good service. I conclude/therefore, that where the attorney or solicitor has appointed an agent, other than the officer who is designated by the statute, the service of papers upon either must be deemed a good service ; whether the suit in which such service is made was commenced before or after the act of May, 1840, went into effect.
+The motion is granted, and the cause is referred to the vice chancellor of the first circuit; to be heard by the assistant vice chancellor,
