@@ -1,0 +1,47 @@
+---
+court: "New York Surrogate's Court"
+decided: "1910-06"
+citations: ["7 Mills Surr. 529"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Probate of the Last Will and Testament of James G. Perkins, Deceased."]
+source_url: "https://static.case.law/mills-surr/7/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1076028
+cites_cases: ["113 App. Div. 790", "118 App. Div. 472", "136 N. Y. 58", "141 N. Y. 559", "68 Hun, 412", "69 Misc. 509"]
+---
+
+# In re the Probate of the Last Will & Testament of Perkins
+
+## Majority (Ostrander, S.)
+
+Ostrander, S.
+The instrument offered for probate is in "the following words:
+“ The last Will and Testament of Rev. James G. Perkins ‘ and of his wife, Louisa D. Perkins, of Round Lake, N. Y., made and signed on (August lHh, 1906.
+“ Sec. 1. Know all men by this writing that we, Rev. James G. Perkins and his wife Mrs. Louisa D. Perkins of Round Lake, Saratoga County, New York, make this our last Will and Testament revoking all others.
+“ First: After all my just debts and funeral expenses are paid, our monument in Washington Street Cemetery in Fair Haven, Vermont, is properly lettered and perpetual care of the lot in the above named cemetery is secured; then the remainder of our personal and real estate and belongings are to be disposed of by Misses Augusta C. Capron and Lillian Capron of the City of Albany, H. Y., as they think best, we having advised with them thereof, and left the disposal of any residue of _ our estate to their judgment as may seem best to them at that' time.
+“Sec. 2: We appoint Miss Augusta O. iGapron and Miss-Lillian Capron of the City of 'Albany, 3ST. Y., as the executrices of this our last Will and Testament.
+“ Sec.. 3: In testimony whereof we have subscribed our names on this Seventeenth day of August in the year of our Lord, 1906, in the presence of the following witnesses.
+“ James G. Perkins,
+“Louisa D. Perkins.
+“ Witnesses: We, Rev. Jacob M. Appleman and Libbie C.. Appleman witnessed the signing of the above names of Rev. James G. Perkins and' Louisa D. Perkins, they declaring the foregoing to be their last Will and Testament.
+“ Jacob M. Appleman,
+“ Libbie C. Appleman,
+“ Witnesses.
+“'See. 4th: Further I, Rev. James G. Perkins, confirming-„ jail of the conditions of the foregoing joint will of myself and' of my wife Louisa D. Perkins, do will 'and declare, that if I should die before my wife Louisa D. Perkins, that she shall be possessed of all my real and personal estate without probate-during her natural life.
+“(Signed) James G. Perkins.
+“ .Witnesses: We, Rev. Jacob M. Appleman and Libbie G. Appleman witnessed the signing of the above name of Rev. J ames Gr. Perkins, he declaring the same to be a part of his last will and testament.
+“ Jacob M. Appleman, 9
+“ Libbie C. Appleman,
+“ Witnesses.”
+There is practically no contention against the testamentary capacity of the deceased, nor as to the due execution of the will, but construction of the instrument is asked upon the probate.
+Under the decisions, Matter of De Witt, 113 App. Div. 790-793, and Matter of Merriam, 136 N. Y. 58, the will must be admitted to probate as a will valid to dispose of real property, regardless of the construction which is to be given to1 its provisions, as the surrogate has no jurisdiction to construe it so far as the disposition of the real property is concerned.
+It is contended by contestants that the provisions of the will in reference to the lettering of the monument and the perpetual care of the lot of the deceased in the cemetery at Fair Haven, Yt., are invalid, because the implied trust is to be administered without 'the ¡State of New York, and for the reason that the trust provides for the improvement of a, cemetery lot in perpetuity. But under the provisions of sections 113 and 114 of the Real Property Law a trust for the purpose of lettering the monument and the perpetual care of the lot is not invalid if the same were to be administered within this State. And as the trust operates upon personal property in this State, to- be expended for the purposes mentioned without the State, I think, in accordance with the opinion of Judge Houghton in Gatt v. Gatt, 118 App. Div. 472, that the provisions of the instrument in question created a valid trust as to the part of the personalty necessary to provide for the lettering of the monument and the! care of the lot. This trust can be administered by the Supreme Court. j : ! ; l
+As to the provision of 'the will that the remainder of the real and personal estate be disposed of by the Misses Capron “ as they think best, we having advised with them thereof, and left the disposal of any residue of our estate to their judgment as may seem best to them at that time,” it is contended that there is a secret trust imposed by these words upon the property thus mentioned, and that such trust is void for uncertainty, since no beneficiary is designated. And the contestants cite Gross v. Moore, 68 Hun, 412; aff’d, 141 N. Y. 559; Tilden v. Greene, 130 id. 29.
+In all these cases there was a direction to 'the legatee as to the disposition to be made of the estate, either secretly or by the terms of the instrument.
+In the,case at bar there is no direction given, and it is expressly provided that the property shall be disposed of by the legatees as they see fit. This language seems to bring the case within the provision of section 136 and section 150' of the Real Property Law, which provides that “ a general or special power is beneficial where no person other than the grantee has, by the terms of its creation, any interest in its execution.” Section 136. “ "Where a like power of disposition is given to a person to whom no particular estate is limited, su'ch person also takes a fee, subject to any future estates- that may be limited 'thereon, but absolute in respect to creditors, purchasers and incumbrancers.” 'Section 150.
+Under the provisions of section 11 of the Personal Property Law, as a similar enactment was construed by the 'Court of Appeals in Cutting v. Cutting, 86 H. T. 522, the same rule applies to a bequest of a power affecting personal property as to one affecting real estate.
+I therefore conclude that the instrument in question passed an absolute title to the remainder and residue of the personal property to the Misses Capron, subject to the life estate of the widow, Louisa D. Perkins, and that the instrument in question is a will valid to pass the personal property of the deceased for the purposes therein mentioned.
+Let findings and decree he prepared accordingly.
+Decreed accordingly.
