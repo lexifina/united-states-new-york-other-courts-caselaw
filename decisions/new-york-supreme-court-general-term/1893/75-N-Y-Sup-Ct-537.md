@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-04"
+citations: ["75 N.Y. Sup. Ct. 537"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["YaN Brunt, P. J., and O’Brien, J., concurred."]
+parties: ["Eliza J. Lord, Respondent, v. Charles W. Lord, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/75/cases/0537-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2383279
+cites_cases: ["95 N. Y. 188"]
+---
+
+# Lord v. Lord
+
+## Majority (INGRAHAM, J. :)
+
+INGRAHAM, J. :
+This action is brought to enforce a covenant contained in an instrument made between the parties to this action and one Aziriah Everett as trustee for Eliza J. Lord, by which the parties to this action, who were husband and wife, agreed to live separate and apart from each other, and whereby the defendant agreed to pay to' the said Everett “ for and towards the better support and maintenance of his said wife (the plaintiff) the sum of $800 per annum for the term of her natural life.
+The said agreement also contains the usual covenant on the part of the said trustee to indemnify and hold the defendant harmless of and from all debts of his said wife now contracted or thereafter contracted by her, and the said trustee agrees to repay to the defendant on demand any sum that he may be compelled to pay for such debt or debts.
+There is no allegation that the plaintiff has requested the trustee -to sue to enforce the said covenant, and the said trustee is not a party to the action.
+The contract sought to be enforced in this action contains no covenant on the part of the defendant to make any payment to the plaintiff. The only covenant as to the payment of any money- is that the party of the first "part (the defendant) will make the payment before stated to Everett.
+We think it clear that in the absence of an express covenant to pay any sum of money to the wife, that the wife cannot maintain an action at law to enforce the covenant to pay to a third party as trustee. a sum of money which the husband covenants to pay to such trustee. The trustee has an interest in the enforcement of this covenant, for by the agreement he is to indemnify the husband for any debts of the wife and to repay to the husband any amount that he may be compelled to pay for such debts.
+Under such an agreement the. person named as trustee becomes a, trustee of an express trust within the provisions of section 449 of the Code, and is thus entitled to maintain an action to enforce the-covenant.
+The case of Potter v. Potter (8 N. Y. Civ. Pro. Rep. 150) does not apply, for there the covenant was made directly to the wife, and when the action was commenced she'had ceased to be the wife of the defendant, a decree of divorce having been granted dissolving the marriage.
+Ve are not called upon, therefore, to express an opinion as to-whether that case should be followed. Nor do we wish to be understood as holding that in case the trustee should refuse to bring the-action after proper request by plaintiff, that an action could not be maintained by the plaintiff making the trustee a party to, enforce the covenant.
+This is not a case to enforce a contract made with one person furnishing the consideration whereby the obligor was to pay a sum of money to another, as in Todd v. Webber (95 N. Y. 188), and cases-there cited, for in this case there was not an agreement between defendant and Everett to pay to plaintiff, but an agreement between plaintiff, defendant and Everett that the defendant would pay to Everett as trustee.
+We think it clear, therefore, that no cause of action at law exists in favor of the plaintiff against the defendant to enforce this covenant.' The judgment should, therefore, be reversed and the demurrer sustained, with costs.
+YaN Brunt, P. J., and O’Brien, J., concurred.
+Judgment reversed and demurrer sustained, with costs.
