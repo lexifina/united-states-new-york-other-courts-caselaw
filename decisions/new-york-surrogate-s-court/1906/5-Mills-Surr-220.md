@@ -1,0 +1,24 @@
+---
+court: "New York Surrogate's Court"
+decided: "1906-01"
+citations: ["5 Mills Surr. 220"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Kasper, Schuessler, Deceased."]
+source_url: "https://static.case.law/mills-surr/5/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1071399
+---
+
+# In re the Estate of Kasper
+
+## Majority (Church, S.)
+
+Church, S.
+This is a proceeding for the distribution of .surplus moneys arising on a foreclosure suit which have been paid into the Surrogate’s Court. The method of distribution of such moneys is covered by section 2799- of the Code of Civil Procedure.
+By the first part of the section it is- provided that, where, at the time of the payment of such money into the Surrogate’s "Court, or at any time before the final distribution of the same, there is pending a proceeding for the sale of decedent’s real •estate to pay his debts, then the decree shall provide that such money 'be paid to the administrator. By chapter 750 of the Laws of 1904, the proceedings for the sale of decedent’s real estate to pay his debts were very much simplified; and, instead of the surrogate hearing at length the rights and priorities of the creditors and other persons interested in the fund, it was provided that the proceeds of the sale should be applied by the administrator as if he were an executor acting under a power of sale contained in a will.
+If such iai proceeding was pending, therefore, at the time of the payment of this money into court, the matter would be an •extremely simple one, and the decree would simply provide for the money being paid to the administrator. But the petition herein alleges that -such is not the case. We, therefore, pass to the provision in the section affecting such a condition of affairs. This provides for the presentation of a petition praying for the distribution of the money. But in order to give the court jurisdiction to make a decree upon such petition, every person entitled to share in the distribution of the proceeds of the sale must be cited, and on the return -of the citation the rights and priorities of such persons must be established.
+The petition 'herein does not comply with this provision of the Code. It is true that it recites that certain persons are heirs-at-law, and it also mentions that certain other persons! claim to be creditors. But it does not show, affirmatively, that they are the only persons entitled to share in the distribution of the proceeds.
+The proceeding is, therefore, dismissed, with permission to. renew upon proper petition.
+D'ecreed accordingly.
