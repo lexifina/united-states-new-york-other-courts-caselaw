@@ -1,0 +1,33 @@
+---
+court: "New York Surrogate's Court"
+decided: "1890-08-20"
+citations: ["32 N.Y. St. Rep. 1020"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the taxation of certain legacies from the estate of Benjamin W. Sherwell, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/1020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040224
+cites_cases: ["104 N. Y. 306", "111 N. Y., 343", "112 N. Y , 100", "113 N. Y., 174"]
+---
+
+# In re the Taxation of Certain Legacies from the Estate of Sherwell
+
+## Majority (Abbott, S.)
+
+Abbott, S.
+This is an application to determine the amount at which certain legacies shall be assessed for purposes of taxation under chapter 713, Laws 1887.
+It is contended in behalf of the legatees, that each legatee is entitled absolutely to an exemption of five hundred dollars ($500) from her legacy, and that the same should be assessed at the amounts of such legacies respectively, less five hundred dollars ($500). This is an entirely new question under the act and seems never to have been passed upon.
+The exact language of the act, so far as it relates to this subject, is as follows:
+“ All property which shall pass by will * * * ■ to any person or persons * * * shall be and is subject to a tax of five dollars on every hundred dollars of the clear market value of such property, and at and after the same rate for any less amount * * * provided that an estate which may be valued at a less sum than five hundred dollars shall not be subject to such duty or tax.”
+We search the act in vain for anything to aid us in the construction of the clause in question.
+The law is now settled that the “ estate ” referred to in the act relates not to the aggregate estate of the deceased person, but to the legacy, distributive share or other interest subject to the tax. Matter of Howe, 112 N. Y , 100 ; 20 N. Y. State Rep., 477; Matter of Cager, 111 N. Y., 343 ; 19 N. Y. State Rep., 497.
+It is also a well settled rule of construction of legislative acts imposing a special tax, that the burden is on the state to show that the facts bring any particular case within the terms of the statute. The burden does not rest with the person sought to be taxed to show that he falls clearly within the terms of a special exemption contained in the act, as in the case of a law imposing a. general tax. Matter of Enston, 113 N. Y., 174; 22 N. Y. State Rep., 569.
+At page 177 of his opinion, Judge Andrews says: “ The tax imposed by this act is not a common burden upon all the property or upon the people within*the state. It is not a general, but a special tax, reaching only to special cases and affecting only a special class of persons. The executors in this case do not, therefore, in any proper sense, claim exemption from a general tax or a common burden. Their claim is that there is no law which imposes such a tax upon the property in their hands as executors. If they were seeking to escape from general taxation, or to be exempted from a common burden imposed upon the people of the state generally, then the authorities cited by the learned counsel for the people, to the effect that an exemption thus claimed must be clearly made out, would be-applicable. But the executors come into court claiming that the special taxation provided for in the laws of 1885 is not applicable to them, or the property which they represent. In such a case they have the right, both in reason and in justice, to claim that they shall be clearly brought within the terms of the law before they shall be subjected to its burdens. It is a well established rule that a citizen cannot be subjected to special burdens without the clear warrant of the law.”
+Therefore we are not subject to the same rigid and exact rules of construction which would apply in case an exemption were claimed from an act imposing a general burden upon all property. 'Such an intent of the legislative body must be found in the terms ■of the act as will make the tax an equal burden upon all members of the same class.
+In Re McPherson, 104 N. Y. 306; 5 N. Y. State, Rep. 680, Judge Earl, in passing upon the constitutionalty of the act, says, at page 318 : “If this be regarded as a tax upon property, then it is free from constitutional objection if it be equally imposed and properly apportioned upon all the property of the class to which it belongs.”
+If the construction contended for on behalf of the state be accepted we encounter the paradox of a legacy of five hundred and one dollars ($501) netting the legatee four hundred and seventy-five dollars and ninety-five cents ($475.95), while a legacy of four hundred and ninety-nine dollars ($499) nets the legatee four hundred and ninety-nine dollars ($499). This constitutes' an inequality between and injustice to members of the same general class, which the legislature could not have intended, as. a tax “ is not equally imposed upon all the property of the class .to which it belongs.”
+Without reference to the amount of the taxable estate, I am of the opinion that it was the intention of the legislature, fairly de.ducible from the terms' of the act, that all taxable “ estates ” .should be exempt from taxation to the extent of five hundred -dollars ($500).
+The argument of counsel that the absolute taxable amount of five hundred dollars ($500) was fixed by the legislature because the machinery of the law will not be put in motion to collect a petty revenue, would be equally applicable to every general tax when an express exemption of a given amount is prescribed by law, as in the case of the fifteen hundred dollars ($1,500) exemption to clergyman. R. S., 8th.ed., ¿083.
+Let five hundred dollars($500) be deducted from the share of each of the three nieces, one thousand five hundred dollars ($1,500) in all from the amount to be paid by the administrator, and the balance of the fund be assessed for the purposes of taxation under the act.
