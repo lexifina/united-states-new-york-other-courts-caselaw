@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-07"
+citations: ["87 N.Y. Sup. Ct. 409"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman and Cullen, JJ., concurred."]
+parties: ["Victor M. Sutphen, an Infant, by Charles J. Sutphen, his Guardian ad Litem, Respondent, v. The Town of North Hempstead, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/87/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4729683
+cites_cases: ["104 N. Y. 434", "139 N. Y. 281"]
+---
+
+# Sutphen v. Town of North Hempstead
+
+## Majority (Brown, P. J.:)
+
+Brown, P. J.:
+The accident which resulted in the plaintiff’s injuries occurred upon a public highway in the town of North Hempstead about sundown on an evening in August, 1892.
+The highway ran east and west on a hill upon the top of which it passed through a deep cut. A gutter or ditch existed upon the side of the road to carry off the surface water.
+Shortly before the accident the commissioner .of highways had deepened the ditch, and at the place of the accident the bottom was about two and one-half feet below the crown of the road. The side next to the beaten track was cut down vertically about a foot or eighteen inches. The beaten track of the road was about twenty» five feet wide and extended right up to the side of the gutter and was in good condition.
+The soil was sandy, and the wheels of vehicles passing over it sank into it a few inches. There was no sidewalk, and pedestrians walked along the edge of the road nearest the gutter, and as a result of this the surface there was packed harder and the road was smoother than elsewhere. ; ñ
+The plaintiff, a lad between twelve and thirteen years of age, was riding a bicycle, and finding that his machine cut into the soft sand in the middle of the road, he turned into the smooth track near the gutter and rode within a few inches of the vertical side. The front wheel cut through the soft earth, and the side of the gutter giving-way he was thrown from his machine and received the injuries complained of. There, was nothing to obscure from plaintiff’s view the gutter, or the maimer of its construction, and he testified that there was light enough for him to see the road, and that he could have seen the gutter if he had looked at it. In our opinion the town was not chargeable with negligence upon the facts stated, and the complaint should have been dismissed. The gutter into which plaintiff fell was not an obstruction' in the highway, but was constructed to carry off tlie surface water flowing from the hill, and thus keep the road in a proper condition for travel, and no negligence can be imputed to the commissioner of highways from the fact of its existence.
+No claim is made that the road itself was not in good order and safe for the ordinary use of a highway in the country. It was of ample width for all kind of travel, and the injury which plaintiff received was primarily due to the fact that he rode his vehicle so near to the gutter that the wheel .cut through the soft ground and caused liis fall. Reasonable care in the construction and maintenance of highways is the measure of dirty resting upon the highway commissioner of the town, and municipalities are not liable for injuries the result of accidents which are not by the exercise of reasonable forethought and prudence to be anticipated. The case is within the rule ajjplied in Hubbell v. City of Yonkers (104 N. Y. 434) and Glasier v. Town of Hebron (131 id. 447).
+The negligence of which it is claimed the commissioner was-guilty was, first, constructing the gutter with a vertical side next to the roadway, and, second, omitting to erect a rail or guard between the gutter and the road. The highway was not dangerous to persons using it with ordinary vehicles by reason of either of these facts. It w’as twenty-five feet wide, a space on which four wagons could stand abreast, and there was no occasion for any one to ride upon the extreme edge of the road near the gutter, and the fact that the soil was soft, into which a wheel would sink, counteracted any damage which might have existed if the vertical, edge of the gutter had been cut through solid material. The accident which happened to the plaintiff was unusual and incidental to the character of the vehicle he was riding. It was not one within the anticipation or apprehension of a reasonable, prudent man, and there was, therefore, no occasion for extraordinary precautions to prevent it. It cannot be successfully claimed that a larger measure of duty on the part of the commissioners of highways is due. to bicycle riders than to persons traveling rrpon the road in ordinary vehicles. It is apparent that a bicycle rider upon an ordinary country road is exposed to greater dangers than a person riding in a wagon, and the great increase in the number of jjersons using these vehicles has created a demand for better and safer roads, but under the present highway laws a road in a condition which is reasonably safe for general and •ordinary travel is all that the commissioners of highways are bound to maintain.
+The road in question was safe for travel in ordinary vehicles and •on foot, and the evidence did not in our opinion permit the conclusion by the jury that the defendant was negligent in its construction and maintenance.
+The plaintiff was guilty of contributory negligence.
+In his desire to find that part of the road best suited to his mode •of travel, he rode so near the edge of the gutter as to cause the •accident. He failed to observe conditions which wore open to his ■observation, and which he.could have seen if he had looked, and was therefore, guilty of such carelessness as to deprive him of the right to recover for his injuries. (Weston v. City of Troy, 139 N. Y. 281.)
+The judgment must be reversed and a new trial granted, with costs to abide the event.
+Dykman and Cullen, JJ., concurred.
+Judgment and order reversed and new trial granted, costs to abide the event.
