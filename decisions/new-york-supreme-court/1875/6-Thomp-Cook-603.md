@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court"
+decided: "1875-04"
+citations: ["6 Thomp. & Cook 603", "11 N.Y. Sup. Ct. 359"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Becker v. Howard."]
+source_url: "https://static.case.law/thomp-cook/6/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2439262
+cites_cases: ["1 Sandf. Ch. 419", "1 Sandf. Ch., 419", "11 Wend. 442", "11 Wend., 442", "2 Barb. Ch. 151", "2 Barb. Ch., 151", "22 Barb. 161", "22 Barb., 166", "4 Cow. 667", "6 N. Y. 82"]
+---
+
+# Becker v. Howard
+
+## Majority (E. Darwin Smith, J.)
+
+E. Darwin Smith, J.
+In his findings of fact the learned judge who tried this cause at the circuit, besides the affirmative finding that the plaintiff was seized o£ the premises in fee-simple, found also that the defendants had no title to the said lands and premises, nor any right to the possession of the same, or any part thereof. These findings, it seems to me, were erroneous.
+The defendants introduced in evidence a certificate of the sale of the said premises made by the comptroller of this State to the defendants, dated November 34, 1866, for the non-payment of taxes levied thereon, and also a deed from the comptroller in the usual form, made in pursuance of such sale, and dated February 16, 1869, conveying the same premises to the defendants, which deed was recorded in the clerk’s office of the county of Cattaraugus, October 16, 1869.
+This deed was presumptive evidence that the sale and all the proceedings prior thereto, including the assessment of the land and all notices required by law to be given previous to the expiration of the two years allowed to redeem, were regular by the express terms of the statute. The necessary force and effect of this deed was to vest in the defendants the title to these premises by title paramount to the plaintiff’s.
+Such title is not at all affected by the plaintiff’s suit to foreclose the Baldwin mortgage, or by the Us pendens filed in said suit. A lis pendens filed under the statute only relates to and affects voluntary alienations of property pending a suit in respect to it by or from the defendant in the action. It is constructive notice to any such grantee, or the persons dealing with the defendant in the action, and has nothing to do with independent parties asserting their own adverse rights in respect to the property. Harrington v. Slade, 22 Barb. 161; Sears v. Hyer, 1 Paige, 483; Stuyvesant v. Hall, 2 Barb. Ch. 151; Stuyvesant v. Hone, 1 Sandf. Ch. 419. The doctrine of Us pendens applies only to persons who might be made parties. Hopkins v. McLaren, 4 Cow. 667; Parks v. Jackson, 11 Wend. 442. Persons claiming .in hostility to a mortgage, or by title prior or paramount, are not proper parties to a foreclosure of such mortgage, and cannot be affected by the decree unless they come in and voluntarily submit to litigate their rights in such action (Corning v. Smith, 6 N. Y. 82; Lewis v. Smith, 9 id. 502), and such parties cannot be affected by a lis pendens filed in such action.
+The defendant’s rights arose at and relate to the time of his purchase at the tax sale, which was November 24, 1866, and before the commencement of the foreclosure suit and the filing of the lis pen~ dens, which was filed August 17, 1868. The defendants had their certificates of sale in hand when the said suit was commenced, and had paid to the comptroller the purchase-money for said land, and had an initiate right to a deed thereof, provided the same was not redeemed according to the statute before the expiration of the two years from the date of their certificate, which period expired on November 2i, 1868, subject only to the right of the plaintiff in the said foreclosure suit, or other assignee of said mortgage, before the sale in such action, or of the plaintiff in this action, to redeem said premises within six months after service of notice requiring them so to do, by the defendants, according to the provisions of the 76th and 77th sections of said act of 1855.
+Section 63 of said statute provides that if no person should redeem such land within two years after the sale, the comptroller should at the expiration thereof execute to the purchaser, his heirs or assigns, in the name of the people of this State, a conveyance of the real estate so sold, which should vest in the grantee an absolute estate in fee-simple, subject to all claims of the State for taxes thereon, or other liens fir incumbrances.
+Such is the defendants’ deed and its effect. They acquired by the comptroller’s deed the fee-simple in the lands, subject to the lien of the plaintiff’s mortgage, which said section 76 declares shall' not be affected by such sale except as provided in the next section 79, if the plaintiff or other party interested in said mortgage should fail to redeem in six months after notice so to do, in which c*ase such lien is absolutely extinguished.
+The rights of the parties I conceive to be precisely the same in legal effect as they would have been if the State had had a mortgage for the tax on this land prior to the Baldwin mortgage, and had duly foreclosed said mortgage and sold the premises upon the foreclosure sale to the defendants subject to the Baldwin mortgage, or omitted to make the mortgagee or the assignees of said mortgage parties to such foreclosure. In such case the legal title to the premises would have passed to the defendants, subject to the rights of the assignee or owner of the Baldwin mortgage to redeem from such sale.
+Such rights the plaintiff doubtless acquired by the purchase at the foreclosure salé. He has acquired and possesses the rights of a subsequent mortgagee unforeclosed where the title is vested in a purchaser under a prior foreclosed mortgage. He is simply a mortgagee, and as such cannot maintain an action of ejectment till lie has extinguished the prior title of the defendants.
+These views involve the reversal of the judgment and the granting of a new trial, with costs to abide the event.
+Judgment reversed aud new trial granted.
