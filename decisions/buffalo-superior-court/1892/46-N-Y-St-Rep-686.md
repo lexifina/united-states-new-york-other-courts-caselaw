@@ -1,0 +1,24 @@
+---
+court: "Buffalo Superior Court"
+decided: "1892-07-08"
+citations: ["46 N.Y. St. Rep. 686"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles H. La Friend, Resp’t, v. The New York Central & Hudson River Railroad Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0686-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2083986
+cites_cases: ["37 St. Rep., 14"]
+---
+
+# La Friend v. New York Central & Hudson River Railroad
+
+## Majority (White, J.)
+
+White, J.
+I am of the opinion that while the testimony in the case would have justified the submission to the jury of the question of contributory negligence on the part of the plaintiff, the judgment and order appealed from must be reversed, for the reason that the court erred in admitting in evidence the letter dated December 29, 1884, written by John S. Bidwell to the defendant. The purpose of that evidence was to show negligence on the part of the defendant in not keeping a flagman at night at the crossing where this accident occurred. There could have been no other purpose, because it appears by undisputed testimony that the defendant actually kept a flagman there through the day, but not at night. This letter of December 29, 1884, was intended as a compliance with a resolution of the common council of the city of Buffalo directing the street commissioner to notify the defendant to place a flagman at this crossing pursuant to the provisions of § 5 of chap. 8 of the city ordinances, which makes it obligatory upon all railroads to cause a flagman to be stationed at such crossings within ten days after notice from the common council to do so, and to cause such flagman to remain near said crossing to give notice of the approach of trains. This ordinance imposes a penalty for neglect on the part of a railroad to comply with its provisions. No provision is made by statute or ordinance as to the form of the notice to be given, nor as to the way in which it must be served. This letter was enclosed in an envelope, sealed and addressed to the defendant, and the proper postage was paid thereon. It was then deposited in .a postal or United States mail box in the City and County Hall. The respondent contends that this constituted legal notice to the defendant requiring it to place and keep a flagman at the crossing in question. In the absence of proof of its receipt by the defendant, we do not think that the notice thus given was effectual.
+It may well be contended that an effectual notice should embrace an authenticated copy of the resolution adopted by the common council in such a case, or that it should at least contain something to indicate its official character. But if we were to assume that the form of the notice as given was proper, and that the defendant was bound to know its official source and origin if received by it, it would not overcome the difficulty which confronts us, because there was no evidence of legal service of the notice upon the defendant.
+The rule in such a case is well stated by Judge Earl in the case of Beakes v. Da Cunha, 126 N. Y., on p. 297; 37 St. Rep., 14. He says: “ Where any statute or the terms of any contract require notice to be given and there is nothing in the context of the statute or the contract, or in the circumstances of the case, to show that any other notice was intended, a personal notice must always be given.” Similar language is used in many instances by the courts of this state. For the purposes of the question before us, the ordinance is a statute, and there is nothing in its context or the circumstances of the case to show that any other • than a personal notice was intended by the ordinance. It cannot be said that the evidence in question was harmless.
+The j udgment and order appealed from should be reversed, and a new trial ordered.
+Hatch, J., concurs; Titus, Ch. J., not sitting.
