@@ -1,0 +1,36 @@
+---
+court: "New York Surrogate's Court"
+decided: "1910-12"
+citations: ["8 Mills Surr. 34"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the matter of the Judicial Settlement of the Account of James L. Scott, as Excutor of the Last Will and Testament of Martin McDonald, Deceased."]
+source_url: "https://static.case.law/mills-surr/8/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1079263
+---
+
+# In re the Judicial Settlement of the Account of Scott
+
+## Majority (Ostrander, S.)
+
+Ostrander, S.
+Deceased died August 5, 1908, leaving a will by which he devised all his estate to Kittie McDonald, his widow. He left no personalty except some personal eiFects which were set aside for the widow’s exemptions. He left certain realty subject to mor gages. After his death foreclosures were started upon these mortgages. The widow and sole devisee continued in possession of this realty and received the rents of it.
+The executor published a notice to creditors to present their claims; and, up to the spring of 1909, claims to the amount of about $1,500, exclusive of interest, were presented to him. Funeral expenses and expenses of administration, exclusive of his attorney’s bill for services, had been incurred by the executor, amounting to $163. Creditors were urging their claims and proceedings were commenced by the executor for a sale of decedent’s real estate to pay these charges.
+Mrs. McDonald desired, if possible, to prevent a sale of the realty; and she went with Mr. Parker to the office of Mr. Brown, attorney for the executor, for a conference as to what should be done.
+She now claims that Mr. Parker was not her attorney. But he went to Brown’s office with her and in her presence represented to Brown that he was her attorney and acting for her, and she paid him for services in .connection with the settlement of these matters, and she never gave Brown any notice that such relations had ceased.
+At Brown’s office a list of the claims which had been presented and of the executor’s disbursements was shown to Mrs. McDonald and her attorney, and Brown told them he would try to ascertain how much it would cost to pay the claims already presented and pay for his services and further claims which might be presented. A little later the executor wrote ME Parker’s law partner, Mr. Wemple, that, as near as he could estimate it would take about $2,250 to pay all the debts and expenses of administration and that upon payment of that, sum he would release any claim against the real estate and close the matter up. A list of the claims which had been presented was shown to Mrs. McDonald and given to her and Mr. Parker by Mr. Brown. She says that Mr. Parker told her that Mr. Scott would pay all the claims, fees and disbursements, and that some small bills had not been presented, and that $2,250 would cover everything. Forty-one dollars and thirty cents of claim was afterward presented and allowed. She says that she understood that Mr. Brown was to be paid out of the estate; that she supposed that $2,250 was to be used to settle the whole estate.
+She instructed Parker & Wemple to procure $2,250 from the Fiegenspan corporation and pay it over to the executor to dose matters up. This corporation required that the executor should pay up all the debts and expenses and procure a settlement of his account and discharge, in order to release the real «state which was to be security for the loan of $2,250, and left the matter in the hands of Parker & Wemple to carry put. The corporation then made the loan to Mrs. McDonald, paying over that amount to the executor, who gave his receipt as follows:
+“ SURROGATE’S COURT. SARATOGA COUNTY.
+In the Matter of the Estate of Martin McDonald, Deceased.
+“Ballston Spa., N. Y., June 28, 1909.
+■“ Received of Christian Fiegenspan, a corporation of Newark, New; Jersey, by the hands of Messrs. Parker & Wemple, its attorneys, the sum of Twenty-two hundred and fifty ($2250.00) Dollars, being in full payment of the debts as presented to the executor of the above named Martin McDonald, and in full for all disbursements and services incurred and to be incurred in the matter of the adminstration of the said estate. It is agreed that the executor of said estate is to go ahead and make payment of said debts from out of the moneys hereby paid into his hands as above mentioned, and proceed to institute and prosecute to a decree as soon as practicable finally settling the accounts of said executor and his discharge as such.
+“ Jambs L. Scott,
+“ Executor etc., of Martin McDonald, deceased.”
+Mr. Scott had performed some services and made some disbursements by way of a trip to New York, in reference to a life insurance policy, but the amount and value thereof is not stated.
+Mr. Brown, his' attorney, had probated the will, taken proceedings for sale of realty, procured an appraisal, received and investigated the claims and had various conferences and negotiations with divers persons in reference to said claims and as to raising funds to pay the debts and save the realty.
+The value of his services is not in evidence.
+It was competent for Mrs. McDonald to contract with the executor with reference to his services and expenditures, and I think she has done so, and "that she is bound by the contract.
+In accordance with this view the account should be allowed as filed.
+Decreed accordingly.
