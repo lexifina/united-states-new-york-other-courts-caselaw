@@ -1,0 +1,26 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-07-14"
+citations: ["17 N.Y. St. Rep. 837"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Charles G. Havens, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0837-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008285
+cites_cases: ["19 Conn., 347", "20 Penn., 277", "32 Hun, 126", "35 Hun, 401", "4 Dem., 318", "43 N. Y., 388", "82 N.Y., 406", "95 N. Y., 403"]
+---
+
+# In re the Estate of Havens
+
+## Majority (Ransom, S.)
+
+Ransom, S.
+A decree is about to be entered admitting to probate the will of the decedent, after an unsuccessful contest thereof by his heirs at law and next of kin. The latter, availing themselves of the right secured to them by section 2624 of the Code of Civil Procedure, have put in issueand raised a question as to the validity of certain dispositions of personal property contained in the will. These are found in its 20th and 21st clauses. The conclusion which I have come to respecting the 21st clause renders unnecessary the consideration of the question of the validity of the 20th clause.
+The 21st clause is as follows: “In case by disability of the beneficiary or from other cause the last preceding clause or item should fail to take effect so as to pass to or to the use of the said Havens Relief Fund Society, my residuary estate, or the proceeds thereof, or all or any part or parts of the same, I give, devise and bequeath said residuary estate and any and every part thereof which shall fail to be actually applied to the purposes indicated in the last preceding item of my will, unto the persons named and who first qualify as my executors and John D. Jones and William H. H. Moore and the survivors and survivor of them absolutely and in fee. And this devise and bequest is in the confident belief that they will apply my estate and property so vesting in them in accordance with my wishes, but it is intended to be unconditional and free from any legal trust or obligation qualifying their absolute title.”
+It is claimed, by the contestants that this provision, when taken by itself or considered in the light of the evidence which has been submitted respecting it, is to be regarded as an attempt on the part of the testator, in the contingency mentioned by him and through the instrumentality of persons upon whom he has imposed a trust for the purpose, to make an illegal disposition of his residuary estate.
+I have carefully considered the evidence and am unable to find therefrom that there was any such agreement or understanding, express or implied, on the part of any of the persons mentioned or referred to in the clause under consideration, or any such attitude or conduct on the part of any of them as would justify the conclusion that the testator intended to exact, or they intended to regard as an obligation absolutely binding on them compliance with such wish as the testator had expressed in his will or otherwise as to the disposition by them of the property left them.
+The evidence adduced practically leaves the solution of the question raised by the contestants to rest almost, if not entirely, upon the language used in this clause. That language, taken in connection with the evidence, shows at most the existence of a belief and expectation on the part of the testator, that his residuary estate would be devoted to the purposes of the charity which is referred to in the twentieth clause of the will, by the persons to whom he bequeathed it absolutely, but whom he advisedly and expressly left free to so devote it, or to retain or use it for. their own personal benefit. This the law recognizes the right of a testator to do. Rowbotham v. Dunnett, L. R., 8 Ch. Div., 430; Bowker v. Wells, 2 How. Pr. (N. S.), 150; Lynch v. Loretta, 4 Dem., 318-319; Riker v. Cromwell, 7 N. Y. State Rep., 316; Manice v. Manice, 43 N. Y., 388; Gilbert v. Chapin, 19 Conn., 347-8; Harper v. Phelps, 21 id., 270; Hood v. Oglander, 34 L. J. Ch., 531; Pennocks’s Estate, 20 Penn., 277; The Mayor, etc., v. Wood, 3 Hare, 142; Foose v. Whitmore, 82 N.Y., 406-7; Lawrence v. Cooke, 104 id., 638; cases cited in Lawrencer. Cooke (32 Hun, 126); cases cited in Willets v. Willets (35 Hun, 401).
+The cases which have been submitted in opposition to the conclusion which I have reached have no application here, and are differentiated from the authorities above cited in the important and controlling particular that in them the language of the will, or the action or attitude of the party •ostensibly benefited by it, was of such a nature as to impose upon him a trust with respect to the property bequeathed. Matter of O’Hara, 95 N. Y., 403; Willets v. Willets, 103 id., 650; 7 N. Y. State Rep., 868; Russell v. Jackson, 10 Hare, 204; Jones v. Badly, L. R., 3 Eq., 635; Lefevre v. Lefevre, 2 Sup. T. & C., 341.
+The result which I have reached confirms the views which I expressed upon the hearing concerning this subject. It precludes the next of kin of the testator from raising, and relieves me from the necessity of considering the question .as to the validity of the twentieth clause of the will.
