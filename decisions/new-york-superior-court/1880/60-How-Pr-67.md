@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1880-11"
+citations: ["60 How. Pr. 67"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick Pustet et al. agt. William P. Flannelly and Hugh Flattery."]
+source_url: "https://static.case.law/how-pr/60/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4530713
+cites_cases: ["17 Abb., 436", "35 N. Y., 65", "6 Bosw., 553", "61 N. Y., 264", "8 Abb., 354"]
+---
+
+# Pustet v. Flannelly
+
+## Majority (Bussell, J.)
+
+Bussell, J.
+The section of the Code (820) under which "this motion is made reads as follows:
+“ The defendant against whom an action to recover upon a contract, or an action of ejectment, or ah action to recover a chattel is pending, may at any time before answer, upon proof by affidavit that a person not a party to the action makes a-demand against him for the same debt or property without collusion with him, apply to the court, upon notice to that person and the adverse party, for an order to substitute that person in his place and to discharge him from liability to either on his paying into court the amount of the debt, or delivering possession of the property or its value, to such person as the court directs. The court may, in its discretion, make such an order.”
+It has been uniformly held that this provision of the Code for interpleader by order is a substitute for the' old action of interpleader, and is governed by the same principles. It appeals, as the closing paragraph indicates, to the equitable discretion of the court. According to all the cases reported such an application ought not to be granted where it clearly appears on the face of the papers that the claim of the third party is frivolous and without validity (Trigg agt. Hitts, 17 Abb., 436; Johnston agt. Lewis, 4 Abb. [N. S.], 150; Mohawk and H. R. R. agt. Clute, 4 Paige, 384; Shaw agt. Coster, 8 Paige, 347, 348; Wilson agt. Duncan, 8 Abb., 354; Doran agt. Fox, 61 N. Y., 264, 268).
+In the last case cited the court say: “ It must appear that there is some doubt — this means reasonable doubt —to which of the claimants the debt or duty belongs.” In the case at bar the plaintiffs, in good faith and for full value, purchased the note in question from the nominal payee and the apparent owner without notice of any claim by anybody else. This made their title to that note good as against all the world (Belmont Branch Bank agt. Hoge, 35 N. Y., 65; S. C., below, 6 Bosw., 553).
+It is not pretended by the defendant nor by the receiver, who appears upon' this motion, that the receiver ever had possession of the note in question, or any knowledge of .its existence, until long after it became due, and until long after the plaintiffs’ rights had fully matured. Section 2469 of the Code relating to the receiver’s title to personal property expressly says, in the closing paragraph, that the “section does not affect the title of a purchaser in good faith without notice and for a valuable consideration.” Upon a trial, if the same facts were presented by evidence as are here presented by affidavit, the court would at once direct a verdict for the plaintiffs. I can see, therefore, no reason why this money, to which the plaintiffs are clearly entitled, should be impounded to await the long delay which would be inevitable by reason of the great volume of business in the courts. The position and character of the parties make an additional reason why this money should not be so impounded. If the receiver were substituted as a defendant upon the petition of a debtor against whom the receiver made a claim, the plaintiff could not demand security for costs, nor could he probably obtain any judgment for costs as against the receiver, because the receiver, as such, is confessedly without funds from the trust estate with which to pay any such costs, and he might justly appeal to the court not to compel him personally to pay costs under such circumstances. On the contrary, it is the custom in these actions to award costs out of the fund in court to all the parties, unless there are special and strong reasons for not doing so. The result then of granting this motion would be to impound a considerable sum of money to which the plaintiffs are justly entitled, for an indefinite time subject the plaintiffs to additional expense in contesting a claim which must eventually be decided in their favor, and possibly to costs, great or small, in recovering what the court can now see is clearly their own.
+It may be said that the conclusion above stated is drawn from the affidavits, and decides upon mere affidavits the merits of a controversy which it is the object of an interpleader to have decided upon sworn testimony at a trial. The answer to that suggestion is, that this is a motion made upon affidavits, and to be decided upon affidavits, in which the bona fides of the plaintiffs is not even questioned, and where the only response to their positive and circumstantial allegations is a mere denial' of knowledge whether or not those allegations are true.
+The motion is therefore denied, with ten dollars costs.
