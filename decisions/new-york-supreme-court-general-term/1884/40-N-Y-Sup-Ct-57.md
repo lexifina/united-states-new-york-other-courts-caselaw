@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1884-05"
+citations: ["40 N.Y. Sup. Ct. 57"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Haight J., concurred."]
+parties: ["CHARLES LICHTENBERG, Appellant, v. ELIZABETH HERDTFELDER and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/40/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1926282
+cites_cases: ["16 Barb., 541", "23 Hun, 49", "31 Hun, 274", "32 N. Y., 457", "32 N. Y., 53", "53 N. Y., 622", "67 N. Y., 264", "7 Hun, 208", "88 N. Y., 434", "88 N. Y., 503"]
+---
+
+# Lichtenberg v. Herdtfelder
+
+## Majority (Daniels, J.: Davis, P, J.:)
+
+Daniels, J.:
+The action was brought by the plaintiff to set aside as fraudulent, conveyances of real estate made and executed by George Herdtfelder and wife.to Jacob Heinlen, and afterwards conveyed by Heinlen to Elizabeth Herdtfelder, the defendant. Before it was commenced George Herdtfelder and wife executed and delivered a mortgage to the plaintiff upon land situated in Westchester county, to secure the bond of George Herdtfelder for the payment of $4,000. The bond and mortgage were executed on or about the 29th of November, 1876, and the debt not being paid during the lifetime of the debtor, but maturing afterwards, an action for the foreclosure of the mortgage was brought against his executors. Judgment was recovered in that action for the foreclosure of the mortgage, the sale of the mortgaged property, and the recovery of the deficiency against the executors.
+A sale was made of the real estate included in the mortgage, but it failed to produce the amount found to be due by the judgment, and a judgment for a deficiency amounting to the sum of $3,126.96 with interest was entered and docketed against the executors about the 1st of August, 1877. The executors, as a matter of fact, had no personal or real proj>erty of the testator in their hands or subject to their disposition, out of which this deficiency could be collected, and the plaintiff thereupon brought this action to set aside these conveyances made of his real estate by the testator in his lifetime, and by the grantee in those conveyances to the testator’s wife, alleging them to have been made with the intent to hinder, delay and defraud his creditors.
+No execution was issued upon this judgment, and because of that •omission the complaint of the plaintiff was dismissed at the trial..
+Under section 1871 of the Code, which is similar in its effect to the preceding provisions contained in the Revised Statutes upon the same matter, an execution is required to be returned unsatisfied in whole or in part, to enable the judgment creditor to maintain an action to compel the discovery of anything in action or other property belonging to the judgment debtor. These provisions are unqualified and without exception when that may be the nature of the action. The creditor however is not obliged to resort to the remedy prescribed by this section of the Code. He may, notwithstanding its' enactment, bring an action under the general equitable authority of the court in aid of his execution, to remove such unlawful dispositions of the debtor’s property as may render the execution, while they exist, ineffectual. But to maintain such an action it has been held repeatedly that the issuing of an execution against the property of the judgment debtor is first indispensably necessary.
+If the action is brought under the authority of the statute execution must not only be issued, but it must be returned in whole or in part unsatisfied. While if the action is to remove illegal obstruct tions, caused by fraudulent incumbrances or disposition of the debtor’s property, out of the way of the execution, it must at least be issued before an action is commenced. This point has been frequently examined by the courts and it has been sustained with but few exceptions not now entitled to reliance as authority (McCartney v. Bostwick, 32 N. Y., 53; Adsit v. Sandford, 23 Hun, 49; Schmitz v. Langhaar, 88 N. Y., 503; Adsit v. Butler, 87 id., 585.) And the fact that the debtor himself may be deceased forms no legal excuse for the omission to issue the execution. His executors or administrators in that case stand in his place and represent him. (Glacius v. Fogel, 88 N. Y., 434.) And by section 1371 of the Code of Civil Procedure, when the judgment has been recovered, as it was in this instance, against the executors, an execution upon it against them to be collected from real or personal property in their hands, has been authorized. . (Code of Civil Pro., §§ 1371, 1825, 1826.) And a compliance, at least, with what has been directed by those sections was necessary to exhaust the. creditor’s legal remedy. (See, also, Royer Car Wheel Co. v. Fielding, 31 Hun, 274, and Bowe v. Arnold, 31 id., 256, decided by this General Term in January, 1884.) Aiid that it must be issued before tbe creditors suit can be maintained, although the debtor himself may be deceased, was held in Estes v. Wilcox (67 N. Y., 264). And Allyn v. Thurston (53 N. Y., 622) seems to have been to the same effect. Loomis v. Tifft (16 Barb., 541) is an authority supporting tbe plaintiff’s right to maintain the action without an execution, but as an authority for that purpose it stands alone and is directly in conflict with tbe others which have been mentioned and must, therefore, be considered to have been overruled. By the principle so uniformly maintained in them an execution against property must be issued before a creditor’s suit can be maintained. Miller v. Miller (7 Hun, 208) and Dumleavy v. Tallmadge (32 N. Y., 457) are also to the same effect.
+The judgment from which the appeal has been taken was accordingly right and it should be affirmed.
+Haight J., concurred.
+Davis, P, J.:
+It is a maxim of the law and of equity tbat it will not demand a vain tiling. The facts of tbis case show that the issuing and return of an execution would be an absolutely useless and idle ceremony.
+I think, therefore, the court should not have dismissed the complaint, and feel constrained to dissent from the conclusion of my ■ brother Daniels.
+Judgment affirmed.
