@@ -1,0 +1,103 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-05-21"
+citations: ["38 N.Y. St. Rep. 213"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Chambers, Limited, App’lt, E. Le Roy Smith, Assignee, Impl’d, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/38/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2057784
+cites_cases: ["101 N. Y., 226", "104 N. Y., 606", "2 Barb., 9", "20 Abb. N. C., 155", "21 N. Y., 587", "42 Hun, 381", "44 Barb., 192", "5 N. Y. Supp., 910", "52 Hun, 484", "85 N. Y., 469", "93 N. Y., 31"]
+---
+
+# Chambers v. Smith
+
+## Majority (Mayham, J.)
+
+Mayham, J.
+The plaintiff attacks this assignment on the ground that upon its face it does not conform to the provisions of chap. 503 of the Laws of 1887.
+' By this act, chap. 466 of the Laws of 1877, as the same had been amended, was again amended by adding another section as § 30, which provides that: “ In all general assignments of the estates of debtors for the benefit of creditors, hereafter made, any preference created therein * * * shall not be valid, except to the amount of one-third in value of the assigned estate, left after deducting such wages or salaries, and the costs and expenses of such trust.”
+The assignment in this case does not follow the wording of the statute, and it is insisted by the appellant that the assignment directs the payment of the preferred claims in full only in case one third of the entire estate shall be sufficient for that purpose.
+The language of the proviso in the assignment is as follows: “ Provided, nevertheless, that all the claims above preferred to be paid shall be by the party of the second part paid in full only in case one-third of the value of the assigned estate shall be sufficient for that purpose; and the said preferences shall in every particular be made in accordance with the laws of the state of ¡New York in regulation of preferential assignments.”
+It is quite obvious that this language is broad enough to require the assignee to pay, the preferred claims in full if one-third of the bulk of the estate assigned, before any deduction for expenses or payment to labor was made, were sufficient for that purpose. But it is insisted on the part of the respondent that as the same paragraph of the assignment provided that “ the said preferences shall in every particular be made in accordance with the laws of the state of New York in regulation of preferential assignments, that any misdirection in the assignment was cured by that provision, and that the assignee was required to follow the statute, and not the precise wording of the assignment.”
+It is apparent, if we read the assignment in connection with the statute, that the assignor intended that the preferences should be measured by its provisions, and paid in full only out of one-third of the net assets after paying expenses of the execution of the trust and the statutory preference to laborers.
+This was the construction given to the assignment by the learned referee, and in that construction we think he is sustained by the case of Richardson v. Thurber, 104 N. Y., 606; 6 N. Y. State Rep., 489.
+The next point raised on this appeal by the appellant is that the assignment is void for the reason that it creates fraudulent preferences.
+Three of the notes held by Clark White, amounting in the aggregate to $2,000 and interest, were given by J. M. Upham, to which the assignor upon the notes themselves does not appear to be a party, and the only evidence upon this subject is that of the defendant Upham, who says the money was borrowed by his father, that it went into the business, and that, after his father’s death, be paid the interest on the notes.
+Did that act amount to such a valid assumption of the notes on his part as to bind him for the payment ?
+We think not. Assuming that J. M. Upham borrowed that money of White, and put it directly in the firm business, Upham, and not White, would thereby become the creditor of the firm, and White would be compelled to look in the first instance to J. M. Upham for payment
+He would have no claim against the firm as such.
+The most he could do would be to procure a judgment against. Upham and then in default of payment enforce it against J. W. Upham’s interest in the firm propertj.
+But it is said that on the death of J. M. Upham the defendant succeeded to all of his interest as his only next of kin and heir at law and that he took the estate of his deceased father subject to his debts.
+While that is so, the father’s debts in no just sense became the debts of the son.
+He may as administrator de son tort have made himself liable to the personal representative of his father’s estate for the property or money of his father’s estate which as against the personal representative or the creditors of such estate he wrongfully converted to his own use without due administration of that estate, but such liability if it existed could not be the subject of a preference in an assignment made by him for the benefit of his own creditors.
+The debts of J. M. Upham must be paid out of the estate, and if that estate is insufficient for that purpose this defendant Upham could not make good that deficit by a preference in favor of the creditors of his father as against his own creditors.
+The error into which the learned referee seems to have fallen on this branch of the case is that of treating Burr W. Upham as primarily liable for his father’s debts, because of the devolution of his father’s estate to him, as the next of kin of his father J. M. Upham and his taking and appropriating the same to his own use, or that by some valid act he had assumed and made himself personally liable to pay the Clark White notes.
+As we have seen, he did not become personally charged with the payment of his father’s debts by reason of his relation as next of kin or heir at law.
+Did he make such a valid personal agreement with Clark White ■or the holder of the Clark White notes as to bind him personally for their payment?
+Clark White was an uncle of the defendant Burr W. Upham and the only evidence in the case of Upham’s assumption of the White notes is in his testimony and in the receipt for payment of interest and his letter to his uncle after the death of his father.
+In his testimony he says: “ I wrote to Mr. White, my uncle, in relation to the matter; Clark White is dead; I never saw Clark White after my father died; I received a reply from White.
+“ Q. What, if anything, did you do in relation to these Clark White notes, in July, 1889, or about that time? A. I paid the interest on them up to the 1st of July, 1889.
+“ Q. At the time you executed this assignment did you believe that you were liable to pay the Clark White notes? A. Yes, sir, I did believe so; I told Mr. Gleason that the money on these Clark White notes was borrowed by my father.”
+The referee received in evidence upon this question, under the plaintiff’s objection, a letter written by the assignor to Clark White, as follows:
+“ Glens Falls, N. Y., Oct, 24, 1884.
+“ Clark White, Esq.:
+“ Dear Uncle—In reply to yours I would sa.y, I will take up one note of $500 on November 15th ór 20th ; cannot do it before. And will you kindly send me a receipt for interest paid on all notes July last, and oblige,
+“ Your nephew,
+“B. W. Upham."
+As bearing upon the question of the assignor’s liability upon these notes, the referee received in evidence, under the plaintiff’s objections, a letter from Clark White to the assignor, dated October 25, 1889, containing a receipt in the following form:
+“ Received, New York, July, 1889, $187.81-100 of B. W. Upham the amount of interest due on four notes given by J. M. Upham and J. M. Upham & Son, dated as follows,
+“April 12th, 1887, one of one thousand dollars.
+“Nov. 19th, 1887, one of ($500) five hundred dollars.
+“ Feb. 10th, 1888, one of five hundred dollars.
+“ Sept. 11th, 1888, one of five hundred dollars.
+“Clark White.”
+We find no other evidence in the case which either directly or indirectly bears upon the liability of the assignor to pay the Clark White notes made by J. M. Upham.
+The only agreement in writing by the assignor is in his letter of October 24, 1889, in which he agrees to “ take up one note of $500 ” without designating any particular $500 note.
+There were three $500 notes held by White, one given by J. M. Upham & Son and two by J. M. Upham alone.
+As the surviving partner of J. M. Upham & Son, he was liable on the note given by the firm, and his promise in this letter would, in the absence of any evidence to the contrary, be deemed to refer to the note on which he was liable.
+Nor do we see how it can bind the assignee if applied to any other note.
+If applied to the J. M. Upham individual notes, it would be but a collateral promise to answer for the debt of another without any consideration expressed in it, and should be void within the statute of frauds, as these notes were not made by the assignor, as appears upon their face and as is found by the referee, and as they did not represent a firm debt the assignor could not assume them as surviving partner and thus create a liability against the partnership, nor did his payment of the interest thereon amount to any valid legal assumption which' would bind him as an individual to pay the amount due on these notes.
+In no aspect of this case upon the evidence can these Clark White notes be held to be valid claims against the assignor individually or as surviving partner at the time of making this assignment.
+But it is insisted on the part of the defendant that at the time of making this assignment, the assignor believed he was liable to pay all of the Clark White notes and that the same were preferred therein in good faith and without intent to defraud his creditors or to create any illegal preferences.
+But even if the assignor believed himself liable to pay the notes given by his father to White, and to which he was in no way a party, that belief would not authorize him in his voluntary assignment for the benefit of his creditors to withdraw from his assets which legally and justly belonged to his creditors and direct the application of the same upon the debts of his father which he was not bound to pay.
+In First National Bank of Portchester v. Halsted, 20 Abb. N. C., 155 ; 11 N. Y. State Rep., 572, it was held that an assignment by a firm is invalidated by a preference of an individual debt of a partner out of the proceeds of the partnership property.
+In Wilson v. Robertson, 21 N. Y., 587, it was held that the appropriation by an insolvent firm of partnership property to the payment of the individual debt of one partner is not simply void, but is fraudulent and avoids the deed of assignment.
+In Bank of Granville v, Jacob Cohn, 42 Hun, 381; 6 N. Y. State Rep., 318, it was held that a general assignment transferring the property of a firm for the purpose of paying an individual debt of the partners as well as the firm debts, is wholly void as to the firm creditors, and must be set aside.
+All of these cases and many others of a kindred character proceed upon the theory that such a transfer tends to hinder, delay and defraud the creditors of the assignor.
+In the case at bar the direct effect of preferring the debts of J. M. Upham out of assets assigned, is to divert some of the assigned property to a purpose other than the payment of the assignor’s debts, and thus to hinder, delay and defraud his creditors.
+As was said in Bank of Granville v. Cohn, supra, “ the effect being known, the intent to accomplish it is just as plain as if it had been confessed in the assignment itself.” And in whatever form such intent is sought to be accomplished the law condemns it. Billings v. Russell, 101 N. Y., 226.
+It is true that the statute, 2 R. S., 137, § 4, provides that the question of fraudulent intent “ shall be deemed a question of fact and not of law,” and it is insisted that as the referee has found that this assignment was “ executed by the defendant Burr W. Upham to the defendant Smith'honestly and without attempt to hinder, delay or defraud the creditors of the assignor,” that that finding is conclusive and cannot be reviewed.
+But the referee in finding that the three White notes preferred were made by J. M. Upham and not by the defendant Burr W. Upham, has found a state of facts inconsistent with the liability of the assignor upon such notes, and with his right or power to legally prefer the same, from which facts the inference of a fraudulent preference is inevitable.
+In discussing the effect of the provisions of the statute above quoted, Earl, J., in Coleman v. Burr, 93 N. Y., 31, uses this language :
+“ The statute provides that the question of fraudulent intent * * * shall be deemed a question of fact and not of law ” and ;the claim is made that here there is no finding by the referee of a fraudulent intent; but on the contrary he has found the whole transaction fair and honest.
+He has however found facts from which the inference of fraud is inevitable, and although he has characterized the transaction as honest and fair that does not make them innocent nor change their essential character in the eye of the law.
+Burr must be deemed to have intended the natural and inevitable consequences of his act and that was to hinder, delay and defraud his creditors. See also Webb v. Daggett, 2 Barb., 9; and Kavanagh v. Beckwith, 44 Barb., 192.
+The application of this rule to the facts proved in this case and the findings of the learned referee upon the subject of these three notes would lead to the legal conclusion that they were improperly preferred in this assignment, and that that instrument was for that reason fraudulent and void as against the creditors of the assignor.
+If we are right in this conclusion it is unnecessary for the disposition of this appeal to determine the other questions raised by the appellant; that the payment by the assignor to his wife on the day of the assignment in contemplation of that event, and without any valid pecuniary consideration, rendered the assignment fraudulent and void, out as that question is presented and discussed by both parties to this action it may aid in the future determination of this case to examine it.
+The evidence is undisputed that the assignor did this in contemplation of the assignment and for a purpose creditable to his nature, unless in doing so he violated the legal rights of his creditors; in which case the law requires him to be just rather than generous.
+The assignment purported to transfer to the assignee the assignor’s entire property not exempt from levy and sale on execution.
+If, therefore, in contemplation of the assignment the assignor intentionally and for the purpose of putting any considerable portion of his assets beyond the reach of the assignment gave this money to his wife, it would be such a fraud as to taint the whole assignment and tend to show it fraudulent as against the creditors affected by the withdrawal of the assets from the assigned estate.
+The assignment and schedules purport to embrace the assignor’s entire estate, and as was said by Finch, J., in Shultz v. Hoagland, 85 N. Y., 469, “If that representation was false to a material extent and consciously and purposely so, the inference of fraudulent intent could hardly be avoided.
+The intentional omission calculated to deceive and to lull into slumber and inactivity the interest and diligence of the creditors would plainly argue a fraudulent purpose.
+In the case of Rothschild v. Salomon, 52 Hun, 484; 24 N. Y. State Rep., 205, the assignment was made on the 23d of January, and on the 20th of January, three days before, the assignor gave his wife a check of $402 which was charged to household ex. penses, other checks were drawn about the same time, which appeared to have been intended for household expenses, and the court in commenting upon these transactions says, Van Brunt, J., “ In the case at bar, this money was abstracted in anticipation of and in preparation for the assignment.
+“ It was intended to reserve it from the operations of the assignment for the future benefit of the assignor, and the assignment was only a part and parcel of the scheme, and therefore the fraudulent intent in withholding this money permitted the making of the assignment which was simply a culmination of the whole scheme, and rendered the whole proceeding void.”
+It is true that the amount extracted from the assets in that case is much larger than in the case at bar, but, in other respects, the cases are quite similar in character.
+It is true that it has been held that in case of a withdrawal of a small per cent of the assigned estate before making the assignment for the assignor and family to subsist upon and its return to the assignee after assignment, the question of fraudulent intent is for the jury. Fay v. Grant, 5 N. Y. Supp., 910; 23 N. Y. State Rep., 571.
+In the case at bar the referee refuses -to find upon this subject, upon request of plaintiff, that the assignor gave his wife the $200, and makes no special finding in reference thereto, but finds generally that the assignment was not fraudulent.
+In Vietor v. Nichols, 13 N. Y. State Rep., 461, it was held that the withdrawal of funds just before an assignment did not necessarily vitiate the same, unless it was so connected with the assignment as to show that it was a part of it, or done in contemplation of withdrawing assets from the operation of the assignment
+In the case at bar the withdrawal of the money paid by the assignor to his wife is an act of great significance and it is difficult to distinguish it on principle from the cases above cited in which such withdrawal was regarded as evidence of fraud for which assignments were set aside.
+For reasons above stated we think the learned referee erred, and that the judgment should be reversed.
+Judgment reversed, referee discharged and a new trial ordered, costs to abide event'
+Landon, J., concurs.
+
+## Dissent (Learned, P. J. (dissenting).)
+
+Learned, P. J. (dissenting).
+I should think the reasoning of my brother Mayham’s opinion conclusive, if it were not for the recent decision of Durant v. Pierson, in the second division of the court of appeals, 36 N. Y. State Rep., 463.
+In that case a surviving partner of an insolvent firm had borrowed money after the death of his partner. It was admitted that this did not create a debt of the firm, and that the note which he gave was only a debt of the survivor. Inasmuch however as he had used a part of the money thus borrowed to pay the debts of the insolvent firm it was held that he might prefer this individual debt in his assignment and might direct -its payment out of the partnership assets before partnership debts.
+Now in the present case the deceased partner borrowed the money and gave his own notes for it; and the money went into the business. The surviving partner who (as in the Person case), was the son of the deceased partner and succeeded to the business and to his father’s property, treated this as a liability which he ought to pay and he did pay the interést. He made assignment and preferred these notes. If then a surviving partner can prefer his own notes over debts of the firm in respect to firm assets, for the reason that part of the money was used to pay firm debts, I see no reason why such surviving partner may not prefer in like manner his deceased partner's notes when the money borrowed thereon has been used in the firm business. As said in the Pier-son case: “ The creditors have not beerr harmed or prejudiced * * * for the assets were increased in value to the amount of the loan." So in this case the assets of the firm were increased in value by the money loaned to the deceased partner, and therefore the creditors of the firm are not prejudiced by the preference.
+It may be added that as between the partners, or more accurately as between the surviving partner and the estate of the deceased, this assignment is'more equitable than that in the Pierson case. That preferred the assignee's own debt This prefers a debt of this deceased partner.
+It seems to me that the principle established in the Pierson case sustains the finding below; although if it were not for that case I should think the reason of my brother Mayham’s opinion unanswerable. Respect for that decision, therefore, compels me to dissent.
