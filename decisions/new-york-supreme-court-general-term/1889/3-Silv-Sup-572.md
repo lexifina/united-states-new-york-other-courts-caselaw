@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-11-07"
+citations: ["3 Silv. Sup. 572"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sophia Luhrs, Appellant, v. Supreme Lodge Knights and Ladies of Honor, Respondents."]
+source_url: "https://static.case.law/silv-sup/3/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039126
+---
+
+# Luhrs v. Knights
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+The defendant is a charitable and benevolent association, organized under the laws of the state of Kentucky, having a subordinate association in the county of Kings and state of New York known as Teutonia Lodge No. 794.
+In 1883 one John Luhrs became a member of said Teutonia Lodge and remained such member until the time of his death.
+In May, 1886, the defendant issued its certificate to said John Luhrs, entitling the beneficiary named therein to participate in its relief fund to the amount of $1,000 at his death, such beneficiary being Sophia Luhrs.
+In November, 1886, John Luhrs, being desirous to change the beneficiary named in this certificate, caused the same to be surrendered, and a new certificate was issued in lieu thereof to John Luhrs, in which the beneficiary named was his niece, Anna M. Meyer. The rules and regulations of the corporation required the beneficiary to be some member of the family of the assured, or person dependent upon him. The proof in this direction tended to show that Anna M. Meyer was not the niece of the assured, and there is no evidence that she was in any way dependent upon him.
+John Luhrs having died, the plaintiff,' the beneficiary named in the first certificate, brought this action to recover the one thousand dollars provided to be paid by the first certificate.
+The learned judge, who presided at the trial, directed a verdict for the defendant, upon the ground that no matter what might be the claims of Anna M. Meyer, the plaintiff had none, because the certificate in pursuance of which she claimed had been surrendered and canceled, and from the judgment thereupon entered this appeal is taken.
+The foundation of the plaintiff’s claim is the proposition that John Luhrs, at the time of the taking out of the first certificate having designated the plaintiff as his beneficiary, could not by any act of his deprive her of the money due upon her policy, as her counsel calls the certificate.
+That this has been the policy of the law in this state in respect to policies of life insurance is undoubtedly true; and if the same rules are to apply to the certificate in question which have obtained in respect to such policies, the point would be well taken. But there are two differences in the case at bar which seem to show that the point taken cannot obtain.
+In the first place, by the laws of the defendant, the right to change a relief fund certificate after its issuance is expressly recognized where provision is made for such change and the issuance of a new certificate upon the surrender of the old one; and in the second place, by the express provisions of § 18 of chapter 175 of the Laws of 1883, which, by § 16, is made applicable to associations organized in another state, but doing business in this, the right to effect such a change is made obligatory upon such association, and the right is given to make such change without the consent of the beneficiary.
+These circumstances take the case out of the ordinary rule governing the construction of life insurance policies, in respect to which such features have not existed, and the legislation referred to shows that the policy of this state in respect to the certificates of benefit issued by associations similar to the defendant is that the beneficiary shall take no vested right by the issuance of the certificate. The fact that the assured attempted to name a beneficiary who was not entitled to take under the rules and regulations of the defendant confers no right upon the plaintiff.
+If the assured named a beneficiary who is not entitled to claim under the laws governing the association, then the benefit either goes to his personal representative or reverts hack to the relief fund; but the certificate under which the former beneficiary could claim is not reinstated; that has been surrendered and canceled, has ceased to exist, and all rights under it are ended.
+The association only can raise the question as to whether the beneficiary named in the certificate is entitled to claim, and this defense cannot he interposed by a person in whose favor no certificate exists and who has no other claim. Even if the personal representatives of the assured might have a claim in case the beneficiary named in the second certificate could not take, such claim is not represented by the plaintiff.
+We have not considered it necessary to notice the objection to the testimony of the witness Koch, as without his evidence the fact appears that the old certificate was surrendered and the new one issued to John Luhrs, the assured.
+The judgment appealed from must, therefore, be affirmed, with costs.
+Daniels and Brady, JJ., concur.
