@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-10"
+citations: ["79 N.Y. Sup. Ct. 119"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Brien and Parker, JJ., concurred."]
+parties: ["Thomas H. Unckles, Appellant, v. Romulus R. Colgate and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/79/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4689415
+cites_cases: ["43 N. Y. 273", "59 Hun, 387"]
+---
+
+# Unckles v. Colgate
+
+## Majority (Pollett, J.:)
+
+Pollett, J.:
+This action is not prosecuted by a former shareholder in any one of the constituent corporations of the National Lead Trust to compel a return and reassignment of shares assigned to the trust by the plaintiff, or by his predecessor in interest, nor by a shareholder or the successor of a shareholder of any one of the constituent corporations, to compel the defendants to restore to the corporation the ■specific property received by the defendants or their predecessors from said corporation, upon the theory that the defendants are mere agents or depositories of said property; but the action is prosecuted in behalf of the holder of trust certificates upon the theory that the so-called agreement is the measure of his rights and of the defendants’ liabilities. Whether an action can be maintained by the holder of the certificates to compel the defendants to restore the specific shares and .property which they have received from the corporations and their shareholders, is a question not involved in this case.
+The plaintiff alleges in his complaint, and his counsel concedes in his brief, that the trust was organized aud carried on for the purpose.of monopolizing the business of producing and selling various important products of lead, and that the objects sought to be attained by means of the trust agreement were and are contrary to public policy, and that the agreement is void under the laws of this State. Entering into and carrying on this combination is an indictable misdemeanor (Penal Code; § 168), and was at common law.
+The learned counsel for the plaintiff seeks to avoid the class of decisions holding that a court of equity will not determine the respective rights and interests of persons arising out of an unlawful agreement, by citing cases holding that when money has been paid or property delivered upon an unlawful executory contract, an action may be maintained under certain circumstances to annul the contract and recover the money paid or property delivered. This action does not fall within that class of cases for the reason that it is not alleged that the plaintiff ever delivered any property or paid any money to the defendants, or to their predecessors. If it be said that the person to whom plaintiff’s certificates were first issued must have done so, the answer is that it is not alleged by what corporation the shares exchanged for plaintiff’s certificates were issued, there is. no identification of the property, and there are no appropriate allegations in the complaint for the recovery of the original consideration, whatever it was, for these certificates. This action plainly proceeds upon the theory that the plaintiff’s rights are to be determined by the trust agreement, and that it is necessary, in order to determine those rights, to have an accounting of all the transactions of the defendants and of their predecessors in carrying out this unlawful agreement. 'This is precisely what a court of equity will not do. This proposition has been so many times decided by the courts of this State that a citation of many authorities and a discussion of the reason of the rule would be a work of supererogation. ( Woodworth v. Bennett, 43 N. Y. 273; Knowlton v. Congress de Empire Spring Company, 57 id. 518 ; Arnot v. Pittston & Elmira Coal Co., 68 id. 558; Leonard v. Poole, 114 id. 378; Cray v. Oxnard Brothers Co., 59 Hun, 387.)
+The case last cited was brought by the receiver of the North River Sugar Refining Company to compel an accounting of the sugar trust. It was held in that case that the combination represented by the defendants and entered into between the parties was unlawful, and for that reason the plaintiff was not entitled to the aid of a -court of equity to compel the defendants to account. We think that case is not distinguishable in principle from the one at bar, and is controlling upon this court. Both actions are for the same purpose ; to recover the amount which the plaintiff may be entitled to on an accounting of the transactions had under an unlawful contract. It is urged that it is a hardship to leave the persons who have entered into this combination without any remedy in the courts. The answer is, that if the courts take an accounting and attempt to do justice as between the wrongdoers, a precedent will be,set and judgments declaring such contracts illegal will be without any deterrent effect, because it will be known that if the enterprise is declared to be contrary to law, that, notwithstanding, all of the rights of the participants therein will be protected by the courts.
+We think the complaint -does not state a cause of action, and on that ground, without considering the question of parties, the judgment-should be affirmed, with costs.
+O’Brien and Parker, JJ., concurred.
+Judgment affirmed, with costs.
