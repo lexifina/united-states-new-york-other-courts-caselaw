@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12"
+citations: ["90 N.Y. Sup. Ct. 203"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Wilber, Respondent, v. Mary Wilber and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/90/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1930789
+---
+
+# Wilber v. Wilber
+
+## Majority (Cullen, J.: Brown, P. J., concurred; Dykman, J., dissenting.)
+
+Cullen, J.:
+This is an appeal from a judgment entered upon the report of a referee.
+We are met at the threshold of the discussion of this case with the objection that the action cannot be maintained. The plaintiff alleges that he is the owner of certain personal property consisting of farming utensils, live stock, etc., on the farm of the plaintiff and defendants. That the defendants have, or claim to have, some right or interest in said personal property; that the defendants are in possession of the property and refuse to permit the plaintiff to take possession of the same. Thereupon the defendants pray judgment that the several rights and interests of the plaintiff and defendants in said property be determined and declared. The judgment follows the prayer and declares that plaintiff owns certain of the chattels; that each of the defendants owns others of the chattels, and that certain of the chattels are owned in common.
+We know of no precedent for an action of this character. The action is concededly not for a partition of chattels owned in common nor for an accounting between the parties as partners. The plaintiff seeks to establish no equitable title to the chattels nor to enforce any trust. He rests solely on his legal title, and avers that the defendants have or claim an interest in the chattels. If the defendants are part owners with him, he has no right to take the chattels from their possession. His only remedy is by the action for partition given by the Code of Civil Procedure. If he denies defendants’ interest in the chattels his remedy is replevin or con version. Even as to real estate, equity will not entertain an action to remove a hostile claim as a cloud on the title unless the instrument is on its face valid and its invalidity proceeds out of facts not appearing in the proof necessary for the claimant to make in an action to enforce his claim. The action to quiet claims to real estate is not equitable, but legal and purely statutory, no such action being maintainable except in compliance with the statute. Certainly, equity will not take cognizance of suits in equity as to chattels where it would not entertain jurisdiction of similar suits as to real estate.
+The judgment appealed from should be reversed and complaint dismissed, with costs.
+Brown, P. J., concurred; Dykman, J., dissenting.
+Judgment reversed and complaint dismissed, with costs.
