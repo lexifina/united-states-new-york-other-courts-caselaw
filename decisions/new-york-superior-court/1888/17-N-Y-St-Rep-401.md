@@ -1,0 +1,32 @@
+---
+court: "New York Superior Court"
+decided: "1888-07-13"
+citations: ["17 N.Y. St. Rep. 401"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles R. Ranch, Resp’t, v. The New York, Lackawana and Western Railway Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008179
+cites_cases: ["2 N. Y., 514", "44 N. Y , 367", "46 Hun, 66", "5 Hill, 603", "51 N. Y., 668", "97 N. Y., 507"]
+---
+
+# Ranch v. New York, Lackawana and Western Railway Co.
+
+## Majority (Hatch, J.)
+
+Hatch, J.
+The decision of this court upon the right of the plaintiff to maintain this action must be regarded as settled, and not now open to debate.
+The judgment rendered herein must, however, be reversed, for errors committed upon the trial, in the reception o£ evidence. The error arose upon the examination of the witness Jones, thus:
+Q. ‘ ‘ What has been the effect on the property on Commercial street, in the neighborhood of the plaintiff, by the construction of the embankment?”
+Defendant objected, and the court said: “You had better coniine your questions to the premises in question.”
+Defendant’s counsel then objected to the question on the ground that it was immaterial and improper, and called for a conclusion that it was the province of the jury to determine the effect from the situation.
+The court overruled the objection and the defendant excepted.
+Plaintiff then asked: “What has been the effect of the construction of the embankment in Commercial street and Water street upon the plaintiff’s premises?” The witness, answered: “I should think it had depreciated fully fifty per cent or more.”
+Motion was then made to strike out the answer which was denied and defendant excepted.
+We think the objection was well taken, that the testimony should have been excluded. It is proper in cases of this character to permit the expression of opinion, by experts, as to the value of property without the obstruction, and thus-to aid the jury in determining the damages which have accrued from the unlawful act. The question, to which this testimony was directed, was that of damage sustained by the plaintiff. Of this question the jury were, the sole arbiters. The value of the property was- a question of fact and the witness when giving his opinion upon value, gives the results of his observation, experience and knowledge upon that subject. It partakes of the character of fact depending upon the extent of knowledge possessed by the witness; from such opinion the jury may find a. fact. The weight to be attached to the opinion is still a question for them. Bedell v. Long Island R. R. Co., 44 N. Y , 367-370.
+Courts are not inclined to extend this rule beyond its present limits ; the question permitted to be asked clearly exceeds it. To ask, “What has been the effect of the construction of the embankment ” is to allow the witness to determine that question ; that is the precise question which the jury were empanelled to try. When the witness is allowed to state his conclusion, nothing remains for the jury but to announce it; and we thus have, not the judgment of the jury derived from facts, but simply the opinion of the witness as to what the verdict should be. The witness so understood■ this question, as his answer was : “I should think it had depreciated fully fifty per cent or more ;” and the witness, Kraft, in answer to a similar question, answered that “ I should think it is damaged one-half.” Courts have frequently condemned such testimony. Ferguson v. Hubbell, 97 N. Y., 507; Schwander v. Birge, 46 Hun, 66; Morehouse v. Mathews, 2 N. Y., 514; Paige v. Kelley, 5 Hill, 603; Allen v. Stout, 51 N. Y., 668.
+This court at the present term has held evidence of the same character inadmissible. Avery v. N. Y. C. and H. R. R. R. Co., ante.
+Judgment reversed and new trial ordered ; costs to abide event.
+Beckwith, Ch. J., concurs, Titus, J., not sitting.
