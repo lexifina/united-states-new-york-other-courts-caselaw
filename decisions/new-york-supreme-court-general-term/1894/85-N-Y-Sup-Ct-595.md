@@ -1,0 +1,41 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["85 N.Y. Sup. Ct. 595"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Haight and Bradley, JJ., concurred."]
+parties: ["Horace A. Reynolds, Individually and as Administrator, etc., of Celia A. Reynolds, Deceased, Respondent, v. William Penn Sisson, Appellant, Impleaded with Others."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4720349
+---
+
+# Reynolds v. Sisson
+
+## Majority (Lewis, J.:)
+
+Lewis, J.:
+'■ This action was brought by the plaintiff, as administrator of his mother’s estate and as the assignee of the interests of three of the devisees under the will of Almeron Durkee, deceased, to terminate a trust arising under a voluntary assignment by the plaintiff’s testatrix, the plaintiff and the defendants J. Frances Beane, Carrie Beane, Thomas and Horace T. Durkee to the defendant Sisson, and to compel an accounting by said trustee in respect to his receipts and disbursements under the assignment.
+The action was referred and judgment was entered upon the report of the referee, and this appeal was taken by the defendant Sis-son, and comes here upon exceptions only, no ease having been made.
+The facts found by the referee, so far as it is necessary that they should be stated for the purposes of this decision, are as follows : One Almeron Durkee departed this life in 1867, leaving him surviving five children, Morton E. Durkee, Celia A. Reynolds, Mary Durkee, Horace T. Durkee and J. Frances Beane. He left a last will and testament, which was duly admitted to probate, and letters testamentary were granted to William Alexander, the executor named in the will; the testator gave to his children the use of his estate during their lives respectively, and at the death of each life tenant to the heirs at law and next of kin of such life tenant.
+A portion of the property devised was the, homestead known as the “ Durkee homestead,” consisting of a dwelling house and about seven acres of land, worth $2,000.
+The affairs of the estate became somewhat involved, and as a result a judgment was rendered in favor of Jason Alexander, the administrator of the executor named in the will, against the five children mentioned, for the sum of $3,216.03.
+The defendants in the judgment were persons of limited business capacity and ignorant of the proper means to be adopted to arrange for the payment of the judgment. They called upon the appellant, who was a law student at the time, and was afterwards admitted as. a lawyer. He resided in their neighborhood, and was a person in whom they all had confidence. They consulted with him as to the best means to be adopted to pay the judgment; the interview resulted in their executing and delivering to the defendant a written transfer and assignment of the entire interest of all the heirs in the estate with the exception of that of .Morton E. Durkee.
+The assignment was absolute in its terms, but the defendant gave back a writing called a “ certificate of trust,” which stated, in substance, that whereas the persons named had united in conveying to him all their right and interest in said estate, he acknowledged that the assignment was made for the purpose of enabling him to raise the necessary money to satisfy the judgment mentioned, and for the further purpose of obtaining from Alexander an assignment of a judgment which he had recovered against Morton E. Durkee for $2,754.50, and that after payment to the defendant of a reasonable compensation for his services, the estate was to be restored by the trustee to the parties entitled thereto. These instruments bore date in January, 1887. The two judgments mentioned were based upon one and the same cause of action.
+The defendant Sisson entered at once upon the performance of the trust, taking possession of the estate assigned, and very soon thereafter with his own funds he paid $2,258.39, which was the amount of the judgment remaining unpaid after applying a payment made thereon by the defendant Morton E. Durkee out of his own funds. He caused the judgment to be satisfied of record. The defendant received moneys belonging to the estate amounting to $11,000 or $12,000.
+He mingled them with his own funds; neglected to keep any separate account thereof; he involved the estate in unnecessary litigation, instituting and prosecuting several actions and proceedings which were ill-advised and which resulted in large expenditures of the trust property and in ultimate defeat of the objects for which said actions and proceedings were instituted and prosecuted.
+The trust was fully performed prior to the 1st day of October, 1888. Defendant refused to make any statement of his accounts as trustee, or to give the assignors any information relating to the trust; he, in effect, repudiated the trust created by the instruments aforesaid, and by dilatory px-oceedings hindered and delayed the assignors in their efforts to compel him to render an account; he gx'eatly exaggerated the importance off his services in the execution of the tx’ust, and made chai’ges therefor grossly in excess of what they wex’e reasonably worth.
+His conduct toward the assignors was hostile and defiant; he claimed that he did not owe them anything, but, on the contrary, that they were indebted to him in a large amount.
+One of the actions instituted by him was to partition the Durkee homestead mentioned in the will; the property was sold under the judgment of partition, and the defendant bid it in upon the sale in his own name for the sum of $1,200. He very soon thereafter sold it for $2,000.
+He claimed that he was entitled to the $800 profit, and only accounted for the sum bid, $1,200. The referee charged him, and we think correctly, with the $800 advance on the sale of the homestead. Holding it as a trustee, he was not entitled to retain to himself the profit made upon the sale.
+The referee found that there was a balance due from the defendant to the plaintiff of $3,693.30. In arriving at that sum, he charged the defendant with six per cent interest on annual debit balances, compounding the interest.
+The defendant complains of this rate of interest, and suggests that the trust agreement did not contemplate investments of the funds, but that the trustee should hold them in hand so that they would be available for the payment of any costs and expenses which might arise and for the adjustment thereof among the assignors equitably. There would be some force to his claim were it not for the findings of the referee heretofore stated.
+Having improperly retained possession of the funds and used them for his own purposes, there would seem to be no good reason why he should not pay the usual established rate of interest. Had the money been paid over to the beneficiaries, they presumably could have invested it at the legal rate of interest, and they could have invested the interest from time to time as it was received by them.
+Mr. James Cox had charge, as attorney, of the litigation in which, the estate was improperly involved by the trustee; he was familiar with the amount of work done by the defendant in the prosecution of the cases. He was called as a witness, and the defendant sought to show by him the value of his, defendant’s, services.
+The evidence was excluded and the defendant excepted. The referee allowed the defendant five per cent commissions upon the amount of money received by him belonging to tbe estate, which amounted to the sum of $596.50.
+He did not allow anything for the labor of the defendant in the actions commenced by him; having determined that they were improperly prosecuted, he could not with any propriety have found that the defendant’s services were of any value to the estate. Having so determined, no harm resulted to the defendant from the exclusion of the evidence of Mr. Cox. We have examined all of the exceptions of the defendant and find nothing in them calling for a reversal of the judgment.
+The judgment should be affirmed, with costs.
+Dwight, P. J., Haight and Bradley, JJ., concurred.
+Judgment appealed from affirmed, with costs.
