@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1954-12-02"
+citations: ["5 Misc. 2d 8"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ralph Lopez, Jr., an Infant, by His Guardian ad Litem, Ralph Lopez et al., Plaintiffs, v. Lawrence Wirzberger, Defendant."]
+source_url: "https://static.case.law/misc2d/5/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1008603
+cites_cases: ["243 App. Div. 282", "246 App. Div. 539", "275 App. Div. 674", "281 App. Div. 544"]
+---
+
+# Lopez v. Wirzberger
+
+## Majority (Charles S. Colden, J.)
+
+Charles S. Colden, J.
+Motion by defendant for an order staying all proceedings on the part of the plaintiffs and resettling the order of this court dated October 11, 1954, insofar as it directs that this action be placed “ on the Trial Term Calendar, Part I for Jury cases at the foot of the ready day calendar for trial ” and that instead the order provide that this action be placed on the jury calendar of this court in the position it would have occupied had it been noticed for the October, 1953 Term.
+This action was originally commenced in the City Court, Queens County, and a note of issue served for the October, 1953 Term. It was later discovered that the complaint was defective in that the demand for damages exceeded the jurisdiction of the City Court. A stipulation was thereupon entered into by the attorneys for the respective parties amending the complaint so as to reduce the claims for damages. New pleadings were served in accordance and the case was in due course reached for trial. As the jury was being selected, the Presiding Justice notified counsel that, in his opinion, the City Court lacked jurisdiction of the action and accordingly it was dismissed. Thereafter a motion was made to reargue this disposition and to vacate the dismissal and afford the plaintiffs sufficient time to make an application to the Supreme Court, under sections 110 and 110-a of the Civil Practice Act, for an order removing the action to that court. This motion was granted to the extent of vacatng the dismissal to enable the plaintiffs to make the removal application. Such an application was made before this court which resulted in the order of October 11, 1954 above referred to.
+The defendant contends that the provision in said order sought to be eliminated in effect granted the plaintiffs a preference under rule 151 of the Rules of Civil Practice to which they were not entitled and for which there was no basis in the record. The plaintiffs, on the other hand, urge that there was a waiver of this objection since the order of October 11, 1954, containing the objectionable provision was settled on 14 days’ notice and defendant interposed no objection thereto or a counterorder; that in any event, resettlement is a procedure of correction or clarification and not one to change or amplify the direction of the court and consequently there is no jurisdiction for the change sought by this application.
+It has been recently held by the Appellate Division, Fourth Department, that resettlement is permissible only for inclusion in a judicial pronouncement of a provision which was initially omitted through inadvertence and is a procedure of correction or clarification and not one to change or amplify the direction of the court. (Matter of Bausch, 281 App. Div. 544.) By the same token, resettlement is permissible for the elimination from a judicial pronouncement of a provision which was initially included through inadvertence. Indeed, in Judy’s Confections v. A. & A. Constr. Corp. (275 App. Div. 674), the Appellate Division of the Second Department directed the resettlement of the court’s decision by striking therefrom findings which were immaterial to issues presented by the pleadings and which decided questions not at issue. So, in the case at bar, this court inadvertently signed an order removing a case from an inferior court to this court under sections 110 and 110-a of the Civil Practice Act which included a provision granting a trial preference, permissible only on motion made pursuant to the provisions of rule 151 of the Rules of Civil Practice.
+Subdivision 3 of section 110-a of the Civil Practice Act expressly states that upon the removal of an action from a lower court to the Supreme Court, it ‘ ‘ shall continue in such court as if originally instituted therein.” That provision does not authorize the removed case to be placed on the jury calendar for a day certain. (Cf. Matter of Sensale v. Kashowitz, 246 App. Div. 539.) Upon the payment of the necessary fees, the action may be placed upon the jury calendar in the position it would have occupied had it been originally instituted therein and been noticed for the term for which it was originally noticed in the lower court. (Thompson v. Yellow Taxi Corp., 243 App. Div. 282.) In the case at bar this would be for the October, 1953 Term.
+Accordingly, the defendant’s motion is granted to the extent of removing the action to this court and directing that upon proof of payment of the fees provided by law, it shall be placed on the calendar with the issues noticed for the October, 1953 Term.
+Proceed on notice.
