@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-11-22"
+citations: ["48 N.Y. St. Rep. 801"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William T. Hart et al., Resp’ts, v. The Ogdensburgh & Lake Champlain Railroad Co. et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/48/cases/0801-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2089886
+cites_cases: ["121 N. Y., 397", "31 St. Rep., 524", "93 N. Y., 640"]
+---
+
+# Hart v. Ogdensburgh & Lake Champlain Railroad
+
+## Majority (Herrick, J.)
+
+Herrick, J.
+This is a motion to dissolve an injunction pendente lite; if the injunction is dissolved the transaction which the plaintiff seeks the aid of the court to prevent may be consummated.
+^ The granting of an injunction pendente lite rests in the sound discretion of the court of original jurisdiction, such discretion being reviewable by the general term. H. R. T. Co. v. W. T. & R. R. Co., 121 N. Y., 397, 401; 31 St. Rep., 524; Hatch v. The Western Union Tel. Co., 93 N. Y., 640.
+In this case that discretion was deliberately and carefully exercised.
+The same justice who granted the injunction pendente lite presided at the special term when the motion was made to vacate it, and again carefully considered the subject, as is evident from reasons he gives in his opinion on the motion to vacate the injunction.
+Where it appears that vacating the injunction granted pendente lite by the court of original jurisdiction may result in depriving the plaintiff of the remedy he seeks in his action, I do not think the general term should reverse the action taken by such court, unless it appears pretty plainly that the plaintiff is not entitled to the relief sought by him in his main proceeding.
+In this case, if the plaintiff cannot have a temporary injunction, the transaction against which" he protests, and which by this action he seeks to prevent, will undoubtedly be completed, and he will be practically remediless.
+If this court in the exercise of its discretion reverses the decision of the special term, the plaintiff will be without redress, this «court being as to such matters the court of last resort. Hatch v. W. U. T. Co., 93 N. Y., 640, and cases cited.
+Sometimes it may be desirable, because of the great injury or loss that may be occasioned to the party enjoined by the temporary injunction, to have the controversy determined practically by motion such as this, but ordinarily it had better be settled in the principal proceeding where either party may have a final determination by the court of appeals if they so desire.
+Now in this case it does not clearly appear to me on the face of the pleadings that the plaintiff is not entitled to the relief he seeks, neither does it appear that the defendants will be seriously injured by being restrained in this proceeding until the final determination of this action.'
+Under such circumstances I do not think we should, on a motion such as this, undertake to consider the merits and in effect determine the whole controversy.
+Let the order appealed from be affirmed, with ten dollars costs and printing and other disbursements.
+Mayham, P. J., and Putnam, J., concur.
