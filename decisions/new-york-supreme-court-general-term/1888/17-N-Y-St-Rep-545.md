@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-23"
+citations: ["17 N.Y. St. Rep. 545"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Oliver C. Collins, App’lt, v. Maria Fairchild, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0545-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008384
+cites_cases: ["105 N. Y., 450", "63 N. Y., 612"]
+---
+
+# Collins v. Fairchild
+
+## Majority (Ingalls, J.)
+
+Ingalls, J.
+Upon the trial of this action in the county court, the complaint was dismissed. The action was brought by the plaintiff to recover of the defendant, the price of lumber which was furnished by the plaintiff upon the request of Lyman Fairchild, the husband of the defendant, and which was used in the construction of a barn upon the land of the defendant. The defendant resided with her husband, upon the premises, and saw the lumber used in the building, and made no objection thereto. Lyman Fairchild was in the plaintiff’s employment when the lumber was furnished, and had been for two years previous therto, and had purchased groceries, and other provisions of the plaintiff, which was applied upon his work. On one occasion, he requested the plaintiff to sign as surety, a note, to raise money to be applied towards the payment for the land which the defendant had purchased. When a portion of the lumber was furnished, Lyman Fairchild told the plaintiff that the defendant was-to receive money from her father’s estate in April, and that the lumber would then be paid for, and the note would also then be paid. The plaintiff testified that Mr. Fairchild told him at the time he ordered the lumber, that he was acting for his wife, and that he wanted the lumber for his wife to put up a barn upon the lot.
+The plaintiff further" testified that up to the time of the-sale of the lumber he had never'heard the defendant’s husband say that he was her authorized agent; that he had never asked the defendant to pay for the lumber, and that he had not seen her previous to the time the parties appeared before the justice of the peace to try the action; that he had several times applied to Mr. Fairchild to pay for the lumber. We are unable to find in this case sufficient evidence from which to infer authority from the defendant toiler husband to pledge her credit for the lumber in question. It is very clear that he was not made her general agent, and no special authority was established by which she became liable to the plaintiff. No similar purchase was shown to have been made by the husband by the direction of the defendant. The mere request of the husband to the plaintiff to sign the note as surety, amounts to but very little in support of such pretended agency, even though such request, had been made by her direction. The declarations of the husband could not have the effect to bind his wife, unless the authority to make the same were established. The fact that the lumber was used to improve her separate estate was, standing alone, insufficient to make her liable. It is quite probable that the husband desired the barn for his own convenience, and undertook to build the same upon her land, and that she was quite willing that it should be done. The case does not show that the defendant -was informed of whom the lumber was procured by her husbaud previous to the commencement of the action. There is a clear failure of proof to establish an agency, or any authority in the husband to pledge the credit of the defendant for such lumber. The defendant created no charge upon her separate estate, nor did she render herself personally liable to the plaintiff. The plaintiff should have secured her order for the lumber, in case he intended to furnish it upon her responsibility. He took the risk in trusting to the representations of the husband, without in any manner conferring with the defendant, with whom he had no dealings, and who was a stranger to him, and he must bear the consequences of such omission to take a reasonable and proper precaution. Doubtless the plaintiff conferred an act of kindness, and it is to be regretted that he should be a loser thereby; but the court cannot bend the law to meet every seeming hardship. The decision of the county court was correct. Jones v. Walker, 63 N. Y., 612; Sanford v. Pollock, 105 N. Y., 450; 7 N. Y. State Rep., 525; Chamberlain v. Taylor, 1 N. Y. State Rep., 525.
+The judgment must be affirmed, with costs.
+Learned, P. J., and Landon, J., concur.
