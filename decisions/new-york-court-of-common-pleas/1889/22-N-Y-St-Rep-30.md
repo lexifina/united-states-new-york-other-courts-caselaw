@@ -1,0 +1,28 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1889-02-07"
+citations: ["22 N.Y. St. Rep. 30"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Morrell, Pl’ff and Res’pt, v. The Long Island Railroad Company, Def’t and App’lt."]
+source_url: "https://static.case.law/ny-st-rep/22/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020744
+cites_cases: ["100 N. Y., 202", "107 N. Y., 531", "107 N. Y., 625", "83 N. Y., 391", "90 N. Y., 26"]
+---
+
+# Morrell v. Long Island Railroad
+
+## Majority (Allen, J.)
+
+Allen, J.
+—The plaintiff, among other things, alleged in his complaint was owner certain premises near the village of Flushing, county of Queens, state of Hew York; that the defendant’s railroad ran along or near the easterly and northerly boundary of his lands over a trestle-work built for that purpose; that he was desirous of procuring sand and gravel to fill in .said trestle-work; that he entered into a contract with the . defendant, whereby he agreed to procure the necessary sand and gravel at a convenient place near the line of said road; that the defendant agreed to carry the same to said trestle-work, at a place designated by the plaintiff, and fill up said trestle-work as agreed; that the defendant further contracted to fill in upon the land of the plaintiff, at a place named by him, enough of said sand and gravel to make a depot site about one hundred feet square, and would also, if plaintiff secured a large factory at or near the proposed depot, put in a switch for his convenience; that in pursuance of said agreement, the plaintiff did procure said sand and gravel as in said agreement provided; that the defendant neglected and refused to carry out the said contract, and fill in the said trestle-work, and also neglected and. refused to make a depot site; that the defendant took all the earth so procured for it by plaintiff and used the same for its own purpose' at other points upon said road than that agreed upon between the parties; and for this alleged breach of contract the plaintiff claimed damages in the sum of $2,000.
+The answer denies the making of any such contract, or any violation thereof; or, that any sand or gravel procured by the plaintiff was in pursuance of any contract with it or under its direction or at its request; with a further denial that any sand or gravel procured by the plaintiff had been used by the defendant.
+The issue thus joined was brought to trial before a jury, who found a verdict in plaintiff’s favor for the sum of $1,000. Upon appeal to the- general term of the city court the judgment entered upon the verdict was affirmed, and from such decision of the general term this appeal was-taken.
+The main question of fact involved was whether or not the alleged contract was ever made. The verdict of the jury has definitely settled this fact, and it cannot, on this appeal, be made the subject of review. On the argument of the appeal we understood the appellant to admit the making of the contract, its breach, and the right of the plaintiff to damages. His criticisms were confined to the rule of damages adopted by the court as applicable to the case,, and to which he had duly excepted.
+We have no doubt that the rule applied by the trial judge in reference to the depot site, which was to be made upon the plaintiff’s land, was correct, and that the fair cost of filling in the depot site, as stipulated, was recoverable. Laraway v. Perkins, 10 N. Y., opinion of Johnson,. J., p. 373.
+That part of the charge, however, which relates to the damages to be recovered for the failure to fill in the trestle-work appears to be erroneous.
+The defendant having neglected and refused to fill in the trestle-work upon its railroad, as it agreed to do, the plaintiff was entitled to recover such damages as followed naturally and approximately from the breach and were within the contemplation of the parties as likely to result therefrom. The fault of that portion of the charge which deals with the question of damages for the failure to fill in the trestle-work is, it seems to us, that it erroneously assumes that the contract was different from what it actually was, that the railroad was liable if the filling in of the-trestle-work did not exclude water from the plaintiff’s land and make it dry. The whole scope of the charge on this branch of the case is that the railroad company was bound to make the plaintiff’s land dry. That was not the contract. The defendant did not agree to build an embankment that would keep the water from the plaintiff’s land, but agreed to fill in the trestle-work with sand and gravel from the bank of earth owned by Mr. Bogert. It was therefore error, we think, to submit this part of the case to the jury upon the theory that the defendant had contracted to keep the water from the plaintiff’s land.
+For the reason above stated the judgment should be reversed and a new trial ordered, with costs to the appellant, to abide the event.
+All concur.
