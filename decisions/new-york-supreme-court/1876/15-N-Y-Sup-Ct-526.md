@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1876-10"
+citations: ["15 N.Y. Sup. Ct. 526"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Daniels, J., concurred.", "Present — Davis, P. J., and DaNiels, J."]
+parties: ["WILLIAM WARD, Respondent, v. SARAH JAMES, Impleaded with others, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/15/cases/0526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11279739
+cites_cases: ["37 N. Y., 380"]
+---
+
+# Ward v. James
+
+## Majority (Davis, P. J.:)
+
+Davis, P. J.:
+Costs and fees as between parties to an action, are the creatures of statute. Where no statutory right to charge or allow them is shown, no legal right exists. (Downing v. Marshall, 37 N. Y., 380.) The question in this case is not, therefore, what the referee ought to have for his services and disbursements, but what the law allows; and the court is bound to administer the law as it is found to be declared by statute. This was an action for the foreclosure of a mortgage. The plaintiff recovered a judgment directing a sale. A referee was appointed to make such sale, who prepared and inserted an advertisement of sale in the Daily Register. The defendant served notice of appeal from the judgment, and procured a judge’s order fixing the amount of security for the purpose of staying proceedings. She gave an undertaking with two sureties in the amount so fixed, accompanied by the affidavit of the sureties that they were each worth double the amount specified in the undertaking, as required by section 341 of the Code. These proceedings were completed on the day before the day fixed in the notice, for sale, and were served on the plaintiff’s attorney. The referee attended with an auctioneer for the purpose of making-sale, but, on being served with a copy of the notice of appeal and undertaking, he adjourned the sale for one week, and afterwards made three further adjournments, all of which were advertised in the Register, and then the proceedings were dropped. The affidavit shows that these several adjournments were made at the direction of the plaintiff’s attorney, for the purpose of giving the defendant an opportunity to perfect her undertaking, by the justification of the sureties, or of other sureties, the first having failed to justify. Section 341 of the Code gives the plaintiff the right to except to the sureties in the undertaking within ten days after notice of the appeal; and provides that unless they or other sureties justify, as prescribed by sections 195 and 196, within ten days thereafter, the appeal shall be regarded as if no undertaking had been given. As steps to justify before the judge were taken in this case, it is fair to presume that due exception to. the sufficiency of the sureties was made by the plaintiff’s attorney. Under such circumstances, we think the right to adjourn the sale until it should be determined whether or not the sureties would justify, properly, existed. The stay was a contingent one, and would, by the provisions of the Code, have ceased upon failure to justify; and the plaintiff was not required to abandon the steps already, taken before notice of the appeal was given, until the sureties had completely justified. We think that reasonable adjournments may be had in such cases until the justification shall be complete. In our opinion, the expenses of advertising were properly chargeable. Their amount, however, is regulated by statute; and if not charged, as defendant alleges, in accordance with the statute, she is entitled to have them taxed, and reduced to the amount fixed by statute. The charges for auctioneer’s fees on adjourning the sale are not allowable. No statute gave such fees at the time these proceedings were had. The only way in which auctioneers could be compensated upon such sales was by making their fees a part of the terms of sale, to be paid by the purchasers; and if that course was not abused to the prejudice of defendants, there would be no reason for the court to interfere. In this case there was no sale, and no statute is produced to us showing that fees for adjournments by auctioneers can be charged in such cases.
+A gross sum of fifty dollars was allowed to the referee. Doubtless, this was no more than a fair compensation, but its allowance was erroneous. The court had no power to award it. This court had occasion to examine the question of referees’ fees in Innes v. Purcell (2 N. Y. S. C. [T. & C.], 541). Where referees’ fees are in dispute they are the subject of taxation.
+It follows from these views, that the order of the court below must be reversed, but, under the circumstances, without costs; and an order entered directing that the costs claimed in this case be adjusted by the clerk of the court, in accordance with the provisions of the statute and the decision of the court in the case above referred to.
+Daniels, J., concurred.
+Present — Davis, P. J., and DaNiels, J.
+Order reversed without costs; order entered directing that the costs claimed be adjusted by the clerk, in accordance with the provisions of the statute, and the decision of the court in the case referred to in the opinion.
