@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1891-02"
+citations: ["66 N.Y. Sup. Ct. 492"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barrett and Bartlett, JJ., concurred."]
+parties: ["ARTHUR TERRY, Appellant, v. GEORGE E. HORNE, as Trustee for HATTIE E. TERRY, and HATTIE E. TERRY, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/66/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4625565
+cites_cases: ["15 Wall., 373", "49 N. Y., 373"]
+---
+
+# Terry v. Horne
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+The plaintiff and the defendant, Harriet E. Terry, were married .several-years prior to 1876, and lived together as husband and wife until said year, when the said Harriet E. Terry, commenced an -action against the plaintiff for divorce, upon the ground of cruel and inhuman treatment and for alimony for her support. The plaintiff also commenced an action in the same court against said Harriet E. Terry for divorce upon the ground of adultery. For some time prior to the commencement of these actions said plaintiff and ■defendant had separated, and continued to live apart until the 14th of April, 1877. After the commencement of said actions the defendant, Harriet E. Terry, commenced proceedings in both to obtain alimony for her support during the pendency of the action and for counsel fees to enable her to prosecute and defend the same-which were granted, and the plaintiff, not complying with the order, was adjudged guilty of contempt and gave a bond for his appearance at a future day to purge himself of his contempt. While these proceedings were pending the plaintiff admitted to the defendant-that he had been deceived as to the statement charging her with adultery, and proposed that she should discontinue her action and he would discontinue his, and that they should assume their marital 'relations. The defendant Terry ■ declined to do so unless the plaintiff would make some provision for her by securing some money through a trustee for her use. It was agreed that the plaintiff should do so, and the agreement set forth in the complaint was drawn up and executed, whereby there was secured for the benefit of said Harriet E. Terry the sum of seven dollars per week. One T. O. Campbell was mentioned as trustee in the agreement, and he having declined to act, the defendant Horne was duly appointed in his place. The plaintiff continued to make the weekly payments so secured by said trust deed up to the time of the commencement, of this action, which was brought to set aside said trust deed upon the ground of duress and the illegality of the contract.
+• Upon the trial, at the end of the plaintiff’s case, a motion being made to dismiss the complaint upon the ground that facts sufficient to constitute a cause of action had not been set out in the complaint or proved, the motion was granted and the court dismissed the-complaint upon the merits, and from the judgment thereupon entered this appeal is taken. So far as the court dismissed the complaint upon the merits, we think the judgment was erroneous. The complaint was dismissed because of the failure of proof upon ' the part of the plaintiff, and not because there was any issue of fact-which had arisen between the plaintiff and the defendant, which had been determined in favor of the defendant. The court should not, where a complaint is dismissed because of failure of proof, give absolute judgment in favor of the defendant. The result in such a case is similar to that which obtained in a nonsuit under the old practice ; and, under such circumstances, the judgment was never considered a bar to a new action in case the plaintiff could fortify his ease by additional proof.
+It is not necessary to discuss the other propositions which have been presented for consideration, namely, whether after-twelve years of acquiescence in a contract a party can plead duress, or whether a contract of the description mentioned in the complaint entered into for the benefit of a wife is illegal and against public policy, for the reason that these considerations afford no ground whatever for equitable interference. If the contract is illegal, it is a perfect defense in an action at law. If it had been obtained by duress, such would be a perfect defense to an action at law brought to enforce the contract.
+It is well settled that equity cannot be called xxpon to afford relief to a plaintiff where he has a complete answer at law in case an action is brought against him upon the contract. (Grand Chute v. Winegar, 15 Wall., 373; Allerton v. Belden, 49 N. Y., 373 ; Town of Venice v. Woodruff, 62 id., 462; Fowler v. Palmer, 62 id., 533; Globe Mutual Life Ins. Co. v. Reals, 79 id., 202; Troy and Boston R. R. Co. v. Boston, Hoosac Tunnel and W. R. Co., 86 id., 107.) In all these cases the pi’inciple is recognized that equitable intex1ference cannot be sought where the rights of the parties can be equally protected in an action at law. If the plaintiff was sued upon the contract in question, if any of the causes of action set up in his complaint in this action wei’e well founded, they would form a complete defense to the action upon the contract.
+The judgment should be modified by striking therefrom the words “ on the merits,” and as modified affirmed, without costs.
+Barrett and Bartlett, JJ., concurred.
+Judgment modified as directed by opinion, and as modified affii’med, without costs.
