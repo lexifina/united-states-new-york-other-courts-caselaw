@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-02"
+citations: ["70 N.Y. Sup. Ct. 333"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., and O’Brien, J., concurred."]
+parties: ["ISAAC K. COHN and Another, Executors, etc., Respondents, v. LOUIS BECKHARDT, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/70/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4646405
+cites_cases: ["94 N. Y., 414"]
+---
+
+# Cohn v. Beckhardt
+
+## Majority (Patterson, J.:)
+
+Patterson, J.:
+The real question in this case is as to whether the complaint is one in tort purely and simply, or one for money had and received. The action was brought by the executor and executrix of one Cohn, who, during his lifetime, had employed the defendant to collect from one Godfrey Eischer a certain sum of money. Apart from the formal allegations, the complaint sets forth that the defendant, as agent, being employed to collect the money, did, on the 9th day of November, 1887, so collect it, “ and wrongfully and unlawfully, wholly refused, failed and neglected to pay the same, or any part thereof, to the said Jacob Cohn, although the same was duly demanded, l>ut wholl/y misappropriated and misapplied the said sum, etc., to his own use,” and judgment is asked for the specific amount and interest. Iii the answer the employment and collection of the amount are admitted, but it is set up that at the time of the original employment the defendant was to receive, as compensation for his services, twenty-five per cent of the amount of the claim, and that afterwards it was agreed between Cohn and the defendant that the compensation of the latter should be increased to fifty per cent of the claim. On the trial the plaintiffs introduced the mere formal proof showing the right of the plaintiffs, as the representatives of Cohn, to sue, and rested. Thereupon a motion was made to dismiss the complaint, which was denied. The defendant was then put upon the stand and was asked certain questions as to the agreement between himself and Cohn, which were properly excluded ; and nothing being-shown as to the substance of the defense, the court directed a verdict for the plaintiffs for the full amount claimed.
+The contention of the defendant is that there was a total failure of proof of the cause of action alleged in the complaint, and that either the complaint should have been dismissed or the defendant allowed to go to the jury “ on the question of embezzlement.” But, as we look at this complaint, the gist of the action is not the “misáppropriation and misapplication ” of the money collected, but the not paying it over. It is true the words referred to are coupled with a general statement of facts, and characterize the conduct of the defendant; but are they really the ground of the action ? Is the defendant sued for the misappropriation of the money, or for not paying it over after demand; and are the words “misappropriated and misapplied to his own use” anything more than a mere statement of a legal conclusion which necessarily follows in every case where a person after demand retains money belonging to another, and which, ex aequo et tono, he should have restored on demand, having- no excuse for retaining it ? The words above quoted are merely surplusage.
+It is nowhere alleged that the defendant received the money in a fiduciary capacity. That may possibly be inferred, on the same ground on which it is true that every agent to receive money for another necessarily acts in a fiduciary capacity, but that inference does not make a person liable ex delicto unless averments are contained in a complaint showing that the whole intention and purpose of the action is to hold the defendant strictly and absolutely for his wrong, and not on bis mere legal obligation to pay money be should not detain from its real owner. • If a suit is brought for the nonpayment of a promissory note, and it should be alleged in the complaint that the defendant fraudulently, and with intent to cheat the plaintiff, refused to pay, it would scarcely be supposed that such an allegation would indicate that the action was in tort. What the defendant in this case omitted to do was to pay over the money collected on demand; and it is settled in this State by authority, that where an agent, or one who may be assumed to have been acting in a fiduciary capacity, does not pay over money he is not necessarily to be held hable in tort for not paying it over, and that even in a suit for an admitted balance due after an accounting, the plaintiff adds nothing to his cause of action, on the express or implied promise to pay, by asserting that the defendant has converted the money to his own use. (Segelken v. Meyer, 94 N. Y., 414.) The words above quoted from the complaint in this action are tantamount to an immaterial averment that the defendant converted the money to his own use.
+The learned judge at the circuit took the right view of the pleadings and correctly excluded the testimony offered by the defendant, and the judgment should be affirmed, with costs.
+Van Brunt, P. J., and O’Brien, J., concurred.
+Judgment affirmed, with costs.
