@@ -1,0 +1,19 @@
+---
+court: "New York Superior Court"
+decided: "1892-03-14"
+citations: ["28 Jones & S. 499", "60 N.Y. Super. Ct. 499"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Silvia Livingston, Respondent v. The Metropolitan Elevated Railway Company, et al., Appellants."]
+source_url: "https://static.case.law/ny-super-ct/60/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1697360
+---
+
+# Livingston v. Metropolitan Elevated Railway Co.
+
+## Concurrence (Opinion by Gildersleeve, J.; Sedgwick, Ch. J., and Dugro, J., concurred.)
+
+Opinion by Gildersleeve, J.; Sedgwick, Ch. J., and Dugro, J., concurred.
+Judgment affirmed, with costs, on opinion in Livingston v. The Metropolitan Elevated Railway Co., ante page 389.
