@@ -1,0 +1,43 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-07"
+citations: ["56 N.Y. Sup. Ct. 356"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J., concurred."]
+parties: ["THE CITY OF ALBANY, Respondent, v. JOHN W. McNAMARA, as Executor, etc., of MARY E. PAYNE, Deceased, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/56/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4560297
+cites_cases: ["3 Johns., 434"]
+---
+
+# City of Albany v. McNamara
+
+## Majority (Ingalls, J.:)
+
+Ingalls, J.:
+The plaintiff presented to the defendant, as executor of the last will and testament of Mary E. Payne, deceased, a claim against her estate, which was rejected, and finally referred under the statute which provides for the settlement of claims against the estates of deceased persons. The cause was tried before the referee, who reported in favor of the plaintiff, and his report was confirmed by the Special Term, and judgment was entered in favor of the plaintiff against the defendant; and this appeal is brought by the defendant from such judgment and order. The principal question involved is whether, upon the facts, in regard to which there seems to be little dispute, the law establishes a cause of action in favor of the plaintiff against the estate of the deceased. Mary E. Payne, the testatrix, was received for treatment into the Homoeopathic Hospital, at Albany, under the following order of Richard Parr, an overseer of the poor of said city:
+“No. 16. Albany, August 7, 1883.
+“ The superintendent of the Homeceopathic Hospital is directed to admit Mary E. Payne into the hospital, there to be taken care of and provided for according to the rules and regulations of the said institution.
+“RICHARD PARR,
+“ Overseer of the PoorJ
+This order is only for the time specified.
+She was not placed in the charity ward, but occupied a room in the upper part of the building. Jacob II. Ten Eyck, a witness produced by the defendant, testified as follows upon his cross-examination :
+“ Q. Did you know Mary E. Payne ? A. I did. Q. How long did you know her ? A. She was in the hospital when I became treasurer in 1881. Q. .You became acquainted with her subsequently to that period? A. While I ivas treasurer. Q. Was she in the general ward of the hospital, or was she in a private room % A. She was in a private room. Q. Have you any fixed price for patients in the hospital who occupy the wards ? A. In the charity ward they pay four dollars a week from the city; if a patient comes in that is poor, isn’t able to pay herself, don’t come with a permit, and is willing to go in the charity ward, we get five dollars a week. Q. Patients who are received in the hospital under permits issued by the overseer of the poor of the city of Albany are placed where % A. In the charity ward.
+“ Redirect-examination:
+“ Q. The room Mary E. Payne was in at the time of her death, and had been for some time previous to her death, was it a room on the top floor next to the roof ? A. Yes, sir. Q. Slanting roof ? A. Yes, sir. Q. What in ordinary houses would be denominated the garret ? A. An attic room; a good sized room.
+“Recross-examination:
+“ Q. The price for a room is greater than the price charged for a .patient in a charity ward ? A. Yes; we have had as high as ten dollars a week in that same room for a pay patient.
+“ Re-direct-examination.
+“ Sometimes this charitable institution does charity ? A. Yes, sir. Q. In other words, you sometimes treat people from charity, do you not, partly or wholly? A. Yes, in one sense; down stairs they don’t have rooms for all the patients in the hospital; I would say no to that; there are two meanings to that; there are what we call the patients coming in every day at the door that are taken care of, that I call charity. Q. Do you never take patients at reduced rates who are in needy circumstances ? A. 'Not to my knowledge; I couldn’t say they have. Q. You don’t know whether it has been done or not ? A. No, I do not.” It appears by the evidence that a permit to entitle a patient to enter the hospital is granted npon the application of the patient or the physician of such patient; and could be renewed from time to time as deemed proper. No written application was produced at the trial, nor does it appear expressly by whom the application for such permit was made, and consequently we are left to infer that fact from the circumstances connected with the trans-. action. Not only the testatrix, but Mr. Parr, the overseer of the poor, who granted it, was also dead at the time of the trial, which probably deprived the plaintiff of any direct evidence to establish that fact. It is qhite probable that Mary E. Payne made such application for the permit, as there is nothing in the case to show that she may not have done so. It does not appear that she was insane, or so feeble as to even render it improbable that she made such application. And there is nothing to show that she did not intelligently comprehend her situation, and voluntarily seek treatment at the hospital. Again the law raises the presumption that a public officer discharges his duty, and therefore, in the absence of direct evidence to the contrary, it seems but reasonable to presume that Mr. Parr did not grant such permit without a proper application; and it does not seem, in view of the circumstances, a violent or unwarrantable presumption that the testatrix made such application and therefore entered the hospital and received the treatment there at her own request. The plaintiff paid for the care and attention bestowed upon the testatrix at the rate of four dollars per week, which amounted to the sum of $538.15. The referee has found the following: “ That Mary E. Payne, defendant’s testatrix, was an inmate and patient in the Albany Citv Homoepathic Hospital from August 1,1883, until April 11, 1885; and from May 21, 1885, until the date of her death April 15, 1886, a period of 910 days.” This case develops no equitable consideration which should induce the court to endeavor to exonerate the estate of the testatrix from liability; and we are convinced that the facts and circumstances of the case are such as to justify the conclusion that the care and attendance furnished the testratrix by the plaintiff was not only for her benefit, but at her request and the payment of the money by the city should be regarded as money paid and expended by the plaintiff for the use and benefit of the testatrix and at her instance and request. (Jones v. Wilson, 3 Johns., 434; Beach v. Vandenburgh, 10 id., 361.) The payment of the money by the plaintiff for the benefit of the testatrix cannot be regarded, under the circumstances, a mere voluntary payment,, but, on the contrary, a payment for her benefit, upon request.
+The judgment should be affirmed, with costs against the estate of the deceased.
+Learned, P. J., concurred.
+
+## Dissent (Landon, J.)
+
+Landon, J.
+(dissenting):
+I dissent. The deceased was admitted to the hospital as a poor person and there is no evidence or finding of any mistake or misrepresentation. Money or support given in pure charity cannot be recovered for upon the surmise that the charity was not worthily bestowed.
+Judgment affirmed, with costs.
