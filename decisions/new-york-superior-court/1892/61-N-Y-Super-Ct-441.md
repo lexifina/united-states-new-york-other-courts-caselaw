@@ -1,0 +1,24 @@
+---
+court: "New York Superior Court"
+decided: "1892-12-05"
+citations: ["29 Jones & S. 441", "61 N.Y. Super. Ct. 441"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JACOB K. HETSCH, Appellant v. T. BRIGHAM BISHOP, Respondent."]
+source_url: "https://static.case.law/ny-super-ct/61/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1699207
+cites_cases: ["105 N. Y., 520"]
+---
+
+# Hetsch v. Bishop
+
+## Majority (By the Court.—Freedman, J.)
+
+By the Court.—Freedman, J.
+The material facts to be considered on this appeal are as follows :—
+The action is for malicious prosecution. On the 26th óf May, 1892, the defendant was in the custody of the sheriff under and in pursuance of an order of arrest theretofore granted in the action which requires the sheriff to hold him unless he gave bail in the sum of f1,000. On the day named the defendant did give such bail to the sheriff. The undertaking delivered for that purpose was executed by the wife and the son of the defendant, as sureties, who therein claimed that they were permanent residents of the city of New York, although they then temporarily resided at Clifton, N. J. Each of the sureties made an affidavit of justification before a commissioner of deeds in the office of the sheriff. The sheriff thereupon released the defendant from custody. On May 26, 1892, the undertaking was approved ex parte by a judge of this court. On June 1 the sheriff served a copy of the undertaking upon the attorney for the plaintiff, and upon the same day the said attorney duly served upon the sheriff and upon defendant’s attorney notice of exception to the sufficiency of the undertaking and of the sureties. This notice was returned by the sheriff to plaintiff’s attorney, with a notice to the effect that the return of the notice of exception was for the reason that the undertaking, and the sureties thereon, had been approved by a judge of this court before the receipt of the notice of exception. Thereupon the plaintiff’s attorney, upon an affidavit showing the facts, and alleging that he had not examined the sureties or consented to the approval of the undertaking, that he believed the sureties to be insufficient, and that the defendant would probably escape, and insisting upon his right to examine the sureties, moved that the sheriff be compelled to receive the notice of exception and that the ex parte approval of the undertaking be canceled. After a hearing this motion was denied and an order entered denying the same and providing further, that if the plaintiff should decline to permit the approval of the sureties to stand, the order of arrest might be considered vacated. From this order the plaintiff appealed.
+This order cannot be sustained. The plaintiff had not waived his right to the examination of the sureties and had proceeded regularly to enforce it. The ex parte approval of the undertaking was not necessary under section 576 of the Code of Civil Procedure, and as it was without any notice to the plaintiff or his attorney, it was, to say the least, merely formal and did not bind the plaintiff. Under section 577 the sheriff was bound to serve a certified copy of the undertaking upon plaintiff’s attorney, and the latter had ten days thereafter to serve notice that he did not accept the bail. Such notice having been duly and immediately given, it became the duty of the sheriff or the defendant, under section 578, to serve notice of justification before a judge of the court, and under section 580 the sureties should have attended pursuant to such notice for the purpose of justification and submitted to an examination by plaintiff’s attorney touching their sufficiency. The manner of the examination is in the discretion of the judge, but, if required by the plaintiff’s attorney, the examination must be reduced to writing and subscribed by the bail. It is only upon the conclusion of such an examination that the contested sufficiency of the bail is to be finally determined, and if then the judge finds the bail sufficient, he must, under section 581, annex the examination to the undertaking, indorse his allowance thereon, and cause them to be filed with the clerk, and thereupon, and not before, the sheriff is exonerated from liability. The language of the section last referred to is too plain to admit of dispute.
+For the reasons stated the order appealed from should be reversed, with ten dollars costs and disbursements, and the motion granted.
+Gildersleeve, J., concurred.
