@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court"
+decided: "1874-10"
+citations: ["4 Thomp. & Cook 536", "9 N.Y. Sup. Ct. 201"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sonneborn, appellant, v. Lavarello."]
+source_url: "https://static.case.law/thomp-cook/4/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4463323
+cites_cases: ["1 Den. 440", "1 Denio, 440", "24 Wend. 258", "29 Barb. 469", "29 Barb., 469", "29 N. Y. 293", "29 N. Y., 293", "4 N. Y. 157"]
+---
+
+# Sonneborn v. Lavarello
+
+## Majority (Beady, J.)
+
+Beady, J.
+The parties to this action are members of the New York Produce Exchange, a duly incorporated body. The objects in view by its creation are set out in section three of the act of incorporation, chap. 359, Laws 1862, and one of these was to adjust controversies and misunderstandings between persons engaged in business. They had a dispute about a transaction in petroleum oil, and voluntarily submitted it to the arbitration committee for settlement. The committee are chosen annually by ballot (§ 5), and consist of five members, whose duty it is declared to be to hear and decide any controversy which may arise between members of the association, and which may be voluntarily submitted to them for arbitration.
+The committee, upon investigation, made an award against the plaintiffs, and they seek to set it aside. The objections made are that the arbitrators were not sworn; that the award was made solely and exclusively on the unverified copies of accounts and letters, and newspaper extracts, and that6 the arbitrators improperly refused to adjourn on the application of the plaintiffs, although sufficient cause was shown for the adjournment.
+The second óbjection stated is denied as a fact, and there is reason to believe, from the papers submitted on the appeal, that it is not entirely accurate as a statement, but in the disposition which ■must be made of this case, it is not material whether it is correct. The act of incorporation does not prescribe the manner in which the committee shall proceed to hear and determine, or declare that the members of the arbitration committee shall, before entering upon their duties, take or subscribe any oath.
+The by-laws adopted provide that they shall take or subscribe an oath faithfully and fairly to hear and examine the matter in controversy and make a just award therein according to the best of their understanding. It does not appear, however, "that this oath was taken or subscribed. It does appear, nevertheless, that the investigation was conducted in the manner usually adopted by the committee, and that to this mode no objection was taken, either as to the omission to take the oath, or to the character or form of the evidence or proofs received and considered.
+It is apparent too, upon examination of the appeal, that the real and substantial objection of the plaintiffs in the estimation of their counsel, is the refusal of the committee to grant the adjournment which was asked on the 18th of February.
+The omission to observe the stricter forms of taking the oath, and requiring the proofs to be taken, according to legal formula, could be and was waived by the conduct of the plaintiffs, in appearing before the committee, making their statements, discussing their case, and the whole controversy, and interposing no objection to the proceedings in any respect. Howard v. Sexton, 1 Den. 440; Browning v. Wheeler, 24 Wend. 258; Howard v. Sexton, 4 N. Y. 157. This disposes of all the assumed irregularities and leaves unconsidered only the refusal of the committee to adjourn. The exercise of this power rests on the sound discretion of the committee, it is true, but the proceedings of the committee in tffat respect are nevertheless subject to review, and may be annulled if it appear that the discretion has been abused.
+The application of the plaintiffs to adjourn, although it had been the subject of consideration between the parties, was formally made to the committee on the 18th of February, and it seems after discussion upon the proofs given. The committee refused to grant the adjournment and, as averred, for reasons which appear to be satisfactory. They are, that the evidence which the plaintiffs wished to add could be obtained here, without sending to Genoa, and the conviction of the committee that the object was delay.
+The latter conclusion was based upon the fact that the defendants offered to give the plaintiffs ample time to send abroad as they desired, for information and evidence, upon their giving'security to pay the sum found to be due. The plaintiffs agreed to give the security, but failed to do so; why, does not appear, by any affirmative statement made to the committee. It is alleged in the complaint, it is true, “That being unable to furnish said bond, and it being made to appear to said committee that the said plaintiffs were responsible and owned considerable real estate in this city, applied for an adjournment;” but this is not an averment that the committee were advised of their inability to furnish the bond. It is a statement or conclusion drawn, which is in conflict with their ownership of considerable real estate, and in harmony with defendant’s charge that they were in fact of doubtful responsibility.
+The offer of the defendants to give them the time they asked for, on terms; their acceptance of the terms and refusal to perform them; their subsequent appearance before the committee without asking for an adjournment, coupled with their avowed willingness to pay what was justly due; their request for an adjournment upon the last day for a period of sixty days, and their doubted responsibility, were enough to warrant the refusal to give them the adjournment asked for. Assuming them to be responsible and desirous of doing what was right, it could not have been difficult for them to obtain the security demanded.
+These views are not intended to reflect upon them unfavorably, but to be the inferences from the facts disclosed.
+It is apparent for these reasons that the discretion vested in the arbitrators was not abused, and that the order of the special term should be affirmed.
+Order affirmed.
