@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1873-12"
+citations: ["2 Thomp. & Cook 360"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People ex rel. Dorn et al. v. Jones, commissioner, etc., et al."]
+source_url: "https://static.case.law/thomp-cook/2/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4459169
+cites_cases: ["18 How. 70", "2 Hill, 443"]
+---
+
+# People ex rel. Dorn v. Jones
+
+## Majority (Taloott, J.)
+
+Taloott, J.
+The commissioner of highways in this case has proceeded to make an alteration of the highway in question, by altering the location of the point near where it joins the Jackson road, so called, effecting the alteration by discontinuing a part of the old highway, and laying out a new one from the point where the discontinuance commenced to the Jackson road. But two objections are made by the relators to the validity of the proceedings of the commissioner of highways. First, it is said that this is the precise alteration which was attempted by a former commissioner of highways of the town in 1871, and that from the former order of the then commissioner an appeal was taken, the matter referred to referees, pursuant to the statute, that the referees reversed the determination of the commissioner; and that the order made by the present commissioner was within four years from the time when such decision was filed in the office of the town clerk.
+The language of the statute on which -this objection is based is, perhaps, not wholly free from obscurity. It is as follows: “Every referee appointed under the preceding section shall be entitled to ¿receive two dollars for every day employed in the hearing and decision of such appeal or appeals, to be paid by the party appealing where the determination of the commissioners shall be confirmed, bnt where it is reversed, to be a charge upon the county; and when the referees shall make any decision, laying out, altering, or discontinuing any road in whole or in part, it shall be the duty of the commissioners of highways of the town to carry out such decision in the same manner as required in cases of final determination of appeals as provided by the thirteenth section of the act hereby amended, and such decision shall remain unaltered for the term of four years from the time the same shall have been filed in the office of the town clerk.” Laws of 1847, chap. 455, § 9. It is claimed by the counsel for the respondent that the words “such decision,” in the last clause of the section, refer and are confined to the decision specified in the next preceding clause, namely, a decision laying out, altering or discontinuing any road; and, from the punctuation, it would seem that such was the meaning. Punctuation, however, is a very uncertain, and never a controlling guide, in the construction of statutes. It appears to us that the intent of this provision under discussion was to secure some stability in the decisions upon such appeals, for the short period specified in the act. The reference especially to a decision laying out, altering or discontinuing a road, is for the purpose of clearly imposing upon the commissioners the obligation to carry the decision of the referees into effect, in case the effect of that decision was to lay out, alter or discontinue a highway, in which case the action of the commissioners would be necessary. And we think that the words “ such decision,” may well be held to refer to the word “ decision ” in the first part of the section, and to embrace the decision of the referees on the question, whether it reverses or affirms the decision of the commissioner, and whether its. effect is to lay out, alter or discontinue a highway, or to prevent it from being laid out, altered or discontinued. It was said by the court in People v. Pike, 18 How. 70, that the policy of this provision was to prevent litigation for the period specified, in regard to the road, after the decision on appeal. Again, in one sense, the decision of the referees was a decision altering a road. The commissioner had undertaken to lay out a new road and to discontinue part of an old one, and the determination of the referees amounted to a decision altering the road as laid out by the commissioner.
+In regard to the second point, namely, that the necessity of the alteration was not certified by a jury of freeholders, the objection is not well taken.
+The certificate of the freeholders is only necessary where the high- . ways are laid out through inclosed, improved or cultivated land, without the consent of the owner or occupant. 2 R. S. 395 (5th ed.), § 73; Garretson v. Clark, Hill & Denio, 162; Thompson on Highways, 180.
+The case referred to by the relator (Carris v. Commissioners of Waterloo, 2 Hill, 443) was obviously a case where the proceedings were without consent. In this case it appears that the owners of the land to be taken have consented and duly filed a release of damages in the town clerk’s office.
+We think the proceedings must be reversed, upon the ground that four years had not elapsed since a determination by the referees on appeal, of the same question namely, whether this alteration should be made.
+Proceedings reversed.
