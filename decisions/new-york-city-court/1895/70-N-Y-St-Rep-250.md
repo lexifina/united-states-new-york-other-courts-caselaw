@@ -1,0 +1,33 @@
+---
+court: "New York City Court"
+decided: "1895-10-29"
+citations: ["70 N.Y. St. Rep. 250"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hermann Cohen, Resp’t, v. German Kahn, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/70/cases/0250-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2121843
+cites_cases: ["116 N. Y. 615", "27 St. Rep. 729", "37 N. Y. 189"]
+---
+
+# Cohen v. Kahn
+
+## Majority (McCarthy, J.)
+
+McCarthy, J.
+This is an appeal from a judgment in favor of the plaintiff for the amount claimed in the complaint, with costs, rendered upon the verdict of a jury. This action is brought to recover for commissions for procuring a purchaser of real estate. The answer is a general denial. Upon the trial it was testified by the plaintiff that on the 10th day of May, 1894, he was authorized by the defendant to sell the property Ño. 957 Second avenue, at the sum of $13,300; that he offered it to Mr, Metzger, who was ready to purchase at that price; that he saw the défendant the next morning, and an appointment was made to meet the intending purchaser at Mr. Arnstein’s office at 2 o’clock p. m. That he went to Mr. Arnstein’s office, and from there telephoned to the defendant, who informed him that he could not come down that day, and would like to have the making of the contract adjourned until the following Monday, to which the plaintiff agreed, and so informed Mr. Metzger, who said, “All right;” that on Monday morning he went to the defendant’s house, and, while informed that defendant’s s'on had refused to sell, the defendant still declared himself ready to carry out his contract. Mr. B. Metzger was called on the part of the plaintiff, and testified that the property was offered to him for sale; that he agreed to purchase at $13,300, and that a meeting was arranged at Mr. Arnstein’s office for Friday afternoon; that thereafter the plaintiff informed him that the meeting was off until the following Monday. A letter was then produced, bearing date May 13, 1894, in which Mr. Metzger informed the defendant that the plaintiff had placed in his hands a claim for commissions, and intended to bring legal proceedings. On the cross-examinations of Mr. Metzger, defendant’s counsel attempted .to show that Mr. Metzger was in reality the attorney in the case, and had an interest in the result thereof, but this proof was excluded. The jury having found for the plaintiff on the facts, this judgment must be affirmed, unless we find errors at law.
+At folio 58, the following occurred:
+“ I didn’t commence any suit against Mr. Kahn, the defendant. I do not know how long after the writing of this lettpr the suit was commenced. Q. Are you in any way interested in this suit? (Objected to. Sustained. Exception by the defendant’s attorney.)”
+At folio 60:
+“ Q. Upon the arrival of that day-to which the matter was adjournéd, as Mr. Cohn told you, Mr. Kahn didn’t close the matter with you. (Objected to. Overruled. Exception by defendant’s attorney.)”
+Also, at folio 87, the court was asked to charge as follows :
+“ If the plaintiff has failed to establish all of these facts, or either of them, by a preponderance of evidence, or if you believe the evidence of the defendant, that he never employed the plaintiff, and never agreed to sell this property, the defendant will be entitled to a verdict.”
+-Defendant’s counsel: “ I ask your honor to charge that the jury can take notice of the particular day of the week on which any date mentioned in the testimony fell, without proof being given of the day. (Declined/ Exception by defendant’s counsel.)”
+We think the trial justice erred in each of these rulings.
+Again, at folio 84, the following took place :
+“ At the summing up by defendant’s counsel, he had in his hand an alleged calendar, and commenced to state to the jury what it was, and that they could use it, when the plaintiff’s attorney objected, on the grounds that no proof had been given as to the said alleged calendar, and that it was not before the jury for any purposes, and could not be used by counsel for the purpose and in the manner proposed by him. (The court so ruled, and defendant’s counsel excepted.)”
+We agree that, if it was conceded that the alleged calendar herein was a true and correct one, then the jury had a right to use the calendar without proof being first given of the same. The Courts will take judicial notice of facts which are part of the general knowledge of the country, and which are generally known and have been duly authenticated, and especially so of facts of official, scientific, or historical character, and generally of those things which happen according to the ordinary course of nature, the course of time, the coincidence of days of the week with the days of the month; and, to ascertain such well-known facts, recourse is had to such documents and records as are conceded to be worthy of confidence. See Hunter v. Railroad Co., 116 N. Y. 615 621, 622; 27 St. Rep. 729; Swinnerton v. Insurance Co., 37 N. Y. 189, 190.
+For the foregoing reasons, the judgment must be reversed,' and a new trial granted, with costs to the appellant to abide the event.
+All concur.
