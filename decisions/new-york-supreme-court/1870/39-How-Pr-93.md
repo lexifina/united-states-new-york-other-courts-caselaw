@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1870-03"
+citations: ["39 How. Pr. 93"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry J. Humiston, agt. William Ballard."]
+source_url: "https://static.case.law/how-pr/39/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4458750
+cites_cases: ["32 How., 222"]
+---
+
+# Humiston v. Ballard
+
+## Majority (Murray, J.)
+
+Murray, J.
+The language of section 371 of the Code, as to this question is, “if such offer be not made, and the judgment, in the appellate court, be more favorable to the appellant, than the judgment in the court below, or if such offer be made, and not accepted, and the judgment in the appellate court, be more favorable to the appellant, than the offer of the respondent, the appellant shall recover costs; provided however, that the appellant, shall not recover costs, unless the judgment appealed from, be reversed on such appeal, or be made more favorable to him, to the amount of at least ten dollars.” In this case the judgment, in the appellate court, was more favorable to defendant, who was the appellant, than the judgment before the justice, if the interest is not considered ; but only five dollars more favorable. The plaintiff therefore, would be entitled to costs, under said section of the Code, unless the interest upon the former judgment can be considered. The language of the Code precludes the consideration of the interest upon the former verdict, or upon the cause of action in the last verdict for such purpose. It specifies, that if the judgment of the appellate court, be more favorable to the appellant, than the judgment of the court below, &c. That compels a comparison of the two judgments. It does not involve the consideration of any other matters. It fixes the rule by which the question is determined—makes certain, what otherwise would be doubtful and speculative. It says the appellant shall not recover costs, unless the judgment be made more favorable to him to the amonnt of $10. That unmistakeably indicates that the judgment must be reduced $10, before the appellant can recover costs. If any other rule had been intended, it would have been so specified. The clerk was right in allowing costs to plaintiff. (Smith agt. May & Spencer, 32 How., 222). I cannot concur in the reasoning of the general term of the eighth district, as reported in 37 Sou)., 385. It does not seem possible, that the legislature •intended to throw open the door to the uncertainty and speculation, as indicated by the learned opinion delivered in that case.
+The clerk in taxing the costs, allowed the plaintiff $70, for the costs in the general term, when the case was there, on a case and exceptions made, and ordered by the county court, to be heard there in the first instance at the general term. Such allowance was objected to, on the part of the defendant. It is insisted on the part of the defendant, that those costs of the general term are not allowed by the Code; that the proceeding there was unauthorized, and therefore neither party was entitled to costs of the other; the general term not having ordered costs to be paid.
+Those costs were properly allowed. The defendant applied to the county court, for an order allowing the exceptions to be heard, in the first instance, at the general term, in pursuance of § 265 of the Code. The county court supposing it had the power to so direct, made the order as requested. The usual proceedings were had in such cases. In those proceedings, the plaintiff’s counsel performed the services, and paid out the disbursements, which make up the said item of $70. The general term held the county court had no power to make such order; that the case was not there in such a way, as authorized it to decide the case upon the merits. Subdivision 5 of § 307 of the Code provides, that in cases made, and in cases where exceptions are ordered to be heard in the first instante at the, general term, under the provisions of § 265 of the Code, the same costs shall be allowed as on appeals. On an appeal to. the general term, such item would be á proper charge. The defendants counsel, doubtless in good faith, applied for said order of the county court, under said § 265. The county court made the order in good faith, under said section. It cannot be said that this was not a case, where exceptions were ordered, to be heard in the first instance at the general' term, under said section. That the court had not the power to make such order, does not deprive the opposite party of his costs incurred in proceedings under said order.
+The clerk was, therefore, right in allowing said item. The $7 term fee is not allowable. The appeal was not necessarily on the calendar; therefore not allowable, under ^ 371 of the Code.
+The costs, therefore, will be readjusted by the clerk of Cortland county, and that $7 item stricken out; and as to all the other items, it is affirmed, without costs to either party.
+The clerk will enter an order in accordance with these views.
