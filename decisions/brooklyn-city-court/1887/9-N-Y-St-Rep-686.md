@@ -1,7 +1,7 @@
 ---
 court: "Brooklyn City Court"
 decided: "1887-02-28"
-citations: ["9 N.Y. St. Rep. 686", "9 N.Y. St. Rep. 685"]
+citations: ["9 N.Y. St. Rep. 686"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
