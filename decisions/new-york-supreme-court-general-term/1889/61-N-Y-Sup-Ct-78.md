@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-10"
+citations: ["61 N.Y. Sup. Ct. 78"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barker, P. J., and Dwight, J., concurred."]
+parties: ["EARNEST VALENTINE, Respondent, v. LEWIS KELLEY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/61/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4578636
+cites_cases: ["1 Cow., 258", "13 Johns., 487", "24 Wend., 185", "49 Hun, 594"]
+---
+
+# Valentine v. Kelley
+
+## Majority (Macomber, J.:)
+
+Macomber, J.:
+On account of the death of the justice of the peace, before a return was made by him, there exists a lack of the details of the evidence given before him, yet enough is disclosed to show that it was a fair question of fact for the jury whether the wages of the plaintiff were to be paid by the defendant or by one Geiger. Under these circumstances, the verdict, if uninfluenced by other matters than the evidence, must be deemed conclusive.
+A reversal was also claimed in the County Court, and is insisted upon here, on the ground of the misconduct of the justice of the peace in conferring with the jury after they had retired to deliberate upon their verdict. Three of the six jurors, and the constable who was in charge of them, have made affidavits to the effect that after the jury had retired for deliberation the justice entered their room and had a conversation with them about the case in the absence of the parties and counsel and without their consent. The jury had then been out nearly four hours. Eliminating from the case the affidavits of the jurors, upon the ground taken by the respondent’s counsel, that they cannot be heard to impeach the integrity of their own verdict, but without giving our assent to the correctness of the proposition as applied to the facts of this case, there remains the uncontradicted affidavit' of the constable as follows: “ That the said jury failed to agree for nearly four hours and the foreman of the jury asked deponent to bring in the justice of the peace, and repeated the request once or twice; deponent thereupon went out and found the justice, "William Peacock, and the said Peacock then went into the room with deponent and the jury; that neither of the parties to the action, or either of their counsel, were present, but that the justice came alone with deponent and the jury., After Peacock came into the room the- foreman of the jury stated to him that they could not agree. Peacock then stated to the jury that it takes a good deal of time and a good deal of expense to try these law suits and it seems as though you ought to agree. One of the jury then said to him that they stood two to four, and Peacock then left the room and the jury some time after-wards agreed on a verdict for the plaintiff.”
+The version of the transaction as given by the jurors is not materially different from that related by the constable. They say that after the constable returned with the justice the latter went to the stove to fix the fire, and while he was doing so said: “ Boys, you had better try and agree, we do not want to try this case over again.” One of the jury stated to the justice that they stood two to four, and the said Peacock then said : “You are so near together that you had better agree,” and then left the room, and the jury soon afterwards agreed upon a verdict for the plaintiff.
+There is not, it is true, any evidence that the justice of the peace was partial to the plaintiff, or that he had any motive in coercing a verdict in his favor against the defendant. The objection to the proceeding rests on a higher ground. "We think the justice had no right to enter the jury-room and hold conversation with the jury, in the absence, or without the consent of the parties upon the question stated by them and answered by him. No corrupt motive of the justice need be shown in order to set aside a verdict of a jury which has been brought about by his unwarrantable interference with their deliberations. The jury, after it retires, must remain untrammeled and uninfluenced by any advice which the justice may, though honestly, give in regard to their verdict without the consent of the parties. Any relaxation of the rule, as uniformly held (Taylor v. Betsford, 13 Johns., 487; Bunn v. Croul, 10 id., 239; Neil v. Abel, 24 Wend., 185; Benson v. Clark, 1 Cow., 258), would seriously impair the confidence of the public, not only in our system of trial by jury in courts of subordinate, but also in those of the highest jurisdiction.
+This case is distinguished from Vallen v. McGuire (49 Hun, 594) in this respect, namely, in the case before us the justice having died before making a return on appeal to the County Court, the minutes left by the justice were agreed upon by counsel and inserted in the case as the return, and the affidavits above-mentioned may be properly treated as supplemental to and as a part thereof under section 3056 of the Code of Civil Procedure. It may be presumed that the justice, if living, would have made a return embodying the “ other proceedings taken ” if so requested.
+The judgment of the County Court and of the justice should be reversed, with costs.
+Barker, P. J., and Dwight, J., concurred.
+Judgment of the County Court and of the justice reversed.
