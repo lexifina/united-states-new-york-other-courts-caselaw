@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court"
+decided: "1857-11"
+citations: ["5 Abb. Pr. 415"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE BOWERY BANK CASE."]
+source_url: "https://static.case.law/abb-pr/5/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4574598
+---
+
+# Bowery Bank Case
+
+## Majority (Roosevelt, J.)
+
+Roosevelt, J.
+—The petitioner, Mr. Hi col ay, is a creditor of the Bowery Bank on a certified check for $1,750, dated October 9, 1857. He complains, in that character, of what he denominates a collusive appointment of one of the officers of the bank as a receiver of its assets to wind up its business, and asks that the orders which were made for that purpose, at the instance of Mr. Moody Cummings, another and a friendly creditor of the bank, may be vacated, and the appointment made under them set aside.
+Mr. Cummings’ suit, it appears, was commenced on the 10th of October, on a check for $250, which, on the same day, had been protested for non-payment. The order to show cause was also made on the 10th, and was returnable at 2J o’clock on the same day, when, the counsel of the bank appearing, but making no opposition, the institution was formally declared “ insolvent,” the injunction against it continued, and a receiver appointed, with directions to realize the assets and “ distribute the proceeds among the creditors equally and ratably, according to law.”
+It will thus be seen that the demand was presented, the suit upon it instituted, the trial had, the judgment rendered, and the execution in effect issued and completed all on one and the same day. The proceeding, therefore, although it may have been perfectly proper, was substantially a voluntary assignment, made by the bank itself for the equal benefit of all the creditors “according to their respective debts,” and the question is, is such an assignment by a bank, which, if the petitioner’s allegations are well founded, “ was and is solvent and entirely able to pay its debts,” in law a valid proceeding ?
+The statute in relation to moneyed corporations (1 Rev. Stats. 791) provides that no conveyance, assignment, or transfer, nor any “judgment suffered by any such corporation when insolvent, or in contemplation of insolvency, with the intent of giving a preference to any particular creditor over other creditors of the company, shall be valid in law.”
+Such a provision seems to carry with it, by necessary implication, an' admission that an assignment or judgment made or suffered, without any intent of giving preferences, and of course still more if with the express intent of insuring equality, is a proper and legal act.
+It may be that the selection of one of its own officers as a receiver was injudicious, but it certainly was not unlawful. The act for the voluntary dissolution of corporations (2 Rev. Stats. 467), expressly provides that “ any of the directors, trustees, or other officers, or any of the stockholders, may be appointed receivers.” We have the sanction, therefore, of the Legislature for the principle of such a selection. Any creditor, nevertheless, upon good cause shown, may object either before or after the appointment, and may designate a more suitable person, of his own nomination, to take the place of the nominee of the bank. Mr. Nicolay, at present, makes no such application. It is understood that another creditor has done so, and that one of my colleagues has already made the desired change by substituting Mr. Stewart for Mr. Bradford.
+It is sufficient that the new constitution of the State, and the act of 1849, passed to give effect to its requirements, have' superseded the previous legislation on the subject.
+The constitution declares that the stockholders of banks of issue shall be individually responsible to the amount of their respective shares; and the act of 1849 declares that the liability so created shall be enforced as therein provided, “ and in no other manner.” That “ manner” is either by issuing an execution, and showing that the property of the bank is of such a character that an execution, although issued, cannot be satisfied out of it, or by waiting ten days after demand and refusal, and then applying for a distribution of the assets by a receiver, and an apportionment of the deficiency among the stockholders on the report of a referee. Mr. Oummings, it is said, complied .with neither of these conditions"; he neither obtained an execution nor waited the ten days. A ready answer to this objection is found in the well-settled principle that a party in whose favor conditions are prescribed may waive their enforcement. The bank did so, and the order on that point, no fraud being suggested, is res ad.judicata. It determined the institution to he insolvent.
+Mr. Ricolay, it is true, was not a party to the proceeding; hut the statute did not require that he should he. Any creditor having a demand exceeding $100 was authorized to make the application and to obtain the order. Ro notice was required except to the bank. If the statute in this respect be, as it clearly is, defective, the court, has no power to supply the omission.
+Eor want of notice to all the creditors, an improper person may sometimes, no doubt, be appointed receiver. The evil, however, can only be temporary. Any person having an interest may immediately apply for a change, and for an immediate injunction on his acts; and such motions may be repeated as often as new occasions for them may arise. Mr. Ricolay, therefore is not prejudiced; and if it be true, as he alleges, that the bank is solvent, so much the better will it be for his ultimate payment.
+,It may, nevertheless, under the circumstances, if he desires it, be proper to direct a reference, to inquire into the matter of the appointment of the cashier, as distinguished from other persons (that being the act rather of the parties than of the court), and the subsequent substitution, pending this proceeding, of the secretary of the Trust Company in his stead.
+Should the petitioner’s counsel consider a special order necessary, he will prepare a draft, and submit it (on notice) for settlement.
+Compare Livingston a. The Bank of Hew York, Ante, 338.
