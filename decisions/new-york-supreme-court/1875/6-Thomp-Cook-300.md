@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court"
+decided: "1875-02"
+citations: ["6 Thomp. & Cook 300", "10 N.Y. Sup. Ct. 591"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Standard Oil Company v. Triumph Insurance Company."]
+source_url: "https://static.case.law/thomp-cook/6/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2436869
+cites_cases: ["1 Hill, 287", "13 N. Y. 542", "13 Wend. 518", "13 Wend., 518", "20 Wend. 174", "21 Wend. 279", "3 Duer, 241", "3 Lans. 421", "3 N. Y. 230", "34 N. Y. 424", "35 Barb. 463", "43 Barb. 351", "55 Barb. 28", "85 Barb., 463"]
+---
+
+# Standard Oil Co. v. Triumph Insurance
+
+## Majority (Barnard, P. J. Tappen, J.)
+
+Barnard, P. J.
+This case presents but a single question. Joseph L. Lord, an insurance broker, procured the policy in question of the defendant. The defendant is an Ohio corporation. By the terms of the policy the company could raise the rate or cancel the policy. After the policy was issued, the fact of its being issued was communicated to the defendant, and the defendant required a raise of one per cent on the rate of premium — from five to six per cent. Mr. Lord, in behalf of plaintiff, assented to this raise, and promised to bring in the policy and have the increased rate indorsed. This was not done. The matter so stood from May 31, 1872, until July 25, 1872, when a messenger from Lord’s office brought the policy to the defendant’s agents, who issued the same and directed its cancellation. The policy had indorsed upon it “ret. Co.” (which is found to have meant “cancel the policy,” in the business of insurance), by Joseph L. Lord, or by James S. Lord, who was the brother of Joseph L. Lord, and had a general management of his business. The defendant’s agent received the policy and filed it as canceled.
+On the 30th of July the property covered by the policy was burned, and the plaintiff brings this action upon the policy, claiming that the Lords or their clerks made a mistake in the cancellation of the policy.
+The judge has found, as conclusion of law, that if the policy was returned for cancellation by a mistake of plaintiff’s agents, and was canceled by defendant, no action could be maintained on it.
+We think the conclusion right. A principal is bound by the acts and representations of its agents; because of the appointment of the agent to do the act or transact the business in and about which the representations were made, the principal warrants against the mistake of the agent. Denning v. Roberts, 35 Barb. 463. Lord obtained the policy from plaintiff, and the defendant knew no on'e else in the transaction, and had a right to suppose him invested with full power. If he could procure he could cancel. If he canceled by mistake the plaintiff must bear the loss occasioned by the mistake. This mistake has altered the position of the defendant. Xenos v. Wickham, 106 Eng. Com. Law, 381.
+The judgment should be affirmed, with costs.
+Tappen, J.
+The defendants insured the plaintiffs in the sum of $5,000 on petroleum, by policy of 30th May, 1872 ; thereafter, and before the happening of the fire, the defendants required, as they had a right to, an additional premium, or in default thereof, that the policy should be canceled. The policy, after .this, came to the hands of defendants’ agents, who had acted for the defendants in making the contract, and in demanding the increased premium, and it was marked as canceled; the fire and loss happened a few days after this event. The plaintiffs aver that it was so returned unintentionally, and through mistake, and judgment is asked declaring the cancellation void and that the policy was in force at the time of the fire and for the sum insured. The court at special term dismissed the complaint on the merits, after hearing the testimony on both sides.
+The defendants’ general agents were Burlingame & Rankin ; one Joseph L. Lord, an insurance broker, had general dealings with these agents. He acted directly for the plaintiffs and under their directions in obtaining for them a line of insurance on their property, including the risk in question. Mr. Lord and his clerks testify that the policy was marked canceled in Mr. Lord’s books; but Mr., Lord says it was so marked by error or mistake, and without plaintiffs’ authority: On the day of the fire it was in the hands of defendants’ agents so marked canceled or returned; the words which indicated its cancellation were written on the policy in Mr. Lord’s office by his brother, and in the usual course of their business as insurance brokers; and the policy came to defendants’ agents so marked about the 24th of July, 1872, a few days before the fire, and remained with them until the fire.
+Judge Pbatt, in deciding the case, says : “ The defendants were thrown off their guard and permitted to act on the assumption that the policy was canceled, and had this fact not occurred, the defendants might have procured the policy to be under-written, or taken other measures in respect to the risk on the premises.”
+There is some evidence in the case from which an inference may arise, that the plaintiffs intended a cancellation because of the demand by defendants for an increased premium. In every stage of the transaction the plaintiffs acted by Mr. Lord, the insurance broker; he had authority under his general employment, and by having possession of the policy, to consent to its cancellation, and he or those in his employ did so consent.
+The defendants who had demanded an increased premium, or the return and cancellation of the policy, had a right to assume that its return to them so marked was in pursuance of such demand.
+Lord’s agency for the plaintiffs is not to be questioned simply because his compensation as broker came from the .premiums received by the defendants. An agent having authority to make, has implied authority to cancel or modify a contract. Jeffrey v. Bigelow, 13 Wend. 518; Anderson v. Coonley, 21 Wend. 279. And third parties dealing with him will not be permitted to suffer loss. Clark v. Metropolitan Bank, 3 Duer, 241.
+The mistake, if any, of the plaintiffs’ agent cannot be permitted to bring loss to the defendants in a transaction of this character with all its attendant facts, because it was in law, as regards third parties affected thereby, the mistake of the plaintiffs, and the defendants were not conscious of any such mistake, nor was there any thing in the course of the business which tended to create a suspicion of error or mistake in the cancellation, but on the contrary the return of the policy to the defendants and the facts preceding it entitle the defendants to be relieved from liability.
+The judgment should be affirmed, with costs.
+Judgment affirmed.
