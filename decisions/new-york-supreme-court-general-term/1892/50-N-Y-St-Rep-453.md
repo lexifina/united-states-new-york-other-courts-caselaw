@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-12-16"
+citations: ["50 N.Y. St. Rep. 453"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Monteith, Adm'rx, Resp't, v. John Finkbeiner, App'lt."]
+source_url: "https://static.case.law/ny-st-rep/50/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2096155
+cites_cases: ["27 St. Rep., 806", "31 Hun, 30", "55 Hun, 212"]
+---
+
+# Monteith v. Finkbeiner
+
+## Majority (O’Brien, J.)
+
+O’Brien, J.
+The grounds relied upon by the appellant for a reversal of the judgment are that the court erred in denying the motion to dismiss the complaint, and in refusing a new trial upon the ground that the verdict was contrary to evidence and to law. With respect to the latter, there is no statement in the case that it contains all the evidence, and we cannot pass upon the question as to whether or not the verdict was contrary to the evidence. There being no exceptions relating to the admissibility or exclusion of evidence, the only question of law presented is upon the exception to defendant’s motion to dismiss the complaint. Upon examining the record, it will be found that the witnesses for the plaintiff testified that the injuries which resulted in the death of plaintiff’s intestate were caused by falling down the second flight of stairs, his foot having caught in a rubber which was placed as a covering on the top of the staircase. One of these wituessés testified as follows:
+* “ That rubber was clean across the step. From the first time I went in the house I noticed that India rubber loose. It would be about eight months. From the time I first saw it until the date of the accident my attention was called to it frequently while scrubbing. The condition remained the • same. I also spoke to the housekeeper, and told her it ought to be fixed. Mrs. Bichards is her name. I was not there more than four weeks when I called her attention to it. I lived there about eleven months. I had a mishap on that step. I tripped on that step, and caught the banister.”
+The other witness testified'as follows:
+“ The condition of the edge of the platform of the first step on the third floor ; it is a rubber, and there is iron on the edge of it, and the rubber was caught on the two sides with tacks and in the centre was loose. I remember it well, for five weeks before that I came nearly killing myself with a basket of clothes.”
+This witness’ testimony is entirely consistent with that given by the other witness, that this defect in the rubber which caused the injuries complained of had existed for a period of about eight months. She testified that she had lived in the premises for nine years; and while she did not state how long before the accident she first noticed it, she does state that, five weeks before, she herself tripped over the same rubber. Upon this evidence we think the court was right in refusing to dismiss the complaint. As was said by Mr. Justice Barrett in Alperin v. Earle, 55 Hun, 212; 27 St. Rep., 806:
+“The landlord is responsible for injuries to his tenants resulting from the dangerous condition of those parts of the building which he reserves for the common use, and over which he retains control, but only when he has been guilty of actual negligence with regard thereto. ■ To bring him within this rule, 1 it must appear,' as was said in Henkel v. Murr, 31 Hun, 30, ‘ that with some notice of the condition of things, or under some circumstances equivalent to notice, such as an unreasonable omission to .ascertain the condition, he had failed to make the necessary repairs or changes called for by the condition or exigency.’ ”
+This case cited of Henkel v. Murr is also authority for the proposition “ that the same measure of liability for injuries sustained by negligence of the landlord extends to one socially visiting or calling upon a tenant as protects the tenant himself, because the use of the hall and staircase for the purpose of enjoying such visits and calls is by necessary implication, where not expressly provided for, within the reasonable intent of the demise of the rooms.” The plaintiff’s intestate here was visiting one of the tenants, and was injured by reason of the defective condition of a portion of the premises with respect to which the obligation of keeping it in a safe condition was imposed upon the landlord. While there was no evidence of actual notice brought home to the landlord, there was evidence showing that the housekeeper went up and down the stfirs, and that her attention was called to the defect; and, in addition, it appears that the step was allowed to remain in this imperfect and dangerous condition for a period of eight months, if the testimony of plaintiff’s witnesses was tobe believed. What weight or credibility was to be attached to their testimony was a question for the jury. If credited, it tended to establish “ such an unreasonable omission to ascertain the condition” of the premises as to make it equivalent to notice. We think that the court was correct in refusing to dismiss the complaint, and, as there is no other question presented for our consideration, the judgment should be affirmed, with costs.
+Yak Brunt, P. J., and Barrett, J. concur.
