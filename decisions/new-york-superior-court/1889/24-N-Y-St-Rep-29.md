@@ -1,0 +1,23 @@
+---
+court: "New York Superior Court"
+decided: "1889-01-07"
+citations: ["24 N.Y. St. Rep. 29"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Brown and Phoebe A. Grapel, as Administrators of Gerhard Henry Koop, Resp’ts, v. Carl L. Recknagle and Rudolph Pagenstecker, App’lts."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024300
+---
+
+# Brown v. Recknagle
+
+## Majority (Freedman, J.)
+
+Freedman, J.
+This action was brought by the'plaintiffs to recover $831.67 for commissiors earned by their intestate, Gerhard Henry Koop, under a certain contract with the defendants for the prosecution and collection of certain claims of the defendants. The defendants, at the trial, insisted that Koop had done a large part of the work necessary to be done, through an attorney, Jerome F. Manning ; that Koop had authorized Manning to collect from the defendants, money to be used in the prosecution of the claims, under an agreement that the amounts so advanced should be deducted from the amount of the commissions to be earned by Koop, and that pursuant to such authority, Manning had made such an agreement with the defendants, and upon the faith of such agreement, the defendants had paid to Manning various sums of money, amounting in the aggregate to about $750. The substantial controversy at the trial was as to whether the defendants had paid these sums -on Koop’s account, or on the individual responsibility of Manning. The only direct evidence adduced on this point by the defense, was the testimony of Manning. He was not only impeached, but the force of his testimony was weakened by the fact, among other things, that at one time he had given to the defendants his individual note for one of the sums so obtained, and that none of the moneys had been paid over tó Koop. The entries on the books of the ■defendants, which got into the case on the cross-examinatian of Manning, were not conclusive. The issue was submitted to the jury, who found a verdict for the plaintiffs for $400. The defendants now claim that this verdict is inconsistent and illogical, and therefore contrary to the evidence.
+In submitting the issue above referred to, to the jury, the trial judge, among other things, charged as follows, viz. : “ If you find that there is any reasonable distinction which ought to be applied between these various payments, that is to say, that there is evidence before you that one was meant to be a payment on account of Mr. Koop, and another made specially to Mr. Manning himself, you will treat the account accordingly as you, as merchants, understand.
+“On the other hand, if you think that they were all covered by the same general idea, you will find accordingly.” To this part of the charge no exception was taken, although the defendants did except to a prior part of the charge, which left it for the jury to say whether the money was advanced to Manning on his own individual responsibility. Under this instruction the jury discriminated, and the result of their discrimination is not to be set aside solely for the reason that it is not apparent how they arrived at the result. Suffice it to say that, under the whole charge and upon the whole case, no sufficient reason appears why the verdict should be set aside. There was no error calling for reversal in the admission, or rejection, of evidence, or in the charge as delivered, and none of the exceptions taken are tenable.
+The judgment and order should be affirmed, with costs.
+All concur.
