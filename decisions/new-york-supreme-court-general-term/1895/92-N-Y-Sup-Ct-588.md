@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-03"
+citations: ["92 N.Y. Sup. Ct. 588"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis and AYard, JJ., concurred."]
+parties: ["Emma C. Lee, Respondent, v. Emeline Lee, as Administratrix, etc., of John J. S. Lee, Deceased, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/92/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5776644
+cites_cases: ["115 N. Y. 401", "144 N. Y. 508", "78 Hun, 309", "81 Hun, 431"]
+---
+
+# Lee v. Lee
+
+## Majority (Bradley, J.:)
+
+Bradley, J.:
+The claim, as presented by the plaintiff to the defendant against the estate of her intestate, and referred with approval of the surrogate, purported to have arisen during the period from 1882 to 1890, both inclusive. The reference was perfected June 12, 1893. On the hearing the defendant gave proof of payments of money made by her intestate to the plaintiff prior to 1882, and in the years 1878, 1880 and 1881. Thereupon the plaintiff sought to prove that during those years the defendant’s intestate had received from her other property than that included in the claim so presented. The evidence was excluded, and application then made to the referee by the plaintiff for leave to amend her statement of claim was denied, for the asserted reason of want of power. Thereupon the motion was made to the court, and the order appealed from granted, permitting the plaintiff to do so. Prior to June, 1893, such an amendment was -not permissible. (Eldred v. Eames, 115 N. Y. 401; Von Hermanni v. Wagner, 81 Hun, 431.)
+The statute as amended that year (Chap. 686 of 1893) provides that on entry of the order of reference in such a case the proceeding becomes an action in the Supreme Court, and that the referee has the same powers as if the reference had been made in an action in which the court might by law direct a reference. (Code Civ. Proc. § 2718.) This provision of the statute had become operative at the time the defendant made her agreement to refer.
+In its application to a case of this character tbe statute has extended the definition which was before given of an action. (Id. § 3333.) And it is brought within the provision that the court may, at any stage of it, before or after judgment, in furtherance of justice, amend any pleading or other proceeding by inserting any allegation material to the case. (Id. § 723.)
+Since this is made an action it comes within and subject to the rules of practice applicable to actions for all purposes consistent with its nature.
+The method of instituting it remains as before. The reference by the approval of the surrogate is made upon the agreement in writing of the creditor and the personal representatives of the decedent, founded upon the presentation verified of the claim, and the doubt entertained by the latter of its justice. There is some reason for the supposition that it may not have been contemplated when the statute was amended that the representatives in this form of proceeding would be required to contest any claim other than that which should, preliminarily to the reference, be verified and presented as prescribed by the statute.
+While there may be reasons for caution in allowing amendment of claims in such cases and why it should be done only when essential to the promotion of justice, the statute does not deny to the court the power to permit amendment as of pleadings and proceedings in actions.
+The main purpose of the amendment sought in the present case as indicated by the appeal book is to enable the plaintiff to support the claim which was referred, by proving that the moneys, which the defendant seeks to prove were paid by her intestate to the plaintiff, were moneys due to her from him for and on account of transactions prior to 1882, and, therefore, were not properly applicable to her claim as presented, which commenced with that year.
+It is urged on the part of the defendant that, inasmuch as the statute provides that oh the entry of the order of reference the proceeding shall become an action, the proceedings subsequent to that time only can be treated as in an action. We think that the entry of the order was intended as the event upon which the proceeding in its entirety should become an action. Such is the fair import of the provisions of the statute. And, as the consequence, the provision of section 416, that a civil action is commenced by the service of a summons, is, by the amendment in question, qualified by the exception thus created. This must he treated as an action, and, as such, consequently, its proceedings are subject to the exercise of the power of the court as they are in other actions which have been referred to a referee for trial. (Adams v. Olin, 78 Hun, 309; Hustis v. Aldridge, 144 N. Y. 508.)
+The refusal of the referee to permit the plaintiff to amend, for the asserted reason of want of power, was not necessarily in the way of an effectual application to the court for the amendment. Nor did the fact that the action was referred deny to the court the power to g’rant the application to amend.
+In view of the ultimate purpose, as above indicated, of the amendment sought by the plaintiff, the allowance of it was not unreasonable or unjustly prejudicial to the defendant.
+The order should be affirmed, without costs.
+Lewis and AYard, JJ., concurred.
+Order affirmed, without costs.
