@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1878-05"
+citations: ["21 N.Y. Sup. Ct. 219"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman, J., concurred; Barnard, P. J., not sitting."]
+parties: ["THE WATERS’ PATENT HEATER COMPANY, Respondent, v. LEWIS TOMPKINS, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/21/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2358229
+cites_cases: ["1 Wend., 424", "10 Cush., 88"]
+---
+
+# Waters' Patent Heater Co. v. Tompkins
+
+## Majority (Gilbert, J.:)
+
+Gilbert, J.:
+The sale in this case belongs to a class of sales on condition, •often called “ contracts of sale or return.'’ In these, says Mr. Parsons (1 Parsons’ Cont., Bk. 3, chap. 4, § 6, 5th Ed., p. 539), “The property in the goods passes to the purchaser, subject to an option in, him to return them within a fixed time, or a reasonable time, and if he fails to exercise this option by so returning them, the sale becomes absolute, and the price of the goods may be recovered in an action for goods sold and delivered.” The defendant, who is a manufacturer of hats, at Fishkill Landing, ordered from the plaintiffs, who are manufacturers of heaters, at West Meriden, in Connecticut, a heater for use in the defendant’s factory. The defendant agreed to pay the plaintiff $410 for the heater in sixty days from the receipt thereof, in his note at six months, unless the heater should fail to work as represented in a circular or prospectus of the plaintiff, in which case the defendant reserved the right to return the heater at the end of said sixty days. That is a written contract, plainly expressed. As the defendant did not return the heater within the time fixed by the contract, he is liable for the price, unless the obligation to return it within that time has been discharged. (Moss v. Sweet, 16 Q. B., 493; Benj. on Sales, 442; 1 Chit. Cont. [11th Am. Ed.], 618.)
+The judge at the Circuit directed a verdict for the plaintiff on the ground that a breach of warranty had not been shown. I do not perceive that any question of a breach of warranty was presented by the facts of the case. If the contract had contained a warranty perhaps the defendant might have resisted a demand for payment of the price of the heater, without returning or offering to return it, on the ground of a breach of the warranty. (Douglas Axe M. Co. v. Gardner, 10 Cush., 88.) But a parol warranty cannot be interpolated into a written contract. (Mumford et al. v. McPherson et al., 1 J. R., 414; Wilson v. Marsh, id., 503; Van Nostrand v. Reed, 1 Wend., 424, 432; 1 Chit. Cont. [11th Am.Ed.], 637.) The true inquiry is whether the defendant returned the heater, or did that which was binding on the plaintiff as an equivalent for a return thereof. Evidence was given, on the part of the defendant, that Mr. Whitehill, of Newburgh, was the plaintiff’s agent for matters pertaining to the heaters which the plaintiff vended, and that the defendant was told'that, if he wanted anything pertaining to the heater in controversy, to go to Mr. Whitehill. It was undisputed on the trial that such heater would not work; that it was practically useless in the defendant’s business; that, within sixty days after the defendant received the heater, he mentioned the defects in it to Mr. Whitehill, and offered to return it; that Mr. Whitehill told him he had better keep it; that he (Whitehill) would- see Mr. Wilcox, the plaintiff’s president, and that he thought the defects might be remedied. The inference certainly is a reasonable one, that if that request had not been made the defendant would have taken the steps necessary to effect a return of the heater. It further appears that no attempt to remedy the defects in the heater was made, and that no other reply was ever given to the defendant’s offer to return it.
+This testimony, although uncontradicted, may be open to criticism; but it was competent, and it was the province of the jury to determine its effect. Again, how was the heater to be returned ? Was the defendant to send it back to Meriden by a ■carrier, or would a delivery of it to Mr. Whitehill have accomplished that purpose ? If Mr. Whitehill had authority to receive the heater, or to accept the defendant’s offer to return it, his. request that the defendant should keep the heater until an effort could be made to remedy its defects, superseded the necessity of making a formal delivery of it back to the plaintiff in any manner until such effort should have been made. At least it extended the time for the exercise of the defendant’s privilege, if it did not discharge it altogether; for a party cannot take advantage of an act or omission of the other party which was caused by the former.
+I think the testimony referred to should have been submitted to the jury with instructions, that if Mr. Whitehill had the authority which has been suggested, the defendant’s offer to return the heater under the circumstances disentitled the plaintiff to recover, or else the court should have held, as matter of law, that Mr. Whitehill had such authority, and directed a verdict for the defendant.
+The judgment should be reversed and a new trial granted, with costs to abide the event.
+Dykman, J., concurred; Barnard, P. J., not sitting.
+Judgment reversed and new trial granted, with costs to abide the event.
