@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1859-04"
+citations: ["8 Abb. Pr. 336"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PARISH WILL CASE."]
+source_url: "https://static.case.law/abb-pr/8/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4586732
+---
+
+# The Parish Will Case
+
+## Majority (By the Court.—Ingraham, J.)
+
+By the Court.—Ingraham, J.
+During the pendency of the litigation before the surrogate, as to the validity of the will and codicils of the deceased, the surrogate appointed a special collector.
+After he made the decision admitting the will and one codicil to probate, and rejecting the other codicils, the parties aggrieved appealed to this court.
+The surrogate, in deciding the case, directed that the costs and expenses of the parties, to he certified and allowed by the surrogate, be paid out of the estate. This order was made on 17th December, 1857, and was not appealed from.
+On the 31st December, 1857, the surrogate made another order, confirming, as proper charges, all payments made by the special collector, and directing various payments to be made by the special collector on account of the costs of the vaz-ious par ties litigating as to the will.
+It is objected by the i*espondents on this appeal, that the order of the 17th Decembez*, not having been appealed from, the parties wez-e concluded by that portion which directs the payment of the costs, and the order of the 31st December was merely a taxation of the costs. The effect of the order of 17th December was not to that extent. That order was made when the surrogate decided to admit the will to probate, and the direction to allow the parties costs out of the estate, contemplated a payment to be made by the executor in the due course of administration. The appeal from the surrogate’s decision stayed any action on the part of the executor (3 Rev. Stats., 150), and continued the special collector in the charge of the estate. This order was no authority to the special collector to make any jzayments, and the order of the 31st December first adjusted any allowances, and ordered the same to be paid by the collector.
+The sole object of appointing the collector is the preservation of the goods and property, and collection of the debts. (3 Rev. Stats., 5th ed., 161, § 39.)
+Such collector has no authority to pay debts or make any disposition of the funds, except to pay his own expenses.
+The statute authorizes him to collect the goods, chattels, debts, &c., of the deceased, and to secuz’e the same at such expense as shall be allowed by the surrogate, and for such purposes to maintain suits; to sell such of the goods of the deceased as shall be deemed necessary for the preservation of the estate after appraisement; and on the probate of the will, to deliver to the executor all the estate of the deceased.
+It appears to me, therefore, that the special collector has no authority to znake any payments except such as are necessary for the collection and preservation of the property of the estate ; and if he has no authority to pay, the order of the surrogate directing the payment was erroneous.
+It is not necessary now to inquire whether the appellant may not hereafter, if these claims should be allowed by the executor when he finally obtains letters testamentary, object to the amounts and the allowances on the executor’s final accounting.
+Whether the surrogate has any power to allow to a party who does not succeed in such a litigation his costs and expenses, is a question of much moment.
+By the statute (3 Rev. Stats., 143, § 33), where a will of personal estate is contested, and afterwards admitted to probate, the statute provides that the party contesting shall pay the surrogate’s fees and expenses, and if the joróbate of a will should be revoked, the party who fails may be required to pay the costs personally, or out of the estate.
+There is no provision for such allowances in cases of wills of real estate.
+There is a manifest difference between the authority of the surrogate in admitting a will to probate, and the cases referred to by the counsel, where courts of equity have ordered the costs of construing a will, or adjudicating upon trusts, to be paid out of the estate. Such a power is conferred upon a court of equity, to be exercised according to the discretion of the court; but the surrogate’s court obtains authority to award costs from the statute (3 Rev. Stats., 367, §25), which says: “In all cases of contest before a surrogate’s court, such court may award costs to the party in the judgment of the court entitled thereto, to be paid by the other party personally, or out of the estate.” See Shultz a. Pulver (3 Paige, 185); but in Burtis a. Dodge (1 Barb. Ch. R., 91), it was held he could not make arbitrary allowances.
+It is not necessary, however, to discuss this branch of the case at present. I think it is apparent that the contestants, either for or against the will, have no claim to be paid out of the estate until a final decision is made, so as to take the property out of the hands of the special collector, and an order directing him to pay costs and expenses to the litigants is erroneous, and should be reversed.
+As the counsel for the appellants stated that it was not desired to interfere with the payments heretofore made by the collector under the order of the surrogate, he should be protected as to such payments. So much of the order as 'confirmed the payments made by the special collector under the order appealed from, is not to be affected by this appeal, and the order to be made reversing the order of the surrogate, is not to affect such payments.
+So much of the order of the surrogate as directs the payment of any moneys by the collector is reversed.
+Davies and Sutherland, JJ., concurred.
