@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-07-03"
+citations: ["17 N.Y. St. Rep. 593"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Francis Schrowang, Jr., Resp’t, v. Artemas Sahler, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0593-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008359
+---
+
+# Schrowang v. Sahler
+
+## Majority (Landon, J.)
+
+Landon, J.
+This action is to recover for lumber which -.the plaintiff alleges he delivered prior to March, 1882, to •one John Snyder, a boat builder at Eddy ville, Ulster county, upon a contract that the lumber should remain the plaintiff’s until Snyder paid him for it; that in July, 1882, Snyder made a general assignment for the benefit of creditors to the defendant; that the plaintiff afterwards demanded this lumber of the defendant, but that the defendant took .and converted the same to his own use.
+Upon the trial the defendant sought to establish that Snyder bought the lumber and gave his note for it, that the defendant had not converted it, but in selling the lumber of Snyder, had reserved the plaintiff’s rights, whatever they were, to the lumber in question. Also that this lumber was so mingled with other lumber as to be undistinguishable. The lumber was subsequently destroyed by fire.
+The testimony given was contradictory to a degree that would support a verdict whichever way the jury might render it. The judgment should be affirmed, unless the-exceptions urged require its reversal.
+Whether the plaintiff parted with the title to his lumber, depended upon the terms upon which he delivered it to Snyder. If, as he testified, Snyder was not to use the lumber until after he had paid for it, then payment was a condittion precedent to Snyder’s right to use, and therefore to his-title. If Snyder was to pay for it as he used it, then he had the right to use it without payment, and the title was in Snyder.
+This distinction was correctly stated by the court to the jury. The defendant, as Snyder’s general assignee, for the benefit of creditors, stood in Snyder’s shoes and took no-better title than Snyder had.
+Exception was taken by the defendant to the admission in evidence of an affidavit made by Snyder after the assignment. The affidavit was offered by the plaintiff as an alleged part of the res gestae between plaintiff and defendant, respecting plaintiff’s demand of the lumber from defendant. The affidavit among other material things recited that Snyder received the lumber from plaintiff upon an agreement that the plaintiff should retain title until he should be paid. The facts were as follows: Francis Schrowang, the father of the plaintiff, and Snyder, together-called upon the defendant respecting this lumber, and Snyder told the defendant that he, Snyder, had not bought the lumber in question. The defendant said, “ I would not-sell the boy’s lumber, why not make an affidavit.”
+Snyder said, “Yes, lean.” Defendant said, “All right, we won’t sell it.” Snyder soon after made the affidavit at-the office of plaintiff’s attorney. The defendant had advertised the lumber for public sale. On the day of sale, Francis Schrowang and the plaintiff being together, Francis handed the affidavit to defendant and forbade him to sell the lumber in question. Defendant read the affidavit and handed it back to Francis, saying, “ I will not sell the lumber ; point out your lumber.” The defendant could admit the claim made by plaintiff to the lumber, without any affidavit, if he believed the claim just; but to be the better convinced, he asked for an affidavit, and when he had received and read it, he, in effect, admitted the claim to be valid ; he could not or would not dispute the affidavit; thus it sufficiently appeared that he admitted the statement in the affidavit to justify its reception as his admission. The question is not whether he was bound by its statement, but whether he had at one time assented to it, either by express words or expressive silence. W e think the affidavit was-admissible in evidence generally. But the court limited it to show merely that Snyder did make such an affidavit as-the defendant said he would recognize. _ It is doubtful whether the court could give effect to the jury to_ its_ own limitation of such an affidavit, but the effort to do it did not hurt the defendant.
+The defendant’s counsel asked tho court to charge “that the testimony shows that a portion of the lumber was used by Snyder before the assignment, and that the defendant is not liable for any lumber except what came into his possession.”
+The Court—“I charge the first part of that. The first proposition I leave to the jury, and I decline to charge the other. I decline to charge upon a question of fact.”
+As an entire proposition this was properly declined, as requiring the court to charge what the testimony showed or established upon a controverted question of fact. The court had explicitly charged that the defendant could only be liable for such lumber as came to his possession, and had been converted by him ; the case was tried upon that theory. The remarks of the court are not clear, but we understand them to be a refusal to charge the entire proposition as one of fact. So understood, the refusal was proper.
+The judgment should be affirmed, with costs.
+Learned, P. J., and Ingalls, J., concur.
