@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1893-07"
-citations: ["78 N.Y. Sup. Ct. 221", "78 N.Y. Sup. Ct. 224"]
+decided_precision: "month"
+citations: ["78 N.Y. Sup. Ct. 221"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
