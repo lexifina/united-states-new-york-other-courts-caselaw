@@ -1,0 +1,30 @@
+---
+court: "New York Superior Court"
+decided: "1849-04-07"
+citations: ["2 Sandf. 421", "4 N.Y. Super. Ct. 421"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hawkins and Logan v. Appleby and Moore."]
+source_url: "https://static.case.law/ny-super-ct/4/cases/0421-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1360248
+cites_cases: ["1 Sandf. 560", "10 Wend. 413", "11 Wend. 374", "12 Wheat. 189", "13 Johns. 403", "13 Wend. 277", "15 Johns. 475", "15 Mass. 331", "2 Denio, 136", "20 Johns. 196", "4 Bibb, 91", "5 Hill, 183", "7 Verm. Rep. 67", "7 Wend. 1", "7 Wend. 10"]
+---
+
+# Hawkins v. Appleby
+
+## Majority (By the Court. Sandford, J.)
+
+By the Court. Sandford, J.
+The evidence suffices to establish, that the plaintiffs were induced to take Emanuel’s note in exchange for their tobacco, by Appleby’s representation that the note was good; when in fact it was not good, and Appleby knew it.
+The declaration states this representation substantially as it was proved. Saying that there were people in South street who would take the note, is not essentially variant from saying that it would pass in South street.
+The other alleged variance depends upon the principal question in the cause, the liability of Moore in respect of the fraud of his partner Appleby.
+It has long been established, that a partner is liable in assumpsit for the consequences of frauds practised by his copartner, in the transaction of their business, of which he was entirely ignorant, and although he derived no benefit from the fraud. (Gollyer on Part 240 ; Story on Part. § 108.) ' This is upon the ground, that by forming the connexion, partners publish to the world their confidence in each other’s integrity and good faith, and impliedly agree to be responsible for what they shall respectively do within the scope of their partnership business ; and if by the wrongful act of one, a loss must fall upon a stranger, or upon the other partner who is equally innocent, the latter having been the cause or occasion of the confidence .reposed in his delinquent associate, must suffer the loss.
+Several striking applications of this principle, are to be found among the adjudged cases; of which we will refer to Rapp v. Latham, 1 Barn. & Ald. 795; Stone v. Marsh, 6 B. & Cr. 551; Hume v. Bolland Ryan & M. 371; and Boardman v. Gore, 15 Mass. 331.)
+• It is perfectly clear, that if the plaintiffs had wholly disaffirmed the sale, and sued Appleby and Moore in assumpsit for the price of the tobacco, they would have been entitled to recover. Is the rule different in an action to recover damages for the deceit practiced upon them ? The difference in theory is, that in assumpsit the innocent partner is charged with the purchase of goods; while in the action of tort, he is accused of a fraud of which he personally is innocent. In practical effect, the only difference is, that in the one case the plaintiff alleges a sale and proves a fraud; in the other, he both alleges and proves the fraudulent transaction. In both forms of action, the innocent partner is subjected to liability, on the principle that he has held out his associate to be worthy of confidence, in their copartnership dealings. The difference in the ulterior remedy, after judgment, cannot have any effect upon the propriety of the form of action.
+It is laid down in a respectable treatise on the subject of parties to actions at law, that where one takes property for the use of another, the latter may adopt the act; and he is thereby placed in the situation of one who had previously commanded the taking, and becomes a trespasser if the act were unlawful. (Hammond on Part. 84.) Now in this case, Appleby obtained the tobacco for the use of himself and Moore. Moore adopted the act by receiving and participating in the use of the property. He was thus placed in the same situation, in reference to the rights of the plaintiffs, as if he had directed Appleby to procure the property, or had concurred with him in the transaction ; and on the authority cited, he become a wrong doer. There is the additional circumstance in this case, that the plaintiffs immediately on discovering the fraud, and within a fortnight after the exchange, notified the defendants in writing, that they had ascertained the note to be bad, and that they should hold the defendants liable for the tobacco.
+The omission of Moore to repudiate or disaffirm, on this occasion, what his partner had done, must be regarded as a distinct adoption and ratification of the act $ and we think he ought to be deemed from thenceforth a joint wrong doer with Appleby.
+Another objection to the recovery, is the omission of the plaintiffs to tender the note to the defendants, before suit brought. The testimony elicited by the defendants showed that the plaintiffs disclaimed owning the note, and referred the maker to the defendants as the parties to collect or compromise it. And the defendants, when notified that they were held liable for the price of the tobacco, were reasonably informed that the plaintiffs disavowed the note ; and could have obtained it at any time on paying such price. Their insisting on retaining the fruit of their fraud, and their omission to pay the price and receive the note, perhaps should be deemed a waiver of any forma:! tender of the latter.
+Be this as it may, there is no ground for saying that the defendants have been prejudiced by the failure to tender the note. They have never conceded the right to look to them for the price, and would not have accepted the note if a formal tender had been made. We will therefore adopt the practice sanctioned in Nellis v. Bradley, (1 Sandf. R. 560,) and consider the tender of the note at the argument, a sufficient compliance with the form insisted upon, without expressing any opinion as to the necessity of a tender in any stage of the transaction.
+Judgment for the plaintiffs for the amount of the note, which is to be deposited with the clerk, for the defendants benefit on payment of the amount.
