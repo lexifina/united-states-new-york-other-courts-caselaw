@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-02-11"
+citations: ["22 N.Y. St. Rep. 842"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Petition of Union Elevated Railway, Resp’t, Relative to Acquiring Title of Land of J. Levy et al, Appl’ts."]
+source_url: "https://static.case.law/ny-st-rep/22/cases/0842-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020653
+---
+
+# In re Union Elevated Railway
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+—The seventeenth section of the act gives the right to acquire such real estate, etc., as is necessary to * *' * operate said railways. The grant was comprehensive and covers the whole ground of controversy. Experience has shown that to carry on the operation of the road in the restricted manner first attempted will expose the public to great danger.
+Were the charter a narrow one, the court might well feel itself called upon to be astute in construing the charter in aid of the public welfare.
+No such necessity is imposed upon it. The charter is amply broad to convey the power to erect all needed appurtenances.
+As was well said by the judge at special term, to hold that this road could compel a connection with the roads of other corporations, and was yet without the power to connect its own branches, would be an absurity.
+Order affirmed, with costs.
+All concur.
