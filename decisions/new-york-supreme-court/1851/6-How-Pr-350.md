@@ -1,0 +1,19 @@
+---
+court: "New York Supreme Court"
+decided: "1851-08"
+citations: ["6 How. Pr. 350"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Merritt agt. Slocum."]
+source_url: "https://static.case.law/how-pr/6/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2191994
+---
+
+# Merritt v. Slocum
+
+## Majority (Harris, Justice.)
+
+Harris, Justice.
+The application in this case is one which can only be granted upon notice. Such notice is required by the 402d section of the Code to be served eight days before the time appointed for hearing. But here the plaintiff only obtained the report upon which his application was founded five days before the term at which he wished to mate his motion. He therefore obtained from the recorder of Troy the order to show cause, claiming that he had authority under the last clause of the section of the Code already cited, to make an order prescribing a shorter time for giving notice of the application. The objection raised by the defendant’s counsel involves the construction of that provision in the Code. It declares that “ the court or judge may, by an order to show cause, prescribe a shorter time” than eight days for notice of a motion. It has been supposed that under this provision any judge might, in his discretion, make an order which should, in effect, dispense with eight days notice of a motion. I have myself practiced upon this construction of the statute, and I understand others have done the same. But I am satisfied, upon more careful attention to the terms of the section, that it will not bear this construction. “ The court or judge,” not “ the court or a judge,” may make the order. The court may hear a motion; and, in certain cases, a judge, out of court, may hear a motion. The court may, by its order, prescribe a shorter time for giving notice of a motion to be made before the court, than that prescribed by law. A judge, likewise, when a motion is to be made before himself may prescribe a shorter time But I do not think it was the intention of the legislature that any judge, at chambers, should have the power of prescribing a shorter time than eight days for serving notice of a motion to be made in court, or before another judge. That this is so, will be manifest, I think, by comparing the language of the section with that of other sections conferring power upon a judge at chambers. Thus, the 158th section declares that “ the court or a judge thereof,” See., may order a further account, Sec. By the 218th section the order of injunction may be made by the court, or by a judge .thereof.” Under the 225th section a defendant may apply to “ a judge of the court” to vacate or modify an injunction. Other instances might be cited, but these are sufficient for my purpose. In all these cases the authority given is conferred upon any judge. The indefinite article is prefixed to the term judge. But in the section under notice the definite article is used. It is “ the court or judge,” that is, the court or the judge, may make the order, and not the court or a judge. Who then may make the order contemplated by this section? That the court may make it, is not questioned. But what judge may make it, out of court? Not any judge, but the judge. It is the judge before whom the application to which the order relates, is to be made. If the application is not to be made before a judge, out of court, then no judge, out of court, can make the order to show'cause. This, I have no doubt, is the true meaning of this provision of the Code. It follows, that the order to show cause in this case was not effectual to confer upon the plaintiff the right to make this motion without giving eight days notice. The motion must, therefore, be denied for want of sufficient notice, but without costs and without prejudice.
