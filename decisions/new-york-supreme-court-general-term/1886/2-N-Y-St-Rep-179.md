@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1886-06-17"
-citations: ["2 N.Y. St. Rep. 179", "2 N.Y. St. Rep. 347"]
+citations: ["2 N.Y. St. Rep. 179"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["James Sargent, appellant, v. Marion Warren, respondent."]
 source_url: "https://static.case.law/ny-st-rep/2/cases/0179-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1976161
-cites_cases: ["2 Abb., 366", "22 How., 60", "27 How. Pr., 32", "35 Hun, 214", "39 Hun, 191", "6 How., 113", "82 N.Y., 161"]
+cites_cases: ["2 Abb., 366", "22 How., 60", "35 Hun, 214", "6 How., 113", "82 N.Y., 161"]
 ---
 
 # Sargent v. Warren
