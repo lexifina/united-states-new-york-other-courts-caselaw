@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1889-01"
+citations: ["58 N.Y. Sup. Ct. 423"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM PALEN, as Receiver of HENRY BANGE, Respondent, v. EZRA L. BUSHNELL and HENRY BANGE, as Revived and Continued Against the Executors of EZRA L. BUSHNELL, Deceased, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/58/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4570665
+cites_cases: ["82 N. Y., 509", "90 N. Y., 461"]
+---
+
+# Palen v. Bushnell
+
+## Majority (Brady, J.:)
+
+Brady, J.:
+The plaintiff was appointed receiver of Henry Bange in October, 1862, in proceedings supplementary to execution by a judgment-creditor, and this action was commenced in December, 1863, for an accounting between the plaintiff, as such receiver, and the defendants as to certain real and personal property fraudulently transferred by Bange to Bushnell on the eve of insolvency, without consideration and with intent to hinder, delay and defraud judgment-creditors. The defendant Bushnell died June 13, 1887, leaving a last will and statement in which he appointed Adelaide E., his wife, executrix, and Ezra D. Bushnell and Albert Van Der Werken executors. The will was admitted to probate and letters testamentary issued to the person named. At the time of Bushnell’s death this action was pending before a referee; and the defendant, after a motion had been made to dismiss the complaint which was denied, was about to enter upon his defense. It is hardly necessary to say that the action is one which may be continued in the exercise of the discretion of the court. (Coit v. Campbell, 82 N. Y., 509; Holsman v. St. John, 90 N. Y., 461; Rumsey’s Pr., 663.) The reasons assigned for a reversal of the order made permitting the continuance are ingenious but not meritorious. The first suggestion is, that the order should be reversed, for the reason that the plaintiff has no title to the cause of action; and this is predicate of a supposed irregularity in the order appointing tht. receiver. It is sufficient to say that this is not a subject which will be disposed of upon affidavits, and especially as it is necessarily before the referee; and if any benefit shall arise out of any incident of that kind the defendant will be entitled to it.
+The next proposition is that the judgment in the action in which the plaintiff is appointed receiver is paid and satisfied, and this is founded upon the presumption arising from the recovery of the judgment in August, 1862, which is more than twenty-five years ago-Section 376 of the Code provides that after a lapse of twenty years the presumption of payment of judgments shall be conclusive. But that section does not apply to a remedy founded upon the judgment instituted long before the period mentioned had expired and, indeed, within two years after the judgment was recovered.
+The next point presented is that the motion should not be granted because the action was brought by the receiver without leave of the court, and that to authorize him to continue would be a judicial sanction of a proceeding commeuced without authority. It is sufficient, in answer to this point, to say that it is too late after issue joined to urge successfully such an objection. (Code, § 499.)
+The next suggestion is that the plaintiff is not now a resident of this State, and that the plaintiffs in the action in which the receiver was appointed are both dead, and have no personal representatives, and there are no persons in existence who would be entitled to the moneys to be collected in this action. There is also an assertion that the bond given by the receiver is void, and that the obligee is dead. Hone of these suggestions are of the slightest consequence on an application of this kind. The case seems to be regularly in court, and having been sent to a reference it must be assumed that every obstacle to that procedure was encountered and overcome.
+It is further contended that a simple order of continuance was all that the plaintiff was entitled to, which would enable the plaintiff to avail himself of all the pleadings and proceedings; and, again, that the testimony upon the trial should not be permitted to stand. It is only necessary to say, in answer to these propositions, that it was purely a matter of discretion to be exercised by the court below, and that there is nothing in the case which, in our judgment, indicates that the discretion was erroneously exercised.
+Again, it is urged that the executors can only be brought before the court by a supplemental summons, and the action continued by supplemental pleadings, and reference is made to the Code (§§755-760). It will not be necessary, in disposing of this appeal, to consider these provisions in detail. It is sufficient to say that, as there were two defendants in this case, the continuance was provided for by section 757, the Court of Appeals having decided in Coit v. Campbell (supra), that if there were, originally, more than one defendant in the action, and of whom one has died, that one is a sole defendant within this section. The cases upon this subject are collated and well stated in Rumsey’s Practice (vol 1, 663 et passim).
+The order should be affirmed, with ten dollars costs and disbursements.
+Daniels, J., concurred.
+Order affirmed, with costs and disbursements.
