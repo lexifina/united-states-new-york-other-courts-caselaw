@@ -1,0 +1,25 @@
+---
+court: "New York City Court"
+decided: "1887-09"
+citations: ["20 Abb.N. Cas. 422"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SMITH v. JACKSON."]
+source_url: "https://static.case.law/abbn-cas/20/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1958443
+cites_cases: ["8 Barb. 541"]
+---
+
+# Smith v. Jackson
+
+## Majority (McAdam, Ch. J.)
+
+McAdam, Ch. J.
+There are two Jacksons, “ Morris J.” and “ Meyer.” The plaintiff intended to sue and serve process upon <l Morris J.,” and claims that he has been properly served therewith. Moyer Jackson claims that process was served upon him, that he thereupon employed attorneys and defended under the name of “ Meyer Jackson sued as Morris J. Jackson,” and all the papers emanating from his attorneys are so entitled. It is apparent throughout that Solomon Kantrowitz & Esberg were appearing for “ Meyer ” Jackson, and not for “ Morris J.” Jackson. If Meyer Jackson was not the party intended to be sued, the plaintiff was nnder no more obligation to accept the answer tendered, than if the process had been served upon John Smith, and he bad appeared and defended under the title of 5‘John Smith sued as Morris J. Jackson.5’
+There is no law or practice that permits a stranger, because erroneously served with process intended for some one else, to cerne into the record and defend upon the merits by alleging that he (the stranger) does not owe the debt or duty charged, when it is obvious that no one intended to allege he did. The stranger cannot force the plaintiff to accept such a plea, nor can he in any manner prejudice the real defendant intended to be—but not—served.
+The plaintiff, however, voluntarily accepted the plea tendered by the stranger and went to trial upon it. The trial judge declined to consider the question whether the process was properly served, and directed judgment against Morris J. Jackson, who did not appeal1. This practice is" without warrant or precedent. If no process was served upon Morris J., an appearance and answer by Meyer Jackson, sued as Morris J., gave the court no jurisdiction to award such a judgment; and even if Morris J. was served, an interloper could not mulct him in the costs of a trial, if he determined to suffer judgment by default. In either event the court at trial term was without jurisdiction, and the judgment directed thereat is coram non judioe and void. The plaintiff should have declined to receive such a plea from a stranger, or by moving to set it aside as irregular, have tested its propriety.
+It is not to be inferred from this that the practice of the other side has been any better. Meyer Jackson, if not sufficiently informed by the process, might have ascertained upon inquiry that he was not the person intended to have been sued, and in case of serious doubt could have ascertained to a certainty by a motion to set aside the service (Hones v. Hope M. Ins. Co., 8 Barb. 541). Upon such a motion the plaintiff would either have to disavow the service on Meyer Jackson as her debtor, or amend by inserting his true name, so as to commit her to an election to hold him. Ho effort was made by either party, by motion or otherwise, to have this preliminary question of service or identify of party settled in advance of the trial, and the action has apparently 'proceeded on the inconsistent and contradictory theory that the plaintiff was prosecuting one person, and the attorneys for the defense were defending another. Ho orderly system of practice sanctions or tolerates such an incongruity.
+The action is now before the court on a motion made by Morris J. Jackson to vacate the judgment, and it must bo disposed of according to legal principles in a manner calculated to bring order out of chaos. If process was personally served upon Morris J. Jackson, the plaintiff is entitled to enter judgment against him as by default; for he has not appeared in the action and has failed to answer. The judgment in such case must be entered by the clerk (Code Civ. Pro. § 1212.) If process has not been served upon Morris J. Jackson, the attempt to commence the action has proved abortive,.and plaintiff must begin de novo. It is fundamental that the want of jurisdiction may always he set up against a judgment, and if its absence is proved the judgment must be annulled, as the record of a court is never c mclusive on the existence of a jurisdictional fact (Craig v. Town of Andes, 93 N. Y. at p. 411).
+It follows that the judgment directed against Morris J. Jackson at the trial term, on the answer interposed by Meyer Jackson, is not only irregular but void for want of jurisdiction in the court to make such direction, and it will be vacated, but, under the circumstances, without costs, and the plea interposed by Meyer Jackson will be declared unauthorized by the practice and the service thereof set aside. Meyer Jackson has joined in the present application, and may, therefore, be lawfully concluded by the adjudication thereof.
