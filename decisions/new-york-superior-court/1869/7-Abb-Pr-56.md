@@ -1,0 +1,23 @@
+---
+court: "New York Superior Court"
+decided: "1869-09"
+citations: ["7 Abb. Pr. 56"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["POPPER against SCHEIDER."]
+source_url: "https://static.case.law/abb-pr-ns/7/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1963079
+---
+
+# Popper v. Scheider
+
+## Majority (McCunn, J.)
+
+McCunn, J.
+Several days since, on affidavits made by the plaintiff that he was a partner in the firm of which the defendants were also partners, that the defendants had altered the style of the firm without his (plaintiff’s) consent, so as to exclude any appearance of his having an interest therein ; that he was informed by them that he could go about his business, and that his interests in the business were endangered, applied for an order dissolving the copartnership and appointing a receiver. On the facts set forth the order was granted, and Mr. Thomas J. Barr, on filing the proper bonds, took possession of the copartnership property as receiver.
+Application is now made by defendants to set aside the injunction order, and also the order appointing a receiver. The motion was made on affidavits setting forth that the plaintiff was not a general partner; that the copartnership property amounts to 860,000 or 870,000 ; that all the cash capital the plaintiff had therein was §1,800, and an interest in the profits to the extent of seven and a half per cent., all the balance belonging to the defendants. The defendants also set forth that if the receiver be continued, and the order appointing him is carried out, the result will be that their profitable business,—a business which has been the result of years ol industry, and which they (the defendants) have established at great expense and trouble,—will be ruined, and their prospects in life blighted. They also allege that the plaintiff has not instituted these proceedings so much to secure his interest or the moneys due him from the concern, as through malice, they having already offered to pay him his $1,800, and also agreed to secure to him the further-payment of any amount found to be due him on account of his share in the profits.
+Under these circumstances the defendants have applied to the court to modify the order appointing the receiver, so as to allow them to give security in any sum the court may name, to the effect that they will pay plaintiff any sum found to be due him on a proper accounting ; and that the order appointing such receiver, be discharged, and ’they allowed to conduct and take care of their business as usual.
+■ This action is in the nature of a suit in equity, in which the relief demanded is the dissolution of an alleged copartnership, and an adjustment of the partnership accounts, and in which provisional relief is sought by an injunction and the appointment of a receiver. I allowed an interlocutory order for an injunction and the appointment of a receiver. The motion now is, to modify the order of injunction and appointing a receiver ; and instead, to permit the defendants to file security to pay the plaintiff any sum that may be found due him on a final settlement of the partnership accounts. In view of the facts that a partnership between the plaintiff and defendants is positively denied, tha,t a very small proportion of the partnership capital was contributed by the plaintiff, if, indeed, any were contributed by him in the character of partner; that by the allowance of an injunction and the appointment of a receiver, the partnership business, which is very large and flourishing, will be arrested, and, perhaps, ruined; and that, by the modification proposed, the plaintiff will be abundantly secured in all his rights, absolute or contingent, I can-, not doubt but the equity of the case requires a rescission of the order of injunction and receivership, and the substitution of an order to the effect suggested. It is thus that a court of equity molds and adapts the remedial relief it accords, so as to reach the ends of substantial justice without compromising the rights or interest of any party to the litigation. A provisional remedy is only auxiliary to ultimate relief, and should never usurp or anticipate the office and effects of a trial on the merits. If, on the final hearing, it appears that the plaintiff was in fact a partner, and, as such, entitled to a share of the profits, he will, on final judgment, have a decree for his proportion, and, in the meanwhile, the security exacted and given'will guarantee him the full measure of relief to which he may show himself entitled.
+Order granted.
