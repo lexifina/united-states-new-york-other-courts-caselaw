@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1887-07"
-citations: ["52 N.Y. Sup. Ct. 329", "52 N.Y. Sup. Ct. 347"]
+decided_precision: "month"
+citations: ["52 N.Y. Sup. Ct. 329"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["THE PEOPLE OF THE STATE OF NEW YORK v. E. REMINGTON & SONS."]
 source_url: "https://static.case.law/ny-sup-ct/52/cases/0329-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8594331
-cites_cases: ["1 Abb. Ct. App. Dec., 13", "1 Lans., 68", "10 Ind., 83", "102 Mass., 236", "12 Pet., 102", "13 C. B., 166", "16 Hun, 186", "17 Hun, 429", "17 Hun, 463", "2 Will., 4", "20 Hun, 388", "21 N. Y., 490", "23 Miss., 459", "24 N. Y., 482", "3 Denio, 173", "3 N. Y., 243", "3 Sandf., 257", "30 Barb., 483", "32 Am. Rep., 262", "37 N. Y., 640", "4 Hill, 263", "4 Lans., 8", "45 N. Y., 766", "46 N. Y., 521", "46 N. Y., 82", "49 Ala., 115", "49 Barb., 203", "49 N. Y., 183", "5 Wheat., 286", "54 Ga., 399", "61 N. Y., 251", "61 N. Y., 274", "61 N. Y., 279", "64 N. Y., 326", "65 Barb., 275", "72 N. Y., 32", "75 N. Y., 44", "76 N. Y., 521", "82 N. Y., 626", "83 N. Y., 318", "9 Abb., 364", "9 Cranch, 374", "90 N. Y., 213", "90 N. Y., 218", "91 N. Y., 20", "94 N. Y., 587"]
+cites_cases: ["1 Abb. Ct. App. Dec., 13", "1 Lans., 68", "10 Ind., 83", "102 Mass., 236", "12 Pet., 102", "13 C. B., 166", "16 Hun, 186", "17 Hun, 429", "17 Hun, 463", "2 Will., 4", "20 Hun, 388", "21 N. Y., 490", "23 Miss., 459", "24 N. Y., 482", "3 N. Y., 243", "3 Sandf., 257", "32 Am. Rep., 262", "37 N. Y., 640", "4 Hill, 263", "4 Lans., 8", "45 N. Y., 766", "46 N. Y., 521", "46 N. Y., 82", "49 Ala., 115", "49 N. Y., 183", "5 Wheat., 286", "54 Ga., 399", "61 N. Y., 251", "61 N. Y., 274", "61 N. Y., 279", "75 N. Y., 44", "76 N. Y., 521", "82 N. Y., 626", "83 N. Y., 318", "9 Cranch, 374", "90 N. Y., 213", "90 N. Y., 218", "91 N. Y., 20", "94 N. Y., 587"]
 ---
 
 # People v. Remington
