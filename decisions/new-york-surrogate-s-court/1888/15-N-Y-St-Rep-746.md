@@ -1,0 +1,25 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-03-16"
+citations: ["15 N.Y. St. Rep. 746"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of James M. Benedict."]
+source_url: "https://static.case.law/ny-st-rep/15/cases/0746-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2001209
+cites_cases: ["27 Hun, 570"]
+---
+
+# In re the Estate of Benedict
+
+## Majority (Ransom, S.)
+
+Ransom, S.
+—Motion for a stay of proceedings ontheaccount and objections thereto heretofore filed. The facts appear to be that the testator died in 1867, and letters testamentary were issued in December, 1867, to James Benedict, a son, and Mary A. Benedict, the wife of deceased, none of the executors named in the will having qualified. In 1868 an inventory of the personal estate of the deceased was filed; at the time of the testator’s death he was indebted to the Glen Cove Starch Manufacturing Company in a large amount; that the claim of the said company was duly filed with the executors in 1869, and was duly received and allowed by them; that such claim has not been paid; that in 1871 an account was filed in the office of the surrogate, and by a decree made thereon in 1872 there was adjudged to be a balance of $700.19 in the hands of the executors, which should be applied to pay creditors; that no distribution or further accounting had been made up to a few months ago, and that assets to a large amount have subsequently come into the hands of the executors.
+The above facts are elicited from the petition of the Glen Cove Starch Company, filed October 20, 1887, praying that the executors render a further account and pay the claim of petitioner, so far as the assets of the estate are properly applicable thereto and that the executors show cause why their account should not be judicially settled, and that they pay said claim. On this petition a citation was issued, returnable November 17, 1887. On December 15, 1887, an account of the executors was filed and at the same time an answer of the executrix, alleging substantially that she had" had nothing to do with the administration of the estate and that as to her the proceeding be dismissed. To this account, objections were filed February 2, 1888, some of which relate to items paid by said executor for taxes on certain lands in Iowa. The motion for a stay is made on the ground that, in respect to a large part of said lands, an action is now pending in the supreme court of this state, between Mary A. Benedict plaintiff, and Ann Augusta B. Cobb defendant, individually, and as executrix, etc., of Theodore H. Benedict, deceased, the purpose of which is to recover the value of said lands, which the plaintiff alleges were the property of James H. Benedict, deceased; and for the further ground that the title to those lands being in litigation, a referee could not intelligently pass upon the items in the executor’s account as objected to. The allegation of the petitioning creditor in opposition to the granting of a stay are substantially to the effect that patents to all the lands referred to were issusd to said Theodore H. Benedict, by the United States, and that the legal title to them remained in him until his death; that by the will of James H. Benedict, his real estate was not charged with the payment of his debts. It is also claimed by the executor that, if the suit in the supreme court should de decided in favor of the plaintiff, the assets applicable to the payment of creditor’s claim would be greatly increased, whereas the petitioning creditor claims that the favorable result of that litigation could in no way enhance the corpus of the estate applicable to the payment of its claim.
+It is true that the will of testator does not charge his real estate with the payment of his debts; the time in which a creditor had a right to compel the sale of testator’s real estate had expired before these payments were made. Mead v. Jenkins, 27 Hun, 570; same case, 29 id., 253.
+The final determination of the title of the respective parties to the Iowa lands by the supreme court, even if it were favorable to the plaintiff, would not enhance or increase in any way the assets of James H. Benedict’s estate, applica ble to the. payment of creditor’s claims. The only question is, whether the executor having paid the taxes on the lands in question, his right or error, in doing so can be determined by the decision of the supreme court, deciding in whom the title to the lands is and was, and should a stay be granted till then; or whether the error or correctness of the payments can be determined by the surrogate on this accounting at once.
+If the fact should be established before a referee that the executor has used money in his hands to pay taxes levied upon real property of deceased after his death, such an expenditure could not ordinarily be allowed. Cornwell v. Deck 2 Redf., 87.
+The motion for a stay is denied, and a reference to examine the account and objections thereto, ordered.
