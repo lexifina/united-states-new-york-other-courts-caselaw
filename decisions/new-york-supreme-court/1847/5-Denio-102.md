@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1847-10"
+citations: ["5 Denio 102"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walker vs. Moseley."]
+source_url: "https://static.case.law/denio/5/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1881429
+cites_cases: ["1 Denio, 592", "1 Denio, 593", "7 Hill, 35"]
+---
+
+# Walker v. Moseley
+
+## Majority (By the Court, Whittlesey, J.)
+
+By the Court, Whittlesey, J.
+The proceedings introduced and proved by the defendant below, appear to be strictly according to the statute in relation to highways; (1 R. S. 510, §§ 41 to 43;) and as no objection is taken to their regularity, they will for the purposes of this suit be assumed to be regular. The defendant did not prove that at the time of taking the proceedings he was an overseer of highways, the justice holding that it was not necessary for him so to do. And the plaintiff offered to prove that the defendant was not at such time overseer of highways, which proof the justice refused to permit him to introduce. The only point in the case arises out of these two rulings of the justice, and the single question is whether the defendant, as a part of his justification, was bound to prove the fact that he was overseer of highways, and whether such official character was a fact open for inquiry in this suit.
+It will doubtless be at once conceded that a justice of the peace, in proceedings under the act in relation to highways, to fine for refusal or neglect to work, acts as a court of special and limited jurisdiction. The general legal rule too will be conceded, that in justifying under the proceedings of such tribunals of special limited and inferior jurisdiction, the material facts necessary to give such tribunal jurisdiction, must be alleged and proved. In this case one of the material facts necessary to the jurisdiction of the justice, was that the party complaining should be an overseer of highways. It was only upon the complaint of an officer of that character that the justice was authorized to proceed so summarily and fine so promptly. If the present action had been in a court of record, and the defen dant was put to his plea of justification, how would that plea have been drawn 1 It would have begun by averring the fact that he was overseer of highways, and would.then have proceeded to state his acts and application to the justice in that capacity. The fact that he was an overseer of highways was a material averment, and the plea could not have been sustained without it. It was the material fact which authorized the summary proceedings before the justice, and gave him jurisdiction. This defendant is the party in whose favor such former proceedings were had, and whatever the rule may be as to the justice or constable, the person who instituted these proceedings and procured the warrants, must show the fact that he was an overseer of highways, which alone authorized the proceedings. It is not enough for him to show a complaint before the justice in which that fact was stated. An analogous case has recently-been decided in this court, affirming this doctrine. (Whitney v. Shufelt, 1 Denio, 592.) The rule, however, is familiar and well understood as applicable to all pleadings which rely upon the proceedings of courts 'of special, limited and inferior jurisdiction. All the material facts necessary to give such tribunal jurisdiction, must be set out or averred. (Cornell v. Barnes, 7 Hill, 35, note.)
+I have referred to the case of pleading a justification in courts of record because the averments in such pleas indicate with great clearness and precision what is necessary to be proved to make out such justification. What is necessary to be averred in such a plea in a court of record to make it good, is necessary to be proved before a justice to make out the justification. In the case before us the fact that the defendant was an overseer of highways, was a material fact to give the justice jurisdiction in the former proceedings. When the defendant relies upon such proceedings for his justification, he must prove such fact to show that the justice had jurisdiction therein.
+It is not enough that it was adjudged in such proceedings as between these very parties, that the defendant was such overseer. The judgment would be sufficient to protect the justice who issued the warrant and the officer who executed it, but not sufficient for the party upon whose application the proceedings were had. He, when he relies upon such proceedings, must show that he sustained the character which he then represented himself to bear. The justice consequently erred in rejecting the proof offered by the plaintiff, and in deciding that the proceedings were a sufficient justification to the defendant without proof of the fact that he was overseer of highways.
+Judgment reversed.
+See this question discussed and the authorities referred to in Cowen & Hill's Notes, 101.6 to 1023.
