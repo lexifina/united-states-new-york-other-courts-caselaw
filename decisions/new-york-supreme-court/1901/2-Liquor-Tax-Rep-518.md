@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1901-04"
+citations: ["2 Liquor Tax Rep. 518", "34 Misc. 662"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Application of William Rowley for an Order Directing That a New Town Meeting Be Held in the Town of Manchester, Ontario County, N. Y., as Provided by Section 16 of the Liquor Tax Law."]
+source_url: "https://static.case.law/liquor-tax-rep/2/cases/0518-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1293627
+cites_cases: ["34 Misc. 662", "41 App. Div. 178", "51 App. Div. 38"]
+---
+
+# In re Rowley
+
+## Majority (Rich, J.)
+
+Rich, J.
+On the 31st day of January, 1901, there was filed in the office of the town clerk of the town of Manchester, Ontario county, N. Y., the petition required by section 16 of the Liquor Tax Law (L. 1896, chap. 112), praying that the question of the sale of liquor in that town be submitted to the voters thereof at the town meeting to be held March 5, 1901. It, therefore, became the duty of the town clerk (see L. 1900, chap. 367, § 3), at least ten days before the holding of such town meeting, to cause to be printed and posted in not less than four public places in the town a notice of the fact that all of the local option questions would be voted on at such town meeting, and also to publish said notice at least five days before the vote was to be taken, once in one newspaper, and although he was informed of his duty in respect to giving such notice prior to the 5th day of March, 1901, there was an entire failure upon his part to perform his duty in that regard.
+Notice was given, however, to the electors, of the fact that all of the local option questions would be voted on at such town meeting, sample ballots containing each of the four propositions to be voted upon were mailed to every elector of the town who voted at the general election in the fall of 1900, and to those also who had become residents thereof prior to March 5,1901. And in addition to this, several public meetings were held, at which the local option questions were discussed. Notices of these discussions appeared in a newspaper published in the town of Manchester, February 16, February 23 and March 2, 1901. Not content with this, and in order that notice that these questions were to be voted upon should be given to all, it was conceded upon the argument that circulars were freely distributed throughout the town, one being signed by Bev. Father O’Hanlon, and eleven others addressed “ To the voters of the town of Manchester,” giving them instructions, and concluding as follows: “ vote (No) in the name of our children, our wives, our homes, our churches, and for the sake of good order vote (No).”
+Another as- follows:
+“A Word to Voters."
+“At the approaching Town Meeting the question of license is to be voted upon, and in order that every voter may exercise the right of his franchise intelligently, it may not be out of place to call his attention to a few candid facts. The Town of Manchester, under no license law, loses at least $1,000 a year which might be collected from license certificates.
+“It also loses thousands of dollars more during the course of a year by trade which is driven away by the operation of no license.
+50 long as liquor is sold in Canandaigua, Phelps, Orleans, Palmyra and Geneva, the residents of the town of Manchester will be supplied with liquor, ale and beer in large or small quantities. The good people who favor and vote for no license imagine that they have a law, when in reality they have no law whatever. If license is voted, the several hotels in the town will be under the operation of the Raines Liquor Tax Law, and any person caught violating the law is liable to have his license revoked, and be subjected to a severe fine. Now, then, voters, which will you have —liquor sold according to law, or the present ‘ Moonshine ’ system continued? Will, you vote to keep trade and money at. home to reduce taxes, or will you vote for a law which will continue to aid Canandaigua, Phelps, Orleans, Palmyra and Geneva? It is for you to decide.”
+“A Taxpayer.”
+That the electors received notice of the proposal to vote upon tins question is evidenced by the fact that, while the whole number of votes cast for supervisor at said town meeting was 1,146, with 68 blank ballots, which was the combined highest vote for anj officer, the total number of votes cast upon each of the four liquor tax propositions was 1,218.
+As I have said before, it was the duty of the town clerk to “ give notice of the vote on local option.” Matter of Eggleston, 51 App. Div. 38. The statute in respect to his duties is directory only. In case of a failure of the town clerk to post and publish the notice where the electors were not given other notice, the vote cast would be void, and the will of the people thwarted by the wilful refusal of that officer to perform his duties. But that is not the case here. The end sought to be attained by the statute, to wit, the “ giving of notice of the questions to be voted for at the town meeting,” was accomplished in this case, as already clearly appears.
+The learned counsel for the petitioner contends that the Matter of Eggleston, above cited, is decisive upon the question involved on this motion. In that case, at the time notice should have been given no preliminary petition was on file in the town clerk’s office, the very basis and foundation of the right to a submission of the question was absent; the question of the requirement that the clerk post notices was only incidentally discussed. That it was not intended to decide that the giving of the notice by the clerk was an absolute necessity is found in that the same court decided the case of People ex rel. Crane v. Chandler, 41 App. Div. 178, which is an authority upon this question. Ballots and samples thereof were delivered by the town clerk prior to the holding of the town meeting, to the chairmen of the several election boards, as required by law.
+The questions were fairly submitted to the electors of the town, and why, under the circumstances of this case, should the question be resubmitted, and the town put to the expense and inconvenience of another election? There is no good reason for it. This motion must, therefore, be denied, with ten dollars costs to respondents.
+Motion denied, with ten dollars costs to respondents.
