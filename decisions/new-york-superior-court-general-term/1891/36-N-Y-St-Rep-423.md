@@ -1,0 +1,34 @@
+---
+court: "New York Superior Court General Term"
+decided: "1891-02-04"
+citations: ["36 N.Y. St. Rep. 423"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Valentine Hammann, App’lt, v. Richard Jordan, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/36/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050629
+cites_cases: ["35 Barb., 602", "50 N. Y., 148", "62 N. Y., 264", "9 N. Y. Supp., 423"]
+---
+
+# Hammann v. Jordan
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The plaintiff brought the action upon an agreement made by him and defendant. They were respectively the owners of adjoining lots. The agreement witnessed that,
+Whereas, the plaintiff was about to erect a wall to stand equally upon and between the premises, the defendant agreed that the plaintiff might erect upon the defendant’s premises the one-half part of the said wall “as a party wall, to be continued and used as such.” The defendant agreed that whenever he should desire to use the party wall in the erection of a building on his lot, he would pay to the plaintiff the sum of $741.16, being one-half of the sum to be expended in the erection of the party wall.
+The plaintiff afterward built a wall twelve inches thick, one-half of it being on each lot.
+The defendant afterwards built on his lot a house. He did not use the so called party wall for the beams of the house, but next to the party wall built an eight-inch wall, in which the ends of the beams were placed. The use he made of the so called party wall was to anchor the additional wall to it.
+The action is brought to recover the sum named in the agreement to be paid by the defendant upon his using the party wall.
+To maintain Ms action, it was necessary that the plaintiff should prove that what he built was, within tne meaning of the agreement, a party wall. In the plaintiff’s case it appeared that on the side of the wall toward Ms house he left spaces in the wall to be used as flues by him. These were twenty-two in number, and each eight inches in width. Their depth was such that they went upon the defendant’s lot two inches beyond the center of the wall.
+On the trial the position upon which the complaint was dismissed was that it affirmatively appeared that the wall as built by the plaintiff was not a party wall within the meaning of the agreement.
+On substantially a similar case when the action was before a former general term, 9 N. Y. Supp., 423; 30 N. Y. State Eep., 249, the court held that the evidence showed that the wall was not capable of substantially similar use by each of the adjoining owners. That decision justifies the dismissal of the complaint on the second trial.
+The learned counsel for the appellant argued that there was evidence that while the plaintiff was building, the defendant was present and acquiesced in or assented to the mode that was used in the erection of the wall. There was no proof, however, that the defendant, before proceeding to build Ms house, had been aware that the flues were placed in the wall.
+Construing the agreement by ordinary rules, a common meaning must be attributed to the phrase party-wall, it not appearing that the agreement intended any special, local or technical meaning. The common idea of a wall is that' it is a solid structure, and it is reasonable to hold this when the alternative would be to permit the party building, to leave spaces or hollows in the wall to suit what may be his present convenience or supposed future convenience without consultation and the assent of the other party. It would be extremely difficult, if not impossible, to show that the legal rights of the other party would be preserved by making the fact that he would not actually be damaged equivalent to a consent or agreement by Mm that the wall should be built as it was in fact built. It would rarely be the fact that a recess in a wall made without the assent of the other party would be so absolutely without effect on the convenience of the other party that he would not be entitled to a voice in determining where ánd of what shape that recess should be. And it would be impossible to justify the use by-the plaintiff of two inches of the defendant’s land in making flues for his particular purposes.
+Washburn’s Easements, etc., 628 (472), states the French law to be, that it prohibits either from making any recess in the wall and that Pardessus considers this as preventing the construction of a safe, a niche, pipe or a chimney flue in such a wall. This would seem to regard the nature of the case.
+The counsel for appellant supposed that the defect assumed was a matter of compensation to the defendant, on the ground that the condition of the contract had been substantially performed, and that the defect was technical and unimportant. Glacius v. B lack, 50 N. Y., 148; Sinclair v. Tallmadge, 35 Barb., 602. The proposition and the cases are not to be applied here, for the building of the flues beyond the center line was designed and intentional and substantial. Any intentional departure from the contract prevents a recovery, and what the plaintiff did he did with purpose and design, believing, in mistake, that he was acting within the contract. Phillip v. Gallant, 62 N. Y., 264.
+In behalf, of the plaintiff, one of his witnesses, who had been an architect, was asked “Is it customary to build flues in party walls?” On the court’s inquiry as to the purpose of the question, the counsel said that he wanted to show that it was a proper thing to put a flue in a party wall. The question was properly excluded. As it is the general thing that party walls, as they relate to the realty, are constructed under written agreements, the question in effect asked if such written agreements provided for flues in party walls.
+The judgment should be affirmed, with costs.
+Freedman, J., concurs; Ingraham, J., dissents.
