@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03"
+citations: ["83 N.Y. Sup. Ct. 546"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Haight, JJ., concurred."]
+parties: ["Wilbur J. Manley, Appellant, v. Albert D. Ackler, as Treasurer of The North Leon Cheese Factory, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/83/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4716835
+---
+
+# Manley v. Ackler
+
+## Majority (Bradley, J.:)
+
+Bradley, J.:
+The action ivas brought to recover damages for an alleged breach of warranty in the sale of a quantity of cheese to William E. Smith & Co. The plaintiff is assignee of the claim. He made the purchase of the cheese for them through Harrison Franklin, who was authorized to make the sale. The evidence on the part of the plaintiff is that in the interview or negotiation between Franklin and the plaintiff the latter inquired of him about the quality of the cheese and Franklin said that the defendant had “ told him to guarantee the cheese fine.” Thereupon the plaintiff said to Franklin that if the quality of the cheese was “ fine ” he would give seven and a half cents per pound for it. The offer was afterwards accepted, the sale made, the cheese paid for and delivered; upon inspection the cheese was found to be in quality of a lower grade than “ fine,” and consequently not worth as much as it would have been if of that specified quality.
+On the defense Franklin testified that he did not say to the plaintiff that the defendant had told him to guarantee the cheese fine. He was then asked: “ Did Mr. Acker tell you to do so ? ” The objection to this on the ground that any matter of conversation between the witness and Acker, the defendant, was incompetent, was overruled and exception taken. The witness answered “No.”
+This evidence was not material between the parties to the action on the question of the authority of Franklin to warrant the cheese. His power to sell carried with it as against the plaintiff in behalf of the purchaser the authority to warrant.
+It evidently was offered in con-oboration of the evidence of the witness, and may have had some effect upon the question 'of fact presented, by the conflict in the evidence of the two witnesses and of their credibility. The evidence whether or not such conversation was had between Franklin and the defendant was not competent in behalf of the latter for any purpose. And as it may have been prejudicial to the plaintiff upon that question, the error cannot be disregarded.
+No other question seems to require consideration. The judgment should be reversed and a new trial granted, costs to abide the event.
+Dwight, P. J., Lewis and Haight, JJ., concurred.
+Judgment of the County Court of Cattaraugus county, appealed from, reversed and new trial granted, costs to abide the event.
