@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-07"
+citations: ["19 N.Y. St. Rep. 659"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Campbell, Resp’t, v. The New York Central and Hudson River R. R. Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0659-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650442
+cites_cases: ["101 N. Y., 419", "40 Hun, 349", "79 N. Y., 404", "96 N. Y., 305"]
+---
+
+# Campbell v. New York Central & Hudson River R. R. Co.
+
+## Majority (Martin, J.)
+
+Martin, J.
+On the 15th day of November, 1884, the' plaintiff was injured by a train on the defendant’s railroad. The injury occurred at a highway crossing near the defendant’s station at Frankfort, N: Y. The evidence was conflicting as to the circumstances under which the plaintiff was injured. The plaintiff claimed, and his evidence tended to show, that his injury was occasioned solely by the negligence of the defendant, unaccompanied by any negligence on his part which contributed thereto. On the' .other hand; the defendant, contended, and introduced evidence which tended to prove that it was free from negligence, and that the plaintiff’s injury was the result of his-own carelessness. Hence, it will be seen that both the question of the defendant’s negligence, and the question of the plaintiff’s contributory negligence, were directly in-issue.
+The negligence imputed to the defendant was, that it omitted to sound its whistle or ring its bell as its train approached the crossing where the injury occurred. The plaintiff testified that he listened for the signal of an approaching train, but that none was given. He also calls several other witnesses whose testimony was to the effect, that no whistle was sounded or bell rung. Some of these-witnesses testified to having listened for the sound of the-bell or whistle, while the evidence of others was that their position was such that they would or might have heard such a signal if one had been given, and all testified that they heard neither whistle nor bell. The defendant, however, called several witnesses, consisting of its employees .in charge of the train, and others, who testified positively that the bell was rung. Under these circumstances, whether the defendant was negligent, by omitting to sound its whistle or ring its bell as it approached this crossing, was clearly a question of fact for the jury. Greany v. Long Island R. R. Co., 101 N. Y., 419; Halsey v. R. W. and O. R. R. Co., 12 N. Y. State Rep., 319.
+On the question of the presence or absence of contributory negligence on plaintiff’s part, evidence was given by both parties. The plaintiff testified that at the time of his injury he was trying to prevent a cow from crossing defendant’s track at that point; that his attention was somewhat engaged in his effort to do so; that before he entered upon the defendant’s track he both looked and listened, but as no signal was given, he heard nothing; that at the time another of defendant’s engines was near this crossing, from which steam was escaping to an extent that totally prevented his seeing the approaching train, and hence, his sense of sight was unavailable to prevent the accident. His claim was that he was expecting a train, that he was on the alert, employed all his senses and made every reasonable effort to discover if a train was approaching, and that his failure to do so was not owing to any neglect on his part, but was attributable solely to the defendant’s negligence.
+The evidence of the defendant was to the effect that the plaintiff either heedlessly ran upon the track without looking, listening or adopting any other means to discover the presence of the moving train, or that seeing it,he recklessly attempted to cross before it, and miscalculating his ability to do so, was struck by it and injured.
+Upon this evidence the court submitted to the jury the question whether the accident occurred under the circumstances claimed by the plaintiff, or whether it occurred in the manner claimed by the defendant, and in substance charged them, that if it occurred as defendant claimed, the plaintiff could not recover, but if it occurred in the manner claimed by the plaintiff, then it was for them to determine whether or not the plaintiff was guilty of contributory negligence. We think the' learned trial judge was right in thus submitting the question to the jury.
+Contributory negligence is a question of fact, and should be left to the jury unless it so clearly appears from the circumstances or uncontradicted evidence as to leave no inference of fact in doubt. It is only in very exceptional cases that it can be adjudged as a necessary legal conclusion from the facts found. Where, in an action like this, there is any evidence, direct or inferential, of care or caution on the part of the person injured, the question of contributory negligence is for the jury. Halsey v. R. W. and O. R. R. Co., supra; Stackus v. N. Y. C. and H. R. R. R. Co., 79 N. Y., 404 ; Greany v. Long Island R. R. Co., 101 id., 419; Sherry v. N. Y. C. and H. R. R. R. Co., 104 id., 652; 5 N. Y. State Rep., 574.
+We think the court committed no error in refusing to nonsuit the plaintiff, and that it properly submitted the question of the plaintiff’s contributory negligence to the jury.
+Nor do we think the defendant’s exception to the evidence of physicians, as to the permanency of the plaintiff’s injury, was well taken. The ruling of the court seems to be fully sustained by the authorities. Strohm v. N. Y., L. E. and W. R. R. Co., 96 N. Y., 305; Jones v. Utica and Black River R. R. Co., 40 Hun, 349, 350.
+There were no other rulings which require special consideration. We have been unable to discover any error committed on the trial that would require or justify a reversal of the judgment and order appealed from.
+Judgment and order affirmed, with costs.
+Hardin, P. J., and Follett, J., concur.
