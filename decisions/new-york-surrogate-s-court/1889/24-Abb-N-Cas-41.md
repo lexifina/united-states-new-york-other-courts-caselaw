@@ -1,0 +1,48 @@
+---
+court: "New York Surrogate's Court"
+decided: "1889-12"
+citations: ["24 Abb. N. Cas. 41"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MATTER OF SKILLMAN."]
+source_url: "https://static.case.law/abbn-cas/24/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1964812
+cites_cases: ["104 N. Y. Rep. 618", "89 W. T. 487"]
+---
+
+# In re Skillman
+
+## Majority (Geo. B. Abbott, Suit.)
+
+Geo. B. Abbott, Suit.
+I agree with the conclusions-reached by the learned referee in his report in this matter,, except in one particular, to wit:
+I think the sum of nine thousand, and three hundred and seventy-five dollars ($9,375) received by the executrix in-1870 from the Brooklyn Gas Light Company, was capital and not income, and that the referee erred in holding it to-be income, to which the life tenant was entitled.
+The testator gave the income of his personal estate to-his wife for life, with remainder over. He died in 1865, and at the time of his death owned stock in the Brooklyn GasLight Company. This was not disposed of by the executrix, and the dividends as they accrued were paid to the life-tenant.
+On October 7th and 25th, 1870, the Brooklyn Gas Light Company passed resolutions, of which the following are copies: “ Resolved, that on the 15th instant, 25 per cent, be apportioned among our stockholders of this date, being the-proceeds of the property sold and set off by this Company to the Peoples’ Gas Light Company, and that the transfer books will close from this day to November 1st, 1870.”
+“ Resolved, that on the 29th of October instant, 50 per cent, be apportioned among our stockholders of October 7, 1870, being the proceeds of the property sold and set off by this Company to the Nassau Gas Light Company.”
+Edward Storey, secretary of the Brooklyn Gas Light Company, testified, that at that time and since about 1860, the capital stock had been $2,000,000 and has since continuously been $2,000,000, on which it has paid taxes and dividends from that time until now.
+On cross-examination, he says:
+Q. Won’t you state what the sale made by your company to the other companies included ?
+A. The street mains, service pipes and meters and I guess what you might call good-will.
+Q. All your interest in the district as a gas company ?
+A. Tes, sir.
+He also testifies that the property sold constituted about one-half of the whole territory of the company.
+This was clearly a sale of one-half of the plant or property constituting the assets and capital of the company, and was simply a change of so much of its. capital into money; it was not a dividend declared out of surplus earnings or profits, or a fund derived in any way from the earnings of the corporation.
+The resolutions did not contain the word sc dividend,” or attempt to characterize what was divided as income, or even call it a division of profits. They simply provide that the proceeds of sale ‘e be apportioned among our stockholders.”
+If they could sell one half of their property and divide it as income, I see nothing to- prevent their so disposing of their whole property, and so dividing it, to the total annihilation of the remainder.
+The case of Riggs v. Cragg, 26 Hun, , is similar to this in its facts.
+Judge Daniels says, page 106 :
+“ A stock dividend of 5 per cent, was declared by the N. Y. Gas Light Co., in October, 1853, which was received by the executors. But it appeared by the evidence, that the-fund out of which this dividend was made, formed no part of the earnings of the company, but it was realized by a sale of its real estate on Canal, Centre and Hester streets, in the city of New York.
+“ This dividend accordingly was not governed by the legal principle indicating the appropriation proper to be made of stock dividends declared out of surplus earnings for it was really made from the proceeds of property constituting a part of the capital of the corporation, and which the directors considered themselves justified in declaring in the then financial condition of the corporation. It was not appropriately income received by the estate, but it was in the nature, so far as it extended, of a change in its capital. It was properly, therefore, so regarded by the executors, and it could not be carried into the accounts as the income of the estate.”
+The court of appeals reversed this case on grounds entirely foreign to this question and say on page 487, 89 N. Y. Reports.
+“ The right to stock dividends as between tenant for life and remainderman, has not been considered by the ■court of last resort in this State. The decisions upon the subject in other States, and in England, are conflicting, and it will be the duty of this court, when occasion arises, to seek to settle the question upon principle, and establish a practical rule for the guidance of trustees and others, which shall be just and equitable as between the beneficiaries of the two estates.”
+In matter of Kernochan, 104 N. Y. Rep. 618, the only dividend decided to belong to the life tenant, was one conceded to have been declared out of accumulated net earnings.
+At page 627, Judge Danforth says :
+“ This dividend was numbered ‘ 91,’ in regular order, and was payable and paid at the time the usual quarterly dividends were paid. It appeared also that the assets which formed the consideration of the payment by the syndicate, were accumulated net earnings, represented by cash or ■securities calling for cash.
+This case is not an authority for the contention that proceeds of sale of assets and property, concededly constituting a part of the capital of a corporation, shall go to the life tenant instead of the remainderman, simply because of a resolution directing the division of such proceeds of sale among stockholders.
+The early English rule, that all stock dividends, so called, together with all extra-cash dividends of bonuses belong to-the remainderman, has been so changed, that dividends in money, which come from the earnings of the capital invested, belong to the life tenant (Perry on Trusts, 545, [4th ed.])
+The converse of this proposition is, that dividends which do not come from the earnings of the capital invested, belong to the remainderman.
+I am of the opinion that the referee erred in crediting' the sum of nine thousand three hundred and seventy-five dollars ($9,375), so received by the executrix, to income instead of capital.
+Let referee’s report be confirmed except in this particular.”
