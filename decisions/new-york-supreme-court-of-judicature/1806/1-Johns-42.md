@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1806-02"
+citations: ["1 Johns. 42"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M‘Dougall against A. and W. Sitcher, and Weeks."]
+source_url: "https://static.case.law/johns/1/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2128191
+---
+
+# M'Dougall v. Sitcher
+
+## Majority (Livingston, J.)
+
+Livingston, J.
+now delivered the opinion of the court.
+May the purchaser of real estate, under a fieri facias, enter on it, in a peaceable manner, though some goods of the former proprietor, who was the judgment-debtor, be left oil the premises, without being answerable to the latter as a trespasser ?
+This is a suit not entitled to -much favor, and unless some very inflexible rule require it, the postea should not be permitted to pass into the plaintiff’s hands. For-' innately, however, no such rule exists. Under such sale, the plaintiff’s interest, which may have been a fee-simple, for aught that appears, vested in the purchaser: a right of entry was of course acquired, and in an ejectment, the judgment and sheriff’s deed, would have been conclusive against M‘Dougali. Under an elegit, though the land be not delivered to a plaintiff, he may enter without waiting until the sheriff receive a liberate. Why then should not the same course obtain on aj1?. fa. where the property, instead of being extended, is absolutely sold ? The goods, which were left, could not prevent the entry’s being peaceable. They were incapable of resistance, and, therefore, no breach of peace could ensue. If it had, the defendants might, perhaps, have been indicted, but this would not have rendered them trespassers on a party, who had no longer any interest in the locus in quo. At pny rate, the entry must now be intended to have been peaceable, as all the proof to that point was overruled. The case from Strange proves only, that beer being left in a cellar, the house could not be proceeded against, as a vacant possession; but whether the landlord’s sealing a lease on it as such, made him a trespasser, did not come in question. A court would hardly have considered a barrel of ale, stowed below, as capable of defending a chvellinghouse against intruders. We have heard, in this country, of a battle of kegs ; but with poetical fictions we have nothing to do.
+If necessary, we might ask, how it appears that any goods were on the premises ? It is true, one witness said so ; but if the defendant’s testimony had been admitted, who can say this might not have been disproved, if such dereliction were requisite to render an entry peaceable. But admitting the fact, it would not, perhaps, be too much to say, that where the debtor himself is in possession, a sheriff would have a right to turn him out, and put in a purchaser. Without, however, going this length, which is not essential to a decision of the point before us, it is not risking too much to say, that a purchaser at a sheriff’s sale may enter upon the property left in the situation this was, by one who was defendant in the judgment—that he may retain the possession, and plead it to be his soil and freehold to any suit brought by the debtor. There must, therefore, be a new trial, with costs to abide the event of the suit.
+New' trial granted.
+Rolles abrid. 738.
+Vol. 2 1063. Savage v. Dent.
+Taylor v. Cole 3 D. & E. 292. This was an action of trespass against a sheriff for breaking and entering a house, and expelling the plaintiff. The defendant justified under a fi.fa. by which he sold Hie interest of the plaintiff hi the premises to one Harris, who afterwards peaceably entered and expelled the plaintiff. The K. B. held that a purchaser, under a sheriff’s sale, on an execution, might peaceably enter and retain possession, and might plead that it is his soil and freehold; that whoever had a right of entry could not be considered as a trespasser for asserting that right, unless he did it bj force. The common plea of liberum, tenementum, proved this. Muller J. was inclined to think, that the sheriff on the fi.fa. might turn the debtor out of possession.
+In the case of Jackson ex dem. Kane v. Sternbergh in this court in October term, 1799, in which it was held that áit adverse passession was not to be presumed, but must be positively shewn, the debtor in possession was considered a mere tenant at will to the plaintiff. Tlie facts in this case were, as follows. The plaintiff had obtained a judgment against the defondant, on which an alias fieri facias issued, 'and the lands in question were taken and sold by the sheriff on the execution. By tile desire of the plaintiff, one Cox, attended the sheriff’s sale, to bid, and became the purchaser. The sheriff executed a deed to him, and on the same day, Cox executed a deed to the plaintiffs. The sheriff returned on the execution that he had made &c. out of the goods and chattels, lands and tenements of defendant, &c. and it was objected he did not specify that he had taken the land, for want of sufficient goods nd chattels. The defendant, during all the time, remained in actual possession of the premises, and refused to surrender to the plaintiffs who brought their action of ejectment to recover the possession.
+Van Vechten for plaintiff, Metcalf for defendants.
+Per Curiam. Shewing the alias fi. fa. was sufficient. The return of the sheriff was substantially correct, at least so far as not to defeat the sale. The lessors of the plaintiff were the real purchasers, by Cox their agent, and his purchase was a resulting trust which might be proved by parol. By the sale of the sheriff, the tenant in possession, became quasi tenant at will tb the plaintiff, and in such case, no adverse possession will be presumed.
