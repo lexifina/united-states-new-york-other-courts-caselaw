@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1836-09-20"
+citations: ["6 Paige Ch. 175"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Devanbagh vs. Devanbagh."]
+source_url: "https://static.case.law/paige-ch/6/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2181731
+---
+
+# Devanbagh v. Devanbagh
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+When this case' was formerly before me, upon the application for the reference to the master, and for special directions as to the nature and the kind of proofs which he was to receive to establish the fact of the alleged impotence, I arrived at the conclusion that to authorize this court* or any other tribunal, to annul a marriage on the ground of the physical incapacity of one of the parties, there must be satisfactory proof not only of the existence of the alleged incapacity at the time of the marriage, but that it must also be such an incapacity as was incurable. In other words, a physical incapacity which tiould not be remedied or removed by proper medical treatment, or by a surgical operation. And from an examination of the testimony which is annexed to the master’s report here, I have not been able to bring my mind to the conclusion that this is a case of incurable impotence which can justify me in pronouncing the marriage between these parties a nullity.
+From the defendant’s oath, as well as from the medical examination which has béen had by Dr. Payne the witness, there appears to be no doubt of the fact that the wife is still virgo intacta. And as the doctor states that the hymen is unusually firm, dense and strong, it is probable that it could not have been broken by the natural means, even if the marriage had occurred at a much earlier period of their lives, when both parties possessed all the vigor of youth. But from the testimony in this case I think there is good reason for believing that this disability is capable of being wholly removed by a slight surgical operation, and without the least possible danger to the defendant. And if there is a probability of capacity the court cannot annul the marriage. (2 Lee’s Eccl. Rep. 586.) It appears that the hymen is not imperforate: and from the testimony of the examining physician I do not see that there is the slightest reason for believing that the vagina is impervious, or that there is any other mal-formation of the genital organs. I also infer,: from what is stated, that there have been regular caíame* nial discharges; and the defendant appears to have had no suspicion that she was not like other women until some time after the marriage, The respectable physician who has been called by the complainant as a witness in this case, does not everz express a belief that the disability might not be cured by a proper surgical operation, although he says the result is doubtful. And from an examination of the numerous authorities collected by Dr. Beck, in his valuable treatise on medical jurisprudence, I thizik no respectable and well informed physician would hazard his reputation, as a professional man, by pronouncing this a case of incurable impotence, from the testimony now before me. A mere doubt as to what would be the result of a surgical operation upon a dense and uncommonly tenacious hymeziial membrane, where there is no evidence of aziy other incapacity or mal-formation, is not sufficient to justify a decree of nullity ; as cases of that kind are, by medical writers, considered as belonging to the class of temporary and curable in-capacities. (See 1 Beck’s Med. Jur. 85.)
+The fact that the defendant has no wish to return to reside with her husband, and therefore will not consent to the slight surgical operation which may perhaps be necessazy to remove the incapacity, is no ground for annulling the mai’riage, any more than if she refused to cohabit with him when no pretence of disability existed. That is a matter to be settled with her own conscience and her lawful hus* band, as this court has no jurisdiction in any case to enforce the performance of her marriage vows. If this is not a case of incurable impotence, then the court has no power to dissolve the marriage contract between the parties, for any other cause than that of adultery.
+The complainant’s bill must therefore be dismissed*
