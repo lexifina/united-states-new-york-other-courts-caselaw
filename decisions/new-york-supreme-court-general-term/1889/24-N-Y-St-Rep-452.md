@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-13"
+citations: ["24 N.Y. St. Rep. 452"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Fleming Cut Sole Company, App’lt, v. John H. Garretson, Resp’t. George F. Mills, App’lt, v. The Same, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024270
+---
+
+# Fleming Cut Sole Co. v. Garretson
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+These two actions are similar in their facts, and in their objects, and they are brought to obtain injunctions restraining perpetually the collection of a judgment recovered in favor of the defendant against the Fleming Cut Sole Company, the 'plaintiff, in the first action, the rights of the plaintiff, Mills, in the second action being substantially the same, and depending upon the same facts as-the action of the Fleming Cut Sole Company, the plaintiff in the first action.
+The claim of the corporation to have the judgment-stayed, is based upon a want of consideration for the not& upon which the judgment was entered.
+Mills, the plaintiff in the second action, is a large stockholder in the company, and he sought to obtain an injunction restraining the collection of the judgment, upon the ground that the defendant, subsequently to the entry of the judgment, falsely represented to him that he had no claim against the company, and that he bought the stock of the company, and invested $5,000 in such purchase upon the faith of such representations.
+The causes were tried together before a justice of this court without a jury, and upon the trial but two witnesses were examined; one was James Fleming, the president of the company, and the other was George F. Mills, the plaintiff in the second action.
+There was no attempt to contradict or impeach the testimony of either of these witnesses, and when the plaintiffs, rested their case, the complaint was dismissed, and, upon, findings which were afterwards made, the judgment was entered in favor of the defendant against the plaintiff in both actions.
+The difficulty of the plaintiffs in these actions is, that they furnish no testimony to support the allegations in their’ complaints.
+Although the trial judge made findings of both law and fact, yet such findings were entirely unnecessary, because it was to be assumed that all the testimony produced upon the trial was true, and upon the assumption that all such testimony was true, the decision was that it was insufficient to sustain the causes of action set up in the complaint, and our decision is the same.
+We find no reason for disturbing the judgments appealed from, and in both cases they must "be affirmed, with costs.
+Pratt, J., concurs; Barnard, J., not sitting.
