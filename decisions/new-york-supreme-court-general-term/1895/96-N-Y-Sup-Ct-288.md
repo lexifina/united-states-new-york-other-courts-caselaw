@@ -1,0 +1,41 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-07"
+citations: ["96 N.Y. Sup. Ct. 288"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman, J., concurred; Brown, P. J., dissented."]
+parties: ["George A. Powers, Respondent, v. The Brooklyn Elevated Railroad Company and The Union Elevated Railroad Company, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/96/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8594225
+cites_cases: ["101 N. Y. 661", "103 N. Y. 614"]
+---
+
+# Powers v. Brooklyn Elevated Railroad
+
+## Majority (Pratt, J.:)
+
+Pratt, J.:
+This is a land damage action for loss of fee and rental value to the lot situated on Flatbush avenue at the corner of Flatbush and Fifth avenue and Pacific and Dean streets in the city of Brooklyn.
+The motion in this case to strike the same from the equity calendar and send it to the Circuit for trial, and also the motion to stay proceedings until the damage could be passed upon by commissioners, were properly overruled. (See opinion in the case of Hart and Others against the same defendants, decided at the present General Term.)
+There are a large number of findings made by the court at the-request of both parties, and a large number of exceptions, most of which upon examination disclose no error sufficient to reverse the-judgment; in fact, the case was tried with great fairness and care.
+The rule is well settled that if the findings of the plaintiff are modified or nullified by findings for the defendant, then the defendants upon this appeal can claim those which are most favorable to-them. It seems to me that the evidence is conclusive that there-was no fee damage to the property facing upon Flatbush avenue or-Fifth avenue except at the point where defendants’ road turns from Flatbush avenue into Fifth avenue; indeed, the court has found substantially that the building of the road has benefited the property upon Flatbush avenue, and the plaintiff has failed to show any damage upon Fifth avenue that the property has received by reason of the road.
+At the point where defendants’ road turns from Flatbush avenue-into Fifth avenue it encroaches upon the sidewalk and, of course, as-the judge remarked at the trial, it could not fail to damage tlie property to some extent; but tbe court lias found tbat the property described in the complaint, taken as a whole, has received a special benefit for business purposes by reason of the operation of defendants’ road. It is not claimed or found that the property, so far as it borders on Dean street, has been injured by the presence of the defendants’ road.
+The court has also found that the effect of the proximity of the defendants’ stations to the property described in the complaint is advantageous to the business portion of the premises, and produces a special benefit for business purposes, so that the damages, if any, established by the findings of the court and by the evidence, must be confined to the corner where the railroad turns from Flatbush avenue into Fifth avenue.
+There is no question about what appears as well settled, that in this class of cases the plaintiff is not entitled to recover any greater sum, as damages to the use of the premises in suit, than the net amount of consequential injury thereto, after setting off the known increase in value of the said property caused by the said railroad against any injury or inconvenience therefrom.
+There can be no question as a matter of fact; indeed, the court has so found that the fee value of land on Flatbush avenue, irrespective of any building thereon, has largely increased since the authorization and construction of the elevated railroad. He has also proved and found that the business of stores in the vicinity of the property described in the complaint has continued to improve in value. It is also claimed that the building of the road has made the plaintiff’s property more, accessible, by drawing people to the vicinity, and increasing traffic and business, and that the property for business purposes has been greatly benefited.
+The court also refused to find that the existence of a large stable, adjacent to the line of property described in the complaint and extending from Dean to Pacific streets, has appreciably impaired the value of said property. The detrimental effect of a stable is conceded in the testimony of Bennett, Brown, Dougherty and Rustic. All agreed in the statement that a stable depreciates the value of property next door to it, of course.
+The court also refused to find that the failure to erect buildings, and otherwise improve the property described in the complaint, has impaired the value of said property. This conclusively appears from the plaintiff’s own witnesses.
+The court also refused to find that, if it appeared that the damages to the fee of the property described in the complaint were occasioned by one of two or more causes, for one of which the defendants are responsible, and for the other or others of which they are not responsible, the plaintiff must fail if Ms evidence does not show that the damage was produced by the former cause, and he must fail if it is just as probable that it was caused by the one cause as by the other cause or causes.
+This refusal to find was an equivalent to saying that he could not be bound by the rule of law in regard to estimating such damages, which we think was error. (Searles v. Manhattan Railway Co., 101 N. Y. 661.)
+The application of such a proposition of law is apparent, for the reason that a number of cases appeared in the proof, by virtue of which diminution of fee value, if any were found, might be accounted for, and opposed to this is the testimony of plaintiff’s experts alone, stating that the fee value is less now than when the road was built, from - which the road is argued to have been the cause of the depreciation.
+The rule of law to be applied was, that if the court was unable to ascertain between these two causes whether it was due to the one or the other, that is, the unimproved character of the property reflecting upon itself, the existence of the stable, or the panic of 1892, or any other of numerous, proven cases, as compared with the construction and operation of this road, then the court was bound to decline to award damages to the plaintiff, who is bound to make out his case by a preponderance of proof. (Cranston v. N. Y. Central & H. R. R. R. Co., 103 N. Y. 614).
+It seems to me that, looking at the evidence in connection with the findings I have referred to, proposed by the defendants, the court has found a difference between the injury to the property, and the benefits accruing to the property from the road, altogether too large.
+The decision is inconsistent with the findings and proofs admitted by the defendants. It is true, that so far as the court has really announced upon the trial any propositions of law, no criticism can be made, but we are bound to put the most favorable construction upon all the findings in favor of the defendants, and where one is inconsistent with the findings for the plaintiff, the whole finding must give way to the finding for the defendants. The form of the judgment we think is a sufficient compliance with the Code of 1894, yet it is impossible to tell the grounds upon which the conclusions were reached except by the examination of the opinion and of the various findings for the ¡plaintiff and defendants.
+It is perfectly clear that only five or six lots upon Elatbush and Fifth avenues could have been injuriously affected by the elevated road, and the proof is that even now the lots would sell for as much or more than before the road was constructed. It may be observed that the lots upon the corner of Fifth avenue and- Flatbush avenue are only fit for'business purposes, and as such they are much more valuable than for dwellings, and in that respect it seems the property has been improved rather than dejireciated.
+The judgment should be reversed and new trial ordered.
+Dykman, J., concurred; Brown, P. J., dissented.
+Judgment reversed and new trial granted, costs to abide event.
+See ante, page 259.
