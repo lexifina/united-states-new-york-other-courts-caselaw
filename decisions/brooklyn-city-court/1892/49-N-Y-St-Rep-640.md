@@ -1,0 +1,24 @@
+---
+court: "Brooklyn City Court"
+decided: "1892-12-27"
+citations: ["49 N.Y. St. Rep. 640"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Laura E. Owens, by Guardian, Resp’t, v. John H. Ernst et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/49/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2093268
+cites_cases: ["39 St. Rep., 122"]
+---
+
+# Owens v. Ernst
+
+## Majority (Van Wyck, J.)
+
+Van Wyck, J.
+In the defendant’s laundry was a mangle or ironing machine run by steam. The mangle consists of a system of small rollers covered with muslin, coming in qontact with a large iron heated cylinder. The clothes are fed in front of the machine, passing between these small rollers and cylinder which dries and irons the clothes. - The plaintiff, a girl of fifteen years, was employed by defendants, and was engaged, for the two weeks preceding the date of the accident, in receiving the clothes as they passed out of the machine ironed. On the day of the accident, she was told by the foreman in charge of the business that she must smooth out any wrinkles that came in the muslin covering of the rollers. She told him she could not do it as she did not-know how, when he informed her that, if she did not, he would get some one who could, and proceeded to show her how to do it, viz, he smoothed the wrinkle out by pressing his fingers over the wrinkled roller while it was moving at the usual speed. This, she testifies, was the only instruction given her. The testimony shows that by a combination of starch, heat and dampness, there was a strong tendency for the fingers to stick to the rollers, and to be drawn in between the rollers and the hot cylinder. This foreman says he knew it was dangerous for anyone to put the hand on the moving roller, as it would go in and stick against the cylinder, and that no one should be instructed to smooth the wrinkles while the roller was in motion. This plaintiff says the foreman not only failed to give her the proper instructions but actually gave her the wrong instructions, and in her first effort to follow his command and erroneous instructions, her fingers stuck to the rollers, and were drawn in upon the hot cylinder, and were so lacerated that amputation thereof became necessary. The jury believed her story and gave her á verdict for $2,500.
+We think the trial court properly denied the motion to dismiss the complaint. Shearman & Redfield on Negligence, 4th ed., vol. 1, § 203 ; Healey v. Hart Bagging Co., 39 St. Rep., 122; Ryan v. H. W. Johns Mfg. Co., 46 id., 305 ; Grizzle v. Frost, 3 Fost. & Fin., 623.
+We have carefully examined the testimony in this case, and do not think the verdict is against the weight of evidence, and further, we do not think that error can be predicated upon the other exceptions called to our attention by appellant’s counsel
+Judgment and order must be affirmed, with costs.
+Clement, Ch. J., concurs.
