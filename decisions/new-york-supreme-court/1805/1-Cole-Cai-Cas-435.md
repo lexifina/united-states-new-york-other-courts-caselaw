@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1805-05"
+citations: ["1 Cole. & Cai. Cas. 435"]
+reporter: "cole-cai-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Colman I. Keeler v. John Adams."]
+source_url: "https://static.case.law/cole-cai-cas/1/cases/0435-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3712753
+---
+
+# Keeler v. Adams
+
+## Majority (jPer Curiam,)
+
+jPer Curiam,
+delivered by Tompkins, J. I am of opinion, that the present motion ought not to be granted. The evidence of the notice of set-off which the defendant alleges to have been given, consists of his own affidavit, that of his counsel, and a certificate of the justice. To this is opposed the affidavits of the plaintiff and his counsel, and an affidavit of the justice, stating the notice of special matter given at the trial of the cause, to be different from the one specified in the affidavits on the part of the defendant.
+The latter notice was of such matters as it was competent for the defendant to give in evidence under the general issue, and, therefore, a return of it by the justice, in addition to the general issue, would be unnecessary, and immaterial in the final determination of the cause.
+The weight of evidence before us, is against the allegations of the defendant, since the affidavit of the justice, ought to receive greater credit than his cer tificate ; especially as in the former, he explains the circumstances under which the latter was obtained, and his inadvertence and misapprehension at the time of giving the latter. We cannot suppose that the justice, if compelled to amend, would return any other notice, than the one to which he has now sworn, and, as I remarked before, the notice amounted to no more than the general issue.
+I should not be inclined to grant the defendant’s motion, if the affidavits on his part, were uncontradicted by opposite proof. The declaration below was for a tort, to which the defendant properly pleaded not guilty, and in such an action, evidence of set-off is inadmissible. It cannot, therefore, be important for the defendant to have a return of the notice which he alleges to have been given, as it would not vary the determination of the cause in this court.-^Let the defendant take nothing by his motion.
+Kent, C. J. gave opinion on the point of set-off.
