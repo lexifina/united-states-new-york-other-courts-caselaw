@@ -1,0 +1,52 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-02"
+citations: ["91 N.Y. Sup. Ct. 555"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. L, and O’Brien, L, concurred."]
+parties: ["Newton E. Whiteside and Others, Appellants, v. Noyac Cottage Association, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/91/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4766220
+cites_cases: ["5 Lans. 511", "71 Hun, 381", "87 N. Y. 527", "88 N. Y. 293"]
+---
+
+# Whiteside v. Noyac Cottage Ass'n
+
+## Majority (Parker, J.:)
+
+Parker, J.:
+The plaintiffs, who were lot-owning members of the defendant, the Noyac Cottage Association, feeling aggrieved because of an assessment made upon the lots purchased by them of the association, to defray certain expenses incurred in the erection of a club house, bowling alley and billiard annex, and in the purchase of horses and carriages, commenced a suit, the complaint in which concluded with a prayer for relief as follows: “ Wherefore, the plaintiffs pray for the equitable interference of this court, and for judgment directing said defendant, through its board of managers, to rescind its action declaring that the rights, titles and interests of said plaintiffs shall cease and revert to said defendant on December 28th, 1891, unless plaintiffs show cause to the contrary, and directing that said assessment, so far as the same was voted and levied to pay for the permanent improvements aforesaid, shall be null and void, and forbidding said defendant and its said board of managers from taking any action at said meeting on December 28th, 1891, or at any other meeting, to cause the rights, titles and interests of said plaintiffs to cease and determine, or to revert to said association defendant, together with the costs of this action.
+“ And the plaintiffs further pray that such other or further relief as to the court shall seem just.”
+Thereafter, upon notice of motion regularly given, and upon a full hearing, an in junction pendente lite was granted, the plaintiffs giving an undertaking in the penal sum of $2,000, with John Parr as surety, conditioned for the payment of “ such damages, not exceeding the before-mentioned sum, as it may sustain by reason of the injunction if the court finally decides that the plaintiffs were not entitled thereto.”
+No further or other action was taken in respect to the injunction until the trial of the suit, which resulted in a judgment dismissing the complaint. From this judgment successive appeals were taken to the General Term and the Court of Appeals, resulting in its affirmance. The plaintiffs promptly paid the costs awarded against them by the judgments of the several courts, after which an order of reference was made to assess the damages incurred by the defendant by reason of the granting of the injunction.
+The referee reported that the defendant was entitled to recover of the plaintiffs and the surety on the undertaking :
+“ 1st. Its expense for counsel fee, exclusive of taxable costs incurred in consequence of said injunction to and including the trial at September term.. $350 00
+“2d. For appeal to the General Term............... 75 00
+“3d. For appeal to the Court of Appeals............ 75 00
+“4th. For counsel fees on this reference.............. 150 00
+“ 5th. For referee’s fees on this reference............. 102 00
+“ 6th. For stenographer’s fees....................... 46 15
+“ Flaking a total of...........................$798 15 ”
+It will be observed that the referee does not find that the defendant sustained any damage whatever, by reason of the granting of the injunction other than for counsel fees paid in addition to taxable costs.
+The Special Term disallowed the items for counsel fees for the General Term and Court of Appeals, and confirmed the report in other respects.
+From the order of the Special Term the plaintiffs and the surety appeal, and it is insisted on their behalf that they were not chargeable in law with the counsel fees paid by the defendant, nor with any part thereof, and as it was not found that the defendant sustained other damages by reason of the granting of the injunction the defendant could not saddle them with the expense of a reference.
+If the first proposition be true the last follows, for if a defendant sustains no damage whatever, because of the granting of an injunction, he is not entitled to have a referee appointed to report that fact at the expense of the surety. (Sweet v. Mowry, 71 Hun, 381-386; Randall v. Carpenter, 88 N. Y. 293-296.)
+The inquiry then is, whether the award of $350 for counsel fees was authorized. No motion was ever made to vacate the injunction. It was granted, as we have already said, upon notice, and the counsel fees paid by the defendant for opposing the application for the injunction do not constitute damages occasioned to him by the injunction granted. And it is for damages resulting to him because of the granting of the injunction that the surety agrees to respond.
+Efforts have been made in the past to charge sureties similarly situated with the sums paid to counsel for opposing the granting of an injunction, against the harmful effects of which, when granted, the sureties have undertaken to indemnify a defendant, but uniformly such efforts have been unsuccessful. (Sweet v. Mowry, supra; Randall v. Carpenter, supra; Allen v. Brown, 5 Lans. 511; Troxell v. Haynes, 16 Abb. Pr. [N. S.] 1.)
+-The award of $350, according to the finding of the referee, was for counsel fees, exclusive of taxable costs, incurred in consequence of said injunction to and including the trial. After the injunction was granted no motion was made or other proceeding had in the action prior to the trial which resulted in a judgment for the defendant. And the compensation allowed by the referee was necessarily for the trial and the preparation therefor.
+This is sought to be justified on the ground that the defendant was forced to prepare for and try the cause in order to get rid of the injunction. But this claim does not state the true situation, for while it is doubtless true that defendant could not have procured a vacation of the injunction without a trial, it was obliged to prepare for and try the cause in any event.
+The ground of action stated in the complaint was the making of certain alleged illegal assessments. The object of the suit was to get rid of them by a judicial determination that they were ultra vires, and the injunction pendente lite against their enforcement was merely collateral.
+The suit could, and doubtless would, have proceeded to trial had the application for injunction been denied. Indeed, the plaintiffs appealed to the General Term, and again to the Court of Appeals, after the injunction had fallen because of the judgment dismissing the complaint.
+It is clear, therefore, that the counsel fees paid by the defendant were necessitated, not by the injunction, but by the suit which it was compelled to defend.
+It seems to be established by the authorities that counsel fees paid under such circumstances cannot be recovered of the surety. (Allen v. Brown, supra ; Troxell v. Haynes, supra; Newton v. Russell, 87 N. Y. 527 ; Randall v. Carpenter, 88 id. 293.)
+In Newton v. Russell the complaint alleged a right in the plaintiff to maintain a boom across G. river and attach it to the defendant’s premises, and an interference with such right which it prayed to have enjoined.
+Upon notice an injunction was granted pending the action. The trial resulted in a judgment dismissing the complaint. Thereafter ' proceedings were had to assess the damages sustained by the defendant because of the injunction,' and an award was made which included as damages $450, paid for counsel fees in the preparation and trial of the action.
+- The award of the referee was sustained by the Special and General Terms, but the Court of Appeals, which liad presented to it . the authorities cited by the respondent here and discussed most of them, held that the award was in such respect erroneous and reversed the order, stating the rule to be that counsel fees incurred on the trial of the issues in an action are not allowable upon an assessment of damages against the surety in an undertaking unless ’ they were incurred solely or principally in consequence of the injunction.
+i As the authorities mainly relied upon by this respondent as establishing a different rule were considered by the court, we shall refrain from discussing them. It is sufficient to say that there were exceptional circumstances in each case which led to a different result than in Newton v. Russell, but did not effect a change in the rule many times asserted and merely reiterated in that case.
+It follows that the report of the referee, instead of being confirmed in part, should have been set aside. But as there was no evidence presented to the referee tending to show that damages were sustained by the defendant by reason of the injunction, other than that for which the referee erroneously made an award, the right should be reserved to the defendant to make application for the appointment of another referee to assess its damages if it should be so advised.
+The order should be reversed, with ten dollars costs and printing disbursements, and the motion to confirm the report of the referee denied, with ten dollars costs, with leave to apply for the appointment of another referee to make an assessment upon payment of costs, etc., upon this appeal and the costs of denial of motion.
+Yan Brunt, P. L, and O’Brien, L, concurred.
+Order reversed, with ten dollars costs and disbursements, and motion to- confirm report of referee denied, with ten dollars costs, with leave to apply for appointment of another referee to make an assessment upon payment of costs, etc., upon this appeal and the costs of denial of motion.
