@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-07-18"
+citations: ["32 N.Y. St. Rep. 953"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter T. Flynn, Resp’t, v. Edward J. Woolsey, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0953-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040501
+cites_cases: ["38 N. Y., 289"]
+---
+
+# Flynn v. Woolsey
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The plaintiff is an expressman and as such was employed by the defendant to carry and deliver various articles between the dates of June 20, 1886, and January 13, 1888. On January 8, 1888, the defendant sent his check to the plaintiff for $48.75, and expressing in terms on its face that it was in full to January 1, 1887. In fact it was not in full, but was some twelve dollars less than the debt at that date. The check was never either presented or returned until it was tendered back on the trial. This was not a payment in full or a payment at all. There are cases where the non-presentation of a check occasions a loss of its amount; the neglect to present will be sufficient to charge the holder with the amount of the check. No damage is proven in this case by the failure to present the check. Bradford v. Fox, 38 N. Y., 289.
+On the contrary it appears that the check was never presented and paid and that the defendant has voluntarily withdrawn the account from the bank where the check was payable. The services charged include no item for cash paid, but there were small sums paid out in and about the employment and really as part of the carrying. The expressman had to buy the goods ordered and pay for the same and the bill of particulars is made out for carting and cash paid out. The complaint, in the absence of objection, was sufficient to admit the proof, and the proof once in, the amount of the cash paid was justly called for in the judgment
+The judgment should, therefore, be affirmed, with costs.
+Dykman and Pratt, JJ., concur.
