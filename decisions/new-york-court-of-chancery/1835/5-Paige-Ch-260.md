@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Chancery"
 decided: "1835-04-21"
-citations: ["5 Paige Ch. 260", "5 Paige Ch. 249"]
+citations: ["5 Paige Ch. 260"]
 reporter: "paige-ch"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
