@@ -1,0 +1,21 @@
+---
+court: "New York Surrogate's Court"
+decided: "1901-02"
+citations: ["2 Mills Surr. 161", "34 Misc. 209"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Gilbert Wood, Deceased."]
+source_url: "https://static.case.law/mills-surr/2/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8823263
+cites_cases: ["154 N. Y. 423", "49 N. Y. Supp. 825"]
+---
+
+# In re the Estate of Wood
+
+## Majority (Thomas, S.)
+
+Thomas, S.
+— The proceeding on the petition of the trustee in bankruptcy of Joseph Wood, the residuary legatee under the will of Gilbert Wood, to compel the executor of the will of Jane H. Wood, who was the executrix of the will of Gilbert Wood, to account for assets of the estate of Gilbert Hood in his hands, received by him with the assets of Jane H. Wood, is maintainable under section 2606 of the 'Code of Civil Procedure. In this proceeding the jurisdiction of the court is súf-ficient to permit an accounting of all of the acts of Jane H. Wood, as fully as if the accounting were that of Jane H. Wood, and her letters had been revoked. As a result of the accounting, payment of any balance determined to exist must be decreed to be made to an administrator c. t. a. of Gilbert Wood, or to tbe city chamberlain, in default of the appointment of such administrator. In no event can payment be directed to the petitioner. Matter of Moehring, 154 N. Y. 423. In this proceeding, the executor of Jane H. Wood represents all of the parlies interested in her estate, and there are no other necessary parties. The order of reference was made, in accordance with the usual practice, immediately after the objections to the account were filed, on the motion of the surrogate, and without notice to any of the parties.. Code Civ. Pro., § 2546. The second proceeding instituted hy the executor of Jane H. Wood, on his own petition, for an accounting of trust property belonging to the estate of Gilbert Wood in his possession, is also permissible under section 2606 of the Code of Civil Procedure, but on this accounting the jurisdiction of the court is more limited than in the first or compulsory proceeding, and the acts and doings of Jane H. Wood, as to property which never came into his possession, cannot be investigated. Matter of Trask’s Est., 49 N. Y. Supp. 825. I do not clearly perceive why persons interested in the estate of Jane H. Wood, and having no interest in the estate of Gilbert Wood, are cited. They represented by the petitioner in his capacity of executor of Jane H. Wood, and no general accounting of her estate is sought, or is permissible in the proceeding. The two proceedings cannot be ‘consolidated, because no jurisdiction to consolidate them is found in the statute. A consolidation of two proceedings not of exactly similar scope should not be attempted without express authority. A substantially similar result may he reached by a reference of any issues raised by objections in the second proceeding to the same referee appointed in the first proceeding, and this will be done. The application to consolidate the two proceedings is denied.
+Application denied.
