@@ -1,0 +1,46 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-10-23"
+citations: ["40 N.Y. St. Rep. 828", "16 N.Y.S. 748"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People, Resp’ts, v. Jeremiah C. Keating, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/40/cases/0828-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2065204
+cites_cases: ["118 Mass. 36", "118 Mass., 36", "4 Denio, 92", "45 Me. 72", "45 Me., 72", "49 Conn. 233", "49 Conn., 233", "58 Ga. 200"]
+---
+
+# People v. Keating
+
+## Majority (Lewis, J.)
+
+Lewis, J.
+The circumstances attending the commission of the crime of which the defendant was convicted were exceedingly cruel and brutal. The defendant was one of four men who Efanned the assault which was made upon the deceased, William i. Joslyn, and which resulted in his death. Joslyn was assaulted when standing quietly upon the sidewalk, in the village of Mt. Morris. Daniel J. Keating, one of the defendant’s party, made an attack Upon him, striking him in the face with his fists, knocking him down, and continued beating him while down, until he succeeded in breaking his neck, causing his death. The defendant stood near by aiding and encouraging the assault. When the witness James McNealy attempted to interfere and make peace, the defendant seized McNealy and forced him away. McNealy returning, the defendant took off his coat, pushed McNealy into the gutter, saying “let them have fair play,” and the beating continued until the defendant directed Daniel Keating to desist, and Joslyn was then dead.
+The evidence of the defendant’s guilt was ample to justify the verdict
+The evidence as to the blood upon the wall of the hotel directly back of where the deceased was standing when assaulted was competent as part of the res gestae.
+The question put to Jeremiah Keating, “if he wanted to see Joslyn get a thrashing,” was competent. Keating belonged to the defendant’s party; stood by during the assault. He was called as a witness for the defense, and had given important testimony. It was proper for the district attorney to ascertain if he was an impartial and unprejudiced witness.
+The important question in the case arises on the ruling of the court that the defendant was entitled to but five peremptory challenges.
+The indictment was for the crime of manslaughter in the first degree, which is punishable by imprisonment for not less than five nor more than twenty years. Section 873 of the Code of Criminal Procedure is as follows; “Peremptory challenges must be taken in number as follows: First. If the crime charged be punishable with death, thirty: Second. If punishable with imprisonment for life, or for the term of ten years or more, twenty; Third. In all other cases five.”
+The appellant’s contention in this case comes under the second subdivision, that he was entitled to twenty peremptory challenges; that the crime that he was charged with committing was punishable by imprisonment for ten years or more.
+The defendant’s right to peremptory challenges was purely statutory. It was not derived from the constitution nor the common law.
+At common law, the People had the right to peremptory challenges, but the accused had not.
+We are not referred to any adjudication in this state where the questions raised here were presented.
+A brief review of the legislation touching peremptory challenges may aid in the solution of this question. By the Revised Statutes, every person put on trial for an offense punishable with death, or with imprisonment in a state’s prison for ten years, or an.v longer time, was entitled to twenty challenges.
+For offenses punishable with imprisonment for a term of less than ten years, no challenges were allowed. To remedy this the act of 1847 was enacted. By that act every person on trial for an offense not punishable with death, or with imprisonment in a state’s prison for ten years, or for a longer time, was entitled to five challenges. By the act of 1858, chap. 332, on a trial of any offense punishable with death, or by imprisonment for the term of ten years, or for a longer term, the People were given ten peremptory challenges, and on the trial of an offense punishable by imprisonment for a term of less than ten years, three challenges.
+Prior to the adoption of the Criminal Code, the provision of the Revised Statutes was as follows: “ Every person arraigned and put on his trial for an offense punishable with' death, or with imprisonment in a state’s prison for ten years, or any longer time, shall be entitled peremptorily to challenge twenty of the persons drawn as jurors for such trial, and no more.”
+In the case of Dull v. The People, 4 Denio, 92, the defendant was indicted for burglary in the second degree, and on the trial claimed the right to peremptory challenges of the jurors, which was denied by the trial court.
+He was convicted and sentenced to imprisonment in the state’s prison for ten years, that being the maximum penalty for that offense. The trial court held that as the minimum was less than ten years, the prisoner was not entitled to peremptory challenges. The court on appeal, Chief Justice Bronson delivering the opinion, held that the offense being one for which the defendant was liable, or subject to be punished with imprisonment for ten years, his case came within the express words of the statute, and the conviction was revérsed.
+The contention of the district attorney is that the change in the phraseology of the statute, by the use of the word “ term ” in subdivision 2 of § 873, the legislature intended to fix a period of time limited by termini; one terminus being imprisonment for the term of ten years, and the other imprisonment for life, or for .a longer term than ten years.
+We have seen from the history of the legislation upon this subject that the tendency has been to enlarge and increase the number of peremptory challenges in criminal cases.
+The statute which was displaced by § 373 of the Code of Criminal Procedure, as the section of the Revised Statutes has been construed by the court in Dull v. The People, gave to the person charged with a crime, the punishment of which might be imprisonment for ten years or more, twenty challenges. If the construction contended for by the People’s counsel be correct, § 373 abridged the number of challenges which the defendant would have been entitled to under the former statute.
+We are not able to see by the change in the language suggested evidence of an intention on the part of the legislature to thus abridge the defendant’s right to challenges.
+“ Where the statutes of a state are revised after the manner generally pursued in our states, the Revised Statutes receive the former interpretation wherever a contrary intention does not affirmatively appear. Slight changes in language are not presumed to change the meaning, since it was one of the special objects of the revision to introduce an improved and more uniform phraseology. To produce a change of interpretation the intent to change the law must affirmatively appear.”. Bishop on Stat. Crimes, § 98, and authorities referred to in margin; Hughes v. Farrar, 45 Me., 72.
+The crime the defendant was charged with committing is punishable by imprisonment, in the discretion of the court, for ten years or more.
+The meaning of the word “ punishable ” is not “ must be punished,” but “ liable to be so punished,” and was so held in the case of State v. Frederick Neuner, 49 Conn., 233; also in Miller v. State, 58 Georgia, 200.
+“ Punishable ” includes an offense which may under some circumstances be punished, in the manner designated, although under others it may not be.
+In Commonwealth v. Pemberton, 118 Mass., 36, it was held that a statute providing that murder committed in the commission of, or in the attempt to commit, any crime punishable with death, or imprisonment for life is murder in the first degree, includes, all offenses that may be so punished.
+If subdivison 2 of § 378 read, “ If the crime charged may be punished with imprisonment for life or for a term or period or ten years or more,” it would not be contended but that the defendant was entitled to the twenty challenges. It was the liability of the defendant to receive a sentence of a term of ten years that determined the number of challenges he was entitled to, and not his liability to receive a less term. Stress is laid upon the employment of the word “ term ” as indicative of an intention to alter the previous statute. An imprisoment for any definite period of time is certainly for a term. We must assume that the codifiers were aware of the prior statutes and the construction which the courts had given them. If they had intended to change the law they would, we think, have provided for the cases where a crime was punishable with the term of ten years or less.
+We think the learned court below fell into error in holding that the defendant was entitled to but five peremptory challenges, and that the judgment of conviction for that reason should be reversed and a new trial granted.
+Dwight, P. J., and Macomber, J., concur.
