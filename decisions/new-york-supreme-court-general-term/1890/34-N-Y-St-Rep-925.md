@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-12-29"
+citations: ["34 N.Y. St. Rep. 925"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael Fuchs, Pl’ff, v. The Wm. H. Sweeney Mf’g Co., Def’t."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0925-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2046831
+cites_cases: ["101 N. Y., 547"]
+---
+
+# Fuchs v. Wm. H. Sweeney Mf'g Co.
+
+## Majority (Bartlett, J.)
+
+Bartlett, J.
+The plaintiff was hurt while at work upon a stamping machine. Trie hammer, according to his testimony, came down when his foot was not upon the treadle, and this it could not have done, he asserts, if the machine had been in proper order. Were there nothing else in the case to show that it was out of repair, I should be quite satisfied with the dismissal of the complaint at the circuit; but there is much more. About two hours before the accident, the plaintiff observed that the machine could not be easily operated, and he called the attention of Mr. Sweeney, the defendant’s superintendent, to the fact, telling him that something was the matter with the machine. Therefore, says the plaintiff, Mr. Sweeney came down and looked at it, but did not work it; and declaring that the machine was all right, he directed the plaintiff, in rather emphatic langnuage, to go on using it. Mr. Sweeney denies having uttered the violent words attributed to him by the plaintiff on this occasion, and states that when he was told that something was the matter with the machine, he had the plaintiff operate it in his presence, and it worked as it should work. The same witness testifies that he also examined the machine immediately after the accident, and that he found the clutches all right and nothing the matter with it. The machine, two or three days later, was turned over to one Thomas Scully, another workman, who took it apart and cleaned it. He was called as a witness, and on his direct examination said that he found it in good working condition. On cross-examination, however, he testified as follows:
+“ Q. If that lower clutch had been in a proper condition on the 28th day of August, it would have been impossible for the hammer to have struck Mr. Fuchs’ fingers? A. Yes, sir.
+“ Q. Did you repair the under clutch after you got back to work there? A. Yes, sir.
+“ Q. Is it in the same condition now that it was when Mr. Fuchs was working there ? A. About three months after I had another one made.
+“Q. So as to protect the workmen ? A. Yes, sir.” I think this testimony points toward the existence of a defect in the machine at the time the plaintiff was hurt, and if such a defect existed, and the defendant’s superintendent instead of testing the machine by having it operated in his presence, as he says he did, was content with the much slighter examination indicated by the evidence of the plaintiff, this, together with the other facts in proof, would furnish a basis for the charge of negligence. If by the exercise of proper care and inspection the defendant’s superintendent ■could have discovered and remedied the defect which led to the injury, the defendant is liable.
+The obligation of a master to exercise all reasonable care to keep machinery in repair is no less absolute than his obligation to use the same degree of care to furnish safe and suitable machinery for the use of his servants in the first instance. Benzing v. Steinway, 101 N. Y., 547. Upon the present review of the case at bar we are bound to give the plaintiff the benefit of the most favorable view of the evidence which can be taken in his behalf; and doing this, it seems to me quite clear that there was enough to take the question of negligence to the jury. I think the plaintiff’s exception to the dismissal of the complaint was well taken and that he should be granted a new trial.
+This case ought not to bed isposed of, however, without expressing our disapproval of the manner in which the appeal book has been printed. The plaintiff’s attorney has caused to be printed in italics or even small capitals all those portions of the evidence which are most favorable to his client. This is a flagrant disregard of Rule 42 of the General Rules of Practice, which would not have been overlooked except for the fact that the case was submitted without oral argument so that the matter was not brought to our attention until after the term had ended. Because of this violation of the rule the appellant must be deprived of the costs which would otherwise be awarded him to abide the event of the new trial.
+Van Brunt, P. J., concurs.
