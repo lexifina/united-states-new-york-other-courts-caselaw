@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-05-19"
+citations: ["8 N.Y. St. Rep. 513"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles F. Nye et al., App’lts, v. Timothy Hoyle et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/8/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 640240
+cites_cases: ["108 Mass., 175", "11 Gray, 364", "17 Wend., 136", "27 Wis., 300", "69 Penn. St., 93", "87 N. Y., 400"]
+---
+
+# Nye v. Hoyle
+
+## Majority (Learned, P. J.)
+
+Learned, P. J.
+The meaning of the agreement of 1835 seems plain. Noadiah Moore owned the land through which the stream flowed and had erected a dam thereon, which supplied water power to his mill. Pliny and Amasa 0. Moore owned land below, on which they too had a dam and mill. All the parties desired to construct a mill privilege still further down, for the use of both; one-third to belong to Noadiah, two-thirds to Pliny and Amasa 0.; which new privilege should have preference over the old. For this purpose it was necessary that Noadiah should deepen the canal which passed through his land to his mill, and that Pliny and Amasa 0. should construct through their land a new canal, from the end of his, to the lower point, where the power was to be used. And as Noadiah had no land ■at that point, it was also necessary that they should convey him a piece near the end of the proposed new canal.
+Then, as to the maintainance as well as to the construction of these several parts needed for the new privilege, it was agreed that Noadiah, his heirs and assigns, should maintain, repair and rebuild the dam and the old ditch which were on his land; and that Pliny and Amasa 0., their heirs and assigns, should maintain and keep in repair the new ditch which was on their land.
+These obligations, which the parties to the agreement thus severally undertook, were clearly for the benefit of the new water privilege, in which each party had an interest, to the extent above mentioned; and so, for the benefit of the land which (after the agreement) they severally had, upon which the new water privilege could be used.
+These obligations were intended to be perpetual, and to be a burden running with the land upon which the work was to be done and maintained. The heirs and assigns of Noadiah, mentioned in the agreement, are his heirs and assigns of the property, on which the work was to be done; that is of the property where the dam stood, and also of that where the old ditch had been.
+That burden may have been modified and extended by the deed from Noadiah to Freeman and Bartlett Nye of" January, 1836. But that is not material here.
+We might justly say that an easement was created on these lands of Noadiah, for the benefit of the owners of the water privilege below. One of these owners, it is true, was Noadiah himself. But the stream of water which formed the water privilege was one thing, although there were two parties who had several interests m it. And not only was an easement in the strict sense imposed, but an active obligation to repair and rebuild—an obligation such as has sometimes been called a spurious easement.
+But the plaintiffs insist that the agreement that the dam should be repaired by Noadiah, “his heirs and assigns,” did not attach the burden of repair upon the old privileges, but upon the new. In this view, the “heirs and assigns” are those who have acquired Noadiah’s rights in the easement, not in the servient, estate. If, however, that had been the meaning of the parties, the agreement would have said that the respective owners of the new privilege should, in proportion to their ownership, forever keep in repair the dam, the old ditch and the new canal. Such is not the language of the agreement. On the contrary, it specifies just what easement is to be created over the several lands of the respective owners; and just what each owner is to do in the way of repair and reconstruction.
+The plaintiffs further insist that this covenant of Noadiah does not run with his land, so as to impose the burden of repair on its present owners. It is usually said that covenants do not run with the land, unless there be a privity of estate between covenantor and covenantee. And it has been remarked that the meaning of " privity of estate ” is not easy to define. 2 Wash. Real Property, 285. But it is said in Bronson v. Coffin (108 Mass., 175), that an interest in the nature of an easement in the land is sufficient to make a covenant for the support and protection of that interest run with the land charged. See Cooke v. Chilcott (3 Ch. Div., 694); Lindeman v. Lindsey (69 Penn. St., 93); Noonan v. Orton (27 Wis., 300); Norman v. Wells (17 Wend., 136).
+In the present case an easement over Noadiah’s land was granted, viz.: the right to take the water from his dam and through his old ditch. The covenant was for the protection and support of that easement, for it was to repair and rebuild the things necessary for the enjoyment of that easement. It ran, therefore, with the land.
+And the obligation on the plaintiffs has the more equity, inasmuch as they took title chargeable with knowledge of the covenant. The conveyance of January, 1836, from Noadiah to Freeman and Bartlett Nye, is made subject to reservation, etc., mentioned in the agreement of 1835, and the grantees assume one half of the repairs as contemplated in that contract. This conveyance included (it seems by the map) a part of the old ditch and the old mills of Noadiah. And though the agreement therein, that the grantees ■assumed one-half the repairs, of itself, might be only personal, yet it gives abundant evidence of the knowledge by the grantees of the existence of the contract of 1835 and of its terms. Phœnix Ins. Co. v. Cont. Ins. Co., 87 N. Y., 400; Whitney v. Union R. W. Co., 11 Gray, 364.
+We think the plaintiffs show no ground to recover against defendants. The judgment is affirmed, with costs.
