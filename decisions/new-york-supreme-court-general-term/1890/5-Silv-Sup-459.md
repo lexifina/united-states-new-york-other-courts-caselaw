@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02-10"
+citations: ["5 Silv. Sup. 459", "9 N.Y.S. 4", "30 N.Y. St. Rep. 363"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cleveland D. Fisher et al., Appellants, v. Mary C. D. Fisher et al., Respondents."]
+source_url: "https://static.case.law/silv-sup/5/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2041278
+---
+
+# Fisher v. Fisher
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+Myndert Fisher, a resident of Westchester county, died in May, 1885, leaving a widow and several children. He owned at the time of his death an equal undivided one-third in certain lands which are described in the complaint, and he died intestate. The other two-thirds were owned by his two sisters, Caroline Fisher and Eliza Fisher, who both survive him, and were then very old,—-being each about 80 years of age.- In 1874, Eliza Fisher made her will, giving all her property to her brother Myndert. After his death, and in July, 1885, she executed a codicil, giving her property to Myndert’s children. On the 11th of April, 1888, Eliza Fisher made a deed of her interest in the lands to the children of Myndert Fisher, her brother. The plaintiffs, being a portion of these children, bring an action of partition, based upon the rights conveyed by this deed to them. Eliza Fisher is still living, but is not a party to the action. The defendant Catharine Ferris sets up that the deed from Eliza Fisher to Myndert’s children was void for fraud and undue influencp used in procuring it. She also sets up further, as a defense to the action itself, that Eliza Fisher conveyed to her certain of the property in December, 1888, in trust for the support of grantor, and after her death one portion of the remainder was to go to grantee, one-third to heirs of Myndert Fisher,'and one-third to heirs of Frances Harris, a deceased sister of grantor. This deed is absolute on its face, and the trusts were not evidenced by any writing at the execution of the deed. The judgment annuls the first deed, and the appeal is brought from this decree. The deed was given, not as an absolute deed as between the parties, but solely that a title might be created, so as to bring a partition action with less expense. The grantor has become totally imbecile, and the deed ought not now to stand. The evidence as to her sanity is conflicting at the date of the deed, and before and after. She was always peculiar, and, from her age and infirmity, liable to be imposed upon by those in whom she had confidence. Her condition, and her relation to the person who procured the deed, Mr. Cleveland Fisher, were such that the utmost rigor of the inference of undue influence is demanded. The proof in support of the deed fails to meet the necessity imposed by the case in similar transactions. The grantor stripped herself of all her property, and strong evidence is required to show that she fully understood it. It was well enough to make a title to save expense, but in such a case she should have been protected by the power to control the proceeds during life, and by will to operate after her life should end. This appeal does not bring up the finding on the deed to Mrs. Ferris. Her deed was taken some seven or eight months after the deed to the Fisher children. The disease of the grantor was progressive, and there is no proof to show her to be more capable in December, 1888, than she was in April preceding, except the letters of the grantee; and they are subject to the objection that they were written at about the time her deed was taken. If their finding in favor of this deed is to have any effect hereafter, when this deed may be the subject of contest, there should be no obstacle by force of this finding, which, however, was not effectuated in the decree. As it may be ill in effect, it should be stricken out of the roll.
+Judgment affirmed, with costs.
