@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Chancery"
 decided: "1831-05-28"
-citations: ["3 Paige Ch. 320", "3 Paige Ch. 336"]
+citations: ["3 Paige Ch. 320"]
 reporter: "paige-ch"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
