@@ -1,0 +1,53 @@
+---
+court: "New York Superior Court"
+decided: "1857-02-14"
+citations: ["6 Duer 358", "13 N.Y. Super. Ct. 358"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles F. Weber and Carl Graseman v. George R. Sampson and Lewis W. Tappan."]
+source_url: "https://static.case.law/ny-super-ct/13/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1329756
+cites_cases: ["17 Rich. 441", "2 Hall, 121", "4 Hill, 177"]
+---
+
+# Weber v. Sampson
+
+## Majority (By the Court. Hoffman, J.)
+
+By the Court. Hoffman, J.
+The action is brought to recover from the defendants the amount of commission alleged to be due to the plaintiffs, as brokers, for procuring a charter for the ship Rockland. The allegation is, that the defendants were owners of the vessel, or trustees holding the legal title, or mortgagees in possession, and in law liable as owners; that Horace B. Tibbetts, as their agent, employed the plaintiffs; that they effected the charter, and were to receive five per cent, commission.
+The charter-party produced in evidence, is dated New York, February 12, 1851, and is between H. B. Tibbetts of New York, part owner and agent of the good ship Rockland, and Messrs. Ewbank and Gray, of London, merchants. It describes the vessel as now in the berth in New York, for San Francisco, California, and stipulates that she shall, with all convenient speed, sail and proceed from California to Calcutta in the East Indies.
+The plaintiffs allege that the said Tibbetts had full power to bind the ship and her owners by the terms of the charter-party. The vessel was to proceed from Calcutta to Europe, to be addressed to Graseman & Co., London; and it was declared in the charter-party, that a commission of five per cent, on the gross amount of freight of such charter was then due to the said firm. The plaintiffs compose it.
+It appears that one Plateniu's acted as agent, and on behalf of the plaintiffs, in the transaction.
+From this statement, it is obvious that the liability of the defendants must depend either upon such an ownership or interest, as of itself will render them presumptively responsible, or an express undertaking to be so contracted by themselves, or through an agent sufficiently authorized.
+The evidence establishes that Tibbetts was originally the full owner of the vessel, the enrollment of which was issued on the 28th of January, 1851, in New York. On the 28th of January, he executed a hill of sale of such vessel to the defendants, a firm at Boston, in the usual form of a transfer, except in the following clause: “ To have and to hold the said ship, etc., unto them the said Sampson and Tappan, as trustees, their executors and assigns, to the sole and proper' use, benefit, and- behoof of them, the said Sampson and Tappan, as trustees, their executors and assigns for ever.”
+On the 30th of January, 1851, George R. Sampson, one of the defendants, made “ the oath of ownership, swearing that he and Lewis W. Tappan were co-partners, and were the true and only owners of the said ship or vessel, called the Rockland.
+Upon this, the usual register was granted to the defendants, dated the 3d of February, 1851. The register issued in January was cancelled, property changed.
+In April, 1851, the master took command of the ship in the port of New York, having been employed by the defendants for a voyage to San Francisco. She proceeded to that place, thence to Calcutta, where a cargo was taken in, with which she came to Boston.
+At Calcutta an agent of Ewbank & Gray applied to the master, offering to supply a cargo, under the charter-party, for London. The master informed him that he had nothing to do with it, and should not recognize it.
+The plaintiffs’ counsel produced, in evidence, a letter from the defendants, dated April 25th, 1851, in which they say that “they had nothing to do with the ship, beyond a certain advance made Mr. Tibbetts on her.”
+After the motion for a nonsuit, the plaintiffs offered to prove as follows:—
+That at the date of the charter-party, and before and afterwards, until the vessel sailed for San Francisco, she was managed in New York by H. B. Tibbetts; that by his instructions she was employed to go to San Francisco; that he engaged freight and supplies, and equipment; that these acts were recognized by Sampson and Tappan, who paid the bills of such goods as were supplied in New York by Tibbetts.
+Upon the testimony produced by the plaintiffs, it is rendered clear that the defendants were in fact mortgagees of the vessel, and took possession of her about the beginning of April, 1851. The voyage to Calcutta and back appears to have been for their benefit, and under their control.
+It is well settled that a mortgagee of a vessel not in possession, is not responsible for wages, repairs or supplies, in the absence of any express contract under which his credit is relied upon. (King v. Franklin, 2 Hall, Sup. Ct. Rep. 1; Birbeck v. Tucker, 2 Hall, 121; Brooks v. Boudsay, 17 Rich. 441; McCartee v. Huntingdon, 15 Johnson, 298; Hesheth v. Stevens, 7 Barbour, S. Ct. Rep. 488; Milne v. Spinola, 4 Hill, 177.)
+The case of King v. Franklin, in this court, bears a close resemblance in its facts to the present. Had the question been a liability for supplies or repairs, it would be decisive.
+But the question here cannot be entirely controlled by this rule. On the 12th of February, 1851, when the charter-party was executed, Tibbetts was the mortgagor in possession. The defendants had a bill of sale of the 28th of January, not even absolute, but upon certain trusts, and these were undoubtedly the security of their advances. They had taken the usual oath of ownership, and changed the registry of the vessel, but these circumstances all existed in King v. Franklin, and were all held insufficient to vary the actual legal relations of mortgagor and mortgagee established by the evidence.
+There are other legal relations between a mortgagor and mortgagee of a vessel, which bear upon this question.
+By an English statute, (6 Geo. 4, C. 110, § 45,) the party taking a transfer of a vessel by way of mortgage, is to be noted as such by an entry in the book of registry, expressing that he holds her as security. He is then not to be deemed the owner of the ship any more than if a transfer had not been made, except so far as may be necessary for the purpose of rendering the vessel available for sale or otherwise, for the payment of the debt.
+In Dean v. McGhie, (4 Bingham, 45,) a mortgagee got into possession of the ship immediately upon her return from a voyage, and claimed the freight of the goods on board. It was held that he was entitled to it as against the assignees in bankruptcy of the mortgagor. The right to growing freight passes with the ship.
+In Kersevell v. Bishop, (2 Crampton & Jervis, 529, and 2 Tyrwhit’s Rep. 603,) the mortgagor had fitted out the vessel after the mortgage, and she returned from her voyage with a cargo on board. The mortgagee took possession when she was in the harbor, but before getting into dock. It was held that the mortgagee was entitled to the freight remaining unpaid.
+In Morison v. Parsons, (2 Taunton, 407,) which was before the statute, the owner had chartered a vessel and then assigned her. He afterwards assigned the charter-party to a third person. It was held that the assignee of the ship was entitled to the freight earned subsequently to the assignment.
+Chinnery v. Blackbrim, (1 H. Black. 117,) may probably be overruled, or materially affected by the later cases I have cited. But the observation of Lord Mansfield remains still the general rule, that “ until the mortgagee takes possession, the mortgagor is owner to all the world, and entitled to the profits.”
+The act of Congress, of July 29th, 1850, appears to have been complied with. The bill of sale was deposited in the office of the collector in Hew York, and the new register issued.
+It must be conceded upon the facts stated, and the cases cited, that the charter-party in question was valid against every one except the defendants, the mortgagees. But I do not see how the conclusion can be avoided, that when they chose to assert their rights of ownership, they could supersede a charter-party.
+It is difficult to distinguish such a case from the common one of a mortgagee of real estate. A lessee put into possession after a mortgage could be ejected. Although our statute has prohibited the action of ejectment in such a case, yet upon a sale under a decree of foreclosure, the same right to avoid such a lease would arise.
+Yet if this be the strict right of the mortgagee, I apprehend much less testimony should be required to prove his sanction to a charter-party made by a mortgagor, than when the question relates to the power of a mere stranger as an agent.
+We find in this case, that the plaintiffs, through Platenius, their agent, were apprised in the charter-party itself.that Tibbetts was not acting on his own account merely. He is described as part owner and agent. They were bound to know his true position, and the extent of his agency, or they relied upon his responsibility alone.
+The evidence shows merely the employment of Tibbetts, after the master of the defendants took possession, to supply the vessel and fit her out, and the master was always to consult him. It is manifestly insufficient to show any ratification or recognition.
+From what took place at Calcutta, as deposed to by the master, it is plain that the defendants, if they knew of the charter-party, repudiated it.
+The facts which we are to assume would have been proved under the offer, would establish a management, and agency in New York of the vessel until she sailed; that by his instructions she was employed to go to San Francisco; that he engaged freight and supplies, and the equipment; and that these acts were recognized by the defendants, who paid the bills of such goods as were bought in New York by Tibbetts.
+Put all this in the strongest language in a power of attorney, and it would still be impossible to hold, that it could establish either a ratification of a charter-party to commence in Calcutta and terminate in England, or an authority to enter into such a charter-party.
+Admitting that the powers of a ship-husband would sanction a charter-party like this, or one which should transfer the entire ownership and control for the voyage, the case falls short of proving that Tibbetts occupied that position, or was clothed with such extensive powers.
+The judgment must be affirmed, with costs.
