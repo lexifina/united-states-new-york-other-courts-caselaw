@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1808-08"
+citations: ["3 Johns. 263"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ruggles against Keeler."]
+source_url: "https://static.case.law/johns/3/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2129751
+cites_cases: ["2 Black. 723", "2 Black. Rep. 723", "2 Johns. 198"]
+---
+
+# Ruggles v. Keeler
+
+## Majority (Kent, Ch. J.)
+
+Kent, Ch. J.
+delivered the opinion of the coürt. This case presents an important question arising under the rules of prescription which prevail in the different states.' An inhabitant of Connecticut sues here upon a promissory note, and a demand arising between the parties, while they were respectively inhabitants of Connecticut, is now offered by way of set-off, This demand is objected to, as barred by the statute of limitations of Connecticut, as Well as of this state.
+The first question which naturally arises is, whether the act of limitations of this state can be interposed in bar to the matters contained in the set-off.
+The act requires, that all actions founded upon any contract, without specialty, shall be brought within six years next after the cause of action accrued. These' words would, undoubtedly, unless controuled • by the exception in the statute, apply even to the case of foreigners, and to causes of action arising abroad. The statute of 21 Jac. I. was so understood by Lord Ch. Cowper, in the case of Duplein v. De Rover, (2 Vern. 540.) which arose shortly before the statute of Anne, and he observed, that “ it was plausible and reasonable; that the statute of limitations should not take place, nor the six years be running, until the parties came within the cognisance of the laws of England; but that must be left to the legisla-, ture.” But a proviso in the statute of Anne, and which we have adopted in our act of limitations, saves the operation of the statute, if the party shall be “ out of the state,” at the time the pause of action arises against hint, and the statute does not begin to run until “ after the réturn” of the defendant. Whether the defendant be a resident of this state, and only absent for a time, or whether he resides altogether out of the state, is immaterial. He is equally within the proviso. If the cause of action arose out of the state, it is sufficient to save the statute from running in favour of the party to be charged, until he comes within our jurisdiction. This has been the uniform construction of the English statutes, which also speak of the return from beyond seas of the party so absent. The word return has never been construed to coniine the proviso to Englishmen, who went abroad occasionally. The exception has been considered as general, and extending equally to foreigners who reside always abroad. This was evidently the opinion of Lord Talbot, in the case of Duplein v. De Rover. In Strithorst v. Greame, (3 Wils. 145. 2 Black. Rep. 723. S. C.) the point was so ruled by the court of C. B. in England.
+The party to be charged by the set-off not having been six years within this state, since the cause of action arose, our statute of limitations could not, therefore, be replied to the plea.
+The next question is, upon the Connecticut statute of limitations.
+In Nash v. Tupper, this court determined that we were ' bound to confine ourselves to our own statute of limitations, and could not regard that of any other state. The question arose there upon a replicatibn to the usual plea of non-assumpsit infra sex annos. The replication stated, that the cause of action arose in Connecticut, and that the demand was not barred by the act of limitations of that state, and upon demurrer, this replication was held ill And whether we consider the question upon principle or authority, I am satisfied that the decision in that case was correct. The general doctrine which we there recognised, - goes far towards settling the present question. A foreign statute of limitations can no more be pleaded to a suit instituted here, than it can be replied to a plea under our statute. Statutes of limitations are municipal regulations, founded on local policy, which have no coercive authority abroad, and with which foreign or independent governments have no concern. The lex loci applies only to the validity or interpretation of contracts, and not to the time, mode, or extent of the remedy. Suppose Ruggles had sued Letvis upon the account attempted to be set off in the court below, the defendant could not have interposed the statute of limitations of Connecticut by way of plea ; and the,rule is the same whether the foreign statute be interposed against the demand of the plaintiff or the set-off of the defendant. It was stated upon the argument as a plausible objection to the rule, that stale demands might, in this way, be revived and enforced against persons who happen to be found in this state, and have not resided, here long enough to be protected by the statute of limitations of this state.
+.The answer is, that a presumption of payment will un- . doubtedly attach to stale demands. When this presumption is to be let in, will depend upon the age and nature of the demand, and the" special circumstances under which it may present itself. We do not at present undertake to lay down any precise rule on the subject. It is sufficient to observe, that this presumption of payment must, as a matter of evidence, be left in each case to be raised or repelled by the respective parties, and, in this way, any serious inconvenience from the revival of dormant claims, will be avoided.
+' In the present case, the court below rejected the evidence of the set-off, and their decision was, therefore, erroneous, and must be reversed.
+Thompson, J. and Yates, J. not having heard the argument in the cause, gave no opinion.
+Judgment reversed.
