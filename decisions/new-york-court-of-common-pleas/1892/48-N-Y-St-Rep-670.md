@@ -1,0 +1,25 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1892-11-07"
+citations: ["48 N.Y. St. Rep. 670"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter Flynn, Resp’t, v. The Manhattan Railway Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/48/cases/0670-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2089833
+---
+
+# Flynn v. Manhattan Railway Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Undoubtedly the testimony of the so-called expert should not have been received; but his competency was not challenged by a sufficient objection, and it was discretionary with the court whether to strike out his evidence.
+Other errors, however, require a reversal of the judgment It is not to be denied that the letter of plaintiff’s attorney was treated on the trial as a bill of particulars, and yet he was allowed, against defendant’s protest, to depart from it in the proof of the-cause of action. And the variance was material; for presumably defendant had come prepared to show the sufficiency of its engines that passed plaintiff’s place between lg and 1 o’clock, but was altogether unprovided with proof as to the condition of those that passed between 1.30 and 1.45.
+The court should have confined the evidence to the specification in the bill of particulars, or else have accorded defendant an. opportunity to confront the changed position of the plaintiff.
+Again, .defendant called a member of the board of examiners to show the qualification of the man in charge of the engine which probably inflicted the injury complained of; but the court, excluded the evidence as “ immaterial and irrelevant.’’ Immaterial and irrelevant it certainly was not, upon the question of defendant’s negligence, to show that its train was run by skilful and careful engineers, any more than to prove that its spark arresters were effective for the purpose.
+Still, again, defendant proposed to prove that the engines which passed plaintiff’s premises just before the injury had been duly examined and found in good order, but the witness could not recollect what engines he had inspected. Thereupon, defendant-inquired if he had a memorandum by which he could tell what, engines he examined, but the question was excluded. We are to assume that the witness had such memorandum, and that he could have used it to refresh his memory, if not, indeed, have introduced it in evidence as a paper correctly recording a fact since-escaped the recollection of the witness.
+Upon examination of the evidence we are convinced that it will be in the interest of justice to direct a retrial of the cause.
+Judgment reversed and new trial ordered, costs to abide event. Pryor and Bischoff, JJ., concur.
