@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1862-11-29"
+citations: ["10 Bosw. 16", "23 N.Y. Super. Ct. 16"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Before Moncrief, Robertson and Monell, J. J.)"]
+parties: ["John C. Martin et al., Plaintiffs and Respondents, v. Charles Kunzmuller et al., Defendants and Appellants."]
+source_url: "https://static.case.law/ny-super-ct/23/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1318769
+cites_cases: ["1 Sandf., 23", "10 Met., 194", "11 Barb., 481", "15 Mass. R., 407", "18 Barb., 409", "2 Bosw., 91", "2 Duer, 298", "2 Duer, 78", "3 Barb., 40", "4 Sandf., 604", "4 Whart., 507", "9 Cow., 409"]
+---
+
+# Martin v. Kunzmuller
+
+## Majority (By the Court—Robertson, J.)
+
+By the Court—Robertson, J.
+There is no doubt that for some purposes, assignees to pay debts, being representatives of creditors, are not bona fide purchasers for value; but they are in no sense representatives of the assignors, except as to a surplus, where there is one. The indebtedness of the assignors forms a valid consideration for the transfer, and all their interest in claims transferred ceases until their debts are paid. If their debts exceed the value of the .assigned property, (and this fact an assignment always asserts,) they have no interest. Of course such an assignment cannot .defeat an equity or a defense affecting the merits of the claim assigned, but is a set-off such a defense or,equity? If it is, debtors of an insolvent might buy up enough claims against him to liquidate their liabilities, and leave nothing for other creditors ; and the vendors of such a claim could put the vendee in a better situation than they could any other person, and better than they were in themselves.
+Until both-of two mutual claims have become due, the owners of neither have an absolute right, legal right, to offset one against the other; one may be sued upon and .judgment recovered thereon-before the other becomes due. The mere existence of that other, forms no defense; they are therefore, not strictly concurrent claims ; either party can transfer the right to his claim to a third person, wholly freed from the clog of the other, unless both are past due. In most cases, notice of an adverse defense is equal to want of a valuable consideration, in order to render a purchase mala fide, but no notice of a mutual claim nor due would make the purchase of a claim past due, such. The party holding a claim may elect to sue upon it, instead of setting it off, and then it clearly would be no defense. That right of election ought not to prejudice a transferee in good faith.
+The Revised Statutes recognize the right of .set-off at law in certain cases of assignments, thereby tacitly excluding it in others. Thus in the case of the assignment of . all contracts other than promissory notes, they permit the set-off of any demand against the plaintiff or assignee of such contract, belonging to the defendant before notice of such assignment, but existing at the time thereof, “ if “ otherivise capable of being set-off.” (3 R. S., 5th ed;, 354, § 12, sub. 10.) But in the case of promissory notes, in an action thereon'against any party thereto, they allow the offset of any demand owned by such party after such note became due. (Id., sub. 9.) In the case of assignments by force of law, produced by the death or insolvency of a debtor-creditor, the same statutes, in order to prevent a transfer by the representative or assignee so as to defeat the claim of a creditor-debtor not due at the time of the death or assignment of the former, render such claim due forthwith, and allow a rebate of interest. (3 R. S., 5th ed., 636, § 16; Id., 115, § 9.) All such provisions strongly show the views of the revisers and the Legislature as to the rule of law.
+The refusal of the learned Judge to allow the offset is fully sustained by authority.
+In Watt v. The Mayor &c., (1 Sandf., [S. C.,] 23,) where a claim had been sold to a bona fide purchaser, it was held a counterclaim could not be set off, because not due at the time of the purchase. In Wells v. Stuart, (3 Barb., 40,) assignees in trust for creditors were held to be bona fide purchasers for such purpose. And that view is sustained in Beckwith v. The Union Bank, &c., (4 Sandf., 604; on appeal, 5 Seld., 211,) Myers v. Davis, (22 N. Y. R., 489,) United Trust Co. v. Harris, 2 Bosw., 91,) Keep v. Lord, (2 Duer, 78,) Bradley v. Angel, (3 Comst., 475,) and Hicks v. McGrorty, (2 Duer, 298.) In the case of Maas v. Goodman, (2 Hilt., 275,) in a court of coordinate jurisdiction with this, (N. Y. Com. Pleas,) it was held, that a debtor who was sued upon a claim assigned in trust to pay creditors, could set off a claim which had matured before the assignment, where it did not appear but that the original assignor had still an interest by the excess of the assigned property beyond the debts secured. Of course the distinction is palpable, because there both claims had become due before the assignment, and it did not appear but that the original creditor was still the owner.
+The judgment, therefore, appears to me to be correct, and should be affirmed with costs.
