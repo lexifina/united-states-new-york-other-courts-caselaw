@@ -1,0 +1,25 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1877-11-05"
+citations: ["7 Daly (N.Y.) 326"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph H. Westerfield et al. Respondents, against William Radde et al. Appellants."]
+source_url: "https://static.case.law/daly-ny/7/cases/0326-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1308185
+cites_cases: ["1 Hun, 202", "1 Wend. 31", "3 Bosw. 600"]
+---
+
+# Westerfield v. Radde
+
+## Majority (Robinson, J.)
+
+Robinson, J.
+Plaintiffs sued the appellants, Radde & Koehler, and two others, as trustees of a corporation formed under the general manufacturing act of 1848, known as “ The Paragon Match Company,” for goods sold and delivered that company between May 29th and June 27th, 1872, by reason of the alleged failure of the company to make and publish the report required by the 12th section of that act. The company was organized in April, 1872, with seven trustees, including the two defendants. The by-laws prescribed that no officer, trustee or employee should have power to incur an)-- debt unless authorized by the board of trustees,' by resolution entered in its minutes. The company was intended to succeed to the business of the firm of “ Bock, Schneider & Co.,” match manufacturers, whose assets and good will were purchased and were to be paid for, part in stock and part in cash derivable from sales of stock. It was also resolved by resolution passed May 4th, that the company should not commence actual operations before the 4th of May, 1872, nor until an amount deemed sufficient for the successful commencement of operations should be in the hands of the treasurer. The company was organized in June, and Mr. Bock, one of the trustees, was elected president. At a meeting held by five of the directors in the early part of December, 1872, all of them, including these defendants, resigned. The default charged, was for not making the report required by the act in January, 1873. The judge before whom the cause was tried, upon the proof tending to show a sale and delivery of the goods for which the action was brought upon the order of said Bock, held (against objection and exceptions) that the president of such a corporation could lawfully bind it in the purchase of goods required in its business, notwithstanding there was a resolution to the contrary on its books, unless the plaintiffs had notice of such resolution.
+Bock, the president, had, as member of the firm of Bock, Schneider & Co., Bock, Grenin 5s Co., and until such' assumed organization, purchased goods of plaintiffs, and he expressly swore plaintiffs refused to give credit to the company. The refusal of the judge, therefore, to submit to the jury the question of the sale and delivery of the goods to the company, and as to the delivery of all the goods for which claim was made, was erroneous. The judge also erred in holding that the president of such a corporation “ could lawfully bind it in the purchase of goods required in its' business, notwithstanding a resolution to the contrary on its books, unless the plaintiffs had notice of such resolutions.” As president he was but presiding officer of the board of trustees. The concerns of the company was to be managed by the trustees, who were to be, by the articles of incorporation, “ not less than three nor more than nine.” The authority to contract a debt or transact any other business of the 'corporation, except such they specifically authorized by'' resolution or by-law, must grow out of some delegation of their authority, either by by-law or resolution, or through a well recognized general course of dealing, by which some person has been permitted and held out by the corporation'as possessed of authority to transact its business. (1 Wend. 31; 1 Hun, 202; 3 Bosw. 600.) Under the views previously' expressed, various other errors occurred in the admission of improper testimony—in admissions made by Bock, personally and in writing.
+The status of these defendants when the alleged default of the corporation occurred,.as two out of seven trustees fixed in number by the articles of incorporation, was admitted by their answers, no questions arising out of their previous resignation as well as the others of the trustees, or-as .to their power as a minority of such as was required by the articles of incorporation to transact any business of the corporation, or as to their exemption from responsibility by reason of any incapacity in the corporation to make the report because of the resignation of the majority of the trustees, .or the effect of their subsequent abortive attempt to cause such report to be made, were properly presented on the trial, and if deemed material must be made the subjects of consideration on a future occasion.
+■ The judgment appealed from must be reversed, and a new trial ordered, with costs to abide the event.
+Joseph F. Daly, and Larremore, JJ., concurred..
+'Judgment reversed and a new trial ordered.
