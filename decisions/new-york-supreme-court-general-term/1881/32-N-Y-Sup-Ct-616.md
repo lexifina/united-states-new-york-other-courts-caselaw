@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1881-12"
+citations: ["32 N.Y. Sup. Ct. 616"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnard, P. J., concurred.", "Present — Barnard, P. J., Gilbert and Dykman, JJ."]
+parties: ["F. GUSTAV FINCKE, Appellant, v. HERMANN FUNKE, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/32/cases/0616-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1918985
+cites_cases: ["16 Wend., 405", "37 Barb., 610", "41 Barb., 337", "44 Penn. St., 294", "68 N. Y., 206", "71 N. Y., 396"]
+---
+
+# Fincke v. Funke
+
+## Majority (Gilbert, J.:)
+
+Gilbert, J.:
+The subject of this action isa claim for professional services performed during and after the year 1854, but prior to the year 1857, for the defendant, by the late firm of Ludwig, Smith & Fincke, attorneys, of which the plaintiff is the sole surviving partner. The defendant sets up as a defense the statute of limitations.
+It appears that the plaintiff and his copartner Smith, in the year 1857, were restrained from collecting any of the assets or property of the said late firm by an injunction made in an action then pending in the Court of Common Pleas of the city and county of New York, brought by the administrator of the plaintiff’s deceased copartner Ludwig, and that such injunction continued in force until 1877; that a receiver of said assets and property was appointed by a referee pursuant to an order made in said action, and that such appointment was perfected by the approval and filing of the bond of the receiver in April, 1860.
+The action in the Common Pleas was discontinued, by consent of the parties, in January, 1877.
+The statutory provision in respect to the effect of the stay is that “ when the commencement of an action has been stayed by injunction * * * the time of the continuance of the stay is not a part of the time limited for the commencement of the action.”, (Code of Pro., § 105 ; Code of Civil Pro., § 406.) .
+The injunction did not in terms restrain the plaintiff and his copartner from bringing an action to recover the demand in suit. The prohibition was against “ interfering with or collecting any of the assets or property of his firm.” But we think that the bringing of an action upon the demand in suit would have been a violation of the injunction. Any exercise of control or authority over the assets or property of the firm would have been an interference therewith. (Lansing v. Easton, 7 Paige, 364; Fenner v. Sanborn, 37 Barb., 610.) The decision in McQueen v. Babcock (41 Barb., 337) is not in conflict with these cases, for the reason that the decision was put upon the ground that the bringing of an action of trespass for a conversion of some of the property in controversy was a duty which the law cast upon the party enjoined, and the performance of that duty could not be deemed a violation of the injunction.
+It is contended, however, on behalf of the defendant that the order appointing the receiver vested the legal title to the demand in suit in him, and that his neglect to bring an action to recover such demand bars this action, both as against the receiver and the plaintiff.
+The order under which the receiver was appointed vested in him all the rights and powers of receivers according to law, and the defendants, in the action iix which he was appointed, were ordered to assign and transfer to him, under the direction of said referee, all the assets and property of said firm. No assignment was ever in fact made, unless the order appointing the receiver operated as such. Nor does it appear that any specific authority to bring suits was conferred upon the receiver. If such assignment or authority was necessary and appropriate, the duty of obtaining it rested upon the attorneys for the parties to the suit in which the receiver was appointed, on one side or the other, and not upon the receiver. {Authorities infra.) A receiver appointed in a partnership case, pendente lite, has no powers except such as have been conferred upon him by the order for his appointment. He is what Chancellor W al worth called a common-law receiver, and his duty is merely to protect the fund during the litigation. The order appointing him effects no change in the title to the property {Keeney v. Home Ins. Co., 71 N. Y., 396), nor is he authorized to sue for debts due to the partnership without leave of the court. {Green v. Winter, 1 Johns. Ch. R., 60; In re Merritt, 5 Paige, 130; Merritt v. Lyon, 16 Wend., 405 ; Yeager v. Wallace, 44 Penn. St., 294; Estwick v. Conningsby, 1 Vern., 118; Dacie v. John, McClel., 575; Dan. Ch. Pr. [4th Am. ed.], 1749,1750.) In Foster v. Townshend (68 N. Y., 206), where a receiver had been appointed in a suit for a divorce, in aid of an order for the payment of alimony, the Court of Appeals held that “ he could neither bring nor defend actions * * * except by permission and the direct authority of the court by which he was appointed.” That rule is a necessary result of the nature of the functions of the receiver. He is a. mere custodian of the property for the court as one of its officers. His acts are the acts of the court when duly sanctioned, and when not so sanctioned they have no greater effect than the acts of other unauthorized officers or agents. (Cases, supra.) The rule is different respecting receivers in proceedings supplementary to execution, in cases of embarrassed or insolvent corporations, and in respect to receivers whose powers are defined by statute generally. In many cases such receivers are statutory assignees. In the case before us the receiver acquired no title to the demand, and was given no power to sue for the recovery of it, and the plaintiff and his partner were restrained from putting it in suit. Any action upon it was therefore effectually stayed. It follows that the statute of limitations is not a bar to this action.
+The judgment must be reversed and a new trial granted, with costs to abide the event.
+Barnard, P. J., concurred.
+Present — Barnard, P. J., Gilbert and Dykman, JJ.
+Judgment reversed and new trial granted, costs to abide the event.
