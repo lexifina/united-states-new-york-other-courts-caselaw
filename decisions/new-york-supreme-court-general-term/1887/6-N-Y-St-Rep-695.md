@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1887-02-15"
-citations: ["6 N.Y. St. Rep. 695", "6 N.Y. St. Rep. 696"]
+citations: ["6 N.Y. St. Rep. 695"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Theodore H. Vetterlein and Bernand Vetterlein, App’lts, v. Demas Ba
 source_url: "https://static.case.law/ny-st-rep/6/cases/0695-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1984379
-cites_cases: ["22 Wend., 498", "27 How., 155"]
 ---
 
 # Vetterlein v. Barnes
