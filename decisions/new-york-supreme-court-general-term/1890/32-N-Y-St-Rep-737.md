@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-06-19"
+citations: ["32 N.Y. St. Rep. 737"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Webster B. Van Nuys, Resp’t, v. Josiah E. Titsworth, Impl’d, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0737-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040285
+cites_cases: ["13 How. Pr., 23", "53 N. Y., 536"]
+---
+
+# Van Nuys v. Titsworth
+
+## Majority (Dwight, P. J.)
+
+Dwight, P. J.
+Agreements and stipulations made between the parties to a pending action, and relating to its prosecution or discontinuance, are regarded as specially within the supervision and control of the court, and a wide discretion is exercised in relieving parties from such agreements, even though made upon sufficient consideration, if only both parties can be restored to the same condition as when the agreement was made. It is not necessary in such case to show fraud, deceit or mutual • mistake, over-reaching or undue influence; it is sufficient if it appear that either party has inadvertently, unadvisedly or improvidently entered into an agreement which will take the case out of the due and ordinary course of proceeding in the action, and in so doing may work to his prejudice. Becker v. Lamont, 13 How. Pr., 23, and the cases and authorities cited: Barry v. The Mutual Life Ins. Co., 53 N. Y., 536.
+In the case first cited, Judge Mason' quotes a remark of Lord Lyndhurst, in Furnival v. Bogle, 4 Russell, 149, when relieving a party from an important order entered by consent. The lord chancellor said: “ I am the more disposed to come to this conclusion because, though the plaintiff will lose the benefit of the stipulation, he will not lose any advantage which the merits of the casé entitle him to.” The remark, though apologetic in form, indicates the principle upon which this power of the court is exercised, viz.: that the court to which the rights of parties have once been submitted will exercise a supervision of all proceedings in the action, even though taken by consent, and will control such proceedings with a view to a final disposition of the case according to its merits.
+This action was for the settlement of a partnership account, and was brought by the plaintiff as assignee of the interest of his brother in the copartnership, which had been transferred to the former in consideration of an indebtedness due to him from the latter. The proceedings in the action had been protracted; the plaintiff was an invalid, and his health was injuriously affected by the trouble and anxiety incident to the trial, and he seems to have been chiefly induced to enter into the agreement for a compromise of his claim and a settlement of the action by bis desire to escape further litigation. He entered into the agreement against the advice of his attorney and the counsel who had assisted in the trial, and the agreement was drawn by an attorney not engaged in the case. Developments which occurred soon after the execution of the agreement tended to show that instead of buying his peace by the concessions he had made, he had thereby involved himself in future litigation, likely to be even more serious and protracted. It was then, for the first time, that he discovered the. fact that there were large judgments against his brother and assignor, and that, immediately upon the fact of the settlement of this action becoming known, the owner of two of those judgments, amounting to some $12,000, had commenced proceedings supplementary to execution thereon. Here was an indication of an intention on the part of creditors to inquire into the circumstances of the transfer by the debtor of his interest in the co-partnership and the disposition of that interest, with a view, possibly, of charging the assignee with the value of that interest, over and above the amount of the debt in consideration of which the transfer was made. It was upon learning of these facts and of his liability to be made defendant in another litigation, or series of litigations, even more onerous than that which he had sought to escape, that he appealed to the court to be relieved from the agreement and stipulation in this action.
+In view of the principles bijefly stated above, we think it was not in excess of the discretion of the court at special term to make the order appealed from, which restores all parties to the status quo, and in no way prejudices the merits of the action.
+We think the order should be affirmed, without costs of this appeal to either party.
+Macombeb, J., concurs; Coblett, J., not voting.
+Order appealed from affirmed, without costs of this appeal to either party.
