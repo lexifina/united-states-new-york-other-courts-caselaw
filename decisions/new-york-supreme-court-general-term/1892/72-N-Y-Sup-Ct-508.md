@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-10"
+citations: ["72 N.Y. Sup. Ct. 508"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Macomber and Lewis, JJ., concurred."]
+parties: ["THE WHEELER & WILSON MANUFACTURING COMPANY, Plaintiff, v. WILLIAM E. KEELER, as Sheriff of Cayuga County, and Another, Defendants."]
+source_url: "https://static.case.law/ny-sup-ct/72/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4656775
+cites_cases: ["1 Hill, 311", "127 N. Y., 329", "18 N. Y., 588", "27 N. Y. St. Rep., 637"]
+---
+
+# Wheeler & Wilson Manufacturing Co. v. Keeler
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+The action was replevin for a lot of sewing machines, and the sole question was of the plaintiff’s title to the property at the time of the commencement of the action.
+The property had been sold to the Rheubottom Teall Manufacturing Company, of Weedsport, several months before under an agreement that the vendee should give “ a good eleven months’ note” for the price when the bill was rendered, and without waiting for the machines to be set up. The note was not given, although a bill was rendered, and the machines were afterwards shipped and set up.
+These facts present the first ground of the plaintiffs claim to retake the property, viz.: That the sale was conditional; and that the condition not being performed, title to the property did not pass. The contention is unavailing, because the condition of sale was waived by an unconditional delivery of the property. (Smith v. Lynes, 1 Seld., 41.) No demand was made for the note when the bill was rendered, nor when the property was delivered, and the delivery was without condition. The plaintiff seeks to account for its failure to insist upon the condition of the sale on the theory of a misunderstanding between two of its own agents. But the fact of an unqualified delivery of the property remains, and the effect is the same, whatever the cause, so long as it was not one for which the vendee was responsible.
+The second alleged ground of avoidance of the sale is, that it was procured by fraud, viz.: That the vendee was in failing circumstances at the time, and that he bought the property with the intention not to pay for it; and this was the question chiefly litigated on the trial.
+We think the learned court at the circuit was correct in holding that there was not evidence to warrant the submission of that question to the jury. It is well settled that the mere fact of insolvency, though well known to the vendee, and not disclosed to the vendor, does not afford ground for imputing fraud to the former; there must have been the intent when the property was purchased, not to pay for it. (Coffin v. Hollister, 27 N. Y. St. Rep., 637; Hotchhin v. Bank, 127 N. Y., 329, and the cases cited.)
+The vendee of the property in this case was probably insolvent at the time of the purchase; at least, if that had been the controlling question, it should have been submitted to the jury; but we think there was clearly not evidence which would have warranted the finding that the officers of, the company regarded its condition as hopeless, or did not expect that it would continue in business and meet its current liabilities as they should fall due. The evidence indicates that the business was loosely conducted and the books imperfectly kept, but we think it fails to show that the officers were aware of the actual insolvency of the company at the time of the purchase of the sewing machines, still less that they contemplated a failure before the machines should be paid for.
+It only remains to consider two exceptions taken by the plaintiff to rulings of the court on questions of evidence. The plaintiff offered in evidence a written statement signed and verified by the president of the debtor company in July, 1890, about a month before the purchase of the machines of the plaintiff, addressed and delivered to a banking firm in Weedsport, which, on its face, purported to have been made for the purpose of obtaining, at some time, additional credit for the company. There was also the offer to show that the statement contained representations .bearing upon the credit of the company which were not true at the time it was made. The evidence was excluded. Its admissibility is contended for under the rule which admits the evidence of other frauds of the same party at about the same time, of a character similar to that under investigation.
+We think the ruling was entirely correct in this case, for the reason that in -the case of the statement offered in evidence no fraud is shown to have been committed or attempted. Assuming that the statement might have been shown to have been in some respects untrue, there is no evidence nor offer to show that any increase or renewal. of credit was given or applied for on the strength of it. This leaves the case quite outside the lines of the rule as stated by any of the authorities. (Cary v. Hotailing, 1 Hill, 311; Hall v. Naylor, 18 N. Y., 588; Miller v. Barber, 66 id., 558.) The rule which admits evidence of one fraud to prove another is at best so exceptional in its character that, although well established, it will not be extended beyond the limits already assigned to it. The case of Hall v. Naylor (supra), which is cited by counsel for the plaintiff, turns upon the point here made, and the evidence was rejected because it did not appear that in the case to which the evidence related a fraud was actually accomplished.
+The other exception relates to an offer of the plaintiff to give evidence of the total assets of the debtor company at the time of the failure in December, 1890. The ruling seems to us to have been correct on the ground that the time was too remote from the date of the contract assailed, without the accompanying offer to trace back the transactions of the company so as to show the amount of its assets at the date of the sale. We think, too, that the ruling-may be sustained on the ground that the matter of the offer was already in proof by evidence as definite as any which, so far as appears, could have been produced under the offer.
+We find no error committed in the admission or rejection of evidence, and we are clearly of the opinion that, upon the evidence as received, a case was not made which would have justified a finding that the machines in question were purchased with the intent to-cheat the plaintiff out of the price.
+The motion for a new trial should be denied.
+Macomber and Lewis, JJ., concurred.
+Motion for a new trial denied, with costs, and judgment ordered for the defendants on the nonsuit.
