@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1884-05"
+citations: ["40 N.Y. Sup. Ct. 205"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin, J., concurred; Barker, J., not participating in the-decision."]
+parties: ["JANE B. WHEELER, Respondent, v. HENRY S. DUNNING and Others, Appellants, and the SOUTHERN CENTRAL RAILROAD COMPANY, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/40/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1926224
+---
+
+# Wheeler v. Dunning
+
+## Majority (Smith, P. J,:)
+
+Smith, P. J,:
+In March, 1864, Henry S. Dunning and wife conveyed to the defendant, the Cayuga County Agricultural and Horticultural Society^ certain premises by deed, containing the following conditions : First. That the grantee should not, at any time, sell any separate part of said land. Second. That the grantee should not sell said land without first having offered the same for sale to the grantor, his heirs or assigns, at the same price that any other person or persons might be willing to pay for the whole; and, third. That the grantee should make and maintain, and at all times keep in good order, a good and sufficient fence around the whole of said premises. In January, 1868, the grantee executed to the grantor a mortgage on the whole of said premises to secure the payment oí the sum of $1,100 in one year, with semi-annual interest.' The mortgage contained a power of sale of the entire premises, and did not contain any of the conditions expressed in said deed. The mortgage was transferred by mesne assignments from Dunning to the plaintiff, and this action is brought to foreclose the same, default having been made in the condition thereof, whereby the power of sale contained therein has become operative. The Southern Central Railroad Company is made a party defendant by reason of the' fact th'at it occupies with its track a portion of said premises. It occupies under a lease or license granted to it by the agricultural society, after the portion so occupied had been condemned to the use of the said railroad company in proceedings ’ instituted for that purpose by the railroad company, in which the grantor, Dunning, participated so far as to petition for a change of route to the one now occupied by the company. The grantor, Dunning, died in 1811, leaving a will, and the defendants, Dunning, are his heirs and devisees.
+The referee held that the action of the grantor in respect to the proceedings which resulted in the acquisition by the railroad company of a portion of said premises for the uses of its road, excused the performance by the grantee of the first and third conditions expressed in said deed, and by way of enforcing the second condition, he directed that upon a sale of the premises under the decree ordered by him herein, an opportunity be offered to the heirs of said grantor to take any pai-t of the premises put up for sale, at the highest bid made for the same.
+The conditions in the deed are conditions subsequent. A condition of that nature may be excused when its performance becomes impossible by the act of the party for whose benefit it is created, or it may be waived by the one who has a right to enforce it. In the former case, the condition is discharged altogether and the estate made absolute; in the latter, the estate is relieved from the consequence of a breach thereof. (2 Wash, on Real Prop., 15, § 18.)
+In the present case, if the grantor, in his lifetime, had- foreclosed the mortgage, he, or any other person purchasing the premises at the foreclosure sale, would have taken the entire estate freed from the conditions in the deed. If the grantor had purchased, he would have been restored to his original estate and the conditions would have been merged; if any other person had become the purchaser, such person would have been vested with all the title which the mortgagor and mortgagee could convey, to wit, an unconditional fee simple. (Code of Civ. Pro., § 1632.) The result of a foreclosure by an assignee of the grantor and mortgagee, is precisely the same. By the assignment of the mortgage the mortgagee transferred all the rights and equities possessed by him as incidents to the mortgage. In other words, the acceptance by him of the mortgage, and his assignment of the same to a purchaser for value, were a waiver of performance of the conditions expressed in the deed, in case of default in the condition of the mortgage, and the consequent exercise of the power of sale therein contained. Por these reasons we are of the opinion that the appellants have no rights or interests by virtue of the conditions in the deed, superior to the lien of the plaintiff’s mortgage.
+Without expressing an opinion' respecting the grounds taken by the referee, we are of the opinion that his conclusions are right, except in directing that upon the sale under the decree the appellants should be afforded an opportunity to purchase, on paying the highest sum bid, which direction was made upon the assumption that the second condition in the deed is yet in force and is superior to-the lien of the mortgage. But as the respondents, who alone are-prejudiced by that ruling, have not appealed, we are not asked to reverse it.
+The decree is therefore affirmed as it stands, with costs to the-respondents, to be paid by the appellants.
+Hardin, J., concurred; Barker, J., not participating in the-decision.
+So ordered.
