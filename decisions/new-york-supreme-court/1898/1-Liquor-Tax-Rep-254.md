@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court"
 decided: "1898-01-20"
-citations: ["1 Liquor Tax Rep. 254", "1 Liquor Tax Rep. 255"]
+citations: ["1 Liquor Tax Rep. 254"]
 reporter: "liquor-tax-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
