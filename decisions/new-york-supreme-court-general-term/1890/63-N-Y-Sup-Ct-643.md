@@ -1,0 +1,18 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-03"
+citations: ["63 N.Y. Sup. Ct. 643"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wilber J. Smith, Respondent, v. John F. Mosher and others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/63/cases/0643-21.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4594725
+---
+
+# Smith v. Mosher
+
+## Majority
+
+Judgment appealed from affirmed, with costs.
