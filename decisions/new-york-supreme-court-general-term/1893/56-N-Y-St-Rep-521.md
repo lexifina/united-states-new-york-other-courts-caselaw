@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-12-01"
+citations: ["56 N.Y. St. Rep. 521"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Upper Nyack Methodist Episcopal Church, Resp’t, v. John A. Bennett et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/56/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 697922
+---
+
+# Upper Nyack Methodist Episcopal Church v. Bennett
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The plaintiff established a good and valid title to the premises in question. The land 'was conveyed in 1813 by one William Palmer to certain trustees “ to erect a house of worship for the use of the members of the Methodist Episcopal Church in the United States of America.” Subsequently, under a general act for the incorporation of religious societies the plaintiff was incorporated by certificate duly filed, and, in 1859, the sole surviving trustee named in the deed conveyed the property to the plaintiff. The church has been used for religious services for many years. The defendants entered upon the property by force, and without permission of the owner, and cut down two beautiful shell bark hickory trees and one cedar. The hickories were proven to be worth $200 each, and the injury to the entire lot by digging up sod and removing fences, including the trees, was proven to have reduced the value of the premises nearly or quite $1,000. The jury found the value of the trees to have been $300, and the injury from the trespass otherwise at fifty dollars. These amounts were not excessive under the evidence. The injury was great. The trees were in their prime, and made the church, with them, “ a picturesque thing,” as described by the defendant Bennit. This picture was destroyed, and the plaintiff is entitled to recover the amount given by the jury as the damages sustained thereby.
+Judgment and order denying new trial affirmed, with costs.
