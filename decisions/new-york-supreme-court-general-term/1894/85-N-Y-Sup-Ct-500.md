@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["85 N.Y. Sup. Ct. 500"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, Haight and Bradley, JJ., concurred."]
+parties: ["Joseph Michaels and Others, Appellants, v. Robert Hain and Another, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4724247
+cites_cases: ["8 N. Y. St. Repr. 343", "87 N. Y. 568"]
+---
+
+# Michaels v. Hain
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+The sole question on this appeal is of tlie privilege of the defendant Myers' from the service of process at the time the summons in this action was served upon him.
+He was a resident of the State of Ohio, and came within this State to attend the taking of depositions, by commission, in an action pending in'the State of Ohio, to which he was not a party, but in the event of which he claimed to have an interest. His connection with the case grew out of facts substantially as follows: His brother, George W. Myers, who was engaged in the retail clothing business in Circleville, Ohio, had given him a chattel mortgage on his stock of goods to secure an alleged indebtedness and contingent liability to him, and later executed a general assignment to one Curtain. Thereupon, unpreferred and unsecured creditors brought replevin in the courts of Ohio, against the assignee, for portions of the stock of goods. It was in one of these actions that a commission was issued out of an Ohio court to take the testimony of witnesses at Rochester, in this State. The commission seems to have been what is denominated, under our practice, an open commission, and Curtain, the assignee, came to Rochester to attend the taking of the testimony. According to the affidavits of Curtain and of Daniel Myers, the latter accompanied him in order to be present at the examination “ in his own interest, * * * and, also, at the request of affiant, who believed that his knowledge of his brother’s business would be valuable in the cross-examination of witnesses.” It was while the defendant Myers was at Rochester on the business thus described that he was served with the summons and complaint in this action, which was brought on an account of long standing for goods sold and delivered by the plaintiffs to the defendants as co-partners. Jurisdiction being thus apparently acquired of the defendants, and no appearance being made in their behalf, judgment was in due time entered against them by default. That judgment was vacated and the service of the summons was set aside by the order from which this appeal is taken. We. think the order was erroneously made and that the motion should have been denied.
+The rule of privilege here invoked, viz., that which exémpts from service of ordinary civil process certain persons when in attendance upon certain legal proceedings, was until recently, in this State, confined to persons so attending as witnesses alone. (See Tribune Association v. Sleeman, 8 N. Y. St. Repr. 343, and the authorities there cited.) The case of Matthews v. Tufts (87 N. Y. 568) is believed to be the first reported case in this State in which the privilege was extended to suitors, especially as among the authorities cited in that case no precedent in this State is referred to. This statement is not intended to derrogate from the force of the rule as now recognized and applied, but only to suggest hesitation in further extension of the privilege. IJp to this time we think it has not been extended beyond the real parties in interest (whether nominal or not) to the action or proceeding attended upon, and we are unable to see how the defendant Myers comes within that definition. He was a chattel mortgagee prior to the general assignment, and there is nothing in the moving affidavits to show or suggest that his rights as such could be affected-by the judgment in an action by third persons against the assignee. He seems to have been altogether a volunteer in his attendance at Rochester. It may have suited his purposes to obtain early information of the case which the vendors of the goods upon which he claimed a lien could make out against his mortgagor, and his knowledge of the latter’s business may have enabled him to render valuable service to the assignee in his cross-examination of the witnesses produced, but he was in no sense a. party to the action, either nominal or real, nor bound by the judgment to he rendered therein. To grant to him, under these circumstances, the privilege of exemption from service of civil process would, we think, be an ’unwarrantable extension of the rule which was, in this State, so lately confined to witnesses whose attendance was compelled by the mandate of the court.
+The order appealed from should ho reversed and the motion denied, hut without prejudice to a motion by the defendants to open the default and for leave to come in and defend the action.
+Lewis, Haight and Bradley, JJ., concurred.
+Order appealed from reversed, with ten dollars costs and disbursements, and motion denied, with ten dollars costs, but without prejudice to a motion by the defendants to open tlie default and for leave to answer.
