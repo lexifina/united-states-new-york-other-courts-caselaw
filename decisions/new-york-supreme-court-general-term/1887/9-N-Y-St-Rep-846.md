@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1887-06-18"
-citations: ["9 N.Y. St. Rep. 846", "9 N.Y. St. Rep. 847"]
+citations: ["9 N.Y. St. Rep. 846"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
