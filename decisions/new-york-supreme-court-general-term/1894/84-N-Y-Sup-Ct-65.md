@@ -1,0 +1,49 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03"
+citations: ["84 N.Y. Sup. Ct. 65"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Haight and Bradley, JJ., concurred."]
+parties: ["William H. Meaker, as Executor, etc., of Samuel Stokes, Deceased, Appellant, v. Nancy A. Fiero, Impleaded, etc., Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/84/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1928182
+cites_cases: ["14 N. Y. St. Repr. 705", "62 N. Y. 80", "90 N. Y. 549"]
+---
+
+# Meaker v. Fiero
+
+## Majority (Lewis, J.)
+
+Lewis, J.
+The defendant, Mrs. Fiero, was the owner of real estate in the city of Auburn, on which there was a mortgage.
+Upon the sale of the premises, upon the foreclosure of said mortgage, James IT. Hoskins became the purchaser under an arrangement with Mrs. Fiero that he would bid in the property and would convey it to her upon payment to him of the sum of $800, the amount of his claim upon the property. The testator, Stokes, was at the time the owner and holder of a bond and mortgage made by Hoskins for the sum of $2,500, not at that time due. Stokes was desirous that Hoskins should make a payment upon his bond and mortgage of $1,500.
+Hoskins informed Stokes of his relations with the Fiero property, and agreed that if Mrs. Fiero would consent so to do, that he would convey to her the Auburn premises and take her bond and a mortgage running to Stokes for the sum of $800.
+It was agreed between Hoskins and Stokes, that if. Mrs. Fiero consented so to do, Stokes should receive the bond and mortgage from Mrs. Fiero with $700 in money to be paid by Hoskins as a payment of $1,500 upon his said $2,500 bond and mortgage.
+Hoskins thereupon conveyed the premises to Mrs. Fiero; she executed the bond and mortgage to Stokes, and Mrs. Fiero, Stokes and Hoskins met at Mr. Hoskins’ office.
+Hoskins was called as a witness by Mrs. Fiero on the trial and testified as follows as to what occurred at that interview: “ I went over to the bank and got seven hundred dollars; laid it with the mortgage and bond, Exhibits 1 and 2, on my desk; also the deed. I passed the bond and mortgage and the money towards Stokes. He shook his head and said ‘No.’ I handed the deed to Mrs. Fiero and she said: ‘No; I want to know something about that present.’ I said: ‘ Mrs. Fiero, Stokes wants a bonus on this mortgage.’ I so called it; he called it a present.
+“ Mrs. Fiero got up and came over towards him and said: ‘ What is it, Mr. Stokes ? ’ He replied: ‘ I am always in the habit of taking a present when I take a mortgage. I want one now.’ She said: ‘ How much do you want, Mr. Stokes ? ’ and he answered ‘ Twenty-five dollars.’ She said: ‘ I have not got twenty-five dollars — all I have in the world is fifteen.’ There was a pause. I says, ‘ Sammy, don’t be a hog. If fifteen dollars is all the woman has got, take it and not be a hog! ’ I was out of patience with him. He then said: ‘ Well, give me the money.’ She then took the money out of her pocket and gave it to him. He then picked up the bond and mortgage and seven hundred dollars. I then wrote the indorsement on the mortgage, ‘Exhibit 3,’ and he signed it then and there and went out of the office.”
+Frederick IT. Kennedy testified that he was present at the interview referred to by the witness Hoskins; that they were talking about the $800 mortgage Mrs. Fiero was giving to Samuel Stokes.
+His account of tlie affair was substantially that related by Mr. Hoskins.
+It is the contention of the appellant that the transaction did not amount to a loan or forbearance of money for the reason that no money in fact passed between the parties:
+We think the transaction, in effect, amounted to an advancement by Stokes to Mrs. Eiero of the sum of $800, for which she gave her bond and mortgage for the payment of that sum with interest.
+Had Stokes handed to Mrs. Eiero $800 in currency, and Mrs. Eiero had handed the money to Hoskins, and Hoskins delivered it to Stokes, and the indorsement had been made as stated, it would be conceded that the defense of usury was established.
+As the law looks not to the form of the transaction but to its substance, was not what occurred in substance and effect the same thing ?
+Mrs. Eiero by the transaction paid her debt to Hoskins, and Hos-kins secured an indorsement upon his indebtedness to Stokes, and Stokes obtained the bond and mortgage of Mrs. Eiero for the $800, with interest, and in addition to the lawful interest demanded and received the fifteen dollars bonus.
+The referee held, and we think correctly, that it amounted to a usurious agreement for the loan and forbearance of money, and that the bond and mortgage were usurious and void. The plaintiff objected to Mr. Hoskins testifying to the transaction between Mr. Stokes and Mrs. Eiero upon the ground that he was interested in the event of the action and was tlie person from, through or under whom the defendant derived her interest or title. The subject-matter of the litigation was the bond and mortgage.
+Hoskins, after they had been accepted by Stokes, had no further interest or concern in them. He had conveyed his interest in the premises to Mrs. Eiero before the bond and mortgage were accepted by Stokes, and had received his pay in full from Mrs. Fiero.
+He certainly had no direct interest in the result of the action.
+It is the contention of the appellant that he, at least, had a contingent or remote interest; that the bond and mortgage of Mrs. Fiero, having by the arrangement with Stokes been indorsed upon the $2,500 mortgage as a payment, that the avoidance of the security because of usury had the effect to revive his indebtedness to Stokes to that amount.
+Mrs. Fiero, in good faith, took title to the premises and paid her debt to Hoskins by her bond and mortgage. Hoskins was not a party to the usurious agreement between Mrs. Fiero and Stokes. He had conveyed to Mrs. Fiero all the interest he had in her land, and because Stokes saw fit to demand usury of Mrs. Fiero, and in consequence is not able to recover his money, Mrs. Fiero’s indebtedness to Hoskins is not thereby revived. If so, he is the only party who is to suffer by an usurious agreement to which he was not a party.
+Had Hoskins been the maker of the $800 bond and mortgage, and they had been avoided because of usury, the rule contended for by the appellant might apply; he would in that case have been a party to the usurious agreement which he was instrumental in having declared void.
+The most that can be claimed is, that Hoskins had a remote or contingent interest; such an interest did not disqualify him. (McGlynn v. Seymour, 14 N. Y. St. Repr. 705-707; Hobart v. Hobart, 62 N. Y. 80; Wallace v. Straus, 113 id. 238; Connelly v. O'Connor, 117 id. 91; Beakes v. Da Cunha, 126 id. 293.)
+Hoskins was not the person through or under whom either of the parties derived their title or interest in the subject-matter of the litigation.
+The bond and mortgage in controversy were given by Mrs. Fiero to Stokes. Hoskins had no direct interest in them.
+The case of Smith v. Cross (90 N. Y. 549), to which we are-referred by appellant’s counsel, does not sustain his contention. The witness, Wilson, in that case had a direct interest.
+He was the maker of the bond and mortgage, and was, at the time they were given, the owner of the premises upon which the mortgage was a lien. After negotiating the bond and mortgage, he conveyed the premises upon which the mortgage was a lien, with a covenant of warranty, to the defendant. He was, therefore, directly interested in defeating the mortgage.
+We find nothing in the plaintiff’s exceptions requiring a reversal of the judgment.
+It should be affirmed, with costs.
+Dwight, P. J., Haight and Bradley, JJ., concurred.
+Judgment appealed from affirmed, with costs.
