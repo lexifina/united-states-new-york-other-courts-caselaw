@@ -1,0 +1,26 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1894-02"
+citations: ["7 Misc. 20"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emil Schalk, Respondent, v. John G. Norris et al., Appellants."]
+source_url: "https://static.case.law/misc/7/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 696835
+cites_cases: ["77 N. Y. 590"]
+---
+
+# Schalk v. Norris
+
+## Majority (Daly, Ch. J.)
+
+Daly, Ch. J.
+This is an appeal by defendants from a judgment in favor of plaintiff, upon the report of a referee, in an action to foreclose a mechanic’s lien. The owner of the premises is the defendant Morris, and his agent, the defendant Sire, made a contract with one Hevesy for cementing the sidewalk and halls of the building for $225. The referee found that Hevesy assigned the contract to the plaintiff, who ■claims to have performed the work and thereafter filed the lien. The chief contention in the case arises upon this assignment, defendants claiming that it was merely an assignment of payment under the contract, and did not give the assignee the right to file a lien, such right being confined to one who does work and furnishes materials. Roberts v. Fowler, 8 E. D. Smith, 632; Mechanics’ Lien Act, 1885, chap. 342, § 1.
+It appears that the plaintiff was to supply the materials with which Hevesy proposed to do his work under the contract, and also the money necessary to complete the job, and that in advance of his furnishing the materials and money it was agreed between them and Sire, the agent of the owner, that when the contract was completed the plaintiff, instead of Hevesy, was to receive the money due under it. Upon this and the further evidence that the plaintiff furnished the materials and supplied money to Hevesy for the labor, the referee was justified in finding that the whole contract was assigned to plaintiff by Hevesy, and that plaintiff, therefore, did the work and furnished the materials for which the lien was filed. There was a conflict between the witnesses as to whether Hevesy paid his own workmen or received money from plaintiff for that purpose; but it was clear from all the ■evidence that Hevesy intended the substitution of plaintiff as contractor, and that this was agreeable to the owner, who consented to such substitution. The effect of the arrangement was to discharge the owner of all obligations to Hevesy under the contract and to transfer such obligations to plaintiff. It was either a new contract or an assignment of the old, and the finding that it was the latter cannot be disturbed.
+The arrangement between the plaintiff and Hevesy was that there should be a division of the profits of the contract. The defendants urge that this constituted a partnership, and that the lion should have been filed by both partners. But the arrangement for a division of profits could not alter the effect of defendant’s agreement, which was to pay the contract price to plaintiff exclusively. He, therefore, had the sole right of action as well as the sole right to the lien.
+Error is claimed in the admission of incompetent evidence, namely, the testimony of one of the witnesses, Besant, that there was an oral arrangement made between Hevesy and plaintiff’s agent for the assignment to plaintiff of the contract. It appears that the plaintiff tried to elicit from the witness competent evidence on this point by asking for the conversation between the parties; but this was objected to by defendants on the untenable ground that the conversation took place in their absence. The question was then asked whether there was an oral arrangement for an assignment, and the defendants objected to the question as assuming facts calling for a conclusion, and that the statements attempted to bind the defendants in their absence. The objection was overruled and defendants excepted. One part of the objection was good, viz., that the question called for a conclusion. It appears, however, from the case that the question was not answered, the witness saying: “ If you will excuse me, will you allow me just to give a statement as the thing happened, because I cannot very well answer that question without I answer something more than what he asked me.” After this the plaintiff’s counsel told the witness to answer the question. No objection was then interposed by defendants, and the witness replied,- “ Yes, there was.” In view of the fact that defendants, by objecting to perfectly competent-testimony from the witness, succeeded in having the only material and proper evidence he could give excluded, it is but fair to hold them to strict practice in taking their objection and exception to the question subsequently put. As it appears that they failed to object when the question was repeated the former exception is of no avail. Where a question is objected to. but is subsequently put and answered without objection, the former objection is waived. Wagner v. Jones, 77 N. Y. 590.
+The defense seems to be wholly without merit, and the judgment should be affirmed, with costs.
+Bison off and Pryor, JJ., concur.
+Judgment affirmed, with costs.
