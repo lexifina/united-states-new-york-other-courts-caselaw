@@ -1,0 +1,20 @@
+---
+court: "New York Court of Chancery"
+decided: "1844-08-06"
+citations: ["11 Paige Ch. 156"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cram vs. Mitchell and others."]
+source_url: "https://static.case.law/paige-ch/11/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11279609
+---
+
+# Cram v. Mitchell
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The bond to stay the proceedings, which has been given in this case, does not appear to have been such a compliance with the provisions of the 116th rule as to make the appeal a stay of proceedings. The rule requires that the vice chancellor shall direct in what amount the penalty of the bond to stay the proceedings shall be. The intention was that the vice chancellor, who made the decree or order appealed from, and who could best judge what sum would be sufficient to secure the amount of the debt or damages which would probably be recovered in the suit, should decide the question- as to the penalty of the bond. Where the interlocutory order or decree appealed from, therefore, is made by the assistant vice chancellor, it appears to be proper that the order directing the amount of the penalty of the bond should be made by him.
+In this case, however, the assistant vice chancellor has neither made an order, nor given any other direction, as to the amount of the penalty of the bond to be given to stay the proceedings. It is true he is the officer who certifies to his approval of the form and manner of execution of the bond, and of the sufficiency of the sureties therein as shown by the affidavits of justification. But he does not certify that the penalty of the bond is in the amount which had been previously fixed and directed by him. Indeed, if the rents and profits of the leasehold property, beyond what is necessary to keep down the interest on the mortgages, are as stated in the bill, the penalty in the bond is wholly insuf-ificient; independent of the value of the-assigned property which the other defendants have received. The. bond not being given in compiiance with the rule, the respondent must be permitted •to -proceed upon the decree appealed from, unless further security is-given. The .appellant's solicitor, however, appears to have .acted upon the supposition that the approval of the bond as to its form and execution, and as to the sufficiency of the sureties named therein, was tantamount to an order directing and declaring the amount of the penalty of the bond which should be given to stay the proceedings. It is proper, therefore, that the appellants should be permitted to stay the proceedings upon terms, until the decision of the case upon the appeal. The order must direct that, in case thé appellants shall, within twenty days, file with the assistant register a bond to the complainant, in a penalty of at least double the amount due upon the complainant's two judgments, as stated in the bill, conditioned that no waste shall be committed upon the leasehold premises sold- to Nones, as mentioned in the pleadings in .this suit, and that the appellants will pay and satisfy whatever sums they or either of them may finally be decreed to pay in this suit if their appeal shall be dismissed, or the decree appealed from shall be affirmed, that all proceedings upon the decree appealed from be stayed, until such appeal is finally disposed of; such '-bond to be approved of by the vice chancellor or the assistant vice chancellor of the first circuit. The costs of the respondent upon this application must be paid by the appellants; and they are fixed at $15. After the expiration of the twenty days, if the bond is not given and the costs paid, the complainant is to be permitted to proceed upon the decree; but during the twenty days all proceedings upon the decree appealed from must be stayed, in the same manner as if a valid bond to stay the proceedings had been filed in conformity with the provisions of the 116th rule.
