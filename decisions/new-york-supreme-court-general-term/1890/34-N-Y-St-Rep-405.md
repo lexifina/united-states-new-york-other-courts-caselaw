@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1890-11-28"
-citations: ["34 N.Y. St. Rep. 405", "34 N.Y. St. Rep. 291"]
+citations: ["34 N.Y. St. Rep. 405"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["The Round Lake Association, App’lt, v. Bradford D. Kellogg, Resp’
 source_url: "https://static.case.law/ny-st-rep/34/cases/0405-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2047068
-cites_cases: ["128 U. S., 590", "19 Hun, 165", "19 N. Y., 76", "50 Hun, 489", "72 N. Y., 174", "79 N. Y., 524", "97 N. Y., 24"]
+cites_cases: ["128 U. S., 590", "79 N. Y., 524", "97 N. Y., 24"]
 ---
 
 # Round Lake Ass'n v. Kellogg
