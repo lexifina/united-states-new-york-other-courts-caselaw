@@ -1,0 +1,36 @@
+---
+court: "New York Superior Court"
+decided: "1860-04-18"
+citations: ["6 Bosw. 668", "19 N.Y. Super. Ct. 668"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mayer Eisemann, Plaintiff, v. Siskint Swan and Joseph Swan, Defendants."]
+source_url: "https://static.case.law/ny-super-ct/19/cases/0668-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1321939
+cites_cases: ["1 Denio, 501", "5 Bosw., 344", "8 Cow., 409", "8 Cow., 600"]
+---
+
+# Eisemann v. Swan
+
+## Majority (By the Court — Woodruff, J.)
+
+By the Court — Woodruff, J.
+The General Term are constrained to decline pronouncing any judgment upon this verdict. It is imperfect, and does not furnish the facts necessary to warrant any judgment upon the issues raised by the pleadings.
+We think the verdict was taken under an erroneous impression in the minds of the parties respecting the requisites of a special verdict, when that alone appears upon the record in an action for the recovery of money only, or of specific real property.
+In this respect, there is nothing in the Code of Procedure to warrant the idea that the requisites of a special verdict are other or different now than they were before the Code was enacted.
+A general verdict determines the entire issue in favor of the plaintiff or the defendant.
+A special verdict finds all the facts which are requisite to enable the Court to say, upon the pleadings and verdict, which party is by law entitled to judgment, without referring to the evidence. The pleadings and the special verdict together should show, when separated from all else that, appeared on the trial, and as a complete record, that one or the other party is, as mere matter of law, entitled to judgment. For the purpose of determining what judgment shall be given, the Court are therefore not warranted in examining the evidence given on the trial, and ascertaining what other facts were proved which were denied in the pleadings, however clear and satisfactory the evidence may be. (Jenks v. Hallet, 1 Caines’ R., 60; Williams v. Jackson, 5 J. R., 502. See this subject fully discussed by Jones, Chancellor, in Seward v. Jackson, 8 Cow., 409, et seq.) He says: “ It is of the essence of a special verdict that it should be a finding by the jury of the facts on which the Court is to pronounce the law. * * * The jury is to find the facts in issue between the parties. * * * To the Court it belongs to apply the law to the facts, but the Court has no jurisdiction to decide upon evidence, or to enter into any question of fact that may arise in a cause. This is a cardinal rule in the law of special verdicts, which has always been observed and enforced by courts of law, and ought, in my opinion, never to be relaxed.” (See also Rex v. Aire & Calder Navigation, 1 T. R., 666; Bird v. Appleton, 1 East, 111; Hubbard v. Johnstone, 3 Taunt., 209; La Frombois v. Jackson, 8 Cow., 600; Williams v. Williams, 7 Abb. Pr. R., 90.)
+There are no provisions in the Code modifying this rule; on the contrary, the definition of a special verdict is in affirmance of the rule. “A special verdict is that by which the jury find the facts only, leaving the judgment to the Court.” (Code, § 260.) By the plainest implication, this imports that the special verdict must contain all the facts which are in issue by the pleadings, the determination of which is necessary to enable the Court to give judgment, and it clearly excludes the idea that the Court can look into the evidence itself to ascertain the facts, or any of them.
+In the case before us, the answer denies that the defendants took and carried away the plaintiff’s goods. The jury have not found that they did so. A conversion is alleged in the complaint, and denied in the answer; there is no finding on the subject.
+The answer alleges the issuing of an attachment against the property of Solomon Meyer. This allegation is in issue by the Code of Procedure, and there is no finding on the subject. The answer avers that the property taken by virtue of the attachment was not the property of the plaintiff, but was the property of Solomon Meyer. The finding of the jury does not dispose of the issue upon that allegation.
+In short, it does not appear, by the pleadings and verdict, that the defendants have been guilty of any wrong, nor that the plaintiff has established any right.
+The Code permits a j ury, in actions “ for the recovery of money only, or specific real property,” to render a general or special verdict, in their discretion. If they find a general verdict, that, of course, disposes of all the material issues. If they find a special verdict, they must state all the facts which are material to enable the Court to say, upon the pleadings and verdict only, to which of the parties judgment should be awarded.
+“In all other cases the Court may direct a special verdict in writing upon all or any of the issues.” This enables the Court, in cases in equity, to submit those questions to the jury, and those only, upon which the aid of a jury is desired, and to determine for itself the other issues. This case is not embraced in that provision.
+But, “in all cases, the Court may instruct the jury, if they render a general verdict, to find upon particular questions of fact, to be stated in writing, and may direct a written finding thereon.” (Code, § 261.) When this is done, it is obvious that the general verdict disposes of all disputed questions of fact: they are to be deemed found in favor of the party who obtains the verdict; and then, if the facts specially found are not inconsistent therewith, the party has judgment. So that the Court have a finding upon all the facts in dispute.
+Probably, in this case, it was the intention to take a verdict under this last provision; but the omission to take a general verdict renders it impossible to say how any of the issues, not covered by the specific questions answered, are to be disposed of.
+We could, it is true, if it were permitted by the rules governing the subject, look into the evidence. We could discover what questions appear, by the Case, to have been contested on the trial; and we could say, if all the evidence given on the trial is contained in the printed Case, how, in our judgment, the jury ought to have found upon the issues. But we are not at liberty to do this, and then make our findings of fact the basis of a judgment: and the reasons have already been stated.
+Mor does the reservation or stipulation contained in the case enable us to do so. That only authorizes us to render judgment according to the law and “ the facts above found.” The facts found are not sufficient to warrant any judgment. They do not determine all the issues of fact raised by the pleadings.
+Under these circumstances, we see no alternative but to order a new trial. It is just to our associate, before whom the cause was tried, to say that he informs us that the Case has been made and settled by the parties without his revision or approval; and that it is, in many particulars, an erroneous statement of what occurred at the trial.
+New trial ordered; costs to abide the event.
