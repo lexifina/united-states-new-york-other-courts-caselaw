@@ -1,0 +1,28 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1852-03"
+citations: ["1 E.D. Smith 361"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Sperry v. Daniel Major."]
+source_url: "https://static.case.law/ed-smith/1/cases/0361-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1280492
+cites_cases: ["1 Denio, 593", "15 Wend. 480", "17 Wend. 517", "4 Denio, 592", "5 Hill, 186"]
+---
+
+# Sperry v. Major
+
+## Majority (By the Court. Ingraham, First J.)
+
+By the Court. Ingraham, First J.
+The only question on this appeal, is whether a justice can proceed by a short summons against a defendant as non-resident, without proof of such non-residence to give him jurisdiction.
+We have heretofore had occasion to examine this question, so far as to hold that the justice obtained no jurisdiction by the issue of improper process, although the defendant did not appear and make the objection. Where the action is commenced by long summons, and the process is served within the county, the residence may be presumed. But this applies only to the ordinary process of the court, and where the suit is commenced by short summons or attachment, the same being extraordinary process, must be sustained by the averment of the fact necessary to give jurisdiction. This rule, as relating to pleading, is settled in 4 Comstock, 376, although in that case Judge Bronson dissented from so much of it as even recognized the jurisdiction presumptively, where the action was commenced by long summons.
+To justify the justice in issuing a short summons or warrant, it was necessary that he should have proof of the fact of defendant’s non-residence. Such was necessary when a warrant was the proper process, and such is now necessary in the cases in which a short summons is to be used. If any presumption is to be indulged on the point, it is that the defendant was a resident, and could only be proceeded against by a long summons. Many cases are referred to in the decision above cited, bearing upon this question. In 17 Wend. 517, it was held, that in the justice’s return, the day of service must be stated, so as to give the justice jurisdiction; and for want of it, the judgment was reversed.
+In 5 Hill, 186, the affidavit of non-residence was made before issuing the summons, and it was made returnable in three days; and yet the judgment was reversed, because by the affidavit it appeared the defendant resided out of the state, and should have been proceeded against by warrant. In that case the defendant did not appear on the trial.
+In Whitney v. Shapell, 1 Denio, 593, it is held, that on an application for a warrant under the 33d section of the non-imprisonment act, the same can only be issued on an affidavit stating the facts, to give jurisdiction. The same principle applies to the issuing of a short summons. It is not the usual process of the court. It is not sufficient to give jurisdiction over the person of the defendant, except by proof of such non-residence.
+In the case of Bennett v. Brown, 4 Comstock, 254, the court of appeals held, that a bond was necessary under the 33d and 43d sections of the non-imprisonment act, where the proceeding was by attachment against a non-resident; and the case of Clark v. Luce, 15 Wend. 480, in which it was held that no affidavit was necessary to authorize an attachment, is overruled, and declared not to be law, as well as in Taylor v. Heath, 4 Denio, 592.
+The presumption in this case, if we apply the principle of these decisions, is that the defendant was a resident, and as such, was only to be proceeded against by long summons; without the affidavit, the court had no jurisdiction. It is said that such an error was an error in fact, within the meaning of sec. 366 of the code. I think not. A want of jurisdiction cannot be remedied. The defect is in the commencement of the action. It would be idle to send a case back to a justice for a new trial, when he had no jurisdiction of the defendant. After a second trial, the objection would still remain, that the action was improperly commenced. It is also said that the appearance of the defendant before the justice waived the error. This might be so if he pleaded to the merits, (Lighter v. Haskins, decided in this court, December term, 1851,) but he did not appear. The power of the justice over the case was at an end before the defendant appeared, and he was then informed judgment had been rendered against him. The justice had no power to grant a new trial or to relieve the defendant, and the offer of the justice that he would open the case if he would state to the justice his defence, so that he could see that it was a valid one, was without authority. In a case before us some time since, we followed the decisions of the supreme court in intimating that no affidavit was necessary. In that case, however, the question was not material to the decision of the case, as the defendant appeared and pleaded to the merits. This rule (that by appearing and pleading to the merits, the defendant waives an objection to the jurisdiction of the court) was adopted by us lately in Lighter v. Haskins, December term, 1851.
+The case in 4 Comstock settles the law to be as held by us in the case of Lighter v. Haskins. Here the defendant has not appeared. There is no proof whatever of his non-residence, and unless there is such proof, either upon the trial or before suit, the court cannot presume that the defendant was a non-resident. If any presumption is to be indulged, it is that he was a resident, from the fact that the summons was served upon him here.
+Judgment reversed.
