@@ -1,7 +1,8 @@
 ---
 court: "New York Court of Common Pleas"
 decided: "1857-08"
-citations: ["5 Abb. Pr. 252", "5 Abb. Pr. 244"]
+decided_precision: "month"
+citations: ["5 Abb. Pr. 252"]
 reporter: "abb-pr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["THE MAYOR, &c., OF THE CITY OF NEW YORK a. CONOVER."]
 source_url: "https://static.case.law/abb-pr/5/cases/0252-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4574948
-cites_cases: ["2 Barb. Ch., 101", "4 Sandf., 639", "4 Wend., 600", "7 Johns. Ch., 315"]
+cites_cases: ["2 Barb. Ch., 101", "7 Johns. Ch., 315"]
 ---
 
 # Mayor of New York v. Conover
