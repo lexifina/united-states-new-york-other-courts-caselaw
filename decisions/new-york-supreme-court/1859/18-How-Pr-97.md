@@ -1,0 +1,49 @@
+---
+court: "New York Supreme Court"
+decided: "1859-11"
+citations: ["18 How. Pr. 97"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jacob Sharp agt. The Mayor, &c., of the City of New-York."]
+source_url: "https://static.case.law/how-pr/18/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2208179
+---
+
+# Sharp v. Mayor of New York
+
+## Majority (Ingraham, Justice.)
+
+Ingraham, Justice.
+In this case a j ñdgment was recovered against the defendants for damages, in consequence of a defect of title to certain portions of the slip now used for the Wall street ferry, amounting to $40,958.56.
+The comptroller of the city now moves for an order to open and review the judgment, under the provisions of the statute passed at the last session of the legislature.
+The present motion is a preliminary one, asking for an order of reference, to furnish a statement "and case showing the proceedings before him on the reference in this action.
+‘ The plaintiff and defendants, by their counsel, object to the authority of the comptroller to make this application on these papers.
+This objection involves a construction of the statute under which the application is made. By this statute (Laws of 1859, § 5, p. 1127) it is provided as follows: “ Whenever the comptroller of the said city shall have reason to believe that any „ judgments now of record against the mayor, &c., of Eew-York, or which may hereafter be obtained against them, shall have been obtained by collusion or founded in fraud, he is hereby authorized and required to take all proper and necessary means to open and reverse the same,” &c.
+The first objection taken to this motion is, that the act is unconstitutional, because it contains matters not embraced in its title. The title is, “ An act to enable the supervisors, &c., to raise money by tax.”
+The second section provides for raising money to pay judg-' ments then existing; the third section provides for raising money to pay judgments thereafter to be recovered.
+It was necessary in making such provisions to enable the proper officers of the city to guard against the application of such moneys to the payment of any other judgments than those which, were legally a charge against the city. The mode adopted for that purpose was immaterial. Whether the comptroller or any other officer was authorized to ascertain that such judgments were properly recovered before payment, it was a necessary incident to the previous provisions foi’ their payment, and was intended to confine such payments to judgments fairly recovered against the city.
+.It was nob a different subject, but a provision by which the city authorities, before paying the moneys to be raised by tax, should have the means of ascertaining that the judgments so paid were really due.
+It was no more a violation of the constitutional provision on that subject, to provide for ascertaining before payment that the judgment was a valid judgment, than it was to insert a provision that the moneys so to be raised by tax should not bo expended for any other purposes.
+Both provisions were proper and necessary to confine the payments of the tax to the objects for which the moneys were intended tó be raised. (4 Selden, 241.) It is also objected that, on the papers presented, the comptroller does not show a case entitling him to employ other counsel than the counsel for the corporation.
+The affidavit, on which this motion is founded, is made by the comptroller, and states the recovery of the judgment on the report of the referee; that no consent was given to the reference ; that the corporation counsel has declined to make a case or bill of exceptions, or take any steps to review the decision of the referee; that he believes the claim on which the action was based is unfounded and fraudulent, and that a good defence exists thereto., He further states that the recovery of such judgment requires the action of the comptroller under that statute, &c.
+The right to make this application, and to employ special counsel therefor, depends upon this fact only, viz.: Whether. the comptroller has reason to believe that any such judgment has been obtained by collusion or founded in fraud. What has caused such belief is not required to be stated, nor is it necessary for him to disclose, as a preliminary statement to authorize him to act, what was the operation of his mind in arriving at such a conclusion, nor what acts particularly led him to such a belief. The words used are so indefinite as almost to amount to an authority to the comptroller to act on his own judgment in any case.
+Whether it is necessary for him to show by affidavit that he has come to the conclusion that there was collusion or fraud, is hardly necessary to be decided now. But, considering that the comptroller is a sworn officer of the city; that the statute is a beneficial one, intended to protect the treasury against fraud, and only reaches judgments obtained by collusion or fraud, in my judgment it should be very liberally construed.
+The application of the comptroller under such circumstances, even without an express charge of collusion or fraud, should be considered sufficient evidence, that he has reason to believe that the case on which he makes the motion comes within the provisions of the statute.
+In this case, however, the affidavit of the comptroller shows affirmatively that he has reason to believe that the claim is founded in fraud, because .he says in that affidavit, “ that deponent believes that the claim upon which the action was based is unfounded and fraudulent.”
+Such a statement is amply sufficient to enable him to take the necessary steps to move the court as is provided for in that statute.
+The object of this motion is to compel the referee to make a statement or case of the proceedings before him, and to furnish copies of the pleadings, papers, &c., used in the cause, or to compel the parties to furnish such copies.
+I am not satisfied that such a case could properly be made for such a purpose.
+The statute has provided a way in which the referee can be compelled to give evidence of any matter within his knowledge (if he refuses to do it voluntarily) by compelling him to appear before a judge of the court, or a referee, and submit to an examination under oath.
+For the purpose of a motion, such is the only course which appears to be proper to obtain his testimony, a statement made by him, not under oath, could hardly be proper to be used as evidence. It is not within the ordinary duty of a referee, and-could not be considered as rendered under the oath he took as referee.
+Nor do I think the papers show a case warranting the order asked for against the parties as to copies of the papers. No application appears to have been made to the corporation counsel for such, papers. They are public documents, most, if not all of them, properly belong in the department of which the comptroller is the head, and I cannot suppose that the corporation counsel would for a moment refuse copies of such papers to the comptroller if he applied therefor.
+It is apparent from the correspondence which was read on this motion, that there was,a difference of opinion between these officers as to the precise mode in which the comptroller should proceed, and from an unwillingness on the part of the counsel to allow another officer of the city government to control him in the management of what peculiarly belonged to his department, unless in the matters particularly provided for by law.
+As that point has now been adjudicated by the court, I should be unwilling to believe that officer would refuse an application, on behalf of the comptroller, for such papers, but, on the contrary, as avowed on the motion, that he will furnish to the counsel all such papers on application therefor.
+The plaintiff’s counsel also referred to an opinion expressed by the comptroller, in one of his letters addressed to the corporation counsel, in which he stated that he did not know of any facts going to establish collusion or fraud, and urged that as a reason why this motion should be denied. It is sufficient to say, in answer to that objection, that such letter was written in July last.
+What other facts have come to his knowledge since are not known, but when he states under oath, that he believes such claim is unfounded and fraudulent, I am bound to suppose that,' since writing that letter, he has obtained information justifying him in making that allegation. My conclusions in regard to this statement are—
+First. That the statute does not require that the comptroller should show by affidavit the grounds on which his opinion was formed of the existence of collusion or fraud.
+Second. That the act, being one for the benefit of the public and intended to prevent fraud, should be liberally construed.
+Third. That the making of the application by the comptroller, he being a sworn officer of the city, should he considered sufficient evidence in itself, that be has reason to believe that the cause existed which the statute required to warrant his action.
+I have avoided the expression of any opinion on the merits of this motion, because the same was not argued before me, and such opinion more properly belongs to the judge before whom the motion shall be brought on. I think, however, so much of the motion as asked for a postponement of the argument upon the merits until the necessary evidence from the referee can be obtained, should be granted!
+To enable the counsel for the comptroller to obtain such evidence, .the other motion should be directed to he heard on the 15th of bTovember next, at 12 M. Copies of all affidavits and papers to he used thereon, in addition to those already served, to be served on plaintiff's attorney four days prior thereto. Wo costs granted on this motion.
