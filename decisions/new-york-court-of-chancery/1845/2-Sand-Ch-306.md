@@ -1,0 +1,34 @@
+---
+court: "New York Court of Chancery"
+decided: "1845-01-20"
+citations: ["2 Sand. Ch. 306"]
+reporter: "sand-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Mohawk and Hudson Rail Road Company v. Costigan and others. Costigan v. The Mohawk and Hudson R. R. Co."]
+source_url: "https://static.case.law/sand-ch/2/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2164668
+---
+
+# Mohawk & Hudson Rail Road v. Costigan
+
+## Majority (The Assistant Vice-Chancellor.)
+
+The Assistant Vice-Chancellor.
+I have no doubt upon the proofs in this case, that Costigan took the conveyance of the Requa block as the agent and for the benefit of the company; advanced the $6000 paid down, at their request; and executed the bond in question as the surety of the company.
+There are some acts of Costigan which are inconsistent with this view of the case; but they are such as are readily explained by his situation as superintendent of the rail road, having the whole active supervision, and making a large share of the disbursements ; and by the loose manner in which the whole affair was conducted from the outset.
+The payments to him for rent of the depot, were all receipted by him for the Requa estate, or in respect of their contract, and may be referred to the circumstance that he paid the interest to the Requa estate, and was entitled to interest on his advance, in all $1400 per annum; for which purpose the rents were properly applicable.
+Costigan’s account current made out immediately upon his removal from his office of superintendent, and delivered with his tender of the deeds, before he knew or heard of any intended change of the depot; is of itself a strong circumstance to rebut the inference from his adding the dining room without express authority from the board, and his omission previously to render an account of those disbursements, and of the rents received from that source.
+On the other hand, the proof is positive, that he took the deed, advanced the money, and gave the mortgage, as the agent and trustee of the company, and that he was reluctant to have his name thus used. This was after the propositions were made by Freeman to rent a part of the purchase for a tavern, and to enlarge the buildings, and it is therefore manifest that the real cause for his entering into the transaction, was his dependent situation as an officer of the company, holding a desirable post, and removable at pleasure. He could not refuse to do what was thus urged upon him by the directors.
+The propriety of the directors course, or of their reasons for it, is nothing to the purpose. It was not illegal, because the company could not buy the depot, without buying the whole block of ground. The reasons themselves are proved by two of the directors ; and it is not for the company now to say that they were false or frivolous.
+Unless the conveyance was for the company’s benefit, they had no right to use the depot after the 4th of September, 1841. They had assigned the Requa lease and contract to Costigan and he had received the title in fee.
+Yet they occupied the depot without any lease, written or verbal, from that time, as they had done before; and not only that, but they continued to occupy it after they had disznissed Costigan from their employ, and after this controversy had commenced. The agreement which the company took from Costigan in September, 1842, is perfectly consistent with his present allegations. It recites that he purchased the whole premises for their benefit, and in effect, provides for reimbursing what he has paid. Although it is silent as to an interest account and the rents and profits; the recital, together with his position as their superintendent, would require such an account as a matter of course.
+It was contended by the counsel for the rail road company, that the transaction was illegal, if it was understood by the parties, that the corporation was to be the principal debtor, and not the surety in the bond.
+This certainly was not such a resulting trust as is described in the 51st section of the article of the revised statutes relative to uses and trusts; for no consideration has been paid by the corporation.
+In my judgment, it is ziot necessary to decide, whether it was a trust resulting by implication of law, by reason of Costigan’s agency and fiduciary relation towards the company. That question became unimportant to them when they obtained his agreement in September, 1842, and it never was important to him.
+So far as the bond is concerned, it is and always was a question of principal and surety. Taking the deed, mortgage and bond, without extrinsic evidence, it would appear that Costigan was the principal debtor. And it would have been precisely the same, if Costigan had given his note, indorsed by the company, to Mrs. Requa, for the $6000, or had accepted the company’s bill of exchange in her favor, for that sum. In this case, as well as in the cases supposed, the fact that Costigan was surety, and the corporation the principal, could as between him and the corporation, be proved by parol evidence. This is now too familiar to require a reference to authority. If therefore, in this instance, there was any defect in respect of the company’s rights, because the statute will not recognize such a trust in real estate as that which they attempted; the defect did not reach Costigan’s right to recover his money advanced and to charge them as the principal debtor, if compelled to pay any thing on the bond which he signed with them. There is no statute which forbids the proof by parol of demands for money lent or money paid.
+There must be a decree declaring the rights of the parties accordingly, and dismissing the original bill with costs, including the costs in the suit at law brought by the register on the bond. The court will retain the cross suit to adjust the accounts between the parties, for which purpose there must be a reference to a master.
+Costigan is to be charged with his receipts in respect of the premises, and credited with his disbursements, including the money which he originally advanced. Interest is to be computed, on both sides of the account; and the company is to pay to him the balance found due by the master, with the costs of the cross suit.
+• The receiver will pass his accounts, and will thereupon deliver the possession of the mortgaged premises, to the company.
+The rail road company appealed from this decree to the Chancellor, who on the 26th of May, 1845, modified it so far as to direct Costigan to convey the property to the company on being paid the balance found due to him with interest and costs, áud on being indemnified against his bond accompanying the mortgage. In all other respects, the decree was affirmed with costs.
