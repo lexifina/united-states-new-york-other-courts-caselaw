@@ -1,0 +1,20 @@
+---
+court: "New York Court of Chancery"
+decided: "1838-01-22"
+citations: ["7 Paige Ch. 62"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bradt vs. Kirkpatrick and Wilson."]
+source_url: "https://static.case.law/paige-ch/7/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2054825
+---
+
+# Bradt v. Kirkpatrick
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The intention of the court in the adoption of the 189th rule, was to compel the complainant to insert an averment in his bill in such form as to show on the face of the bill itself that the amount in dispute, exclu-, sive of costs, exceeded $100. I perceive however, that by a mere inadvertence in substituting or for and, the language of the rule is not quite as broad as the statutory provision to which it was intended to conform. But as the averment in this bill is in conformity with the requirement of the rule, the defendant can neither demur nor move to dismiss the bill. According to the settled practice of the court as it existed previous to the adopting of this rule, the defendant could not demur or move to dismiss unless it appeared affirmatively upon the face of the bill that the matter in dispute was beneath the jurisdiction of the court of chancery; and not where it was left doubtful whether the value of the matter in controversy was more or less than the sum required. In ordinary bills, filed since the revised statutes, it is not usual to insert an averment as to the value of the matter in controversy; but the defendant, if he wishes to avail himself of the objection to the jurisdiction, must bring the question before the court by the pleadings on his part, w)ien the value of the property in dispute does not appear from the bill itself. Here the averment that the amount due on the judgment is considerably more than the sum required, and that the value of the defendant’s property or assets is $100 or more, leaves it doubtful, on the face of the bill, whether it may not exceed that sum ; and thus throws the burthen upon the defendants of denying that fact. The more proper form of inserting the averment in the bill, however, w'ould be to use the language of the statute, “ that the value of the defendant’s equitable interests, &c. exceeds, or is more than $100.” The application to dismiss the complainant’s bill must be denied. But as the defendant’s counsel has probably been misled by the language of the court in the casé of Smets v. Williams, (4 Paige’s Rep. 364,) which was used in a case where the averment was different and without adverting to the particular terms of the 189th rule, I shall not charge the defendants with costs of opposing the motion.
+The bringing of a writ of error after the filing of a creditor’s bill here does not necessarily stay the proceedings in this court, even where the security upon the writ of error is given in such form as to make the sureties liable for the debt and costs in the court below as well as for the costs upon the writ of error. And it does not appear in this case what the form of the security given upon the writ of error was. But as the appointment of a receiver and the further prosecution of this suit will be a useless expense to both parties if the judgment should be reversed, the injunction in this case may be dissolved and further, proceedings stayed here until the decision upon the writ of error, upon the defendant’s giving a bond to the complainant in the penalty of $500, with two sufficient sureties to be approved of by the injunction master, conditioned to pay the amount of the judgment and interest, with the costs of this suit, upon the affirmance of the judgment of the supreme court, or the dismissal of such writ of error. And if such bond is not filed with the register, and notice thereof given to the complainant’s solicitor, within ten days, then a receiver is to be appointed with the usual powers ; and the defendants are to assign and deliver over their property to him on oath, under the direction of the master.
