@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-04-13"
+citations: ["45 N.Y. St. Rep. 61"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Addis E. Perry, Pl’ff, v. Patrick J. Sutley, Def't."]
+source_url: "https://static.case.law/ny-st-rep/45/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2080876
+cites_cases: ["1 Wend., 140", "6 Barb., 83", "9 Hun, 178"]
+---
+
+# Perry v. Sutley
+
+## Majority (Dwight, P. J.)
+
+Dwight, P. J.
+The action was for false imprisonment. The plaintiff was a cheese manufacturer, owning and operating several cheese factories, one of which, known as the Armoth factory in the town of Ganeadea, in Allegany county, he operated by an agent. He had loaned money to one Stone to buy cows with, and had taken a chattel mortgage on the cows for security. Stone delivered his milk at the Armoth factory, and he gave the plaint-, iff, with his mortgage, an order entitling the latter to retain two-thirds of his (Stone's) cheese money until the debt was paid. It seems one Taft had become entitled, by some arrangement with Stone, to the other one-third of Stone’s dividends, and that the milk delivered by Stone was credited at the factory to the plaintiff and Taft in the proportions mentioned. Some time shortly before the 3d of September, 1890, the plaintiff’s manager at the Armoth factory informed the plaintiff that he suspected that Stone’s milk was watered, and the plaintiff informed one Story, a milk inspector, of the suspicion; Story promised him to take a sample of the milk for analysis, and he aid so on the 3d day of September. The analysis tended to show that the milk was watered, and Story reported the result to the plaintiff, who explained to him what connection he had with the milk in question.
+The defendant was an “ assistant dairy commissioner,” and seems to have been engaged at this time, with an attorney, in instituting prosecutions in the vicinity of Caneadea for alleged violations of the cheese factory law. Story communicated to him and his attorney what he knew about the quality of the milk delivered by Stone, and what the plaintiff had explained to him about the ownership of the milk and of his (the plaintiff's) connection with it; and it was upon this information that the defendant instituted the prosecution complained of. He procured Story to sign and verify a deposition, drawn up by his attorney, charging that the plaintiff and Taft had delivered to the cheese factory watered, impure, adulterated and unwholesome milk, and were guilty of a violation of the statute in such case made and provided, and praying that a warrant issue for their arrest.
+With this deposition the plaintiff and his attorney went before a magistrate of the town of Cuba, and procured a warrant to be issued, and placed it in the hands of a constable with particular directions to arrest the plaintiff; although Story, at the time, protested that it would not be necessary to arrest Mr. Perry, but that if he could be notified to come up to Cuba he would explain the matter. The plaintiff was arrested on the warrant thus issued and being brought before the magistrate and making the statement which he had formerly made to Story, the complaint was withdrawn and the plaintiff discharged.
+These are the facts which the uncontradicted evidence, given on the part of the plaintiff, tends to establish. We think it should have been submitted to the jury to say whether there was probable cause for the prosecution instituted by the defendant.
+The rules of law applicable to actions of this character are very simple and familiar. There must be want of probable cause and malice; but if the former is established the latter may be inferred therefrom. Murray v. Long, 1 Wend., 140; Hall v. Suydam, 6 Barb., 83; Wanser v. Wyckoff, 9 Hun, 178. In respect to what constitutes probable cause the rule is well stated by Judge Paige in Hall v. Suydam, supra. He says “ Good faith, merely, is not sufficient to protect the defendant from liability; there must be a reasonable ground of suspicion, supported by circumstances sufficiently strong in themselves to warrant a cautious man in the belief that the plaintiff was guilty of the crime with which he was charged, to make out such a probable cause as will be a defense.”
+These simple rules serve to point out the issues which should have been submitted to the jury in this case.
+The exception to the direction for a nonsuit was well taken and the motion for a new trial must be granted.
+Motion for a new trial granted, with costs to abide the event.
+Macomber and Lewis, JJ., concur.
