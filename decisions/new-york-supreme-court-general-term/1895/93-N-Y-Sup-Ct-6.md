@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-03"
+citations: ["93 N.Y. Sup. Ct. 6"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis and Bradley, JJ., concurred."]
+parties: ["George B. Miller, Respondent, v. The Union Central Life Insurance Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/93/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4776257
+---
+
+# Miller v. Union Central Life Insurance
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+Tbe action was to recover a premium paid by tbe plaintiff on tbe . issuance to bim of a life policy by tbe defendant, on tbe ground snob payment was procured by tbe fraudulent conduct and representations of tbe defendant’s agents. Several specifications of fraud were made by tbe complaint, all but one of wbicb, however, were withheld by tbe court from the consideration of tbe jury. That one was submitted in tbe following language of tbe charge : It is tbe claim of tbe plaintiff that Wright (tbe general agent of defendant) and the doctor associated with bim produced and sent to tbe company a record which purported to be tbe medical examination of tbe plaintiff, wbicb was inaccurate and fraudulent; that in it they bad recorded an answer that was not given by tbe plaintiff, and which was known to these parties as not to have been given bim, wbicb answer, if made, would make tbe policy issued to plaintiff void.”
+The plaintiff was a restaurant keeper and kept a bar in bis restaurant. Wright, the agent who took bis application, was in tbe habit of taking lunch there, and knew very well the business in wbicb be was engaged. lie took the application in tbe restaurant and in plain sight of tbe bar; be afterwards brought in tbe examining physician and introduced him to tbe plaintiff, and tbe medical examination was taken and reduced to writing in a little room separated from the bar only by a lattice work partition. In that examination occurred tbe printed question : “ Are yon engaged in any way in tbe sale or manufacture of alcoholic, malt or vinous liquors % ” and to this question tbe physician wrote tbe answer “ No.”
+In respect to this question and answer, tbe plaintiff testified that neither tbe agent nor tbe medical examiner read that question to bim; that they asked bim if be owned tbe bar and be told them be did; that they asked bim if be ever tended tbe bar and be told them be did once in a while when tbe barkeeper was out. He testified that be did not read tbe examination after it was filled out, nor was it read to bim, but that be signed it, as be was told to do, on tbe statement that it was all right, and ignorant of tbe fact that it contained tbe question and answer above stated. Tbe agent testifies that be was not present at tbe taking of tbe examination; and tbe medical examiner that be read to tbe plaintiff tbe question in dispute and that he answered it in the negative. This made the single issue of fact which was submitted to the jury, and they found thereon in favor of the plaintiff. The court charged the jury that, if the fact was as testified to by the plaintiff, that he informed the agent and medical examiner that he owned and kept the bar, and sometimes attended upon it himself, and the examiner inserted the negative'answer to the question quoted and took the plaintiff’s signature to the examination without reading it to him, then the fraud complained of was established; that there was no room for the theory of mistake, and that the jury might assume it was done for some ulterior purpose. There was no exception to this instruction nor to any portion of the charge.
+In his complaint the plaintiff alleged that when he discovered, after the payment of the first premium on his policy, that he was recorded as having made the false answer to the question concerning his engagement in the liquor traffic, he requested the defendant through its said general agent to waive the provision in his policy which prohibited such occupation on his part, and that the defendant refused so to do. This allegation is supported by the testimony of the plaintiff to the effect that he did make such request, and that the only proposition made to him in response was, that if he would amend his answer in question so as to state that he was the proprietor of the bar, but that he had a bartender, and did not attend to the bar himself, the company would give him the waiver, but that the plaintiff refused to make the answer in that form for the reason that it would still have been a false answer to the question, and, as the court instructed the jury, on this point there was substantially no controversy.
+On the trial the plaintiff produced the policy and offered then and there to cancel and surrender the same.
+This, then, is the case which went to the jury and was determined by a verdict for the plaintiff, and that verdict was, no doubt, sufficiently supported by the evidence.
+It is upon its exception to the denial of its motion for a nonsuit and for the direction of a verdict that the defendant depends for an argument in support of this appeal, and that-upon the ground that upon the facts testified to by the plaintiff the defendant would have had no defense to an action on the policy. This may very well be conceded, but the proposition is not to be entertained that — such being the facts- — -it was the duty of the plaintiff to go on through his lifetime paying the premiums on a policy which, on the face of the paper on which it had been procured by him, was void, and at his death leave to the beneficiary named therein the legacy of a lawsuit without even the benefit of his testimony to prove the fraud which had been perpetrated upon him.
+We have no doubt, upon the facts established by the verdict in this case, that the plaintiff’s-action was well brought and the judgment properly rendered in his favor.
+The judgment and order appealed from should be affirmed.
+Lewis and Bradley, JJ., concurred.
+Judgment and order affirmed.
