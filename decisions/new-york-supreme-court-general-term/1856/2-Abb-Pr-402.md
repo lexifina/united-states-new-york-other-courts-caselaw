@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1856-01"
+decided_precision: "month"
+citations: ["2 Abb. Pr. 402"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WOODBURY a. SACKRIDER."]
+source_url: "https://static.case.law/abb-pr/2/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12164532
+cites_cases: ["1 Den. 367", "17 Wend. 94"]
+---
+
+# Woodbury v. Sackrider
+
+## Majority (Bocees, J.)
+
+Bocees, J.
+This is a demurrer to the complaint. The action is against the drawers and acceptors of two drafts. The complaint alleges the receiving and accepting of the drafts, demand thereof at maturity, their non-payment, and that they were duly protested. It also alleges that the plaintiff is the owner and holder, and that the defendants are justly indebted to him thereon.
+The complaint also states, that the drafts were endorsed by the plaintiff, and that notice of protest was duly given to the endorsers. The plaintiff insists that by a clerical error in drawing the complaint, the word “ endorsers” was inserted by mistake for “drawers.” But under the view hereafter taken of the case, the allegation of notice to the endorsers might be stricken out, and leave the complaint good under the demurrer.
+The grounds of demurrer are two; the first being authorized by subdivision six, and the second by subdivision five of section 144, of the Code.
+It is unnecessary in pleading performance of conditions precedent, to set out the facts showing such performance; but it is enough to state generally that the party duly performed all the conditions on his part to be performed. {Code, § 163). The question in this case is whether the allegation that the drafts were “ duly protested for non-payment" is sufficient to charge the drawers — demand at maturity and non-payment being averred.
+It was held in Coddington v. Davis, (1 Comst. 186), that the woz’d “ protest” in a popular sense, and as used among men of business, includes all the steps necessary to charge an endorser, notwithstanding its strict technical signification is less comprehensive. Words used in a pleading, as in a contract, should be construed according to their popular sense. Section 159 of the Code requires a liberal construction of a pleading, for the purpose of determining its eifect. It would follow, therefore, that in complaining against the drawer of a bill of exchange, to allege that it was “ duly protested at maturity” is sufficient to admit evidence of demand, neglect or refusal to pay, and notice of non-payment. Such allegation fully apprises the adverse party, that every step has been taken necessary to charge the drawer. It is the popular sense of the document. Since the Code, the rule is that where words are employed in a pleading which are capable of different meanings, that is to be taken which will support the plea. (Allen v. Patterson, 3 Selden, 476).
+In my judgment, the first alleged ground of demurrer is not •well taken.
+The second ground of demurrer is, that “ the complaint improperly unites different causes of action.” This objection, though slightly differing in language, is the same allowed by subdivision 5 of section 144. Such objection, however, points to the uniting of causes of action differing in their general character — as actions on contract with actions of tort. (See § 167, Code). The objection urged by the defendants’ counsel, on the argument, is, that the causes of action are not separately stated in the complaint; which objection is supposed to be authorized by the last clause of section 167, following the seventh subdivision thereof. But this objection cannot be urged, as the grounds of demurrer do not embrace it. The grounds of demurrer, as stated, point to the uniting of causes of action belonging to different classes; the objection urged on the argument applies to a case where causes of action of the same class are not separately stated. This view disposes of the case without examining the complaint, to determine whether the causes of action are not in fact separately stated.
+There are some peculiarities about this case, which it is unnecessary to consider, if the above views are correct, but to which it may be well briefly to allude.
+The complaint is admitted to be good as against the acceptors. In this case one of the defendants, Ralph Pomeroy, is both the drawer and acceptor.
+Now, if the complaint is good as to the acceptors, must it not be held good on general joint demurrer by all the defendants? True, Mr. Justice Willard, in Spellman v. Wrider, (5 How. Pr. R., 5), remarked, that where a plaintiff chooses to unite both maker and endorser in the same action, the complaint should be full enough to show the liability of both. But this was entirely obiter — nor was any reference made to section 274 of the Code, which provides that judgment may be given for or against one or more of several defendants; nor to the well settled chancery rule, that a demurrer may be well taken as to one defendant, and be bad as to another. In Richards v. Edick (17 Barb. S. C. R., 260), it was decided, that the complaint to be overthrown by a demurrer must present defects so substantial in their nature, and so fatal in their character, as to authorize the court to say, taking all the facts to be admitted, that they furnish no cause of action whatever.
+Can it be said that the complaint in this case states no cause of action ? On the trial, if the plaintiff should prove all the facts alleged in the complaint, could the complaint be dismissed, even admitting that it contained no cause of action against the drawers ?
+As to the defendant, Ralph Pomeroy, he is both drawer and acceptor. The complaint is good against him as drawer, without alleging protest of the drafts. (Story on Bills, § 35, n., 3d ed.; and cases cited, Ib., § 59, n.) If it was unnecessary to protest the drafts, to render him liable as drawer, was it necessary as to his partners ? Can one partner occupy a position on joint liability to some third person, not common to all ? The notice of protest is to inform the drawer of the dishonor of the draft. When the drawer is also the acceptor, notice accompanies the dishonor, without the usual formalities necessary in case a draft is on some other person. The law merchant in such case does not require any formal notice of protest. It follows therefore that by law Ralph Pomeroy had due notice of demand and non-payment of the drafts counted on in this case. Is not due notice to one of several partners, notice to all ?
+The order over-ruling the demurrer must be affirmed.
