@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-10-23"
+citations: ["33 N.Y. St. Rep. 739", "11 N.Y.S. 305"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David K. Bell et al., as Board of Health of the Town of New Brighton, Resp’ts, v. The City of Rochester, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/33/cases/0739-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2043210
+cites_cases: ["105 N. Y. 46", "105 N. Y., 46", "12 N. E. Rep. 275", "39 Hun, 79"]
+---
+
+# Bell v. City of Rochester
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+The act of the defendant in discharging its sewage coming from Monroe avenue and Nichols park, in the city of Rochester, through ditches, conveying the same,into Thomas creek, which flows through the town of Brighton to Irondequoit bay, is the same nuisance complained of in the case of Gould v. The City of Rochester, 39 Hun, 79, where the supreme court, at special and general terms, denied relief, and in 105 N. Y., 46; 6 N. Y. State Rep., 503, where the court of appeals reversed such determination and decided that the plaintiff had a right of action under chap. 321 of the Laws of 1850, as amended by chap. 351 of the Laws of 1882.
+The case was subsequently tried and relief given to the plaintiffs in that action. On the second appeal, however, to the general term the point was for the first time made that the statutes upon which the plaintiffs had proceeded had been repealed by § 9 of chap. 270 of the Laws of 1885.
+There was no provision in the act of 1885 saving actions'already brought in pursuance of the previous statutes. The plaintiffs apparently acquiesced in such decision and discontinued such action; whereupon the present suit was brought under the act of 1885, and the same has proceeded to judgment in accordance with the principles laid down in the case of Gould v. The City of Rochester, above cited, by the court of appeals.
+"Upon the trial of this action the following facts were established : That large portions of the city of Rochester, to wit, about 210 acres, immediately northwest of the town of Brighton, above the head-waters of Thomas creek, have their natural drainage into such creek; that this part of the city of Rochester is drained by a system of sewers having an outlet near the head of Thomas creek, the outlet being known as the Monroe avenue outlet sewer, which includes Nichols park outlet. From such outlets the defendant, several years ago, opened a drain or ditch leading to a point in Thomas creek, within the limits of the city, through which there were discharged the contents of the sewers into such creek. Prior to the passage of the regulation by the board of health hereinafter adverted to, the city constructed a pipe sewer leading from the mouths of Monroe avenue and Upton park sewers to the boundary line between the city and town, such pipe sewer being laid in the old ditch through which the sewage formerly flowed, since which time all the sewage from these outlet sewers has been discharged immediately onto lands in the town of Brighton and thence into Thomas creek. Such use of Thomas creek is adjudged, upon adequate evidence, to be a nuisance.
+The plaintiffs on the 20th of July, 1888, served upon the defendant a notice, that on the 6th of August next thereafter, at a given hour, the board would consider and act upon the question as to whether such discharge of sewage was a nuisance and detrimental to the public health Upon such hearing, at which the defendant does not appear to have been represented, a resolution was adopted declaring that the discharge of such sewage was a nuisance; • that the removal of the same was necessary for the preservation of the public health; that the same be suppressed and removed, and that a penalty of $100 be imposed upon any person who should thereafter violate the ordinance, with an express determination to prosecute any person or corporation violating such regulation and authorizing the beginning of an action by the board to recover the penalty or suppress and restrain such nuisance. Such resolution was on the 9th day of August, 1888, served upon the defendant. No attention was paid to it, however, and hence the beginning of this action on the 19th day of September following.
+The findings by the learned judge at the trial are not substantially controverted. Such being the case, there is no longer any doubt as to wliat the legal conclusion therefrom is, for the same has been declared by the court of appeals in the former case, where it is held that an action in equity might be maintained to enforce the order so made by the board of health, and to restrain the continuance of the nuisance and that while the board could not go into the city and interfere with its sewers, it could enforce its orders and prevent the discharge of the sewage upon lands of the town where it created a nuisance and that a continuance of the discharge of the sewage after the service of notice of the resolution adopted by the board is a violation of the order for which an action might be maintained.
+It follows, therefore, that the judgment appealed from, having been pronounced under the act of 1885, which contains like provisions considered and passed upon by the court of appeals favorably to the contention of the plaintiffs, must be affirmed.
+Dwight, P. J., and Corlett, J., concur.
