@@ -1,7 +1,8 @@
 ---
 court: "New York Court of Oyer and Terminer"
 decided: "1888-02"
-citations: ["6 N.Y. Crim. 262", "6 N.Y. Crim. 475"]
+decided_precision: "month"
+citations: ["6 N.Y. Crim. 262"]
 reporter: "ny-crim"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["PEOPLE v. SQUIRE."]
 source_url: "https://static.case.law/ny-crim/6/cases/0262-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 799893
-cites_cases: ["102 N. Y. 251", "106 N. Y. 502", "108 U. S. 204", "111 Ind. 378", "113 Ill. 531", "122 Ill. 1", "13 Hun, 265", "16 N. E. Rep. 662", "19 N. E. Rep. 25", "31 N. W. Rep. 188", "32 Fed. Rep. 142", "36 Fed. Rep. 890", "5 N. Y. Crim. Rep. 495", "56 N. Y. 103", "59 Vt. 273", "65 N. Y. 105", "78 N. Y. 514", "83 N. Y. 417"]
+cites_cases: ["102 N. Y. 251", "106 N. Y. 502", "111 Ind. 378", "113 Ill. 531", "16 N. E. Rep. 662", "19 N. E. Rep. 25", "31 N. W. Rep. 188", "32 Fed. Rep. 142", "36 Fed. Rep. 890", "5 N. Y. Crim. Rep. 495", "59 Vt. 273"]
 ---
 
 # People v. Squire
