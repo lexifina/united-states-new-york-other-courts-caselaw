@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1878-10"
+citations: ["22 N.Y. Sup. Ct. 336"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Talcott, P. J., and Smith, J., concurred."]
+parties: ["EUNICE B. LAMBERTON, Appellant, v. JOHN VAN VOORHIS and QUINCY VAN VOORHIS, Impleaded with others, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/22/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1909672
+cites_cases: ["22 N. Y., 567", "24 N. Y., 330", "46 N. Y., 627", "57 N. Y., 311", "58 Barb., 227", "60 Barb., 409"]
+---
+
+# Lamberton v. Van Voorhis
+
+## Majority (Hardin, J.:)
+
+Hardin, J.:
+Assuming that the referee is correct in finding that the altered deed, from John Fleischer of the-premises to Frederica Huelti'nsmidth, did not pass any title from him to her, the judgments held by the respondents would be a general 1-ion upon the legal estate of Fleischer, being prior, in point of time, to the plaintiff’s mortgage, and presumptively a superior charge upon the premises covered by the mortgage. (Chauncey v. Arnold and Wife, 24 N. Y., 330.) But the deed from Frederica Iluoltinsmidth to Mrs. Steitzor was without consideration, as was also the deed to her, and she was not a pur-chaser in good faith for a valuable consideration, and she would not, for that reason, be entitled to hold the title she thus derived, if any, as against the judgments of the respondents. Nor would the facts, which are claimed to effect an estoppel as to Henry Steitzor, avoid the effect of the lien of the judgments. However, when Henry Steitzor, May 4, 1872, joined with his wife in a conveyance to Harriet Butler, he had not been paid the purchase-price in full by John Fleischer. The referee has found that Fleischer was indebted to Steitzor for some $2,000 for unpaid purchase-money of the premises. Such indebteclñess for purchase-price constituted an equitable liéii1 ití favor of Steitzor. When life joined with his wife in a warranty deed of the premises to Mrs. Butler, he transferred such equitable interest to her ; it attached to the premises, and passed under his ébiivéyanee to her. (Arnold v. Patrick, 6 Paige, 310 ; Fisk v. Potter; 2 Keyes, 72 ; Hulett v. Whipple, 58 Barb., 227.)
+When Mis. Butler took the deed from the Steitzórs, she took under it all the title and estate aiid equitable interest,■ which they or either of them had in the premises, including StoitzOr’s' vendor’s lien for unpaid purchase-price of the premises. Steitzor had not, before joining in such deed, been paid, as* the referee' finds'; and he had done nothing to waive the lien upon the premises, and therefore it passed to Mrs. Butler- — his grantee., John Fleischer, took the estate cum omre,- at- least to the extent of the unpaid purchase-money: (2 Story’s Eq., § 1232; White v. Williams, 1 Paige, 502; Fisk v. Potter, 2 Keyes, 72; Hulett v. Whipple, 58 Barb., 227; Stoddard v. Whiting, 46 N. Y., 627.) This équit-able interest passed from Mrs. Butler by her warranty deed to Agnes Darrow, and was covered and carried by her mortgage, which the plaintiff now holds and seeks to enforce against the ■premises.
+To the extent of that unpaid purchase-money the mortgage- of the plaintiff attaches, and is prior in point of time, and higher in equity than the general lien of the judgments recovered against Fleischer, who took the legal title charged with the equitable interest of Steitzor for unpaid purchase-money. The judgments Should, therefore, be subordinated to the plaintiff’s mortgage to' the extent of such unpaid purchase-price. (Cook v. Kraft, 60 Barb., 409; Hallock v. Smith, 3 id., 267; Wood v. Robinson, 22 N. Y., 567.) If the lands should sell for more than-sufficient to satisfy and discharge the equitable interest, represented by such' unpaid purchase-ínóney, the judgments would then conks in for such surplus. (Arnold v. Patrick, supra.)
+It might be held, upon the facts found by the referee, that Steitzor was estopped from questioning the mortgage given upon the premises by Mrs. Darrow subsequent to her taking title under the deed of Steitzor; and .that, as to him, the purchase-money due him was carried by his deed; and that he so intended, if any-question was made by him, and that view of the case would carry to the plaintiff all the equitable interest he had in the premises ¿t the time of docketing the judgment in favor of the bank against Steitzor, as well as Fleischer. (House v. McCormick, 57 N. Y., 311.) But a mere transfer of his equitable interest, would be sufficient to give the plaintiff, under her mortgage, that equity as against the judgment; for when the judgment was docketed in favor of the bank on the 10th of May, 1872, against Steitzor, he had no legal estate that the judgment would become a lien upon. As we have seen, his deed to Mrs. Butler was made on the 4th day of May, 1872.
+These views lead to the conclusion that the referee was in error in holding that the judgments “ were prior and superior to the lien of the plaintiff’s mortgage,” therefore the judgment entered upon his report, holding the plaintiff’s mortgage void as against the judgments, should be reversed and a new trial granted before another referee, with costs to abide the event.
+Talcott, P. J., and Smith, J., concurred.
+Judgment reversed, and new trial ordered before another referee, costs to abide event.
