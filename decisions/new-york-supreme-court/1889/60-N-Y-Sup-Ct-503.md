@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1889-07"
+citations: ["60 N.Y. Sup. Ct. 503"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARL C. STRAKOSCH, Respondent, v. THE PRESS PUBLISHING COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/60/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4581632
+cites_cases: ["26 Hun, 166", "28 Hun, 166"]
+---
+
+# Strakosch v. Press Publishing Co.
+
+## Majority (Brady, J.: Daniels, J.:)
+
+Brady, J.:
+This action is based upon an alleged libel. The defendant avers that the publication was true, and desires the examination of the plaintifUbefore trial in order to frame a proper plea of justification, which must be accurate and full in detail. But no facts and circumstances can be employed except such as were known and believed to be true at the time of the publication (Kinncy v. Roberts & Co., 26 Hun, 166, and cases cited), and as to these there can be no necessity for the examination of the plaintiff, being already known and believed. (Case, supra) This seems to be the rule in this class of actions. The answer may be on information and belief, and may, therefore, embrace all the features of the justification which were known and believed. This disposes of the appeal without considering the plaintiffs affidavit denying the truth of the statements in the libel contained. The law has properly declared that when libelous matter is published of a person, the publisher cannot resort to the evidence of the person maligned before trial for the purpose of •establishing a justification or facts in mitigation of damages. They should be known when the asserted libel was framed and believed, and must be established on the trial to avoid responsibility or to limit it. This rule imposes care; suggests scrupulous investigation and regards and respects the rights of the person assailed.
+The order appealed from should be affirmed, with ten dollars costs •and disbursements.
+Daniels, J.:
+The action is for damages for the publication of a libel. The article alleged to be libelous was published in the New York World, and it related to the conduct and condition of what was called The Clara Louise Kellogg English Opera Company. The order for the examination of the plaintiff was obtained upon the ground that his evidence was necessary to enable the defendant to prepare and serve its answer, in which it was designed to allege the truth of the article relied upon as libelous. To entitle the defendant to obtain the evidence of the plaintiff for this purpose, subdivision 4 of section 872 of the Code of Civil Procedure required that it should be shown, in .support of the application, that his testimony was material and necessary for the party making the defense in the suit. It was stated in the affidavit of the attorney that this examination of the plaintiff was necessary for the framing of a proper answer by way of justification of the article.
+But this was a mistaken view of the position and situation of the defendant. For by the affidavit of the correspondent, on whose information the publication was made, it was shown to be the fact that he had made inquiries of persons connected with the company, and from them had obtained information that the company was in the condition in which it was described and stated to be in the article relied upon as the plaintiff’s ground of action. Upon rumors which reached the correspondent he made investigations, and was informed of the several matters contained in the article leading to the statements as they were set forth in the paper. This correspondent was in the employment of the defendant, and, according to his affidavit,, was in the condition to supply the defendant with all the information that possibly could be required for the framing and presentation of an answer setting forth the truth of the statements contained in the article. And if the defendant shall be able to establish the fact that the statements contained in the published article were true, then that of itself is a legal defense to the action. And it will not be confined to the information obtained before the publication of the article by way of evidence to prove that defense.
+If the further defense is to be added that circumstances existed falling short of a justification of the article, which fairly induced the defendant to believe in the truth of its statements, that must, in a general sense, be limited to the matters which came to the knowledge of the persons in the employment of the defendant at or before-the publication of the article. (Kinney v. Roberts & Co., 26 Hun, 166,170). But the defendant can besubjected to no such restriction in the proof which may be produced to establish the truth of the publication. The affidavits fail to support the fact, without which the order could not be made, that the evidence of the plaintiff was necessary for the defendant before it could properly frame and serve its answer. The order was right, and it should be affirmed, with ten dollars costs and the disbursements.
+Order affirmed, with ten dollars costs and disbursements.
