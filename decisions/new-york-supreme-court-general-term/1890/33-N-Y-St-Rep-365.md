@@ -1,0 +1,54 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-10-23"
+citations: ["33 N.Y. St. Rep. 365"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Proving the Last Will of James Conway, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/33/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2043369
+cites_cases: ["39 N. Y, 153", "6 Hun, 279", "67 N. Y, 416", "91 N. Y., 261", "91 N. Y., 516"]
+---
+
+# In re Proving the Last Will of Conway
+
+## Majority (Corlett,J.)
+
+Corlett,J.
+James Conway, who resided in Wyoming county, died on the 3rd day of April, 1889, leaving a widow and six children, all of full age. Three of the children contested the will upon the ground that it was not properly executed. It came on for a hearing in Warsaw on the 8th of July, 1889, before the surrogate, Hon. Byron Healy. After hearing the evidence, the surrogate made the folio-wing findings:
+“That on the 14th day of April, 1886, James Conway, Sr., being a resident of the town of Genesee Falls, in the county of Wyoming and state of New York, at said town made and subscribed, at the end thereof, his last will and testament in writing; that said subscription was made by the said James Conway, the testator, in the presence of two attesting witnesses, each of whom signed his name at the end of said will, at the request of the said testator; that the said testator, at the time of making such subscription, declared the instrument so subscribed by him to be his last will and testament; that the said witnesses to said will wrote opposite to their names their respective places of residence; that it appears from the proofs of said will taken that such will was duly executed (although in the form and manner hereinafter stated), and that the testator, at the time of executing the same, understood its contents and was of sound mind and memory and upwards of twenty-one years of age, and was in all respects competent to devise real estate and not under any restraint. At the time the testator so subscribed said will, and when each of said attesting witnesses so signed his name at the end of the will at the request of said testator, and at the time said testator so declared said instrument to be his last will and testament, as aforesaid,and just, before said testator subscribed said will, as aforesaid, the said will was read oyer to said testator, and the testator believed the same read and was substantially as follows, and said will was and is in substance as follows, viz.:
+“ The last will and testament of James Conway, Sr., of the town, of Genesee Falls, county of Wyoming and state of New York.
+“ J, James Conway, aware of the uncertainty of life, do make,, ordain, publish and declare this my last will and testament, in the manner and form following, that is to say:
+“After the payment of my funeral charges, the expenses of administering my estate and my lawful debts, I give, devise and bequeath my property as follows:
+“First I will and bequeath to my wife, Elizabeth Conway, all my real and personal property during her natural life, and at her death to be divided as follows, viz.: To Jeremiah Conway, as the first heir, all that property east of the Erie railway, formerly known as the King property, containing forty-five acres, known as the homestead.
+“ Second. To Patrick Conway, all that tract or parcel of land bounded as follows, viz.: On the east by Erie railway, on the west by public highway, on. the north Henry Bigelow property and Andrew Davis property, on south by W. P. Letchworth property, in all 26 acres, more or less.
+“ Third. To James Conway, Jr., the first homestead, containing twenty-seven acres, more or less. (Carried to bach of will.)
+“ (Continued.) Moreover, all my personal property to be divided equally in three shares between the sons Jeremiah, Patrick and J ames, share and share alike. The wheat on Patrick’s ground to> be divided in three equal shares between them. Moreover, the timber on the property belonging to my son Jeremiah to be divided into three equal shares.
+“To my daughter, Bridget Cundon, now of Dale, Wyoming county, N. Y., I bequeath the sum of twenty dollars ($20.00).
+“To my daughter, Catherine Kennedy, now of Warsaw, Wyoming county, N. Y., the sum of four hundred dollars ($400.00).
+“ The above amounts to be paid by my three sons in equal shares each. Also I provide that the said amount, four hundred and forty dollars, be paid to the above-named parties eighteen months, after the death of myself and wife. ‘ Signature on face of the will.’
+“Likewise I make, constitute and appoint Daniel L. Toland to be executor of my last will and testament, hereby revoking all former wills by me made.
+“In testimony whereof, I have hereunto subscribed my name and affixed my seal the 14th day of April, in the year of our Lord,, one thousand eight hundred and eighty-six.
+“James Conway, [L. S.]
+“The above instrument was subscribed by the said James Conway in our presence, and acknowledged by him to each of us, and he at the same time declared the above instrument so subscribed to be his last will and testament, and we, at his request, have signed our names as witnesses hereto in his presence, and in the presence of each other, and written opposite our names our respective places of residence.
+“ Daniel L. Toland, Portageville, H. Y, Wyoming Co., Ff. Y.
+“John H. Carroll, Town Cenesee Falls, Wyoming, Fí. Y.
+“ In addition to the foregoing, I find the following facts, viz. : That said will was and is written upon one-half sheet of paper of the ordinary size of legal cap paper.
+“ That all of said will, from the beginning of it down to, and including these words in brackets, viz.: 1 (Carried to back of will),' where they occur in said will, as hereinbefore set forth, was written on, and is upon the first or front page and side of said half sheet of paper.
+“ That the word ‘ ( Continued) ’ immediately following in said will these words in brackets ‘ [Carried to back of will],' where they occur in said will, as hereinbefore set forth, down to, and including these words in quotation marks in said will, viz.; 1 Signature on face of the will,’ is written on, and is upon the back side and second page of said half sheet of paper.
+“That all the rest, residue and remainder of said will,including the appointment of the executor, the signature of the witnesses, the attestation clause signed by the witnesses, and the signature •of the witnesses, is written, and is immediately after these words, ‘ Signature on face of the will,’ and was written on, and is upon the first page of said half sheet of paper, and is on the front side of said half sheet.
+“ That after the testator executed and subscribed said will, and after the witnesses signed said will, and the testator published and declared it as aforesaid, the testator died.
+“ From the foregoing, I find that the said will was duly executed in all respects so as to pass real and personal property, and that the same is duly proved and entitled to be admitted to probate as a will valid to pass real and personal property. ”
+There is no substantial controversy as to the findings being warranted by the proofs.
+The appellant’s contention is that the will was not subscribed at the end thereof.
+'Section 40 of article 3 of chap. 6, pt. 2, E. S. (eighth ed.), provides “ First. It shall be subscribed by the testator at the end of the will. * * * Fourth. There shall be at least two attesting witnesses, each of whom shall sign his name as a witness at the end of the will.”
+The learned counsel for the appellant cites in support of his position, Matter of Probate of Will of Hewitt, 91 N. Y., 261. The judge delivering the opinion says at page 264, “ here the signatures of the witnesses are followed by an important provision of the will disposing of property to his brother. They are not written at the end of the will, but manifestly -near the middle thereof, and hence, plainly from an inspection of the will, the statute was not complied with.”
+He also cites Matter of the Will of O'Neil, 91 N. Y., 516, where-the instrument was manifestly not signed at the end of the will.
+An inspection of the will, a copy of which accompanies the appeal papers, shows that it was written on both sides of a half sheet blank. The form of the blank assumes there was room on the-first page to write the whole will, for printed forms for the signatures and attestation appear at the foot of the page, and the other-side of the half sheet before written upon was entirely blank. There is a clause at the end of the written matter on the first page: stating in baackets, “ Carried to back of the will." On the back of the will the word “ Continued ” appears, after which all of the balance of the disposing part of the will was written. Then comes-the signature and attestation.
+It is obvious that the writing on the back part of the half sheet, was because of want of room on the first side, and a mere continuance, and the person drafting the will takes pain in substance so-to state. The signature and attestation clause are where they would and ought to have been if there had been room enough to write the will on the first side. Whereas the will on its face shows that the writing was continued on the other half, then subscribed and witnessed. Ho reason is seen why this is not a signing and subscribing at the end of the will.
+The findings of the learned surrogate are clearly warranted by the testimony. A substantial compliance is all the statute requires. Jackson v. Jackson, 39 N. Y, 153; Tonnele v. Hall, 4 Coms., 140; Hitchcock v. Thompson, 6 Hun, 279; Kelly's Case, 67 N. Y, 416.
+There are numerous other cases to the same effect. The 'authorities cited by the learned counsel for the appellant do not conflict with the above cases.
+The conclusion of the surrogate was right, and the decree must-be affirmed.
+Dwight, P. J., -and Macomber, J., concur.
