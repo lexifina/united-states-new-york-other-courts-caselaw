@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-07-26"
+citations: ["68 N.Y. St. Rep. 835"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edwin S. Piper, Resp’t, v. New York Central and Hudson River Railroad Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/68/cases/0835-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2116270
+cites_cases: ["139 N. Y. 490", "23 St. Rep. 732", "54 St. Rep. 336", "88 N. Y. 22"]
+---
+
+# Piper v. New York Central & Hudson River Railroad
+
+## Majority (Brown, P. J.)
+
+Brown, P. J.
+— This case was before the general term of this department at the December term in 1893 upon an appeal by the plaintiff from a judgment in favor of the defendant entered upon a dismissal of the complaint. The court then decided that the question as to the negligence of both parties was for the jury. We do not think that the case has been materially changed upon the retrial, and we adhere to the decision then made. The learned judge who wrote the opinion upon the former appeal appears to have understood that the plaintiff fell from the rear door of the rear car of the train. The fact that he fell from the vestibule between two cars does not make inapplicable the rule of law then applied, or anything said in the opinion; and, after a careful review of the testimony, we think the case in all its aspects was for the jury.
+At the close of the charge the defendant presented to the court twenty-eight requests, some of which were charged and some refused. The defendant then excepted “ to each of the charges made by the court, at the request of the plaintiff, and to each qualification of those requests, and to each refusal to charge either of the propositions requested by the defendant to be charged.” These exceptions are wholly insufficient to present any question for review. Smedis v. Railroad Co., 88 N. Y. 22 ; Newall v. Bartlett, 114 id. 405 ; 23 St. Rep. 732; Huerzeler v. Central C. T. Railroad Co., 139 N. Y. 490; 54 St. Rep. 336. Other requests were made and exceptions taken to the rulings of the court, but they present no other question than that arising upon the motion to dismiss the complaint, and need not be considered. Hone of the exceptions to the rulings upon evidence are well taken, and the judgment must be affirmed, with costs.
+All concur.
