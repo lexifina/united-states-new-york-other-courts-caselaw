@@ -1,0 +1,24 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1882-06"
+citations: ["1 N.Y. City Ct. Rep. 476"]
+reporter: "ny-city-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BERNARD REILLY, as Sheriff, &c., Respondent, against JAMES A. COLEMAN, Impleaded, &c., Appellant."]
+source_url: "https://static.case.law/ny-city-ct-rep/1/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1101397
+cites_cases: ["41 N. Y. 464", "66 Barb. 272"]
+---
+
+# Reilly v. Coleman
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The important question presented is whether the condition of the bond is broad, enough to cover the indemnity awarded by the judgment of the court below. The obligors' bound themselves to save the sheriff harmless “of and from all harm, let, trouble, damage, liability, costs" counsel fees, expenses, suits, actions, judgments, attachments, fines, special proceedings and executions that shall or may at any time arise . . . for or by reason of the levy, taking and making sale, under or by virtue of such execution, of all or any personal property which he or they shall or may judge to belong to the said judgment debtor. . .”
+The defendant is charged with the knowledge of the prior levy and sale by the giving of the bond. If he desired to avail himself of ignorance of those facts, he should have given affirmative proof to that effect upon the trial.
+In Griffith v. Hardenburg (41 N. Y. 464) the court held in substance, that the condition of the bond covered the prior levy, and a tortious act committed by the sheriff under the defendant’s direction. As to the latter it needed proof of the direction to hold the defendant liable, to indemnify, where the recovery was had solely for the tortious entry. The question is not here involved. The case of Allston v. Conger (66 Barb. 272) seems in point. The bond was there held to apply, although the levy had been made before it was given. The court say : “ It is not to save him harmless from any levy he may thereafter make, but from any levy under the execution described. . . The fact that the levy was made before the bond was given does not affect the question. A previous levy is equally within the condition of the bond.”
+This instrument was given to protect the sheriff' against any judgment which might arise from his making sale under the execution mentioned in it. Though the sale had been made before, the judgment was not recovered until after the bond was given.
+The judgment must be affirmed, with costs.
