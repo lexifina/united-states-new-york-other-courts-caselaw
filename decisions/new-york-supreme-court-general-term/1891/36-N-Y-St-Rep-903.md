@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-02-20"
+citations: ["36 N.Y. St. Rep. 903"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Edwards and Robert D. Sparks, App’lts, v. The City of Watertown, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/36/cases/0903-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050784
+cites_cases: ["14 Hun, 613", "47 Barb., 206"]
+---
+
+# Edwards v. City of Watertown
+
+## Majority (Hardin, P. J.)
+
+Hardin, P. J.
+Whether there was a contract existing between the plaintiff Edwards and the defendant in respect to the matters-referred to in the complaint, was a question of fact There was a great variety of evidence given bearing upon the question; there was a conflict in the evidence; and after looking into the evidence- and bearing in mind the rule laid down by the court in Poe v. Poe, 14 Hun, 613, that “ the findings are not conclusive, but the whole-evidence is open to. examination by the appellate court,” we are-of the opinion that we ought not to disturb the conclusion of fact, reached by the referee. We are not able to say that the findings-are not supported by evidence, nor that they are not in accordance with the strength and weight of the evidence.
+(2) It seems that the common council of the defendant, on the 26th of April, 1882, after the litigation in this case had been quite-extensive, passed a resolution to the effect that its mayor was instructed to settle the claim. It is found as a fact that the resolution “ was without consideration other than that payment pursuant to it would have relieved the defendant from further defense of this action.” While there were some steps being taken to carry out the resolution, among others, an attempt to adjust the costs, it is found as a fact that one of the attorneys stated and declared that “ he would not accept the proposition of the resolution and proceedings mentioned in the 13th finding herein, but go on with the trial of the action, which was accordingly done.” We see nothing in the resolution which should be held to conclusively establish the liability of the defendant. Our attention is called to Calanan v. McClure, 47 Barb., 206, which is to the effect that the “admissions of a party, whether of law or of fact, which have been acted upon by another, are conclusive against the party making them, as between him and the person whose conduct he has influenced. And this, whether the admissions are made in express language to the person himself, or are implied from the open and general conduct of the party.” We see nothing in the case which aids the appellants.
+(3) Defendant offered in evidence an article published in the Morning Dispatch, bearing date September 19, 1874, over the signature of the plaintiff, John Edwards, and it was conceded that the printed matter is a copy of the letters published in the newspaper “ and left there by Edwards for publication.” It was also conceded that Edwards “ did see at time of publication the copy as printed apparently over his signature.” This was objected to as incompetent and immaterial, among other grounds. The objections were overruled and the article was received in evidence, and the article is set out in the sixth finding of fact made by the referee. We think the evidence was properly received as bearing upon the disputed questions of fact arising in the course of the trial.
+Having found no erroneous rulings made by the referee during the progress of the trial, and being of the opinion that his conclu.sion of law, based upon the findings of fact made by him, is correct, we must sustain the judgment entered upon the report of the learned referee.
+Judgment affirmed, with costs.
+Martin and Merwin, JJ., concur.
