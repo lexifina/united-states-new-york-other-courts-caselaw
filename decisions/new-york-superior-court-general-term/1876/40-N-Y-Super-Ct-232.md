@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court General Term"
 decided: "1876-01-03"
-citations: ["8 Jones & S. 232", "40 N.Y. Super. Ct. 232", "8 Jones & S. 300", "40 N.Y. Super. Ct. 300"]
+citations: ["8 Jones & S. 232", "40 N.Y. Super. Ct. 232"]
 reporter: "ny-super-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["THE MAYOR, ALDERMEN, AND COMMONALTY OF THE CITY OF NEW YORK, Plaintif
 source_url: "https://static.case.law/ny-super-ct/40/cases/0232-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1654851
-cites_cases: ["1 Barb. 227", "1 Duer, 512", "1 Duer, 533", "10 Barb. 223", "12 Abb. 171", "12 Abb. 175", "14 Abb. Pr. 166", "2 Ed. Ch. 188", "23 How. 1", "27 N. Y. 619", "3 Abb. 211", "3 Cow. 754", "32 Barb. 102", "32 How. Pr. 408", "33 Barb. 102", "34 How. 202", "37 Barb. 98", "37 N. Y. 235", "40 N. Y. 235", "40 N. Y. 335", "45 N. Y. 637", "5 Bosw. 710", "5 Duer, 629", "5 Johns. 235", "5 Pick. 487", "54 Barb. 40", "9 How. Pr. 425", "9 Johns. 419", "9 N. Y. 263", "9 Ohio, 197", "9 Serg. & Rawle, 26"]
+cites_cases: ["10 Barb. 223", "27 N. Y. 619", "32 Barb. 102", "33 Barb. 102", "5 Pick. 487", "9 Serg. & Rawle, 26"]
 ---
 
 # Mayor of New York v. New York & Staten Island Ferry Co.
