@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1836-04-05"
+citations: ["6 Paige Ch. 19"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Payne vs. Matthews and others, executors, &c."]
+source_url: "https://static.case.law/paige-ch/6/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2181771
+---
+
+# Payne v. Matthews
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The rule appears to be well settled that in a case of insolvency, the joint creditors of a copartnership are entitled to payment out of the property and effects of the firm, in preference to the separate creditors of the individual copartners ; and that such separate creditors have a corresponding right to a priority in payment out of the individual estate of the copartners, in case of the death or bankruptcy of the latter so that such estate cannot be reached by the partnership creditors by an execution at law. (Wilder v. Keeler, 3 Paige’s Rep. 167. M’Cullock v. Dashiell, 1 Har. & Gill's Rep. 96.) And where the surviving partner is in fact insolvent at the death of his copartner, equity will not allow the creditors of the copartnership, after exhausting all the joint effects of the firm for their sole benefit, to use the name of the surviving copartner, or to obtain a nominal payment of the residue of their joint debts from him, for the purpose of reaching a portion of the property of the deceased partner which, in such a case, belongs to his separate creditors upon this equitable rale.
+I am not aware, however, that this principle of marshalling the effects, as between the joint and separate creditors where both copartners are insolvent, has ever been carried so far, except perhaps under the English bankrupt laws, as to exclude a solvent partner, who has a just claim against his copartner after all the debts of the firm have been paid, or who is obliged to pay the joint creditors out of his own private funds, from coming in for a share of the estate of the deceased partner. This appears to be a case of that kind. The partnership was dissolved previous to the death of Bissel, at which time he owed the firm a large amount; and the complainant, since that time, has been obliged to pay very large sums to the partnership creditors out of his own private funds. The principle adopted by the revised statutes is that equality among creditors is equity, in relation to the distribution of the estate of an insolvent decedent, except in those cases where the creditor had proceeded to judgment against the decedent before his death. (2 R. S. 87, § 27; 112, § 73; 453, § 37, &c.) The fourth class of debts in their order of payment as directed by the statute, includes all recognizances, bonds, sealed instruments, notes, bills, and unliquidated demands and accounts. And the statute is express that no preference shall be given, in the payment of one debt over another debt of this class. The balance due from the decedent to his surviving partner on account of the partnership transactions, after the payment of the partnership debts and the appropriation of all the copartnership effects to equalize the balances between them, was an unliquidated demand of this class against the decedent at the time of his death; and when it shall have been liquidated by the complainant and the personal representatives of Bissel, or by the surrogate, who is competent upon the settlement and distribution of the estate to liquidate an equitable as well as a legal demand, or by a decree of this court upon a reference to a master, the balance that shall be found due to the complainant must be paid to him out of the estate of the decedent, rateably with the other creditors.
+The motion to dissolve the injunction must therefore be denied. But as this was a new question on which it was proper for the personal representatives of Bissel to take the opinion of this court, the costs of both parties should be paid out of the estate of the decedent in their hands, if the claim of the complainant is now liquidated between the parties, without any further expense ; and a decree to that effect may be entered, upon filing the written consent of the parties, stating the balance which is thus ascertained to be due to the complainant.
