@@ -1,0 +1,41 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-03"
+citations: ["75 N.Y. Sup. Ct. 335"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., and Macomber, J., concurred, Haight, J., not .sitting."]
+parties: ["Henry F. Dehn, Respondent, v. Marcus A. Mandeville, Appellant, Impleaded with Another."]
+source_url: "https://static.case.law/ny-sup-ct/75/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2384739
+cites_cases: ["13 How. Pr. 546", "21 Abb. N. C. 214"]
+---
+
+# Dehn v. Mandeville
+
+## Majority (Lewis, J.:)
+
+Lewis, J.:
+The complaint alleged that the defendant imprisoned and kept the plaintiff detained in the common jail of Niagara county for the space of about eighteen days without any reasonable or probable cause whatever, contrary to the laws of the State and against the will of the plaintiff. There is the further allegation that the plaintiff was arrested in the town of Newfane, and transported through the public streets and highways from his residence in said town to the common jail aforesaid. This latter clause does not seem to be important, as the complaint fails to state that the defendants had anything to do with the plaintiff’s arrest and transportation.
+The defendants are charged with detaining the plaintiff in the jail without probable cause, etc. It is not alleged that the defendants acted willfully. The complaint was duly verified.
+The defendant Mandeville served an unverified answer containing simply a general denial of the allegations of the complaint. It was returned because it was not verified, and the defendant thereupon moved for an order requiring the plaintiff’s attorney to receive the-answer unverified. The motion was denied.
+If it was made to appear upon the hearing of the motion, that the appellant would be privileged from testifying as a witness concerning any of the allegations in the complaint, the motion should have been granted. The verification of a jfieading may be omitted when the party pleading would be privileged from testifying as a witness concerning an allegation or denial contained in the pleading. (Code Civ. Pro. § 523.)
+A witness is not required to give testimony which will tend to-accuse him of a crime or misdemeanor. (Code Civ. Pro. § 837.)
+To be entitled to the benefit of these provisions of the Code, it-must in some way be made to appear that the testimony will have-that effect. While the complaint does not contain some of the-allegations usually found in complaints in actions for false imprisonment, we assume that to be the cause of action stated, for such is the contention of the counsel for both parties.
+The facts charged in the complaint fail to show that the defendants committed a crime or misdemeanor in what they did to the plaintiff.
+It is suggested by the appellant’s counsel that the facts alleged might form a material link in the evidence, to establish the crime of kidnapping.
+“A person who willfully seizes, confines, inveigles or kidnaps another with intent to cause him, without authority of law, to be secretly confined or imprisoned within this State or to be sent out of the State, or to be sold as a slave, or in any way held to service, or kept, or detained against his will,” is declared by subdivision 1 of section 211 of the Penal Code, to be guilty of kidnapping.
+There is nothing charged in the' complaint bringing the defendants’ acts within this subdivision of the Code.
+'There is no allegation of the intent with which the acts were dene, and it is not charged they were done willfully.
+All the allegations of the complaint may be true and yet the defendants have been acting in what they did as keepers of the jail, believing they had the right and that it was their duty to detain the plaintiff in the jail.
+Neither are the defendants charged with committing an assault upon the plaintiff, for there is no allegation that they acted with intent to injure the plaintiff.
+The act and intent must concur to constitute the crime.
+The complaint not containing allegations showing that the acts complained of constituted a crime, it was incumbent upon the defendant to make it appear in some way that there were allegations in the complaint in respect to the truth of which he could not be interrogated if under examination as a witness.
+It is true that it is sufficient if they might have had that tendency, but to be entitled to the order asked for, that must have been made apparent to the court, either by a perusal of the complaint or in some other manner. Pacts stated in an ordinary complaint upon a promissory note, might form a link in a chain of evidence tending to convict a party of a crime, but it would not be claimed that he could, for that reason, avail himself of the provisions of the Code mentioned, without making the facts appear in some manner.
+The rule is stated by O’Brien, J., in Goff v. Star Printing Co. (21 Abb. N. C. 214) as follows :
+“An examination of the cases will, however, bear the construction That a distinction is made between cases where the complaint itself •does not show that the defendant would be privileged, and cases which from their very nature it is evident that the defendant could 'not be compelled to testify.” (Molony v. Dows, 2 Hilt. 247; Lynch v. Todd, 13 How. Pr. 546.)
+The order appealed from should be affirmed, with ten dollars costs -.and disbursements of the appeal.
+Dwight, P. J., and Macomber, J., concurred, Haight, J., not .sitting.
+Order appealed from affirmed, with ten dollars costs and 'disbursements. ?
