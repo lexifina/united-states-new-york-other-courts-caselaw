@@ -1,0 +1,30 @@
+---
+court: "New York City Court"
+decided: "1892-11-25"
+citations: ["49 N.Y. St. Rep. 222", "20 N.Y.S. 880"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles F. Rosenkranz, Jr., Resp’t, v. William Haas, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/49/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2093067
+cites_cases: ["12 Daly, 34", "24 How. 544"]
+---
+
+# Rosenkranz v. Haas
+
+## Majority (Fitzsimons, J.)
+
+Fitzsimons, J.
+Although the counsel for both appellant and respondent characterize this as an action for malicious prosecution, a perusal of the pleadings convinces me that it is an action for false imprisonment The complaint states that the plaintiff was arrested without warrant by a police officer upon the complaint oí defendant.
+The fact that it also states that he did so “ maliciously ” does not change this action from false imprisonment to malicious prosecution; false imprisonment is clearly the gravamen of the action.
+Upon this appeal the appellant relies mainly upon the proposition that plaintiff failed to show malice and want of probable cause upon defendant’s behalf in causing plaintiff’s arrest.
+The plaintiff at most was required to prove that in causing his arrest the defendant acted without probable cause. His testimony shows that he was walking peacefully along Twenty-sixth street, a public highway, and was arrested by a police officer, who acted at defendant’s instigation, and was compelled to go along with the officer to the station house, where defendant made a complaint to the officer in charge, was locked up in a cell all night (eleven hours), next morning was again compelled to accompany the officer through the public street to the police court, where defendant charged him in a written complaint made before the police justice with using threatening, abusive and insulting behavior with intent to provoke a breach of the peace.
+That such offense occurred in Twenty-fourth street, in this city, and there followed defendant, causing a crowd to collect. The plaintiff was discharged by the police justice.
+In view of plaintiff’s testimony upon the trial and the criminal proceedings and their termination, as above related, the trial justice did right in submitting the question, “ whether or not the defendant in such proceedings acted without probable cause,” to the jury, their negative finding is based upon very strong evidence, and is conclusive.
+The discharge alone by the police justice of the plaintiff is ¡grima facie evidence of the want of probable cause sufficient to throw upon defendant the burden of proving the contrary.
+Conceding that this is an action for malicious prosecution, and that plaintiff was, therefore, required to prove malice, we find ample justification in the evidence for the refusal of the trial justice to dismiss the complaint upon defendant’s motion to dismiss upon the ground that malice was not proved.
+The testimony submitted by plaintiff, and the proceedings taken upon the criminal charge, show that defendant acted therein in a wanton and reckless manner and wilfully and knowingly preferred a false charge against plaintiff. These circumstances alone establish that want of probable cause from which, malice will be inferred, Dorendinger v. Tschechtelin, 12 Daly, 34; Wheeler v. Nesbitt, 24 How. (U. S.), 544, and entitled a submission thereof to the jury. They determined that defendant acted with malice, and the testimony justifies that finding.
+We find no errors. The judgment must be affirmed, with costs.
+Ehrlich, Ch. J., and Newburger, J., concur.
