@@ -1,0 +1,24 @@
+---
+court: "New York Court of Chancery"
+decided: "1831-07-19"
+citations: ["2 Paige Ch. 475"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["White vs. Buloid and others."]
+source_url: "https://static.case.law/paige-ch/2/cases/0475-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179832
+---
+
+# White v. Buloid
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+I havé some doubts as .to the regularity of bringing on this appeal without notice to the defendants who. had appeared in the suit before the vice chancellor. Although they had no notice of the • application to the judge a quo, yet they have ,an interest in the question, and will be affected by the order of the chancellor if the decision if "the vice. chancellor is reversed. But as the result must" be the same, and the decision on this appeal will not 'be considered res adjudícala against them, if they think proper hereafter to discuss the same questions, I shall proceed to dispose of the appeal upon the ex parte argument of the appellant’s counsel." ( See Linwood v. Hathom, 3 Bligh’s P. Rep. 200.)
+The order of the vice chancellor, refusing the ex parte application to revive, was correct; but not for the reasons "stated in that order and in the opinion endorsed on the papers. The 115th, lltith and 117th sections of that title „ of the-revised statutes which relates particularly to this court, ( 2 R. S. 184,) were intended to embrace the provisions con-" tained in the last clause o.f the 7th section of the act of 1813, ^concerning the" court of chancery,” (1 R. L. of 1813, 489,) and which were also contained in previous revisions. Although the language of these provisions has been somewhat varied since the act of 1788, yet I believe its uniform construction has been to give to the personal representatives of a sole complainant the right to revive on motion, to the same extent as they would be entitled if there had been another complainant who had survived. The 115th section is broad enough to embrace the case of an abatement of the suit by the death of asolé complainant. If his rights are cast upon those representatives which the law gives or ascertains, I see no reason why they should not be substituted as complainants under the statute, instead of compelling them to resort to the more expensive proceeding by bill of revivor. Numerous orders of this description have been made by the •court, for the last twenty years; and even if this construction of the statute was originally wrong, it is now too late to change it except by legislative interference.
+But where, as in this case, the defendants, or some of them, have actually appeared in this cause, it is irregular to obtain an ex parte order to revive, without the consent of the parties who have appeared. If they do not join in the petition to revive, due notice of the application should be given to them, or their solicitor, in the usual manner of serving notices on parties who have caused their appearance to be entered in a cause in this court.
+In Douglas v. Sherman, decided in March last, the practice to be pursued in such cases was fully stated and settled. The vice chancellor should therefore have denied this application; but without prejudice to the right of the public administrator to present a new petition, brifly stating the facts which entitle him to be substituted complainant in the place of the decedent, Lydia White, and giving due notice of the application to all the other parties who have appeared in the cause. In this case, as the rights of the former complainant as the executrix of Charles White, are now cast upon Mrs. Buloid the surviving executrix and one of the present defendants in the cause, that fact also should be stated in the petition; so that the suit may be revived against her in that character also, if it can be legally . done in that form.
+The order of the vice chancellor refusing the application of the appellant must be affirmed, but without adopting the reason stated in the order, and without preju dice to the right to present such petition; on which petition all parties may be heard before him as to the right of the appellant to an order of revival. (Young v. Liven, 4 Dow’s P. C. 143.) As none of the defendants have been heard on this appeal, I do not intend to express any opinion upon the question whether this suit can be revived against Mrs. Buloid as the new executrix of Charles White, without a formal bill of revivor, under the very peculiar circumstances of this case. That question is left open for discussion before the vice chancellor, if the. appellant should think proper to proceed by petition instead of resorting to the more certain remedy of a bill of. revivor, or a bill of revivor and supplement.
+Ante p. 358.
