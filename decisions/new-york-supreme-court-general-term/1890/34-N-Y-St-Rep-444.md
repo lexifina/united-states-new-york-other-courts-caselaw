@@ -1,0 +1,64 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-11-28"
+citations: ["34 N.Y. St. Rep. 444"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Raymond Christman, App’lt, v. John M. Phillips, as Overseer, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2047198
+---
+
+# Christman v. Phillips
+
+## Majority (Mayham, J.)
+
+Mayham, J.
+This action was prosecuted against the overseer of the poor of Amsterdam on an alleged contract made with that officer for care and attention rendered by plaintiff’s assignors to a transient pauper supported at the expense of the overseer of that town.
+The case shows that one Edward Murphy was found along the railroad track in Amsterdam seriously injured, of which injury he subsequently died; that he was without means of support and was taken care of by the overseer of the poor of that town; that the overseer of the poor employed plaintiff’s assignors to nurse and care for Murphy, which they did; one nursing during the day and the other during the night
+These nurses both swear that the overseer of the poor employed them and agreed to pay them, or see them paid. One of these parties was employed twenty-five (25) days and the other twenty-one (21) nights. They commenced service about the 24th of September, 1887.
+On the 8th day of October, the acting overseer of the poor of Amsterdam gave to these persons orders in the following forms:
+“ October 8, 1887.
+“ Town board pay to A. Van Auken, a nurse, for nursing Edward Murphy, a _ town charge, the amount of fifty dollars ($50) for twenty-five (25) days services^ and charge the same to the town of Amsterdam. John W. Thatcher,
+“ Overseer of Poor."
+“ October 8, 1887.
+“ Mr. Daniel Martin, a nurse for Edward Murphy, let him have forty-two dollars ($42) for twenty-one (21) days’ services, and charge the same to the town of Amsterdam.
+“John W. Thatcher,
+“ Overseer of Poor."
+To each of these orders was attached an affidavit of the plaintiff, as assignee, that he was the owner of the claim, and that no part of the sum has been paid.
+On the trial the defendant proved, under objection by the plaintiff, by several officers, constituting the board of town auditors, that the overseer of the poor had presented these bills to the town auditors, and they were disallowed by that board on the sole ground that they were not proper charges against the town,
+¡No record of the action of these town auditors on these claims or minutes in writing of their action was made by said board.
+Upon these facts the court directed a verdict for the defendant, and the plaintiff appeals.
+Section 1926 of the Code of Civil Procedure enumerates certain officers who may maintain actions in their official capacity upon contracts lawfully made with them, etc., and names overseers of the poor among such officers.
+Section 1927 provides that “An action may be maintained against any of the officers specified in the last section upon any cause of action which arises against them, or has accrued against their predecessors, or upon contracts made by their predecessors in their official capacity and within the scope of their authority.”
+Under this provision a party may recover upon a contract lawfully made with an overseer of the poor or his predecessor in office. By § 3 of chap. 42 of the Laws of 1863, “ the powers and duties heretofore conferred upon the supervisors of the respective towns of Montgomery county, so far as relates to the adjudication in relation to, and the relief and support of the poor, are hereby conferred upon the overseers of the poor of the respective towns of said county.”
+Under the statute, the overseer of Amsterdam, one of the towns in that county, is the sole and exclusive judge (subject, perhaps, to review for abuse of that power) as to who are paupers of said town, and consequently who may be relieved by him.
+In furnishing such relief he must necessarily be invested with the power to make contracts for the care of such as he may have adjudged paupers, and the exercise of that power could not be reviewed collaterally either in this court or by the town auditors.
+The trial judge held that it was conclusive as to this court, and its exercise could not be reviewed on the trial. But he held that the plaintiff having submitted his claim to the determination of the board of town auditors, their determination was final, and until reviewed and reversed in a direct proceeding it was conclusive upon the parties.
+This would, doubtless, be sound if the board of town auditors had power to pass upon this claim in the first instance, and had in the exercise of that jurisdiction by a valid act with the parties interested legally before them made a determination. But that is not this case.
+The plaintiff and defendant never submitted to the board of auditors the question whether the defendant as overseer of the poor was liable to the plaintiff for the value of their services, which had been rendered by the plaintiff’s assignors for the defendant as overseer of the poor under a valid contract.
+Clearly, the board of auditors had no power to pass upon that question. ■
+If the defendant had paid the money under this contract and had presented it as a disbursement of his office to the board of town auditors, they might then have had jurisdiction to pass upon it, and then if they had rejected it, they would have been required to make a certificate, as required by § 3 of chapter 305 of the Laws of 1840, and which might be reviewed on certiorari, or its allowance compelled by mandamus, if improperly rejected.
+But this plaintiff, or his assignors, had no claim that they could enforce directly against the town, had the board made a record refusing to allow the claim, even if presented by the plaintiff. We do not see how that would have barred the plaintiff’s claim against the overseer of the poor as such.
+The legal effect of this transaction was that the overseer by drawing his draft for this amount acknowledged the existence of his liability to the payee; even if the payee presented it in person to the drawee, who refused to accept or pay the same, it would not exonerate the drawer, but rather tend to charge him for its payment.
+It matters not what excuse for non-payment is made by the drawee. It may be want of funds, or it may be a denial of the validity of the claim ; the drawee’s refusal and the ground upon which the refusal is placed in no way relieves the maker from his liability to the payee.
+The fact remains that the debt exists and has not been paid.
+We do not think that the plaintiff is concluded by the action of the town board for the reasons above stated.
+The plaintiff insists that it was error to receive the evidence of the town auditors as to their recollection of what occurred at the time it is alleged the account or claim in question was presented to them or their action upon the same, on the ground that if there was any legal action taken before them and any determination by them it should have been reduced to writing in the form of a certificate and filed in the town clerk’s office, and that would have been the best evidence, and that that certificate or record should be produced or its loss or destruction proved before paroi testimony of the action could be received.
+Section 1 of chapter 172 of the Laws of 1863 provides as follows : “ The town auditors of the several towns of this state shall examine the accounts of the overseers of the poor * * * of such towns for all moneys received and distributed by them, and shall meet for the purpose of examining the same annually in each town in this state on Tuesday preceding the annual town meeting to be held in each town.”
+Section 2 of the same chapter provides “All town officers who receive and disburse any moneys belonging to their respective towns shall, on the last Tuesday preceding the annual town meeting of their town, account with the board of town officers of such town for all moneys received and disbursed by them by virtue of their offices.”
+Section 3 of the same act makes it the duty of the town ' board of auditors to make a statement of such accounts and append thereto a certificate to be signed by a majority of them showing the state of the accounts of said officers to the date of the certificate, which statement and certificate shall be filed in the town clerk’s office.”
+No statute has been referred to, nor are we able to find any that confers on the town auditors authority to examine or adjudicate the accounts of overseers of the poor at any other time or on any other meeting.
+The meeting in November was the one which precedes the meeting of the board of supervisors and not the one preceding the annual town meeting, and it does not appear that the town auditors had any authority at that meeting to audit or examine the overseer’s account
+But if we are to assume that it was the regular meeting to examine such accounts, then we think that the certificate required by statute to be made and filed would be clearly the best evidence, and its absence should be accounted for in such a manner as to let in secondary evidence of its contents.
+That was not done or offered to be done by the defendants.
+The rule that records when required to be kept are the best evidence, and must be produced or their absence properly accounted for before resort can be had to secondary evidence, is too elementary to require citation of authorities. We think the admission of that kind of evidence in this case was error and that its admission affected prejudicially the rights of the plaintiff.
+The judgment is reversed and a new trial ordered, costs to abide thie event
+
+## Concurrence (Learned, P. J.)
+
+Learned, P. J.
+Concur on first ground. If the action of auditors is not bindin, it is immaterial whether it was properly proved.
+Land on, J., concurs.
