@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1894-04"
+citations: ["31 Abb. N. Cas. 256"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OELBERMAN v. N. Y. & NORTHERN R. R. CO."]
+source_url: "https://static.case.law/abbn-cas/31/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1974037
+---
+
+# Oelberman v. N. Y. & Northern Railroad
+
+## Majority (Ingraham, J.)
+
+Ingraham, J.
+This is a motion made by the plaintiff to serve a paper annexed to the moving papers, which is. called a proposed amended and supplemental complaint; also to amend the summons by making the New York Sr. Putnam Railroad a party defendant. There is no such pleading known to the Code as an “ amended and supplemental complaint.”
+The original complaint in this action having been demurred to and the demurrer sustained, the plaintiff, in accordance with the leave granted by the interlocutory judgment, served an amended complaint, and that complaint now stands as the complaint in this action. If the plaintiff desires to serve a supplemental complaint under the provisions of § 544 the Code, such a supplemental complaint must be prepared as distinct from the amended complaint as'it now stands as the complaint in this action, as supplemental thereto, but there is no provision authorizing the court to allow allegations, by way of an amendment to the complaint, of facts that happened after the commencement of the action. It,will produce great confusion to approve of such a practice as allowing the service of a pleading in which is contained the facts relied on to give a cause of action, and also contains the allegation of the facts which have arisen since the commencement of the action, and which are supplementary to those alleged in the complaint as effecting the ultimate relief to be given.
+t I think, therefore, this motion should be denied, with $10 costs to abide the event, with leave, however, to the plaintiff to make a motion for leave to serve a supplemental complaint as a distinct pleading, which shall allege the facts that he considers material which occurred after his former pleading, or of which he was ignorant when it was made. Order to be settled on notice.
