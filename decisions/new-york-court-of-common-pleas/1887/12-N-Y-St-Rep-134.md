@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Common Pleas"
 decided: "1887-12-05"
-citations: ["12 N.Y. St. Rep. 134", "12 N.Y. St. Rep. 662"]
+citations: ["12 N.Y. St. Rep. 134"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
