@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1870-06"
+citations: ["3 Lans. 34"]
+reporter: "lans"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard A. Elmer, Jr., Respondent, v. Lucas Oakley, Edward E. Clapp and Morris Bennitt, Appellants."]
+source_url: "https://static.case.law/lans/3/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4822073
+cites_cases: ["21 N. Y., 219"]
+---
+
+# Elmer v. Oakley
+
+## Majority (Miller, P. J.)
+
+By the Court —
+Miller, P. J.
+The judge upon the trial ¡ .of . .this action .decided this case upon the authority of Condit v. Baldwin (21 N. Y., 219) and Bell v. Day (32 id., 165). In Condit v. Baldwin it was held that where an agent intrusted with money to invest at legal interest, exacted a bonus for himself as the condition of making the loan without the knowledge or authority of the principal, that it did not constitute usury in the principal nor affect the security in his hands. In Bell v. Day the same principal was affirmed upon the authority of Condit v. Baldwin. I find myself unable to discover any distinction in principle between the cases cited and the one at bar. Although they are all similar in many of their leading features, the case before us is, if anything marked by stronger characteristics against the borrowers than either of the cases cited. In both of the cases cited, the contract for the loan was made with the agent of the lender while here, Smith & Hall were expressly employed by the borrowers as their agents to procure the loan, and another person (Howell) acted as the agent of the McCains, the lenders, who received no portion of the premium, and were not aware that any was received by any other party.
+It does not, in my opinion, alter the aspect of the case because a portion of the money was advanced by Smith and Hall, or because another party became the owner of the security, and Smith & Hall, who procured the money for the borrowers, offered to extend the time another year upon the payment of ten per cent additional for the use of the money. These were facts to be considered upon the question whether there was an unlawful and corrupt agreement upon the part of the lenders to take illegal interest, and were properly addressed to the consideration of the court upon the trial. The same remarks are applicable to other facts, which tended to establish a usurious contract. A finding of the judge, to the effect that the McCains, or Howell, their agent, instructed Elmer to make the loan at a legal rate of interest, was not, in my opinion, essential to uphold the judgment or to bring the case within the meaning or spirit of Condit v. Baldwin, as is claimed by the counsel for the defendant. As no instructions to the contrary are shown, I think that it must be presumed that Howell, their agent, had no authority to make a usurious loan. Usury must be made out by proof, and as the findings of the court establish that the lenders gave no authority to their agents to take unlawful interest, it would appear to be unnecessary to find that contrary instructions were given.
+Hor do I see any necessity for a finding by the court that the defendants had knowledge that Smith & Hall were to act as the agents of the McCains, and that in the reservation of the ten per cent they were bargaining on their own account exclusively. The judge found that the agreement for the loan was made between Oakley & Clapp and Smith & Hall, the latter agreeing to procure the money for the sum of $250; that the money was procured of the McCains through the exertions of Smith & Hall; that the McCains received no part of the $250, nor was the same exacted with their knowledge or authority, nor had the McCains any knowledge that such sum, or any sum, was to be charged by Smith & Hall, or any other person, for making such loan, or to be deducted from the amount loaned and advanced. These findings cover the whole grounds of the case, and render any other findings unnecessary to sustain the conclusion of law. They virtually made Smith & Hall the agents of Oakley & Clapp in procuring the loan, and not in any sense the agents of the McCains, who had intrusted their money to Howell to invest for them, without any power to delegate his authority to a third person. The general rule, therefore, that the principal is bound by the acts of his agent while acting within the scope of his authority, would seem to have no application. In order to make out a case of usury, it was necessary to find that Smith & Hall were the agents of the McCains, and that as such, their unlawful acts were the acts of the McCains, although wholly unauthorized by the latter and unknown to them. This has not been done, and in any view which may be taken of the case I think it is clear that there was no error, and that judgment should be affirmed with costs.
+Judgment -affirmed.
