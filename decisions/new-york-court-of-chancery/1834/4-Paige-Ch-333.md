@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1834-01-28"
+citations: ["4 Paige Ch. 333"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hart and others vs. D. & A. Small."]
+source_url: "https://static.case.law/paige-ch/4/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050433
+---
+
+# Hart v. D. & A. Small
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+It was irregular to except to the d<s fendants’ second or further answer for impertinence, after it had been referred for insufficiency upon the old exceptions. In the case of The Bennington Iron Co. v. Campbell, (2 Paige's Rep. 162,) the course to be pursued, where the complainant wishes to except to the further answer as well as to refer it on the old exceptions, is pointed out. The complainant must first file his new exceptions within the ten days, allowed by the 52d rule for referring a second or a third answer upon the old exceptions. This will operate as an enlargement of the time, allowed by that rule, until after the defendant has had the usual time to submit to the new exceptions. And the camplainant may then, or within the ten days thereafter, take his order to refer the answer, to the master, upon the old exceptions which are not answered, and upon such of the new exceptions as are not submitted to. Although the case referred to was .a case of new exceptions for insufficiency, the same reasons are also applicable to exceptions to a further answer for impertinence, where the defendant has undertaken to answer amendments and exceptions together. The 53d rule of this court has placed exceptions for impertinence and exceptions for insufficiency on the same footing, substantially, as to the mode of proceeding thereon in such cases. Where the bill has not been amended, so that the further answer is only an answer to the old exceptions for insufficiency, the complainant is not precluded from excepting for impertinence. But, in that- case, his exceptions must be filed within the ten days allowed for referring the answer on the old exceptions, or it will be too late ; as the answer will then be deemed to be sufficient.
+If the further answer is intended as an answer to amendments,- as well as to the former exceptions, a neglect to file new exceptions for insufficiency, or impertinence, within the first ten days, does not deprive the complainant of the benefit of such new exceptions; provided such new exceptions are filed and served within the twenty days allowed by the 50th rule ; the further answer, so far as it purports to be an answer to the amendments, not being complete until the expiration of that time. But the order of reference in such a case must be a reference of the new exceptions only; or such of them as have not been submitted to by the defendant. In other words, the1 further answer is complete, as to the matters of the original bill and the old exceptions, unless some proceedings are had thereon within the first ten days after it is put in. But as to the new matters introduced into the bill by amendment, it is not complete until after the expiration of twenty days. (See Van Wagenan v. Murray, 1 Edward’s Ch. Rep. 319.)
+The order, in the present case, to refer the second answer upon the old exceptions, which order was entered within the first ten days and before any new exceptions were filed, was perfectly regular. But by the entry of that order, the complainants precluded themselves from taking new exceptions to any part of the answer, either for insufficiency or impertinence. The new exceptions must therefore be taken off the files of the court; and the order of reference entered thereon must be set aside. As the practice in this respect has not been well understood, and the construction of some of the new rules has not before been explicitly declared, I shall not charge the complainants with the costs of this application in this stage of the suit. The defendants’ costs, however, will be costs in the cause, if he succeeds in obtaining a decree against the complainants for costs when the cause is finally disposed of, upon the merits or otherwise.
