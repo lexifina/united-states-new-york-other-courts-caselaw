@@ -1,0 +1,40 @@
+---
+court: "New York Surrogate's Court"
+decided: "1885-02"
+citations: ["15 Abb. N. Cas. 189"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KENDRICK’S ESTATE."]
+source_url: "https://static.case.law/abbn-cas/15/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1954986
+cites_cases: ["2 Dem. 29", "3 Edw. Ch. 180", "36 N. Y. 88", "4 Bradf. 260", "43 N. Y. 443", "6 Abb. 0", "67 Barb. 364", "7 Hun, 230", "9 N. Y. 85"]
+---
+
+# Kendrick's Estate
+
+## Majority (Rollins, Surr.)
+
+Rollins, Surr.
+A decree is about to be entered whereby the accounts of this decedent’s administrator will be judicially settled and determined. The assets of the estate are insufficient to pay creditors in full, and if a certain judgment recovered against the decedent in his lifetime, at the suit of Edward B. Wesley, is still a valid and subsisting claim against this estate, it is entitled to preference over the claim of any other creditor, and its payment will exhaust the entire fund applicable to the discharge of debts.
+It is contended, however, by counsel for other judgment creditors, that in the distribution of the assets of this estate, the Wesley judgment should be wholly-disregarded because of the neglect to enforce it within the period prescribed by section 376 of the Code of Civil Procedure.
+The dates of the occurrences that need to be considered in passing upon the matter here in dispute are as follows:
+1st. The judgment was recovered on May 29, 1863.
+2d. On January 9, 1883, the decedent died.
+3d. His administrator qualified as such on February 9, 1883.
+4t.h. The Wesley claim was submitted to him on March 27, 1884. He received and retained it, and orally promised to include it in his final account so that it “could be paid if entitled to priority.”
+5th. On March 28, 1884, the administrator filed with the surrogate his answer to a petition presented on behalf of a creditor for the payment of his claim. To that proceeding Wesley was not a party. The administrator alleged in such answer that Wesley had recovered against the deceased in his lifetime a judgment for the sum of $1,997.87, which judgment was dated May 29, 1863, and was entitled to priority of payment over the claim of the petitioner in that proceeding.
+6th. On November 28, 1884, the administrator filed with the surrogate his petition for the citation of divers persons to attend the judicial settlement of his account. Among the persons thus sought to be cited was Edward B. Wesley, who was described in the petition as a “judgment creditor,” but without specification of the amount of his judgment, or of the date of its recovery, or of any other circumstance relating thereto.
+7th. On the day last named (November 28, 1884), citation was issued as prayed for in the petition, and Edward B. Wesley, by his attorney, admitted due service thereof. Such petition was made returnable on December 12, 1884.
+8th. On December 15, 1884, more than twenty-one years and six months after the recovery of the Wesley judgment, the administrator filed his account, wherein he included, in a schedule of “claims presented and unpaid,” the following item :
+“ Claim of Edward B. Wesley, for a judgment obtained by him May 29, 1868, . . . against the deceased, Edward EL Kendrick, for the sum of $1,997.87 and interest.”
+Under these circumstances, is the Wesley claim still entitled to preference over the claims of other creditors ?
+It is provided by section 376 of the Code of Civil Procedure, that a final judgment or decree for a sum of money “is presumed to be paid and satisfied after the expiration of twenty years from the time when the party recovering it was first entitled to a mandate to enforce it.” “This presumption,” the statute proceeds to declare, “is conclusive, except as against a person who within twenty years from that time makes a payment, or acknowledges an indebtedness of some part of the amount recovered, by the judgment or decree, or his heir or personal representative, or a person whom he otherwise represents. Such an acknowledgment must be in writing, and signed by the person to be charged thereby.”
+By section 403, it is provided that “ the term of eighteen months after the death, within the State, of a person against whom a cause of action exists, is not a part of the time limited for the commencement of an action against his executor or administrator.”
+Unless, therefore, in the present case, this decedent in his lifetime, or his administrator, between the date of his decedent’s death and November 30, 1884, made some payment on account of this judgment, or acknowledged in writing under his own signature, the whole or a part, of the indebtedness which it represented, the presumption of its payment has become absolute, and it has not only lost its priority, but as, against the claims of other persons interested in this estate has practically lost its validity and cannot now be revived by the administrator (McLaren v. McMartin, 36 N. Y. 88). The provisions of the statute are clear and unequivocal. Its operation has not been defeated by the decedent’s death, nor have the rights and remedies of the judgment creditor been in any wise affected thereby, except that the administrator has been substituted in place of his decedent as the person whose recognition of the validity of the judgment, either by partial payment or by written and signed acknowledgment, would serve to take the case out of the statute, and except, also, that one year and six months'have been added to the twenty years within which the creditor was bound to enforce his rights or be treated as having abandoned them.
+Section 415 of the Code explicitly declares that “ the periods of limitation prescribed by this chapter . . . must be computed from the time of the accruing of the right to relief by action, special proceeding, defense or otherwise, to the time when the claim to that relief is actually interposed by the party as a plaintiff or a defendant in the particular action or special proceeding.”
+The presentation, therefore, of the creditor’s claim to this administrator, the demand for its payment, and the oral promise of the administrator to include it in the accounting have put the creditor in no better position than he would have occupied if he had made similar demand of the decedent himself in his lifetime, and had obtained from him verbal acknowledgment of his continued indebtedness. Such acknowledgment would not have availed him (Cotter v. Quinlan, 2 Dem. 29 ; Warren v. Paff, 4 Bradf. 260; Shapley v. Abbott, 43 N. Y. 443).
+I am very clear, also, that the reference to the Wesley judgment in the administrator’s answer of March 38, 1884, was not such an acknowledgment of that judgment as -to give it new vitality. In Wakeman v. Sherman (9 N. Y. 85), the court of appeals held, that in order to be effective, such an acknowledgment “ must be made to the creditor or to some one acting for him, or if made to a third person, must be calculated and intended to influence the action of the creditor.” To the same effect see also Winterton v. Winterton, 7 Hun, 230; Fletcher v. Updike, 67 Barb. 364 ; Bloodgood v. Bruen, 8 N. Y.362.
+In the case last cited it was distinctly held, that the recognition of a debt as a subsisting obligation did not suffice to interrupt the operation of the Statute of Limitations when such recognition was made by the debtor in a sworn answer, in a legal proceeding, to which the disputed creditor was not a party.
+Some doubts were expressed, upon the recent argument, whether any person other than the administrator was in a situation to attack the Wesley judgment for the cause above considered. I hold, that any person interested in the estate as creditor or next of kin, is entitled to raise this question, even without the administrator’s co-operation and against his wishes (Shewen v. Vanderhorst, 1 Russ. & M. 347, 352 ; Exp. Dewdney, 15 Vesey, 480, 498 ; Partridge v. Mitchell, 3 Edw. Ch. 180 ; Moodie v. Bannister, 4 Drewry, 432, 438).
