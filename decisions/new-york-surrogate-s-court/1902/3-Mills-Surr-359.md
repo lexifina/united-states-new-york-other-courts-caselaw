@@ -1,0 +1,28 @@
+---
+court: "New York Surrogate's Court"
+decided: "1902-12"
+citations: ["3 Mills Surr. 359", "39 Misc. 480"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Johh Moench, Deceased."]
+source_url: "https://static.case.law/mills-surr/3/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1066933
+cites_cases: ["115 U. S. 620", "128 N. Y. 295", "157 N. Y. 70", "42 N. Y. Super. Ct. 325", "6 Dem. 174"]
+---
+
+# In re the Estate of Moench
+
+## Majority (Thomas, S.)
+
+Thomas, S.
+This is a proceeding commenced by the district attorney of the county of Mew York to enforce the payment of a transfer tax. His petition sets forth that the testator died on. January 12, 1893, leaving a will by which the respondent was appointed executrix and made sole legatee, and that said will had been duly admitted to probate and letters testamentary thereon had been issued to the respondent; that an order was made November 18, 1902, fixing the amount of transfer tax; that the Comptroller of the State had notified him in writing of the failure, neglect and refusal of the person liable to pay said tax, and that no part of said tax has been paid. The respondent appears and files no written allegation or denial by way of answer, but orally contends that, while the averments of the petition are all true, the six years’ Statute of Limitations is a complete bar and' defense. I will treat this as a formal and sufficient plea of the statute.
+At the time of the death of the testator, the statute governing the transfer tax then in force was Laws of 1892, chapter 399, entitled “An act in relation to taxable transfers of property,” the provisions of which, so far as they are applicable to the present proceeding, were substantially identical with those of our present statute. The tax became payable at the time of the transfer, to wit, at the death of the decedent; if paid within six months thereafter a discount of 5 per centum was to be deducted and allowed, and no interest was to be charged if payment was made within eighteen months. Section 4. The proceeding to enforce the payment of the tax could only be taken by the district attorney if the treasurer or comptroller of any county shall have reason to believe that any tax is due and unpaid under this act, “ after the refusal or neglect of the persons liable therefor to pay the same,” and shall notify the district attorney in writing of such failure or neglect. Section 15.
+As the law then stood, the right to maintain a proceeding such as the present one accrued to the State when the executrix either refused or neglected to pay the tax. No refusal was alleged, and the executrix was not chargeable with neglect during the six months within which a premium was offered for prompt payment, and probably not within the eighteen months during which payment could be made without interest. It has accordingly been, held that the proceeding could not be initiated until the expiration of eighteen months. Frazer v. People, 6 Dem. 174.
+Assuming that the transfer tax is a “ liability created by statute,” and, therefore, within the six years’ limitation (Code Civ. Pro., § 382, subd. 2; People ex rel. N. Y. L. & I. Co. v. Roberts, 157 N. Y. 70), the proceeding could have been commenced at any time prior to July 12, 1900.
+By Laws of 1899, chapter 737, which became a law on May 26, 1899, it was enacted, amending the Tax Law, being chapter 908, Láws of 1896, by the addition of a new article, that “ The provisions of the Code of Civil Procedure, relative to the limitation of time of enforcing a civil remedy, shall not apply to any proceeding or action taken to levy, appraise, assess, determine or enforce the collection of any tax or penalty prescribed by articles-nine or ten of said chapter, and this act shall be construed as having been in effect as of date of the original enactment of the corporation and inheritance tax law, provided, however, that as to real estate in the hands of bona fide purchasers, the transfer tax shall be presumed to be paid and cease to be a lien as against such! purchasers after the expiration of six years from the date of accrual.”
+So far as the present respondent is concerned no right of any kind to interpose the defense of the bar of the statute was ever acquired by her, and the statute was not retroactive. It merely repealed a statute that she might have used if the 'State had failed to commence a proceeding within more than a year after the repeal.
+Treated as a retroactive statute the Law of 1899 was, nevertheless, valid. The Statute of Limitations does not, after the prescribed period, destroy, discharge or pay the debt, but it simply bars a remedy thereon.. The debt and the obligation to pay the same remain and the arbitrary bar of the statute alone stands in the way of the creditor seeking to compel payment. The Legislature could repeal the Statute of Limitations and then the payment of a' debt upon which the right of action was barred at the time of the repeal could be enforced by action, and the constitutional rights of the debtor are not invaded by such legislation. Per Earl, J., in Hulbert v. Clark, 128 N. Y. 295; Campbell v. Holt, 115 U. S. 620; People v. Starkweather, 42 N. Y. Super. Ct. 325, 335.
+The application is granted, with costs to be taxed. The sum due, for tax and penalty, will be computed and inserted in the . decree, since the interest on the decree will be six per cent. only.
+Application granted, with costs to be taxed.
