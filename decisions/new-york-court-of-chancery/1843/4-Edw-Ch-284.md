@@ -1,0 +1,26 @@
+---
+court: "New York Court of Chancery"
+decided: "1843-07-12"
+citations: ["4 Edw. Ch. 284"]
+reporter: "edw-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Holley and others v. S. G. and others."]
+source_url: "https://static.case.law/edw-ch/4/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988550
+---
+
+# Holley v. S. G.
+
+## Majority (The Vice-Chancellor :)
+
+The Vice-Chancellor :
+All parties have acquiesced in the master’s report, but Samuel, who has taken five ex ceptions, and Sarah and Martha who have taken two. Samuel first excepts, because the master has not allowed him commissions for receiving and paying the income of the estate as trustee under the separate trusts created by the will. The master has allowed him commissions as executor ; and the rate and manner of compensation are such as the statute has prescribed and the repeated decisions of the court have sanctioned. The reasons assigned by the master against the allowance of commission, in the two fold capacity of executor and trustee, are very satisfactory. This exception must, therefore, be disallowed.
+The second and third exceptions seem to be entirely unfounded in point of fact. At least, I am unable to discover, from the papers before me, the particular items or parts of the accounts to which they relate. Both must be overruled.
+The fourth exception is the important one ; and it presents the question, whether the executor, Samuel, can be charged with the bad debts created by the loan of monies to Ward ? *’ The master, it appears, was doubtful whether he could go into the subject under the bill and the order of reference and objections laid before him to the accounts which he was to pass upon. The bill contains no specific allegation of misconduct of the executors in lending money upon insufficient security or contrary to the directions of the will. In Smith v. Smith, 4 Johns. Ch. R. 286, Chancellor Kent has said, that guardians, executors, &c. are not to be answerable for breaches of duty not alleged in the bill. There is, in the bill in this cause, the general allegation that the complainants have discovered, from inspection of the executor’s books, great and manifold acts of improper conduct on the part of the executors, and of misapplication of the funds of the estate ; but, the specifications, in support of this, make no mention of loans contrary to the directions of the will or upon insufficient securities. Nor is there anything in the consent order of the ninth of July, one thousand eight hundred and thirty-nine (by which Thomas was appointed to take and state the accounts of the estate, &c.) authorizing an inquiry into any such improper conduct. The compromising spirit and tenor of that order would seem to forbid it; and I think the parties must be deemed to have waived all claim upon the executors or either of them personally to make good any loss from such cause. Besides, if this matter could properly be inquired into under the order and amicable proceedings in the cause, it is, at least, doubtful, on the testimony, whether Samuel ought to be charged individually with the loss of the Ward debt. Though the loan was made, in the first instance, upon personal security, yet, security by mortgage was afterwards obtained and which, at the time, was deemed sufficient. This might have excused the executor from a loss arising from a subsequent and unforeseen depreciation. Upon the whole, therefore, I am of opinion that Samuel’s fourth exception is well taken and must be allowed; and relieving him from this loss, the balance reported against Samuel must be reduced to sixteen thousand six hundred and seventy-two dollars and fifty-six cents as suggested and shown by the report itself.
+The fifth exception will be obviated by directions in the decree, based upon the report as now confirmed.
+Then, as to the two exceptions of Sarah and Martha, because they have not been allowed interest on the three thousand dollars, which each was entitled to draw out of their shares of the estate devised in trust and on the distributive share of the deceased sister Elizabeth.
+The three thousand dollars to each is not given as a legacy payable at the age of twenty-one and therefore entitling them to interest if not paid when due, but it is a sum which they might call for and receive to themselves out of their trust shares, free from the trust created by the will; and if they did not receive the money, it must be supposed to be from choice and they cannot claim interest upon, it as upon a payment which was withheld from them. So long as the money remained in trust, they would be entitled and I presume have been allowed the income from it as a part of their trust estate. So with respect to the distributive shares of the deceased sister’s portion. If they do not receive interest on them now specifically as such, they get it in the shape of income as upon the trust fund. These exceptions are overruled.
+Order, overruling all the exceptions to the master’s report except the fourth taken by Samuel. The report modified, &c.
+And see Valentine v. Valentine, 2 Barbour’s Chancery R. 430.
