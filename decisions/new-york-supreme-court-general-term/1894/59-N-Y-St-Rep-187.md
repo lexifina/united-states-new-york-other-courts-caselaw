@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03-16"
+citations: ["59 N.Y. St. Rep. 187"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward S. Stokes, Resp’t, v. William E. D. Stokes, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/59/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1979278
+cites_cases: ["121 N. Y. 199", "26 N. Y. Supp. 825", "30 St. Rep. 467", "56 St. Rep. 718", "76 N. Y. 514"]
+---
+
+# Stokes v. Stokes
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+So far as the appellant has appealed from the order or decision of the court directing the entry of an interlocutory judgment, the appeal must be dismissed, with $10 costs. It has been held by the court of appeals that such an order is not appealable, which rule has been followed by this court. It is true that different decisions have been made by the superior court of this city, but it is manifest from the decision of the court of appeals in Cambridge Val. Nat. Bank v. Lynch, 76 N. Y. 514, that the only appeal is from the judgment. Wright v. Chapin, 56 St. Rep. 718; 26 N. Y. Supp. 825.
+The appellant claims that no sufficient cause of action is set out in the complaint, upon the ground that the alleged libelous matters must be read without the innuendoes; and that, without resort to such innuendoes, no cause of action is set out. In this we are of opinion that he is clearly mistaken. The rule is well settled that defamatory words, in common parlance, are such as impute some moral delinquency or some disrepntable conduct to the person of whom they are spoken; and that even actions for slander may be founded upon such imputations; and that such action lies in some cases where the words impute no criminal offense, where no attack is made upon the moral character, nor any charge of personal dishonor. It has been said that the first and larger class of actions are those brought for the vindication of reputation in its strict sense, against damaging and calumnious aspersions ; and that the other class for the most part are those brought for the purpose of recovering damages for words which tend to injure one in his trade or occupation. Moore v. Francis, 121 N. Y. 199 ; 30 St. Rep. 467. And it has been further held that whatever words have a tendency to hurt, or are calculated to prejudice, a man who seeks his livelihood by any trade or business, are actionable. And the rule seems to be well stated by the learned judge in the court below that publications which tend to diminish the respectability of the person to whom they relate, and to expose him to disgrace and obloquy, although they do not impute the commission of a crime, are libelous, and actionable, although no special damages are alleged or proved. In the case at bar the words of the publication in question clearly tend to affect the credit and standing of the plaintiff, and impute not only disreputable conduct, but moral delinquency, to him. We think, therefore, that a cause of action is set out in the complaint, and that the judgment appealed from should be affirmed, with costs, with leave to the defendant to withdraw his demurrer and to answer over on payment of costs of appeal and of the court below. All concur.
