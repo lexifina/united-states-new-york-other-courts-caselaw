@@ -1,0 +1,28 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1884-06-30"
+citations: ["12 Daly (N.Y.) 516"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Max D. Stern, Appellant, against Philip H. Moss, Respondent."]
+source_url: "https://static.case.law/daly-ny/12/cases/0516-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 913763
+cites_cases: ["32 How. Pr. 230", "8 Daly 43"]
+---
+
+# Stern v. Moss
+
+## Majority (Per Cubiam)
+
+Per Cubiam
+[After stating the facts as above.]—The justice, in'a well considered opinion, refers to Coles v. Hannigan (8 Daly 43) as authority for his decision. In that case the action was commenced by a warrant of arrest in the first instance, pursuant to subdivision 3, section 16, chapter 346 of the Laws of 1857. The process used determined the character of the action, and as the fraud was not denied, nor any motion made to vacate the arrest, it was held the defendant was liable to arrest upon execution upon proof only of his indebtedness. But section 10 of the act of 1857, allowing the commencement of an action by a summons, warrant or attachment, was repealed by section 3209 of the Code of Civil Procedure, which provides that an action brought in the district courts must be commenced by voluntary appearance of the parties or by the service of a summons.
+By section 3210 of the Code, article 3 of chapter 19 is made applicable to the district courts. This article includes sections 2894 to 2904, subject to the qualifications mentioned in section 3211. This latter section provides that existing statutes in relation to the district courts which are not repealed shall still be applicable as to the manner of applying for, grantingand executing an order of arrest, &c.
+As an action in these courts must now be commenced by a summons, it would appear that an order of arrest therein is to be regarded as a provisional remedy somewhat analogous to the practice under section 179 of the old Code of Procedure, where the action on contract might be prosecuted irrespective of the right to arrest upon extrinsic facts.
+Sections 549 and 550 have no application to arrests in the district courts of the City of New York, and subdivision 4 of section 549 is the only statute that requires that fraud in contracting the debt shall be proved upon the trial, if the plaintiff suing to recover money due upon a contract seeks the arrest of the defendant. Before the enactment of subdivision 4 of section 549, it was never necessary that the plaintiff should allege in his complaint and prove at the trial that the debt that he sued to recover was fraudulently contracted. His cause of action was an ordinary money demand, and the fraud used by the defendant in incurring the debt was a circumstance extrinsic to the cause of action, to be proved by affidavit if the plaintiff attempted to arrest the defendant. Upon his arrest the defendant was at liberty to move upon affidavits to vacate the order of arrest, and the question of the defendant’s liability to arrest was always decided upon affidavits where the ground of arrest was extrinsic to the cause of action. Though the subdivision we have mentioned has introduced a new rule in courts of record, the practice in the district courts has not, as we have said, been affected by it. Section 1304 of the Consolidation Act prescribes the cases in which an arrest may be had in an action in the district court. When arrested the defendant may move upon affidavits to vacate the order of arrest. The very point was decided in Johnson v. Florence (32 How. Pr. 230). Where the original process was a warrant, the setting aside of the warrant put an end to the action; but the order of arrest obtained under section 1304 of the Consolidation Act is merely a provisional remedy which may be vacated without affecting the summons or the right of the plaintiff to proceed with the action in order that he may recover judgment for his demand.
+Where the order of arrest is sustained, the plaintiff is entitled to an entry in the judgment, if he recover one, that the defendant is subject to arrest and imprisonment thereon (Consolidation Act § 1386; Coles v. Hannigan, 8 Daly 43). The execution is then to be issued in accordance with the provisions of section 1399.
+The judgment appealed from and the order vacating the order of arrest should therefore be reversed and a new trial ordered, with costs to the appellant to abide the event.
+In order to prevent misconception, we will say that section 3018 is not now before us, but we do not think it has any bearing upon the question that we have passed upon on this appeal.
+Larremore, J. F. Daly" and Van Hoesen, JJ.
+Judgment and order reversed and new trial ordered, with costs to appellant to abide event.
