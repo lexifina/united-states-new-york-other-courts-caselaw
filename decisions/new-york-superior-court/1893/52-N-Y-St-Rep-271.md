@@ -1,0 +1,25 @@
+---
+court: "New York Superior Court"
+decided: "1893-02"
+citations: ["52 N.Y. St. Rep. 271"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles J. Close, Pl'ff, v. Richard K. Noye, Def't."]
+source_url: "https://static.case.law/ny-st-rep/52/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 682229
+cites_cases: ["1 Black, 587", "113 N. Y., 311", "21 N. Y., 9", "22 St. Rep., 958", "24 N. Y., 150", "26 N. Y., 112", "79 N. Y., 454"]
+---
+
+# Close v. Noye
+
+## Majority (Hatch, J.)
+
+Hatch, J.
+It is that a known as the ■“American Bit & Brace Company ” was legally organized; that defendant became a stockholder thereof March 1, 1888, when he received eight shares of the par value of $100 each, and between that date and March 8, 1889, he received eight shares more,' making in all sixteen shares. This stock was issued to defendant by virtue of an agreement, made with the company, to receive the same in consideration of the use of a building and power, necessary for the company in the prosecution of its business. The capital stock of the company was never paid in full, and no certificate was ever made and filed stating the amount of the capital stock, or that any part thereof had been paid in.
+The indebtedness which is the subject matter of this suit, arose out of a loan of $10,000 for which the company gave its notes. They not being paid at maturity were consolidated in one note, renewed, and thereafter plaintiff became the holder of the same before maturity, for value. The note not being paid when due, judgment was obtained against the company, and execution issued thereon, which was returned unsatisfied; thereupon this action was brought. It is insisted by defendant that he is relieved from liability, for the reason that the stock was issued to him for the purchase price of property necessary for the use of the company; that it is therefore exempt from liability for the debts of thecompany by virtue of the statute existing at the time when the stock was issued to him ; that as the stock was thus exempt from liability for the debts of the company, he thereby became vested with a contract interest, which could not thereafter be affected or impaired by act of the legislature or by any other method. Both positions of defendant are controverted. In the view I take of this cáse, it is essential to determine but one of these questions. It may be conceded, for present purposes, that the stock was issued to defendant in payment for property and that the statute of 1853, 3 R. S. (8th ed.), 1961, exempts such stockholder from liability created under the act of incorporation.
+It, however, still remains as the fact that prior to the creation of the debt, and while defendant was a stockholder, this act was repealed. Laws 1890, chap. 564. Consequently, there was no exemption of this stock at the time when the indebtedness arose. We, therefore, come to the question, was it within the legislative power to change the law, that liability might be created ? By virtue of § 19 of the act authorizing the creation of the company, 3 R. S., 8th ed., 1958, the legislature reserved the right to alter, amend or repeal the same. By virtue of this reserved power, it has been held to be within the legislature’s province to impose, by way of amendment, a future liability upon a stockholder, where before, by express provision of law, he was exempted from liability. Matter of Lee's Bank of Buffalo, 21 N. Y., 9.
+This is the doctrine of the court of appeals, affirmed in the same case by the supreme court of the United States, under the name Sherman v. Smith, 1 Black, 587, and, so far as I am able to dis-cover, remains the law at this day. I am' quite aware that in some states, in some opinions, and in some text books, phrases, with perhaps sustained statements, may be found, in apparent conflict with this view. They do not, however, exist in this state, for here the statements and decisions have remained consistent and uniform in support of such doctrine. Mayor v. Twenty-third St. R. Co., 113 N. Y., 311; 22 St. Rep., 958; Union Hotel Co. v. Hersee, 79 N. Y., 454, where the court say : “ In such cases subscribers to the stock of corporations whose charters are liable to be .so changed or altered mast be regarded as consenting to the change.” Bailey v. Hollister, 26 N. Y., 112; Matter of the Empire City Bank, 18 id., 199; McLaren v. Pennington, 1 Paige, 102; Poughkeepsie & Salt Point Plank Road Co. v. Griffin, 24 N. Y., 150; The Reciprocity Bank, 22 id., 9.
+The principle underlying this determination has recently been the subject of decision by the supreme court of Rhode Island, State v. B. & S. Manuf'g Co., 46 Alb. L. J., 504, where the doctrine herein contended for is supported.
+These views lead to a judgment for plaintiff, with costs.
