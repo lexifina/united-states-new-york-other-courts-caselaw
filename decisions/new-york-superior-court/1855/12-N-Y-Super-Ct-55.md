@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1855-10"
+citations: ["5 Duer 55", "12 N.Y. Super. Ct. 55"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Johann H. Schroeder v. The Hudson River Railroad Company; John Otte v. The same; Heinrich C. Duerkop v. The same."]
+source_url: "https://static.case.law/ny-super-ct/12/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1350828
+cites_cases: ["1 Denio, 45", "17 Wend. 305", "6 Hill, 157"]
+---
+
+# Schroeder v. Hudson River Railroad
+
+## Majority (By the Court, Duer, J.)
+
+By the Court, Duer, J.
+The question whether a railroad company can make a valid contract for the transportation of freight beyond the limits of its own road, as their limits are fixed by its charter, as we understand the decision of the Court of Appeals, in West v. The Rensselaer and Saratoga R. R. Co., (4 Selden, 37,) must now be regarded as finally settled. It is only upon the supposition that such a contract is valid, that the decision in that case can be explained. It is, therefore, needless to refer to the recent decisions in England, or to prior decisions in onr own courts, which, countenance, if they do not establish, the same doctrine.
+But, had the law been otherwise settled, we should still be compelled to say, that, upon the finding of the Judge at Special Term, and the evidence by which it is sustained, the defence set up has wholly failed. The contract made by the agent of the defendants certainly bound them to transport the goods of the plaintiff to Albany, the terminus of their own road; and it is not shown that their contract, even in this limited interpretation, has. been performed. For aught that appears, the boxes of the plaintiff never reached Albany at all. The burden of proving that they were carried there, and were there delivered, or tendered for delivery, to the plaintiff, rested upon the defendants, and upon the trial no such proof was given, nor offered to be given.
+There is no force in the objection, that it was not proved, on the part of the plaintiff, that the delivery of the goods was demanded by him in Chicago. It is found by the Judge, and his finding is justified by the proof, that the boxes of the plaintiff and their contents were not, nor was any part thereof, carried by the defendants, or by them caused to be carried, to Chicago; and that, prior to the commencement of this action, they had no office there, nor agent at Chicago, from whom the demand could have been made. A demand is excused, when it is shown that it could not have been complied with, and the obligation to make it ceases, when the act is proved to be impossible. Lex neminem cogit ad impossibilia.
+But, had a different state of facts been proved, still the objection could not have prevailed. It is founded on an erroneous view of the existing law. The duty, which, as a general rule, the law imposes upon a common carrier, is that of delivering the goods, which he undertakes to transport, to the owner or consignee, personally, at the place where the transportation ends. His duty is to seek the person to whom the delivery is to be made, and make its tender; and from this duty he can only be discharged by a special contract, or by proof of an opposite usage. Such was the decision of the Supreme Court, in Gibson v. Culver, (17 Wend. 305,) and that such is the established law, is abundantly proved by the cases and authorities which Mr. Justice Cowen, in an elaborate judgment, has there collected and reviewed. (Vide, also, Magill v. Potter, 2 Johns. Cases, 371; Fish v. Austin, 1 Denio, 45; Brice v. Powell, 3 Comst. 322.)
+The objection that has probably been most relied on as creating a bar to the plaintiff’s recovery, is, that it has been found by the Judge that the agent of the defendants, Pierce, had no authority to make the contract, upon which this action is founded, but the meaning of the Judge undoubtedly is, that Pierce had no such express authority; that no such authority was in terms delegated to him; and, in our opinion, the effect of this finding is completely removed by his having also found that Pierce was the general agent of the defendants, in making contracts for the reception and transportation of freight; that he was held forth to the world as possessing full authority to make all such contracts, and that the plaintiff had no knowledge or notice of any limitation of his powers. Hence, as the contract upon which the action is founded was certainly within the general scope of the agent’s apparent authority, we are clearly of opinion, that it bound the defendants, and that they are answerable for the damages which the plaintiff is proved to have sustained from its breach. (Story on agency, § 443, p. 540.)
+It seems to us that the other exceptions stated in the case are so plainly untenable as not to require a special consideration. Even had the answer been amended as was desired, we cannot see that the amendment would have helped the defendants, for, admitting that they were not common carriers from New York to Chicago, we must still have held, that they were liable for their breach of a positive contract.
+The judgment at Special Term is affirmed, with costs.
