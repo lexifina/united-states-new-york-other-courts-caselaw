@@ -1,0 +1,21 @@
+---
+court: "New York Superior Court"
+decided: "1866-02"
+citations: ["5 Rob. 601", "28 N.Y. Super. Ct. 601"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wolfe et al. vs. Brouwer."]
+source_url: "https://static.case.law/ny-super-ct/28/cases/0601-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1398010
+cites_cases: ["4 N. Y. Rep. 166", "9 Abb. 108"]
+---
+
+# Wolfe v. Brouwer
+
+## Majority (Robertson, Ch. J.)
+
+Robertson, Ch. J.
+The plaintiffs entrusted the defendant with their acceptances of his drafts, amounting to seven thousand dollars, to be procured by him to be discounted at a certain bank, (the Grocers,) and to return the proceeds to the plaintiffs, for which he was to receive a commission.' By placing in his hands written contracts by them, in the form of instruments negotiable by delivery, they made him their agent to transfer the same before their maturity to any one, in good faith, for a new and valuable consideration ; so that any one who so took them from him became the lawful owner of them, and entitled to recover from the plaintiffs on them to the value of the consideration advanced. They had no vitality, and were not binding on the plaintiffs until so transferred. If the authority so given was limited by private instructions, to procure them to be discounted by one person alone, and the defendant transferred them to another, he would be liable as an unfaithful agent for violating his instructions to the extent of any pecuniaiy damage suffered by the plaintiffs thereby. But if such other person advanced the same thing or value as was intended by the acceptors to be received from the party designated, the damages, if any, would be merely nominal. The passing of such acceptances, therefore, for value and in good faith to a third person by the defendant, although a fraud on his principals, was not a conversion of them to his use, so as to make him liable for their value, or in other words, to the extent to which they would be damnified by being obliged to pay them. They could not bring any action against the party who so received such drafts, for conversion, which they could do if they were illegally transferred to them. Until after such new value was received, and the transfer of ownership completed, the plaintiffs were not liable for the draft's, and therefore the real cause of action consists of their agent making them liable therefor against instructions or limitations of authority. The fact that such agent received the proceeds and applied1 them to his own use does not alter this state of things. Such a fraud does not compel the transferee to prove'for what, and the mode in which he received them. (Case v. Mechanics’ Banking Association, 4 N. Y. Rep. 166.) Of course whatever such agent received on the misapplication of such drafts, he received for the plaintiffs, and as their agent in a fiduciary capacity, and was bound to transfer to them. And for not delivering it over might be held to bail. But he is not liable for the conversion of the drafts eo nomine to the extent of the liability imposed by his act on the plaintiffs. The defendant is, therefore, liable to be held to bail. The only remaining question is the amount.
+Although, perhaps, the order of arrest ought not to have been granted on assertions made on information only, stated generally, yet it is to a certain extent a matter of discretion with the officer granting the order, how far he relies on'the statement of the party making the assertion; for even if he furnishes the name of his informant, and states his means of knowledge, it would still be but hearsay, but if such allegations be not met by a denial on a motion to discharge from arrest, they must be taken to be true. ( Union Bank v. Mott, 9 Abb. 108.) In this case the draft for two thousand dollars has been passed by the defendant to a third person for value, so as •prima fade to make the plaintiffs liable for the whole amount. He does not state what he has received, and one of the plaintiffs swears he has received nearly the whole amount. The bail may therefore be reduced to $2500, with $7 dollars costs of this motion to the plaintiffs, to abide the result.
