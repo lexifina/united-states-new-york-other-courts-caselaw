@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court"
+decided: "1959-11-10"
+citations: ["20 Misc. 2d 5"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Joe Bell Games, Inc., Petitioner, against Arthur W. Wilson, Individually and as District Attorney of the County of Onondaga, et al., Respondents."]
+source_url: "https://static.case.law/misc2d/20/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1053917
+cites_cases: ["102 N. Y. 133", "119 Misc. 22", "120 N. Y. 526", "172 Misc. 862", "200 App. Div. 423", "201 N. Y. 240", "229 N. Y. 10", "23 F. 2d 38", "237 N. Y. 193", "24 F. Supp. 14", "242 N. Y. 13", "270 U. S. 657", "3 A D 2d 818", "3 N Y 2d 734", "316 Ill. App. 161", "4 A D 2d 276", "5 Misc 2d 375", "53 F. 2d 1012"]
+---
+
+# Joe Bell Games, Inc. v. Wilson
+
+## Majority (Frank Del Vecchio, J.)
+
+Frank Del Vecchio, J.
+This is a motion for an order directing the District Attorney and the Chief of Police to return three coin-operated amusement machines alleged to have been taken from petitioner as a result of an unlawful search and seizure.
+It appears from the affidavit of a Syracuse police officer that at about 1:50 a.m. on June 30, 1959, while in the course of his duties in checking doors of various business establishments, he found a window open at petitioner’s premises and, believing that a burglary might have been committed and that persons other than rightful occupants might be inside, he entered through the open window to determine whether a burglary had been committed; that while making the investigation he observed the three coin-operated machines which he felt ‘ ‘ may have been in violation of law ”. These machines were confiscated and petitioner was charged with possession of gambling devices in violation of section 982 of the Penal Law.
+It also appears that the criminal case is still pending although a jury trial could have been had on October 1 and October 22 but on each occasion the case was postponed upon excuses made by petitioner’s attorney. The trial date is now set for November 19.
+The petitioner contends as appears from the affidavit of its president that the police officer broke into and entered the premises without a search warrant and, therefore, seized the machines in violation of its constitutional rights. It does not deny that the machines are illegal.
+There is a dispute as to whether or not a prior similar motion concerning the same machines is still pending and undetermined, however, the parties having stipulated that this motion be heard, the court will pass upon its merits.
+It was conceded upon the oral argument of the motion that this court is not required to determine whether the machines are gambling devices. That question will be decided in the criminal case in the event they are not returned.
+It is also conceded that on the trial of the criminal case the court would not take notice of the manner in which the machines were obtained and, even though unlawfully obtained, they would be admissible in evidence under the rule of People v. Defore (242 N. Y. 13, cert. denied 270 U. S. 657). An affidavit by counsel for one of the respondents states that the machines in question will be used as evidence in the criminal prosecution. Petitioner argues, however, that this is a civil proceeding for the return of machines illegally seized in violation of petitioner’s constitutional rights and that the Defore case is no authority to prevent their return because that case merely decided that illegally obtained articles are admissible in evidence in the trial of a criminal case.
+It seems to be well settled that this court has inherent power to order the return to the owner of articles obtained by an illegal search and seizure. (Matter of Both, 200 App. Div. 423; Matter of Silfa v. Kennedy, 5 Misc 2d 375, affd. 3 A D 2d 818, affd. 3 N Y 2d 734.)
+It is also • well settled that a police officer, lawfully upon premises, may without a warrant seize property in plain view which he has reasonable cause to believe is being kept or used in violation of law. (Code Crim. Pro. § 177; People v. Milone, 119 Misc. 22; Schnorenberg v. United States, 23 F. 2d 38; Haggerty v. Ryan, 53 F. 2d 1012; People v. One Pinball Mach., 316 Ill. App. 161; United States v. Sam Chin, 24 F. Supp. 14, 17.)
+The pivotal question to be determined on this motion is the status the officer occupied while he was on petitioner’s premises. If he entered the building for the purpose of searching the premises to discover evidence of crime he was a trespasser and the seizures would be unlawful, but if he was lawfully on the premises and the machines, apparently gambling devices, were exposed to view the seizure would be legal. (People v. Chiagles, 237 N. Y. 193, 197; People v. Defore, 242 N. Y. 13, 18, supra.)
+In "determining this question the court must take the facts as they are given in the affidavit of the officer, who states them from personal knowledge and observation and not accept the conclusory statements contained in the affidavit of petitioner’s president who was not present and made no personal observations. His statement that the officer broke into and entered the building, thereby giving him the status of a trespasser, is his opinion and conclusion not based on facts within his knowledge and is therefore worthless as a probative assertion for any purpose. (Matter of Behncke, 172 Misc. 862, 866; McCarragher v. Rogers, 120 N. Y. 526, 533; Newhall v. Appleton, 102 N. Y. 133.)
+This court is of the opinion that if the officer observed an open window at petitioner’s premises at 1:50 a.m. it would be his duty to investigate and determine whether a burglary had been or was being committed and for that purpose he could rightfully enter the premises as a service to the public and would not be a trespasser.
+In Beedenbender v. Midtown Properties (4 A D 2d 276) the court pointed out that policemen and firemen do not readily fit the categories either of licensee or invitee, but if the conditions calling for their entry exist, they enter the premises as of right because they are treated as a special class, sui generis, privileged to enter the premises for a public purpose irrespective of consent. (See, also, Racine v. Morris, 201 N. Y. 240; Meiers v. Koch Brewery, 229 N. Y. 10.)
+Section 983 of the Penal Law provides that it shall be the duty of every police officer to seize machines described in section 982 of the Penal Law, the section which petitioner has been charged to have violated. Since the officer was lawfully on petitioner’s premises and not a trespasser at the time he observed the machines in question it was his duty to seize them without a search warrant if they fell within the description contained in section 982 of the Penal Law.
+The authorities cited by petitioner in its memorandum of law are clearly distinguishable and do not apply to the facts presented on this motion.
+The court has come to the conclusion that petitioner’s constitutional rights have not been violated and that the three coin-operated machines were lawfully seized; therefore, the motion to compel their return is denied.
+Order accordingly.
