@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1858-04"
+citations: ["6 Abb. Pr. 211"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PUDNEY a. GRIFFITHS."]
+source_url: "https://static.case.law/abb-pr/6/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2372830
+---
+
+# Pudney v. Griffiths
+
+## Majority (Clerke, J.)
+
+Clerke, J.
+It is asserted, and for the purpose of this motion admitted, that the plaintiffs directed the sheriff to return the execution, issued in this action, before the expiration of the sixty days, and before any effort was made to levy upon property subject to execution.
+How, supplementary proceedings under the. first part of section 292 of the Code, were evidently designed as a remedy, not concurrent or simultaneous with an execution, hut, as the adjective designating these proceedings imports, to supply its place where it has failed to he effectual; and, in all cases, the execution must precede the resort to the supplementary remedy—it must he issued with a bona fide attempt to find and attach property, which it can reach. Otherwise, the intention of the law requiring the issuing of the execution, would be an idle ceremony ; and it would save much trouble,—it would in every respect be more convenient and proper, to allow the commencement of what we now call supplementary proceedings, immediately on the rendition of the judgment, and without the intervention of an execution. We all know that the creditor’s bill, for which these proceedings are a substitute to a certain extent, could not have been filed until what was called the legal remedy should be exhausted.
+There is nothing under the present system superseding this requirement. The remedy by execution must still be exhausted : it must be really exhausted—it must not be a sham attempt to do so; but the proper officer must be allowed to take the usual course to effectuate the object which the process was designed to serve.
+This, certainly, is not done when the plaintiffs in an action interpose and prevent the sheriff from even searching for property, by prematurely directing him to return the execution, for the express purpose of enabling them to commence these proceedings.
+The order must be set aside, with $.5 costs.
