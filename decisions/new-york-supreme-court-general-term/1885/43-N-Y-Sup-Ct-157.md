@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1885-04"
+citations: ["43 N.Y. Sup. Ct. 157"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin, P. J., and Boardman, J., concurred."]
+parties: ["MARY ANN COAKLEY, as General Guardian of SARAH MAHAR, Respondent, v. JAMES MAHAR, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/43/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4510908
+cites_cases: ["23 Hun, 273", "31 Hun, 522", "33 N. Y., 289", "34 Hun, 178", "48 N. Y., 106", "56 Barb., 197", "59 How., 24", "60 Barb., 163", "63 Barb., 271", "63 N. Y., 656", "7 Johns. Ch., 150", "7 Wend, 45", "8 Barb., 48"]
+---
+
+# Coakley v. Mahar
+
+## Majority (Eollett, J.:)
+
+Eollett, J.:
+This is an appeal. from a judgment, entered on a verdict for sixty-nine dollars and eight cents, recovered at the Oneida Circuit. The pleadings . admit that Sarah Mahar and defendant are tenants in common, each owning an undivided half of No. 26 Jason street, Utica, and that Mary A. Coakley is the general guardi'an of Sarah Mahar. The premises were rented to tenants by defendant with the consent of the general guardian at a monthly rental. For a time the rent was paid equally to the parties, each collecting an alternate month’s rent; but after-wards the defendant collected during several months the whole of the rent. The plaintiff sues to recover half of the rent. The defendant defends on the ground that the plaintiff as general guardian has no cause of action, and alleges by way of counter-claim that he has expended for taxes, improvements and repairs more than the amount of rent received.
+The general guardian of an infant is answerable for and entitled to receive the issues and profits of the land of the ward. (2 R. S., 153, § 20.) He has power to lease the land. (Field v. Schieffelin, 7 Johns. Ch., 150, 154; Thacker v. Henderson, 63 Barb., 271; 3 Wait’s A. and D., 553.) The guardian can maintain an action for the rents. (Pond v. Curtiss, 7 Wend, 45; White v. Parker, 8 Barb., 48, 52.) The powers of a guardian are commensurate with his duties. (Chapman v. Tibbits, 33 N. Y., 289.) Section 1666 of the Code of Civil Procedure has no application to this case. That and the cognate sections relate to “ real actions.” This is a personal action. It is an action in debt, not for the recovery of rent as such, but for the recovery of money had and received by the defendant, which belongs to the ward of the plaintiff, and for which the guardian may sue. (Thomas v. Bennett, 56 Barb., 197; Hauenstein v. Kull, 59 How., 24; Simpson’s Law of Infts., 212.)
+The evidence shows that by custom one-half of the rent was to be paid to each party. Defendant testified : “ For' a time I. came around when my month’s rent was due; I went and got it every other month.” The defendant’s evidence clearly shows that there was an understanding that each party should receive one-half of the rent.
+The action was well brought. It is well settled in this State that a tenant in common cannot recover from a co-tenant the expense of improvements made, unless the co-tenant, assented to the improvements. (Scott v. Guernsey, 60 Barb., 163; affd. 48 N. Y., 106; Ford v. Knapp, 31 Hun, 522.) The defendant could not counterclaim the expense of improvements made without plaintiff’s assent. The court directed the jury to allow the defendant for one-half of the taxes paid and for one-half of the expense of such repairs as they found were necessarily made; and to return a verdict for the plaintiff for the remainder. The defendant has no cause to complain of this direction. None of the exceptions to the admissibility of evidence are important, and they require no consideration.
+This case is simply the stenographer’s minutes printed, which is in direct violation of Rule 34 of the Supreme Court, and many decisions thereunder. It is evident that the minutes were not examined before the case was printed, or tbe proofs of the printer read and corrected. The dates are confused, some of them absent, and it is impossible to determine with certainty whether some of the transactions occurred in 1880, 1881 or 1882. The complaint, as printed, appears to have been verified September 23,1883, nearly a year later than the answer and reply. The appellant’s brief states that the action was begun in 1884. The court can correct these errors and variances, but it is the duty of counsel to see that eases are correctly made up and printed accurately. The notice of appeal is from an order denying a new trial, as well as from the judgment. No order denying a new trial is contained in the appeal book. It appears by the appeal book that a motion for a new trial was made on the judge’s minutes and denied, to which the defendant excepted. An order must he in writing. (Code Civ. Pro., § 767.)- A formal order duly entered is the only competent evidence of the determination of such á motion. The statement that a motion was made and denied, and an exception taken, is not equivalent to an order, and the statement and exception present no •question for review. (Ehrman v. Rothschild, 23 Hun, 273; Matthews v. Meyberg, 63 N. Y., 656.) The grounds upon which the motion for a new trial on the judge’s minutes was made do not appear in the appeal book, and for that reason the errors of the jury, if any, are not before this court. (Hinman v. Stillwell, 34 Hun, 178.)
+The judgment should be affirmed, with costs.
+Hardin, P. J., and Boardman, J., concurred.
+Judgment affirmed, with costs.
