@@ -1,0 +1,35 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-12"
+citations: ["1 Connoly Sur. Rep. 159"]
+reporter: "connoly-sur-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of Arden. In the matter of the application for probate of the will of Jane Arden, deceased."]
+source_url: "https://static.case.law/connoly-sur-rep/1/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1130559
+cites_cases: ["3 Edw. 79", "70 N. Y. 327", "73 N. Y. 325", "79 N. Y. 327", "80 N. Y. 599"]
+---
+
+# In re the application for probate of the will of Arden
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+That the paper propounded was duly executed as the last will and testament of decedent, and that she was mentally capable and under no restraint, nor subject to undue influence, is fully established.
+There remain but two questions to be determined. The Ladies’ Home Society is admittedly incapable of taking its legacy of $500; and it is claimed in behalf of the contestants that, as to this legacy, the decedent died intestate; whereas, the residuary legatee claims that it falls into and becomes a part of the residuum.
+The capacity of the First Baptist Mariner’s Church to take as residuary legatee is disputed, it being claimed by contestants that it is incompetent to take on four grounds: (1) That the church is not incorporated ; (2) that it holds property equal to the amount it is authorized by law to hold; (3) that it is incapable of taking a devise of real estate or the proceeds of real estate; (4) that it is dissolved as a corporation and has no legal existence.
+The certificate of incorporatio.n was recorded in the register’s office, March 25, 1847, instead of in the office of the county clerk, as required by the statute. Laws 1813, chap. 60. The case cited" by contestant is controlling on the point that, where the substantial requirements of the statute are complied with, as the holding of the meeting, the election of trustees, and the execution of the certificate, an error in recording, etc., would not prevent the corporation from taking effect as such. Trustees of the St. Jacob’s Lutheran Church v. Bly, 73 N. Y. 325.
+The other point to be considered is whether this court has jurisdiction to determine that this corporation has become dissolved and has no legal existence.
+In the matter of the Petition of the N. Y. Elevated R. R. Co., 70 N. Y. 327, at page 338, it was held that a cause of forfeiture cannot be taken advantage of, or enforced against a corporation, collaterally, or incidentally, or in any other mode than by a direct proceeding for that purpose against the corporation, and the government creating the corporation can alone institute the proceedings.
+“ Where twenty-four persons subscribed articles of incorporation, while the statute required twenty-five, and filed the same pursuant to the statute, and exercised the powers and franchises which would have belonged to them if duly incorporated, they became defacto a corporation, and the defendant, in an action brought by the corporation, cannot question the validity of its incorporation. That can be done only in an action by the people, brought for the purpose of testing its rights to the corporate powers and franchises which it has assumed.” Buffalo City Railway Co. v. N. Y. Central & Hudson River R. R. Co., 22 Alb. L. J. 134.
+“A forfeiture of the franchises of a corporation, unless there be special provision by statute, can only be enforced by the sovereign power to which the corporation owes its life, in some proceeding instituted in behalf of the sovereignty.” Denike v. New York and Rosendale Lime and Cement Co., 80 N. Y. 599.
+It is unnecessary to cite further authorities. Whether this legatee is or is not a corporation lawfully existing cannot be decided in this proceeding or in this court. It appears satisfactorily that it was duly organized and incorporated, and has never been judicially dissolved.
+I decide, therefore, that the First Baptist Mariners’ Church is competent to take the residuary estate.
+I next come to the legacy of $500 to the Ladies’ Home Society. The language of the sixth clause is as follows:
+“ I give, devise and bequeath to the Ladies’ Home Society of the Baptist churches of the city of New York; $500;” and of the eighth clause: “ All the rest, residue and remainder of my estate, real and personal, I give, devise and bequeath to the First Baptist Mariner’s Church of the City of New York.”
+And by the ninth clause the executors are directed to sell and dispose of all the real estate for the purpose of distribution.
+In Kerr v. Dougherty, 79 N. Y. 327, although the Court of Appeals held the lapsed legacies did not fall into the residue, the reasons given were based on language in the will contrary to that of the one in question here.
+In that case there was not a general bequest of the residue ; the testator’s wife was not a residuary legatee of all the fund, but only partially so, as the devise to her was confined to a fund, after a certain amount had been deducted; thus creating the bequest of a residue of a residue. In the case at bar there is a bequest of the residue generally; nor is the residuary legatee confined to a fund that will be ascertainable after certain amounts have been deducted therefrom, thus making the bequest that of a residue of a residue. See, also, King v. Woodhull, 3 Edw. 79, 82 ; King v. Strong, 9 Paige, 94.
+In my opinion the void legacy in question falls into and becomes a part of the residuum.
