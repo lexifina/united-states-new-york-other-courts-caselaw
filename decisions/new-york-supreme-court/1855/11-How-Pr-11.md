@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court"
+decided: "1855-03"
+citations: ["11 How. Pr. 11"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stephen S. Sheldon, adm’r, &c., respondent, agt. Jas. Hoy, appellant."]
+source_url: "https://static.case.law/how-pr/11/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2199118
+cites_cases: ["17 Wend. 197", "4 Denio, 80", "8 Cow. 235", "9 Wend. 302", "9 Wend. 490"]
+---
+
+# Sheldon v. Hoy
+
+## Majority (Johnson, Justice.)
+
+Johnson, Justice.
+By the court
+The objections relied upon by the defendant’s counsel are those stated in the first, second, and fifth grounds of demurrer.
+The first count is for a conversion of the property during the lifetime of the intestate, and the plaintiff can maintain the action for that cause in a representative capacity only. It is Conclusively settled by authority, that a complaint commencing like the present, and containing no other allegations or statement. of fact of the plaintiff’s appointment, does not allege that he is an administrator, or show that he prosecutes in that capacity. The introductory statement is a descriptio personae merely. (Merritt agt. Seaman, 2 Selden, 168 ; Gillett agt. Fairchild, 4 Denio, 80, 83; Beach agt. King, 17 Wend. 197; Stanley agt. Chappell, 8 Cow. 235; People agt. Mayor’s Court, 9 Wend. 490; White agt. Law, 7 Barbour, 204.) Many other cases might be cited, but it is unnecessary.
+In Merritt agt. Seaman, the court of appeals reversed the judgment, on the ground that the defendant had recovered a Set-off against the plaintiff in his representative capacity. The declaration was in form, except that the action was different, like the complaint here; and it was held to be an action by the plaintiff in his individual, and not in his representative Capacity, in which no set-off against the estate could be allowed.
+This being, by the rules of pleading, a count in favor of the plaintiff in his individual right, it does not contain a statement of facts constituting a cause of action. The fact that the plaintiff is administrator, and has been regularly appointed by the surrogate of some county in this state, is a material and traversable fact, and must be stated in such form as to tender an issue to the other party. It will scarcely be pretended, that matter which is merely descriptive of the person of the plaintiff is issuable matter, or that it constitutes any part of the cause of action.
+The learned judge, at the special term, is mistaken in supposing that the complaint in this case conforms to the former precedents. It will be seen, on examination, that in all the forms of declarations in trover by an administrator, there is contained, in addition to the general profert, in the body of each count, a particular averment of the granting of administration; and the first count was always to contain a particular statement of the time and place of granting, and the functionary by whom administration was granted to the plaintiff. (2 Chit. Pl. 840, 841, 6th Am. from 5th London ed. See also Till. Form, 438, 439.)
+This must always have been necessary, as without such an averment the declarations would show no right in the plaintiff. The profert itself, I apprehend, was never traversable, although the excuse for omitting it was. (1 Chit. 398.) No action can, therefore, be maintained on the first count. It shows no title in the plaintiff, and no conversion by the defendant of the plaintiff’s property, in any point of view.
+But I am of opinion, that all the facts necessary to constitute a good cause of action, are stated in the second count. This is to be regarded as a complaint by the plaintiff in his own right, and not in his capacity as administrator.
+An administrator could always bring trover in his own name, without declaring in his representative capacity, for the goods of his intestate converted after his death, even though the conversion was before the granting of administration. Because the granting of administration related back to the time of the death, and gave the administrator title by relation. (Valentine agt. Jackson, 9 Wend. 302.) This has not been changed by the Code.
+Does, then, the second count state facts enough to establish the necessary right in the plaintiff to enable him to maintain the action in his own right 1 It states that he was possessed, as administrator, of the goods. This is equivalent to an allegation that he was lawfully possessed, if it is not that he had title as well as possession. But if this is to be regarded as no more than a simple allegation that he was possessed, I am inclined to the opinion that that is sufficient. The- term “ possessed ” imports that it is held by lawful title. This being so, are facts stated which constitute a conversion in law? It is alleged that the property, after being in the possession of the plaintiff, came into the possession of the defendant, who, although often requested so to do, has not delivered the same to the plaintiff, but wrongfully detains the said goods from him. These allegations being true, do they establish a conversion? I think they do: all the facts which constitute a conversion are here stated.
+It is true, that a conversion is essential to support the action. But a wrongful detention against the demand of the true owner is a conversion. It is as much so as a wrongful taking from his possession. Suppose the allegation had been that the defendant wrongfully took the property from the plaintiff’s possession, and carried it away. Wrongful taking or wrongful detention amount to conversion; and where either fact is alleged, it is unnecessary to add, in addition, the legal conclusion that it was converted. It is said, that the allegation of a wrongful detention is a mere legal conclusion of the pleader. But it is no more so than the allegation- that the property was converted. The fact asserted is, that the defendant wrongfully detained the plaintiff’s property. The law adjudges this a conversion. The legax conclusion follows the fact established.
+The ninth cause of demurrer is to the whole complaint; and the second count being good, the plaintiff must have judgment. The judgment of the special term must, therefore, be affirmed.
