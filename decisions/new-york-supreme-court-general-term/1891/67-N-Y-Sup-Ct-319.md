@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-06"
+citations: ["67 N.Y. Sup. Ct. 319"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., concurred."]
+parties: ["FERDINAND GRIEBEL, Appellant, v. THE ROCHESTER PRINTING COMPANY, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/67/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2396472
+cites_cases: ["17 N. Y. St. Rep., 69", "45 N. Y., 398"]
+---
+
+# Griebel v. Rochester Printing Co.
+
+## Majority (MaCombek, J.:)
+
+MaCombek, J.:
+At the trial of this cáse, which is an action for libel, a verdict of a jury was rendered for the defendant. The alleged libel consisted of an article printed in a newspaper known as the Rochester Democrat and Chronicle, of which the defendant is the proprietor, on the 2d day of April, 188S, as follows:
+“UNDER False Pretenses.
+“Detectives Furtherer and Kavanagh, yesterday, arrested Ferdinand Grueble on the charge of obtaining goods under false pretense. Bartholomew Connors, of Faber street, who swore out the warrant, claims that Grueble went to his house while lie was away, one day last week, and represented to his wife that he had been sent after her husband’s watch. On these representations she handed over the time-piece, and this is what leads to the difficulty.”
+The complaint alleges that the person in such article, called Ferdinand Grueble is the plaintiff, who is well known to many readers of that newspaper. The defense is, .in substance, that the publication was a mistake, caused by the error of the newspaper reporter, who, by inadvertence, had charged Griebel with the crime under a complaint of Bartholomew Connors, while, in fact, Bartholomew Connors was the accused person apd Ferdinand Griebel the complainant.
+Upon the trial a point was made that the plaintiff was not the same person as the one mentioned in the newspaper article. But it seems to us that there was no merit in that claim, because, under the evidence, all of the plaintiff’s acquaintances would necessarily understand from the article that he was the person referred to. If it be true, as is claimed by the learned counsel for the defendant, that the verdict of the jury was based upon the proposition that the Ferdinand Griebel mentioned in the title of this action, and the Ferdinand Grueble mentioned in the article, as published, are not the same persons, that conclusion was wholly unsupported by the evidence and should not be permitted to stand. But it is quite apparent that the jury reached no such result.
+The learned justice at the circuit charged the jury that: “ If this article in question was designed to' affect this plaintiff — if the plaintiff was the person meant by the article — the article was libelous; it charged the plaintiff with the commission of an offense which, lie had not committed. The publication of that article is. presumably malicious, but -the malice presumed by its publication may be entirely overcome by evidence that none was intended by its publication. If you find that a libel was published by defendant against the plaintiff, but that it was published without any malicious intent, then, although it would be your duty to find a verdict in favor of the plaintiff, yet, under these circumstances, he would be entitled to recover only nominal damages, because he has not shown that he has received any special damage by reason of the publication.”
+At the close of the charge the counsel for the plaintiff asked the court to charge as follows: “ That if they (the jury) should find that, the publication was made without malice, but as a matter of pure mistake and without malice, the plaintiff was still entitled to-damages which would compensate him for whatever damage was done to his reputation.”
+The court, in reply to this request, said “ there is no evidence of any damage which the plaintiff has sustained. I must refuse to charge as you request.” To this refusal an exception was taken. A further request was made that “the defendant had no right to make a mistake which would substantially injure a person without answering in damages to that person.” This proposition was also declined by the court in the following terms: “ The court declined to charge in the language requested.” To this, also, there was exception taken. Exception was also taken to the portion of the charge in chief as above quoted.
+In respect to the proposition that the plaintiff was not entitled to substantial damages, provided the publication was a mistake, and was made without any intent to injure the plaintiff, it is, perhaps, sufficient to say that it is counter to the decision in the case of Morey v. The Morning Journal Association (17 N. Y. St. Rep., 69), which was affirmed by the Court of Appeals in 123 New York, 207. It was there held that a publication, though made through a mistake of name, which charged the plaintiff with a threatened suit for breach of promise of marriage, was libelous %>er se, and that the plaintiff was entitled to recover substantial damages without averment or proof of any special damage, and that the publication necessarily disgraced the plaintiff.
+The other ground of error, namely, in respect to the affirmative legal proposition contained in the charge in chief is probably included in the general doctrine of the case already cited. In Sanderson v. Caldwell (45 N. Y., 398), it is stated that the law not only imputes malice to the defendant who publishes libelous matter, but that it also presumes that damages have been sustained by the plaintiff in consequence of such unlawful publication-; and in answer to the argument of counsel made in that case to the effect that the plaintiff was entitled to nominal damages only, and a verdict for nominal damages would be a vindication of its character. Judge Andeews said (p. 406): “ In such a case a nominal verdict would be a denial of justice, and the court was not bound to assent to the suggestion of the defendant that such a verdict might be given. Nor would such a verdict have been a vindication of the plaintiff. It would have established that the charges were false, but at the same time it would have left it to be inferred that the plaintiff had no character to lose.’'
+For the errors above mentioned, it follows that a new trial should be ordered. This conclusion renders it unnecessary to consider other matters thought by counsel to be involved in the record.
+Dwight, P. J., concurred.
+Judgment and order appealed from reversed and a new trial granted, with costs to abide the event.
