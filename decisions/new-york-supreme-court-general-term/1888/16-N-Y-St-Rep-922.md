@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-19"
+citations: ["16 N.Y. St. Rep. 922"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Dibb, App'lt, v. Dry Dock, East Broadway and Battery R. R. Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/16/cases/0922-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2004286
+cites_cases: ["101 N. Y., 398"]
+---
+
+# Dibb v. Dry Dock
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action was brought to recover damages for personal injuries received by the plaintiff while in the employment of the defendant as a driver of one of the defendant’s cars.
+Upon the day in question the plaintiff had been in the defendant’s employ a little over a year, and was a driver of about twelve year’s experience altogether. He was supposed to be a competent driver, and on that account was frequently employed to break in green hands and teach them their duties.
+On the day in question, he was breaking in a young man and was teaching him thoroughly howto drive a car before he was left alone on the car. His car was the first one out that morning, and on the second trip, he took on the green driver to break him in, and made three or four trips with him over the Grand street line of the defendant’s road before the accident occurred which forms the basis of this action. On Grand street near Centre, the defendant was engaged in repairing its road; the north track was tom up and the plaintiff had proceeded over the excavation several times previous to the accident, which occurred a little before eleven o’clock. At this time the excavation was from twenty-five to thirty feet long, extending the whole width of the track, and according to the plaintiff’s testimony, was nearly two feet in depth.
+The plaintiff saw the excavation, and as the car approached the spot where the stones and earth between the rails had been removed, the plaintiff stood on the front platform by the side of the new driver, whom he instructed to put on the brake, which he did when one of the laborers working upon the track came to him and said: “ Go on, what the hell are you doing there ? The plaintiff instructed the green driver to go right on, and he went on, and just then the rails spread, the car was thrown into the hole and the plaintiff was thrown against the dash-board and injured. The plaintiff further testified that under the circumstances which existed at the time of the (happening of the accident, the proper thing for the driver to have done would have been to take off his team and lead them around, while the trackmen shoved the cár over the excavation.
+This being the condition of the evidence, a motion was made to dismiss the complaint upon the ground, amongst others, that the plaintiff was guilty of contributory negligence. This motion was granted.
+In this there does not seem to have been any error. It appears affirmatively from the testimony in question, that the plaintiff did not pursue the proper course under the circumstances, but that the proper thing for him to have done according to his own testimony, was to have had the car shoved over the excavation. And when he attempted to drive the horses over the excavation, and threw the car into it, and the accident thereby happened, he was clearly guilty of negligence, which contributed to the happening of the accident.
+The claim that it was the duty of the plaintiff to maintain his post on the front platform of the car and to remain there at all times and under all circumstances, is evidently the statement of a proposition which cannot possibly be maintained. In fact the evidence shows, according to the testimony of the plaintiff himself, that such was not his duty under the circumstances existing at the time of the accident. It is no answer to the claim of contributory negligence to urge that the accident would have happened whether the horses had been hitched to the car or not, because it is apparent that if the horses had been unhitched from the car by the plaintiff, and he had been leading them, around the excavation he would not have been upon the platform of the car to have been injured by the falling of the car.
+Therefore his remaining upon the platform when he should have been leading his horses around the excavation was" certainly negligence which contributed to the happening of the accident.
+The question of responsibility as to the condition of the track, and as to whether the track layers were fellow servants of the plaintiff or not, it is not necessary at all to consider. The plaintiff had full knowledge of the situation, and knew that it was an improper thing to drive these horses through this excavation, dragging the car after them. He chose to take this method of procedure, and when he met with disaster, it was his own fault, and the result of his own negligence. Where an employe has full knowledge that a defective instrument or tool is furnished by the master, no case of liability is made out against the master, because the employe is guilty of negligence in using the tool which he knows to be defective. Marsh v. Chickering, 101 N. Y., 398. Numerous cases might be cited where accidents have happened to employes, where it has been held that if the employe chooses of his own volition a more dangerous method than another of which he was well aware, and an accident happens he has only himself to blame. Lr
+Neither does the fact that some one of the track layers told the" plaintiff to go on excuse him for his subsequent action. The track layers were not the superiors of the plaintiff. They had no right to order him as to the manner in which he should perform his work. There is nothing in the evidence to show that he was in a,ny respect bound to receive any orders or directions from these men, and in following their suggestions, couched in the polite language which has been testified to, the plaintiff pursued his own. course, acted on his own volition and did that which he himself admits it was improper under the circumstances to do.
+He failed, therefore, to show that he was not guilty of negligence contributing to the accident, and the learned, judge rightfully dismissed the complaint.
+The judgment should be affirmed.
+Daniels and Brady, JJ., concur.
