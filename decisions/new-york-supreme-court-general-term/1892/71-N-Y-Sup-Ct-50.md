@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-04"
+citations: ["71 N.Y. Sup. Ct. 50"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Brien, J., concurred.", "Order affirmed, with costs."]
+parties: ["In the Matter of the Estate of EDWARD D. G. PRIME, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/71/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4649997
+cites_cases: ["113 N. Y., 133", "127 N. Y., 8"]
+---
+
+# In re the Estate of Prime
+
+## Majority (Patterson, J.: Yan Brunt, P. J.:)
+
+Patterson, J.:
+The order appealed from in this proceeding was made by the surrogate of New York county, who assessed and fixed the amount of certain collateral inheritance taxes upon bequests made by a testator to residuary legatees and to charitable or benevolent institutions. There are three objections urged to the decision of the surrogate; one common to all the appellants and the others applying only to the corporations referred to. The general objection is, that the testator, having died April 7, 1891, and the,legislature of this State having passed an act (chap. 215, Laws of 1891) which went into effect April twentieth of that year, and which radically changed some of the provisions of the act of 1887, and the order fixing the amount of the tax on the legacies here involved not having been made until October 12, 1891, there was no authority to impose the tax, because, by the changes operated by the law of 1891, the provisions of the act of 1887 were repealed by implication. Ye do-not consider it necessary to comment at length on this contention, for it proceeds upon the assumption that the validity of the tax is to be determined as of the date of its actual imposition. If this were true, there might be force in the argument of the appellants; but the contrary has, in substance, been held by the Court of Appeals. (Matter of Will of Vassar, 127 N. Y., 8.) We consider that, from the terms of the statute, the right to the tax accrued as of the date of the death of the testator, and hence that the surrogate was correct in the disposition he made of that objection.
+Concerning the objections taken by the corporations referred to, we are also of opinion that the decision of the surrogate was right. They claim that even if the act of 1887 were in force and applied to the bequests made in Mr. Prime’s will, those' bequests are exempt because of the provisions of chapter 553 of the Laws of 1890. By that act it is provided that any religious, educational, scientific, benevolent or charitable corporation may take and hold property up to •a certain limit of value, and shall be exempt from taxation and from •the application of the collateral inheritance tax law. The two appealing societies are foreign corporations, and their claim is that the act of 1890 applies to foreign as well as to domestic corporations of Jdndred character. The surrogate held otherwise. It is quite clear to us, from the very object-of the act of 1890, that it was the intention of the legislature that it should apply only to domestic corporations. It is an act to limit the amount of property to be held by corporations organized for other than business purposes. It is .scarcely to be assumed that the legislature of this State would seek, ¡by a genei'dl act, to impose restraints and disabilities on foreign corporations or legislate as to their powers and capacities; or without express reference put them on the footing as to privileges of domestic corporations, as to which, whatever power of control or visitation there is, resides in the authorities of this State. In our •opinion the act of 1890 does not relieve the appellant corporations, and the law as expounded in Catlin v. Trustees of Trinity College (113 N. Y., 133) controls.
+It is further contended by one of the appellants — “The American Board of Commissioners for Foreign Missions ” — that it stands <>n the same footing as a domestic corporation, for the reason that it was virtually reincorporated in this State by an act of the legislature of June 2, 1887. Passing by the solecism and considering the act last mentioned, it appears that it is therein provided that the society referred to shall be capable of taking by gift, etc., any real or personal property and hold and convey the same for all the purposes of said corporation; provided the annual income of its realty in this State, shall not exceed the sum of $20,000. That is merely .an enabling act and nothing more; limited to the one purpose of according to a designated foreign corporation a particular privilege. But it cannot be inferred from that that it is made a domestic ■corporation. There is nothing in the act which gives this corporation such a status — any more than a general law, which allows all foreign corporations to hold real estate and convey it on certain conditions, would give them any further or other rights and privileges than those coming within the strict terms of the law.
+The order of the surrogate was right in all respects, and must be affirmed, with costs.
+Yan Brunt, P. J.:
+In addition to the grounds, in reference to the liability of the legacies to the tax stated by Mr. Justice Patterson, for another reason the statute under which exemption is claimed cannot apply to a foreign corporation.
+It is the well-settled rule in this State' that its statutes have no extra territorial force, unless specially so provided.
+O’Brien, J., concurred.
+Order affirmed, with costs.
