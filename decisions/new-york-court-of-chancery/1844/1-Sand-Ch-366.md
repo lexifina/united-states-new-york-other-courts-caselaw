@@ -1,0 +1,30 @@
+---
+court: "New York Court of Chancery"
+decided: "1844-03-28"
+citations: ["1 Sand. Ch. 366"]
+reporter: "sand-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Blackett v. Laimbeer."]
+source_url: "https://static.case.law/sand-ch/1/cases/0366-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2163587
+---
+
+# Blackett v. Laimbeer
+
+## Majority (The Assistant Vice-Chancellor.)
+
+The Assistant Vice-Chancellor.
+The answer to the original bill insists that the bill is multifarious, because the judgments of some of the complainants are against W. Laimbeer only, while the judgments of others are against W. Laimbeer and J. L. Darby, and Darby is made a defendant in the suit. It is urged that the creditors of W. L. only, have no common interest in the suit with the .creditors of W. L., and Darby. Other arguments were advanced in 'support of the objection, which were plausible; and the point at first blush, appeared to be embarrassing and difficult. On reflection I am convinced that the objection is not well taken.
+It has long been settled that separate judgment creditors may .unite in one suit in this court, against their common debtor for the recovery of their judgments out of his equitable interests, and things in action, or to set aside a fraudulent conveyance or assignment.
+In this case, W. Laimbeer was a debtor in all the judgments. He was the common debtor, and the complainants had a perfect right to unite in a bill against him, and against any number of persons who had fraudulently possessed themselves of distinct portions of his property.
+It has been decided that on a judgment against two, both the debtors must be made parties to a creditor’s bill, unless the complainant avers that the one proposed to be omitted, is destitute of property, or has not property of the value of f 100. Van Cleef v. Sickles, (5 Paige’s R. 505.) Austen v. Figueira, (7 ibid. 56.)
+Here such an averment could not be made, and the complainants were driven to file two bills ; one by a part of them againt W. Laimbeer and his grantees alone, and another by the residue of the complainants against them conjoined with Darby ; or to incur the risk of having one joint bill embracing all the judgments, dismissed at the hearing as multifarious'.
+In Boyd v. Hoyt, (5 Paige’s R. 74,) the Chancellor says, “ where the object of a suit is single, but different persons have or claim separate interests in distinct or independent questions all connected with and arising out of the single object of the suit, the complainant may bring such different persons before the court as defendants; so that the whole object of the bill may be obtained in one suit, and to prevent further unnecessary and useless litigation.”
+Here there is one simple common object in which all the complainants have an interest, to wit, the collection of their debts out of the property of W. Laimbeer in his possession and that of his fraudulent transferees. If there is sufficient property to pay these debts, those who are creditors of both Darby and W. L. would feel no interest in the subject of Darby’s assets, But W. Laimbeer has an interest in that question, and can re.quire Darby to be joined in the suit in order to coerce contribution from him. Darby thus becomes inseparably connected with the common object of the complainants’ suit. His connection extends only to a single and independent point. So does that of George Laimbeer. But in respect of that point, Darby is a necessary party. And although the complainants might have filed two bills, yet I think they had a right to embrace all these matters in one suit, and that such a course should be encouraged, rather than frowned upon by the court.
+Another question of form is presented by a motion to suppress the depositions of four of the complainants witnesses, on the ground of a defective description of the witnesses, in the list furnished prior to the taking of testimony. As to Whitehead, one of the witnesses, he is described thus, “ Stone-, 52 Jane-st., N. Y. City.” He was a stone cutter, and as there is no allegation of actual surprise, the description is not insufficient. Norris is put down as residing at Bronx Post-Office, Westchester co., N. Y. His residence was in fact, Bronx Village. Neither place is an incorporated village or a town. Daniel Keen, as well as Norris, is inserted without stating his occupation. And Thomas Whittaker’s name is given without either residence or occupation.
+On the other hand, it appears that these three persons were all previously examined to the same points against the Laimbeers, in the suit of C. & G. Belden against the Laimbeers, involving the same question; on which occasion the same counsel attended for the Laimbeers, who is their solicitor, and attended as their counsel on the examination of these witnesses in this suit; and that while the witnesses were under examination in this suit, their counsel held in his hands their depositions which had been taken in the suit of Beldens.
+The principal object of the 83d rule, was to cut off the opportunity for parties to fish up testimony after the witnesses in the cause had been partially examined; an evil to which suitors were exposed, by the change from secret examinations on written interrogatories, to the oral examinations now in use. Gaul v. Miller, (3 Paige’s R. 192.) The additions and residence of the witnesses were to be inserted, to guard against surprise, and to enable the opposite party to ascertain their character and their connection with the matters in controversy. The rule is highly salutary, and should be enforced. But where it is so apparent as it is in this case, that there could have been no surprise or mistake as to the persons intended, and no injury has resulted from the omissions; I think it would be straining a technicality, to exclude the depositions.
+The motion for their suppression is therefore denied.
+A decree was made against the defendants.
