@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1895-05-29"
+citations: ["68 N.Y. St. Rep. 720"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Probate of the Will of Sophia Moss, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/68/cases/0720-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2116381
+cites_cases: ["126 N. Y. 658", "30 Hun, 472", "37 St. Rep. 480", "44 St. Rep. 842", "63 Hun, 529", "84 N. Y. 469"]
+---
+
+# In re the Probate of the Will of Moss
+
+## Majority (Lawrence, J.)
+
+Lawrence, J.
+— The facts in this case are these: A decree of the surrogate of this county was made on the 14th of July, 1892, refusing the probate of the will in question, and imposing the costs of the proceeding upon the proponent From this decree an appeal was taken to the general term of this court Thereupon the general term on the first Monday of May, 1894, made an order that the said decree of ,the said surrogate, dated the 14th day of July, 1892, declaring said instrument purporting to be the last will and testament of Sophia Moss, deceased, dated the 12th day of February, 1871, null and void, and also rejecting said will, and refusing the probate thereof, be, and the same hereby is, in all respects reversed, with costs to the appellant to abide the event; also, that “a new trial be had upon the issues herein in the court of common pleas for the city and county of New York, before a jury, on which trial the following issues shall be submitted to the jury for their determination.” Then follows a statement of the issues. In accordance with said order, a trial was had before one of the judges of the court of common pleas and a jury. Upon said trial the jury answered all the questions submitted to them in favor of the proponent No motion for a new trial has been made by the con testant in this court. Application was thereupon made for judgment to the general term, which decided that the motion should be made at the special term of this court, and, in accordance with that decision, the proponent now applies for final judgment. The entry of such judgment should not be stayed by reason of the fact that a motion for a new trial was made on the minutes of the judge who presided at the trial of the issues before the jury in the court of common pleas. See In re Patterson, 63 Hun, 529 ; 44 St. Rep. 842.
+I agree witn the counsel for the proponent that the application for judgment upon the whole issue, including the question of costs, is therefore properly before the special term of this court, under subdivision 1, section 1225, of the Code of Civil Procedure; and I am also of the opinion that the contention of the proponent that as the general term, on an appeal from the surrogate, gave costs to the appellant, to abide the event, the contestant should now be required to pay the costs of the first trial, the appeal, and all subsequent proceedings as the same may be taxed, is correct. See First Nat. Bank of Meadville v. Fourth Nat. Bank of New York, 84 N. Y. 469. As was said by Andrews, J., in that case: “The event of the new trial was the circumstance which was to determine which party should recover costs of the appeal.” The order did not limit the recovery of costs to the prevailing party on his appeal in case he should finally succeed in the action. It was therefore held that the plaintiff, should it finally prevail, was entitled to tax all the costs in the action. Again, in the case of Franey v. Smith, 126 N. Y. 658; 37 St. Rep. 480, it was held that “ where it is provided that costs shall abide the event, this means all the costs of the action up to and including the decision of the court of appeals.” And In re Hood, 30 Hun, 472, the general term of the second department said: “ While it may be assumed that the appellate court awards costs of such courts only; yet, if it assumes to deal with the whole subject, and wipes out and reverses the judgment or decree appealed from, with costs, that includes all the costs of the inferior courts.” In obedience, therefore, to what I understand to be the decision of the general term in this case and the cases above cited, I have signed the decree which has been submitted on behalf of the proponent
