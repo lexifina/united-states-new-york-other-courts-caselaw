@@ -1,0 +1,46 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-10"
+citations: ["79 N.Y. Sup. Ct. 93"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Follett and Parker, J J., concurred."]
+parties: ["Simon Wormser and Isidor Wormser, Appellants, v. John Nicholas Brown and Others, Trustees, etc., and Another, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/79/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4691876
+cites_cases: ["11 Abb. N. C. 241"]
+---
+
+# Wormser v. Brown
+
+## Majority (Yan Brunt, P. J".:)
+
+Yan Brunt, P. J".:
+Upon the trial it appeared that the plaintiffs were owners of a lot of land in the city of Néw York fronting on Fifth avenue, between Sixty-fourth and Sixty-fifth streets, twenty-five feet front and one hundred feet deep, and distant fifty feet five inches from the southeasterly corner of Fifth avenue and Sixty-fifth street.
+That upon this lot of the plaintiffs there had been erected for a number of years a four-story building used and occupied by the plaintiffs for a residence.
+That the defendants’ trustees are the owners of the lots fronting-on Fifth avenue lying between plaintiffs’ lot and Sixty-fifth street.
+That Fifth avenue was duly opened as a street 100 feet wide, and the land owned by the plaintiffs was assessed for the benefit arising from such opening.
+That said Fifth avenue is the easterly boundary of Central Parle, which was laid out according to law, and the premises of the plaintiffs were assessed for the benefit arising from such laying out, and such assessment was duly paid.
+Section 688 of the Consolidation Act of 1882, which was a re-enactment of a portion of chapter 850 of the Laws of 1873, is as follows:
+“ § 688. The determination of the lines of curb and other surface constructions, in all the streets and avenues within the distance of three hundred and fifty feet from the outer boundaries of any public park or place which is now, or hereafter may be, under the control and management of the department of public parks, is vested in the said department, and the said department shall also have power to plant trees and to construct, erect and establish seats, drinking-fountains, statues and works of art, whenever they may deem it for the public interest so to do, on the said parts of said public streets and avenues ; and the said parts of said public streets and avenues shall at all times, as the same are opened, be subject to such rules and regulations in respect to the uses thereof, and erections and projections thereon, as the said department may make therefor ; nothing in this section contained shall be construed to authorize the said department to do any work in the matter of regulating,' grading, paving, sewering, curbing and guttering any of the streets or avenues herein mentioned, which the department of public works is authorized by law to do.”
+In or about February, 1892, an application was made on behalf of the defendants to the commissioners of the department of public parks of the city of New York for a permit for the erection of two bay windows to be attached to the building which they were about to erect upon the lot owned by them.
+The department of- parks in May, 1892, gave their consent to. such erection, and the defendants’ trustees thereupon in June, 1892, proceeded with the construction of their building and of the bay windows, which extended about six feet beyond the building' line, until on or about November 1, 1892, when, upon the application of the plaintiffs, without any notice to or hearing of the defendants, the said park commissioners revoked the permit theretofore granted, pending investigation and until further order of the board. At this time the bay windows were nearly finished, only two or three days more of work being required to complete their construction.
+In November, 1892, the defendants’ trustees, upon notice, to the plaintiffs, made an application to the said park board to rescind the resolution of said board revoking said permit, and the said board, after having heard both parties, on the 23d of November, 1892, rescinded said resolution of revocation, and reaffirmed said permit and granted leave that the work might he completed under the permit originally issued.
+On or about the 11th day of November, 1892, and sxfbsequent to the resolution of revocation, and prior to the rescission of the revocation, this action was commenced to restrain the defendants from completing said bay windows, and from permitting said bay windows erected in front of defendant’s house from remaining thereon. The court found, as a fact, that the erection of the said bay windows interfered to a substantial degree with the light and air coming to^ the plaintiffs’ house, and affects the view from the windows of the plaintiffs’ house towards Central Park and surrounding property.
+The court stated in the findings that no evidence was offered on the trial by either party as to any laches of the plaintiffs, or the acquiescence of the plaintiffs in the construction of the windows, and that no evidence was offered as to the various separate defenses set up in the answer of defendants.
+It is difficult to see how this statement;, although included in the findings of fact, can be considered as such, as it is a mere statement of a want of evidence, and is not a finding of a fact established by the evidence, and, therefore, ought not to have been included in the findings of fact.
+TJpon the trial the court dismissed the complaint, and from the judgment thereupon entered this appeal has been taken.
+In the determination of this appeal it does not seem to me to be at all necessary to determine what powers were conferred upon the department of parks by section 688 of chapter 410 of the Laws of 1882.
+It also seems to me that if the finding of the court below, that the-erection of the bay windows interfered to a substantial degree with the light and air coming to the plaintiff’s house, and affects the same, is sustained by the evidence, that the plaintiffs were entitled to relief in this action, and that the Legislature had no power, even if they attempted to do so, to permit any structure for private use to be erected within the street lines which would substantially interfere with the light and air coming to the plaintiffs’ house.
+It appears that Fifth avenue was opened under the act of 1807 (Chap. 115) and the plaintiffs’ premises were assessed for the benefit accruing thereto from such opening, which consisted of the additional light, air and access which would be enjoyed by said premises resulting from such opening. The levying of such assessment and its payment gave the owner of the plaintiffs’ premises, and his successors in title, the right to the enjoyment of such light, air and access which they had paid for, and it could not be taken from them for private use at all, and for public use only upon compensation being made.
+This principle was first enunciated in the case of Story v. N. Y. Elevated R. R. Co. upon its affirmance by the General Term of the Court of Common Pleas (11 Abb. N. C. 241), and carried to a much greater extent than the said court had sanctioned by the Court of Appeals in its decision of that case, reversing the General Term of the Court of Common Pleas.
+But we do not find the evidence justifying this conclusion of fact.
+The bay windows undoubtedly interfere with the view from plaintiffs’ windows, but such interference forms no ground of action by them. There is not and can be no serious interference with light and air. The projections are not sufficient to cause such an interference. The nearest one to plaintiffs’ premises is at some little distance from tlie plaintiffs’ windows, and does not obscure such windows at all.
+This being tlie case, even if the building of the bay windows into the street was unauthorized, the pfiaintiffs suffering no special' damage therefrom, cannot maintain any action for the removal of the same, whatever might be the right of the municipal authorities under such circumstances.
+The claim of the defendants, that no relief could be granted to the plaintiffs, because the windows had been finished, even if this action had been commenced as soon as their construction had been begun, citing decision in case of Fire Department v. Zeigler to that effect, cannot be sustained.
+A party who, in the face of an action promptly brought for an injunction, goes on and completes the thing against which an injunction is sought, and which infringes a plaintiff’s right, does so at his peril, and he may be compelled to undo that which he has done in defiance of a plaintiff’s right and with full knowledge of his attempts to enforce them.
+I am of the opinion that the judgment appealed from should be affirmed, with costs.
+Follett and Parker, J J., concurred.
+Judgment affirmed, with costs.
