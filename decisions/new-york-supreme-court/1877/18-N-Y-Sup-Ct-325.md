@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1877-07"
+citations: ["18 N.Y. Sup. Ct. 325"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnard, P. J., and Dykman, J., concurred."]
+parties: ["WILLIAM WILSON, Respondent, v. JUSTUS PALMER, Impleaded with THOMAS DORAN, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/18/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4448202
+---
+
+# Wilson v. Palmer
+
+## Majority (Gilbert, J.:)
+
+Gilbert, J.:
+The appeal from the judgment and that from the order present the same question, namely, whether the former is in accordance with the judgment of the Court of Appeals. The action was tried at Special Term after a verdict of a jury upon special issues. The plaintiff’s claim was two-fold, namely: First, a specific hen under the mechanic’s hen law; and, second, a personal habihty against both defendants. The judge at Special Term found ah the facts on which the plaintiff relied to sustain his claim, but found, and decided as matter of law, that the plaintiff was not entitled to any hen, and that the complaint should be dismissed, and he rendered judgment accordingly. On appeal by the plaintiff to the General Term, this judgment, was reversed, and an order was made granting a new trial, the General Term holding, however, that the plaintiff was not entitled to a personal judgment. Both defendants appealed from the last-mentioned order to the Court of Appeals, and gave the assent required by the Code, that if said order should be affirmed, judgment absolute should be rendered against them. The Court of Appeals affirmed the order, and rendered judgment absolute against both defendants. Upon the remittitur being filed in the City Court, that court entered a judgment, which established not only the lien, but the personal liability of both defendants for the debt. The defendant Palmer moved for an order striking out and setting aside so much of said judgment as authorizes and directs a personal judgment against him. An order was entered denying such motion, and the appeals before us are from that order as well as the judgment
+It is claimed by tbe defendant Palmer, that a personal judgment is erroneous, because the General Term having decided on the plaintiff’s appeal that the latter was not entitled to such personal judgment, and having ordered a new trial upon another ground, the appeal to the Court of Appeals did not embrace that matter. There would be some ground for this position if the order of the General Term had contained a clause, adjudging that the appellant was not personally liable. The plaintiff might then have been put to his appeal from that part of the order, in the absence of which, the appellants in the Court of Appeals might well have contended before that court, that their appeal brought up only that part of the order appealed from, which granted a new trial. But the order of the General Term merely reversed the entire judgment, and granted a new trial. The reasons assigned for such reversal form no part of the judgment, nor can they be used to modify its effect. When, therefore, the Court of Appeals rendered an absolute judgment against the appellants, it became obligatory upon the City Court to enter a judgment in favor of the plaintiff upon all the issues in the action, for the reason that the appellants had assented to the rendering of an absolute judgment in favor of the plaintiff, without a trial of the issues. The result of the former trial having' been reversed, the action stood as if there had been no determination of the issues, and such assent to an absolute judgment had the effect of a stipulation that the court might determine said issues in favor of the plaintiff. The plaintiff could not be compelled to a new trial of any or either of such issues, for the right of the appellants to a new trial had been barred by their assent to an absolute judgment. A new trial was unnecessaiy to the determination of the rights of the parties, for the legal effect of the assent was to accomplish that object in the manner stated. Nor were any further proceedings necessary to ascertain the amount which the plaintiff was entitled to recover, for that had been done on the trial already had. It is only where such subsequent proceedings are requisite to render the judgment of the Court of Appeals effectual, that they are required to be taken. No such necessity exists in this case.
+We are inclined to think the agreement of Palmer, on which the personal judgment against him rests, is one not within the statute of frauds, still if he has lost the technical advantage of again presenting that question for adjudication, it must be attributed to bis voluntary waiver of a new trial. Upon tbe facts found, it seems to us substantial justice will be done by tbe effect which we now give to tbe judgment of tbe Court of Appeals.
+Tbe judgment and order must be affirmed, with costs.
+Barnard, P. J., and Dykman, J., concurred.
+Judgment and order affirmed, with costs.
