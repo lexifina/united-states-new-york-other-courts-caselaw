@@ -1,0 +1,25 @@
+---
+court: "New York Court of Chancery"
+decided: "1844-03-30"
+citations: ["1 Sand. Ch. 383"]
+reporter: "sand-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Banta v. Garmo and others."]
+source_url: "https://static.case.law/sand-ch/1/cases/0383-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2163601
+---
+
+# Banta v. Garmo
+
+## Majority (The Assistant Vice-Chancellor.)
+
+The Assistant Vice-Chancellor.
+This is a case of great hardship on the part of the complainant, but it is not in the power of this cotirt to relieve him.
+The money was borrowed by Garmo, to pay off the prior mortgage. In order to secure the loan, he executed a new mortgage, for a larger principal sum, and upon a different rate of interest. The money was paid in discharge of the first mortgage, with the express and avowed intention of cancelling it. The holder of it executed a satisfaction piece. Something intervened to prevent the satisfaction from being recorded and entered; but it was not withheld by the parties. The mortgage was paid and extinguished, as effectually as was possible by the acts and intentions of all concerned. No one would ever have thought of resuscitating it, but for the discovery of the defendant’s title under their judgment. This was not discovered by the complainant’s solicitor, who superintended the loan, for the reason that his certificate obtained on a search for judgments,- exhibited their judgment as being satisfied on execution ; and he did not search for sheriff’s certificates, where the defendant’s title would have duly appeared.
+The attempt is now made to subrogate the complainant to the rights which the first mortgagee had, and thus give to him a lien prior to the defendants.
+In Sanford v. M'Lean, (3 Paige’s R. 122,) the Chancellor says, “ If the complainant had actually advanced the money to pay off those judgments, it is doubtful whether he would have been equitably entitled to be substituted in their place, without some conventional arrangement to that effect with those creditors. It is only in cases where a person advancing money to pay the debt of a third party, stands in the situation of a surety, or is compelled to pay it to protect his own rights, that a court of equity substitutes him in the place of the creditor,- as a matter of course, without any agreement to that effect. In other cases, the demand of a creditor, which is paid with the money of a third person, and without any agreement that the security shall be assigned or kept on foot for the benefit of such third person, is absolutely extinguished.” And see James v. Morey, (6 J. C. R. 417, and 2 Cowen’s R. 246, on appeal.)
+The case of Marvin v. Vedder, (5 Cowen, 671,) is a strong authority in our highest court, against giving vitality to this mortgage. It was there decided that the delivery of money by the mortgagor to the mortgagee, with an intention to pay it on the mortgage, operated as a payment, without any receipt, or indorsement on the security, although within a few days after, the mortgagee returned it to the mortgagor, under- an agreement that it should not apply as a payment, but that it should remain outstanding on the mortgage. In that case the point was decided in behalf of a judgment creditor whose lien attached subsequent to the mortgage, but prior to the payment. If the mortgagee himself would have no right to revive his lien in such a case, it needs no argument to show that a third person advancing, the payment on the faith of another security, would have no such right.
+A further argument is made in behalf of the complainant, on the ground of mistake in cancelling the prior mortgage. This is not strictly the fact, as that act was done intentionally, and the mortgagee in that mortgage is content. The mistake consisted in the belief that the complainant was acquiring an unincumbered title by his mortgage. This kind of mistake is of frequent occurrence, but I never heard of an instance where the suffering lender was permitted to trace back his money into the hands of a stranger who had received it in discharge of an elder lien than the one newly discovered, and thereupon to set up such stranger’s lien to overreach the intervening incumbrance. The adjudged cases relied upon, where parties were allowed to have relief upon instruments delivered up in ignorance of facts; were all cases in which the right was revived in behalf of the parties who had delivered up those instruments under such mistake. No case can be found where a third person after- voluntarily and intentionally discharging- a lien in which he had no prior interest, and on the faith of another security, has been permitted as against other incumbrancers, to revive such lien, on ascertaining that his own security was worthless. And if the question were open, I should at once say that the evils which would flow from the adoption of such a principle, would far overbalance the hardship of particular cases which occur under the rule of law as now settled.
+The bill must be dismissed with costs, as to West and Van Brunt.
