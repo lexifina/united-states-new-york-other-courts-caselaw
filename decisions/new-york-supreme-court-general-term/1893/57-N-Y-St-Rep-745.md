@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-12"
+citations: ["57 N.Y. St. Rep. 745", "81 N.Y. Sup. Ct. 99"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. Ella Carpenter, Resp’t, v. Edgar Knapp, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/57/cases/0745-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 702269
+---
+
+# Carpenter v. Knapp
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is an appeal from an order of the special term denying a motion of the defendant for leave to file an amended and supplemental answer settingup a justification of the slanderous words recited in the complaint in this action, and for a new trial on the ground of newly discovered evidence.
+The action was for slander. It was tried at the Duchess county circuit in June, 1892, and a verdict rendered in favor of the plaintiff for $1,000. The slander alleged against the defendant imputed unchastity to the plaintiff, and the testimony on the trial, which is printed in this record, manifested malicious motives for the utterance of the words.
+An appeal from the judgment was taken to the general term by the defendant, and the judgment was affirmed. Thereupon this motion was made.
+It is to be observed that an amendment and new trial is sought for the purpose of introducing testimony to prove the bad character of the plaintiff. The defendant has been convicted of slander, but now he desires an opportunity to decrease the damages.
+The only practical effect of a new trial would be to permit the defendant to make another effort to secure a verdict for nominal or diminished damages.
+Such an effort was made upon the trial, and witnesses were called who spoke of the character of the plaintiff. If the defendant was not fully prepared then it was his duty to be so, and all the witnesses were within his reach.
+There is no reason for believing that a different result would be produced upon a new trial of the action. The affidavits upon which the motion was based are very unsatisfactory and fail to command belief, and many of them are destroyed by counter affidavits.
+In no respect do the moving papers make a case which justifies a new trial within well-settled principles of law.
+The order should be affirmed, with ten dollars costs and disbursements.
+Pratt, J. concurred; Barnard, P. J., not sitting.
+Order denying motion for new trial on ground of newly discovered evidence affirmed, with costs.
