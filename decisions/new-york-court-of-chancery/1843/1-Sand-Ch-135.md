@@ -1,0 +1,36 @@
+---
+court: "New York Court of Chancery"
+decided: "1843-09-28"
+citations: ["1 Sand. Ch. 135"]
+reporter: "sand-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Storm and others v. Davenport and others."]
+source_url: "https://static.case.law/sand-ch/1/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2163609
+cites_cases: ["11 Wend. 240", "18 Wend. 344"]
+---
+
+# Storm v. Davenport
+
+## Majority (The Assistant Vice-Chancellor.)
+
+The Assistant Vice-Chancellor.
+This is one of the numerous cases, which in endless variety, arise under the statute against fraudulent conveyances. The defendant Davenport, being in failing circumstances and in truth insolvent, on the seventh day of August, 1841, assigned to the defendant Burke, a bond and mortgage in trust for the benefit of creditors specified in the assignment. The bond and mortgage bore date December 19, 1840, and were given for $5120, with interest annually. The principal was payable to Davenport in five years after its date. The debts which were to be paid by the assignment, amounted to $5130 20, as stated in the schedule annexed.
+The assignment, after the transfer of the bond and mortgage, contains an habendum to Burke, subject to the trusts and conditions therein contained. It constitutes the assignee, the attorney irrevocable for the collection of the security, and then contains this remarkable clause: “ Provided, nevertheless, and “ these presents are executed upon this express trust, that the “ said bond and mortgage shall be held by the said party of the “second part, until the expiration of the said period of five “ years therein mentioned, and in no case parted with until “ the expiration of that period. And also that the said party “ of the second part, shall then and not before, proceed to col- “ lect the principaland after paying the expenses of the trust, it provides that he shall pay the debts specified, in the order in which they were mentioned in the schedule.
+A few days after the execution of this assignment, Davenport made a transfer of divers things in action to one Burdett, a creditor, and in September following he made a general assignment to Burdett of all his separate property and effects, in trust for his creditors, and on the same day executed with his partner, Miller, a like assignment of the partnership effects, to one Freeman.
+The assignment to Burke is undoubtedly fraudulent and void. It carries on its face, an intent to hinder and delay creditors. (See Hart v. Crane, 7 Paige’s R. 37, per Walworth, Chancellor.)
+The circumstance that it was made for the benefit of a part only of the creditors, whose debts are equal to the fund assigned, and who do.not complain of the delay thereby imposed; does not alter the case. There is nothing to prevent those creditors from pursuing their remedy against other assets of the debtor, and they might by superior vigilance exhaust those assets, leaving the fund set apart by this instrument to remain tied up till the end of the five years, when it would revert to the assignor, or be subject to his disposition.
+The effects of an insolvent debtor are by law subject to be sold and applied to the payment of his debts, as fast as the creditors can recover them by regular process. This rale applies as well to things in action, as to goods and lands. And although the law permits the process of a creditor to be interrupted, and even defeated, by a voluntary assignment in trust for all the creditors, yet it will not tolerate in such assignment any restriction or limitation upon the immediate sale or conversion of the property for the benefit of the creditors. Some latitude and discretion is necessarily vested in assignees in this respect; but delay in the conversion of the assets is looked upon with suspicion and distrust; unless explained, it is a badge of fraud, and if such delay be stipulated for in the assignment itself, it is evidence of a fraudulent intent in the execution of the instrument.
+It was insisted by the defendants,- on the authority of Bayard v. Hoffman, (4 J. C. R. 450,) that if the assignment to Mr. Burke were fraudulent and void as against creditors, the bond and mortgage passed under Davenport’s subsequent general assignment, which is not impeached. This position cannot be sustained.
+The conveyance, although void as against creditors, is good against the grantor and his representatives. Osborne v. Moss, (7 Johns. R. 161.) In that case the fraudulent debtor was dead, and one of his creditors had taken out letters on his estate, and endeavored, for the benefit of the honest creditors, to set aside or contest the judgment which he had confessed for the accomplishment of his fraud; and it was held that the administrator could not impeach the judgment on that ground.
+The same doctrine has been held repeatedly, and the principle is familiar.
+So far as Bayard v. Hoffman bears upon the point, it may be considered as shaken, if not overruled, by the case of Mackie v. Cairns, in the Court for the Correction of Errors, (5 Cowen, 547, 571, 585.) There, the fraudulent conveyances made by Cairns to his assignees, were held valid as between him and them, so- that the judgment subsequently confessed by him to them constituted no lien.
+It was next insisted, that if the assignment is to be avoided, the property passed to the general assignee in bankruptcy. It was admitted as part of the case at the hearing, that Davenport, since the appointment of the receiver in this suit, has made a voluntary application for a discharge from his debts, under the late bankrupt law, and that he has been discharged accordingly. The parties agree that a decree may be made in the same manner as if all proper parties were before the court.
+The question raised by the defendants is one between the assignee and the complainants, and it cannot be determined in the absence of the assignee.
+It is a rule to which. I know of no exception, that if a party in a cause in this court becomes insolvent or bankrupt pending the suit, his assignees must be made parties before the cause can be heard. Deas v. Thorne, (3 Johns. R. 543,) in the Court for Correction of Errors; (1 Daniell’s Ch. Pr. 254.) It occurred to me at the hearing,, that this difficulty might, perhaps, be obvia-ted in this case, by a reference to a master to ascertain the priorities of the claimants of the fund, with a direction to summon the assignee as a claimant; but on consideration, I am satisfied that such a decree and reference would not bind the assignee.
+The cause must stand over, with leave to the complainants to bring in the assignee in bankruptcy by a supplemental bill.As there can be no conflict of interest between the assignee and the complainants in this respect, the assignment in question may be declared void in the decretal order to be entered.
+See accordingly, Brownell v. Curtis, (10 Paige, 210, 218; reported in 1845.)
+5) So decided in Anon., 10 Paige, 20, and since reported.-
+The complainants subsequently made the assignee in bankruptcy a party, who claimed the whole fund. The suit was decided against the claim of the official assignee, by the Assistant Vice-Chancellor, in September, 1845.
