@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-01-24"
+citations: ["29 N.Y. St. Rep. 373"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Traders’ National Bank of San Antonio, Texas, Resp’t, v. Charles T. Parker, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664778
+cites_cases: ["23 Hun, 535", "69 N. Y., 502"]
+---
+
+# Traders' National Bank of San Antonio, Texas v. Parker
+
+## Majority (Brady, J.)
+
+Brady, J.
+The defense set up against the claim urged herein, upon a promissory note signed by the defendant, is a failure of consideration.
+The defendant insists that the plaintiff agreed to make him a. loan when the note in suit was signed by him, which ..it failed and refused to do. The plaintiff responds by alleging that the consideration of the note was an agreement to extend the time of payment to forbear to commence proceedings to recover against the other makers, which was done, although no particular period was named, the delay, however, being to some extent, dependent upon the wishes of the defendant, who was to observe and advise the plaintiff of the course of events as to Hodgson, one of the makers, and who was the debtor of the defendant to a. large amount, as asserted by the latter, and in whose affairs he had an interest with a view to his own payment. The agreement thus forming the serious contention before the referee was considered upon conflicting evidence.
+The witnesses for the plaintiff had no personal interest in the result, one of them being an ex-president of the plaintiff and the other its president. The defendant was interested personally in the result, and his testimony is subject to such criticism as that, relation may warrant.
+He was distinctly contradicted by the two witnesses for the plaintiff, and by some circumstances developed by the evidence contained in the record. The referee, as his opinion assures us, gave full and careful consideration to the testimony to which he listened, and he had the great advantage of seeing and hearing the witnesses.
+His treatment of the evidence and his reasons expressed leave us nothing other to do on the question of fact than to accept his conclusions. There are here, as in all cases where a conflict prez vails, some facts and circumstances favoring the defendant, but they are overborne by others sustaining the plaintiff’s response, and we would not be justified in saying that there was a preponderance in favor of the defendant; indeed, under all the facts and circumstances developed, -we cannot say even that the case is one which may be regarded as close upon all the proofs submitted.
+The defendant insists, nevertheless, that he is not liable inasmuch as the consideration stated, assuming the plaintiff’s version to be correct, was a mere indulgence and not such an extension of time or forbearance as required by the rules of law to create a bar. This subject, in a kindred case, was considered in this department, see the case of Mutual Life Ins. Co. v. Smith, 23 Hun, 535, and the result declared on that appeal is adverse to the defendant’s contention. The plaintiff having agreed to forbear and having done so, the obligation incurred by the defendant was perfected and Ms liability consummated. It is thought by the learned counsel for the appellant that the adjudication referred to does not decide the question suggested, but this is an erroneous view of it. Judge Daniels discussed it and I presented dissenting views. Judge Davis concurred in the result, and thus the question was determined. It was the leading issue between the judges. If the decision did not cover it I should be inclined to insist upon my views therein expressed. There are no other questions requiring examination, and the judgment must, therefore, be affirmed, with costs.
+Daniels, J., concurs.
+Van Brunt, P. J.—Upon the authority of Grocers Bank v. Penfield et al., 69 N. Y., 502, I concur in the result.
