@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1854-04"
+citations: ["9 How. Pr. 140"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hollister agt. Livingston."]
+source_url: "https://static.case.law/how-pr/9/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2195683
+cites_cases: ["1 How. 240", "18 Johns. 310", "2 How. 146", "2 How. 43", "2 Wend. 259", "20 Wend. 677", "25 Wend. 699", "3 Hill, 477", "3 How. 377", "3 How. 64", "5 Cow. 37", "6 How. 390", "7 How. 478", "8 How. 451", "8 How. 48"]
+---
+
+# Hollister v. Livingston
+
+## Majority (T. R. Strong, Justice.)
+
+T. R. Strong, Justice.
+It was well settled under the 8th rule of the court of April term, 1Y96, which allowed amendments of course to declarations and pleas in certain cases, without any restriction in terms as to the nature or extent of the amendments, that an amendment by adding a new count or plea could not be made. (Siver agt. Smith, 18 Johns. 310; Benedict agt. Ripley, 5 Cow. 37; Wiley agt. Moore, 2 Wend. 259; 1 Dunlap’s Prac. 695.) By subsequent rules of the court, it was at one time provided that a new count or plea might be added by amendment of course, and at another period such an addition by amendment without leave on special application wras prohibited. (Graham’s Prac. 1st ed. 528, 2d ed. 653 ; 1 Paine and Duer’s Prac. 429; 1 Burrell’s Prac. 138, 369, 176, 418; Rule 23 of Rules of 1847.) The Code, § 172, authorizes one amendment of any pleading by the party of course, within the period and under the limitation therein specified, and like the rule of 1796, does not in terms impose any restriction in respect to the character or extent of the amendment. I think, however, that it is fairly to be implied under the Code, as it was under the rule, that the amendments made shall he confined to the matter of the original pleading; that the decisions under that rule are equally applicable under the Code; and that amendments cannot now be made of course by introducing substantially new causes of action. (Field and Stone agt. Morse, 8 How. 48.) Amendments are allowable by adding or striking out allegations to any extent, provided no new cause of action in substance is added. The form of action, having reference to the forms under the old system, may be changed from trover to trespass, case to assumpsit, or any form of action to another, if no new cause of action is introduced. (Garlock agt. Bellinger, 2 How. 43; Dows and Cary agt. Green and Mather, 3 How. 377; Chapman agt. Webb, 6 How. 390; Code, § 173, as amended in 1852; Field and Stone agt. Morse, above cited.)
+The amendments in the present case consist of further and additional causes of action, and according to the foregoing views were made without authority. Still, I am of opinion that this motion,cannot be granted, for two reasons.
+First. It was the duty of the defendant’s attorney, if he would avail himself of the objection, to refuse ,to accept, or to return the amended pleading, or give notice that he should disregard it, specifying on what ground. That was an ample remedy foi the defendant, and one which would work the least harm to the plaintiff. No motion was necessary. By omitting to pursue that remedy, and retaining the paper from the 6th to the 22d of March, without giving notice that advantage would be taken of the defect, I think the defect was waived. (The City of Buffalo agt. Scrantom, 20 Wend. 677; Wirts agt. Norton, 25 Wend. 699; Platner agt. Johnson, 3 Hill, 477; Wright agt. Fobes, 1 How. 240; The Cortland County Mutual Insurance Co. agt. Lathrop, 2 How. 146; Knickerbocker agt. Loucks, 3 How. 64; Baker agt. Curtis, 7 How. 478.) The cases of Griffin agt. Cohen, and Rogers agt. Rathbun, 8 How. 451,466, differ from the present. In those the amendments made were such as the statute authorizes, and whether they were allowable or not depended upon the motive with which they were made, and the effect of them in reference to delay. Here the objection is, that the statute does not authorize such an amendment. But I do not desire to be regarded as intimating an opinion either way in reference to the leading doctrine in those cases. They were rightly decided independent of that doctrine.
+Second. Obtaining the order extending the time to answer the amended pleading was a recognition of the pleading and its regularity, and as such was a waiver of the objection to it, and a bar to this motion, of which notice had then been given. (Bowman agt. Sheldon, 5 Sand. S. C. R. 662, 663.)
+The motion must be denied, with $7 costs; but the defendant may have twenty days after service of a copy of the order on this decision, or of notice thereof to answer, on payment of said costs.
