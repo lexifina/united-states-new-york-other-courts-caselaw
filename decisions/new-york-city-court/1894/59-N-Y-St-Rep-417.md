@@ -1,0 +1,20 @@
+---
+court: "New York City Court"
+decided: "1894-05-18"
+citations: ["59 N.Y. St. Rep. 417"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Caroline Wilson, App’lt, v. Blumemthal, as Receiver, etc., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/59/cases/0417-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1979199
+---
+
+# Wilson v. Blumemthal
+
+## Majority (Van Wyck, J.)
+
+Van Wyck, J.
+This action was originally against Seamans Savings Bank, for a deposit claimed by plaintiff and also claimed by defendant as receiver of the property of the judgment debtor, Alanson Wilson, plaintiff’s husband, and by interpleader, such receiver was made defendant instead of the bank. The cause was tried at the equity term and the judge’s findings will not be disturbed because they are not against the evidence or the weight of evidence. The plaintiff and her husband, the judgment debtor? were her only witnesses, and he testified that he had on deposit in the bank in May, 1889, the sum of $1,059.87, evidenced by a pass-book in his name, and that he then owed his wife about $1,100 and delivered this pass-book to her, for such indebtedness, but he said he could not give the dates when the sums were lent to him by her at various times, nor any of the specific amounts, and that the account was not changed at the bank, nor the bank notified of such transfer, and that he himself, drew in September, 1889, $925 from this amount, but by his wife’s consent and as a loan from her, which left the balance of $134 still in bank, and that afterwards and between April and November, 1891, he made four deposits aggregating $400, but that these sums were hiswife’s money handed to him by her for deposit; however she testifies that she does not • remember whether these deposits were made or not, and that she did not so deposit, and that if they were made that he made them and both testify that in 1892, by her consent and as a loan from her, he drew $150 from the bank account, which left $384 on deposit. Both say that the bank was never notified of the alleged transfer, and that the husband in person drew all amounts and made all deposits; but that the moneys were drawn by her consent and used by the husband. The wife is the plaintiff claiming the fund, and the husband was the judgment debtor and deeply interested in the result, and the very testimony of both bears marks of incredibility, and standing alone and uncontradicted, might well have been disregarded by the judge trying both facts and law. But the judgment creditor testified that in .August, 1892, the wife plaintiff, told him that her husband had money in the Seaman’s Savings Bank, and that he was drawing it out and giving it to his son by a former wife, and that then was the first time that he had seen a chance of collecting anything on the old judgment which he held against the husband for $3,000, and Erhardt, a disinterested witness, testified that" he heard this conversation between the wife and judgment creditor. The findings of fact are justified by the evidence, and as the questions asked on the cross-examination of the judgment creditor were properly excluded, the judgment is affirmed, with costs.
+Ehrlich, C. J., concurs.
