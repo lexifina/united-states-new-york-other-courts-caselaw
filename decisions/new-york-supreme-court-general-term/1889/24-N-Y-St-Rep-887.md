@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-22"
+citations: ["24 N.Y. St. Rep. 887"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Final Judicial Settlement of the Accounts of Jane May, Executrix, etc., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0887-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024344
+---
+
+# In re the Final Judicial Settlement of the Accounts of May
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The form of the order of reference was that the referee should take the evidence which should be adduced, and report the same to the surrogate with his opinion thereon. The surrogate, however, intended, and did actually, decide to make such order one for the hearing and determination of all questions arising upon such accounts. The parties, as well as the referee, have proceeded throughout, down to the time this application was made, on the assumption that the referee under the order had the power to hear and determine the issues.
+The notice of appeal from the decree was made on that hypothesis, and as though it was an attempt only to recover the decision of the referee after confirmation of his report by the surrogate. Indeed the appellant’s attorney had procured a settlement of the case on appeal by the referee in accordance with the proper practice in cases of a reference of the whole of the issues. Code, § 2546.
+Under these circumstances, the surrogate was justified in so changing the order of reference, nunc pro tune, as to conform it to his original direction.
+We are of the opinion, therefore, that the order appealed from should be affirmed, with ten dollars costs and disbursements.
+The question sought to be brought into this appeal, pertaining to the surrogate’s power to strike out the referee’s fourth conclusion of law, can only be properly presented when the appeal from the decree itself comes up.
+All concur.
