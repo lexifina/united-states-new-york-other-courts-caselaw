@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court"
+decided: "1891-01"
+citations: ["26 Abb. N. Cas. 244", "14 N.Y.S. 64"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WEINSTOCK v. LEVISON."]
+source_url: "https://static.case.law/abbn-cas/26/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1967643
+cites_cases: ["115 N. Y. 592", "22 N. E. Rep. 233", "23 Abb.N. C. 145", "96 U. S. 258", "96 U. S., 258"]
+---
+
+# Weinstock v. Levison
+
+## Majority (O’Brien, J.)
+
+O’Brien, J.
+Moore v. Williams (115 N. Y. 592), holds that the “ right to an indisputable title, clear of defects and incumbrances, does not depend upon the agreement of the parties, but is given by the law.” “ Within the meaning of this rule .... a good title means not merely a valid title in fact but a marketable title which can again be sold to a reasonable purchaser, or mortgaged to a person of reasonable prudence.
+It remains to be considered in the light of this and kindred decisions, whether the title tendered and rejected was such that a “ reasonable purchaser, or a person of reasonable prudence, should have taken.”
+It is unnecessary to consider the questions raised upon the trial as to the validity of the deed made by Phoebe Sonnenstrahl directly to her husband, without consideration and in contemplation of death, or whether Abraham Sonnenstrahl’s second wife was or was not an infant when she executed the deed tendered to plaintiff.
+The defendants tendered a deed which they asserted was based on a title derived through the infant proceeding, and the plaintiff repudiated the title upon the express grounds that such proceedings were fraudulent, irregular and void.
+The issues thus raised by the parties at the time of closing title should be inquired into in determining whether the title tendered was an indisputable one. At the outset the claim that these proceedings were fraudulent in fact, or that any intentional wrong was. present, are negatived not alone by the character of the counsel conducting the proceedings, but by the testimony offered upon the trial. These infant proceedings, however, are purely statutory and the purposes for which they may be resorted to clearly defined.
+The petition upon which the proceeding in question was based, in substance stated that the mother of the infant died intestate, and that she was seized at the time of her death of the premises in question as tenant in common with one Rachel Levison, and that the father had an estate as tenant by the curtesy consummate.
+This petition was supplemented by a statement that the purchaser was ready to take the property at a price as good as could be obtained, and that it was for the interest of the infant to sell to prevent a partition suit threatened by Rachel Levison, the co-tenant of the property.
+The circumstance that George Levison was the special guardian appointed, and that within a short time after the alleged sale by the guardian to one Rawlings, the latter conveyed the property to Rachel Levison, the wife of the guardian, put the plaintiff on his inquiry and he ascertained the facts substantially proved and admitted upon the trial, that these proceedings were resorted to not for the purpose of selling the infant’s property to a bona fide purchaser, but for the purpose of placing the title in the father of the infant.
+The test as to whether such a proceeding would bind the infant as against the father or a purchaser with notice, must be determined by the consideration as to whether the statute authorizes or the court would have sanctioned such a proceeding, if all the facts were really and not formally stated in the petition upon which the proceeding itself was based.
+I think that these questions must be answered in the negative. The statute is intended for the benefit of the infant and cannot be resorted to for the purpose of divesting the infant of title or curing a defect therein, and it seems reasonably free from doubt that had the court been placed in possession of the real facts' and purpose of the proceeding it would have withheld its sanction and not permitted what was in truth a fictitious sale.
+It makes no difference, in my opinion, that no fraud was intended, nor is it material, as was shown, that the infant received fair value of her interest in the property from the father.
+The facts still remain that the proceeding was not resorted to for the purpose of selling in good faith, to a real purchaser, the infant’s property, but the alleged purchaser was brought forward to assist and co-operate with the special guardian in carrying out the plans arranged beforehand by which the title, unencumbered by the infant’s interest, could be transferred to the father. It is true the father deposited with the city chamberlain the money value of the infant’s interest, and while therefore no attempt to overreach or wrong the infant -was done or intended, it would never do to hold that such a proceeding was merely irregular or voidable, but it should be held to be absolutely void.
+To hold otherwise would be in effect to say that when no wrong is intended the statute authorizing a sale of infants’ real estate may be resorted to, the forms of law employed, the sanction of the court obtained in a proceeding brought not to really sell an infant’s prop- ■ erty, but for a purpose entirely foreign to that authorized by statute.
+The purchaser after inquiry, having received notice of the true state of "affairs was justified in refusing to take a title in which the infant still had an interest which could not be divested except in a manner provided by law.
+Nor do I think that the defendant can receive any comfort from the contention that if these proceedings were void, then the defendant Sonnenstrahl can assert title under the deed from his wife. It may well be that such deed conveyed a good title, but defendants did not rely thereon, but after examination and under advice oi counsel they resorted to the infant proceedings to remove what they must have regarded as a-doubt about the validity of the wife’s deed.
+Defendants, moreover, contend against plaintiff’s right to assail the deed from the wife or to inquire as to the infancy of the second wife, for the reason that they relied on the time of closing title upon the sole objection that the infant proceedings were void. In support of this contention reference is made to the case of the Ohio & Mississippi R. R. v. McCarthy (96 U. S., 258-267), which in effect holds that where a party gives a reason for his conduct and decision touching anything involved in a controversy, he cannot, after litigation has begun, change his ground and put his conduct upon another and different construction.
+Is not the same principle applicable to defendants themselves when, after asserting title under the proceedings in question, they now seek to alter their position and claim that, although the proceedings were void, nevertheless, through another source they held a good title which plaintiff was bound to know of and which he should have accepted, although it appeared that ■defendant, by resorting to the proceedings themselves, cast a doubt on the validity of this very title ? The question is not whether the title offered was absolutely good or bad, but whether there was such a reasonable doubt as to the title proffered as was sufficient to authorize its rejection.
+In my opinion the proceedings to sell the infant’s property being void, whether defendant Sonnenstrahl had or had not a good title by deed from his wife, the purchaser was justified in refusing to take title, and accordingly is entitled to judgment for the deposit paid on the contract and his expenses for searching title.
+Judgment accordingly.
+For authorities on this subject see notes in 23 Abb.N. C. 145, and previous note there referred to,
