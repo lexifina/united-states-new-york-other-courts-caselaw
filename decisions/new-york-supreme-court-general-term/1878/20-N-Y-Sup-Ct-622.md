@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1878-04"
+citations: ["20 N.Y. Sup. Ct. 622"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Mullin, P. J., Talcott and Smith, JJ."]
+parties: ["ALONZO C. YATES and THEODORE DISSEL, Respondents, v. CORYDON BURCH and JAMES McQUEEN, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/20/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2357967
+cites_cases: ["5 Hun, 597", "5 Wend., 129"]
+---
+
+# Yates v. Burch
+
+## Majority (Talcott, J.:)
+
+Talcott, J.:
+Appeal from judgment rendered at Onondaga Special Term, sustaining the demurrer of the plaintiffs to the second answer of the defendants.
+The action is brought by the plaintiff on an undertaking, given by the defendants in the original action, on an appeal to the General Term from a judgment rendered in the Supreme Court against Henry C. Hoffman and Israel McDonald, as executors of the will of Chester ~W. Ryant, deceased.
+The second answer of the defendants, which is demurred to? alleges that the judgment was recovered on a liability incurred and contracted by the him of Chester "W. Ryant & Co., composed of Chester "W. Ryant, now deceased, and Seth D. Ryant, also now deceased. That said judgment could be enforced only against the individual property of the said Chester W. Ryant, in the hands of the executors remaining after paying the individual debts of the said Chester "W. Ryant, deceased, and that there is a deficiency of personal assets which have or should properly have come to the hands of said executors, and said executors having fully administered upon said assets, said deficiency still remains, and there is not sufficient assets in said executors’ hands to pay the individual debts of said Chester W. Ryant, deceased, and that said executors were not adjudged by the judgment in the complaint described, to be personally liable to said plaintiffs, nor required to pay said judgment, except by the proper administration and application of the assets in their hands as such executors, if any there were, applicable to the payment of the plaintiffs’ alleged claim, and that the defendants are not hable and cannot be held to a greater or different liability than the liability of said executors in said alleged judgment.
+Section 889 of the Code of Procedure, in force when the undertaking which is sued on in this case was given, provides that when an appeal is perfected as provided by sections 335, 336,337 and 338, the court below may dispense with, or limit the security required by sections 335, 336 and 338, when the appellant is an executor, administrator or trustee, acting in another’s right. Thus, in effect, providing, that the court below may absolve the executor from all obligation to give security on the appeal where a proper case is made for such absolution. Section 339, by its terms, relates only to security to be given on appeals to the Court of Appeals. But section 348 provides that on an appeal to the General Term, such an appeal does, not stay the proceedings, unless security is given, as upon an appeal to the Court of Appeals. A statement of a want of assets sufficient to pay the judgment appealed from, would doubtless be regarded as a good reason why the security should be limited to the amount of assets disclosed applicable to the payment of the judgment, or for dispensing with secmity altogether when there is reasonable doubt of the affirmance of the judgment appealed from. In this case, it does not appear that the defendants in the original judgment ever made any application to the court below for leave to appeal without security, or in any manner to limit the security to be given, and under such circumstances the giving of security in the ordinary form must be taken as an admission of sufficient assets, applicable to the payment of the judgment appealed from, to satisfy the same. (Mills v. Forbes et al., 12 How. Prac. R., 466.)
+The counsel for the defendant seeks to attack the sufficiency of the complaint, on the ground that it does not show a service of a notice upon the “ adverse ” party of the entry of a judgment affirming the judgment appealed from, ten days before the commencement of an action on the undertaking. That such a notice must be averred in a complaint in an action on an undertaking of appeal, is settled by the case of Porter v. Kingsbury (5 Hun, 597, affirmed by the Court of Appeals, 5 vol. Weekly Dig., 161).
+The averment in the complaint in this case is, that notice of the judgment of affirmance was, more than twenty days prior to the commencement of tbe action, “ duly served by mail upon the attorney for the adverse parties and judgment-debtors therein described by the attorneys for the plaintiffs therein, to wit: upon M. Y. B. Bach-man, Esq., attorney for said Hoffman’s and McDonald’s executors, etc., as above set forth.”
+The section, 348, of the Code of Procedure, provides that the notice must be served on “ the adverse party.” There was, then, no adverse party-except the defendants- in the original judgment, who were appellants, and we think this is the “ adverse party ” meant by section 348, and this construction is made more plain by section 1306 of the Code of Civil Procedure, by providing that such service shall be on the attorney for the appellant. The objection is taken that the averment does not state the facts as to how the service by mail was made, so as to show it to have been done in compliance with the rule on that subject. This is not an objection to the substance of the complaint, but only to the form which might have been the subject of a special demurrer, but cannot be objected to under the rule that judgment shall be against the party who has committed the first fault in pleading. (Doty v. Russell, 5 Wend., 129.)
+The order sustaining the demurrer must be affirmed.
+Present — Mullin, P. J., Talcott and Smith, JJ.
+Order sustaining the demurrer of the plaintiff to the second defense alleged in the answer of the defendant, affirmed.
