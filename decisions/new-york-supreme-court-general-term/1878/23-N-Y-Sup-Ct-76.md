@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1878-11"
+citations: ["23 N.Y. Sup. Ct. 76"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Learned, P. J., BoardmaN and Westbrook, JJ."]
+parties: ["JOSEPH HILLIS and others, Appellants, v. ADAM C. HILLIS, Respondent, Impleaded with IRA B. KERR, Executor, etc."]
+source_url: "https://static.case.law/ny-sup-ct/23/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8593180
+cites_cases: ["1 N. Y., 120", "20 Wend., 498", "34 N. Y., 201", "41 Barb., 51"]
+---
+
+# Hillis v. Hillis
+
+## Majority (LeaeNed, P. J. :)
+
+LeaeNed, P. J. :
+The will of the deceased, among other things, gave to his wife a legacy of $1,000 “to be paid out of my real estate.” It declared this to be a lien on his real estate and to be in lieu of dower. It also gave a legacy of $200 to each of his six children, which was to be a lien on real estate. After payment of all legacies and debts, the will gave the residuary estate, real and personal, to Adam C. Hillis, the respondent.
+On the final accounting of the executor it was found that there was not enough personal property to pay the six legacies given to the children in full,, after paying debts and expenses; and it was directed that said legacies should be paid j/ro rata.
+The wife of the testator did not survive him. On the final accounting, the heirs of the deceased (other than the respondent), claimed to be entitled to that legacy of $1,000. The surrogate in his decree says : “ The claim of the aforesaid heirs-at-law to the $1,000 given to Mrs. Elizabeth Hillis in the first clause of said will is disallowed on the ground that the legacy lapsed by the death of the said Elizabeth Hillis before the testator, and fell into and became a part of the residuary estate, given and devised to Adam C. Hillis, who takes the real estate devised to him, discharged from the payment of said legacy.” From this part of the decree the heirs-at-law of the deceased (other than the respondent) appeal.
+I am not able to see what right the surrogate had to pass upon the question whether or not the heirs-at-law, by virtue of this legacy, had a lien on the real estate of the respondent. The personalty was the primary fund for the payment of this legacy, although it was charged on real estate. (Hoes v. Van Hoesen, 1 N. Y., 120.) As there was not enough personal property to pay the appellants their legacies in full, they could have received no more from the personal property, if, as they claim, this legacy did not lapse. But if this legacy be, as they insist that it is, quasi real estate, which they have inherited as heirs of the deceased testator, and not as the -next of kin of a legatee or devisee, then it does not seem to be within the surrogate’s jurisdiction. But, perhaps, this part of the decree might be conclusive against the parties in any other litigation, and therefore it should be examined.
+The claim of the appellants rests on two propositions. First, that when a devisee of land dies before the testator, the land devised does not go to the residuary devisee, but descends to the heir as land not devised. Second, that a legacy charged on land is treated as land to such an extent that it follows this rule.
+There is no doubt that.the law formerly was that, when a devise of land failed by the death of the devisee before that of the testator, the land thus devised' went, not to the residuary devisee, but to the heir. (Van Kleeck v. Dutch Church, 20 Wend., 498.) The reason for this was that, as to the real estate, the will was held to speak as of the time when it was made, not as of the date of the testator’s death. And, to go a step further, the reason for that rule was this.
+The power to dispose of land by will was lost after the conquest. When it was regained, it came under the form of a right to dispose of uses. The appointment of uses was a present act; and therefore a will of land was held to speak as of its date. When the right of devise was given by the statute of 32 Ilenry YIII., chapter 2, the doctrine still remained that a will of land dealt with the legal interest held by the testator at the time of making the will. But this rule has been changed by our Revised Statutes; and wills of real estate now speak as of the date of the testator’s death. (McNaughton v. McNaughton, 41 Barb., 51; affirmed 34 N. Y., 201; Youngs v. Youngs, 45 id., 254.) And it seems to be the better opinion that this has changed the rules as to lapsed devises, and that lapsed devises now fall into the residuum.
+But probably it is not necessary in this case to decide that question. For the legacy in controversy was a gift of money; and it must be treated as auy other lapsed legacy, unless the fact that it was charged on land gives it the character of real estate.
+There are undoubtedly some cases which favor the claim of the appellants. But it will be found that in nearly if not quite all of such cases, the will contained more than a mere charge of the legacy upon land. Thus in Arnold v. Chapman (1 Ves. Sen., 108), there was a devise upon condition. In Gravenor v. Hallum (4 Bro. C. C., 321 n.; Amb., 643), a rent charge of ten pounds a year was created. And without citing other cases, we may refer to the language of the master of the rolls in Kennell v. Abbott (4 Ves., 811), who said: “It is now perfectly settled, that if an estate is devised charged with legacies, and the legacies fail, no matter how, the devisee shall have the benefit of it and take the estate.” Or, as was said again, “ if the devise to a particular person, or for a particular purpose, is to be considered as intended by the testator as an exception from the gift to the residuary devisee, the heir takes the benefit of the failure. If it is to be considered as intended by the testator to be a charge only on the estate devised, and not an exception to the gift, the devisee will be entitled to the failure.” (Cooke v. Stationers' Company, 3 My. & K., 264.)
+Now, applying this rule to the present case, we see that the object of the testator was to provide for his. wife by securing to her this sum. It was not his plan to except out a certain part of the value from the devise to the residuary devisee. That is, the intention of the testator was not directed to the diminution of the residuum by taking a certain value from it; but it was directed to the making of the legacy secure to his wife.
+The provision of the will in question was then simply a charge of the pecuniary legacy, not an exception from the residuary devise. (2 Red. on Wills, 173, § 25; In re Cooper’s Trusts, 4 De Gex M. & G., 757.)
+It follows, therefore, that the lapse of the legacy by the death of the wife left the residuary devise unincumbered.
+The decree must be affirmed, with costs against appellants.
+Present — Learned, P. J., BoardmaN and Westbrook, JJ.
+Decree affirmed, with costs against appellants.
