@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1844-10"
+citations: ["7 Hill & Den. 53"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Whitbeck vs. Skinner."]
+source_url: "https://static.case.law/hill/7/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2046215
+cites_cases: ["11 Johns. Rep. 495", "12 Wend. 529", "15 Wend. 559", "25 Wend. 672", "3 Hill, 171", "4 Wend. 483", "4 Wend. 506"]
+---
+
+# Whitbeck v. Skinner
+
+## Majority (Beardsley, J.)
+
+By the Court,
+Beardsley, J.
+As the defendant was in the actual occupation of the premises for a few days only, and the plaintiff claimed to recover for the whole year, he was bound to prove that the defendant had agreed to take them for that period of time. This was sought to be established by the admission of the defendant, and the evidence was competent for the purpose. But according to the admission, the defendant was to pay one hundred and thirty dollars for the use of the premises, and the plaintiff engaged to put them in a tenantable condition. The defendant offered to show that the premises were altogether untenantable, and if this testimony would have been material in determining the amount of the recovery, the court below erred in excluding it.
+There is certainly some authority for saying that a tenant, when sued for rent, cannot set up a breach of the landlord’s agreement to repair by way of preventing a recovery of the full amount agreed to be paid, but must resort to a cross action for redress. In Allen v. Pell, (4 Wend. 506,) Sutherland, J. said: “ The fact of taking possession under a contract or lease creates a tenancy, and subjects the tenant to the payment of rent; and he cannot .offset any damage which may have accrued from the breach of his landlord’s agreement.” For this the learned judge referred to Hunt v. Cope, (Cowp. 242,) Belfour v. Weston, (1 T. R. 310,) Watts v. Coffin, (11 Johns. Rep. 495,) Hallett v. Wylie, (3 id. 44,) and 1 Saund. Rep. 204, note (2); neither of which, however, maintains the doctrine laid down by him. The note to Saunders relates to a plea of eviction when interposed as a bar to an action for rent; but has no bearing whatever upon the present question. The case of Hunt v. Cope is referred to in the note to Saunders, and decides nothing more than that a mere trespass is not an eviction. In Belfour v. Weston and Hallett v. Wylie the question was simply whether the destruction of the premises by fire would excuse the lessee from the payment of rent according to the terms of his covenant; and the court held it would not. In Watts v. Coffin the tenant set up a breach of covenant on the part of the landlord, relating to estovers and common of pasture, and insisted that the breach worked a suspension of the rent. . No effort was made to reduce the amount of the recovery, but the defence was urged as an entire bar, and upon this point the case was determined.
+It should be observed, moreover, that the proposition above quoted from Allen v. Pell was not the direct point adjudged in that case. The action was replevin, and the issues joined, according to the reporter’s statement of the case, were such as to preclude the tenant from raising any question at the trial upon a breach of the landlord’s agreement. The case of Etheridge v. Osborn, (12 Wend. 529,) decides nothing more than that the omission of the landlord to perform his covenants does not amount to an eviction of the tenant, so as to bar the right to rent.
+But in Sickles v. Frost, (15 Wend. 559,) this court did decide that, in an action of assumpsit for rent, the tenant could not be allowed to reduce the recovery below the stipulated amount, by showing that the landlord had failed to repair as he agreed. The case turned, however, upon the question whether the tenant could set off the damages arising from the breach of the landlord’s agreement, and the revised statutes were referred to for the purpose of showing that unliquidated damages are not the subject of set-off.
+Nothing can be clearer than that the statute relating to the right of set-off is inapplicable to such a case; but in my opinion the defence is admissible at common law, upon the principle which governed this court and the court of errors in Reab v. M'Allister, (4 Wend. 483, 8 id. 109.) That principle I understand to be, that in actions of assumpsit to recover damages for the breach of an agreement, the defendant may set up by way of recoupment, under a proper notice, that the plaintiff has violated the same agreement, and thus defeat a recovery for more than the balance. The rule is one of obvious equity, and is susceptible of ready and convenient application on the trial. It adjusts by one action mutual and adverse claims growing out of the same contract, and thus prevents the needless multiplication of suits. In Westlake v. De Graw, (25 Wend. 672,) the chief justice, who delivered the opinion of the court, seems to have entertained no doubt that the doctrine of recoupment was applicable to a case precisely like the present. And see Batterman v. Pierce, (3 Hill, 171;) Barber v. Rose, (5 id. 76;) and Van Epps v. Harrison, (id. 63.)
+I think the court below erred in rejecting the evidence offered at the trial, and that the judgment should therefore be reversed.
+Judgment reversed.
