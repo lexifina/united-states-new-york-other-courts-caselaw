@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-06-29"
+citations: ["47 N.Y. St. Rep. 186"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Saxton, Pl’ff, v. The New York Elevated Railroad Co. et al., Def’ts."]
+source_url: "https://static.case.law/ny-st-rep/47/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2087012
+---
+
+# Saxton v. New York Elevated Railroad
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+—One of the points raised upon this appeal by the defendant is that the amounts fixed by the referee as the value of the plaintiff’s easements are excessive, unjust and unsupported by the evidence. We have examined the evidence in this case, and see no reason to differ from the conclusion arrived at by the referee. There was evidence sufficient to support his conclusion, and it is not necessary to discuss the same at length in the disposition of this appeal.
+It is further urged that the referee erred in refusing to find that the defendants’ station is advantageous to the business portion of the premises. This proposition has already been disposed of upon previous appeals.
+It is further urged that the referee erred in permitting a witness to testify that the elevated railway is not generally a benefit to the business of an avenue. The question asked was: “ Mow take the elevated railroad generally, running through an avenue, is it a benefit to the business of the avenue ? ” This was objected to upon the ground that it was too general and should have been confined to this particular street and property. The objection was overruled and counsel for the defendants excepted, and the witness answered, “ I think not.” We think perhaps the objection was well taken, and it would have been better if the evidence had been excluded. But in view of the nature of the case, being an equity case, and the indefinite character of the testimony, it does not seem that the defendants sustained any damage by reason of this trivial and inconsequential error. It is clear that the defendants sustained no damage thereby and the judgment should not be reversed upon that ground.
+The plaintiff also appeals from the judgment, alleging that the referee erred in not allowing rental damage up to the time of the trial. ^ This question has been presented upon a previous appeal and disposed of, but a point is raised here which was not suggested on that appeal. It is claimed that if the plaintiff desired to raise the question he should have entered judgment denying the relief upon that ground, and that no such judgment having been entered there is nothing to appeal from, as an appeal cannot be taken from the referee’s conclusions of law and findings of fact. The judgment is general and it does not appear therefrom that any relief has been denied the plaintiff, and consequently he has no ground for an appeal. It is conceded that a reversal is not desired, and as the court has no power to increase the judgment even if the appeal would properly lie, the judgment should be affirmed, without costs.
+Patterson and O’Brien, JJ., concur.
