@@ -1,0 +1,43 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-13"
+citations: ["24 N.Y. St. Rep. 443"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Annie E. Lyon v. The Industrial School Association of Brooklyn, E. D."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024265
+cites_cases: ["1 Dem., 559", "2 Dem., 58", "42 Hun, 507"]
+---
+
+# Lyon v. Industrial School Ass'n
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+This is a submitted controversy, and the only question to be determined is whether the plaintiff is entitled to interest upon her legacy, under the will of Ann M. R. Lyon, deceased, since the death of the testatrix.
+The testatrix died in 1871, and her husband, Eliphalet Lyon, in 1883.
+It further appears in the submitted statement of facts: “Sixth. That there are no funds of the estate of Ann M. R. Lyon, applicable to the payment of the legacy in controversy, other than property of said estate now in possession of defendant.
+“ Seventh. The father of Annie E. Lyon is still living, and has never formally surrendered his parental rights or control of said Annie E. Lyon, nor been released from his parental obligations to her.
+“Eighth. Said Annie E. Lyon was never adopted by either Mr. or Mrs. Lyon by any formal act of adoption. She was a niece of Mr. Lyon and not of kin to Mrs. Lyon, but at the age of eight weeks was, with the consent of her father, taken into the family of Mr. and Mrs. Lyon, where she continued to reside, and be supported, until Mrs. Lyon’s death, her father not contributing to her support.
+“Ninth. Miss Lyon has been well and sufficiently supported, in accordance with her station in life, by Mr. Eliphalet Lyon, since the death of Mrs. Lyon, and upon his death was provided for, as appears by his will, and duly received all the legacy and provision therein made for her. The amount so paid to her, as appears by the accounting, was $10,736.39.”
+The clause of the will under consideration is as follows :
+“I give and devise to my adopted daughter, Annie Lizzie Lyon, the sum of $5,000, to be paid over to her when she shall have arrived at the age of twenty-five years.
+“All the rest, residue and remainder of my real and personal estate I bequeath to my beloved husband, Eliphalet Lyon, to have and to hold for his own use and benefit during his natural life, and, upon his death, the same to be given to the Industrial School Association of Brooklyn, eastern district, to be applied to the uses and purposes of said association.”
+The plaintiff was about ten years of age at the death of the testatrix.
+It is to be observed that there was never any formal surrender by the father of the plaintiff or adoption by Mrs. Lyon, and the father remained liable for her support during all the years she was in the Lyon family. It is also clear that she was supported and cared for by her uncle from the time she entered the family until the death of Mr. Lyon, in 1883. She was also provided for in his will, so that if we are to resort to facts outside of the will itself, there is nothing to raise a presumption that Mrs. Lyon intended the plaintiff should be maintained at her expense until she arrived at the age of twenty-five yeqrs.
+Mrs. Lyon was under no legal or moral obligation to-furnish support, and it does not appear that she ever contributed anything for such purpose.
+If it té competent, as it seems to be, to prove surrounding circumstances in order to raise a presumption that a testator intended a legacy should draw interest (Thorn v. Garner, 42 Hun, 507), it must be also proper to prove all the surroundings to rebut any such presumption, or to show that no such intent could have existed.
+The rule that allows interest upon a legacy to an infant child, is based upon the presumption that the testator intended to provide for the support of the child until the legacy becomes payable, and this presumption rests or arises out of the fact that the child is not otherwise provided for. It does not rest on the fact of infancy, but on the moral or legal obligation to support, coupled with the fact that unless interest is allowed, the legatee will be without means of maintenance.
+Thus in 3 Atkyns, 102, it is said: “How far a legatee, who is not entitled to the payment of his legacy immediately, shall have interest in the meantime, depends upon particular circumstances. But all these cases are subject to this exception if it is in the case of a child; for then, let a testator give it how he will, either at twenty- one or at marriage, and the child has no other provision, the court will give interes fc by way of maintenance, for they will not presume the fattier inofficious or so unnatural as to leave a child destitute;” also, Hearle v. Greenbank (3 Atk., 716).
+It seems to me clear in this case that the plaintiff was in. no way dependent upon the interest for her maintenance. She had a father living who was bound to support her; besides she was living with and supported by her uncle, and the testatrix was under no obligations to maintain her,, during or after her minority.
+If the fact exists that the legatee is not dependent, then no presumption exists that the testator intended the postponed legacy to draw interest, and it is immaterial whether or not there is any other provision in the will for the legatee.
+In VanBramer v. Hoffman, 2 John. Cas., 200, the court says: “The legatee in the present case had a father living who, as we are to presume, was capable of maintaining her,” and interest was refused. Neither is interest allowed in favor of a married legatee, having a competent maintenance.
+Even had plaintiff been the child of Mrs. Lyon she was-under no obligation to support her during the life of her husband. Gladding v. Follett, 2 Dem., 58; Deer v. Cooley, 20 W. D., 109.
+We are not unmindful of the fact that the expression has been used in many cases where interest has been allowed, that “ no other provision allotted by the will,” seeming to-imply that the will alone can be looked at to determine the question, but as I have before remarked, if we can go outside of the will to make a case for claiming interest, no reason exists for not going outside to defeat interest. In Re Wood, 1 Dem., 559.
+This is a case where it seems probable that the testatrix intended only that interest should be payable from the date fixed for the payment of the legacy. Such is the plain and natural construction of the will, and there does not seem to-be any facts to take the case out of that rule, except ttie absence of any other allotment in the will.
+Other questions are raised by the defendant, but if the views above expressed are sound, it is not necessary to discuss them except, perhaps, to say that even if interest should be allowed, it could only be claimed up to the period of the plaintiff arriving at the age.of twenty-one years. But we cannot find from the facts submitted, that the testatrix stood “in loco parentis” to the plaintiff, or that slie ever assumed her support, or contributed thereto. Neittier was she ever under any obligation to maintain the plaintiff, nor was the latter ever dependent upon the testatrix’s bounty for maintenance, or without other and ample means of support.
+The defendant should have judgment, but without costs..
+Dykman, J., concurs; Barnard, P. J., dissents.
