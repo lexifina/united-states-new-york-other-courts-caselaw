@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-11"
+citations: ["97 N.Y. Sup. Ct. 277"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Brien and Parker, JJ., concurred."]
+parties: ["National Shoe and Leather Bank of the City of New York, Respondent, v. Amelia F. Baker, Appellant, Impleaded with Robert B. Merritt."]
+source_url: "https://static.case.law/ny-sup-ct/97/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4793477
+cites_cases: ["141 N. Y. 485", "31 Hun, 286"]
+---
+
+# National Shoe & Leather Bank v. Baker
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+This action was brought pursuant to chapter 487 of the Laws of 1889, which provides that “ any creditor of a deceased insolvent debtor having a claim or demand against the estate of such deceased debtor exceeding in amount the sum of $100 may, in like manner, for the benefit of himself and other creditors interested in the estate or property of such deceased debtor, disaffirm, treat as void and resist all acts done and conveyances, transfers and agreements made in fraud of the right of any creditor or creditors by such deceased debtor, and for that purpose may maintain any necessary action to set aside such acts, conveyances, transfers or agreements, and, for the purpose of maintaining such action,'it shall not be necessary for such creditor to have obtained a judgment upon his claim or demand, but such claim or demand, if disputed, may be proved and established upon the trial of such action.”
+The complaint alleges an indebtedness by the deceased insolvent, one Frederick Baker, in the sum of at least $100,000 for moneys received by him belonging to the plaintiff over and above the amount of any credits or set-offs to which he was entitled, and then alleges the purchase by the deceased insolvent of real estate, and the taking of the title thereto in the name of the defendant Merritt, and the delivery by Merritt to the deceased insolvent of a conveyance thereof, with the name of the grantee in blank, and with authority to insert the name of any person as grantee, and that the said deceased insolvent inserted in said conveyance the name of the defendant Baker. The plaintiff served a bill of particulars consisting of a very large number of items of charges and credits.
+The deféítdant Baker thereupon answered, denying, upon information and belief, the indebtedness and the fraudulent character of the conveyance, and also setting up the Statute of Limitations.
+A motion having been made to refer the case upon the ground that the trial would involve the examination of a long account, such motion was granted, and from the order thereupon entered this appeal is taken.
+This order is attacked mainly upon the ground that there is no account the examination of which is the direct and immediate object of the action. In this we think the learned counsel for the appellant is in error. This action is of a dual character. First, it must establish the debt, and then the plaintiff will be entitled to the equitable relief. It is different from the ordinary creditors’ actions, because they are based upon judgments, and in such actions the question of indebtedness has been previously determined. But in the action in the case at bar the whole liability is open to discussion and investigation; and the first question to be determined is whether the deceased was indebted to the plaintiff, and if so in what amount. From the pleadings it is apparent that this will necessarily involve the examination of a large quantity of items both of charges and credits, bringing the case, therefore, within the ordinary rules applicable to referable cases. Merely because .there are other issues to be tried does not deprive the casé of'its referable character. It is oidy where there are questions of law of great intricacy that the court will refuse to refer an action, where a long account must necessarily be examined. In the case at bar there are no intricate questions of law. There are only questions of fact, the primary one being the fact of indebtedness upon the párt of the deceased, and the whole .proceeding depending upon the establishment of this issue in favor of the plaintiff.
+It is urged that the amount of the indebtedness is of no moment —that -it makes no difference whether the amount claimed was $1,000, $100,000* or $1,000,000. But it is of some moment that some claim for some amount be established; and in order to establish a claim for any apiount it will be necessary to examine and substantiate the items of debit and credit referred to in the bill of particulars. The case of Read v. Lozin (31 Hun, 286) seems to be contrary to this view. But we think that that case is irreconcilable with .the case of Rowland v. Rowland (141 N. Y. 485), in which it is held that where an accounting is necessary, even 'in an action in ■equity, and no difficult question of law is involved, the court has a right to order a reference.
+It is urged that the accounts not arising out of contracts between the parties, the action is not referable; and that actions sounding in tort are not referable. It is clear from the character of the complaint that1 there is no claim in the nature of tort. It 'contains simply an allegation of an indebtedness arising out of tlie fraudulent appropriation of money upon tlie part of the deceased. The plaintiff has the right to proceed as if upon contract.
+The order should he affirmed, with ten dollars costs and disbursements.
+O’Brien and Parker, JJ., concurred.
+Order affirmed, with ten dollars costs and disbursements.
