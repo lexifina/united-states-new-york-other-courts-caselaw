@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court"
 decided: "1890-01-06"
-citations: ["29 N.Y. St. Rep. 514", "29 N.Y. St. Rep. 513"]
+citations: ["29 N.Y. St. Rep. 514"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
