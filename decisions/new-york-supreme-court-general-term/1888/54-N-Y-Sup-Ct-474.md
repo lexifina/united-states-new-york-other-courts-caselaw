@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-02"
+citations: ["54 N.Y. Sup. Ct. 474", "14 N.Y. St. Rep. 342"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["L ANnnN, J., concurred; Fish, J., not acting."]
+parties: ["SILAS KENT and GARDNER WINNEY, Appellants, v. SERENA WARNER, as Executrix, and GEORGE WARNER, as Executor, etc., of JOHN WARNER, Deceased, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/54/cases/0474-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4543600
+cites_cases: ["53 N. Y., 49", "61 N. Y., 71"]
+---
+
+# Kent v. Warner
+
+## Majority (Parker, J.:)
+
+Parker, J.:
+The plaintiff sought in this action to recover of the defendants in trespass, for cutting and removing logs and wood from lands which they claimed to own. The defendants upon the trial did not claim to have either title to the lands or a license to do the acts complained of, and from the undisputed’ evidence he was, in that which he did, a tort feasor. He, however, denied the right of the plaintiff to maintain the action because, as alleged, the plaintiffs were not the owners in fee and entitled to the immediate possession, nor were they in the actual and exclusive possession of the lands in question. Such view of the case was adopted by the trial court and a verdict in favor of the defendants accordingly directed. We concur with the court in so far as it held that the plaintiffs were not in the actual possession of the locus in quo (Thompson v. Burhans, 61 N. Y., 71; 79 id., 93), but cannot approve of the disposition of the other question presented. The lands upon which the trespass was committed being subdivision 7 of Great Lot 5, Glen. Bleecker and Lansing’s Patent, were sold by the comptroller for non-payment of taxes for the years 1871,1872,1875,1876j to one S. W. Buell, and he subsequently assigned the comptroller’s certificate of sale to these plaintiffs. The owner of the fee having failed to redeem within the time allowed by law, the comptroller afterwards, and on the 3d day of December, 1884, conveyed the premises to the plaintiff.
+The defendants proved that the assessment-roll for the year 1872 was verified before a notary public and not before a justice of the peace of the town in which the premises were situate, as required by statute, and contends that the verification being insufficient, the sale was invalid. Such contention in the absence of subsequent legislation could not be questioned (Nat. Bank of Chemung v. City of Elmira, 53 N. Y., 49), but the legislature, by chapter 83 .of the Laws of 1884, entitled “An act to legalize defective oaths to assessment-rolls made and subscribed before notaries public or other officers,” passed April 2, 1884, provided: “ Section 1. All oaths otherwise regular, heretofore made and subscribed by assessors before a notary public or other officer duly authorized by law to administer oaths in the county where such assessor or assessors resided when such oath was made, are hereby legalized and confirmed and shall be as valid and effectual for all purposes as if they had been made and subscribed before one of the justices of the peace of the town in. which said assessor or assessors resided at the time. Section 2. This act shall not affect any title to real estate, vested right, or any action or legal proceeding now pending.”
+Prior to the time of such enactmeut the legislature had already so amended the law relating to the assessment and collection of taxes as to authorize assessors to make and subscribe the oath to assessment-rolls before any officer in their county authorized by law to administer oaths (Chap. 57, Laws 1884), and this act was passed, as is apparent from both its title and provisions, for the purpose of legalizing oaths to assessment-rolls theretofore taken before a notary public or other officer duly authorized to administer oaths. It was intended undoubtedly, among other things, to cover a case like the one under consideration where the proceedings subsequent to an assessment had not as yet ripened into a conveyance. In fact its scope as a legalizing and confirmatory act is limited only in the manner provided in section second of the act itself, and that section has no application here.
+The words, “ this act shall not affect any title to real estate,” contemplate hostile title, i. <?., that a title otherwise acquired than from the State, and held in hostility to a title obtained from it, shall not be affected by the provisions of the act.
+This defendants did not have, and never have had, a title, hostile or otherwise, to be affected. Neither has he ever had a vested right in the premises; and he is not, therefore, in a position to assert that the act of the assessors was not legalized and validated by the statute. Assuming a construction, the most favorable to the theory of the defendants, conceivable, that the legislature intended to so limit the application of the statute as not to validate proceedings which had resulted in a deed to the purchaser at a tax sale, still the limitation would not be applicable here, for the deed had not been executed when this statute was passed, and these plaintiffs had no title to be affected by it. To give to that section a construction still further limiting the effect of the act as a legalizing measure, would result iu bolding in effect tbat tbe statute is an absurdity.
+Judgment reversed and a new trial granted, costs to abide tbe event.
+L ANnnN, J., concurred; Fish, J., not acting.
+Judgment reversed, new trial granted, costs to abide event.
