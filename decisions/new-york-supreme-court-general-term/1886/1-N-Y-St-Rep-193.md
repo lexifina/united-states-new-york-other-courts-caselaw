@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1886-06-01"
-citations: ["1 N.Y. St. Rep. 193", "1 N.Y. St. Rep. 204"]
+citations: ["1 N.Y. St. Rep. 193"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
