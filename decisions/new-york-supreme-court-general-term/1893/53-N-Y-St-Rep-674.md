@@ -1,0 +1,46 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-07-08"
+citations: ["53 N.Y. St. Rep. 674", "24 N.Y.S. 337", "70 Hun. 428"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jacob M. Snyder, App’lt, v. Henrietta Church et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/53/cases/0674-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686026
+---
+
+# Snyder v. Church
+
+## Majority (Mayham, P. J.)
+
+Mayham, P. J.
+The complaint is in the usual form in an action in ejectment, alleging that the plaintiff is the owner in fee of a farm, of about 130 acres of land, and alleges that Walter S. Church for about eight years before the commencement of the action had been in the wrongful possession and was wrongfully withholding the possession, and that the annual value of the use of the premises was about $200.
+The complaint demanded judgment for the possession of the farm and damages for the use of the same.
+The answer was a general denial. On the trial the plaintiff put in evidence a lease dated May 9, 1797, executed by Stephen Van Rensselaer to John Jose Shafer. The lease granted, sold, remised, released and confirmed the demised premises to the lessee upon conditions of payment by him or his assigns of an annual rent, and the performance of the annual service therein specified, and was in the usual form of the Van Rensselaer manorial leases, and purported to convey 253^ acres of land.
+The plaintiff also put in evidence a warranty deed from John Jose Shafer to John J. Dietz, dated the 14th day of October, 1831, purporting to convey 126 acres of land, being the north half of the land originally leased by Stephen Van Rensselaer to John Jose Shafer, father of the grantor in said deed. This deed was subject to the rents, and reservations contained in the original lease.
+The plaintiff also put in evidence the last will of Stephen Van Rensselaer, devising all his interest in his lands and rents reserved to his son, Stephen Van Rensselaer, which will was admitted to probate April 30, 1839; also a deed from Stephen Van Rensselaer to James Kidd and Peter Cagger, dated May 2, 1864, conveying the landlord’s interest in the premises in question.
+The plaintiff’s counsel also put in evidence a deed from James Kidd and Peter Cagger to Walter S. Church, dated July 8, 1878, conveying the landlord’s interest in the premises in question.
+The plaintiff gave evidence tending to prove that Walter S. Church acted as the agent of Kidd and Cagger previous to the time of their deeding to him their interest in this land, with others; that Church had an office and did the business, except in suits, and Cagger was the attorney.
+Plaintiff also gave evidence by several witnesses tending to prove that an instrument purporting on its face to be a deed from Kidd and Cagger to Jacob Dietz, dated 17th of May, 1867, and to convey the premises in question, was made out in the handwriting of Walter S. Church, but which purported to have been signed by Paul Coggerville and J. Koons. This deed was offered and received in evidence, with its indorsements, and is as follows:
+“ This indenture, made the 17th day of May in the year of our Lord, 1,867, between James Kidd and Jane Maria, his wife, and Peter Dagger and Elizabeth E., his wife, of the city of Albany, and Jacob I. Dietz, of the town of Berne, in the county óf Albany, of the second part.
+Witnessed), that whereas, Stephen Van Rensselaer, now deceased, by an indenture dated on the 21st day of January in the year 1801, granted and conveyed to Jacobus Dietz certain lands, embracing the lands which are hereinafter more particularly described, subject to a certain perpetual rent, and to certain reservations and conditions in and by said indenture of lease provided for, and whereas by various grants, assignments and conveyances the title to said reserved rent, and to all the estate and interest of said Stephen Yan Rensselaer in the premises so leased in fee, and particularly hereinafter described and granted, has become and is vested in the parties of the first part hereto.
+“Mow, therefore, the said parties of the first part, for and in consideration of the sum of $2,000, lawful money of the United States of America, to them in hand paid by the said party of the second part, the receipt whereof is hereby confessed and acknowledged, have granted, aliened, remised, released, enfeoffed and confirmed, and by these presents do grant, alien, remise, release, enfeoff and confirm unto the said party of the second part, and to his heirs and assigns forever, all the said rent so reserved out of and chargeable upon, and all his estate and interest in certain lot, piece or parcel of land, situated now in the town of Berne, in the state of Mew York, county of Albany, and manor of Rensselaerwyck, and hereinafter more particularly described. Together with all and singular the rents, hereditaments and appurtenances thereunto belonging, or in _anywise appertaining, and the reversion and reversions, remainder and remainders, rents, issues and profits thereof, or issuing or reserved therefrom, and all the estate, right, title, interests, claims and demands whatsoever of the said parties of the first part, either in law or equity, of, in and to the above granted premises, with the said hereditaments and appurtenances ;■ to have and to hold the above mentioned rents and hereinafter described premises, with the appurtenances and every part and parcel thereof, to the said party of the second, part, his heirs and assigns forever. And the said James Kidd and Peter Dagger for themselves, their heirs, executors and administrators, do covenant, grant, bargain, promise and agree, to and with the said party of the second part, his heirs and assigns, to warrant and forever to defend to the said party of the second part, his heirs and assigns, against the said parties of the first part, their heirs, executors, administrators and assigns, and against all and every other person or persons claiming or to claim by, under or through them, the said parties of the first part, or their or any of their acts or deeds, the said above mentioned and hereby granted rents and premises, which are more particularly described as follows, viz.: All that certain piece or parcel of land situate, lying and being in the town of Berne, and being the same lands which the sheriff of Albany county conveyed to John B. Dietz, and the same as were formerly owned by Jacob I. Dietz.
+In Witness whereof the said parties of the first part have hereunto set their hands and seals the day and year above written.
+Paul Coggerville, [l. s.]
+J. Koons. [l. s.]
+Sealed and delivered in the presence of
+E. Williams.
+Indorsed: Warranty deed. James Kidd and Jane Maria, his wife, and Peter Oagger and Elizabeth F., his wife, to Jacob I. Dietz. Dated the 17th day of May, 1867."
+There was evidence tending to show that Church delivered this instrument to Jacob I. Dietz, the grantee therein named, at the time it bears date, and the plaintiff urges that it appears from the deed itself that Dietz paid the consideration therein expressed of $2,000.
+The plaintiff also put in evidence a deed from Jacob I. Dietz to Jacob M. Snyder, purporting to convey the premises in question, dated July 3, 1890.
+The plaintiff also proved the death of Walter S. Church after the commencement of this action, the probate of his will and the substitution of Henrietta Church, his executrix and devisee of his lands, as defendant in this action.
+Upon these facts, the defendant, at the close of the plaintiff’s evidence, asked the court to non-suit the plaintiff. The plaintiff insisted in submitting the case to the jury. The court declined to submit the case to the jury and non-suited the plaintiff.
+If this action had been to reform a deed for mistake or fraud, I should be strongly inclined to grant relief, but as the case stands I see no ground for granting a new trial.
+Clearly the plaintiff has failed to show any legal title in himself, as the grantors to Dietz do not appear to have had any title to these lands cither legal or equitable.
+Dietz, therefore, acquired no title which he could convey to Snyder. This being so, it is unnecessary to examine the alleged delect in the defendant's title to these premises, as the rule is well settled, that in actions of ejectment the plaintiff must recover upon the strength of his own title and not upon the weakness of the title of his adversary.
+There seems to be another objection to the recovery of the plaintiff in this action upon the face of the complaint and proof. The complaint shows that the defendant was at the time of the commencement of the action, and for eight years prior thereto, had been in possession, holding adversely to the plaintiff's grantor. The plaintiff’s deeds bear date in 1890 and while the defendant was in possession ; as matter of law, as against the defendant, the plaintiff’s deed was void for champerty.
+We think the learned justice was right in non-suiting the plaintiff.
+Judgment affirmed, with costs.
+Putnam, J., concurs; Herrick, J., not acting.
