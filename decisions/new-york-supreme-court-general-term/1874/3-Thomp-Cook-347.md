@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1874-04"
+citations: ["3 Thomp. & Cook 347"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Seneca Nation of Indians, appellant, v. Hammond et al."]
+source_url: "https://static.case.law/thomp-cook/3/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4463189
+cites_cases: ["10 Johns. 170", "20 Johns. 693", "31 N. Y. 493", "7 N. Y. 401"]
+---
+
+# Seneca Nation of Indians v. Hammond
+
+## Majority (Gilbert, J.)
+
+Gilbert, J.
+The plaintiff was nonsuited, but on what grounds does not appear. The action was for the recovery of the value of a quantity of bark, which the defendants purchased for a firm in Buffalo, upon an agreed commission of twenty-five cents per cord, the firm in Buffalo furnishing the money wherewith the purchases were made. The bark was taken from trees upon the Cattaraugus reservation, by individual Indians, and sold to thé defendants by intermediate parties. It was claimed on behalf of the plaintiff, that the defendants knew, or had good reason to suspect, that the bark had been taken from the reservation; but in the view we have taken of the case, it is not necessary to determine the effect of the evidence on that point. The statute for the protection of these Indians, passed May 8,1845 (Laws 1845, .chap. 150, § 1), authorizes this action to be brought, and in effect renders void all transfers by individual Indians, of property removed from the reservation. It provides that the Seneca Indians, residing in the Allegany and Cattaraugus reservations, in this State, shall be deemed to hold and possess the said reservations as a distinct community, and in and. by the name of “The Seneca Nation of Indians,” and may prosecute and maintain any action, etc., for cutting down or removing or converting any timber or wood growing or being thereon, or any action of replevin for any timber or wood removed therefrom, or for the recovery of any damage for any-injury to the common property or rights of the said Indians, or for the recovery of any sum of money due or to become due, or belonging, or in any way appertaining to the said Indians in common, or to the said Seneca nation. And it is provided that no such action shall be defeated or barred on the ground that any land in relation to which such action is brought, or from which any timber, wood, logs, or other property may have been removed or taken, and which may be the subject of any such suit, was in possession of any individual Indian, and that no license, consent, lease, agreement, or any interest whatever made or given by any individual Indian or Indians shall be received in evidence in any such action in bar, defense, or mitigation of damages.
+It is not disputed that the Seneca Indians had title to the lands within the reservation mentioned. See Blacksmith v. Fellows, 7 N. Y. 401. The act of 1845 is in harmony with the policy of the State from the beginning, as is shown by the provisions of its constitution and legislative acts, namely, to protect the Indians and their property. Goodell v. Jackson, 20 Johns. 693; Strong v. Waterman, 11 Paige, 608. The statute of 1845 is a remedial one, and should be construed so as to effectuate that object. Its language, however, is plain. It authorizes a recovery for any injury to the common property or rights of the Indians, and for any property belonging to them, and provides that no action for such recovery, shall be barred, because the land from which the property may have been taken was in the possession of any individual Indian; and that no license, agreement or interest whatever, made or given by an individual Indian, shall be given in evidence in any action, in bar, defense or mitigation of damages. Ma language could more effectually prevent all transfers of property by individual Indians from having any legal effect.
+The bark in question, therefore, was the property of the plaintiffs. Those who purchased it from individual Indians got no title, and they could confer none on the defendants. Everybody who meddled with the bark became a trespasser. It is no defense that the defendants acted for others in buying the bark, or that they purchased it without notice that their vendors had no title; or that their acts, of which the plaintiffs complain, were done in good faith. Mor was a'demand necessary, the original taking being unlawful, and the sending the bark to Buffalo being in itself an act of conversion. Perkins v. Smith, 1 Wils. 328; Featherstonhaugh v. Johnston, 8 Taunt. 237; Murray v. Burling, 10 Johns. 170; Boyce v. Brockway, 31 N. Y. 493.
+It seems tolerably clear, also, that the act of 1847, chapter 365, section 21, was intended to embrace a case like this; but it is not necessary to determine that point.
+The nonsuit must be set aside and a new trial ordered. Lake v. Artizans’ Bank, 3 Keyes, 276.
+New trial granted.
