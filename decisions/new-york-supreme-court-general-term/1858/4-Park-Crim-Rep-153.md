@@ -1,0 +1,43 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1858-12"
+citations: ["4 Park. Crim. Rep. 153"]
+reporter: "park-crim-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People v. John D. Marks."]
+source_url: "https://static.case.law/park-crim-rep/4/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1260646
+---
+
+# People v. Marks
+
+## Majority (Sutherland, J.)
+
+By the Court,
+Sutherland, J.
+The prisoner, John D. Marks, was tried at a Court of General Sessions of the Peace, held in and for the city and county of New York, before the Hon. A. D. Bussell, City Judge, on an indictment which charged that on the 28th day of June, 1858, at the first ward in the city of ¡New York, the said Marks did feloniously and burglariously break into and enter the store of the Board of' Underwriters there situate, “the same being a building in which divers goods, merchandise and valuable things were then and there kept for use, sale and deposit, with intent, the goods, chattels and personal property of the said Board of Underwriters, in the said store then and there being, then and there feloniously and burglariously to steal, take and carry away.” And which indictment no doubt was intended further to charge, that the said Marks did then and there steal, take and carry away a carpet, six chairs, and various other articles, the value of which are severally stated in the indictment, the property of the Board of Underwriters, in the said store, kept as aforesaid, then and there being. But the words away, against, which ought to have followed the word carry, having been left out, no doubt by a clerical error in drawing the indictment, the indictment reads, “ then and there feloniously and burglariously did steal, take and carry, the form of the statute,” &c.
+This clerical omission, upon which some stress was laid on the argument, I do not think of any importance in disposing of this case.
+By the Bevised Statutes, burglary consists of three degrees. The crime for which the prisoner was indicted was burglary in the third degree, as defined by the statute.
+By the statute, the breaking and entering “any shop, store, booth, tent, warehouse, or other building in which any goods, merchandise or valuable thing shall be kept for use, sale or deposit, with intent to steal therein, or to commit any felony,” is burglary in the third degree.
+The offence is complete by the breaking and entering, with the intent to steal, &c. The actual larceny, although, when it can be proved, the most conclusive evidence that the intent of the breaking arid entering was to steal, need not, I presume, be charged in the indictment, and when charged the proof of it is not necessarily the only proof of the intent.
+But there must be proof of some fact or circumstance, act or declaration of the prisoner, in addition to the proof of the mere breaking and entering, from which the jury can find the intent charged in the indictment.
+In this case, the only evidence of the breaking and entering was the testimony of Mary Schmidt, who testified that she saw the prisoner at 6 P. M., come out of an office and lock the door, on first floor (rooms numbered 17, 19 and 21, in Mo. 49 Wall street), and that he tried the other door; asked if those gentlemen had gone; that he went down stairs and took a key and unlocked Mo. 16 (the office of the Board of Underwriters); that she then called John Davis, the colored boy; that when he, the prisoner, saw her he walked pretty smart, and Davis followed him; that she locked Mo. 16 that afternoon; did not see anything in the prisoner’s hand; that she saw the prisoner take the keys out of his pocket, and open the door of Mo. 16.
+John Davis, the colored boy, testified: That he saw the prisoner in front of the door of Mo. 50 Wall street; that the witness was sweeping, and the prisoner came out by the door and walked very fast; that the witness followed him to Jauncy Court, and saw him throw two keys away; picked up the keys, and followed him to Broadway and Exchange place, where he was arrested.
+James Sylvie, the officer, testified: That he saw the prisoner on the corner of Wall and William streets, on the second floor, in the hall; took him to the Station house; found on his person some pawn tickets and two coats, money, and several counterfeit notes; received the keys from Dorsey, to whom the boy Davis had handed them, and tried them in door of Mo. 16; they fitted well.
+Gerard S. Stagg, business clerk to the Board of Underwriters, testified: That the rooms of the Board of Underwriters, 16 and 18, in 49 Wall street, contained furniture, carpets, tables, chairs and charts, on the 28th day of June, the day on which the prisoner was charged to have committed the burglary.
+This is all the evidence I find in the case; and on this evidence, under the charge of the court, the jury found the prisoner guilty.
+I do not find any evidence that the prisoner ever entered the door of the room No. 16, or that any of the property found on him had been stolen, and no evidence that anything had been taken, or stolen, or missed from room No. 16.
+The Judge, in charging the jury, after stating the offence for which the prisoner was indicted, as defined by the statute, charged as follows:
+That before they could convict the defendant as charged, they must be satisfied that a burglary had been committed, and that the defendant entered the premises with the intent to steal or to commit a felony. That the intent must be gathered from all the circumstances of the case, and that the prosecution was not hound to prove it affirmatively. That the evidence showed that a burglary had been committed, and if they, the jury, her lieved that the defendant entered the premises with the intent to steal or commit a felony, then they must convict; otherwise, acquit. That if they had a well founded doubt, as to the guilt of the defendant, they must give him the benefit and acquit.
+To this charge the prisoner’s counsel excepted.
+The charge would certainly appear to be just and fair in the main, and yet, no doubt from inadvertence, I think it contains grave errors, which may have had a very serious effect upon the jury against the prisoner. It was certainly an error to tell the jury, that the prosecution was not bound to prove the > intent affirmatively, and to charge then positively that the evidence showed that a burglary had been committed. These propositions, however, qualified by other parts of the charge, preceding or following, were wrong, and calculated to mislead the jury, and to prejudice the prisoner.
+The intent, it is true, was to be gathered from the circumstances of the case, but the prosecution was bound to prove it affirmatively; that is, to prove facts and circumstances affirmatively, from which the jury could gather the intent, and the intent charged in the indictment. If the learned judge had told the jury that the prosecution were not bound to prove the intent positively, the prisoner would have had less cause to complain.
+So the judge was certainly unfortunate in the use of words when he told the jury that the evidence showed that a burglary had been committed. The evidence may have shown that there had been a breaking into, but it did not show a burglary, unless it showed the breaking into with intent to steal, &c.
+The intent is a part of the definition of burglary. The very question for the jury was, whether a burglary had been committed. I think the exception to the charge was well taken, and that upon that ground alone the prisoner should have a new trial.
+I am inclined to think, also, that there was a fatal variance between the offence (if any) proved, and the offence charged in the indictment.
+The indictment charged the prisoner with breaking into and entering a store, in which goods were kept for use, sale and deposit. The proof, if it showed a breaking and entering,. showed a breaking and entering into an inner room of a building in Wall street, which room was not a store in which things were kept for use, sale and deposit, but a mere business office of the Board of Underwriters, in which were kept merely furniture and articles for their business use.
+It will hardly do to say this is mere matter of form, and should be disregarded. It appears to me that it is matter of local description and of statutory definition of the offence, and that the variance was material and could not be disregarded.
+Upon the whole, I am of the opinion that there should be a new trial.
+Conviction reversed and new trial ordered.
