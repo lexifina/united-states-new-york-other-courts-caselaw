@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-10-15"
+citations: ["3 N.Y. St. Rep. 340"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Nathaniel Gilman, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/3/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1978759
+---
+
+# In re the Estate of Gilman
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The motion to require George F. Gilman, who is now the surviving and acting executor of the estate, to deposit these amounts with the trust company, proceeded upon the ground that they could not in safety be retained by him. The larger amount depended upon notes executed and delivered by him to the testator in his lifetime for moneys advanced, and were held to be so much of the funds of the estate in his hands, as he was liable to pay upon the notes, but the extent of that liability was the subject of controversy, and could only be definitely determined by a settlement of the executor’s accounts. That has been most unaccountably and unreasonably delayed in the case of this estate, but the prospect at the time of the hearing before the surrogate was that a speedy disposition could now be made of the executor’s accounts. To a large extent that had previously been considered and determined, and although the executors had been very indulgently and leniently dealt with in the report which was confirmed by a preceding surrogate, that fact does not change the grounds or nature of the application upon which these orders were made. Since then the succeeding transactions of the executors have also been presented for settlement by the surrogate, and a hearing for that purpose is in progress ■before a referee, and until that shall be determined, or some other inquiry may be instituted and completed, it cannot definitely be held liow much of this sum, whether the entire $113,811, or a lesser amount, shall be paid over to the estate by this executor. There was no propriety under this state of facts in the surrogate’s requiring a special hearing and investigation to be made for this object. The estate had already been depleted by large and unjustifiable legal expenses and allowances, and the surrogate was required in the exercise of his authority to avoid any further misfortune of this description. The remedy of the applicants is to secure, with all practicable rapidity, the settlement of the accounts of the executor, and the entry of a decree defining their rights, and his liabilities, and at once enforcing that decree against him. The credit of the law, as well as its administration, certainly requires as much as that in the settlement of the affairs of this estate. For the great delay which has intervened in reaching that end is a reproach to the administration of justice which can not be excused, and should not be tolerated. And from the opinion of the present surrogate, that appears to have been the view entertained by him. But while it is clearly" justified by the facts in the case, it cannot require a new and independent proceeding to accomplish the object the applicants consider to be necessary for the protection of their own special interests.
+The other order made on the denial of the application of Caroline R. Garczynski individually has no more extended foundation for its support. It is true that she is interested in the estate as the daughter of Caroline R. Redington, ■ who was a daughter of the testator, but that interest will be better secured and promoted by bringing about a com-' píete and final settlement of the affairs of the executor than by the prosecution through intricate legal proceedings of a special application of this description.
+This executor may be a person of large wealth, as he has stated himself to be, but the business in which he is engaged, according to his own sworn evidence, may at any time expose him to losses endangering the future safety of-this estate. And that circumstance, as well as those which have already been mentioned, forcibly require the utmost acceleration to be given to the proceedings now in progress for the final adjustment of the affairs of this estate.
+The orders from which the appeals ■ have been taken should be affirmed, but as this executor, together with the other with whom he for many years acted, has so long and persistently failed to discharge his obligations to this estate, the affirmance of the order should be without costs.
+Macomber and Brady, JJ., concur.
