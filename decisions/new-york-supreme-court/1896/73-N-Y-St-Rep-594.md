@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court"
+decided: "1896-04-24"
+citations: ["73 N.Y. St. Rep. 594"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morris H. Beall, Pl'ff, v. General Electric Company of Yucatan et al., Def’ts."]
+source_url: "https://static.case.law/ny-st-rep/73/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1991128
+cites_cases: ["1 Hill, 501", "14 Hun, 493", "16 Daly, 72", "3 Cow. 252", "3 N. Y. 442", "30 St. Rep. 657", "54 N. Y. 114", "54 St. Rep. 101", "55 St. Rep. 394", "6 Misc. Rep. 81", "7 Wend. 227", "70 Hun, 175"]
+---
+
+# Beall v. General Electric Co. of Yucatan
+
+## Majority (GIEGERICH, J.)
+
+GIEGERICH, J.
+This action is brought against the General Electric Company of Yucatan, Marcus Nathan, Horace H. Thayer, and August H. Schumacher, upon the following promissory note: u$2,400. New York, August 24th, 1893.
+“ One hundred and twenty days after date, we promise to pay to the order of Marcus Nathan twenty-four hundred dollars, with interest for sixty days at 6 per cent, per annum, at N. Y. Produce Exchange Bank
+“ The General Electric Co. of Yucatan.
+“H. H. Thayer, Treas.
+“ A Schumacher, President.
+“"Value received.
+“No. 8. Due Dec. 22-26, 1893.”
+Indorsements: “ Marcus Nathan. A, Schumacher. H. H. Thayer. Claflin & Kimball, Treas.”
+All defendants defaulted except the defendant Nathan, who set up in his answer that his indorsement of the note was for the accommodation of the Mather Electric Company, and that the plaintiff was not the real party in interest. The latter defense was withdrawn at the trial; and, by consent of counsel, the jury was discharged, and the case submitted to the court. The note in suit, bearing the indorsements of the defendants Nathan, Schumacher, and Thayer, was delivered in August, 1893, by the defendant Nathan, to the said Mather Electric Company, in payment for certain electric lighting apparatus furnished by that company to the defendant the General Electric Company of Yucatan. It was subsequently, and prior to its maturity, transferred by said Mather Electric Company to Clafln & Kimball, Incorporated, in partial repayment of money advanced by the latter to the former company. Subsequently, and before the maturity of said note, it was discounted at the International Trust Company of Boston, by whom it was presented for payment, and returned protested to said Claflin & Kimball, and notice of protest was given to all defendants. Thereafter, and after the maturity of the note, it was assigned by said Claflin & Kimball to the plaintiff, who is now the holder and owner thereof.
+The note having been indorsed in blank, and without restriction by the payee thereof, it was transferable by delivery just as much as if the same had been payable to bearer, and conferred upon the holder the title thereto, and the right to sue^thereon, to fill the blank, and to make the indorsement special." 2 Am. & Eng. Enc. Law, p. 383; Story, Prom. Notes, § 139; Norton, Bills & N. p. 110.
+The defendant Nathan contends that plaintiff’s assignor took the note with notice of its accommodation character, and hence plaintiff cannot recover. The burden of proving this proposition is upon the defendant (Mechanics & Traders’ Bank v. Livingston, 6 Misc. Rep. 81; 55 St. Rep. 394, and citations); and, to my mind, he has failed in such proof. But, assuming that his evidence upon this point is sufficient, still, as the note was received by plaintiff’s assignor before maturity and for value, and as no diversion or fraud was pleaded or proved, his mere knowledge of the accommodation cannot impair plaintiff’s right to enforce it. Bank v. Norton, 1 Hill, 501-507; Grant v. Ellicott, 7 Wend. 227; Bank v. Neass, 3 N. Y. 442; Archer v. Shea, 14 Hun, 493; Arnson v. Abrahamson, 16 Daly, 72; 30 St. Rep. 657. As such right of action was perfect in plaintiff’s assignor, the plaintiff succeeded thereto, although the note was assigned to him after maturity. Britton v. Hall, 1 Hilt. 528; Williams v. Matthews, 3 Cow. 252; Miller v. Talcott, 54 N. Y. 114; Weems v. Shaughnessy, 70 Hun, 175; 54 St. Rep. 101; Norton, Bills & N. pp. 202, 203, and citations.
+It follows, therefore, that plaintiff is entitled to judgment against the defendants for the sum of 2,766.47, with costs and an extra allowance of 5 per centum upon the sum recovered. Decision to be settled upon one day’s notice.
