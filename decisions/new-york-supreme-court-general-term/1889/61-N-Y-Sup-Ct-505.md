@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1889-11"
-citations: ["61 N.Y. Sup. Ct. 505", "61 N.Y. Sup. Ct. 480", "8 N.Y.S. 34", "8 N.Y.S. 31"]
+decided_precision: "month"
+citations: ["61 N.Y. Sup. Ct. 505", "8 N.Y.S. 34"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["THE PEOPLE OF THE STATE OF NEW YORK v. E. REMINGTON & SONS. In the Ma
 source_url: "https://static.case.law/ny-sup-ct/61/cases/0505-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4580825
-cites_cases: ["118 Ill. 524", "118 Ill., 524", "122 Mass. 242", "122 Mass., 242", "13 Iowa, 515", "13 Met., 159", "13 Metc. 159", "13 R. I. 90", "13 R. I., 90", "15 R. I. 480", "16 Mass. 308", "16 Mass., 308", "17 Vt. 54", "17 Vt., 54", "18 B. Mon. 114", "18 Wend. 591", "18 Wend., 591", "19 Johns. 485", "19 Johns., 485", "19 Vt. 403", "2 Conn. 350", "2 Conn., 350", "2 Hun, 630", "2 N. H. 488", "2 N. H., 488", "33 Barb. 378", "33 Barb., 378", "45 Pa. St. 151", "45 Penn. St., 151", "5 Johns. Ch. 320", "5 Johns. Ch., 320", "63 N. Y. 616", "63 N. Y., 616", "66 Md. 461", "66 Md., 461", "7 Atl. Rep. 615", "71 N. Y. 405", "79 Pa. St. 146", "8 Atl. Rep. 705", "85 N. Y. 172", "85 N. Y., 172", "9 N. E. Rep. 257", "9 N. E. Rep., 257", "92 U. S. 618"]
+cites_cases: ["118 Ill. 524", "118 Ill., 524", "13 Iowa, 515", "13 Met., 159", "13 Metc. 159", "13 R. I. 90", "13 R. I., 90", "15 R. I. 480", "16 Mass. 308", "16 Mass., 308", "17 Vt. 54", "17 Vt., 54", "18 B. Mon. 114", "18 Wend. 591", "18 Wend., 591", "19 Johns. 485", "19 Johns., 485", "19 Vt. 403", "2 Conn. 350", "2 Conn., 350", "2 Hun, 630", "2 N. H. 488", "2 N. H., 488", "33 Barb. 378", "33 Barb., 378", "45 Pa. St. 151", "45 Penn. St., 151", "5 Johns. Ch. 320", "5 Johns. Ch., 320", "63 N. Y. 616", "63 N. Y., 616", "66 Md. 461", "66 Md., 461", "7 Atl. Rep. 615", "71 N. Y. 405", "79 Pa. St. 146", "8 Atl. Rep. 705", "85 N. Y. 172", "85 N. Y., 172", "9 N. E. Rep. 257", "9 N. E. Rep., 257", "92 U. S. 618"]
 ---
 
 # People v. E. Remington & Sons
