@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1885-06-01"
+citations: ["20 Jones & S. 202", "52 N.Y. Super. Ct. 202"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN NEWMAN, Appellant, v. EDMUND C. MARSHALL, Respondent."]
+source_url: "https://static.case.law/ny-super-ct/52/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1681077
+cites_cases: ["1 Johns. 322", "1 Johns. Cas. 123", "11 Pick. 387", "13 Johns. 235", "15 Barb. 590", "27 Miss. 68", "4 Johns. 150", "43 N. Y. 157", "60 N. Y. 104", "69 N. Y. 101", "8 Wend. 555", "9 Johns. 294", "9 Wend. 201", "94 N. Y. 619"]
+---
+
+# Newman v. Marshall
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The learned judge below, on all the testimony, dismissed the complaint. So far as this was done on the ground that there was no evidence that the defendant made either an assault or battery upon the plaintiff, two things are to be said. First, there was some testimony that the defendant pushed the plaintiff. Second, although the greater part of the violence done to the plaintiff, as he testified, was done by others than the defendant, there was testimony enough to take the verdict of the jury as to whether the defendant, being present, did not instigate and encourage those who actually used physical violence upon the plaintiff. If he did, in legal effect he was guilty of assault and battery.
+The important question is whether the persons who used the force upon the plaintiff, were justified in that, upon the ground that there was no more force used than was necessary to prevent the plaintiff entering into possession of premises, of which the defendant or his vendee were rightfully in possession, while the plaintiff had no right of possession. The premises referred to were a barroom, which had fixtures belonging to plaintiff, and another room opening into the bar-room. There was there other property belonging to the plaintiff. The defendant was a lessee of the premises. By an agreement it clearly appeared that the defendant had allowed the plaintiff to go into possession of the premises for the purpose of doing business there. The plaintiff was in possession in his own right, and not as servant or agent of the defendant. On a day in February, the defendant, without any former notice to the plaintiff to remove from the premises, entered them in company with several others and told the plaintiff that he must leave at once, he the defendant having sold the place to one of the persons. The plaintiff asserted that the place was his, and he had a right to remain. He in no way yielded or acquiesced in the demand made by the defendant, unless he did so by the following conduct on his part:—For the purpose of giving a message to a boy, to be taken to his lawyer, he went to the front door and stood near it for a moment, when those on the inside shut the door and locked it. These facts do not incontrovertibly show that the plaintiff voluntarily abandoned possession to the defendant. There are some strong indications to the contrary. At least the verdict of the jury have been taken on this point. If the plaintiff did not voluntarily abandon or surrender the possession of the premises, the defendant or his vendee did not go into possession.
+On the facts, that in this case show the rights of the opposing parties, it would seem that the plaintiff’s right to possession had not been ended by the notice to leave at once, but could be ended only upon giving a reasonable time within which to remove. If other facts were known, it might be possible to say whether the law had fixed the time of notice. It is only necessary now to say that notice to leave forthwith was not enough, the plaintiff being in by consent of defendant, and not therefore, a trespasser or anything of that nature.
+On the notice that was given, as it was accompanied by a notice to the plaintiff to get his property together, he would be rightfully in possession until a time proper for such a transaction should pass. But it' seem clear from any point of view that he had not left the possession.
+On the front door being locked, he went to a back door to the rooms, broke it open and entered. Forthwith, the parties inside attacked him, used the violence that has been referred to, and forced him outside of the door, and the vendee of the defendant has remained since then in occupation. As it has been determined that the plaintiff had not gone out of possession and the defendant or his vendee had not entered into it, or that it does not appear so uncontrovertibly, the defendant’s violence, if he were guilty of it, was used to put the plaintiff out of possession by force, and this was illegal, and the force was not used to prevent the plaintiff entering forcibly upon the defendant’s possession.
+There were facts that entitled the plaintiff at least to a verdict of the jury as to whether he had left or abandoned possession, before he attempted to re-enter through the back door, and as to whether the defendant was guilty of assault and battery.
+Judgment reversed, and a new trial ordered, with costs to abide event.
