@@ -1,7 +1,8 @@
 ---
 court: "New York Superior Court"
 decided: "1852-10"
-citations: ["8 How. Pr. 82", "8 How. Pr. 134", "1 Duer 613", "8 N.Y. Super. Ct. 613"]
+decided_precision: "month"
+citations: ["8 How. Pr. 82"]
 reporter: "how-pr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
