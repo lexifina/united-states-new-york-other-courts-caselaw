@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1853-02"
+citations: ["7 How. Pr. 446"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Schoolcraft agt. Thompson. Smith and others, agt. Thompson. Smith and others agt. Thompson."]
+source_url: "https://static.case.law/how-pr/7/cases/0446-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2193264
+cites_cases: ["1 Hill, 644", "16 John. 149"]
+---
+
+# Schoolcraft v. Thompson
+
+## Majority (T. R. STRONG, Justice)
+
+T. R. STRONG, Justice
+-By Section 382 of the Code, it is provided that "a judgment by confession may be entered without action, either for money due of to become due, or to secure any person against contingent liability on behalf of the defendant, or both, in the manner prescribed by this chapter." Section 383 provides that "a statement in writing must be made and signed by the defendant, and verified by his oath to the following effect: 1. It must state the amount for which judgment may be entered, and authorize the entry of judgment therefor. 2. If it be for money due or to become due, it must state concisely the facts out of which it arose, and must show that the sum confessed therefor is justly due or to become due.”
+The statement in question, is far short of a compliance with the last named subdivision. . One important object of that subdivision was, that other persons than the parties to the judgment, having anj' interest, mighty by. referring to the statement, be informed of all the material iacts in relation to the indebtedness, and thereby be better able to detect any fraud intended by the judgment. It was to protect third persons from fraud, by furnishing them to some extent with_ the means of discovering and preventing it. This object would be principally, if not whoT defeated, if a statement like that in the present case should’be allowed. No information is furnished of any considerable value. The defendant confesses and authorizes the entry of a judgment for a certain sum, and then says: “ This confession of judgment is for a debt justly due to the plaintiff,” without any thing further in respect to the amount due. It is contended by the counsel for the motion, that it is not even stated, by this expression, that the sum confessed is due; but that, perhaps, is too strict a construction. It was necessary, howéver, to go further, and “ show that the sum confessed therefor is justly due,” by setting forth circumstances from which it would be apparent. That would probably have been done sufficiently, by a proper compliance with the requirement to “ state concisely the facts out of which it (the debt) arose.” But the statement in that respect is also defective. It is that the indebtedness arose upon the following facts, “ for goods, wares and merchandise, sold and delivered to me by Messrs. Schoolcraft, Raymond & Co., Albany; of which firm the plaintiff is a member. The goods were purchased by me in the years 1851 and 1852.” This is much too general. The kind of goods, wares and merchandise,” the quantities, the prices charged for them, the times, or near the times in the years named, when the purchases were made. None of these or any other particulars are stated, and no reason for the omission is giveq. I can not think the legislature contemplated, by the requirement that the facts be concisely stated, a statement so destitute of particulars, or that the requirement can be so easily satisfied. No essentially beneficial purpose would be answered by such a statement as to the nature, consideration and origin of the debt (Lawless vs. Hackett, 16 John. 149). The decision in that case was under a statute somewhat different in its phraseology from that of the provision of the Code applicable to this case; but it is not clear that it exacted a specification more full and precise than is now required (see also Brinkerhoff vs. Marvin, 5 Johns. Chan. 320, 325, 326).
+It is urged also, in support of the motion, that the affidavit of verification is defective. It is “ that the facts stated in the above confession are true.” A verification of the whole statement was required. It is not necessary upon this motion to determine whether the term “ facts,” includes the entire contents of the statement (Fitzhugh vs. Truax, 1 Hill, 644; Whelpley vs. Van Epps, 9 Paige, 332). Nor whether the word “ confession ” should be construed as thus comprehensive. No evasiveness or uncertainty in the affidavit required, in respect to any material point, should be tolerated.
+The blank for the day of the month in the jurat to the affidavit does not, I think, affect the validity of the judgment. It is shown by the opposing affidavit that the oath was taken before the judgment was entered.
+The provisions of the Code in respect to the judgment, not having been complied with, the judgment must be regarded fraudulent and void, as against the junior judgment creditors, and they are entitled to have it set aside to that extent (Plummer agt, Plummer, 7 How. Pr. R. 62).
+The order applied for is accordingly granted, with $10 costs.
