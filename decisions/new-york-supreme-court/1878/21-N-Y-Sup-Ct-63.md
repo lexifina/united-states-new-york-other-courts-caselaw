@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1878-04"
-citations: ["21 N.Y. Sup. Ct. 63", "21 N.Y. Sup. Ct. 58"]
+decided_precision: "month"
+citations: ["21 N.Y. Sup. Ct. 63"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["THE PEOPLE OF THE STATE OF NEW YORK ex rel. ELIZABETH C. JAY v. WILLI
 source_url: "https://static.case.law/ny-sup-ct/21/cases/0063-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2357685
-cites_cases: ["17 Barb., 403", "4 C. B., 598", "41 N. Y., 442"]
+cites_cases: ["17 Barb., 403", "4 C. B., 598"]
 ---
 
 # People ex rel. Jay v. Bennett
