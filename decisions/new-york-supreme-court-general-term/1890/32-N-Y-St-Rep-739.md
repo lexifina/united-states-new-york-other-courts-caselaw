@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-06-19"
+citations: ["32 N.Y. St. Rep. 739"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fred. M. Leiser, Resp’t, v. Harris Rosman, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0739-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040196
+---
+
+# Leiser v. Rosman
+
+## Majority (Corlett, J.)
+
+Corlett, J.
+In September, 1889, the plaintiff was a merchant in Bochester, engaged mainly in selling clothing. The defendant was a retail dealer in clothing at Lowville, in Lewis county. About the 4th day of that month the plaintiff sold a bill of goods to the aefendant of the_amount of $428.88, which remains unpaid. About the 4th day of January, 1890, the plaintiff commenced this action, and upon his affidavit and that of Morris Wolff obtained an attachment.at chambers from a 'justice of this court. On the 24th day of February a motion to vacate the attachment based on the original papers was made at special term, and denied. From the order entered the defendant appealed.
+The plaintiff’s affidavit stated in substance the amount of the bill of goods sold, referring to the items which appear in detail in the case, and that $428.88 and interest was then due the plaintiff over and above all counterclaims and set-offs known to him.
+The affidavit of Morris Wolff showed that he lived in [Rochester, and was employed as a salesman for the plaintiff; that he took the order for the bill of goods, and that they were delivered to and received by the defendant at his store in Lowville; that about the 31st day of December, 1889, a considerable part of the goods of the defendant were taken from the store, packed by him in-cases ready for shipment, but were not shipped in his name.' These facts the affiant learned from one L. C. Burdick, who lived at Lowville, and had a place of business near that of the defendant ; that after the removal of the goods, and on the same day, three judgments were entered against the defendant; one in favor of Surndle Bosnian for $1,806.28 ; and another in favor of Moses .Bosnian, both brothers of the defendant; one in favor of Sarah Schimburg for $209, alleged to be for goods purchased by the defendant from her; and another in favor of the First National Bank of Lowville for $442.88, which was entered on the 2d day of January, 1890. That executions were immediately issued on these judgments upon which the defendant’s goods were levied, except those previously boxed ; that the sheriff informed the deponent that the defendant requested him to sell the goods so levied upon without dela), which he declined to do ; that on the 3rd day of June the affiant had a conversation with the defendant at Lowville and requested him to inform him about his indebtedness ; that the defendant refused to do so, or impart any information on that subject or about his books or accounts; that he refused to confess a judgment in favor of the plaintiff, and informed him that a proposition for settlement would be made by his brother Súmale within about four weeks, when business would be commenced in that brother’s name.
+He further stated that the reason why judgments were entered was that certain creditors were pressing for payment, and he thought it best that his brothers and cousin should have their claims paid first. He also stated that the sheriff was in fault for not selling the goods on the 6th day of January as he had promised.
+The affidavit further shows that the affiant had used every •effort to adjust and arrange the plaintiff’s claim without success, and that the goods levied upon were not of greater value than the executions.
+The affiant also stated various matters upon information and belief to the effect that the matters above stated were engaged in for the purpose of defrauding creditors ; that the judgments were not based upon any indebtedness; that prior to the above arrangement the defendant seemed to be doing a prosperous business; that affiant so believed, and that all the surroundings, including the observation of those acquainted, tended so to show ; in short, that the whole scheme was gotten up to cheat and defraud creditors. He states the sources of his information to be the defendant, the sheriff of Lewis county, L. C. Burdick, and other neighbors of the defendant whose names were unknown to deponent.
+The defendant made no affidavit to sustain his motion to vacate the attachment, but based his application on the papers upon which it was granted. All the matters in reference to which the affidavits speak were peculiarly within the knowledge of the defendant. His conversation with Wolff; the active interest he took in preferring his relatives, assuming he owed them; his refusal to secure the plaintiff or give him any satisfactory assurances or information ; his packing goods in boxes and concealment in reference to them, in connection with the various other circumstances above referred to, strongly tend to show that the whole scheme was for the purpose of defrauding creditors.
+In White v. Reichert, 14 N. Y. Weekly Dig., 285, it was held that an affidavit made by one partner of a firm stating the amount due, and by the other that the defendant’s stock had decreased at a more rapid rate than could be accounted for by his legitimate business, were sufficient to uphold an attachment, in the absence of opposing affidavits on the part of the defendant. The facts .stated in the affidavits in the case at bar are much stronger than those appearing in that case.
+In Frankel v. Hays, 20 N. Y. Weekly Dig., 419, it was held that where there was no denial or explanation on the part of the defendant, all legitimate deductions and inferences should be indulged in to uphold the attachment.
+It cannot be urged with force or even plausibility that the various matters stated in the affidavits do not require the defendant to explain. In connection with other matters, statements resting upon information and belief must be taken into consideration. Buell v. Van Camp, 28 N. Y. State Rep., 947.
+Ho reason is perceived why uncontradicted affidavits upon which an attachment is granted should not be construed with reasonable liberality.
+The order must be affirmed.
+Dwight, P. J., and Macomber, J., concur.
+Order affirmed, with ten dollars costs and disbursements.
