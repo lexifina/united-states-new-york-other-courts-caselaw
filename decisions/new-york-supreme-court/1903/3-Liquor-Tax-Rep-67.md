@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1903-01"
-citations: ["3 Liquor Tax Rep. 67", "39 Misc. 641", "3 Liquor Tax Rep. 69", "39 Misc. 646", "80 N.Y.S. 626", "39 Misc. Rep. 646", "3 Liquor Tax Rep. 65", "39 Misc. 558", "80 N.Y.S. 607", "39 Misc. Rep. 636", "3 Liquor Tax Rep. 66", "39 Misc. 636"]
+decided_precision: "month"
+citations: ["3 Liquor Tax Rep. 67", "39 Misc. 641"]
 reporter: "liquor-tax-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Matter of the Petition of Patrick W. Cullinan, as State Commissioner 
 source_url: "https://static.case.law/liquor-tax-rep/3/cases/0067-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1292094
-cites_cases: ["166 N. Y. 274", "31 Misc. Rep. 44", "36 App. Div. 533", "39 Misc. 558", "39 Misc. 636", "39 Misc. 641", "39 Misc. 646", "48 App. Div. 423", "55 N. Y. Supp. 54", "72 N. Y. 527"]
+cites_cases: ["166 N. Y. 274", "39 Misc. 641", "72 N. Y. 527"]
 ---
 
 # In re Cullinan
