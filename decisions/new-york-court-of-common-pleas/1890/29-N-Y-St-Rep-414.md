@@ -1,0 +1,23 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1890-02-03"
+citations: ["29 N.Y. St. Rep. 414"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William G. L. King, Resp’t, v. Moritz Bauer, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664257
+---
+
+# Kim v. Bauer
+
+## Majority (Bischoff, J.)
+
+Bischoff, J.
+On the trial it was admitted that defendant had employed plaintiff as a real estate broker to negotiate the' sale of a block of ground belonging to defendant, and bounded by One Hundred and Fourth and One Hundred and Fifth streets and the Boulevard and West End avenues; that a sale of such block of ground was subsequently made by defendant to Beck &. Bunk, and that the customary brokerage is one percentum of the purchase price. Defendant, however, maintained that plaintiff was not the procuring cause of the sale and therefore not entitled to the commission.
+Appellant’s contention that unless the evidence shows respondent to have been the procuring cause of the sale, he is not entitled to recover, must, as an abstract proposition of law, be accepted as correct, and the only question, therefore, to be determined on this appeal is whether or not the conclusions of the referee are justified by the evidence.
+A careful examination of the testimony fails to disclose any 'error. The substance of all the testimony is fully and correctly stated in the referee’s opinion, and the matters advanced by the several parties for and against the claim in suit have received careful and impartial consideration. Indeed, the opinion may well be adopted as the opinion of this court, and no conclusions, other than those made, could well have been arrived at by the referee.
+The judgment appealed from should, therefore, be affirmed, with costs.
+Larremore, Oh. J., concurs.
