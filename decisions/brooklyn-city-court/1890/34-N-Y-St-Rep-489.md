@@ -1,0 +1,28 @@
+---
+court: "Brooklyn City Court"
+decided: "1890-11-24"
+citations: ["34 N.Y. St. Rep. 489"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John N. Smith, App’lt, v. David C. Reed, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0489-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2047172
+cites_cases: ["10 N. Y., 227", "119 N. Y., 587", "19 N. Y., 369", "41 Hun, 199", "59 N. Y., 342", "65 N. Y., 78", "79 N. Y., 153", "8 Cow., 406"]
+---
+
+# Smith v. Reed
+
+## Majority (Yam Wyck, J.)
+
+Yam Wyck, J.
+This action was brought to remove a cloud from title of real estate. Judgment of the special term was for defendant and plaintiff appeals therefrom.
+It has been pretty well settled by our court of last resort that, notwithstanding a judgment debtor has made a prior fraudulent conveyance of his real estate, the judgment creditor may sell upon his execution such real estate, and “the purchaser thereat will ' have the right, and will take the risk of impeaching such conveyance.” Chautauqua Bank v. Risley, 19 N. Y., 369; Erickson v. Quinn, 15 Abb., N. S., 168; Bergen v. Carman, 79 N. Y., 153; White’s Bank v. Farthing, 101 id., 344; 1 N. Y. State Rep., 15; Duell v. Alvord, 41 Hun, 199; 4 N. Y. State Rep., 197.
+The plaintiff in this action represents the interest derived from the purchaser at an execution sale of premises alleged to have been fraudulently conveyed by the judgment debtor prior thereto. Defendant represents an undivided one-third of the interest in the premises derived from Carrie Taylor (now Carrie Lowitz), one of the devisees of the grantee in such conveyance. That being so, then the purchaser under the execution sale in the judgment of the Nassau Bank v. Taylor acquired, provided the execution was legally issued, such a title to or interest in the premises sold as would give him the right to impeach at law or in equity the prior conveyance of the judgment debtor, on the ground that it was fraudulent as against the judgment creditor. See authorities above cited. Was this execution illegally issued? The respondent’s counsel, to sustain his contention that it was, calls our attention to a single ground, viz., that it was issued prematurely under § 1380, Code Civil Procedure. But he must have overlooked that the three years’ restriction therein has no applicaiton to cases where the judgment debtor died, as in this case, prior to July 10, 1879. See § 2, chap. 542, Laws 1879. The facts of this case will not uphold the defense that defendant was a bona fide purchaser without notice.
+The plaintiff was in possession at the time of defendant’s purchase of his interest, and such possession was notice of plaintiff’s claim of title and interest. Phelan v. Brady, 119 N. Y., 587; 30 N. Y. State Rep., 256. The judgment in the case of The Nassau Bank v. Cleland, Carrie Taylor et al., declaring this deed of the judgment debtor void for fraud, is not binding upon Carrie Taylor or the defendant, who now owns her interest. Carrie Taylor, at the time that action was brought, and judgment was granted therein, was an infant; she was never served with the summons in that action, and never made any application to appear therein by guardian or otherwise. Code Civ. Pro., §§ 453, 426.
+The contention of plaintiff that this judgment was binding upon Carrie Taylor is not helped by the circumstance that one Cameron was served with the summons, and that he had been appointed guardian ad litem of Carrie Taylor on the application of the plaintiff in that action. She was not shown on such application to be a resident of this state who was temporarily absent therefrom. Code Civ. Pro., § 473.
+Did the pleadings in this case raise the issue that this eonveyveyance of the judgment debtor was fraudulent, and, if so, did the evidence justify the finding that it was not fraudulent ? The complaint sets forth that the judgment debtor was indebted on notes at the time of this voluntary conveyance without consideration, which notes fell due shortly after the date of conveyance, and were put in action soon thereafter, which resulted in judgment against defendant, though defended, and executions issued thereon were returned wholly unsatisfied. The complaint further set forth that the conveyance was void for fraud against creditors. The trial court found these allegations to be true, except that the conveyance was fraudulent It does seem to us the facts so alleged and proved raised the presumption of fraud, and made out a prima facie case calling upon the defendant to contradict or explain away the inevitable inferences that such circumstances suggest. Dunlap v. Hawkins, 59 N. Y., 342; see 346 and 347; Cole v. Tyler, 65 N. Y., 78; Seward v. Jackson, 8 Cow., 406; Carpenter v. Roe, 10 N. Y., 227; Erickson v. Quinn, 47 id., 410.
+It is apparent from the record, and to us from the argument of this appeal, that but little attention or effort was devoted' to the trial de nova of this issue of fraudulent conveyance. Plaintiff’s chief reliance seems to have been upon the so-called adjudication of this same issue in the other action, and defendant's main effort was to'show that it did not bind Carrie Taylor, whose interest devolved upon defendant. We have already indicated our opinion of that supposed adjudication, and think that a new trial should be had, in which both parties will doubtless give more attention to the vital issue, if not the only one, presented to us in the appeal book.
+Judgment reversed and new trial ordered, with costs to abide the event
+Clement, Ch. J., concurs.
