@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1890-12-08"
-citations: ["34 N.Y. St. Rep. 956", "34 N.Y. St. Rep. 958"]
+citations: ["34 N.Y. St. Rep. 956"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
