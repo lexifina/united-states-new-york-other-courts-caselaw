@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-12-31"
+citations: ["20 N.Y. St. Rep. 385"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marcus H. Mulleneaux, as Receiver, etc., Resp’t, v. Henry S. Terwilliger, Impleaded, App’lts."]
+source_url: "https://static.case.law/ny-st-rep/20/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2014845
+cites_cases: ["28 N.Y., 317"]
+---
+
+# Mulleneaux v. Terwilliger
+
+## Majority (Learned, P. J.)
+
+Learned, P. J.
+This is an action to set aside conveyances as fraudulent against creditors. The learned justice before whom the cause was tried found as a matter of fact (among other things) that the conveyances were without consideration, and as a matter of law that they were fraudulent. He made no distinct finding of fact that they were made with intent to defraud. The defendants therefore insist that the decision is contrary to the statute. 2 R. S., 130, § 4.
+That position presents the question whether there is error for which the judgment should be reversed, in case the findings of fact omit to state some fact which is necessary to support the conclusions of law. We think not. McKeon v. See, 4 Robt., 449; Rider v Powell 28 N.Y., 317; Gardner v. Schwab, 110 id., 650; 17 N. Y. State Rep., 174.
+If the defendant had claimed that there was no evidence tending to show fraud, except want of consideration, they might have asked for a finding to that effect. They did not. Or they might have asked the court to find affirmatively that there was no actual fraud The learned justice. has found that these conveyances were made with intent to defraud creditors. But he has called this a conclusion of law. If no case had been made and an appeal had been taken, simply on the judgment roll, we could not have reversed the judgment on account of an omission to state a finding of fraud as fact.
+Assuming, for the sake of the argument, that fraud, in fact, was conclusively proved, we ought not to reverse the judgment, because the learned justice did not state such finding, as a matter of fact, in this decision, but yet rendered the proper judgment.
+Unless, therefore, on the whole case, we could say that there was not sufficient proof of actual fraud, we ought to affirm.
+Terwilliger had been sued by Mrs Reid under the civil damage act for damages arising from sales by his tenant at a hotel. The action was noticed for trial at an April circuit, beginning Monday, the 13th On Saturday, the 11th, Terwilliger conveyed the land in question to his wife through David A Scott. He says there was some talk of his being involved in other similar actions, and that such possibility had something to do with his conveying the property. He did not owe his wife, and there evidently was no pecuniary consideration.
+The hotel property was incumbered by two mortgages held by Crowell, one for $1,175 and the other for about $950. A house and lot on the Galeville road were incumbered by a mortgage to Crowell for $500.; a house and lot on Bridge street were incumbered by a mortgage to Esmund for $500.
+On the 11th of April aforesaid Terwilliger mortgaged the hotel property also to Scott for $500. It was subject to the wife’s inchoate right of dower. The two other lots are those he conveyed, on the 11th of April, to his wife. The hotel property is stated to be worth $4,200.
+Terwilliger then, after conveying the two lots to his wife, retained the hotel property worth say $4,200, and subject to the inchoate right of dower, and to three incumbrances amounting to over $2,600, and no other property.
+The wife testifies that she took the property for Terwilliger’s support while he lived. This of itself is evidence that the conveyance to the wife was really intended to secure the property for Terwilliger’s benefit, and to-place it beyond the reach of creditors.
+It does not seem necessary to cite authorities. Every case must depend on its peculiar circumstances ; for, as the defendants say, the question is one of intent. Undoubtedly a man may make a settlement upon his wife which will be valid, although made without pecuniary consideration.
+But in this case it seems to us that the learned justice was fully justified in holding the transaction to be fraudulent. There was evidently very little value remaining in " the hotel property which would be available to a creditor. The time when the transfer was executed is a suspicious circumstance. Mrs. Terwilliger’s testimony as to the object is another. Terwilliger’s statement that there was talk about his being involved in other liabilities is another.
+All these circumstances tend to show that the conveyance, instead of being simply a proper and reasonable settlement on the wife by a husband in easy circumstances, was really .an attempt to secure the future enjoyment of the property to himself and to her in fraud of the rights of creditors.
+The judgment should be affirmed, with costs.
+Landon and Ingalls, JJ., concur.
