@@ -1,0 +1,23 @@
+---
+court: "Buffalo Superior Court"
+decided: "1889-09"
+citations: ["26 N.Y. St. Rep. 247"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moritz Pack, Pl’ff, v. Frank T. Gilbert, as Sheriff, etc., Def't."]
+source_url: "https://static.case.law/ny-st-rep/26/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2027092
+cites_cases: ["30 Barb., 477", "34 N. Y., 330", "5 Den., 619", "7 N. Y., 550", "96 N. Y., 180"]
+---
+
+# Pack v. Gilbert
+
+## Majority (Hatch, J.)
+
+Hatch, J.
+Prima facie where a sheriff fails to return an execution within the required time he is liable for the amount of the debt, but he may show in mitigation of damages that defend- • ant therein had no property on which the execution could be levied Ledyard v. Jones, 7 N. Y., 550.
+It satisfactorily appears that at the time the execution was "issued and to the commencement of the action the defendant therein had no property out of which it could be made. The claim, however, by plaintiff, is that under and by virtue of the attachment issued in the action, a lien was obtained upon sufficient property to satisfy the execution, which lien has not been lost. In answer to this defendant insists that no lien can be secured by virtue of an attachment, unless there be an actual manual custody of the goods attached under it, and that in the present case, the judge having vacated the attachment, and the sheriff having released the levy and surrendered the goods, the lien of the attachment was gone, until there should be another manual seizure under it, which in this case never did, and could not take place for the reason that the title to the goods had passed from the defendant, leaving nothing upon which the officer could lay hold. It may be conceded that no lien by virtue of an attachment can be secured unless there be a manual seizure. In the present case there was such seizure, and the lien of the attachment in the first instance was perfect; if lost at all it was lost by an erroneous order of the court in vacating it If then the contention of counsel for defendant be correct, an error of the court results in defeating a vigilant creditor of his rights, even though he succeeds in establishing such error, and is left, though no fault of his own, to see the property upon which he once had a legal lien appropriated by a more dilatory creditor of no higher standing. W hile it is true, as claimed, that there is a distinction between executions and attachments, the former becoming a lien upon delivery to the sheriff, and the latter only by an actual seizure of property, yet I see no reason, and find no law, for continuing such distinction after there has once been a valid seizure, then each are equally a lien, and if the law, as has been held in the case hereafter cited, will restore the lien of a judgment and execution erroneously vacated by an order of a court when such order is itself reversed, I see no reason why it will not restore in like manner the lien of an attachment erroneously vacated. I, therefore, think that the reasoning and principle decided in King v. Harris, 30 Barb., 477; affirmed in 34 N. Y., 330, apply to this case, and are conclusive of it.
+The case of Anthony v. Wood, 96 N. Y., 180, is not in conflict with this conclusion, for the reason that in that case there was at no time a valid levy of the attachment, because there was never any manual custody of the property; here there was an actual seizure of the goods. There is presented no question of superior intervening rights; the judgments upon which the executions were issued were all for pre-existing debts, and within the decision of' King v. Harris, supra, no equity exists in their favor. The same is true as to creditors represented by the assignee. Ray v. Birdseye, 5 Den., 619; Slade v. Van Vechten, 11 Paige, 21.
+It follows, therefore, that the sheriff should have made the execution. The motion for a new trial is denied, and judgment ordered for plaintiff on verdict, with costs.
