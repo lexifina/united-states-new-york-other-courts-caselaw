@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1843-07"
+citations: ["5 Hill & Den. 410"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Areson vs. Areson."]
+source_url: "https://static.case.law/hill/5/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2174757
+---
+
+# Areson v. Areson
+
+## Majority (By the Court, Bronson, J.)
+
+By the Court, Bronson, J.
+Since 1830, words of inheritance are no longer necessary; but “ every grant or devise of real estate, or any interest therein, shall, pass all the estate or interest of the grantor or testator, unless the intent to pass a less estate or interest shall appear, by express terms, or be necessarily implied in the terms of such grant” .[or devise.] (1 R. S. 748, § 1.) If the testator had devised, all bis real estate to his wife, and stopped there, she would undoubtedly have taken a fee. On the other hand, if the devise to her had been of all the real estate “'during her life time,” it is equally clear that she would have taken no more than a life estate. The only difficulty in the case is in determining how far the concluding words of the sentence—“ during her life time”—shall be carried back. Do they refer to all the preceding- matter contained in the clause, and so reach the 11 real estate;” or should they be restricted to the last antecedent—“ the interest of five hundred dollars ?” The grammatical construction of the language favors the claim of the plaintiff, and there are some cases in the books which tend pretty strongly in the same direction. Thus, the words per legem terra, which are used neár the end of the 29th chapter of Magna Charta, have been held to refer and apply to all the precedent matter. (2 Inst. 45, 50; Dwar. On Stat. 704.) And a like rule of construction has been applied' to wills, where, after mentioning several subjects in the same clause, the sentence winds up with qualifying words. (Cole v. Rawlinson, 2 Ld. Raym. 831; 1 Salk. 234, S. C.; Thellusson v. Woodford, 4 Ves. 329; Gwynne v. Muddock, 14 id. 488.) But still this is a question where no great light can be obtained from the books. We must seek for the intention of the testator by considering the nature of the subjects which he had in. mind, as well as the order in which they are mentioned. If, for example, he had given his wife black-acre, white-acre and green-acre during her life time, there can be no doubt but the concluding words would have operated as a limitation in relation to all of the lands. But if he had given her one hundred dollars in money, one horse and ten acres of land during her life time, I should think that the concluding words related only to the last antecedent, land, and not to the money nor the horse. And to come directly to the case in hand, I think the words “ during her life time” should be restricted in their application to the last preceding subject, “ the interest of five hundred dollars.” The nature of the subject made it absolutely necessary to specify some time as well as amount. If no time had been mentioned, the gift of interest would either have been void for. uncertainty, or it might have been satisfied by paying the interest of five hundred dollars for a single day. The testator intended that his wife should have “ the interest of five hundred dollars,” or what is the same thing, thirty-five dollars per year, as long as she lived; and the words “ during her life time” were used to express that intention, and not to limit or qualify the devise of real estate. This construction derives some aid from the fact that the real estate is no where else mentioned in the will. All the other clauses are confined, in terms, to the personal property. On the whole, I am of opinion that the widow took a fee in the land, and the plaintiff cannot therefore recover.
+It is not without considerable hesitation that I have arrived at this conclusion, and it would not, perhaps, be too much to say, that this is one of those questions which sometimes arise upon wills, where the matter might about as well be decided one way as the other. But upon such reflection as I have been able to bestow upon the case, my opinion is, that the defendant has the title. .
+Judgment of nonsuit
