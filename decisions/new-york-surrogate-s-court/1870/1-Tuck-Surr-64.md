@@ -1,0 +1,32 @@
+---
+court: "New York Surrogate's Court"
+decided: "1870"
+citations: ["1 Tuck. Surr. 64"]
+reporter: "tuck-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The probate of the paper propounded as the Will of Abraham R. Lawrence."]
+source_url: "https://static.case.law/tuck-surr/1/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 454939
+cites_cases: ["5 Wend., 47"]
+---
+
+# In re the Probate of the Paper Propounded as the Will of Lawrence
+
+## Majority (' The Surrogate.-)
+
+' The Surrogate.-
+■ The question is raised whether a ' certified copy of a decree of the late Court of Chancery, in the suit of Margaret Parslow v. Henry A. Parslow, decreeing a divorce between the parties for the cause of adultery, introduced in order to prove the fact of such divorce, should be received in evidence. The document is exemplified under his seal by the county clerk of the city and county of New York, who, by statute, is its official custodian, -as a correct transcript of the original.
+The decree is objected to as not tc be received without the pleadings and depositions in the suit; and it is urged that it does not show on its face the jurisdiction of the Court by which it purports to be granted.
+The rule, as laid down by Greenleaf (§ 511), is, that a decree in Chancery may be proved by an exemplification; and that where the decree is offered merely for proof of the res ipsa, namely, the fact of such decree, no proof of any other proceeding is required.
+And Buller (Buller's N. P., 235) states the rule to be, that if a party wants to avail himself of a decree only, and . not of an answer or deposition, the decree, being under the seal of the Court, and enrolled, may be given in evidence without producing the bill and answer. (See, also, Thenet v. Patterson, K. B. East., 12 George II.) Under decisions in our State, the enrollment of the decree would be unnecessary. (5 Wend., 47; 5 Paige, 304.) And Lord Abinger, in layburn v. Crisp, Carr & Payne, 397, received a decree with a bill and answer, and intimated that the: decree might be received without' them. In 1 Bing. N. C., 597, a decree in Chancery was read in evidence, it not appearing whether the pleadings were put in.
+In the, case of Simons v. De Barre, 4 Bosworth's Superior Ct. Peps., 547, the question arose whether a divorce decree of the City Court of Brooklyn,- á local Court having inferior jurisdiction, but invested by the Legislature with equity powers and the power of granting divorces, could be received in evidence. Mr. Justice Pierrepont, in the trial before a jury, in the. Superior Court, had admitted the copy of the "decree in evidence,, but ."afterwards granted a new trial. The plaintiff appealed from the order granting'a new trial,'and the admissibility of the record was the question decided adversely at General Term.
+' The Court held that the City Court .of Brooklyn was an inferior Court, and that its jurisdiction could'not, therefore, be presumed in support of the validity of its proceedings, but that enough must appear, on the records, or be otherwise proven, to show that, it. had possessed jurisdiction of the subject matter. And the decree was rej.ected, as matter of evidence, upon that ground. Mr. Chief Justice Bosworth said, on deciding this point, that it was unnecessary to go further and inquire whether a copy of the judgment of a superior Court, in an action of divorce, without a copy of the pleadings, would be competent and sufficient evidence that the parties were divorced by a regular and valid judicial determination* provided the judgment recited the nature- of the - action and the appearance of the parties in Court, and that they were heard on the application for judgment. So that, assuming the late. Court of Chancery to have been a superior- Court, the very question which, now .arises here was the one left undecided in this case. - ;
+'.The power of granting divorces a vinculo, for the cause of adultery, did not exist among the original powers of the English Court of Chancery, nor among those of the Court of Chancery of the State of Mew York. - In this State.it was expressly conferred by statute. The ¡Revised Statutes provide that divorces might be decreed and marriages dissolved by the Court of Chancery,- whenever adultery had - been committed. by either husband or wife, in either of the following cases:
+1. Where both husband and wife were inhabitants of this State at the time of the commission of the offense.
+2. Where the marriage had been solemnized or had taken place within this State, and the injured party, at the time of the commission of the offense, and at the time of exhibiting the bill of complaint, should be an actual inhabitant of this State.
+3. Where the offense had been committed in this State, and the injured party, at the time of exhibiting the bill of complaint, was an actual inhabitant of this State.
+The jurisdiction in such actions, thus conferred by the statute, is, therefore, of a limited nature, and could not be exercised except within the conditions and limitations prescribed. The decree produced and offered in evidence does not show upon its face the existence of the facts which are necessary and indispensable for the exercise of this jurisdiction. It does not show the place of inhabitancy of parties to the suit, nor the place or time of the commission of the offense, one or the other of which facts was a condition precedent to the exercise of jurisdiction by the Court of Chancery. Were the power to grant divorces an original power of the Court of Chancery, I should not consider it needful that the decree should show these things. But in the exercise of powers conferred and limited by statute, it would seem reasonable that even a superior Court cannot dispense with such recitals as will unequivocally demonstrate its jurisdiction in making its decree.
+I consider, therefore, that I must require that exemplified copies of the bill of the complaint, subpoena ad respondendum, with proof of service, order pro confesso, order of reference, and Master’s report, be produced, to show jurisdiction and to authorize me to receive in evidence the exemplified copy of the decree now offered.
+[The contestants’ counsel then produced exemplified copies of the subpoena, pleadings, orders and depositions, which were received and marked in evidence.]
