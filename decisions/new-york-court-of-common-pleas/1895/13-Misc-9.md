@@ -1,0 +1,38 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1895-06"
+citations: ["13 Misc. 9"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Edward Glennon v. James J. Martin et al., as Police Commissioners."]
+source_url: "https://static.case.law/misc/13/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 342664
+cites_cases: ["1 Sandf. 687", "6 Abb. N. C. 224", "8 N. Y. Supp. 380", "84 Hun, 64", "94 N. Y. 452"]
+---
+
+# People ex rel. Glennon v. Martin
+
+## Majority (Pryor, J.)
+
+Pryor, J.
+The learned counsel for respondents insists that we have no jurisdiction to review the decision of the board of police commissioners in denying the relator’s motion for an adjournment, but the authority he cites in support of the contention (People ex rel. Doherty v. Commissioners, 84 Hun, 64) distinctly recognizes the right of revision in case the refusal of the adjournment involved an abuse of discretion. People ex rel. Keech v. Thompson, 94 N. Y. 452. We have held in People ex rel. Devery v. Martin, herewith decided, that the denial of the adjournment ih that proceeding was an abuse of discretion, and since the motion on the part of the present relator was supported by the same proof of inability to secure the attendance of Devery, its denial was necessarily an equal abuse of discretion. Nay, upon the application by this relator it was patent to the commissioners that, with all their power and after every exertion, they found it impracticable to compel Devery’s attendance. Sick or well, by concession Devery’s presence at Glennon’s trial was an impossibility. .
+Counsel for respondent affirms that it is self-evident from the whole record that it was with the full knowledge, consent and privity of Officer Glennon, his intimate friend and ward-man and co-worker in wrongdoing, that Devery did not attend the trial. We have to express regret that counsel did not cite to us any folio or page of the record where the evidence of' such collusion might be found, for the omission has imposed upon us the ineffectual labor of exploring for the alleged proof. We discover none such in the volume before us. On the contrary, the uncontroverted fact is that relator called over and over again at Devery’s house for conference in reference to their case, and was refused access to Devery on account of his illness.
+Undoubtedly, if we assume the guilt of Glennon and Devery, and that they were “ co-workers in wrongdoing,” the inference of their collusion in the absence of Devery is obvious enough. But we had supposed that, even on the trial of a policeman, he is entitled to the presumption of innocence, and the mere fact that in the prosecution of Glennon and Devery they are jointly accused is no proof that they are conspirators in crime.
+The question is, did the relator present a case to the board which, in the exercise of a sound discretion, should have given him an adjournment of the trial?
+1. Glennon and Devery were charged as accomplices in the same offenses, and of necessity Devery knew whether Glennon committed them. The relator made due affidavit that Devery was “ a material and necessary witness for relatorthat his presence at the tidal “ was indispensable to relator’s defense,” as he “ had been advised by counsel and verily believed,” and that Devery “ would testify under oath to all material charges and specifications, and deny each and every of them.”
+2. By affidavit the relator showed diligent but fruitless effort by an attempted service of subpoena to secure the attendance of Devery.
+3. By affidavit it appears that Devery’s presence at the trial of relator could be insured by an adjournment until Devery’s recovery.-
+4. The relator makes affidavit of his innocence. '
+To entitle relator to "an adjournment, the law required nothing more (Brooklyn Oil Works v. Brown, 1 Abb. [N. S.] 382), and the denial of the application is reversible error, Garfield Nat. Bank v. Colwell, 8 N. Y. Supp. 380, 382 Gallaudet v. Steinmetz, 6 Abb. N. C. 224. If, in a civil action, attended by no penal consequence, an erroneous refusal to adjourn a trial be fatal to a judgment, much more .should such wrongful refusal vitiate a proceeding essentially ■of the nature and effect of a criminal prosecution.
+The respondents suggest that as counsel for the relator remained and took part in the proceeding, he is precluded now from objecting to a denial of the adjournment. We do not collect from the record that counsel participated in the trial, but if he did, he may yet challenge the refusal of the adjournment. 2 Bmnsey’s Pr. 220.
+The offer of the prosecuting attorney to admit that Devery would swear as claimed by the relator was ineffectual to supersede the right of relator to the presence of the witness (Bank of Commerce v. Michel, 1 Sandf. 687), nor was the offer to take the testimony at Devery’s house of any avail in face of the fact, known to counsel and the board, that Devery was inaccessible on account of illness.
+Indeed, the various proposals by the prosecuting attorney of expedients to obtain Devery’s evidence are obviously of no significance — seeing that they were impracticable, and that the relator, with his counsel, though personally present under the menace of the board, had retired from the trial.
+The respondents now contend' that “ the evidence as disclosed” on the trial of relator demonstrates that Devery could not have been a material witness for relator. Such disclosure, if in fact apparent, was made after the denial of the adjournment, and might not have occurred had the relator been allowed an opportunity to produce Devery.
+The proposition that on the ex parte trial the charges against the relator were so clearly established that no fullness of defense could have saved him has been already answered in the Devery case.
+Upon the whole, we are of the- opinion that the relator should have been vouchsafed an opportunity to produce the witness in his behalf, and that it was an abuse of discretion to refuse him the privilege.
+It may be essential to the discipline of the service that the-commissioners should have an arbitrary power of dismissal from the police; but while the law remains as it is we are-bound to see that no member of the ■ force be removed in violation of the safeguards of fair and just procedure.
+The order of the board is reversed and the relator reinstated,. , with costs.
+Bookstaver and Bischoff, JJ., concur.
+Order of board reversed and relator reinstated, with costs..
