@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1882-10"
+citations: ["35 N.Y. Sup. Ct. 9"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin and Haight, JJ., concurred."]
+parties: ["MARY C. WORKS, Respondent, v. THE CITY OF LOCKPORT, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/35/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1921366
+cites_cases: ["51 Barb., 414"]
+---
+
+# Works v. City of Lockport
+
+## Majority (Smith, P. J.:)
+
+Smith, P. J.:
+This action is brought to recover back money collected by the authorities of the city of Lockport from the plaintiff, for- a local assessment levied in proceedings taken for the construction of certain sewers in the streets of said city, which proceedings are alleged to be void. The allegation of invalidity is twofold: First. That no petition for the construction of the sewers ordered was presented to the common council; and, secondly. That the ordinance directing the construction of the sewers was passed without notice to the plaintiff and without a hearing or an ojiportunity to her to be heard.
+The charter of the city of Lockport provides that “ in all cases of local improvements, except the construction of cross-walks, the affirmative vote of two-thirds of the aldermen in office shall be necessary to pass any ordinance ordering the said improvement; which action shall be based upon a petition therefor to the common council, signed by persons owning at least one-third of the property to be assessed for the improvement, provided, however, that the decision of the common council as to whether such petition is signed by such persons owning at least one-third of the property to be assessed for such improvement shall be final and conclusive, and shall not be subject to question or appeal.” (Laws 1873, chap. 387, § ,18.) The ordinance in the present case directed the construction of a main sewer in Erie street, in said city, from Walnut street to a point 250 feet south of Spalding street, with lateral branches in South, Mulberry, Lewis and Spalding streets connecting with said main sewer. The action of the common council in adopting said ordinance was based upon two petitions signed by the owners of property in said city, each asking for a main sewer in Erie street, and one of them praying for the construction of branches in Mulberry and South streets and the other in Lewis and Spalding streets.
+It is insisted on the part of the plaintiff that the two petitions could not be united as the basis of one ordinance. Had each petition asked for an entirely separate improvement, it is at least questionable whether the two could have been properly united in one ordinance.. Such a practice might lead to combinations to carry several unworthy projects, neither of which could succeed alone. But in this case the two petitions were united as to the main sewer, and to that extent the ordinance was clearly authorized. We are not prepared to say that the action of the common counted was void, because the branch sewers which it directed to be constructed were not asked for in both petitions. For aught that appears the result to each person assessed is the same as if the construction of the branch sewers had been directed by separate ordinances.
+It is also contended that the ordinance is not authorised by the petitions for the reason that it directs the construction of a main sewer 250 feet longer than that petitioned for, and the lateral sewers do not extend as far as the petitions asked for. But wé apprehend the common council are not confined to the exact limits marked out by the petitions, provided the improvement ordered is the same, in the main, as that asked for in the petition.
+As to the want of notice it is true that no notice was given of the action of the common council in defining the real estate which they deemed benefited by the proposed improvement; nor do we understand that such notice is requisite under the charter of the city of Lockport. The only notice required by the charter' is of the assessment, and that was given in the mode prescribed. (Laws 1873, chap. 387, § 18.) The case differs from that of Ireland v. The City of Rochester (51 Barb., 414) cited by the plaintiff’s counsel. By the charter of that city the notice to be given was required to specify “ such improvement, the estimated expense thereof and the portion or part of the city to be assessed for such expense” (Laws 1861, chap. 143, § 165); and that provision had not been complied with in that case. It has been held frequently that a statute authorizing an assessment for a local improvement to be imposed upon a property owner without notice to him and an opportunity to be heard is unconstitutional. But where notice of the assessment is provided for we are not aware that an omission in the statute to provide for notice of the preliminary proceeding defining the area to be benefited by the proposed improvement has been held to render the statute unconstitutional. The defining of the section benefited is not the taking of private property, nor thé subjecting it to be taken by valid process. Until an assessment is imposed the owner cannot be deprived of his property.
+For these reasons we think the money sought to be recovered was not illegally collected, and that the judgment should be reversed and a new trial ordered before another referee, costs to abide event.
+Hardin and Haight, JJ., concurred.
+Judgment reversed and new trial ordered before another referee, costs to abide event.
