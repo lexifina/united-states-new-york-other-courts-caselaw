@@ -1,0 +1,23 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1879-03"
+citations: ["6 Abb. N. Cas. 307"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MATTER OF WILDS."]
+source_url: "https://static.case.law/abbn-cas/6/cases/0307-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1951525
+cites_cases: ["11 Hun, 27", "16 N. Y. 196", "17 N. Y. 482", "17 N. Y. 484", "19 How. 8", "37 N. Y. 525", "40 N. Y. 383", "44 How. Pr. 421", "58 N. Y. 253", "69 N. Y. 462", "7 Hun, 230", "8 Bosw. 685", "9 N. Y. 142"]
+---
+
+# In re Wilds
+
+## Majority (Halt, Ch. J.)
+
+Halt, Ch. J.
+In this State, by statute, the appointment of a receiver vests in him all the property, real and personal, and rights of action of the debtor. He represents the interests of the creditor or creditors, and is a trustee for all parties in interest, and is bound to apply the effects of the debtor to those legally or equitably entitled to them, under the direction of the court, and if anything remains, to restore it to the debtor or his grantor (Porter v. Williams, 9 N. Y. 142; Laws of N. Y. 1845, 90, 91; Code of 1870, § 244, subds. 3, 4; Code of 1877, §§ 1713 to 1717). And one of his duties, under the Code, is to preserve the property of the debtor during the pendency of an appeal. Prior to these statutory provisions, a receiver could sue only in the name of the debtor; but since their enactment, he may sue in his own name as receiver.
+If the plaintiff, therefore, has at present any interest in the further prosecution of this suit, the receiver is entitled to be substituted in her place as plaintiff. If the plaintiff had assigned all her interest to Mr. Dupré, her attorney, there would be no ground for such an application ; but it appears, alike by the admission of Dupré, and of the plaintiff, upon their examination, that the assignments given by her to him were simply to secure his claim for professional services, and for money loaned to her by him ; and under such an assignment she would be entitled to what might remain after the payment of Dupré’s claim, and the receiver, appointed in supplementary proceedings against her, is vested with that interest; to protect which and to secure it, for the discharge of the judgment under which he was appointed, he is entitled to be substituted in her stead, as plaintiff, unless there is some valid reason why he should not be.
+The statements made, upon information and belief, in Dupré’s affidavit, as to acts and declarations of the receiver, in the presence of the plaintiff, and as to his being in co-operation with the defendant Parsons to defeat the suit, are all positively denied in the receiver’s affidavit, who swears that he is not even acquainted with the defendant; and no attempt is made in the affidavit of the plaintiff to confirm what is sworn to in Dupré’s affidavit merely upon information and belief. It moreover appears, from the affidavit of Mr. Ogden, the attorney of the judgment creditor, that the receiver has been acting only, and with his full concurrence, in the interest of the judgment creditor, in whatever he has hitherto done. There is no reason, therefore, why he should not, in virtue of his rights as receiver, be substituted as the party plaintiff. It can in no way affect the interests of Dupré, under the assignments made by the plaintiff to him; for the receiver could make no disposition of the money, if it should be recovered from Parsons, as he could make no disposition of it except under the order of the court; so that Dupré’s rights to a large proportion of the amount to be recovered, can be fully protected. The receiver has given security for the faithful discharge of the duty devolving upon him, and if the amount of that security is not sufficient, it can be augmented before the entry of the order substituting the receiver as the plaintiff in the action. As the receiver, when substituted, is still under the direction and control of the court where the action is pending and undetermined, it will further provide that he shall make no change of attorney in the prosecution of the appeal, unless upon application to the court, and upon showing a satisfactory cause therefor. Mr. Dupré hap, under the assignments, a larger interest in the amount sought to be recovered than the judgment creditor in whose interest the receiver has been appointed, and Mr. Dupré is therefore to be left undisturbed in the discharge of his duties as attorney and counsel in conducting the cause upon appeal.
+With these restrictions, the application to substitute the receiver will be granted.
