@@ -1,0 +1,28 @@
+---
+court: "New York Superior Court"
+decided: "1866-06-30"
+citations: ["4 Rob. 704", "27 N.Y. Super. Ct. 704"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wm. W. Wright et al. plaintiffs and appellants, vs. Israel Ritterman, defendant and respondent."]
+source_url: "https://static.case.law/ny-super-ct/27/cases/0704-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1403186
+cites_cases: ["10 John. 289", "10 N. Y. Rep. 500", "10 N. Y. Rep. 501", "14 Abb. Pr. 292", "14 John. 347", "16 Barb. 461", "18 N. Y Rep. 552", "19 Wend. 629", "21 Wend. 339", "24 Wend. 364", "3 How. Pr. 414", "5 Hill, 242", "7 Bosw. 611", "7 How. Pr. 85", "9 Abb. Pr. 8", "9 John. 259", "9 Wend. 431"]
+---
+
+# Wright v. Ritterman
+
+## Majority (Garvin, J.)
+
+By the Court,
+Garvin, J.
+It is contended in this case, on the part of the respondent, that the pendency of the suit in the Supreme Court establishes that even if the debt was fraudulently contracted, the plaintiffs, by bringing their suit in the Supreme Court, have affirmed the contract and should be held to abide by that, as an election of their remedy, and not be allowed to bring an action for the conversion of the goods. If the first action had proceeded to judgment, there can be no doubt the plaintiffs' cause of action would have been gone forever, both upon contract and tort. But until judgment, it is quite clear if the defendants pleaded the pendency of a former suit for the same cause of action, the plaintiffs could reply a discontinuance of such former suit, which would be a good replication. (Averill v. Patterson, 10 N. Y. Rep. 501, 502.) Until the judgment the plea is to the form of the remedy, in abatement of the action ; but after judgment, it is in bar of the right of recovery. (Nicholl v. Mason et. al. 21 Wend. 339.) In either of these forms' of action, the defendant could be arrested at the commencement of the suit, and, if judgment was recovered against him, imprisoned upon the execution. Thus, as a matter of interest to the defendant, it could make no difference which form of action was pursued by the plaintiffs in the first instance.
+Upon the facts disclosed in this case the plaintiffs had two remedies; and an adjudication upon either, either for or against the plaintiffs, would have been a bar to the other ; but until such adjudication, I see no reason in principle or authority which would preclude a discontinuance of the first action and a resort to the second. (7 Bosw. 611.) It is, however, quite another question whether, if a party hold the defendant to bail by order, in an action upon contract, upon which he is arrested, imprisoned and exonerated by due course of law from such imprisonment, he can. pursue the same course of arrest and imprisonment in the second suit; especially where the statute declares that the person of such insolvent shall forever thereafter be exempted from imprisonment for any debt due at the time of making such assignment, or contracted for before that time. (2 R. S. 30, § 10.) This claim was á debt; so treated by the plaintiffs, in the first action, (though, as it is alleged, fraudulently contracted,) therefore falling directly within the provisions of chapter 5 of 2 Revised S tatutes, 30, § 10.
+This is a proceeding for the benefit of an insolvent debtor-—■ not an insolvent imprisoned in execution in civil causes ; but the case of an insolvent debtor in prison in any suit or proceeding founded upon any contract or liability due at the time of his assignment. (2 R. S. 31, § 11.)
+The plaintiffs say this was a debt, bring their suit upon the contract, for goods sold and delivered, obtain an order of arrest upon the ground that the debt was fraudulently contracted, and instead of going for a conversion of dhe goods, insist upon a recovery on the contract. We think the defendant was properly discharged by the city judge from imprisonment under the order of arrest, and that the case falls directly within the statute.
+But if the discharge is void, then the order of arrest in this court should have been vacated for the reason, that the first order remained in full force. A defendant should not be imprisoned or held under two orders of arrest at the same time, founded upon the same transaction, or cause of action. Both these actions are for the same cause, though the forms of action-are different.
+Assuming the discharge to be valid, can the defendant ■ be arrested a second time for the same cause of action ? The general rule is that a man shall not be arrested a second time for the same cause, ( Wells v. Gurney, 8 B. & C. 769,) although the second arrest be in a different form of action. (3 East, 309. 8 Taunt. 24. 3 D. & R. 189.)
+It is true, it has been held that if the plaintiffs’ attorney has misconceived his form of action, he may discontinue, and nold the defendant in another action for the same cause, (14 John. 347;) provided the discontinuance did not arise from any laches on the part of the plaintiffs, and the second arrest do not appear to be vexatious ; but that is not this case. It is a legal maxim that no man shall be twice arrested for the same cause. This applies to the same jurisdiction, and is conceded to be the general rule. We think it a safe rule, and one that is reasonable and easy of application, that where a defendant has been discharged from imprisonment under an order of arrest, by due course of law, he should not be re-arrested and imprisoned a second time for the same cause, though in a different form of action.
+The order made at special term should be affirmed, with costs. ■
