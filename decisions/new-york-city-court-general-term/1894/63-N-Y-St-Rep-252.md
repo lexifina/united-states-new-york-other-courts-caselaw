@@ -1,7 +1,7 @@
 ---
 court: "New York City Court, General Term"
 decided: "1894-11-20"
-citations: ["63 N.Y. St. Rep. 252", "63 N.Y. St. Rep. 246"]
+citations: ["63 N.Y. St. Rep. 252"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
