@@ -1,0 +1,22 @@
+---
+court: "New York Surrogate's Court"
+decided: "1856-04"
+decided_precision: "month"
+citations: ["3 Abb. Pr. 177"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DUBOIS’ CASE."]
+source_url: "https://static.case.law/abb-pr/3/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4573517
+cites_cases: ["2 Denio, 577"]
+---
+
+# Dubois' Case
+
+## Majority (Bradford, S.)
+
+Bradford, S.
+The testator was a member of the firm of Dubois & Wassiver, and this is an application by one of said partnership creditors to compel the payment of his claim out of the individual estate of the deceased partner. The petition states that before Dubois died the firm was in difficulty, borrowing money and renewing notes, and it is not believed that there are any partnership assets. The executor, on the other hand, contends that the creditor must first recover judgment against the surviving partner, and show a failure to collect his debt on execution, before he can reach the estate of the deceased partner.
+The rule is well settled (Dayton’s Surrogate, 293 ; 2 Denio, 577), in this State, that the executors or administrators of a deceased member of a firm cannot be sued for a partnership debt, unless the insolvency of the surviving partner, or some other ground of special relief be shown. (Voorhies v. Baxter, 1 Abbotts' Pr. R., 43). The ground of this doctrine is that the obligation is joint, and not joint and several, and as the remedy at law continues against the surviving partner, the creditor is bound to resort to his legal remedy against them, unless he can show a necessity for coming into a court of equity for relief against the estate of the deceased partner. Late cases in England have adopted a different rule, but the highest tribunal in this State has unanimously declared the law as stated. In Lawrence v. The Trustees of the Leake and Watts Orphan House (2 Denio, 577), the court for the correction of errors affirmed the decisions of the vice-chancellor and the chancellor, and it was adjudged that a “ creditor of a co-partnership firm, on the death of one of its members, cannot sustain a bill against the representatives of the deceased and the surviving members, or against such representatives alone without averring and proving that such surviving partners are insolvent.” Doubtless the creditor of a deceased person is not held to strict legal rules in bringing his claim into this court for payment; that is, according to the established principles of equity, lie will not be debarred his rights by any mere technicality. I understand, however, the doctrine held by our courts on this subject of the liability of the representatives of a deceased partner to be one of substance, and not of naked form. The obligations of the firm are against the surviving partners. Some reason, therefore, should be shown for disturbing the usual course of the law. The surviving partners have the control of- all the assets of the firm, and are in the first instance bound to pay the debts. . It is not enough to say the firm was insolvent, for still sufficient may have been realized to pay a dividend, and if so, the individual property of the members ought not to be liable until the joint assets have been applied; Even if no property existed, belonging to the firm, at the death of the deceased partner, there is no reason why the creditor should prosecute his claim against the representatives of the deceased, in preference to suing the surviving members, but on the contrary, it would seem far more appropriate to pursue those who are conversant with the business of the partnership, than those who are necessarily ignorant of them. The law gives the creditor an undoubted remedy against the surviving partner, and why should he be permitted in the mere exercise of arbitrary choice to decline that course ? Notwithstanding there are no partnership assets, it still may be that, on an adjustment of the accounts of the partners, the survivors would be bound to discharge all the firm debts. The insolvency of the partnership is not, therefore, a sufficient excuse for departing from the rule at law ; the insolvency of the surviving partner may be, but that is not alleged, although the applicant has procured the affidavit of the partner as to the insolvency of the firm. I must therefore deny the present application.
