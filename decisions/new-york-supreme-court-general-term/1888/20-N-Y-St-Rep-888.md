@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-12-10"
+citations: ["20 N.Y. St. Rep. 888"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richardson & Boynton Co., Resp’t, v. Brooklyn Mill and Lumber Co. and James Reid, App’lts."]
+source_url: "https://static.case.law/ny-st-rep/20/cases/0888-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2015048
+---
+
+# Richardson & Boynton Co. v. Brooklyn Mill & Lumber Co.
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is an action for the foreclosure of a mechanice’s lien upon real property in Far Roekaway, belonging to the defendant James Reid.
+This appeal is brought upon the judgment roll upon questions of law only, the testimony not being contained in the case. The cause was tried before a judge without a jury and his findings which are contained in the record, furnish the facts upon which the appeal must be decided. The judge has found that between the first of May 1857, and the 20th of August, negotiations and correspondence had taken place between the plaintiffs and the Brooklyn Lumber Company relative tojj a furnace and range to be furnished by the plaintiffs in and about the fitting of the house which the lumber company was then erecting under contract with Reid upon his property, and that it had been agreed between those parties that the size of such furnace should be No. 36. That about the 20th day of August 1867, the defendant Reid called at the store of the plaintiffs in New York city, and told them that there was money in his hands belonging to the lumber company, that he desired a larger and more expensive kind of a furnace put in his house, to wit, a No. 40 furnace, and in substance promised that if the plaintiff would put the same in, he, Reid would pay the bill therefor. That the plaintiff thereupon notified the Brooklyn Mutual & Lumber Co., of such interview with Reid, and of the order given by him for a larger and more expensive furnace, and the lumber company gave its consent that the plaintiff should fill that order so given by Reid.. That in consequence of such order, the plaintiffs did furnish a larger, more expensive furnace and range selected by Reid, and set the same up in his house at Far Roekaway, and supplied and put in registers, soap-stones, hot air pipes, dampers, arrangements,.water-backs, and performed everything necessary to fulfill its contract with reference to the furnace and range in a proper and workmanlike manner, and such work and materials were reasonably worth the sum of $297.25, which amount was known and agreed npon as the price therefor by both the defendants.
+That such sum had never been paid and that proper notice of lien was filed and served upon the defendant Reid, and then found all the formal facts necessary to constitute the lien upon the property. His conclusions of law as found by the judge were that the defendant was personally liable to the plaintiff for their claim for the furnace, that he personally undertook and agreed to pay for the same, and that the plaintiffs have a good and valid lien on all the property for such amount, and ordered judgment in their favor. From that judgment the defendant Reid has taken an appeal, and his contention seems to be that the complaint in the action lays no foundation sufficient to sustain the judgment. '
+It is stated in the complaint that at the special instance and request of the defendant, the Lumber Company, by and with the knowledge, approval and ratification of the defendant Reid, the plaintiffs performed the work and furnished the materials for the erection of the furnace and its appendages, and that such work and materials were, furnished by plaintiff at the agreed price between the plaintiffs and the defendants of $297.25.
+' The complaint seems to be sufficient to sustain the judgment, and the facts found by the trial judge show an original undertaking on the part of Reid to pay for the substituted furnace and its appendages. His conduct and conversation with the plaintiffs was sufficient to impose upon him a personal liability for the payment of the furnace ordered and substituted for the one originally ordered by the Lumber Company, and such obligation seems to be amply sufficient to sustain the lien of the plaintiffs.
+Our conclusion is, that the judgment should be affirmed, with costs.
+Barnard, P. J., and Pratt, J., concur.
