@@ -1,0 +1,25 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1860-05"
+citations: ["1 Daly (N.Y.) 47"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isaac N. Stilwell v. Captain Raynor, Master and Owner of the Schooner E. J. Raynor."]
+source_url: "https://static.case.law/daly-ny/1/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1295911
+---
+
+# Stilwell v. Raynor
+
+## Majority (Hilton, J.)
+
+Hilton, J.
+The plaintiff, a Hell Gate pilot, brought this action to recover half pilotage fees of the defendant under the provisions of § 7, of the “ act concerning the pilots of the cHanLei of the East River, commonly called Hell Gate,” passed -April 15, 1847, upon the ground that he had tendered his services as pilot, to navigate the defendant’s vessel through the channel of Hell Gate, and had been refused.
+Lpon the trial the Justice dismissed the case upon the ;T"Und that the act under which the plaintiff claimed to re- : -Vi.-r was unconstitutional and void, and as he expressed nc opinion upon the evidence offered, it is therefore unnecessary for us to determine upon this appeal whether the evidence adduced before the Justice was sufficient to entitle the plaintiff to recover, if the Justice entertained a different view of the act, which created the right that the plaintiff sought to enforce.
+I shall therefore assume that the only question before us is, whether the act referred to is unconstitutional, as the Justice declared.
+By the Federal Constitution, the several States conferred upon Congress the power “ to regulate commerce with foreign nations, and among the several States, and with the Indian tribes ” (Canst. U. S. art. 1, § 8, sub. 8), and as this power necessarily includes the regulation of navigation, and the right to prescribe rules, in conformity with which it 'must he carried out, a power extending to every part of a voyage, with a right to regulate those who conduct, or assist, in conducting navigation :—it is claimed that it necessarily deprives the several States of all power to legislate on the subject of pilots, and such, I am satisfied, was a very prevalent view of the subject (See Joint Resolution, Laws 1847, p. 484), prior to the decision of the United States Supreme Court in the case of Cooley v. Board of Wardens of the Port of Philadelphia (13 Howard U. S. 299). That case was very similar to this. It arose under a law of the State of Pennsylvania, which required vessels sailing in the Delaware River to receive a pilot, or upon refusal or neglect to do so, to pay half pilotage. It appeared that Cooley, as owner of several vessels navigating that River, refused to receive a pilot, or pay their fees, and he was sued by the Board of Wardens to recover half pilotage, under the provisions of the law referred to. The action was originally brought before a magistrate in the City of Philadelphia, who gave judgment against Cooley. An appeal was taken to the Court of Common Pleas, who gave a similar judgment. It was then carried to the Supreme Court of the State of Pennsylvania, who affirmed the judgment, by adding that the act was not, in any of its provisions, at variance with 'the Constitution or laws of the United States, but. was a constitutional and legal' enactment. The case was then removed to the Supreme Court of the United Stated, who, in December, 3 851, likewise affirmed the judgment, holding, that the mere grant to Congress of the I uwcr to regulate commerce, did not deprive the several States of the power to regulate pilots and that although Congress has je<rislated 0n the subject, yet its legislation has manifested an intention not to regulate the subject, but to leave its regulation to the several States. The law was then declared to have been enacted by Pennsylvania by virtue of a power residing in the State to so legislate, that it was not in conflict with any law of Congress, nor did it interfere with any system which Congress had established or sanctioned, and that therefore the law was valid.
+In support of this view, and for the purpose of showing that Congress recognized this power to exist in the several .States, the Court referred to the act of Congress of August 7, 1789, § 4 of which is as follows, “ That all pilots in the bays, rivers, inlets, harbors and ports of the United States, shall continue to-be regulated in conformity with the existing laws of the States respectively, wherein such pilots may be, or until such laws as the States may respectively hereafter enact for that purpose, until further legislative provision shall be made by Congress,” and it is only necessary to add in conclusion that • as Congress had not yet seen fit to legislate upon the subject of pilotage, the act in question was passed by the-State of Kew York, under an undoubted right in the legislature to enact it, and is constitutional and valid.
+Judgment reversed.
+Dalt, F. J., concurred.
