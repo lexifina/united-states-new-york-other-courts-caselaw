@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-06-29"
+citations: ["47 N.Y. St. Rep. 206"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Orvila Turenne, App’lt, v. Wilbur F. Washburne, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/47/cases/0206-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2087092
+---
+
+# Turenne v. Washburne
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+—This action was brought by the plaintiff as assignee of one Delphus F. Moisan to recover a balance due for certain stair building done by Moisan upon certain houses in the city of «New York. The answer was a general denial It appeared upon the trial that prior to July, 1891, said Moisan had made a contract with one John H. Steinmetz to do this stair building for the sum of $3,150, and that a portion of the work had been completed, and Steinmetz had paid Moisan $1,800,. who refused to go on unless he received more money, claiming that $400 more was then due him.
+Steinmetz was indebted to the defendant Washburne, and gave him a mortgage to secure that indebtedness; which mortgage included the amount in which Steinmetz was indebted to Moisan and was in payment of that amount to Washburne. It would seem, although the evidence is not very explicit upon that point, that it was expected to get other mortgages upon the property oitt of which to pay the claim of 'the. plaintiff and also the money which was due to Washburne; but there not being as much money advanced as Steinmetz expected, neither Washburne nor Moisan was paid. _ _ .
+_ _ It further appeared that in July, 1891, Moisan, refusing to go on unless the $400 was paid, was taken by Steinmetz to the defendant. And Moisan testified upon his direct examination that the defendant paid him the $400 due, and said to him to finish up the work and he would pay the balance of the 'money on the work as soon as he got his work done. And in another place Moisan testified that Washburne after the loan was placed said he would give him the money as quick as he could get the thing fixed. Upon cross-examination, however, Moisan varied his testimony by stating that at the time he had testified to the defendant stated that if he would go on and do the work he would see him paid or guarantee payment. And after having testified that the $400 was paid to him a check was shown to the witness drawn by Washburne to Steinmetz for $400 and endorsed by Steinmetz and one Sophy Moisan ; and the witness then stated that he did not know whether Steinmetz gave him the check or Washburne; all that he knew was that the check was put in his hands. And he then further stated that he did remember that Washburne guaranteed that if Steinmetz did not pay the balance, he would pay it himself. And in another place he testified that he was to be paid out of the loan that was to be made on the property ; that, that was the understanding; and an order was introduced in evidence given by Steinmetz upon the persons who were about to make a loan requesting them to pay $950 to Mr. Moisan on the completion of the contract. It was further proved that Moisan completed his contract, and that Washburne did not pay the $950.
+Upon this condition of the evidence the complaint was dismissed upon the ground that the contract of Washburne, if any was proven, was within the statute of frauds, and that no agreement to pay had been established; and from the judgment thereupon entered this appeal is taken.
+We do not see how we can interfere with the result arrived at upon the trial. It is true that Moisan, the assignor of the plaintiff, upon his direct examination swore to a direct promise upon the part of Washburne to pay if Moisan went on and completed the coiitract. But upon cross-examination it seems distinctly to appear that there was no intention upon the part of Washburne to' enter into any personal contract to pay the balance which might be due to Moisan ; and from the check and the order which wás given as part and parcel of these negotiations and agreements, it would appear .that it was the understanding of the parties that the money that Washburne was to pay was to be the proceeds of the loan which was td be obtained upon the property, and that there was no intention upon his part to enter into a personal obligation to pay. Moisan swears that the understanding was that thjs $950 was to be paid out of the proceeds of the mortgage.
+It appears from Steinmetz’ testimony that the $400 which was paid was secured by a mortgage which Steinmetz had given to Washburne upon the premises in question; and as a means of getting the balance of his money Moisan accepted the order upon the persons who were to make the loan upon mortgage.
+In the face of all these circumstances there does not seem to have been any 'question to go to the jury, because the plaintiff was bound by the explicit declarations of Moisan upon his cross-examination as to the nature of the obligation which Washburne took upon himself by reason of - the negotiations between himself and Moisan.
+It is clear from this testimony that if there was any personal obligation it was within the statute of frauds. But it seems to us equally clear that there was no intention to enter into any personal obligation whatever; and that all that Washburne was to do was to see that Moisan.got his money out of the loans to be procured. This was very far from assuming any personal obligation to pay the balance which might be due upon the contract.
+The judgment appealed from should be affirmed.
+O’Brien and Patterson, JJ., concur.
