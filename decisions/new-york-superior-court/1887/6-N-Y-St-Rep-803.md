@@ -1,0 +1,31 @@
+---
+court: "New York Superior Court"
+decided: "1887-02-14"
+citations: ["6 N.Y. St. Rep. 803"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Franklin J. Minck, Pl’ff, v. Edward Martin, Def’t."]
+source_url: "https://static.case.law/ny-st-rep/6/cases/0803-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1984569
+cites_cases: ["1 Sandf., 483", "69 N. Y., 393"]
+---
+
+# Minck v. Martin
+
+## Majority (Freedman, J.)
+
+Freedman, J.
+This action was brought to recover for necessaries furnished by the plaintiff to defendant’s wife.
+The evidence given at the trial would have authorized the . jury to find that the articles furnished consisted of groceries and were necessaries; that they were furnished by the plaintiff on the wife’s application, but on the credit of the defendant, between July 15 and August 15, 1885, during which time the defendant and his wife lived separate and apart from each other, and the defendant refused to provide for her, and that the defendant refused to pay, etc.
+But it also appeared that on May 21, 1885, defendant’s wife commenced an action against the defendant for separation and support on the ground of abandonment; that issue was joined in said action; that in it the wife made a motion for alimony during the pendency of the action; that said motion was denied on July 24, 1885, and that in January, 1886, the action was discontinued.
+Upon these facts and the decision by the court of appeals of Catlin v. Martin (69 N. Y., 393,) the trial judge directed a verdict in favor of the defendant, and ordered plaintiff’s exceptions to be heard at general term in the first instance.
+The view taken was that during the pendency of the action for separation, no authority was vested in the wife to charge her husband’s estate for necessaries, and on the part of the husband no obligation would be implied to pay for such necessaries, and that her remedy was by motion for alimony.
+This view and the disposition made of the case were erroneous. Catlin v. Martin was an exceptional case. The plaintiff was the mother-in-law of the defendant. She brought suit for alleged necessaries, furnished by her to her daughter, the wife of the defendant. But it appeared that the defendant furnished and supplied necessary and suitable maintenance and support for his wife so long as she lived with him; that he never neglected or refused such maintenance or support during the continuance of the marriage contract; that defendant’s wife voluntarily left him, and lived with her mother, who encouraged her in so doing, and induced her to remain away from the defendant by offering to support and maintain her so long as she should continue to live with her. It was with reference to this state of facts that the defendant was held not liable, and that Allen, J., in delivering the opinion of the court of appeals, said, among other things, the following, viz.:
+“After the commencement of the action for a divorce there is no evidence that the defendant was called upon, or refused, to supply his wife with necessaries, and had the wife desired support pendente lite, her remedy was by application for alimony, and there is no implied promise of the defendant to pay for necessaries furnished during that period. The board "of the wife by the plaintiff during this time was but the continuance of the voluntary support furnished by her, as found by the referee.”
+And this was said in reference to the claim advanced by the plaintiff that, although she might not be entitled to recover her full bill, she ought to be allowed to recover at least for the board of the wife during the pendency of the action for a divorce instituted by her, and for expenses incurred for medical attendance. .
+In the case at bar the facts are entirely different. At least there was evidence to the effect, and upon which the jury might have found, that the defendant had forced his wife to leave his house and had thereafter refused to provide for her, although requested so to do;' and that the plaintiff had supplied her with necessaries in good faith and in ignorance of the pendency of the action for a separation.
+In such a case a husband is liable for necessaries furnished to the wife—even to one who was forbidden by him to trust her on his account; and such liability continues during the pendency of divorce proceedings—at least up to the time of the actual payment of alimony. Lord v. Thompson, 41 Supr. Ct. R., 115; Sykes v. Halstead, 1 Sandf., 483.
+Plaintiff’s exceptions should be sustained, the verdict set aside and a new trial ordered, with costs to the plaintiff to abide the event.
+Sedgwick, Oh. J., concurred.
