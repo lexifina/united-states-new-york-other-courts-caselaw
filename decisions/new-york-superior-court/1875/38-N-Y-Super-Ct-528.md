@@ -1,0 +1,46 @@
+---
+court: "New York Superior Court"
+decided: "1875-01-11"
+citations: ["6 Jones & S. 528", "38 N.Y. Super. Ct. 528"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NATHANIEL WHITMAN, Plaintiff and Respondent, v. FRANCIS B. NICOL, and WILLIAM DAVIDSON, Defendants and Appellants."]
+source_url: "https://static.case.law/ny-super-ct/38/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1408744
+cites_cases: ["1 Abb. Pr. 190", "26 Barb. 41", "28 Barb. 661", "40 N. Y. 513", "48 N. Y., 532", "5 Abb. Pr. 498", "6 Duer. 688", "7 Bosw. 494"]
+---
+
+# Whitman v. Nicol
+
+## Majority (By the Court.—Monell, Ch. J.)
+
+By the Court.—Monell, Ch. J.
+The defendant’s covenant was to pay such taxes as might be imposed upon the leasehold premises during the term, when the same became due and pay able.
+The right to recover more than nominal damages upon such a covenant without actual payment by the lessor, was not definitely settled in this State, until the recent decision of the Commission of Appeals in Trinity Church v. Higgins (48 N. Y. R. 532), when the court construed the covenant into a promise, and the tax a debt due from the covenantor to the covenantee. Under that decision this action can be maintained, if the facts alleged in the complaint are sufficient.
+The law has been stretched a little, I think, to make it cover a present liability for an unpaid tax; and I am unwilling to apply it to any case that does nob clearly fall within the principles decided ; and it must, therefore, appear that the tax has been imposed, and has become due and payable.
+The covenant to pay taxes, like the covenant to pay rent, is broken only upon failure to perform according to the terms of the covenant. An action for rent can not be maintained without alleging and proving that the rent is due, and it must be alleged to be due according to the terms and conditions of the lease. And so with a covenant to pay taxes, even if the covenant is silent as to the time of payment, it is at least doubtful, if in an action by the lessor to enforce payment, it would not be necessary to aver that the tax had been, not only imposed, but was in fact due and payable.
+But here the covenant is to pay taxes only when they are due and payable; and there can not be a breach until the tax becomes due and payable.
+The mere imposition of the tax does not raise the liability to the landlord, so that he may maintain the action. The tenant has guarded against that, by expressly limiting his obligation to a default in payment after the imposed, tax becomes due, and therefore, in enforcing the covenant, a default of the lessee at the time the obligation matured, must be averred.
+It is very clear, I think, that an action will not lie upon the covenant in this case until after the tax had become due, and if so, then, as a matter of pleading, it was necessary to aver such fact, and if necessary to prove it on the trial.
+It may be claimed, however, that it will be presumed from the mere imposition of a tax, that it was immediately due upon the imposition being made.
+That may be so in respect to its lien upon the premises, but no presumption can be raised in respect to a personal obligation to pay, which is limited to the time when the tax in fact becomes due.
+Taxes in this city are not due and payable upon, or immediately upon, the tax being imposed. The imposition of the tax is by one set of officials, and the collection of it by another set; and there must be some interim between the final action of the former, and the time when the latter begins to act.
+But the law has settled the time when a tax is due and payable, and it is after the tax has been imposed.
+The act of 1850 (Davies’ Laws, 1282), provides, that upon the assessment roll being completed by the board of supervisors (now board of estimate, &c.), it shall be transmitted to the receiver of taxes, who immediately thereafter shall give public notice that the taxes are then ‘ ‘ due and payable.’
+The complaint does not allege, according to the terms of the covenant, that before suit brought, the taxes, the amount of which the plaintiff claims to recover, had become and were due and payable; and without such averment, the complaint did not, as I think, state facts sufficient to constitute a cause of action upon the defendant’s covenant.
+The judgment should be reversed, with costs, and the defendant should have judgment final, sustaining the demurrer with costs, but with leave to the plaintiff to amend on payment of the costs of a demurrer and .subsequent proceedings.
+Sedgwick, J., concurred.
+
+## Dissent (Speir, J. (dissenting).)
+
+Speir, J. (dissenting).
+This is an appeal from an order overruling the demurrer to the complaint as frivolous, and ordering judgment for the relief demanded in the complaint. The demurrer was interposed on the ground that the complaint did not state a cause of action.
+The complaint states, among other matters, in a lease executed to the defendants, that the defendants in and by their instrument, agreed to pay to the plaintiff the yearly rent of eighty-three hundred dollars, and all taxes and croton-water rates that might be imposed or assessed, or become a lien on said premises at any time during said term, when due and payable ; and that the defendants entered into the possession of said premises and occupied the same.
+That the taxes for the year 1872 have been imposed on said building and premises, and amount to the sum of one thousand four hundred and fifty dollars and eighty-two cents, and the defendants refuse and neglect to pay the same, and in consequence of such refusal the defendants have become liable to pay twelve per cent, interest thereon, per annum, imposed by law. A second count is alleged as a second cause of action, claiming, in substantially the same terms as the first, for the taxes of 1873, and a third count in similar terms claims for the water rates of 1873.
+The precise question raised by the demurrer is, that the complaint does not state that the taxes and water rates had become due and, pay able before the commencement of the action; nor does it state at what time-said taxes would become due and payable, nor at what time the twelve per cent, interest imposed would commence to run.
+It is necessary, on this appeal, to ascertain whether the demurrer can be sustained, on argument, in order to reverse the judgment below. For it is well settled that an order rendering judgment on a demurrer as frivolous will not be reversed, unless the court is of the opinion that the demurrer would be sustained on argument, and will not be reversed merely because the court may think it not frivolous (Wesley v. Bennett, 6 Duer. 688 Wetherhead v. Allen, 28 Barb. 661; East River Bank v. Rogers, 7 Bosw. 494). The rule in the case on appeal differs from the rule on the original application to strike out, when the court must determine the fact upon a mere inspection.
+If the parties by their covenant agreed to pay the taxes when imposed, or assessed, then they are liable under their covenant with the plaintiff, when the taxes,, or water rates, as between the parties to the agreement becomes the debt of the defendants. The plain construction of the covenant is intended, I think, to be in the alternative. The defendants become liable to pay when the taxes and water rates were imposed, or assessed, and, also, become liable to pay, when they become a lien on the premises, at any time during the term, when due and payable. The allegation is, that they agreed to pay the yearly rent of eight thousand three hundred dollars, and all taxes and croton water rates that might be imposed, or assessed—that is, yearly, when the rent was paid—then the provision is-made that they are to pay whenever these taxes or water rates become a lien on the premises, at any time during said term, when due and payable. This provision may very well be deemed to have reference either to extraordinary taxes and rates, or any change in the time when they may be imposed or assessed.
+In Rundell v. Lakey (40 N. Y. 513), the court held that in an agreement between vendors and vendee' of premises where the vendee paid the tax, but was to be repaid by the vendors, ‘in case they were legally liable to pay it,” that the vendors were bound to pay at the time of the completion and delivery of the rolls, although the amount of the tax was not ascertained and fixed for some two months afterwards. This is-put upon the ground, as I understand the decision, that the roll constitutes the basis upon which the tax is imposed by the board of supervisors. After its completion and delivery, there is no power to alter or change it, and it remains the same until after confirmation.
+In the case at bar the obligation is simply one between the parties. They had a right to make the covenant in such terms as they chose, and have no-reference to the time when either the taxes or the water rates are confirmed, but the undertaking becomes complete whenever the sums in either case are determined in amount, without regard to the question when the law fixes a time when payment may be enforced. I think the judgment should be affirmed, with costs.
