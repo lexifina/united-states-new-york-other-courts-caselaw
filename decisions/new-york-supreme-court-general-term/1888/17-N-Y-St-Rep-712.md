@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-25"
+citations: ["17 N.Y. St. Rep. 712"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application for Probate of a Paper in Writing, Purporting to be the Last Will of George R. Jacott, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0712-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008340
+cites_cases: ["88 N. Y., 357"]
+---
+
+# In re for Probate of a Paper in Writing, Purporting to be the Last Will of George R. Jacott
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+This appears to be a proper case for a jury. The testator was about sixty years old and had no nearer kinswomen than a first cousin. He was an alien. He lived in apartments hired of George N. Edwards. He became sick of a dangerous and painful disease. He had been constantly growing worse for some weeks before the 20th of November, 1887, when the paper propounded for probate was executed. The deceased was an attendant at the Protestant Episcopal church in Williamsburgh and a member of the church. George W. Edwards had repeatedly asked the deceased to make his will. So had also Mr. Marshall, one of the witnesses. So had the pastor of the church. George W. Edwards procured the lawyer who drew the will, and who was his nephew. None of these persons had any apparent interest in the subject. The testator had some $16,000. By the will $3,000 is given to his-cousin’s son, and after a few small legacies a sum not exceeding $10,000 is given to the church to pay off mortgages. Marshall was an attendant at the church in question, and Marshall and the pastor of the church had consulted together as to the execution of a will by deceased. The will by the residuary clause bestows all the unbequeathed property to George W. Edwards and the pastor of the church,, who were the executors of the will. Assuming the formal execution of the will and the capacity of the testator as to which fact the evidence is very conflicting, the proof shows an undue influence in its procurement.
+The testator was known to be in a fatal sickness. . There was no likelihood of his living the length of time which would permit a gift to the church, and the residuary clause is as follows:
+“Fourth. I give and bequeath all the rest, residue and remainder of my property, whatsoever or wheresoever situated, unto my friends, George W. Edwards and Rev. Cornelius Twing, share and share alike, and I request them to give out of said residue and remainder, such article or sum to such persons, or in such directions as by a paper signed by me, or left or to be left with my will, I may request.”
+The will was not read to the testator. In respect to the residuary clause the testimony of Walter Edwards, who drew the will, is as follows:
+“ I asked him if this exhausted his property. He said he thought about all, nearly. I said to him that I always deemed it well to provide a residuary clause so that there might be no portion of one’s estate as to which he died intestate, and then he directed me to draw, after a great deal of hesitation, the residuary clause as it is.” Also: “ I did suggest to Mr. Jacott, as affording him a means if he had confidence in his residuary legatees, even after his will was executed, of making any small gift out of the residue that he may desire.”
+This is the only direct evidence as to the clause in question, and, it will be seen by the suggestion about a small gift, does not fit the scope of the residuary clause itself.
+George W. Edwards testifies that Walter Edwards, who drew the will, told him “that there was a residuary clause in which there was some property, the furniture, etc., were to be disposed of by us, he might request us—that was the day the will was executed.”
+The conversation of testator, after the will, points only to a few articles of furniture. No suggestion was made as to making Edwards and Twing the absolute residuary legatees until the person who drew the will suggested the making of a residue clause, and then the record shows that “he directed me to give residue of his estate to these gentlemen.” There was no inquiry upon the part of testator, no suggestion by the drawer of the will. No explanation of the reason for a clause which was almost certainly to carry the greater part of the estate under it, was either asked or given. The whole narrative is unnatural. Under the circumstances of the case something more than proof of a formal execution is necessary. There must be shown facts which establish that the paper proposed was an intelligent expression of the testator’s will. Marx v. McGlynn, 88 N. Y., 357; Matter of Smith, 95 id., 516.
+It is more natural to suppose that the residue clause was contrived and designed to save the legacy in case of the death of testator within two months and there is no proof, indeed every inference is to the contrary, that he was told or knew of the effect of his death within some two months upon the church gift, and that to meet this contingency an absolute gift was designed by the testator to two” strangers. I believe the testator was ignorant of the effect of the clause and, therefore, the instrument is not an expression of his will.
+The judgment should, therefore, be reversed and issues framed for trial by a juiy of Kings county. The question of costs to be settled after the trial of the issue.
+Pratt and Dykman, JJ., concur.
