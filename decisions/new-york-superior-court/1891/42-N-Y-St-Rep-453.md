@@ -1,0 +1,24 @@
+---
+court: "New York Superior Court"
+decided: "1891-12-30"
+citations: ["42 N.Y. St. Rep. 453"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. James Burns and Annie Burns, App’lts, v. Jacob Bloedel, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/42/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2071268
+cites_cases: ["60 N.Y., 385"]
+---
+
+# People ex rel. Burns v. Bloedel
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This appeal presents questions arising on the sufficiency of the proceedings taken by the county judge for the adoption of the bastard child of Annie Burns, by the respondent, under chapter 830 of the Laws of 1873. On the lith day of April, 1883, the relator Annie Burns, by name of Annie Fondry, appeared before the county judge and consented in writing that s?id child might be adopted by Jacob Bloedel, and the same was witnessed and acknowledged by William W. Hammond, who subscribes himself county judge of ¡Erie county. On the same day Jacob Bloedel and Nancy A. Bloedel, his wife, each consented in writing to the adoption of said child, and said Jacob Bloedel entered into an agreement under seal, as provided by chapter 830 of the Laws of 1873, that said child should be treated in all respects as his own lawful child. Thereupon and on the same day the county judge made an order reciting the proceedings and directing that the said child “ should thereafter be treated in all respects as the child of Jacob Bloedel and wife, and shall hereafter be known and called by the name of Henry George Bloedel.” This order was signed by William W. Hammond, as county judge of Brie county, and attested by J. B. Ewell, clerk. The relators instituted proceedings by habeas corpus to recover the child from the respondent, who in his return to the writ set up the proceedings had before the county judge and claimed the child by virtue thereof. The relators demurred to said return, and the judge at special term held the papers sufficient. The relators now claim that the record does not show that Bloedel, the person adopting the child, resided in the county of Brie, the county of the official before whom he appeared. We think that fact does sufficiently appear. The agreement of Jacob Bloedel states that he is “ of the city of Buffalo,” and the court will take notice that the city of Buffalo is in the county of Brie, and that William W. Hammond was, at the time, county judge of said county.
+He further claims that the record does not show that Jacob Bloedel and Nancy Ann Bloedel signed the consent of adoption, or agreement to*adopt, in the presence of the county judge. We do not think it is necessary under the statute that the county judge should sign the consent of the parties adopting the child; but if it is done before him it will be sufficient compliance with the statute. The order made by the county judge recites that the “ child and Jacob Bloedel and Nancy A. Bloedel, his wife, having this day appeared before the undersigned county judge of Brie county, and the parties having signed the necessary consents,” etc., we think this shows what the statute requires to be shown, that the wife appeared before the county j udge and signed the consent, and the fact that the judge does not witness the signature by subscribing his name thereunder is cured and sufficiently attested by the recitation in the order which is signed by him; especially is this so in view of the fact that there is nothing in the statute requiring the county judge to witness by his signature the consent of the parties adopting the child.
+We are also of the opinion upon the authority of The People ex rel. Wehle v. Weissenbach, et al., 60 N.Y., 385, that the omission of the county judge to sign the certificate of Bloedel cannot be availed of by relator, she having given her consent, which the county judge did witness by his signature.
+The order appealed from should be affirmed, with ten dollars costs and disbursements.
+Beckwith, Ch. J., and Titus, J., concur; Hatch, J., did not sit.
