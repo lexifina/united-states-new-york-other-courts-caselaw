@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-07-08"
+citations: ["53 N.Y. St. Rep. 783"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George N. Cottrell, Sup’r, Resp’t, v. The Marshall Infirmary in the City of Troy, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/53/cases/0783-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686050
+cites_cases: ["107 Mass., 492", "2 Den., 433", "51 N. Y., 487"]
+---
+
+# Cottrell v. Marshall Infirmary in City of Troy
+
+## Majority (Putnam, J.)
+
+Putnam, J.
+The position of the learned counsel for defendant, that negligence must be shown in order to make the defendant as owner of the dam liable, is undoubtedly correct. Losee v. Buchanan, 51 N. Y., 487, and cases cited.
+But we think there was testimony in the case which rendered the submission of the question of defendant’s negligence to the jury proper.
+There was no waste weir to the dam or flagging over the dirt filling between its walls. The expert witness, Eicketts, testified: “ It is not the proper and safe construction of a dam to build it without a waste weir.” Also: “I do not think you could speak with ‘ safety ’ in connection with such a dam; I do not think there is any such term to be used.” The witness Baerman, called by defendant, testified as to the dam: “ It was a good construction of the kind.” “Q. Do you consider that it was safe to build such a dam without building a waste weir ? A. I would not build one, but there are other circumstances which might modify somebody’s else’s opinion.” There was other evidence in the case indicating an improper construction of the dam, and hence negligence on the part of the defendant, which it is unnecessary to recapitulate. On the part of defendant much testimony was produced tending to show proper construction of the dam. We do not think, however, that such testimony was so overwhelming as to compel the trial judge to withdraw from the jury the question as to the construction of the dam.
+The trial judge in his charge, in stating the degree of care a party should use in constructing such a dam, quoted from Angelí on Water Courses’ as follows: “It must be in proportion to
+the extent of the injury which will be likely to result to third persons providing it should prove insufficient. And it is not enough that the dam is sufficient to resist ordinary floods, for if the stream is occasionally subject to great freshets, those must likewise be guarded against, and the measure of care required in such cases must be that which a discreet person would use if the whole risk were his own.” -He also charged as follows: “ The duty of the defendant was to so build it in the first instance that it would resist all the water that it was constructed to store in the first place. It must resist the pressure of all the water that could be got in it, relieved as it was or was intended to be by this bulkhead and this flume. If it failed to do that it was improperly constructed in law. It must resist all the storms and all the water that would flow into it by the storms common in the locality; and not only that, but all the water that would flow into it by extraordinary storms such as do sometimes occur and are likely to occur, although at irregular intervals, in this vicinity. Was it so constructed ? That question is for you. * *
+It does not follow that the defendant was bound to guard against a very unusual storm that had never occurred but once before in the history of this vicinity, and that long years ago. The law does not exact any such thing as that of a party. Although a thing extraordinary in character, of a phenomenal type, has once occurred, it does not follow that it is to be anticipated, that it will occur again, and the law does not require anybody to guard against anything that is so phenomenal that it"" has only occurred once in the history of mankind. It is only such things as experience teaches are likely to occur that men must foresee and guard against. I must submit to you, and I do submit to you, the question whether this was not an extraordinary, a very extraordinary storm, one that had never occurred before in this vicinity.”
+We are unable to discover any error in the charge of the learned trial judge. Angel on Water Courses, § 836; The Mayor, etc., of New York v. Bailey, 2 Den., 433-440,441; Gray v. Harris, 107 Mass., 492.
+In the Mayor, etc., of New York v. Bailey, supra, it is held that “the dam should, therefore,have been constructed in such a manner as to resist such extraordinary floods as might have been reasonably expected to occasionally occur.” The trial judge in this case so charged, at the same time instructing the jury that if damage was caused by phenomenal flood that no one could expect, defendant was not liable.
+We think there was evidence justifying the submission of the ease to the jury, indicating that the freshet which caused the dam to give way was one of the extraordinary floods which might be occasionally expected to occur, and not a phenomenal one, which no one could expect ever to occur.
+The witnesses Hull, Dustin and Gfoyer testified to other occasions when water was as high as when the dam gave away. It also appears that in 1889 there was a larger rainfall than that which occurred at the time in question. This testimony justified the submission of the question to the jury whether the flood which caused the dam to give to giveaway was a phenomenal one, such as defendant was not compelled to guard against, or one of the extraordinary rainfalls occasionally occurring and which, as stated in The Mayor, etc., of New York v. Bailey, supra, defendant should have anticipated.
+We think that the evidence in the case rendered the submission of the question as to the proper construction of the dam to the jury necessary, and that the verdict on such evidence cannot be disturbed.
+We do not discover any error in the charge of the judge as to the liability of the defendant in the construction of the dam, assuming that the exception taken by defendant on the trial is sufficient to raise this question. The passage in the charge criticized by the learned counsel for appellant should be considered in connection with other parts of the charge. The instruction given by the court to the jury, taken together, we think correctly states the law applicable to the case.
+Mor do we think the court erred in the charge as to the duty of Wager, the gate-keeper. There was testimony indicating that Wager discovered the dam washing away several days before the accident in question and took no measures whatever to protect it.
+The judgment should be affirmed, with costs.
+Mayham, P. J., and Herrick, J., concur.
