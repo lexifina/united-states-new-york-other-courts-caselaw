@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-01-24"
+citations: ["29 N.Y. St. Rep. 302"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William M. Owen, Pl’ff, v. John C. Calhoun, Def't."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664262
+cites_cases: ["94 N. Y., 381"]
+---
+
+# Owen v. Calhoun
+
+## Majority (Yan Brunt, P. J.)
+
+Yan Brunt, P. J.
+This action was brought in May, 1888, to-recover upon a promissory note for $5,212.50, bearing date December 20, 1866, payable February 21, 1867, upon which $2,000-had been paid on the 5th of February, 1867, and also for advances made and services rendered to defendant in January and February, 1867.
+The answer set up payment and various statutes of limitations.
+Upon the trial the note was not produced. The plaintiff was the only witness to prove that it had been lost. ITe also testified that the note was originally given to a firm of which he was a member, which firm dissolved in 1869, all the assets being transferred to him, and that, although he took the benefit of the bankrupt act in 1871, and must have assigned all his property then to an assignee in bankruptcy, be had not, to his recollection assigned, this note to any one.
+At the time the note fell due the defendant resided in South Carolina. In 1868 he moved to Mississippi and in 1871 to Arkansas and in 1884 he removed to Mew York, where he has ever since resided.
+During the time the defendant resided in Arkansas the entire business was in Mew Orleans, where the plaintiff resided, and he saw the plaintiff frequently there and no claim whatever was ever made by the plaintiff upon the defendant from June, 1867, until February, 1888.
+The defendant further testified as to a certain assignment in settlement of this matter.
+The court dismissed the complaint and ordered the exception to the dismissal to be heard at the general term in the first instance. This ruling was clearly right. Although the court did not expressly dismiss the complaint upon the ground of the presumption of payment, yet this being one of the grounds of the motion, if the court had not dismissed the complaint upon any other ground, it would have been its duty to have dismissed it upon this.
+It is true that presumption of payment, after twenty years, is a presumption of fact and not of law, and therefore must ordinarily be found by a jury; yet where the evidence is of such a character that the jury must give effect to the presumption, and a contrary verdict would be set aside as against the weight of evidence, the court may dispose of the question by dismissing the complaint or directing a verdict. The claims sued upon are twenty-one years old. The plaintiff was in needy circumstances, having taken the benefit of the bankrupt act in 1871, and if he then held the note presumably parted with it to his assignee in bankruptcy, and although meeting the defendant frequently, never made any claim upon him for its payment. Furthermore, the plaintiff cannot produce the note. He says it is lost; how, when or where he does not tell us.
+Under these circumstances no jury could be allowed to declare that the presumption of payment had not been established.
+The fact that lapse of time raises a presumption of payment is expressly recognized in the case of Bean v. Tonnele, 94 N. Y., 381, and where no claim has been made for twenty-one years and the note cannot be produced, and the plaintiff is shown to have gone into bankruptcy, it is difficult to see how a stronger case can be made out arising from a presumption of payment.
+As for the claims for advances and services they rest upon the same foundation, except, perhaps, the evidence is not quite so conclusive, as these alleged debts were not evidenced by any written instrument which is not produced.
+We do not think it necessary to discuss the question of the statute of limitations, as the point suggested disposes of the exceptions.
+Exceptions overruled and judgment ordered for defendant, with costs.
+Beady and Daniels, JJ., concur.
