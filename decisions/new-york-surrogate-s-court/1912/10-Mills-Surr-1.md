@@ -1,0 +1,31 @@
+---
+court: "New York Surrogate's Court"
+decided: "1912-12"
+citations: ["10 Mills Surr. 1"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Application for the Revocation of Letters of Administration Issued to Giovanni Lombardi on the Estate of Carmine Costello, Deceased, and for the Issuance of Letters of Administration to the Italian Consul, Germano P. Baccelli."]
+source_url: "https://static.case.law/mills-surr/10/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1082743
+cites_cases: ["223 U. S. 317"]
+---
+
+# In re the Application for Revocation of Letters of Administration Issued to Lombardi
+
+## Majority (Vedder, S.)
+
+Vedder, S.
+Carmine Costello was a subject of the kingdom of Italy and died intestate in Schenectady county, May 36, 1913, leaving him surviving a widow and two minor children, his sole next of kin, aliens residing in Italy.
+Giovanni Lombardi, the person who was appointed administrator of his estate, was a cousin of decedent, residing in the city of Schenectady, and was appointed without issuance or service of citation upon the Italian consul who makes the application for the revocation of the letters of administration in this proceeding.
+The petition for letters of administration was made on the 30th day of August, 1913, and letters issued to the said Giovanni Lombardi on the 30th day of August, 1913.
+The petition of Giovanni Lombardi did not allege that the said deceased was at the time of his death an alien and a citizen of the kingdom of Italy.
+The convention between the United States and Sweden, proclaimed March 30, 1911, provided “ In the event of any citizen of either of the two contracting parties dying without will or - testament, in the territory of the other contracting party, the Consul General, Consul or Vice Consul of the nation to which the deceased may belong, or, in his absence, the representative of such Consul General, Consul or Vice Consul, shall, so far as the laws of each country will permit, and pending the appointment of an administrator and until letters of administration have been granted, take charge of the property left by the deceased, for the benefit of his lawful heirs, and creditors, and, moreover, have the right to be appointed as administrator of such estate.”
+The treaty of May 8, 1878, between Italy and the United States, article 17, provides: “ The respective Consuls, Vice Consuls and Consular Agents as likewise the Consular Chancellors, secretaries, clerks or attaches, shall enjoy in both countries all the rights, prerogatives, immunities and privileges which are or may hereafter be granted to the officers of the same grade of the most favored nation.”
+There being no relative in this country who would be entitled to succeed to the personal property of the deceased, I am of the opinion that under that portion of the treaty with Sweden which provides, “ and, moreover, have the right to be appointed as administrator of such estate,” the Italian Consul has the prior right of administration of this estate.
+Matter of Rocca v. Thompson, 223 U. S. 317, is not in conflict with but is in accordance with this conclusion. In that case the United States Supreme Court construed the provisions of the Argentine treaty and the rights of their respective consular officers, and in construing the provisions of that treaty used this significant language, “ that treaties are a subject of careful consideration before they are entered into and are drawn by persons competent to express their meanings and to choose apt words in which to embody the purpose of the high contracting parties. Had it been the intention to commit the administration of estates of citizens of one country dying in another exclusively to the consul of the foreign nations, it would have been very easy to have declared that purpose in unmistakeable terms. For instance, where that was the purpose, as in the convention between the United States and Sweden proclaimed March 20, 1911, it provided as hereinabove stated.” ;
+This language clearly indicates that had the court been construing the treaty with Sweden it would have considered its language sufficiently clear and explicit to have entitled the Italian consul to letters in that case.
+From the foregoing, it is obvious that letters of administration on the estate of Carmine Costello issued to Giovanni Lombardi, August 20, 1912, should be revoked and issued to the Italian consul, Germano P. Baccelli.
+Submit decree directing revocation and issuance of letters to the Italian consul.
+Decreed accordingly.
