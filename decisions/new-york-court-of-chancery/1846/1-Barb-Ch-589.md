@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1846-08-04"
+citations: ["1 Barb. Ch. 589"]
+reporter: "barb-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Corning and others vs. Stebbins."]
+source_url: "https://static.case.law/barb-ch/1/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1994088
+---
+
+# Corning v. Stebbins
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The order for the appointment of a. receiver appears to have been regularly obtained, upon a personal .service of notice of the application. And the amendment of the bill appears to have been perfectly regular. The original bill was true at the time it was sworn to, and it still remained true after every thing originally contained therein relative to the first judgment, and the proceedings thereon, had been stricken out by the amendment. The amendment therefore was one which could be made of course, to a creditor’s bill, under the provisions of the 190th rule of the court. And to authorize such an amendment of a creditor’s bill, under the present rules of the court, no rule or order for leave to amend was necessary; although, an injunction had been issued. Nor was it necessary to issue n new execution, and have it returned unsatisfied, before commencing this suit; especially as it is not alleged by the defendant, that he has property liable to execution in the county where he now resides, out of which the amount of the judgment could have been collected by the sheriff. In the case of Storms v. Ruggles, (1 Clark's Ch. Rep. 148,) the vice chancellor of the 8th circuit decided that a creditor’s bill could not be filed, after five years, without issuing a new execution upon the judgment to the county where the defendant resides. But that case was not well considered, and has frequently been overruled by this court. After the complainant has once exhausted his remedy at law, by the return unsatisfied of an execution which has been issued to the proper county, the statute gives him the right to come here for the purpose of reaching the equitable interests and things in action of the defendant. And 1 know of no limitation of that right, short of the ten years which the statute has fixed as the time within which suits purely of equitable cognizance must be brought in this court. The remedy of the defendant, to prevent unnecessary costs, if he has the means of paying the judgment, is to apply his property for that purpose. And if he has not sufficient property, the complainant should not be subjected to the useless delay and expense of issuing a second execution, and having it returned unsatisfied, before he files his bill.
+Where the complainant wantonly files" a bill here for the mere purpose of making unnecessary costs, notwithstanding the defendant has an abundance of property to satisfy the debt, and which the complainant knows may be reached and applied to that purpose by the mere issuing of a second execution, the court may, in the exercise of a sound discretion, refuse to give him costs. But I am aware of no principle which will authorize the court to withhold the remedy given to him by the statute because the defendant lias neglected to pay his debt for any period short of that fixed by the statute of limitations. After the expiration of ten years, the complainant would probably be compelled to issue a new execution to the county where the defendant resides, so as to give him a new right to the interposition of a court of equity for relief, before he could file a creditor’s bill; where Ills right, founded upon the return of the first'execution, was barred by lapse of time, and the judgment still remained in full force and effect.
+There is no ground whatever for setting aside the order to appoint a receiver, or for dissolving the injunction, or for granting any other part of this application. It must therefore he denied with costs. But (he appointment of a receiver will not prevent the defendant from putting in an answer and setting up a defence, if he has any, to the whole or any part of .the claim of the complainants, for the satisfaction of which this suit was commenced.
