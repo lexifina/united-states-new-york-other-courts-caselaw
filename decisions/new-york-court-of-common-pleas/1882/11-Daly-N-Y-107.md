@@ -1,0 +1,29 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1882-06-05"
+citations: ["11 Daly (N.Y.) 107"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William L. Chase, Respondent, against The Union Stone Company, Appellant."]
+source_url: "https://static.case.law/daly-ny/11/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1604860
+cites_cases: ["6 Johns., 45", "60 N. Y. 106"]
+---
+
+# Chase v. Union Stone Co.
+
+## Majority (Beach, J.)
+
+Beach, J.
+Many items in dispute between the parties depended for disposition upon conflicting evidence. From examination it may be added that in each case the testimony was so nearly balanced as not to call for interference bjr an appellate court with the referee’s conclusions. In the disposition of others, legal questions are involved, which, in addition to the exceptions, merit the attention of this court, and will be briefly considered in the order presented by the brief of the learned counsel for the appellant.
+The first is an interest charge "made by the defendant against the plaintiff, disallowed by the referee. The dealings between the parties were under a written agreement, whereby the plaintiff was to purchase goods from the defendant, being allowed a specified discount and the privilege of exchanging any of his purchases at any time. This plan .of business involved what properly may be called an open or running account. There was no. final settlement or adjustment at any time prior to the close of the trial. The agreement contains no clause relating to interest, and under its terms the plaintiff did not stand with the defendant in the position of an ordinary purchaser. He was entitled to exchange goods, and was given by the defendant an exclusive agency, subject to the conditions in the written instrument. It would be an injustice to charge the plaintiff with a liability to pay interest when not mentioned in the contract, or subsequently clearly agreed upon, or chargeable by law. There appears not to have been any after agreement affecting this question, and the account being one for merchandise, and unliquidated, interest was properly disallowed (Liotard v. Graves, 3 Caines, 226 ; Newell v. Griswold, 6 Johns., 45 ; Reid v. President, &c., of Rensselaer Glass Factory, 3 Co wen, 393 ; Smith v. Velie, 60 N. Y. 106).
+The next item is an amount arising from payment by the defendant on a claim of general average upon goods returned by the plaintiff for exchange. The correspondence between the parties, under which the defendant paid the sum, leaves open only the question of where rested the title to the merchandise when the steamer was burned. In his final letter upon this subject, the plaintiff writes : “You claim that the goods were not yours, nor at your risk on the Glaucus. While we are very clear in our convictions to the contrary, without prejudice to the rights of either party as they now exist, which can be determined hereafter, would it not be wisdom that you should get what you can out of the general average arrangement of which you speak, and which we do not understand, and to have the amount of the loss reduced for the benefit of whomever it may concern.” Upon the receipt of this letter the defendant signed the general average bond and paid the assessment. The return of these goods seems indisputably to have been for exchange, under the agreement giving the plaintiff that right with reference to any goods he purchased from the defendant. The plaintiff had bought the merchandise, and his exercise of the privilege did not.make him a vendor or the defendant vendee, or subject the transaction to the rules governing the time of title passing between parties in that relationship. The goods belonged to the plaintiff when shipped; and the title remained in him until they reached the defendant’s custody. The disallowance of the item by the learned referee and its affirmance by the court below, in my opinion, was error.
+Thé exceptions by defendant taken to the admission of testimony claimed to vary the written agreements are rendered immaterial by the proceedings on the trial. The contention was narrowed to the validity of certain items in each account, and the evidence admitted under the exceptions had no relevancy to or effect upon the contention thus made. In this view they furnish no sufficient ground for reversing the judgment.
+The exceptions at folios 186 and 416 are not tenable, because it was competent for the plaintiff to recover any item of his account established by an independent agreement between the parties. The conclusion reached upon that subject renders unnecessary any consideration of the exception taken at folio 352.
+These suggestions, it is believed, cover all exceptions to which our attention has been directed by the learned counsel for the appellant.
+From a review of the somewhat voluminous record, no error is found, save the disallowance to the defendant of the item of January 27th, 1874, $281.54, by which amount the judgment should be reduced.
+The judgment should be reversed, with costs, unless the plaintiff reduce same $281.54, and if so reduced should be affirmed, without costs.
+Charles P. Daly, Ch. J., and Van Brunt, J., concurred.
+Order accordingly.
