@@ -1,0 +1,28 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1888-11-26"
+citations: ["19 N.Y. St. Rep. 63", "15 Daly (N.Y.) 38"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sophie L. Mattern v. Russell Sage."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650406
+cites_cases: ["3 Edw. Ch. 405", "3 Edw. Ch., 410"]
+---
+
+# Mattern v. Sage
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+No ground for the relief asked for is stated in the notice of motion^ but as defendant’s counsel does not make any objection to it on that account, I will not.
+If the moving papers disclose any ground for vacating the judgment, it consists in the alleged fact that defendant’s counsel promised plaintiffs that if he would so conduct the case as to allow judgment to be entered in defendant's favor, the latter would pay plaintiff’s claim.
+In Coster v. Clarke (3 Edw. Ch., 410), it was held that there could be no re-hearing of a decree entered by consent of counsel, although made without the party’s consent, and that the remedy was against the counsel; and if the decree was obtained by fraud or covin, relief was by original bill, citing a number of cases.
+As far as I am aware, this continued to be the uniform practice until the adoption of the Code. That authorizes courts, on motion, to relieve a party from a judgment entered against him through his mistake, inadvertence, surprise or excusable neglect (§ 724), and also to set aside a judgment for irregularity (§ 1282) if the motion is made within one year from the notice of the entry of judgment.
+This motion was not made until the 18th of October, 1888, although judgment was entered on the 15th of June, 1887, and an appeal taken on. the 14th of July, 1887, which is still pending. The motion would have to be denied, for the reason that it was not made in time, if based on any of the grounds contained in these sections.
+As far as I know, the only other case provided in the Code where a judgment may be set aside on motion is, for an error in fact not arising on the trial (§ 1283), which must be made within two years from the filing of the judgment-roll (§ 1290). The application in this case is not based upon any error of fact, but upon an alleged fraud.
+It needs the citation of no authorities to show that courts have an inherent power to set aside judgments obtained by fraud, but they should only exercise this power by action and not on motion. Story’s Eq. Juris., §§ 1573-1575 ; Freeman on Judgments, § 90, et seq. : Jex v. Jacob, 9 Daly, at p. 267.
+Cases may be cited where such power has been exercised on motion without objection, but it is dangerous to try a question of fraud on affidavits, and the practice should not be encouraged. And this is specially true in a case where, according to the plaintiff’s claim, the fraud had for its object the deception of the court and the miscarriage of justice, and where, in order to make the alleged fraudulent agreement effective for any purpose, the attorneys on both sides must have been equally guilty.
+The motion must, therefore, be denied, with $10 costs.
