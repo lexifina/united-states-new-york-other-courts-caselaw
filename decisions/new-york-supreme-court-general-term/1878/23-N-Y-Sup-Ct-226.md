@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1878-12"
+citations: ["23 N.Y. Sup. Ct. 226"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnard, P, J., ijnd Gilbert, J., concurred."]
+parties: ["ELLA WADE, an Infant, by Her Guardian, Respondent, v. EDWARD MALLOY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/23/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8594252
+cites_cases: ["11 How., 489", "2 Bosw., 516", "2 Bradf., 311", "22 N. Y., 202", "26 Wend., 122", "45 Barb., 124"]
+---
+
+# Wade v. Malloy
+
+## Majority (DyKMAN, J.:)
+
+DyKMAN, J.:
+The plaintiff was the owner in fee of certain land subject to the life estate of the defendant, who was in the occupation and enjoyment of it. There was a mortgage on the land upon which the defendant paid the interest for a number of years, but finally willfully neglected to pay it, to the end that the property might be sold under the mortgage, which was done. The plaintiff now brings this action to recover the damages she has sustained, and founds it upon the neglect of the defendant to keep down the interest on the mortgage, by reason of which the property is lost to her. It is a general rule of law applicable to this case, that where there is an incumbrance upon the whole land, and there is an estate in the land for life, and a remainder in fee, the life-tenant is bound to pay the interest on the incumbrance during the continuance of his estate. (4 Kent’s Com., 74.) In this case there were no equities existing between the parties preventing the application of this general rule of law, and it was a duty the defendant owed to the plaintiff to keep down the interest on the mortgage, as ho was under obligations to her to commit and permit no waste upon the premises. These duties were imposed upon him by operation of law in the relation he sustained towards the plaintiff. He was bound to see to it that he was not guilty of waste, either voluntary or permissive, and he was also bound to take proper care to prevent deterioration and decay. (Gerard’s Titles, 154, and cases cited.) If he was guilty of any of these forbidden acts, he rendered himself liable to respond in damages. Waste is the disherison of the remainderman or reversioner. (Livingston v. Reynolds, 26 Wend., 122.) Disherison is defined to be disinheriting, a depriving or putting out of an inheritance (Bumll’s Law Dictionary), and the old writ of waste called upon the tenant to appear and show cause why he had committed waste and destruction in the place named, to the disherison of the plaintiff. (3 Black. Com., 228.) It thus appears that any act or omission of the tenant which deprives the person in remainder or reversion of the inheritance is waste.
+The instances of permissive waste, usually given in the books, relate to the permanent destruction of the substance of the property by neglect or wantonness, and the question is, whether the plaintiff can maintain this action for the wrongs of which he complains. The defendant has deprived the plaintiff of the inheritance of this property by intentionally omitting a duty which, as between him and her, the law had imposed upon him. The action of waste, as a technical one, is abolished with us, and wrongs heretofore remediable by that action are subjects of action as other wrongs. (Code of Procedure, § 450.) There can, therefore, be no objection to the form of this action. One thing is certain, the defendant by his neglect has caused the disherison of the plaintiff. True, he has not done so by any of the acts or omissions usually named in the books as instances of waste. But is that important? Is it material by what act or omission the destruction of the inheritance is brought about ? The result is what causes the injury and damage, and not the mode or manner of its accomplishment. The defendant has been guilty of a great wrong towards the plaintiff, much akin to permissive wasteland the result has been the entire loss of her interest in the property. She ought to have a remedy, and the fact that there may be no precise precedent for such an action as this should be no obstacle in her way, for it is one of the chief beauties of our system of jurisprudence that it is flexible, and opens to take in all meritorious cases and give a remedy. The complainant sets out the facts and asks for damages for the wrong. The proofs are before us, and we can see she ought to recover, and there is no obstacle in the way of the administration of justice in this case. The referee was right in permitting a recovery by the plaintiff', and the judgment must be affirmed, with costs.
+Barnard, P, J., ijnd Gilbert, J., concurred.
+Judgment affirmed, with costs.
