@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1886-07-23"
-citations: ["1 N.Y. St. Rep. 508", "1 N.Y. St. Rep. 510"]
+citations: ["1 N.Y. St. Rep. 508"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Alexander v. Alexander."]
 source_url: "https://static.case.law/ny-st-rep/1/cases/0508-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 637427
-cites_cases: ["45 N. Y., 210", "79 N. Y., 246"]
+cites_cases: ["79 N. Y., 246"]
 ---
 
 # Alexander v. Alexander
