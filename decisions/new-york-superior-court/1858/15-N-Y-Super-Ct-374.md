@@ -1,0 +1,37 @@
+---
+court: "New York Superior Court"
+decided: "1858-01-30"
+citations: ["2 Bosw. 374", "15 N.Y. Super. Ct. 374"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Owen and Lugar, Plaintiffs and Respondents, v. The Hudson River Railroad Co., Defendants and Appellants."]
+source_url: "https://static.case.law/ny-super-ct/15/cases/0374-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336492
+cites_cases: ["1 Den., 91", "1 Duer, 571", "13 Barb. 9", "21 Barb. 339", "23 Conn. 437", "3 Ohio 112", "5 Barb. 337", "5 Denio, 255", "5 Duer, 27"]
+---
+
+# Owen v. Hudson River Railroad
+
+## Majority (By the Court. Hoffman, J.)
+
+By the Court. Hoffman, J.
+It has become a settled axiom in our State, that if the negligence of a plaintiff who complains of an injury has contributed to produce it, he is not entitled to recover. (Rathbun v. Payne, 19 Wendell, 399; Collins v. The Albany & Sch. R. R. Co., 12 Barbour, 492 ; Munger v. Tonawanda R. R. Co., 4 Comstock, 349 ; 5 Denio, 255.)
+This rule is modified by another, which is thus stated by Chief-Justice Duer, in Johnson v. The Hudson River R. R. Co., (5 Duer, 27.) “ As the plaintiff in the action is not allowed to recover, notwithstanding the clearest proof of the negligence of the defendants, when it is also proved that his own negligence directly contributed to the accident, so the defendant is not shielded from a recovery, when it appears that but for his own subsequent negligence the accident would not have occurred; that is, when it appears that his own negligence was the sole proximate cause."
+The doctrine thus stated was applied by the late Chief-Justice in the case of Williams v. The N. Y. & Harlem R. R. Co., tried December 14th, 1852. The law, as laid down, in his charge, was affirmed at the General Term of this Court, (February 11th, 1854,) and by the Court of Appeals.
+After stating the general rules, as to the necessity of finding the defendants guilty of negligence; and if so, then, next, whether the party injured had been negligent on his part; the learned Judge proceeded—“ If the deceased was guilty of negligence in attempting to cross the track, or in jumping out of the wagon, still, if when he was on the ground, the driver could have stopped the car before it went over him, the plaintiff was entitled to recover.”
+To understand this, it is sufficient to observe, that the deceased was thrown from a wagon and run over by a car of the defendants, and that there was no little testimony to show that the car was driven at a great rate of speed, and that the driver made no attempt to check it when he discovered the situation of the party, and that he could have stopped the car so as to have avoided the accident.
+This, then, was the case of a wilful neglect of ordinary means of avoiding the accident at the period of its occurrence. Had the driver of the car, in the present instance, wholly neglected to apply the brakes, the cause would have been similar.
+But if the ruling of the learned Judge here is right, the most remote neglect of the company, or its agents, in the construction of its car, road, or equipment, would make them liable, whatever might be the fault of the other party. If they are responsible, because of the inefficiency of the brakes, they would be so for any deficiency or imperfection, no matter how far back it might be traced, which could be deemed to have contributed to the event. Indeed, it would, in principle, go far to give as entire protection to a traveller, or party grossly in fault himself, and to place him in the same position, as one who is wholly free from fault, and who has a guaranty for even these latent defects which ordinary diligence has failed to discover. See the cases collected in the valuable Treatise of Judge Redfield on Railways, p. 325, and notes.
+Another exception was, to the charge as to the rule of damages. No point has been made by the defendants’ counsel as to this, nor was any argued. We omit, therefore, to consider it.
+We think that there was error in the charge, and that there must he a new trial, with costs to abide the event.
+Ordered accordingly.
+In the case of Button, administratrix of Button, deceased, v. The Hudson River Railroad, Company, decided by the Court of Appeals, in December, 1858, rules were declared which seem to cover the case of Owen & Lugar v. The same Company.
+Margaret Button, as administratrix of her deceased husband, sued the company, on the allegation that the death of the deceased was caused by the negligence of the defendants, without fault on Ms part. The deceased, when first discovered, after he was injured, was found lying directly across the track, with his head on one rail • and his feet on the other. How he came there, or how long he had been there, no witness was able to state. • All that was proved was, that he had been drinking at an oyster saloon in the vicinity, and had left the saloon but a few minutes before he was found in this position.
+The opimon of Mr. Justice Harris, of the Court of Appeals (which is understood to have been delivered as the opimon of that Court) affirms the following propositions :—
+1st. Such testimony, alone, warrants no other finding than that it was the fault of the deceased that he was lying on the track in the position in which he was first discovered, and that he was not seen in time to stop the car before it reached him. On such a state of facts, the deceased was the cause of his own death, and the defendants were blameless, and, of course, are not liable.
+2d. When an injury is produced by the concurring negligence of both parties, and the negligence of the plaintiff is as truly a proximate cause of the loss as that of the defendant, there can be no recovery, although the negligence of the defendant may be greater in degree than that of the plaintiff. (Lowell v. The General Steam Navigation Company, 6 Ellis & B. 195, and 32 Eng. Law and Equity R. 158; Trow v. The Vermont Central Railroad Company, 24th Verm. 481; Hawkins v. Cooper, 8 Carr. & P. 4!3; Woolf v. Beard. 8 Carr & P. SIS.)
+3d. “ Where the negligence of the plaintiff is proximate, and that of the defendant remote, no action can be sustained. In such a case, the plaintiff himself is the immediate cause of the loss. This rule embraces all that class of eases where, at the time of the injury, the plaintiff was chargeable with a want of proper care. On the other hand, where the negligence of the defendant is proximate, and that of the plaintiff remote, the action may be sustained. The question, then, is, whether, it being concluded the plaintiff was not without fault, the defendant might, by the exercise of ordinary care and prudence at the time of the injury, have avoided it.” (Cerwhaeker v. The Cleveland, Columbus and Cincinnati Railroad Company, 3 Ohio 112, K S).
+One man cannot, by Ms own negligence, cast upon another the nécessity of exercising extraordinary care. {Lowell v. The Steam Navigation Company, supra.)
+4th. To entitle the plaintiff to recover, it was necessary to prove, that prior to the injury of the deceased, he was seen on the track by the driver.of the car in time to have enabled the driver, by the exercise of ordinary care, with the means then at his command, to arrest the progress of the car, and prevent the injury.—Rep.
