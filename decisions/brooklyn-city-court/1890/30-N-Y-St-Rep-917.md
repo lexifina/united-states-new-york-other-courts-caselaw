@@ -1,0 +1,30 @@
+---
+court: "Brooklyn City Court"
+decided: "1890-04-28"
+citations: ["30 N.Y. St. Rep. 917", "9 N.Y.S. 542"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elbert W. Hawxhurst, Resp’t, v. Andrew J. Hennion, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0917-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669366
+---
+
+# Hawxhurst v. Hennion
+
+## Majority (Osborne, J.)
+
+Osborne, J.
+Plaintiff brought this action to recover damages for a breach of a contract made between him and defendant, the terms of which he alleged to be as follows: Defendant, an attorney at law, was to bring an action on a claim of the plaintiff against one Whittier, and if successful was to receive one-half of the recovery for his professional services, and in any event was to hold plaintiff harmless from all claims for costs. The action was brought against Whittier and resulted in a judgment for costs against plaintiff, and he was compelled to pay $150 for costs and sheriff’s fees.
+Defendant admitted the employment, but denied that he agreed to hold plaintiff harmless from all costs. Plaintiff recovered a verdict for $150, and from the judgment entered thereon, and from an order denying the motion for a new trial, defendant takes this appeal.
+There are but two exceptions in the case. The first is to the admission in evidence of a paper alleged by plaintiff to have been signed by the defendant, and containing the terms of the agreement as plaintiff claimed them to be. No grounds of objection were stated on the trial at the time the paper was offered. It is now contended that it did not appear that plaintiff knew defendant’s handwriting, or that he had ever seen him write. It does, however, appear that plaintiff testified that defendant gave him the disputed paper, and we think that was sufficient to authorize its admission; but even if this were not so, on his cross-examination plaintiff testified that defendant signed the paper in his (plaintiff’s) presence; that statement made the paper admissible beyond all question. If defendant had seen fit to formulate the grounds of his objection at the time the paper was offered, he might then have cross-examined the plaintiff on that point, but he failed to do so, or to state the ground óf his objection. Having brought out on his cross-examination of plaintiff his evidence of the genuineness of the signature, he should not now be heard to object to its admission
+The second exception is to the admission of a letter written by defendant to plaintiff; no grounds of objection were stated when the letter was offered in evidence, but it is now claimed that there was a material alteration in the letter by the substitution of the word “ me ” for “you,” of which no explanation was offered, and that therefore the paper was inadmissible. Plaintiff testified that the letter was in the same condition as when he received it We do not understand the rule to be as contended for by the appellant Grreenleaf lays down the rule as follows: “ But if any ground of suspicion is apparent upon the face of the instrument, the law presumes nothing, but leaves the question as to the time when it was done, as well as that of the person by whom and the intent with which the alteration was made, as matters of fact to be ultimately found by the jury upon proofs to be adduced by the party offering the instrument in evidence.” 1 Grreenleaf on Evidence, § 564..
+The evidence presented a direct issue between plaintiff and defendant, as to whether defendant agreed to hold plaintiff harmless from costs in the Whittier suit The jury have found in favor of the plaintiff, and we can see no reason for disturbing the verdict.
+1 Subsequent to the entry of the judgment, defendant moved, on the affidavits of himself and one Daniel B. Hawkins, for a new trial on the ground of newly discovered evidence, which motion was opposed by plaintiff's affidavit; the motion was denied, and from the order entered thereon defendant also appeals.
+We think the learned trial judge was right in denying defendant’s application. The proposed new evidence was to the effect that said Hawkins was present at an interview between plaintiff and defendant when the agreement was made, and would corroborate defendant’s version of it The only reason given in the moving affidavit of defendant for not having Hawkins present as a witness on the trial was that defendant “ did not and could not anticipate that the plaintiff would give the testimony he gave at said trial, based on forgery and perjury, and deponent did not discover until too late to secure his attendance as a witness that Hawkins could testify in contradiction to the plaintiff that part of the testimony of plaintiff most damaging to this deponent, upon which said verdict must have been founded.”
+We think the reasons urged for a new trial are entirely insufficient, and in direct conflict with the well settled rules governing such applications, which’ are addressed to the discretion of the court
+It does not appear that this evidence could not have been obtained with reasonable diligence on the first trial; it is cumulative in that it would only tend to support defendant’s version of the agreement.
+Defendant knew of Hawkins’ presence at the interview as alleged, and should have had him. present at the trial if he desired to avail himself of his testimony. His failure to recollect the incident of Hawkins’ presence as alleged is not a sufficient reason for his failure to present his testimony. A defeated party is usually surprised when evidence is presented against him; that it is stronger than, or different from what he expected, affords no grounds for granting him a new trial.
+For the reasons above stated, the judgment and order denying motion for a new trial on the minutes should be affirmed, with costs, and the order denying motion for a new trial on the ground of newly discovered evidence should also be affirmed, but without costs.
+Yan Wyck, J., concurs.
