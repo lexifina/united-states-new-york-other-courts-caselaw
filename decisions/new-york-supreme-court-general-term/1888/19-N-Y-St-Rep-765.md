@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1888-11-24"
-citations: ["19 N.Y. St. Rep. 765", "19 N.Y. St. Rep. 714"]
+citations: ["19 N.Y. St. Rep. 765"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
