@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05"
+citations: ["85 N.Y. Sup. Ct. 446"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., and Parker, J., concurred."]
+parties: ["The Employers’ Liability Assurance Corporation (Limited), Appellant, v. The Employers’ Liability Insurance Company of the United States and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0446-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4721319
+cites_cases: ["61 Hun, 552", "61 Hun, 652"]
+---
+
+# Employers' Liability Assurance Corp. v. Employers' Liability Insurance Co. of United States
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+Upon the appeal from the first judgment entered in this action it was held that the plaintiff is not entitled to the exclusive use of the term “ Employers’ Liability ” as part of its corporate name, and that its use by the defendant could not be restrained, though such issue might mislead or deceive persons intending to insure with the plaintiff. (61 Hun, 552.) But it was held that if the defendant corporation was doing business in this State without permission of the insurance department, the plaintiff might be entitled to a judgment restraining it from doing business in this State if it could show that it had sustained special damages by reason of defendant’s illegal action. Upon the present trial it appeared that the defendant corporation did not issue a policy until nearly a month, after- this action was begun, and the plaintiff failed to show that it had sustained any special damage before this suit was brought. This seems to be a perfect defense to this action. The defendant corporation having the right to use the words “ Employers’ Liability ” as part of its corporate name and in its business, the similarity of names ceases to be a factor or ground for recovery, and the rights of the litigants are the same as though their corporate names were dissimilar. The plaintiff has not made out a cause of action based on the fact that the defendant corporation has issued policies without having been authorized by the insurance department. The learned counsel for the plaintiff in his seventh point admits that the illegal acts of the defendant in taking insurance risks in this State contrary to law do not of themselves give any right to the injunction sought by this action, but argues that the change of defendant’s corporate name at the suggestion of the insurance department is an admission that its name was so similar to the plaintiff’s as to produce confusion and uncertainty, and that on this admission the plaintiff is entitled to the relief sought. The defendants have made no such admission. The defendant corporation has not abandoned the use of the words “ Employers’ Liability,” but has simply prefixed the word “ American ” to its title and omitted the words “ of the United States.” The insurance department has not denied the right of the defendant corporation to use these words in its corporate name, but, on the contrary, expressly asserted in its letter of April 22, 1890, that it had a right to use these words. Before the plaintiff can recover under the rule laid down in 61 Hun, 652, it will have to show that the defendants were issuing policies in violation of the law of this State, and that their -acts had actually caused some special injury or would necessarily cause such injury to the plaintiff’s business. This it has failed to do although it has shown that the defendant corporation has used, and asserts its right to use, the words “ Employers’ Liability ” as part of its corporate name, which this court has held it has a right to do. The mere fact than an unlicensed person should begin the practice of medicine would not authorize a licensed practitioner to maintain an action to restrain the unlicensed person from practicing.
+The conclusion reached, that no cause of action is stated in the complaint and that none was proved on the trial, renders it unnecessary to consider the third conclusion of law contained in the decision of the Special Term. The statute referred to (Chap. 211, Laws of 1877) does not relate to foreign insurance corporations, but to companies to be thereafter organized under the laws of this State, and it does not seem to vest the insurance department with the right to prescribe what name or title foreign corporations shall take. Under the statutes existing at the time this controversy arose the superintendent, however, liad the right to refuse to permit any foreign corporation to transact business in this State “whenever, in his judgment, such refusal to admit shall best promote the interests of the people of this State.” (Chap. 593, Laws of 1873, § 2.) Such a similarity of name as would he likely to lead to confusion would seem to he under this act a sufficient ground for refusal.
+The judgment should he affirmed, with costs.
+Van Brunt, P. J., and Parker, J., concurred.
+Judgment affirmed, with costs.
