@@ -1,0 +1,42 @@
+---
+court: "New York Court of Special Sessions"
+decided: "1922-07-19"
+citations: ["40 N.Y. Crim. 1"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. CHARLES MARTIN."]
+source_url: "https://static.case.law/ny-crim/40/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1226091
+cites_cases: ["42 Sup. Ct. 516"]
+---
+
+# People v. Martin
+
+## Majority (Freschi, P. J.:)
+
+Freschi, P. J.:
+The district attorney charges a violation of section 282-b of chapter 612, Laws of 1922, popularly known as the “ Taxi Bonding Law,” amending the Highway Law. The defendant, who is admittedly of the class affected by this statute, and who concedes his failure to comply with its requirements, challenges its constitutionality. Failure to file a bond as prescribed therein is a misdemeanor,
+In part the law provides:
+“ Sec. 282-b. Indemnity bonds or insurance policies in cities of the first class. Every person, firm, association or corporation engaged in the business of carrying or transporting passengers for hire in any motor vehicle, except street cars, and motor vehicles operated under a franchise by a corporation, subject to the provisions of the Public Service Commission Law over, upon or along any public street in a city of the first class shall deposit ahd file with the State tax commission for each motor vehicle intended to be so operated either a personal bond, with at least two sureties approved by the State tax commission, a corporate surety bond or a policy of insurance in a solvent and responsible company authorized to do business in the State, approved by the State tax commission, in the sum of two thousand five hundred dollars, conditioned for the payment of any judgment recovered against such person, firm, association or corporation for death or for injury to persons or property caused in the operation or the defective construction of such motor vehicle. Such bond or policy of insurance shall contain a provision for a continuing liability thereunder notwithstanding any recovery thereon.”
+The statute gives the owners of motor vehicles covered by the law the option of three methods of securing the payment of judgments recovered for death or injury caused by the operation or the defective construction of the vehicles, namely (1), a personal bond, (2) a corporate surety bond, and (3) a policy of insurance of a solvent and responsible company authorized to do business in this State.
+The court may take notice that motor vehicular traffic is heavy in the city of Yew York and that it is growing steadily, necessitating the enactment of safeguards for the greater protection of the public generally.
+Thirteen thousand taxicabs it seems were operated in Yew York city alone in 1921, in addition to 325,000 other automobiles ; and there were killed and injured by taxicabs in the same year in said city 2,056 persons, being a ratio of one to six, according to the figures of the police department and stipulated by counsel in this case. Furthermore, they have agreed that there were killed and injured by automobiles other than taxicabs during the same period here 15,564 persons, being a ratio of one to twenty-two.
+It is plain, therefore, that when we consider the mass of our population and their welfare in relation to the heavy traffic on our highways, the conclusion seems irresistible that such legislative action is imperative and such a law as is under consideration is salutary and necessary. Other states have similar enactments in effect.
+The operation of motor vehicles as common carriers of passengers for hire and trafficking on the public highway is not an absolute right. It is merely a privilege subject to reasonable control.
+Public vehicular traffic for hire involving special liabilities require peculiar treatment and regulation, and therefore separate classification of cities is justified. This is not uncommon in ¡New York. Control by the State having been shown to be necessary under the activities affecting the public and its highways, the calling for special license and authority is not beyond constitutional limitations. ¡Nbr do I find any ambiguity in the statute to warrant a holding that this legislation is null and void. Courts should not be prone to annul laws enacted by the representatives of the people. Constitutional validity must be presumed until the statute is shown to be violative of the organic law.
+The Legislatxire, although it might prohibit the use of motor vehicles upon the highways, has deemed it wise to forbid their use under certain circumstances, and the requirement that a bond or liability insurance be furnished by taxicab operators is not special legislation nor discriminatory. I cannot agree with counsel that it is confiscatory in any sense.
+This legislation has for its ultimate purpose public safety and protection against not only financial irresponsibility, but as well against the many dangers incident to the operation of motor vehicles for carrying of passengers for hire and the evils and possible abuses by carriers.
+Regulatory laws providing for bonds and other restrictions are many, and the decisions are too numerous to cite and discuss in this memoranda form of decision. Suffice it to mention that in several state and federal jurisdictions requirements of similar import have been sustained and enforced. In Donella v. Enright et al. (New York Law Journal, June 13, 1922, Judge Finch), at Special Term of the Supreme Court, and the District Court of the United States for the Southern District of New York by Judge Hough in Packard v. Banton (July 13, 1922), copies of opinions filed herewith, this law was not shown to be obnoxious to the constitution nor subversive of the constitutional rights of the defendant.
+Since the enactment of the statute in question there has been filed as required by law in the office of the State department of insurance by the Tanner Rating Bureau a schedule of rates for corporations issuing surety bonds. Mere reference is made to them for greater certainty in the settlement of the disputed point on the trial.
+As I stated on the argument of the defendant’s motion to dismiss, I am unable to agree with counsel in his. attack on this act that the element of expense in procuring and furnishing either a stock insurance company or mutual insurance company bond is a criterion by which to test the reasonableness of this law. This does not enter into the question of legislative power. The Legislature had discretion under its police power in this matter, and, in my judgment, used it wisely. I believe they used it constitutionally and lawfully, and public security makes necessary a vigorous enforcement of this law.
+My vote, therefore, is to deny the defendant’s motion for a dismissal and acquittal, and to adjudge him guilty as charged in the information herein.
+
+## Concurrence (Edwards, J. (concurring))
+
+Edwards, J. (concurring)
+I think the act here assailed is within the scope of the police power as defined by authority, being apt regulation for the general welfare of the use of property belonging to the public and in which all members of the community have direct and vital interest. If this is so the legislative power is supreme in the premises, and the wisdom or unwisdom of the enactment is wholly legislative, not subject to judicial revision even to the extent of determining the actual facts involved in the operation of the legislative mind. (Prudential Ins. Co. of Am. v. Cheek, 42 Sup. Ct. 516, p. 523, Advance Sheets of July 1, 1922.)
+To make the law effective its provisions must he adequate to the emergency; thus the security must continue while the danger lasts', or when the security is exhausted the danger must he eliminated or new security furnished. This seems to be the aim of the? clause providing for continuing obligation with the provision for termination of liability for subsequent default at the election of the surety. Moreover, even if it were held that this clause is hopelessly ambiguous or oppressive, it seems to me that it is separable without destruction of the integrity of the act. The result of its omission would he to require the owner to renew a security which by payment for past wrongs has become ineffective for the future.
+I therefore advise that the issue presented he decided by a verdict of guilty.
+Kernochan, J., concurs.
