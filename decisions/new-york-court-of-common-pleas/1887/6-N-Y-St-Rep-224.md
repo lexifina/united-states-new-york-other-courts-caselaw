@@ -1,0 +1,59 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1887-02-07"
+citations: ["6 N.Y. St. Rep. 224", "14 Daly (N.Y.) 150"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Maurer v. Charles H. Bliss."]
+source_url: "https://static.case.law/ny-st-rep/6/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1984219
+cites_cases: ["110 U. S. 108", "110 U. S., 108", "13 Hun 514", "13 Hun, 514", "21 N. Y. 552", "21 N. Y., 552", "27 Wis. 152", "27 Wis., 152", "58 N. Y. 358", "58 N. Y., 358", "8 Blackf. 317", "8 Blackf., 317"]
+---
+
+# Maurer v. Bliss
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+The material consisted of three varieties of fire proof brick. One kind was to be used for partitions, another for ceilings between iron beams, and the third for ceilings between wooden beams.
+There is no dispute, either as to the price or quantity, of the first and second kinds furnished. The difference arises on the third kind, or those to be used between wooden beams.
+The sole contention is, as to what the contract between the parties, in reference to these bricks, really was. Plaintiff claims that the defendant gave an absolute order for 20,000 feet of brick, to be used between wooden beams, in the same way he did for the other ■ brick, and defendant denies that he gave the order absolutely; but claims that the agreement was, that the plaintiff should manufacture some for experimental purposes, and that he should try them, and then use them, if he found the experiment successful; but that he was not bound to take any specific quantity, if the experiment did not succeed.
+This presented a pure question of fact, to be determined on the evidence presented. The learned judge, having all the witnesses before him, had a better opportunity to determine what weight should be attached to the evidence of each, and what inferences should be drawn from their testimony, based on their character and manner of giving evidence, as observed by him, than we can possibly have. On all the testimony, he came to the conclusion that plaintiff’s version of the agreement was correct.
+We have examined the -testimony with care and find it very conflicting, but there is undoubtedly abundant evidence to support the findings; indeed, we think the weight of evidence is with the plaintiff. Having arrived at this conclusion, we do not think it necessary to give our reasons at length, as we would, if we felt constrained to reverse the judgment.
+But defendant claims there was an implied warranty by the plaintiff, that the brick should be reasonably fit to use, between wooden beams; that the implied warranty was broken, and that the plaintiff cannot recover for the fire bricks'delivered for such purpose.
+When a manufacturer agrees to make a thing for a particular known, purpose, there, is an implied- warranty that it shall be reasonably fit for that purpose. Benjamin on Sales, 657; Gautier v. Douglass Mfg. Co., 13 Hun, 514; Gurney et al. v. At. and G. W. R. Co., 58 N. Y., 358; Jones v. Just, L. R., 3 Q. B., 197.
+That is, it must be free from defects produced by the manufacturing process itself. Hoe v. Sanborn, 21 N. Y., 552. And free from latent defects, not visible to the vendee. Leopold v. Van Kirk, 27 Wis., 152; Brenton v. Davis, 8 Blackf., 317-318; Kellogg Bridge Co. v. Hamilton, 110 U. S., 108. Where the law on this subject is carefully reviewed.. But when a well known article is to be manufactured for experimental purposes, we think that the-utmost that can be claimed is, that it shall be reasonably good of its kind.
+At time of making the agreement to manufacture the-brick in question, none had ever been used between wooden beams, so far as the parties knew; but bricks for use between iron beams had been manufactured before that time, and their shape, quality, etc., were well known.
+The defendant determined to try the experiment of using similar brick between wooden beams, and the learned judge has found that he ordered .unconditionally 20,000 feet of fire brick for that purpose. Under such an agreement, all that the manufacturer could be required to furnish was reasonably good fire bricks; that is, bricks made of proper material, properly manufactured with proper flanges, and reasonably uniform in shape and size, and free from latent-defects and defects in manufacture.
+The defendant does not contend that the bricks delivered; were not reasonably good in any of these respects, but-that there were latent defects which he could not discover on inspection; but that the experiment failed because plaintiff did not supply with the bricks a sufficient variety of keys, of different sizes. Different sized keys were rendered necessary by the varying sizes of the beams and the spaces; between them.
+Defendant furnished plaintiff with the plans; he took measurements for the bricks, and made and furnished at least five different sizes of keys, presumably enough to fit between the beams had they been uniformly laid.
+Defendant testified that he laid the beams at as uniform a distance from centre to centre as possible, but admitted that the beams were not uniform in depth and thickness, and that the spaces between them varied from one to two-inches.
+It also appeared from the evidence that in order to lay the brick properly between these beams, it was necessary to nail a strip of wood to the beam at a uniform distance, and that defendant should have had this strip beveled, and was so informed by plaintiff’s agent. Over these conditions the plaintiff had no control, but the defendant had.
+The want of uniformity in the thickness of the beams, the varying spaces’between them, and defendant’s omission to bevel the wooden strips, were the chief causes of the failure of the experiment;-and involved so much labor in adjusting the brick that the cost became too great to admit of their use for the purpose intended.
+Defendant did not notify the plaintiff that a greater variety in the sizes of the keys was needed, nor did he request him to furnish them, as he should have done, under this state of facts. We think the plaintiff had a right to assume that the beams would be of uniform thickness, and laid with the same uniformity that iron beams were, and that he was not required to furnish a greater variety of keys until requested to do so.
+Under the circumstances, to relieve the defendant from paying the agreed price of the bricks furnished, we would have to hold, not only that the plaintiff warranted their quality, but also the success of the experiment; which would be unreasonable.
+As stated at the outset, this proceeding is brought to foreclose a mechanic’s lien. The lien is acquired by filing the notice prescribed by sec. 4, of the Mechanics’ Lien Law (chap. 342, Laws of 1885), and dates from the filing of the notice.. This must contain “the nature and amount of * * * the material furnished,” if tlie lien is for material.
+Under a similar provision of the former law, this court has held that such a notice cannot be amended. Conklin v. Wood, 3 E. D. Smith, 662.
+Also that the amount must be stated, and judgment cannot be rendered for more than the amount claimed. Protection Union v. Nixon, 1 E. D. Smith, 671; Lutz v. Ely, 3 id., 621.
+The notice filed in this proceeding states the amount claimed to be $2,024.75, so did the bill of particulars, and the complaint also demanded judgment for that sum.
+Through some oversight or error in the calculation, the judgment rendered was for $2,248.25, or $223.50 more than the amount stated in the lien.
+Even if we had the power to amend the notice and the pleadings, we have looked in vain for evidence to support this excess over the amount claimed in the lien. .
+The judgment must, therefore, be reduced by $223.50 as of the date of its entry, together with any interest that may have been computed on that sum; and as thus reduced, should be affirmed without costs of this appeal to either party as against the other.
+Larremore, C. J., concurs.
+
+## Dissent (Daly, J.)
+
+Daly, J.
+(dissenting)—The plaintiff, among other claims, sued for fire-brick or fire-proof material furnished to defendant Bliss to be used between wooden beams in a certain structure which defendant was building.
+The use of- fire-brick between wooden beams was a new use of such material and was experimental. The main question of fact was, whether defendant ordered outright a certain quantity, viz., 20,000 brick from plaintiff, which he was to pay for whether he could use it or not, or only agreed to give the material a trial and to pay for what was actually used.
+There was a conflict of evidence on this point between the defendant Bliss on the one part and two witnesses for plaintiff on the other part. It was conceded by plaintiff’s witnesses, that the brick was ordered for the purpose of making a trial of its adaptability to the novel use contemplated, but plaintiff’s claim is that defendant was to take and pay for all that was furnished by plaintiff within the figure above stated.
+Corroboration is sought in two memoranda of quantities made by plaintiff’s son and shown to defendant at the time of the alleged agreement. One memoiandum shows 20,000 feet for wooden beams, 8,000 feet for arches and 10,000 feet for partition. The other memorandum shows “about” 8.000 feet floors, about 50,000 .feet wood floors and about 45.000 feet partitiops.
+As no such quantities "were actually furnished, it would seem that their figures were mere estimates and that the papers (unsigned by defendant) ought not to be regarded as strengthening the plaintiff’s evidence of an order; and considering the case as resting upon the memory or the creditability of witnesses and as to be determined by the probabilities, it seems to me that the plaintiff’s claim is not proved.
+The defendant Bliss knew nothing of the proposed new use of the material and consented to try it upon the solicitation of the plaintiff’s agents, who were confident of success. It is hardly likely that defendant, under, such circumstances, would assume all the risk, expense and burden of the experiment. i
+There is another view of the case which, however, requires a judgment for defendant. The brick or fire-proof material furnished by plaintiff was to be. suitable for use between wooden beams and the brick he delivered was not suitable because an assortment of keys of sizes required for the distances between beams was not furnished.
+The plaintiff’s agents undertook to see to this for they got the plans of the building from defendant and made the measurements. While plaintiff cannot be held to have
+fuaranteed the success of the experiment of laying the rick with wooden beams, he was at least bound to furnish brick with keys of the required weight and size to make a fair experiment. This he did not do. The defendant’s masons and his expert were positive on this point and the evidence to contradict it did not squarely meet that issue.
+It appears that in order to lay the brick properly between wooden beams, it is necessary to nail a strip of wood to the beam; and plaintiff contended that defendant should have had such strip beveled, and was informed of the fact, but failed to do it, hence the failure of the experiment. But it appears, from the testimony of plaintiff’s witness, Weidner, that, even with the proper strip, keys of the right size are still indispensable.
+The judgment should be modified by disallowing the claim for fire brick not actually used by the defendant Bliss; also for the amount of the judgment which is in excess of the lien claimed. If plaintiff consents to such modification, judgment for the residue should be affirmed without costs. If plaintiff does not consent, then judgment should be reversed without costs and a new trial ordered.
