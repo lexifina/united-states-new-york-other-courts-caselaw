@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1894-06-15"
+citations: ["9 N.Y. Crim. 266", "61 St. Rep. 348", "79 Hun, 415"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. HENRY J. LUHRS."]
+source_url: "https://static.case.law/ny-crim/9/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1171607
+cites_cases: ["142 N. Y. 130", "18 Wall. 163"]
+---
+
+# People v. Luhrs
+
+## Majority (CULLEN, J.)
+
+CULLEN, J.
+The defendant was tried in a court of special sessions, charged with selling liquor without a license. The trial commenced on Saturday, and was continued into Sunday morning, when the jury was charged, the defendant convicted, and sentenced. For this error of holding the trial on Sunday the court of •sessions reversed the conviction and judgment, and ordered a new trial in that court. From so much of the judgment as directs a new trial in the court of sessions, this appeal is taken.
+"\Ye think there can be no doubt that, when a new trial is ordered on appeal from a court of special sessions, trial, under the Code of Criminal Procedure, is to be had in the court of sessions of the county. Section 768 of the Code, referring to appeals from courts of special sessions, provides: “If a new trial be ordered, it must be had in the court of sessions, in the same manner as upon an issue of fact upon an indictment.” As indictments are not triable in courts of special sessions, it is manifest that the court mentioned in the section is the court of sessions of the county.
+The plaintiff contends “that, the judgment being void, the justice lost jurisdiction of the action, and no appellate court can restore it to life.” It may be that the judgment was so void that it could be attacked collaterally, but it was none the less an erroneous judgment. “A judgment may be erroneous, and not void, and it may be erroneous because it is void.” Ex parte Lange, 18 Wall. 163. Conceding, for the argument, that the defendant might have been discharged on habeas corpus, he was not precluded from seeking relief by appeal. This mode he adopted, and, having taken it, he must abide the practice prescribed by the Code on appeal.
+The point that by the trial on Sunday the justice lost jurisdiction of the charge, and the defendant obtained immunity for his offense, is without any foundation. In People v. Connor, 142 N. Y. 130; 58 St. Rep. 631, the defendant was tried on an indictment in the court of sessions, and convicted. It appeared that one of the justices of that court was related to the defendant within the statutory degree. Thereupon, the prior conviction was set aside, and upon the new trial the defendant was again convicted. On appeal it was held that, the first trial being a nullity, the defendant was properly again placed on trial. The judgment of the court of sessions, appealed from, should be affirmed.
