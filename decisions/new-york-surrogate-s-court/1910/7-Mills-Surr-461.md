@@ -1,0 +1,28 @@
+---
+court: "New York Surrogate's Court"
+decided: "1910-03"
+citations: ["7 Mills Surr. 461"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement of the Account of Luke D. (Stapleton, as Executor of the Last Will and Testament of Johanna Blohm, Late of Kings County, Deceased."]
+source_url: "https://static.case.law/mills-surr/7/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1075956
+---
+
+# In re the Judicial Settlement of the Account of Luke D.
+
+## Majority (Ketcham, S.)
+
+Ketcham, S.
+The will under which the trustee accounts contained, in the seventh paragraph of the will, a devise in trust, among other things, to pay one-third of the rents, issues and. profits to the son of testatrix, 'Robert T. Blohm, during his lifetime, for his support and maintenance.
+An earlier provision in the will was as follows:
+“ Fourth. I give and bequeath one-third (1-3.) of all my cash, bonds and mortgages, less the sum of three thousand dollars ($3,000), which sum of three thousand dollars ($3,000) I charge him, Robert T. Blohm, in full satisfaction for all moneys at any time advanced to him by my husband or myself, to the Nassau Trust iCompany of Brooklyn, in trust, nevertheless, for the following purposes:
+“ To invest and reinvest the same in bonds to be secured by first mortgages on ¡New York city real estate, to collect the interest thereon, and to pay all of said interest, less its commissions, to my son, Robert T. Blohm, semi-annually, for his support and maintenance during the term of his natural life. * * *”
+The testatrix left no bonds and mortgages, and no cash, except a sum which was less than the amount of her debts.
+She intended that her gift to her son, in the fourth paragraph, should be, not one-third of her cash, bonds and mortgages, but one-third of her cash, bonds and. mortgages, less the sum of $3,000.
+This cannot be regarded as the basis for a finding that the son was in fact indebted to her in the sum of $3,000, or any sum. A testator cannot create an indebtedness to himself by saying that one exists, nor is it within the province of construction to decree that a person is the debtor of the estate, whatever may be the assertion of the will on the subject.
+Henee, notwithstanding the description or qualification which' may be annexed by the testator to a sum used by him as a means of ascertaining the amount of his proposed bounty, the sum so used can only be an arbitrary measure of amount. It has no more value in the will than if it were mentioned as a sum of money simply, And if the only office of the words relative to this $3,000 was to ascertain the quantum of the gift of cash, bonds and mortgages, it follows that its mere mention for that purpose alone cannot affect or reduce the later' provision in favor of the same beneficiary.
+The failure of the gift of a portion of the cash, bonds and; mortgages affords no reason why Robert T. Blohm should not have the full benefit of the trust in his behalf contained in the seventh paragraph of the will, and the pending account should be settled accordingly.
+¡Decreed accordingly.
