@@ -1,0 +1,44 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-12-31"
+citations: ["42 N.Y. St. Rep. 815"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Petition of Mary E. Field et al., Resp’ts, v. Leo C. Dessar, Purchaser, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/42/cases/0815-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2071226
+cites_cases: ["19 N. Y., 445", "58 N. Y., 250", "70 N. Y., 136"]
+---
+
+# Field v. Dessar
+
+## Majority (Ingraham, J. Van Brunt, P. J. Daniels, J.)
+
+Ingraham, J.
+By the deed executed by John M. Bradhurst, ■certain real estate was conveyed to the petitioner, Mary Elizabeth Field, for life, with remainder over to her lawful issue, and to the children of such lawful issue as should have died, as tenants in common, with a contingent remainder over, in case there should be no lawful descendants of the petitioner surviving her, to the heirs .at law of said John M. Bradhurst
+The petitioner, Elizabeth Bradhurst Brancacio, is the only child of the petitioner, Mary Elizabeth Field, and there are no descendants of any deceased child living.
+The petitioner, Mary Elizabeth Field, has an estate for life in •the property mentioned; the petitioner, Elizabeth Bradhurst Brancacio, has a vested remainder thereunder, and the infant children of said Elizabeth Bradhurst Brancacio, and the heirs at law of John M. Bradhurst, have a contingent remainder therein.
+By chapter 276 of the Laws of 1890, the supreme court was authorized to entertain a petition for the sale of the premises in question and to appoint a referee to sell the same, and § 5 of the •said act provided that the title of any purchaser at any sale thereby authorized shall be valid in' fee simple as against all persons not in being at the time of the sale who shall at any time have or claim an interest in such property, and against all individuals, under the age of twenty-one years duly represented by guardian _ ad litem in the proceedings thereby authorized and against all persons who shall join or acquiesce in such proceedings.
+The act contains provision for giving notice to all parties interested in the real estate and for the appointment of guardian ad' litem of those who are infants.
+Under the provisions of this act the petition of Mary Elizabeth Field, the life tenant, and Elizabeth Bradhurst Brancacio, in whom was vested the remainder, praying that the property be sold, was presented to the court All of the adults who were heirs at law of John M. Bradhurst appeared in the proceeding and all of the-infants who had any interest in this property were brought before-the court and duly represented by their guardians ad litem.
+Upon the return of the order to show cause why the prayer of the petition should not be granted all- parties appeared and the order recited such appearances and that there was no opposition to the application, and thereupon an order of reference was granted to take proof of the facts as required by the statute.
+Proceedings were had before the referee who reported in favor of a sale of the premises and that report was duly confirmed, all of the parties interested appearing either by their attorney or by guardian ad litem and joining in the motion to confirm such referee’s-report and ordering a sale of the premises in question.
+In pursuance of the order the property was sold by the referee, the appellant purchasing a portion thereof, and he refused to take title, specifying several objections to the validity of the title which would be acquired under the referee’s deed.
+The first and most serious question presented is as to the constitutionality of the act of the legislature under which this proceeding was instituted.
+In the case of Brevoort v. Grace, 58 N. Y., 250, the question as to the power of the legislature to direct the sale of real estate vested in infants was before the court of appeals, and the limitation of the power of the legislature was determined.
+It was there held that the legislature may by special act authorize the sale of lands of those not capable of acting for themselves, and also the contingent right of those not in esse, but the legislature had no power by special act to authorize the sale of the interest of parties who have attained their majority and are competent to act for themselves in any real estate and convert the same into personalty and provide for the investment and management, of the proceeds without their consent.
+It was also held that in a proceeding for such sale any adult interested in the property would be bound by a sale under the provisions of such a statute and his title would pass under the deed of the referee when he united in the petition for such sale, and his consent was therefore essential to proceedings under which the sale was made.
+Applying the principle here established, it is clear I think that the act is constitutional and valid. It provides for a sale of the interests of the infants who have a contingent remainder in the property and also for the interests of persons not in esse. It also provides that the conveyance by the referee shall pass the title of all persons who shall join or acquiesce in the proceedings for the sale.
+The act does not \attempt to dispose of the interests of any adult person except ijhose who join in the proceedings or acquiesce therein. I
+The next question/ is whether the proceeding has been had in conformity with the provisions of the act and whether all of the adult persons interested in the property have acquiesced in the proceeding.
+The record shows such acquiescence. All of the adult persons who have any interest in the property have regularly appeared in the proceedings by attorney and served notice of such appearance upon the petitioner. They have also appeared in open court, made no opposition to the first motion, and expressly joined in the motion for the sale of the property, and on the motion to compel the purchaser to complete his purchase they again appeared in open court by their attorney and joined with the petitioner in the motion.
+Such an appearance is certainly sufficient to give the court-jurisdiction over them, and their joining in the motion for the sale of the property by the referee and in this motion to compel the purchaser to complete was an acquiescence in such proceedings.
+The other question, as to the regularity of the order to show cause and the service upon the infants, is very satisfactorily disposed of by the opinion of Mr. Justice Barrett in the court below. We have nothing to add to what he said upon that point.
+We think the order therefore should be affirmed, with ten dollars costs and disbursements.
+Van Brunt, P. J.
+I do not see how there can be any question about the constitutionality of the legislation in question. The-case of Leggett v. Hunter, 19 N. Y., 445, settled that question over thirty years ago. And that decision has never been infringed upon. Many titles depend upon the principles then announced and they should not be considered doubtful now. I therefore-concur.
+Daniels, J.
+The power of the legislature to provide by appropriate enactment for the sale of the interests of infants in real estate, seems to have become reasonably well settled. Leggett v. Hunter, 19 N. Y., 445; Brevoort v. Grace, 53 id., 245. And it will include the interests contingently provided for persons not in. being. Bat such an act cannot take the contingent interest of unborn persons, and donate it to others who are in being and who by the failure of the contingency may become the absolute owners of the property. The living persons may all die before the expiration of this life estate, and others may come into being who under the deed may be the owners of the proceeds of the sales made of this property. And that possible right should be pi-otected by such a construction of the act as will require the proceeds to be invested for the benefit of the unborn contingent owners, until the contingency shall be ended by the decease of the life tenant It could not have been the intention of the law to leave these remote rights unprovided for. In fact, that would exceed the legislative power. So far the rights of persons not in being are required to be observed and maintained. Brevoort v. Brevoort, 70 N. Y., 136; Monarque v. Monarque, 80 id., 320. And the act may be so construed as to intend that shall be done, ■otherwise it seems incapable of being sustained. That construction will require a modification of this order, directing the investment of so much of the proceeds of the sales as will provide this protection. And subject to that modification only, this order should be affirmed, without costs.
+Order affirmed, with ten dollars costs and disbursements.
