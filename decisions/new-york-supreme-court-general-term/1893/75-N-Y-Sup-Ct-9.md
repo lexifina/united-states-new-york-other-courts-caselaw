@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-03"
+citations: ["75 N.Y. Sup. Ct. 9"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Eollett, J., concurred."]
+parties: ["Charles H. Richardson, Respondent, v. Emil Hartmann, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/75/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2388058
+cites_cases: ["2 Misc. Rep. 130"]
+---
+
+# Richardson v. Hartmann
+
+## Majority (O’Brien, J.:)
+
+O’Brien, J.:
+The action was brought to recover damages by reason of the unlawful discharge of the plaintiff, who was employed by the defendant as his manager in the latter’s print works in New Jersey. The contract, which was in writing* provided for the receipt by plaintiff of forty per cent of the net profits of the business, which it was guaranteed should not be less than fifty dollars per week. The plaintiff entered into the defendant’s employ on May 1, 1890, and continued therein until August 16, 1890, receiving (there being no profits) fifty dollars a week, and it is admitted by the answer that on the latter date he was discharged.
+The questions thus presented were, as to whether or not the discharge was wrongful, and, if so, the amount of plaintiff’s damages.
+’With respect to the first question, upon the testimony, it was peculiarly one of fact, and so regarded by counsel for the defendant, who neither moved to dismiss the complaint nor asked for a direction in defendant’s favor, and upon the submission of the question to the jury, it was decided adversely to the defendant.
+Whether such verdict was or was not against the weight of evidence is not presented for review. It is true that at the end of the case a motion for a new trial was made, but no order denying such motion was entered, and the absence of such an order is not supplied by the motion itself or by a notice of appeal, which, by its terms, states that the appeal is taken, not only from the judgment, but from the order denying the motion for a new trial, whereas by the record it does not appear that any order upon such motion was ever entered. Therefore, the only questions are those presented on an appeal from the judgment, including exceptions to rulings upon the trial. ,
+In regard to the damages to which the plaintiff was entitled, the trial judge stated the rule as he regarded it, and no exception was taken thereto. But at the close of the charge, the defendant requested the submission of one proposition, namely, “ that by entering into business for himself the plaintiff abandoned the claim thenceforward on his contract.” The judge, in effect, refused to charge this proposition, by saying “ that he would not charge it, but would leave that to the jury ; ” and to this disposition of his request the defendant excepted.
+In determining what force is to be attached to this request, it is-to be remembered that the plaintiff testified that, having unsuccessfully endeavored to get employment with one or the other of the only three print works in this country, he thereafter went into two different kinds of business on his own account, in both of which he was unsuccessful, and that the only money he had succeeded in earning since his discharge was about $300, resulting from his employment as a salesman under a commission in some cloth house, where it would appear he was engaged just prior to and at the time of the trial.
+The question whether or not, by entering into business for himself, plaintiff abandoned the claim upon his contract is not a new one. It has been recently passed upon by the General Term of the Court of Common Pleas, in the case of Toplitz v. Ullman (N. Y. Law Jour. Dec. 20, 1892; 2 Misc. Rep. 130), and it was therein held that a person under contract of employment for a definite term, wrongfully discharged, who, after endeavoring unsuccessfully to procure other employment, embarks in business on his own account^ is entitled to have his damages measured by the amount of the agreed wages he was prevented from earning, less his share of the profits-in the business into which he had entered. We are satisfied with the reasoning of that case, and it would serve no useful purpose to go over the ground so carefully covered by that case, which is on all fours with the case at bar.
+As there are no other exceptions, it follows that the judgment appealed from should be affirmed, with costs.
+Yan Brunt, P. J., and Eollett, J., concurred.
+Judgment affirmed, with costs.
