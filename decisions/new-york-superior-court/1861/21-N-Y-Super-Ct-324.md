@@ -1,0 +1,31 @@
+---
+court: "New York Superior Court"
+decided: "1861-06-22"
+citations: ["8 Bosw. 324", "21 N.Y. Super. Ct. 324"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Before Hoffman and Woodruff, J. J.)"]
+parties: ["Martin W. Brown et al., Plaintiffs, v. George W. Platt et al., Defendants."]
+source_url: "https://static.case.law/ny-super-ct/21/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1320494
+cites_cases: ["10 Wend., 75", "13 Barb., 380", "14 Johns., 458", "17 Johns., 438", "17 N. Y., 202", "17 Wend., 492", "20 Barb., 616", "4 Den., 217", "6 Barb., 98", "6 Duer, 504", "6 Hill, 438"]
+---
+
+# Brown v. Platt
+
+## Majority (By the Court—Woodruff, J.)
+
+By the Court—Woodruff, J.
+The goods, for the taking and conversion whereof this action is brought, were mortgaged to the plaintiffs by a mortgage duly executed, acknowledged and recorded in Iowa, where the property was situated at the time the mortgage was made. The mortgage to the plaintiffs was, by the terms of the other mortgages, severally, made a first mortgage, the others being in terms declared to be subject thereto. Although the correspondence between the mortgagor, (Gleason,) and the defendants would indicate that the mortgagor represented and, probably, believed the mortgages to stand upon an equal footing, the terms of the mortgages forbid * such a construction. This, however, does not seem very material to the decision of the present case, for, if the plaintiffs’ title as mortgagees was valid, the defendants had no right to take the goods from them.
+The objection that the mortgages were not delivered, we think fails. They were delivered, not to the defendants personally, but to an attorney who undertook to receive such delivery for them. Although such attorney had no previous authority to act for the plaintiffs, still the act was for their benefit and they had a right to assent thereto, And the subsequent delivery of the mortgaged property, or so much, at least, thereof as is in question in this suit, removes any doubt or difficulty in respect to the question of delivery so far as the plaintiffs are concerned. If, as now insisted, the defendants did not accept the mortgage made to them, that would not impair the mortgage to the plaintiffs.
+It is, however, insisted that the mortgage to the plaintiffs, (as well as the others,) was void because it contained an illegal reservation of the right, not only to remain in possession of the goods until default in the payments secured by the mortgage, but the right to sell the goods as part of the mortgagor’s stock in trade. If this be the true construction of the mortgage, then, according to the decisions in this State, the mortgage, if given here upon property in this State, was void as against creditors. (Edgell v. Hart, 9 N. Y. R., 216 ; Gardner v. McEwen, 19 N. Y. R., 126 ; Williston v. Jones, 6 Duer, 504 ; Marston v. Vultee, 12 Abb. Pr. R., 143.) The language of the mortgage is not altogether consistent with itself. After describing the goods on hand which are mortgaged, it adds, “ and also all the goods that may hereafter be added, from time to time, to said stock by the party of the first part to take the place of such goods as may be sold from said stock.” But a subsequent clause in the mortgage expressly provides that, “if the party of the first part * * attempt to sell, assign or remove said property out of his posses- - sion,” the mortgagee is “ authorized to take immediate possession of the above described goods and chattels, or any part thereof, and sell the same” to satisfy the mortgage debt.
+The debtor, however, appears by his letter to the defendants to have contemplated the continuance of business, and expected to deal with the mortgaged property.
+Without discussing the question whether this mortgage was void by our law, or whether it must be presumed, in the absence of proof on this point, that by the laws of Iowa it was also void, we think the defendants cannot rely upon any such objection on this appeal. No such claim was made on the trial—no such objection to the validity of the plaintiffs’ mortgage was suggested. The plaintiffs may have had it in their power to show the objection to be groundless.
+But what we regard as rendering it clearly unavailable, is that before any creditor questioned the validity of the mortgage, the goods in question were delivered into the actual possession of the plaintiffs upon terms securing to them the custody and the right of disposition, freed from any feature of the kind alluded to, and authorizing them to appropriate, the proceeds first to the payment of their own debt.
+Now whether the plaintiffs could or could not originally have enforced their mortgage, this delivery of the goods entitled the plaintiffs to receive and dispose thereof and appropriate the proceeds in satisfaction of their own debt, and if there was a surplus, to hold it for the benefit of the other mortgagees.
+The mortgagor, by his letter advising the plaintiffs of the forwarding of the goods, and by his actual sending of them to the plaintiffs, not only waived the possession thereof, but in very terms waived the period of credit mentioned in the mortgage, and authorized the immediate sale of the property.
+It is true that the letter states that Mr. Vincent (one of the creditors secured by mortgage) advised the distribution of the goods among all the creditors, and that he (Vincent) thought that all would accept such dividend and release the debtor; but the delivery was not charged with any such condition. He could not impose such a condition and did not attempt it. He of course was content and even desirous that this should he done, hut such an arrangement would require the assent of the plaintiffs themselves, as well as of the defendants and others; aud he therefore adds that if the suggestions of Mr. Vincent could not be made to work satisfactorily, then the plaintiffs would dispose of the goods; and this we think they had a right to do.
+We do not perceive that this is in conflict with any of the principles which are involved in the authorities to which our attention is called.
+The plaintiffs should have judgment upon the verdict.
