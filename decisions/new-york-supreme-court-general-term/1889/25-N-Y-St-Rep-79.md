@@ -1,0 +1,38 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-07-06"
+citations: ["25 N.Y. St. Rep. 79", "6 N.Y.S. 589"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John W. Matthews, Resp’t, v. Zae L. Matthews, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/25/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657533
+cites_cases: ["23 Hun, 230", "23 Hun., 230", "25 Wend. 651", "25 Wend., 651", "30 Hun, 154", "30 Hun., 154", "31 Hun, 140", "43 N. Y. 508", "43 N. Y., 508", "66 N. Y. 374", "67 Barb. 9", "67 Barb., 9"]
+---
+
+# Matthews v. Matthews
+
+## Majority (Learned, P. J.)
+
+Learned, P. J.
+This is an action for divorce on the ground of adultery.
+The answer denies the adultery of defendant and avers adultery of plaintiff; also denies that plaintiff has not voluntarily cohabited with defendant since the discovery. A supplemental answer sets up that the plaintiff has condoned the alleged adultery. Another supplemental answer sets up another instance of adultery on plaintiff’s part. The allegations of the answers are denied in replies.
+On the stipulation of the parties, an order was made appointing a referee, “with power to take the testimony and report the same, with his findings of fact, to the court.” Testimony was taken before him, and he reported that the defendant did not commit adultery as alleged.
+.The special term set aside the report and sent the case back to the referee, with orders to him to take further testimony. No further testimony was given by plaintiff.
+Thereupon the referee made another report that the defendant did commit adultery as alleged; .that the plaintiff did not commit adultery as. alleged in the several answers, and had not condoned the offense, and that plaintiff should ■ have judgment.
+The special term confirmed the report and granted judgment.
+The evils of the practice followed in this case is apparent from the fact that by his first report the referee found that the defendant had not committed the alleged adultery, and by his second report, without any further evidence, on plaintiff’s behalf, he found that sh¿ had. The additional evidence on the second hearing related only to plaintiff’s alleged adultery. So that we have the same referee' coming to a different conclusion, on the same question, and upon the same proof. A practice which permits this is not to be sanctioned.
+Under the decision of McCleary v. McCleary (30 Hun., 154), we must hold that the first order of reference, though ■badly expressed, was in fact a reference to hear and determine. It was not a mere taking of testimony by consent out of court to be used on. a trial. For the referee was to report his findings of fact. That gave him the power to-try the questions of fact made by the issues.
+By section 1229, judgment cannot be entered on the report, of course; but the report and the testimony must be-presented to the court, and judgment can be granted only by the court. The court cannot set aside the report and grant a judgment in favor of the party against whom the referee has reported. Schroeter v. Schroeter, 23 Hun., 230.
+In Ross v. Ross (31 Hun, 140), it is shown that after a trial by a referee in a divorce action there is no power in the court to direct the referee to take further proof and then review his decision and make a new report.
+We are not willing to hold that the court may not, on the ground of insufficient proof, refuse a judgment of divorce, when the referee has decided that it should be-granted. Because we suppose that the power given by section 1229 is for the protection of the public; and, therefore, that the court may say: the adultery is not proved, even though the court cannot discover actual collusion.
+If the unsuccessful party can have a case sent back for further testimony and findings, much injustice may be done, by preparing evidence to meet the emergency. It is. important that, when the parties have rested and the tribunal has decided, the decision should stand.
+It is not clear on whose motion the cause was thus sent back. The defendant had succeeded. And yet if the plaintiff wanted a futher hearing, he at least offered no further testimony. So that he must have relied on convincing the referee that he had come to an erroneous conclusion on the first hearing. If there had been no errors on the trial we might be obliged to reverse the judgment and give judgment for the defendant on the first report, unless (as stated in the points) the report was sent back by consent.
+But on the hearing before the referee, John Newton, the person with-whom the alleged adultery of defendant was committed, was examined as a witness for plaintiff. He testified to the adultery. He was partly cross-examined by defendant, and then his cross-examination was suspended on an agreement between the parties and the witness, that when again called by defendant for cross-examination he would be present. He was afterwards recalled by defendant for further cross-examination and failed to appéar, and it was shown that he had left the state. The defendant then moved to strike out the evidence of Newton for his failure to appear and to be cross-examined. The motion was denied and defendant excepted. This was error. People v. Cole, 43 N. Y., 508; Rutherford v. Holmes, 66 id., 368; Kissam v. Forrest, 25 Wend., 651; Price v. Wilson, 67 Barb., 9.
+The testimony of this witness was of such importance that this error cannot be overlooked. The testimony of the defendant denying the alleged adultery was excluded. This may have been correct under the laws as then existing. But we refer to section 831 as now amended.
+The notice of appeal states that it is intended to bring up also an order refusing to punish plaintiff for non-payment of alimony.
+We find no such order, although the subject is mentioned in the opinion of the learned justice.
+The judgment is reversed, referee discharged, new trial ordered, costs to abide event. The defendant to be at liberty to take such action as she may be advised in respect to compelling the payment of alimony.
+Landon and Ingalls, JJ., concur.
