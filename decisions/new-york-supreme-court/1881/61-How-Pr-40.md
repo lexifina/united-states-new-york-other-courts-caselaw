@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1881-05"
+citations: ["61 How. Pr. 40"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Neugent agt. Amos L. Swan et al. James Young agt. Wm. W. Campbell and others."]
+source_url: "https://static.case.law/how-pr/61/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4534557
+cites_cases: ["1 Duer, 664", "15 Hun, 305", "18 N. Y., 465", "4 Bosw., 655", "71 N. Y., 106", "76 N. Y., 600"]
+---
+
+# Neugent v. Swan
+
+## Majority (Martin, J.)
+
+Martin, J.
+This is a motion for a reference to determine the damages sustained by the defendants by reason of an injunction granted in this action. The temporary injunction granted herein was dissolved upon motion, and this action was subsequently discontinued under the following circumstances: The defendants asked leave to interpose a supplemental answer setting up the fact that the tax, the collection of which the plaintiff, by this action, sought to restrain, had been actually collected by the defendants after the commencement of the action and after such injunction was dissolved. The court gave the defendants leave to interpose such supplemental answer but upon the express condition that the plaintiff should also have leave to discontinue the action, without costs, if such supplemental answer should be served. It was served, and the plaintiff availed himself of the condition so imposed by discontinuing the action.
+The question presented by this motion then is, has there been, in this case, such a final decision by the court that the plaintiff was not entitled to such injunction as to constitute a breach of the undertaking given upon the granting of such injunction ? I do not think that the order dissolving such injunction can be regarded as a final determination that the plaintiff was not entitled to such injunction. “An order made pending a suit dissolving a temporary injunction by no means determines that the party in whose favor it has been granted may not be entitled to that relief at the final decision of the cause. It may be dissolved for irregularity, or because the case is badly stated in the complaint, or upon the answer of the defendant and affidavits, and yet at the final hearing it may be decided that the defendant ought to be enjoined” (Methodist Churches of New York agt. Barker, 18 N. Y., 465).
+Nor do I think that there has been any such voluntary abandonment of this case by the plaintiff as to render the decision of such motion a final decision that the plaintiff was not entitled to such injunction. This case is unlike the cases of Carpenter agt. Wright (4 Bosw., 655) and Coats agt. Coats (1 Duer, 664), cited and relied upon by the defendants. In those cases the actions were abandoned by the plaintiffs presumably in consequence of decision of the court dissolving the temporary injunction therein. But here' the defendants were allowed by the court to change the original issue in the action by alleging a fact occurring after the injunction was dissolved by inserting an .allegation which, in effect, not only changed the plaintiff’s right to the relief demanded by him but it also rendered such relief practically of no value. As a condition to allowing the defendants to make this sweeping change in the issue the court gave the plaintiff the right to discontinue, without costs, which he did. Here was a new condition of things which had arisen since the granting of such injunction and since its dissolution, and it was in view of this new condition of the case that the plaintiff was allowed to discontinue such action, without costs.
+I am of the opinion that the defendants having availed . themselves of the provisions of the order allowing supplemental answer, they must he deemed to have accepted and assented to the conditions upon which it was granted, and consequently must be regarded as having consented that the plaintiff might discontinue such action without costs upon the service of such supplemental answer. The facts of this case would not, I think, justify me in holding that there had been a final adjudication by the court, or what was equivalent to a final adjudication that the plaintiff was not entitled to the injunction order granted him when granted (Palmer agt. Foley, 71 N. Y., 106 ; Benedict agt. Benedict, 15 Hun, 305; affirmed, 76 N. Y., 600). Therefore this motion must be denied, but without costs to either party.
+In the case of Young agt. Campbell, a similar motion was made at the same time. The discontinuance or dismissal of the complaint therein was in fact a discontinuance by the consent of the parties, and was, I think, within the principle of the decision in the Neugent case ; and the motion in this case should also be denied without costs to either party.
