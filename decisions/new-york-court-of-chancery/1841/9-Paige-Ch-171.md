@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1841-04-20"
+citations: ["9 Paige Ch. 171"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hamilton vs. The New-York and Harlem Rail Road Company."]
+source_url: "https://static.case.law/paige-ch/9/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1893900
+---
+
+# Hamilton v. New-York & Harlem Rail Road
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+From the affidavits it is evident that the rail road cannot materially interfere with the use of the street for the ordinary purpose of passing with carts and carriages. It is insisted, however, on the part of the complainants that the time for completing the road expired in March, 1839, and that the defendants had no right to lay down these rails in Broome street after that time.
+The orignal act of April, 1831, authorized the construction of a rail road from the north bounds of 23d street to the Harlem river, and required the road to be located within six months and to be completed within four years from the passing of the act, or that the grant should cease and become void. The time for completing the road was subsequently extended, by two acts of the legislature, until the 6th of March, 1839. I am satisfied, however, that the restriction upon the company by the original act as to the time of completing their road, which time was extended by these subsequent acts, only applied to the road as originally authorized j. and if the road was completed to that extent previous to the 6th of March, 1839, that it may be extended into the city from time to time, as permission from the corporation can he obtained, at any period during the continuance of the charter. The object of the original restriction was to ensure the making of the road to the prescribed extent within a reasonable time, or that the franchise should revert to the people. But the act of 1832, authorizing the extension of the road to 14th street, and through such other streets of the city as the corporation should from time to time permit, subject to such prudential rules as might be prescribed by the corporation In addition to those directed by the act itself, appears to have contemplated the extension of the road from time to time, as and when the corporation should give the permission ; leaving it to that body té regulate the time when the extension should commence and be completed in any particular street south of Fourteenth, without reference to the time allowed for completing the original road. The corporation, therefore, was not only authorized to allow the road to be extended through Broome street to the City Hall subsequent to March, 1839, but they may authorize a further extension to the Battery if they shall deem it for the interest of the city to have it thus extended; provided it does not materially interrupt the ordinary use of the streets through which it is allowed to pass.
+The affidavits show that the manner in which the road is constructed in Broome street is a substantial compliance with the last clause of the 10th section of the act of 1831 \ as there is sufficient space on each side of the track for the passage of carriages and for the usual side walk for foot passengers. Indeed the construction of the road with the groove rail,laid upon a level with the surface of the pavement, leaves the whole street perfectly free for the passage of carts and carriages of every kind, for the whole width thereof, except at the moment when the rail road cars are passing upon the track in the centre of the street. If the construction of the road was such as to render it impossible or difficult for carriages to cross the track of the rail road from one side of the street to the other, then it would be proper that there should he room on each side of the track for carriages to pass each other between the track and the curb stone. But that is not necessary, as this road is constructed, for the rails do not prevent carriages from passing each other in the street with the same facility as if the track of the rail road was not there. Upon the whole, I am satisfied that the laying of the track of the rail road through Broome street, and the running of the cars upon the same, is not such a nuisance to the owners of property upon that street as will authorize this court to interfere by injunction.
+The motion is therefore denied with costs.
