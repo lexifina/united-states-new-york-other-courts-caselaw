@@ -1,0 +1,21 @@
+---
+court: "New York Surrogate's Court"
+decided: "1899-08"
+citations: ["1 Mills Surr. 244", "28 Misc. 650"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Probate of the Will of William Murphy, Deceased."]
+source_url: "https://static.case.law/mills-surr/1/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1064219
+cites_cases: ["111 N. Y. 250", "48 App. Div. 211", "75 N. Y. 100", "95 N. Y. 516"]
+---
+
+# In re the Probate of the Will of Murphy
+
+## Majority (Varnum, S.)
+
+Varnum, S.
+The testator, by a will dated July 11, 1897, and executed on that day, gave $500 for masses for the repose of his soul; $1,000 and all his furniture to his housekeeper, and the balance of his property, real and personal, to his “ friends John Kelly and Joseph Martin, to be divided equally between them,” and said Joseph Martin was appointed executor. There were three subscribing witnesses to the will, one of whom was a son of the beneficiary and executor, Joseph Martin. The will is contested by John Kelly, one of the beneficiaries above named, on the ground chiefly of undue influence, it being alleged in the objections that the beneficiary Martin was decedent’s lawyer, that no other person besides Martin took any part in the preparation or drawing of the will, and that the same was the result of fraud, circumvention and undue influence exercised by said Martin, who, contrary to the wishes and instructions of the testator, inserted his name as a legatee and procured the execution of the will by the testator, who was aged and infirm, and who was ignorant of its contents. I find as to the factum of the will that it was executed in due form of law. As to the question of undue influence, it resolves itself chiefly, if not entirely, to the point that the beneficiary Martin was the lawyer of the testator and the person who drew the will. The law views with peculiar suspicion transactions between a testator and - a person who occupies a confidential professional capacity. 75 N. Y. 100; 113 id. 470; 34 id. 167; 95 id. 516; 140 id. 249; 91 id. 539; 1 Redf. 238. But the fact that a principal legatee is the attorney to the testator does not create a presumption against the validity of a will or legacy. 95 N. Y. 516; 91 id. 539. Undue influence must be proved and not merely -assumed to exist. 111 N. Y. 250. The testator’s will was executed nineteen months before his death. The contestant Kelly was not a near relative of his, but merely a second cousin, who came to visit him about once a week. There is no satisfactory evidence to show that the will was not the free, untrammeled and independent expression of the wishes and intention of the testator. 95 N. Y. 516. I am, therefore, of opinion that it should be admitted to probate, and so direct.
+Probate decreed.
