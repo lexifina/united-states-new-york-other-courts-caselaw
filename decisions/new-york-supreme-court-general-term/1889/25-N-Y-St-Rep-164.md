@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-28"
+citations: ["25 N.Y. St. Rep. 164"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Proving the Last Will and Testament of Charlotte Bennett, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/25/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657939
+---
+
+# In re Proving the Last Will & Testament of Bennett
+
+## Majority (Dykmah, J.)
+
+Dykmah, J.
+This is an appeal from a decree of the surrogate of Westchester county, admitting to probate the last, will and testament of Charlotte Bennett, deceased.
+The deceased woman was about fifty-five years of age at the time of her death, and had been a widow about fifteen years. She was a woman of ordinary intelligence, and retained possession of her faculties down to a few days before her death. She died of a disease which affected her heart, liver and kidneys, and there was no decay of her mental faculties until a short time before she died.
+The circumstances under which the will was made are-entirely free from suspicion, and substantially preclude-the possibility of external influence from any quarter. The lawyer who drew the will was alone with the testatrix when he received her instructions to draw the same, and her directions respecting the disposition of her property, and he thereupon prepared the will in the same room, and then read it to her, and called his law partner into the room, and the will was executed, and they two became the subscribing witnesses thereto, and during all that time there was no-person in the room with the testatrix but the two lawyers.
+There is, therefore, no proof even of solicitation or importunity, and no circumstance to indicate any influence upon the testatrix, to induce her to make any particular disposition of her property. There is some indication in the testimony of a declaration by the testatrix of an intention to divide her property equally between her two sons, but without other proof that is insufficient to destroy a will. After proof of such a purpose, an unequal distributian of property, without other circumstances of suspicion to induce the same, may be attributed to a revolution of testamentary design.
+It may be unfortunate that the testatrix, who had but two sons, who must have been entirely equal to her and in her affections, and who were situated similarly in life, made such a disposition of her small estate as to create dissatisfaction, and, perhaps, enmity, between them, but courts are impotent to create wills, create equality, or make things even in the distribution of estates.
+All persons in the possession of testamentary capacity, and free from restraint and undue influence, are at liberty to make any disposition of their property by deed or will, and no other rule would be consistent with absolute ownership.
+Inequality and injustice often result from testamentary dispositions of property, but the courts can administer no remedy therefor.
+As, therefore, we have before us a case where the will has been executed in obedience to all the requirements of the law, by a testatrix free from restraint or undue influence, and in the possession of testamentary capacity, we cannot reject the will.
+The decree of the surrogate should be affirmed, with costs to be paid by the estate.
+All concur.
