@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-03-31"
+citations: ["7 N.Y. St. Rep. 456"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The National Park Bank of New York v. James D. Whitmore."]
+source_url: "https://static.case.law/ny-st-rep/7/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1987181
+cites_cases: ["2 Hun, 205", "8 Daly, 109"]
+---
+
+# National Park Bank of New York v. Whitmore
+
+## Majority (Lawrence, J.)
+
+Lawrence, J.
+The assignee was not a party to the action, but it is quite apparent that he was fully heard by counsel upon all the arguments, both at special term, general term and in the court of appeals upon the previous motion to vacate the attachment in this case.
+In Jay v. De Groot (2 Hun, 205), it was held that where the court allows any person to appear and be heard upon the argument of a motion, in the decision of which he is interested, such hearing is as effectual as though such person had received notice of the motion and had been named as a formal party to it, and he is fully concluded by the disposition which the court may make of such motion. In Schrauth v. The Dry Dock Savings Bank (8 Daly, 109), Chief Justice Daly says: “In Jay v. De Groot (2 Hun, 205) it was held that any person who is allowed by the court to appear and to be heard on the argument of a motion is as rally concluded by the disposition which the court makes of such motion as if he had been named a personal party to it and received notice of the motion.”
+These cases would seem to conclusively establish, that as the assignee was heard through counsel, he is as much bound by the decision at the previous general term of this court, that the attachment should stand, as the parties to the action, and that as to him it is res adjudicata that the plaintiff is entitled to an attachment. " It is, however, said that under section 682 of the Code of Civil Procedure the defendant, or a person who has acquired a lien upon or interest in his property after it was attached, is entitled at any time before the application of the attached property or the proceeds thereof to the payment of the judgment recovered in the action, to apply to vacate or modify the warrant of attachment.
+Section 683, however, prescribes that such application “maybe founded only upon the papers upon which the warrant was granted * * * or that it may be founded upon proof by affidavit on the part of the defendant * * * in which case the plaintiff may show any matter in avoidance thereof which he might show upon the trial.”
+We do not understand that under these two sections, if a defendant has elected to move upon affidavits and upon the merits to vacate an attachment, he can, after being-defeated upon such motion, turn around and allege that the affidavits on which the attachment was granted disclosed no ground for granting the same. Having made his election, he is hound by it, the court having jurisdiction of the person, and the subject matter. This case might, we think, well be disposed of upon these grounds, but it appears from the case that pending the appeal to the general term from the original order vacating the attachment, a stipulation was entered into between the parties by which it was recited, among other things, that the plaintiff having levied upon the defendant’s goods under the attachment prior to the assignment, and also having in a second action between the same parties obtained a judgment and issued an execution subsequent to the assignment, it was stipulated and agreed between the Park Bank and the assignee now maldng this motion, and by and between the parties to the action, that the goods and property now in possession of the sheriff under the aforesaid levies be released therefrom, and the sheriff be discharged from all custody and control thereof, and that upon the sale of the said goods, etc., the assignee deposit from tbe proceeds thereof, in the United States Trust Company, to the credit of the first above entitled action, the sum of $5,500, if such sum be realized upon said sale, which shall take the place of the goods and property now held by the said sheriff under said attachment, and be subject to all the rights that the National Park Bank may now have against the said goods and property, by virtue of said attachment, until the determination of the appeal in said action.
+Provision is further made for a deposit to the credit of the second action between the parties. And then it is provided that this stipulation shall not prejudice any of the existing rights of any of the parties thereto. That stipulation is signed by Whiting, assignee, and Stewart & Boardman, attorneys for assignee. We are of the opinion that that stipulation applied to the appeal and motion which was then before the general term of this court, and that the rights which were reserved at the end of the stipulation, referred to the rights of the parties in relation to that motion; and we are further of the opinion that the general term having sustained the attachment, and the court of appeals having dismissed the appeal from the order of the general term, the assignee is now estopped from "claiming that he has any further right to question the validity of the attachment.
+For these reasons, we are of the opinion that the order of the court below should be affirmed, with costs.
+Van Brunt, Ch. J., and Bartlett, J., concur.
