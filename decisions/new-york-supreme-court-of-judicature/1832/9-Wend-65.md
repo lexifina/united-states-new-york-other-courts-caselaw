@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1832-05"
+citations: ["9 Wend. 65"]
+reporter: "wend"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. & C. Dewey vs. Bordwell."]
+source_url: "https://static.case.law/wend/9/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2011099
+---
+
+# Dewey v. Bordwell
+
+## Majority (Nelson, J.)
+
+By the Court,
+Nelson, J.
+The evidence offered by the defendants to shew title in themselves to the locus in quo was properly excluded. To avail themselves of such defence,they should have put in a plea of title before the justice, in pursuance of the 9th section of the fifty dollar act, Laws of 1824, p. 283. That section provides that on the plea of title being put in before the justice, and the suit again commenced before the common pleas, “ the defendant shall plead only a justification by title,” and if the plaintiff shall recover any damages, the defendant is liable to double costs. To permit the defendants on the appeal in this case to set up title as a defence, would establish a precedent by which this provision might always be evaded. It would in this case also be an infringement of the spirit of that provision of the $50 act, p. 296, § 38, which requires the cause to be tried upon the same pleadings on the appeal upon which it was tried before the justice. The pleadings there, precluded the question of title from being set up by the defendants.
+The defendants offered to shew that they were, and had been for forty years, in possession of lot No. 62, and that the locus in quo was a part of it. This was obj ected to on the ground that the defendants could not give any evidence of title, and for that reason it was excluded by the court. In this the court erred ; the plaintiff shewed no actual possession of the land upon which the trespass was alleged to have been committed; he shewed a recovery in ejectment of lot No. 61, and a delivery of possession generally of that lot by the sheriff to his lessor, and that he took possession in pursuance thereof, and that the trespass was committed upon that lot. Now, it is clear, if the defendants had proved the trespass to have been committed on lot No. 62, they not LonIy shewed the plaintiff out of the possession of the locus in quo, but shewed the alleged trespass on premises of which the plaintiff never pretended to be in possession. The object and tendency of the testimony were not to prove the defendant’s title, but to disprove the plaintiff’s possession. This point may be stated stronger in the case than it appeared before the court below; but as it stands in the case, it cannot be sustained.
+But I am of opinion upon the merits that the plaintiff was not entitled to recover. The first survey of lot No. 61 was made early in the spring, before either party commenced his spring work. It does not distinctly appear that it was made at the instance of Mr. Lathrop, the agent of the plaintiff in the ejectment suit, but it does at least appear to have been made by the plaintiff in this suit. The division line was then run between these parties and a stake stuck to designate it. That line was recognized by the defendants as the true one, and they cultivated their land up to it, planting corn and potatoes ; the plaintiff did the same. In the fall, just before the corn was crept, a second survey is made by Mr. Lathrop ; the first is ascertained to be erroneous, and the line is moved south so as to include the premises and crops in question. This is not a question between the owner and the defendants, but between the occupant who has taken upon himself to fix and designate the line of division between him and them, and which they have acknowledged; and it does seem to me, as between these parties, it would be a violation of the plainest principles of justice and law to permit him to reap the crops of the defendants by means of his own errors. He, at least, should be estopped from disputing his own boundary to the injury of the rights and property of the defendants. I do not mean to be understood as saying that the mistake in running the first line may not be corrected, if there was one, but that by running the first line, and designating it as the division between the parties, the plaintiff thereby acknowledged the right of the defendants to cultivate up to it, and that conceding the right to correct the line, the crops put in under these circumstances belong to the defendants. To give them to the plaintiff would be allowing him to reap the advantage of his own mistakes, which would be a violation as well of law as justice.
+Judgment reversed, with single costs, and. venire de novo.
