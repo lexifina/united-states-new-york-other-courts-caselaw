@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-04-13"
+citations: ["44 N.Y. St. Rep. 467"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles Carter, Resp’t, v. Michael Stork, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/44/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2074677
+cites_cases: ["7 Johns., 179"]
+---
+
+# Carter v. Stork
+
+## Majority (Dwight, P. J.)
+
+Dwight, P. J.
+The action was brought by the plaintiff as assignee of the heirs of Catherine Meisch to recover moneys collected by the defendant as rents of premises of which Mrs. Meisch died seized. These rents accrued after the death of Mrs. Meisch, and were collected by the defendant under a power of attorney given to him by her husband, and were paid over to the husband after notice to the defendant that they belonged to and were-claimed by the heirs of Mrs. Meisch, who afterwards assigned their claim to the plaintiff. The husband in this case was not a tenant by the curtesy. These are substantially the facts found by the special county judge, a trial by jury being waived after the evidence was taken.
+After the death of his wife, Meisch retained possession and collected the rents of the premises apparently in the belief that he had succeeded to the title of his wife; and the defendant seems to have resisted the demand in behalf of the heirs of Mrs. Meisch under the same mistake of law. Of course no such claim is made for him here, but it is contended that he remained tenant by sufferance after the death of his wife, and that the notice requisite to terminate that tenancy had not been given. The contention is without foundation. Such was not the case at common law, although, during the joint lives, the husband was in effect seized of the estate in the right of his wife, was entitled to receive the rents, issues and profits absolutely, and might even mortgage, lease or sell the land'for the term of the joint lives. But when the wife died without issue by him born alive, the land descended to the heirs of the wife, and his interest terminated at once. Reeves’ Domestic Relations, 28.
+But under the married woman’s acts in this state, the husband, who is not a tenant by the curtesy, has no interest whatever in the land of his wife even during coverture, and at the death of the wife there is no tenancy to survive even for an hour. He 'does not remain a tenant by sufferance, because he was never a tenant at all. He has during her life only enjoyed her hospitality, and upon her death he has no more right than a stranger.
+The only question in this case which seems to have required examination was that of the liability of the agent, or attorney in fact, under the employment of the husband, to respond directly to the owners of the premises for rents collected by him under such employment, and paid over to his principal. This question was correctly answered adversely to the defense, on the authority of Hearsey v. Pruyn, 7 Johns., 179, and Colvin v. Holbrook, 2 Comst., 126. In the former of those cases Judge Spencer said : “ The law is, I believe, well settled that an action may be sustained against an agent who has received money to which the principal has no right if the agent has had notice not to pay it over.” And in Colvin v. Holbrook, the rule is clearly laid down by Judge Gardiner that where the principal has no authority to collect money, and of course can confer none upon his agent, the latter acts at his own peril when he pays over money to the former after notice of the facts.
+The findings of fact of the special county judge seem to bring 'this case fully within the rule thus established, and demonstrate the right of the plaintiff, as assignee of the persons entitled to receive the rents in question, to maintain this action against the defendant. The findings and decision of the county court dispose of the issues raised by the pleadings, and between the parties to this action; and do not, as we conceive, conflict with the decision made at this term in the case of the same plaintiff against Meisch.
+The judgment must be affirmed.
+Macomber and Lewis, JJ., concur.
