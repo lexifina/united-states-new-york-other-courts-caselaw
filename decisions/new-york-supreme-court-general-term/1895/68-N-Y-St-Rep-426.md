@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-06-14"
+citations: ["68 N.Y. St. Rep. 426"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Probate of the Will of Susanna McDougall, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/68/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2116006
+cites_cases: ["110 N. Y. 611", "16 Hun, 97", "18 St. Rep. 558", "36 N. Y. 486", "77 N. Y. 596"]
+---
+
+# In re the Probate of the Will of McDougall
+
+## Majority (Parker, J.)
+
+Parker, J.
+— The surrogate was right in holding that if John W. McDougall, one of the subscribing witnesses to the instrument propounded for probate, neither saw the testatrix subscribe her name at the end thereof, nor saw her signature at the time of nor before subscribing his name as an attesting witness, there was not such an execution as the statute requires. In re Mackay, 110 N. Y. 611; 18 St. Rep. 558; Mitchell v. Mitchell, 16 Hun, 97; affirmed 77 N. Y. 596. It is true that the court said otherwise in Willis v Mott, 36 N. Y. 486-491, but the court of appeals, in re Mackay, treated the discussion in the Willis Case on that subject as mere dictum, not entitled to the weight -of authority, and refused to allow it. While we agree with the law as stated by the surrogate, we do not think the fact is that the subscribing witness "John W. McDougall did not see the signature of the testatrix before or at the time of signing the instrument. The facts attending the attempted execution of the instrument before the court are,' that Susanna McDougall, while in Buffalo, requested her son Sidney McDougall to have her will prepared according to the directions which she gave, which was done. Thereupon she subscribed it in his presence and requested him to sign it as an attesting witness, which he did, and in her presence. A few days later she returned to her home in the city of Hew York, when she told another son, John McDougall, what she had done, and requested him to subscribe his name as witness to the execution of the instrument which she declared to be her will, and he did so. His testimony, and the whole of it, so far as it relates to the question whether he saw her signature is as follows :
+“Q. She handed it to you (meaning the will) folded up? A. Yes, sir. Q. So that you did not see the signature at the time she said that? A. Hot at the time ; no. Q. And you then signed this will in her presence and in the presence of your sister, Miss McDougall? A. Yes, sir. Q. Do you remember what her identical words were when she handed you the will? A. Ho; I can’t remember her identical words. The purport was, as I have stated, it was her last will, and she would like me to put my name as a witness with that of my brother. Q. And she handed you the will folded iu such a manner that you did not see the signature ? A. Yes, sir.”
+The witness gave no other testimony on this subject, and the surrogate reached the conclusion that, at the time he subscribed his name as an attesting witness, he did not see the signature of the testatrix. But the original will, which is before us, shows that he must have seen the signature at the time of signing his name, for his signature, together with his address, appears on the line next below the line upon which the testatrix signed her name and some portion thereof overlaps a portion of the signature of the testatrix. There was no fold in the paper near either signature, and it was an utter impossibility for him to sign his name without seeing her signature. Had he testified otherwise, the court, with the evidence before it which the will furnishes, would have been obliged to find as a matter of fact that the signature of the testatrix was before him at the time of subscribing his name as an attesting witness. But we think McDougall did not intend to testify that he did not see the signature of the testatrix at that time. The question addressed to him was:
+“ Q. She handed it to you folded up? A. Yes, sir. Q. So-that you did not see the signature at the time she said that ? A. Not at the time; no.”.
+This answer is a guarded one. Of course he did not see the signature when the instrument was handed to him folded up. He ■ was careful not to say that he did not see it at all. He answered the question as it was put, by saying, in effect, that he did not see it at the time, — namely, at the time the instrument was handed to him. Whithout further discussion of this subject, we content ourselves by saying that we find nothing in the evidence of this witness indicating that he wished the couft to understand that he did not see the signature of the testatrix upon the'instrument at the time he signed his name as a witnees thereto, while, on the other hand, the position of the signatures upon the instrument, shows conclusively, as we have observed, that he did see the signature of the testatrix.
+The decree should be reversed, and the case remitted back to the surrogate’s court for rehearing, with costs to the appellant to-be paid out of the estate.
+All concur.
