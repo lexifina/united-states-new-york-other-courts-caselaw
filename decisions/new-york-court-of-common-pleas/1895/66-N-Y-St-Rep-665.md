@@ -1,0 +1,21 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1895-04-01"
+citations: ["66 N.Y. St. Rep. 665"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Julius Stern et al., Resp’ts, v. Leo Kareski et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/66/cases/0665-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2110667
+cites_cases: ["57 St. Rep. 462", "7 Misc. Rep. 318"]
+---
+
+# Stern v. Kareski
+
+## Majority (Giegerich, J.)
+
+Giegerich, J.
+This action was brought to recover damages for false and fraudulent representations. The answer was a general denial. The pleadings were oral. The plaintiffs are copartners doing business under the firm name of Stern & Saalberg, and the defendants were, during the time or times of the transactions hereinafter referred to, copartners in business. From the testimony adduced on the part of the plaintiffs it appears that before the sale of certain goods, consisting of confectionery, by the plaintiffs to the defendants, the defendant Kareski represented to Stern, one of the plaintiffs, that the defendants did not owe over $700; that they were in no trouble whatsoever; that there was no mortgage upon their property, nor had they given any bill of sale, and that there would not be any such given within a short time. Such defendant further showed to Stern,a bill that he had, in order to confirm his statement that the defendants were “ perfectly sound and responsible.” It further appeared that, but for these representations, which the plaintiffs believed, and upon which they relied, they 'would not on the same day have sold the goods in question, as they did, on a credit of ten days; that when the claim became due the defendant Falk stated to Saalberg, one of the plaintiffs, that the defendants had disposed of their business, and were only working in their late place of business on a salary; that they had to sell the business, because they owed more than $700, and were in trouble. After the plaintiffs had rested, the defendants moved for a dismissal of the complaint on the grounds “ that the plaintiffs had failed to prove facts sufficient to constitute a cause of action, in that they have failed to prove that the representations which the defendants are alleged to have made were false at the time they made them, and were known to them to be false at the time they made them, and that there has been no fraud proven ; " also upon the same grounds for a direction of a verdict in their favor; which motions were denied, and renewed upon the close of the entire case, and the defendants excepted.
+The essential constituents of an action to recover damages for false and fraudulent representations, see Steinam v. Bell, 7 Misc. Rep. 318; 57 St. Rep. 462, are amply supported by the evidence in this case, and therefore said motions were, in our opinion, properly overruled. The representations were not denied by the defendants, and it appears conclusively from the cross-examination of the defendant Falk, who was the only witness called for the defense, that the amount of the defendants’ debts was over $700; that they sold their business to one Frankel for $400, and that a few days thereafter the latter sold the same to the wife of the defendant Falk. This testimony, in our opinion, effectually disposes of the contention of the defendants that the scienter had not been proved. The appellants’ argument and brief upon this appeal are founded upon a misconception of the nature of the action, and therefore the authorities cited by them in support of various propositions are inapplicable. The defendants’ exceptions taken to the rulings on the trial appear to be without merit, .and we think the judgment should be affirmed, with costs.
