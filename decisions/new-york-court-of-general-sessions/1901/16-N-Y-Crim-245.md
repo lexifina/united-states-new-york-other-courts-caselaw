@@ -1,0 +1,35 @@
+---
+court: "New York Court of General Sessions"
+decided: "1901-12"
+citations: ["16 N.Y. Crim. 245", "36 Misc. 435", "73 N.Y.S. 806", "36 Misc. Rep. 435"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. ROLAND B. MOLINEUX."]
+source_url: "https://static.case.law/ny-crim/16/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1186091
+cites_cases: ["109 N. Y. 419", "14 Misc. Rep. 31", "17 N. E. 215", "4 Am. St. Rep. 480", "57 N. Y. Supp. 936", "58 N. Y. Supp. 155", "61 N. E. 286"]
+---
+
+# People v. Molineux
+
+## Majority (Newberger, J.)
+
+Newberger, J.
+On March '2, 1899, an indictment charging the defendant with having caused the death of Katharine J. Adams by poison, was found by the grand jury, and filed in this ourt. On the 2d of March, 1899, Mr. Justice Blanchard, then a judge of this court, granted a motion to inspect the minutes /of the grand jury, upon which the indictment was found. The case was then transferred to the Supreme Court, on motion of the district attorney. A motion was then made before Mr. Justice Williams to quash, dismiss and set aside the indictment, which motion was granted with leave to resubmit the case to the grand jury.
+The case was resubmitted to the grand jury for the May term, 1899, and the said charge was dismissed. An order was subsequently made by Mr. Justice Fursman, resubmitting the case to the grand jury, and on the 20th of July, 1899, an indictment was found. During the same month, a motion was made before Judge Blanchard for an inspection of the minutes of the testimony given before the grand jury, which motion was denied.
+In November, 1899, the case was called for trial, and the trial proceeded until the 14th day of February, 1900, upon which day judgment of death was pronounced against the defendant. An appeal to the Court of Appeals was taken, with the result that the judgment of conviction was reversed. The usual order on remittitur was entered and the defendant brought from the State prison to the city prison of the city of Mew York, where he is now in custody, awaiting the action of this court.
+A motion is now made by the defendant for an order quashing, dismissing, setting aside and discharging the indictment, and for an order to inspect the stenographer’s minutes of the testimony taken before the grand jury of the county of Mew York on July 18, 1899, upon which the indictment was found, and for an order that the district attorney deliver to the counsel for the defendant, a copy of the said stenographer’s minutes. This motion is made upon the affidavits of Bartow S. Weeks and one David M. Carvalho, and upon all the papers, pleadings and proceedings herein.
+The Court of Appeals in reversing the judgment, ordered a new trial.
+Section 543, Code of Criminal Procedure provides: “ That upon hearing the appeal the appellate court may, in cases where an erroneous judgment has been entered upon a lawful verdict or finding of fact, correct the judgment to conform to the judgment or finding; in all other cases they must either reverse or affirm the judgment appealed from, and in cases of reversal, may, if necessary, or proper, order a new trial.”
+The Court of Appeals having the power under this section to direct a final judgment and order the discharge of the defendant or grant a new trial, did, by its order of reversal, direct that a new trial should take place.
+A new trial is a re-examination of the issue, in the same court, before another jury. Code Crim. Pro., sec. 462; Whart. Crim. PL & Pr. (9th ed.), 84.
+When a new trial is ordered, it shall proceed in all respects as if no trial had been had.'
+As was said by Judge Gray, in the case of People v. Palmer, 109 N. Y. 419: “ It would be a grievous miscarriage of justice, and tire intent of the law would be thwarted if it should be held that a reversal, upon a prisoner’s appeal for errors of law upon his trial, had the effect of putting it out of the power of the People to further try him under the indictment, when his guilt might be competently established. . . . The effect of the defendant’s appeal is merely to continue the trial under the indictment in the appellate court; and if reversal of the judgment of conviction follows, that judgment, as well as the record of the former trial, have been annulled and expunged by the judgment of the appellate court, and they are, as though they never had been; while the indictment is left to stand as to the crime, of which the pi'isoner had teen charged and convicted, as though there had been no trial
+It is claimed, however, on the part of the defendant, tlrat the opinions of the several judges of the Court of Appeals upon the question of the admission of certain testimony on the trial, prevents the prosecution from proceeding. If that was the intention of the court under the power it possesed, it would have so declared, and directed judgment, for the defendant and for his discharge. The opinions of the several judges were undoubtedly intended as a guide for the trial judge upon the second trial and to prevent the admission of irrelevant or improper testimony upon such trial.
+The affidavits of Messrs. Weeks and Carvalho, upon which the motion is based, are a mere recital of the proceedings had herein, and an attempt is also made by such affidavits to recite the proceedings had before the grand jury. I know of no practice that permits a motion to he made for a dismissal of an indictment upon affidavits alleging what did occur or what might have occurred in the grand jury room.
+“ The belief of the defendant, based upon alleged information . . . . can never be sufficient to warrant a finding that there were improprieties or irregularities before the grand jury, or a lack of evidence to support their finding.” See People v. Sebring, 14 Misc. Rep. 31.
+As to the application for an inspection of the minutes, that branch of the motion has been disposed of adversely by Judge Blanchard on the application made before him by the defendant. ¡No leave having been obtained to renew the motion, and no new facts having been stated, it cannot be entertained at' this time.
+It, therefore, follows that the motion herein must he denied.
+Motion denied.
