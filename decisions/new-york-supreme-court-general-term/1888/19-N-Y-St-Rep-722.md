@@ -1,0 +1,63 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-24"
+citations: ["19 N.Y. St. Rep. 722"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. L. Judd & Company, App’lt, v. Nathan Cushing, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0722-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650604
+cites_cases: ["35 N. Y., 210"]
+---
+
+# H. L. Judd & Co. v. Cushing
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action was brought to recover damages from the defendant by the plaintiffs who were-tenants because of the negligence of his agents which, caused the building to fall and take fire.
+The referee found in favor of the defendants upon all the •main issues, viz.: That there was no negligence, that the defendant was not in possession and consequently not liable for negligence if there was any, that the fall of the building was not caused by the yielding, giving away or breaking of its foundations or supports ana that the fire was not a natural and proximate result arising from the fall of the’ building.
+Although it is apparent that the judgment appealed from must be reversed because of error in the admission of evidence, in view of the numeroús and intricate questions involved in the determination of the rights of the parties herein, lest by not considering them we may be deemed to have acquiesced in the conclusions of the referee, it seems to be necessary to briefly consider the other questions-raised upon this appeal.
+It was clearly error to admit the “ Practical History of the Transactions between the defendant and S. M. & A. Houghton.”
+This was a mere memorandum made by the defendant, made at some, time it may be after this suit was brought, setting setting f ortli his view as to the transactions between Houghton and himself and was a mere ex parte statement forming no part of any account or agreement. If such a memorandum is admissible then in any case any memorandum made by a party in his own favor at any time must be competent evidence.
+It is clear that this is not so.
+If it be claimed that the memorandum is a denial of what might be deduced from the accounts, it cannot be put in evidence even for that purpose, as the denial was not communicated to anybody, was always within the defendant’sown control, to be disclosed or not as his interest might require, and would be no more entitled to admission in evidence than would the mental resolutions of the witness which had never even found expression in words.
+We will now consider briefly the main issues involved.
+The question as to whether or not the defendant was liable under any circumstances naturally first suggests itself.
+By the pleadings the defendant admits that he was the owner of the premises in question, but alleges that he has no'knowledge or information sufficient to form a belief as to whether, at the time of the accident, the plaintiff was á .tenant in the building .mentioned in the complaint, from him or otherwise.
+In view of the contention now made by the defendant* that he was not in possession of the building, had no tenant therein and never had any, the form of this denial is very significant. It is consistent with the idea that his agent had done the letting and he had no knowledge upon the subject, but it is inconsistent with the idea that he had never had any tenants whatever in that building. If the latter had been the fact, he did have knowledge sufficient to form a belief upon the subject. He knew that the allegation was untrue, and he would have denied the allegation as broadly as he has other allegations in the complaint.
+The claim that the defendant was not in possession, but that Abbott was tenant at will and in possession, is inconsistent with the whole course of dealing of the parties.
+There is no pretense of any lease, no rent reserved, no right of possession in Abbott for a.single instant.
+Upon the contrary, the defendant could have taken actual possession at any moment, and did actually pay Abbott for his services, who paid over to the defendant the amounts received over and above expenses, rendering detailed, accounts of receipts and expenses, showing tenants named and rent, received from each and disbursements made in caring for and maintaining the property.
+Under the evidence showing the relations between the defendant and Abbott, if the defendant had demanded possession and Abbott had insisted upon remaining in, as tenant at will, demanding the statutory notice to quit, we do not think that any such claim could be upheld, but that the defendant would be adjudged in possession against Abbott, he having no right to possession except as the agent of the defendant.
+The Whole of -the transactions between the parties showed that Abbott was expected to, and did, account to the defendant, as owner, for the moneys realized by letting the premises, less expenses and the sums agreed to be paid to him for his services.
+The next question presented is as to the liability of the defendant because of the negligence of his servants.
+The .referee has found that there was no negligence, and if this conclusion is borne out by the evidence, then no liability against the defendant, even in deemed possession., has been established.
+The plaintiff was tenant of a portion of the upper part cf the building which fell, and Abbott attempted to repair the lower floor of the building so as to suit the demands of a new tenant.
+In so doing he interfered with the supports of the building, and for some reason which we cannot definitely determine from the evidence, the building fell and loss ensued;
+If is undoubtedly true that the foundation of this action is negligence, and that negligence must ordinarily be affirmatively shown on facts proven from which negligence may be legitimately inferred and which are inconsistent witli want of negligence, but the relations of the parties may be such that the happening of an accident imputes negligence until the contrary is shown.
+It is the familiar rule that where a passenger is seeking to recover from a railway company damages sustained by the happening of an accident to a train upon which he is traveling, after the accident is shown to have occurred, there is a presumption of negligence, as such results in the ordinary course of events are only caused by negligence, and the burden is upon the railway company to show if it seeks to absolve itself, that the accident was occasioned by some cause which could not be foreseen or guarded against.
+In the case at bar the plaintiff was a tenant of the defendant.
+It occupied the upper floor of the building and was entitled to undisturbed occupation thereof, and although the defendant was not perhaps an insurer yet he was bound to do nothing which could interfere with such occupation.
+If with tenants in the building, the defendant desired to make repairs which affected the supports and foundations of the building, he was bound to use the greatest degree-of care, not mere ordinary care, because he is bound to use this degree towards persons to whom he owes no duty, and if by his alterations he endangers the safety of his tenants; he does so at his peril and -cannot shield himself from reBponsibility after a catastrophe has happened by saying: “I used ordinary care and employed skillful mechanics, but in spite of all for some unknown reason the building fell.”
+The presumption in such a case would be that the building fell because of the repairs, and unless the landlord could show what the cause was and that he was in no degree responsible for it, such presumption would remain.
+No such explanation is made out here, and consequently the landlord is not excused.
+We have examined the cases referred to by the learned counsel for respondent, but none of them present the question which is being considered.
+In none of them was the accident presumably caused by the direct interference with the supports of the building, as in the case at bar, but the accident happened without any warning, such as would put a prudent man upon his guard.
+There is a vast difference it seems to us, in the rule which is to govern cases where the accident happened presumably through the active interference of the landlord, and those cases where the accident happened from some cause, the existence of which a man of ordinary prudence would not have any reason .to suspect.
+If a landlord assumes to meddle with the supports of an occupied building, he does so at his peril, and if an accident is caused thereby, and his tenants are injured, to whom he owes the duty of leaving them in quiet possession, the least that can in justice be required, is that he should show that he has exercised the highest degree of care, and that notwithstanding such care, the accident has occurred.
+It is claimed that whatever the liability of the defendant may be, he is not liable for any .loss arising from the destruction of property by fire, because the damage was too remote.
+That the defendant is not liable for the damage which was caused by the burning of the adjoining buildings, seems to be clear from principles laid down in the adjudi: cated cases. Ryan v. New York Central R. R. Co., 35 N. Y., 210.
+In that case, and in this respect, it has not been overruled, it is laid down as the law of this state, that where a house takes fire through the negligence of the owner or his servant, and the flames extend to and destroy an adjacent building, that such owner is not liable for the damage sustained by the owner of the second building by such burning.
+Applying this rule to the case at bar, although by the fall of the building upon which the repairs were being made, its destruction by fire was to be anticipated, because fires were used therein, that the fire should spread and consume other buildings was not a necessary or a usual result, and depended upon many circumstances in the absence of any one of which, this result would not have followed.
+We can see no distinction between the Case of Ryan and the one at bar. The fact that the same person owns both buildings, can in no way affect the question as if the owner of the building in which the fire originated would not be liable to the owner of the second building, neither would hé be liable to the occupants of the second. building, no matter whom its owner might be.
+Although it is claimed that by subsequent decisions the court of appeals have overruled the Ryan Case, yet in none of the cases were the facts the same, and the court expressly refrain from holding that the Ryan Case is no longer authority.
+If the law in this state is different from that stated m the Ryan case, and if the occupant of a house is held to be hable for the destruction of adjacent buildings where his servant has by his carelessness caused a fire in the nouse occupied by him, it is time that it should be known, as not one conflagration in ten occurs except through the negligence of somebody,
+The buildings in the case at bar had separate and distinct walls of brick and stone, and are to be deemed separate and distinct buildings in the consideration of this question, and we can see no ground of liability upon the part of the defendant for the loss arising in such a building.
+For the loss occurring by .fire in the building itsélf, there seems to be a clear liability if negligence is established.
+As well might a railway company claim exemption from liability for damages arising from an accident, because although it had injured its passengers by a collision occaioned by negligence, yet as the train had-taken fire, and the passengers had been burned up, no damages could be recovered, as the burning of the train was not the natural and proximate result ordinarily arising from railway accidents.
+"We have failed to meet any case where even these corporations have had the temerity to: advance such a plea.
+The judgment appealed from must be reversed and a new trial ordered, with costs to the appellant to abide the event.
+Daniels and Bartlett, JJ., concur.
