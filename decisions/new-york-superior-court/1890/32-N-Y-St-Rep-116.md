@@ -1,0 +1,22 @@
+---
+court: "New York Superior Court"
+decided: "1890-06-27"
+citations: ["32 N.Y. St. Rep. 116"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward Avery, Resp’t, v. The New York Mutual Insurance Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039850
+---
+
+# Avery v. New York Mutual Insurance
+
+## Majority (Freedman, J.)
+
+Freedman, J.
+This action was brought upon two policies of marine insurance, one on the vessel, Anna L. Taylor, and the other on her freight. Both policies were valued. They were issued while the vessel was at sea, and they covered a voyage from Barbadoes to Turk’s Island and thence to Baltimore. The action proceeded upon an alleged total loss, subject, however, to salvage on the vessel policy. The question of total loss was fully and fairly submitted to the jury under a charge which carefully guarded all the rights of the defendant. There was no error in the charge, or in the refusals to charge otherwise, if the case was one for the jury, nor can , I discover any error constituting ground for reversal in the admission of testimony. The real question, therefore, is, whether the defendant was, or was not, entitled to a dismissal of the complaint as matter of law.
+Upon an examination of the whole case it appears that abundant evidence was given to the effect that plaintiff’s loss under the freight policy was a total one. There was also sufficient evidence that under the vessel policy the loss was total to the insured, and was also total as to the insurers (subject to salvage), if the sale by the master in the port of distress, viz: Gronaives on the Island of St. Domingo, was justifiable. Upon that point the facts were quite ■complicated, but inasmuch as the plaintiff clearly showed that the vessel had met with a disaster on the high seas which practically left her a wreck ; that thereafter she could not be navigated, but was at the mercy of the winds and waves ; that she had brought up at an harbor where there were no docks, wharves, materials or men to repair her, nor facilities of any kind to put her in condition to go to sea; that the master had called upon the constituted authorities to advise him what to do; that, after the successive surveys, he had been advised that the vessel was not worth repairing and should be sold; that such advice corresponded with the master’s own judgment; and that the master had sold the vessel in pursuance of such advice, and that the sale had taken place under the direction of the consul, the question was one for the jury and could not be withdrawn from their consideration. A sale by the master is justified or not, as to the underwriters, according to the apparent circumstances at the time and the statements and advice of competent persons first obtained, and not according to the result of an experiment by the purchaser at the sale. The jury having found, upon a consideration of all the circumstances shown by both parties, that the sale of the vessel was justifiable, no notice of abandonment was necessary.
+The judgment and order should be affirmed, with costs.
+Truax, J., concurs.
