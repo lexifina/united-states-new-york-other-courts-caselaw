@@ -1,0 +1,55 @@
+---
+court: "New York City Court"
+decided: "1892-02-08"
+citations: ["44 N.Y. St. Rep. 774"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herman Schuler, Resp’t, v. The Third Avenue R. R. Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/44/cases/0774-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2074891
+cites_cases: ["18 N. Y., 534", "96 N. Y., 264"]
+---
+
+# Schuler v. Third Avenue R. R.
+
+## Majority (McGrown, J.)
+
+McGrown, J.
+The plaintiff, in his complaint, after setting forth the injuries sustained by him, states: “ That by reason '.thereof the said plaintiff suffered intense pain, and is still suffering ■intense pain, and for a period of three weelcs * * * was sick and disabled and injured in health, prevented from attending to his business, and subjected to expenses in attempting to cure himself.”
+At the request of defendant’s counsel the trial justice charged the jury that,
+“ 15. If the jury concludes that the plaintiff is, entitled to recover, then they can only award him such damages as will compensate for his pain and suffering.
+“ 16. The jury can award him nothing for his expenses for medical attendance, or for loss in his business, as no pecuniary damage to him was proved from those sources,” and stated to the-jury that there was no evidence showing that plaintiff paid doctor’s bills, or for medicine, or that his time was valuable, and that, therefore, they could not “ render a verdict for any money for diese things,” but only “ for the pain and suffering which you believe the plaintiff suffered in this case, in case you believe he is entitled to a verdict at all,” and the fair presumption is that the jury, in considering their verdict, regarded the instructions of the court, thus leaving as the only question of damage that for pain and suffering.
+The plaintiff testified “ that he suffered pain about three weeks, after the accident.”
+The following questions were then asked plaintiff:
+Q. After the expiration of those three weeks, did you continue to suffer pain ?
+Objected to on the ground that the pleadings refer to injuries within a specified - time, and not subsequent to three weeks, and also on the ground that it is a surprise to the defendant to have such evidence offered.
+Question allowed. Defendant excepts.
+A. Yes, sir.
+Q What is the condition of your eye at the present time ?
+Objected to on the same grounds.
+Question allowed. Defendant excepts.
+A. I have always got pain; * * * I have pain inside; as-to the'bone surrounding the eye, I have pain inside.
+The rulings of the trial justice, we think, were correct, as whenever the bodily or mental feelings are relevant, declarations of the-person himself, as to his present condition, ills, pains and symptoms, to whomsoever made, are competent as part of the res gestee; and in Curtis v. The Rochester & Syracuse R. R. Co., 18 N. Y., 534, it. was held that
+“ The damages recoverable for bodily pain and suffering by a. person injured by the negligence of another, are not limited to that incurred before the trial, but extend to such future suffering as the evidence renders it reasonably certain must necessarily result from the injury.”
+During the examination of James A. Bailey, a witness examined, on the part of plaintiff who testified that he was a physician, knew the plaintiff, recollected seeing him about two years or more ago,, that he came to him for an injury * * * that he noticed the-condition of his eye, that he came to have his eye attended to,. that he had examined the eye of plaintiff, the injured eye, ■within the last three or four months, the question was asked the witness:
+Q. Will you state what the present condition of the eye is? o
+Objected to on the grounds that the pleadings are confined to the injuries within the period of three weeks following the accident. Also on*the ground that the evidence is a surprise to the defendant.
+Question allowed. Defendant excepts.
+A. As far as I can judge, there is nothing to be seen except the scar, but he complains of pains shooting up.
+Defendants’ counsel moves to strike out latter part of answer as irresponsive, irrelevant and incompetent.
+Motion denied Defendant excepts. While the part asked to be stricken out, viz.: “ but he complains of pains shooting up,” may not have been competent evidence, as corroborative of plaintiff’s testimony as to the extent of his pains, as being hearsay, and as testifying to a statement made by plaintiff three years after the injury; yet considering the fact that plaintiff had testified positively to the fact that he was “ still suffering pain,” we do not ■think, considering the fact that the jury rendered their verdict in favor of the plaintiff, and in doing so, must have believed the testimony of the plaintiff, that the admission of the testimony asked to be stricken out could have affected the minds of the jury in rendering their verdict.
+The exception taken to the ruling of the trial justice, on the ■question asked at folio 61, as to the present condition of plaintiff’s injured eye, we do not think well taken, for the reasons hereinbefore stated.
+The witness was then asked :
+Q. Have you any opinion as to the permanency of that injury?
+Objected to on the ground that it is not pleaded, and it is in the nature of a special damage which is not warranted by the pleadings.
+Question allowed. Defendant excepts.
+A. In my judgment, from the nature of the injury, I should judge that the injury was permanent, etc.
+We find no error in the above rulings of the trial justice. See Curtis v. The Rochester, etc., R. R., 18 N. Y., 534, above cited. And in Ehrgott v. The Mayor, 96 N. Y., 264, almost precisely, the same question arose as to the admission of evidence upon the trial under the pleading ; the evidence was admitted under objection, and the objection was overruled.
+Earl, Justice, in his opinion, says: “If defendant desired the complaint to be more definite, he should have moved to have it made so, or for a bill of particulars.”
+As to the question of contributory negligence on the part of the plaintiff, and of negligence on the part of the defendant, the trial justice in his charge to the jury stated that before they could Tender a verdict in favor of the plaintiff they must be convinced by the weight of evidence that the injury * * * “was brought about solely and entirely by the negligence of the defendant, and that there was no negligence or carelessness on the part, of the plaintiff which contributed to that injury,” and also fully and fairly charged the jury in his charge upon the question of contributory negligence on the part of plaintiff, and of negligence on the part of the defendant, and no exception was taien by defendant’s counsel to the charge, and also in charging the requests made by defendant’s counsel as to contributory negligence, and negligence on the part of defendant.
+We have carefully considered all the testimony herein, and all the exceptions taken by defendant’s counsel, and find no error which requires a reversal of the judgment herein.
+As to the amount of the verdict rendered, considering the fact, that the injury complained of occurred on the 22d day of August, 1888, and that the plaintiff still suffered pain at the time of the-trial on June 4, 1891, and for a period of nearly three years, without considering the permanency of such pain, we do not think the verdict rendered excessive.
+Judgment herein and order appealed from must therefore be. affirmed, with costs to the respondent.
+Van Wyok, J., concurs.
