@@ -1,0 +1,21 @@
+---
+court: "Brooklyn City Court"
+decided: "1894-12-24"
+citations: ["64 N.Y. St. Rep. 22", "31 N.Y.S. 445", "10 Misc. Rep. 543"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Jones, as Administrator, etc., App’lt, v. Brooklyn Heights Railroad Company, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/64/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2104638
+cites_cases: ["108 N. Y. 349", "13 St. Rep. 648", "139 N. Y. 490", "15 N. E. 415", "30 N. Y. Supp. 1071", "34 N. E. 1101", "54 St. Rep. 863", "60 N. Y. 326", "60 St Rep. 831", "61 St. Rep. 321", "63 St. Rep. 311", "8 Misc. Rep. 601", "9 Misc. Rep. 279"]
+---
+
+# Jones v. Brooklyn Heights Railroad
+
+## Majority (Van Wyck, J.)
+
+Van Wyck, J.
+It can be fairly inferred from the evidence in this case that Maggie Jones, aged 4 years, went upon the street to play, in charge of her 12 year old sister, on July 12,1893, in broad daylight, and that she and an older sister proceeded to Fulton street, between Ralph and Howard avenues. They started to cross Fulton street, the elder sister being in the lead, and Maggie following her. Defendant’s car, about 200 feet away, was approaching from Howard avenue, the line of their passage. There being nothing to obstruct the motorman’s view of the children, he continued his course and speed. The oldest child succeeded in safely crossing his track, but Maggie, as she stepped upon the track, was knocked down and run over. The mortorman failed to see her till someone hallooed to him, when he turned around, from watching and speaking to the child who had safely crossed over and was near the sidewalk, and saw little Maggie for the first time, directly in front of his car, a foot or two ahead of it, when he put on his brake, and stopped the car within fifteen feet, but it was too late; she had been killed. He said he could have seen her before if he had looked to the front of him. This is an action to recover damages for her death. The trial court nonsuited plaintiff, on the ground that the motorman was not negligent, though the motion was made also on the ground of contributory negligence of the deceased and her parent. We will waste but little time in referring to the latter, though the respondent still presses it, for it was at least a question for the jury to determine whether this child was sui juris or non sui juris. If the latter, she could not be chargeable with negligence. It is too well settled to require citations that it is not negligence, as a matter of law, for a parent to permit a child of that age to go upon the street to play, especially in charge of a 12 year old sister. Huerzeler v. Ventral C. T. Railroad Co., 139 N. Y. 490; 54 St. Rep. 863. It is the duty of a motorman of a trolley car passing through the streets of a city to be watchful of the presence of pedestrians, both adults and children, approaching or crossing his track. This motorman candidly admitted that he did not see this child till his car was in the act of colliding with her, and that he could have seen her before if he had been looking in his front. If he had seen a child of such tender years approaching his track as if to cross, it would certainly have been his duty to have stopped, or at least slowed up, for the dictates of ordinary care would naturally suggest to him that he.could not rely upon her appreciation of the dangers confronting her, or assume that she would so act as to avoid them. Did the motorman fail to see her in time to save her through negligent inattention to his duty to be watchful under the circumstances? was a proper question for the jury to answer. The views of this court, upon circumstances very similar" to those in this case, have been fully expressed in Keenan v. Brooklyn City Railroad Co, 8 Misc. Rep. 601; 60 St Rep. 831; Dowd v. Brooklyn II. Railroad Co., 9 Misc. Rep. 279; 61 St. Rep. 321, and Timony v. Broolclyn City N. Railroad Co., 63 St. Rep. 311; and in further support of our conclusion, we refer to Thurber v. Baltimore, M. & F. Railroad Co., 60 N. Y. 326; Moebus v. Herrmann, 108 N. Y. 349; 13 St. Rep. 648.
+Judgment must be reversed, and a new trial ordered, with costs to abide the event.
