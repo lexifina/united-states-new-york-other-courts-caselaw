@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1877-10"
-citations: ["19 N.Y. Sup. Ct. 274", "19 N.Y. Sup. Ct. 271"]
+decided_precision: "month"
+citations: ["19 N.Y. Sup. Ct. 274"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["PHILIP R. CLARK, Respondent, v. NANCY BRUCE, Executrix, etc., of SETH
 source_url: "https://static.case.law/ny-sup-ct/19/cases/0274-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4449392
-cites_cases: ["1 Den., 343", "13 Wend., 80", "29 Barb., 180", "30 N. Y., 355", "6 Hun, 115"]
+cites_cases: ["30 N. Y., 355", "6 Hun, 115"]
 ---
 
 # Clark v. Bruce
