@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1880-04-05"
+citations: ["14 Jones & S. 123", "46 N.Y. Super. Ct. 123"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANGUS P. McINTYRE, Respondent, v. FREDERICK RADUNS, Appellant."]
+source_url: "https://static.case.law/ny-super-ct/46/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666662
+---
+
+# McIntyre v. Raduns
+
+## Majority (By the Court.—Sedgwick, J.)
+
+By the Court.—Sedgwick, J.
+The defendant’s counsel, upon the trial, requested the judge to charge the jury that the arrest was legal, under the facts and circumstances as stated by the defendant. ' The learned judge was not of this opinion, and refused so to charge.
+The defendant had testified that near the corner of Mulberry and Mott streets, after midnight, he saw the plaintiff in company with a lady, coming up the street very load and noisy, dragging her by the arm along the street; that he went to plaintiff, tapped him on the shoulder, ordered him to be quiet, telling him that it was not a proper way, on the public street, to be making such a noise at that hour of the night; that the plaintiff did not stop ; that he again told them to stop, that it was a bad neighborhood around there ; that the plaintiff then left the lady, turned back, was very excited, and made a blow for the defendant with his fist, stopped, turned again,, and made a second blow for the defendant; that he asked the plaintiff twice to Ikeep quiet, and before the plaintiff was arrested he had struck twice at him. The plaintiff and his witnesses had testified to a state of facts that contradicted the defendant’s evidence, and if their verdict was only that the plaintiff’s testimony was true, the defendant was clearly liable ; but under the charge the jury may have found for the plaintiff, although the facts were .as stated by the defendant.
+Under the circumstances sworn to by defendant, the plaintiff would not have been justified in assaulting the officer. The blows would not have been offered in self-defense. The officer, if he were believed, had not arrested or attempted to arrest the plaintiff . He had only mildly and properly cautioned them against noise or disturbing conduct. An assault upon a police officer, when in the discharge of his duty, has been declared to be a misdemeanor by section 22, chapter 569, Laws of 1857. This recognizes the rule of the common law on this subject. “If a man makes assault upon the constable, he may justify to arrest him who made the assault, and to carry him to jail, for breaking the peace, though he himself be party” (Viners’ Ab. “ Constable,” [E.] 7).
+If the arrest had been made upon the other facts stated by the officer, there having been no assault, there would have been a question for the jury. The peace officer has a right, and it is his duty to arrest, persons who commit a breach of the peace in his presence. The duty is described by Parke, B., in Howell v. Jackson (6 C. & P. 723): “For if the plaintiff made such a noise and disturbance as would create alarm, and would disquiet the neighborhood, and the persons passing along the adjacent street, that- would be such a breach of the peace as would not only authorize the landlord to turn the plaintiff out of the house, but it would also give the landlord a right to have the plaintiff taken into custody if this occurred in the view of the watchman.” In the case cited, the breach of the peace happened in a public house. The rule stated has. greater force when it is applied to an occurrence in a public street. The officer must take the risk- of the facts justifying him, and in a case like the present it should be left to the jury to determine whether the conduct of the arrested party was calculated to disturb and alarm the neighborhood, to attract a crowd, to lead to disorder or riot. The character of the neighborhood may be considered. It should be proved by competent testimony. A statement of the officer to the arrested party, while he was cautioning him that it was a bad neighborhood, is not proof of the fact. The officer, before resorting to the extreme remedy of arrest, should request the party to cease from noise or misconduct, and should not arrest if the request is complied with. This observation is to be confined to cases like the one here, for there may be breaches of the peace which demand immediate arrest.
+A constable or other known conservator of the peace may lawfully interpose upon his own view to prevent a breach of the peace or to quiet an affray (1 East P. C. 303). One great use of police officers is to nip mischief in the bud (1 Bennet & H. L. C. C. 201, citing Rex v. Hems, 7 C. & P. 312). This duty of interference continues while there remains any danger of a breach of the peace, and if remonstrance or mere interference are not sufficient to avert the danger, the officer is justified in arresting the guilty party.
+I therefore think there should be a new trial.
+Judgment and order denying motion for new trial reversed, new trial ordered, with costs of appeal to appellant to abide event.
+Freedman, J., concurred.
