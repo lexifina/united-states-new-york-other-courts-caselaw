@@ -1,0 +1,30 @@
+---
+court: "New York City Court"
+decided: "1888-07-28"
+citations: ["17 N.Y. St. Rep. 850"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["G. Carrigan, Pl’ff, v. H. L. Washburn, De’ft."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0850-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008229
+cites_cases: ["1 Johns., 34", "17 Hun, 605", "20 Hun, 343", "4 Daly, 171", "53 How., 122", "81 N. Y., 221", "9 Daly, 53"]
+---
+
+# Carrigan v. Washburn
+
+## Majority (Pitshke, J.)
+
+Pitshke, J.
+The parties undoubtedly can by consent defer the issuance of a body execution, without prejudice to any existing right to arrest; and the giving and acceptance of notes to pay the judgment may, even without express agreement, amount to such an arrangement, although the same would not wipe out the judgment debt without a satisfaction piece or release. Phoenix Ins. Co. v. Church, 81 N. Y., 221.
+And the non-payment of either of such notes, and the judgment debtor’s procrastination and unfulfilled promises might, though the body execution issued more than three months after the entry of judgment, be sufficient reasonable cause shown why the application for a supersedeas should not be granted since, section 572, Code of Civil Procedure, permits the court to excuse the delay in issuing such body execution. 11 Civ. Pro., 406; 53 How., 122.
+The creditor could, however, be compelled to procure and cancel the notes as a condition of retaining his body execution, inasmuch as a creditor cannot succeed on an original debt till production and cancellation of the notes received therefor. Holmes v. D' Camp, 1 Johns., 34; Angela. Felton, 8 id., 149; Burdick v. Green, 15 id., 247.
+But passing these facts, and without deciding thereon, I find the body execution issued was void ah initia,
+The action, as appears from the original complaint served, was commenced ex contractu for simply the amount of a promissory note, and such original complaint embodied no tort allegations for an arrest of the defendant.
+The plaintiff’s right to arrest defendant, hence, did not depend upon the nature of the action but upon extraneous grounds. Accordingly the plaintiff obtained an order of arrest on allegations and proofs dehors the record, which was afterward vacated because the complaint was insufficient under section 549, Code Civil Procedure. The subsequent adding herein to plaintiff’s complaint of an averment that the defendant was guilty of a fraud in contracting the liability sued on, to wit, in obtaining the sum of money for which said promissory note in suit was given, or inducing the purchase of said note, did not change the nature of the action. Hitchcock v. Baere, 17 Hun, 605; Robertson v. Robertson, 9 Daly, 53, 54, 55 and 56. The original obligation, is not rescinded but sued on and affirmed. Benedict v. National Bank of Commonwealth, 4 Daly, 171. A new order of arrest (20 Hun, 343) was necessary to support and allow a body execution herein under the improved complaint embracing the added allegations required by said section 549, subd.4. and there characterized as made in an action upon contract, express or implied. Thereafter the case was not a suit for damages but still ex contractu.
+This body execution was issued in 1888.
+Since the Code amendments of 1886 to section 549, leaving only ne exeat cases in section 550, every kind of action (excepting ne exeat cases) must have its complaint embrace the grounds for the order of arrest desired, so as to avoid incarceration continuing under an attorney’s subsequent ca. sa. based on a hearing upon affidavits merely, in cases where the cause itself is not, in its nature, in tort. This innovation was intended as a safeguard for defendants, but not as an •extension of the attorney’s absolute right to issue body executions;' for section 1487 retains the distinction between ex de licto and ex contractu cases, and in the latter confines the right to a body execution to those cases where an order of arrest was obtained and executed against defendant and remains unvacated.
+The original order of arrest herein (after being executed against defendant) having been vacated when said body execution herein was issued by the attorney, as appears from the records on file in this court, such intended execution against the person was unauthorized, and a nullity.
+Section 1487, Code Civil - Procedure.
+Motion should be granted, with ten dollars costs, but with a stay of proceedings on the order in case of an appeal forthwith, as the question is one of great importance and defendant being out on the limits and not in custody.
