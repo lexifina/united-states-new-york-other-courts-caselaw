@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1878-04"
-citations: ["20 N.Y. Sup. Ct. 635", "20 N.Y. Sup. Ct. 655"]
+decided_precision: "month"
+citations: ["20 N.Y. Sup. Ct. 635"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["HIRAM LOSSEE, Respondent, v. HALSEY ELLIS and others, Appellants."]
 source_url: "https://static.case.law/ny-sup-ct/20/cases/0635-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2356326
-cites_cases: ["1 Sandf. Ch., 258", "13 Barb., 173", "16 How. Pr., 59", "16 How., 364", "34 N. Y., 355", "45 N. Y., 708", "51 N. Y., 555", "6 N. Y., 342", "9 Wend., 611"]
+cites_cases: ["1 Sandf. Ch., 258", "13 Barb., 173", "6 N. Y., 342", "9 Wend., 611"]
 ---
 
 # Lossee v. Ellis
