@@ -1,0 +1,31 @@
+---
+court: "New York Superior Court"
+decided: "1871-12-31"
+citations: ["1 Jones & S. 502", "33 N.Y. Super. Ct. 502"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PATRICK CARRAHER, Plaintiff and Respondent, v. CHRISTOPHER A. CARRAHER, Defendant and Appellant."]
+source_url: "https://static.case.law/ny-super-ct/33/cases/0502-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1415270
+cites_cases: ["2 Sweeny, 696", "2 Sweeny, 701", "36 How. 366", "36 How. Pr. 366"]
+---
+
+# Carraher v. Carraher
+
+## Majority (Freedman, J.)
+
+Freedman, J.
+Although the respondent, in conformity with the practice laid down by this court in “Phelps v. Swan, 2 Sweeny, 696, has obtained an order of the special term declaring the case upon appeal abandoned, it by no means follows that upon a production of a certified copy of that order and a mere reference to the judgment roll on file in the office of. the clerk, we can, on a motion to dismiss, dispose of the appeal in this case against the objection of the appellant. The decision of the case referred to does not go to this extent. The real question involved therein was whether the general term has the power to decide whether or not- an appellant has lost his right to make a case or bill of exceptions, or to annex the same to the judgment roll, and if it has, whether it. will, as matter of practice, exercise it. We held that these matters should be determined at special term, and intimated that, after such determination against the appellant, the general term may, on a subsequent motion to dismiss, founded in part upon such order of the special term, determine that the record, without a case or bill of exceptions, presents no question which is the subject of an appeal, and consequently dismiss the appeal. This may undoubtedly be done whenever, upon the production and submission of the record, -it should clearly appear that the-decision below is not appealable. Such motion to dismiss the appeal may perhaps also be granted if the appellant concedes that, having lost' his right to make or annex a case or bill of exceptions, he has no questions left to present to the consideration of the general term. But it should not be granted if the appellant objects and insists upon Ms right to be heard upon the judgment roll as it stands. He is not precluded from, doing that, and consequently is still at liberty to raise such questions as appear upon the face of the judgment roll, and might formerly have been raised on a writ of error (Brown v. Hardie, 5 Robt. 678 ; Berger v. Dubernet, 7 Id. 1).
+In order to be in a position, however, to do so, he ‘ must print and serve tlie papers intended to be used on the hearing of the appeal according to the requirements of General Rule 50 (Rule 43 of 1858) at least eight days before the commencement of the general term sitting after the entry of the order made by the special term declaring the case abandoned, and if he neglects to do so the respondent may, by special order, put the cause upon the calendar of the general term and move, on any of the. motion days in term, that the cause be stricken from the calendar and that judgment be rendered in his favor (Rule 50). Such motion on the part of the respondent must be founded on a proper notice to the appellant, on the order of the special term declaring the case abandoned, and an affidavit showing that since the entry of the last-named order a reasonable time has elapsed to procure the printing of the appeal papers, which the appellant is still entitled to use, and that no printed copies thereof have been served as required by the rule.
+The practice, as here laid down, is in entire harmony with the decisions of this court, reported in 36 How. 366, in Phelps v. Swan, 2 Sweeny, 696, and Ward v. Central Park, N. & E. R. R. Co., 2 Sweeny, 701, as well as with the general rules applicable to all the courts and the additional special rules in force in this court, and should be strictly followed by a respondent, who means to get rid of the appeal out of its regular course and order and against the objections of the appellant.
+Respondent’s motion for a dismissal of the appeal must, therefore, be denied.
+
+## Concurrence (Monell, J. (Concurring.))
+
+Monell, J. (Concurring.)
+— Without questioning the power of the court to dismiss the appeal upon this motion, which it probably may do if it will take the trouble to examine the judgment roll, to see if there is any error in it, the practice of entertaining motions of this nature is attended with so much inconvenience and labor that it ought not to be followed, especially as there is another remedy quite as effectual, and which is free from the objection above stated.
+The respondent was right in having the “case” declared abandoned. That left nothing but the judgment roll to be reviewed. But instead of moving to dismiss the appeal, he should have moved for an affirmance of the judgment, as provided in Rules 49 and 50.
+The practice under these rules is as follows: If the appellant fails to serve his case, or to have it settled, or filed within the time prescribed by the rules, the respondent should apply, on notice, to the special term, to have the case declared abandoned. He should then apply for an order to put the case on the general term calendar; and on an affidavit of the non-service of the appeal papers, and on notice to the appellant for the earliest motion day in term, move to strike the cause from the calendar and for judgment of affirmance.
+This practice is simple and effectual, and spares the court the labor of examining, upon a motion, a manuscript judgment roll, to see if there are any questions arising upon it for review.
