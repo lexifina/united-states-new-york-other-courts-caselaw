@@ -1,0 +1,26 @@
+---
+court: "New York Court of Chancery"
+decided: "1814-06-28"
+citations: ["1 Johns. Ch. 77"]
+reporter: "johns-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Green and others against Winter."]
+source_url: "https://static.case.law/johns-ch/1/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1975608
+cites_cases: ["1 Johns. Cas. 507", "9 Johns. Rep. 443"]
+---
+
+# Green v. Winter
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+This application brings up the question, how far an appeal to the court above suspends the proceedings in this court.
+The rule now, in England, is, that an appeal does not stay proceedings. Lord Eldon frequently declared the rule, and he said it had been adopted in the house of lords, that appeal did not stay proceedings m chancery, unless by special. order of the house. ( Warden, &c. of St. Paul's v. Morris, 9 Ves. 316. Gwynn v. Lethbridge, 14 Ves. 585.) He said he considered himself as acting, in that case, under the authority of the house of lords, and that, if the rule was wrong, it was more fit for the house of lords to correct it, than that he should act against precedent.
+How long this has been the established rule, in England, does not appear. In one of the late cases, the counsel (Mr. Mansfield) said, the received opinion was otherwise, until the case of Thelluson v. Woodford, in 1798; and we are led to infer, from the observation of Lord Chancellor Apsley, in Pomfret v. Smith, (Wyatt's Prac. Reg. 35, 36.,) that the practice, on appeal to the house of lords, was, that the Chancellor’s jurisdiction was suspended only as to the matter appealed from.
+There are difficulties in the operation of any general rule, either way. To proceed, as of course, in the cause, pending an appeal, might lead to a great deal of useless labour and expense to the parties, and sometimes to irreparable mischief ; and, on the other hand, to permit the proceedings to he stayed in every case, would, as Lord Eldon observed, render a chancery suit the greatest nuisance ; for, according to that doctrine, if a petition to stay proceedings in a cause was refused, the party would have nothing to do but to appeal from that order, and thus carry his point. There must, of necessity, exist a power and a discretion in the Chancellor, as a like power exists in a court of law, (2 Term, 78.,) to determine, in the first instance, upon the operation of the appeal; as, whether it be brought upon an order from which an appeal will lie, and upon what points, and to what extent, the appeal' operates as a stay of proceedings. I believe the practice in this court has always been according to the more ancient opinion in the English chancery, and the appeal has been considered as a stay of proceedings; this appears, also, to have been the understanding of ¡this court, as declared in the 35th, 36th, and 37th of June, 1806. The 36th rule explicitly declares, that an appeal shall prevent the issuing of process upon the decree.
+My conclusion is, that an appeal does, in the first instance, . stay proceedings on the point appealed from, and that if the party wishes to proceed, notwithstanding the appeal, he must make application to the Chancellor for leave to proceed ; and, unless the court of errors should, at the time, be actually in session, and in possession of the cause, it must rest in the discretion of this court to determine whether the application ought to prevail. The difference, then, between the English practice and ours, is, that by the former the plaintiff must apply for an order to stay the proceedings; but, here, the defendant must apply for leave to proceed.
+To come to the particular merits of this application; the appeal is from the decretal order directing an account to be taken, and prescribing the rules and principles by which the master is to take it. This direction does, in fact, involve the merits of the controversy between the trustee and his cestuy que trusts ; and I have no doubt it was an order upon which an appeal might be brought. I see no sufficient reason why the master should proceed to take an account, pending the appeal; because, it could only be taken upon the principles laid down by the court; and if those principles are not correct, the whole proceeding before the master would fall to the ground. I do not perceive any necessity, in this case, for taking such a step, de bene esse. The same observation will apply to the other branch of the application, which was for a rule on the defendant to execute a conveyance of the trust estate, and to deliver all the attending documents, to the receiver. Until the claims of the defendant are adjusted, he ought not to be compelled to part with his means of indemnity, and with the lien which the law has given him. There is no urgent necessity for this, since the defendant is disabled from inter-meddling with the estate, and a receiver is appointed and authorized to collect the rents and moneys as they arise or become due. It is advisable to let the object of this application rest, and abide the event of the appeal.
+The applications for leave to proceed, and for an order on the trustee to convey, are, consequently, denied, with costs.
