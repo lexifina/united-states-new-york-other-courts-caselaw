@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-06-01"
+citations: ["45 N.Y. St. Rep. 549"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank H. Pettee, Resp’t, v. Mary H. Pettee, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/45/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2080791
+cites_cases: ["29 Hun, 490"]
+---
+
+# Pettee v. Pettee
+
+## Majority (Math am, P. J.)
+
+Math am, P. J.
+The complaint in this action on information and belief charges the defendant with various acts of adultery. The answer denies the acts of adultery charged and is duly verified.
+The verified petition denies the adultery charged and sets up the financial ability of the plaintiff to pay alimony, and her own absolute irnpecuniousness, neither of which are denied by the plaintiff. The affidavits of the plaintiff used on this motion tend .strongly to prove the adultery charged and detail circumstances which, if true, cannot well be reconciled with the innocence of the -defendant.
+The circumstances set forth in these affidavits are not denied, but the defendant in an answering affidavit, filed by permission of the court, retiterates her denial of adultery.
+But it is urged by the defendant that the affidavits on the part of the plaintiff prove too much; and that while they tend to establish the guilt of the defendant they also tend to establish conspiracy and connivance on the part of the plaintiff; that the fact that .all the alleged adulterous intercourse was at the house of the plaintiff’s mother, where the defendant visited with the consent of the plaintiff after he had his suspicions aroused by information of the alleged suspicious intimacy between the defendant and the alleged co-respondent, coupled with the fact that all or nearly all of the affiants are near relatives of the plaintiff, are circumstances of suspicion that justifies the court in requiring the payment of alimony and expense money so that the question may be tried upon the oral evidence of witnesses and not upon affidavits alone.
+While these suggestions are not without some force, yet the fact remains that the learned judge at special term, after carefully considering all the questions involved, reached a conclusion in the exercise of his judicial discretion, that this was not a proper case for the allowance of alimony, or expenses. ■ The granting or refusing an allowance.of alimony and expenses during pendency of the action of divorce rests in the sound discretion of the court at special term, and the exercise of that discretion will not be interfered with on appeal, unless it has been clearly abused. Section 1769 provides that the court may in its discretion, during the pendency of the action, make and modify an order or orders requiring the husband to pay any sum or sums necessary to enable the wife to carry on or defend the action. It is true that in general if a wife who is sued for a divorce, in her answer either denies her guilt or sets up affirmative defenses, such as forgiveness or recrimination, counsel fee and alimony will be allowed her, unless the court is satisfied that she is altogether in the wrong or has no reasonable ground of defense, Clark v. Clark, 7 Robt., 284; Starkweather v. Starkweather, 29 Hun, 490; but when the special term reaches that conclusion from evidence which may reasonably justify it, the appellate court should not interfere with, the exercise of such discretion.
+We cannot see that the discretion was abused in this case and think the order should be affirmed.
+Order affirmed, without costs.
+Putnam and Herrick, JJ., concur.
