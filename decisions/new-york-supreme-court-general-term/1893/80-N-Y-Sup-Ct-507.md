@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-12"
+citations: ["80 N.Y. Sup. Ct. 507"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt, J., concurred."]
+parties: ["John Gillies, Respondent, v. The Manhattan Beach Improvement Company (Limited), Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/80/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4698402
+cites_cases: ["109 N. Y. 291", "18 N. Y. Supp. 869", "70 N. Y. 601"]
+---
+
+# Gillies v. Manhattan Beach Improvement Co.
+
+## Majority (Barnard, P. J.:)
+
+Barnard, P. J.:
+The plaintiff, in his complaint, avers that he performed labor and furnished materials for the defendant, and claims a balance of $25,730.76. The answer avers payment in full, and further, that the work was done under a sealed contract to build a wooden bulkhead, with tide gates, on the south side of Sheepshead Bay at Manhattan Beach, Coney Island; that the work was to be completed by the 8th of April, 1884, to the satisfaction of the defendant’s engineer, and was to be certified by him before any payment was due ; that in case of failure, the engineer was empowered by the plaintiff to fix the just and reasonable damages sustained by the defendant, and charge the same against the plaintiff; that the plaintiff failed to perform in time, and the engineer assessed the defendant’s damages at the sum of $10,000, and that the engineer had not certified the work to be done. The reply avers that the delay in the completion of the work was caused by the changes in the work made by the defendant, and that the delay was assented to by defendant. The reply further avers that the clause in the contract permitting the engineer to assess damages was abrogated by mutual consent, and the reply denies all loss and damages to defendant by the delay in the completion of the -work.
+Upon the trial the amount and value of the work and its completion, to the satisfaction of the engineer, were fully, established by the letter from the engineer to the defendant’s president, July 10,1884. The engineer states that the work was completed July 5, 1884, and that there was due the plaintiff a balance of $7,884.70, not inchiding extra work. The engineer made a final statement of the amount due the plaintiff in July, 1884, to be $9,149.97, which included the extra work ordered by the engineer from time to time.
+There is abundant proof in the case that the delay was caused by extra work ordered by the defendant. There is proof, also, that the plaintiff was directed by'the engineer to stop a part of. the work to await the dredging company’s work,, which was employed by defendant, and that this work was not done until about July 1, 1884. The evidence shows that the plaintiff was entirely able to finish the contract in time but for these interruptions, and the finding that the delay was solely caused by the defendant is well supported. The form of the action is not fatal to the plaintiff’s claim. He sued upon a quantum meruit. After full performance such an action will be supported and the contract price be the measure of damages. The form of the action did not dispense with the certificate of the engineer, which was a prerequisite to a recovery. (Byron v. Low, 109 N. Y. 291.)
+When proof of final completion of the work is given, a recovery may be had upon a complaint framed upon a qua/nbum meruit. ( Williams v. Slote, 70 N. Y. 601; Swan Lamp Manufacturing Co. v. Brush-Swan E. L. Co., 18 N. Y. Supp. 869.)
+The fact that the final estimate was sent to defendant direct, instead of being delivered to plaintiff and by him carried to defendant, is not an important fact in the case. The final estimate was to come from the engineer to the company, and he, in it, states that he has not delivered it to the plaintiff, because of a possible claim for the delay in the completion of the work.
+The judgment should, therefore, be affirmed, with costs.
+Pratt, J., concurred.
+Judgment affirmed, with costs.
