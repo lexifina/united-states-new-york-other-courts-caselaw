@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1884-05"
+citations: ["40 N.Y. Sup. Ct. 111"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P'. J., and Brady, J., concurred."]
+parties: ["GEORGE G. HALLOCK AND ALICE A. HALLOCK, as Executors, etc., of GEORGE G. HALLOCK, Deceased, and SELIG BARANSKI, Appellants, v. RACHEL SCHEYER and EMANUEL SCHEYER, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/40/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1926243
+cites_cases: ["13 Pick., 169"]
+---
+
+# Hallock v. Scheyer
+
+## Majority (Daniels, J. :)
+
+Daniels, J. :
+The plaintiff Baranski and the defendants are occupants of adjoining stores upon Grand street, and partially engaged in the same line of business. It has been shown by the complaint, and sustained by the affidavits, that the defendants have placed a show case, sign and fence, extending from their store out upon the sidewalk in such a manner, and to such a height, as to obstruct the light and obscure the view of Baranski’s show window and of his store,. thereby tending to exclude his customers from it, and to injure his business. The show case and sign together are stated to be of the height of about eight and one-half feet, and they together with their effect are described in the complaint and also in the affidavits in the following manner:
+V. That heretofore, and for many months last past, the said defendants have daily and every day, except Sundays, illegally and improperly placed, erected and maintained, and with like unlawful purpose, object and effect, still continue to so daily place and maintain in front of said premises No. 398 Grand street, so occupied by them as aforesaid, a large structure or show case, and also a solid board fence or barrier projecting beyond the front wall of said last named premises, and nearly on a line between the same and No. 400 Grand street, by which ease and fence or barrier the public, and especially purchasers of such goods, wares and merchandise as are sold and offered' for sale by the plaintiff Baranski, are largely prevented from seeing the show windows and goods exposed for sale by said plaintiff Bai’anski, when approaching his premises from a westerly direction, and also that by the said barrier or fence the light is to a great extent excluded from the show windows of said plaintiff.
+That said show case is about seven feet in height by nearly four feet square, and that upon the top thereof the defendants placed a sign, which extends eighteen inches above the said show case, making the entire height of said show case and sign eight and one-half feet or thereabouts; that they have placed the same out and beyond the stoop line of their said premises, and that said solid board fence or barrier is of the height of six feet and upwards, by about three feet in width, and is placed against the front wall of said premises No. 398 Grand street, and so that the same shuts off a very considerable quantity of light from deponent’s show windows, fróm which the said fence barrier is distant only about one foot.
+The affidavit made by the defendant Emanuel Scheyer in opposition to the motion, does not very materially detract from the strength or accuracy of these statements, and the case was therefore left substantially as it was set forth in the complaint and the accompanying affidavits.
+These statements were sufficient to establish the creation of a nuisance injuriously affecting the business of tbe plaintiff Baranski, and as the defendants bad been requested to remove it, and refused to do so, a cause of action for an injunction was disclosed in tbe case. For an injunction may issue to restrain a nuisance, as tbe remedy in equity is more adequate and better adapted to reach the justice of tbe case than a mere action at law for tbe recovery of damages. (Bemis v. Upham, 13 Pick., 169; Davis v. Mayor, etc., 4 Kern., 506, 526.) It is evident from tbe case that a suit for damages would be ineffectual because of the inability to produce evidence of their extent, and if tbe tenant was confined to such an action for bis redress, it would require to be constantly repeated on account of tbe daily recurrence of tbe obstruction. It is an unlawful use of so much of tbe sidewalk as is occupied by it, and the tenant has just cause of complaint on account of its interference with bis occupancy and enjoyment of the store leased to him.
+Tbe action was not defective because the executors of the lessor were also made parties. (Hilliard on Injunctions [3d ed.], 332.) They bad an interest in securing tbe rental value of the property, and as such cannot be regarded as entire strangers to tbe controversy. For a continuance of the obstruction must to a certain extent reduce tbe value of tbe occupancy of tbe property. But if they were not proper parties, as long as tbe tenant himself is a plaintiff in tbe action and has a well grounded cause of complaint, be may maintain it for tbe relief be may be able to secure, although tbe complaint in tbe end may be dismissed as to the executors. Tbe fact that they may have been joined as unnecessary parties in tbe action forms no legal impediment in bis way to that redress which tbe nature of tbe case indicates him to be entitled to claim.
+Tbe order should be reversed and tbe motion for an injunction should be granted, upon tbe usual undertaking being given, in tbe sum of $400, and tbe plaintiffs should be awarded their costs and •disbursements on this appeal.
+Davis, P'. J., and Brady, J., concurred.
+Order reversed and tbe motion for an injunction granted, upon tbe usual undertaking being given, in tbe sum of $400, and tbe plaintiffs awarded their costs and disbursements on this appeal.
