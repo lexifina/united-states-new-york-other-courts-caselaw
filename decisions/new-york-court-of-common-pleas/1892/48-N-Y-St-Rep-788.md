@@ -1,0 +1,26 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1892-11-07"
+citations: ["48 N.Y. St. Rep. 788", "20 N.Y.S. 656"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George B. F. Hannay, Resp’t, v. Andrew Zerban, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/48/cases/0788-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2089883
+cites_cases: ["11 N. Y. Supp. 577", "16 Daly, 372", "33 St. Rep., 653", "40 N. Y. 486"]
+---
+
+# Hannay v. Zerban
+
+## Majority (Bischoff, J.)
+
+Bischoff, J.
+In reversing a judgment for defendant upon a former appeal herein, the general term of this court, applying the rule that a written contract is to be construed by the court, not by the jury, and that paroi evidence of the intention of the parties is inadmissible to cure a patent ambiguity arising from the omission of language expressly or by implication indicating such intention, pronounced the contract, for defendant’s alleged breach of which plaintiff sought to recover, incapable of any construction which would secure to the defendant the right to terminate plaintiff’s employment before the expiration of the time limited for its endurance upon giving plaintiff one month’s previous notice of his intention to that effect. Hannay v. Zerban, 16 Daly, 372; 33 St. Rep., 653 ; see, also, Blossburg, etc., R. R. Co. v. Tioga R. R. Co., 1 Keyes, 486.
+No subsequent change occurred in the pleadings, the facts proved were substantially the same, and nothing remained, therefore, on the second trial but to ascertain the extent of plaintiff’s damage. It appeared in evidence from plaintiff’s unchallenged testimony that the salary which would have accrued to him under the contract subsequent to his wrongful discharge, after deducting therefrom his earnings from other sources during the same period, was $586.33, and this is the extent of his recovery.
+The several exceptions which were taken to the trial justice’s refusals to dismiss the complaint are predicated upon a construetian of' the contract which was repudiated on the former appeal and is contrary to what thereby became the law of this case. Neither of the exceptions can, therefore, be effectual for the purposes of reversal.
+Other exceptions urged for reversal relate to the exclusion of paroi evidence of the intention of the parties at the time of executing the contract. That such evidence was not admissible was determined on the former appeal, and the cases cited by appellant’s counsel to the contrary severally relate to latent ambiguities and so have no application to- the question here involved.
+As upon the facts plaintiff was entitled to a recovery and to a direction to the jury to that effect, leaving nothing but the amount of damages to be determined by them, no harm can be said to have accrued to the defendant from the submission of the question of the true construction of the contract to the jury, as one of fact.
+The judgment and order appealed from should be affirmed, with - costs.
+Daly, Ch. J., and Pryor, J., concur.
