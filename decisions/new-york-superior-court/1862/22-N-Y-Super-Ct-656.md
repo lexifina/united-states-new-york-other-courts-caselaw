@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1862-11"
+citations: ["9 Bosw. 656", "22 N.Y. Super. Ct. 656"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick Hornby, Plaintiff, v. William Gordon, Defendant."]
+source_url: "https://static.case.law/ny-super-ct/22/cases/0656-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1315608
+---
+
+# Hornby v. Gordon
+
+## Majority (Monell, J.)
+
+Monell, J.
+The section of the Code under which these motions are made (§ 122) provides that “when, “in an action for the recovery of real or personal pro- “ perty, a person not a party to the action, but having an “ interest in the subject thereof, makes application to the “ Court, to be made a party, it may order him to be “ brought in by the proper amendment.”
+This provision is new, and has not, except in one case, that I have been able to find, received a judicial construction. The codifiers, in their notes, (Code, as reported, p. 251,) say:, “ The object of this section is to save the “necessity, in most cases, of an action to compel two “parties, claiming the same thing, to settle the contro- “ versy between them by interpleading. . The interpleader ■ “ act in England was passed for the same purpose.”
+Under the practice, as it prevailed before the Code, the Courts possessed no power, in an action at law, either to bring in parties necessary to a complete determination of the controversy, or to allow a substitution of defendants, (except in the single action of ejectment, 2 R. S., 342,), or to allow parties claiming an interest, in the subject of the suit to apply to be made defendants. It was otherwise in suits in equity, to the extent of allowing other parties to be brought.in. But this was only done where it was necessary that other parties should be before the Court, in order to a complete determination, of the- controversy. (1 Barb, Ch. Pr., 321.)
+The Legislature has deemed it proper'to empower the Courts to add parties in all actions; and in those for the recovery of real or personal property, to allow persons-not parties, to apply to be made such. They may, also*, in these, and in actions upon contracts, upon the application of the defendant* allow a person, not a party to the action, who makes a claim to the same debt or property, to be substituted as defendant. But I do not think the Legislature intended to extend this power beyond that which was possessed by Courts of equity, in all cases which' came under their cognizance, except in its application to certain actions at law; and that they meant to confine it, in principle and practice, to that class of cases where a bill of interpleader would have accomplished the same end. The section of the Code, as enacted, is the same as reported by the codifiers, and their construction of its intended operation and effect is significant of the intention of the Legislature.
+Assuming, then, that such was the design of this provision of the statute, let us apply the principles of inter-pleader to the applications made on these motions.
+A bill of interpleader was allowed, where the complainant claimed no relief against either of the defendants, but where the defendants claiming of him the same debt or duty, by different or separate interests, he was uncertain with which of the claims he ought to comply; in which case he could apply to the Court for leave to pay the money or deliver the property to the one to whom it of right belonged, and thereafter be protected from the claims of both. (2 Barb. Ch. Pr., 117.) The object of the bill was to protect an innocent party against conflicting claims, where a recovery by one might not protect him against a recovery by another. It never, however, was allowed for any other purpose; and I cannot believe the Legislature intended to enlarge or extend this remedy of interpleader to cases not strictly coming within its principles. It cannot be that it was the design to stop the machinery of trials by letting in various and conflicting claims to the same property, whenever they might arise. But even if it were so, the power should be exercised by the Court with great caution, and with due regard to the rights of parties. Especially ought it not to be exercised where there are other and adequate remedies left to claimants'.
+In the case before me, the claims presented by the master and by the persons who made the advance, are different and inconsistent with each other. They arise under different rights, depend upon different principles, and are each antagonistic to the claim of the plaintiff. Each claim the property; one as owner absolute, another in virtue of a lien for freight and charges, the third on account of advances. But one can sustain the right to hold the property. The others must fail; and I cannot well see how, upon one trial, without much embarrassment,' all these diverse and conflicting claims can be disposed of. The applicants have their remedies against the Sheriff, which they have preserved by notice to him of their claims. These remedies, it seems to me, they should pursue in this case.
+The motions must be denied, with five dollars costs, to be paid by each of the applicants to the plaintiff.
