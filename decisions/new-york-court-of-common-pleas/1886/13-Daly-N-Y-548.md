@@ -1,0 +1,40 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1886-06-07"
+citations: ["13 Daly (N.Y.) 548"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["St. Michael’s Protestant Episcopal Church, Respondent, against Charles Behrens et al., Appellants."]
+source_url: "https://static.case.law/daly-ny/13/cases/0548-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1606707
+cites_cases: ["10 How. Pr. 403", "11 How. Pr. 149", "12 Daly 398", "46 N. Y. 46", "66 N. Y. 652", "87 N. Y. 98", "94 N. Y. 401"]
+---
+
+# St. Michael's Protestant Episcopal Church v. Behrens
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+The respondent takes a preliminary objection to the hearing of the re-argument, on the ground that the order granting it was made too late. The order of affirmance was entered January 8th, 1886. The judgment of affirmance was entered January 14th,. 1886, and the order for re-argument was not granted until the 15th of January, 1886. •
+. In the cases cited by the respondent the return had either been sent down from the appellate court to the court below, or in some other way the court had lost jurisdiction, but in the case at bar the return and the judgment entered on it remain in this court. The court has control over its own records, and in Cochran v. Ingersoll (66 N. Y. 652), where the General Term not only reversed the order appealed from, but also a referee’s report, and an order confirming the same, although not appealed from, the Court of Appeals say there was no error in its so doing, as all the orders reversed and set aside were bat a series connected with the same matter, and the General Term was authorized to set aside the whole, leaving the records of the court clear and consistent. It is only when the return has been remitted to the court below, and it is no longer a part of the record of this court, that its jurisdiction is lost. We think, therefore, that we have jurisdiction to hear a re-argument in this case.
+The appellants’ first contention is that the action was not brought in the proper district, and the complaint should have been dismissed on defendants’ motion, on that ground.
+The plaintiff is a religious corporation, and its church edifice is situated on Tenth Avenue, between 99th and 100th Streets, in the City of New York, and both the defendants reside at No. 593 Southern Boulevard, near Alexander Avenue.
+Chapter 410, Laws of 1882 (§ 1289), provides that “ an action or proceeding of which ” District Courts have jurisdiction must-be brought:
+“ 1. In a court held in a district in which either the plaintiff or defendant, or one of the plaintiffs or one of the • defendants resides,” etc.
+The question, therefore, turns upon where the residence of the plaintiff is.
+The residence of a corporation is deemed to be at the place where its general business is transacted (Conroe v. National Protection Ins. Co., 10 How. Pr. 403; Hubbard v. Same, 11 How. Pr. 149; People v. Cassity, 46 N. Y. 46, 51).
+The object of the incorporation of the plaintiff is to provide a means of holding property in succession and managing it for religious purposes; where it holds divine worship, or the religious purposes it has in view are carried out, is immaterial. In order to determine what district court has jurisdiction in matters of the kind under consideration, we have only to inquire where its business affairs are managed. The return shows that the principal office of the plaintiff is its treasurer’s office, 58 Pine Street, and that it transacts most of its business there. This is within the jurisdiction of the Second District Court, and consequently the motion to dismiss the complaint on the ground of want of jurisdiction was properly denied.
+The second ground of appeal presents a more serious question.
+The action was brought to recover rent of a part of the premises No. 90 Chambers Street, for the quarter ending April 30th, 1885, under a lease from plaintiff to the defendants for a term of one year from May 1st, 1884. To this the defendants interposed an answer claiming that the premises became untenantable by reason of the improper character and condition of the plumbing in the building, whereby the defendants were compelled to vacate the premises leased by them, and that they did so in the month of January, 1885, before entering upon the last quarter.
+On the trial, the lease was offered in evidence; from which it appeared that the defendants agreed to keep the plumbing work, on their part of the premises, in repair. But the defendants gave evidence tending to show that the plumbing work on another part of the premises, which they were not bound to keep in repair, was in such a bad condition, that the urinals overflowed, and a part of their contents ran on defendants’ premises; and that in the mornings the smell was so offensive that the employés could not enter their premises until the smell was dissipated ; and that, at times, this smell was unbearable. Evidence was also given tending to show that this state of affairs was not caused by any fault or neglect of the defendants, and that they called the attention of plaintiff’s agent to the matter sometime before they moved out, but that plaintiff failed to remedy the evil.
+Chapter 345, Laws of 1860, allows the lessees or occupants of a building which, without any fault or neglect on their part, has been injured so as to be untenantable and unfit for occupancy, to surrender it, and relieves them, upon so doing, from liability for rent, unless otherwise expressly provided by written agreement or covenant.
+There is no written agreement or covenant in the lease which prevents the defendants from availing themselves of the provisions of this act in a proper case. And the Court of Appeals have expressly held that defective plumbing work may make a building untenantable and unfit for occupancy (Vann v. Rouse, 94 N. Y. 401; Butler v. Kidder, 87 N. Y. 98; see also Bradley v. De Goicouria, 12 Daly 398).
+We think there Avas sufficient evidence in this case to go to the jury on the question whether the defendants’ premises became untenantable and unfit for occupancy, by reason of the defective plumbing in a part of the building the defendants were not bound to keep in repair, and by reason of the overflow into their premises, without any fault or neglect on their part; and that the justice erred in directing a verdict for plaintiff.
+We also think it was error to exclude' evidence of the effect of the condition of the premises on defendants’ employes, as such evidence has a tendency to show whether the premises were so injured thereby as to be untenantable and fit or unfit for occupancy.
+The record does not show whether or not the plaintiff was a party to the proceedings before the Board of Health. If it Avas not, such proceedings were • not binding on it and Avere properly excluded.
+Evidence of the counterclaim was properly excluded. The liability of the defendants was joint, and not joint and several, therefore a joint judgment only could be rendered against them. The counterclaim is in favor of one of the defendants only. The Code of Civil Procedure has not so far changed the law as to allow such a counterclaim in an action of this kind. Section 501 expressly provides, that “ the counterclaim ” must be “ in favor of the defendant, or one or more defendants, between whom and the plaintiff a separate judgment may be had in the action.”
+But for the error of the justice in not submitting the questions above indicated to the jury, and the exclusion of the evidence as to the effect of the condition of the premises on defendant’s employés, the judgment of this court entered on the 14th of January last must be vacated and set aside, without costs to either party, and the judgment of the court below is hereby reversed and a new trial granted. Costs to abide the event.
+Allen, J., concurred.
+Judgment reversed and new trial granted, with costs to abide event.
