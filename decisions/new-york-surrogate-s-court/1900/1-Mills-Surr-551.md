@@ -1,0 +1,33 @@
+---
+court: "New York Surrogate's Court"
+decided: "1900-05"
+citations: ["1 Mills Surr. 551"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement of the Accounts of Charles F. Taber and Edwin J. Burton, as Administrators, etc., of Mary J. Burton, Deceased."]
+source_url: "https://static.case.law/mills-surr/1/cases/0551-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1064214
+cites_cases: ["103 N. Y. 284", "28 Hun, 336", "92 N. Y. 146"]
+---
+
+# In re the Judicial Settlement of the Accounts of Taber
+
+## Majority (Marcus, S.)
+
+Marcus, S.
+This is a proceeding begun by the administrators of the estate of Mary J. Burton, deceased, for a judicial settlement of their accounts, as such, for the distribution of the assets. Certain of - the heirs-at-law and next of kin of the deceased (mother and sisters) have appeared and filed objections to the accounts, and also raised the question- as to who are entitled to the estate.
+The administrator (Burton) claims to be the husband of the deceased.
+It appears that Burton was, prior to 1892, married to one Ella, who obtained a judgment of divorce against him on the
+ground of his adultery, and prohibiting him from again marrying during her lifetime, and that she is still living.
+The question to be determined in this proceeding is, whether the statute (2 R. S., 139, 140), which reads, “ If any person whose husband or wife shall have absented himself or herself, for the space of five successive years, without being known to such person to be living during that time, shall marry during the lifetime of such absent husband or wife, the marriage shall be void only from the time that its nullity shall be pronounced by a court of competent jurisdiction,” has any application to a case where the husband seeking to take the benefit of this section, has, before his second marriage, been divorced from his former wife for his adultery.
+There would seem to be no doubt, if the rule declared in the Borrowdale case, 28 Hun, 336, decided in 1882, is yet the law, wherein it is said, “ Simmons and Anna had ceased to be husband and wife, when the latter married Borrowdale, and the section quoted only applies in a case of absence of either husband or wife,” so that it was determined that on account of the divorce obtained against Anna for her adultery the relation of husband and wife no longer existed.
+It is also held that the statute quoted has no application fi> the persons who, having previously been husband and wife, have been divorced, and that where a husband procured a judgment of divorce from his wife, forbidding her to marry again, a marriage contracted by her, even under the circumstances prescribed by the statute, is void, and its validity may be asserted by the heirs-at-law and next of kin of the second husband, after his death.
+It is urged, however, that this case no longer declares the law, inasmuch as the Court of Appeals, in People v. Faber, 92 N. Y. 146, changed the rule as determined in Matter of Barrowdale. That court, in Matter of Ensign, 103 N. Y. 284, makes it unnecessary for us to labor with the construction of the opinion in the Faher case, since the court itself has given that construction and defined what the Faber case decides.
+The claim of Burton must, therefore, fail, since the law invoked by him is not applicable to his case.
+The evidence throughout this hearing tends to show a marriage between the deceased and Burton, known as a common-law marriage. There is an entire absence of testimony as to where this alleged marriage was initially contracted.
+Since a common-law marriage, not being specific and ceremonial, necessarily lacks definiteness as to time and place, and is largely made up of a series and succession of facts, such as reputation, cohabitation, admissions, declarations and conduct, such marriage must, therefore, necessarily be presumed to have taken place where the .acts referred to had their existence.
+The law of this State clearly gives the right to the heirs-at-law and next of kin to attack this alleged marriage in this court, and, under the law, the marriage is void.
+As already pointed out, the acts evidencing and establishing a common-law marriage were here in this State. In the absence of a specific, established contract elsewhere, in a jurisdiction which would make the contract valid, I must assume the lex fori applies — that the circumstances and evidence establish a contract forbidden by the statutes of this State.
+Decreed accordingly.
