@@ -1,0 +1,24 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1892-03-07"
+citations: ["44 N.Y. St. Rep. 878"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Jones, Resp’t, v. The New York El. R. R. Co. et al., App’lts. Mary Jones, Ex’rx, Resp’t, v. The New York El. R. R. Co. et al., App’lts. Mary A. Jones et al., Resp’ts, v. The New York El. R. R. Co. et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/44/cases/0878-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2074842
+---
+
+# Jones v. New York El. R. R.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+These actions were brought to restrain the defendants from the operation of their railway in front of respondents’ premises, Nos. 346, 348 and 350 Ninth avenue, in this city. The questions argued in the three cases are substantially the same and may be considered together. Appellants contend that the referee erred in refusing to find that the plaintiffs’ property was benefited by the increased accessibility due to the proximity of defendants’ station.
+It is quite true that there is a station at this corner, but after an examination of the evidence we are not convinced that the referee erred in finding that this property had not been specially benefited by the maintenance and operation of the road and the situation of the station. There is no evidence showing that the rental value of the premises had been increased thereby. The only evidence tending to support appellant’s contention is that of certain experts, who in substance testify that in their judgment the effect of the road had a tendency to increase values because it afforded increased facilities. But the opinion was not backed by any fact on which the referee was bound to predicate such a conclusion.
+Appellants also contend that the referee erred in striking out evidence on the part of the defendants. The evidence so stricken out refers to a contract relating to property on Twenty-second street, which was signed by one of the parties, but did not go through because one of the persons interested in the premises refused to sign it. It is doubtful in the first place whether this was any evidence as to the fee value of property on Thirtieth street; and in the next place, even if it were competent evidence, we do not see how the appellants were injured by its being stricken out, as the case shows that other evidence of the course of values in the immediate vicinity was freely admitted.
+The only other question raised on this appeal was as to the allowance by the referee of damages caused by the running of appellants’ trains on their elevated railway. This has been discussed in the case of Smith v. Elev. R’y, a decision in which is handed down herewith.
+The judgments in the three cases should therefore be affirmed,, with costs to the respondents.
+Bookstaveb, Bischoff and Pryor, JJ., coficur.
