@@ -1,0 +1,20 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1894-04-02"
+citations: ["58 N.Y. St. Rep. 389", "28 N.Y.S. 1138"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Risk, Resp’t, v. Richard Uffelman et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/58/cases/0389-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 705343
+cites_cases: ["27 N. Y. Supp. 392", "57 St. Rep. 102"]
+---
+
+# Risk v. Uffelman
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The very exhaustive opinion delivered upon the affirmance of the judgment appealed from leaves no room for doubting its measure of exact justice. Risk v. Uffelman, 27 N. Y. Supp. 392 ; 57 St. Rep. 102. The flagrant, almost criminal, abuse of judicial process, upon which the judgment is founded, does not commend the appellants to favorable consideration in so far as their present motion is addressed to the discretion of the court. But the judgment is mainly predicated of a conflict of evidence and the questions of law involved are not of so novel or intricate a character that we feel justified in remitting them to the attention of the court of appeals, and for those reasons we deny the motion. Motion denied with $10 costs.
