@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-10-24"
+citations: ["33 N.Y. St. Rep. 842", "11 N.Y.S. 512"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ez rel. D. Willis James et al. v. Edward Gilon et al., Assessors."]
+source_url: "https://static.case.law/ny-st-rep/33/cases/0842-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2043068
+---
+
+# People ex rel. James v. Gilon
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The expenses of paving the avenue were to no extent whatever assessed against the Ninth Avenue Eailroad Company, which owned and operated a street railroad through that part of Tenth avenue brought in question by this proceeding, but, it was wholly assessed among the owners and occupants of houses and lots considered to be benefited by the pavement.
+• As to these facts, and the reasons for omitting the property of the company in the avenue, the assessors have returned 'that:
+There were and are in said avenue, between Seventy-fourth-and One Hundred and Tenth streets, a double line of tracks used and operated by a horse railroad company, claimed to be the Ninth Avenue Eailroad Company, and the avenue has been paved between and about the said railroad tracks, and the amount thereof included in the above gross amount of paving done on said avenue, and assessed upon said houses and lots, as aforesaid.
+The board of assessors have not assessed the said railroad company nor the road-bed and structure of the said railroad, because, in their opinion, said road-bed and structure have not been benefited, and are not under the laws of this state assessable for a local improvement of this character.
+And they thereby literally followed the resolution of the common council by which the pavement was ordered. In form it followed § 185 of chap. 86 of the Laws of 1813, which has since been included in chap. 410 of the Laws of 1882, as § 878.
+But this section since its enactment has been changed by more recent legislation, directing that the expenses of local improvements, including the pavement of streets and avenues of the city, shall be assessed upon the property benefited by the improvement Chap. 410, Laws 1882, §§ 868, 899. That enlarged the range of the property to be assessed for expenses, from the owners and occupants of the houses and lots mentioned in this section of the act of 1813 to all property benefited by the improvement. Laws 1882, chap. 410, §§ 899, 868, subd. 2.
+And it was upon all that property that the assessors were directed, by this change in the law, to assess the expenses of this pavement. That was the paramount and mandatory authority it had in this manner been made their duty to follow. And in its performance they were left with no discretion. Justice and equality required this distribution of the expenses, and these changes from the language of the old law were intended to secure that end. They were well expressed to promote that result, and no other intention can be fairly inferred from what had been made the law previous to the time of these assessments. The old law was made a part of the act to consolidate into one act the laws affecting the city of New York only as it had been necessarily changed by the later legislation, also made a part of that act, making all the property benefited by the improvement assessable for its. expenses. And in that manner it should be carried into effect. For a preceding law remains in force, after later legislation on the same subject, only as it may have been modified, or necessarily changed by that legislation.
+This railroad was so far improved by the pavement as that had included the spaces between its rails and its tracksi That was a substantial benefit to the property of the railway company, as it had been permanently located in the avenue. And for the expenses of conferring that benefit the owners and occupants of the houses and lots were not legally, or justly, liable to pay. As well might the property in one block, or on one side of the avenue, be charged with the whole expense of the pavement. The principle that will permit one, will support the other. But it cannot be sanctioned, as long as the constitution does not allow one person’s property to be taken to pay the debt or extinguish the obligation of another. The law has been wisely framed to avoid that injustice, and to make all property benefited by the improvement bear its proportionate part of the expenses incurred. And the assessment on the relators and their property should have conformed to its principle and intent, by excluding from it the expense of so much of the improvement as benefited the property of the railway company in the avenue.
+The fact that the assessments had been transmitted to the board of correction and revision forms no legal obstacle in the way of reviewing the action of the assessors. For by § 2 of chap. 269, of the Laws of 1880, it has been declared that, “a writ of certiorari allowed under this act shall not stay the proceedings of the assessors, or other officers to whom it is directed or to whom the assessment-roll may be delivered to be acted upon according to law.”
+For the reasons given and others contained in the opinion in the case of People ex rel. Davidson v. Gilon, the proceedings should be reversed, with directions to -the assessors to charge against the owners and occupants of the houses and lots no part of the expenses of so much of the pavement as benefited the property of the railway company permanently located in and made a part of the avenue. And to assess against the houses and lots and their owners or occupants thereof no more than their proportionate part of the expenses of the pavement for the benefit received by them and their property from the pavement.
+Beady, J., concurs; Van Brunt, P. J., dissents.
