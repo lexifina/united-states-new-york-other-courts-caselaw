@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-10-22"
+citations: ["3 N.Y. St. Rep. 484"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adelbert C. Merritt, App’lt, v. Oliver C. Merritt and Oliver Sutton, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/3/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1978540
+---
+
+# Merritt v. Merritt
+
+## Majority (Haight, J.)
+
+Haight, J.
+The defendant, Oliver C. Merritt, was the owner of the lands in question, and on or about the 1st day of April, 1880, entered into a written agreement with the plaintiff to let or lease to the plaintiff twenty-five acres of land, particularly describing them, for the term of one year, to work upon shares, each party to furnish one-half of the seed for sowing and planting, to pay one-half of the taxes assessed on the place, and to have one-half of the proceeds. That pursuant to the agreement the plaintiff entered upon the performance of the contract and worked the lands upon shares until the 1st day of April, 1884; that on or about the last named day the defendant Merritt entered into an agreement with the defendant Sutton to work the lands, who entered upon the performance of his agreement, and was so engaged at the time this action was commenced.
+This action was brought to recover damages for trespass and for an injunction perpetually enjoining and restraining the defendants from entering upon, digging, plowing, planting, working, or in any way interfering with or trespassing upon the lands in question. On or about the 3d day of March, 1884, the defendant Merritt executed and delivered to Mary E. Merritt, the wife of the plaintiff, a deed of the house and lot, consisting of about six acres, being a part of said lands, no part of which, however, was interfered with by the defendants.
+The referee found as conclusions of law that the agreement entered into between the plaintiff and the defendant, Merritt, on or about the 1st day of April, 1880, did not create the relation of landlord and tenant between the parties, but, on the contrary, the agreement was one by which the plaintiff was to work the lands and premises on shares, and created the parties tenants in common of the crops raised under and by virtue of the agreement, and that the position of the plaintiff under the agreement was that of the defendant, Merritt, the owner; that the plaintiff’s complaint should be dismissed and the temporary injunction procured by him vacated, and ordered judgment accordingly.
+It is now contended on the part of the appellant that the contract between the plaintiff and the defendant, Merritt, was a lease, and that a tenancy from year to year had been created, and that it was not determined by any written notice to quit. We, however, have not thought it necessary to discuss this question for the reason that we think the case must be disposed of upon other grounds.
+The referee has found as a fact that the lease or contract was not renewed after April 1, 1884; “ That during the year 1884, and down to the 1st day of April, 1884, and thereafter, the plaintiff contemplated disposing of his goods and chattels and farming implements, and removing west; and also frequently, during that time, stated to the defendant, Merritt, and others, that he would not work defendant’s'premises longer, and defendant Merritt assented to plaintiff’s proposition not to work the same; that on or about the 1st day of March, 1884, the defendant Merritt had a conversation" with the defendant Sutton, allowing him (Sutton) to work his (Merritt’s) farm, including the six acre lot in question, on shares, and pasturing his live stock in common with the live stock of the defendant Merritt in said enclosed swamp pasture lot, and plaintiff was duly notified and had due notice thereof, and assented to the same, and also stated that he would not work defendant’s premises longer, and that defendant Merritt might do as he pleased with said premises; which statements of plaintiff were communicated to each of the defendants immediately after the same were made.” It is true that the evidence upon this subject was conflicting, but there was ample evidence to sustain the referee’s finding in this regard, and in our mind it effectually disposes of the claim of the appellant, for if he notified the defendant Merritt prior to the 1st day of April, 1884, that he would no longer work the premises, that he was going west, and the defendant assented to the proposition that he need not work the premises longer, and thereupon the defendant Merritt entered into a contract with the defendant Sutton to work the premises, of which contract the plaintiff had due notice, and after notice assented to the same, surely he cannot after this insist that he was a tenant from year to year and entitled to notice to quit.
+Some exceptions were taken by the plaintiff to the admission of evidence in reference to the paroi contract between the defendants; but this evidence becomes unimportant under the view which we have taken of the case, and its exclusion could not change the result.
+The judgment should be affirmed, with costs.
+Smith, P. J., Barker and Bradley, JJ., concur.
