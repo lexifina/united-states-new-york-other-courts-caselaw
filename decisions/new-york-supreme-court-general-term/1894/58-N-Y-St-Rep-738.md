@@ -1,0 +1,19 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-02-12"
+citations: ["58 N.Y. St. Rep. 738"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bernard Keilt, Resp’t, v. Staten Island Rapid-Transit Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/58/cases/0738-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 705422
+---
+
+# Keilt v. Staten Island Rapid-Transit Co.
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+The plaintiff having prevailed before the jury, we must regard his version of the facts as established. He testified that he first saw the gate descending upon him when it was about 18 inches above his head, and á little in front of him. He was going fast,—upon a “dog trot,” as he described it. He continued to advance, but, before he could clear the gate, it fell upon him, and inflicted injury. The defense argue that this recital convicts plaintiff of negligence, in that he did not stop before going under the gate. The jury did not take that view; neither do we. The time that elapsed from the time he saw the gate until it struck him was probably less than a second, and he might well judge that the safest way to avoid the gate was to hasten forward. The crowd behind him" might well impede any effort to return, and it would seem that his safest plan was to hurry forward. The charge of the court was as favorable as defendant had a right to ask. The negligence of defendant is clear in having a gate suspended above the passageway, which would fall so rapidly, and which could not be controlled by the operator. Judgment affirmed.
