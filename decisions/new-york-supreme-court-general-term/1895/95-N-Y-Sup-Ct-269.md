@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-07"
+citations: ["95 N.Y. Sup. Ct. 269"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MaetiN and MerwiN, JJ., concurred."]
+parties: ["Mary Ryan, as Administratrix, etc., of Ernest C. Ryan, Deceased, Respondent, v. The New York Central and Hudson River Railroad Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/95/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8593905
+cites_cases: ["107 N. Y. 374", "138 N. Y. 641", "139 N. Y. 302", "152 U. S. 684", "45 N. Y. St. Repr. 154", "84 Hun, 231"]
+---
+
+# Ryan v. New York Central & Hudson River Railroad
+
+## Majority (IÍAEDIN, P. J. :)
+
+IÍAEDIN, P. J. :
+On the 26th of August, 1893, plaintiffs intestate was in the employ of the West Shore railroad (operated by the defendant) as a brakeman, and Avas on train No. 75 going west when he received injuries from which he died the next day. About a half mile east of Auriesville, while sitting in the cab of the engine, the deceased, it is claimed, was struck by a board projecting from a car loaded with lumber passing east on the adjacent track.
+The evidence tended to show that a stake was dozy, rotten and imperfect which passed into a socket on the side of the car loaded with lumber, and that the lumber got loosened and thus allowed a board to project from the pile, which struck the intestate, injuring him. The board, when examined after the accident, was covered with hair and blood ; a piece had been split therefrom, and, subsequent to the accident, near where it occurred, the piece was found, and that was covered with hair and blood. The evidence given by the plaintiff tended to show that the stake was rotten and imperfect, •and, by reason thereof, the accident occurred. The defendant gave evidence tending to show several inspections of the loáds of lumber •while the train was passing eastward, and the nature and character of such inspection. If, however, the stake was rotten and imperfect, to the extent described by the witness Parsons, the inspection was inadequate, and the duty of the defendant in that regard had not been discharged, inasmuch as “ there was a negligent failure to discover it.” (Bailey v. R., W. & O. R. R. Co., 139 N. Y. 302; Union Pacific Railway v. Daniels, 152 U. S. 684.) It was the •duty of the defendant to provide safe appliances and apparatus for the use of its employees. Providing a decayed, rotten, dozy stake to hold the binders of the lumber was not a compliance with the duty the defendant owed its employees. The stakes were necessary to secure the lumber properly while in transit, and if the defendant failed to exercise proper care in respect to their condition it was chargeable with negligence. (Bushby v. N. Y., L. E. & W. R. R. Co., 107 N. Y. 374; Dougherty v. R., W. & O. R. R. Co., 45 N. Y. St. Repr. 154; S. C. affd., 138 N. Y. 641; Redington v. The N. Y., O. & W. R. R. Co., 84 Hun, 231.)
+Upon all the facts and circumstances and evidence disclosed it was for the jury to determine whether the defendant had discharged its duty in the premises. Doubtless the jury gave faith and credit to the evidence of Parsons. We do not find facts and circumstances contradicting liis evidence of such a nature and character as to warrant us in setting aside the verdict as-unsupported by evidence in regard to the question of defendant’s negligence and the intestate’s freedom from contributory negligence. When the trains passed each other they were moving at about the rate of eighteen miles per hour. Under the rules and practices sanctioned by the defendant, as well as the express authorization given by the train-master, Ford, for bralcemen to ride upon the engine, we think the jury were at liberty to find that the deceased, at the time of the accident, was not violating the regulations and instructions of the defendant by riding in the cab of the engine. The trial judge charged broadly that if the negligence of a fellow-brakeman caused the injuries a recovery could not be had and that the jury must find it was tiie negligence of defendant solely that caused the injury, and in that case the defendant was liable. The charge seems to have been as favorable as the defendant was entitled to under the evidence. The trial j ndge refused to charge “ that the evidence does not warrant the inference that the death of plaintiff’s intestate was caused by the defect in the stake or binder on the car in question.” He had already charged that plaintiff could not recover “ unless the projecting board reached such a position at the time of the accident as to have struck Ryan by reason of the defect in the stake and binder on tlie car in question.” We think the court properly allowed the jury, after considering all the evidence and» circumstances presented, to draw the natural and legitimate inferences therefrom in determiningTiow the intestate received the injuries causing his death.
+The judgment and order should be affirmed, with costs.
+MaetiN and MerwiN, JJ., concurred.
+Judgment and order affirmed, with costs.
