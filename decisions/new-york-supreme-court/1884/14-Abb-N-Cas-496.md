@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1884-09"
+citations: ["14 Abb. N. Cas. 496"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BORD v. N. Y. CENTRAL, &c. R. R. Co."]
+source_url: "https://static.case.law/abbn-cas/14/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 630204
+---
+
+# Bord v. N. Y. Central, &c. Railroad
+
+## Majority (Westbbook, J.)
+
+Westbbook, J.
+The plaintiff, after a severe contest at the present circuit, recovered a verdict of two thousand dollars in the above entitled cause.
+The action was brought under section 1902 of the Code of Civil Procedure to recover compensation for the death of a son.
+The plaintiff moved for an extra allowance under section 3253, and asked that it be computed upon the sum awarded by the jury, with the interest thereon added from the date of the decedent’s death (January 19, 1877), which interest the clerk is required by section 1904, to “ add to the sum awarded” by the jury, “ and include it in the judgment.”
+The defendant conceded the case to be “a difficult and extraordinary ” one, and that an allowance was proper, but insisted that it should be computed upon the amount of the verdict only.
+The question which this motion presents, therefore, is, upon what shall the allowance be computed ; upon the amount of the verdict only, or upon such amount with interest, added from the date of the death ?•
+The language of the section (3253) giving the allowance, and which is applicable to this case, requires it to be computed “ upon the sum recovered.” The claim of the plaintiff was that “ the sum recovered” is the amount of the damages which he recovers by the action ; while the claim of the defendant is that the expression only refers to the amount awarded by the verdict.
+The point involved has not been directly decided to my knowledge, and must therefore be treated as an original question.
+In an action of this character when the plaintiff recovers, the jury, the court, or the referee, to whom the question is submitted, may award “ such a sum, not exceeding five thousand dollars” as they or he deem or “deems to be a fair and just compensation for the pecuniary injuries resulting from the decedent’s death to the person or persons, for whose benefit the action is brought.” The same section of the Code (1904), from which the quotation has just been made, further provides : “When final judgment for the plaintiff is rendered, the clerk must add to the sum so awarded, interest thereupon from the decedent’s death, and include it in the judgment. The inquisition, verdict, report or decision may specify the day from which the interest is to be computed ; if it omits so to do, the day may be determined by the clerk, upon affidavits.”
+From the section of the. Code just referred to, it seems reasonably clear that “ the sum recovered” in this action is not only the amount of the verdict, which represented the judgment of the jury as to what would be “a fair and just compensation for the pecuniary injuries” to the plaintiff “resulting from the decedent’s death,” but also the interest upon such amount from the date of the death. That such interest is required by express statutory enactment to be added does not make such addition anything, other or different than a part of “the sum recovered.” If the Code had authorized the jury to make the interest a part of the verdict, and that in fact had been done, the point that the allowance should be confined to the jury’s estimate of the “pecuniary injuries” resulting from the death, would not probably have been made. That the Code has by plain words made the interest a part of “the sum recovered” and has not left its allowance or non-allowance to the discretion of the jury, cannot alter or change the words of section 3252. That section does not provide that the allowance shall be based upon the amount of a verdict, a decision of a court, or the report of a referee, but “upon the sum recovered.” In other words, the allowance shall be made upon the damages which are awarded to the party by the action. These damages may be such only as a jury, a court or a referee may compute, or may be given solely by statute, or may depend, as in this case, partly on both; but, whether given in either of the ways mentioned, so long as they represent “ the sum recovered,” that sum, and no other, is the one upon which the allowance is to be computed.
+The order in this case will be that the allowance granted shall be computed upon the verdict with the interest added from the date of the decedent’s death. The allowance in this case will be at the rate of five per cent., because that rate in this particular case is not too much. If the basis of the allowance will yield in some future case too large a sum, the rate is in the discretion of the court. The only point now decided is that the expression, “ the sum recovered,” used in section 3253 of the Code, includes and covers all the damages awarded to a party, and recovered by him in an action.
