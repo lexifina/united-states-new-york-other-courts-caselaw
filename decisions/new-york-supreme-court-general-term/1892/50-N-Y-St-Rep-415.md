@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-12-16"
+citations: ["50 N.Y. St. Rep. 415"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Pittsfield National Bank, Resp't, v. William H. Tailer, Impl'd, App'lt."]
+source_url: "https://static.case.law/ny-st-rep/50/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2096244
+cites_cases: ["14 Abb. Pr., 188", "16 St. Rep., 255", "32 St. Rep., 212", "37 N. Y., 242", "41 N. Y. Supr. Ct., 456", "48 Hun, 586", "51 How. Pr., 367", "57 Hun, 110", "95 N. Y., 486"]
+---
+
+# Pittsfield National Bank v. Tailer
+
+## Majority (Barrett, J. Van Brunt, P. J.)
+
+Barrett, J.
+Two objections are made to the order appealed from. The first is that a certified copy of the judgment was not served upon Mr. Tailer; the second, that the undertaking, which was given upon appeal to the court of appeals, stayed proceedings upon that part of the judgment which directed Mr. Tailer to pay, out of the property of his assignors in his hands, a specified sum of money. The judgment here is somewhat unusual. It first adjudges the general assignment made by the firm of Ross, Campbell & Co. to be fraudulent and void, and then directs the assignee (Tailer) to pay to the plaintiff, out of the property and assets of the firm in his hands, the amount of the plaintiff’s judgment, with .interest and costs. This part of the judgment is unconditional and final, and is complete in itself. But a further provision follows, namely, that in case Tailer “does not make such payment within ten days after the service upon him of a certified copy of this decree,” then he shall pay over to a receiver all the property and assets of the firm of Ross, Campbell & Co. in his hands; that he account therefor to such receiver; and that the receiver thereupon sell said property, and out of the proceeds of sale pay to the plaintiff the amount of his judgment, interest and costs. Upon this state of facts, it was a complete answer to the plaintiff’s motion that the judgment had not been personally served upon Mr. Tailer.
+He could not be in contempt until the expiration of ton days after service upon him of a certified copy of the judgment. Such was the tenor of the judgment itself. But, even if no provision in that respect had been made therein, it could only be enforced by punishment for contempt in case Mr. Tailer refused to obey its commands after service upon him “ of a certified copy thereof.” Code Civ. Pro., § 1241. Service upon a party’s attorney is not sufficient to bring him into contempt. The well known case of Pitt v. Davison, 37 N. Y., 242, is cited in support of the opposite doctrine, but that case merely holds that the papers upon a motion to punish for a civil contempt may, when so directed by the court, be served upon the attorney for the party who is proceeded against, the motion being a proceeding in the action. There is a clear distinction between the act which constitutes the contempt and the proceeding to punish therefor. The attorney cannot bring about his client’s guilt, although the remedy, when the offense has been committed, may, by judicial direction, be enforced in the ordinary way. The contempt itself, however, can only be predicated of the client’s own act; that is, of his refusal or neglect to obey the judgment after personal service of a certified copy thereof upon him, as required by law.
+The fact that a party is aware of the judgment, that he has appealed from it, that he has recognized its existence in other ways, is entirely immaterial. A party may, doubtless, be punished for violating an order or' judgment of which he has notice, but he cannot be punished for failure ^to do something which he is commanded to do, except in the manner and upon the condition specified in the statute.
+The second objection is equally fatal. The undertaking given by the appellant stayed proceedings upon that part of the judgment which directed the payment of money. It is well settled that the judgment in this respect could have been enforced by execution, none the less because the defendant is required to pay the amount out of the property and assets in his hands. Randall v. Dusenbury, 51 How. Pr., 367; aff’d 41 N. Y. Supr. Ct., 456; In re Hess, 48 Hun, 586; 16 St. Rep., 255; Fassett v. Tallmadge, 14 Abb. Pr., 188. And see Myers v. Becker, 95 N. Y., 486, where Randall v. Dusenbury is cited; and Ross v. Butler, 57 Hun, 110; 32 St. Rep., 212. The money judgment is here the foundation of what follows. It is, in effect, the substantial judgment in the action, and the direction, in case of nonpayment, to turn over the property to a receiver, is but an aid to the enforcement of such money judgment. So long, then, as the enforcement of the judgment directing payment of a specific sum of money is stayed, a compliance with the subsequent provision in aid of such judgment cannot well be exacted; otherwise, "the plaintiff would be permitted to go on and collect, through the receiver, the very judgment as to which he is stayed.
+The order appealed from should, therefore, be reversed, with ten dollars costs and disbursements, payable by the plaintiff, but not by the receiver; and the motion to punish for contempt denied, with ten dollars costs.
+Van Brunt, P. J.
+ithout in any way conceding the power of the court to enforce obedience to the money judgment by proceedings for contempt, I concur.
+O’Brien, J., concurs.
