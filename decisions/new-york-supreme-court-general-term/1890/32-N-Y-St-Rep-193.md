@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-05-23"
+citations: ["32 N.Y. St. Rep. 193"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Darker, Pl’ff, v. John M. Beck, Def’t."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0193-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039711
+cites_cases: ["58 N. Y., 267"]
+---
+
+# Darker v. Beck
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+We do not see but that" the principles laid down in the case of Wheeler v. Clark, 58 N. Y., 267, dispose of the question involved in this action.
+In that case the owner of certain lands bounded by the center of a public highway divided the same into lots, and filed a map thereof showing said highway and various other streets; four of said lots he conveyed by numbers and by metes and bounds; the deed also contained a clause in substance conveying also all the lands forming the streets in front of said lots to the center thereof, “ subject to the use of said land by all the owners of lots laid down on said map, and by the public generally as public streets, ” said streets to be opened and to remain open accordingly, and it was held that the clause could not be construed-as intending to reserve a private right of way over the land occupied by said highway or any right additional to that of the public, the same simply being subject to public necessity and authority; and that,, therefore, upon the discontinuance of said highway the owner was entitled to occupy the land to the centre thereof and th.e plaintiff, the owner of another lot, was not entitled to a right of way over the same.
+It is claimed that the case cited is not an authority because One Hundred and Forty-seventh street had not been formally opened, and hence was not a public highway. This street had, however, been laid down as a proposed public street upon the commissioners’ map, and Bradhurst, in his maps and deeds, simply recognized this fact. He treated it as a proposed public highway which would in the future be legally opened, and there evidently was no intention on his part to give to his grantees, by simply marking out this proposed street on the map by which he sold, greater rights upon parts not in point of the lots sold than were to be enjoyed by the public generally when the street should be formally opened.
+The owner, in placing the proposed street upon his map, merely recognized that which the commissioners’ duly authorized had already indicated as the location of the street, which was to be opened in the future, and evidently had no intention of creating greater rights upon the purchasers of lots than they would have enjoyed had the street been actually and formally opened.
+His position is not the case of an owner who lays out a new street through his property for the benefit of all the purchasers of lots, and therefore the rule applicable to the cases where rights of way oyer private streets are acquired by implication cannot govern.
+The plaintiff should, therefore, have judgment for a specific performance and for costs and an extra allowance of $250.
+Barrett and Bartlett, JJ., concur.
