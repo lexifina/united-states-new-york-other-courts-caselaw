@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1887-04"
+citations: ["51 N.Y. Sup. Ct. 296"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin, P. J., and Boardman, J\"., concurred."]
+parties: ["WILLIAM H. DELMORE, Appellant, v. RICHARD L. OWEN, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/51/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4537615
+---
+
+# Delmore v. Owen
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+Appeal from an order vacating an attachment upon the motion of a subsequent attaching creditor. The attachment vacated was granted upon the affidavits of the plaintiff, Thomas Bennett and Alzina Owen, upon the ground that the defendant had departed from the State of New Tort with intent to defraud his creditors, which ground is recited in the warrant, and this fact is not questioned. James H. Phelps subsequently obtained and levied an attachment upon the chattels seized by Delmore’s attachment, and upon the strength of the lien so acquired, moved to vacate Delmore’s attachment upon the ground that a cause of action was not stated in the affidavits on which the warrant was granted.
+The decision at Special Term was placed upon the ground that the language of the affidavit does not aver the existence of facts sufficient to constitute a cause of action, but is merely descriptive of a cause' of action, or of facts constituting a cause of action. The language of the affidavit does not, fairly construed, justify this conclusion, and we are of the opinion that a cause of action is sufficiently averred to support the attachment. This motion was made upon the papers on which the warrant was granted, “ and upon all the papers had, used or served in said action.” A verified complaint had previously been filed and used to obtain an order for the publication of the summons against the absconding .defendant. This complaint appears in the appeal book without objection that it was not used on the motion, and the order appealed from recites that it was read on the motion. Facts constituting a cause of action are alleged in this complaint, and from' all of the papers on which James H. Phelps moved to vacate the plaintiff’s attachment, it clearly appears that a cause of action existed in favor of the plaintiff at the time his attachment was granted. The papers on which Phelps’ attachment was issued are contained in the appeal book, without objection, and they were, presumably, before the Special Term, and they do not show that Phelps was entitled “ to recover a sum stated therein, over and above all counter-claims known to him,” nor do the papers contain an equivalent allegation, or any allegation in respect to counter-claims. This was a fatal defect, but the court refused to consider it, holding that a subsequent attaching creditor was entitled to make the motion, though the papers upon which his attachment was granted did not confer jurisdiction. This was error. “ The defendant, or a person who has acquired a lien upon, or interest m his property, after it was attached, may * * * apply to vacate or modify the warrant.” (Code Civ. Pro., § 682.) A person, other than the defendant must show that he has acquired a lien upon, or interest in the property held under the prior attachment before he has any standing in court to move to vacate the prior attachment. "Whether he has such a lien is a question which the prior attaching creditor may dispute, and if the facts be decided against the moving party, his motion must fail. In this case it clearly appears that the moving creditor had not acquired a valid lien upon the property.
+The order is reversed, with ten dollars costs and printing disbursements ; and the motion is denied, with ten dollars costs.
+Hardin, P. J., and Boardman, J"., concurred.
+Order reversed, with ten dollars costs and disbursements, and motion denied, with ten dollars costs.
