@@ -1,0 +1,32 @@
+---
+court: "New York Surrogate's Court"
+decided: "1891-01-17"
+citations: ["35 N.Y. St. Rep. 245"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter, of the Estate of James Arthur Nagel, deceased."]
+source_url: "https://static.case.law/ny-st-rep/35/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 673999
+cites_cases: ["1 Edw. Ch., 411", "119 N.Y., 441", "3 Dem., 619", "35 Barb., 479", "4 Hun, 753", "9 N. Y., 502"]
+---
+
+# In re the Estate of Nagel
+
+## Majority (Spring, S.)
+
+Spring, S.
+The real estate of testator has been sold for the payment of his debts by proceedings for that purpose in surrogate’s court, and the entire proceeds of sale will' be insufficient for their payment in full.
+His widow claims dower in his real estate, and consequently in the avails of this sale.
+Nagel died in June, 1887. He left a last will and testament, in which he devised to his wife one-third of the rents, use and income of his real estate, and also gave her a bequest of $100, providing explicitly this devise and bequest should be in lieu of dower.
+In 1890, nearly three years after the death of Nagel, his widow, who had then re-married, made and caused to be filed a paper in this proceeding, in which she in'form renounced her right to this devise and bequest, intending thereby to take her portion as widow in the proceeds of this sale.
+Her election was made too late. The statute requires her to come to this decision within a year after the death of her husband, and, in case of her failure so to do, “ she shall be deemed to have elected ” to take under the will. Revised Statutes, part 2, chap. 1, title 3, 88 13 and 14; Palmer v. Voorhis, 35 Barb., 479; Pomeroy’s Eq, Juris., § 496.
+And her ignorance of the condition of her husband’s estate, or the fact that the testamentary provision is disproportionate to the value of her dower, does not relieve her from the effect of this statute. Akin v. Kellogg, 119 N.Y., 441; 29 N.Y. State Rep., 561; Lewis v. Smith, 9 N. Y., 502-511; Pomeroy’s Eq. Juris., § 496.
+But the counsel for the widow urges that in°case the statute of limitations has run sufficiently long to prevent her from making the election under the statute, that the provision in the will operates as a contract whereby she will receive the bequest and devise preferentially to creditors and legatees. While this construction is probably correct as against legatees, yet it has been uniformly held the rule does n ot apply when the rights of creditors are involved. Isenhart v. Brown, 1 Edw. Ch., 411; Babcock v. Stoddard, 3 T. & C., 207; Beekman v. Vanderveer, 3 Dem., 619; Sanford v. Sanford, 4 Hun, 753.
+The legatees as such have no legal claims upon the testator’s property. They are the objects of his voluntary bounty. So the reason for the rule as applied to creditors does not exist when the rights of the legatees are brought in contact with the provisions for the widow. If the construction claimed obtained against creditors as well as against legatees an unscrupulous debtor could within the pale of the law effectually deprive his creditors of any share in his estate after his death. He could will all of his property to his wife in lieu of dower and without any active participate on her part she could retain the entire estate to the exclusion of his creditors.
+The proofs show the widow continued to occupy her husband’s property after his de.ath the same as during his lifetime. The real estate consisted of a hotel and she continued in the management of this hotel for two or three years after his death. Counsel claims this was “ an entry upon the lands to be assigned to her for her dower,” thus making an election within the statute. I do not think her conduct has any such significance. She had minor children and with them continued in the occupation of all the property left by her husband.
+There was no specific setting apart of any of it in her occupation. She held the land in common with the children, making a home for them all the same as before her husband’s death. Her occupation was the same as that of nearly every family of a decedent A farmer dies leaving a bequest to his widow in lieu of dower. In by far the greater majority of cases she and her children will continue to occupy and carry on the fai'm on the lines marked out by the decedent; but this cannot constitute “an entry on the lands to be assigned to her for her dower.” That means a positive, unequivocal act announcing her determination to make an election. The presumption is she will accept the provisions of the will rather than her dower. Wigrajn on Wills, Extrinsic Evidence, 246.
+And she must overcome this presumption by the positive act of election provided for in the statute; this cannot be done by conduct more in harmony with an acceptance of the provisions of the will than in hostility to it Suppose the hotel property had been willed to her either absolutely or for life, would her occupation then be construed as an act in rejection of the provisions of the will and an intention to elect to receive her dower interest therein? The occupation would be the natural and reasonable consequence of the devise. Where is the difference in the rule when the devise is limited to a third of the rents ?
+She has a year in which to acquaint herself with the condition of her husband’s estate, and if within that time she desires to receive an assignment óf her dower rather than the testamentary provisions in her favor she is called upon to assert that wish by unmistakable conduct on her part
+This rule may often be a harsh one, as in this case, but there is no way out of the predicament without violating the plain terms of the statute.
