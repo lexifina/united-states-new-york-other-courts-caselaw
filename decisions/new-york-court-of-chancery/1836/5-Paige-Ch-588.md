@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1836-03-15"
+citations: ["5 Paige Ch. 588"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mitchell and others vs. Blain and others."]
+source_url: "https://static.case.law/paige-ch/5/cases/0588-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2052514
+---
+
+# Mitchell v. Blain
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+By the provision of the revised statutes, on this subject, it is very evident that the post-test amentary child is only entitled to one fourth of two thirds of the testator’s personal estate, after payment of debts and funeral expenses, and the expenses of administration. The statute declares that every such child shall succeed to the same portion of the father’s real and personal estate, as would have descended or been distributed to such child, if the father had died intestate. (2 R. S. 65, § 49.) The infant complainant in this case is therefore entitled to one fourth of the real estate, subject to the mother’s right of dower therein; and to one fourth of two thirds of the personal estate, which is the share she would have been entitled to, under the statute of distributions, if her father had died intestate.
+The statute also provides that such after-born child shall be entitled to recover his or her share or portion of the estate, from the devisees and legatees, in proportion to and out of the parts devised and bequeathed to them by the will. No distinction whatever is made, in this statutory provision, between specific, general and residuary legatees; and I am satisfied none was intended by the legislature. It was not intended to disturb the arrangement which the testator had made in the disposition of his property, among the several objects of his bounty', except so far as to compel each to contribute rateably, out of that which he would be entitled to according to the will, for the purpose of making up the distributive share of the post-testamentary child. The legacies must therefore abate rateably, in proportion to their amount and value; so that the residuary legatee shall only pay his rateable proportion, with the general and specific legatees. Even a legacy given in lieu of dower must be taken into account, in estimating the amount which other legatees are bound to contribute; although, as between the widow and such after-born child, the latter could not equitably insist upon a right to take a share of the real estate, discharged of the widow’s claim of dower, and also to have a rateable proportion of the legacy which had been given by the testator, in lieu of such dower-.
+By allowing to the infant complainant one fourth of two . thirds of the $4000, upon which Mrs. Mitchell is entitled to the interest for life; and giving to her the interest only upon the other five sixths of that sum, a proper apportionment will be made of that part of the personal estate of the testator, both as to Mrs. Mitchell’s life estate in the" interest, and as to the reversion or remainder, after her death, which belongs to the residuary legatees. The specific legacy to the widow must also contribute, in proportion to its value at the death of the testator; and she must pay to the infant complainant one sixth of such value. The legacies to Letitia Smith, and to the church, must likewise be reduced one sixth, and the general residue of the estate must contribute in the same proportion.
+. A decree must be entered, declaring the rights of the parties accordingly; and, if any of the parties think it necessary, a reference must be directed, to take an account of the estate, and of the amount due to each of the legatees, and to the infant complainant, upon the principles above stated; allowing interest, after the expiration of one year from the death of the testator, as shall be equitable. As the complainants’ construction of the statute is not sustained by the court, it would be unreasonable and inequitable to charge the costs of this suit wholly upon the residuary interest, which belongs to Peter Hunt for life, and to his infant children, after his death. The costs must therefore be borne rateably by all the parties, in proportion to their several interests in the personal estate of the testator. But the solicitors who have neglected to attend to the rights of their clients, on the hearing, are not to be allowed any costs upon the ex parte argument by the complainants' counsel.
