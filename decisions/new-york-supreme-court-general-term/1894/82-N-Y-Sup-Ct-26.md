@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-01"
+citations: ["82 N.Y. Sup. Ct. 26"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["YaN BbuNT, P. J., and O’Beieit, J\"., concurred."]
+parties: ["The People of the State of New York, Respondent, v. John Eichler, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/82/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11277270
+cites_cases: ["115 N. Y. 643", "50 Hun, 35", "91 N. Y. 313"]
+---
+
+# People v. Eichler
+
+## Majority (PoLLETT, J. t)
+
+PoLLETT, J. t
+Tbe defendant was convicted of sending a letter threatening to accuse the complainant of a crime for tbe piulóse of extorting money. Tbe principal point made in bebalf of the defendant on this appeal is that evidence was excluded tending to show that defendant believed, when the letter was written, that the complainant was actually guilty of tbe crime imputed to him by the defendant in tbe interview of April ninth, which was bad pursuant to the appointment contained in the letter.
+In case A. has committed a crime which has come to the knowledge of 33., and the latter, for the purpose of extorting money from tbe former, writes him a letter threatening to accuse him of the crime, he is guilty of a felony under section 558 of the Penal Code, or, if he verbally make such a threat, he is guilty of a misdemeanor under section 560. The fact that the' person who, in writing or orally, makes such a threat for such a purpose believes or even knows that the person threatened lias committed the crime of which be is threatened to be accused, does not make the act less criminal. The moral turpitude of threatening, for the purpose of obtaining .money, to accuse a guilty person of tbe crime which be has committed is as great as it is to threaten, for a like puiqmse, an innocent person of having committed a crime. The intent is the same in both cases, to acquire money without legal right, by threatening a criminal prosecution. But threatening a guilty person for such a purpose is a greater injury to the public than to threaten an innocent one, for the reason that the object is likely to be attained, ■and the result is the concealment and compounding of felonies to ■the injury of the State. Tbe fact that the defendant believed in the complainant’s guilt is no defense and is not even a mitigating fact. Tbe defendant admitted that he caused the letter to be written and delivered to the complainant, and so the only issue of fact was tbe intent with which it was written. Before tbe People rested their evidence related wholly to this issue, but the defendant was permitted to show that after the letter was written he directed his clerk to make a criminal complaint before the Police Court charging the complainant with the commission of the offense, and that April seventeenth he began a civil action for the recovery of the damages arising from the crimes charged.
+"While the defendant was- under cross-examination the People introduced in evidence, without objection, the complaint in the civil action and offered in evidence the bill of particulars served therein. This bill was verified by the plaintiff’s father, her guardian ad litem, was signed by the defendant as her attorney, and it was therein charged that the defendant in that action, the complainant herein, had ravished a child five years of age on sixty consecutive days. This bill was introduced for the purpose of discrediting the defendant’s testimony of good faith and of his belief in the truth of the charge made. The defendant, having been permitted to show that he, as plaintiff’s attorney, brought such a civil suit, lias no legal ground for complaint because the People were permitted to show by the complaint and bill of particulars the cause of action for which brought.
+Later in the trial the defendant’s clerk was called, who testified that he drafted the bill of particulars in the absence of the defendant, and from information given to him by the girl and her father. He was then asked by the defendant’s counsel if he believed the story of the girl and her father, but upon the People’s objection he was not permitted to answer. This is urged as error. It is difficult to see how the good faith of the defendant’s clerk was competent. It was not relevant to the issue with what intent did the defendant write the letter of April ninth, and the clerk’s belief was no more important than that of the defendant.
+It is urged that the defendant was erroneously convicted of a felony under section 558, instead of a misdemeanor under section 560, because the defendant in his letter did not threaten to accuse the complainant of a specific crime, but simply threatened “ to proceed against you criminally,” and that evidence of what the defendant said at the interview had, pursuant to the letter, wras not competent to explain or to extend its meaning. We think that the threat “to proceed against you criminally ” is equivalent to a threat to accuse the person of a crime.
+In People v. Gillian (50 Hun, 35 ; aff'd., 115 N. Y. 643) the point was made that the writing must contain a threat to do one of the four things mentioned in the section, but it was beld tliat while a threat of the character mentioned in the section must be made in the letter, or writing, that it was quite competent to introduce oral evidence to explain the meaning of the language used.
+The People v. Gillian, (supra) and People v. Thompson (91 N. Y. 313) are decisive of the question last discussed. In neither of these cases did the letters threaten to accuse a person of a particular crime, but in both it was held to be competent for the People to introduce testimony showing the relations existing between the parties as explanatory of the intent of the defendants.
+We think no error was committed on the trial, and that the judgment should be affirmed.
+YaN BbuNT, P. J., and O’Beieit, J"., concurred.
+Judgment affirmed.
