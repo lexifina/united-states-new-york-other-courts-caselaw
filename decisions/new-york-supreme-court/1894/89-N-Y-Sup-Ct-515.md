@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court"
+decided: "1894-12"
+citations: ["89 N.Y. Sup. Ct. 515"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Parker, J., concurred."]
+parties: ["Mary D. Hatch and Another, as Executors, etc., of Mart D. Sanford, Deceased, Appellants, v. The Fourth National Bank of the City of New York and Others, Respondents; James H. Fay, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/89/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4750655
+cites_cases: ["102 Mass. 174", "56 N. Y. 478", "9 Misc. Rep. 343"]
+---
+
+# Hatch v. Fourth National Bank
+
+## Majority (Follett, L:)
+
+Follett, L:
+The appeal of the-plaintiffs will be first considered, and it will be convenient to separate the facts relating to their claim from the facts relating to the claim of Fay, the other appellant.
+November 15, 1890, the plaintiffs’ testatrix was the owner of 100 shares of the Adams Express Company, which were worth $15,000, for which she held a certificate, which she sealed in an envelope, and •on that day delivered to Mills, Robeson & Smith for safe-keeping. On the same day Mills, Robeson & Smith borrowed $20,000 of A. M. Ferris & Kimball, receiving their check for that amount, which was on that day cleposited with the Fourth National Bank and credited to the account of Mills, Robeson & Smith. Smith, one of the members of the firm, unlawfully opened the envelope in which the certificate of the plaintiffs’ testatrix was sealed, abstracted it and feloniously transferred it, with eight preferred shares of the ■Chicago, Cincinnati, Cleveland and St. Louis Railroad Company as collateral security for the loan, to A. M. Ferris & Kimball, who took the securities in good faith and without notice of the rights of the plaintiffs’ testatrix-, and the’bank received the check in due course ■of business and in good faith and without notice that the loan had been obtained by the felonious acts of Smiih.
+It should be borne in mind that Mills, Robeson & Smith did not assume to sell to A. M. Ferris & Kimball the shares in the Adams Express Company, and no part of the $20,000 loaned by A. M. Ferris & Kimball to Mills, Robeson & Smith was derived from the shares, but from the note of the borrowers secured in part by the shares. The shares were not transferred to the bank, nor did any money derived from a sale of them pass to the bank, and we know of no authority for the position that a bank receiving in good faith a check or money under such circumstances, which has been applied in payment of its claim against the person from whom it was received, can be made liable to refund the amount to the owner of the security wrongfully pledged as collateral to the person or firm loaning the money to the wrongdoer. The right of the bank is the same as it would have been had Mills, Robeson & Smith received payment of the check for $20,000 from the drawee and afterwards deposited the money with the bank. The authorities supporting the right of the bank to the avails of the check are clear and numerous. (Justh v. Bank, 56 N. Y. 478; Stephens v. Board of Education, 79 id. 183; Goshen Nat. Bank v. State, 141 id. 379; Straus v. T. N. Bank, 122 id. 379; School District in Greenfield v. First Nat. Bank, 102 Mass. 174.)
+Hutchinson v. The Manhattan Co. (9 Misc. Rep. 343) is quite different from the case at bar. In that case the plaintiff held a bill, payable to his order, which he indorsed, “ Pay to W. L. Patton & Co. or order,” and delivered it to the indorsee for collection only, who indorsed it, “ For deposit to the credit of W. L. Patton & Co.,” and delivered it to the defendant with which they kept an account. The defendant refused to credit the draft to W. L. Patton & Co., but received it for collection. On the next day ~W. L. Patton & Co. made a general assignment, and, on the day following the assignment, the defendant collected the draft and then credited the avails thereof to the account of ~W. L. Patton & Co.
+The Manhattan Company never became the owner of the bill, for it refused to credit it, but received it for collection only, and before it was collected "Wl L. Patton & Co. made an assignment for the benefit of creditors, and it was held that the lien given the Manhattan Company by ~W. L. Patton & Co. upon all securities given into, or left in their possession by W. L. Patton & Go., did not give the bank a lien upon a draft received for collection only. Had the Manhattan Company credited W. L. Patton & Co. with the draft on the fourth of May, when delivered, an entirely different question would have been presented.
+It seems quite unnecessary to distinguish from. this case those cases in which plaintiffs defrauded of money and securities are able to trace the money or the avails of the securities into an account, or into property owned by the wrongdoer or his assignee, for the benefit of creditors, or into the hands of one who has not received the money or the avails of the securities in good faith and for value. It seems to us clear that the plaintiffs failed to establish any right to' recover from the bank any part of the moneys which it had applied in payment of the indebtedness of Mills, Robeson & Smith to it,, and the rule .that defeats the plaintiffs’ action is fatal to the claim of James II. Fay.
+The question now arises, who has the better right, the plaintiffs- or Georgiana L. Crabb, to the balance, $2,364.19, standing to the credit of Mills, Robeson & Smith ?
+As before stated, none of the avails of the shares of the plaintiffs’ testatrix were traced to the bank, for her shares were not sold by the wrongdoers. On the contrary, the securities of Georgiana L,' Crabb were pledged by the wrongdoers to the bank, which securities were sold by it after the failure of Mills, Robeson & Smith, and the avails were credited to their account. She directly traced the avails of her securities into the possession of the bank and into the account. As between her and the plaintiffs she has established the right to the balance standing to the credit of the firm.
+The judgment should be affirmed, with costs.
+Yan Brunt, P. J., and Parker, J., concurred.
+Judgment affirmed, with costs.
