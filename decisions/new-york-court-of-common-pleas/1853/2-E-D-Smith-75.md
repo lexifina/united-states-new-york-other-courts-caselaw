@@ -1,0 +1,23 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1853-03"
+citations: ["2 E.D. Smith 75"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John McKenzie v. Jessyl Hackstaff, impleaded, &c."]
+source_url: "https://static.case.law/ed-smith/2/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1283557
+---
+
+# McKenzie v. Hackstaff
+
+## Majority (By the Court. Daly, J. Woodruff, J.)
+
+By the Court. Daly, J.
+The defendant, Hackstaff, after having given bail and put in his answer to the complaint, could not move to vacate the order directing his arrest. (Chapman v. Snow, 1B. & P. 132; Jones v. Price, 1 East, 81; Crygier v. Long, 1 J. C. 393; Lewis v. Truesdale, 3 Sand. S. C. 706.) Upon that branch of his motion, therefore, he must be regarded as having waived any right to object to his arrest; and it remains but to consider whether he was entitled to move for a discontinuance of the suit upon the ground that the two defendants joined with him were not residents of this county, and had not been served here with process. He did not move that the suit be discontinued as to the other two defendants, or that their names be stricken out from the record, but, generally, for a discontinuance of the suit. So that having asked for more than was granted by the order below, he was not entitled to costs; and whether the order directing the arrest of Hackstaff to be vacated, unless the plaintiff should strike out the names of the other two defendants, should have been made or not, I think costs of the motion should not have been imposed upon the plaintiff. The plaintiff succeeded against so much of the motion, at least, as sought for a discontinuance of the suit—the condition imposed being, that the arrest should be vacated unless the plaintiff discontinned as against the other two defendants. But I very much doubt if it was proper to impose any such condition at all, or whether the defendant served has the right, in an action of this description, to move that the suit be discontinued as to the defendants not served. The court acquires jurisdiction where all the defendants reside or are served with process in this county; and the court either has no jurisdiction at all until all the defendants who are joined in the action, if some of them are non-residents, are served, or it acquires jurisdiction to proceed in the action against such of the defendants as have been served with process. For a trespass of this description, the plaintiff has his election to bring a separate action against one of the trespassers, or to unite them all in one action; and if he unites them all in one action, I do not see that the action should be defeated as respects the defendant served, because he has failed to serve process upon the other defendants, or that he should be compelled, when he has served one of the defendants, to strike out the defendants not served. He may have it in his power to serve the other defendants before the cause is brought to a hearing; and the ends of justice would be served by having but one trial, and by his obtaining one judgment against all of them. If he fail to serve them, no jurisdiction is acquired as to them, nor is the party served in any wise prejudiced. I do not see how he can be affected by their names continuing in the process, or that it is essential to his right that the proceeding should be discontinued as to them. The practical effect of imposing the condition made by the order below, is to deprive the plaintiff of any opportunity of bringing the other defendants into court, and getting one judgment against all the defendants. As I read the Code, the court acquires jurisdiction of such of the defendants as are served with process, and the plaintiff may proceed to judgment against them, though he may have united in his action other defendants ; and it does not lie with the parties served to object that others have been united with them, and to ask for a discontinuance of the suit as to them.
+Woodruff, J.
+I do not think it lies with the defendant served, and who is severally liable for the injury to the extent of all the damages, without the right to contribution from the other defendants, to object that the summons has not been served upon them. As to him, this court has jurisdiction,' and the summons may yet be served upon the others, and a discontinuance as to the other defendants, at any time before trial, is sufficient to render the proceedings in all respects regular.
+I think the order should be reversed, without costs.
+Ordered accordingly.
