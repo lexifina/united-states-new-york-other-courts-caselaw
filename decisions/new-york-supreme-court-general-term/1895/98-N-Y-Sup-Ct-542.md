@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-12"
+citations: ["98 N.Y. Sup. Ct. 542"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., concurred; Follett, J., concurred in result."]
+parties: ["Richard V. Boyd, Respondent, v. Edward F. De Lancey, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/98/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4794639
+cites_cases: ["40 N. Y. 59"]
+---
+
+# Boyd v. De Lancey
+
+## Majority (Parker, J.:)
+
+Parker, J.:
+The complaint alleged the making of an agreement on the 20th day of October, 1892, by which the defendant, in consideration of the sum of $1,500, then paid, gave to the plaintiff the option at any time between its date and the 31st day of December, 1892, of purchasing for the sum of $85,000 a certain tract of land situated in the town of Mamaroneck, county of Westchester, a breach of the agreement by the defendant, and demanded damages in the sum of $11,500.
+The answer, among other things, denied the breach of the agreement by the defendant, and upon the trial the court submitted the question of such breach to the jury, who rendered a verdict in favor of the plaintiff in the sum of $2,998. Against the objection of the defendant that “the evidence is immaterial, irrelevant and incompetent; also, as too remote on the question of damages, and as speculative, and as not competent proof of the measure of damages,” the plaintiff was allowed to testify that his intent in securing an option on the land was to purchase such land and to lay it out in lots and retail the lots. That he told the defendant, before procuring the option, that it was his intention to spend about $50,000 in developing the property.: How, since the breach of the agreement, he had figured out how many building sites were contained in the plot, and found it would cut up into 255 lots of about 50 feet front, and from 100 to 150 feet in depth. The lots, he testified, would not all sell at the same price, but that one-half of such lots would be worth about $1,000 apiece, and others $800 apiece, and lots next to the railroad about $300 apiece. And upon this basis, he stated the valuation of the entire property to be $204,000, exclusive of the value of the house upon it, which he estimated at $2,000. Other evidence bearing upon the prospective value of the property, to be caused in part by the improvements which the plaintiff contemplated making, was admitted against defendant’s objection, but sufficient reference has been made to it to present the ground on which the appellant urges, and we think rightly, that lie is entitled to a reversal.
+The rule of damages applicable to this case is stated in Pumpelly v. Phelps (40 N. Y. 59), at page G6, as follows: “ The general rule certainly is that where the vendor has the title and for any reason refuses to convey it, as required by his contract, he shall respond in law for the damages, in which he shall make good to the plaintiff what he has lost by his bargain not being lived up to. This gives the vendee the difference between the contract price and the value at the time of the breach, as profits or advantages, which arc the direct and immediate fruits of the contract.”
+That the evidence was offered for the purpose of obtaining a greater amount of damages than the rule thus referred to would afford, is apparent from the character of the testimony of the plaintiff received under objection. That the court so understood it, and so advised the jury, appears from the charge, in which the court, after referring briefly to the plan of the plaintiff in securing the option on the land in question for the purpose of laying it out into residential lots, to accomplish which he had a syndicate behind him, said : “ Ordinarily on the breach of such an agreement, the amount which a party would be entitled to recover would be the difference between the contract price and that which was the marketable value of the property. But there are cases in which, where it can be seen from the evidence, damages wore certain to follow from the breach of the agreement other than the mere difference between the contract price and the market price, those may be taken into consideration by the jury, but those cases are rare.”
+It cannot be said that the evidence basing value upon contemplated sales after the property should have been laid out in lots did not affect the verdict of the jury, for other witnesses, acquainted with the value of real estate in that' vicinity, testified that the fair market value of the property at the time of the breach of the contract did not exceed the contract price of $85,000.
+The judgment and order should be reversed and a new trial granted, with costs to the appellant to abide the event.
+Yan Brunt, P. J., concurred; Follett, J., concurred in result.
+Judgment and order reversed, new trial ordered, costs to appellant to abide event.
