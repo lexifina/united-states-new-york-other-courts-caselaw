@@ -1,7 +1,8 @@
 ---
 court: "New York Court of Chancery"
 decided: "1823"
-citations: ["7 Johns. Ch. 150", "7 Johns. Ch. 250"]
+decided_precision: "year"
+citations: ["7 Johns. Ch. 150"]
 reporter: "johns-ch"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Moses Field against Schieffelin and others."]
 source_url: "https://static.case.law/johns-ch/7/cases/0150-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1984189
-cites_cases: ["1 Johns. Ch. Rep. 64", "2 Johns. Ch. Rep. 432"]
 ---
 
 # Field v. Schieffelin
