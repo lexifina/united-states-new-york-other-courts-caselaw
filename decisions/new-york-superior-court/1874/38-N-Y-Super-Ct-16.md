@@ -1,0 +1,28 @@
+---
+court: "New York Superior Court"
+decided: "1874-07-02"
+citations: ["6 Jones & S. 16", "38 N.Y. Super. Ct. 16"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY C. ADAMS, Plaintiff and Appellant, v. JOHN W. MILLS, Defendant and Respondent."]
+source_url: "https://static.case.law/ny-super-ct/38/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1408756
+cites_cases: ["10 Wall. 647", "2 Hall, 550", "2 Hill, 220", "2 Sweeny, 663", "24 Wend. 505", "27 N. Y. 297", "36 N. Y. 600", "41 Barb. 541", "51 Barb. 322", "6 Hill, 620"]
+---
+
+# Adams v. Mills
+
+## Majority (By the Court.—Curtis, J.)
+
+By the Court.—Curtis, J.
+A careful examination of the evidence fails to show that the findings of the referee are unsustained by the evidence.
+The defendant John W. Mills, and his cotrustee Robert Cochran, were from the commencement of the business of the corporation, made the victims of very specious and knavish delusions. The expenses of conducting the business were out of all proportion to its amount, or its capital. The books contained misstatements and errors of the most barefaced character, in order to give the false impression that the business was successful. A letter read in evidence from the treasurer, F. M. Brown, to the plaintiff’s husband, indicates very clearly that they were conniving to deceive the defendant and the two other trustees. Untrue statements were prepared and presented, purporting to show that the business was exceedingly prosperous, and during its short existence, two dividends of ten per cent, each were declared, for no object apparently, ■ but to increase the confidence of the defendant Mills and his co-trustee Cochran, and to procure very considerable loans from them. These dividends were not paid.
+It will also be observed that Adams, as. president pro tern., and secretary of the corporation, had duties to perform, in respect to the annual report, which he entirely neglected.
+It is no part of the policy of the law, while increasing the right of a married woman in the use and .disposition of her property, to place her in a position to take advantage of the neglects and frauds of her husband and agent. She can not intrust him with property, and hold him out to .the world as her agent in respect to it, and then profit by his frauds and omissions in attending to it, and fasten liabilities for his wrong doing, and neglects, on innocent third parties (Daly v. Chemical Bank, 2 Hall, 550; Lindner v. Sahler, 51 Barb. 322). As to these frauds and omissions of official duty, in which the plaintiff’s husband and agent is found by the referee to have been a participant, it must be held, that his knowledge was so far a notice to her, that she can not derive benefit from them, at the expense of the deluded victims whom she has enabled her agent, collusively and wrongfully, to place in an attitude of liability.
+It could never have been the intention of the framers of section 12 of this act, that it should ever be successfully invoked, to carry through a fraudulent scheme. Where the element of fraud enters into an attempt to create and enforce an alleged liability under its provisions against a trustee, it ceases to be operative. The party seeking to make a trustee liable for a debt of the corporation, must be free from fraud and wrongful complicity in the creation and establishment of the demand, he thus attempts to enforce.
+' In giving effect to this highly penal provision of the statute, the courts have not inclined to a very extended latitude of construction. It is but just and equitable, that as the money of the plaintiff in this circuitous way went into the bank account of the corporation, and was applied towards the payment of its debts, that there should be a resulting compensation to her from the corporation. But the right to this, is very far from being a debt, such as is contemplated by section 12 of the act, in its description of such debts of the corporation as the trustees shall be liable for. The plaintiff’s claim is of more extensive import, than the ordinary and legal signification of the term “ debt.” It is lack-' ing the incidents of directness and of contract, that enter into the legal definition of that term. It would ill accord with the reason and object of the statute to extend its meaning so as to embrace and define as an existing debt, for the purpose of enforcing the penalty against a trustee, a transaction such as is presented by the proofs in this case (3 Black. Com,. 154 ; In re Denny, &c., 2 Hill, 220; Nimmons v. Hennion, 2 Sweeny, 663 ; Obicht v. Hughes, 41 Barb. 541; Watervliet Turnpike Co. v. McKeon, 6 Hill, 620).
+It was among other matters claimed by the corporation on the argument, that the death of the president, in January, 1870, exonerated it from the obligation to publish the annual statement, and that it was again exonerated in January, 1871, by the proceedings in bankruptcy. But I see no reason why surviving officers and trustees should not comply with the statutory provision as far as possible in case of the decease of the president, nor is it apparent how the pendency of a bankruptcy proceeding can operate to release them from this statutory obligation. But in the view taken, it becomes unnecessary to discuss these questions of exoneration from compliance with the statute.
+There were many other exceptions than those here discussed taken by the plaintiff, and presented on the argument, but they are not of a character to affect the conclusion arrived at, that the judgment appealed from should be affirmed, with costs.
+Sedgwick, J., concurred.
