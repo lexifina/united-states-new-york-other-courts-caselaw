@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-12-09"
+citations: ["27 N.Y. St. Rep. 945"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward F. Ryerson, App’lt, v. Milly Ann Ryerson, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/27/cases/0945-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2030466
+cites_cases: ["113 N. Y., 619", "23 Hun, 231", "53 Hun, 244"]
+---
+
+# Ryerson v. Ryerson
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is an action by the husband against his wife to procure a dissolution of the marriage tie on the ground of adultery. Upon the stipulation. of the parties a referee was appointed by the court to hear and determine the action, and after a trial before him he made a report in favor of the plaintiff.
+Thereupon an application was made to the special term of the supreme court for judgment upon the referee’s report for the relief demanded in the complaint, and the court denied the motion and ordered the issues in the action sent to the circuit for trial, and the appeal now before us is from that order.
+When an action is tried before a referee appointed by the court to hear and determine the same, his report stands as a decision of the court, but in an action to annul a marriage a judgment cannot be entered upon such report without the direction of the court, but it has been many times decided that the court will not review the findings or report of the referee in such a case upon an application for judgment thereon. The question was very fully ex> amined by the general term in this department in the case of Schroeter v. Schroeter, 23 Hun, 231, and Ross v. Ross, 31 id., 140, and although one of the members of the court dissented from the conclusion reached in the last case, his dissent was upon a question not involved in this appeal.
+We have found no decision adverse to those named, and the same doctrine was recognized in the recent case of Matthews v. Matthews, 53 Hun, 244; 25 N. Y. State Rep., 79.
+Our views were fully expressed in the two opinions delivered in the case of Ross v. Ross, supra, and a restatement of them here will be neither necessary nor profitable. We have found no reason to modify our views.
+So far as the supreme court can determine the question we regard it as settled that upon an application to the special term for judgment upon the report of a referee appointed to hear and determine a matrimonial action, the court will not examine the case upon the merits or set aside the report for errors commited upon the trial.
+' The court upon such an application will only make such examination as may be necessary to ascertain whether the report has any support in the evidence, or whether there has been fraud or collusion, or any evil practice in the case by either party.
+After such examination the application for judgment will be either granted or denied, and the court will proceed no further because no other subject is presented for its action. It is beyond the province of the court upon such a motion to set aside the report, because no such application is made, no such relief is sought, and neither of the parties are heard upon such a question.
+Neither will the court upon such an application direct the issues in the action to be tried at the circuit. The action was referred by consent, and when the parties adopt that mode of trial, they do so in the exercise of a legal right, and the court is vested with no jurisdiction or authority, in the absence of a reason sufficient in law, to vacate the order of reference and nullify all that has been accomplished under and in pursuance of the same. Maicas v. Leony, 113 N. Y., 619; 22 N. Y. State Rep., 149.
+In this case there has been no charge of misconduct against the referee and no application to vacate the order of reference or for the removal of the referee, or for a trial in any other manner than before the same referee, and yet the order from which this appeal is taken destroys the order of reference, nullifies all the proceedings upon the trial, and prescribes a mode of trial which the parties have repudiated by an express agreement for the appointment of a referee to try the cause instead of the court and jury.
+Neither do we find any reason for the denial of the motion for judgment upon the report of the referee. There was no irregularity, and there was no collusion or fraud charged or claimed; on the contrary, the cause was fairly tried and severely contested, and two unequivocal acts of adultery were sworn to by two different witnesses, and if their testimony is true, it is sufficient to sustain the report of the referee.
+Whether the denial of the defendant and the co-respondent should be taken to answer such testimony, or whether upon a full consideration of all the evidence and all the circumstances the plaintiff has sustained his case by sufficient evidence, or whether the referee reached a wise or erroneous conclusion, can only be properly determined upon an appeal from the judgment, and a case made and settled in the usual and orderly way.
+We, therefore, reach the conclusion that the order from which this appeal is taken should be reversed, with costs and disbursements, and the motion for judgment upon the report of the referee should be granted, with ten dollars costs.
+Pratt, J., concurs; Barnard, P. J., not sitting.
