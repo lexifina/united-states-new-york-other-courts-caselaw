@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1879-05"
+citations: ["24 N.Y. Sup. Ct. 552"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Beady, P. J., and Pottee, J."]
+parties: ["GRAND RAPIDS AND INDIANA RAILROAD COMPANY, Respondent, v. JOSHUA C. SANDERS, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/24/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4454279
+cites_cases: ["1 Wall., 83", "23 La. Ann., 552", "23 N. Y., 464", "25 N. Y., 498", "27 N. J. Eq., 403", "29 N. Y., 220"]
+---
+
+# Grand Rapids & Indiana Railroad v. Sanders
+
+## Majority (Per Curiam:)
+
+Per Curiam:
+This is a suit in equity, brought by the plaintiff to compel the surrender for cancellation of thirty-one of the bonds issued by the plaintiff for $1,000 each, held by the defendant.
+The plaintiff is a corporation created under the laws of Michigan and Indiana, and was authorized to make and issue the bonds, with others of the same series, amounting in all to $4,500,000. When made they were placed in the hands of the president of the company with full power and authority to dispose of, and to negotiate the sale of them.
+The complaint alleges that the defendant’s bonds were fraudulently, and without the consent of the plaintiff, obtained from King, Sutton & Co. ; and that the plaintiff received no value or consideration for them ; and, further, that the defendant obtained possession of the bonds with knowledge that the same had been fraudulently, and without any value or consideration, obtained from thé plaintiff.
+The defendant denied the allegations of fraud and knowledge, and alleged that he purchased them for a valuable consideration. It appears that the president deposited the bonds in controversy with King, Sutton & Co., as collateral security for loans made to him, and that King, Sutton & Co. sold them to David S. Duncan, and that the latter sold them to the defendant.
+The learned justice presiding in the court below found that King, Sutton & Co. were duly authorized to act as agents for the plaintiff for the sale of these bonds in the city of New York, and that they and other pledgees had full power and authority to sell, transfer or hypothecate the bonds pledged with them, and that by virtue of such authority they could give a good and absolute title to said bonds to a bona fide purchaser. That Duncan, by his purchase of the bonds from King, Sutton & Co., acquired and could give a good and valid title to them, and was a purchaser and holder of the same in good faith and for a valuable consideration.
+He further held that the defendant was a bona fide holder for value, but inasmuch as in his judgment the original hypothecation of them by the president was not within the authority conferred upon him, he arrived at the conclusion that the defendant was not entitled, upon their surrender to the' plaintiffs, to any more than he actually paid for the bonds, which was less than their par value, and this view seems to have been predicated of the proposition that, so far as the defendant’s rights were concerned, equity and good conscience would be satisfied if he were allowed to receive the full indemnity for his expenditure out of the bonds. The learned justice also declares these instruments to bo negotiable in his opinion, citing several authorities to sustain the proposition thus announced.
+This case is presented- to us on the findings of the court at Special Term and the pleadings, and not upon the evidence, and they are controlling in the consideration of the rights of the respective parties to this controversy.
+We are at a loss to understand why the defendant, being a bona fide purchaser without notice of any existing equities and for value, the bonds being negotiable instruments, passing by delivery, is not entitled to recover their full value. It has been declared in a series of cases that bonds similar to those in controversy, are negotiable and subject to the same rule as commercial paper, are transferable by delivery, and when bought in the ordinary course of business and for value, without notice, cannot be assailed by any equities existing between prior parties to the instrument. Indeed it has been held that a bona fide purchaser for value is protected in' his possession and title, even although the purchase was made from a person by whom they had been stolen. (Story on Agency, sec. 228 and cases cited; Brainerd v. The Harlem R. R., 25 N. Y., 498; White v. The Vt. and Mass. R. R., 21 How. [U. S.], 575; Gould v. Sterling, 23 N. Y., 464; Commissioners v. Aspinwall, 21 How. [U. S.] R., 539; Sabriskie v. C. C., etc., R. R. Co., 23 id., 381; Mercer v. Hacket, 1 Wall., 83; Birdsall v. Russell, 29 N. Y., 220-250; 1 Parsons on Bills, 278; Force v. Elizabeth, 27 N. J. Eq., 403; Consolidated Association of Planters v. Avegno, 23 La. Ann., 552; Com. of Marion Co. v. Clark, 94 U. S. [4 Otto], 278.)
+When we have ascertained the negotiable character of the bonds, the bona fide character of the purchase, and of the possession acqurcd in the usual course of business and for value, the duty incumbent upon us seems to be very plain; and that is to declare that the holder, the defendant in this case, is entitled to the benefit and advantage arising from his possession, of the bonds and is entitled to full protection in that respect, without any reference to the amount that he paid for them. It may bo that there existed in the findings of the court sufficient facts to warrant the application of the doctrine of estoppel in pais, on account of the information given to the president of the company by Duncan of his possession of the bonds, and of the declaration of the former that they were valid and would be paid. Bub wo do not deem it necessary to consider this element of the case, preferring to rest our judgment upon the ground that the defendant being a bona fide holder for value of a negotiable instrument, without notice, is entitled to all the benefit arising from his purchase.
+We do not feel called upon in this case to modify the judgment by increasing it as suggested by the counsel for the appellant; wo think it more in • consonance with our duty to direct a now trial, and to leave the judgment to be rendered to the further consideration of the case upon such evidence and such developments, as may be made on another trial.
+The judgment should be reversed and a new trial ordered, with costs to abide the event.
+Present — Beady, P. J., and Pottee, J.
+Juclment reveled, new trial ordered, costs to abide event.
