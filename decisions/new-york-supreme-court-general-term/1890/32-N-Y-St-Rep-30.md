@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-06-19"
+citations: ["32 N.Y. St. Rep. 30"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Judicial Settlement of the Accounts of John H. Hopkins, as Executor of Rosetta D. Oviatt, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039579
+cites_cases: ["19 Abb. N. C., 17", "54 Hun, 556"]
+---
+
+# In re the Judicial Settlement of the Accounts of Hopkins
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+The appeal is from that portion only of the decree of the surrogate which credits to the executor the full amount claimed by him in schedule C. of his accounts, being the sum of $3,844.15; and which adjudges that there is a balance in his hands of only $540.10, and which directs the executor to pay to the commissioners of Mt. Hope the sum of $100, the interest of which last-named sum was to preserve in good order a burial lot in Mt. Hope cemetery, and which requires the executor to pay the balance of the fund in his hands to the respondent Adelia J. Bab-cock, one, of the legatees named in the will, or deposit the same with the treasurer of Monroe county.
+The questions presented by this appeal arise upon the third provision of the last will of Rosetta D. Oviatt, which is as follows: “ 3rd. My said trustee I hereby direct to sell and to convert into money my frame house and the lot situate upon the northeast corner of South avenue and Comfort street in said city, and out of the proceeds of said premises to pay, first, the bond and mortgage upon my store and building situate on South St. Paul street, known as Ho. 38, south of Ely street, in second clause above described; and' secondly, to pay any and all other debts I may owe therefrom ; and then thirdly, to deposit $100 therefrom, the interest to be used to keep up the lot, being northeast one-quarter of lot No. 80 in Mount Hope cemetery for all time, either in a savings bank or with the commissioners of Mount Hope, as he may deem best; and 4th, to pay from said proceeds $500 to my sister Mrs. Adelia Jane Babcock of Bochester, N. Y., now of Colorado, as her property forever; 5th, to pay to "Viola D. Shoe-craft, daughter of my deceased daughter Imogene Shoecraft, now of Washington territory, the sum of $1,000 as hers forever; sixthly, to pay to Albert M. Shoecraft, son of my said daughter, now of the city of Bochester aforesaid, the sum of $500 to him and his heirs forever; 7th, that the balance of said proceeds shall be securely invested by my said trustee, and the income thereof shall be paid by him for and towards the education and improvement of the four children now living of Eugene A. Oviatt until the youngest child is twenty-one years of age, and at that time said funds shall be equally divided between them, share and share alike, as theirs forever.”
+The executor, in pursuance of this provision of the will, sold the real estate so directed by the wijl to be sold by him, and with the avails thereof paid a bond and mortgage upon the other real estate mentioned, amounting at the time of payment to the sum of $2,570. The appellant objected to the allowance of such payment, but such objection was overruled, and from the decision of the surrogate this appeal is taken. An elaborate argument has been made by the learned counsel for the appellant that the legacies mentioned in clauses one to six, inclusive, in the third paragraph of the will above quoted, stand on an equal footing; and inasmuch as there is a deficiency of assets to pay them all in full they must be paid ratably, and that, consequently, the payment of the mortgage upon the block mentioned was unauthorized.
+An answer to this argument is, in brief, that the testatrix was indebted by her bond for the payment of the amount secured by the mortgage resting upon her South St. Paul street store, and, being so indebted, she did by her will take the case out of the operation of the statute and charge the payment of such indebtedness expressly upon the avails of the sale of the house and lot on the comer of South avenue and Comfort street Except for the statute, 1 B. S., 749, § 4; 6th ed., vol. 2, 1130, the devisee could not be obliged to satisfy the mortgage out of his own property without resorting to the executor. But where there is an expressed direction in the will of the testator that such mortgage be otherwise paid, the same is obligatory upon the executor, as the payment and discharge of any other indebtedness of the decedent Searles v. Brace, 19 Abb. N. C., 17; Cochrane v. Hawver, 54 Hun, 556; 28 N. Y. State Rep., 1.
+In no sense can this clear and positive direction for the payment of an outstanding indebtedness be deemed a separate and independent bequest or legacy to the son William D. Oviatt and his children. The question therefore which has been discussed by the counsel for the appellant does not, in our judgment, arise upon the reading of this will.
+It follows therefore that the decree of the surrogate should be -affirmed, with costs to the respondents payable out of the estate.
+Dwight, P. J., and Corlett, J., concur.
