@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1877-03"
+citations: ["2 Abb. N. Cas. 283"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VAN COTT v. VAN BRUNT."]
+source_url: "https://static.case.law/abbn-cas/2/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1946824
+cites_cases: ["1 Lans. 381", "19 Johns. 456", "2 P. 8", "3 Hun, 383", "3 Mason C. C. 308", "3 Sandf. 463", "31 N. Y. 435", "36 N. Y. 200", "39 N. Y. 291", "4 Barb. 383", "47 N. Y. 225", "5 Hun, 123", "5 Hun, 214", "51 Barb. 45", "52 N. Y. 203", "54 N. Y. 314", "56 N. Y. 485", "57 N. Y. 587", "57 N. Y. 616", "6 Johns. Ch. 139", "63 N. Y. 422", "8 Cow. 387"]
+---
+
+# Van Cott v. Van Brunt
+
+## Majority (Gilbebt, J.)
+
+Gilbebt, J.
+I am inclined to think that the liability of directors of railroad corporations by virtue of part 1, c. 18, tit. 4, § 3, of the Revised Statutes (1 R. S. 602), has been taken away by section 16 of chapter 282 of the laws of 1843 (3 Edm. Stat. 645-6). But as I shall put the decision of this case upon other grounds, I shall not stop to discuss that question.
+There is no doubt respecting the liability of the defendants to pay the amount unpaid upon their formal subscriptions to the capital stock. While it is not so clear that a similar liability rests upon them in respect to the stock issued pursuant to the contract with Cowperthwaite, and held by them, yet I think such liability does exist. The general railroad act does not expressly authorize, nor does it prohibit the receiving anything in payment for stock, except money. I suppose it would not be violation of that act to issue stock, and receive, in payment therefor, money’s worth in the form of materials and labor in constructing the railroad, in merchandise or other chattels for its equipment, or in any other form which would subserve the lawful objects of the corporation (Ang. & Ames Corp. 10 Ed. §517, N. B.), But in whatever way the stock is acquired, whether upon an ordinary subscription, payable in money, or upon a contract with the corporation, whereby payment for the stock was to be made in another mode, unless the stock has been actually paid for, the holder of it is individually liable to the creditors of the corporation to an amount equal to the amount unpaid on the stock held by him, for all the debts and liabilities of the company, until the whole amount of the capital stock, so held by him, shall have been paid to the company (Gen. R. R. Act, § 10, as amended by § 16, c. 28, Laws 1854, before cited). The acceptance and holding of a certificate of the stock subjects the holder to the liabilities of a stockholder.
+The capital stock of a corporation is a trust fund for the payment of its debts, and the directors of the corporation, who arre the trustees of the fund, will not be permitted to waste it, either directly, by releasing subscribers from the obligations created by their subscriptions, or by receiving payment for stock issued without a subscription in the form of property or services, at more than a sum which a faithful trustee in the honest exercise of his judgment might deem the just value thereof (Story Eq. Jur. § 1252; Upton v. Tribilcock, 1 Otto, 45, cases below). It has been held in this State, that where a corporation was expressly-authorized by statute, to issue stock in payment for property purchased, if the purchase of the property and the issue of the stock were fraudulent, and an evasion of the law requiring actual payment of the capital stock in money or its equivalent in value, the personal liability of the original stockholders remained (Boynton v. Hatch, 47 N. Y. 225; Schenck v. Andrews, 57 Id. 133).
+A fortiori the rule must be applied to directors of a corporation who, without any express authority, make contracts on behalf of the corporation like that made with Cowperthwaite, and then immediately take all the benefits of them to themselves and their associates by assignment. By means of the contract with Cowperthwaite, the defendants and their associates received in stock of the corporation $75,000, and bonds thereof amounting to $50,000; and the corporation received therefor what cost those persons not more than one-fourth of those sums.
+There is no principle of law or equity on which such a transaction can be sanctioned. The defendants must be charged with the nominal amount of stock held by them, and credited only with the sums paid upon their subscriptions, and the value of the property so actually received by the corporation on account of the stock issued pursuant to the contract with Cowperthwaite.
+The receiver represents the corporation and its creditors, and is, I think entitled to maintain this action.
+The statute of limitations did not bar the debt, but only the remedy against the corporation. As the corporation did not plead the statute, but allowed judgment to be received against it, such judgment is con-elusive evidence that the original debt still exists. Such original debt was sufficiently proved in this action, it being for horses sold to the corporation.
+An interlocutory decree will be entered in accordance with the views expressed, and a clause will be inserted therein, referring it to John Greenwood, Esq., to take and state the account between the parties, and to ascertain and report the debts of the corporation, which have been presented to the receiver, and against which the statute of limitations had not run when the action was commenced. All other questions are reserved until the coming in and confirmation of his report.
+Compare Excelsior Petrol. Co. v. Lacey, 63 N. Y. 422.
+For the practice in respect to interlocutory judgments under the new Code of Civil Procedure, see sections 1333, 1330, 1331.
