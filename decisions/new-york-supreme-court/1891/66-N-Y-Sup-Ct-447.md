@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1891-02"
+citations: ["66 N.Y. Sup. Ct. 447"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., and Brady, J., concurred."]
+parties: ["JOHN C. SHAW, Appellant, v. FRANCIS S. WELLMAN and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/66/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4624799
+cites_cases: ["9 Wis., 57"]
+---
+
+# Shaw v. Wellman
+
+## Majority (Daniels, J.:)
+
+Daniels, J.:
+The judgment recovered dismissed the complaint for the foreclosure of a mortgage, executed by the defendant Francis S. Well-man and Cora his wife, to secure the payment of $5,000, with interest, to the plaintiff, his heirs, executors, administrators or assigns, on the 1st of October, 1891. The action was commenced in or about the month of May, 1889, because of a default by the mortgagors in the payment of the taxes for the years 1886, 1887, and 1888. The mortgage provided, in case of such a default for the space of sixty days, that the principal sum secured should, at the option of the mortgagee or his legal representative, become due and payable immediately. And that option was made by the plaintiff before this suit was commenced. But the further fact appeared in the case that, on the 17th of March, 1887, the plaintiff assigned the mortgage and the debt thereby secured to Reuben Ross, who, at his own instance and during the pendency of the action, was made a defendant therein. The assignment to this defendant was absolute in form, but, in fact, made to secure to him the payment of the sum of $4,000, which still remained unpaid, and he at no time elected to declare the debt secured by the mortgage to be due for the nonpayment of these taxes.
+The object to be attained by this part of the mortgage was to prevent the security from- being reduced or diminished by the unnecessary existence of -taxes upon the property. • It was for the benefit of the security and its complete preservation. And after the assignment the assignee became entitled to its benefit to the extent of four-fifths of the secured indebtedness. For by the assignment the entire mortgage, with each of its covenants and provisions, was to that extent assigned to him. And after that the mortgagee had not the power to exercise control over it, so far as it had been transferred by the assignment. (Browne v. Blydenburgh (3 Seld., 141, 145). That was the clear nature and effect of the assignment. It gave the assignee control over the security to at least the extent of the interest assigned to him. And whether the debt secured should become due, because of this default of the owner of the equity of redemption, was so far confided to him to determine. ' That resulted from the assignment, which was subject to no reservation or exception beyond a right of redemption in the plaintiff, lie could have redeemed the security by paying what was owing from him to the assignee, and thereby have re-acquired the sole right to exercise this option. ' But that he.did not do. On the contrary, without the authority or concurrence of the assignee, and without ascertaining whether he deemed it for his interest that advantage should be taken of this clause in the mortgage, the plaintiff declared the debt to be due. The right to do this was equally for the benefit of the entire debt. It was an entirety consisting of an option affect-in <>■ the whole debt secured, and not a part of it. To take advantage of it was an authority vested in the owners of the debt, not in a portion of it. And as long as the assignee did not assent to the exercise of the option, the term of credit was not forfeited or lost by the act alone of the assignor This subject, under circumstances quite similar in their effect, was examined in Marine Bank, etc., v. International Bank (9 Wis., 57), and the same conclusion was adopted by the court.
+It further appeared that these taxes were paid on the 21st of October, 1889, and that fact was alleged by a supplemental answer as a defense to the action. This payment in its effect fully restored all the rights intended to be protected by this part of the mortgage. It indemnified both the plaintiff and his assignee against all possible prejudice or loss arising from the default. And when that appears to be the fact, it is the policy of courts of equity to consider the default to have been redeemed by the payment. (2 Story’s Eq. [5 th ed.], § 1314.) When indemnity can, in this manner, be secured, and that shall in fact be made, then the rule in equity is not to enforce the forfeiture otherwise coming into existence. (Id., § 1319.) On this fact of payment of the taxes, a defense was also presented to the action.
+The allowance complained of was made to the mortgagor, amounting to the sum of $ 100. It was authorized in the suit, as one for the-foreclosure of a mortgage upon real property, by section 3253 of the Code of Civil Px’oeedure, and was by no means unreasonable in its amount.
+Without, therefore, considering whether the action was regularly brought by the plaintiff without, in the first instance, making his assignee a party, and which was so much discussed on the argument, both the judgment and the order should be affirmed, with costs.
+Van Brunt, P. J., and Brady, J., concurred.
+Judgment and order affirmed, with costs.
