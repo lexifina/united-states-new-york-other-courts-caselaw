@@ -1,0 +1,20 @@
+---
+court: "New York City Court"
+decided: "1896-11-02"
+citations: ["75 N.Y. St. Rep. 1035"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maggie M. Stock v. John Le Boutiller et al."]
+source_url: "https://static.case.law/ny-st-rep/75/cases/1035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1996798
+---
+
+# Stock v. Boutiller
+
+## Majority (FITZSIMONS, J.)
+
+FITZSIMONS, J.
+—This is an action for damages, based upon the negligence of defendants, in whose employ, as saleswoman, the plaintiff was at the time of the injuries complained of, which were caused by the falling of a basket which was-connected with a certain cash-carrying machine in the defendants’ store. It was not error for the justice to allow testimony showing that, within a reasonable time before the time in question, like baskets fell from the machine in question, because it tended to prove the dangerous condition of said machine, and that, because of the lapse of time and the frequency of such happenings, the defendants had constructive notice, at least, of such condition. The charge, we think, was very fair and impartial. If anything, it was rather in the defendants’ favor. The trial justice several times charged that defendants were only required to use reasonable care in the use of the machinery in question. The question of negligence of the defendants under the circumstances of this case was a question of fact for the jury, and the justice was right in refusing to dismiss the complaint ; likewise was the question of contributory negligence.
+The judgment must be affirmed, with costs.
