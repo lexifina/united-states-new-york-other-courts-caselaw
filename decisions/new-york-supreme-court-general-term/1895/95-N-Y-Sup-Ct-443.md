@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-07"
+citations: ["95 N.Y. Sup. Ct. 443"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HaRdiN, P. J., concurred."]
+parties: ["In the Matter of the Judicial Settlement of the Accounts of Jacob A. Nottingham and Maurice A. Graves, as Executors, etc., of Daniel Edgar Crouse, Deceased. George N. Crouse and Others, Appellants; Jacob A. Nottingham and Another, Executors, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/95/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8594688
+cites_cases: ["143 N. Y. 641", "15 N. Y. St. Repr. 116", "62 N. Y. 372"]
+---
+
+# In re the Judicial Settlement of the Accounts of Nottingham
+
+## Majority (MaktiN, J.:)
+
+MaktiN, J.:
+The first question presented is whether the Surrogate’s Court erred in refusing to strike out the name of Ansel White, Jr., and his heirs, wherever the same appeared as parties to the proceeding for an accounting before that court. If we assume that the judgment entered'in the Supreme Court was binding upon the parties to-this proceeding, and conclusive as to the death of Ansel White. Jr., without lawful issue, still it is not quite apparent how that fact required the Surrogate’s Court to eliminate from the proceedings before him the name of Ansel White, Jr., and his heirs. While the judgment of the Supreme Court was conclusive evidénce of.the death of Ansel White, Jr., without lawful issue, still the existence of that fact did not, we think, require the court to eliminate his name from the record in the proceedings before it. If, by reason of the introduction of such judgment in evidence, the Surrogate’s-Court is bound to find that Ansel White, Jr., died without issue, the other parties to the proceeding are entitled to the estate in the proportions stated in the judgment in the Supreme Court, and each of the appellants will receive his proper share as effectually as though the name of Ansel White, Jr., and his heirs had been stricken from the record. Hence, we think it follows that the denial of the appellants’ motion to strike his name and the names of his heirs from the record in the proceeding did not affect any substantial right of the appellants, and consequently the order denying such motion was not appealable. (Redf. Law & Prac. of Surr. Courts, [5th ed.] 902; Code Civ. Proc. § 2510; Accounting of Burnett, 15 N. Y. St. Repr. 116.)
+We are also of the opinion that that portion of the order wdiich denied the appellants’ motion to forthwith proceed with the distribution of the personal estate is not appealable. None of the parties opposed the appellants’ motion. The court refused at that time to make the decree asked for. The controversy was between the court and the parties. If the court improperly refused to proceed in the matter and make the proper decree, the appellants’ remedy was not by appeal but by mandamus to compel the court to discharge its duty. If this portion of the order was reversed it wrould not compel the court to proceed in the matter of the accounting, and this court should not on this appeal attempt to make an order in the nature of a mandamus. (Hayes v. Consolidated Gas Company of New York, 143 N. Y. 641.)
+This leaves for consideration the question whether that portion of the surrogate’s order which directed the executors to make further effort to ascertain whether Ansel White, Jr., was living, or if dead whether he left issue him surviving, and authorizing them to expend $5,000 in making such investigation, was authorized, and can be upheld. We are of the opinion that the Supreme Court had jurisdiction of the parties and the subject-matter of the action brought therein, and that as the questions whether Ansel White, Jr., was living or had died leaving issue, were made issues in that case and tried and determined therein, the judgment was conclusive upon all the parties to the proceeding in the Surrogate’s Court, and it was bound thereby. The rule that a judgment of a court of competent jurisdiction upon a point litigated'between the parties is conclusive in all subsequent controversies where the same matter comes directly in question, is elementary, and so well established in this State that no authorities need be cited to sustain it. Where two or more actions or proceedings are pending at the same time for the same cause, the judgment first entered becomes conclusive upon the parties, and is not controlled 'by priority in the commencement of the action or proceeding. (Herman on Estoppel, § 120.) Therefore, the fact that the proceeding before the Surrogate’s Court was first commenced, does not impair the effectiveness of the judgment of the Supreme Court.. As evidence it was conclusive as an adjudication of the same fact in an action between the same parties. (Krekeler v. Ritter, 62 N. Y. 372.)
+The Supreme Court having found that Ansel White, Jr., died without issue before the testator,’s death, and the judgment adjudging that fact being conclusive evidence thei’eof, the surrogate was bound by the judgment, and there was, therefore, no necessity for that portion of the order which directed the expenditure of $5,000. of the estate in investigating a question which had already been conclusively settled by a court of competent jurisdiction. It follows, therefore, that the order appealed from, so far as it authorized the expenditure by the executors of $5,000 belonging to the estate, was unnecessary, unaizthorized, and should be reversed.
+HaRdiN, P. J., concurred.
+
+## Dissent (Merwiet, J.)
+
+Merwiet, J.
+(dissenting):
+I think that the appeal should not in any respect prevail. Assuming that the Supreme Court judgment was an adjudication binding on the parties, the Surrogate’s Court, under the circumstances shown, had the right, under its power to control the conduct of the executors, to require them to make further investigation to a reasonable extent, to the end that if information was obtained that White or any descendants of his were alive, proper steps could be taken to obtain a modification of the judgment.
+Order, so far as it authorized the expenditure of $5,000 to ascertain whether Ansel White, Jr., died before the testator, without issue, reversed, with ten dollars costs and disbursements to be paid out o* the estate.
