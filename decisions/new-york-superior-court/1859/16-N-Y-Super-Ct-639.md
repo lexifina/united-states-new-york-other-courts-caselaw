@@ -1,0 +1,36 @@
+---
+court: "New York Superior Court"
+decided: "1859-05-08"
+citations: ["3 Bosw. 639", "16 N.Y. Super. Ct. 639"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Francis H. Saltus v. Sidney C. Genin and others."]
+source_url: "https://static.case.law/ny-super-ct/16/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343923
+cites_cases: ["10 How., 193"]
+---
+
+# Saltus v. Genin
+
+## Majority (Woodruff, J.)
+
+Woodruff, J.
+—I am constrained to deny the motion for leave to serve the amended complaint submitted upon the making of the motion.
+The action was tried in December, 1856, before a judge without a jury, and the facts proved were then specially found. Upon appeal to the General Term, the judgment rendered at Special Term was in the early part of July, 1858, reversed and a new trial was ordered.
+The ground upon which the plaintiff now asks leave to serve the amended complaint, is, as disclosed in the affidavit, that on the trial of the action various matters were adduced in evidence of which he was not before sufficiently apprised to be able to set them forth in his complaint.
+It must suffice to say of the application, resting as it does in the affidavit on this sole ground, that the plaintiff waited two years and three months after such matters were given in evidence, and it is now rather late to aver discovery of facts as the ground of asking an amendment. (10 How., 193.)
+In truth, notwithstanding Ms so called discovery, the plaintiff chose to persist in Ms prosecution, and sought no amendment until the General Term have decided early in July, 1858, that no recovery could be had under his complaint upon the facts proved at the trial and found by the Court. And after such decision he has waited eight months before making the present application.
+If in any case, amendment should be allowed after so long delay, it must be one in which it is apparent that the plaintiff will suffer greater injustice than he can suffer here, if the facts proved on the trial and found by the Court are true. For, if the facts are truly stated, it seems to me that any recovery upon those facts if permitted, must proceed upon a ground of a MgHy technical character, and which if strictly legal can hardly be Called meritorious. H in truth on any particular day pending the transactions between the plaintiff and the defendants, the latter had not 200 shares of Nicaragua stock standing in their names, it is by no means clear that the plaintiff suffered any actual damage, even if he be in legal strictness entitled to treat that as a conversion of Ms stock.
+Besides tMs, the amended complaint now proposed is liable to serious obj eetions. The plaintiff even now retains in Ms proposed amended complaint the allegations wMch were proved and found to be untrue. He seeks to avail Mmself of the so called discovery, not for the purpose of averring the facts which were discovered on the trial, and making them the basis of his claim, but for the purpose of denying them and yet of speculating on the possibility of their being again proved, by praying such relief as he may be entitled to, if Ms other and inconsistent averments should not be established. In other words he avers several distinct facts, and then adds in substance that if they are not true, then some or one of certain other statements inconsistent therewith are true, and prays such relief as may be proper, whichever state of facts may appear to be proved on the new trial.
+I am not yet prepared to concede that after a trial has once been had, the case fully developed, the defendants’ proofs been heard, and the principles applicable to the pleadings and proofs have been discussed, the plaintiff should be permitted to frame a new complaint, not resting his case upon any distinct set of facts or principles, but in substance assimilated to a bill for discovery averring the facts to be in one form entitling the plaintiff to one kind of relief, or if they are not so, then stating them in another form entitling him to another kind of relief, inconsistent with the first; or, if they are not so, then stating them in still another form, entitling him to still another kind or measure of relief.
+There are cases in which some latitude may be given to a plaintiff, not fully informed of facts which lie in the information of others, in complaining in an alternative form. Here it would not be an unreasonable exercise of discretion, if an amendment were permitted, to say to the plaintiff: you now know all the facts, choose your ground of claim, and make your averments in a form in which the defendants can not only know upon what facts you rely but be prepared to meet them.
+It would be, at least, a novelty in pleading, if the plaintiff may be permitted to aver as follows: “The defendant either sold my stock or he did not; if he did, he is liable for the proceeds; if he did not, he is bound to return the stock to me: wherefore, I ask for such relief as upon the proofs, when taken, I may appear entitled to.”
+This would be a shorter complaint than the one here proposed, but in the particular which I am considering would hardly be liable to greater criticism.
+If the complaint submitted was in all respects free from objection, it would not be apparent to me that the defendant would be prejudiced by allowing it to be filed as an amended complaint, if he was indemnified by requiring the payment of all costs accrued since the former complaint was filed. It would be of no material advantage to require the plaintiff to commence a new suit, or, in other words, to serve a fresh summons.
+And on the other hand no great advantage would result to the plaintiff from allowing the amendment if such terms were imposed; for it is not suggested that the statute of limitations has barred a new suit, or that there is any difficulty in serving the defendants with a summons in a new action.
+That such terms would be just and only just if an amendment were allowed I think certain. The defendants have answered the whole cause of action alleged in the complaint. They have proved on the trial that every allegation of the complaint which is made the basis of their supposed liability, (beyond what they had conceded and offered to pay) is untrue. The Court on the trial have found those allegations untrue. The General Term have decided, that the plaintiff cannot, under his complaint, recover upon any facts so proved and found.
+Now, to permit under the name of amendment the filing of a complaint proceeding upon new allegations and asking a different relief upon the very grounds which were before denied by the plaintiff, after the defendants have been put to the whole expense of a protracted litigation and have substantially succeeded upon all matters charged against them, without'being first paid the costs to which they have been subjected, would seem to me obviously unjust. It would be extending to the plaintiff as mere favor, a privilege which I think he has no title to ask at the defendants’ expense.
+But for the other reasons suggested, the motion should I think be denied.
+Ordered accordingly.
