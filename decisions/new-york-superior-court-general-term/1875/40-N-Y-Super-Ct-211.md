@@ -1,0 +1,28 @@
+---
+court: "New York Superior Court General Term"
+decided: "1875-12-06"
+citations: ["8 Jones & S. 211", "40 N.Y. Super. Ct. 211"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELIZABETH S. BREVOORT, Plaintiff and Appellant, v. HEHRY L. BREVOORT, Defendant and Respondent."]
+source_url: "https://static.case.law/ny-super-ct/40/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1654805
+cites_cases: ["18 How. Pr. 79", "22 N. Y. 478"]
+---
+
+# Brevoort v. Brevoort
+
+## Majority (By the Court.—Sedgwick, J.)
+
+By the Court.—Sedgwick, J.
+The allegations of the second defense have no special value in taking issue upon the complaint. Under general denials the defendant could have put in evidence all facts relative to the ownership or conversion of the property. The plaintiff, however, demurred, and the question mooted was, whether the answer sufficiently averred that the defendant was owner of. the rings, at the beginning of the action, by gift from the plaintiff.
+To take issue upon the plaintiff’s ownership, it was immaterial to allege the former relations of the parties, or the manner in which the plaintiff obtained the rings, if she were the owner, or the manner in which the defendant obtained them if he were the owner, or who was the owner if she was not, or the talk of the parties on any material or immaterial matters, or the manner of either party at any stage of the quarrel. The defense intermingles these matters, using words in a colloquial sense in such manner that the allegations are equivocal, and the rule should be applied that that construction should be adopted which is most unfavorable to the pleader.
+There are, I think, two fatal defects. The first is, that all the special averments may be true, and yet when the action was begun the allegation of the complaint that the plaintiff was owner may have been true. There is nothing equivalent to an allegation that the defendant remained the owner from the time of the plaintiff’s gift to him down to the bringing of the action. Second. It does not appear by the answer that the rings were delivered by the plaintiff to the defendant as a gift, or that he took them as such. Delivery and acceptance are as necessary to a parol gift as to a deed of gift. The gift “ must be the mutual consent and concurrent will of both parties” (2 Kent's Comm. marg. p. 438). There are matters of evidence in the answer as to a gift, but they require the construetion of a jury before their effect can be ascertained. There is no averment that the plaintiff intended to give or to transfer the title, or that the defendant accepted the gifts. Both are necessary to show that the title was devolved from the plaintiff upon the defendant. There are words of legal and certain meaning which would imply all this, but the answer does not use them. The strongest phrase is, that the plaintiff “relinquished all ownership.” GKve.-to this the most meaning that may be, there is no averment connected therewith that the defendant thereupon took possession as owner. The answer says, “ This defendant then took, as she desired, his gifts to her, back again, and kept possession of them.” This is descriptive of certain things that he did, which may have all been done, and yet he have had no purpose of becoming the owner.
+On the merits I think the demurrer should have been sustained.
+The order entered directed “ that the defendant have judgment in said action in his favor,” and the judgment adjudged “ that the plaintiff’s complaint be dismissed.”
+When the defendant’s plea goes to bar the action, if the plaintiff demur to it, and the demurrer is determined in favor of the plea, judgment of nil capiat should be entered, notwithstanding there may be also one or more issues of fact, because upon the whole it appears that the plaintiff has no cause of action (2 Tidd’s Pr. marg. p.741; Cooke v. Sayer, 2 Burr. 754). In this case the issue made by the demurrer related to a part only of the property in dispute. As to the other part, the matters settled by the demurrer determined nothing. At the most, there should have been .interlocutory judgment to stand upon the record until all the issues had been tried, when final judgment on the whole case should be entered.
+If such an interlocutory judgment had been entered in favor of defendant, it seems to me it would have been conclusive at all subsequent stages of the action as to the existence of the facts set out in the pleading demurred to (Cutler v. Wright, 22 N. Y. 478, opinion of Judge Davies), or at least of such facts as were not involved in the issues of fact (Id. 482, opinion of Judge Seeder). “If there are other issues involving the same facts, they are not affected by the demurrer.” (1 Chitty on Plead. 662). In the present case, the issues of fact made outside of the one raised by the separate defense that has been considered, do not involve any matter examined upon the demurrer, excepting, perhaps, an allegation in the first defense that the defendant denied that he had converted any of the articles claimed by the plaintiff. But as to the earrings, this would be immaterial, it being otherwise determined that the defendant owned them. Therefore, to enable the plaintiff to show that in fact she owned the ear-rings, the demurrer and the judgment against her upon it should be removed from the record by her procuring leave to withdraw the demurrer.
+I am of opinion that the order and judgment appealed from should be reversed with costs to appellant, to abide the event of the action.
+Mohell, Ch. J., concurred.
