@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1842-05"
+citations: ["2 Hill & Den. 531"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bank of Monroe vs. Culver and others."]
+source_url: "https://static.case.law/hill/2/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2042768
+cites_cases: ["16 Wend. 586", "5 Wend. 301"]
+---
+
+# Bank of Monroe v. Culver
+
+## Majority (Bronson, J.)
+
+By the Court,
+Bronson, J.
+The defendants attempted to prove that the two thousand dollar note had been discounted by the plaintiffs. In answer to this evidence, the plaintiffs proposed to show, when, how and for what purpose the note came into the bank; and that they had no connection with it beyond that .of collecting and remitting the money. If the proof which they offered was admissible, their case was fully made out. The testimony of cashier Taiman, taken in connection with the letter of Johnson, the endorsement made upon it at the time it was received, and the entries then made by the witness in the plaintiffs’ book, showed, or, at the least, tended to show, that the note came into, the bank on a particular day through the post office, and in the usual course of business—that it was received for collection on account of the Ontario Branch Bank, and that the money was collected and remitted to that bank. This testimony went far to prove that Prentiss, the defendants’ witness, was mistaken in supposing the note was discounted by the plaintiffs. And in addition to this, it was proved that it did not appear by the plaintiffs’ books that they had ever discounted such a note.
+But the question whether the plaintiffs were entitled to a verdict, does not arise upon this bill of exceptions. The only questions made by the bill are, whether the proofs offered by "the plaintiffs were in their own nature admissible, and whether they had a legal tendency to make out the plaintiffs’ case.
+This brings us to the enquiry whether the original entries and memoranda were properly received in evidence. The defendants insist that they could only be used for the purpose of refreshing the recollection of the witness, and not as evidence to the jury. I may here remark, that the entries and memoranda were made in the usual course of business, and are verified in the most ample manner by the witness who made, and whose duty it was to make them. The proof could not well have been more satisfactory than it is. But the witness was unable to call to mind the original transaction; and the question is, whether memoranda and entries thus verified, should be allowed to speak for themselves. I think they should. Although it was not then absolutely necessary to pass upon the question, it was fully considered in Merrill v. The Ithaca and Owego R. R. Co., (16 Wend. 586;) and we came to the conclusion that evidence of this character was admissible. Lawrence v. Barker, (5 Wend. 301,) does not lay down a different rule. The memorandum in that case was not made in the usual course of business, but only for the convenience of the witness. But here the memoranda and entries were made in the usual course of business, and as a part of the proper employment of the witness. I do not see how it is possible to doubt that such evidence ought to be received. There are a multitude of transactions occurring every day in banks, the offices of insurance companies, merchants’ stores, and other places, which, after the lapse of a very brief period, cannot be proved in any other way. It is not to be supposed that officers and clerks in large trading and other business establishments, can call to mind all that has been done in the course of their employment; and when their original entries and memoranda have been duly authenticated, and there is nothing to excite suspicion, there can be no great danger in allowing them to be laid before the jury.
+The objection to the letter of Johnson seems to have been made on the ground that the witness had no present recollection of having received it, but was obliged to depend upon, his endorsement on the letter, and his entries made the same day in the books of the bank. If that was the only ground of objection, the question has been already sufficiently considered. If the defendants intended to go further, and insist that the declarations of Johnson were not evidence in this action, they should have said so at the time. But if they had made the point on the trial, it would have been unavailing. The letter contained nothing beyond a statement that the note was sent for collection and credit. That statement, in connection with the other evidence, went to show for what purpose the note was sent by the one bank and received by the other. It constituted a part of the transaction, and as such was clearly admissible evidence. If Johnson had called in person and delivered the- note, saying he left it for collection, his declaration would have been admissible as a part of the res gestee ; and his written declaration accompanying the note stands on the same principle.
+If the two thousand dollar note had been discounted by the plaintiffs, that fact would, in the ordinary course of business," have appeared upon the books of the bank. The fact that there was no such entry in the books was, I think, proper evidence, for the consideration of the jury.
+New trial denied.
+See Brewster v. Doane and another, post, p. 537.
