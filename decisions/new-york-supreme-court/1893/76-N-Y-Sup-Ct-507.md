@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court"
+decided: "1893-05"
+citations: ["76 N.Y. Sup. Ct. 507"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ellen Wilber, Respondent, v. Daniel Dwyer, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/76/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4674560
+cites_cases: ["116 N. Y. 530"]
+---
+
+# Wilber v. Dwyer
+
+## Majority (Herrick, J.: Putnam, J.: Mayi-iam, P. J.:)
+
+Herrick, J.:
+This is an appeal by the defendant from a judgment rendered upon the verdict of a jury in an action under the Civil Damage Act, for an alleged selling of liquor by the defendant to the plaintiff’s husband whereby her said husband was rendered intoxicated, and while in such state of intoxication drove to death a horse belonging to the plaintiff, broke her carriage, and also was injured himself, and for the time being caused her loss of support.
+The verdict rendered was for the sum of $200. The question as to whether the defendant did in fact sell liquor to the plaintiff’s husband, which was the cause, or partly the cause, of his intoxication, was purely one of fact for the jury. There was evidence to sustain their finding in that respect. .
+The only serious question presented to us is one arising upon the charge of the court upon the subject of exemplary damages. The court -said: “You are also at liberty, if you choose to do so, to give what the law calls exemplary damages, that is, damages by way of example as a punishment to deter others from selling whiskey or other spirituous liquors to a man till it in whole or in part produces his intoxication. That part of the law was evidently designed to punish more severely those persons who, seeing that a man was drunk, or even at the verge of intoxication, still allowed him to have liquor at their bars, so that he became completely intoxicated. Of course, a person who sells a glass of beer or moderate drink to a person apparently sober, is not as guilty as one who sells liquor to a man who has already had too much.. That is the reason why the .law allows exemplary damages under such circumstances, that is, to give, in addition to the compensation, another sufficient sum which should act as a punishment or as an example.”
+Again, at the close of his charge, after refusing defendant’s request to charge that there was no evidence from which a jury could find damages for anything except the loss of the horse and wagon, and nominal damages for loss of support, the court charged : “ The law gives the right of exemplary damages from the fact of causing the intoxication, in whole or in part, and the injury resulting, if the jury think it is a proper case to award exemplary damages.”
+In passing the so-called Civil Damage Act the Legislature created a cause of action theretofore unknown to our laws, and in the, act provided that the jury might award both compensatory and exemplary damages, but did not state upon what evidence either should be awarded; consequently they are subject to the same rules as govern other cases.
+Exemplary damages are not recoverable without proof of facts additional to the facts required to be proved to recover compensatory damages. (Reid v. Terwilliger, 116 N. Y. 530; Neu v. McKechnie, 95 id. 636.)
+It seems to me that it could be properly inferred by the jury from the judge’s charge that they were at liberty to give punitive or exemplary damages, upon proof of the bare fact that the defendant sold liquor which caused or partly caused the intoxication of plaintiff’s husband, without proof of any additional facts. In other words, that the same evidence, no more, that would warrant them in giving a verdict for compensatory damages, would also warrant them in adding to that verdict punitive or exemplary damages. That, I think, is error. There is nothing in the evidence in this case, that I can discover, that would warrant a verdict for anything more than compensatory damages, and because of the error in the charge, judgment should be reversed, and a new trial granted, costs-to abide the event.
+•
+Putnam, J.:
+The trial judge charged the jury as follows:
+“ The law gives the right of exemplary damages from the fact of causing the intoxication, in whole or impart, and the imgury result- mg, if the jury think it is a proper case to award exemplary damages. It is not a matter of course.”
+It is settled that in actions brought under the Civil Damage Act, a plaintiff cannot recover exemplary damages, unless, besides showing the sale of the liquor, there is evidence produced of some aggravating circumstance, or some fact besides the mere sale of liquor justifying an award of exemplary damages. (Reid v. Terwilliger, 116 N. Y. 530.)
+In this case, if the judge had instructed the jury that if they found that defendant sold liquor to the plaintiff’s husband after Tie became intoxicated, or found some other aggravating circumstance, they might award punitive damages, such an instruction would have been proper. But the jury were in fact instructed that the plaintiff might recover exemplary damages from the mere fact of defendant’s causing the intoxication of plaintiff’s husband in whole or in part.
+I think the instruction erroneous, and hence that there should be a new trial.
+Mayi-iam, P. J.:
+I think the court in his charge correctly stated the rule of law in this class of cases, and that the judgment should be affirmed.
+Judgment reversed, new trial granted, costs to abide event.
