@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02-15"
+citations: ["29 N.Y. St. Rep. 888"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Boyle, Resp’t, v. William Youmans, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0888-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664275
+cites_cases: ["64 N. Y., 41"]
+---
+
+# Boyle v. Youmans
+
+## Majority (Martin, J.)
+
+Martin, J.
+The defendant was the purchaser of the premises described in the complaint. As a part of the consideration for such purchase he agreed “ to pay and satisfy a mortgage now held by the heirs of James Stoddart, on which there is now due about seventeen hundred dollars.” The court found that the mortgage referred to was held and owned by the executor of James Stoddart. The executor duly assigned and transferred the mortgage and bond accompanying the same to the plaintiff. This action was based on the foregoing covenant of the defendant to pay such mortgage. The defendant sought to offset or counterclaim certain debts which the mortgagor, John Stoddart, owed the defendant, and also to reduce the amount due on such bond and mortgage by reason of an assignment by John Stoddart of his interest in said bond and mortgage to defendant John Stodclart was a legatee under the will of James Stoddart, deceased, and entitled to one-ninth of his residuary estate. The defendant’s counterclaims were disallowed, as was his claim to reduce the amount due on such bond and mortgage by reason of the assignment by John Stoddart. There was no error in this. The bond and mortgage were never owned by John Stoddart He was the mortgagor. He had no interest in such bond and mortgage. They belonged to the executor of the estate of James Stoddart, deceased. Therefore, the debts due the defendant from John Stoddart could not be offset or counterclaimed either against the bond and mortgage or against the defendant’s covenant to pay such debt If the defendant’s claims had been against the mortgagee or owner of the mortgage, and had existed when the assignment to the plaintiff was made, they might have constituted a counterclaim in this action, as the plaintiff’s title to the covenant of defendant was a derivative one. But such was not this case. As John Stoddart had no title to such bond and mortgage, he could convey none by his assignment. The assignment by the executor to the plaintiff carried with it the additional security of the defendant’s covenant to pay, and the plaintiff could, therefore, maintain an action thereon. • Barlow v. Myers, 64 N. Y., 41, 44.
+We think the case was properly decided, and that the judgment should be affirmed for the reasons which are so ably and fully stated in the opinion of Parker, J., delivered at special term.
+Judgment affirmed, with costs.
+Hardin, P. J., and Merwtn, J., concur.
