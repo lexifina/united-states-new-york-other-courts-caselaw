@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court"
+decided: "1895-05-02"
+citations: ["67 N.Y. St. Rep. 549"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of the New York Oxygen Company for a Voluntary Dissolution."]
+source_url: "https://static.case.law/ny-st-rep/67/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2113381
+cites_cases: ["46 St. Rep. 549", "73 N. Y. 384"]
+---
+
+# In re the New York Oxygen Co.
+
+## Majority (Beekman, J.)
+
+Beekman, J.
+It is quite plain that, upon the dissolution of a corporation, actions for personal injuries pending against it, untried, abate, and cannot be revived or continued against the receiver. The rule in such cases is the same as where the defendant is a natural person, and the cause of action dies with the death of the tort feasor. Grafton v. Union Ferry Co., 46 St. Rep. 549; Sturges v. Vanderbilt, 73 N. Y. 384; McCulloch v. Norwood, 58 id. 562. By chapter 295 of the Laws of 1832 it was provided that any suit or proceeding against a corporation, which shall have been dissolved, might be continued by the court until final judgment, with like effect upon the rights of the parties as if such corporation had not been dissolved. Whether or not this provision should be construed to extent to causes of action ex delicto it is now useless to consider, as it was repealed by chapter 245 of the Laws of 1880, and no substitute for it has been enacted. As the law now stands, the dissolution of a corporation apparently defeats all causes of action against it, however meritorious, which die with the person. This seems to be a serious defect, and calls for remedial legislation. Whatever may be the reason for the law, if there be any reasonableness about it, which limits the life, of the cause of action to that of the wrongdoer, where the latter is a natural person, it is plain that, in the nature of things, such reason can apply with little, if any, force to the case oí a corporation which dies only in a figurative sense. Still, we must take the law as it is, and, while I feel most reluctant to do so, I am still of thp opinion that I am bound to make the order of dissolution notwithstanding its destructive effect upon the pending action against the corporation to recover damages for personal injuries. Section 2429 of the Code of Civil Procedure provides that, upon an op-' plication for a final order dissolving the corporation, if it appears to the court that the corporation is insolvent, the court must make a final order dissolving the corporation, and appointing one or more receivers. The report of the referee, to which no exceptions have been filed, contains a finding of insolvency which seems to be sustained by the proofs. Under such circumstances, the mandatory character of the section apparently leaves the court no option but to grant the order applied for. Motion granted.
