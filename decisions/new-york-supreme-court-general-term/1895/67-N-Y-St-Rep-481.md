@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-05-13"
+citations: ["67 N.Y. St. Rep. 481"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Burroughs, App’lt, v. Trademen’s National Bank of the City of New York, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/67/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2113208
+cites_cases: ["119 N. Y. 199", "119 N. Y. 202", "29 St. Rep. 1"]
+---
+
+# Burroughs v. Trademen's National Bank
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This suit is brought to recover damages for the failure of the bank to pay, on presentation, a check drawn by the plaintiff against his account kept with it. There is no charge in the complaint of any willful or wrongful act on the part of the defendant, and there is no allegation of special damages. The plaintiff is therefore confined to the recovery of such damages as the proof shows were sustained.
+The contract which the law implies between a bank and its depositor is that the bank will hold the funds, and pay them out according to the order of the depositor. A failure in the performance of the duty which the law thus imposes upon the bank constitutes a breach of the contract which the law implies, and renders the bank legally liable either in tort or upon contract. Citizens' Nat. Bank v. Importers' & Traders' Bank, 119 N. Y. 199 ; 29 St. Rep. 1. In this case the check of the plaintiff was dated October 15, 1891, and it is to be gathered from the testimony, although not stated explicitly, that it was presented to the bank for payment the same day.
+The check was not honored at that time, but on the 20th day of the same month — five days afterwards — the error was discovered and the check was paid. At the close of the testimony on the part of the plaintiff, the counsel for the defendant moved for a dismissal of the complaint, upon the ground, among others, that the action was based upon the contract and not upon a tort, that there was no allegation of special damages, and no charge of willful or malicious injury, and that the plaintiff had failed to establish a cause of action. The motion to dismiss was denied, and the trial judge directed a verdict in favor of the plaintiff for thirty-four cents, the interest upon the check for five days.
+The denial of the motion to dismiss the complaint was not erroneous. This must be deemed an action for the recovery of damages for a breach of the implied contract on the part of the bank to pay out the money of the plaintiff according to his order. There was a technical breach of the contract, and for that the plaintiff is entitled to a recovery. IE the bank had not paid the money, the measure of damages would be the amount of the cheek. Inasmuch, however, as the check was paid by the bank, the plaintiff sustained no actual damage. He did not lose the interest upon the money called for by the check. If any one lost the use of that money, it was the payee of the check. The bank was under no obligation to pay interest to the plaintiff, and he never made any effort to draw the money for his own use. The verdict was therefore excessive, but it cannot be disturbed, because the defendant has not appealed. As the check was not paid, the plaintiff was entitled to recover nominal damages, although he had sustained none. Citizens’ Nat. Bank v. Importers’ & Traders' Bank, 119 N. Y. 202; 29 St. Rep. 1. This case, and the cases to which reference is made, teach us that the plaintiff, under the facts in this case, is entitled to nominal damages only, and he is entitled to that simply because there was a technical breach of the implied contract. The judgment should be affirmed; with costs.
