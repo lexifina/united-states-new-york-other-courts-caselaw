@@ -1,0 +1,19 @@
+---
+court: "New York Court of Chancery"
+decided: "1833-08-06"
+citations: ["4 Paige Ch. 174"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Van Rensselaer vs. Brice."]
+source_url: "https://static.case.law/paige-ch/4/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050471
+---
+
+# Van Rensselaer v. Brice
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+For the purpose of determining whether those parts of the answer to which these exceptions relate are impertinent, the part of the answer which charges the conveyance to the complainant to be fraudulent as against the defendant’s claim to estovers, as well as every other part of the answer, must be taken as true. And each exception should have been overruled, if any part of the answer embraced in such exception was pertinent, or necessary to the defence of the defendant. An exception for impertinence must be "supported in toto ; and if it include any passage which is not impertinent, it must fail altogether. (Wagstaff v. Bryan, 1 Russ. & Myln. Rep. 30.) From the answer, it appears that the defendant, as the assignee of the lease to Slingerland, given in 1767, was entitled to estovers, for building, fencing and fuel, in.the lands of the manor which were not fenced or particularly appropriated or demised by the proprietors thereof ; and that the conveyance to the complainant was without consideration, and made for the sole purpose of defrauding the defendant of his right to estovers. Notwithstanding the alleged fraud in this conveyance, however, it was valid as between the parties thereto; and the complainant is entitled to the same rights that the proprietor of the manor would have possessed if the conveyance had not been made. One of those ' rights was, that the privilege of taking estovers should be exercised in a reasonable and proper manner. It would be an unreasonable and unconscientious exercise of the power of taking estovers, if they could conveniently be obtained in the vicinity of the defendant’s farm where the value of wood and timber was comparatively little, for him to resort to the complainant’s land near the city of Troy, where wood and timber were much more valuable. And unless some special reasons existed which rendered such a proceeding necessary, the defendant would not be authorized to take estovers for two or three years in advance. He was therefore bound to state the facts which rendered such a proceeding on his part proper, and consistent with the just rights of the complainant. But if, as the defendant alleges, the proprietor of the manor was endeavoring to defeat his right, by colourable leases to members of his own family, and had actually leased all the common lands in the immediate vicinity, it was a sufficient excuse for what was an unusual, and apparently a vexatious proceeding on the part of the defendant. Although the lease of all the unappropriated 'lands, in the neighborhood of the defendant’s farm, may have been void as against him, yet he was not bound to subject himself to the costs and expenses of an interminable litigation, by exercising his right to taking estovers from such lands; and he might resort to other unappropriated lands in the manor, where no such difficulty was supposed to exist. If the matter of an answer is relevant, that is, if it can have any influence whatever in the decision of the suit, either as to the subject matter of the controversy, the particular relief to be given, or as to the costs, it is not impertinent. Testing the allegations of the answer embraced in these exceptions by this rule, I cannot say they are wholly unnecessary and irrelevant. The exceptions to the report of the master are therefore well taken; and the exceptions for impertinence must be disallowed.
