@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-01-23"
+citations: ["35 N.Y. St. Rep. 540"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of The New York, Lackawanna & Western R. R. Co., to appraise lands of Abram Chesebrough et al."]
+source_url: "https://static.case.law/ny-st-rep/35/cases/0540-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 673855
+---
+
+# In re The New York, Lackawanna & Western Railroad
+
+## Majority (Corlett, J.)
+
+Corlett, J.
+On the 5th day of January, 1882, an award was made in favor of the appellants against the respondent for $8,720’ damages for the taking of certain lands for right of way, belonging to the appellants, for railway purposes.. The report was confirmed in March of the same year, and on the 3d day of April Schultz and wife appealed from the award.
+In May, 1886, an application was made upon affidavits to set aside the award, which was denied and an appeal was taken to this court. Several other orders were made at special term denying like motions.
+In February, 1889, four appeals were argued in this court, one being to set aside the award, and the other three appeals from orders of the special terms denying applications to set the award aside upon affidavits and other papers. In the April following, the appeal from the award was affirmed; also all the orders appealed from. Ho opinions were written nor do the grounds of the decisions appear iú the case. All those cases were appealed to the court of appeals. The appeals from the orders were dismissed and the one from the award affirmed. After that this motion was made. When the first motion was decided before Justice Daniels at special term be wrote an opinion which appears in the case; also one upon the decision from which' this appeal was taken, which appears.
+The appellants received the amount of the award ih June, 1882.
+So far as the case shows, no application was made for re-argument in this court, or for leave to renew any of the motions in any of the appeals.
+It must be assumed that this court examined and determined every material question presented by the papers in the various appeals decided. If any question or questions were overlooked by the special term, they must have been considered and determined in this court. Error cannot be presumed.
+Wo new questions of an important character were presented to the special term on the motion from which this appeal is taken. The numerous affidavits.and papers appearing in the printed case clearly show that the grounds of complaint by the appellants were brought to the attention of the court before Justice Daniels on the first motion; also before Justice Lewis.
+The opinion of the special term in the present case is to the effect that no new questions have been presented, and the affidavits so show. It may be assumed, and the justice in bis opinion at special term so states, that the matters involved in this and the former motions are more fully presented and carefully analyzed in the present case than upon the former hearings. But the substantial grounds upon which relief is demanded are the same. Under such circumstances it is evident that the former decisions of this court are decisive of this appeal. The voluminous papers and briefs have been carefully examined, but they fail to show that any new facts, not previously accessible, were presented as the basis of this motion.
+The order appealed from must be affirmed.
+Dwight, P. J., and Macomrer, J., concur.
