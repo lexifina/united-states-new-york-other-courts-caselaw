@@ -1,0 +1,30 @@
+---
+court: "New York Court of Chancery"
+decided: "1822-10-02"
+citations: ["6 Johns. Ch. 342"]
+reporter: "johns-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lynch and Varick against Willard and others."]
+source_url: "https://static.case.law/johns-ch/6/cases/0342-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1982821
+cites_cases: ["1 Johns. Ch. Rep. 22", "10 Johns. Rep. 587", "3 Johns. Ch. Rep. 467", "4 Johns. Ch. Rep. 204"]
+---
+
+# Lynch v. Willard
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The defendants, who have demurred separately, have assigned some causes of demurrer which are general, and apply equally to all of them.
+One ground of the demurrer, common to all the defendants, is, that the plaintiffs, as far as they show any right of action, have a clear and certain remedy at law, and have not laid any just foundation, by their bill, for coming into this Court. The general doctrine is every where admitted, that the defendant may demur, if the plaintiff, from his own showing, has effectual and complete remedy at law, and sets up no particular title to the aid of a Court of equity. The demurrer is, in fact, to the jurisdiction of the Court. (Cooper’s Tr. 124. 6 Vesey, 682.)
+If we look into this bill, I think it will appear clearly that the case might be disposed of altogether at law, and that there is no ground for coming into this Court.
+The plaintiffs were employed by five of the twelve defendants, on behalf of the creditors, generally, of Smith & Soulden, to adopt measures to prevent a sacrifice of the property in the hands of S. & S. Being so employed, they expended money, and rendered services, and incurred debts in their professional character, in order to attain the ends for which they were so employed. They state, further, that four of the defendants (of whom three were part of the five defendants who had originally employed them) were appointed by the creditors of S. Sf S., a committee, to correspond with the plaintiffs, and that they did so correspond with them. They state nothing else material, except that they are ignorant of the hames of all the creditors who appointed the committee, and how or for what purpose the committee were appointed. The prayer of the bill is, that the defendants may come to a just account with the plaintiffs, for their disbursements, and pay them a just compensation for their services.
+There is nothing alleged here, but what is the subject of an ordinary suit at law. The plaintiffs must know in what manner they have expended money for the defendants, and what services they have rendered, and they require no discovery. Here are no mutual demands, and it is not the case of a bill for an account. An account supposes something mutual; but here, all the charges, and business, and payments, are on the part of the plaintiffs. This is very much like the case of Dinwiddie v. Bailey, (6 Vesey, 136.) where an insurance broker filed a bill for discovery and relief, and for an account of moneys paid and received by him, in that character, on account of the defendants, for whom he was employed to effect insurances, and for money due him for commissions. A demurrer was allowed by Lord Eldons because, the remedy was entirely at law: and all the argument in that case, and the principle of the decree, apply to this bill.
+Why have not the plaintiffs a clear and perfect remedy at law, for their services and disbursements, against the five defendants, who employed them ? It is said, these defendants employed them on behalf of the creditors generally of S. S'.; but no authority from the creditors, generally, is shown, or even asserted. They state, further, that the creditors, generally, appointed a committee to correspond with the plaintiffs, and all the ignorance they complain of, is, that they are unacquainted with the names of all the creditors who appointed the committee, or how or for what purpose the committee was appointed. We cannot, from the bill, perceive the utility of the information of the names of those creditors who appointed the committee; and what has that fact to do, or what have the committee to do, with their demand ? They show no right or title whatever, to call upon that committee for reimbursement or compensation, nor that they require the assistance of this Court to discover the names of the creditors. It is information which they might have acquired by asking, and it is not stated that they have made any inquiries for that purpose. I never saw a bill, calling for an account and for relief here, which was so entirely naked of all just ground for equitable interference.
+MU seeks ^to Court, a matcognizaMeerin MwC it'‘must be verified by oath'
+It is a general rule, (Laight v. Morgan, 1 Johns. Cases, 433. Godfrey v. Turner, 1 Vernon, 247. Whitchurch v. Golding, 2 P. Wms. 541.) that if a bill seeks to trans-for to Chancery a subject matter properly cognizable at law, the facts rendering such a change of jurisdiction proper, ought to be verified by oath, and not be left to rest upon mere suggestion and pretext. The reason of that rule, applies as well to this case as to the one of a lost deed.
+There are other causes of demurrer, that might be deserving of consideration, if it was necessary; but, as the objection which has ‘ been considered, applies equally to all the defendants who have demurred, and is fatal to the bill, it is not requisite to notice the other causes assigned.
+I shall, accordingly, declare, that the plaintiffs, as far as they have shown by their bill any claim or demand whatsoever, against the defendants Or any of them, have an effectual remedy at law, and that they have not shown any just ground for coming into this Court, either for relief or discovery, nor have they alleged or averred any facts which entitle them to either; and that the bill, as to all the defendants who have demurred, ought to be dismissed, ' with costs.
+Decree accordingly.
