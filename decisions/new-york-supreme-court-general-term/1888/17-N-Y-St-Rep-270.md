@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-23"
+citations: ["17 N.Y. St. Rep. 270", "1 N.Y.S. 492"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anson Heath, App’lt, v. Jefferson S. Hewitt, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0270-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008161
+cites_cases: ["1 Denio, 165", "1 Pick. 27", "1 Pick., 27", "35 Hun, 247", "46 Pa. St. 200", "51 Barb. 137", "51 Barb., 137", "51 Pa. St. 282", "54 Pa. St. 20", "59 N. Y. 149", "59 N. Y., 149"]
+---
+
+# Heath v. Hewitt
+
+## Majority (Haight, J.)
+
+Haight, J.
+This action was brought to recover one equal undivided eleventh part of the lands described in the complaint. The referee found as facts, that on the 28th day of April, 1846, the land in question was owned by Benjamin Heath, and that on that day he executed an instrument in the form of a warranty deed, which was duly signed, sealed and delivered by him in the presence of a witness who duly attested the same, and undertook to convey in terms to “ The heirs of Warren Heath,” as grantee, the lands in question, excepting and reserving to himself the whole use and absolute control of the premises during his natural life, and in case his wife should survive him, then the use of the premises to her for the term of her natural life, and after her decease to his son, Warren Heath during his natural life.
+The instrument was made subject to a judgment of $250, in favor of one Jonas Rude, which amount Warren Heath, was, by the terms of the instrument, to pay. The amount of the judgment was the amount of the consideration expressed in the instrument. Warren Heath was the son of Benjamin Heath, and the deed was delivered to him.
+The referee further found that after the death of Benjamin Heath and his wife, which occurred about the year 1850, that Warren Heath entered into the possession of the lands in question, and continued in the uninterrupted possession thereof until January 22, 1868, under claim of title as life tenant under the aforesaid instrument; that on that day Warren Heath and Belinda Heath, his wife, conveyed the premises described in the complaint to Harvey Heath, by quit-claim deed, for a valuable consideration paid; who subsequently conveyed the same to the defendant, who was in possession thereof at the time of the trial of this action; that Warren Heath departed this life on the 30th day of November, 1886, leaving him surviving eleven children, of whom the plaintiff is one.
+The plaintiff claims the right to recover under the aforesaid deed of his grandfather, which runs to the heirs of Warren Heath. The referee held that the deed was void for uncertainty as to who are grantees. The question thus presented has already been considered by the courts in numerous cases. The rule as laid down by Washburn on Real Property (vol. 3, p. 266, § 33) is that “a deed to the heirs of J. S., who is alive, would be void unless there is something in the deed itself which shows that by ‘the heirs’ was meant the children of the person named, when the grant would be good/’
+In the case of Hall v. Leonard (1 Pick., 27), it was held that “a grant of land to the neirs of A. B., who is living, is void.” And to the same effect is the case of Morris v. Stephens, 46 Pa. State, 200; Stephens v. Huss, 51 id., 282; same case affirmed, 54 id., 20; Rivard v. Gisenhof (by this court), 35 Hun, 247.
+The theory upon which these decisions rest is, that a person could have no heirs whilst he is still living, and that it is impossible to tell who will become his heirs upon his death. But, in construing the deed in question, we are required to take the whole instrument into consideration, and from it determine the intention of the grantor. The deed, as we have seen, reserves to the grantor the use and control of the premises during his life, and that of his wife, in case she should survive him. It also reserves to his son Warren the use of the premises during his natural life thereafter; and it is also made subject to a judgment in favor of Jonas Rude, which judgment his son Warren agreed to pay, thus indicating in unmistakable terms that Warren Heath was then living. This being the case, the grantor, by the use of the words “the heirs of Warren Heath ” could not have meant heirs in the strict meaning of that term, for he at that time was living and had no heirs. What was then meant by the use of the words “the heirs of Warren Heath? ” He must have intended the persons who were at that time the heirs apparent of Warren Heath; those persons who would be his heirs if he should then die. This was expressly held in the leading case upon this question of Heard v. Horton (1 Denio, 165, 168), in which numerous English authorities are cited; and again in Van Norsdall v. Deventer, 51 Barb., 137.
+These cases are approved in the case of Cushman v. Horton, 59 N. Y., 149, 152, 153.
+It is true that these cases arose upon the construction of wills, but they have reference to the meaning of the words used, the persons indicated; in such cases we are aware of no rule that requires a different meaning to be given to the same words, when used in a deed, from that which is given to them in a will. We are aware that in the case of Rivard v. Gisenhof it appeared from the deed that the grantor’s sister was alive, and that the deed ran to her and to her heirs, by her present husband. In that case the attention of the court evidently was not called to the question here considered, for it is not referred to in the opinion, and again the case is clearly distinguishable.
+The judgment should, therefore, be reversed and a new trial ordered before another referee, costs to abide event.
+Barker, P. J., Bradley and Dwight, JJ., concur.
