@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-07"
+citations: ["87 N.Y. Sup. Ct. 353"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman and Cullen, JJ., concurred."]
+parties: ["John J. Radley, as Administrator, etc., of Frank X. Radley, Deceased, and Another, Respondents, v. Lillie A. Riker, Appellant, Impleaded with Another."]
+source_url: "https://static.case.law/ny-sup-ct/87/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4726410
+---
+
+# Radley v. Riker
+
+## Majority (Rrown, P. J.:)
+
+Rrown, P. J.:
+This action was brought to set aside two deeds which transferred to the appellant from her husband, William H. Riker, real estate in Dutchess county.
+The deeds were dated July, 1891, and the evidence clearly established that at that time William H. Riker was owing large amounts of money and was insolvent.
+No consideration was paid by the grantee in either deed, but the appellant sought to sustain them by evidence that the property in question was acquired by the husband in exchange for property situated on Sixty-eighth street, in New York, and that when such exchange was under discussion she refused to execute the deed, and that it was thereupon agreed that in consideration of the release by her of her inchoate right of dower in the New York property the Dutchess county property should be transferred to her, subject to a mortgage of $5,000. ■
+The trial court refused to find that such an agreement was made, and this finding is supported by the testimony. The interest of the appellant and her husband in the result of the trial was such as to make the credibility of their testimony a subject for the consideration of the court, and we are not disposed to disturb its conclusion. The only other testimony on the question was that of Mr. "Williams, the grantor of the property in question.
+His testimony was as follows: That at an interview with Mr. and Mrs. Riker at their home prior to the sale, “ Mrs. Riker seemed to object to the exchange, and he (the husband) told her if she would consent he would give her the deed of the Millerton property. Q. And she assented to it at that time ? A. I don’t know as she did at that time; I gave the deed to the husband, I think. Q. How came it that you made the deed out to him at that time ? A. I supposed he asked me to; * * * I made it as he required it.”
+This evidence, while it corroborates the appellant to some extent, did not show that an agreement was made, and the fact that the title was taken by the husband and remained in him for upwards of a year, and until he became insolvent, was strong evidence that the conveyance was not made for such consideration.
+After the exchange was made, and prior to the conveyance to the appellant, her husband had contracted large obligations, among which was that upon which the judgment held by the plaintiffs intestate was recovered, and Mr. G-renough, one of the firm with whom he had contracted, was informed by him that he was the owner of the property in suit.
+The circumstances all tended to contradict the appellant’s claim, and we are of the opinion that the conclusion of the court is amply sustained by the evidence.
+The appellant also contends that a consideration for the deed exists in an agreement upon her part to remove from the city and live with her husband in Dutchess county.
+That fact, if true, would not constitute a legal consideration and would not sustain the deed against the claim of creditors.
+The judgment must be affirmed, with costs.
+Dykman and Cullen, JJ., concurred.
+Judgment affirmed, with costs.
