@@ -1,0 +1,27 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1853-12"
+citations: ["2 E.D. Smith 240"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John C. Angel v. David H. Solis."]
+source_url: "https://static.case.law/ed-smith/2/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1283656
+---
+
+# Angel v. Solis
+
+## Majority (By the Court. Woodruff, J.)
+
+By the Court. Woodruff, J.
+I think the counsel for the respondent is correct in his view of the construction of section 399 of the Code, and that so far as the same construction was adopted in the court below there was no error. That section authorizes the party, against whom an assignor testifies on behalf of his adversary, to rebut that evidence by his own oath, but to go no further. The mere fact that a plaintiff puts the assignor on the stand, does not warrant the defendant in examining him in matters adverse to the plaintiff, and then make that examination the foundation of a claim to testify in his own behalf. For example—the assign- or of a contract may be called by the plaintiff to prove a signature. This defendant cannot thereupon examine him as to payments, or release or usury, and by that means entitle himself to testify in his own behalf to such matters of defence. His right to testify is confined to the matter of the signature ; i. e., in the language of the Code, to the “same matter ” in respect to which the assignor has testified on behalf of the plaintiff. Examples might be multiplied, but the meaning of the Code in this respect would hardly be made more plain. The right of the party offering his own evidence is the right to contradict, modify, or explain the very fact to which the assignor has testified, and not the right to state new facts, which admit the truth and legal effect of those to which the assignor, was examined by his adversary, and which go to defeat the recovery upon other grounds.
+If an assignor, on behalf of the plaintiff, testifies to a sale of goods, the defendant has not, for that reason, the right to testify that the goods were afterwards paid for. If the assignor testifies to the execution of a bond, the defendant cannot testify to a release.
+But if the assignor testifies to a sale of goods at a price agreed upon, the defendant may testify that the goods were not sold, or that the price was less than is so stated, or that no price was fixed; and if the assignor testifies to a sale for the fair value of the goods, the defendant may testify that the sale was for a fixed price; and if the assignor testifies to the execution of an instrument, the defendant may deny the execution, or may, I think, testify that the alleged signature was procured by fraud; for a signature obtained by fraud is no execution of the instrument.
+But the court below erred, I think, in the application of this construction of this section of the Oode to the case on trial, and, in this respect, the counsel for the respondent fail, rather than in the views of its proper meaning.
+The assignors of the plaintiff testified, in the present case, to a general retainer or employment to render services as attorneys and counsel in sundry matters ; that services were rendered, and that they were worth the sum charged. This was not only in legal effect, but, according to the natural and ordinary meaning of their testimony, a statement that the employment was without any special stipulations, and upon the defendant’s implied undertaking to pay whatever the services were reasonably worth. It was competent for the defendant to contradict this—to say that he never employed them upon any such footing—and to state the facts constituting the retainer as they really occurred. That was the very matter to which the assignors had testified. The assignors undertook to state their retainer by the defendant, and its terms and conditions, for plainly their evidence is to be read and taken according to the legal effect of the transaction which they state; and the actual meaning of their evidence is, that they were employed without any special agreement. It was then the defendant’s right to testify to that retainer, and state all its terms and conditions, as a contradiction of what the assignors had stated, either in direct terms or according to the legal import of the testimony. Such evidence goes to the same matter, and to nothing else. It does not admit the truth of what the assignors testified, and avoid it by matter constituting a ground of defence; but it goes to show that a portion of the circumstances attending the retainer testified to, have been suppressed, and thereby an entirely different sort of retainer proved by the assignors.
+The “matter ” testified to by the plaintiff’s witnesses here, was the matter of the retainer, and to that, with all its actual terms and conditions, the defendant should have been permitted also to testify.
+The error helow, then, did not consist in refusing to regard the cross-examination of the assignors, by the defendant, as any ground for permitting the, defendant to testify to matters elicited by such cross-examination, but in a misapprehension of the scope and effect of the testimony given on the direct examination, and its necessary identity with the matter to which the defendant offered to testify.
+Upon this ground, I think, the judgment must be reversed,
+Judgment reversed.
