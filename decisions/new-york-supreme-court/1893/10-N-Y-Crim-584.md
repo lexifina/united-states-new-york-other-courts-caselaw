@@ -1,0 +1,41 @@
+---
+court: "New York Supreme Court"
+decided: "1893-12-06"
+citations: ["10 N.Y. Crim. 584", "74 Hun, 241", "55 St. Rep. 681"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. ALBERT ROCKHILL."]
+source_url: "https://static.case.law/ny-crim/10/cases/0584-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1172846
+cites_cases: ["20 St. Rep. 112", "72 N. Y. 344"]
+---
+
+# People v. Rockhill
+
+## Majority (HERRICK, J.)
+
+HERRICK, J.
+This is an appeal from a judgment of the court of sessions of the county of Franklin allowing a demurrer to the indictment against the def endant. The indictment is in .the words following:
+COURT OF OYER AND TERMINER:
+The People of the State of New York, vs. Albert Rockhill.
+“The grand jury of the county of Franklin by this indictment accuse Albert Rockhill of the crime of assault in the first degree, committed as follows:
+“The said Albert Rockhill, on the 31st day of October, 1892, at the town of Bombay, in said county, did feloniously, and with intent to kill, assault Frank Mulvaney, and Fred Mulvaney with a loaded fire-arm in the hands of him, the said Albert Rockhill, and did discharge the said loaded fire-arm toward and at the said Frank and Fred Mulvaney and did thereby hit and seriously wound the said Frank and Fred Mulvaney.”
+The defendant stated four grounds of demurrer as follows:
+“First. That the indictment does not conform substantially to the requirements of the sections two hundred and seventy-five and two hundred and seventy-six.
+“Second. That more than one crime is charged in the indictment within the meaning of sections two hundred and seventy-eight and two hundred and seventy-nine.
+“Third. That the facts do not constitute a" crime.
+“Fourth. That the grand jury had no jurisdiction of the alleged offense.”
+Section 275 of the Code of Criminal Procedure requires that the indictment ¡shall contain, first, the title of the action, specifying the name of the court to which the indictment is presented, and the names of the parties; this the indictment does. It contains- the title of the action, states who the indictment is against and specifies the name of the court, to which it is presented, “The Court of Oyer and Terminer.”
+Second. That the indictment shall contain “A plain and concise statement ¡of the act constituting the crime, without unnecessary repetition.” The crime charged is an assault in the first degree. Section 217 defines an assault in the first degree to be when a person “with intent to kill a human being or to commit a felony upon the person or property of the one assaulted, or of another, assaults another with a loaded firearm or any other deadly weapon, or by ¡other means or force likely to produce ¡death.”
+The indictment charges that the defendant did, with intent to kill, assault Frank Mulvaney and Fred Mulvaney with a loaded firearm, and did discharge the loaded firearm toward and at the said Frank Mulvaney and Fred Mulvaney, and did thereby hit and seriously wound the said Frank Mulvaney and Fred Mulvarney.
+,• This, it seem® to me, contains a sufficient statement of the act which constitutes the crime. It is an allegation or statement "of the crime ¡substantially as defined by the Penal Code;, it states the act which was done, that is, the discharge of the loaded firearm at the person in question, and it seems to me it contains a sufficient statement of the act constituting the crime to comply with section 275. If the indictment states the offense as the statute defines it, the averment is sufficient. Phelps v. People, 72 N. Y. 344-49; People v. Weldon, 111 id. 569-74; 20 St. Rep. 112.
+Section 270, referred to in the demurrer, contains a form of indictment under the Code,.and if I am right in my conclusions that the indictment sufficiently sets forth the act charged as constituting the crime, then this indictment complies in all respects with the form contained in section 276.
+The third count >of the demurrer, “that the facts do not constitute a crime,” is answered in what has just been said as to the second count, for it contains a plain and concise stateBient of the act constituting the crime, then the facts set forth: constitute the crime charged.
+The fourth count of the demurrer, “th'at the grand jury had no jurisdiction of the alleged offense,” cannot be sustained.
+The indictment purports to have been found by the grand jury of the county of Franklin; it states that the alleged crime was committed at a town in the county of Franklin, that it was committed prior to the time of the finding of the indictment, and of course no question can be raised but that the grand jury has jurisdiction to find indictments for assault in the first degree committed within the boundaries of the county for which the grand jury is acting.
+The second count of the indictment, “that more than one crime is charged” within the meaning of sections 278 and 279, is more open to question. Section 278 provides: “That the indictment shall charge but one crime and in one form,” except as stated in section 279. Section 279 provides “That the crime may be charged in separate counts to have been committed in a different manner, or by different means, and where the acts complained of may constitute different crimes, such crimes may be charged in separate counts.” In this case, while but one act is charged to have been done, yet that act is alleged to have been against two persons, and it may be said that although only one act was done, that two crimes were committed. That it was a crime to discharge'a firearm with the intent to kill Frank Mulvaney, and that it was a separate and distinct crime to discharge it with the intent of killing Fred Mulvaney, although there was but one discharge of the weapon, and that the intent to kill each should, under section 279, have been properly alleged in separate counts.
+It will be observed that section 279 states that “where the acts complained of may constitute different crimes, such crimes may be charged in separate counts.” It has been held that the word “may” in a statute under certain circumstances should be construed and read as “must,” but other provisions of the Oode in relation to indictments, I think, prohibit the use of the word “may” as “must,” and render the ordinary, permissive meaning of the word to be the proper meaning to be given to it. Section 285 of the Code of Criminal Procedure provides that “no indictment is insufficient, nor can1 the trial, judgment or ■ other proceedings thereon be affected by reason of an imperfec- • tion in matter of form which does not tend to the prejudice of the substantial rights of the defendant upon the merits.” Section 284 provides, among other things, “that the indictment is sufficient where the act or omission charged as the crime is plainly and concisely set forth, is stated with such a degree of certainty as to enable the court to pronounce judgment upon ■ a conviction, according to the rights of the case.”
+As we have seen, the act is plainly and concisely set forth, and it is stated with such a degree of certainty, as to when, where, and with what intent, and against whom it was directed, and by what means, as to enable the court to pronounce judgment upon a conviction; the imperfection in form charged, that • is, that there should be two counts, one to be Frank and the other to be Fred Mulvaney, is such an imperfection, if it is such, as does not tend to prejudice the substantial rights of the defendant upon the merits, because he is notified as to the time and place when and where he is charged to have committed the crime, how he was charged to have committed it, and against whom; so that he is fully appraised- of the charge he has to meet. It is so stated that the record may be used by him in bar of a second trial for the same act, committed at the same time and place, against the same persons; these are *his substantial rights, and all these are secured to him by the indictment in question. For these reasons I think the judgment of the court of sessions allowing the demurrer should be reversed. Let judgment be entered accordingly.
+MATHAM, P. J., and PUTNAM, J., concur.
