@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-07-02"
+citations: ["46 N.Y. St. Rep. 457"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Jehiel B. White, Sheriff, App’lt, v. The Board of Supervisors of Clinton County, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0457-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084321
+cites_cases: ["108 N. Y., 557", "13 St. Rep., 674", "25 Hun, 112", "73 N. Y., 437", "90 N. Y., 231"]
+---
+
+# People ex rel. White v. Board of Supervisors
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The return made by the board of supervisors must be taken by us as a true statement of the facts of the case. People ex rel. Sims v. Fire Com'rs, 73 N. Y., 437; People ex rel. McCarthy v. French, 25 Hun, 112.
+This return seems to dispose of relator’s objections to the action of the supervisors.
+The relator was not entitled to be allowed the item in his account of $117.91 interest. The return shows that the relator’s account for 1890 was not presented for audit until December, 1891. Until presented, no interest was allowable. McMaster v. State, 108 N. Y., 557, 558; 13 St. Rep., 674.
+It was not error for the supervisors to reject the charges in relator’s account for arraignments. It appears by the affidavit of Tierney, referred to and made a part of the return of the supervisors, as well as by the return itself, that those charges were for arraigning prisoners in courts of special sessions and recorder’s courts, and not in courts of oyer and terminer or general sessions. We are not referred to any provisions of the statutes allowing such charges for arraignments as were made by the sheriff and rejected by the supervisors. 'See Civil Code, §§ 3307, 3280.
+The board could not legally allow such charges, the same being unauthorized by any statute. In re Tinsley, 90 N. Y., 231.
+If former boards had been accustomed to allow such illegal charges, that was no reason why such a violation of the law should be continued.
+The return of the defendant shows that the supervisors were authorized to make the reduction in relator’s charges for board of prisoners mentioned in the petition. It states that the supervisors did allow relator “ at the rate of 60 cents per day for the time said prisoners were actually boarded by said sheriff according to the best knowledge and information obtainable from the said sheriff or his account presented to said board as to the time said prisoners were actually boarded. . * * * Said sheriff’s committee did not act arbitrarily and without evidence in auditing or passing upon said account or any part or item thereof, but, on the contrary, intended to and did act with fairness to the said sheriff, informing him of the course we were pursuing with his account, and invited him to assist the sheriff’s committee by presenting law that said committee might understandingly, intelligently and fairly pass upon and audit his said account, and when said sheriff’s committee reduced the said account for board of prisoners, that it did so only to the amount and at the rate of sixty cents per day for each day’s board actually had, the said sheriff having charged for a longer period than the actual time that board was furnished by the said sheriff, and said relator so admitted and stated to the sheriff’s committee, and while auditing said account * * * and that said sheriff’s committee in passing upon said account and in reporting thereon allowed the relator for board actually furnished as near as said committee could do so from all information furnished them by the relator in his account and upon said statement and admission said reduction was made.”
+We think that this return shows that the audit of the supervisors as to the items in question, made after a personal conference between the committee of the supervisors and the relator and upon the statement and admission of relator, shows a fair audit of said items and is a complete answer to the objections made by relator to the action of the board.
+The return also shows as to the item, of $120 claimed by relator for taking care of the court house, that a janitor was employed for that purpose.at a salary of $300 per annum.
+We think that the writ of certiorari should be dismissed, with costs to be paid by relator.
+Mayi-iam, P. J., and Herrick, J„, concur.
