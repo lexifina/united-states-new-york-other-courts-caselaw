@@ -1,0 +1,50 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-11-28"
+citations: ["34 N.Y. St. Rep. 671"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Applebee, Resp’t, v. The Albany Brewing Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0671-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2046897
+cites_cases: ["14 N. E. Rep., 319", "41 Hun, 152", "56 Hun,. 489", "57 N. Y., 651", "80 N. Y., 54"]
+---
+
+# Applebee v. Albany Brewing Co.
+
+## Majority (Mayham, J.)
+
+Mayham, J.
+We discover no sufficient grounds for reversal of this judgment on the ground stated in the defendant’s motion for a new trial upon the minutes; if the evidence was properly received on the trial the verdict is abundantly sustained by it, but if it were not, as there is no certificate that the case contains all the evidence, the court would be required to assume that other sufficient evidence was given on the trial to uphold the verdict, so that the question for consideration and examination on this appeal is confined to exceptions taking to rulings of the judge as to the admission of evidence.
+We are also of the opinion that, as between the plaintiff and defendant, the evidence established the authority of William Gray to bind the defendant by contract with employes, unless the evidence by which that authority was sought to be proved was erroneously received. Cox v. Albany Brewing Co., 56 Hun,. 489; 31 N. Y. State Rep., 666, and cases there cited.
+The counsel for the appellant insists that in various questions-put to the plaintiff and his witnesses to establish Gray’s agency, the witnesses were asked for, and permitted to testify to their conclusions that he was such agent, and not to the facts from which, the jury could determine whether or not such agency existed.
+After the plaintiff had testified to a portion of the conversation, .with Gray, in which Mr. Eowe’s name was used, he was asked: “ Who is Mr. Eowe ?” to which he answered without objection, “ He is the president of the brewing company, I believe.”
+“Q. You don’t mean president, do you?" This last inquiry was objected to by defendant, and the court ruled: “ If he knows, he may state; if he don’t know, he can’t state; he can’t state what he has heard.”
+We see no error in this ruling. The witness was confined to his own knowledge, and hearsay was excluded.
+But the question was not answered, another question was asked, to which no objection was made, and the witness said, in substance, that Eowe was boss there, and followed that by an answer that he did not know whát position in the Albany Brewing Company Eowe occupied.
+After the plaintiff testified that he was discharged by Gray, he was asked by his counsel: What did he say to you?
+To this question defendant objected as follows: Objection by defendant to witness stating he was discharged, as being a conclusion.
+The objection was overruled and an exception was taken, but it will be observed that no such question as was embraced in the objection was asked, and no motion was made to strike out the plaintiff’s testimony upon that subject, which was received without objection.
+The question put, what did Gray say? was clearly proper, if Gray’s agency was established, and that we think was a question to be determined by the jury under proper 'instruction from the court.
+The next objection to this class of evidence was to the answer to the question put by plaintiff’s counsel to the witness Sinclair.
+“Q. Who is Mr. Rowe? A. He is superintendent; he has acted as such, and is called so by the bookeeper.”
+Defendant’s counsel objects to that answer, that Mr. Rowe has acted as superintendent, and asks to have it stricken out as improper, merely a conclusion or opinion of the witness, and immaterial and incompetent.
+This objection and motion were overruled and defendant excepted.
+It was, probably, a material inquiry and subject of investigation on this trial to show what relation Rowe bore to the defendant and its business, not so much to prove that he was authorized to employ workmen as to show the authority of Gray, that he was authorized to hire men and send them to Rowe whose province it was to assign them to duty, so that, the plaintiff might urge and the jury might infer that if Gray, in fact, employed hands, and Rowe assigned them to their work, and the company allowed them to continue in service and paid them for the same, it would be a fair inference that these two men were the agents of the company to perform the duties which the proof shows they in fact undertook to and did perform.
+In that view of the case we do not see that the testimony that Rowe acted as “boss” was the expression of an opinion.
+It seems to me to be more the statement of a fact, than expression of an opinion.
+The rule that witnesses must state facts, and not opinions, except in certain cases,- when expert opinions may be given, is as contended for by the learned counsel for the defendant, and is too well settled to admit of doubt or require citation of authorities, but we do not think it applies to the questions put and answered here. Hardenburgh v. Crary, 50 Bab., 32.
+A boss is one who oversees or gives directions. To say that Rowe acted as boss is another way of saying he gave directions in reference to the work, and this it appears he did, because the witness goes on to say, that Mr. Gray sent me here with this man, and Rowe said he could have a goob job, etc., and took him over to the barn and assigned him a horse, and the witness says that he saw Mr. Rowe bossing, giving men orders, and telling them what to do.
+Nor do we see that any error was committed by the learned judge in overruling objections and allowing evidence given by witness Cox.
+He swears he was employed by Gray and worked ten weeks and one day, for which he was paid by the defendant.
+He also testified without objection that he knew Rowe and characterized him as superintendent.
+He was then asked: “What does he do?”
+That question was objected to, but we think the objection was not well taken, for the reason given above.
+He also swears that he knew of a great many men being hired by William Gray. This evidence was received under defendant’s objection, but the judge received it and we think correctly as evidence proper to go to the jury upon the general question of authority of Gray to hire men for the defendant.
+Our attention is called by the learned counsel for the defendant to the cases of Merritt v. Briggs, 57 N. Y., 651; Nichols v. Kingdom Iron Ore Co., 56 id., 618; People v. Sharp, 14 N. E. Rep., 319; 12 N. Y. State Rep., 217; Nichols v White, 41 Hun, 152; 3 N. Y. State Rep., 784, and Nicolay v. Unger, 80 N. Y., 54, in each of which the opinions and conclusions of witnesses are held not competent evidence, but we fail to see their application to the case at. bar, as the witnesses in this case were not asked to, and did not testify to conclusions or opinions.
+Nor do we see any error in the charge of the learned county judge for which the judgment should be reversed.
+It follows that the judgment must be affirmed
+Judgment affirmed, with costs.
+Learned, P. J., and Landon, J., concur.
