@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1865-01"
+citations: ["5 Park. Crim. Rep. 666"]
+reporter: "park-crim-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People, plaintiffs in error, v. James W. Cyphers, defendant in error."]
+source_url: "https://static.case.law/park-crim-rep/5/cases/0666-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1262860
+---
+
+# People v. Cyphers
+
+## Majority (By the court, Balcom, J.)
+
+By the court, Balcom, J.
+The county clerk is required to draw a grand jury for any term, of the County Court, in any county, “ at which a Sessions may be held by law.” (3 R. S., 5th ed., 1013, § 10.) The sheriff must summon the persons so drawn for such a grand jury. (Id., 1014, § 12.)
+The question in this case is, was the defendant in error indicted at a Court of Sessions held by authority of law?
+The order appointing Courts of Sessions in Otsego county, for the year in which the indictment was found, is as follows: “ Terms of County Court and Court of Sessions. State of New York, Otsego county: It is. ordered that the terms of the County Court and Courts of Sessions, in and for the county of Otsego, be held at the court house, in the village of Cooperstown, for the years 1864 and 1865, at the following times, to wit: A County Court and Court of Sessions on the second Monday of .February and the first Monday in August, in each year. A tSrm of the County Court on the third Tuesday, in May and the fourth Tuesday in November, in each year. Dated December, 28, 1863. E. M. Harris, county judge of Otsego county.”
+The indictment was found at the February term of the Court of Sessions, in 1864, held on the day designated in the order of the county judge for a term of the County Court and Court of Sessions. But the county judge did not designate in his order that a grand jury was required to attend at that term; and it is claimed by the counsel for the defendant in error that, by reason of this omission, a grand jury was not legally drawn or summoned for such term; and that the defendant in error was, therefore, irregularly and unlawfully indicted at that term.
+According to chapter 444 of the Laws of 1851 (Laws of 1851, p. 825), “ Courts of Sessions, except in the pity and county of New York, shall be held in the respective counties, at such times as the county judge of the county shall by order designate.”
+The county judge having, by order, designated the time ánd place for holding the Court of Sessions, at which the indict* ment in question was found, that term of such court was held by authority of law, and hence, a grand jury was legally drawn and summoned therefor, unless the omission of the judge to designate in his order that a grand jury was required to attend at that term, made the attendance of such a jury, at such term, unlawful or irregular.
+The statute is, that the county judge shall, in such order, designate at which terms of the Sessions a grand or petit jury, or both, or neither shall be required to attend; and no grand or petit jury shall be required to be drawn or summoned to attend any term of the Court of Sessions, which shall be designated by the county judge to be held, without such jury.” (Laws of 1851, p. 825, chap. 444.)
+I think.this statute is so far directory that an omission by the county judge to make the specified designations, respecting juries, does not render his appointment of the times and places for-holding Courts of Sessions, without suéh designations, irregular or invalid. It is only when the order designates a term at which no grand jury is required to attend, that it is unlawful or irregular to draw or summon one for such term. But, if there be no such designation, a grand jury may be drawn and summoned under the statutes I have cited from ■ the third volume of the 5th edition of the Bevised Statutes, pages 1013 and 1014, for each term of the Court of Sessions, specified in the order of the county judge.
+In other words, the statute of 1851 authorizes the county judge to dispense with the attendance of a grand jury at certain terms of the Court of Sessions to be specified by him. But his omission to designate terms at which he does not require a grand jury does not make the attendance of such a jury unlawful or irregular at any term of such court, which has been duly appointed by him, because the law is that a grand jury shall be drawn for any term of the County Court. “ at which a Sessions may be held by law.”
+A term of the County Court and a term of the Court of , Sessions were appointed to be held at the same place, and on the same day, in February, 1864, that the indictment in duestion was found; and a Court of Sessions could lawfully be held at that time without, any jury being designated therefor in the order of the county judge.
+The .decisions cited from Parker and Howard's Reports do not apply to this case, for the reason that no Court of Sessions was appointed in the orders mentioned in them, by which terms of the County Court were designated. (See 1 Park. Cr. R., 570; 23 How. Pr. R., 297.)
+The next and only remaining question in the case is, whether the county judge could lawfully designate two justices of the peace to act as justices of the Sessions, in the place of those elected, and who failed to appear at the time appointed for the commencement of the term at which the indictment was found.
+The statute of 1847 plainly authorized him to make such designations. (3 R. S., 6th ed., 296, § 11; Laws of 1847, vol. 2, 644, § 35.) He could undoubtedly have adjourned the court until the next day, without supplying the vacancies caused by the non-attendance of the justices of the sessions. (See 2 R. S., 218, § 8; Laws of 1847, vol. 1, 330, § 36.) But he was not obliged to do that, for the statute of 1847 authorized him to take the course he pursued.
+For the foregoing reasons, I am of the opinion the judgment of the Otsego Oyer and Terminer, overruling the demurrers to the first and second pleas of the defendant in error to the indictment, should be reversed, and such demurrer adjudged valid, and that the judgment of that court, sustaining the demurrers to the third and fourth pleas of the defendant in error to such indictment, should be affirmed, and the indictment, in all respects, held regular and valid, and that the indictment and record should be remitted to the Otsego Court of Oyer and Terminer, and the defendant in error required to appear in that court, and stand trial on the indictment, &c.
+Judgment accordingly.
