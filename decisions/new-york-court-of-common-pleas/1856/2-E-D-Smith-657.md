@@ -1,0 +1,26 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1856-06"
+citations: ["2 E.D. Smith 657"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel B. Althause and Nicholas Ludlum v. Edward Warren."]
+source_url: "https://static.case.law/ed-smith/2/cases/0657-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1283678
+---
+
+# Althause v. Warren
+
+## Majority (Daly, J.,)
+
+Daly, J.,
+J., sustained, substantially, the principles stated in the third, fourth and fifth of the reporter’s head notes to this case. No written opinion was filed.
+The following, with some modifications, is a copy of the judgment, or decree, drafted by the plaintiffs’counsel, in accordance with the decision, and finally settled by the judge.
+“ At a special term of the Court of Common Pleas, for the city and county of New York, at the City Hall of the city of New York, the twenty-eighth day of June, in the year one thousand eight hundred and fifty-six:
+“Present, Hon. Charles P. Daly, Judge.—Title of the cause.—“ This action having been commenced to recover from the defendant the sum of three thousand four hundred and forty-one dollars and eighteen cents, with interest thereon from the twenty-seventh day of August, one thousand eight hundred and fifty-five, for work and labor done and materials furnished by the plaintiffs to the defendant towards the erection of two buildings on two lots of ground situate in the third ward of the city of New York, on the westerly side of Greenwich street, and known as numbers 252 and 254 in said street, and hereinafter more particularly described, of which lots the said defendant was the lessee, and to foreclose the lien which the plaintiffs had acquired for said sum, on the said lots and the said buildings thereon erected, pursuant to the statute in such case made and provided, such lien being filed by the above named plaintiffs in the office of the clerk of the city and county of New York, on the fifth day of December, in the year one thousand eight hundred and fifty-five, against the above named defendant, as lessee as aforesaid, such proceedings were thereupon had that the defendant was brought before this court, and duly appeared in this action, and the plaintiffs served their complaint, and. the defendant answered thereto; whereupon, issue being joined between the parties, the said issues came on to be tried by consent of the respective parties, at a special term of this court, held before the Honorable Charles P. Daly, one of the judges of this court, at the City Hall of the city of New York, on the tenth day of June, one thousand eight hundred and fifty-six, whereupon the said court, after hearing the testimony of the respective parties and their respective counsel, then and there decided the whole of the said issues for the plaintiffs, and ordered judgment for the plaintiffs.
+“ Now, upon motion of Benedict and Boardman, attorneys for the plaintiffs, it is adjudged and decreed, that the defendant, Edward Warren, is indebted to the plaintiffs, Samuel B. Althause and Nicholas Ludlum, in the sum of three thousand six hundred and thirty-two dollars and forty cents, together with the sum of one hundred and forty-eight dollars and eighty-one cents, costs and disbursements, duly adjusted by the clerk of this court, amounting, altogether, to the sum of three thousand seven hundred and eighty-one dollars and twenty-one cents.
+“And it is further ordered, adjudged and decreed, that the said plaintiffs have a good, valid and subsisting lien on the said lots and buildings for the said amount, with interest thereon, and to secure the payment thereof to the extent of the right, title and interest which the said defendant, Edward Warren, had on the fifth day of December, one thousand eight hundred and fifty-five, in the two buildings and lots of land, and appurtenances thereto belonging, situated, &c. [Here follows a description of the premises by metes and bounds.]
+“ And that the said judgment be duly entered on the lien docket of this court, pursuant to the statute in such case made and provided. “ And it is further ordered; adjudged and decreed, that the interest which the said Edward Warren had on the said fifth day of December, one thousand eight hundred and fifty-five, be sold by the sheriff of the city and county of New York, to the extent of the right which the said defendant had at that time in the said premises and buildings, subject to any prior liens existing thereon; that the proceeds of such sale shall be applied by said sheriff to the payment, to the plaintiffs, of their costs and of the amount found due as aforesaid, and that the residue of such proceeds of said sale be paid to the clerk of the city and county of New York, to abide the further order of this court.
+“It is further ordered and adjudged, that the said sheriff make a report of such sale, and file it with the clerk of this court with all convenient speed; and that if the proceeds of such sale be insufficient to pay the amount so reported due to the plaintiffs, with interest and costs as aforesaid, the said sheriff shall specify the amount of such deficiency in his report of sale, and that the. plaintiffs have execution therefor.”
