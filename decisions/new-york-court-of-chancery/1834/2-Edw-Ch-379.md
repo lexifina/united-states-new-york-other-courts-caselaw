@@ -1,0 +1,25 @@
+---
+court: "New York Court of Chancery"
+decided: "1834-11-21"
+citations: ["2 Edw. Ch. 379"]
+reporter: "edw-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clapp v. Astor."]
+source_url: "https://static.case.law/edw-ch/2/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1986441
+cites_cases: ["2 Black. Rep. 1016"]
+---
+
+# Clapp v. Astor
+
+## Majority (The Vice-Chancellor:)
+
+The Vice-Chancellor:
+The principal difference between the parties is, in regard to the complainant’s being retained in the service of the defendant or of the American Fur Company ; and also, as to the duration of service. But, whatever may have been the true .agreement in this respect, it appears to me that the result, upon the lavt7 of the case, must be the same.
+The weight of evidence is in favor of the defendant’s statement of the agreement, namely, that the complainant entered into the service of the company, and was to be allowed the profits or dividends only while he continued in such service under the agreement. But, supposing the agreement to have been to the effect alleged in the bill, even then it is very doubtful whether the same can be considered as subsisting for any longer period than about one year, that is, to the time of the complainant’s departure for Canton. This question then presents itself, whether, as there was no dividend during the time, there can now be an apportionment of the dividend which was afterwards made by the company, and received by the defendant upon the ten shares 1
+Such an apportionment cannot be made upon any just principle, without an investigation into the affairs of the company, commencing with the year one- thousand eight hundred and twenty-three, in order to ascertain its nett profits or gains in each year, and from year to year to the time the complainant might be entitled to the profits. It is not to be supposed the profits were the same for a period of about seven years, at the end of which time the aggregate of nett profits amounted to nearly one hundred per cent, on the capital of the company. For if so, why were not annual dividends made by the company ? The fact of a dividend being so long deferred is, of itself, pretty conclusive evidence to show that the business of the company was so extended as not to allow the actual nett profits to be sooner known ; and hence, the difficulty of ascertaining how, at what times or seasons in particular the profits were realized. This may be one reason why courts will not undertake an apportionment in cases of this sort. Another is, that dividends upon stocks or funds are payable periodically out of the profits or earnings of the institution, but how or when they accrue is for the corporate body or association itself to ascertain ; and when ascertained and declared it becomes an entire sum due on each share to the stockholder. When, therefore, a contract is made in relation to dividends or profits, as in the present case, it must be deemed to have reference to the dividends or profits to be ascertained and declared by the particular company and not to the growing profits from day to day or month to month to be ascertained upon an investigation by third persons or courts of justice into the accounts and transactions of the company.
+The rule in relation to apportionment appears to be well settled. In general cases of periodical payments becoming due at intervals, and not accruing da die in diem, there can be no apportionment. Annuities, therefore, and dividends from money in the funds are not apportionable : Pearly v. Smith, 3 Atk. 261; Sherrard v. Sherrard, Ib. 502; Wilson v. Harman, 2 Ves. Senr. 672, and S. C. Ambl. 279 ; Rashleigh v. Master, 3 Bro. C. C. 101. But, interest upon money put out on bond and mortgage, notwithstanding it is expressly made payable half-yearly or quarterly, may be apportioned : for although it is reserved at fixed periods, the same accrues and becomes due de die in diem for the forbearance of the principal, and hence there is no difficulty in making an apportionment for any given time—every day’s interest being the same: Banner v. Lowe, 13 Ves. 135; Edwards v. The Countess of Warwick, 2 P. Wms. 176.
+An exception to the general rule has been introduced in the instance of annuities for maintenance of infants and of married women living separate from their husbands; and which, perhaps, may be extended to all cases where it is clearly intended for maintenance: Hay v. Palmer, 2 P. Wms. 501; Howell v. Hanforth, 2 Black. Rep. 1016. Apportionment in such cases is founded upon the necessity of maintenance so long as the party lives ,* but if not necessary, as where the annuity to a married woman is not for her separate maintenance, it shall not be apportioned at her death: Anderson v. Dwyer, 1 Sch. & Lef. 301.
+I am of opinion the present case is within the rule against apportioning dividends ; and upon this ground the bill must be dismissed, with costs.
