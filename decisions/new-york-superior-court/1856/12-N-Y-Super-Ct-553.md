@@ -1,0 +1,33 @@
+---
+court: "New York Superior Court"
+decided: "1856-05"
+citations: ["5 Duer 553", "12 N.Y. Super. Ct. 553"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Webster v. Bryan K. Stevens and John A. Stevens."]
+source_url: "https://static.case.law/ny-super-ct/12/cases/0553-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1350822
+cites_cases: ["4 Duer, 53"]
+---
+
+# Webster v. Stevens
+
+## Majority (By the Court. Slosson, J.)
+
+By the Court. Slosson, J.
+It is undoubtedly true that where the owners of adjoining lots construct, by mutual consent, a wall, partly on the lot of each, for the common support of the buildings erected by them on their respective lots, and the same is used as a wall for common support for twenty years, such wall is strictly a party-wall, within the legal meaning of that term, and the owner of each house has an easement in the portion of the wall standing on his neighbor’s land for its support.
+So also where the owner of two lots erects a building on each, with a common wall for the support of the two, standing partly on each lot, a conveyance of either lot by the original lines of the lot, conveys with the building itself an easement for its support in the portion of the wall standing on the other lot; and it is equally true, that where such easement of support exists, neither owner or occupant of one freehold can interfere with the wall to the detriment of the other, without his assent. (Eno v. Del Vecchio, Superior Court, October term, 1854; 4 Duer, 53.)
+In the one case the owners of the lot have, by common consent, at the time of the erection of the wall, and by its subsequent uses, appropriated the same as a párty-wall and have thus estopped themselves as against each other, and consequently as against the grantees of either from denying the easement; and, in the other case, the common owner of both lots having expressly appropriated the wall as a party-wall, is equally estopped, as against his own grantee of one lot, unless, indeed, by the terms of his grant, the covenant is expressly or impliedly taken away.
+So, as between the lessees of Trinity Church, in the present case, Cutting and Juhel, neither could, during the term common to both, claim a right to interfere with the easement of the other in the wall, which they had, by common consent, erected, as a party-wall, between them. The only query is, whether this right of easement continued beyond this common term.
+It certainly could not, by reason of any assent of the lessees, at the time of its erection, for they had no more right to encumber the reversion than to convey it; and it is equally certain, that there is nothing in the case to warrant the presumption of a grant of such an easement, on the part of the defendants, since the expiration of the term. They remained passive, it is true, eighteen months after the expiration of their lease, but no adjudicated case would justify the holding of such a period sufficient to raise the presumption of a grant.
+The period during which this wall was used as a parly-wall, anterior to the expiration of the Church leases, has nothing to do with the question, as against the reversioners.
+The case is not to be treated as though St. George’s Church had conveyed the fee, after the expiration of these leases, and of the ten days allowed for the removal of the building. I do not intend to say that, even then, a conveyance, by that Church, of either lot, “ with the appurtenances,” would necessarily have conveyed the easement in question. I incline to the contrary opinion.
+It is enough, to say that the conveyances were, in fact, made before the expiration of these leases, and, therefore, before the Church had ever succeeded to the possession, of the reversion of either lot. The question, therefore, of the effect of the union of the two reversions, in possession, in one owner, as affecting the rights of his grantees, does not arise. Each grantee, under the deeds of St. George’s Church, took the reversionary right, as Trinity Church, if she had never parted with her title, would have taken it, clear of every incumbrance created by the lessees.
+It must be borne in 'mind, that there is" nothing, in the terms of the original leases, which authorized, or contemplated, the erection of a party-wall; each lessee was bound to build on his own lot, but no right was given to encroach on his neighbor’s lot. The scheme of a party-wall was one of their own contrivance, and for their mutual convenience only.
+There is but one aspect of the case which‘seems plausible, and that is, that, as-"the lessees could not remove their buildings after ten days from the expiration of their leases, the buildings, after that period,- if not-removed, became a part of the freehold,- and that the grants-of the Church must be construed as having passed this chance, or possibility, of the non-removal of the buildings, and, with it, -the easement in question, as a necessary “ appurtenant,” in case -the buildings should not be removed. In other words, that the grants, though made anterior to the expiration of the leases, are to be- construed as though made after the ten days had expired, and as- having passed the title to the respective houses, as they then stood, with the mutual easement of support, as one of the appurtenances.
+■ The answer to this is, what has been already suggested: the deeds conveyed only the reversionary right, and if that right was not itself-subject to the easement, the mere conveyance of the right, “ with the appurtenances,” would not create the easement.
+The plaintiff made a point, that the wall was not removable, by either lessee, as against the reversioners, inasmuch as it was the lateral fence of the respective lots, each half of the wall being the fence of the lot on which it stood.
+■- The leases, certainly, in the privilege of removal, excepted the fences enclosing the lots; but to say that either wall of the building was to be left standing, as a fence, while the building itself was to be removed, would be giving, to the clause in question, a latitude of construction quite too broad to be seriously entertained. And, moreover, it is difficult to see what right the plaintiff had to complain-of -the defendants’ breach of their covenant, in this respect. If there is no right of party-wall, the wall, in plaintiff’s theory, constitutes, as respects -the reversioners, two independent fences, and if either reversioner removes his fence, the rights of the other are in no wise affected, and neither has a remedy for it.
+The defendants must have judgment, upon the verdict, with costs.
