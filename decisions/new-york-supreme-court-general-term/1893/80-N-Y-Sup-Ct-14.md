@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-11"
+citations: ["80 N.Y. Sup. Ct. 14"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Follett and Parker, JJ., concurred."]
+parties: ["William Campbell, Respondent, v. Joseph Hughes and Job W. Harris, Appellants, Impleaded with James H. Temple."]
+source_url: "https://static.case.law/ny-sup-ct/80/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4700171
+---
+
+# Campbell v. Hughes
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+This action was brought to obtain an accounting upon the part of the members of the firm of Harris, Hughes & Co. in respect to their copartnership transactions. The defendants, Harris and Hughes, set up the defense of a release and a counterclaim against the plaintiff and their codefendant Temple, seeking to recover damages because of a breach of the copartnership agreement.
+Upon the trial of the action the court found that the counterclaim was barred by the Statute of Limitations, and awarded judgment for an accounting, appointing a referee to take and state' such accounts. And from such interlocutory judgment this appeal is taken.
+Yarious points have been raised upon this appeal which it is not at all necessary to consider in view of the conclusion at which we have arrived upon the question of the Statute of Limitations.
+The ground upon which the decision of the learned court below was placed in respect to this issue seems to have been that the counterclaim alleged in the answer was simply an action at law to recover damages for a breach of contract, and as it did not occur within six years the Statute of Limitations ran.
+In arriving at this conclusion, it seems to us, the court failed to recognize the relations between the parties and the true nature of the defense. It may possibly be that the defendants, Harris and Hbghes, could not have maintained an action for damages against their copartners unless the same was brought within six years from the time of the accruing of such cause of action. But when a claim is made against them, based upon the partnership agreement, there seems to be no reason why they may not offset against such claim damages arising to them by reason of a breach of the partnership agreement by the claimants in such an action.
+This action was brought to obtain a settlement of the partnership transactions of Harris, Hughes & Co., and such settlement must take place under the partnership agreement. Now the defendants, Harris and Hughes, seek to recover damages by reason of a breach of the copartnership agreement; and those defendants have the undoubted right to offset against any claim which may be established by the plaintiff under the' agreement, such damages as they have sustained by reason of the breach of such copartnership agreement by the plaintiff, as both causes of action arise out of the same transaction, viz., out of the partnership agreement.
+In this view the facts set up as a counterclaim do not constitute an independent cause of action, having no relation to the cause of action set out in the complaint, because both arise out of the same instrument, one to enforce its provisions and the other seeking damages because of the breach of its provisions. Certainly the plaintiff cannot have the same rights under the partnership agreement if he has violated its provisions to the damage of his copartners, as though he had complied with its terms and had been guilty of no wrong. All the rights of the partners under the agreement must be settled in this action, and the rights of one partner cannot be cut off by the Statute of Limitations and those of another under the same instrument be enforced against him.
+It should be borne in mind that this action is an action in equity, and the question involved is: “ What in equity are the rights of the parties, and what in equity should the defendants be compelled to pay the plaintiff ? ” And if, because of any equitable considerations, the plaintiff should not be allowed to use the process of a court of equity for a recovery, such relief must necessarily be denied him.
+The maxim which is the foundation of all equity jurisprudence is that he who seeks equity must do equity.
+We are of opinion that the court erred in denying the defendants, Harris and Hughes, any relief on their plea of a violation, by the plaintiff and their codefendant Temple, of the copartnership agreement between the parties to. the action.
+The judgment should be reversed and a new trial ordered, with costs to the appellants to abide the event.
+Follett and Parker, JJ., concurred.
+Judgment reversed and new trial granted, with costs to appellants to abide event.
