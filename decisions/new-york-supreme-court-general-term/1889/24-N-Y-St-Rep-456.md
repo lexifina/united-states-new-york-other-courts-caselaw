@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-13"
+citations: ["24 N.Y. St. Rep. 456"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isabella Ball, Resp’t, v. William G. McCrea, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024411
+---
+
+# Ball v. McCrea
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+In March, 1883, Isabella B. Clute recovered a judgment against Jacob Kines and Adam Emmerich for the reformation of a written instrument, and for the sum of $2,975.14. The defendants in that action appealed to the supreme court and to the court of appeals respectively, and upon such appeals gave the usual undertakings, which were executed by Jacob Kines and Mary Kines. Such judgment was affirmed on such appeals in both courts before the ninth day of June, 1886.
+After the judgment had been affirmed in the court of appeals, and the liability of the defendants had become fixed and determined, the attorney for the plaintiff in that action made a draft upon the defendant, "William G. McCrea, in favor of B. Skaats or order for $249.43, to be paid out of the first money to be found due, and payable from the defendants, or either of them, in the action against Kines and Emmerich, or in another action of the same plaintiff against Adam Emmerich. The draft was dated August 9, 1886, and was accepted by William G. McCrea and Jacob Kines.
+Thereafter, and in January, 1887, Isabella B. Clute assigned all the judgments in her action against Kines and Emmerich to Thomas J. Clute, together with the undertakings executed on the appeals in that action, and the assignee brought an action upon the undertakings against Jacob Kines and Mary Kines for the recovery of the amounts thereof, respectively.
+In that action the draft so given, and its acceptance, and the consequent liability thereon was set up as a defense, and a verdict was directed for the plaintiff for the amount due upon the undertakings, less the amount of such draft and interest, the defendants being allowed to retain that amount to meet and pay the draft.
+In June, 1888, Mr. Skaats, the payee of the draft, endorsed and delivered "the same over to John T. Morse or order, and he then endorsed and delivered the same to the plaintiff, who now holds the same, and this action was brought to procure the subrogation of the plaintiff to the rights of Isabella B. Clute in her judgments against Jacob Kanes and Adam Emmerich, and in the undertakings executed on the appeals in that action to the extent of the draft, and for the recovery of the amount of the draft, and interest.
+The cause was tried before a judge without a jury, and judgment was rendered in favor of the plaintiff from which there is an appeal to this court.
+The facts which we have assembled were found by the trial judge, and they dictated the conclusions he reached.
+The draft was drawn upon McCrea in favor of Skaats, because McCrea was one of the attorneys of Kines and Emmerich, and it was accepted by him and also by Kines. It was the expectation and intention of all the parties that the draft would be paid from a fund to be realized upon the undertakings executed by Kines upon the appeals already mentioned, and when the action upon those under-taltings came to trial, the amount of the draft was deducted from the amount found due, and judgment was rendered for the remainder.
+The draft was thus used by the acceptor to diminish his liability upon the undertakings, because the draft was outstanding against him, and thus the fund was left in his hands to take up the paper. He retained the money, and, so far, his liability remained undischarged.
+Now the plaintiff owns the draft and succeeds to all the rights of the payee thereof, and is entitled to recover the amount of the draft, with interest.
+The judgment should be affirmed, with costs.
+Pratt, J., concurs; Barnard, P. J., not sitting.
