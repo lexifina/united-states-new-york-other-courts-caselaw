@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1875-07"
+citations: ["12 N.Y. Sup. Ct. 165"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Talcott and Tappbn, JJ."]
+parties: ["MARY E. DITCHETT, Administratrix, etc., Respondent, v. THE SPUYTEN DUYVIL AND PORT MORRIS RAILROAD COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/12/cases/0165-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11278791
+cites_cases: ["3 Allen, 402", "4 Denio, 311"]
+---
+
+# Ditchett v. Spuyten Duyvil & Port Morris Railroad
+
+## Majority (Talcott, J.:)
+
+Talcott, J.:
+The defendant, in constructing its road, made a deep cut across Macomb avenue, a public highway in Westchester county. Going along this avenue, upon a stormy and somewhat dark evening, the plaintiff’s intestate walked down the declivity where the railroad intersects the avenue, fell off the perpendicular rocks at the end of the declivity, and was killed. The action was brought for negligence on the part of the railroad company in suffering the cut to remain open, exposed, and without proper protection or notice to persons passing along Macomb avenue. It appeared in evidence that a portion of a fence which had been erected across the avenue was gone, and, from circumstances, that the' deceased must have walked through the opening. The whole question of negligence was fairly submitted to the jury, and there are only two exceptions which call for any remark. The defendant claims that it had leased its railroad to the New York Central and Hudson River Company, which, at and before the accident in question, was operating the road, and that when so leased the opening was protected by a good and substantial fence ; consequently, that the negligence was on the part of the New York Central and Hudson River road, and that the defendant is not liable. It is not set up in the answer that the defendant had transferred the possession of the road to any other corporation, nor is any intimation given in the answer but what the defendant was in the full enjoyment of its franchises and the occupation of the road, when the disaster occurred. It is probable, therefore, that this defense, that the defendant had leased the road, and it was in the occupation of another party at the time of the alleged negligence, could not be available for want of any allegations suggesting such facts. But, however that may be, the railroad act provides that every corporation, formed under the same, shall erect and maintain fences on the sides of its road, of the height and strength of a division fence required by law. Though the statute makes the lessees of a road also liable to erect and maintain such fences, there is no provision by which the constructors of the road are absolved from the obligation positively imposed by the statute upon every corporation formed under the act. The excavation across the highway was in the nature of a nuisance, and was strictly such, unless the highway was restored, so that its usefulness was not impaired. One who erects a nuisance is liable for the continuance of it, though he has demised the premises, or even if he has erected it on the land of another, and has no right to enter and abate it. (Fish v. Dodge, 4 Denio, 311.) We do not think a railroad company absolves itself from liability for accidents growing out of the mode in which the road was constructed, by leasing its road to another company.
+There was evidence tending to show that the deceased was intoxicated at the time of the accident. On this subject, the court had charged the jury, in substance, that if the deceased was guilty of any negligence contributing to the accident, the plaintiff was not entitled to recover, and that if he was intoxicated, that was no excuse for his omission to exércise the prudence and foresight of a sober man, and that if a sober man ought to have seen the break in the fence, but the deceased'did not, the plaintiff was not entitled to recover. The counsel for the defendant requested the court to charge, “ that intoxication of tbe deceased, if he was intoxicated, if it tended to obscure his faculties, was, under the circumstances, of itself negligence.” The judge refused so to charge, as matter of law. It is essential to the defense, founded on the negligence of the party injured, that it should appear that the particular negligence in question has, in some manner, contributed to the injury for which the action is brought. The mere fact of intoxication will not establish want of ordinary care. The jury must determine whether the intoxication contributed to the injury, and, if it did not, it is of no importance. (Alger v. Lowell, 3 Allen, 402; Stuart v. Machias, 48 Maine, 477.) In the last case cited, it was held that an instruction that intoxication would constitute such a want of ordinary care as would preclude a recovery, was properly refused.
+The judgment should be affirmed.
+Present — Talcott and Tappbn, JJ.
+Judgment and order affirmed, with costs.
