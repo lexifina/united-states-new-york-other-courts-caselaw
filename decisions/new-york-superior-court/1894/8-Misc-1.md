@@ -1,0 +1,29 @@
+---
+court: "New York Superior Court"
+decided: "1894-04"
+citations: ["8 Misc. 1"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Walsh et al., Administrators, Appellants, v. The Manhattan Railway Co., Respondent."]
+source_url: "https://static.case.law/misc/8/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 699306
+---
+
+# Walsh v. Manhattan Railway Co.
+
+## Majority (Dugro, J.)
+
+Dugro, J.
+The plaintiffs’ intestate fell or jumped upon the track of the elevated railroad from the station at Eighteenth street and Third avenue, and was crushed to death by an incoming train.
+This appeal is from the judgment dismissing the complaint, . entered after the defendant had rested.
+The question presented is substantially whether the evidence warranted a submission of the case to the jury.
+As there was evidence that the engineer saw the deceased fall or jump, whichever he did, the location of the train at - the time of this incident was of vital importance; Upon this point the evidence was conflicting.
+The engineer testified that when he got to the end of the station, about twenty-five feet from the deceased, the latter jumped off the platform.
+Doyle testified that when the deceased got up from the track, he, the witness, looked south to see where the engine was, and noticed it between Sixteenth and Seventeenth streets.
+If the jury believed, as they might have, that at the time the engineer saw the deceased leave the platform the train was between Sixteenth and Seventeenth streets, and the engineer’s evidence that he did not put the brakes on until he reached the end of the station, and that they were then on for his regular stop, it might well be that they would have found the accident to have occurred through negligence on the part of the engineer in not using ordinary diligence to stop the train after he saw the deceased upon the track.
+It may be needless to say that if the accident happened through the engineer’s neglect to use ordinary care after he saw the man upon the track, there would be no question of contributory negligence, except such as might arise upon the point as to whether the deceased used ordinary care in attempting to reach a point of safety, and upon this the' evidence would have sustained a finding in plaintiffs’ favor.
+I think the refusal to submit the case to the jury was error, and that the judgment should be reversed and a new trial ordered, with costs to abide the event.
+Sedgwick, Ch. J., and Gildersleeve, J., concur.
+Judgment reversed and new trial ordered, with costs to abide event
