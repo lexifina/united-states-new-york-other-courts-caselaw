@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06"
+citations: ["56 N.Y. Sup. Ct. 290"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt, J., concurred."]
+parties: ["MOSES BULKLEY and Others, Plaintiffs, v. PARKER R. WHITCOMB, Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/56/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4561287
+---
+
+# Bulkley v. Whitcomb
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+This action was brought to charge the defendant, as a stockholder in the Waverly Publishing Company, with a portion of the indebtedness of the company to the plaintiffs, upon the ground that when the debt was contracted the capital stock of the company had not been paid in, and the certificate thereof made and recorded as required by law.
+The proof adduced upon the trial was sufficient to charge the plaintiff as such stockholder. He was the holder of twenty shares of stock when the debt was contracted and judgment had been obtained in favor of the plaintiffs against the corporation for the indebtedness, and when the contract upon which the indebtedness arose was made the stock had not been paid in, nor had the certificate of such payment been filed.
+The defense to the action is what is termed an equitable offset; that is, the defendant claimed to be a creditor of the company in an amount equal to the original amount of his stock.
+It appeared that the defendant had purchased two judgments against the company, but it did not appear that he had paid for such judgments the full amount for which they were recovered and held against the company, and he did not, therefore, bring himself within the rules of law enabling a defendant in such cases to interpose the defense of an equitable offset.
+If the stockholder sued for the indebtedness of the corporation can show in his defense that he has paid on account of the debt of the corporation, or has become an honest creditor of the corporation in a sum equal to the liability which a statute has imposed upon him, namely, the amount of his stock, he will, so far as that remedy is concerned, have defeated the action, but such a defense being one of an equitable character, it is essential to its maintenance to establish that the defendant, and the creditor by whom he is sued, stand upon an equality, but that cannot be made to appear by simply showing that the defendant became possessed of a judgment against the company, because when the defendant buys such a claim, and neither puts anything into the treasury nor reheves the corporation from any liability, he should not be permitted to offset his demand upon the company against a creditor’s demand upon him as a stockholder.
+The defendant, therefore, failed in his defense. The motion to dismiss the complaint was properly denied.
+The exceptions should be overruled and judgment should be rendered for the plaintiff upon the verdict.
+Pratt, J., concurred.
+Exceptions overruled and judgment for plaintiff upon the verdict.
