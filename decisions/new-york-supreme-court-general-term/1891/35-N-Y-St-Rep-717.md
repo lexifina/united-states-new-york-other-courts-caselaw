@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-01-23"
+citations: ["35 N.Y. St. Rep. 717"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Danihe, Resp’t, v. John Hyatt, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/35/cases/0717-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 673805
+cites_cases: ["24 Wend., 188", "6 Barb., 141", "65 N. Y., 125", "66 Barb., 345", "9 Johns., 61"]
+---
+
+# Danihe v. Hyatt
+
+## Majority (Corlett, J.)
+
+Corlett, J.
+In November, 1888, this action was commenced in a justice’s court in the town of Salamanca, county of Cattaraugus, for trespass upon land. Issue was joined and a trial had in December of the same year. The justice rendered a judgment in favor of the plaintiff for six cents damages and $2.95 costs. The defendant appealed from the judgment to the county court, where it was affirmed. From the judgment of affirmance, the defendant appealed to this court.
+The complaint before the justice alleged, in substance, a trespass upon' the following land: “Being situate upon the Allegany Indian Reservation and upon the north side of the Allegany river, and commencing on the south side of the highway leading from Great Valley station upon the New York, Lake Erie & Western R. R. to Ellicottville, and to land occupied by Frank Quilter; thence running south along the highway, twenty-six feet; thence, west' 107 feet; thence north twenty-six feet, to Quitter’s land; thence east 107 feet to the place of beginning.”
+The answer was a denial. The plaintiff was the only witness sworn on the trial. His testimony was as follows:
+“ I live in ¡Killbuck; I am the plaintiff in this action; I know the defendant; I have lived in Killbuck twelve or thirteen years; I have lived where I now reside three or four years; I occupy a piece of land where I live; it is about twenty-six feet wide by 107 feet, from the centre of the road back; I had it surveyed out; there were some stakes set by the surveyor between this land and Hyatt’s, by the surveyor; I caused some posts to be set inside of the stakes set by the surveyor towards plaintiff’s house; the defendant has drove across the land since the survey, and since the posts were set for a fence he drives his cattle across there and used it for a path and roadway; he drew a wagon on the land described so it was partly on this land and partly off it, and chained it up; this was about the time of the survey; this survey was in August, 1888; K. Kelsey made the survey.”
+On his cross-examination he testified : I do not keep a cow or horse, have no barn; Hyatt’s keep a team, wagon and sleighs; he keeps them on the place by me; he has filled in and madearoad with dirt; there has been no fence between us; the piece trespassed on is a three-cornered piece next to the road and the road was built across the line of posts set for a fence; this wagon put on there stood in this' driveway, and part on the side of line of posts next to defendant’s and part next to plaintiff’s. There was a board fence there once on the north side between me and Quilter, and I kept wood piled up there on that side and had a clothes line up ; at the back end of my place there is a board fence between me and Quilter. I occupy t,venty-six feet along the front; that is all. I occupy this land up to where the board fence used to be, and occupied twenty-six feet in front and the same in the rear; the defendant occupied the land south of mine where the driveway is, and T occupy twenty-six feet north where the hoard fence was.
+The defendant moved for a nonsuit upon the ground, among others, that the plaintiff had failed to show possession of the land upon which the alleged trespass was committed. The motion was denied. The evidence given upon the trial clearly shows that the whole of this roadway upon which the trespass, if any, was committed, was used by the defendant In fact, that he had made the road at this point for his own convenience and benefit He kept a team, wagon and sleighs. The plaintiff had nothing of the kind, having neither cow, horse or barn. There was no fence between the parties, and the plaintiff for the purpose of establishing the line caused a survey to be made which- evidently covered a part of the roadway used by the defendant After the survey, the plaintiff'put down posts and the defendant continued to use the road as before.
+The plaintiff, among other things, on his cross-examination testified, “ The defendant occupied the land south of mine where the driveway is, and I occupied twenty-six feet north where the hoard fence was.”
+The plaintiff’s evidence shows that before this survey the defendant occupied the land in question. The only possession the plaintiff ever had, so far as appears, was the causing the survey to be made and the putting down of posts.
+The previous possession bad been in the defendant. Under these circumstances, it is entirely clear that the plaintiff failed to show such possession as would enable him to maintain trespass. He proved neither possession or title. The only dominion he ever exercised over it, so far as appears, was the survey and the putting down of posts.
+It is elementary that every unauthorized entry upon the lands of another is a trespass, even though the damages are nominal. Dixon v. Clow, 24 Wend., 188; Pierce v. Hosmer, 66 Barb., 345.
+But the plaintiff did not bring himself within this rule, as he-failed to prove ownership or possession.
+It need not be said that to maintain trespass actual possession or title must be shown. Edwards v. Noyes et al., 65 N. Y., 125.
+Possession acquired by this survey did not vest in the plaintiff a right of action. Stuyvesant v. Tompkins, 9 Johns., 61; Jackson v. Hazen, 2 id., 22.
+This is not a case of conflict in the evidence, or where different inferences may be drawn from it; on the other hand, there is no evidence to sustain the verdict. Rathbone v. Stanton, 6 Barb., 141.
+The judgment of the county court and the justice’s must be reversed, with costs.
+Dwight, P. J., and Macomber, J., concur.
