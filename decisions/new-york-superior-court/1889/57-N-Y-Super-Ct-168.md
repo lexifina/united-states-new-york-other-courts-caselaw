@@ -1,0 +1,32 @@
+---
+court: "New York Superior Court"
+decided: "1889-06-28"
+citations: ["25 Jones & S. 168", "57 N.Y. Super. Ct. 168"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIFTH NATIONAL BANK OF PROVIDENCE, RHODE ISLAND, Appellant, v. NAVASSA PHOSPHATE COMPANY, Respondent."]
+source_url: "https://static.case.law/ny-super-ct/57/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1691444
+cites_cases: ["1 Hun, 204", "109 N. Y. 512", "20 Cal. 602", "27 N. Y. 560", "3 Bosw. 600", "31 N. Y., 33", "34 N. Y. 30", "37 N. J. L. 98", "40 How. 341", "46 N. Y. 681", "5 Wend. 572", "52 Barb. 399", "6 Bosw., 166"]
+---
+
+# Fifth National Bank of Providence v. Navassa Phosphate Co.
+
+## Majority (By the Court.—Sedgwick, Ch. J.)
+
+By the Court.—Sedgwick, Ch. J.
+The action was against the defendant as endorser of two promissory notes. On their face the notes were payable to the order of Navassa Phosphate Company. The endorsement was “ Navassa Phosphate Company, W. E. Lawton, Pres’t,”'and then the further endorsement “ Lawton Brothers.” W. E. Lawton represented Lawton Brothers, and there was no partner. The note was delivered to the plaintiff by W. E. Lawton, was discounted for him, and the proceeds remitted to him.
+The question on the trial was, whether the endorsement, “NavassaPhosphate Company,” was the endorsement of the defendant. Prima facie the endorsement did not bind the company, although W. E. Lawton was president of it. For that fact did not tend to prove that he was authorized to sign the company’s name as endorser.
+The plaintiff was, therefore, bound to give some competent evidence that the president was in fact authorized to endorse, or that the company held him out as authorized. No testimony was given that authority had been given specifically. The only other evidence on this point consisted of proof of many former endorsements of the company’s name by Lawton, in which cases the paper had been transferred and the seeming obligation of the company, as endorser, had been satisfied.
+The plaintiff, when it discounted the notes in action, did not know of these former endorsements excepting in a few instances in which they had discounted notes. These were but a few, and so' few that the jury could not find that they of themselves established the liability, and as to them there was no proof of ratification. Therefore, the plaintiff could not prevail on the ground of estoppel as if the defendant had given apparent authority to, or recognized authority in, Lawton to endorse for them, on which the plaintiff had acted.
+The plaintiff must then resort to the inferences to be drawn from cases of former endorsements not known to it at the time. Necessarily the inferences must be drawn from the actual facts and not a part of the facts. The former endorsements must be examined in the light of the circumstances that would give them the real significance that should be duly attached to them.
+The plaintiff gave many instances where notes payable to the defendant had been endorsed by Lawton, as president, and then discounted at his request, by the bank where the defendant kept its account, and the proceeds of the discount were deposited to the. credit of the account. In these instances it would appear that an endorsement was a formal matter, so far as authority was concerned, for the receipt of the proceeds specifically ratified, and would, under all circumstances, ratify the endorsement whatever form it had.
+The plaintiff would not be entitled from such cases to infer that the defendant had authorized its president to make it liable for endorsements to others, as transferring its 'cause of action on the paper to others.
+There were proved, also, many other cases of notes which had been made by third parties to the order of the company and endorsed by Lawton in the name of the company, as its president or treasurer; and then Lawton procured the discounting of them, and they had been afterwards paid. This testimony was not effective for the plaintiff, because the transactions were all conducted by Lawton personally. There was no proof that, in his fraudulent conduct, he did anything which gave notice to the company, excepting himself, of what he personally had done, and which they must be held to know before they can be bound as if by a ratification. If, in fact, the payments were made from the funds of the company, there was no proof that there were on the books of the company, any entries that disclosed that such payments had been made upon a pretended liability of the company upon an endorsement made by Lawton for the company as president. These transactions, if they had been known by the plaintiff, as they were in actuality, would not have evinced any action of the company in view of an endorsement by Lawton as president.
+The evidence as to the former endorsements were, at a first and insufficient glance, plausible from their number and their amount. A scrutiny shows that it was vague, and that it did not import consideration valuable to the plaintiff. Several witnesses relied on by the plaintiff spoke of masses of notes and gave general statements as to them. A part of those statements would be decisive for the defendant, and there was no certainty that they were not to be applied to all of the notes referred to, in mass.
+I am of opinion that the earlier transactions did not show that the defendant had recognized that Lawton was authorized to sign the corporate name in endorsement.
+The learned counsel for plaintiff argued that testimony was stricken out which would have shown that the defendant had recognized its liability upon , endorsements of this kind. The testimony on this point was extremely vague and insufficient. It referred to a mortgage which it was assumed had been received by the defendant as security against losses by the defendant from such endorsements. I cannot find that such was the purpose of the security. There was nothing testified which would be inconsistent with the defendant’s denying liability on such endorsements, and properly refraining from enforcing the mortgage as to every case in which it appeared that, though endorsement was unauthorized, yet there was no loss excepting as to the costs and expenses of a defence.
+I think the judgment should be affirmed with costs.
+Fkeedman, J., concurred
