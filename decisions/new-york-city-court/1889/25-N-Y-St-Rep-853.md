@@ -1,0 +1,27 @@
+---
+court: "New York City Court"
+decided: "1889-05-02"
+citations: ["25 N.Y. St. Rep. 853", "5 N.Y.S. 1"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emanuel Stern et al., Pl’ffs, v. Adolph Schlesinger, Def’t."]
+source_url: "https://static.case.law/ny-st-rep/25/cases/0853-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657818
+cites_cases: ["101 N. Y., 173", "11 Johns. 194", "11 Johns., 194", "14 Johns. 346", "16 Wend. 442", "16 Wend., 442", "2 Cow. 632", "2 Cow., 632", "2 Johns. 198", "3 N. Y. St. Rep. 283", "31 Barb., 364", "39 N. Y. 342", "39 N. Y., 342", "5 Duer, 330", "7 Johns. 117", "85 N. Y. 502", "85 N. Y., 502"]
+---
+
+# Stern v. Schlesinger
+
+## Majority (McAdam, Ch. J.)
+
+McAdam, Ch. J.
+The “ Poor Debtor’s Act ” of Michigan (Howell’s Statutes, chap. 309) is a beneficent statute under which impecunious debtors may be relieved from imprisonment. The discharge does not affect the debt, which remains unimpaired, but terminates the imprisonment, and provides that “ the debtor, after being so discharged, shall be forever exempted from arrest or imprisonment for the same debt.”
+The effect of the discharge, under this enactment, was to prevent a second arrest “ in that state” for the same debt. The act can have no greater effect, for it has no extra territorial force, and cannot be invoked here.
+True, the creditor opposed the discharge, but this circumstance adds nothing to the extra territorial operation of the statute. If the proceedings under the act in question had discharged the debt or obligation, and the creditor had entered the foreign jurisdiction and there contested the discharge, a different question would have been presented, for a debt once lawfully extinguished in Michigan, by payment or operation of law, is, as a rule, discharged everywhere. A discharge from debts granted under the laws of one state may be inoperative on the citizens of other states, unless the obligations are to be performed in the place where the discharge was granted (Hilliard on Bankruptcy, 287], yet, where such citizens submit themselves to the jurisdiction of the foreign law, by voluntarily becoming parties to the proceedings there pending, they may be concluded by the adjudication made. Soule v. Chase, 39 N. Y., 342. But the application made in Michigan did not affect the debt; it merely affected the remedy provided for its enforcement in that state, and the discharge from imprisonment granted therein merely put an end to the right to imprison the debtor within that jurisdiction. Imprisonment is no part of the contract, and, notwithstanding the discharge in Michigan, the debt remained unimpaired, and the right to enforce it in other jurisdictions, according to the laws thereof, followed the obligation as a legal incident, for the lex fori always governs the remedy. If, under the laws of Michigan, no right to arrest had existed, that circumstance would have prevented an arrest here. Johnson v. Whitman, 10 Abb. Pr. (N. S.), 111. If, under its laws, a right of arrest existed which had not been enforced there, that circumstance would not have authorized an arrest here if such arrest was not expressly warranted by our statutes, so that it seems clear that the provisional remedies of other states for the enforcement of debts or obligations in no manner enlarge the powers of the courts of this state in respect thereto, and, as a corollary, their “poor debtor ” or “ exemption” acts in no way affect or impair the operation of the remedies which this state has furnished for the collection of debts or the redress of civil injuries.
+In other words, the remedial statutes of other states in no manner affect or concern us in the manner of executing our laws. Each state enforces its provisional remedies according to its own peculiar methods. Obligations are determined and contracts construed with reference to the law of the place where they were made, or' are to be performed. But, when we come to remedies, it is another thing. They must be pursued by the means which the law of the jurisdiction invoked points out, for whoever comes voluntarily into this state subjects himself to its laws, and therein to all remedies directed by those laws on his particular engagements. Story on Coni', of L., § 568.
+The cause of action was for conversion, and the fact that it passed into judgment in Michigan did not change its character so far as the provisional right to arrest in this state is concerned. Baxter v. Drake, 85 N. Y., 502.
+A discharge from imprisonment relates only to the remedy, and not to the contract or obligation. It is limited in its object and local in its effect, having no force beyond the boundary of the state where it was granted, and the creditor is entitled to all the remedies provided by the lex fori. Whittemore v. Adams, 2 Cow., 632; Sicard v. Whale, 11 Johns., 194; Smith v. Spinolla, 2 id., 198; White v. Canfield, 7 id., 117; Peck v. Hozier, 14 id., 346; Miller v. Smith, 16 Wend., 442; Johnson v. Whitman, 10 Abb. Pr. (N. S.), 111; Cooley’s Const. Lim., pp. 127, 118; Carter v. Hoffman, 2 Civ. Pro. Rep., 328; Freeman v. Kolarek, 3 N. Y. State Rep., 283.
+The rule applies, with peculiar force to this case, for the reason that the obligation was incurred in this state to a creditor resident therein.
+For these reasons the motion to vacate the order of arrest will be denied, with ten dollars costs.
