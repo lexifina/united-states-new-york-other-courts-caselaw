@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1881-04"
+citations: ["31 N.Y. Sup. Ct. 353"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J., concurred.", "Present — Davis, P. J., and Daniels, J."]
+parties: ["COTTON W. BEAN, Appellant, v. LAURENT J. TONNELLE, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/31/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1916393
+---
+
+# Bean v. Tonnelle
+
+## Majority (Daniels, J.:)
+
+Daniels, J.:
+The judgment recovered in this case was against the plaintiff for the costs of the action, and as the proceedings were not instituted until the 19th of October, 1880, it is claimed in support of the appeal that they were at that time unauthorized, for the reason that proceedings of this nature for the examination of á judgment debtor cannot be taken where the judgment is for costs alone. The objection has been presented because of the language upon this subject of section 2458 of the Code of Civil Procedure. It appeared by the affidavit upon which the order for the examination of the debtor was made that the judgment was recovered on the 8th day of March, 1879, and that a transcript of it had been filed in the office of the clerk of the county in which the plaintiff resided. It was also stated that an execution upon the judgment against his property had been issued to the sheriff of that county, and that such execution had been returned wholly unsatisfied. It is not stated when the execution was returned. But as it was issued on the 16th of September, 1819, it may be presumed to have been returned at the expiration of sixty days from that time. For it then became the duty of the sheriff to return it. When that was done, the defendant became entitled to institute proceedings of this nature for the examination of the judgment debtor. The right at that time had fully accrued to him. For that reason it was not divested by means of the. section of the Code of Civil Procedure defining the cases in which such proceedings may be taken. For by section 3352 it was further provided that nothing contained in the provisions of that act, not included in chapter four which has no application to proceedings of this nature, should render ineffectual or otherwise impair any right which lawfully accrued before those provisions of the Code were enacted, which went into effect on the 1st of September, 1880, unless the contrary was expressly declared in the provision in question, but that the statute previously in force upon the' subject shall still, so far as it may be necessary to maintain such right, remain in force, notwithstanding the repeal thereof. No express declaration of a different nature is contained in the provisions of the Code of Civil Procedure relating to supplementary proceedings for the examination of judgment- debtors. And because of that circumstance this section so far has restrained their application as to exclude the present proceeding from their control. The creditor had the right to institute these proceedings upon an affidavit showing that the requirements of the preceding Code on this subject were complied with, and the affidavit which was the foundation of the order made was sufficient for that purpose. The case in this respect seems to differ from that of Armstrong v. Cummings, decided by Mr. Justice Lawrence.
+It was not necessary that the affidavit upon which the order was made should show that the judgment had been recovered upon the personal service of the summons. That was not required by the provisions of the Code still governing these proceedings. And besides 'that the order was for the examination of the plaintiff himself. The right to it in no view depended upon the necessity of the summons haying been served upon the party in whose favor the judgment was recovered. The affidavit did not comply with the rule requiring that it should be shown that no preceding application had been made for the order. But that was a simple irregularity not absolutely entitling the plaintiff to a dismissal of the proceeding. There was nothing from which it could be suspected that any previous application for the order had been made, and the judge who made it was not positively required by the terms of the rule to dismiss it because of this defect. He had the power to do so, but considered under the circumstances that it would not be wise or equitable to exercise it. After the proceeding has progressed as far as it now has it would not be just to the parties to dismiss it simply because of this omission. The real objection, to it is of a more substantial nature, and as that has been found to be incapable of being sustained, the orders which were made should not now be disturbed.
+That from which the appeal has been taken should be affirmed. But because of the defect already mentioned it should be without costs to either party.
+Davis, P. J., concurred.
+Present — Davis, P. J., and Daniels, J.
+Order affirmed, without costs.
