@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1851-10"
+citations: ["6 How. Pr. 352"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Benedict and others agt. Dake."]
+source_url: "https://static.case.law/how-pr/6/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2191996
+cites_cases: ["4 How. 119", "4 How. 68"]
+---
+
+# Benedict v. Dake
+
+## Majority (Harris, Justice)
+
+Harris, Justice
+The motion to strike out irrelevant or redundant matter, is a substitute for exceptions for impertinence under the former practice in chancery (Carpenter agt. West, 5 How. Pr. R. 53); Rensselaer and Washington Plank Road Co. agt. Wetsel, 6 id. 68). Was it ever known that an entire pleading was struck out for impertinence? I am not aware that any such practice was ever sanctioned. If the pleading contains a cause of action or a defence, then it is not all impertinent. If it does not, then the objection should be taken by demurrer. It is true, that in Shaw vs. Jayne (4 How. 119), Mr. Justice Welles did say, that if the motion had been to strike out the whole complaint, it would have been granted. This remark, however, was but a dictum. The case before the learned judge presented an aggravated departure from the mode of pleading prescribed by the Code. The plaintiff in an action for false imprisonment, had with great circumlocution and particularity of detail, set forth in his complaint the facts and circumstances which he proposed to prove, to establish his cause of action. The plaintiff veiy properly moved to strike out these portions of the complaint. The judge, manifesting a degree of indignation, not very inappropriate, at this abuse of “ the reformed practice,” not only granted the motion, but added that if it had been asked for, he would have stricken out the whole complaint. Perhaps the learned judge had in view, when he made this statement, the authority conferred upon the court by the latter clause of the 160th section.
+Suppose this motion were to prevail, in what condition would it leave the parties? It is true, the court might grant the plaintiff leave to serve a new complaint; but if so, it would be giving to the motion to strike out irrelevant matter, the effect of a demurrer . Giving the defendant the effect of his motion merely, would leave both parties in court without the power of proceeding in the action until special relief should be granted by the court.
+Nor can the defendant, upon this motion, have a portion of the complaint stricken out, though it be in fact irrelevant or redundant. As in the case of exceptions for impertinence, so in a motion like this, the party who seeks to have matter expunged, must specify the parts of the pleading which he deems irrelevant or redundant. It is requiring too much to subject the court to the necessity of examining the entire pleading and selecting such parts as should properly be removed. It is enough for the court to decide when matter alleged to be irrelevant or redundant, is specifically pointed out, whether it is, in fact, so or not. This is the legitimate office of the motion authorized by the 160th section of the Code (see White vs. Kidd, 4 How. 68).
+But if this motion could be entertained, I do not think it should be granted. The gravamen of the plaintiff’s complaint is fraud. They allege that the defendant by false and fraudulent representations, obtained goods of them, the value of which they seek to recover in this action. The complaint, though not very methodically expressed, is brief, and with the exception of one or two passages, pertinent to the cause of action. The plaintiffs state what were .the representations made to them by the defendant, and that, relying upon those representations, they sold him goods upon credit, and then allege that the representations were false and fraudulent. Nothing short of this would have constituted a sufficient complaint for such a cause of action. These are the facts which constitute the cause of action, and not the evidence, as the defendant’s counsel seems to suppose. The evidence to establish these facts will be quite a different thing. To allege, in general terms that the defendant had obtained goods by fraudulent representations would no inore constitute a sufficient pleading, than it would to allege that the defendant had slandered the plaintiff, without specifying the slanderous words. The allegations in this complaint are substantially the same as in an indictment for obtaining goods by false pretences. I am inclined to think it states a good cause of action. If the defendant shall be advised that it does not, he will be at liberty to present the question by demurrer, or take the objection upon the trial.
+This motion must be denied with costs.
