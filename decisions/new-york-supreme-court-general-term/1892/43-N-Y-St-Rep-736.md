@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-01-22"
+citations: ["43 N.Y. St. Rep. 736"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ira W. Hills, App’lt, v. Robert H. Bishop, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/43/cases/0736-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2078120
+cites_cases: ["60 N. Y., 56"]
+---
+
+# Hills v. Bishop
+
+## Majority (Dwight, P. J.)
+
+Dwight, P. J.
+The action was to recover penalties imposed By the statute (Laws of 1887, chap. 623), for taking fish from a pond which the plaintiff had sought to lay out as a private park, for propagating and protecting fish, under the provisions of the .•statute cited. We think the first conclusion of law of the learned trial court is supported by the facts, which were agreed upon, and that such conclusion supports the judgment appealed from. That • conclusion is to the effect that the plaintiff had not, at the time he instituted proceedings for the laying out and designating a private park, “ such exclusive ownership or control over the waters t(of the pond), and the land underneath the same ” as is required by the terms of the statute in question in order to entitle him to take such proceedings, and to acquire the privileges to be secured dhereby. The statute is'penal in its character and requires to be •strictly construed. By the first clause of its first section it defines the persons, whether individuals or corporations, who may take such proceedings and acquire such privileges, to be the owners •or lessees of land or lands and water, or any person or corporación, etc., “ having the exclusive right to shoot or hunt thereon or .fish therein.” The plaintiff’s proceedings to lay out and designate his private park included the whole of the pond in question, whereas his lease, under which, alone he claimed the right to take •such proceedings, included, on two sides of the pond, which was in nearly a square form, only the waters thereof and the land under the water up to low water mark. The findings of the •court are in the language of the statement of facts agreed upon Between the parties, and one of those findings is as follows: "“That the plaintiff did not lease the land west of the pond or marsh, nor the land east of the pond, said lands being owned by other parties, and run to low water mark.”
+Conceding, therefore, all that is claimed by him as to the title of his lessor, and that he took by his lease the water and land under water in the main body of the pond, it yet appears that "the margin of the pond on two sides, down to low water mark, was owned by other persons. This fact, we think, clearly excludes the plaintiff from the category of the persons entitled to -■apply the provisions of the act of 1887 to the pond in question. He was neither the owner nor lessee of the whole of the pond, mar a person having the exclusive right to fish therein. The body •of water in question was separated only by a narrow bar of sand -and gravel from the waters of Lake Ontario, "and was connected with those waters by a channel from fifteen to twenty rods wide ■and from one to eight feet deep ; it was therefore subject to the rise and fall of the waters of the lake, as well as to the fluctuation of a considerable stream which emptied into it on the south side. What was the extent of its variation in height is not •stated, but tó whatever extent it was accustomed to rise above low water mark, to that extent there was a portion of the waters •of the pond and of the land underneath the same of which the plaintiff was neither owner nor lessee and in which he had not •only no exclusive right to fish, but no right at all; the exclusive
+right, to fish therein being the property of the several owners of the soil down to low water mark. See Angell on Tide Waters, 105; Trustees of Brookhaven v. Strong, 60 N. Y., 56, 65, in which the principle is stated and discussed that the right of exclusive or several fishery in any waters depends upon the ownership of the-soil beneath such waters; that on fresh water rivers such several right belongs to the owner of the adjoining land on either side-because it is presumed that his title extends to the thread of the stream, and that upon tide waters the rule is otherwise because his-title extends only to high water mark; “but,” says the court in the case cited, “if the title to the soil under the water is obtained there is no reason why the same right of fishery would not attach-as to fresh waters, subject, of course, to the superior right of navigation." Of course the same principle must apply to the case of' all the waters of this pond standing above low water mark, and give to the owners of the adjoining lands a several right of fishery therein.
+This, it seems to us, is quite sufficient to defeat the claim of the plaintiff to the exclusive right to fish in the pond to which he has; sought to apply the provisions of the act of 1887, and thus to defeat the application of those provisions.
+In this view we find the first conclusion of law of the trial court well founded and that it supports the judgment dismissing the plaintiff’s complaint
+The judgment should be affirmed.
+Macomber and Lewis, JJ., concur.
