@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1841-01"
+citations: ["1 Hill & Den. 150"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hollister and another vs. Bender."]
+source_url: "https://static.case.law/hill/1/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674592
+---
+
+# Hollister v. Bender
+
+## Majority (By the Court, Bronson, J.)
+
+By the Court, Bronson, J.
+The charge of the judge was, I think, calculated to mislead the jury. They were told, in effect, that the plaintiffs held the affirmative of the question which the jury were to decide; that they should not find a verdict against the defendant unless the testimony preponderated against him; and that if the jury entertained a reasonable doubt, they should find for the defendant. The rule that there must be no reasonable doubt, belongs more appropriately to criminal, than to civil cases. But aside from that consideration, I think the burden of proof in relation to the only controverted fact going to the ground of the action, was upon the defendant. He held the affirmative, and it was for him to make out a preponderance of evidence. The execution of the contract was admitted, and when it was read in evidence, the plaintiffs had completely made out their case. There was no pretence of performance on the part of the defendant; and there was no condition precedent to be performed on the part of the plaintiffs. By the contract, they had nothing to do until the timber should be delivered—unless they were sooner put in motion by a request to advance the $100 and an offer of security. The defendant gave no evidence in answer to that on which the plaintiffs rested their case; but he set up another and a distinct matter in bar of the action. He rested his defence upon the allegation that he had required an advance of money and offered security; and it was necessary for him to establish that allegation before he could make out any duty or default on the part of the plaintiffs. Aside from the question of damages, which received a separate consideration from the judge, the only matter in controversy between the parties on the trial, was, whether the advance of money had been required and security offered by the defendant; and in relation to that matter the defendant plainly held the affirmative, and the onus probandi was upon him.
+It is true, that upon non assumpsit pleaded, the plaintiff holds the affirmative of the issue, and the onus of making out a promise is upon him; but he does not hold the affirmative of every question that may be made under that issue. The defendant, without at all controverting the promise, may set up payment, release, accord and satisfaction, and other, matters of defence under the plea of non assumpsit; and when he does so, the burden of proof is upon him, and he must establish his allegation by a preponderance of evidence. And such must, I think, be the rule in relation to every matter set up as a defence to the action, which does not come in by way of answer to the evidence for the plaintiff.' It can make no difference in principle, whether the defence springs out of the contract on which the actiqn is brought, or arises aliunde.
+The defence on which the defendant relied might have been pleaded specially in bar of the action. He might have alleged in pleading, what he said on the trial, to wit: true it is that I made the promise, and that I did not deliver the timber; but actio non, because I called for an advance of $100 and offered security in pursuance of the contract, and the advance was not made. Such a plea would not be objectionable, even upon special demurrer, as amounting to the general issue; for it does not deny any fact which the plaintiffs would be bound to prove in the first instance, upon the plea of non assumpsit. If this matter had been pleaded specially, the defendant would clearly have held the affirmative of the issue, and the burden of proof would have been upon him. That burden cannot be changed by the great latitude of defence which is allowed in this action Under the plea of non assumpsit. The substance of the allegation to be tried, rather than the particular form of the pleading, must determine where the onus lies; especially in those actions where the defendant is not required to plead the particular matter on which. he intends to rely. (2 Ev. Path. 125. Cowen & Hill’s Notes to Phil. Ev. 475 to 478, and cases there cited.)
+It is of course unnecessary to examine the other "questions made by the bill of exceptions.
+New trial granted.
