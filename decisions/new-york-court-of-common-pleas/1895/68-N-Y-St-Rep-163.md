@@ -1,0 +1,23 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1895-06-03"
+citations: ["68 N.Y. St. Rep. 163"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mayor, Aldermen and Commonalty of the City of New York, App’lt v. Frank A. Biglow, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/68/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2115915
+cites_cases: ["1 Conn. 502", "1 Hill, 324", "106 N. Y. 277", "30 Conn. 149", "8 St. Rep. 888", "94 Am. Dec. 214"]
+---
+
+# Mayor of New York v. Biglow
+
+## Majority (Pryor, J.)
+
+Pryor, J.
+— Despite the elaborate and interesting argument of plaintiff’s counsel, we are of'opinion that the action may not be maintained. “ In expounding penal statutes, it is an established rule that the construction must be strict as against the defendant, but liberal in his favor.” Gould, J., in Myers v. State, 1 Conn. 502 ; Whitaker v. Masterton, 106 N. Y. 277, 280; 8 St. Rep. 888. And this canon of interpretation was applied by a very great judge to precisely such a statute as that in question; namely, one imposing a penalty for exercising a trade without due qualification. Lord Mansfield, in Raynard v. Chase, 1 Burrows, 2, 6.
+It is contended that, as the penalty was incurred by the defendant’s unauthorized practice, his subsequent qualification is ineffectual to its remission. The registration with the board of health argues the plaintiff’s was not an imperfect registration, but simply no registration. The statute allows an “ illegal ” registration to be repaired, where the cause of it was “some error, misunderstanding or omission.” The case is within the very terms of the statute. Nor is.it less consistent with the policy of the statute, which is to admit a competent physician to practice when, in good faith, he has endeavored to comply, with its requirements. If that be so, still the plaintiff insists that the statute is not retroactive, and is inoperative to validate an invalid registration. This is just the effect it contemplates and accomplishes." By its terms the subsequent registration “shall make valid the previous imperfect registration.” What is thus made valid ? Obviously, the previous imperfect registration. If this be not the true construction, then the words are meaningless, because without them the correct registration would take effect at once, and authorize future practice. If so, urges the plaintiff, a man may register whenever he pleases. Why not, if, seeking to obey the law, he has evaded it by error or inadvertence ? The construction we adopt wquld be repugnant to the policy of the statute if the unauthorized practice of an incompetent physician were condoned by the subsequent registration. But, .to obtain such subsequent registration, he must “ submit satisfactory proof that he had all the requirements prescribed by law at the time of the imperfect registration.” Having such requirements, what harm ensues from suffering him to supplement the defective authentication of his competency ? The subsequent registration demonstrates his qualification from the beginning. Nor was the remedial operation of the subsequent registration in legalizing prior practice arrested by the institution of this action. As the suit is by the public for the benefit of the public, a repeal of the statute pendente lite would cancel the penalty. Bish. Writ. Law, § 178. Where the action is by an individual fry his own benefit, such repeal, any time before final judgment, would bar recovery of the penalty. Butter v. Palmer, 1 Hill, 324; Welch v. Wadsworth, 30 Conn. 149 ; Wharton v. State, 94 Am. Dec. 214, note. A fortiori is the penalty revoked by an act which the statute imposing it provides shall remove the provocation of the penalty. Without a penal cause there cannot be a penal consequence.
+It is conceded that the defendant is a competent physician, in large practice ; that his failure to comply with the law in the first instance was not intentional, but inadvertent; that, apprised of his mistake, he promptly corrected 'it; that at the time of the trial his qualification was certified in legal form. Why, then, should he be chastised by a penalty denounced against imposture only. To give the statute such an effect would be equally against the settled rules of construction, the obvious policy of the law, and the equities of the individual.
+Judgment affirmed, with costs. All concur.
