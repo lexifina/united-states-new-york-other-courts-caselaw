@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Common Pleas"
 decided: "1890-02-03"
-citations: ["15 Daly (N.Y.) 475", "29 N.Y. St. Rep. 316", "15 Daly (N.Y.) 473"]
+citations: ["15 Daly (N.Y.) 475", "29 N.Y. St. Rep. 316"]
 reporter: "daly-ny"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Owen Doyle, Respondent, against The Manhattan Railway Company, Appell
 source_url: "https://static.case.law/daly-ny/15/cases/0475-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1608067
-cites_cases: ["106 N. Y. 157"]
 ---
 
 # Doyle v. Manhattan Railway Co.
