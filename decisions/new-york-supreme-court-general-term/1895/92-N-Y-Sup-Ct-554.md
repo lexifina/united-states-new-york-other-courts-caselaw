@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-03"
+citations: ["92 N.Y. Sup. Ct. 554"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis and Bradley, JJ., concurred."]
+parties: ["Henry M. Davis, Appellant, v. Benjamin Aikin, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/92/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5777282
+cites_cases: ["72 Hun, 462"]
+---
+
+# Davis v. Aikin
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+The principal cause of action in the plaintiff’s complaint was for professional services, as an attorney, rendered by him to the defendant, and the case presents the question whether that cause of action was barred, under the provisions of section 2947 of the Code of Civil Procedure, by the neglect of the plaintiff to interpose it as a counterclaim in an action previously brought by the defendant against him. The answer to the question depends upon the nature and circumstances of the last-mentioned action.
+The provisions of the statute referred to are as follows:
+“ Where the defendant, in an action to recover damages upon or for breach of a contract, neglects to interpose a counterclaim, consisting of a cause of action in his favor to recover damages for a like cause, which might have been allowed to him upon the trial of the action, he, and every person deriving title thereto through or from ■ him, are forever thereafter precluded from maintaining an action to recover the same, or any part thereof.” It is only, therefore, in actions on contract that the omission to set up a counterclaim operates to preclude the future maintenance of an action thereon, and it becomes the question of this case whether the action by the defendant in which the plaintiff here omitted to interpose his counterclaim, was an action on contract.
+The complaint in that action is before us, and, though drawn for a Justice’s Court, it is full in its details and prepared with evident attention to the rules of pleading. It first alleges, by way of inducement, the employment by the plaintiff therein — the defendant here — of the defendant therein — the plaintiff here — as attorney, to bring a certain action for him in the Supreme Court under the agreement that the latter would charge and receive for his services in such action only the statutory costs which should follow the judgment to be obtained by the plaintiff therein ; that the action was brought and tried and judgment was obtained and entered in favor of the plaintiff therein for seventy-five dollars damages and nineteen dollars and fifty-six cents disbursements for witnesses’ fees, which had been expended by him, besides the statutory costs to which his said attorney was entitled under the agreement before stated. The complaint in question then alleges that the said Davis has received and collected on said judgment the said sums of seventy-five dollars damages and nineteen dollars and fifty-six cents disbursements paid by the plaintiff therein, besides the full allowance of statutory costs, and that he refuses to pay to the plaintiff therein the sums of seventy-five dollars and nineteen dollars and fifty-six cents, though payment of the same has been duly demanded of him, bnt that he refuses so to do and retains the same, and “ has and does now wrongfully convert the same, to wit, the sum of ninety-four dollars and fifty-six cents, to his own use.”
+¥e believe that the action thus characterized by the complaint therein is not an action on contract, but distinctly an action for the wrongful conversion of moneys received by the defendant in a fiduciary capacity for the plaintiff therein. There is no allegation of a contract in the complaint except that one stated by way of inducement, which fixed the compensation to be received by the attorney for his services as such. It is true that a contract might be implied from the facts alleged, that the defendant in that action would pay to the plaintiff all the excess of the recovery therein over and above the taxable costs, but there is no allegation of such a contract, either express or implied, and, on the contrary, the allegation is that the defendant therein has received and wrongfully converted to his own use the amount for which the action was brought. The action, as exhibited by the complaint, which has been, in substance, recited, seems to have possessed all the elements of an action sounding in tort, and entitling the plaintiff therein to an order of arrest pending the action, and to an execution against the person on the recovery of judgment; and to such an action we suppose the defendant can neither be required nor permitted to interpose a counterclaim. (Code Civ. Proc. § 501, subd. 2; Rochester Distilling Co. v. O'Brien, 72 Hun, 462.)
+In the action now under review another defense on the facts was interposed to the plaintiff’s principal cause of action, but that defense seems to have been properly tried before the justice and was determined in favor of the plaintiff. The reversal in the County Court, we must assume, in the absence of an opinion, to have been based upon the ground heretofore discussed. Such being the case, the judgment of the County Court should be reversed and that, of the justice affirmed.
+Lewis and Bradley, JJ., concurred.
+Judgment of the County Court of Niagara county reversed and that of the justice affirmed.
