@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05"
+citations: ["85 N.Y. Sup. Ct. 331"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Parker, J., concurred."]
+parties: ["Townsend Cox and Another, in Behalf of Themselves and all Others Similarly Situated, Appellants, v. Edward S. Stokes and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4721659
+cites_cases: ["119 N. Y. 15", "26 N. Y. St. Repr. 161"]
+---
+
+# Cox v. Stokes
+
+## Majority (Eollett, J.:)
+
+Eollett, J.:
+On the 5th of June, 1885, a judgment of foreclosure and sale was entered in this action which has not been appealed from or in any manner assailed, and it is binding on these litigants. Pursuant to this judgment, the property was sold July 31, 1885, at public auction, to Edward S. Stokes for $500,000. Afterwards a motion was made to set aside the sale on the ground that Stokes had refused to perform an oral contract made by him with the reorganization committee to purchase the mortgaged property as trustee for the benefit of certain persons who had signed a reorganization agreement, dated in May, 1885. This motion was denied. (Farmers’ Loan & Trust Co. v. Bankers & Merchants’ Telegraph Co., 26 N. Y. St. Repr. 161; affd., 119 N. Y. 15.) Neither the judgment nor the sale can now be questioned. It was proved and found that Stokes orally assented to the terms of the reorganization agreement of May, 1885, and agreed with the committee thereby created to purchase the property and hold it as trustee for the benefit of those who had signed the agreement. But it is found by the trial court, on undisputed evidence, that, after the agreement was entered into and prior to the sale, the condition of the property had greatly changed for the worse and its value had largely depreciated. The trial court found that prior to the day of sale the defendant Stokes notified the reorganization committee that he could not carry out his aforesaid oral agreement, and a modification thereof was thereafter arranged between the committee and Stokes, pursuant to which Stokes purchased the property. The evidence is that Stokes notified the chairman of the reorganization committee on July 11, 1885, twenty days before the sale, that he would not carry out his agreement with the committee. This modified agreement was reduced to writing and executed on the Ith of August, 1885, by the reorganization committee and by Stokes. It is not asserted that Stokes has failed to carry out the last-mentioned agreement. It must be conceded that under the terms of the reorganization agreement of May, 1885, known as Exhibit H in this litigation, the committee had not power to modify the terms of that agreement, but the reorganization committee was made by the agreement the agent of the person who signed it for the purpose of carrying it into effect, and we think that the notification by Stokes to the committee that, by reason of the changed condition of the affairs of the corporation, he would not carry into effect the oral agreement previously made by him in respect to purchasing the property, was notice to the persons who had signed the agreement. In other words, the notice having been timely given, and in good faith, it was as effectual as though it had been given to every signer of the reorganization agreement. Had the notification given by Stokes been made under circumstances which indicated bad faith on his part, or on the part of the committee, a different question would be presented. Stokes having refused to purchase the property under his oral agreement, founded on the reorganization agreement of May, 1885, but having purchased under a subsequent agreement, the plaintiffs are bound to accept one of two alternatives, either their pro rata share of the purchase price upon the sale, or the terms of the new or modified reorganization agreement. The opinion- of the learned trial judge states with great clearness the facts involved in this litigation, and in the result reached we concur. The judgment should be affirmed, with costs.
+Yan Brunt, P. J., and Parker, J., concurred.
+Judgment affirmed, with costs.
