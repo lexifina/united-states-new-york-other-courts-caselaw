@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-10-15"
+citations: ["4 N.Y. St. Rep. 94"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rudolph Bohm, Resp’t, v. Michael Fay, Appl't."]
+source_url: "https://static.case.law/ny-st-rep/4/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1980986
+cites_cases: ["33 Hun., 466"]
+---
+
+# Bohm v. Fay
+
+## Majority (Brady, J. Daniels, J.)
+
+Brady, J.
+This is an action to compel the specific performance of a contract for the purchase of the premises-known as No. 33j- -Stanton street in the city of New York. The plaintiff upon the trial proved the performance of all that he was called upon to do, and the defendant sought, by a resort to negative facts of ancient date, to relieve himself from the obligation of performing his part of the contract.
+It appears that in 1184, Col. James De Lancey was the owner of a tract of land, including the premises in question, extending west from, as now known, Division- to-Houston street, and east from the Bowery to the East, river. By reason of ’ attainder his estate was forfeited and sold by commissioners appointed for that purpose.
+It also appears that in August, 1181, the commissioners; conveyed to John.Delafield a parcel containing twenty lots, described on a map made by Evert Bancker, city surveyor, by the numbers 435 to 442, both inclusive, lying along the easterly side of First street, and the lots 441 to 458 lying-along the westerly side of Second street; bounded southerly by lots 432 and 459; westerly, partly by First street and partly by lots numbers 443 to 446; easterly by Second street and northerly partly by lot 443 and partly by Stanton street; each lot being 100 feet in length and twenty-five feet in breadth.
+There is no deed on record from John Delafield to Abijah. Arden or to any one else. But he, as the owner of the-premises, conveyed to John Smith (known as John B. Smith), on the 29th of May, 1810, the premises in question here which were designated as number 450 on a map of' the De Lancey tract in part or in whole to which reference is made in the deed, and John Smith executed a purchase-money mortgage of the same date. That mortgage was not satisfied, however, until November 27, 1875, when it was discharged in a partition suit in reference to this and adjoining lands made by the Smith heirs and which was commenced in 1874.
+Smith conveyed the premises to John Pell by deed dated May 1, 1818, and Pell and wife conveyed them to David Marsh on July 9, 1818, by deed which was recorded on the 29th of July, 1819. There is no conveyance, however, of any kind from Marsh to John B. Smith, of the particular lot in controversy and the register’s search fails to disclose the transfer of the premises by Marsh to any one. And the next conveyance directly effecting them is, therefore, the deed of John B. Smith to John M. Smith, dated July 17, 1823, and recorded on the 29th of the same month, and the trust deed by John M Smith to Thomas Jefferson Smith, dated September 14, 1848, and recorded on the same date.
+The defendant sought to assail the title by the introduction of a map of the Delancey property, western part, copied from a map on file in the street commissioner’s office, by G-. E. Smith, city surveyor, 1831, showing lot 450-as fronting on Second, now Forsyth street. But, as properly said, “What the original map in the street commissioner’s office was, when made, for what purpose and from, what data, there is no evidence.”
+The learned judge, in the consideration of this subject, said that there was no proof that the map which was introduced in evidence, called the Delancey map, was the map-referred to in the deeds of the premises in question, but that the description showed conclusively that the lots were differently -located.
+It was conceded that there were some inconsistencies in the different lots conveyed, with reference to the maps referred to, but the learned justice saw no trouble whatever, taking them altogether, in determining exactly what was intended to be conveyed. It appears, however, as-stated" by him, that as early as 1828, John B. Smith conveyed the premisés in question to John M. Smith, and the evidence established the fact that since 1840 the grantees of Smith have been in the undisturbed possession of this property, no claims ever having been made by Marsh or any of his descendants to any part of the premises in question. In addition to which must be considered the fact that neither Marsh nor any of Ms descendants (if any existed) ever attempted to convey the property or to interfere with it in any way. And it also appears that ever since 1840 the taxes have been paid by Smith and his grantees.
+It not unfrequently happens that a chain of title is broken by the absence of a deed, while the title itself is distm guished by long and continued possession, so long indeed that a conveyance is presumed to have been executed justifying the possession so obtained and continued. It'may also be said that there is reason to believe that there were two maps of the De Lancey estate from the evidence in the case, and for the reason that the map introduced in evidence appears to have been of the De Lancey property (western part). The facts of this case, therefore, establish an adverse possession from July 17, 1828, by John B. Smith and his grantees, that being the date on which his deed ap • pears to have been executed, a period of about fifty-five years, during which they have not only been in possession but have paid the- taxes, etc. And this view seems to meet all the objections interposed on the part of the defendants as a reason why they should not complete the purchase.
+The facts present all the necessary elements, therefore, to perfect a title by adverse possession even if the chain of title be regarded as incomplete. And having arrived at that conclusion it follows that the judgment must be affirmed.
+Daniels, J.
+Without intrenching on the salutary rule that a purchaser will not be required to accept a doubtful title, this judgment seems to Le right. The authorities were examined in Ottinger v. Strasburger (33 Hun., 466), and this ride was considered to sanction an action for specific performance, where the leading facts were in principle similar to those appearing here. 1 agree therefore, to an affirmance of the judgment.
+Macomber, J., concurs.
