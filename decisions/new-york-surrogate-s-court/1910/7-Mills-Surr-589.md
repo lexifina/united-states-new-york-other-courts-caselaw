@@ -1,0 +1,24 @@
+---
+court: "New York Surrogate's Court"
+decided: "1910-10"
+citations: ["7 Mills Surr. 589"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application for the Revocation of Letters of Administration de bonis non Granted on the Estate of Paul J. Briasco, Deceased."]
+source_url: "https://static.case.law/mills-surr/7/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1075976
+---
+
+# In re for the Revocation of Letters of Administration de bonis non Granted on the Estate of Briasco
+
+## Majority (Nicholl, S.)
+
+Nicholl, S.
+Paul J. Briasco died August 29, 1909; and, on September 10, 1909, letters of administration on his estate were issued to Ida F. Briasco, his alleged widow. Ida F. Briasco died September 16, 190®; and on September 28, 1909, letters of administration on her estate were issued to Thomas B. McKee, her brother and sole next of kin. Oin O'ctober 8, 1909, letters of administration de bonis non on the estate of Paul J. Briasco were issued to said Thomas B. McKee as the only person interested in the estate. Carrie Casazza, alleging herself to be a sister of the decedent, now applies for the revocation of said letters of administration de bonis non and for the grant of letters to her, upon the ground that, as a sister, she is priorly entitled to said McKee, who is a stranger.
+The application is denied. I find that Carrie Oasazza is a sister of Paul J. Briasco and as such becomes heir to his real estate. It does not follow, however, that she is entitled to letters of administration. Such letters are to be granted to relatives, but only to such relatives as are entitled to succeed to the personal property. Code Civ. Pro., § 2660. In most cases heirs and next of kin are the same persons but not always. In this case, the widow having survived the deceased and the estate being less than $3,000; it passed to the widow in its entirety. Decedent Estate Daw, § -9®, subd. 31 Consequently the sister has no share therein; and, so far as the grant of letters of administration is concerned, she is in the same class as the present administrator de bonis non, that is to say, both are strangers. The present administrator de bonis non is, however, the sole administrator of the estate of the widow, and as such is entitled to the share in this estate which became vested in the widow, and to that extent has a greater interest than the sister; and, being now under a good and sufficient bond, there appears to be no reason why the present letters should be revoked. The fact that he is a non-resident of the State of Mew York and that the sister resides in the State is of no consequence in this proceeding, for the reason that he is in turn the sole next of kin of the deceased widow and thus entitled to take as sole beneficiary in the estate of Paul J. Briasca.
+The claim was made that Ida E. Briasco was not the lawful wife of Paul J. Briasco and consequently not entitled to the letters of administration which were first issued on his estate. Mo evidence was offered, however, to support this claim and there is a presumption in law that all letters are regularly issued.
+■S:o far as the present proceeding is concerned, therefore, this presumption as to the regularity of letters of administration issued to Ida F. Briesco obtains. The petitioner may have further opportunity, however, to litigate this question upon the accounting when, if she sees fit to raise the issue, it will be then determined, as the decree in that proceeding must fix the person to whom the distribution must be made.
+Application denied and injunction dissolved, with costs to the respondent payable out of the estate.
+Decreed accordingly.
