@@ -1,0 +1,28 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1894-02"
+citations: ["7 Misc. 61"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Amelia Spengeman, Respondent, v. Henry Alter, Appellant."]
+source_url: "https://static.case.law/misc/7/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 696661
+---
+
+# Spengeman v. Alter
+
+## Majority (Daly, Ch. J.)
+
+Daly, Ch. J.
+The plaintiff, who was" janitress of No. 110 West One Hundred and Second street, owned by the defendant and his wife, was injured by stepping into a hole in the cellar of the premises which was left open and unguarded, as she claims, through the negligence of the defendant. He was engaged in the cellar at the time of the accident in endeavoring, with the assistance of his wife, to sweep out water with which it had been flooded from the bursting of a pipe in the floor above. The hole was at the front part of the cellar near the bottom of a flight of steps which led from the front area, and the plaintiff descended these steps and entered the cellar, which was dark, and, at the second step she made into the cellar, fell into the hole. The hole was ordinarily covered with a board that fitted it, but on this occasion it was displaced and lay near the hole. Whether it had floated off the hole when the cellar was flooded or had been taken off by defendant was a matter of dispute in the case, but the defendant knew it was off and was sweeping the water out of the hole, where it had collected, towards a cesspool outside, where it immediately ran off.
+The question of negligence is one which depends upon circumstances. An act may be imprudent at one time and not at another. There would ordinarily be no negligence in taking the cover off the hole in the defendant’s cellar to do any necessary act, e. g., to attend to the pipes to which it gave access, or to remove water with which, as in this case, it was flooded; and as the defendant was engaged in removing water from the cellar when the accident occurred, it was not jper se negligence for liim to leave the hole uncovered while he was there doing the work. It might, however, he a negligent act if he had reason to expect that the plaintiff, or any person, would enter the cellar from the front area, for the hole was near the bottom of the front steps and the cellar was dark.
+There was no evidence that defendant knew, or had reason to suppose, that the plaintiff, or any person, would enter the cellar from the front. He was looking for her to come and light the gas in the cellar, but there was an inside stairway-leading to the upper part of the house, and the gas jet was near this inside stairway. It was the duty of the plaintiff to come to the house every evening (she lived elsewhere in the neighborhood) and to light the gas in the hallways of the house from the top floor to the cellar. On this occasion she came, while the defendant and his wife were in the cellar, and proceeded to the top of the house and lit the gas on every floor down to the first. She then went out of the front door and down the area steps to light the gas in the cellar, when she met with the accident.
+She testified that it was her custom to enter the cellar that way, from the outside, every evening to light the gas. Her explanation was that she would have to unlock the door leading to the cellar from the interior of the house, and after lighting the gas to ascend again, lock the door and go home through the front door; and that it was more convenient to leave the door to the cellar stairs locked, go outside and down the area to the cellar, and after lighting the gas to make her exit again by the area. Of this custom it was not shown that the defendant had knowledge. On the contrary, he says he never saw her go down that way-. He had sent his daughter out to the front of the house to watch for the plaintiff’s coming and to tell her to light the gas in the cellar and that the cellar was flooded, and she was so told, but there was no instruction to send her down the area steps, and when she came she went into the house, lighted the gas above and then came outside and went down the area steps.
+Defendant and his wife both testify that they saw her coming down the steps and warned her about the hole, but she denied this, and as the jury found in her favor they must have disbelieved the defendant’s testimony, so that we cannot assume from the evidence that the defendant saw her and did not warn her.
+It, therefore, appears from the evidence that the defendant was engaged in a necessary and lawful act in his cellar, and for that purpose had the hole uncovered; that he had no cause to apprehend danger to any person from the circumstances, and that the accident was one for which he was not legally accountable.
+An exception to the charge presents the question whether the jury were properly instructed as to what constituted negligence on the part of defendant. They were told that if the defendant lifted the cover off the hole and put it on one side, then, if he did not warn the plaintiff of that fact, he was guilty of negligence. This instruction omitted the qualification that the jury must also find that defendant knew, or must have known, that the plaintiff was approaching, or might, approach, the place of danger before he was required to warn her. The instruction was excepted to and the exception was well taken.
+The judgment should be reversed and a new trial ordered,, with costs to appellant to abide the event.
+Bisohoff and Pryor, JJ., Concur.
+Judgment reversed and new trial ordered, with costs to-appellant to abide event.
