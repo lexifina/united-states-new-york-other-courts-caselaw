@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+docket: "1; No. 2"
+decided: "1885-01"
+citations: ["42 N.Y. Sup. Ct. 18"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin, P. J., and Poardman, J., concurred."]
+parties: ["JOHN P. VIDVARD, Appellant, v. DANIEL J. CUSHMAN, Respondent. DANIEL J. CUSHMAN, Respondent, v. JOHN P. VIDVARD, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/42/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2365812
+cites_cases: ["13 Wend., 587", "4 Johns., 54"]
+---
+
+# Vidvard v. Cushman
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+The appeals bring up for review two judgments, entered upon the decision of the Special Term, adjudging that the parties have the right to use in common a certain stairway. Vidvard was the plaintiff in one action, and the defendant in the other; and appeals" from both judgments. The '' cases were tried as one, and are embraced in the same appeal book.
+October 25, 1878, Yidvard leased of Reynolds Brothers, No. 27 John street, Utica, N. Y., for five years, from May 1, 1879. In No. 27, and adjacent to No. 29, is a stairway by which the upper floors are reached from the street. Reynolds Brothers own No. 29 John street, which, December 1, 1878, they leased to Cushman until January 1, IF81. The lease with Cushman was under seal ; the lease with Yidvard utes not under seal. The leases were executed in duplicate, each party retaining one. A door opened from the hallway on the second floor of No. 27 into No. 29. A controversy arose between "Vidvard and Cushman as to the right of the latter to use the stairway as a means of entrance to the upper floors of No. 29. The trial court found that after the execution of the leases it was agreed between Yidvard and his lessors, in consideration of thirty-five dollars paid by the lessors to him, that the tenants of Nos. 27 and 29 should use the stairway in No. 27 in common, and that a clause expressing the agreement was then written in the duplicate lease held by the lessors in the presence and with the assent of Yidvard.
+We are asked to reverse this finding, as against the evidence. The evidence upon this question is conflicting, and it cannot be said that the weight of evidence is greatly in favor of Yidvard. Reynolds and Yidvard squarely contradict each other on this question. James testifies that'after the alteration had been made, and before the suits were begun, Yidvard exhibited his duplicate lease, and that the new provision was written therein in the handwriting of Judge Cox.
+Vidvard’s duplicate lease was produced on the trial, and it appears from the appeal boob that some provision has been interlined and erased, but the case does not disclose its terms. But whatever it was, it occupies precisely the same position in Vidvard’s duplicate as the added clause in the lessor’s duplicate. Assuming that the added provision is correctly stated on page eleven of the appellant’s brief, it certainly does not tend to corroborate or strengthen the evidence of Vidvard. The added clause, as stated in the brief, contains the following provision: “ The parties now occupying No. 29 John street shall have the right to use the stairway in No. 27 for the period of one month.”
+Vidvard testified that when the thirty-five dollars were paid “ nothing was said about the stairway at all, sir.” It is difficult to see how Judge Cox, who must have written from the dictation, or upon information received from Vidvard, came to write the provision referred to, if there had been no talk in respect to the stairway. The appeal book does not show that Vidvard attenrpted to make ■any explanation of why the clause was written in the lease, or why it was ferased. In the face of this evidence and of Vidvard’s failure to explain, this court would not be justified in reversing this finding of fact.
+By the consent' of the parties a new stipulation may be added to a' contract subsequent to its execution, if the new stipulation is evidenced and executed in the mode that the original contract is required to be evidenced and executed. (French v. Patton, 9 East, 350; Whart. Ev., § 624; 1 Chit. Con. [11th Am. ed.], 155 ; Reed on Statute of Frauds, § 454 ; Leak’s Con., 795.)
+The original lease, and the lease as modified, being for terms longer than a year, were required by the statute of frauds to be in writing and signed by the lessors. The original lease was in writing and so was the modified lease. It is urged that the new lease is not binding, because it was not .re-signed by the lessors and re-delivered. The added stipulation was written in. the lease by one of the lessors in the presence, and with the assent of the lesee. The signatures of the contracting parties were then upon the lease. This was a good execution of the new or modified lease. (Bluck v. Gompertz, 7 Exchq., 862; Woolley v. Constant, 4 Johns., 54 ; Knapp v. Maltby, 13 Wend., 587; French v. Patton, 9 East, 350 ; Leake’s Law of Contracts, 814, 815.) The transaction between the parties, as found by the court, amounts to a re-execution and re-delivery of the lease in its modified form, and it became as binding in that form as though it. had been re-drafted and re-signed. Re-writing or re-signing, or both, would have added nothing to its validity. As was well said by Justice Yann at Special Term, “ the signatures were there and it was intended they should remain there when the alteration was made. The parties regarded and treated them as their signatures to the instrument as changed. Under such circumstances, was it necessary to re-trace or re-write their names ? To re-trace with a dry pen would seem absurd, while to re-trace with a wet one would obscure the identity of the signature. Would either of these idle ceremonies adopt the signatures already appended more effectually than simply writing in the words, making the change, in the presence of all the parties and with their consent.” ' '
+In either case, the due execution of the lease would have to be established by parol evidence, and re-signing would be no additional guard against fraud or forgery. In all such eases the modification should be clearly established, but when so established, it becomes binding as a new contract.
+The judgments in favor of Oushman, as plaintiff in one action and defendant in the other, are affirmed, with costs.
+Hardin, P. J., and Poardman, J., concurred.
+Judgment affirmed, with costs.
