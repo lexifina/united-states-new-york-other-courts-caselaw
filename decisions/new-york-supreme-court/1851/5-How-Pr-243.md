@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1851-02"
+citations: ["5 How. Pr. 243"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moore agt. Gardner."]
+source_url: "https://static.case.law/how-pr/5/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2190837
+---
+
+# Moore v. Gardner
+
+## Majority (Gridley, Justice.)
+
+Gridley, Justice.
+The word “venue” is defined to mean “a neighboring place.” “The place from whence a jury are to come for the trial of causes” (Jacobs’s Law Dictionary vol. 6 p. 354). The word was used as synonymous with the place of trial, by all legal writers both in England and in this state, up to 1847. It is true that when the venue was local, the court would sometimes grant an order for a trial in another county, for the reason that an impartial trial could not be had in the county where the venue properly belonged. But generally, a motion to change the venue, in transitory actions, is the phrase used when the place of trial is, sought to be changed to another county for the convenience of parties and witnesses. (See Jacobs's Law Dictionary, title Venue, where a very full history of the subject is given; Tidd's Practice; Graham's Practice, 160, 164, 462, 466; 4 Hill's Rep. (in note), p. 62 to 70, and cases there cited; and 2 R. S. (2d ed.), 277 and 330.) There was no. necessity for a practical distinction between the “venue" and the place of trial, under the old system of practice. The provision for the return of writs to the proper clerk’s, office, and the fact that the judgment record was made up by the attorney as a distinct paper, and filed in the proper office, rendered it immaterial in practice where the venue was laid, inactions of a transitory nature. But when the clerk of each county was made a clerk of the Supreme Court, and when the judgment record came to be composed of the pleadings and papers filed in the cause, to be annexed together by the clerk (as was formerly done by the Register in the enrollment of a decree in Chancery),, it became necessary to designate some county as the county of the venue, where the papers were to be filed, and the judgment record made up. That was done by the judiciary act in section 46. This section declares that the venue shall be laid in the county in which some of the parties reside (if they reside in this state); and if the venue be not so laid, it shall be changed to the proper county with costs of the motion, if a notice- shall be given of such motion before the expiration of the time for pleading. By the 49 section provision was made for a change of the place of trial for the, convenience of witnessesand provides that the clerk of the county where the trial is had, shall certify the minutes of the trial, to the clerk of the county where the venue is laid, &c.; and the proceedings shall continue as though the issue had been tried in the county where the venue was laid.
+Now, in this case, the plaintiff laid his venue in Onondaga, where neither party resided; the defendant living in Oneida county. The defendant demanded to have the venue changed, before the time for answering expired, pursuant to section 126 of the Code, which was refused. This motion is then made to have the venue laid in the proper county. This does not necessarily respect the question of the convenience of witnesses, but it fixes the county where the papers are to be filed and the judgment record made up and the costs adjusted, &c. pursuant to the third rule of this court, and the forty-ninth section of the judiciary act. On receiving the demand, the plaintiff should have changed the venue to the proper county, and then moved to -change the place of trial for the convenience of witnesses; and this he may do still in the event this motion is granted. The sections 125 and 126 of the Code, taken in connection with the 46th and 49th sections of the judiciary act, show that the place ■named in the complaint, or in other words, the venue, is to be fixed, irrespective of convenience of witnesses, where some or one -of the parties reside, if either resides in the state.
+The motion is granted with |10 costs.
