@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1957-02-15"
+citations: ["7 Misc. 2d 22"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Quinlan et al., Plaintiffs, v. General Motors Corporation Motors Holding Division et al., Defendants."]
+source_url: "https://static.case.law/misc2d/7/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1016279
+cites_cases: ["157 N. Y. 301", "208 Misc. 658", "239 App. Div. 253"]
+---
+
+# Quinlan v. General Motors Corp. Motors Holding Division
+
+## Majority (A. David Benjamin, J.)
+
+A. David Benjamin, J.
+This is a motion by the defendants General Motors Corporation Holding Division (hereinafter called GMC) and McKeever Buick, Inc. (hereinafter called Buick, Inc.), to dismiss plaintiffs’ amended complaint on the ground that the plaintiffs have no legal capacity to sue. The amended complaint alleges that in May, 1953 plaintiffs loaned to defendant Thomas J. McKeever (hereinafter called McKeever) $25,000 which he agreed to return upon demand, and that he gave plaintiffs as collateral security for such loan a certificate for 450 shares of Class B stock of Buick, Inc.; that the said $25,000 has not been paid. It is further alleged that prior thereto the defendants entered into an agreement which provided that if McKeever should cease to be president of Buick, Inc., then GMC should have the right to proceed with liquidation of Buick, Inc.; that pursuant to such agreement Buick, Inc., and GMC undertook the liquidation of Buick, Inc., and upon such liquidation there became available to holders of Class B stock approximately $48,000 which Buick, Inc., and GMC refused to pay to plaintiffs.
+As and for a second cause of action, in addition to the above, plaintiffs allege that GMC and Buick, Inc. granted to themselves improper preference over the holders of Class B stock and failed to properly liquidate the corporation. As and for a third cause of action, it is alleged that the certificate of stock was delivered to the plaintiffs for the purpose of transferring the same to plaintiffs but that the delivery was made without the indorsement or assignment of McKeever and that he refused to indorse the same. As a fourth cause of action, it is alleged that Buick, Inc., with full knowledge of plaintiff’s rights, has failed and refused to transfer the stock on its books or otherwise recognize the transfer. As relief plaintiffs seek to be adjudged as entitled to any sums available for distribution to holders of the Class B stock; that McKeever be directed to make the necessary indorsement on the certificate of stock to complete the transfer to plaintiffs; that Buick, Inc., be directed to transfer the stock on its books and that GMC be directed to account for their acts.
+In behalf of their motion, the corporate defendants submit an agreement entered into by and between the plaintiffs and McKeever which defendants urge provides that the plaintiffs’ interest in the shares of stock was to mature only in the event that McKeever became the sole owner of Buick, Inc., and that since such contingency never occurred the plaintiffs have no enforcible interest in such shares of stock.
+The plaintiffs assert that the said agreement was separate and apart from the loan of money to McKeever for which they received the certificate of stock as collateral security; that by its agreement they acquired rights in the future to acquire an interest in Buick, Inc., and that by virtue of the loan " they acquired the rights of a pledgee and an equitable interest in the certificate of stock.
+In Kittinger v. Churchill Evangelistic Assn. (239 App. Div. 253, 256-257) the court stated :■ “ The provision for dismissal of the complaint where the plaintiff has not the capacity to sue (Rules Civ. Prac., rules 106, 107) has reference to some legal disability such as infancy, or lunacy or want of title in the plaintiff to the character in which he sues. There is a difference between capacity to sue, which gives the right to come into court, and possession of a cause of action, which gives the right to relief in court. (Ward v. Petrie, 157 N. Y. 301; Bank of Havana v. Magee, 20 id. 355; Ullman v. Cameron, 186 id. 339.) The plaintiff is an individual suing as such. He is under no disability and sues in no representative capacity. He is entitled to bring his suits before the court, and to cause a summons to be issued, the service of which upon the defendants brings the defendants into court. There is no lack of capacity to sue.”
+The plaintiffs herein are not suing in a representative capacity and are not under any other legal disability. Assuming arguendo that the plaintiffs never acquired title to the certificate of stock, “ that does not mean that * * * the plaintiff is not sui juris and therefore has no capacity to sue ” (Hebrew Home for Orphans & Aged v. Freund, 208 Misc. 658, 661). Accordingly the motion is denied. Submit order.
