@@ -1,0 +1,37 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-20"
+citations: ["19 N.Y. St. Rep. 828"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Patrick Hanley, Resp’t, v. Patrick N. Crowe, as Survivor, etc., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0828-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650532
+cites_cases: ["15 Wend., 76", "5 Cow., 587", "7 Barb., 560", "95 N. Y., 428"]
+---
+
+# Hanley v. Crowe
+
+## Majority (Landon, J.)
+
+Landon, J.
+The-referee finds that on the 26th day of December, 1862, the plaintiff loaned the defendant’s firm $1,500, but does not find the terms upon which the loan was made. Referring to the plaintiff’s testimony we find he says: “ When I let Crowe have the money I told him that I had some money with me that I wanted to give him; that they (defendant’s firm), might have it and use it in their business till I called for it or wanted to use it.”
+Other testimony tends to show that the acceptance of the money by defendant’s firm was at the request of the plaintiff and for his accommodation. There was no express agreement to pay interest, and under the circumstances we think none was implied. Before default in payment, interest does not accrue upon a promise to pay money at some future time in the absence of a contract to pay it express or implied. Bander v. Bander, 7 Barb., 560; Southern Central R. R. Co. v. Town of Moravia, 61 id., 180; Rens. Glass Co. v. Reid, 5 Cow., 587, 608; Fake v. Eddy’s Ex'r, 15 Wend., 76.
+After default in payment, interest is payable as damages. O Brien v. Young, 95 N. Y., 428; Hamilton v. Van Rensselaer, 43 id., 244.
+The plaintiff testified that he demanded payment of Mr. Kyne, the partner of Crowe, in the fall of 1865. Kyne in his testimony expressly denied that the demand was made. The referee, assuming that interest began on the date of the loan, makes no finding upon the question. Under the circumstances we are not justified in finding that the demand was made. Interest, therefore, did not begin until the action was commenced, namely December 17, 1868.
+The referee finds that the defendant is entitled to a credit of $125.47 of date prior to December 26, 1865, but he finds this was not equal to the interest then due. As there was no interest then due, the defendant should have this credit deducted from the principal indebtedness as of that date.
+We see no reason to question the referee’s findings in respect of the notes, or the failure of the defendant to establish payment of the plaintiff’s demand. The testimony was conflicting. We may not be sure that the referee’s findings of fact are right, but we cannot see that they aro wrong, and hexxce must accept them as they are.
+The defendant complains because the referee did not expressly find upon the counter-claims and defenses of payment set up in the answer.
+It is apparent from the findings that they were disallowed. If the defendant had directed express findings he-should have submitted requests for the purpose. Code Civ. Pro., § 1023.
+We do not think any of the exceptions to the rulings of the referee require a reversal of the judgment.
+Mr. Kyne, who was originally a party defendant, is now dead. If a new trial should be ordered because of the uncertainty respecting the demand of payment, it probably would have to rest in this respect upon the testimony now in the case. The action has been pending twenty years, and ought to be ended. We, therefore, think it inexpedient to order a new trial. We have power to modify the judgment. Code Civ. Pro., § 1317.
+Where the exact amount of the proper modification appears from the application of the law to the facts, we do siot conceive that we are usurping the functions of the trial court, if we make the modification ourselves instead of sending the case back for a new trial. We reduce the principal sum to $1,674.53, with interest from December 17, 1868, and affirm it as thus modified, without costs in this court.
+Learned, P. J., concurs.
+
+## Concurrence (Ingalls, J.)
+
+Ingalls, J.
+I concur in the foregoing opinion of my brother Landon, except in the following particulars: The evidence shows a sharp conflict in regal’d to the question whether an actual demand of the money was made by plaintiff, and I do not quite see how this court can properly settle that question.
+The commencement of the action may be regarded a demand in law, and interest can properly be computed from, that date. But the plaintiff may not be quite willing to accept that amount of interest, and I do not think he should be compelled to do so under the circumstances. I, therefore, advise this disposition of the case—that the judgment be reversed and a new trial be ordered before another referee, with costs to abide the event, unless the plaintiff .shall consent and stipulates to accept said sum of $1,674.53, with interest thereon from December 17, 1868, and that in case he so stipulates, the judgment be modified, and affirmed accordingly, without costs to either party in this court.
