@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-06"
+citations: ["71 N.Y. Sup. Ct. 485"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Macomber and Lewis, JJ., concurred."]
+parties: ["THE EMPIRE STATE INSURANCE COMPANY, Plaintiff, v. THE AMERICAN CENTRAL INSURANCE COMPANY, Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/71/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4649750
+cites_cases: ["14 N. Y., 85", "17 Barb., 132"]
+---
+
+# Empire State Insurance v. American Central Insurance
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+The action was on an alleged contract of the defendant to reinsure, in part, a risk held by the plaintiff; — a contract in all respects valid and binding except for the fact that the agents of the defendant, who assumed to bind the defendant thereby, were at the same time the agents of the plaintiff and acted for the plaintiff in the same transaction. On elementary principles and controlling authority this statement must have the effect to defeat the plaintiff’s action.
+It is unnecessary since the opinions of Allen, J., in Utica Insurance Company v. Toledo Insurance Company (17 Barb., 132), and of Denio, J., in the New York Central Insurance Company v. The National Protection Insurance Company (14 N. Y., 85), to rehearse the argument in favor of the application, to precisely this class of cases, of the general proposition that “ a person cannot act as the agent of both parties in the making of a contract, when he is invested with a discretion by each, and when each is entitled to the benefit of his skill and judgment.”
+In order to maintain this action it was necessary to show it distinguished, by its facts, in some material respects from the cases, mentioned. We are unable to see that it is so distinguished. On the 7th of August, 1889, Straub & Morris, who were then the duly constituted agents of the plaintiff at Pittsburg, Pa., issued a policy of insurance for $2,500, in the plaintiff’s company, to the Ridgeway Lumber Company, on a quantity of lumber at Ridgeway, Pa., and duly reported the transaction to the plaintiff at Rochester, N. Y. Thereupon the plaintiff, by its secretary and through its special agent residing at Pittsburg, directed Straub & Morris to reduce the insurance on the lumber, either by cancellation or by reinsurance, to $1,000, and thereafter, on the twenty-first of September, Straub & Morris, who had, since the issuance of the original policy, become the agents of the defendant’s company, by an entry in their books, “bound the risk” to the extent .of $1,500 in the latter company. The reinsurance policy was not, in fact, issued until after the occurrence of the loss in October of the same year, and the defendant was not notified, in any manner, that the risk had been assumed in its name until after that time. Neither of these facts is material upon the question of the binding character of the contract of reinsurance in the first instance, but the latter of them is material upon the question whether there was any ratification of that contract by the defendant; and, in view of that fact, there seems to be no evidence in the case upon which a ratification could have been found.
+The case, in its essential facts, seems to be strictly within the rule of the cases above cited. Straub & Morris were concededly the agents of both parties, and acted as such in a transaction requiring the exercise of judgment and discretion in behalf of both. They had issued the original policy to the Ridgeway Company for $2,500, and were immediately directed by the plaintiff to reduce the insurance to $1,000, either by cancellation or by reinsurance, presumably for the reason that, in the judgment of the managers of the plaintiff, the latter sum was all the insurance the risk would warrant. The agents were, therefore, called upon to exercise their judgment and discretion in behalf of the plaintiff as to whether the required reduction would be effected by cancellation or by reinsurance; and if by the reinsurance, then in behalf of the defendant, as to what portion of the risk could be safely assumed by the latter; and they exercised that discretion by laying upon the defendant three-fifths of the entire risk, of which the plaintiff was willing to bear only two-fifths. The interests of the two parties to the contract were directly adverse — to the extent that it was favorable to the one it was unfavorable to the other; and the case was precisely one of those in which a common agent could not give the benefit of an undivided fidelity and devotion to the interests of both.
+¥e are unable to see any justness in the proposition that the contract in question was, in fact, made between several agents of the two parties, viz., by Aull, the special agent, on the part of the plaintiff, and by Straub & Morris for the defendant alone. Aull seems to us to have been the mere mouth-piece of the plaintiff to communicate to the agents Straub & Morris the direction of the plaintiff to reduce the risk taken by them for the plaintiff. Aull did not apply to Straub & Morris for reinsurance of -the plaintiff in some other company represented by them, but only communicated to them the plaintiff’s direction to reduce the risk, and, necessarily, to act as the agent of the plaintiff in so doing.
+We think the case is fully covered, in principle, by the cases referred to, and the authorities upon which the decision of those cases was based.
+The motion for a new trial should be denied, and judgment ordered for the defendant on the verdict.
+Macomber and Lewis, JJ., concurred.
+Plaintiff’s motion for a new trial denied, with costs, and judgment ordered for the defendant on the verdict.
