@@ -1,0 +1,37 @@
+---
+court: "City Court of New York"
+decided: "1893-03-25"
+citations: ["51 N.Y. St. Rep. 503"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Equitable Bank, Resp’t, v. Peter J. Claassen, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/51/cases/0503-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 678164
+cites_cases: ["122 N. Y., 382", "33 St. Rep., 638"]
+---
+
+# Equitable Bank v. Claassen
+
+## Majority (McCarthy, J.)
+
+McCarthy, J.
+This is an appeal from a judgment entered on a verdict directed by the court, and from an order denying a motion for a new trial upon the minutes. The action was brought to recover the amount of two promissory notes for eleven hundred and fifty dollars ($1150), and seven hundred and fifty dollars ($750), respectively, made by the defendant payable to his own order and indorsed by him.
+The amended answer admitted all the allegations 6f the complaint, but set up by way of defense that the defendant had “ deposited with the plaintiff various and large sums of money upon the understanding and agreement between the plaintiff and defendant that the defendant might check against and withdraw the same at his pleasure, ” and that there was a balance of four thousand three hundred and sixty-five and seventy-four one-hundredths dollars ($4,365.74), deposited with the plaintiff to the account of the defendant.
+And the defendant alleged further that two thousand five hundred dollars ($2,500) of his deposits with the plaintiff was paid under an alleged agreement, by which the plaintiff was to sell and deliver to the defendant one hundred (100) shares of its capital stock, and a surplus of twenty-five thousand dollars ($25,000), was to be created for the purpose of making that stock worth twelve thousand and five hundred dollars ($12,500), and that the defendant has not received said shares or any consideration of his said payment.of two thousand and five hundred dollars ($2,500).
+The plaintiff replied to this by denying that there was with it a balance of four thousand three hundred and sixty-five and seventy-four one-hundredths dollars ($4,365.74), to the credit of the defendant, and denies the defendant's allegation in the second counterclaim as to the payment of two thousand five hundred dollars ($2,500), but alleges that there is now on deposit with this-plaintiff and the property of the defendant, the sum of four hundred and seventy-nine and fifty one-hundredths dollars ($479.50), 'and no more.
+On the trial of the action, the plaintiff and defendant are bound by the pleadings in the case, because these present the issues involved and bind and limit the parties in the trial.
+No other issues can be presented or tried unless by an amendment of the pleadings.
+No such motion was made in this case.
+What were the issues thus presented here ? First, the admission of the plaintiff’s cause of action placed the affirmative on the defendant, and the defendant could only present such facts as were raised by the allegations in the amended answer.
+He was confined to the proof of his counterclaims and no-other. "If. he had any other counterclaim, or defense, - or desired to present it, it was his duty to move for an amendment of his answer, either at the special term or at the trial.
+Notxhaving done so, he must take the consequences. It was-here where we think the defendant made his mistake.
+From an examination of the case it is clear that the defendant desired to introduce evidence of matters which was not permissible under the pleadings, and the trial justice was, therefore, correct in ruling out evidence of matter not embraced in the counterclaims set forth in defendant’s amended answer.
+At the close of the case the plaintiff’s counsel moved to dismiss the counterclaims, and the defendant’s counsel moved to direct a verdict for the defendant.
+This then left the questions of fact to be determined by the court.
+No request was made by the defendant to be permitted to go-to the jury.
+We have examined the evidence in the case, and find no error, except that it does appear from the plaintiff’s reply to the amended answer that he admits that at the time of the commencement of the action, there was on deposit with the plaintiff and the property of the defendant the sum of four hundred and seventy-nine dollars and fifty cents ($479.50), and no more.
+This, it seems to us, ought to be allowed to the defendant, Straus v. Tradesmen's National Bank of New York, 122 N. Y., 382; 33 St. Rep., 638, and should be deducted from the amount of the verdict.
+The judgment as so reduced should be affirmed, with costs.
+McG-own and Van Wygk, JJ., concur.
