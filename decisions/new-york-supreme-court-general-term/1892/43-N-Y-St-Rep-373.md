@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1892-02-18"
-citations: ["43 N.Y. St. Rep. 373", "44 N.Y. St. Rep. 534"]
+citations: ["43 N.Y. St. Rep. 373"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["In the Matter of Opening One Hundred and Eighty-First Street between 
 source_url: "https://static.case.law/ny-st-rep/43/cases/0373-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2077742
-cites_cases: ["35 St. Rep., 548"]
 ---
 
 # In re Opening One Hundred & Eighty-First Street between Tenth & Eleventh Avenues
