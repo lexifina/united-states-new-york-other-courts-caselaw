@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-12"
+citations: ["1 Silv. Sup. 380"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Probate of the Last Will and Testament of Mary Hollohan, Deceased."]
+source_url: "https://static.case.law/silv-sup/1/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1099820
+---
+
+# In re the Probate of the Last Will & Testament of Hollohan
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+—This is an appeal from a decree of the surrogate of Kings county, admitting to probate the last will and testament of Mary Hollohan, deceased.
+The contest was precipitated by two sisters of the deceased who were the nearest next of kin who survived her. The allegations against the will, raise every objection known to the law against the admission of the instrument to probate.
+The deceased was a widow woman of about sixty-three years of age, who, at the time of the making and execution of the will was an inmate of St. Mary’s hospital in Brooklyn, where she had been for a short time.
+She had consumption, and was apparently aware that it was her last sickness, for soon after her admission, she sent for Rev. Thomas Taffe, a Roman Catholic clergyman, who had been her father confessor, a long time before, and in a conversation with him, expressed her desire to make a will, but stated her want of acquaintance among lawyers sufficient to enable her to select one to draw her will. He stated to her that he would procure a lawyer for her, and called upon John C. McGuire, a lawyer of high respectability, residing in the city of Brooklyn, and requested him to go to the hospital and draw a will, and he accompanied Father Taffe to the hospital, where he was introduced to the testatrix.
+After some preliminary conversation, Mr. McGuire requested all persons present to withdraw from the room, and then stated to Mrs. Hollohan, that he was there to draw her will, and to receive her instructions for that purpose ; that he had requested the people to leave the room, so that she should be absolutely free to dispose of her property as she desired ; that it would be signed and witnessed, and sealed in her presence, and that no person would know the contents of the will until it came to be proven, unless she should disclose them; and that he desired to know from her, exactly what she wished to have done, without the control or influence of any human being.
+She then gave him instructions respecting certain bequests or legacies, and when he asked her what she desired to do with the remainder, she desired to have the residue go to Father Taffe.
+The will was drawn in pursuance of such instructions, and properly executed in conformity with all the formulas required by law.
+After the objections were filed, the witnesses to the will were examined, and several of the relatives were examined in behalf of the contestants.
+The chief objection urged against the will seems to have been undue influence, but there was no proof to show the exercise of any influence over the testatrix by any person, or in any way, but the object of the contestants seemed to be, to draw an inferance of undue influence, from the confidential relations which it was claimed existed between the testatrix and her spiritual adviser, to whom she bequeathed, the main portion of her estate.
+The estate of the testatrix consisted entirely of personal property, of money in hand and money deposited in the savings banks.
+The residuary clause in the will was as follows: “ All the rest, residue and remainder of my estate, of every name and kind, I hereby give, devise and bequeath unto my said executor, Rev. Thomas Taffe.” And the insistence of the contestants now is, and was before the surrogate, that this was not an absolute gift to Father Taffe, individually, but was "a bequest to him as executor, or officially, but not personally, for his own benefit, and some authorities are cited upon that subject. Such authorities, however, can have no' application to this case, because the words “ my executor,”' preceding the name of the legatee, are to be regarded simply as descriptive of the person to' whom the bequest was made, and it was in law and in fact, and by the intention of the testatrix, a bequest to Father Taffe, personally.
+The testatrix left, her surviving, two sisters and some nephews and nieces, who were in- somewhat indigent-circumstances, as the testimony shows, and it is claimed the will was unnatural, because it failed to provide for the relatives of the deceased, who were, or should have been,, the chief objects of her bounty.
+It appeared, however, from the testimony during the controversy before the surrogate, that the deceased was not-pleased with her relatives, and that she was not inclined to aid them, and, further, that she had expressed an intention of giving her money to charitable institutions, instead of her relatives, and, although it appeared that she had said, and did say, to the lawyer who drew her will, that it had been her intention to make no will, and to dispose of her property herself, during her lifetime, yet it must be assumed that she experienced a change of mind upon that subject, and that instead of appropriating her property for the benefit of charitable institutions in her lifetime, she had concluded to give some small legacies to her nephews and nieces and give the rest to Father Taffe.
+There is no claim, and can be none, that the testatrix was not of sound mind, and that she was not in possession of testamentary capacity; in fact, such a claim is scarcely put forth, as it could, not be successful.
+We find after full examination of the testimony and all * the surrounding circumstances, no reason why the will was not a valid expression of the will of the testatrix. It was made with full knowledge of its effect, when the testatrix was free from all restraining influences, and after full assurance that her wishes would be expressed and carried out.
+The decree of the surrogate should, therefore, be affirmed,, with costs.
+All concur.
