@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1893-02-17"
+citations: ["51 N.Y. St. Rep. 456"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Stern, Resp’t, v. Edward R. Ladew et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/51/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 678443
+---
+
+# Stern v. Ladew
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action was brought for relief upon the ground that certain accounts which had been stated between the parties contained mistakes, or false and fraudulent items. A motion having been made upon the part of the defendants that the complaint be made more definite and certain, by compelling the plaintiff to elect between the items which he alleged to arise from mistake, and those items which he claimed to be false or fraudulent, and, in the event that the plaintiff elected to proceed upon the ground that the items in the account were false and fraudulent, that the complaint might be made more definite and certain, by stating facts constituting the false or fraudulent character of such items, such motion was denied ; and the present appeal is taken from-the refusal to compel the plaintiff to state the facts constituting the alleged frauds.
+It is urged that the complaint contains absolutely nothing but the bare charge that there was mistake or fraud about these accounts stated, and that there are no allegations as to what the fraud consisted of. But an inspection of the points of the learned counsel seems to show that he has derived from the complaint a reasonably clear idea of the basis upon which the action proceeds, and that the fraud consists in a misstatement in the accounts as to the highest market price of the goods therein mentioned; and it seems to us, from a reading of the complaint in connection with the schedule attached, which is made a part of the complaint, that it is entirely clear that this is the theory upon which the action proceeds. The items are given in which it is claimed this mistake or fraud was committed, and there is no ambiguity in reference thereto, or uncertainty as to the theory upon which the plaintiff proposes to prove his cause of action.
+Under these circumstances, there does not seem to be any reason for interfering with the order. The question as to whether this difference between the highest market price and that at which such market price was represented to be by the defendants arose from mistake, or from intentional misrepresentation amounting to fraud, is one which the plaintiff is not called upon to determine in order to succeed. If it was a mutual mistake, he is entitled to relief. If it was a misrepresentation knowingly made by these defendants, and the plaintiff was deceived thereby, he is also entitled to relief; and the plaintiff, as has already been said, is not required to determine as to whether this discrepancy between the highest market price and the amount alleged to be the market price arose because of a mistake upon the part of the defendants, or an intentional misrepresentation. The order appealed from should be affirmed, with ten dollars costs and disbursements.
+O’Brien and Follett, JJ., concur.
