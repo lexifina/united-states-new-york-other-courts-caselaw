@@ -1,0 +1,33 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1854-01"
+citations: ["2 E.D. Smith 331"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Mallon v. Miner C. Story."]
+source_url: "https://static.case.law/ed-smith/2/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1283618
+---
+
+# Mallon v. Story
+
+## Majority (Daly, J. Ingraham, First J. Woodruff, J.)
+
+Daly, J.
+The agreement, signed in the name of the plaintiff and with his consent, by Contant, the defendant’s agent, was for five shillings a day. If he was an unlettered man, and unable to read, it would not be the less binding upon him, unless his consent was obtained by some material misrepresentation of its contents or intent, made to him by the defendant or the defendant’s agent. He was told by Contant, contemporaneously with the execution of the agreement, that if he obtained rock work he would get twelve shillings a day, but there was nothing to show that the defendant was privy to this promise—that he agreed to it or knew any thing about it. If, being unable to read the contract, the plaintiff was led to consent to it upon the representation that it was an agreement to give him twelve shillings a day for rock work, the agreement would not be binding upon him, and he would be entitled to recover the fair value of whatever work he did. But there was nothing to show that any such deceit was practiced upon him, or any evidence warranting the presumption that he did not know that the terms of the contract were five shillings a day. For the promise made by Oontant, the defendant is not responsible, though the plaintiff may have been employed in rock work during all the time he labored. The contract provided that he should do any work upon the railroad, or connected therewith, or any other work upon the isthmus he might be directed to do by the defendant or his agent, at the rate of five shillings a day; and such being the agreement, the defendant is not bound to pay him any other or greater sum, whatever kind of work he might have been directed by the defendant or his agent to do.
+The evidence was, that he was three months on the isthmus, that he worked twenty-three days, and that he was sick when he came home. Whether he was sick and unable to work during the remainder of the time he was there, does not appear. If prevented working by sickness, and the physician employed by the defendant should certify that his sickness unfitted him for work, then the defendant agreed to pay him all wages to which he should be entitled for the work that he had done, I should not feel disposed to hold that the obtaining of a formal certificate was a condition precedent to his right to recover for the labor he had performed. It was proved that the doctor said that he was unable to work, and a burden upon the company, and that he was told by the doctor to return home. This was sufficient, within the meaning and spirit of such a provision, and the plaintiff was entitled to judgment for twenty-three days labor, at the rate of five shillings a day. That is, $14 37.
+Ingraham, First J.
+The plaintiff’s claim was made out by proof of a parol agreement, made within an hour of sailing. In this agreement, the plaintiff was to receive twelve shillings per day for rock work.
+On the part of the defendant, there was produced a written agreement, with the plaintiff’s name to it, by which he was to receive five shillings per day for work; but the same witness who proves that agreement also testified, that he promised the plaintiff that he should have twelve shillings per day for rock work, if he obtained it, and that he was authorized to say this to the men he engaged. This testimony appears to have come from the witness on the direct examination, and was not objected to by either party.
+It is evident, from this testimony furnished by the defendant, that the plaintiff was entitled to the pay of twelve shillings per day for rock work; and where the evidence is furnished to the court without objection, and the justice renders judgment accordingly, we do not feel called upon, on appeal, to reverse such a judgment on a technical objection, which was not made to the court below.
+The other question in the cafee relates to the performance by the plaintiff of the conditions of the agreement.
+It appears the defendant worked twenty-three days; that he became sick; that the plaintiff was sick, and was told by the doctor to come home; that the foreman put his name on the list to go home, and that the doctor said the plaintiff was a burden to the company.
+By the agreement, the plaintiff was bound to do any work he was directed to do by Story, to the best of his ability. He was in all respects to conform to the directions of Story, or his agent or superintendent.
+There is no evidence of the plaintiff’s refusing to do any work or omitting to do any work ordered, and the evidence of his sickness was such as to warrant the conclusion that he was unable to do work. His leaving the work was justified by the direction of the foreman, who placed his name on the list of those who were to go home. Under these circumstances, I cannot adopt the conclusion that the plaintiff has forfeited all the services rendered by him. Whether he would be sick or well, was a risk which both parties assumed, and for which both would be losers; and when the defendant’s agent told the plaintiff to go home, on account of -sickness, he thereby terminated the period during which the plaintiff was bound to labor.
+It does not appear that the contents of this agreement were ever made known to the plaintiff. On the contrary, he did not write his own name ; but the witness says the plaintiff saw it, when he wrote his name to it. To hold a party to such stipulations, it should certainly be made to appear that an ignorant man, like the plaintiff, knew the conditions contained in them.
+I think the judgment is consistent with equity, and should not be disturbed.
+Woodruff, J.
+I think the plaintiff is concluded by the written agreement. It embraced the subject of wages in very terms, and fixed them at five shillings per day. To allow a recovery at twelve shillings per day, in the face of the written contract, and upon evidence of a contemporaneous parol agreement, seems to me at variance with all settled rules of evidence.
+Judgment reduced to $14 37, (being wages at the rate of five, instead of twelve shillings per day,) without costs of appeal, if the plaintiff so elect; otherwise, reversed with costs.
