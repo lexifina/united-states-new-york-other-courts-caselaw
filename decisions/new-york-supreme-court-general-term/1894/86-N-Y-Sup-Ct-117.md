@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["86 N.Y. Sup. Ct. 117"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Bradley, JJ., concurred."]
+parties: ["Edward A. Robbins, Plaintiff, v. Springfield Fire and Marine Insurance Company, Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/86/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2401105
+cites_cases: ["132 N. Y. 49", "49 N. Y. St. Repr. 867", "66 Hun, 546", "90 N. Y. 649"]
+---
+
+# Robbins v. Springfield Fire & Marine Insurance
+
+## Majority (Haight, J.:)
+
+Haight, J.:
+This' action was brought to recover upon an insurance policy the loss sustained by a fire. The policy was dated the 28th day of January, 1892, and was issued by one Falkner, the defendant’s agent, upon personal property situated in Le Roy, which was destroyed by fire on the 9th day of February thereafter.
+The answer admitted the allegations of the complaint, but alleged as a defense that at the time the policy of insurance was issued the property insured was incumbered by a chattel mortgage given by the plaintiff to one McKay to secure $350.
+Upon the trial the defendant assumed the affirmative, and gave evidence of the existence of the mortgage. The plaintiff then gave evidence tending to show that Falkner, the defendant’s agent, knew of the existence of the mortgage, and that plaintiff, on the day upon which the policy is dated, deposited in Latlirop’s Bank at Le Roy the money with which to pay the mortgage in full, and then notified Falkner that he had done so, and that the mortgage was held in Geneseo, and that the money would have to be sent to that place before the mortgage could be paid ; that Falkner then informed him that if he had deposited the money in the bank he would insure him from noon of that day. It also was made to appear that the-money was in fact deposited as stated by the plaintiff; that it was-received by one Doty, the agent of the mortgagee, on the third day of February thereafter, who on that day executed a satisfaction of the mortgage.
+On behalf of the defendant, Falkner was sworn as a witness, and stated that plaintiff called upon him and made application for insurance a few days before the twenty-eighth, and that he told him that he could not insure the property if it were covered by a chattel mortgage; that the plaintiff then replied : “ I am all clear now, or at least I have the money in the bank to pay it, and it will be paid immediately j ” that he saw the plaintiff again in reference to the poli.cies before they were issued that he came to the office and wanted to know why they bad not been issued, and that the witness then told him he would issue them immediately. This conversation was about two days after the first.
+At the close of the evidence the defendant’s counsel asked the court to direct a verdict for the defendant upon the ground that at the time the policy was issued the property was incumbered by a chattel mortgage. This motion was denied. Thereupon the plaintiff’s counsel asked the court to direct a verdict in his favor for the amount due under the policy, and this motion was granted. The defendant then took an exception to the direction of a verdict in favor of the plaintiff, and then asked to be allowed to go to the jury upon the question whether or not at the time the policy was issued the agent knew of the existence of the chattel mortgage. This was refused, and an exception was taken.
+The parties having united in asking the court to direct a verdict, each is deemed to have agreed that the facts might be determined by the court, and if there is any evidence to uphold the decision it will be sustained. (Dillon v. Cockcroft, 90 N. Y. 649; Mayer v. Dean, 115 id. 556; Baylies Tr. Pr. 230.)
+The finding of the trial court was in accordance with the testimony of the plaintiff, and it is, therefore, supported by evidence. It is true that the defendant, after asking for a direction of a verdict, upon being refused had the right to request the court to submit specific questions of fact to the jury, but this should have been done before the court finally disposed of the case by directing a verdict in favor of the plaintiff. But, assuming that the request was made in time, we are inclined to the view that there is not such a variance between the testimony of the plaintiff and Falkner as to require a new trial. It appears from the testimony of Falkner that he knew of the existence of the mortgage; that money had been deposited in the bank for its payment. This he knew on the occasion of the jdaintiff’s application to him for insurance. He states that nothing was said in reference to the mortgage on the day on which he issued the policy. He, therefore, issued the policy without knowing or inquiring as to whether the mortgage had actually been paid or discharged. ¥e discover nothing in his testimony that is in conflict with the testimony of the plaintiff, who states a little more in detail that the money had been deposited in the bank ; that it had to be sent to Geneseo in order to make the payment, and that the payment would be made as soon as possible, and, according to the plaintiff’s recollection, this was satisfactory to Falkner, who stated that he would make the insurance from noon of that day. Upon these facts we think there can be no doubt but that there was a waiver of the provisions of the policy making it void if the property was incumbered by mortgage. (Berry v. Am. Cent. Ins. Co., 132 N. Y. 49; Cross v. The Nat. Fire Ins. Co., 132 id. 133; Woodruff v. The Imp. Fire Ins. Co., 83 id. 134; Von Schoick v. Niagara Fire Ins. Co., 68 id. 434; Forward v. The Cont. Ins. Co., 49 N. Y. St. Repr. 867; 66 Hun, 546.)
+The defendant’s motion for a new trial should be denied, with costs, and judgment ordered for the plaintiff upon the verdict.
+Dwight, P. J., Lewis and Bradley, JJ., concurred.
+Motion for a new trial denied, with costs, and judgment ordered for the plaintiff upon the verdict.
