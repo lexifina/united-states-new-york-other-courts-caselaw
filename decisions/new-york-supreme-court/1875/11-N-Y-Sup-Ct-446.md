@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1875-05"
+citations: ["11 N.Y. Sup. Ct. 446"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE HEBREW FREE SCHOOL ASSOCIATION, Respondent, v. THE MAYOR, Etc., OF THE CITY OF NEW YORK, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/11/cases/0446-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4444616
+cites_cases: ["11 Wall., 109", "14 N. Y., 534", "5 N. Y., 376", "53 N. Y., 49", "6 Johns. Ch., 28"]
+---
+
+# Hebrew Free School Ass'n v. Mayor of New York
+
+## Majority (Davis, P. J.:)
+
+Davis, P. J.:
+It is provided by section 4, title 1, chapter 13, part 1 of the Revised Statutes, that “ every building erected for the use of a college, incorporated academy, or other seminary of learning; every ' building for public worship; every school-house, court-house and jail; and the several lots whereon such buildings are situated, and the furniture belonging to each of them,” shall be exempt from taxation. Chapter 282 of the Laws of 1852 provides that the foregoing provisions of the statutes “ shall not apply to any such building or premises in the city of Hew York, unless the same be exclusively used for such purposes and exclusively the property of a religious society, or of the Hew York Public School Society.” •
+The first point made on this appeal is, that the plaintiff is not a “ religious society,” within the meaning of the act of 1852, and therefore the property described in the complaint is not exempt, although used exclusively for the purposes of a school. This point is based upon the fact, which appears in the complaint, that the plaintiff is organized under the act entitled “an act for the incorporation of benevolent, charitable, scientific and missionary societies,” passed April 12th, 1848, and not under chapter 60 of the Laws of 1813, and the laws amendatory thereof, which provide for the incorporation of religious societies. But we think the words, “ a religious society,” used in the act of 1852, were not intended to be used in the limited signification of church incorporations, or bodies organized for the mere purpose of establishing church societies, as provided by the act of 1813" and its amendments. It is true that the act of 1848 was not intended for the organization of religious societies in the sense of incorporated churches; but in the more general sense we see no reason why a body like the plaintiff may not be deemed a religions society, and as such the exclusive owner of property devoted to a school for religious and other instruction. Or, in other words, we think the act of 1852, in limiting the exemptions from taxation created by the Revised Statutes, was not intended to require the property to belong exclusively to a religious society organized as an incorporated church, but to a society whose organization and object should be of the benevolent, charitable or missionary character, falling within the general sense of the term “religious” as contradistinguished from private and secular institutions. The second point, to wit, that the property taxed is not shown to he exclusively the property of the plaintiff, was very fully discussed by the court at Special Term. We concur in the conclusions of the learned judge in the opinion ho pronounced on that question. The property is what is familiarly known as leasehold. The owner of the reversion, or fee, has executed a lease for a long term of years, for a stipulated rental, with the right of renewal for further terms, and with the usual provisions as to buildings that are or may be erected by the lessee or his assigns, and with covenants for the payment of all taxes and assessments lawfully imposed. The plaintiff is owner, by assignment, of such a leasehold interest, and absolutely of the buildings on the premises, subject to the provisions of the lease. As owner of the term and of the buildings on the demised premises, the plaintiff is, we think, exclusively the owner of the property for the purpose of enjoying the right of exemption under the statute above cited. It is upon its property exclusively that the taxes imposed must fall; for, in every practical sense, what is assessed "and sought tobe taxed is the interest owned and possessed by the plaintiffj and not the reversion of the owner in fee.
+The question should be determined by its present practical results, and not by ultimate effects that may result from the modes by which the taxes can lawfully be enforced. The property in the premises of which the plaintiff is the owner, is exclusively its own. That property is exempt under the statute, because it is devoted to the use of a seminary of learning, and is the property of a religious society. Both as between itself and the city, and between itself and the owner of the reversion, the taxation is primarily upon the plaintiff’s property; and we do not think that fact is disturbed by the fact that the tax may also be regarded as a lien both upon the term and the remainder. We concur therefore in the views expressed, and the result reached on this point by the court below.
+The relief prayed for by the complaint seems to be appropriate within Heywood v. The City of Buffalo, because “ the assessment, on the face of the proceedings to impose it, is a valid lien on the land, and extrinsic evidence is requisite to show its invalidity.”
+The tax having been imposed, without jurisdiction, upon property exempt by law, the omission to appear before the commissioner of taxes and object, did not give validity to the assessment.
+The order should be affirmed with costs, with leave to answer over on payment of costs.
+Daniels and Brady, JJ., concurred.
+Ordered accordingly.
+14 N. Y., 534.
+The National Bank of Chemung v. The City of Elmira, 53 N. Y., 49.
