@@ -1,0 +1,19 @@
+---
+court: "New York Superior Court"
+decided: "1892-01-11"
+citations: ["28 Jones & S. 493", "60 N.Y. Super. Ct. 493"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Southwick, Respondent v. Adolph Bernhard, Appellant."]
+source_url: "https://static.case.law/ny-super-ct/60/cases/0493-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1697309
+---
+
+# Southwick v. Bernhard
+
+## Concurrence (Opinion by McAdam, J.; Freedman, P. J., and Gildersleeve, J., concurred.)
+
+Opinion by McAdam, J.; Freedman, P. J., and Gildersleeve, J., concurred.
+Judgment and order affirmed, with costs.
