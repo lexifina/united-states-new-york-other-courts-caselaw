@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-11-13"
+citations: ["41 N.Y. St. Rep. 428"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Catherine V. Murray, App’lt, v. Thomas E. Murray, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/41/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2068208
+cites_cases: ["17 Abb. N. C., 236", "31 St. Rep., 704", "31 St. Rep., 718", "58 How., 278", "73 N. Y., 369", "9 N. Y. Supp., 858", "94 N. Y., 626"]
+---
+
+# Murray v. Murray
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The action was brought by the plaintiff to secure a separation from the defendant, who is her husband. They were married on the 8th of June, 1887, and had one child, a. daughter, born on the 3d of June, 1888. And the plaintiff left the defendant’s residence on the 28th of August of the same year. The case on her part depended chiefly upon her own evidence as a witness. And in the course of it she testified that the defendant on various occasions had used extremely foul and indecent language to her, making serious accusations of marital misconduct, threatening her with personal injury, and finally on one occasion seizing her by the throat and severely choking her. And that was amply sufficient under the authorities, if her statements had been accepted as the truth, to sustain her action. Ruckman v. Ruckman, 58 How., 278; Uhlmann v. Uhlmann, 17 Abb. N. C., 236; Kennedy v. Kennedy, 73 N. Y., 369 ; De Meli v. De Meli, 120 id., 485; 31 St. Rep., 704; Lutz v. Lutz, 9 N. Y. Supp., 858; 31 St. Rep., 718.
+But the difficulty with the plaintiff’s case consisted in the fact that there was but little sustaining evidence, and that was obtained from her brother and her mother.
+While the defendant in his evidence positively contradicted all the statements which the plaintiff had made having a tendency to maintain her action, except that relating to the final occurrence, when her testimony was that he had choked her. That, however, he denied, but stated, by way of explanation, that a disagreement had arisen between them concerning a cloth used to cover a table in their library; that this had been once removed by himself and afterwards restored, and then cut into pieces and torn by himself to prevent it from afterwards going upon the table. And while he was employed in this destruction of the table cloth, he testified that the plaintiff appeared and exciting words were passed between them, when he directed her to leave the room, and stated that she refused to go and continued to abuse him, when he said to her that if she did not go from the room he would put her out, and after-wards took her by the shoulders and moved her out, being careful not to hurt her; that as she went out she seized him by the necktie and began to call the cook, when he got her over towards the bed and pushed her on it and tore himself loose, and then went into another room. As to the fact that his general treatment of the plaintiff was good, he was also corroborated by the cook herself, Nellie Mitchell, and by the deposition of Bridget Ryan, who was a nurse during the plaintiff’s illness. The witness Mitchell was contradicted in some of her statements by proof of what she had previously said when not under oath, but these statements in turn were also contradicted by her. The case in this manner was left in nearly a balanced condition. If there was any preponderance whatever in the plaintiff’s favor it was extremely slight. And it was accordingly for the court to determine who was entitled to credit in the evidence given in this manner upon the trial. The witnesses were there present, with the exception of Bridget Ryan, whose deposition was read. They were under the observation of the justice presiding at the trial. Their manner of testifying, as well as their apparent candor, were circumstances entering into the extent of credit which should be accorded to their statements. These features of the case were exclusively before the trial court, and cannot be reproduced in the case presented upon the appeal. And it was for that court to decide, consequently, whether the plaintiff had so far established the charges contained in her complaint as the foundation of the action as to entitle her to maintain it. That court decided that she had not done so. And the decision there made under these circumstances must be accepted as. conclusive upon an appeal. Sherwood v. Hauser, 94 N. Y., 626.
+In the course of the trial several exceptions were taken to rulings upon the admissibility of evidence, but neither of these exceptions appear to have been of any substantial importance to the plaintiff. They do not sustain the appeal now brought before the court, and the judgment accordingly should be affirmed.
+Lambert, J. concurs.
