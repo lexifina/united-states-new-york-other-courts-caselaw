@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1875-01"
+citations: ["5 Thomp. & Cook 294"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Toffey v. Williams."]
+source_url: "https://static.case.law/thomp-cook/5/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4464639
+cites_cases: ["11 Wend. 62", "32 Barb. 84", "53 N. Y. 640", "6 N. Y. 147"]
+---
+
+# Toffey v. Williams
+
+## Majority (Barrett, J.)
+
+Barrett, J.
+The order of arrest seems to have proceeded upon two grounds; first, fraud in contracting the debt, and second, a fraudulent disposition of property. The action is brought to recover a balance of $3,221, for goods sold between February 25 and October 8, 1873. There is no pretense that the account originated in any representations, fraudulent or otherwise, nor that any such representations were made until the months of July and August, 1873. During these months, upon the plaintiffs’ assignors requesting payment of what was due them, the defendant complied in part, and, in promising a speedy payment of the balance, is said to have made statements as to his condition which were untrue. One at least of these statements the plaintiffs concede to have been true; others were mere opinions, or, at the worst, boasts of ability to make speedy payment. The remainder are denied or explained. But assuming these statements to have been made, and their falsity to have been established, there is not a particle of evidence that they were made as an inducement to continued dealings, nor that there was ever any question between the parties of discontinuing súch dealings.
+That being so, the claim now made by the plaintiffs’ assignors of a reliance upon the representations, which was not communicated and was in fact unknown to the defendant, fails to meet the difficulty. Again, the whole- theory of this branch of the case is erroneous. The plaintiffs claim that the balance for which the action is brought relates to purchases from August 5 to October 8,1873. The purpose of this is obvious. It is to effect a break in the account where contract ends and tort commences, and to bring all the purchases after August 5 specifically within the representations. Then, as the defendant paid the plaintiff’s assignors, between August 5 and October 8, more money than he received goods, the plaintiffs arbitrarily apply all such payments to the satisfaction of what confessedly rests upon mere contract, and thus leave what they seek to enforce ex delicto wholly unpaid. This is neither ingenuous nor sound. The truth is that the account was continuous.
+The complaint is for a general balance on account of goods sold between February 25 and September 8 (October 8 undoubtedly intended). Nor is there any rest in the bill of particulars. The items of purchase are given in succession from February 25 to October 8, and they foot up at a total debit of $14,125.51. The items of credit follow, running from March 7 to October 9, and footing up a total of $10,907.20; and the balance of $3,223.31 is obtained simply by subtracting the total credit from the total debit. The rule is well settled that if two separate causes of action are joined in one complaint, an arrest will not lie for fraud with respect to the one where the defendant is confessedly innocent as to the other. There must be a right to arrest upon the entire claim of the complaint. Bowen v. True, 53 N. Y. 640; McGovern v. Payn, 32 Barb. 84. Still less will an arrest lie where there is but one cause of action and that for a balance of a running account made up in great part of items entirely untainted with fraud.
+As to the second branch of the motion, the test is as put by the respondent, whether “ the court can believe that he, the defendant, really owed his sister the $11,000, as claimed.” If he did he had a right to pay or secure her, and the assignment and mortgages complained of were not fraudulent dispositions of property under the laws of this State. As to the fact of the loan, we do not see why we are not bound to believe it. It is sworn to by the defendant and by his sister’s husband, who says he acted for her in making the loans. There is not a particle of evidence to the contrary, nor are their statements discredited in any manner. They may seem suspicious, owing to the relationship of the parties, and the consequent facility for collusion. Indeed, we may say that hut slight evidence would be sufficient under all the circumstances of the case to turn the scale. But even that slight evidence is wanting, and all that the plaintiffs are able to say is, that the property has been disposed of by the instruments in question, and that they “ believe” and'“ charge ” that such instruments are fraudulent.
+But we have ho right thus to believe judicially without some facts dehors the instruments, and we certainly cannot arbitrarily refuse credence to the testimony of unimpeached witnesses.
+For these reasons the order appealed from should be reversed, with $10 costs, and the disbursements of the appeal; and the motion to vacate the order of arrest should be granted, with $10 costs.
+Ordered accordingly.
