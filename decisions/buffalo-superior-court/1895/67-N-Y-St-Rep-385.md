@@ -1,0 +1,23 @@
+---
+court: "Buffalo Superior Court"
+decided: "1895-05-15"
+citations: ["67 N.Y. St. Rep. 385"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bessie McKenna, by Guardian, etc., Resp’t, v. Buffalo Brass Bedstead Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/67/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2113247
+cites_cases: ["110 N. Y. 504", "18 St. Rep. 130"]
+---
+
+# McKenna v. Buffalo Brass Bedstead Co.
+
+## Majority (Titus, C. J.)
+
+Titus, C. J.
+The plaintiff, a child two years and three months old, was run over and injured by a team driven by the defendant’s servant on West avenue, in this city. The child was in the street when the accident occurred, although not accustomed to go into the street unattended, and was usually in charge of a servant. On this occasion the child without the knowledge of its mother", went into the street, and the defendant’s team knocked her down,, and seriously injured her. We think the case was properly submitted to the jury. • There was some evidence that the defendant’s teamster saw the child, and could easily have avoided the accident. His conduct in managing the team was in controversy on the trial, and it became a question for the jury to pass upon. We do not think the parents of the child can be charged with want of care. While her mother was engaged in her household duties, the child ran across the street, without her knowledge. It was not in the of the servant in the sense that when she the child in the street, she did not immediately go for it, the law charges her with negligence.
+The case of Birkett v. Ice Co., 110 N. Y. 504; 18 St. Rep. 130, is so paralled in its facts that the rule there laid down must control in the decision of this case. Judge Earl, in writing the-opinion of the'court, speaking of the child, says:
+“ She had permission only to play upon the sidewalk, and was never allowed to cross the street. * * * She had been out but a short time when her brother left her, and, while she was attempting to cross the street, she received the fatal injuries. It was not unlawful for the child to be in the street, or even for her to play upon the sidewalk. It cannot be said that it was, as a matter of law under the circumstances, proved negligence for the parents to per-, mit her to go upon the sidewalk to play, and whether it was or not was a question for the jury.”
+We think, therefore, no error was committed by the court in submitting to the jury all of the evidence bearing upon the negligence of the plaintiff and defendant, and the verdict of the jury should not be disturbed. The judgment must therefore be affirmed, with costs.
