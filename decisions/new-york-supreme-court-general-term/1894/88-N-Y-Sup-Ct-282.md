@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-10"
+citations: ["88 N.Y. Sup. Ct. 282"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Bradley, JJ., concurred."]
+parties: ["The Town of Salamanca, Plaintiff, v. The County of Cattaraugus, Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/88/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4739774
+cites_cases: ["92 N. Y. 622", "95 N. Y. 657"]
+---
+
+# Town of Salamanca v. County of Cattaraugus
+
+## Majority (Haight, J.:)
+
+Haight, J.:
+At tbe annual session of tbe board of supervisors, of tbe county of Cattaraugus a claim was presented on bebalf of tbe town of Salamanca for $7,620.98 for money expended by its highway commissioner in tbe erection of bridges within tbe town in excess of one-sixth of one per centum of tbe assessed valuation of tbe taxable property of tbe town for that year. Tbe claim was rejected, and a resolution passed that the board employ “Messrs. Hazard and Nash to attend to tbe county interest in tbe bridge cases now pending before tbe board,” and also another resolution, that, “ N. M. Allen? Esq., be employed to act with Messrs. Hazard and Nash in defending the interests of the county in any suit brought against the county for reimbursement of moneys paid out for bridge purposes.” Thereupon Messrs. Allen, Nash and Hazard executed an agreement in writing with J. S. Whipple, the supervisor of the town of Salamanca, submitting the matter in controversy to this court upon facts agreed upon.
+The controversy between the town and the county would seem to involve a construction of sections 130, 132 and 133 of chapter 568 of the Laws of 1890, but we are only called upon to answer certain questions involving abstract questions of law and not for the awarding of any judgment. (The People, etc., v. The M. E. & A. Association, 92 N. Y. 622.)
+Again, there is a question as to whether the attorneys representing the board of supervisors had the authority to agree upon the facts and submit the matter in controversy. Allen, as we have seen, was employed to act with Hazard & Nash to defend the interests of the county in any suits brought. Hazard & Nash were employed to attend to the county’s interest in the bridge cases pending before the board. This is all of the authority that appears to have been delegated to them. The Code (§ 1279) provides that “ The pcurties to a question in difference which might be the subject of an action, being of full age, may agree upon a case. * * * ppe cage must pe accompanied with the affidavit of one of the parties to the effect that the controversy is real. * * * The submission must be acknowledged or proved and certified in like manner as a deed to be recorded in the county where it is filed.”
+If the parties to the submission had been natural persons they should have executed the agreement, and the affidavit should have been made by one of them. (Bloomfield v. Ketcham, 95 N. Y. 657.)
+The board of supervisors possibly may act through agents, but where an agent is required to discharge any of the duties of the board there should be no question as to the intention to delegate such power to him. The board of supervisors doubtless had the right to audit and determine the amount that had been expended during the year by the highway commissioner, of the town. The amount so expended is definitely fixed in the facts agreed upon accompanying the submission, so that we are confronted with the question as to whether the attorneys representing the county were .authorized, first, to agree upon a submission of the matter in controversy; and, second, to agree upon facts which would relieve the board of the power of auditing the claim. Our conclusion is that authority was not given, and consequently we have not jurisdiction to determine the controversy.
+It may be, as is claimed, that those representing the town have been misled by the attorneys representing the county. They joined with the representative of the town in submitting the controversy to the court for its determination, and then, upon the argument, took the position that the submission should not be acted upon by the court. Their practice is not to be commended. But this cannot .affect the question of our jurisdiction.
+The proceeding must be dismissed, but without costs.
+Dwight, P. J., Lewis and Bradley, JJ., concurred.
+The proceedings dismissed, without costs to either party.
