@@ -1,0 +1,33 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1880-12-06"
+citations: ["9 Daly (N.Y.) 349"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Caleb B. Le Baron, Respondent, against Thomas C. Van Brunt et al., Appellants."]
+source_url: "https://static.case.law/daly-ny/9/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 911992
+cites_cases: ["14 Blatchf. 233", "21 Wall. 241", "4 Hun, 231", "6 Abb. N. C. 76", "65 Barb. 271", "77 N. Y. 573", "8 Ben. 293", "81 N. Y. 566"]
+---
+
+# Le Baron v. Van Brunt
+
+## Majority (Charles P. Daly, Chief Justice.)
+
+Charles P. Daly, Chief Justice.
+On what ground the general term of the marine court affirmed this judgment does not appear. Nothing appears in the appeal papers, but a dissenting opinion by Judge Goepp, which states an objection to affirming the judgment, to which I see no answer. Assuming, as Ahearn testified, that the defendant Smith brought him a batch of notes, and got him to discount them upon a representation by him that they were business obligations, and that the note in suit was given in renewal in part of one of these notes, still the fact appears, and is not contradicted, that" when this note in suit was given for $113.87, which was payable in thirty days, $4.87 was deducted for interest, Ahearn giving Van Brunt a check for $109. This was reserving and taking, on the part of Ahearn, for what was in fact a forbearance, interest on the note, at a rate of over fifty per cent, per annum. It does not appear clearly that the note in suit was given in renewal of a previous note. Yan Brunt testified that when one of the notes, which was for $263, which Smith had got Ahearn to discount, became due, Yan Brunt called upon Ahearn, told him that it was an accommodation note, and that he would have to give time upon it, which Ahearn said he would do ; that he asked him what he would charge, and Ahearn said $7.50 ; that he, Yan Brunt, then got the defendant Smith to make two notes, one for $16-3, at sixty days, and another for $100, at ninety days, being the amount of the prior note, which two notes Yan Brunt indorsed and gave to Ahearn, who, instead of charging $7.50, charged $9.50 because the $100 note was for ninety days. That when the $163 note became due, he called upon Ahearn, and told him that he would have to extend the time of payment. Now, the note in suit may have been a renewal in part of this $163, but Yan Brunt does not say so. All that lie says is, that he gave the note in suit for $113 to Ahearn, and that the defendant Smith indorsed it. It may be that all the evidence was not inserted in the case, for Ahearn is referred to as having been recalled as a witness, and it does not appear from the case what he had testified to before, if he did testify previously. It may be, being for $113, that it was a renewal in part of the $163, and that, as averred in the answer, the residue of the $163 was paid by Yan Brunt, so that he took up the $163 note; but however that may be, Smith testified that it was an accommodation note, given by Yan Brunt, to him, without any consideration; and Yan Brunt swears, and is not contradicted by Ahearn, that when the note was given by him to Ahearn, it was discounted at an illegal rate of interest. This point is not noticed in the opinion of Judge Mc-Adah at the special term, and whether it was considered or not by the majority of the judges of the general term, who afiirmed the judgment, we do not know, as they do not appear to have given any opinion. The fact referred to in the opinion of Judge MoAdam, that payment of the note was demanded of the maker, at New Brunswick, in New Jersey, in no way affects the question. The proof shows that the note was made in New York, that it was discounted in this state, and the illegal interest taken and reserved here, which renders the note void. ( Wayne County Savings Bank v. Low, 6 Abb. N. C. 76; affirmed by court of appeals, 81 N. Y. 566, and cases there cited.)
+The judgment should be reversed.
+
+## Concurrence (Van Hoesen, J.)
+
+Van Hoesen, J.
+I concur with the chief justice in the
+opinion he has expressed as to the facts and the law. In this case it appears that Van Brunt made the note in suit in New York, and that he himself used it here, by having it discounted at a usurious rate by Ahearn. It is true that the note was made payable in New Jersey, where Van Brunt resided, but that does not, as the marine court erroneously decided, require that the validity of the note should be determined by the usury laws of \New Jersey. In Dickinson v. Edwards (77 N. Y. 573), the law is said to bé that if the maker of a note sends it, or knowingly permits it to be sent, to another state, to be discounted, its validity will be determined by the usury laws of the place of discount, and not by the law of the state in which it is payable. This is not in accord with the decision in Clayes v. Hooker (4 Hun, 231), but that case must be considered as discredited by Dickinson v. Edwards. Adopting the rule laid down in Tilden v. Blair (21 Wall. 241), the court of appeals say that where the intention of the maker is that the note shall first be negotiated in a state other than the state of his residence, it must be presumed that he desired to make a contract in accordance with its laws; and the naming of his residence as the place of payment of the note must be regarded as an incidental circumstance, intended to help the negotiation, o°r to promote the convenience of the maker, and not to form an essential part of the contract.
+To the same effect is Wayne County Savings Bank v. Low (6 Abb. N. C. 76).
+In Hildreth v. Shepard (65 Barb. 271), Judge Ingraham said : “ When the note is made in one state, negotiated and sold in that state at a rate of interest allowed by the laws of the state where sold, then the same is to be governed by the laws of that state, and not of the state where it is payable.” The . note in suit was made and dated in Yew York, and there sold. Tested by the rule laid down by Judge Ingraham, the note was governed by the usury laws of Yew York, and not by the usury laws of Yew Jersey.
+The law is stated in nearly the same language in Wait’s Law of Action and Defenses, vol. 7, p. 623, where the following cases are cited: National Benk v. Smoot (MacArthur, 371); Providence Savings Bank v. Frost (8 Ben. 293; affirmed, 14 Blatchf. 233).
+The judgment should be reversed, and a new trial ordered, with costs to abide the event.
+j. F, Daly, J., concurred.
+Judgment reversed, and new trial ordered, with costs to abide event,
