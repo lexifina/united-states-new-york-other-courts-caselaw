@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1883-05"
+citations: ["37 N.Y. Sup. Ct. 75"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Daniels, J., concurred.", "Present — Davis, P. J., and Daniels, J."]
+parties: ["THOMAS T. AHRENBERG and Others, Respondents, v. JAMES A. WRIGHT and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/37/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4471304
+---
+
+# Ahrenberg v. Wright
+
+## Majority (Davis, P. J.;)
+
+Opinion by
+Davis, P. J.;
+Daniels, J., concurred.
+Present — Davis, P. J., and Daniels, J.
+Judgment affirmed.
