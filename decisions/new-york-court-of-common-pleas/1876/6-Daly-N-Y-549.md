@@ -1,0 +1,25 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1876-12-04"
+citations: ["6 Daly (N.Y.) 549"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hugo Weil against A. Lange and Fred. Wogram."]
+source_url: "https://static.case.law/daly-ny/6/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1306479
+cites_cases: ["33 N. Y. 615", "7 Abb. Pr. 411"]
+---
+
+# Weil v. Lange
+
+## Majority (By the Court.)
+
+By the Court.
+The note in suit was made at Hoboken, .Hew Jersey, by Ferdinand Henz, a resident of that place. It is dated, Hoboken, H. J., May 22, 1874, and is payable three months after date, to the order of A. Lange, for $390 66, at the First Hational Bank of Hoboken. The note was made for the accommodation of Lange, the payee, and delivered to him by Henz, the maker, in Hew Jersey. Lange brought it to Weil, the plaintiff, in the city of Hew York, and endeavored, to borrow money upon it. Weil refused to lend, unless the indorsement of the defendant Wogram was obtained. Wogram, at the solicitation of Lange, and solely for his accommodation, indorsed the note in New York city, where Weil discounted it at a usurious rate of interest. When sued upon the note Lange and Wogram interposed separate answers, each setting up the defense of usury.
+The Marine Court held that as the note was payable in New Jersey, the laws of that State controlled the question of its validity, and as there was no evidence of any statute of New Jersey avoiding the note for the taking of a greater rate of interest than seven per cent., that the rule of the common law governed the transaction. The learned justice who delivered the opinion at special term, relied principally upon the decision in Hull v. Wheeler (7 Abb. Pr. 411). In that case, the note in suit was drawn in New York, payable in the State of Connecticut, and after being indorsed for the accommodation of the maker, was sent to the latter State, that it might be discounted by the plaintiff, who was a banker in Connecticut. It was discounted in Connecticut by the plaintiff, the money being forwarded to New York for the maker. The court, in its opinion, said that the accommodation indorsers must be considered to have authorized the maker to deliver the note, and give it validity, in the State of Connecticut; that it had no validity until discounted, and having been made to raise money upon in Connecticut, was not a New York contract, or subject to the laws of New York ; and that the borrowers, including under that designation both the maker and the accommodation indorsers, stipulated to pay interest according to the law of the place at which the money was to be paid back to the lender.
+The law, as stated in that case, would seem to be an authority for holding the parties to the note in this suit bound by the laws of New York, since it was made with reference to a discount in this State, was actually indorsed here by Wogram, and was delivered here to the plaintiff, who paid the money in this city. In Cook v. Litchfield (9 N. Y. 2Y9, 290), it was held that the indorser’s contract must be regarded as having been made in the State where the note was delivered at the discount, and where the notes first became effective. In Lee v. Selleck (33 N. Y. 615), it was held that the undertaking of the indorser is to pay the holder where the latter resides. Thus, an indorsement written in Illinois, for the accommodation of a maker in Wisconsin, but intended to be delivered in New York for the purchase of goods, takes effect as a contract on delivery in New York, the laws of which State, and not the laws of Illinois, gorera the liability of the indorser. In both these cases the contract of the ■ indorser is regarded as wholly distinct from and independent of, the contract of the maker of the note. The maker may be bound only by the law of the place where the note is payable, but there being no stipulated place at which the indorser is to pay upon the default of the maker, his contract is governed by the law of the place where it was made; that is, the place at which the note is delivered, and his contract of indorsement first takes effect. Such we understand to be the meaning of the cases cited, and to be the law of this State.
+In the case at bar, Wogram, as the accommodation indorser, indorsed the note in this State, with the intention that it should be used and discounted here; and his contract of indorsement had no inception till the note was discounted by the plaintiff. Lange, though not an accommodation indorser, stands in the same position. Wherever his indorsement may have been written, he brought the note to New York and procured it to be discounted for his own benefit here, and here it was delivered. There being no question that a usurious interest was agreed to be paid, and was actually paid, we think that neither Lange nor Wogram is liable upon the note.
+Judgment reversed, new trial ordered, costs to abide event.
+Present, Charles P. Daly, Ch. J., and Joseph F. Daly and Van Hoesen, JJ.
