@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-03"
+citations: ["70 N.Y. Sup. Ct. 500"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J\"., and In&raham, J., concurred."]
+parties: ["ANN E. WYNKOOP, Appellant, v. MARY S. VAN BEUREN and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/70/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4641661
+cites_cases: ["19 N. Y. St. Rep., 677", "3 N. Y. St. Rep., 174", "61 How. Pr., 40", "71 N. Y., 111", "8 N. Y. Supp., 821", "85 N. Y., 646"]
+---
+
+# Wynkoop v. Van Beuren
+
+## Majority (O’Brien, J.:)
+
+O’Brien, J.:
+This action is brought to enjoin the defendants from injuring, disturbing or undermining a party-wall. Upon obtaining a preliminary injunction herein, plaintiff gave an undertaking conditioned upon the payment of such damages, not exceeding the sum of $1,000, which the defendants might sustain by reason of the injunction, “if the court finally decides that the plaintiff was not entitled thereto, such damages to be ascertained and determined by the court or by a referee.” This preliminary injunction was subsequently •dissolved; although the defendants answered, and the case was on the day calendar, it was never tried; but, on October 7, 1891, the plaintiff made a motion for leave to discontinue without the pay: ment of costs, which motion was opposed by the defendants, and was finally granted upon payment of costs. After the order of ■discontinuance was entered, the motion was made to ascertain and ■determine the damages sustained by the defendants by reason of the injunction, and an order was made thereon sending the same to ■a referee, from which order this appeal is taken.
+The principle point made by the appellant is that, as a matter of law, there not having been an actual final decision against the plaintiff’s right to an injunction, that the court had no jurisdiction to order a reference to ascertain the damages sustained by the •defendants by reason of the injunction. In support of this contention reliance is placed on the cases of Palmer v. Foley (71 N. Y., 111); Johnson v. Elwood (82 id., 362); Neugent v. Swan (61 How. Pr., 40, 42); Hall v. Sexton (19 N. Y. St. Rep., 677).
+In the first case cited it will be found, upon examination, that the court’s decision was placed upon the ground that no damages could be recovered because the action had been settled and discontinued by an amicable and voluntary agreement between the parties, and that virtually they had fixed their own damages. "Without, however, commenting upon and distinguishing the other cases relied upon by appellant, we must regard this question as settled in view of the decisions in, the case of Amberg v. Kramer (8 N. Y. Supp., 821), and Parker v. New York Commercial Telegraph Company (3 N. Y. St. Rep., 174), and particularly the case of the Pacific Mail Steamship Company v. Toel (85 N. Y., 646). These are all authorities which sustain the view that the discontinuance of the action by plaintiff, upon a motion which is opposed by defendants, is equivalent to a final determination that the plaintiff was not entitled to the injunction so as to make the sureties upon the undertaking given upon the injunction liable.
+We are, therefore, of the opinion that the order appealed from should be affirmed, with costs.
+Van Brunt, P. J"., and In&raham, J., concurred.
+■Order affirmed, with costs.
