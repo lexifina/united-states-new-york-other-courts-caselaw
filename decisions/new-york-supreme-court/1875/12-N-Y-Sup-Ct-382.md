@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1875-10"
-citations: ["12 N.Y. Sup. Ct. 382", "12 N.Y. Sup. Ct. 353"]
+decided_precision: "month"
+citations: ["12 N.Y. Sup. Ct. 382"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["THE PEOPLE OF THE STATE OF NEW YORK, Respondents, v. WILLIAM M. TWEED
 source_url: "https://static.case.law/ny-sup-ct/12/cases/0382-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11279861
-cites_cases: ["1 Bosw., 44", "1 Conn., 258", "10 How. Pr., 433", "11 How. Pr., 27", "12 How. Pr., 329", "12 Wend., 289", "14 Johns., 346", "14 Johns., 426", "15 Abb. Pr., 205", "15 Johns., 202", "16 N. Y., 344", "19 Johns., 269", "2 Hill, 379", "2 Hill, 384", "20 N. Y., 247", "21 How., 96", "21 N. Y., 578", "26 Wend., 143", "29 N. Y., 591", "33 N. Y., 501", "4 Abb. Pr., 209", "4 B., 7", "4 Duer, 642", "4 Hill, 166", "4 How., 304", "41 How., 350", "42 Barb., 513", "45 N. Y., 102", "53 N. Y., 322", "55 Barb., 9", "56 N. Y., 456", "56 N. Y., 74", "6 Hill, 578", "7 Abb. Pr., 308", "7 Hill, 104", "7 Hill, 197", "7 Wend., 511", "7 Wend., 512", "8 Barb., 81", "8 How. Pr., 285"]
+cites_cases: ["1 Conn., 258", "10 How. Pr., 433", "12 Wend., 289", "14 Johns., 346", "14 Johns., 426", "16 N. Y., 344", "2 Hill, 379", "2 Hill, 384", "20 N. Y., 247", "21 How., 96", "21 N. Y., 578", "29 N. Y., 591", "33 N. Y., 501", "4 B., 7", "4 Duer, 642", "4 Hill, 166", "4 How., 304", "42 Barb., 513", "45 N. Y., 102", "55 Barb., 9", "56 N. Y., 456", "7 Abb. Pr., 308", "7 Hill, 104", "7 Hill, 197", "7 Wend., 511", "7 Wend., 512"]
 ---
 
 # People v. Tweed
