@@ -1,0 +1,29 @@
+---
+court: "New York Superior Court"
+decided: "1874"
+citations: ["6 Jones & S. 59", "38 N.Y. Super. Ct. 59"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ERNEST HAYE v. EDWIN R. ROBERTSON and SAMUEL WINTERNITZ."]
+source_url: "https://static.case.law/ny-super-ct/38/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1408746
+cites_cases: ["1 Duer, 704", "12 Abb. Pr. 209", "13 How. Pr. 138", "16 How. Pr. 91", "18 How. Pr. 102", "2 Sandf. 690", "3 Sandf. 661", "7 Bosw. 699", "8 N. Y. 29"]
+---
+
+# Haye v. Robertson
+
+## Majority (Monell, Ch. J.)
+
+Monell, Ch. J.
+The specific award of costs to each of the defendants by the referee, is supposed to have been authorized by section 306 of the Code. That section provides that, “in other actions costs may be allowed or not, in the discretion of the court. 2. In all actions where there are several defendants not united in interest, and making separate defenses by separate answers, and the plaintiff fails to recover judgment against all, the court may award costs to such of the defendants as have judgment in their favor, or any of them.”
+The preceding section 304 provided that costs shall be allowed of course to the plaintiff upon a recovery in the following cases.. . . “2. In an action to recover the possession of personal property.” And by section 305,” costs shall be allowed of course to the defendant in the actions mentioned in the last section, unless the plaintiff be entitled to costs therein.”
+The decisions are conflicting in respect to the construction of these several sections. One in the court of appeals (Decker v. Gardner, 8 N. Y. 29), holding, in effect that the defendants are entitled to costs as of course; and others (Bulkley v. Smith, 1 Duer, 704 ; and Williams v. Horgan, 13 How. Pr. 138), that they are in the discretion of the court.
+But as the referee awarded costs specifically to each of the defendants, it is not material in this case, which construction of the section is correct. If the case was within section 305, then the defendants must have costs of course. If it is within section 306, they were in the discretion of the referee.
+It is necessary to refer to these sections, however, to determine the material question, whether the defendants are entitled each to a bill of costs, it not being disputed that one bill is allowable.
+The general current of decision has been against taxing two bills, when the defendants have appeared and answered by the same attorney, unless the defenses are different (Walker v. Russell, 16 How. Pr. 91). In this case they were the same as the claim for the return of the property, was not necessarily a part of the pleadings, and would follow of course a verdict for the defendant, (2 R. S. 531, §§ 53, 54 ; Castellanos v. Banville, 2 Sandf. 690 ; Columb v. Galdwell, 1 Code N. S. 41; Bridgeport Iron Co. v. Wilson, 12 Abb. Pr. 209; S. C., 7 Bosw. 699; Stone v. Duffey, 3 Sandf. 661). And I am unable to find any case where the right to two bills, has, under such circumstances, been upheld. The construction by the courts of section 306, has not required that they should determine what costs, or how many bills, the defendants were entitled to tax, but merely, that in certain actions, costs were in the discretion of the court (see the cases of Bank of Attica v. Wolf, 18 How. Pr. 102 ; Wilklow v. Bell, Id. 397).
+The court can not, under that section, determine what costs a defendant shall receive; nor whether there shall be one or more bills. Costs merely are awarded ; and then the taxing officer must decide, upon principles applicable to the question, what amount and what number of bills he will tax.
+Therefore in this case the taxing officer was wrong in not following the current and clear weight of authority, that under the circumstances of the case, there should be but one bill of costs.
+All that is meant by subd. 2 of section 306 is, that if one or more defendants succeed, he or they may, in the discretion of the court, have costs. It does not mean, nor can the court so award, that they shall or may have separate bills. t
+One of the taxed bills must be disallowed.
