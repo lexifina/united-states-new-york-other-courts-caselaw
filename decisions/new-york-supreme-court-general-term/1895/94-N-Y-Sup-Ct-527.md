@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-06"
+citations: ["94 N.Y. Sup. Ct. 527"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis and Ward, JJ., concurred; Werner, J., not sitting."]
+parties: ["Dennis Callahan, Despondent, v. William L. Matthews and Nellie P. Matthews, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/94/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4782672
+cites_cases: ["5 N. Y. 48", "73 N. Y. 609"]
+---
+
+# Callahan v. Matthews
+
+## Majority (Bradley, J.:)
+
+Bradley, J.:
+On the night of October 4,1893, the plaintiff, while passing along the west side of Prospect street in the city of Rochester, fell into a trench excavated across the sidewalk for the purpose of a lateral sewer to premises and buildings owned by the defendant Nellie P. Matthews there situated. The night was dark, and, on the part of the plaintiff, evidence was given tending to prove that there was no barricade there, and no light to guard against the danger to which persons were thus exposed, or to warn them of its existence. There was, however, a conflict in the evidence upon that subject.
+This question, as well as that of contributory negligence of the plaintiff, and as to the nature and extent of his injury, were upon the evidence questions of fact properly submitted to the jury. It is with some force urged on the part of the defendant Nellie P. Matthews that the evidence did not warrant the recovery against her. The defendants were husband and wife. The latter by her answer admitted that she was the owner of the premises and buildings adjacent to the street where the excavation was made, but denied that she occupied and had control of them, and alleged that the defendant "William L. Matthews occupied and controlled the premises for the purpose of erecting a building thereon for her. As the only evidence that she owned the premises is in such admission in the answer, it must be taken in connection with the other allegations in the same paragraph, and subject to the qualifications there given to it for the purposes of the question arising upon the charge of negligence as against her. (Gildersleeve v. Landon, 73 N. Y. 609.)
+The work of making the excavation and of the erection of the building on the premises, it may be assumed, was done under the immediate direction of the husband. By what relation to his wife he was doing the work does not appear by evidence of witnesses. But nothing appearing to the contrary, it might be presumed that in the performance of it he was engaged as her agent in the service. And in view of the fact that the wife owned the property, and as the improvements to the freehold were of a permanent nature, the allegation in her answer that the husband occupied and controlled the premises for the purpose mentioned, does not necessarily import that he was not engaged as her agent in performing the work. She alleged that he occupied and controlled the premises for the purpose of erecting a building thereon for her. The important fact is other than that of occupation and control of the premises, and is in what relation to her he was engaged in the performance of the work which produced the dangerous condition. This is not within the expression or fair meaning of the allegations referred to.. And the general rule is that a pleading will not be extended by construction in behalf of the pleader beyond what is the reasonable import of its language. The defendants were at liberty to prove that the work was done by the defendant William L. Matthews as an independent contractor for the other defendant, and such fact if established would have constituted a defense for her. (Blake v.. Ferris, 5 N. Y. 48.) But no evidence to that effect was introduced on the defense.
+And the fact that the defendants were husband and wife does not tend to support the proposition that his relation in the performance of this work on the premises of his wife was other than that of agent or servant.
+While the burden was with the plaintiff to prove every fact essential to 'the liability of the defendants, the presumption arising out of the relation of Mrs. Matthews to the premises as owner is available as evidence in support of the action against her.
+The jury were by the evidence permitted to find the verdict against both of the defendants.
+After a careful examination of the evidence given on the trial, and of the affidavits upon which the motion for a new trial on the ground of newly-discovered evidence was heard, no occasion appears for overruling the conclusion of the trial judge on the motion.
+The judgment and order should be affirmed.
+Lewis and Ward, JJ., concurred; Werner, J., not sitting.
+Judgment and order affirmed.
