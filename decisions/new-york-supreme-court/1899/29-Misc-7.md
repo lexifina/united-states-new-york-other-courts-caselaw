@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1899-08"
+citations: ["29 Misc. 7"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Albert Friedlander, Plaintiff, v. Emeline H. G. Condict et al., Defendants."]
+source_url: "https://static.case.law/misc/29/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 359842
+cites_cases: ["136 Penn. St. 294", "23 N. Y. Supp. 818"]
+---
+
+# Friedlander v. Condict
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+Under the claim for injunctive relief two questions come up: (1) The rights of the parties in Shinbone alley; (2) their rights in Cross lane. (1) As to Shinbone alley.— The plaintiff’s predecessor in title, William Israel, in 1825 caused a survey and map to be made of his property on the block in question on the southerly side of Bond street, upon which map the property was divided into lots and Shinbone alley laid out; and, in a writing recorded with the map and survey, the said Israel declared that the alley, “ as extending from Cross lane,” is laid out and appropriated to the lots fronting on Bond street and extending to the alley (which include the plaintiff’s), and that the exclusive use of the alley is attached to said lots, subject to the payment of all costs, charges and expenses of regulating, repairing and maintaining the same, and bearing payment and discharging all taxes and assessments to be levied or imposed thereon. Is the plaintiff, as the owner of lots thus designated by Israel, estopped from claiming the exclusive use of the alley in the rear of his premises as against the defendants, occupiers of lots immediately south of the alley, which lots are not among those designated? This controversy is not one between the public and a private individual; merely private rights are involved herein. The defendants maintain that they have the right to load and unload trucks on the alley, which is less than fifteen feet wide, in the rear of their and the plaintiff’s premises, while the plaintiff, relying upon the exclusive use of the alley appurtenant to his lots, and the actual exercise of that exclusive right for over forty years last past, attempts to enjoin the exercise of the claim asserted. Although there may have been a dedication of the alley to the general public for passage to and from contiguous streets, which limited dedication, however, might not impair the right of the owners to terminate snch privilege at any time (Weiss v. South Bethlehem Bor., 136 Penn. St. 294), the defendants have shown no dedication of the particular strip in question to the uses sought to be enjoined, nor have they by prescription any right to do such'acts. For, immediately prior to the defendants occupying their premises, and up to 1897, the Bank for Savings occupied the land; its building had stood thereon for over forty years; and during that time it not only made no use of the strip in question for any purpose, but it acquiesced in the exclusive use thereof by the plaintiff and his predecessors in title. It also appears that the plaintiff has paid taxes-on the alley for the past three years. It is clear, therefore, that the rights of the defendants in the alley are no greater than those,, if any, of the general public therein, and that the plaintiff is not estopped from seeking the relief prayed for as to said alley. See Knabe v. Levelle, 23 N. Y. Supp. 818. (2) As to Cross lane.— In 1806 Samuel Jones, who, with Antony L. Bleecker, owned all that part of the block in question, authorized the laying out and opening of Cross lane as a road and way for the sole use of him;self, his heirs and assigns. In 1810 the said Jones conveyed to-said Bleecker, defendants’ predecessor in title, certain premises, bounding the same northwesterly by the lane, and the land so conveyed is now the rear of defendants’ premises. The plaintiff has proved no right in the lane which can exclude the defendants from a lawful use thereof in connection with their business. As far as that strip of land is concerned, the rights of the parties, as remote grantees of Jones, are identical. The motion for an injunction will, therefore, be granted as to Shinbone alley, but denied as to' Gross lane.
+Ordered accordingly.
