@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12-04"
+citations: ["63 N.Y. St. Rep. 560"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ethan Akin, Resp’t, v. The Water Commissioners of Amsterdam, App’lts."]
+source_url: "https://static.case.law/ny-st-rep/63/cases/0560-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2102038
+cites_cases: ["118 N. Y. 231", "123 N. Y. 436", "140 N. Y. 463", "143 N. Y. 1", "28 St. Rep. 870", "34 St. Rep. 110", "55 St. Rep. 831", "60 St. Rep. 352", "93 N. Y. 507"]
+---
+
+# Akin v. Water Commissioners
+
+## Majority (Herrick, J.)
+
+Herrick, J.
+The commissioners to appraise the claimant’s damages were appointed without objection. The defendants, appearing by counsel, consented to an adjournment of the said motion for the purpose of agreeing upon the commissioners, and, upon such adjourned day, counsel for defendants again appearing, the commissioners were appointed without objection on the part of the defendants, the personnel of the commissioners having been apparently agreed upon. The defendants, by their counsel, appeared before the commissioners upon the assessment of damages, participated in the hearing, cross-examined the claimant’s witnesses, produced witnesses of their own, and at no time raised any objection to the authority of the commission to make the assessment of damages. After the commission made its award, the defendants, for the first time, so far as the record shows, raised objections to the authority of. the court to appoint such commissioners, and the authority of the commissioners to appraise claimant’s damages, by making a motion before the court for an order to set aside and vacate the order theretofore made appointing such commissioners to appraise and assess the claimant’s damages.
+1 think the objection comes too late. The question of jurisdiction should have been raised in the first instance. By going into court •and consenting to the appointment of commissioners, it seems to me that the defendants thereby foreclosed themselves from thereafter raising any question as to the power and authority of the court to make such appointment; and by thereafter going before the commission, and participating in its proceedings without objection, and taking the chances of a favorable result, they should not be permitted, upon being disappointed in their expectations, to raise the question of lack of authority or of any irregularity in the proceedings. Cowenhoven v. Ball, 118 N. Y. 231; 28 St. Rep. 870; Russell v. Randall, 123 N. Y. 436; 34 St. Rep. 110. If tire defendants had any right to have the question of the claimant’s damages determined by a common-law jury in an action at law, they waived that right by their participation in the proceedings in the manner I have stated. They had the right and the power to waive their constitutional and statutory rights, if any; and, having once done so, they cannot subsequently claim them. In re Cooper, 93 N. Y. 507; Russell v. Randall, 123 id. 436; 34 St. Rep. 110; Sentenis v. Ladew, 140 N. Y. 463; 55 St. Rep. 831; Mayor, etc., of New York v. Manhattan Ry. Co., 143 N. Y. 1; 60 St. Rep. 352.
+The order appealed from, denying the motion to set aside and vacate the order appointing commissioners, should, therefore, be affirmed.
+Upon the question of damages, there was a conflict of testimony before the commissioners ; and, while the preponderance of ■evidence appearing upon the record is rather in favor of the defendants, yet the commissioners viewed the premises alleged to ■have been injured, and are, therefore, much better able to determine what estimate of the damages was the nearest to being fair and just than the court can possibly be; and, while this court is not necessarily governed by the fact that the commissioners have made a personal inspection of the premises alleged to have been injured, yet that fact, together with the other one, that the damages awarded do not appear to be grossly excessive, it seems to me, calls for an affirmance of their decision, and of that of the special term, which confirmed their award.
+The appeals from both orders have been conducted and argued as one appeal. But one set of papers has been printed for both appeals. But one bill of costs is allowed. Let both the orders appealed from be affirmed, with costs and disbursements as of one appeal.
+All concur.
