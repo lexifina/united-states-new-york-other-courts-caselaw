@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1853-12"
+citations: ["9 How. Pr. 222"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Van Vechten and others, Trustees, &c., agt. Pruyn."]
+source_url: "https://static.case.law/how-pr/9/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2195592
+cites_cases: ["10 John 490", "4 Wend. 328"]
+---
+
+# Van Vechten v. Pruyn
+
+## Majority (By the Court—Parker, P. J.)
+
+By the Court—Parker, P. J.
+Where the holder of a note and the party entitled to notice both reside in the same city or town, the general rule is, that notice must be given to the party entitled to it, either personally or by leaving it at his domicil or place of business. Ireland agt. Kipp, (10 John 490; S. C. 11, ib. 231; Story on Prom. Notes, § 312, and cases cited in note.) In such case, service by mail is insufficient. The only exceptions to this rule are, where there is more than one post office in the city or town, or where the endorser, though residing in the same town, lives at a great distance from the post office, and receives his letters at a nearer post office in a neighboring town. Ransom agt. Meech, (2 Wend R. 587; Sheldon agt. Benham, 4 Wend. R. 129; Story on Prom. Notes, § 322.) In that case, notice may be served by depositing it in the post office, if there is a regular communication by mail. But if both parties reside in the same village, the service cannot be made through the post office. It is not enough in such case to leave the notice at the post office to be delivered to the endorser when he calls for letters, but if not served personally, it must be left at his domicil or place of business. The notice may be sent through the post office when it is to be carried by mail, but not when it is left for delivery only.
+In the case before us, therefore, a notice deposited in the post office at Catskill addressed to the defendant at Catskill, the place of his residence, would have been insufficient.
+But the notices were deposited in the post office at Catskill,' directed to the defendant at the city of New-York, where he kept his office for law business, and where he passed the greater portion of his time. And the question is thus presented, whether it was sufficient to send the notices by mail from the place of his residence to a place more than one hundred miles distant, when it would not have been sufficient to mail them at the place of his residence, directed to him at the same place. The defendant had a post office box at Catskill, and received letters there as well as at New-York; and it is evident the delay in sending to New-York must necessarily have been much greater than that which it is certain the law would not have tolerated in mailing it directed to Catskill.
+No adjudged case can be found sanctioning such a practice. In Morris agt. Husson, (4 Sand. S. C. Rep. 93,) both the maker and endorser resided in Brooklyn, and a notice, sent by mail to the endorser’s place of business in New-York, was held sufficient to charge him; but in that case it appeared the endorser had written “ 13 Chambers-street ” under his name, and the notice was sent to that place in pursuance of such direction. It is always competent for the endorser to direct to what place notice shall be sent. (Story on Prom. Notes, § 314.) In this case, the defendant gave no direction, and the plaintiffs were bound to pursue a strictly legal course to charge the endorser.
+It has been held that where a party resides in one town and does business and receives his letters in another, notice may be sent to either. Bank of Geneva agt. Howlett, (4 Wend. 328.) But that rule has never been applied to a case where an endorser resided and received letters at the post office in the same village in which the protest was made. In such case, I do not think it is sufficient to send the notice to the town where the endorser transacts business, though it appears that he also receives letters there. The mode of service would be different at the two places, and to give the holder his option as to the place where service should be made, would be permitting him to avail himself of the more dilatory service by mail, by sending. to the place of business, instead of making the personal or actual service to which the endorser would be entitled, if served at his residence. There is a good reason for enforcing the application of the rule laid down in the Bank of Geneva agt. Howlett, to cases where the notice is sent from neither the town where the endorser resides, nor from that in which he transacts business. In such case, the right to send notice by mail existing as to both, the endorser is not delayed or prejudiced by the holder enjoying the right of electing to which town he will send the notice.
+The service of notices in this case was not sufficient to charge the defendant as endorser, and judgment must be entered in favor of the defendant.
