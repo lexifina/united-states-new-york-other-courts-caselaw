@@ -1,0 +1,25 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1874-06"
+citations: ["5 Daly (N.Y.) 389"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William L. Troxell against John C. Haynes."]
+source_url: "https://static.case.law/daly-ny/5/cases/0389-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1303798
+cites_cases: ["1 Duer, 664", "15 Abb. Pr. 427", "50 N. Y. 128", "50 N. Y. 333", "52 N. Y. 654"]
+---
+
+# Troxell v. Haynes
+
+## Majority (Robinson, J.)
+
+Robinson, J.
+The object of this action was to enjoin the defendants in the use of an unpatented secret of trade, and this proceeding brings in review on appeal a decision made upon the rights of the defendants to enforce an undertaking in the sum of $500, given on the granting of a preliminary injunction. There were five defendants, and on the hearing upon the return of the order to show cause why the injunction should not be continued, that preliminary injunction was dissolved as to four of the defendants and retained as to the defendant Haynes. An expense of five hundred dollars was incurred by all of the defendants for counsel fees on that motion, but by reason of the retention of the injunction against Haynes, the damages of defendants on that motion have, upon a reference had under section 222 of the Code, been assessed at $400. Upon a subsequent trial on the merits, the complaint was dismissed as to all the defendants, and they recovered for costs $347 94, which included an extra allowance of $250. These costs have been paid, and the defendant and his sureties claim, and the judge from whose decision this appeal was taken has decided that such costs and allowance were to be deducted from the $400 assessed as defendant’s damages under the undertaking.
+As to the defendant Haynes, the motion to dissolve the injunction was denied, and it was continued until final judgment. Under these circumstances the respondents claim that such trial was necessary to determine the right to the preliminary injunction as to hiruj and that the taxed costs, including such extra allowance awarded the defendants “ in a difficult or extraordinary case after defense interposed or trial had ” (Code, § 309), were an indemnity to defendant (Code, § 303), that was to be considered gpro tanto as allowance for “ damages sustained by reason of the injunction.” No proof was offered or finding made by the referee that such extra allowance was in any way awarded in consideration of any services of counsel on the trial, or upon any employment or effort having special reference to the removal of the injunction, nor do I find any warrant in any of the authorities cited for holding that the general taxable costs arising in this action, including the extra allowance, and awarded by way of “ indemnity for the expenses of this action ” (Code, § 303), should be applicable, or considered with reference to such special damages as were occasioned by the issuing of the injunction. The language of the courts is uniformly to the contrary, and that none of the general costs of the action constitute any part of such damages (Coates v. Coates, 1 Duer, 664; Childs v. Lyons, 3 Robt. 704; Strong v. De Forest, 15 Abb. Pr. 427; Town of Guilford v. Cornell, 4 lb. 220; Hovey v. Rubber Tip Pencil Co. 50 N. Y. 333; Disbrow v. Garcia, 52 N. Y. 654). The case of Andrews v. The Glenville Woollen Co. (50 N. Y. 128) is an exceptional one, where the original motion to dissolve the injunction “ was not denied on the merits, nor for irregularity in making the motion, but because the court in its discretion thought it more advisable to defer the inquiry into the merits until the final hearing P In the present ease, the continuance of the injunction as against Haynes in no way appears to have been ordered upon any s.uch exceptional grounds, or that the hearing on the merits was at all deferred, or the motion decided otherwise than on the merits as they were then made to appear to the judge. The subsequent trial was then, as well as to him as to the other defendants, an ordinary trial necessary for the disposal of the merits, of the controversy. In such, case no counsel fees or costs of the trial are allowable as damages sustained by reason of the injunction, as is held in Hovey v. Rubber Tip Pencil Co., Disbrow v. Garcia, and other cases above cited.
+I am therefore of the opinion that the allowance by the judge of the taxable costs and extra allowance made on final judgment (and already paid) as part of the damages contemplated by the provisions of the undertaking, was error, and that the damages reported by the referee are not to be in any respect, for any of the causes stated, diminished or reduced.
+The order should, in this respect, be reversed, and an order made confirming the referee’s report, but I concur in the judge’s opinion that no final judgment should be entered upon the report, but leave should be given to prosecute the same.
+Larremore, J., concurred.
+Ordered accordingly.
