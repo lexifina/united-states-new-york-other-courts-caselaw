@@ -1,0 +1,44 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-07-11"
+citations: ["10 N.Y. St. Rep. 94"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Last Will and Testament of Hiram Vowers, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/10/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 647538
+cites_cases: ["46 Barb., 609"]
+---
+
+# In re the Last Will & Testament of Vowers
+
+## Majority (Bockes, J.)
+
+Bockes, J.
+By the will the testator gave his wife, the appellant, the use of the house and furniture therein for" life and an annuity of fifty dollars; such provision to be accepted by her “in lieu of her dower right and distributive share in my estate; she to make her election whether she accepts this provision in my will within sixty days from the time of proving the same.” It is claimed by the appellant that the widow was given a right of election either to accept the provision for her in the will or to refuse it and take as if her husband had died intestate. The widow bases her claim on the will, that is: that she is (not in terms but by implication) thereby given a right of election either to take the use of the house and furniture and the annuity, or to have her dower and a widow’s distributive share in the personalty; that such choice is given her by the will itself. We do not think the language employed hears this construction.
+There is no right of election or choice given to the widow to have one thing or the other, certainly not in terms. This latter is conceded. Nor is a right of election or choice given by fair implication. The gift of the use of the house and furniture with the annuity is absolute in terms. The right of election to accept or reject this provision for her in the will, and to have dower instead, is one given by statute; and this of course the testator understood. So he then added in effect that he made the provision for his wife as a substitute for what she would have been entitled to had he died intestate, recognizing her right of election between the provision in the will, and her right of dower secured to her by the statute. If the elected to take dower, the provision in the will, declared to be in lieu of dower, would go for nothing, and she would have only what she would be entitled to by law, in disregard of the will, whether by im • plication or otherwise. This would follow inasmuch as the provision rejected was entire, embracing all that the will gave her. There is here no gift of dower and distribution share in the estate in lieu of some other provision at her election. The language but declares the intention of the testator to the effect that the provision if accepted would be in full, and bar all claim by the widow to his property and estate. If not accepted, nothing would then be given her by the will; and she conld take only despite the will; that is, her dower protected to her by the statute. This conclusion is, as we think, supported by the reasoning of the court in {O’Hara v. Bever, 46 Barb., 609), affirmed in the court of appeals, 2 Keyes, 558. A bequest by inference or implication will be held to exist only when it is within the obvious intention of the testator, and has failed to receive explicit declaration in the will. It will not be held to exist in a case of mere slight probability, but only when the language employed, all the circumstances taken together, leave no doubt in the mind. 2 Bedf. on Wills, chapter 1, § 14.
+Our conclusion is that the case in hand does not show a bequest to the widow by implication, hence the decree appealed from should be affirmed, with costs of appeal against the appellant.
+
+## Concurrence (Landon, J.)
+
+Landon, J.
+I concur. The “distributive share" was not given by the testator to his widow, and, if we insert it as a gift by implication, we may make a gift for him which was not at all within his intention.
+
+## Dissent (Learned, J.)
+
+Learned, J.
+(dissenting). “Dower" is the interest for life which the widow has in one-third of her husband’s real estate. “Distributive share” means the share which a person takes in personal property in case of intestacy.
+Mr. Vowers made a provision for his wife and then said, “This provision to be accepted by my wife in lieu of her dower right and distributive share in my estate. She to make her election whether she accepts this provision in my will within sixty days,” etc.
+What did he mean that she should have if she did not accept this provision? Not simply dower, because he adds, “and distributive share in my estate.” We have no right to disregard these words as meaningless. They have a definite meaning, and in the absence of proof to the contrary we must suppose that the testator used them with that meaning.
+Further, instead of leaving his widow the statutory time to elect whether she would take the provision in lieu of dower, he provided that she should make an election within sixty days whether she would take this provision in lieu of dower and distributive share. This speedier election was important, if not necessary, if she was in one event to have a distributive share of the personal estate, because, at the end of the year, the general legacies would be payable. And this requiring a speedy election is some indication of the testator’s intent that she would, if she choose, have a distributive share of the personal estate.
+Then he must have expected that, if she did not take his provision, she would have both dower and her distributive share.
+Either this was his view, or else he used the words “distributive share” as synonymous with “dower right.” If the testator had expressly said, “If my wife does not accept this provision then I give her her dower right and distributive share in my estate;” there would probably be no doubt that she would have taken a share in the personal estate as in intestacy. O’Hara v. Dever, 3 Abb. Dec., 407.
+It seems to me that this is what he meant. There is no devise and bequest of the whole of his property to the nephew. The nephew is only given the rest and residue; that is, the rest and residue after the widow has made her election.
+We have no proof as to surromiding circumstances showing the amount of property and the like. The only fact that may be plainly inferred is that the deceased had no descendants. He, therefore, wished to provide for his widow first of all. He gave her a fife estate in house and furniture, and fifty dollars a year.
+But if she had not chose to take that, then she was to have her dower (which could not be taken from her without her consent) and that share of the personal estate which she would have had in case of intestacy.
+Very possibly the testator set the two things opposite each other in his-mind, thus: either the life estate in house and furniture, or dower in all the real estate; and either the fifty dollars annuity, or the distributive share of the personal.
+It is not a question as to the testator’s dying intestate in respect to any of his property. The only question is, whether he does not fairly imply that, if she does not accept this provision, she is to have what would be her distributive share in case of intestacy. In other words, did he not mean that she might take the testamentary provision; or, if she preferred, she might take just what the law would have given her of real and personal, in case of intestacy.
+It is hardly necessary to refer to the principle that wills are to be construed favorably towards the widow of the deceased.
+I think the testator intended that the widow, if she chose, should have her distributive share. If such intent can be found in the will, there is a legacy by implication. Therefore I think the decree should be reversed in this respect.
