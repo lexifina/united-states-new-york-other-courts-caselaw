@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1878-03"
+citations: ["20 N.Y. Sup. Ct. 441"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J., and Ingalls, J., concurred."]
+parties: ["WILLIAM L. SKIDMORE, as Receiver, etc., and as Special Guardian, etc., Plaintiff, v. JOSEPH HART, Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/20/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2357924
+cites_cases: ["23 N. Y., 285", "40 N. Y., 513", "42 Barb., 295", "45 Barb., 150", "54 N. Y., 186", "54 N. Y., 188", "62 N. Y., 493", "63 N. Y., 399", "7 N. Y., 521"]
+---
+
+# Skidmore v. Hart
+
+## Majority (Bbady, J.:)
+
+Bbady, J.:
+The defendant, by lease dated March 30, 1875, secured certain property for a term of ten years, commencing on the 1st of May, 1875, and agreed, during the term demised, to bear, pay and discharge all such taxes and assessments, extraordinary as well as ordinary, as should be levied, assessed, imposed or grow due and payable upon, out of, or for, the demised premises and all parts thereof as the same then existed, or might thereafter be imposed in accordance with the terms of the lease, by virtue of any present or future law of the United States of America, or of the State of New York, or of the corporation of the city and county of New York, or either of them, or by other legal proceedings or lawful authority whatever, when and as the same should become due and payable.
+The taxes for the year 1875 had not, on the first of May aforesaid, been determined. The obligation resting upon the land to discharge them or to incur the burden of a lien for the amount, so to speak, existed at the time the lease was executed, but they had not then been imposed, because the amount was not ascertained. They had not, therefore, been assessed; they had not grown due and payable and could not be levied therefore out of the demised premises. The preliminaries to the collection of the taxes were not and could not be completed, until the action of the board of supervisors in the month of July following the commencement of the term when the. rolls received from the assessors by the commissioners of taxes and assessments must be sent to the board of supervisors, a ceremony which takes place on the first Monday of July in each year (Laws of 1859, chap. 302, § 13). The supervisors are then required by law to place opposite to the several sums set down as the valuation of the real and personal property on the rolls, the respective sums in dollars and cents to be paid as a tax thereon, rejecting the fractions of a cent (Laws of 1850, chap. 121, § 25). It follows as a necessary sequence that the amount of the tax was unknown when the term began, and could not have been known until the month of July following. It would have been impossible, therefore, for the lessor to have paid them, or to have determined what the amount would be.
+It seems to be quite apparent, that the taxes having thus been ascertained subsequent to the commencement of the term, they grew due and became payable after the term commenced, and were within the operation of the covenant on the part of the defendant, and by wbicb we have already seen he promised to discharge all taxes and assessments which should, during his term, be levied, assessed, imposed or grow due. The question thus discussed seems to be determined in favor of the plaintiff by two cases in the Court of Appeals. (Dowdney et al. v. The Mayor, 54 N. Y., 186; Barlow et al. v. The St. Nicholas Bank, 63 id., 399.) It was expressly held in the latter case that the entry of land in an assessment-roll did not constitute an incumbrance thereon, and the assessment or the subsequent levying of the taxes thei’eon was not a breach of covenant against incumbrances contained in the deed, executed after the completion of the assessment-roll and before the levying of the taxes, and it is said in that case that the assessment is the basis upon which the board of assessors act in apportioning the taxes, but it is in no sense imposed as a charge upon the land described in the roll. It is one of the preliminary steps which result in taxation.. It is further said in that case, and properly, that the roll when complete fixes the valuation of the property to be taxed, but it does not determine the amount of the taxes, and the most which can be claimed is, that it renders more definite and certain the liability to taxation which nevertheless existed before the assessment was made. The cases are analogous, but the. covenant of the defendant is broader than the covenant against incumbrances, because it assumes the payment of all such taxes and assessments as shall be levied, assessed, imposed, grow due and become payable. The plaintiff, for these reason, is entitled to judgment.
+Davis, P. J., and Ingalls, J., concurred.
+Judgment ordered for the plaintiff.
