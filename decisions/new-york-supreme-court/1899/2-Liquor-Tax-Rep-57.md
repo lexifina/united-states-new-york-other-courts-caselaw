@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1899-04"
-citations: ["2 Liquor Tax Rep. 57", "2 Liquor Tax Rep. 63"]
+decided_precision: "month"
+citations: ["2 Liquor Tax Rep. 57"]
 reporter: "liquor-tax-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["In the Matter of the Application of Josiah V. Locklin for a Restraini
 source_url: "https://static.case.law/liquor-tax-rep/2/cases/0057-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1293519
-cites_cases: ["109 N. Y. 180", "144 N. Y. 189", "23 Hun, 696", "52 Howard, 453", "54 N. Y. 125", "76 Hun, 337"]
+cites_cases: ["144 N. Y. 189", "23 Hun, 696", "52 Howard, 453", "54 N. Y. 125", "76 Hun, 337"]
 ---
 
 # In re Locklin
