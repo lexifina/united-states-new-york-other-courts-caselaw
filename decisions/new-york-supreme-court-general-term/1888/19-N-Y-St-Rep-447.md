@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-24"
+citations: ["19 N.Y. St. Rep. 447"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary A. Foster, App’lt, v. James Easton et al., Ex’rs, etc., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650599
+---
+
+# Foster v. Easton
+
+## Majority (Bartlett, J.)
+
+Bartlett, J.
+The findings upon which the judgment in this action is based are amply sustained by the evidence. The purpose of the suit was to compel the defendants, as executors of James B. Bell, deceased, to pay to the plaintiff a sum of money alleged to have been-received by the defendants’ testator under an agreement on his part that he-' would safely invest the same as a trustee for the plaintiff, and pay.it over to her upon demand.
+It appears that the plaintiff acted as nurse and housekeeper in the family of the testator, and that his wife had caused her life to be insured for the plaintiff’s benefit. Upon the death of his wife the testator collected the insurance to the amount of seven hundred dollars ($100), and it is this sum which the plaintiff seeks to have impressed with a trust for her benefit. The trial judge has found that, after the receipt of this money by Mr. Bell, he made an arrangement with the plaintiff by which he might retain it for his 'own use, in consideration off a promise to make provision for the plaintiff in his will, and an agreement on bis-part to keep up a then existing insurance policy in the Wbyne County Co-operative Union Benefit Company, upon his own life for the plaintiff’s benefit. As a matter of fact, he did provide for the plaintiff in his will, by giving her the income of forty-five hundred dollars ($4,500), and the use of a house and lot for life. He also paid the premiums upon his insurance policy until the company by which it' was. issued failed and went out of existence.
+The gifts to the plaintiff are specified by the testator in his will to be made “in full payment and satisfaction of any claim or demand, she may or might have, or claim to have, or make against me or my estate by reason of any services rendered for me in my life-time.” It is strongly insisted, in behalf of the appellant, that this language-manifests an intent that the testamentary provisions in favor of the plaintiff, were intended only as a recompense for her services in the family of the testator, and were not meant to cover her claim for the insurance money. The-trial judge thought, however, that there was no doubt the deceased designed the provision which he made to be in lieu of all existing claims, and that the plaintiff so understood it.
+This view is probably correct, but if not, the testator appears to have complied fully with the conditions upon which he was allowed to retain the insurance collected upon the life of his wife, by keeping alive, for the plaintiff’s benefit, the insurance on his own life so long as the company lasted in which his policy had been taken out. There was not such a complete failure of consideration as to defeat the agreement.
+The order amending the answer, so as to conform to the proof, was properly made. The counsel for the respondents swears positively that it was granted when both parties were before the court, and without objection, and there is no denial of this explicit statement.
+There is no merit in the appeal from the order refusing to grant a new trial on the ground of surprise. The action was in form a suit for an accounting as to any sums of money received by the testator for the benefit of the plaintiff; and the answer was in substance a denial of any information sufficient to form a belief as to the main allegations of the complaint, and also a plea of the statute of limitations. The alleged surprise really consisted in the action of the court in receiving testimony in behalf of the defendant to establish the agreement which has been mentioned between the plaintiff and her uncle, under which he was allowed to retain the insurance on his wife’s life.
+It is asserted that the witnesses who gave testimony on this point, favorable to the defendants, could have been contradicted by the plaintiff herself, if the admission of such testimony had been anticipated, and the plaintiff, who was ill, had been able to be present at the trial. No suggestion of surprise, however, appears to have been made to the trial judge; nor was he requested to afford the counsel for the plaintiff an opportunity to procure the plaintiff’s testimony on this point, or to adjourn the court until she should have an opportunity to attend.
+If there was any surprise in the case it would seem to have been occasioned rather by the final decision than by anything in the proceedings on the trial, and it was not manifested early enough to afford a valid reason for granting a new trial.
+The judgment and order appealed from should be affirmed, with costs.
+Van Brunt, Ch. J., and Macomber, J., concur.
