@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-06"
+citations: ["94 N.Y. Sup. Ct. 341"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., and O’Brien, J., concurred."]
+parties: ["The People of the State of New York ex rel. The Knickerbocker Press, Appellant, v. Edward P. Barker and Others, Commissioners of Taxes and Assessments for the City and County of New York, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/94/cases/0341-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4788826
+cites_cases: ["19 N. Y. 408", "44 Hun, 545", "46 Barb. 325", "82 N. Y. 351"]
+---
+
+# People ex rel. Knickerbocker Press v. Barker
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+The relator was incorporated August 26, 1891, pursuant to chapter 561 of the Laws of 1890 (the Business Corporation Law) which requires that the location of the principal business office of corporations organized under it shall be stated in' the certificate of incorporation. In the certificate it is stated that the location of its principal office is in the city of New York. The business of the corporation is printing, binding and manufacturing books. Immediately after its incorporation it purchased land at New Rochelle, in the county of "Westchester, and there erected a factory whereat all of its manufacturing is carried on, and there the financial concerns of the corporation are principally transacted. "Where the corporation was assessed in 1893 does not appear, but in the year 1894 it was-assessed in the city of New York. The relator, asserting that it is not a resident of the city of New York and liable to taxation therein, obtained a writ of certiorari to review and set aside the assessment.
+The policy of this State is to require corporations organized under its laws to have a fixed residence or domicile which is deemed to be where it has its principal office or principal place of business. Section 3 of chapter 687 of the Laws of 1892 — the General Corporation Law — provides: “ The term office of a corporation means its principal office withifi the State, or principal place of business within the State, if it has no principal office therein. The office of a stock corporation shall be in the county, town or city in which its business is principally carried on.” Under this statute the terms- “ principal office ” and “ principal place of business ” are synonymous when used in respect to corporations organized under the laws of this State. When a business corporation is organized, its incorporators are required to select for it a domicile or place of residence which must be stated in the certificate of incorporation. It is formally reasons important that the residence or domicile of a corporation shall be a matter of public record. Annual reports and consents to mortgage the property must be filed in the office of the-clerk of the county in which the principal office of a corporation is-located, and notices to reduce or increase its capital stock must be published in the county wherein its principal office is located, and persons having occasion to inquire into the financial standing of a-corporation, or as to the validity of its mortgage bonds, should be informed by the public record at what office the inquiry should be made. In case the statute under which a corporation is organized requires that its principal place of business, or its principal office, be-designated in its certificate of organization, the statement is as against the coloration conclusive evidence of its residence, unless its residence has been changed pursuant to some statute. (Western Transportation Company v. Scheu, 19 N. Y. 408; The Oswego Starch Factory v. Dolloway, 21 id. 449; Miner v. Tillage of Fredonia, 27 id. 155; Matter of Metcalf v. Messenger, 46 Barb. 325 ; Chesebrough Mfg. Co. v. Coleman, 44 Hun, 545; The Union Steamboat Company v. City of Buffalo, 82 N. Y. 351.)
+It is urged that this rule will enable corporations to designate as their principal place of business some town in which taxes are low and remote from the real place of business of the corporation, and so substantially escape taxation. The statute requires that the certificate shall disclose the location of the principal office of the corporation, which “ shall be in the county, town or city in which its business is principally carried on.” The statement of the location of its principal office or place of business is a condition precedent, to the organization of a business corporation, and, should it appear that the location of its principal office was willfully misstated in the-certificate, or in case the corporation should change its principal place of business, without effecting a legal change of residence, for the purpose of evading taxation, it might present a case under section 1198 of the Code of Civil Procedure for the attention of the Attorney-General. ¥e think the corporation is concluded by its certificate from asserting that it is not a resident of or taxable in the city of New York.
+The order should be affirmed, with costs.
+Van Brunt, P. J., and O’Brien, J., concurred.
+Order affirmed, with costs.
