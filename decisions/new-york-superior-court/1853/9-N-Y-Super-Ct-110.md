@@ -1,0 +1,27 @@
+---
+court: "New York Superior Court"
+decided: "1853-03-26"
+citations: ["2 Duer 110", "9 N.Y. Super. Ct. 110"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Douglas v. Mayor, &c., of New York."]
+source_url: "https://static.case.law/ny-super-ct/9/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1328140
+cites_cases: ["1 Wend. 45", "11 Pick. 410", "19 Wend. 11", "26 Wend. 134"]
+---
+
+# Douglas v. Mayor of New York
+
+## Majority (. March 26.—Br the Court. Oakley, Ch. J.)
+
+. March 26.—Br the Court. Oakley, Ch. J.
+In compliance with the wishes of the plaintiff, as expressed by his counsel, and with the hope of putting- an end to the controversy, we have considered, and shall decide this cause upon its merits, as they appear upon the pleadings and evidenced
+Passing over the objection, then, to the jurisdiction of the court upon which alone the complaint was dismissed at special term, the main question, the liability of the plaintiff to be taxed as a resident of the city, it seems to us, is free from difficulty. It has, in effect, been already decided by this court, in the case of Bartlett v. The City of New York (5 Sand. S. C. R. 44), if not by the j udgment then pronounced, yet by the reasoning upon which the judgment was partly founded. The published opinion of the tyro distinguished judges by whom that case was determined, commands throughout our entire assent. In this case, as in that, the argument for the plaintiff rests entirely upon an erroneous construction of the word “ resides,” in the 5th section of the general act; a construction by which residence and domicil are made in effect equivalent and convertible terms. It may be quite true that a person can have but one domicil, but it is certain that he may have two residences, for such is the case with every man of fortune, who, like the plaintiff, has a town house and a country seat, in each of which he dwells at different seasons of the year, with the intention of making each his permanent abode for a.limited period. (Frost v. Brisbane, 19 Wend. 11.) The residence of the plaintiff in 1850, and for several preceding years, was just as certainly in this city during the winter and spring, as in Flushing during the summer and autumn. He was, therefore, a resident of the city, liable to be taxed as such when the assessment was made, of which he complains, and as the regularity of the proceeding against Mm, if he was so liable, is not denied, he is bound to pay the tax large as it may seem, for the collection of which he suffered a warrant to be issued.
+It may also be true, as was contended, that Flushing was the plaintiff’s true and only domicil,. although we should have great difficulty in so holding were it necessary to determine the question; but we are unable to see that this fact, if proved or conceded, has any bearing upon the argument. In most cases, when a person has two residences, one of them is also his domicil; but we apprehend that his residences, in the legal and statutory sense of the term, are just as distinct as if both, as might be the case (In re Thompson, 1 Wend. 45) were separated from his domicil.
+It is not asserted or supposed that the plaintiff, or any other citizen, is liable to be taxed twice in the same year for the taxes of the year; but it only follows, not that his assessment in this city was unlawful, but that he ought not to have been afterwards assessed in Flushing. His assessment here between January and April was a legal bar to Ms assessment in Flushing between May and July; and if he chose to submit to this assessment, and pay the tax demanded, he has himself only, or the advice which he received, to blame. The law imposed upon him no such necessity, and we cannot relieve him from the consequences of his voluntary act.
+As the act of March, 1850, amending the 5th section of the general act, was not in force as law when the assessment in this case was «made, we do not think that its provisions can, with propriety, be referred to, as sustaining the legality of the assessment. Had the act been in force, its application to this case might well be doubted. The plaintiff was not engaged in any gainful pursuit, and had therefore probably no place of business within the meaning of the law. His only business was to receive and spend an ample income.
+The provisions of the act are, however, a legislative recognition of the fact that a taxable citizen may have two or more residences, and a declaration of the sense in which the word “ resides” ought to be construed in the section amended, in its original form. Such a declaration we, indeed, think was unnecessary; but had the question been in reality doubtful, we should probably have allowed it to decide our judgment.
+Without adverting at all, however, to the Act of 1850, as a ground or motive for our decision, our conclusion from the pleadings and evidence is, that the plaintiff, as a resident of the city, was rightfully assessed for the tax, the payment of which he has resisted; and, consequently, that he has no claim to the relief, or any part of the relief, which he seeks. The judgment at Special Term, dismissing his complaint, is therefore affirmed, with costs.
+We are not to be understood as intimating any opinion as to our jurisdiction; but it is not to be denied that the present union in this court of legal and equitable powers may have given a new aspect to the question.
