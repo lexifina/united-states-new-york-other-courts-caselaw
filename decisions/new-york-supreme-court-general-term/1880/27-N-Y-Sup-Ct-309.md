@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1880-03"
+citations: ["27 N.Y. Sup. Ct. 309"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J., and Bakkett, J., concurred."]
+parties: ["ORLANDO E. BRADFORD, Plaintiff in Error, v. THE PEOPLE OF THE STATE OF NEW YORK, Defendant in Error."]
+source_url: "https://static.case.law/ny-sup-ct/27/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11278817
+cites_cases: ["27 N. Y., 329"]
+---
+
+# Bradford v. People
+
+## Majority (Brady, J.:)
+
+Brady, J.:
+The principal question presented for consideration upon this appeal is, whether, under the statute relating to abortions, it is necessary for the People to show, in order to secure a conviction under its provisions, where an instrument has been used, that the use of the same was not necessary to preserve the life of the mother or of the child; in other words, to prove that .the case is one not excepted by the provisions of the statute. This precise question has not been decided by any adjudication in this State ; but the doctrine by which it is to be controlled is to be found in the decision of the Court of Appeals in Fleming v. The People (27 N. Y., 329). In that case the court, in construing the statute defining and punishing bigamy, held that, notwithstanding there Were certain exceptions in it, the indictment need not set forth that the offence charged was unaffected by those exceptions, and also that as matter of evidence the onus próbandi was upon the prisoner to show that his case was covered by one of the exceptions, and therefore not within the statute. This decision is in accordance with the ruling in the case of the Apothecaries' Company v. Bentley (Ryan & Moody, 159), which was a suit for a penalty, charging the defendant with practicing as an apothecary without the certificate required by law, in which it was determined that the burden was upon the defendant to prove the possession of the certificate. This was grounded upon the doctrine well stated in the note to 1st Phillips on Evidence (5th Am. ed.), 695, in which it is said: “ In cases where the negative does not admit of direct pijpof, or the facts lie more immediately within the knowledge of the defendant, he is put to his proof of the affirmative.” It is true that the general rule is, that where an offence is created by statute and negatives are employed in the enacting part descriptive of the offence, the burden of proving that negative lies upon the prosecution. ' But this rule must be taken, says Phillips, at page 821, subject to another,. namely, that the burden of proof lies upon the person who is to support his case by proof of a fact which lies more peculiarly within his knowledge and of which he is supposed to be cognizant. And Mr. Phillips, by way of illustration, instances actions for penalties under the old game laws where, although it was necessary that the plaintiff should aver the absence of certain qualifications, it was repeatedly held that the defendant was bound to show himself qualified.
+It seems to be a just rule, that when an instrument is employed in cases of pregnancy, there should be proof of the necessity for its use, or at least, when employed by a professional man, proof of a conviction honestly entertained and conscientiously exercised that the instrument was necessary for the preservation of the mother or the child as contemplated by the statute, and that' this .proof should be made by the physician or expert using the instrument. Whether, under any given state of facts, the use of an instrument would be requisite, would be necessarily more within the knowledge of the person making tire examination for the purpose of determining that fact than of any one else, unless he were attended by associates who assisted in the examination and participated in the judgment that the rise of the instrument was necessary or judicious. It is not at all likely that courts in the administration of justice would require more, in explanation of the operation performed, to overcome the existing penalty than that an honest judgment was exorcised declaring the necessity of resorting to an instrument for the purpose of relieving the mother or saving the child.
+But, even if this view of the question be erroneous, it cannot be held 'that the absence of necessity may not be determined by circumstantial evidence bearing upon the subject, and calculated, when the circumstances are grouped, to demonstrate that the instrument was not necessarily employed. In this case the real issue on this subject was not whether the plaintiff' in error did what was charged against him legally, and in good faith, but whether he did 'it at all.
+He denied the commission of the offence, and prepared a certificate which falsely assigned consumption as the cause .of death, and suppressed the fact, confessedly within his own knowledge, that, a few weeks before her death, the deceased had suffered from a miscarriage, the fact also being beyond dispute that the death was caused by the abortion.
+These circumstances, together with others developed on the trial, were sufficient, we think, to justify a conviction that his use of the instrument was not predicated either of its necessity, or of his honest judgment, that such necessity existed. Indeed, his denial, and his general attitude with regard to the offence, is such as to make it indisputable that, if he used the instrument, it was unlawfully and improperly employed.
+The result of the consideration of this branch of the case is, therefore, that the plaintiff in error cannot derive any advantage from the proposition suggested.
+We have examined the other exceptions in the case, and without any extended comments upon them, which we deem unnecessary, we dispose of them by saying that they are not, nor is any of them, well taken.
+The evidence seems to have demonstrated, beyond reasonable doubt, the guilt of the plaintiff in error, whose case was fairly submitted to .the jury, and who had the benefit of all the rules which he could properly call into requisition.
+The judgment should be affirmed.
+Davis, P. J., and Bakkett, J., concurred.
+Judgment affirmed.
