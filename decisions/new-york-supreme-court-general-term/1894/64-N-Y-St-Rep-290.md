@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12-10"
+citations: ["64 N.Y. St. Rep. 290"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Probate of the Will of Myra Clark Gaines, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/64/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2104645
+cites_cases: ["95 N. Y. 55"]
+---
+
+# In re the Probate of the Will of Gaines
+
+## Majority (Cullen, J.)
+
+Cullen, J.
+This is a motion made by the appellants at general term to punish certain of the respondents for contempt. Mrs. Gaines died a citizen of New York, domiciled in the county of Kings. Proceedings were instituted in that county for the probate of her will, and from a decree of the surrogate admitting the will to probate an appeal was taken to this court, which is still pending before us. Substantially the whole estate consisted of personalty in New Orleans, in the state of Louisiana. There had been litigation between the parties in that state, which it is unnecessary to recite further than to say that an alleged holographic will was there offered by appellants and rejected, and an administrator appointed. After the appeal had been taken from the degree of the surrogate of Kings county, some of the respondents, whom it is now sought to punish for contempt, applied to the courts of Louisiana for the distribution of the fund held there in accordance with the terms of the will proved here, which application was granted. The others received their shares under the distribution, but did not make application for the distribution. The affidavits presented on this motion and the opinion of the supreme court of Louisiana clearly show that that court knew the fact that an appeal was pending from the surrogate’s decree, and also the effect of such an appeal in staying proceedings. But, even if it were shown that the Louisiana court had been imposed upon, we are at a loss to see how that imposition could be a contempt of this court. This application must rest solely on the effect of the statutory stay of proceedings given by section 2582 of the Code. We think that the provisions of the Code can have no extraterritorial force, and can effect only proceedings in this state. It is true that by control of the person of a party a court of this state may, by.injunction, restrain his action in other jurisdictions; but this is not such a case. The assets distributed were .in the state of Louisiana, and were therefore solely under control of the courts of that state. The administrations in different states of a single estate are, as a matter of jurisdiction, entirely independent, and it is a mere matter of comity that treats the administration of the domicile as principal and the others as an ancillary. Williams, Ex'rs, 363, Story, Confl. Law, §§ 513, 518; In re Hughes, 95 N. Y. 55. It was a question of judicial discretion whether the courts of Louisiana would ever transmit the fund to this state. In re Hughes, supra. The tribunals of Louisiana being, therefore, the dominant arbiters of the distribution of a fund under their control, the stay given by the statute of this state did not deprive the respondents of the right to appeal to such tribunals for a determination of their rights to that fund. The motion should be denied, with $10 costs and disbursements. All concur.
