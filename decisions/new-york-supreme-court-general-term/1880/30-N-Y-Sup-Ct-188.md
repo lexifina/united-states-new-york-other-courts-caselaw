@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1880-12"
+citations: ["30 N.Y. Sup. Ct. 188"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnard, P. J., concurred; Gilbert, J., not sitting."]
+parties: ["JOHN R. RICHARDSON, Appellant, v. JOSHHA DRAPER and JAMES B. HULSE, as Assignees of ELISHA B. WHEELER, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/30/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1913987
+cites_cases: ["1 Hun, 680", "12 Johns., 142", "12 Wend., 439", "21 Wall., 241", "21 Wall., 246", "3 N. Y., 271", "33 N. Y., 615", "38 N. Y., 615", "47 Barb., 29", "49 N. Y., 385", "5 Sandf., 330", "72 N. Y., 481", "77 N. Y., 480", "9 N. Y., 290"]
+---
+
+# Richardson v. Draper
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+There is money in the hands of the defendants in this action, which they hold as assignees of Elisha P. Wheelei’, deceased, under a general assignment, for the benefit of creditors.
+Certain persons desire to share in the distribution of this fund, whose claims have this foundation:
+There was, in the days of Elisha P. Wheeler, a domestic corporation, known, as the Nes Silicon Steel Company, with its place of business in the village of Rome, Oneida county, in this State. This corporate body issued its bond for $150,000, dated October 28, 1872, payable to L. S. Hubbard, trustee, or bearer, at the Fourth National Bank, in the city of New York, on January 1, 1878. The payment of the bonds was secured by a mortgage on real property of the company, at the city of Sandusky, in the State of Ohio, and all the bonds were given to the citizens of that city, for a loan by them to the company of that amount.
+The payment of this loan was guaranteed by Elisha P. Wheeler and others, by a joint guaranty. The bonds have not been paid, and now the holders claim to be creditors of Wheeler and entitled to share in the distribution of the funds held by the assignee. The guaranty was signed in October, 1872. The assignment to Í the defendants was made in December, 1874. Mr. 'Wheeler died in March, 1876, and the bonds in question came due January 1, 1878; they were, therefore, in immaturity at the time of his death.
+Outside of the guaranty, Wheeler was in no way liable for the payment of these bonds. By that contract he became surety only, and that is the limit of his obligation. By settled law with us his death terminated his liability, and discharged his estate both in law and equity, and left the surviving guarantors alone subject to this contract. (Getty v. Binsse, 49 N. Y., 385; Wood v. Fisk, 63 Id., 245 ; Risley v. Brown, 67 Id., 160.)
+Since the making of this contract, the legislature has enacted a provision that the estate of a party jointly liable uj>on contract with others shall not be discharged by his death. (Code of Civil Procedure, § 758.) This new rule of liability, however, can be allowed no force in this case under the inhibition of the Federal Constitution forbidding the passage of any State law impairing the obligation of contracts. It would enlarge the liability of the parties and change the intention of their stipulation, and thus impair their contract. (Randall v. Sackett, 77 N. Y., 480.) If, therefore, there was no other point upon which the determination of this case depended, the demand of the Ohio claimants would be disallowed and the judgment below reversed.
+By far the most serious question in the case, however, remains yet to be examined. Thus far the examination has proceeded upon the theory that the guaranty was a New York contract, and controlled by the law of this State. The contention of the claimants on the other hand is, that it is an Ohio contract and must be interpreted by the law dominant in that State, and this claim must now be examined. At the time the guaranty in question was made there was a statute of the State of Ohio, providing “ that when two or more persons shall be indebted upon any joint contract, and either of them shall die, his estate shall be liable therefor as if the contract had been joint and several, or as if the judgment had been against himself alive.”
+x This guaranty is a new and independent contract, and has in it no place of performance specified. It runs to the trustee Plubbard and the bondholder, and the recital is that it was to be ■deposited with him for the benefit of the holders of bonds. The law is, that the rights of parties to lawful contracts are determined by the law of the place of performance. Where was that place for this contract? It had no inception as such ■until its acceptance by the bond-holder. To that time it rested in proposition merely, and might have been revoked and withdrawn. Until that time the mutuality essential to its validity was wanting. After such acceptance, the guaranty became a con-bract, and not before. That took place in the State of Ohio, and it ;seems to result that the guaranty there first had inception as a binding contract, for it was sent there with intention that it should first be used in that State.
+In the ease of Tilden v. Blair (21 Wall., 246), a draft was drawn at Chicago, on Tilden & Co., and accepted by them, payable in New York, and then the draft was returned to Chicago, with the intention that it should be there negotiated, and the court said: “ In legal effect they accepted the draft in Chicago, when, by their .authority, the drawer negotiated it, and thus caused effect to be given to their undertaking. Nor is the law' of the contract changed by the-fact that the acceptance was made payable in New York. The place of payment was doubtless designated for the •convenience of the acceptors or to facilitate the negotiation of the draft. But it is a controlling fact, that before the acceptance had any operation, — before the instrument became a bill, the defendants sent it to Illinois for the purpose of having it negotiated in that State.”
+The general rule of law is that a contract takes effect, as such, at the place where it was intended to be delivered, and become operative, and the liability of the pai-ties is determined by the law of that place. (Lee v. Selleck, 33 N. Y., 615; Tilden v. Blair, 21 Wall., 246; Wayne Co. Bank v. Low, Court of Appeals, not yet reported.)
+In this case it was clearly the intention of the parties that the guaranty should be forwarded to Sandusky, and there become operative, as a contract with the trustee and the bond-holder. Our conclusion, therefore, is that the contract is controlled by the statute, and that the judgment appealed from must be affirmed, with costs.
+The motion to dismiss the appeal must be denied, without deciding the question respecting the right of the assignees to appeal. There is an appeal by the plaintiff, who has sufficient interest to make it.
+The motion to dismiss appeal should be denied, with costs and disbursements.
+Barnard, P. J., concurred; Gilbert, J., not sitting.
+Judgment affirmed, with costs, and motion to dismiss appeal -denied.
