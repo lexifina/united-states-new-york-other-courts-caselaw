@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-12"
+citations: ["62 N.Y. Sup. Ct. 61"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["All concur."]
+parties: ["REUBEN W. GIFFORD, as Receiver of the Property of CHAUNCEY W. RISING, a Judgment-debtor, Respondent, v. CHAUNCEY W. RISING, JANE RISING, his Wife, ARETUS W. RISING, Appellants, and Others."]
+source_url: "https://static.case.law/ny-sup-ct/62/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4603024
+cites_cases: ["15 N. Y., 723", "3 Hun, 519", "51 Hun, 1", "92 N. Y., 152", "93 N. Y., 153"]
+---
+
+# Gifford v. Rising
+
+## Majority (Dwight, J.:)
+
+Dwight, J.:
+The action was in the nature of a creditor’s bill and was brought by a receiver appointed in proceedings supplementary to execution, against the property of the defendant Chauncey W. Rising. The effort was to reach the interest of the judgment-debtor in a bequest made by the will of his father. The bequest was of an annuity of $200, payable semi-annually to the judgment-debtor and his wife, for their support and that of their family during their lives, and was charged upon the real estate devised to the defendant Aretus W. Rising as part consideration of such devise.
+This court held on a former appeal (51 Hun, 1), that no trust was created by this devise and bequest; that the devisee Aretus became personally liable to pay the annuity, upon his implied promise on accepting the devise, and that the interest of Chauncey was liable for his debts, and might be reached in equity for their payment. All this is conceded on the present appeal, and the question raised is as to the extent of the interest of the judgment-debtor in the annuity and the amount due to him thereon at the time of the commencement of this action. The referee held, in effect, that during the joint lives of the two annuitants the husband was entitled to the entire annuity and that the whole was liable for his debts. Thereupon— it appearing that the amount of the annuities remaining unpaid at the time of the commencement of this action, with interest from the time each payment became due, was in excess of the judgment on which the plaintiff was appointed receiver, with interest and the costs of supplementary proceedings — judgment was directed against the defendant Aretus for the full amount of such judgment, interest and costs.
+The defendant’s exceptions to the conclusions of the referee fairly present the principal question raised by this appeal, viz., whether an annuity given to the husband and wife belong solely to the husband during the joint lives and is wholly liable for his debts. Under the doctrine of Bertles v. Nunan (92 N. Y., 152) we cannot doubt that the question was correctly answered by the referee in the affirmative. That case held that the common-law rule, as to the effect of a conveyance of real estate to a husband and wile jointly, had not been abrogated by the married woman’s acts in this State, and quotes, with approval, the language of this court in Beach v. Hollister (3 Hun, 519) viz.: “ Those statutes operate only upon property which is exclusively the wife’s and were not intended to destroy the legal unity of husband and wife or to change the rule of the common law governing the effect of conveyances to them jointly.” (See, also, Sanford v. Sanford, 15 N. Y., 723.) It is true that in Bertles v. Hunan, the husband being already deceased, the question was not necessary to be determined and was reserved, whether during the joint lives of husband and wife the lands so conveyed could be sold for the husband’s debts, or the use and profits thereof be entirely appropriated by him; but the doctrine of that case leads to no other result, and the implication is clear that the common-law rule in that respect had not been changed. That the same rule applies to personal as to real property admits of no question, and an annuity charged upon réal estate and constituting a lien thereupon partakes of the nature of both. In Sanford v. Sanford (supra), it was held, in regard to a chose in action taken in the name of husband and wife, that “ during the husband’s life it was subject to his control and the wife had no legal interest therein until his decease.”
+We believe that the question in this case was properly decided by the referee and that the judgment entered upon his report must be affirmed.
+All concur.
+Judgment affirmed without costs to either party.
