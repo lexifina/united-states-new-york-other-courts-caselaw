@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-13"
+citations: ["24 N.Y. St. Rep. 603", "1 Silv. Sup. 351"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Bigler, Pl’ff and Resp’t, v. The New York and South Brooklyn Ferry and Steam Transportation Co., Def’t and App’lt."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024297
+cites_cases: ["36 N. Y. 388", "36 N. Y., 388", "4 Barb. 614", "4 Barb., 614"]
+---
+
+# Bigler v. New York & South Brooklyn Ferry & Steam Transportation Co.
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This action is for the recovery of the balance upon a contract for building two iron ferry boats. The parties entered into an agreement in writing, in June, 1886, by which the plaintiff undertook to build two boats for the defendant, and deliver them in New York on or before the 1st day of January, 1887, for the sum of $72,000 each, and the sum of sixty dollars a day was fixed and liquidated as damages for the delay beyond that date.
+After the construction of the boats had been commenced, and on the 7th day of September, 1886, the parties executed a supplemental agreement for the construction of a deck saloon upon each of the vessels, for the additional sum of $5,000 each. The last contract contains a proviso against the extension of the time for the performance of the first contract, but fails to provide for any damage for failure to complete the additional work within the limit of time specified in the original agreement.
+One of the boats was completed and delivered in April, 1887, and, as we understand the case, the boat was accepted, and all claims for deduction, in respect to that boat, were compromised and adjusted at the time of such delivery.
+The second boat was also completed, delivered and accepted in August, 1887, but the defendant deducted and reserved from the amount due for the construction of that boat the sum of sixty dollars a day for 220 days, from January 1st to August 9, 1887, under the claim for liquidated damages, amounting to the sum of $13,200, and this action is brought to recover that sum of money, with a balance of $212.50 for extra work on the second boat.
+To excuse the delay in the completion of the boats, and the failure to deliver the same within the time limited in the original agreement, the plaintiff introduced proof tending to show that after the execution of the supplemental contract, much extra work was done upon the boats, by the direction of the, defendant, which was not required by the contracts and specifications.
+The proof also tended to show that subsequent to the first day of January, 1887, the time specified for the completion of the boats, the defendant ordered and caused many changes and alterations in the character of the work upon the boats and their style and finish, and discarded Work already done upon them in accordance with the contracts, and that such alterations changed the material to be employed and the kind of work to be performed.
+The president and superintendent of the defendant were both aware of the condition and progress of the work upon the boats in the different stages of their construction, and of the delay which necessarily resulted from changes in the mode of construction, and with all such knowledge most of the additions, alterations and changes were ordered and directed by them after the first day of J anuary, 1887, the date originally fixed for the completion of the boats.
+The trial of the cause was before the court without a jury, and the plaintiff recovered the amount of his claim, excepting $1,200, which was deducted for twenty days of delay charged to the plaintiff," at sixty dollars a day.
+The trial judge found the facts as they were claimed by the plaintiff, and found that the delay in the delivery of the second boat was caused wholly by the defendant, as we have seen already the damages for delay in the delivery of the first boat were compromised upon its delivery, and form no part of the claim in this action.
+Judgment has been entered upon the decision of the judge, and the defendant has appealed therefrom.
+In our view, the success of the defense interposed by the defendant in this action, would be little less than a reproach to the administration of justice.
+Under the original contract between the parties, the defendant could force from the plaintiff the sum of sixty dollars for every day of delay in the delivery of the boats, after the first of January, 1887, and yet, with full possession of knowledge of that fact, the officers of the company directed changes and alterations in the work which they knew would necessitate much delay, and many of such changes were ordered long after the time originally fixed for the close of the work.
+The law can place but one construction upon such con duct. It constituted a plain case of waiver of the provisions of the contract.
+The orders and directions of the officers of the defendant to proceed with the work, after the first day of January, 1887, justified the plaintiff in the belief that the delay necessitated by the work directed to be done by him, met with the acquiescence of such officers. Such was the only natural inference to be drawn from their conduct. It was more than a consent to the delay ; it amounted to a positive direction for delay, and so constituted a waiver of the provisions of the contract, and a waiver to all claim for damages, by reason of such delay, and. an extension of the time for the performance of the work.
+Although the judgment in this case stands fully justified by legal principles, yet it stands equally well upon adjudicated cases. Smith v. Gugerty, 4 Barb., 614; Stout v. Jones, 9 N. Y. State Rep., 570; Stewart v. Keteltas, 36 N. Y., 388; Gallagher v. Nichols, 60 id., 438.
+We find no errors, and the judgment should be affirmed, with costs.
+All concur.
