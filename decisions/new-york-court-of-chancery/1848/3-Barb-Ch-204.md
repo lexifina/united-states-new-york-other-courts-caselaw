@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1848-06-05"
+citations: ["3 Barb. Ch. 204"]
+reporter: "barb-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sackett vs. Giles and others."]
+source_url: "https://static.case.law/barb-ch/3/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1997900
+---
+
+# Sackett v. Giles
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The bill in this cause was not filed until January, 1845, although it charges a series of acts of cruelty committed by the husband, against, the wife, commencing as early as 1834, and terminating ten years afterwards; when the parties finally separated. The general liens of Thompson, and the other judgment creditors of the husband, upon the interest of the latter in the real property of his wife, and which liens had not been converted into an interest in the land itself at the time of the filing of the complainant’s bill, are subservient to the paramount right of tire wife to the immediate use of the land, upon her substantiating her right to a decree of separation for the misconduct of the husband. I had occasion to examine that question in the case of Van Duzer v. Van Duzer, (6 Paige’s Rep. 366,) although that point did not directly arise in the cause then under consideration ; and upon a re-examination of the subject, I see no reason to change the opinion there expressed.
+But even if the alleged acts of cruelty on the part of the husband, previous to the recovery of the judgment under which the defendant Thompson became the owner of the husband’s life estate in the property, had been sufficient to have entitled the complainant to a separation, Thompson is entitled to protection as a bona fide purchaser. The judgment of Raymond was recovered in 1840, and the husband’s interest was sold, by virtue of an execution upon that judgment, as early as February, 1843; nearly a year and a half before the separation between .the complainant and her husband. And the parties were still living together as husband and wife when the defendant Thompson redeemed and took the title to the premises in May, 1844; without any notice that Sackett had ever treated his wife unkindly, or that there was any equity on her part which could affect the interest he was to acquire by the payment of the money which had been bid upon the sale under the prior judgment. The right of the husband to redeem the premises from the sale was at an end at the expiration of twelve months. It was therefore wholly immaterial to the wife whether the original purchaser, or the redemption creditor, obtained the legal title at the end of three months thereafter. For in neither case would she have the right to redeem the premises upon paying the amount of the original bid and interest.
+Again ; I think the complainant failed to show such a case of cruelty, on the part of the husband, previous to the decree in bankruptcy, as would have justified this court in decreeing a separation. No person was present'at. the time of the alleged blow ir 1834, and the husband and wife differed as to the facts which jccurred. If his statement was true, she was the aggref/Mr; and his conduct, although not justifiable, was excusably. And no court having a due regard to the sanctity of the mo.riage relation, would decree a separation for that cause. It is '¡.rue, the husband suffered the bill to be taken as confessed. B it as the complainant waived the right to a sworn answer, no inference can arise, to the prejudice of third parties, by the neglect of the husband to make a defence. I think, therefore, that the complainant showed no right to interfere with the legal title to the husband’s life estate in the part of the premises which Thompson acquired under the sheriff’s deed in May, 1844 ; or in the residue of the premises, the legal title to which became vested in the defendant Waddell, as assignee under the decree in bankruptcy.
+For these reasons the suit must have wholly failed as against the defendants Thompson and Waddell, in case the husband of the complainant had lived, and if she had succeeded m obtaining., a decree of separation from him, on account of his cruelty to her, subsequent to the decree in bankruptcy. The complainant’s bill, as to each of those defendants, must therefore be dismissed, with costs to be paid by the complainant.
