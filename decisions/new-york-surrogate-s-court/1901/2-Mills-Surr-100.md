@@ -1,0 +1,21 @@
+---
+court: "New York Surrogate's Court"
+decided: "1901-01"
+citations: ["2 Mills Surr. 100", "33 Misc. 542"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Conrad Stein, Deceased."]
+source_url: "https://static.case.law/mills-surr/2/cases/0100-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8822778
+cites_cases: ["152 N. Y. 508"]
+---
+
+# In re the Estate of Stein
+
+## Majority (Thomas, S.)
+
+Thomas, S.
+— 'The application is by one executor for an order directing his co-executors to permit him, at all reasonable times, freely to inspect and take copies of all books, papers and documents kept by or under the direction of the testator, in his lifetime, containing entries relating to his property, and for further relief. The proceeding is based on a decision and an order to show cause, no citation having been issued or served, and it is contended by the respondents that in a proceeding thus instituted this court is without jurisdiction to make the order asked for. A Surrogate’s Court is not vested with the general jurisdiction of a court of equity; its limited powers are based upon and defined by express provisions of law, and its jurisdiction must be exercised in the cases and in the manner prescribed by statute. Matter of Randall, 152 N. Y. 508; Code Civ. Pro., § 2472. Except in a case where it is otherwise specially prescribed by law, a special proceeding in a Surrogate’s Court must be commenced by the service of a citation, issued upon the presentation of a petition. Code Civ. Pro., § 2516. This rule of procedure must be followed in this case, notwithstanding the fact that jurisdiction to control executors is expressly conferred by sub-division 3 of section 2472 of the Code of Civil Procedure, unless express authority is found to exercise it in another way. Such express authority is found in section 2602, Code of Civil Procedure, which authorizes the surrogate, in a case where two or more co-executors or co-administrators disagree respecting the custody of property of the estate, to make an order requiring them to show cause why the surrogate should not give directions in the premises. The order to. show cause complies in substance witb tbis provision, and tbe parties are, therefore, regularly before tbe court and subject to its jurisdiction already referred to. Tbe latter provision in tbe same section, to tbe effect tbat tbe direction may proceed so far as to require tbat tbe property of tbe estate shall be deposited in a safe place in tbe joint custody of all of tbe executors or subject to their joint order, may define the limitations of tbe powers of tbe court, but does not preclude an order less severe, though looking to a similar result. In tbe present case the property is already in tbe office used by all tbe executors for transacting the business of tbe estate, and a direction tbat they shall all of them have access to it for purposes of inspection is all tbat is asked for, or is necessary. "Witb respect to tbe substantial right to tbe relief sought, I entertain no doubt. Tbe title of each executor to tbe books and papers of tbe deceased is equal. Tbe testator has trusted them equally and tbe responsibilities of each are co-extensive witb those of tbe others. Neither of them can require tbe other to rest satisfied witb bis statement tbat no entries can be found in them of any particular character. Each is entitled to inspect them and to know for himself just what they contain. jTbe fact tbat a litigation is pending in tbe Supreme Court, in which these books are or may be material, is a sufficient reason for requiring a prompt exhibition of them. Each executor owes a duty to tbe parties interested in tbe estate to present to tbe Supreme Court every fact pertinent to the litigation pending before it, and neither of them can be permitted to exclude tbe other from access to property of tbe estate which would be helpful for tbis purpose. Tbe fact that tbe Supreme Court has full jurisdiction to obtain a discovery of tbe books is not material. It is enough tbat tbis court has sufficient jurisdiction and tbat its jurisdiction has been properly invoked. Application granted.
+Application granted.
