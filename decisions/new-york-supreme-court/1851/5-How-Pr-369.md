@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1851-01"
+citations: ["5 How. Pr. 369"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vrooman agt. Jones"]
+source_url: "https://static.case.law/how-pr/5/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2190797
+---
+
+# Vrooman v. Jones
+
+## Majority (Willard, Justice.)
+
+Willard, Justice.
+At common law this action would have abated by the death of the defendant Jones (2 Saund. 72 k.; 3 Bl. Com. 302). The statute (copied with a slight alteration from 17 Car. 2d, ch. 8, § 1,) (2 R. S. 387, § 4,) enacts in substance that the death of either party after verdict or plea of confession and before judgment, shall not abate the action, but the court may, within two terms after such verdict or confession, enter final judgment in the names of the original parties. The 121st section of the Code, which is made applicable to suits then existing, as well as those thereafter to be commenced, goes further and declares that no action shall abate by the death, marriage or other disability of a party, or by the transfer of any interest therein, if the cause of action survive or .continue. In case of death, marriage or other disability of a party, it provides that the court on motion, at any time within one year thereafter, or after-wards on a supplemental complaint may allow the action to be continued by or against his representative or successor in interest.
+The effect of the continuance of the action against the successor in interest, is to make him liable, in case of a recovery by the plaintiff, for all the costs which had been previously incurred. There is no hardship in this, where a stranger, after the Code was in force, makes a purchase of the subject matter in controversy, pendente lite. But in the present case the purchase by Shipherd from Jones, the original defendant, was in 1845, three years before the Code was adopted. At the time' of his purchase he would not have been made liable for the costs in the suit of the. plaintiff against Jones, in case of the death of the latter. He became liable indeed to an action of ejectment, which action was brought and is now pending. It was not competent for the legislature, after the rights of the parties had become fixed, so to alter the law as to subject the purchaser, Shipherd, to the costs of the action against Jones. At the time he made the purchase the law cast upon him no such burthen as is now* sought to be imposed upon him. He contracted with reference to the law as it then stood. Had the law remained unaltered he could not have been responsible for the costs of the action against Jones. It is no more within the constitutional competence of the legislature to compel Shipherd to pay the costs of the action against Jones, than it is to compel him to pay any other bill of costs which the plaintiff may have incurred in her numerous actions brought tore-cover parcels of the Kayaderosseras patent. The 121st section of the Code would not be obnoxious to a constitutional objection, had it been made applicable only to actions commenced after the Code took effect. It is in truth the amendatory act, rvhich applies that section to actions previously commenced, that creates the embarrassment. If the section can be so construed as to refer only to such transfer of interest as took place after the Code wrent into operation, it can be sustained. This construction will give full scope to the section upon all cases brought under the Code, and upon all cases commenced before the Code, where the transfer of interest occurred afterwards.
+Under this construction, the plaintiff is not entitled to the relief sought.
+There is another ground, too, on which I think the motion should be denied. The plaintiff herself has brought an action against Shipherd for the same cause of action for which Jones was sued. That action was probably commenced after the transfer of interest from Jones to Shipherd in 1845. It does not appear when it was commenced. If it was commenced after the death of Jones it would seem to be an election of the plaintiff to abandon that suit, and to resort to a new action. If it was commenced before the death of Jones, the plaintiff can have all the benefits under it, so far as the right to- recover the land is concerned, that she possessed under the action against Jones. All she loses is the costs of the suit against Jones. Those she must have lost at common law.
+The motion must be denied, hut as the practice is new, it must be denied without costs.
