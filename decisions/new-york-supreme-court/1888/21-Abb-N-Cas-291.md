@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1888-04"
+citations: ["21 Abb. N. Cas. 291"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FENLON v. DEMPSEY."]
+source_url: "https://static.case.law/abbn-cas/21/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1960490
+---
+
+# Fenlon v. Dempsey
+
+## Majority (Patterson J.)
+
+Patterson J.
+There are two motions before the court in this cause, one made by the defendant, and by George D. Carroll, to vacate and set aside the report of a referee on the ground that he failed to consider and decide the matters referred to in the order of January 18, 1888, by which he was appointed referee. The order was made in a proceeding instituted to punish the persons named for a contempt of court in-disobeying certain orders requiring the production of books of a corporation with which they were officially connected. The specific alleged reason for asking that the report be set aside, is that the referee has not determined the facts, the reference to him having been to take proof of the facts constituting the alleged contempt, and to report the same, with his opinion thereon. It is stated in an affidavit of Louis P. Levy, the defendant’s attorney, that on January 3, the referee stated he would not read nor examine the depositions used on the motion upon which the order of reference was made, nor consider them for any purpose, and that the only papers he would consider were the affidavits introduced in evidence before him in connection with the orders, which affidavits he would consider as pleadings, and the affiant states he verily believes the referee did not consider any other papers. On looking into the whole case, I find that the referee has properly passed upon all the matters presented to him. He was not called upon to do anything except to find facts for the information of the court, and it was his duty to require proof of any allegation made. ' This he did so far as proof was offered by either party.' The affidavits arc all before the court, and have been carefully considered by me in connection with the referee’s findings and report. Those findings and the report are not binding on the court, and I have not considered them as being so, but I have myself examined the case in all its bearings and details. There is no reason, substantial or technical, why the referee’s report should be vacated or the proceeding longer delayed.
+The second and main motion is to punish- the parties named for the contempt with which they are charged, and it is obvious on the papers that they have wilfully and flagrantly violated the orders of the court. They were required to produce books which were at one time (as late as last September) in their control. They do not deign to give any explanation or show in any way that they are unable to produce them nor even to account for the disappearance of the books or in any way to excuse themselves. All that appears from their affidavits or depositions, is that they have not now possession of the books, but they did lately have .that possession. The order of reference was made by Judge.Lawebnob, primarily, for their benefit, and they could have discharged themselves from contempt by appearing to testify before the referee, but they did not choose to do so. The simple statement of the case is, that they were required by an order of this court to produce the books. The order requiring them so to do is still in force. They have had ample opportunity of showing their inability to comply with the order; they have not shown it, nor offered to show it in any way by any direct proof whatever, nor by any competent legal proof, and they are in contempt for not obeying the order. ' As officers of the corporation they had control of the books—and it requires something more than a mere statement that they are not now possessed of them to enable them to escape from the duty of obeying an order which commands them to produce them. They will be committed to the common jail until the books are produced, and will be fined the costs and expenses of this motion.
+Ordered accordingly.
