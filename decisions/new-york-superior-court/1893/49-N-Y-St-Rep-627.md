@@ -1,0 +1,25 @@
+---
+court: "New York Superior Court"
+decided: "1893-01-03"
+citations: ["49 N.Y. St. Rep. 627", "21 N.Y.S. 639"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Antonio Jaquinto, by Guardian, Pl’ff, v. The Broadway & Seventh Avenue Railroad Co., Def’t."]
+source_url: "https://static.case.law/ny-st-rep/49/cases/0627-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2093242
+cites_cases: ["122 N. Y. 118", "25 N. E. Rep. 259", "33 St. Rep., 287", "59 N. Y. 356", "59 N. Y., 356", "97 N. Y. 259", "97 N. Y., 259"]
+---
+
+# Jaquinto v. Broadway & Seventh Avenue Railroad
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The plaintiff, by his guardian, sues to recover $25,000 damages for injuries sustained by being run over by one of the defendant’s cars, January 15,1889. The plaintiff was then four years of age, and at 5:80 o’clock in the afternoon was playing with other boys in Thompson street near Broome, where he met with the accident of which he complains. The trial judge dismissed the complaint, upon the ground that there was no proof whatever of negligence upon the part of the defendant’s driver.
+The witnesses all agree that the child was playing about the street with other children; that they were carrying sawdust from the sidewalk, and putting it between the car tracks, and then carrying it back again to the sidewalk. They all agree that the child was struck by the front wheel of the car and run over, in consequence of which he suffered great injury which necessitated the amputation of one of his legs above the knee. They all agree that the car was going at a regular pace or step; that at that hour in the January afternoon it was rather dark ; and here the proofs practically end without establishing any neglect whatever upon the part of the driver. It is difficult to discover any valid, legal ground upon which negligence can be inferred in such a case. The accident did not occur at a street crossing, and the car was lawfully proceeding, at its usual rate of speed, upon its rails through Thompson street. There is no evidence that the driver was incompetent, failed to look ahead, or omitted any care which a prudent driver should have taken, and the fact that the horses did not strike the bojr would seem to indicate that he was not immediately in front of the car nor within sight of the driver, but by want of care ran against the car, was thrown down and run over by the front wheel.
+Whether the parents of the boy were negligent in permitting a child of such tender years to play upon the public streets where they knew cars were constantly passing need not be discussed, because, if there was no negligence on the part of the defendant’s driver, there is no ground whatever upon which the defendant could be held liable for the unfortunate occurrence. The nature of the accident furnishes no evidence of negligence, and the circumstances indicate nothing from which it may be inferred. Mere surmise or conjecture will not do.
+The facts are certainly as consistent with due care on the part of the driver as with negligence, and in such a case a plaintiff is properly nonsuited. Hayes v. Forty-Second St. R. R. Co., 97 N. Y., 259; Cosulich v. Standard Oil Co., 122 id., 118; 33 St. Rep., 287; Baulec v. R. R. Co., 59 N. Y., 356.
+The presumption is that all men do their duty, and it requires affirmative proof to rebut that presumption. Presumably the driver exercised due care, and there is not a particle of evidence to prove that he did not. For these reasons the complaint was properly dismissed by the trial judge, the exception taken to the dismissal must be overruled, the plaintiff’s motion for a new trial denied, and the defendant permitted to enter judgment on the direction in its favor, with costs.
+Freedman, J., concurs.
