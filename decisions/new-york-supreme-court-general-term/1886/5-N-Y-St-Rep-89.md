@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-12"
+citations: ["5 N.Y. St. Rep. 89"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J., and Bockes, J., concur."]
+parties: ["David Ireland, Ex’r, etc., Resp’t, v. Myra A. Ireland, by Guardian, Appl’t."]
+source_url: "https://static.case.law/ny-st-rep/5/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8710390
+cites_cases: ["13 N. Y., 31", "15 Abb. 254", "27 N. Y., 260", "29 Hun. 470", "50 Wis. 619", "94 N. Y., 580", "95 N. Y., 474"]
+---
+
+# Ireland v. Ireland
+
+## Majority (Landon, J.)
+
+Landon, J.
+Delbert Ireland was a master workman of tbe “ Grand Lodge, Ancient Order of United Workingmen of the State of New York.” He held its certificate of membership, wherein it was certified that he “ is entitled to all the rights and privileges of membership . . . and to participate in the beneficiary fund of the Order to the amount of $2,000, which sum shall, at his death, be paid to Jennie Ireland, sister . . . issued upon the express condition that said Delbert Ireland shall, in every particular, while a member of said order, comply with all the rules and requirements thereof.” Upon his application for membership he had so agreed.
+One of the rules of the Order, which was printed upon the back of the certificate, prescribed that any member desiring to make a new direction as to its payment might do so by authorizing such change in the form prescribed and printed upon the back of the certificate, to be attested by the Recorder of the lodge, and reported to the Grand Recorder, paying fifty cents, surrendering the old certificate, and taking a new one.
+He was unmarried when be procured this certificate, and subsequently married the defendant.
+On Sunday, the 21st of June, 1885, being under apprehension of death from his existing illness, he sent for his friend, Mr. Wing, delivered to him the certificate, and told him that he wanted it so changed that his wife should have the benefit of it; that he wanted Wing to have it changed. Wing proposed to go immediately with the certificate to the Recorder of the Lodge, resident in the village, and have the change made then, but Ireland objected to having, it done on Sunday, and told Wing to have it done the next day. Ireland’s -wife was present at the time. Wing took the certificate, and on the following morning undertook to find the Recorder of the Lodge, but did not succeed, and Ireland died that morning before any further steps had been taken to change the beneficiary.
+Mr. Ireland’s sister sued the Insurance Association. It thereupon paid the money into court, and procured the wife of Mr. Ireland to be substituted as defendant.
+The Insurance Association was thus allowed to drop out of the contest upon the theory that it was ready to pay the rightful claimant. Its payment of the money does not in any way better or prejudice the legal position of either party against the other. The party that succeeds must make a case that would have entitled her to succeed against the Association. Vosburgh v. Huntingdon, 15 Abb. 254; McKay v. Draper, 27 N. Y., 260; Ballou v. Grile, 50 Wis. 619.
+It is claimed that this was an executed gift of the certificate to the wife, or to Mr. Wing, for her. We do not think so. In order that a gift may be perfected by delivery, the subject matter of the gift must be capable of transfer by delivery.
+What was needful to be done here, and what Mr. Ireland manifestly understood was needful, was to revoke the existing designation of the sister, and then make the designation of the wife. How this was to ' be accomplished, the rules of the Association instructed Mr. Ireland, and he had agreed to observe them. He sought to observe them, On the face of the certificate the sister remains the designated beneficiary. There was one way in winch she could have been divested of her expected interest. She insists that since that, way has not been observed, she has not been divested. It is plain that the Association, bound by its contract to pay her, would have no answer to her demand. Story v. Williamsburg M. M. B. Assoc'n, 95 N. Y., 474; Hellenburg v. Dist. No. One, etc., 94 N. Y., 580.
+In the case last cited the contract for insurance was that the lodge should pay such person as the insured “shall formally designate to his lodge.” He failed to designate anybody in the form prescribed by the contract, but did designate his brother in bis will. The conrt held that because the designation by will had not been brought to the notice of the defendant in the lifetime of the testator, the designation was not such as the contract called for, and therefore the defendant was not liable to pay.
+We are cited by the counsel for the wife to the case of Madeira v. Madeira, 5 Eastern Rep. 484, and Scott v. Provident Mutual Relief Assoc'n, id. 749.
+In the Madeira case, the policy was of the ordinary kind, taken by the insured, payable upon death to his heirs or legal representatives. He gave it to his wife, whom he married after obtaining it. The questions in the case were, whether he could pass title in it to his wife by gift ? and whether the circumstances proved a gift. The court held with the wife upon both questions. We hold in this State that such a policy Avill pass by assignment, and therefore why not by gift in the absence of any opposing contract, charter, or statutory restrictions, especially if the donee has an insurable interest. St. John v. Am. M. Ins. Co., 13 N. Y., 31; Cannon v. N. W. Mutual Life Ins. Co., 29 Hun. 470.
+The Scott case was one where a certificate of membership was reformed after the death of the insured, by inserting the name of the beneficiary in the certificate. It had been omitted by inadvertence; both the insured and the Association understood at the time of the application that the name should be inserted without further direction. It was the fault of the Association that the name had not been inserted, and it certainly could take no advantage of that.
+Wing was simply the agent of Ireland, to do for him what it was competent for him to do for himself. Wing was, it may be conceded, the trustee, for the time being, of the certificate, but only for the purpose of executing his agency respecting it. When Ireland died, his agency ceased, and the title to the certificate vested in a new owner.
+We think the sister was that owner; that she could have maintained her action against the Association, and that the wife could not.
+The judgment should be affirmed, with costs. ‘
+Learned, P. J., and Bockes, J., concur.
