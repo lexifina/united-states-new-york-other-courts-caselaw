@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1890-10"
+citations: ["65 N.Y. Sup. Ct. 119"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Brady, J., concurred."]
+parties: ["CELIA R. SIMMONS, Respondent, v. EDWARD C. HAZARD and Another, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/65/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4620622
+---
+
+# Simmons v. Hazard
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+The order for the examination of the defendants Hazard and Osborn should have been vacated, if for no other reason, because the affidavit upon which it was granted was verified by the attorney for the plaintiff without any sufficient reason being given therefor. The reasons given for the verification by the attorney are stated to be those stated in the verification of the complaint, and we find nothing stated in the verification of the complaint as to the affidavit. If the attorney intended to state as a reason the one because of which he states that the complaint was verified by him, it was entirely insufficient. These affidavits should be made by the party, he or she being the only one who can asseverate as of his or her own knowledge or intention; material allegations.
+There is nothing in the affidavit under consideration to show that the attorney had any peculiar knowledge as to any of the facts necessary to be established; and as to those as to which he swears he has no knowledge, it may well be that the plaintiff was fully informed.
+The order appealed from should be reversed, with ten dollars costs and disbursements, and the order for examination vacated, with leave to the plaintiff, upon payment of these costs and ten dollars costs of the motion below, to apply upon additional papers for a new order.
+Yan Brunt, P. J., and Brady, J., concurred.
+Order reversed, with ten dollars costs and disbursements, and the order for examination vacated, with leave to the plaintiff, upon payment of these costs and ten dollars costs of the motion below, to apply upon.additional papers for a new order.
