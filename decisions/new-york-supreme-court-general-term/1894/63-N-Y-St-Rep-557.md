@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12-04"
+citations: ["63 N.Y. St. Rep. 557"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elizabeth A. Cagger et al., Resp’ts, v. Rhoda Shultes, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/63/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2102067
+---
+
+# Cagger v. Shultes
+
+## Majority (Putman, J.)
+
+Putman, J.
+The petition states, upon information and belief, that, since the commencement of the action, Cyrus S. Shultes and Philena Shultes have acquired rights in the premises in the complaint in the action described, and are now in possession of said premises, or some part thereof. No other proof appears in the papers that said parties, or either of them, have any interest in the premises in question, or are in occupation thereof. The case contains the affidavits of the said Cyrus and Philena Shultes, in which they each positively deny that they, or either of them, are the owners of, or have any interest in,, or are in possession of, the premises described in the complaint. The allegations in the petition thus made on information and belief being positively denied by the affidavits of Cyrus • S. and Philena Shultes, I do not think the court should have granted an order making said persons defendants in the action. Without some satisfactory proof showing that they are proper parties, they should not, against their will, be made defendants in the action, and thus subjected to the expense and trouble of the litigation. Under all the facts and circumstances of the case, I see no reason to doubt that the discretion vested in the special term was properly exercised in directing the substitution of Henrietta Church as plaintiff in the action. If new defendants are not brought in, there can be no objection to allowing the order of reference granted by consent of the parties to stand. The order should be modified by striking out the clause directing “that Cyrus S. Shultes and Philena Shultes be, and they are hereby, made parties defendants herein, and that the plaintiff Henrietta Church be, and is hereby, authorized to issue a supplementary summons in this action, directed to the said Cyrus S. Shultes and Philena Shultes, so made defendands herein,” and, as so modified, affirmed, without costs to either party.
+Mayham, P. J., concurs; Herrick, J., not acting.
