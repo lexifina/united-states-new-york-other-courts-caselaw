@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-11"
+citations: ["80 N.Y. Sup. Ct. 40"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Follett and Parker, JJ., concurred."]
+parties: ["Ludwig Baumann, Respondent, v. Elizabeth Moseley, as Administratrix, etc., of Joseph B. Adamson, Deceased, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/80/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4702072
+---
+
+# Baumann v. Moseley
+
+## Majority (Yan Bkunt, P. J.:)
+
+Yan Bkunt, P. J.:
+This was a special proceeding upon a disputed claim against the estate of Joseph B. Adamson, deceased, referred pursuant to the statute.
+The plaintiff is a furniture dealer in this city, and in the months of April and May, 1888, claimed to have sold and delivered to Joseph B. Adamson, the defendant’s intestate, a considerable quantity of goods. Before all had been delivered Adamson died. After his death the plaintiff seems to have continued to deliver the goods on the day of his death and two following days. Some days after the delivery of all the goods and the decease of Adamson, the plaintiff obtained possession of the apartment at which this furniture had been delivered, and removed therefrom certain of the goods.
+The referee, in his report, found that the plaintiff had converted the goods which he had thus removed, and allowed the claim only for the balance. And, from the judgment thereupon entered, this appeal is taken.
+It is urged that the plaintiff’s alleged contract with the defendant’s intestate for the sale and delivery of the goods in question, was an entire contract which the plaintiff had never completed; and if this contention were supported by the evidence, it would undoubtedly be a good answer to the claim now presented. But, upon an examination of the evidence, we fail to find any proof that, the contract was an entire one. On the contrary, it seems that these goods were ordered upon different days and delivered upon different days; and that the goods which were not delivered were not ordered by the deceased at all, but were ordered on the second of May by the woman with whom he was living in this apartment, and who had been with him at the time the orders for the other goods were given. The only portion of the goods ordered upon any one day and not actually delivered, was a mat which was taken to the premises and brought back again by the messenger. As for the goods which were ordered on the second of May, if they had been delivered after his death at these premises, it is exceedingly doubtful whether any recovery could have been had for them, because there is no proof that they were ordered by Adamson, or with his consent. There is, therefore, no ground for the claim that the contract was an entire contract.
+It is also urged that the plaintiff’s alleged contract is void under the Statute of Frauds; that the value or price of the goods was more than fifty dollars, and there being never a complete delivery and acceptance of all the goods, and nothing paid on account, and no agreement, note or memorandum in writing subscribed by the deceased or his agent, the statute applies. But in considering the elements necessary to take a transaction of this kind out of the Statute of Frauds, the learned counsel has omitted one important factor. The statute (2 K. S. 136, § 3) reads : “ Every contract for the sale of any goods, chattels or things in action for the price of fifty dollars or more, shall be void * * * 2 unless the buyer shall accept and receive part of such goods, or the evidences, or some of them, of such things in action.” Now, in the case at bar, the greater part of the things sold had been delivered and accepted by Adamson before his death, which clearly took the case out of the Statute of Frauds.
+The point is further raised that the plaintiff elected to treat the contract as rescinded; that he made no efforts to enforce the contract, no demand of payment, no option was given to the intestate’s representative, and that neither the defendant nor her intestate were ever put in default in any way.
+It appeared that a demand of payment was made when the plaintiff presented his claim against the estate, and that this was the proper way for the plaintiff to begin proceedings for the enforcement of his contract after the death of Adamson. The taking of possession of the goods and the removal of such as were removed by the plaintiff after the death of Adamson, was undoubtedly a trespass. He had no power to rescind the contract, and when he was charged for the full purchase price of those goods, he received some just.punishment for his temerity.
+The points presented for onr consideration do not seem to have been well taken, and the judgment and order appealed from should be affirmed, with costs.
+Follett and Parker, JJ., concurred.
+Judgment and order affirmed, with costs.
