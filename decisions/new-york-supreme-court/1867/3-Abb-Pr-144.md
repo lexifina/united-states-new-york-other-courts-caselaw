@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1867-01"
+citations: ["3 Abb. Pr. 144"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VAN CLEVE against ABBATT."]
+source_url: "https://static.case.law/abb-pr-ns/3/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1955856
+---
+
+# Van Cleve v. Abbatt
+
+## Majority (Brady, J.)
+
+Brady, J.
+The judgment, from which the plaintiff has appealed, declares certain hens, enumerated and described, to be invalid, either against the defendant Robert Abbatt, or the premises described in them. The effect of that judgment is to release the premises from the hens named, unless an appeal be taken and the proceedings stayed, either by security, or by order of the court in which the judgment was entered, or the appehate court. The appeal, taken by the plaintiff, is to the general term of this court, pursuant to the provisions of sections 7 and 8, of chapter 500, of the Laws of 1863. On reference to the sections named, we find (§ 7) that any party, aggrieved by any decision, may, within ten days after notice of the judgment or decree, appeal from such judgment, or any part thereof—such appeals to be heard and decided as in case of appeals from an order at special term. The decision mentioned means a judgment or decree, entered upon the proceedings contemplated by section 7, and the result of either a trial by jury, or before a referee, or the court without a jury. The effect of the appeal, when taken, which is initiated by a notice simply, is (§ 8) only to stay so much of the proceedings, as a judge of either the court below or a judge of the appellate court shall order to be so stayed, until the hearing of such appeal; and on such terms, as to security or otherwise, as such court or judge may order. It is, perhaps, a general peculiarity df the act under consideration, that it is predicated, in its various features, on the certainty of the lienor’s success—few of its provisions being devoted to the benefit of the owner, in express terms, even if he should be successful in defeating the asserted lien upon his premises.
+The manner of discharging the liens, provided by section 10, illustrates this view. The fourth mode of discharging the lien is stated to be, “ by a judgment, or docket of a judgment, exempting such property, after ten days, on proof of notice of such judgment; and that ten days have elapsed and no appeal has .been taken therefrom.” The defendant Abbatt, has a judgment, the effect of which is, to exempt his property from the liens which that judgment declares invalid; but he cannot avail himself of its advantages, because the plaintiff has appealed, as provided by section 7, if the language of section 10 is to be construed 'strictly. The Legislature undoubtedly intended to secure the lienor, and to make the thing built pay the cost of its erection; but some regard to the owner’s right must have entered into the legislative element. The intent of that body is as much a part of the law, in the construction of a statute, as is the law itself. It must have been presumed that a judgment would, in some cases at least, be rendered in favor of the owner, and that, when such were the case, he was entitled to indemnity as well as the lienor. The 8th section must, therefore, be considered as applicable to all judgments entered in proceedings to foreclose a lien, whether for, or against, the owner; and the benefit of its provisions to enure as well to either party, leaving the court appellate or otherwise to determine what stay should be granted, under the circumstances of each particular case. The language of that section is general; such appeal shall only stay so much of the proceedings as a judge of the court below or appellate court shall order to be stayed, on such terms, as to security or otherwise, as such judge may order. It follows that the plaintiff, not having procured a stay, cannot prevent the defendant Abbatt, front having the full benefit of his judgment.
+The presumptions of law are all in his favor. He has succeeded in the proceeding, and, if the plaintiff wishes to continue his liens, which are a cloud upon the title, he must procure an order to stay proceedings. For these reasons, although the 10th section does not so provide in express terms, I think, that when the judgment exempts the property, the hen must be discharged, although an appeal has been taken, unless the operation of such judgment has been stayed.
+I think, in judgments favorable to the owner, it would be the better practice to provide, not only that the hens are invalid, but, adopting the language of the statute, that the property is exempt from them, which will doubtless save, in some instances at least, the necessity of a further application to the court.
+The motion must be granted.
+Order accordingly.
