@@ -1,0 +1,19 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1883-12"
+citations: ["38 N.Y. Sup. Ct. 174"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ellen J. Dowd, Respondent, v. James Fitzpatrick, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/38/cases/0174-04.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4474549
+---
+
+# Dowd v. Fitzpatrick
+
+## Majority (Dykman, J.)
+
+Judgment affirmed with costs. Opinion by
+Dykman, J.
