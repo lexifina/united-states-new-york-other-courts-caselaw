@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1884-03"
+citations: ["39 N.Y. Sup. Ct. 138"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J. and Daniels, J., concurred."]
+parties: ["ALEXANDER V. DAVIDSON, as Sheriff, etc., Plaintiff, v. THE CHATHAM NATIONAL BANK OF NEW YORK, Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/39/cases/0138-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11278926
+cites_cases: ["32 Barb., 601", "33 Barb., 123"]
+---
+
+# Davidson v. Chatham National Bank
+
+## Majority (BRADY, J.:)
+
+BRADY, J.:
+There does not appear from the briefs submitted any serious contention between the parties to this controversy. As it is understood the chief objection to the right of the sheriff insisted upon is that the collection of debts by actions is made subject to the direction of the court or judge, by section 655 of the Code of Civil Procedure.
+An examination of the provisions of the Code and some adjudications enable us to dispose of the question submitted. Section 649 provides for the manner in which the property of the debtor may be attached. And by subdivision three of that section it is declared that if the property consists of a demand other than as specified in subdivision two, a notice must be served showing the property attached, accompanied by a certified copy of the warrant of attachment. • Section 648 proclaims the effect of the levy under the attachment. It is declared to be a levy upon a seizure, and an attachment of the debt represented by it. When, therefore, an attachment debtor is the creditor of another, a service upon such creditor in the manner indicated -results in the levy upon the seizure of the demand; and when that is accomplished, under section 655, it is declared that tbe sheriff must, subject to the directions of the court or judge, collect and receive such debt; the language of the section being, “ must collect and receive all debts and effects and things in action attached by him.” And the same section provides that he shall maintain any action or special proceeding, in his own name or the name of the defendant, which is necessary for that purpose. And it is also provided that he may discontinue such an action or special proceeding at such time and on such terms as the court or judge directs. Section 232 of the Code of Procedure contained the same provision in reference to the right of the sheriff to commence legal proceedings. It provided that the sheriff might also take such legal proceedings, either in his own name or the name of the defendant, as might be necessary, for the purpose of collecting and receivings into his possession all the debts, credits and effects of the defendant, subject to the direction of the court or judge, and might discontinue the same on such terms as the court or judge might direct.
+The right to maintain such an action as this was decided in the case of Kelly v. Breusing (32 Barb., 601) which was on argument affirmed in this department at a General Term. (See report of case in 33 Barb., 123.) And it was further adjudicated in that case, that it was not necessary to allege in the complaint that the action had been brought by the direction of the court or*, judge. The court said: “ I doubt whether positive and affirmative direction of the court or judge is at all a necessary prerequisite to the commencement of the action under section 232.” And again : “ And so far as the institution of legal proceedings is concerned, I think the approval of the court must be implied. If contained in the complaint it would not be an issuable allegation, but the remedy would be by motion to set aside the proceedings for want of such authority.”
+The learned counsel for the defendant seems to assume that section 675 controls the right of the sheriff to proceed by action to collect outstanding debts due to the attachment debtor. This view cannot be maintained. That section provides simply that the court, on the application of either party, may direct the sheriff to pay into court the proceeds of a demand collected or property sold. It undoubtedly recognizes, by implication, the right of the sheriff to collect a demand, and for tbe obvious reason that it invests the court with power to direct that the amount or proceeds of such collection should be deposited in a designated bank or trust company, to be drawn out only on the order of the court. Upon these authorities and these sections of the statute, it is quite evident that the sheriffs right to maintain such an action as this is clear.
+It may be added, as he is invested by virtue of his seizure under the attachment with the custody of the property attached, and required to collect such of it as exists in demands, he may incur a serious responsibility, if, failing to collect the ability of the debtor to pay ad interim by one of the numerous incidents of commercial or business life, be destroyed.
+The language of section 655, which should not be overlooked, is that the sheriff must, subject to the direction of the court or judge, collect and receive all debts, effects and things in action attached by him. It is undoubtedly a better, safer and wiser course, except in special cases over which the court has control, as we have seen, by proper motion for that purpose, for the sheriff tq proceed at once to gather in all the assets of the debtor covered by his process which he has undertaken to execute.
+For these reasons, the question submitted being answered in the affirmative, the plaintiff is entitled to judgment against the defendant for $5,000, but, according to the stipulation, without costs.
+Davis, P. J. and Daniels, J., concurred.
+Ordered accordingly.
