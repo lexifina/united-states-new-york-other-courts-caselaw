@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1879-01"
-citations: ["23 N.Y. Sup. Ct. 434", "23 N.Y. Sup. Ct. 566"]
+decided_precision: "month"
+citations: ["23 N.Y. Sup. Ct. 434"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
