@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-03-14"
+citations: ["30 N.Y. St. Rep. 537"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph O. Brown et al., App’lts, v. James Chesterman et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0537-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669360
+---
+
+# Brown v. Chesterman
+
+## Majority (Brady, J.)
+
+Brady, J.
+This action was brought by arrangement between the persons interested to obtain a construction of the ninth clause of the will of Greorge Ohesterman. He had given to his wife, in addition to other bequests, one undivided third of his personal estate, and one undivided third of his real estate, to her use during her natural life in lieu of dower. He had also directed that tlio remaining two-thirds of his personal estate should be invested by liis executors in securities of the United States government. He had also devised to his executors all the rest and residue of his real estate in trust to hold and rent the same excepting the portions reserved for the use of his wife and his family, and directed that they should collect the rents as they should, from time to time, accrue, and apply them or so much as might be necessary to the payment of taxes, assessments, and charges and premiums for insuring the houses thereon, and then to divide the net income after the share belonging to his wife on her one-third part thereof as before devised, should be deducted, between his children, etc. Then intervenes the ninth clause, which is as follows:
+Ninth. I authorize and empower my said executors, or such as shall undertake the execution of this will, to sell and dispose of, either at public or private sale, and at such time and times as they or he shall think to be for the interest of my heirs, all or any portion of my real estate excepting any portion which may at the time be occupied by my wife and her family, to give proper conveyances therefor, and to invest the proceeds thereof either in .building upon or repairing buildings on any portion of my estate, or in securities of the United States government, and such securities shall be held for the benefit of the children and their heirs who would be entitled to the land if the same had not been sold; but no portion of such proceeds shall be used for building on any of my said property unless the portion hereinbefore devised to my wife in the lands so to be sold shall be used with the shares of the children, with her consent, for that purpose.
+This widow is dead and the difficulty which the plaintiffs wish to have solved is whether, under the ¡provisions of this clause, the executors have the right to sell and invest as indicated, notwithstanding such death, and to invest in the securities of the United States government if such investment involves the payment of premiums to complete it.
+The phraseology relating to the investment of proceeds in building, it may be said, without doing great injustice to the draftsman, is decidedly obscure, but the intention of the testator presents itself clearly and distinctly, nevertheless ; and it is that such of the proceeds as represented the widow’s share after a sale should not be employed for building without her consent.
+The testator by this provision intended that she should enjoy her third of the estate uninterruptedly, either from building or any other cause. But he at the same time intended, she being by far his largest single beneficiary, that if the rest of his estate was used for building purposes, it should only be done by her uniting in the project and thus bearing her proportion of the burden, as she would enjoy necessarily her proportion of the enhanced pecuniary result. With reference to such building, therefore, it may be said that the testator gave to his wife the balance of power. He did not intend that the shares of his children in the corpus of his estate should be employed for the benefit of his widow. Hence the necessity of her consent and co-operation. This being the intention of the testator, it is quite evident that the consent related exclusively to the life estate.
+The learned counsel for the appellant seems to overlook the great principle which now happily prevails in the construction of wills and which, as already suggested, is the intention of the testator. The early rules of strict construction and the niceties and finesse of astute technicalities have yielded to this natural and just doctrine, and it is not necessary, therefore, to make a circuit around Robin Hood’s barn in pursuit of authorities to support the soundness of the construction adopted.
+The testator, in reference to the other mode of investment, directed that it must be in securities of the United States government, and that involves the payment of what these securities cost in the ordinary mode of obtaining them. They must be paid for out of the proceeds to be invested. There is no other fund available for that purpose.
+There can be no doubt for these reasons and from the nature of the ninth clause under consideration that the executors have a power of sale and a right of investment in building or in the purchase of United States securities, and such must be the judgment of the court herein.
+The judgment must be affirmed, with costs.
+Daniels, J., concurs.
