@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-07-07"
+citations: ["32 N.Y. St. Rep. 497"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael Linn, Resp’t, v. The City of Troy, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039848
+---
+
+# Linn v. City of Troy
+
+## Majority (Learned, P. J.)
+
+Learned, P. J.
+This is an appeal from a judgment on a verdict and from an order denying a new trial. The action was to-recover compensation for injuries alleged to have been suffered by plaintiff by his falling in a hole in the sidewalk of North First street or North First street alley. According to the map the roadway is fourteen feet wide and the sidewalk on each side three feet. This might be properly called an alley. One of the witnesses testifies that the sidewalk had been paved with brick, and was about four feet wide; that there was no fence or house at the side of the street where plaintiff fell, but a yard about eight feet below the level of the sidewalk; that the walk had fallen away about two feet, leaving only a space of about two feet wide, bricked, from the curbstone.
+There is evidence on the part of the defendant tending to disprove the foregoing statement of the plaintiff’s witness.
+We have stated enough to show how plaintiff alleges that the injury was caused.
+The defendant urges that the court erred in excluding the quarterly report and bill of the Troy Hospital against the city of Troy for board and care of patients, in which is plaintiff’s name. This seems to have been offered to show when the plaintiff went to and came from the hospital. It was a mere statement by the hospital authorities to the defendant, and was not in any way binding on plaintiff.
+No exceptions were taken to the charge. The defendant asked the court to charge that if the jury should find that plaintiff, when he fell, was outside of the sidewalk, he could not recover, and the court so charged. The court appears to have charged exactly as the defendant wished, and we see no ground for exception. The court held that if there were no defects in the sidewalk and the injury resulted from plaintiff’s being outside the sidewalk, he could not recover. This seems to be quite fair to the defendant.
+The defendant insists that plaintiff should have been nonsuited. We think not. There was a question proper for the jury as to the condition of the sidewalk: whether the sidewalk itself had caved away into the adjacent yard or whether the slope into the yard was entirely outside of the sidewalk, and thus in a part which the defendant was not bound to keep in order.' It can easily be seen that on a sidewalk of three or four feet wide any hole or place where the walk had fallen away and where there was no fence or house at the side and where a yard lay eight feet below would be a dangerous place; and that the city would be liable if it had unreasonably neglected to put the place in repair.
+And we cannot say that there was no evidence to this effect.
+Judgment and order affirmed, with costs.
+Landon, J., concurs.
