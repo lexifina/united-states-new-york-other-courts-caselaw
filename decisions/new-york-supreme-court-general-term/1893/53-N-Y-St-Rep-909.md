@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-06-30"
+citations: ["53 N.Y. St. Rep. 909"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emma Keller et al., Resp’ts, v. Henry Feldmann, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/53/cases/0909-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686089
+---
+
+# Keller v. Feldmann
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The defendant, by -an agreement in 'writing, contracted to sell to the plaintiffs a house and lot situated on the southerly side of Seventh street. The contract contained a covenant that “ the westerly wall of said house is an independent wall.” Subsequently a deed was delivered, which did not contain a similar covenant, and there was not in fact an independent westerly wall. After the grantees had been in possession of the premise for a short time they discovered the absence of the wall, and also the fact that the deed contained no covenant in respect tó it. Thereupon they 'tendered to the grantor a reconveyance of the premises, and demanded that the contract be rescinded, and the purchase price of the premises refunded. This was denied, and shortly thereafter plaintiffs instituted this suit, alleging in the complaint that they had been fraudulently induced to accept the conveyance, -and basing thereon a demand for judgment 'that the deed be set aside, and the grantor compelled to refund to them the money and securities which they had turned over to him. The trial court found, upon evidence sufficient to support the findings, “ that at the time of the delivery of said deed to the plaintiffs, the plaintiffs relied upon and believed the statements and representations of said defendant, mentioned and described in said contract, that the westerly wall of said house is an independent wall, to be true, and in consideration thereof ” paid the purchase price; “that the said statements and representations -of said defendant in said contract that the westerly wall of -said house is an independent wall were false and untrue ;”-"that during the time the defendant was the owner of the premises he- “ was informed by two of his tenants in said house that there was no westerly wall; * * * -and that at the time the contract was "made, or the deed delivered, or at any other time, he did not inform the plaintiffs of these matters, and-did not disclose any of -the same, but suppressed them from the knowledge of the plaintiffs;” “ that the-said contract and deed was drawn, and the execution and delivery of each of the same was attended to, by a lawyer who was retained by and acted for both the plaintiffs and defendant, * * * yet he, the lawyer, drew said deed for the defendant, and omitted therefrom the covenant that the westerly wall of said house is an independent wall, or any mention of any walls or house, and allowed and permitted such deed to be delivered to plaintiffs, talcing such deed himself, on behalf of said plaintiffs, and recording the samein the register’s 'office of the city and county of New York, and neither he nor the defendant informing the plaintiffs of such omission or suppression, or disclosing the same to said plaintiffs, and leaving them entirely ignorant of the same; * * * that the plaintiff Emma Keller, who acted for the plaintiffs, could not speak, read or write the English language, and could not read said deed, the same was not read over to the plaintiffs, and they were ignorant of its contents; * * * that plaintiffs were entirely ignorant of the omission and suppression and concealment, that the westerly wall was an independent wall was not covenanted and contained in said deed, or that in fact there was no westerly wall to said house.” These facts, taken in connection with the other findings made by the trial court, establish a legal fraud on the part of the defendant, and fully justify the judgment rendered setting aside the conveyance and directing a repayment of the purchase price.
+The judgment should be affirmed, with costs.
+Van Brunt, P. J., Follett and Parker, JJ., concur.
