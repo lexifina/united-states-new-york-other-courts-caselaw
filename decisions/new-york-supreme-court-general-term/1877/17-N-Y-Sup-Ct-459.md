@@ -1,0 +1,44 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1877-04"
+citations: ["17 N.Y. Sup. Ct. 459"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Mullin, P. J., and Talcott, J. Smith, J., not sitting."]
+parties: ["JACIN L. HIGGINS, Respondent, v. THE PHŒNIX MUTUAL LIFE INSURANCE COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/17/cases/0459-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4447659
+---
+
+# Higgins v. Phœnix Mutual Life Insurance
+
+## Majority (Mullin, P. J.:)
+
+Mullin, P. J.:
+On tbe 2d January, 1873, Romeyn O. Higgins applied to William Walker, an agent of tbe defendant, residing at Corning in tbe county of Steuben, for a policy of insurance on bis life in said company, for tbe sum of $5,000. The agent wrote tbe answers of Higgins to the several questions required to be answered by all persons applying for insurance in said company. The application was signed by said Higgins, and it, with other papers required to be furnished to the company by applicants for insurance, were forwarded to the defendant by said agent, and a policy was thereupon issued to said Higgins, insuring his life in the sum of $5,000, and was dated the 31st December, 1872.
+Said policy contained the following, amongst other conditions: “ If any of the declarations or statements made on the application for this policy, upon the faith of which this policy is issued, shall be proved in any respect untrue, this policy shall be null and void.”
+The application required Higgins to state the name and residence of the family physician, or of one whom the party has usually employed or consulted.
+The answer to the question was as follows: “ Eefer to Dr. A. T. Mills, Corning, N. Y.”
+Accompanying the application, sent by Higgins to the defendant, was the certificate of Dr. A. T. Mills, at the head of which were the following printed words, viz.: “ Questions to be answered by the physician of the party to be insured.”
+Dr. Mills, in his answer to the questions required to be answered by him, stated that he had known Higgins two years, and that he had never attended him professionally.
+The insured died, on or about the 15th October, 1873, and the requisite px’oofs thereof were furnished to the defendant. The defendant refused to pay the amount insured, and thex’eupon this action was brought.
+The defendant, in its answer, set up as a defense the falsity of the answer to the twenty-sixth intex'rogatory, contained in the application, by reason of which the policy became void.
+On the trial, Dr. Mills was called as a witness on the part of the defendant, and testified that at the time he examined Higgins, in ox’der to ascertain whether he was a proper subject for insurance, he had never prescribed for or attended his family at his house. On two occasions he had prescribed for him, when he met him on the cars, for dyspepsia, and for which he made no chax-ge. Proof was given, tending to prove that Dr. Bryan, of Corning, was the family physician of Higgins.
+'William Walker, defendant’s agent, who took and forwarded Higgins’ application for insurance to defendant, was called by the plaintiff and the following question was put to him: “When that question (No. 26) in the application was read to Higgins, at the time the application was made, what was said and what took place in regard to it?”
+The question was objected to as incompetent and immaterial on several grounds. The objection was overruled, and defendant’s counsel excepted. The witness testified that he (Higgins) said he did not know as he had any one that he could call Ms family physician ; that Dr. Mills had prescribed for him, and that Dr. Bryan had prescribed for him, and he woxdd refer to either one of them. The agent asked him if he should put down Ms reference to Dr. Mills and he said “ yes.” That was about all that took place in reference to that, and he (the agent) thereupon wrote it in its present shape.
+The court ordered a verdict in favor of the plaintiff for $5,000 and interest thereon, to which direction defendant’s counsel excepted.
+Higgins’ answer to the twenty-sixth interrogatory is not such a direct and unequivocal answer, as the company had the right to demand, and as the assured was bound to make. It would, under ordinary circumstances, be received as an allegation that Dr. Mills was his family physician, but connected with the application was the certificate of Dr. Mills that he had never attended Higgins professionally.
+This certificate cannot overcome the effect of a positive statement in the application that Dr. Mills was the family physician of Higgins, but it is to be considered in determining what weight is to be given to the peculiar answer of Higgins as to who was his family physician, and made it proper to inquire of the agent what was said at the time of preparing Ms answers to the interrogatories, as to who was Ms (H.’s) family physician.
+In the case of Baker v. The Home Life Ins. Co., not yet reported, Allen, J., says: “ H true answers were given to the agent of the defendant by whom the application was filled out and the answers reduced to writing, but the agent for any reason modified or varied the answers so as give them a different meaning from the answers actually given by the applicant, the defendant would be estopped from challenging the correctness of the answers as modified and written by the agent. In such case the answers nominally proceeding from the insured would be regarded as the act of the insurers. They must be held estopped by the acts of the agent sent out by them to solicit insurances, and if such agents, by reason of the large commissions upon the premiums they obtain, and a desire to extend and enlarge the business of their principals, are officiously zealous and take the liberty of interpreting and giving form to the answers and statements of those whom they are soliciting to take policies, instead of giving literally the statements and words of the applicant, the effect must be the same as if the same acts had been done by the insurers in person. The agents, in the matter of the application and all they do before the issuing of the policy, are the accredited agents of the company, acting within the apparent scope of their authority, and are so regarded by those whom they approach, and with whom they deal in respect to insurance, and it would be unjust to treat them as the agents of the applicant.”
+It follows, from these views of the learned judge, that it was competent for the -plaintiff to prove by parol what he said to the agent in answer to the twenty-sixth interrogatory.
+Higgins told the agent that he did not know that he had any one he could call his family physician; that both Mills and Bryan had prescribed for him, and he would refer to either. The agent then asked him if he should put down his reference to Dr. Mills, and he said “ yes.”
+If the agent had written down the whole answer of Higgins, then there would have been no ground for complaint. The defendant would then have been informed that the applicant was in doubt as to whether he had any family physician, or if he had two, which of them was the real one.
+The defendant had the disclaimer of Dr. Mills, over his own signature, that he was the family physician, and an answer from the applicant himself, not directly asserting that Mills was his family physician, biit making reference to him as such.
+The agent says that after H. had stated that he was in doubt whether he had a family physician, and that Mills and Bryan had prescribed for him, he, the agent, asked him if he should put down his reference to Dr. Mills, and he (H.) said “ yes.”
+If this had been the whole of the answer, the defendant should not be held estopped from alleging the falsity of the answer ; but H. was acting under the advice and instructions of the defendant’s agent, and when he was asked by the agent, after informing him that he was in doubt as to who was his physician, the question, put by the agent, whether he should write down a reference to Mills, was substantially a statement by the. agent that, upon the facts disclosed to him, Mills was his family physician, common prudence would have dictated to the agent the propriety of referring to both Mills and Bryan, when a mistake in the reference might be fatal to the policy.
+Upon the' evidence, I think Higgins was misled by the agent into making an erroneous reference to Mills, when the agent should have embodied the statement of Higgins in answer to the question; and that the company should be held estopped from alleging the falsity of the answer to the twenty-sixth interrogatory.
+The judgment must be affirmed.
+Present — Mullin, P. J., and Talcott, J. Smith, J., not sitting.
+Judgment affirmed.
