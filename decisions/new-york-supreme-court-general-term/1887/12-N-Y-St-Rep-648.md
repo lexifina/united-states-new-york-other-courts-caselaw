@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1887-12-13"
-citations: ["12 N.Y. St. Rep. 648", "12 N.Y. St. Rep. 647"]
+citations: ["12 N.Y. St. Rep. 648"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
