@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-24"
+citations: ["19 N.Y. St. Rep. 705"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anthony R. Maicas, Resp’t, v. Leon Leony, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0705-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650612
+---
+
+# Maicas v. Leony
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action was brought for an accounting between partners. Upon consent all the issues were referred to a referee to determine the same.
+Before completing the accounting and after the parties had accounted before the referee to a certain date the referee made his report, at the end of which he finds-that an interlocutory judgment should be entered decreeing the dissolution of. the partnership and that a further accounting should be had from where he left off and that the judgment should contain, other provisions, but no form of interlocutory judgment was settled by the referee and no judgment was ordered.
+Upon the Coming in of this report the defendant made an application to the court to have a judgment entered, which application was dismissed, and thereafter, without any motion or notice, the defendant attempted to enter an interlocutory judgment with the clerk.
+Upon this interlocutory judgment defendant thereupon moved the court for the appointment of a referee to continue the matters which had been referred to the former referee, and the plaintiff made a motion to vacate the judgment and report, and for the appointment of a referee to try the issues de novo.
+The defendant’s motion was denied and the plaintiff’s granted, and from these, appeals were taken.
+It is not at all necessary for the determination of these appeals to decide whether or not a referee may order the entry of an interlocutory judgment under certain circumstances.
+In this case there is no report by the referee; it is merely an opinion which has been called a report. It contains no findings of fact and conclusions of law such as the Code requires. It is impossible to tell upon its perusal what is opinion and what was deemed by the referee to be conclusion, either of law or fact. Neither had the clerk any power to enter the interlocutory judgment. Reference is made to section 1228 of the Code for such authority.
+This section reads as follows: “Where the whole issue is an issue of fact which was tried by a referee, the report stands as the decision of the court. Except where it is. otherwise expressly prescribed by law, judgment upon such report or upon the decision of the court upon the trial of the whole, issue of fact without a jury may be entered by the clerk -as directed therein upon filing the decision qr report.”’
+In two important particulars the report in question failed to authorize the clerk to enter judgment.
+It will be observed that this section clearly contemplates that it is only in cases where the whole issue has been tried that the clerk may act. The language is that where the whole issue is one of fact the report stands as the decision of the court and judgment upon such report or upon the decision of the court upon the trial of the whole issue without a jury may be entered by the clerk, etc.
+The clerk hence has no power to enter an interlocutory judgment upon a decision of the court, and if the referee’s report stands as the decision of the court, how can the clerk have greater rights to enter a judgment upon a report than upon a decision of the court, so that it appears that the clerk has no power to enter in any case an interlocutory judgment, except after application has been made to the court and direction in that behalf given. Furthermore, the clerk has no power to enter a judgment except as ¿directed in the report or decision of the court.
+It seems 'to me. that this provision clearly contemplates .that the report or decision of the court, in order to clothe the clerk with authority to enter judgment in equity actions without application to the court to settle its form, must, in such report or decision, settle the exact form of judgment to be entered, and that it is no part of the clerk’s powers to determine whether a proposed judgment, clothed in different language, perhaps, conforms to the directions of the report or decision.
+His duties are simply clerical, and he is only to determine whether the judgment proposed is, in the exact language of the judgment, directed to be entered by the report or decision, .If it is not, he cannot determine whether or not it is substantially the same.
+It seems, therefore, that a referee’s report, in order to authorize the clerk to enter judgment in equity actions, must settle the form of the judgment so to be entered, otherwise judgment can only be entered upon application to the court.
+The orders appealed from should be affirmed, with $10 costs in each case and disbursements.
+Daniels and Bartlett, JJ., concur.
