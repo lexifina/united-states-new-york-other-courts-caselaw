@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1845-01-25"
+citations: ["1 Barb. Ch. 298"]
+reporter: "barb-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Williams, ex’r, &c. vs. Harden and others."]
+source_url: "https://static.case.law/barb-ch/1/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1994137
+---
+
+# Williams v. Harden
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+I have not been able to discover any thing in this case to take it out of the principle of the decision of this court in the case of Bovghton and Mills, executors, v. Phelps, (6 Paige’s Rep. 334.) It was there held that an executor was liable for the costs upon a bill of discovery, filed by him in aid of a defence at law, where it appeared by the defendant’s answer that there was no fact within the knowledge of the latter which was material to the complainant’s defence at law. Although many serious charges, contained in this bill, are sworn to as being true of the complainant’s own knowledge, the whole frame of the bill shows that he could not have-intended to swear that he really had any knowledge that these notes were either forgeries, or that they were given without consideration, or were otherwise invalid. In other words, it was a mere fishing bill, for the purpose of ascertaining, from the answer of the defendant, whether the representatives of the decedent had, or had not, a valid defence against the claim made upon the notes. And if the bill had stated the facts as they really were—that the defendant had presented two notes as valid claims against the estate, which the complainant had some reason to suspect were not actually due, and that the defendant refused to tell him what the consideration of the notes was, or the circumstances under which they were given-no injunction could have been obtained thereon. For the bill, in that case, would have been clearly bad upon demurrer; as the complainant, in a bill of discovery in aid of his defence in a. suit at law, must state a case which will constitute a good defence to such suit. ( Welf. Eq. PI. 119.)
+The statute specifies what evidence of the justice of a claim, presented against the decedent’s estate, by an alleged creditor of such estate, the executors or administrators have a right to require. They may require satisfactory vouchers in support of the claim; that is, in the case of a note, they may require the production of the note itself, or evidence that it has been lost or accidentally destroyed, if that fact is within the knowledge of a third person. And they may also require the affidavit of the creditor that the debt claimed by him is justly due; that no payments have been made thereon, and that there is no offset against the same to the knowledge of the claimant. (2 M. S. 88, § 35.) There is no pretence that such an affidavit was called for by the executor in this case and that the defendant refused to make it; or that any further evidence than the production of the notes themselves was necessary to satisfy the complainant, and the executrix, of the genuineness of the testator’s signature to such notes. The defendant, in a suit at law, is not entitled to come into this court for the discovery of a mere isolated fact which may or may not be material to his defence. But, in order to sustain a bill of discovery, the complainant therein must show what his defence to the suit at law really is; so that this court can see that the fact of which a discovery is sought, if admitted to be as stated in the bill, may be material in the establishment of such defence.
+In the present case the complainant has entirely failed in obtaining the discovery of any fact which appears material to his defence against the defendant’s claim upon the notes of the testator. It is therefore impossible to refuse costs to the defendant, without overturning a well established principle of the court in reference to such bills. The order appealed from must of course be reversed. And the respondent must pay to the appellant his costs in the suit before the vice chancellor, together with the costs upon this appeal, out of the estate of the testator which has come into his hands as executor.
