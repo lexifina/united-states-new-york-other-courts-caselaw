@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-12-14"
+citations: ["43 N.Y. St. Rep. 27"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis P. Weigmann, Resp’t, v. Benjamin Sire et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/43/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2078073
+---
+
+# Weigmann v. Sire
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The record shows nothing but a question of fact. The complaint is based upon facts which showed that one Catharine H. Mittnacht rendered services and furnished material on three separate premises for the defendant The complaint claims $1,146 for one contract, $75 for another, and $55 for the third. The answer states that the contract for which $1,146 is claimed was $960, which was paid. That the contractor failed to execute the $55 contract. The $75 contract is denied. The plaintiff is the owner of the several claims by assignment fromCatharine H. Mittnacht. The parties differed irreconcilably. The-plaintiff’s witness gave proof tending to show that the whole claim in the complaint is due. The defendants gave evidence to the contrary, and in support of the answer. Proof was given of a $750 payment by defendants to Miss Mittnacht, and she gave positive proof that no such payment was ever made. Proof was-given in respect to the performance of the $75 and the $55 items.
+The whole case with its many contradictions was sent to the jury under a clear charge in respect to the issues on the several items, and as to the payment, and as to the performance of smaller items. The jury have passed upon the questions. The conflict is so great, and the evidence is so strong on each side, with no-such preponderating force to either side, that the case falls within the general rule that the verdict of the jury is final upon a disputed question of fact.
+The judgment should, therefore, be affirmed, with costs.
+Pratt, J., concurs; Dykman, J., not sitting.
