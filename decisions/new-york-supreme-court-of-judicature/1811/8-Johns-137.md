@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1811-05"
+citations: ["8 Johns. 137"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jackson, ex dem. Humphrey and others, against Given and others."]
+source_url: "https://static.case.law/johns/8/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2134284
+cites_cases: ["1 Johns. Rep. 573"]
+---
+
+# Jackson, ex dem. Humphrey v. Given
+
+## Majority (Kent, Ch. J.)
+
+Kent, Ch. J.
+delivered the opinion of the court. 1. When Williams purchased of the patentee, in August, 1804, Atkinson, and those in possession under him, held the lot adversely, under a false title derived from a fraudulent source, and not from the real patentee. But as Williams's title was afterwards purchased in, by Masters, for the benefit of Atkinson, and those in possession under him, the lessors of the plaintiff cannot setup, against those very tenants, that adverse possession to defeat the purchase by Williams. The defendants have a right to protect themselves under that title, equally as if they had themselves purchased it, in the first instance. Why not ? The party in possession may always purchase in an. outstanding title; and Atkinson and those under him-have a right, by the purchase under Williams, to connect themselves with the patentee. The prohibition from purchasing pretended titles was intended for the benefit of the party, at the time in possession; and it ought not to be used as a weapon against such party. This would be defeating the very object and policy of the rule. In the case of Keite v. Clopton, (Carter, 18.) Sir O. Bridgeman, Ch. J. said, “ that an act may be void in several degrees; 1. Void, so as if never done, to all purposes, so as all persons may take advantage thereof; 2. Void to some purposes only; 3. So void by operation of law, that he that will have the benefit of it, may make it good.” Quisquís potest renunciare jure pro se introducto; The statute allows the party in possession to buy any pretended title; and there is no reason that the rule making the purchase of a.pretended title void, should be applied to a purchase set up by the very party in possession at the time. The title so set up cannot be to the prejudice of any person. It is not within the mischief of maintenance.
+The deed from the patentee to Williams being first recorded, is entitled, by the statute, to a preference. Nothing can defeat this preference, but the fact that Williams, when he made the purchase, had notice of the prior conveyance from the patentee of the 5th of February, 1795. There is no pretence that he had any express knowledge of that specific conveyance; and the only ground from which we can deduce any implied or constructive notice ef it, arises from the conversation which Williams had with a third person, about the time of the purchase, in. which he said that “ he had understood that TJmphrey had fooled away the lot, and had sold it several times, and did not consider it worth his trouble to look about it.” Even, if we were t© admit that implied notice will•upply the absence of the registry of the prior conveyance, this conversation, unaccompanied with other-circumstances, is too loose to justify the inference of such notice. The purchaser under the prior deed was not in possession,, and never had been. That deed had been executed nine years before, and had been suffered to remain dormant, not only without being recorded, but without any transfer of possession, or any act of ownership on the part of the purchaser. If the vague reports which Williams might have heard, be applied to this particular prior deed, he might well have presumed that it was not bona fide, or had been cancelled; and it would be rigorous to deprive him of his regular legal title under the statute, by the imputation of a fraud so imperfectly supported. In the case of Hine v. Dodd, (2 Atk. 275.) Lord Hardwicke said, that mere suspicion of notice was not enough to break in upon the registry act; and that nothing short of fraud, or clear and undoubted notice, would do. This decision was cited with much approbation by the master of the rolls, in Jolland v. Stainbridge. (3 Vesey, 478.) But if Williams did purchase') with notice, the subsequent purchase by Masters fromy him is not to be affected by the fraud of Williams. It is a settled rule, that if one affected with notice, conveys to one without notice, the latter shall be protected equally as if no notice had ever existed. (2 Vern. 384. 2 Fonb. 153. Amb. 313. 1 Johns. Rep. 573, 574.)
+The motion, on the part of the plaintiff, ought, therefore, to be denied.
+Motion denied.
