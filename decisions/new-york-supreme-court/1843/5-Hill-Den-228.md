@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1843-05"
+citations: ["5 Hill & Den. 228"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wood vs. Colvin."]
+source_url: "https://static.case.law/hill/5/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2174673
+cites_cases: ["2 Hill, 566", "2 Wend. 297", "23 Wend. 498", "8 John. Rep. 333"]
+---
+
+# Wood v. Colvin
+
+## Majority (By the Court, Bronson, J.)
+
+By the Court, Bronson, J.
+When lands have been sold on execution for less than the amount of the debt, the creditor cannot afterwards sell the same lands for the balance remaining due on the judgment, and thus defeat the title of the purchaser. (Hewson v. Dygert, 8 John. Rep. 333.) Nor can he effect the same end by redeeming from a sale under an older judgment. (Ex parte Stevens, 4 Cowen, 133.) And where the creditor sells and becomes the purchaser himself at a sum exceeding the amount of his debt, it is said that his judgment is satisfied and the lien gone, so that he cannot afterwards redeem from a sale under an older judgment. (The People v. Easton, 2 Wend. 297.) But that does not touch the present case, because here a balance still remained due on the Hulburt judgment after the first sale under it; and as to that balance the hen of the judgment might, for some purposes, well continue. It would not continue for the purpose of defeating the rights of Davis, who purchased at the first sale. But when Brackett, the judgment debtor, redeemed from that sale, Davis got his money back again with interest, and the sale "became “ null and void.” (2 R. S. 371, § 49.) There was no longer any thing in the way of a second sale of the land for the balance remaining due on the judgment.
+It is said that there should have been a new levy before there could' he a second sale, and that there could be no such levy because the return day of the execution had passed. If any thing in the form of a levy was necessary, I think the original levy on receiving the execution was sufficient for the second sale as well as the first. When the land was redeemed by the judgment debtor, the first sale and the certificate of sale became null and void. (2 R. S. 371, § 49.) It was precisely the same thing as though no sale had ever been made, except that a part of the judgment had been satisfied. Nothing but the sale and certificate were nullified. The original levy remained. unaffected:
+There is another answer to this objection. It has on several occasions been taken for granted that there must be a levy on real estate; but the point has never been so adjudged. The cases are collected in Green v. Burke, (23 Wend. 498.) When the judgment is a lien upon the land, it is not necessary that the sheriff should make any formal levy or seizure before proceeding to advertise and sell. It would be an idle ceremony for him to go to the land, or make an inventory of it, or do any other act of the like nature. The judgment binds the land, which is already in the custody of the law before the execution issues. The execution comes as a power to enable the creditor to reap the fruits of the seizure already made.
+After lands were subjected to sale on execution, and before the judgment was made a lien, (see per Chancellor Lansing in Catlin v. Jackson, 8 John. R. 546,) the sale of lands and of goods on execution stood substantially upon the same footing, and a levy or seizure was necessary in the one case as well as in the other. But when the judgment was afterwards made a lien on the land, there was no longer any reason for requiring a levy before the sheriff proceeded to advertise and sell. The seizure was already made when the execution came to his hands. . Lawyers and judges have still continued to speak of the supposed necessity of a levy upon land, without adverting to the tact that the reason for the rule had entirely ceased. But as there is nothing but dicta upon the point, we feel ourselves at liberty to say, that since the judgment has been made a lien upon the land, no formal levy or seizure by virtue of the execution is necessary.
+The objection that a new execution should have been issued is not well founded. Where the execution of a writ offieri facias has been commenced before the return day has passed, it may be completed by a sale of the property afterwards; and the second sale was well made without issuing a new writ. The old one was not rendered void by the first sale. As to the balance remaining due on the judgment, the writ still remained in full force. It is true, that between the time of the first sale and the redemption, the execution could not be used for the purpose of re-selling the same land; but the moment the redemption was made, the execution was restored to all its original vigor.
+When the sheriff has commenced the execution of a writ of fieri facias before he goes out of office, he may complete it afterwards ; and so it is in relation to most final process. This rule of the common law has now been carried into a statute. (2 R. S. 439, § 71.) I see nothing in this case to take it out of the operation of the general rule. The sale was well made by the old sheriff, although his term of office had expired.
+New trial denied.
