@@ -1,0 +1,21 @@
+---
+court: "New York City Court"
+decided: "1894-06-20"
+citations: ["60 N.Y. St. Rep. 853", "29 N.Y.S. 603", "9 Misc. Rep. 204"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Owen Toher, Resp’t, v. Cecelia L. Lappine, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/60/cases/0853-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1982550
+---
+
+# Toher v. Lappine
+
+## Majority (Conlan, J.)
+
+Conlan, J.
+The action is to recover the sum of six hundred and fifteen and 66-100 dollars ($615.66) and interest from September 1st, 1891, made up of a balance of three hundred dollars claimed under a contract and three hundred and fifteen and 66-100 dollars for extra work and material. The answer alleges nonperformance in conformity with the plans and specifications, and that defendant was obliged to expend two hundred dollars to complete the same, and asks judgment for a dismissal of the complaint and for a judgment for seven hundred dollars, including the two hundred dollars alleged and five hundred dollars the amount fixed by.the contract as damages to be paid by the failing party. We have examined the case and evidence very carefully for errors alleged to have been committed and which it is claimed have resulted in a judgment against the defendant which the court on appeal is called upon to reverse. The findings of the trial judge award to the defendant the sum of two hundred and thirteen and 01-100 dollars ($213.01) folio 541-542 to be deducted from any amount found to be due the plaintiff; and this is in excess of the sum claimed by the defendant in her answer to have been expended in what she terms a completion of the contract, and this is thirteen dollars and one cent more than is claimed in her answer to have been paid. He also finds at folios 537 and 538 that the plaintiff performed extra work outside of the contract amounting in all to the sum of three hundred twenty-four and 22-100 dollars as against three hundred and fifteen and 66-100 dollars, the amount claimed by the plaintiff in his complaint, so that by a computation of figures there is a balance in defendant’s favor on this award of $4.45 in adjusting balances. We are not disposed to disturb findings of fact which embrace mere calculations or additions in figures, nor where the court has determined them after hearing all the evidence in the case. The notice of lien sufficiently described the defendant and the property and we cannot say that the defendant has been misled or affected to her injury by anything in the contract or specifications or any alleged variance between them. By the terms of the contract the plaintiff agreed “to furnish all the materials and perform all the necessary labor to complete,” etc., “according to the plans and specifications,” and the trial judge has found a substantial compliance with the terms of the contract, awarding to the defendant a credit of two hundred and thirteen and 01-100 dollars for work claimed by her to have been necessary to complete and restore that portion of the work for which it is claimed by the plaintiff that the elements were responsible, and this adjustment by the trial court of the equities between the parties we are not inclined to vary. No other or further damages were proven by the defendant on account of any alleged non-performance than the sum allowed to her in the adjustment as made by the findings, and her right to recover anything beyond the credit awarded does not appear. There is no contention by the defendant, but that with the allowances made in the findings, as a credit to the defendant, the contract and specifications were completed and performed, and for this reason we are disinclined to disturb any of the findings or con-conclusions of the trial judge, which appear to be not unfavorable to the defendant as we have examined them, and are in accord and harmony with the whole case and the evidence adduced on the trial. There does not appear to us anything in the defendant’s request or exceptions calling for a different conclusion than that which was reached by the trial judge.
+The judgment should, we think, be affirmed, with costs.
+Fitzsimoxs, J., concurs.
