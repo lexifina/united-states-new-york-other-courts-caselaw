@@ -1,0 +1,24 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1888-06-11"
+citations: ["17 N.Y. St. Rep. 742"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Estel, Pl’ff, v. Brayer De Pennevet, Def’t."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0742-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008256
+cites_cases: ["10 Johns., 172", "70 N. Y., 492"]
+---
+
+# Estel v. De Pennevet
+
+## Majority (Daly, J.)
+
+Daly, J.
+The plaintiff deposited his note for $3,000, dated January 16, 1888, payable three months after date to his own order, and endorsed by him, with the defendant, as collateral security for a letter of credit of £600 received from defendant upon the written stipulation of defendant that he would not allow the said note to go out of his possession. The plaintiff subsequently tendered the letter of credit to defendant, and demanded the return of the note, which was refused; defendant having parted with the note, having given it as collateral security for any balance of account which might be due from him to the firm of Alfred Carr & Co. Defendant knew when he did so that there was nothing owing upon the said letter of credit. The note has been presented to plaintiff for payment by the Tradesmen’s National Bank.
+Under the authorities, these facts make out a case of disposing of a chattel, so that it cannot be found or taken by the sheriff, and with the intent that it should not be so taken. Barnett v. Selling, 70 N. Y., 492.
+The defendant, when he pledged the note with his. creditors, knew that he was diverting it from the purpose for which it'had been deposited with him, and that he was putting it beyond the reach of the owner; and he will be presumed in so doing to have intended that it should not be taken by the sheriff in the event of plaintiff’s bringing an action to recover it. The order of arrest was, therefore, properly granted.
+The defendant suggests that the Tradsmen’s Bank may have presented the note on behalf of defendant; that there is no proof that it is now held by an innocent holder; and that it was transferred before maturity, etc. But this is not an answer to the action. The affidavit of J. W. Mason shows an admission of defendant that he had pledged the note; if this were done after its maturity, if it were not held by a bona fide holder, the defendant could easily show the fact; but that would not, I think, defeat the action. The transfer of the note and inability to deliver it upon demand establish the liability of the defendant in this form of action. An action for the recovery of plaintiff’s own negotiable promissory note, before it is paid, may be maintained the same as for any chattel. Barnett v. Selling, 70 N. Y., 492; Murray v. Burling, 10 Johns., 172.
+Motion to vacate the order of arrest and to discharge defendant denied, with ten dollars costs.
