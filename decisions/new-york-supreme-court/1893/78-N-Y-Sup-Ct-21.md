@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1893-07"
+citations: ["78 N.Y. Sup. Ct. 21"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman, J., concurred."]
+parties: ["Henry Berau, Appellant, v. Daniel O’Connell, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/78/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8592315
+---
+
+# Berau v. O'Connell
+
+## Majority (Barnard, P. J.:)
+
+Barnard, P. J.:
+The parties to the action entered into copartnership in December, 1886, in a contract given by the city of Brooklyn to Berau for the removal of garbage from the streets of the city of Brooklyn. The name of the firm was Henry Berau. The contract was subsequently enlarged and the partners commenced their employment. The usage of the parties was to settle monthly. The business continued until February 12, 1892, when the copartners had a full settlement. The complaint is framed upon a general allegation made by the plaintiff that the defendant toot from the partnership funds large sums of money with which to protect the partnership interests, and that he did not so use the money; but that the money was taken by defendant under a false allegation that the sums were needed, but that no payments were ever made, and the money was retained by the defendant for his own use. The defendant denied the allegations of the complaint. Upon the trial the general allegations became, by the evidence, specific. The plaintiff testified that the defendant; at the commencement of the partnership, told him that four per cent of the total amount of the receipts for the city work under contract must be paid to certain unnamed persons designated as “ them parties in Willoughby street.” The plaintiff asked who they were, and the defendant told him he would learn later. Four or five months after the contract commenced, the defendant told the plaintiff that the four per cent amounted to $3,000, and “ they want some money.” Thereupon, the plaintiff testifies he got $1,500 and gave it to flie defendant; that defendant put his $1,500 with it and gave the bundle to Mr. "Wernberg in his, plaintiff’s, presence. No direction was given as to its deposit beyond this; that it was to be given to a person who should present a card with H. B. on it, written by the defendant. This transaction stands alone and has a vital, even controlling, intent upon the other payments claimed to have been subsequently made. The defendant denies the statement entirely in a sentence, “ that is not true; that is false.” Mr. Wernberg is called, and he states that the plaintiff left the package of $3,000, with a card marked H. B. That he has no recollection who presented the duplicate card, or to whom he paid the moneys. That he believes the defendant was not present. A careful reading of the testimony of Mr. Wernberg leads to the conclusion that the plaintiff’s narrative, gave the true account of the $3,000. There was a package of $3,000. There were two cards printed H. B. The package contained one, and the other was to be given to him as a voucher by which Mr. Wernberg should be authorized to give the money. It is an easy inference that the money was returned to the defendant. He liad the authority to get it, and gave it to someone or used it himself. He is responsible until he shows a payment to some other person. If four per cent was to be paid to someone, its payment would absolve the defendant; he has the keys of knowledge, as I read the evidence, of plaintiff and Wernberg.
+The evidence between the parties as to the subsequent payment is equally contradictory. The plaintiff says that four per cent was paid yearly to defendant under the same pretense. That when an additional contract was obtained, there was $916 due and payable each month, and that one-lialf of this, $458, was paid in cash by the plaintiff to the defendant. The plaintiff is supported by his son. The son states that on two occasions he paid defendant, for his father, $458 ; that on one or several occasions he saw his father pay over money to defendant; that the defendant on some occasions urged him to tell his father that “ those people want the money,” and that he went to the bank to draw money on his father’s checks. These cheeks were rejected, although the fact that the $458 cash was paid, obtained by the checks.
+Under this evidence, if the $3,000 was paid Wernberg, all others were. That payment established the four per cent basis, and with the evidence of the plaintiff and his son as to the remaining payments, they should be believed as against the defendant, who contradicts not only these witnesses, but Mr. Wernberg as well. No money was to be or was paid to gentlemen in Willoughby street. That was only an excuse to get this considerable sum of money from his partner.
+The judgment should be reversed and a new trial granted, costs to abide event.
+Dykman, J., concurred.
+Judgment reversed and new trial granted, costs to abide event.
