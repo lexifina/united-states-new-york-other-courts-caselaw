@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1890-10"
+citations: ["25 Abb. N. Cas. 455", "33 N.Y. St. Rep. 710"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MATTER OF COWIE."]
+source_url: "https://static.case.law/abbn-cas/25/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1966177
+---
+
+# In re Cowie
+
+## Majority (Ingraham, J.)
+
+Ingraham, J.
+From the papers upon which the order in the proceedings is applied for, it appears that, in pursuance of a duly authorized call of the republican county committee of the county of New York, the-enrolled republicans ■of the thirteenth assembly district, on September 26, 1890, held their primary election at the headquarters of the said enrolled republicans, at No. 269 Eighth avenue; that at said primary election there was a contest between two factions of ábe .said enrolled republicans, and two tickets were voted, upon which were the names of several delegates to the-republican county, congressional, assembly and aldermanicconventions, and that the inspectors of such primary election duly announced that the ticket headed by Frederick • B. House was elected by a majority exceeding two hundred. It also appears that a certificate of the election of such delegates to the assembly convention, signed by the inspectors of election, was duly filed with the register of the city and county of New York, and a certified copy thereof produced before-the county clerk on the hearing before him.
+The convention, the delegates to which were thus elected,, met on the date fixed at the place named in the call for the election, and nominated, as a candidate for assembly, Frederick S. Gibbs, and a certificate of that nomination, duly attested by the presiding officer and secretary of such convention, was duly filed in the office of the county clerk. No-objections thereto were filed with the county clerk within the time allowed by law.
+The application is made under chapter 2G2 of the Laws, of 1890.
+By section 2 of that act it is provided that “ any convention or primary meeting, as hereinafter defined, held for the purpose of making nomination to public office, . . . may nominate candidates for public office to be filled by election within this State. A convention or primary meeting, within the meaning of this act, is an organized assemblage of voters- or delegates, representing a political party,' which, at the-last election before the call of such convention, polled at-least one per centum of the entire vote cast in the district-for which the nomination was made.”
+The convention that nominated Frederick S. Gibbs was-" clearly a convention representing a political party, as specified in this section, and a certificate of such nomination was in apparent conformity with the provisions of the act.
+By section 13 of the act it is provided that all certificates of nomination, which are in apparent conformity with the provisions of the act, shall be deemed valid, unless objections, thereto shall be made in writing within three days after the. filing of the same. No objections having been filed to this, certificate, and it being in apparent conformity with the-provisions of the act, it would seem that, by operation of law, the nomination was valid, and the county clerk was-bound to recognize the person named as the regular nominee-of the republican party for the office.
+The certificate of nomination filed by James A. Cowiewas not on its face regular. It appeared that the convention therein described was composed of the delegates who-did not receive the required number of votes at the primary election, and the claim that it was the regular convention depended upon the action of the county convention of the-republican party and the action of the State and county committee of the same party. There is, however, no authority given by the act for the interference of either of these bodies. It is the convention that the act recognizes, and to give to the county convention, or the State or county committee, power to say which of two bodies claiming to be the-regular party convention of a district, and which had each made a nomination, was the regular party convention, would be giving the county convention or the State committee the-, power to make the nomination in the district, and not the-convention elected as prescribed by the party and in accordance with its usages.
+There is no power, so far as appears in the constitution-of the county committee of the republican party, to determine such a question, and nothing appears before the court in this application that would justify a finding that the delegates to the county convention, in fact, received the larger-number of votes at the primary election.
+I cannot see that any authority is given by the act to the clerk or the court to decide between the claims of rival factions in a political party. We are bound to follow express-provisions of the statute. No supervisory power over the action of the local convention is given by the statute tocither the county or State committee, or to a county convention called for the nomination of candidates for a county or •city office. We must look to the action of the duly constituted district convention, and as the duly constituted district -convention nominated Gibbs, neither the county clerk nor the court can deviate from the terms of the statute or overrule the action of such convention.
+I think, therefore, that the application should be denied and the action of the clerk sustained.
