@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-11-28"
+citations: ["34 N.Y. St. Rep. 645"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Reformed Dutch Church of Summit, Resp’t, v. William L. Harder et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0645-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2046836
+cites_cases: ["17 N. Y., 34", "19 N. Y., 482", "54 N. Y., 551", "68 N. Y., 570", "73 N. Y., 323"]
+---
+
+# Reformed Dutch Church v. Harder
+
+## Majority (Lakdoh, J.)
+
+Lakdoh, J.
+The conveyance by Beed and Ham in 1830 to Spickerman and others, trustees, vested in them and their successors, under the Laws of 1813, chap. 60, § 4, the title to the lot in question, in trust for the religious society, subject to the terms of the deed, to hold the same until the society should be incorporated. Church of Redemption v. Grace Church, 68 N. Y., 570.
+Of course, if before the incorporation the term of the title to the lot pursuant to the terms of the deed had ceased, the subsequent incorporation could not vest it in the corporation -nor divest those of it who had meantime become vested of it. But if upon such incorporation the title shall still remain in the trustees in trust for the society the corporation would then succeed to their legal title. First Baptist Church v. Withered, 3 Paige, 299; Lutheran Church of Eden v. Bly, 73 N. Y., 323.
+By the terms of the deed, the trustees were to have and to hold the premises ll as long as they shall continue to occupy them ” for divine worship, “ and not to be transferred or occupied for any other purpose, and whenever the said church shall abandon said premises, then this title to cease.” These provisions were not conditions subsequent, subjecting the title to forfeiture upon reentry or judgment to that effect, but limitations upon the title-specifying when it should cease. 4 Kent’s Com., 126 ; Mayor v. Stuyvesant, 17 N. Y., 34. At least,- this was the view of the trial court, and it is the most favorable view for the defendants.
+The society or trustees never transferred the premises and never occupied them for other purposes than for divine worship. Occasionally and rarely, on other days or evenings than Sunday, there were gatherings in the church edifice for secular purposes. But such gatherings do not appear to have been any interference with the main use of the church edifice, and it would be too narrow a construction to hold that they put an end to the title. The fair meaning of the restrictive clauses of the deed is that when the premises shall be transferred or occupied for secular, uses, to their permanent disuse for divine worship, the church, that is the religious society, thus or otherwise abandoning the premises, then the title should, cease.
+The trial judge left it to the jury to determine upon the evidence whether any such abandonment had taken place. The jury found it had not. The evidence supports the verdict. The society was brought near extinction, but it survived.
+The defendants urge that the church was dissolved by the decree of the Schoharie classis in 1879. This church was a member of that classis, and under the constitution of the Reformed (Dutch) church was amenable to its jurisdiction in the matter of “ disbanding ” it as a congregation of that denomination.
+Chapter 55, Laws 1880, amending § 3 of chapter 110, Laws 1876, so as to confer jurisdiction upon such governing body to determine when such a church had become extinct, not then existing, could not apply to this case. Chapter 381, Laws 1875, amended by chapter 177, Laws 1877, has reference to the Presbyterian denomination, as plainly appears from its provisions and phraseology, and does not apply to the Reformed (Dutch) churches. But conceding the jurisdiction of the classis to disband this congregation, Connitt v. Reformed Prot. Dutch Church, 54 N. Y., 551, it did not actually disband or dissolve it, but authorized some steps to be taken for that purpose, which were never actually taken. The decree or resolution was never ex-excutecL It appears to have been made without notice to the “ brethren at Eminence,” and without provision for thqir transfer to other churches.
+The same classis in 1886 reviewed its action of 1879 in the matter, and pronounced it inoperative. The classis then, upon an examination of the matter, and upon hearing the brethren at Eminence; held that the action of 1879 had not dissolved the church, and it recognized and affirmed its continued and regular existence. So far as this is an ecclesiastical question, we accept the final deb cisión of the classis. Connitt v. Reformed Prot. Dutch Church, supra.
+It does not conflict with the verdict of the jury.
+The title to the premises, therefore, was in the trustees in trust for the society at the date of its incorporation.
+The defendants insist that no legal incorporation was effected. In January, 1887, this church had no minister. . By § 2, chap. 60, Laws 1813, if there be no minister, then the elders and deacons elected according to the rules and usages of such churches shall be the trustees for every such church and congregation, and may incorporate by assembling together and executing “ under their hands and seals a certificate certifying the name or title by which they and their successors forever as a body corporate, by virtue of this act, shall be known and distinguished.” The certificate must be acknowledged or proved and recorded in the county clerk’s office- The certificate recorded in the Schoharie county clerk’s office contains all the recitals necessary to show that the persons executing it were for the time being the trustees of the church. The certificate is regular in form, and, therefore, is prima facie evidence of the truth of its recitals where, as in this case, there is proof of the subsequent user of the corporate rights of the body. Methodist Epis. Union Church v. Pickett, 19 N. Y., 482. The subsequent user here shown was the resumption and continuance of religious meetings after filing the certificate of incorporation. Besides there is proof outside of the certificate of the official character of the persons making it We think the plaintiff’s existence as a corporation was shown.
+The question of damages was fairly submitted to the jury. The evidence tends to show that whatever wood was cut and taken away was cut and taken under the direction of the defendants.
+The judgment should be affirmed, with costs.
+Learned, P. J., and Mayiiam, J., concur.
