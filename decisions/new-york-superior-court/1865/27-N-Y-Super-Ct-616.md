@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1865-05-27"
+citations: ["4 Rob. 616", "27 N.Y. Super. Ct. 616"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John C. Sullivan, plaintiff and respondent, vs. George Frazee and Ellen M. Robbins, defendants and apellants."]
+source_url: "https://static.case.law/ny-super-ct/27/cases/0616-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1403092
+cites_cases: ["15 How. 92", "17 Wend. 87", "4 Duer, 603", "5 Duer, 605"]
+---
+
+# Sullivan v. Frazee
+
+## Majority (Robertson, Ch. J.)
+
+By the Court,
+Robertson, Ch. J.
+In this case one of the defendants (Robbins) was not a resident of this state, and was served with a summons in the state of Connecticut only, and not in this city. She sets up those facts alone in her answer, and claims that this court has, therefore, no jurisdiction of her person. The answer is signed by an attorney of this court. The plaintiff proceeded to a trial before a justice of this court without a jury. Ro reply was put in to such answer, nor was any evidence introduced on such trial to disprove its allegations. The Code permits a defendant to demur when it appears on the face of the complaint that the court has no jurisdiction of the person of the defendant, (§ 174, suhd. 1;) and, when that does not appear on the face of the complaint, to take the same objection by answer, (§ 147 ;) such objection, however, is not waived, notwithstanding it may not be taken in either mode. (§ 148.) A voluntary appearance of a defendant is equivalent to personal service of the summons upon him. (§ 139.)
+The facts contained in the answer of such defendant formed a good reason for the abatement of the suit, or dismissal of the complaint. If not denied, they were admitted, and there was no issue of either fact or law, in the case, to be tried. (§§ 249 to 254.) If they constituted no defense, the plaintiff’s remedy was under section 246 or 247. The defendant seems to have .taken no part in the trial, except to prove the allegations of her answer.
+The Code evidently assumes the right of the defendant to appear in the action, and put in an answer for the purpose of objecting to the jurisdiction of the court. The voluntary appearance which is made equivalent to a personal service of the summons, under the 139th section of the Code, is such an appearance as is a submission to the jurisdiction of the court. Some one must appear for a party in order to object to the jurisdiction, and such party is not bound to wait until a final judgment in order to move to set it aside. An appearance merely by such a document as an answer which protests against the exercise of jurisdiction, is surely not such an appearance as waives the objection. (Avery v. Slack, 17 Wend. 87, per Cowen, J.) The voluntary .and general appearance which waives all objections, is that mentioned in the 11th general court rule.
+In the case of Mahaney v. Penman, (4 Duer, 603,) the action was upon a judgment obtained in the court of a sister state, (Virginia,) and one of the defenses set up was that this court had no jurisdiction of the person of the defendant, but for what reason was not stated ; another defense set up was that the court in the sister state had no jurisdiction over the person of the defendant, to render the judgment it did. The only inquiry was in reference to the jurisdiction of that court; nothing was said about the service of any process in the action in this court. The decision only extended to the effect of a voluntary appearance in the former court. Other defenses upon the merits also were joined with such undisclosed objection to the jurisdiction of this court, and possibly where a party mingles a defense on the merits with such an objection, or in any way calls upon the court to decide on any other question, or appeals to its favor, he submits himself to the jurisdiction. (Cooley v. Lawrence, 5 Duer, 605. Quin v. Tilton, 2 id. 648. Kelsey v. Covert, 15 How. 92.) Everyone who acts as an attorney in an action for another, is bound to indorse and subscribe his name, (general court rule 16,) on papers served by him in order to procure service upon him of other papers. (Code, § 414.) So that the mere subscription of the answer with the name of an attorney, was not such an appearance as to waive any objection to jurisdiction.
+The complaint should have been dismissed as to the defendant Robbins, for want of jurisdiction, but without costs, this court having no power to make such a judgment in her favor. This court had power to act, however, upon the complaint, as in a creditor’s action, property being discovered belonging to the defendant Frazee, to wit, the lease of the premises in 36th street and the chattels mortgaged to the defendant Robbins. The former defendant has, at all events, an equity of redemption in, and possessory right to, such chattels, and the receiver may, on taking possession of them, deem it proper, as he has a right, to commence an action to get rid of the claim of the defendant Robbins.
+The judgment must, therefore, be modified in these respects, as to the last named defendant, without costs, and affirmed as to the defendant Frazee, without costs to either party,
