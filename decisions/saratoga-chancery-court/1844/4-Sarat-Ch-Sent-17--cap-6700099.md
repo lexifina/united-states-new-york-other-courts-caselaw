@@ -1,7 +1,7 @@
 ---
 court: "Saratoga Chancery Court"
 decided: "1844-05-07"
-citations: ["4 Sarat. Ch. Sent. 17", "4 Sarat. Ch. Sent. 21"]
+citations: ["4 Sarat. Ch. Sent. 17"]
 reporter: "sarat-ch-sent"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
