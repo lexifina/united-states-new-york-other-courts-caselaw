@@ -1,0 +1,33 @@
+---
+court: "New York Superior Court"
+decided: "1881-02-07"
+citations: ["15 Jones & S. 80", "47 N.Y. Super. Ct. 80"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THORP, Appellant, v. THORP, Respondent."]
+source_url: "https://static.case.law/ny-super-ct/47/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1669878
+cites_cases: ["1 Pick. 505", "1 Yerg. 110", "113 Mass. 458", "16 Mass. 157", "2 Blatchf. 61", "2 Hun, 238", "23 Hun, 260", "31 Mich. 136", "4 N. Y. 95", "40 Ala. 301", "8 Abb. N. C. 444"]
+---
+
+# Thorp v. Thorp
+
+## Majority (Bv the Court.—Speir, J.)
+
+Bv the Court.—Speir, J.
+The answer in substance denies the adultery charged in the complaint, and sets up counter-charges against the plaintiff ; and as a defense alleges a former marriage of the plaintiff with one Emma C. Reed in 1855, and a judgment of divorce in an action brought by her against the plaintiff in this action, for adultery, in the supreme court, Kings county, in October, 1861, and a decree entered in November, 1861, in the usual form, forbidding the plaintiff to marry again during the life of the said Emma, and that the said Emma was living when the plaintiff married the defendant herein.
+The defendant gave no evidence as to the adultery charged in her answer, nor did she give any testimony contradicting the charges against her in the complaint, but rested her defense solely upon the invalidity of the alleged marriage between her and the plaintiff.
+It appears in the case that the plaintiff and the defendant, both residing here, to evade the laws of this State and said judgment and decree, went from the State of New York to the city of Philadelphia, entered into the contract of marriage mentioned in the complaint, returned to this State and continued their residence therein ever since said marriage.
+When the plaintiff left this State for Pennsylvania and had of marriage ceremony there performed, it was—as must be assumed from the immediate return of the parties—their intention to continue to make this State their domicile and enjoy the protection of its laws. A marriage contracted by a person situated as is this plaintiff, is forbidden by express statute of the State. “Whenever a.marriage shall be dissolved pursuant to the provisions of this article, the complainant may marry again during the life-time of the defendant; but no defendant convicted of adultery shall marry again until the death of the complainant.” By another section it is provided that any violation of this provision “shall be absolutely void.” '
+It must be admitted that the validity of a marriage-like the present has been heretofore an open question. We are not informed that the court of last resort in this State has determined any of the questions presented in this case. The supreme court in this district has decided against the validity of such marriages, by a majority of the court, upon able opinions delivered by two of the learned judges on both sides of the question (2 Hun, 238), and we believe the supreme court in the-second district has lately adopted the same views.
+Among other objections to this position, it is urged that the statutes are fully satisfied by a construction which limits their prohibition to a second marriage-contracted within this State. If this be conceded, it, necessarily follows that the intention of the statutes is-to permit either party to the contract, divorced for either his or her adultery, to go outside of the jurisdiction of the State and marry again while the former husband or wife is living within that jurisdiction. It seems plain to us that this view of the case wholly overlooks the object and intention of the legislature. The statute not only forbids the marriage by prohibitory words, declaring it . to be wholly void, but also attaches to the violation of the contract of marriage a punishment, by depriving the guilty party of the power of entering into the marriage state during the life-time of the injured party.
+The question is one of the policy of the law in its administration. It is the duty of those who administer the laws to see that they shall not be disregarded or violated by any of its citizens while enjoying their protection and privileges.. The plaintiff in this case, by a decree of the court exercising jurisdiction, being forbidden to enter into the contract of marriage during the life of the partner he was bound to cherish and protect, goes into a foreign jurisdiction, sets at defiance the mandate of the court of his domicil, by a second marriage, and now asks to be relieved from the consequences of a contract illegal and void by the laws of Ms own State.
+The case before us is not one of domicile in Pennsylvania, for it is stated that the parties were domiciled here and went to Pennsylvania in fraud of our law. If the law of Pennsylvania allows such a marriage, and though it be true that (he marriage is to be judged by the lex loci contractus, yet it is but reasonable that every State should so far respect its own laws and their operation upon its own citizens, as not to allow them to be evaded by acts done in another State for the purpose of defeating them.
+We are of the opinion that in determining the matter before us, a preliminary consideration is presented ; that is, the capability of the party to contract the second marriage, and the question is whether that capability is to be determined by the law of Pennsylvania or the law of New York.
+The plaintiff appeals to the tribunal of the State to which he owes allegiance, and presents for its decision the question whether he has the capacity to contract a marriage out of the State, and which by a decree of one of its tribunals he was absolutely forbidden to contract.
+The answer to this question is settled by a direct adjudication in Conway v. Beasely (3 Hagg. 639),— which is precisely our case,—in which persons domiciled in England were divorced in Scotland, and then one of them married again in Scotland, and upon coming again into England, that second marriage was declared null, though it was admitted to be good by -the law of Scotland.
+The plaintiff has chosen the tribunal exercising jurisdiction within the State of his residence to decide a question involving the validity of a contract- entered into by him outside of that jurisdiction, which he was forbidden to make by a judgment or decree, of one of his own tribunals.
+The order and judgment appealed from should be affirmed, with costs.
+Freedman, J., concurred.
