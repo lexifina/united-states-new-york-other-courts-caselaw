@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-12-08"
+citations: ["42 N.Y. St. Rep. 79"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph William Bradshaw et al., Resp’ts, v. The Agricultural Ins. Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/42/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2071242
+cites_cases: ["1 Johns Ch., 101", "53 Barb., 346"]
+---
+
+# Bradshaw v. Agricultural Insurance
+
+## Majority (Mayham, J.)
+
+Mayham, J.
+On the 3d day of October, 1887, the defendant issued its policy to James J. Bradshaw insuring his dwelling house in the sum of $3,000 against loss and damage by fire, and on the 1st of March, 1890, the building insured was partially destroyed by fire. Proofs of loss were duly made and served on the defendants, and on the 24th of March, 1890, defendant’s agent and adjuster attended at the place of loss and asked that two disinterested appraisers be appointed according to the provisions of the policy to ascertain and appraise the loss of the assured, and presented the name of an individual on behalf of the company to act as one of the appraisers, stating at the time that the person named was a builder of large experience, a neighbor of the agent and a disinterested and proper person to act as an appraiser under the conditions of the policy. Upon that statement the agent of the plaintiff named a person to act as another appraiser and an agreement in writing was entered into between the parties appointing the persons so named to estimate and appraise the loss, and make their award in writing upon such appraisal of the plaintiff’s loss.
+These appraisers took the usual oath of appraisers or arbitrators in such cases and proceeded to investigate the loss and made their report in writing, wherein they fixed the amount of the loss at $1,760.31. The defendant thereupon tendered the plaintiff that sum and offered to pay the same, but the plaintiff refused to accept the same and brought this action to set aside the award on the ground of fraud and to recover of the defendant the amount, of the actual loss suffered by the plaintiff by the injury to the building by fire.
+The ground alleged by the plaintiff for setting aside the report was that the representations of the defendant’s adjuster, that the appraiser named by him was disinterested and impartial, were false and fraudulent, and that the person so named as appraiser by the defendant’s adjuster was an employe of the defendant in the business of estimating losses in the interest of the defendant, and that the amount of the award was grossly inadequate to the loss actually sustained by the plaintiff. On the trial of the action a jury was impannelled and the court submitted to them two questions for their answer, as follows:
+First. What is the amount of the loss caused to the house of the late James J. Bradshaw by fire?
+Second. Was Mr. Lacy a disinterested appraiser at the time of his appointment ?
+In answer to the first question the jury found that the loss was $2,750. They also found in answer to the second question that Mr. Lacy was not a disinterested appraiser. The trial judge concurred in and approved of both of the findings of the jury. And found that the agreement of the parties appointing appraisers to ascertain and appraise the amount of the loss was an arbitration; that said agreement was void on account of false representations made by the defendant to induce the plaintiff to enter into the same, and that the agreement and award be set aside, and that the plaintiffs recover of the defendant in the action the sum of $2,846.25, with costs.
+The defendant on this appeal attacks these findings of the jury and trial judge upon the question of fraud, chiefly upon the ground that they are unsupported by or against the weight of evidence. The question of fraud and misrepresentations of the defendant in this case is clearly one of fact, and was properly treated as such by the learned trial judge, and we think the verdict of the jury, which was advisory to the court, supplemented by the finding of the court that the appraiser Lacy was not disinterested, is supported by the evidence.
+It is quite apparent from the evidence that he regarded himself, to some extent at least, as employed by the defendant and charged with the duty of looking after its interests in making his award. He had been employed as an expert by the defendant in estimating losses on other fires, and in some expressions in his testimony given on this trial clearly identifies himself in feeling, if not in interest, with the defendant.
+There is at least too much evidence in support of the findings of the jury and judge who saw the witness as the testimony was given, to justify the appellate court reversing their findings-upon this question. Having found that this appraiser furnished by the defendant was not disinterested and impartial and that bis-appointment was consented to on the part of the plaintiffs by reason of fraud practiced upon them by the defendant, it was the plain duty of the court to set aside the submission and award.
+We see no reason for holding that this submission was not an arbitration, and as such governed by the provisions of § 2374 of the Code of Civil Procedure. There was no other controverted, question between the parties, except the amount of loss; the giving of the policy, the loss under it by fire, and the plaintiff’s right-to be paid the amount of the loss, all seem to have been conceded on the trial.
+But whether this was an arbitration under the provisions of the Code or not, it is clear that if this submission was procured by fraud, and the arbitrator was not a disinterested person, but on the contrary was the agent or advocate of the interests of the defenddant, so that he did not occupy the position of strict impartiality between the parties, he was not such an appraiser as was called for by the contract; his appointment, and the award made by him was properly set aside by the court. Perkins v. Giles, 53 Barb., 346; Herrick v. Blair, 1 Johns Ch., 101; Todd v. Barlow, 2 id., 551; Story’s Equity, § 1452. If, therefore, the submission and award were properly set aside by the 'court, the only remaining question is, was the amount recovered sustained by the evidence. Upon this subject there seems little or no doubt.
+The proof fully sustains the verdict of the jury and finding of the judge as to the amount of the loss.
+On the whole case we see no error for which the judgment in this case should be reversed.
+Judgment affirmed, with costs.
+Learned, P. J., and Kellogg, J., concur.
