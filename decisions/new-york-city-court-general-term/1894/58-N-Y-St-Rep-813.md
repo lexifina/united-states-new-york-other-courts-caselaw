@@ -1,7 +1,7 @@
 ---
 court: "New York City Court, General Term"
 decided: "1894-04-23"
-citations: ["58 N.Y. St. Rep. 813", "58 N.Y. St. Rep. 814"]
+citations: ["58 N.Y. St. Rep. 813"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
