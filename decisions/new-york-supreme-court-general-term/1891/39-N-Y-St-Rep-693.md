@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-06-29"
+citations: ["39 N.Y. St. Rep. 693"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Aaron Longstreet, Pl’ff, v. Cyrus M. Sawyer et al., Def’ts."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0693-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061902
+cites_cases: ["25 Hun, 254"]
+---
+
+# Longstreet v. Sawyer
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+—The same reason seems to support the conclusion that a county-judge is unauthorized.to make the order requiring security for costs to be filed as there was for holding that he could not, by order, shorten the time for making a motion. The language is very much the same in this instance. In the latter it is that the order may be made by the court or a judge thereof, which has been held to exclude the county judge. Larkin v. Steele 25 Hun, 254; People v. Supervisors, 3 How., N. S., 242, 248.
+And in the case of security the order by § 3272 of the Code of Civil Procedure is to be made by the court in which the action is pending, “or * * * a judge thereof.” The reason which was deemed sufficient to restrict this language to a judge of the court in which the action should be pending when the time in which the motion was to be regulated will impose the same restrictions on the more important order directing the filing of security for the costs. And it must accordingly be held that the order of the county judge, in this case, was not authorized by § 241 of the Code of Civil Procedure, and the motion must be granted, but as the point has been newly presented, it will be without costs.
