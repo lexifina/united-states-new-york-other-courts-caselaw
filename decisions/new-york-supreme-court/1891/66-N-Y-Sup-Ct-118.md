@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1891-02"
+citations: ["66 N.Y. Sup. Ct. 118"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J., and Landon, J., concurred."]
+parties: ["OSCAR P. KEMP and JOHN KEMP, Appellants, v. ALEXANDER D. PECK, as Survivor, etc., of GEORGE A. PECK, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/66/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4624187
+cites_cases: ["11 N. Y., 170", "45 Barb., 490", "9 Hun, 106"]
+---
+
+# Kemp v. Peck
+
+## Majority (Mayi-iam, J.:)
+
+Mayi-iam, J.:
+The referee in this case upon the conflicting evidence as to the existence of a copartnership between Alexander D. Peck and George A. Peck found that they were not at any time during the accruing of the account .on which this action was brought copartners.
+There is certainly evidence to support this finding and sufficient, we think, to uphold it. The evidence on this subject may be regarded as somewhat equally balanced. But in such a case the court on appeal will not interfere with the finding of the trial, upon the -well-settled and sound rule that the jury or referee required to pass upon disputed questions of fact, upon a conflict of evidence, having the witnesses before them, are better able to judge between them as to the probable truth of the evidence' than the court on feview,. which sees only the record.
+As there is no decided preponderance in the oral evidence and no circumstance to give added weight to the testimony offered by the plaintiffs on this subject, we see no reason for interfering with the referee’s report on that subject. The testimony of Mrs. Peck, relied upon by the plaintiffs, was more a conclusion of the witness than a statement of facts by her, and in it she is expressly contradicted by the evidence of the defendant, Alexander D. Peck, which fairly raises a question of. fact for the referee. He swears that George A. Peck worked his farm on shares; that George A. had no machinery; that he, Alexander, bought the machinery and paid for the same, and explains how George A. Peck’s name came to be used in the mortgage.
+But the plaintiffs insist that the defendant is concluded in this action upon an account stated. If this account had been charged to Alexander alone, and stated to him, and he had retained the same without objection for the time indicated by the evidence, he would be deemed to have acquiesced in its correctness as to amount, and it would be presumptively binding upon him. (Avery v. Leach, 9 Hun, 106.) But the referee finds that the letters “A. D.,” the only thing in the account indicating that it was charged against Alexander D., were written over an erasure of the word “ Peck,” a significant fact, which the referee had a right to take into account in determining whether the original account was not in the name of George A. Peck. Nor do ive think that an account stated can be used for the double purpose of proving a partnership, as well as the amount of the claim. All the cases seem to proceed on the theory that if the account is stated between the proper parties to it, and assented to or retained so long that the assent or acquiescence in its correctness may reasonably be inferred, that the party is concluded, in the absence of fraud, from denying its correctness (Lockwood v. Thorne, 11 N. Y., 170); and if either party attempts to impeach the settlement and open the account for re-examination the burden, of proof rests upon him (Towsley v. Denison, 45 Barb., 490); but all this relates to the correctness of the account, and not to the liability of the person in the form in which he is sued. If an account is presented to one person charging him as liable with some other person, as his partner, we do not think that the authorities go to the length that he will not be permitted to deny that relationship when sued upon the account. If, therefore, as in this case, the proof fails to establish a joint liability, the party to whom the account was presented would not, by reason of its retention without objection, be solely liable on it; and if the partnership relation was not established, of course, the firm would not be liable.
+The appellants raise several objections upon the evidence and insist that the referee erred in the receipt and rejection thereof on the trial.
+We have carefully examined the various.rulings and exceptions upon that subject and find no error committed by the referee in the receipt •or rejection of evidence for which this judgment should be reversed.
+The judgment is affirmed, with costs.
+Learned, P. J., and Landon, J., concurred.
+Judgment affirmed, with costs.
