@@ -1,0 +1,25 @@
+---
+court: "New York Surrogate's Court"
+decided: "1904-01"
+citations: ["4 Mills Surr. 192"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Probate of the Last Will and Testament of Jeremiah Palmer, Deceased."]
+source_url: "https://static.case.law/mills-surr/4/cases/0192-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1069863
+cites_cases: ["166 N. Y. 330"]
+---
+
+# In re the Probate of the Last Will & Testament of Palmer
+
+## Majority (Church, S.)
+
+Church, S.
+The paper propounded here as the last will and testament of the deceased was entirely in the handwriting of the deceased. It was not drawn in the ordinary form of a will; there was no attestation clause to the same, and it is apparent that the deceased did not formally attempt to comply with' the provisions of the statute. The question is, therefore, whether there has been a substantial compliance with the provisions of the statute so a® to authorize this paper being admitted to probate as the last will of the deceased. The fact, of course, that it would be regarded as a holographic will, and, therefore, unquestionably represents the intention of the testator, is entitled to considerable weight in the consideration of the matter, 'but, even if it represents the intention of the deceased, the deceased cannot be superior and above the provisions of the statute. Matter of Turell, 166 N. Y. 330.
+It seems to me, however, that there are facts in this case, which do not exist in the Turell case, which justify the admission of this paper to probate, as the last will and testament of deceased.
+In substance, we have the deceased stating to the first witness that he had written out a paper so that his matters could be attended to in case of anything happening to him; this was, in effect, a declaration that this was his will. Next we have the deceased declaring that he had written the entire paper; this was, in effect, a declaration that the signature to the paper was his sigsature; and next we have a request to this witness to sign same as a witness.
+The other witness was not present at this time, but we have a declaration to this other witness that he had made a will; that he had written out the same, and further, a request to the other witness to sign it as a subscribing witness. This is, therefore, a substantial compliance with the provisions of the statute.
+Let decree be entered, therefore, admitting such paper to probate.
+Probate decreed.
