@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-05-14"
+citations: ["15 N.Y. St. Rep. 830", "2 N.Y.S. 309"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Stewart and George Stewart, Appl’ts, v. George H. Robinson and others, as Executors, etc., of Joseph Colwell, deceased, etc., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/15/cases/0830-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2001703
+cites_cases: ["101 N. Y. 554", "101 N. Y., 554", "2 How.. 577", "5 N. E. Rep. 452", "53 N. Y. 339", "53 N. Y., 339", "60 N. Y. 347", "60 N. Y., 347"]
+---
+
+# Stewart v. Robinson
+
+## Majority (Barnard, P. J. Barnard, P. J.)
+
+Barnard, P. J.
+—The case shows that there were two-agreements of partnership between Joseph Colwell, deceased,, and Samuel S. Hepworth. By the first agreement, Colwell owned the stock, and Hepworth received half the profits for the sole management of the business. In the agreement it-was provided that the wife and children of a deceased partner should succeed to his share therein for the remainder of the term, which was for five years. The deceased partner-had the right to designate by will the interests of the wife and children as between themselves. The next agreement is based upon a continuation of the partnership indefinitely “ upon the same terms and conditions as those which have previously existed,” with the right to either party to terminate the partnership by a six months’ notice. In this last agreement is contained this clause out of which the question presented arises. In the event of the death of either, the business shall be continued by the survivor until the expiration of five years from the 1st day of February next, succeeding such death. The estate of the deceased partner to have the same share and interest on the profits, and to bear the same share of the losses of the business as would have been required and borne by the deceased partner had he lived; provided, however, that if the survivor shall think it necessary to employ an additional clerk in consequence of the death of the deceased partner, in such case the expenses shall be charged to, and shall be borne by the share in the profits of the deceased partner. Colwell died, leaving a will disposing of his whole estate, and made no mention in it of the partnership, and giving, consequently, no power to the executor to continue the business. The surviving partner carried on the business under the partnership agreement and failed in business. The business was carried on under the old firm name, and the plaintiffs are persons who are creditors of the partnership with debts contracted subsequent to Colwell’s death.
+The question therefore is, whether the general estate of Colwell is holden for these debts. The authorities are by no means clear. It is definitely settled that death absolutely ends the partnership agreement in the absence of words continuing it after death. Martine v. International Life Insurance, 53 N. Y., 339.
+An executor cannot carry on a business without express authority to do so by the will. Hartnett v. Wandell, 60 N. Y., 347.
+An executor cannot bind the estate through a contract having for its object the creation of a new liability not founded on the testator’s contract. They take testator’s property as owners and must account for it to those entitled to distribution. Schmittler v. Simon, 101 N. Y., 554.
+In the partnership agreement the surviving partner carried on the business after Colwell’s death, under an express agreement made by the testator and the executors took the property of deceased as owners, without power to continue the partnership, and without power to appropriate any of the property of deceased in aid of its performance and during its continuance. A direction by the testator to apply his estate to a partnership for five years would have been clearly illegal as against his creditors, and even his next of kin and devisees. The clause in the contract, I think has no greater effect than to permit the surviving partner to take five years to close up the partnership, without intending or fairly meaning that the general estate of testator was to be bound for the new debts credited by the surviving partner after his death, other than those incurred in closing up the business.
+Nothing but the most clear and unambiguous language demonstrating in the most positive manner that the testator intended to have his general assets liable for all debts contracted in the continued work, after his death, and not merely to limit it to the funds embodied in that work would justify the court in arriving at such a conclusion, for, from the manifest inconvenience thereof, and the utter improbability of paying off the legacies bequeathed by the testator’s will or distributing the residue of the estate, without in effect saying, at the same time, that the payment may be recalled, if the trade should become unsuccessful or ruinous. Burwell v. Cawood, Executor, 2 How. U. S. Rep., 577.
+This language is used, it is true, in regard to a will, but the meaning as well applies to contracts. The case shows reasons for such a construction. The property all belonged to deceased, and no expectation of a total loss can be imputed to him by the extension, and the clause itself provides that the clerk was to be charged “to the share” of the profits of the deceased partner. The clerk was not to be a general charge.
+The judgment should, therefore, be affirmed, with costs.
+Pratt, J., concurs; Dykman, J., not sitting.
+Delemater v. Hepworth.
+Barnard, P. J.
+—This case, is similar in its facts to Stewart v. Robinson, and upon the conclusion in that case, should be affirmed, with costs.
