@@ -1,0 +1,23 @@
+---
+court: "New York Superior Court"
+decided: "1864-06"
+citations: ["2 Rob. 697", "25 N.Y. Super. Ct. 697"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clement Heerdt et al. plaintiffs, vs. Henry A. Wetmore et al. defendants."]
+source_url: "https://static.case.law/ny-super-ct/25/cases/0697-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1425707
+cites_cases: ["4 Bosw. 657", "4 Bosw. 679"]
+---
+
+# Heerdt v. Wetmore
+
+## Majority (Moncrief, J.)
+
+Moncrief, J.
+The learned referee has not in either instance adjudged that the party was guilty of contempt; he has the power so to do ; (§ 2 Code;) the propriety of so doing is illustrated by the proceedings which have taken place in his presence, as narrated in his report. It has been held that the court retains its inherent original power, concurrent with the referee, to punish for a contempt of court in a matter pending before a referee appointed by it; (Burnett v. Phalon, 11 Abb. Pr. R. 163, and Byas v. Smith, 4 Bosw. 679;) hut, generally, it would at least be useful that the referee should first pass upon the question, even if he reports his facts, conclusions, &c. to the court, in order that the attachment may issue from it. Whether, when an action has been referred, the court should retake it until the function of the referee has ceased by a final disposition by him, need not now be determined, as the counsel for the respective parties submitted to the jurisdiction of the justice at special term. A referee, under our present system, bears no resemblance to the former master in chancery; the latter, at best, was but quasi judicial; his duties were generally purely ministerial; his acts and whole function was as an auxiliary or amanuensis of the court of which he was acting as an officer; the former, however, is by statute possessed of the like power as the court in which the action is brought. (Code, § 272.) Having heard testimony in an action committed to him to hear and determine, it is his duty to render a decision. (O'Brien v. Bowes, 4 Bosw. 657.) Until some determination has been made by the referee, the court cannot review his proceedings. The witness Morrison was not in a position, at the time of the direction “ to produce the hooks,” to comply with it, and no reasonable time, of any time, was given within which he could obey the order ; it was present and absolute, “ to produce a bank book and a check book.” Of the necessity, then, to produce, he had not been notified ; to produce which he had not been summoned : and which he distinctly averred, under oath, he could not at that time and place produce before the referee. Whether an oral summons to a witness under examination, to produce at a future time books and papers in his possession, or under his control, of itself is sufficient to predicate a committal for contempt in case of disobedience, need not now be determined; my present conviction would lead me to doubt any other mode of obtaining them than by the agreement of the witness (while in court) to produce them, in ob'edience to the oral directions or by the usual method of a subpoena duces tecum.
+It is highly improper for counsel to interrupt the orderly proceedings of a court of justice by instructing a witness not to answer questions. The right to refuse to answer resides with the witness alone, and its exercise is at his personal peril. The conduct of counsel in this case, therefore, must be assumed to have been overlooked, or excused," as not intended to be a contempt of court; otherwise it was the duty of the learned referee, then and there, to have adjudged the counsel to be guilty of disorderly or contemptuous behavior committed during the sitting before such referee, in his immediate view and presence, and directly tending to interrupt the proceedings, or to impair the respect due to his authority, and to have issued an attachment and committed him. The authority to punish for such misconduct pertains, solely and exclusively, to the court in which it occurs, in its immediate view and presence ; and .the power can no more be delegated to a judge of this court than it could legally be assumed 'by a judge of some other tribunal.
+The same remarks made relating to Mr. Morrison apply to the application against Mr. Wetmore ; the check was not then in court, and he stated, in his examination, and now avers, in . an affidavit, that he gave as a reason for its non-production, ' that it was not then in his possession or under his control.
+The motions are denied, with ten dollars costs.
