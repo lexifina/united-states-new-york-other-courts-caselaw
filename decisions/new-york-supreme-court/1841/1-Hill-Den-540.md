@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1841-07"
+citations: ["1 Hill & Den. 540"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morris vs. Keyes."]
+source_url: "https://static.case.law/hill/1/cases/0540-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674477
+---
+
+# Morris v. Keyes
+
+## Majority (By the Court, Bronson, J.)
+
+By the Court, Bronson, J.
+It does not appear when the will of Governeur Morris was proved; but it must have been at or before the date of-the exemplification in September, 1828. The time of proving should, I think, have been stated; but, what is much more important, the proofs should have been exemplified with the will. Under the act of 1813, the witnesses are to be examined in open court, and the examinations and proofs are to be reduced to writing; and if it appear that the will was duly executed, “ the court shall order their clerk to record the same will, together with the proof so taken, in a bookand every will “ proved in manner aforesaid,” and also “ the record of such will, and the transcript of such record, certified by the clerk, and sealed with the seal of the court, shall be as effectual in all cases as the original will would be if produced and proved.” (1 E. L. 365, § 6.) “The record” includes the proofs as well as the will—both are to be recorded together: and “ the transcript of such record,” must mean the whole of the record. When the original record is produced in evidence, it will of course show the proofs as well as the will; and the transcript or exemplification should in like manner extend to both. The language of this statute is in ' some respects very much like that relating to the recording of deeds. A deed duly proved or acknowledged may be recorded —the proof or acknowledgment being recorded with it; and the record of the deed, or a transcript of such record, is declared to be evidence. Under this statute it has, I think, never been doubted, that the certificate of proof or acknowledgment must be exemplified with the deed. In other words, the transcript must contain the whole record.
+The record of a will, like that of a deed, is only prima facie evidence of its authenticity, and may be repelled by contrary proof. (Jackson v. Rumsey, 3 John. Cas. 234.) This principle has since been sanctioned by the legislature. (2 R. S. 58, § 15.) The heir or other person wishing to contest the validity of the will, can only have the full benefit of this rule by requiring the proofs qn which the will was recorded to be produced, to the end that the jury may weigh and compare this evidence with the other evidence to be produced on the trial; and as the person setting up' the will claims the benefit of the record evidence, the burden producing it should lie upon him.
+The fine set up by the defendant was levied under the act of 1787, which required that all of the proceedings should be “in-rolled in rolls of parchment, to be of record forever, and to remain in the safe custody of the clerk of the supreme court, and his successors.” The original writ, with the return thereof, the warrants of attorney, if any, the license to agree, and the concord of the fine, were to be “ inrolled upon one and the same roll;” and the writs of dedimus potestatem, if any, with the returns thereof, and the note and the foot of the fine, were to be “inrolled upon separate rolls.” (1 K. & R. 73, § 7.) The counterpart of the foot of the fine to be delivered to the party, was to be recorded by the clerk of the county in which the lands were situate, within one year after the engrossing of the fine; and this was to be done “ for the more easy discovery of fines and the security of purchasers.” (i 7.) It is quite evident from these provisions, that the original enrolments or records of the fine, including the foot as well as the other parts of it, are in this court, and should have been proved by producing the originals or duly authenticated copies from the clerk of this court." It was proper to show that the counterpart of the foot of the fine had been recorded in St. Lawrence; but the proof of that fact could not supersede the necessity of resorting to the higher and better evidence in this court of the levying of the fine.
+The evidence offered by the defendant to prove a fine levied was insufficient: but on the other ground the verdict must be set aside.
+New trial granted.
+And, in general, where a copy of any record is made legal evidence, the whole must be certified; mere extracts will not be received. The authentication of the copy moreover, whether it be by a certificate merely, or a technical inspeximus or exemplification, should import that it is a copy of the whole. For several cases relating to this doctrine, and its exceptions, together with the construction of particular certificates, &c. see Cowen & Hill’s Notes to 1 Phil. Ev. 1050 to 1061.
+In this state we have a statute relating to the form of these and the like certificates, requiring, among other things, that the certificate should expressly state that the copy is a copy of the whole, &c. (2 R. S. 403, § 39.)
+See Cowen & Hill’s Notes to 1 Phil. Ev. 1249, and the cases there cited ; also 1 R. S. 759, § 17.
