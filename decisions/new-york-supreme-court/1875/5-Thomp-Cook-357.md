@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1875-01"
-citations: ["5 Thomp. & Cook 357", "5 Thomp. & Cook 353"]
+decided_precision: "month"
+citations: ["5 Thomp. & Cook 357"]
 reporter: "thomp-cook"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Commissioners of Pilots v. Spofford."]
 source_url: "https://static.case.law/thomp-cook/5/cases/0357-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4463128
-cites_cases: ["2 Hill, 77", "26 How. 398", "3 Cow. 89", "4 Pet. 152", "45 N. Y. 446", "47 N. Y. 330", "49 N. Y. 660", "5 Barb. 159", "9 Barb. 169", "9 Cow. 487"]
+cites_cases: ["2 Hill, 77", "26 How. 398", "3 Cow. 89", "4 Pet. 152", "47 N. Y. 330", "49 N. Y. 660", "5 Barb. 159", "9 Barb. 169", "9 Cow. 487"]
 ---
 
 # Commissioners of Pilots v. Spofford
