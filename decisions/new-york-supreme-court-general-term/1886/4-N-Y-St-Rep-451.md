@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1886-12-30"
-citations: ["4 N.Y. St. Rep. 451", "4 N.Y. St. Rep. 449"]
+citations: ["4 N.Y. St. Rep. 451"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["William H. H. Sanger, Resp’t, v. James H. Seymour et al., App’lts
 source_url: "https://static.case.law/ny-st-rep/4/cases/0451-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1981017
-cites_cases: ["24 Hun, 162", "28 Hun, 176", "29 Hun, 441", "54 How., 311"]
+cites_cases: ["54 How., 311"]
 ---
 
 # Sanger v. Seymour
