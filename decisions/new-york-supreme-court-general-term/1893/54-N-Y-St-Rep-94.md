@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1893-07-28"
-citations: ["54 N.Y. St. Rep. 94", "53 N.Y. St. Rep. 857"]
+citations: ["54 N.Y. St. Rep. 94"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
