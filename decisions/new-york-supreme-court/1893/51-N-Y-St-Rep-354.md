@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1893-02-15"
+citations: ["51 N.Y. St. Rep. 354"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. P. J. Marsh, App’lt, v. Frame Campbell, Comptroller, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/51/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 677970
+cites_cases: ["100 N. Y., 378", "15 Wend., 348", "5 Hill, 287", "61 N. Y., 52"]
+---
+
+# People ex rel. Marsh v. Campbell
+
+## Majority (Herrick, J.)
+
+Herrick, J.
+This is a writ of certiorari to review the determination of the comptroller of the state of New York, denying the application of the relator for the redemption of certain lands, about 14,000 acres, sold by the state for the non-payment of taxes at the tax sale of 1881, on the ground that the said lands were occupied from the year 1875 up to the time of the application to redeem, and that the people of the state of New York never served notice upon such occupant as required by law.
+The alleged occupant is one Alvah S. -Dunning. Upon an island about one acre in extent, situated in a lake bordering upon or included in the tract of land so sold for taxes, the island being a part of such tract, the said Dunning erected a log building, thirteen feet wide and twenty-six feet in depth, the sides five to six' feet in height; the middle of the building being about ten feet in height; the roof covered with bark. Inside, the building was divided into two rooms by a log partition; the front was thirteen by fourteen feet, no floor to it, and used as a woodshed; the second room thirteen by twelve, with a board floor, and a window in the rear. It contained a hunter’s bed, three or four camp stools, a stove, with pipe going through the roof, a frying pan, two or three kettles, water pail, tea-pot, knives and forks, cups and saucers. The island was uncultivated, the land uninclosed, and with no improvements upon it except the log building I have described. About six miles distant from this island, in another township. Dunning‘resided with his family, having there a dwell-house and outbuildings, and about an acre of cultivated ground. Dunning is a hunter and guide, and visited the log house on the island from time to time, using it as a hunting and fishing station, and taking parties there on hunting and fishing excursions.
+It is a custom among the guides and hunters in that vicinity to have camps in different localities for their use in hunting and fishing, having a permanent residence elsewhere.. Dunning does not claim to own the land in question or any part of it.
+No notice of sale or to redeem was ever served upon Dunning or any of his family.
+I do not think it was necessary to serve notice upon him.
+The object of the statute, as was said by Nelson, J., in Comstock v. Beardsley, 15 Wend., 348, in speaking of a similar statute, is to “ afford any person who might happen to be an occupant * * * an opportunity to redeem, presuming that he was either owner or in some way legally interested in the land."
+Here there is no pretence of ownership or legal interest, and the case it does not seem to me comes within the spirit of the law.
+I have been referred to no case defining what is meant by the words “ actual occupancy ” in the statute.
+But it does not seem to me that the erection of a hunting lodge, hut or house, to be occasionally used for hunting or fishing purposes, where there is no claim of ownership of the land, constitutes an “ actual occupancy.”
+It appe'ars that it is the custom of the guides and hunters of the North Woods to erect or establish so-called camps, in various localities, to be used by them in their hunting and fishing excursions ; a single hunter might have several, .located far apart, in different patents or townships, and it is hardly conceivable that the occasional and temporary use of these lodges, or camps, constitutes an actual occupancy, within the meaning of the statute, in the absence of any claim of title to the land upon which the lodge, or camp, is located. The statute seems to have contemplated an actual residence, or dwelling house; it might be without claim of title, merely the possession of a squatter, but still the establishment of a household. It reads: “ Such notice may be served personally, or by leaving the same at the dwelling house of the occupant, with any person of suitable age and discretion, belonging to his family.” Section 69, chap. 427, Laws of 1855.
+This evidently contemplates a dwelling house upon the land to be sold, upon the place claimed to be occupied; it does not contemplate a service at the dwelling house of a person in New York city who has built a hunting camp in the North Woods which he uses from time to time for hunting and fishing. Dunning. had his dwelling, his family, and place of actual residence six miles away. Undoubtedly a person may have a residence in one place and also occupy land in another, as in Stewart v. Crysler, 100 N. Y., 378, where the land was used for the storage of lumber by a person who lived elsewhere; or as in Leland v. Bennett, 5 Hill, 287, where a portion of the land was cultivated, some of it used for pasture, and wood chopped and removed from it by a person who lived at a distance therefrom; but I do not think that the establishing of a hunting camp, the building of a log house to be used from time to time upon hunting and fishing trips, with no other improvement or use of the land, by a person living elsewhere with his family, with no claim or title to, or interest in, the land upon which the camp or hunting lodge is established or built, constitutes an actual occupancy within the meaning of the statute. But conceding that the facts recited constitute an actual occupancy by Dunning, it would only be an occupancy of the island; it is separable from the main land, and was not used by him in conjunction with it in such a manner as to make him an occupant of the whole tract. The use of an island an acre in extent as a hunting camp without any use of the main land, except to roam over it in* pursuit of game, does not to my mind constitute an actual occupancy of the whole tract of 14,000 acres. Thompson v. Burhans, 61 N. Y., 52; Same v. Same, 79 id., 93.
+The determination of the comptroller should be affirmed, with costs and printing disbursements.
+Mayhae, P. J., and Putnam, J., concur.
