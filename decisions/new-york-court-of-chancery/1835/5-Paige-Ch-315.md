@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1835-07-07"
+citations: ["5 Paige Ch. 315"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hallett vs. Hare."]
+source_url: "https://static.case.law/paige-ch/5/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2052574
+---
+
+# Hallett v. Hare
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+There can be no doubt, in this case, that the respondent, in right of his wife, was entitled to the one half of the personal estate of the decedent. No represen? tation being allowed among collaterals beyond brothers and sisters’ children, the two aunts, who were the nearest relatives, .and in the same degree of kindred to the intestate, were entitled to share equally in her personal property. The 1.2th subdivision of the 75th section of the article of the revised statutes, relative to the duties of executors and administrators, in making distribution to the next of kin, (2 R. S. 97,) expressly provides, that relatives of the half blood shall take equally with those of the whole blood in the same degree. The counsel for the appellant appears to suppose that the last clause of that subdivision prevents a relative of the half blood from taking, unless his or her descendants .could also take by representation. It is evident, however, that such was not the intention of the legislature. The object of this provision of the statute was merely to declare, that in cases where relatives of the whole blood were authorized to take, by representation, those of the half blood might also take by representation in the same manner. The rule of law on this subject has not been altered by the revised statutes. It has been considered as settled, ever since the decision of the house of lords in Watts v. Crooke, (Show. Cases in Parl. 108,) that in successions of personal estates, relatives of the half blood, in equal degrees of cognation to the intestate, take equally with relatives of the whole blood ; and that they also take by representation, where representation would be allowed among relatives of the whole blood, of the same degree. (See 2 Vern. 124, S. C. Burnet v. Mann, 1 Ves. sen. 156. Harris’ Justinian, 370, n. 1 Strahan’s Domat, 658.)
+The surrogate was not authorized to make a final decree for settlement and distribution, as the administrator had not caused the other distributee, or her representatives, to be cited, as he was authorized to do under the 60th section of the statute, (2 R. S. 93,) if he wished a final settlement and distribution of the estate to all persons interested. The decree in this case is only for the just proportional part of the estate belonging to the respondent, which the surrogate was authoyiz¡ed to decree the payment of, after the expiration of one year from the granting of the letters of administration. (2 R. S. 116, § 18, sub. 2.)
+There does not appear, from the return of the surrogate, to have been any question raised or claims made before him, to constitute any sufficient 'foundation for the other objections to the decree stated in the petition of appeal.- If the appellant set up a claim before the surrogate for a counsel fee, to be paid out of the respondent’s share of the property, for opposing this just claim, the surrogate was right in rejecting it, It does not appear, however, from the surrogate’s return, that any such claim was made; or that any bond to refund was asked for; or that there was any debt which could thereafter come against the estate, The statute contemplates a representation and proof, on the part of the administrator, that there are outstanding claims against the estate, to authorize the surrogate to retain for their payment. (2 R. S. 96, § 74.)
+The decree appealed from appears to be right, in every respect. It must therefore be affirmed, with costs. The appellant must pay to the respondent the amount decreed to be paid to him; arid interest thereon from the time of entering the appeal with the surrogate, by way of damages for the delay and vexation caused by the appeal. The appellant must also pay to the surrogate the amount directed to be paid for the costs. And the decree upon the appeal may be enrolled, and execution thereon issued here, according to the course and practice of this court, to obtain payment of the several sums decreed to foe paid by the appellant.
