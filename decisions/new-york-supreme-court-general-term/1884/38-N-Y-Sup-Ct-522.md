@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1884-01"
+citations: ["38 N.Y. Sup. Ct. 522"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J., and Potter, J., concurred."]
+parties: ["WILLIAM L. FORD and Others, Respondents, v. CHARLES J. KNAPP and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/38/cases/0522-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4489492
+cites_cases: ["18 Hun, 153", "48 N. Y., 106", "60 Barb., 163"]
+---
+
+# Ford v. Knapp
+
+## Majority (BoaedmaN, J.:)
+
+BoaedmaN, J.:
+The case of Scott v. Guernsey (60 Barb., 163; 48 N. Y., 106) controls this action. The improvements made by Thompson, one tenant in common, were not allowed to him against his cotenants. See opinion of MasoN, J., in Special Term (60 Barb., 1J0, bottom of page); also opinion of Paeeee, J., (pp. W9, 180; also 48 N. Y., Ill, 112), as to facts showing James G. Thompson, a tenant in common in possession, when he made the last improvement, which was disallowed. This disallowance was affirmed by the Commission ■of Appeals, although the opinion does not state the facts clearly. The principle there established is this: A tenant in common in possession is not entitled to compensation for his improvements from his cotenants who have not assented to his making them. Of course there ai’e cases in which special equities have been recognized and allowed. There are also cases holding the reverse of this doctrine. Many are gathered in 13 Moak’s English Reports, 650 (■n), and 22 id., 319 (n), in appellant’s brief, and in the opinion of the learned justice at Special Term. The authorities are not at all uniform, and bence we must be guided by tbe decisions of our own, courts. *
+The case of McCabe v. McCabe (18 Hun, 153) decided by this-court, is relied upon by tbe appellants. It is not analogous. The act charged there was tbe destruction of tbe common property, and tbe appropriating of the proceeds to tbe use of the tenant in possession. It was in tbe nature of waste. The value of tbe property taken away is lost to tbe common estate. A tenant in common of personal property becomes liable to his cotenant if be sell or destroy tbe property, but be cannot recover, if be improves its condition, for such increased value.
+But tbe Code (§ 1461) apparently provides against what was done in this case. Tbe property was bid off by defendants in March,, 1880. For one year Whitaker, tbe judgment debtor, bad the right to redeem upon payment of tbe amount bid and interest. For such one year and three months, in addition, be remained tenant in common with defendants. Hoes not tbe judgment creditor, by putting-on expensive improvements, impair or prejudice tbe right of redenrption ?
+Then, again, tbe person in possession during this fifteen months, by section 1441, is permitted to make necessary repairs, but not alterations or improvements thereon. Tbe acts of the defendant are thus seen to be in violation of this provision. All tbe improvements and expenditures were made during this time, and while the plaintiffs bad no interest in the property except tbe right to redeem after the expiration of one year from tbe sale. The title during this fifteen months was in Whitaker. Any equities arising from these expenditures were against Whitaker, and not against plaintiffs. The defendants made their expenditure at their own risk. It was not a matter which plaintiffs could assent to or dissent from, for they had no title. They did not even redeem from the defendants. After the defendant’s right under the sale had been extinguished by the redemption of Willse, the plaintiff redeemed from Willse. What was he entitled to by such redemption? The legal estate-of Whitaker at the date of the sale (Code, § 1440), and that was an undivided half of the premises. The defendants say no, we have added .to the value of the property after the sale and before the title vested in you by your redemption, and you are only entitled to an undivided one-quarter; we have by our act prejudiced your right of redemption so that you do not get the interest which we bought under the execution sale, and you must redeem under the changed condition of affairs caused by our voluntary expenditure and pay, or account to us for one-half of it, or else your right to redeem is lost and gone. This would impose a new condition of redemption, and we do not think the law will permit it. They were not tenants in common when the improvements were made, and the redemption did not subject the plaintiff to any equities between the defendants and their tenant in common, Whitaker, if any existed. As the court did not charge defendants with the use and occupation of the property, they could well afford to pay therefrom the necessary repairs, taxes and insurance, if the insurance was for the joint benefit. The right of dower of Dorcas Whitaker is not extinguished by the sale. The plaintiff’s half of the premises was subject to her inchoate right of dower, as stated in the decision and judgment, and the sale was made subject to it. We concur in the conclusion that her deed of February 23, 1880, did not release her inchoate right of dower.
+The judgment must be affirmed, with costs.
+Learned, P. J., and Potter, J., concurred.
+Judgment affirmed, with costs.
