@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-07-11"
+citations: ["39 N.Y. St. Rep. 717"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Delia Crate, Resp’t, v. Jarvis Decora, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0717-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061732
+---
+
+# Crate v. Decora
+
+## Majority (Landon, J.)
+
+Landon, J.
+—The defendant repeatedly spoke the slanderous words imputing unchastity to the plaintiff. The court charged the jury that the only question was one of damages, and the jury rendered a verdict of $1,500. The defendant says this is excessive, and founds his claim largely upon the humble position and fortune of the parties. The court instructed the jury to consider the standing and circumstances of the parties. The jury of the county, no doubt, gave to these matters much better consideration than we can, and as we see nothing to indicate that the jury were actuated by passion, prejudice or unfairness, we do not feel at liberty to interfere.
+The defendant offered in evidence a book in which the plaintiff had written to the effect that she had said enough to the plaintiff, “ it was a satisfaction to me to tell him the truth; that he was a whore house runner. ” This was excluded, upon the ground that it did not appear to refer to the time to which the evidence was directed. If, ás the defendant now insists, the court was mistaken, the counsel should have called his attention to the facts tending to connect this writing with the matters in evidence. If the paper referred to matters subsequent to the slanders uttered by defendant, it did not provoke them; if prior to or contemporaneous with them, the defendant should have supplied the proof or asked leave to do so. The paper was treated by the court as if it did not speak of the res gestee of the matters in issue, and the defendant did not show, or offer to show, that the court was mistaken.
+Judgment affirmed, with costs.
+Learned, P. J., and Mayham, J., concur.
