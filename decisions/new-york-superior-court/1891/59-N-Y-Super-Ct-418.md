@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court"
 decided: "1891-05-04"
-citations: ["27 Jones & S. 418", "59 N.Y. Super. Ct. 418", "15 N.Y.S. 86"]
+citations: ["27 Jones & S. 418", "59 N.Y. Super. Ct. 418"]
 reporter: "ny-super-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["HENRY T. WEMPLE, Respondent v. PATRICK H. McMANUS, Appellant."]
 source_url: "https://static.case.law/ny-super-ct/59/cases/0418-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1695876
-cites_cases: ["14 Barb. 536", "16 N. Y. 297", "33 N. Y. 429", "45 Hun, 144", "48 Hun, 206", "94 N. Y. 329"]
+cites_cases: ["14 Barb. 536", "16 N. Y. 297", "33 N. Y. 429", "45 Hun, 144", "94 N. Y. 329"]
 ---
 
 # Wemple v. McManus
