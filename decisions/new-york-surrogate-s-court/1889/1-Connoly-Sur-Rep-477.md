@@ -1,0 +1,28 @@
+---
+court: "New York Surrogate's Court"
+decided: "1889-05"
+citations: ["1 Connoly Sur. Rep. 477"]
+reporter: "connoly-sur-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of Black. In the matter of the estate of Sarah Black, deceased."]
+source_url: "https://static.case.law/connoly-sur-rep/1/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1130606
+cites_cases: ["108 N. Y. 312", "79 N. Y. 602", "95 N. Y. 76"]
+---
+
+# In re the estate of Black
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+The comptroller objects to the confirmation of the report of the appraiser in this matter, upon the ground that the appraiser failed to report as subject to taxation a.bequest of §500 to the executors in trust, to be used for masses for the repose of her soul and that of her husband, and claims that such bequest was not included in the funeral expenses, which were provided for by another clause in the will, and is therefore a specific legacy other than to or for the use, etc., of persons exempt, and therefore subject to the tax.
+Counsel for the executors claims the legacy is part of the funeral expenses and that it is not subject to a tax.
+By her will the testatrix provides for the celebration of mass on the day of her funeral, and also for the erection of a monument, and directs that all these expenses shall be considered as funeral expenses. She then, by a separate clause, goes on: “ I give and bequeath to my executors, or such one of them as shall qualify, the sum of §500 in trust to expend the same for masses for the repose of the soul of my said husband and myself, and it is my wish and desire that such masses be celebrated by the Rev. Thomas J. Campbell of the Society of Jesus.”
+This is evidently a distinct and separate legacy and cannot be considered as part of the funeral expenses. The question then arises as to whether the bequest for masses is a valid one.
+In Holland v. Alcock, 108 N. Y. 312, the testator gave all the rest, residue and remainder of his estate to his executors to be applied by them for the purpose of having prayers in a Roman Catholic church, to be by them selected, for the repose of his soul, etc., and it was held that the bequest was invalid because of the absence of a defined beneficiary entitled to enforce its execution.
+The court discusses at length the case of Power v. Cassidy, 79 N. Y. 602, in which the bequest was of a fund to the executors in trust, to be divided by them among such Roman Catholic charities, institutions, schools or charities in the city of New York as a majority of the executors should decide, and in such proportions as they might think proper. This bequest was held to be valid because the beneficiaries were of a certain class in a specified city, and were necessarily limited in number, and therefore could be easily ascertained.
+The court then shows the difference between that, case and the case of Prichard v. Thompson, 95 N. Y. 76, where the bequest was of a sum of money to the executors to be distributed by them “ among such incorporated societies, organized under the laws of the state of New York, or the state of Maryland, having lawful authority to receive and hold funds upon permanent trusts for charitable and educational uses ” as they might select, etc. This bequest was held to be invalid because of the indefiniteness of the designation of the beneficiaries.
+In the case at bar the beneficiary is designated, for undoubtedly a wish on the part of the testatrix to have a particular priest celebrate the mass is equivalent to a direction.
+I am satisfied that the bequest is a valid one, and as such is subject to the tax imposed by the Collateral Inheritance Tax Act.
