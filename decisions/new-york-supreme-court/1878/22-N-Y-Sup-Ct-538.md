@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1878-11"
+citations: ["22 N.Y. Sup. Ct. 538"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — LeaeNed, P. J., Boardman and Bockes, JJ."]
+parties: ["ALEXANDER C. MORRISON, Appellant, v. CHARLES S. LESTER, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/22/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1909504
+cites_cases: ["11 Hun, 618", "12 N. Y., 32", "31 How., 464"]
+---
+
+# Morrison v. Lester
+
+## Majority (Learned, P. J.:)
+
+Learned, P. J.:
+The first question to be considered is whether section 15 of the Code of Civil Procedure repeals section 321 of the Code of Procedure. This section 15 is only a re-enactment, not well expressed, of section 2, chapter 390, Laws 1847. Section 321 was passed long after 1847. There is no reason, therefore, to construe the re-enactment of section 2 of that act to be intended as a repeal of section 321 of the Code. Besides, section 321 of the Code has reference to final as well as to interlocutory costs; section 15, Code of Civil Procedure, refers to interlocutory costs only. ‘ Furthermore, the repealing act, chapter 417, Laws 1877, excepts section 321, thus recognizing it as in force.
+When this case was here before, we decided that the word “attachment,” in section 321, meant attachment against the person, not against property. (Morrisons. Lester, 11 Hun, 618.) If section 321 conflicts with the Code of 1847, it is later and controls. The general tone of legislation at the present day is against imprisonment for mere debt. This should make us scrutinize any enactment which seems to tend in the opposite direction, but not disregard its fair meaning. Giles v. Halbert (12 N. Y., 32), arose on the provision of the Revised Statutes. (2 R. S., m. p. 619, § 47 [44].) The last clause of that section is : “ And the payment of such costs may be enforced by attachment.” It was held that the act of 1847 substituted process in the nature of a fi. fa., for an attachment. But, after the passage of the act of 1847, the Legislature, in the. Code, twice adopted again the same phrase, that certain costs may be enforced by attachment; sections 316, 321. This takes such cases out of the effect of the act of 1847. (Grantman v. Thrall, 31 How., 464.) Ariel the defendant is entitled to enforce these costs by attachment against Clarke.
+The learned justice whose order is appealed from followed the decision in the case last cited, which holds that the attachment to be granted is a ca¡pias ad satisfaciendum. That point we did not decide when the case ivas here before. We are reluctantly compelled to disagree with the view taken in that case. A capias ad satisfaciendum is a species of execution, issued to imprison the debtor, after judgment recovered, until he makes satisfaction. (3 Black. Com., 414.) It is a judicial writ, issuing in the regular progress of the cause. (1 Burrill Pr., 308.) It is not, in any sense — even in theory — a criminal process. On a ca. sa., the sheriff must take the person, and keep him in custody, (or on the limits,) and an escape makes the sheriff liable. On the contrary, an attachment is a criminal process in form. It issues in the name of the people against the supposed offender. It is, in theory, granted on account of some supposed, contempt. (4 Bl. Com., 284.) It is merely intended to bring the party into court, as is expressed in 2 R. S., m. p. 536, § 5. The officer to whom an attachment is issued is bound only to have the person in court at the return-day. He could not be liable to pay the debt, as on an escape, because the person was out of custody meantime.
+It is not necessary to pursue the distinctions further. An attachment is a process, in form criminal, though in fact civil, issued to bring a person before the court at a fixed return-day. It is usually bailable in an amount specified by the officer. (2 R. S., 537, §§ 13, 14, 15.) When the person has given bail, he is not restricted to the jail limits, as in the case of bail to a ca. sa.
+We think, then, that the process issued should be a bailable attachment, returnable before the court. And if it be asked what further proceedings on the return of the attachment, it seems to us that the question must be then examined by the court whether the party wrongfully refuses to pay these costs. The judgment is no lien against Clarke’s real estate; nor is there any execution to create a lien on his personal property. But the Code says that he is liable for these costs; and on the return of the attachment, it should be inquired whether he wrongfully refuses to pay. That includes an inquiry as to his ability to pay, and as to his refusal to apply bis property to this debt. There is nothing unusual in such an inquiry. Similar investigations are constantly made in proceedings supplementary to execution.
+We are aware that in the case of Grantman v. Thrall, above cited, it is said that the poverty of the guardian is up defense to the mqtion; and. according to the views there stated, Clarke should be imprisoned on a ca. so,., whether or not ho has any means to pay these costs. We do not think that is correct. There is no, reason why he should be subject to a greater liability than the1, plaintiff himself. His liability must be enforced differently, because there is no lien by judgment or execution. But his liability can only be this, that he must apply his property, if he has any, to pay these costs.
+The order, then, should be modified so as to direct the issue of, an attachment, bailable in such amount and returnable at such time as the court below may direct. No costs to either party on this appeal.
+Present — LeaeNed, P. J., Boardman and Bockes, JJ.
+Ordered accordingly.
