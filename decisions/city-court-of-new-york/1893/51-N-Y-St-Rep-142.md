@@ -1,0 +1,31 @@
+---
+court: "City Court of New York"
+decided: "1893-02-08"
+citations: ["51 N.Y. St. Rep. 142"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sarah McHugh, Adm’rx, Resp’t, v. Jules Astrophe, Ex’r, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/51/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 677931
+---
+
+# McHugh v. Astrophe
+
+## Majority (Fitzsimons, J.)
+
+Fitzsimons, J.
+This being an equity action the trial must be without a jury.
+The order appealed from does not attempt to take away that right
+The action was ordered for trial as a preferred cause on the short cause calendar, which is in the court a calendar made up of equity causes and actions on contract that may be tried within one hour.
+The fact that the said order recites that the trial shall take place in Part 2 instead of Part 4, the latter being the equity trial part, is inconsequential, plainly a clerical error, and was so regarded by the calendar clerk and the attorneys for the parties hereto, because the action was actually placed on Part 4 calendar and there appeared and was answered to by said attorneys.
+The justice sitting in that, part when it appeared for trial will try it without a jury as are all equity actions tried.
+The justice who made the order had a right to do so, if in the interests of justice he deemed it proper to order a speedy trial herein.
+The appellant cannot complain, having received due notice of trial.
+Any cause may be taken out of its regular place on the calendar by the court and made a preferred cause and a speedy trial ordered if, as above stated, justice so requires.
+• This is an inherent right which the court has and does not depend upon nor is it restricted by any section of the Code of Civil Procedure. 5 Civ. Pro., 66.
+The only objection to the order is, that respondent failed to pay the costs awarded appellant by a prior general term of this court
+The costs so awarded were motion costs, and until paid all proceedings of respondent are stayed by virtue of § 779 of the Code of Civil Procedure.
+For this reason the order appealed from must be reversed; but without costs, with leave to respondent to apply again for such an order upon payment of the unpaid costs just mentioned.
+McGrOwn and Van Wyck, JJ., concur.
