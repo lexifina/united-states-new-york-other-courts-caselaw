@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1884-10"
+citations: ["41 N.Y. Sup. Ct. 94"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barker, Haight and Bradley, JJ., concurred."]
+parties: ["NELLA BENEDICT, Respondent, v. ROSWELL W. DRIGGS, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/41/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4495210
+cites_cases: ["3 Hun, 323", "42 Barb., 374", "44 N. Y., 298", "48 N. Y., 212", "60 Barb., 406", "77 N. Y., 178"]
+---
+
+# Benedict v. Driggs
+
+## Majority (Smith, P. J.:)
+
+Smith, P. J.:
+Action upon a promissory note dated 1st January, 1879, made by the defendant, for $300, payable to EC. B. Driggs or bearer, one ■year after date, for value received. At the trial the plaintiff pror duced the note and put it in evidence, proved the amount due upon it and rested. The defendant testified that the payee, H. B. Driggs, was his wife; that the plaintiff, who was her sister, knew the fact, and that his wife died in March, 1880, leaving a will which had been duly proved and the plaintiff was appointed executrix thereof before this suit. The defendant then rested and the proofs were closed. Defendant moved for a nonsuit, and the court, after hearing the arguments of counsel on both sides, permitted .the plaintiff,, on her motion, to give further testimony against defendant’s objection.
+The plaintiff then testified that she had the note in her possession from October preceding the death of the payee. On cross-examination she testified that her sister let her have the note for money the-witness lent her at different times during two years before.
+The plaintiff again rested and the defendant was recalled and his counsel asked him for what consideration, if any, the note was given, and offered to prove by him that the note was given by him to his wife without -consideration, and that plaintiff knew the fact when she received it. The plaintiff objected to the question and to the evidence so offered being given by the witness on the ground that ho is incompetent under section 829 of the Code. The objection was sustained and the defendant excepted. The jury rendered a verdict for the amount due upon the note.
+The principal contention of the appellant’s counsel is, that the note in suit is a nullity by reason of the inability of husband and wife, to make a contract of that nature with each other. Such disability existed at common law, and it still exists, except so far as it has been removed by statute. ■
+The act of 1860, concerning “ the rights and liabilities of husband and wife ” (Laws 1860, chap. 90), vests. a married womau with the legal title to her separate property, and authorizes her to use, collect and invest it in her own name (sec. 1), and to “ bargain, sell, assign and transfer her separate personal property.” (Sec. 2.) Under those provisions a wife may contract with her husband, as well as with third persons, in respect to her separate property. Thus, it has been held that she may employ him as her agent to transact any 'or all of her business (Fairbanks v. Mothersell, 60 Barb., 406); she may contract with him to work for her by the job or otherwise at a stipulated price (Id.); ,she may take title to personal property, directly from him, b.y purchase for a valid consideration (Savage v. O'Neil, 42 Barb., 374; S. C., affirmed, 44 N. Y., 298; Brace v. Gould, 1 T. & C., 226); or by gift, no rights of creditors being'affected thereby (Mack v. Mack, 3 Hun, 323; Rawson v. Penn. R. R. Co., 48 N. Y., 212; Reed v. Gannon, 50 id., 345; per Rapallo, J., 352); she may maintain an action at law upon a claim assigned to her by her husband (Seymour v. Fellows, 77 N. Y., 178), and it has been held that a promissory note given by a husband to his wife in consideration of her releasing her inchoate right of dower in real estate, by joining in a deed, and without intent to defraud his creditors, is valid. (Brooks v. Weaver, 3 Alb. L. J., 283.) So, also, where the consideration of the note given by the husband was in part the wife’s services and in part the services of their minor son. (Id.)
+The note in suit bears evidence on its face that the wife had a separate property in reference to which the contract was made. The words “ for value received ” indicate that the note was given for a valuable consideration passing to the defendant from his wife, and that what so passed belonged to the wife absolutely, independent of her husband. Moreover, the promise of the husband to pay to his wife the sirm specified in the note implies that the money was ■due to her in her own right, free from her husband’s control. If these views are correct it follows that the transaction related to the wife’s separate property and was authorized by the statutes referred to.
+These views assume that the note was given for a good consideration, and such is the undisputed evidence. The offer to show the contrary by the testimony of the defendant was properly rejected. The defendant was not a competent witness for -that purpose. (Code, § 829.) The offer and question involved a personal transaction between the witness and his deceased "wife, from whom the plaintiff took title. The suggestion of the appellant’s counsel that the proof may have consisted of declarations made by the payee to some person other than the defendant is unavailing now,’ even if such declarations had been admissible against the plaintiff. Nothing of the kind was suggested at the trial. Prima facie the offer was to show a personal transaction with the deceased. The offer was none the less objectionable because it embraced another subject. Nor had there been any examination of the plaintiff respecting the consideration of the note. The only evidence on that subject was hat which the defendant inserted in the face of the note when he gave it inception.
+The note having been given for a good consideration, it is immaerial whether the plaintiff paid value for it or not. 'It is enough that she holds it by a transfer good as between her and the payee.
+It appears that she took it for a precedent debt; and whether to apply in extinguishment of it, or as collateral security for its payment, the consideration was "good and sufficient as between the parties to the transfer.
+The judgment should be affirmed.
+Barker, Haight and Bradley, JJ., concurred.
+Judgment affirmed.
