@@ -1,0 +1,43 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-07-18"
+citations: ["32 N.Y. St. Rep. 727", "10 N.Y.S. 869"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edgar B. Taylor, Resp’t, v. Charles G. Saxe et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0727-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040318
+cites_cases: ["17 Wend. 277", "20 Wend. 64", "20 Wend., 64", "9 Wend. 28"]
+---
+
+# Taylor v. Saxe
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This action is based upon a violation of a contract made by the defendants with the plaintiffs for the sale and delivery to them of a boat load of pine plank.
+The cause was tried before a referee, who found that the defendants agreed to sell to the plaintiff a boat load of • pine plank then in Canada for thirty-six cents a plank, delivered at Poughkeepsie, and to induce the plaintiff to make the purchase the agent of the defendants who made the sale represented to the
+Ílaintiff that thirty per cent of the plank should be of the quality nown in the trade as dressing, and seventy per cent thereof should be of a quality known in the trade as better than dressing, and that the purchase was made by the plaintiff in reliance upon such representation as to quality.
+That the plaintiff was to pay the duty on the lumber when it passed the frontier, and the freight thereon upon its delivery, and deduct such payments from the purchase price of the lumber.
+That the lumber reached Poughkeepsie the fore part of October, 1888, and the agent of the plaintiff refused to accept the same, upon a claim that it was not of the quality represented, and the plaintiff immediately telegraphed the defendants the refusal of the plaintiff to receive the lumber.
+Thereupon the defendants sent their agent to Poughkeepsie to act for them in the premises, and when he examined the plank he pronounced them of a kind and quality different from what the defendants had contracted to sell to the plaintiff.
+The agent of the plaintiff informed the agent of the defendants that the lumber was all culls, and that he would not receive the same, and then the agent of the defendants requested the agent of the plaintiff to permit the captain of the boat to unload the plank, and whatever was right would be done.
+Thereupon, in reliance upon such statement, the plaintiff permitted the captain to place the plank upon the plaintiff’s dock, and paid the freight, amounting to $499.11. The plaintiff had before that paid the: duties upon the lumber, amounting to $333.30.
+On the 10th day of October the plaintiff again notified the defendants that he could not use the plank, that they were culls and were not as represented.
+The referee found as a fact that there were 12303 plank in the boat load and they would have been worth forty-four cents a piece had they been of the quality and kind represented. That the plaintiff never received the plank, but permitted the same to remain on his dock at Poughkeepsie, and that the storage for the same had been worth twenty-five dollars.
+As a conclusion of law the referee found that the plaintiff was entitled to recover from the defendants $330.30, with interest, for the duties paid on the lumber; $499.11, with interest, for freight paid thereon; $25 for storage, and $984.24 for damages for a breach of the contract.
+The facts recited are easily deduced from the evidence, and are taken mainly from the findings of the referee.
+The contract between these parties was for the sale and delivery of property of a certain description and was what the law terms an executory contract, and when the defendants came with an inferior article open to inspection, it became necessary for the plaintiff to take his position and when he discovered that the lumber tendered did not answer the character required by the contract there were two courses which he might adopt.
+He could refuse to accept the plank and thus rescind the contract and recover the money paid for freight and duties, or he could keep the lumber and rely upon the contract to recover the damages he sustained through its breach by way of counterclaim to an action for the price. But he could not pursue both these remedies, because they were inconsistent.
+Environed by such circumstances the plaintiff exercised his right of choice and declined to accept the lumber and thus rescinded the contract, and such election gave him the right to recover back the money he had advanced. Upon that theory the lumber remained the property of the defendants and the plaintiff might recover for its storage.
+But the plaintiff went further in this action, and sought to recover damages for a breach of the contract, and he has recovered upon that claim, but the recovery for that item cannot be sustained.
+His claim to recover back the money advanced for freight and duties rests upon the abrogation of the contract by his refusal to receive the lumber, while his cl aim for damages proceeds upon the affirmation and consummation of the contract, and a recovery by reason of a violation thereof.
+If the lumber had been accepted by the plaintiff, the contract would have then been executed, and he could sustain no action for the recovery of the money paid for freight and duties, because that would have been a payment on account of the purchase price of the lumber according to the agreement, but having declined to accept the plank, he was in a position to sue for the money thus paid, upon the principle which justifies an action for the recovery of the purchase price of property upon the nullification of the sale, where the price has been paid by the purchaser.
+After the rescission of the contract the defendants could sustain no action against the plaintiff for the price of the lumber, because it had not been accepted and still belonged to the defendants; otherwise, if it had been accepted, the defendants might sue for the price and the plaintiff could recover his damages for a breach of the contract by way of counterclaim to such action.
+But now since' the abrogation of the contract the plaintiff cannot recover damages for its violation, because such a. claim would proceed upon the affirmance of the contract. ■
+As, therefore, the claim of the plaintiff for damages can rest upon nothing but the contract, it has no basis for its support, and that portion of the judgment is erroneous.
+The following authorities justify the views we have expressed: 2 Kent’s Com. (10th ed.), 660 ; Sprague v. Blake, 20 Wend., 64; Hart v. Wright, 17 id., 277 ; Gallagher v. Waring, 9 id., 28.
+The judgment should, therefore, be modified, by striking therefrom the sum of $984.24 allowed for damages, and, as so modified, affirmed, without costs to either party on this appeal.
+Barnard, P. J., and Pratt, J., concur.
