@@ -1,0 +1,29 @@
+---
+court: "New York Surrogate's Court"
+decided: "1906-12"
+citations: ["5 Mills Surr. 572"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Mart Dittrich, Deceased."]
+source_url: "https://static.case.law/mills-surr/5/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1071364
+cites_cases: ["120 A. D. 504"]
+---
+
+# In re the Estate of Dittrich
+
+## Majority (Church, S.)
+
+Church, S.
+The question of practice which arises on this motion is unusual and is the result of the novel scheme devised hy the appellant to obtain a stay by giving a meagre bond therefor. For a proper appreciation of this question a careful recital ■of the circumstances will be necessary.
+A decree was made herein removing the appellant as executrix of the estate of the deceased and containing the usual provisions required by the Code respecting accounting by such removed executrix. In pursuance of such decree the removed executrix filed her account, by which it appeared that she conceded she had in her possession in her representative capacity certain personal property. This was delivered to her co-executor, she taking his receipt therefor. At the time this was done the co-executor contended that the amount was insufficient and that there were various items of property of the deceased omitted therefrom, and objections were filed by him to such account in which he sought to surcharge the removed executrix with the same.
+The removed executrix then filed her notice of appeal to the Appellate Division from such decree of removal and gave the usual bond necessary to entitle her to .appeal for the sum of $250. In addition she gave another bond, which is the subject of this motion. This bond recited that she had filed her account, had delivered all the property of the deceased which had come into her possession to her co-executor and that there remained in dispute, therefore, the sum of but $70, which was the amount of costs in the decree of removal.
+The surviving executor thereupon moves to vacate the approval upon such bond and to vacate such bond, on the ground that the recital of the delivery of the property in question contained therein is a false recital of fact and that for this reason _ no proper bond has been given.
+This is, of course, opposed by the appellant upon the contention that, there not having been an exception to the sufficiency of such bond and the requirement that the sureties justify, the respondent is precluded, from making this motion.
+The attorney for the appellant is certainly entitled to credit for his ingenuity in effecting this novel scheme by which, under ia practically nominal bond, he may obtain a stay and yet remain in possession of property of considerable value. Irrespective of the provisions of the Code, it is manifest that it is contrary to the spirit of the theory upon which appeals are authorized to> sanction the procedure adopted by the appellant. But in determining this question it is not necessary to' depend solely upon equitable principles, or upon any general theory of what is a desirable and proper practice. The source of authority is found in the provisions of the 'Code concerning appeals, the manner of taking them and their effect when taken. By turning to section 2578 of the Code of Civil Procedure we find that it is provided' that an appeal from a decree directing the payment of money does not stay the execution of the decree unless a certain undertaking is given. Section 2579 provides further in relation ■thereto. Section 2580 provides that, where the appeal is taken from a decree directing the payment of money or where it is taken from an order granting leave to issue execution, the bond must not be for less than twice the sum mentioned.
+The decree in the present case, which is under appeal, does, neither of these things, but simply directs the party to account. If it was an appeal from the decree settling the account and fixing the amount that should be paid, the foregoing provisions-would apply. Hence, in order to determine the practice that prevails as to the decree in its present form, we must search elsewhere in the Code. Section 2580 states as follows: “ In every other ease, it must be fixed by the surrogate, or by a judge of the appellate court, who may require proof, by affidavit, of the value of any property, or of such further facts as he deems, proper.”
+The appellant, in the exercise of her ingenuity, has overlooked this provision of the Oode, and hence it follows that her bond stands absolutely unauthorized, as it affirmatively appears-that no motion has been made to have either the surrogate or-■any judge of the appellate court fix the amount involved in this appeal.
+The motion is, therefore, granted, without prejudice to the-appellant applying, under the above provision of the Oode, to-determine the amount of the undertaking in question.
+Motion granted.
