@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-07-26"
+citations: ["69 N.Y. St. Rep. 250"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Gottlieb, App’lt, v. Dutchess County Mutual Insurance Company, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/69/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2119288
+cites_cases: ["112 Mass. 49", "64 N. Y. 162"]
+---
+
+# Gottlieb v. Dutchess County Mutual Insurance
+
+## Majority (Brown, P. J.)
+
+Brown, P. J.
+This action was brought to recover upon a policy of insurance issued by the defendant to the plaintiff, and which, among other property, insured a horse and wagon, and a stock of peddler’s goods carried in a wagon wherever plaintiff might be stopping in the transaction of his business. On the night -of December 21, 1893. the plaintiff’s horse and wagon, and such goods as he was carrying with him, were destroyed by fire while the same were in the barn of one George Clark, near Jefferson-ville, Sullivan county, New York, where plaintiff had stopped for the night, while on a business trip. The policy provided, among other conditions, that the insured should, within sixty days after the fire, unless such time was extended by the company in writing, render a sworn statement to the company, stating the interest of the insured in the property, and the cash value of each item thereof, and the amount of loss thereon, and. if required, should also furnish a certificate of the magistrate or notary public living nearest the place of the fire, stating that he had examined the circumstances, and believed that the insured had honestly sustained loss to the amount that such magistrate or notary public should -certify. The referee found that these two conditions of the policy were not complied with.
+There is no claim upon the part of the appellant that a certificate of a magistrate or notary public was furnished by the plaintiff within sixty days after the fire, and no evidence that either of the conditions referred to were waived by the defendant. While the condition as to the magistrate’s certificate was to be complied with -only in case that such certificate was required by the company, it appears from the testimony that such certificate was demanded by the defendant on January 11, and again on January 24, 1894. A certificate of a magistrate was furnished to the company on March 12th, after the sixty days had expired. It was not accepted, but was returned on March 13th, for the reason that it was not furnished within the time required by the policy, and was not made by the magistrate nearest to the fire. The certificate was also defective in omitting to state that the person making it had examined into the circumstances concerning the loss, and failed to state any value of the goods believed to have been destroyed. The testimony also failed to show compliance with the condition which required the proofs of loss to show the cash value of each article destroyed by the fire. These findings of the referee preclude a' recovery upon the policy, and the conclusion of the referee has ample support in the authorities. Blossom v. Insurance Co., 64 N. Y. 162; Underwood v. Insurance Co., 57 id. 500; Johnson v. Insurance Co., 112 Mass. 49. The motion for a new trial upon the ground of newly-discovered evidence was properly denied.
+The judgment and order appealed from must beaffiarmed, with costs. All concur.
