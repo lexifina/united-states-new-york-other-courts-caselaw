@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-07"
+citations: ["87 N.Y. Sup. Ct. 428"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown, P. J., concurred; Dykman, J., not sitting."]
+parties: ["Alexander M. Conway, Respondent, v. Edward O. Carpenter, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/87/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4733403
+cites_cases: ["73 Hun, 540"]
+---
+
+# Conway v. Carpenter
+
+## Majority (CuxleN, J.:)
+
+CuxleN, J.:
+This is an appeal from a judgment in favor of the plaintiff entered upon the verdict of a jury at Circuit. The plaintiff claimed to be the pastor of the Messiah Baptist Church of Yonkers. The Warburton Avenue Baptist Church owned the church property occupied by the former church- and leased it to the Messiah Church at a nominal rent, with the reservation that in case of any disagreement in the congregation or board of trustees of the lessee, or other cause which in the opinion of the trustees of the lessor might make it expedient, the lessor might terminate the lease and re-enter. There was dissension and dispute between the plaintiff and his congregation. The pulpit was declared vacant by the church and the plaintiff excluded from the church edifice. But on the occasion which is the subject of this action he followed some persons engaged in lighting -the church, occupied the pulpit and insisted on preaching. His opponents then applied to the defendant, who was one of the trustees of the Warburton Avenue Church. The defendant had the plaintiff removed by force from the pulpit and ejected from the church. Eor this the present action of assault and battery was brought. The defendant justified his action on the ground that the church had been previously surrendered to the lessor and that the plaintiff was a trespasser. On a former trial the plaintiff was nonsuited. On appeal that judgment was reversed (73 Hun, 540), the General Term holding that the evidence was insufficient to show a surrender, and that even if there had been a surrender it was not justification for the violence of the assault upon the plaintiff. On the present trial additional evidence was given as. to the surrender of the church. But the learned trial judge, though dissenting in General Term from the decision referred to, felt bound by that decision to instruct the jury that there was no surrender and that the removal of the plaintiff was unlawful.
+We think this disposition of the case was erroneous.
+On the new trial there was shown not only the resolutions of the two church corporations, but the fact that the keys of the church were delivered to the trustees of the lessor and held by them for some time. The trustees of the lessor authorized a delivery of the keys to one Pollard, a trustee of the lessee church, and he was given permission to open the house for religious services only, and directed, in case of disturbance, to return the keys to the defendant in this action. The return of the keys to Pollard was not necessaiúly a disclaimer of the surrender by the lessee. As I read the resolution, its intention was to give Pollard a mere personal license revocable at any time. We think the question of surrender by the lessee to the lessor should have been submitted to the jury, with instructions that in case they found such surrender, then the defendant was justified in using such force as was necessary to eject the plaintiff if the latter, after notice, refused to leave the church.
+The court also instructed the jury that the plaintiff was the pastor of the church at the time, and that the Messiah Church could not, under its contract, terminate the plaintiff’s position as pastor till the time at which his resignation was to take effect. To this the defendant excepted. We think the charge in this respect was misleading. If the Messiah Church, in violation of its contract, discharged the plaintiff, it would doubtless be liable to him for damages, but he would not have the right to enter upon the premises of the church against its wish any more than any other employee or servant improperly discharged.
+The judgment and order denying motion for new trial appealed from should he reversed and a new trial ordered, costs to abide •event.
+Brown, P. J., concurred; Dykman, J., not sitting.
+Judgment and order reversed and new trial granted, costs to abide event.
