@@ -1,0 +1,37 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-12-08"
+citations: ["34 N.Y. St. Rep. 904"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Mayor, etc., of New York, Resp’t, v. Mary Wright, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0904-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2047031
+cites_cases: ["1 Pa. St., 309", "96 N. Y., 287", "99 N. Y., 569"]
+---
+
+# Mayor of New York v. Wright
+
+## Majority (Pratt, J. Cullen, J.)
+
+Pratt, J.
+This case was tried before a judge without a jury, and upon the allegations contained in the pleadings, and really involves only questions of law as no proofs were submitted.
+The first defense set up in the answer hinges upon the second and third defenses, which it is only necessary to notice.
+It is claimed that the acts of the legislature under which this property has been condemned under the right of eminent domain are not broad enough to cover the locus in quo.
+That is a question that should have been raised in the condemnation proceedings where the question of fact might have been tried.
+The statutes authorize the plaintiff to acquire any property necessary to construct storage reservoirs for the new aqueduct.
+This was determined to be necessary by the proper officers and proper proceedings taken to condemn it for that purpose, and we think it is too late now to make the objection available.
+The third defense is that no compensation has been paid for the land.
+It is now too well settled to require comment that the compensation is not to be given in advance of the taking or even concurrently in point of time. It is enough to satisfy the constitutional requirement if an adequate and certain payment is provided for such owner which he can avail himself of. In Matter of U. S., 96 N. Y., 287 ; Matter of Mayor, etc., 99 id., 577.
+The statute has made ample provision for payment of the damages assessed. The law gives the land owners whose property is condemned ample security for the certain and immediate payment by authorizing the issue of bonds pledging the resources of the city, and empowering the amount to be raised by taxation. In other words, the “ law puts the public purse of the city behind the debt as the source of its payment.” Matter of the Mayor, etc., supra.
+Such security has been held to be a sufficient guarantee of payment to meet the requirements of the constitution. Lewis on Eminent Domain, 457; Pittsburgh v. Scott, 1 Pa. St., 309.
+It seems to have been the neglect of the defendant that she has not already received the award.
+Judgment affirmed.
+Cullen, J.
+The evidence adduced on the trial has not been placed before us. The appeal is substantially upon the judgment roll and no exception has been taken to any of the findings of fact. Such findings show that the aqueduct commissioners and commissioners of public works of the city of Hew York under the act of June 1, 1883, and the acts amendatory thereof, determined to construct a dam and reservoir, and to acquire for that purpose the real estate in suit, and that they in all respects complied with the requirements of said acts for that purpose.
+There is nothing in the record before us to show that the land of the defendant lies outside of the limits of the reservoirs and aqueduct authorized by the legislature, and in the absence of evidence' or a finding showing such fact we must assume that the land is within the limits which the legislature authorized the plaintiffs to acquire.
+The sole question which the defendant can raise on this appeal is, therefore, the constitutionality of the legislation under which her land is sought to be acquired. The grounds on which the validity of the legislation is assailed seem to us to have been so settled by repeated adjudication of the highest court in this state as to foreclose any elaborate discussion. That payment in advance of the taking is unnecessary provided a certain and adequate source and manner of payment to the landowner is provided, and that the public purse of the city is such adequate and certain source of payment, was held by the court of appeals in Matter of the Mayor, 99 N. Y., 569, and Sage v. City of Brooklyn, 89 id., 189. The provision for payment of any awards is as certain and definite in the act here in controversy as that contained in the park act, the validity of which was determined in the first of the cases cited. Indeed no distinction is attempted to be drawn except in the fact that the act before us prescribes no time within which the commissioners of appraisal must make their report We do not think such provision necessary. The landowner himself is the moving party. He files his claim; his award draws interest. The court can secure to him the prompt determination of his claim if he himself acts with diligence. This is sufficient.
+The judgment appealed from should be affirmed, with costs.
+Dykman, J., concurs.
