@@ -1,7 +1,8 @@
 ---
 court: "New York Court of Common Pleas"
 decided: "1854-12"
-citations: ["3 E.D. Smith 548", "3 E.D. Smith 557", "1 Abb. Pr. 148"]
+decided_precision: "month"
+citations: ["3 E.D. Smith 548", "1 Abb. Pr. 148"]
 reporter: "ed-smith"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
