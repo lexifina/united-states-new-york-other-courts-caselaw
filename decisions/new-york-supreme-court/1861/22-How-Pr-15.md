@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1861-10"
+citations: ["22 How. Pr. 15"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nathan Schussel agt. James C. Willett, sheriff."]
+source_url: "https://static.case.law/how-pr/22/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2213684
+cites_cases: ["29 Barb., 105", "9 Abb., 325"]
+---
+
+# Schussel v. Willett
+
+## Majority (By the court, Leonard, Justice.)
+
+By the court, Leonard, Justice.
+The proceeding by attachment under the Code is in rem, and is collateral and auxiliary to the action. The warrant authorizes the seizure of the property of the defendant therein, and creates an inchoate lien thereon. Such lien would be useless as a remedy if it cannot be defended against false or fraudulent claims made by third parties. It is said that the attaching creditor, having no judgment, does not stand in a position to resist the claims of a fraudulent purchaser from the defendant in the attachment. If so, the remedy is useless as a means of securing the debtor’s property to answer the judgment which may be recovered in such action (§ 232) where the debtor has transferred it to a fraudulent vendee. Section 232 also directs the sheriff to proceed in the manner required of him by law in case of attachments against absent debtors. Under the provisions of the Revised Statutes there referred to, in case the property of the debtor seized shall be claimed by any other person, the sheriff shall call a jury and try the validity of the claim ; and if found in favor of the claimant, the sheriff shall deliver the property to him, unless the attaching creditors shall indemnify the sheriff. In case the indemnity is given, then the sheriff must detain the goods. It seems very inconsistent and unreasonable that the sheriff should be required to hold the property so attached, after a trial before a sheriff’s jury and a verdict in favor of the claimant, if, when a like question is raised at the circuit or elsewhere in a court of record, the sheriff shall not be permitted to assail the bona fides of the title of the claimant.
+There are many other strong grounds for maintaining the right of the sheriff or the attaching creditor to contest the title to property of those claiming by transfer from the debtor in the attachment proceedings.
+The right of trustees appointed under the Revised Statutes in attachment proceedings against absconding, concealed or non-resident debtors, to invoke the aid of a court of equity against all parties claiming through an alleged fraudulent title derived from the debtor, has often been maintained, although the attaching creditor could prove a demand existing only by simple contract. That proceeding is taken for the benefit of all creditors who come in and prove their demands against the debtors in the attachment, and in that respect is unlike the proceeding authorized by the Code; but I am unable to perceive that this circumstance makes any difference in the application of the principle.
+Had there been no prior decision of the supreme court on this question, I should not hesitate to uphold the decision of the learned judge who presided in this case at the circuit. The case of Hall agt. Stryker, (29 Barb., 105,) decided by a very eminent justice of this court, at general term before three justices of the second district, is adverse to these views, and in a case in all respects similar I should defer to that authority.
+At the trial of this action it was admitted by the plaintiff that judgment had been recovered a year previously by the attaching creditors against the debtor in the same action wherein the warrant of attachment, which was relied on as a link in the defence of this action, was granted. No objection was made by the plaintiff to the introduction of this evidence.
+It was not a variance by which the plaintiff was misled. It was a proper case, after the evidence was in without objection, for disregarding the omission to plead the recovery of the judgment under the authority of section 170 of the Code. The court evidently so considered it. If I do not mistake, the justice presiding at this trial was a member of the general term, which pronounced the judgment in Hall agt. Stryker. The defendants might have set up this judgment before the trial by a supplemental pleading, by leave of the court. But it is quite apparent that the plaintiff was aware of its existence, and was not surprised by the evidence, candidly admitting it without objection.
+This fact being fairly before the court, the ground of the objection raised on the authority of Hall agt. Stryker is obviated. The trust assignment for the benefit of creditors under which the plaintiff claimed title to the property in question, derived from the debtor in the attachment, authorized the assignee to “ manage and improve” the assigned estate.
+This provision renders the assignment on its face fraudulent and void.
+The judgment should be affirmed with costs.
