@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Chancery"
 decided: "1848-02-21"
-citations: ["3 Barb. Ch. 119", "2 Barb. Ch. 555"]
+citations: ["3 Barb. Ch. 119"]
 reporter: "barb-ch"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["De Ruyter vs. The Trustees of St. Peter’s Church and others."]
 source_url: "https://static.case.law/barb-ch/3/cases/0119-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1997916
-cites_cases: ["11 Verm. Rep. 385", "2 Stew. Rep. 4", "2 Wheat. Rep. 373", "3 Wend. Rep. 13", "4 Ark. Rep. 304", "5 Wend. Rep. 445", "6 Wend. Rep. 226"]
+cites_cases: ["11 Verm. Rep. 385", "2 Stew. Rep. 4", "2 Wheat. Rep. 373", "3 Wend. Rep. 13", "4 Ark. Rep. 304", "5 Wend. Rep. 445"]
 ---
 
 # De Ruyter v. Trustees of St. Peter's Church
