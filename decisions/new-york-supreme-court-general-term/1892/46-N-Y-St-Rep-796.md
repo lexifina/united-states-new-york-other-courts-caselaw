@@ -1,0 +1,38 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-07-02"
+citations: ["46 N.Y. St. Rep. 796"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eliza Babcock, Adm’rx, App’lt, v. The Fitchburg Railroad Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0796-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084241
+cites_cases: ["25 N. Y., 544", "43 N. Y., 123"]
+---
+
+# Babcock v. Fitchburg Railroad
+
+## Majority (Mayham, P. J.)
+
+Mayham, P. J.
+Plaintiff's intestate' was at the time of his-death and for several years prior thereto had been employed as a manufacturer of powder at the Schaghticoke Powder Mills in Columbia county. He was a sober and steady man, thirty-one years of age, and resided with his mother, to whose support he contributed. On the 15th day of October, 1889, he was killed by an explosion of the powder mill in which he was at that time employed. The mill in which he was at that time at work is-located about 195 feet from the track of the defendant’s railroad.
+The mill was constructed in 1862. Previous to this time there had been a railroad on the line of the defendant’s road at this point, but it ceased to be operated as a railroad soon after 1862, and the defendant succeeded to this road-bed some fourteen years thereafter, and has since that time operated a railroad at, that point.
+The grade of the railroad track opposite this mill is at the rate of about thirty feet to the mile, and at the time of the explosion of the powder mill by which intestate was killed there was a freight train consisting of twenty-six loaded freight cars drawn by one locomotive passing up this grade opposite the mill.
+The case shows that the fuel used for generating steam for the propulsion of the locomotive engine was bituminous coal, and that large volumes of dense smoke were emitted from the smokestack, and carried by the wind towards and to this mill, settling down upon it, and when the smoke settled over the mill the explosion occurred.
+3STo other theory is developed by the evidence than that the powder was ignited by the sparks from the locomotive, which were forced out of the smoke-stack by the action of the engine with this volume of smoke.
+The evidence chows that 'the spark-arrester on the smoke-stack of the engine" employed in drawing the train of cars is what is known as the diamond stack, and there was evidence introduced in the case from which the jury might have found that the more approved stack, and one less liable to emit large sparks, is one known as the extension point, which was extensively in use at that time by railroad companies.
+Upon this subject the defendant introduced some expert witnesses, who testify that the diamond stack was as good as the extension, and no more liable to emit sparks; so that upon that subject there was a conflict of opinion between the experts, and a conflict of evidence upon the fact, which, if important in this case, should have been submitted to the jury.
+If that disputed question had been submitted to the jury under proper instruction from the court, and the jury had found that the powder in that mill had been ignited by sparks emitted by that smoke-stack in consequence of the defective spark-arrester, the verdict could not have been set aside on the ground that it was not supported by evidence.
+It is true that railroad companies are not always required to use the very best appliances and machinery known to the business, but when in the proper prosecution of their business life and property of others are jeopardized, they are required to minimize that risk by the use of such approved appliances and implements as are in use, and reasonably attainable, to prevent damage to others.
+The defendant is presumed to know, what the undisputed evidence in this case established, that the effort required of a single locomotive to haul a train of twenty-six loaded cars up a grade of thirty feet to the mile would force out of the smoke stack a large amount of smoke, which would carry with it, unless prevented by a suitable spark arrester, burning coals and cinders, and thus increase the hazard of igniting the powder at this mill. And while the defendant should not, by harsh and unreasonable requirements, be deprived of the reasonable use of its property, it should not, on the other hand, be permitted to negligently or wantonly jeopardize the lives and property of others by the use of defective machinery, when, by the use of proper appliances, the danger would be removed or lessened.
+It is true that the intestate, by the character of his employment, voluntarily subjected himself to the ordinary risks of the dangerous character of his business, but he had a right to engage in that occupation and to have his life not unnecessarily imperilled by defendant’s use of an inferior spark arrester, and we think the jury, under the evidence in this case, should' have passed upon that question^
+The rule in cases of this character was well stated by Folger, J., in Steinweg v. The Erie Railway, 43 N. Y., 123, as follows : “The rule of law is that the appellant was guilty of negligence if it adopted not the most approved modes of construction and machinery in known use in the business, and the best precaution in known practical use for securing safety.
+“ If there was known and in use any apparatus which, applied to an engine, would enable it to consume its own sparks and thus prevent emission of them, to the consequent ignition of combustible property in the appellant’s charge, it was negligent if it did not avail itself of such apparatus. But it was not bound to use every possible precaution which the highest scientific skill might suggest, or to adopt an untried machina”
+And after citing several authorities, English and American, in support of that rule, he continues: “And it was a question for the jury whether there did, in fact, such negligence exist”
+The doctrine of that case seems to apply to and be controlling of this on that point.
+We think it was also a question of fact from the evidence whether the spark from the locomotive ignited this powder. 'There was enough evidence, if the jury had so found, to support a verdict that a spark from the engine ignited the powder, although there is no positive proof that it did so. The smoke settled down upon the building and was mixed with sparks or burning cinders. Sparks are not always seen in the daylight, but always in the dark, and we think under the evidence it was for the jury to say whether the fire in this case was caused by sparks from the smokestack. Positive proof is not always attainable; but a verdict ' based on circumstantial evidence will in a proper case be upheld. Hinds v. Barton, 25 N. Y., 544.
+We think that there were questions of fact in this case which should have been left to the jury, and that it was error to dismiss the complaint.
+Judgment reversed and a new trial ordered, costs to abide the event.
+Putnam and Herrick, JJ., concur.
