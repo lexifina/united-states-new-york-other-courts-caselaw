@@ -1,0 +1,19 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1895-12-02"
+citations: ["70 N.Y. St. Rep. 885"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Halliday, Resp’t, v. A. I. Nicholas et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/70/cases/0885-08.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2122553
+---
+
+# Halliday v. Nicholas
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The question of the right of the plaintiff to recover depended upon the construction of an agreement the terms of which were not disputed. The defendants agreed to hold a deposit of checks or money made by a thir.d party until July'15, 1893, and on that day to pay over; but the payment was conditional upon a certain consolidation and issue of bonds specified in another paper. Such consolidation and issue did not take place until the month of August thereafter, and meanwhile the depositor countermanded payment to the plaintiff. We held the plaintiff not entitled to recover. The question of time, being of the essence of the contract, cannot arise in this case as between the depositories and the plaintiff. As between them, the plaintiff, if entitled to the money at all, was entitled to it on July 15th, that being the agreement; but, as the condition was not fulfilled, he was not entitled, and cannot recover, there being no other enforceable agreement of the defendants. Motion denied, with §10 costs.
