@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-03"
+citations: ["75 N.Y. Sup. Ct. 255"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, Maoomber and Haight, JJ., concurred."]
+parties: ["James Danihee, Appellant, v. John Hyatt, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/75/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2385047
+cites_cases: ["101 N. Y. 77"]
+---
+
+# Danihee v. Hyatt
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+Tlie action was ejectment for a small triangle of land adjacent to tlie boundary line between two village lots in tbe village of Great Yalley. The allegations of the complaint were, in the simplest form — a leasehold estate in the plaintiff, and an unlawful withholding of possession by the defendant; issue was joined by a general denial, only, and the sole finding of the referee was, in effect, that possession was not withheld by the defendant. The issue of title was not passed upon, and very properly not, if, as the finding was, possession was not withheld from the plaintiff by the defendant.
+The undisputed facts of the case were that of two adjoining lots carved out of a larger tract by a common grantor, the plaintiff had title to the one and the wife of the defendant to the other. The plaintiff claimed that the three-cornered piece in question was. included within the true boundaries of his lot, and he built a fence on what he claimed to be the boundary line. The defendant came on, in person, and tore down the fence and threw it off from the-triangular piece. In doing so he made no disclosure of any agency for his wife, nor claimed title in her behalf, but declared, in substance, that he would have no fence on that line. Again, the plaintiff was. unloading some wood on the triangular piece, when the defendant-came on and threw off the wood as fast as it was unloaded, and Ins-own testimony on the subject is, “I told him I didn’t want any wood put there. * * * I told them I would throw it off if they put it there. I told them I would not let them put wood there; ” and there was no mention of any claim on the part, of his wife. Again, the defendant drew a wagon onto the three-cornered piece and chained it fast to a gatepost, and left it there with the evident purpose of asserting and holding possession of the-land on which it stood, and there, so far as appears, the wagon stood, at the time of the commencement of the action.
+On the trial the defendant was permitted to testify that he did all of these .things by direction of his wife. But that fact, if it was-such, was never communicated to the plaintiff and, as affecting his-rights, cannot serve to qualify the acts and accompanying declarations of the defendant himself.
+Counsel for the defendant are disposed to argue that, because. Mrs. Hyatt and not the defendant had title to and was in the' occupation of the adjoining lot, therefore, she and not her husband must be presumed to be the person claiming to occupy the triangle in dispute. But this is to beg the question of the effect of the deed of the defendant’s wife. If that deed should be held, on its face, to include the triangle, then it would be fair to assume that she claimed to occupy it with the body of the lot; but if the contrary should be held to the effect of her deed, then no such presumption could arise, and Mrs. Hyatt herself testified that she claimed no land except such as was covered by her deed, which was in evidente.
+But even if it should be conceded that Mrs. Hyatt was claiming the right to occupy the piece in dispute, that fact would not be inconsistent with her husband’s unlawfully seizing the possession and withholding it from the plaintiff. That is the fact which is charged in the complaint as the ground of the plaintiff’s action, and which we think is clearly established by the undisputed evidence from which the facts above recited are drawn. .That evidence discloses repeated acts of dominion exercised by him, to the exclusion of all rights of the plaintiff, and finally the taking of actual and ostensible possession of the land, which was maintained down to the time of the commencement of this action. All this was done by the defendant in person and apparently, and to some extent avowedly, on his own responsibility. The character in which he assumed to act in forcibly dispossessing the plaintiff and taking possession of the premises in dispute, was to be judged from his acts and accompanying declarations, and not from any secret understanding between himself and his wife. The plaintiff had no ground for charging the responsibility for those acts upon the wife of the defendant, and if he had done so in an action against her, his remedy would easily have been defeated by a disclaimer on her part of such responsibility. The case of Martin v. Rector (101 N. Y. 77), which is cited by the learned referee, was one in which- the husband and wife resided together on the premises in dispute, and the question was whether the husband, as the head of the family, was in law presumed to be the occupant of the premises, notwithstanding that the title claimed was in the wife, and the question of occupancy was held to be a question of fact. Ye find nothing in the doctrine of that case which is necessarily decisive of this.
+Upon the case made by tbe record in this action we are nnable to see how tbe plaintiffs complaint could be properly dismissed without a finding and decision adverse to him upon tbe issue of title made by tbe pleadings.
+Tbe judgment should be reversed, and a new trial granted.
+Lewis, Maoomber and Haight, JJ., concurred.
+Judgment appealed from reversed, and a new trial granted, with costs to abide the event.
