@@ -1,0 +1,39 @@
+---
+court: "New York City Civil Court"
+decided: "1969-10-01"
+citations: ["61 Misc. 2d 1"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alan Fox et al., Plaintiffs, v. Walter Montenegro et al., Defendants."]
+source_url: "https://static.case.law/misc2d/61/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1210701
+cites_cases: ["16 Misc 2d 232", "16 Misc 2d 299", "247 N. Y. 428", "285 App. Div. 16", "4 A D 2d 444", "6 A D 2d 832"]
+---
+
+# Fox v. Montenegro
+
+## Majority (William T. O’Connell, J.)
+
+William T. O’Connell, J.
+Motions numbered 170 and 146 are hereby consolidated for decision.
+This appears to be a case of first impression. Neither counsel has been of any assistance to the court and they have not submitted any memoranda of law sustaining their respective contentions.
+The action herein was commenced in the Kings County division of this court, and bears Index No. 59165/1964 which is the Kings County index number assigned to this case.
+The facts herein are not really at issue.
+The action was brought to recover damages allegedly sustained by the plaintiffs on the 21st day of June, 1964 as the result of an automobile accident. Thereafter issue was joined and the case noticed for trial in the Kings County division of this court and was assigned calendar No. J 16745.
+On May 13, 1968, the case was dismissed from the trial calendar because of the nonappearance of the plaintiffs.
+Thereafter, the plaintiffs ’ attorney moved for an order restoring the case to the calendar. The plaintiffs’ attorney claims that due to a clerical error the venue of the caption of the case was placed in New York County. There is no question that the case was instituted in Kings County; that the index number was a Kings County number and that there had been no previous papers filed in this case in New York County.
+The defendants opposed the motion and in their papers continued listing New York County as the place of venue in the caption of the case. The defendants’ attorneys now claim that they were unaware that the motion was made returnable in the wrong county.
+Upon the return date of the motion, neither party having advised the court that the motion was made returnable in the wrong county, the court accepted the motion as a contested motion and thereafter decided the motion upon the merits.
+The court decided and found that the plaintiffs’ default was neither willful nor contumacious and that no prejudice other than inconvenience had been established on the part of defendants. The court granted the motion to restore the case to the calendar under certain conditions including the payment of $25 costs by the plaintiffs to the defendants. The defendants have refused to accept the tender of the payment of the motion costs so as not to prejudice a prospective appeal.
+The defendants move to have the order restoring the case to the calendar vacated with leave to the plaintiffs to move for similar relief in the Kings County division of this court, while the plaintiffs move for an order amending the venue in the caption of the order restoring the case to read “County of Kings ” instead of and in place of “ County of New York,” and for such other and further relief as to this court may seem just and proper.
+In substance, the defendants claim that a Judge sitting in New York County did not have jurisdiction to act upon the motion, while the plaintiffs claim that this court did have jurisdiction and had it been advised of the error in the venue, the motion could have been transferred to the Kings County division of this court.
+The defendants herein are confusing the question of “ venue ” with that of “ jurisdiction.” If the defendants had any objection to the motion having been brought in New York County, they should have made that objection known at the time when the motion was made. “ Venue ” relates to the place where a trial or hearing is scheduled, while “jurisdiction” relates to the authority of a court to pass upon or decide a particular question.
+Here we have a case which properly came within the jurisdiction of the Civil Court of the City of New York. The case was instituted in Kings County, but the motion to restore was brought in New York County.
+Judges of this court are at times assigned to divisions of this court other than the one to which they were elected. The Judges of this court have the power to transfer cases from one division to another, where the case has been brought in a county other than the county which is the proper venue. In such case, it cannot be said that jurisdiction was lacking, since the court does have jurisdiction but the venue or place of the trial or hearing requires a change of county or division.
+“ Ordinarily the venue would be fixed in the county wherein jurisdiction was first invoked (Efco Prods. v. Long Island Baking, 6 A D 2d 832), but this is not necessarily controlling.” (Buckley Constr. Co. v. Hungerford, 16 Misc 2d 299, 301.)
+Here the Civil Court of the City of New York had jurisdiction over the cause of action. The defendants should have raised their objection to the motion to restore being brought in the New York County division of this court instead of the Kings County division. The defendants opposed and contested the motion to restore upon the merits. Under these circumstances the defendants are deemed to have waived their objection to the venue of the motion. Here the objection being raised is not to the subject matter, in which case there can be no waiver or estoppel. In this case the claim is lack of jurisdiction over the person by reason of the bringing a motion in the wrong county. (Revona Realty Corp. v. Wasserman, 4 A D 2d 444, 447.) An objection that no jurisdiction of the person has been acquired, to wit, the motion to restore being brought in New York County, may be waived by subsequent acts of the party affected or he may be estopped from asserting the objection.
+A defendant cannot deny jurisdiction over his person and at the same time urge merits. (Henderson v. Henderson, 247 N. Y. 428, 434; Revona Realty Corp. v. Wasserman, 4 A D 2d 444 supra; Dembo v. Stasig, 285 App. Div. 16, 17-18.) In the instant case the defendants opposed and contested the motion to restore, and after an adverse decision, now claim that the court hearing the motion did not have jurisdiction over their persons because of the wrong venue having been placed in the caption. (Kerekes v. Greenwood Props., 16 Misc 2d 232.)
+Accordingly, the motion by the defendants is denied in all respects, and the motion by the plaintiffs for an order amending the venue in the caption of the motion to restore the case to the court’s calendar of the Kings County division of this court is granted and the court adheres to its decision and order theretofore granted herein dated May 16, 1969, except that the court hereby amends the final sentence of its order to read as follows: “ Upon presentation of proof of compliance with the foregoing and proof of service on defendants, the Calendar Clerk of the Kings County Division of the Civil Court of the City of New York shall restore the action to the trial calendar in regular order; or, if that order has passed, then to the appropriate ready day calendar of October 31st, 1969.”
+It is hereby further ordered that the Clerk of the New York County division of the Civil Court of the City of New York be and he is hereby directed to transfer any and all orders, motions, affidavits and other papers either on file or otherwise in the records or in his custody in this court dealing with these motions and this order, to the Clerk of the Civil Court, County of Kings, to be added and placed in the file of this action in Index No. 59165/1964.
