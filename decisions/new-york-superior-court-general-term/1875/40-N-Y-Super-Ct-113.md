@@ -1,0 +1,27 @@
+---
+court: "New York Superior Court General Term"
+decided: "1875-12-06"
+citations: ["8 Jones & S. 113", "40 N.Y. Super. Ct. 113"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRMIN COUSINERY et al., Plaintiffs and Respondents, v. JOHN PEARSALL et al., Defendants and Appellants."]
+source_url: "https://static.case.law/ny-super-ct/40/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1654843
+---
+
+# Cousinery v. Pearsall
+
+## Majority (By the Court.—Speir, J.)
+
+By the Court.—Speir, J.
+The defendants first rely upon the principal defense set up in the answer of sale by sample. They claim, that though the goods were sold as damaged, yet if sold by sample, the sample should be a fair specimen of the whole.
+As a general rule on a sale by sample, it must appear that the parties mutually understood they were dealing with the sample, on an agreement or understanding that the bulk corresponded with it, even though the seller exhibit .a sample at the time of the sale, that of itself will not make it a sale by sample, so as to render the seller liable on an implied warranty as to the nature and quality of the goods. But if the seller warrants that the whole bulk corresponds with the sample, he is liable in case it turns out to be different, although it was sold as a damaged article.
+In this case it appears that the sale took place in pursuance of an advertisement made by the auctioneers, stating the quantity of Menton lemons to be sold, which could be seen on pier 20 ¡North River.
+The defendants saw some of the goods that were discharged, and some of the damaged lemons, before the sale commenced. When the sale began, the auctioneer gave express notice that the goods were sold as they were, and that no allowance would be made for anything whatsoever. It seems to have been understood by persons present, that the goods offered were a damaged lot, and it is plain that the defendants bought them at damaged prices ; under these circumstances, the fact that a part of the "lemons before the sale were discharged and on the dock, could not make them samples of the rest.
+The defendants next contend that as no payment nor memorandum was made, nor any part of the goods accepted and received, as required by the statute, they could not be held. The auctioneer’s book containing his memorandum was produced and read on the trial, and the auctioneer was examined in relation to it by defendants’ counsel. ¡No objection was then raised, nor is the memorandum to be found in the case to enable us to determine whether it complied with the statute of frauds, or the statute relating to auction sales. If the appellant seeks to raise the question, I think it was clearly his duty, in making up his case, to furnish this court with the means of deciding it. This memorandum was before the court, as appears from the record, and must have been passed upon by the learned judge who tried the cause. There is nothing to show that there was error, and it should not in such a case be presumed. There was in law a sufficient delivery of the lemons; it was not necessary tc prove a complete delivery, after proving a tender of the lemons and rejection. The defendants purchased eight hundred and forty boxes out of one thousand five hundred and forty marked “M. D.,” the rest, seven hundred were sold to other parties. These eight hundred, and forty boxes were taken in the order as they came out of the vessel, and in their turn as purchasers, and three or four truckloads were, as a part of the eight hundred and forty, tendered to the defendants, who refused to take any but the best. They were not entitled to take their choice of the whole cargo, or out of the whole invoice by the marks of which they bought. The defendants had notice of the resale of the lemons tendered and refused, and this was evidence of the value of those damaged.
+The express announcement at the sale that the goods were damaged, their actual and intrinsic value, or that they were subsequently condemned by the Board of Health, is of no consequence. It seems to me that the only practical method of re-selling the goods, under the circumstances, was to re-sell them in the mass, or. by lot indiscriminately, and to credit the defendants with the highest price. The general rule recognized by the law, requiring that goods re-sold on account of a party refusing to receive them, when lawfully tendered, is that they should be separately sold, and not mingled with others. In the present case the rule could not be observed, and the plaintiffs assuming to make the sale in the defendants’ interest should in fairness account, I think, for the highest price obtained. The notice to the defendants of reselling being, in the absence of other evidence, evidence to show value for the purpose of this case, the highest price must be the true measure of defendant’s credit on such a sale.
+I can not see that the defendants’ exceptions to the refusal of the court to submit to the jury are well taken.
+Defendants’ exceptions must, therefore, be sustained, unless plaintiffs consent to a reduction of one hundred and sixty-eight dollars in the amount of the verdict, in which case the exceptions are overruled, and judgment ordered for the plaintiffs upon the verdict as reduced.
+Freedman, J., concurred.
