@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court"
+decided: "1861-10"
+citations: ["13 Abb. Pr. 13", "22 How. Pr. 10"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OWEN a. CAWLEY."]
+source_url: "https://static.case.law/abb-pr/13/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4622442
+cites_cases: ["1 Barb. Ch., 36", "10 How. Pr., 395", "15 Barb., 28", "19 How. Pr., 86", "2 Sandf. Ch., 287", "21 Barb., 551", "22 N. Y., 450", "26 Barb., 612", "26 Barb., 614", "3 Barb., 500", "3 Sandf. Ch., 104", "3 Sandf., 540", "30 Barb., 506", "30 Barb., 520", "30 Barb., 524", "4 Barb., 295", "4 Duer, 96", "4 Sandf., 596", "5 Barb., 156", "5 Duer, 476", "7 Barb., 386", "7 How. Pr., 107"]
+---
+
+# Owen v. Cawley
+
+## Majority (By the Court.— Ingraham, J. Gould, J. Clerke, P. J.)
+
+By the Court.— Ingraham, J.
+—I cannot concur in the opinion that all the charges allowed by the referee were properly chargeable on the separate estate of Mrs. Cawley. The decision in Yale a. Dederer (22 N. Y., 450) holds that the intention to charge the séparate estate must be stated in the contract itself, „ or the consideration must be one going to the direct benefit of the estate. I am not disposed to extend the rule any further than the Court of Appeals have laid it down. Applying this rule to the present case, I am at a loss to see how bringing an action for a married woman, which fails, presents a consideration going to the direct benefit of the estate. I suppose the court intended that where the intent to charge the separate estate was not stated in the contract, it might be inferred from a direct benefit to the separate estate. .No such inference can be drawn where no benefit, but an injury, results from the service. If there had been 'but one action, and the married woman had been defeated, with a large bill of costs charged against her, would it in any way be inferred that her separate estate had been benefited by the services rendered?
+I forbear commenting upon the fact that the employment was by the husband, and the doubt which might arise whether, even though his agency in the business was admitted, he had any right to bind the separate estate of the wife without her knowledge and express assent. She could not so charge her real estate except by her acknowledged deed, and yet in this case the husband, without proof of her knowledge or assent, is allowed to make such a charge, which binds the real and personal estate.
+.Without, however, expressing any opinion now on this point, I am clearly of the opinion that the defendant is not liable for all the services included in this judgment, and think the report should be set aside and the.case referred back to the referee.
+The present evidence should stand in the cause, and either party be allowed to produce further testimony.
+Gould, J.
+—While I think that a suit must be judged to be or not to be for the benefit of an estate by the intent and object of commencing it, rather than by the result, I am not satisfied that in this case the services rendered are a proper charge on the defendant’s real estate. All the facts of the case were certainly not in proof before the referee, or else her estate is not chargeable with all these costs. There is not enough in the case to show that the husband was in fact, and with her knowledge, acting as her agent in the employment; certainly not enough . to show that she intended any such thing as charging her property.
+I am disposed to concur in the result of Judge Ingraham’s opinion ; and, besides, to hold that the husband is a proper witness to prove his agency, and its extent, as well as all facts concerning the employment of the plaintiffs: The Act of 1860 (referring to what man and wife, as parties, may testify to), certainly must mean, that the husband or wife may, to some matters, be a witness for or against each other, and I can conceive of no case more proper for admitting such testimony, than one 'where either has acted as the agent of the other in the business in controversy. With the wisdom of making such a law we have nothing to do. But unless we allow it to have effect to this extent, we virtually make it of no effect.
+I should reverse the judgment and order a new trial, as suggested by Judge Ingraham.
+Clerke, P. J.
+—Although a married woman could not have carried on business as a feme sole, previous to 1860, yet the acts of 1848-49 gave her the right to own property, real and personal, in the same manner as if she were unmarried. In this action, the question is not whether Mrs. Cawley or her husband is liable for the debts, or entitled to the profits of a trading concern, but whether she possessed separate property of any . kind; and second, whether the services for which .the plaintiffs claim compensation were rendered for the benefit of that separate property.
+I. The referee expressly finds that she did own separate property ; and this is indeed clearly warranted by the admission of the defendants’ answer.
+II. In Yale a. Dederer (22 N. Y., 450) a majority of the judges concurred in the opinion that the intention to charge the separate estate must be stated in the contract itself, or the consideration must be one going to the direct benefit of the estate. In the present case, we think the consideration went to the direct benefit of the estate—professional services rendered to recover the claims which constitute the estate, and services directly beneficial to it. The referee has found that the services of the plaintiffs were rendered for the benefit of Mrs. Cawley’s separate estate. This was, perhaps, a mixed question of law and of fact; but if it was exclusively the former, I am disposed to think that the conclusion at which he arrived was correct. It is no answer to say that some of the proceedings commenced on behalf of Mrs. Cawley by the plaintiffs were unsuccessful in the result. If the purpose of those proceedings was to secure claims which she considered belonged to her, or which were due td her, the commencement and prosecution of these proceedings was as beneficial to her as similar services would be to any person who was not a married woman. Whoever undertakes with my consent to establish my legal 'rights, undertakes a service for my benefit; and the want of success in the undertaking, unless it was expressly agreed that compensation depended upon success, would be no excuse for me in refusing compensation. I do not see why such an excuse should be more available in the instance of a married woman, than in that of any other person. The term “benefit” has the same signification in both instances. The faithful and skilful endeavor to serve any one, although not productive of actual profit, is in itself a benefit.
+The referee decided correctly in excluding the testimony of the husband.
+The judgment should be affirmed with costs.
+Judgment reversed.
+Present,' Clerke, P. J., Ingkaham and Gould, JJ.
