@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-03"
+citations: ["47 N.Y. Sup. Ct. 176"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BARKER and Bradley, JJ., concurred; SMITH, JP. J., not sitting."]
+parties: ["THE PEOPLE OF THE STATE OF NEW YORK ex rel. THE NEW YORK, LAKE ERIE AND WESTERN RAILROAD COMPANY, Appellant, v. WILLIAM P. LOW and Others, Assessors, and GEORGE D. DOVER, Supervisor of the Town of Avon, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/47/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8593345
+---
+
+# People ex rel. New York, Lake Erie & Western Railroad v. Low
+
+## Majority (Haight, J.:)
+
+Haight, J.:
+On the 14th day of September, 1885, a writ of certiorari was issued out of the Supreme Court, on the petition of the relator, to review the action of the assessors of the town of Avon, in the county of Livingston. The writ commanded the respondents to certify and return, at a Special Term of the Supreme Court to be held in and for the county of Monroe, at the court-house, in the city of Rochester, on the twenty-sixth day of October, at the opening of court on that ■day, a certified and sworn copy of the assessment-roll, etc. The certiorari was issued under and pursuant to chapter 269 of the Laws of 1880, and the return commanded is in accordance with the provisions of that act. Section 2132 of the Code of Civil Procedure provides that “ a writ of certiorari must be made returnable within twenty days after the service thereof, at the office of the ■clerk of the court.” Section 2138 provides that “in the Supreme Court it must be heard at a General Term, held within the judicial' department embracing the county where the writ was returnable.” Section 3 of the act under which the writ was issued provides that “ the court or justice granting the writ shall prescribe in the writ the time within which the return thereto must be made, which shall not be less than ten days, and may extend such time.” Section 2 of the act provides “such writ shall only be allowed by a justice of the Supreme Court in the judicial district, or at a Special Term of the court in the judicial district in which the assessment complained •of was made, and shall be made returnable at a Special Term in said district.” Under the Code the writ can be granted only at a General or Special Term of the court, whilst under the statute referred to it can be granted only by a judge of the court or at •Special Term. It will be observed that the practice provided for in the act under which this writ was issued differs materially in many respects from that provided by the Code. The question presented for our determination is whether or not the provisions o.f the Code are applicable and to be followed upon the issuing of writs of this character. Section 2132 of the. Code is a part of chapter 16. Section 3355 provides that “for. the purpose of determining the effect of this act upon other acts, and the effect of other acts upon this act, chapters 14 to 22 of this act, both inclusive, are deemed to have been enacted on the 12th day of January, in the year 1880, and all acts passed after the last mentioned date are to have the same effect as if they were passed after those chapters.” Section 3356 provides that “ chapters 14 to 21, both inclusive (shall take effect), on the 1st day of September, 1880.” So that we are required to consider section 2132 as having been passed on the 12th day of January, 1880, and that it took effect on the 1st day of September, 1880. Chapter 269 of the Laws of 1880 was passed May 12, 1880,. and took effect in twenty days thereafter. Section 2147 of the-Code provides that “ where the right to a writ of certiorari is expressly conferred, or the issuing thereof is expressly authorized by a statute passed before and remaining in force after this article-takes effect, this article does not vary or affect in any manner any provisions of the former statute, which expressly prescribes a different regulation with respect to any of the proceedings upon the cerUorari to be issued thereunder.” ft thus appears that chapter 269-was passed before, and remained in force after, section 2132 took effect, and under the express provisions of section 2147 the Code does not vary or in any manner affect the provisions of the statute.
+The order of the Special Term should be reversed, with ten dollars costs and disbursements, and the motion denied.
+BARKER and Bradley, JJ., concurred; SMITH, JP. J., not sitting.
+Order reversed, with ten dollars costs and disbursements, and motion denied.
