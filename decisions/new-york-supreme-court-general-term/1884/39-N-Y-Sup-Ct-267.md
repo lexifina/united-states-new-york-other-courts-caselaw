@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1884-03"
+citations: ["39 N.Y. Sup. Ct. 267"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin and Barrer, <TJ., concurred."]
+parties: ["JOSEPH S. LOWERY and JAMES J. LOWERY, Respondents, v. CALCINA B. CLINTON, ELLEN E. CLINTON, ANNIE B. CLINTON, FANNIE C. CLINTON and ABBIE M. CLINTON, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/39/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11282104
+cites_cases: ["26 Hun, 288", "63 N. Y., 252", "90 N. Y., 492", "90 N. Y., 538", "90 N. Y., 588"]
+---
+
+# Lowery v. Clinton
+
+## Majority (Smith, P. J.:)
+
+Smith, P. J.:
+The plaintiffs, as judgment creditors of the defendant Calcina B. Clinton, seek by this action to set aside as fraudulent against creditors, an instrument in writing, by which the said defendant assigned to her children, who are also made defendants herein, certain policies of insurance upon the life of William M. Clinton, the husband of said Calcina, which the said William had taken out, and had assigned in his lifetime to the said Calcina. The complaint alleges that the assignment of tbe policies took place on or about tbe 1st day of ■June, 1878.
+The plaintiffs’ judgment was recovered and docketed on 23d January, I860, and an execution was duly issued thereon and ■returned unsatisfied.
+The complaint alleges that in July, 1878, the said Calcina being insolvent, made a general assigment of all her property to one William Lake for the benefit of her creditors, and that she has since remained and is now insolvent and unable to pay her debts. It also ■alleges that the said Calcina was insolvent at the time when she transferred said policies, and that the transfer thereof was made without consideration, with intent to hinder, delay and defraud her creditors, all which was well known to her said children.
+The defendants demurred on the ground that Lake, the general assignee, should have been made a party defendant, and that the complaint does not state facts sufficient to constitute a cause of action.
+The general assignment preceded the docketing of the plaintiffs’ judgment, and its validity is not questioned in the complaint. We are to assume, therefore, for the purposes of this appeal that the assignment is a valid instrument as between the parties to it and as against the present plaintiffs. It follows that as the general assignment carries all the property of the assignor for the benefit of her creditors and she is still insolvent, the plaintiffs are not in a position to attack the validity of the transfer of the policies. If the transfer is declared to be void the general assignment still remains an obstacle in the way of applying the policies, or their proceeds, to the payment of the plaintiffs’ judgments. These views seem to be supported by the case of Spring v. Short (90 N. Y., 538), decided in this department and affirmed by the Court of Appeals. To the same effect is Childs v. Kendall (17 N. Y. W. Dig., 546). As was said in Springy. Short, “the rule is well settled that a creditor’s bill filed for the purpose of removing a fraudulent obstruction must show that such removal will enable the judgment to attach upon the property.” (Geery v. Geery, 63 N. Y., 252; Southard v. Benner, 72 id., 424.) The same principle was applied in Smillie v. Quinn (90 N. Y., 492) and cases cited by EaRL, J. (p. 498).
+We have said that the views above expressed seem to be supported by Spring’s case. They are so unless that case is distinguishable from this by the fact that there the property sought to be reached by the judgment creditor was real estate, while here it is personal property. But is not that a distinction without a difference ? In. neither case does the title of the general assignee or the lien of the-' judgment creditor attach until the fraudulent obstacle is removed, and when removed the prior legal title of the assignee is superior to the subsequent equitable lien of the creditor. The creditor by first commencing suit does not acquire a lien superior to that of the-assignee as he would in the case of an earlier judgment creditor. As between creditors having merely equitable liens the diligent is, preferred, but the legal title of the assignee to all the property of the assignor, whether it be personal or real, prevails over the subsequently acquired equitable liens of judgment creditors. If we are right in this a decree in this case setting aside the transfer of the policies would avail the plaintiffs nothing.
+By statute (Laws 1858, chap. 814) the general assignee may maintain an action to set aside the fraudulent transfer. Should he refuse or unnecessarily neglect to do so, upon demand by any creditor interested in the assignment, it may be that such creditor would have the right to maintain an action (in behalf of himself and all others willing to join) to set aside the alleged fraudulent transfer, and compel a distribution of the proceeds of the property thus reached among the several creditors, according to'their rights under the assignment. Or in case the assignment itself was executed with a fraudulent intent, such creditor might bring suit to set aside the assignment, as well as the prior transfer, as fraudulent; but in either case the general assignee would be a necessary party; and we think.his absence in this case is fatal to the action, even if the complaint is sufficient in other respects.
+In short, the assignment being fair and valid, the rights of creditors as distributees of the assigned property are fixed by it, and no creditor can, by any action of his own, acquire, any preference over other creditors, or any greater or other rights in respect to the distribution of the property of the debtor, than he is entitled to under the assignment.
+The respondent’s counsel cites the case of Leonard v. Clinton (26 Hun, 288). With due respect for the learned court by which that case was decided, we are not prepared to concur in it, for the reasons above stated, and we regard it as overruled in Spring v. Short.
+The judgment and order overruling the demurrer should be reversed and judgment should be ordered sustaining the demurrer, with costs, and giving leave to the plaintiffs to amend in twenty days on payment of the costs of the demurrer and of the trial at Special Term and of this appeal.
+Hardin and Barrer, <TJ., concurred.
+Ordered accordingly.
