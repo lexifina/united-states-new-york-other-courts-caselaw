@@ -1,0 +1,28 @@
+---
+court: "New York Superior Court"
+decided: "1864-12"
+citations: ["3 Rob. 639", "26 N.Y. Super. Ct. 639"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mortimer Livingston, receiver of the General Mutual Insurance Company, plaintiff, vs. David Olyphant et al. defendants."]
+source_url: "https://static.case.law/ny-super-ct/26/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1423648
+cites_cases: ["1 Pet. 360"]
+---
+
+# Livingston v. Olyphant
+
+## Majority (Barbour, J.)
+
+Barbour, J.
+This action was brought in April, 1855, to recover, the amount of a promissory note, alleged in the' complaint to have been made to The G-eneral Mutual Insurance Company, in December, 1853, by the defendants, then composing the firm of .Olyphant & Sons, and payable eight months from'date. . ' ■ '
+The defendants, by their. % answer, alleged that the note in question was given to secure the premiums, thereafter to, be earned by the company, upon an open policy of insurance for $20,000, and further averred that n.o premiums had, in fact, ever been earned, nor any risk indorsed upon the policy, but that the said policy had, by mutual agreement between the company and the assured, been returned by the latter and canceled.
+In August, 1857, the plaintiff, Livingston, died. In November, 1857, an order was made by the Supreme Court, directing that Alexander M. Lawrence be appointed receiver of the company, upon his executing a bond with sureties, as therein required'; and, subsequently, but at what time does not appear in the papers before me, such bond was given by Lawrence, who thereupon became the' receiver of the company. There is no evidence that the defendants were informed of ■the appointment of Lawrence as receiver, until some time -within the present year. ...
+The receiver Lawrence now moves, upon an affidavit and his proposed suplemental complaint, setting up the death of the plaintiff of record, and his own appointment, as above, for permission to continue the action by supplemental complaint, in his own name as receiver.
+Ten years, it will be seen, have elapsed since the note became due and payable, and more than seven since the death of the plaintiff of record. Most, if not all, of the delay in the progress of the cause which has occurred subsequent to the death of Mr. Livingston, must be attributed to those who ought to have assumed the position of plaintiff. The defendants, certainly, are not chargeable with the whole, if any of -it. For as the functions of the attorney for the plaintiff of record ceased upon the death of his principal, notwithstanding the operation of a special statute prevented the abatement of the action, and the defendants had no knowledge, until some time during the current year, that Mr. Lawrence had become the receiver in Livingston’s stead, even if that fact existed, there was no means, prior to the amendment of the 121st section of the Code, in 1862, by which the defendants could have terminated the suit, or accelerated its progress.
+By the fault or negligence of the parties whose interests are now represented by the promovant, therefore, the suit has been permitted to sleep for a period long enough to bar a recovery in an action upon a promissory note, under the statute of limitations ; a statute which, as Justice Story says in Bell v. Morrison, (1 Pet. 360,) “ was designed, not merely to raise a presumption of payment of a just debt from lapse of time, but to afford security against stale demands after the true state of the transaction may have been forgotten, or become incapable of explanation by the death or removal of witnesses;” and I can perceive no reason why the principles of that statute ought not to be applied to such a case as this, so far, at least, as may be necesssary to protect, fully, the rights of the party not in fault, whose evidence may have become lost by the delay. It is easy to see, from the nature of the case, that it may be extremely difficult, if not impossible, for the defendants, after the lapse of so many years, to prove all the facts necessary to establish their defense, and yet, they ought not, merely upon that presumption, and in the absence of a statute conferring an absolute right, to be permitted to stop the progress of an action in which their rights are fully protected and secured.
+I think that may be done in this case, by casting the onus 'probandi upon the plaintiff; and that will operate no injustice to him. It will, probably, be as easy for him as for the defendants to prove the consideration of the note; and if the witnesses have now forgotten, or are dead, it is right and equitable that he whose fault has occasioned the loss of the testimony, should suffer the consequences.
+An order will, therefore, be entered granting the specific relief asked for in the notice of motion, without costs, provided the receiver Lawrence, and his attorney, shall, at the time of such entry, or within five days thereafter, file with the clerk, and serve upon the defendants’ attorney, a stipulation consenting that judgment be rendered for the defendants, unless the plaintiff shall prove, upon the trial, what the consideration of the note was; and if such consideration was the underwriting of an open policy, then, unless he shall further prove that some and what premiums had been earned at the time of the commencement of the action; and further providing that in case such stipulation shall not be filed and served within five days after the entry of the order, this motion be denied, with $10 costs,
+The order may be settled before me, if necessary, on two days notice,
