@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1807-05"
+citations: ["2 Johns. 283"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Steel against the President, Directors and Company of the Western Inland Lock Navigation."]
+source_url: "https://static.case.law/johns/2/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6773350
+---
+
+# Steel v. President of Western Inland Lock Navigation
+
+## Majority (Thompson, J.)
+
+Thompson, J.
+delivered the opinion of the court.
+The plaintiff, so far as she sustained any injury in consequence of the culpable neglect of the defendants, in not keeping the canal in repair, was entitled to recover damages. The law necessarily imposes on the company the duty of-keeping this canal in repair ; and in all such cases where an injury has been sustained, by the want of the due care and caution of another, such person must be responsible for the damage occasioned by his neglect and omission. (Espinasse's Digest, 598. 1 Strange, 334. 2 Lev. 72.) But no damages were recoverable for the supposed injury occasioned by the stopping up the cross ditches and drains. This must necessarily have been taken into consideration, in the appraisement of the damages and compensation to be made the plaintiff in tho first instance. The law required tho appraisers to -ascertain the value of the land, and the damages sustained by the owner, in consequence of the appropriation of it to the use of the company. The injury on this score was inseparable from the very act of making the canal, and not occasioned by any neglect of a duty enjoined by law. The company, in making this canal, acted under the authority of an act of the legislature, and no action will lie against them for any damages occasioned by cutting the canal, unless they exceeded their jurisdiction. (4 Term, 794, Governor & Co. of the cast plate manufacturers v. Meredith.) All evidence of damages on this account ought therefore, in my judgment, to have been excluded. Admitting the declaration to have been defective, yet, if the defendants did not think proper to demur, I see no reason why they might not, upon the trial object to the evidence. Had this been the only allegation of damages in the declaration, a very different question would bepre-sented. The declaration, however, contains but one count, with two separate and distinct allegations of damages, the one actionable, and the other not. In such a case, I apprehend, no motion in arrest of judgment could be sustained; the court will intend, after verdict, that damages were only given for the actionable part of the declaration. (10 Coke, 130. Wille's Rep. 443. 5 Bac. Ab. 349.) Serjeant Williams, in his valuable notes to Saunders' Reports, (2 Saund. 169.) after collecting a great number of cases on this subject, observes, that the result of them all appears to be, that where it is expressly and positively averred in the declaration, that the plaintiff has sustained damage for a cause of action subsequent to the commencement-of his suit, or previous to his having any right of action, and the jury gives entire damages, judgment will be arrested. But when the cause of action is propel’ly laid, and the other matter conies in either under a scilicet, or is void, insensible or impossible, and it therefore cannot be intended that the jury ever had it under their consideration, the plaintiff will be entitled to judgment.
+The relief which we can now afford the defendants appears to be attainable only by granting a new trial, on the ground that improper evidence was admitted. Iam inclined to think, however, that substantial justice does not require this. Most of the witnesses, on both sides, ascribed the principal part of the damages to the leaking of the water from the canal. It is, therefore, fairly to be presumed, that this was the chiefground of damage taken into consideration by the jury, and that the result would be nearly the same on a second trial. This motion mayj therefore, be denied, consistently with a fit and discreet exercise of the power of the court in granting new trials. Under similar circumstances a new trial was denied by this court in the case of Malin & Brown. (January Term, 1803.) I am the more inclined to deny this motion, because the plaintiff has not recovered enough to carry costs, but on the contrary.must pay costs to the defendants. The amount recovered is only fifty dollars, and the statute is explicit, that if the plaintiff (in cases like the present) shall not recover above, the sum of fifty dollars besides costs, he shall not recover any costs, but shall pay costs to the defendant. (2 Caines, 213.)
+The court are therefore of opinion, that the motion for a new trial must be denied.
+Judgment for the plaintiff.
+Van Horne v. Petric & others.
