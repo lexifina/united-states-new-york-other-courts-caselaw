@@ -1,0 +1,40 @@
+---
+court: "New York Superior Court"
+decided: "1857-12"
+citations: ["15 How. Pr. 57"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lawrence and others agt. The Farmers’ Loan and Trust Company and others."]
+source_url: "https://static.case.law/how-pr/15/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2204461
+---
+
+# Lawrence v. Farmers' Loan & Trust Co.
+
+## Majority (By the court—Bosworth, Justice.)
+
+By the court—Bosworth, Justice.
+Section 268 of the Code provides a mode of reviewing, upon the evidence appearing on the trial, either the questions of law or fact which arise upon the trial, and declares that such questions, whether of law or fact, when arising on the trial, “ can only be reviewed in the manner prescribed by this section.”
+The questions of fact can only be reviewed upon an appeal to the general term of the same court, under § 348. The questions of law may be reviewed on that appeal, and subsequently on an appeal from a judgment of the general term, to the court of appeals.
+In order to have that review, a case may be made within ten days after notice of the judgment, and within the same time, either party may except “ to a decision on a matter of law arising on the trial,” and embraced in the final decision of the court at special term.
+The preparation of a case, therefore, containing'exceptions, need not be made until after judgment in the action,
+And no review of any such decision whether of fact or law, can be had except on an appeal from such judgment.
+If any question of law, included among the “ conclusions of law,” required by section 268, to be stated by the court, may be reviewed upon an appeal under section 349, it is difficult to find anything in the Code which would not permit the review of all of them upon such an appeal.
+We think such a practice is clearly prohibited by the Code, and that it was not the intention of the legislature to allow more than one appeal to the general term, to review any decisions made during the progress of the trial, from its commencement to the close of the proceedings therein, ending in a final determination between the parties of all questions involved in the issues.
+The “judgment ” from which an appeal may be taken to the general term, means the same thing as a judgment from which an appeal may be taken to the court of appeals.
+From such a judgment or order as is now entered, no appeal to the court of appeals would lie, until the account had been taken, and it appeared that the proceedings for that purpose had raised no questions, or if they had, that all such questions had been disposed of by the special term, or that by reason of an omission to appeal from the special to the general term, within the time allowed by law for that purpose, both parties, as to such questions, were concluded. (2 Coms. 571; 4 Coms. 416 ; 2 Seld. 465.)
+There are many cases, and this seems to us to be one, in which it might save expense and promote justice, if a review could be had at the general term, in its present stage. But we are of the opinion that such a practice is prohibited by the Code, and this court, at the last June term, in. Bey agt. Morgan, so decided. That case we are unable to discriminate from the one before us. That was moved before all the judges, and they all concurred in the conclusion stated.
+The “ order ” from which an appeal is allowed by section 349, when “ it involves the merits of the action, or some part thereof) or affects a substantial right,” must be something different from a decision during the actual progress of the trial, disposing of some claim made by either party affecting the relief to be granted, and something other than a conclusion of law included in the decision on which the judgment, in whole or in part, is to be entered. ,.
+The directions in the judgment or order appealed from, whether declaring that an account shall be taken, or what matters it shall include, or what items shall be subjects of credit, or what items subject of debt to either party, relate as strictly and absolutely to the merits as developed on and determined by the trial of the action, as the decision that the plaintiffs are entitled to redeem. >
+By the definition of an order, as given by the legislature and written in the Code, (§ 400,) no direction of a court or judge, made and entered in writing, and included in a judgment, is an order.
+The decisions which the appellants seek to review are included in the judgment in this action. Although the order or judgment appealed from in the present condition of the action does not fully meet, in all particulars, the meaning of the word judgment, as defined by the Code, (§ 245,) yet when tire account shall have been taken, and all questions relating to the account itself shall have been disposed of, the order appealed from, as it now reads, (with the result of the accounting shown by the record,) will become a judgment,' as defined by the Code, according to the views expressed in Swarthout agt. Curtis, (4 Com. 415,) and will be the judgment, in this action.
+Bronson, Ch. J., in that case said: “ There is undoubtedly a want of strict accuracy in calling the same decree final at one time, and not so at another; but the construction we have given to. the statute is the only one which will secure the right of review, and at the same time give effect to the manifest intention of the legislature to abolish the former practice, which allowed several appeals in different stages of the same cause, and restrict the parties to one appeal to be brought after final judgment.”
+It is true that was said of an appeal taken to the court of appeals; but the decree appealed from in that case, was conceded to be final, within the meaning of that term under the former practice. Nothing remained to be done except to compute the amount due on a bond and mortgage, and no questions were reserved to be thereafter adjudicated by the court.
+But it was held, not to be final, for the purpose of an appeal under the Code, until after the account had been taken and the' questions arising upon it determined.
+An appeal to review the questions named in § 268, as subjects of review, can only be taken from a judgment, as defined by the Code. For the purpose of an appeal to review such questions, it is as necessary that the judgment should be final, in the meaning given to that word by the Code, as to authorize an appeal from it to the court of appeals.
+From every actual determination made at a general term, by the court, in a judgment in an action commenced therein, an appeal may be taken to the court of appeals. The word judgment, as used in §§ 11, 245, 268 and 348, means precisely the same thing.
+When, at the close of a trial before the court, every question affecting the merits, including the costs of the action, is unconditionally determined, and no questions are reserved to be thereafter decided by the court, except that a reference is ordered, to ascertain some amount, which, according to the final decision made, one party or the other is to pav, and the final decision determines how that is to be ascertained, but directs a referee to ascertain it, the only matter which can possibly be reviewed upon an appeal from this final decision, taken before it becomes a judgment, is the competency of the court to direct a reference for such a purpose. If the court was competent to direct a reference for such a purpose, it is at least questionable, whether the order, in that respect, could be reviewed, for the reason that it would be discretionary with the court to grant it, or to ascertain the result without the aid of a referee.
+We do not understand the competency of the court to order such a reference as was directed in this case to be questioned ; we think it entirely clear that the court at special term could order such an account to be taken before a referee, and that with such an exercise of its discretion, the court, on appeal, would not interfe le.
+The appeal must be dismissed.
