@@ -1,0 +1,22 @@
+---
+court: "New York Surrogate's Court"
+decided: "1870"
+citations: ["1 Tuck. Surr. 42"]
+reporter: "tuck-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The accounting in Christian Stamler’s Estate."]
+source_url: "https://static.case.law/tuck-surr/1/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 454910
+---
+
+# In re the Accounting in Stamler's Estate
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+The will of Christian Stamler, deceased, contained the following trust: “One other equal seventh part of the said residue of my said estate, I give and bequeath unto the executors of this my last will and testament, or such one of them as may take upon himself the burden of the execution thereof, upon the trusts, and for the purposes hereinafter expressed of- and concerning the samé; that is to say, upon trust to put out, and place, and invest and keep invested, the same at interest in their or his name or names in and upon the like securities and stocks, and in like manner hereinbefore mentioned, and to receive the interest, dividends, income and profits of the said last mentioned one equal seventh part of the said residue of my said estate and of the securities wherein the same shall be invested, and apply-so much thereof as may be necessary for the support and maintenance of my son, Jacob A. Stamler, to his use during the term of his natural life, and the residue thereof to the use of Charlotte A., wife of my said son, Jacob' A. Stamler, and of his present and future children, during the natural life of my said son, Jacob A. Stamler. And I do further direct that the said trustees or trustee apply the said interest, dividends, income and profits of the said last mentioned one equal seventh part of the said residue of my said estate in manner aforesaid to the use of my said son, Jacob A. Stamler, and of his said wife and children, free of his debts, interference or control in any wise howsoever; and I do further order and direct that the legal estate, title and interest, so as last aforesaid given to the said executors and trustees iii the said one-equal seventh part of the said residue of my said estate, cease and determine immediately on the decease- of my son, Jacob A. Stamler; and I thereupon give and bequeath the last mentioned one equal seventh part of the said residue of my said estate and the'securities wherein the same shall then be invested, unto such persons or person as may then be next of kin of my said son, Jacob A. Stamler, in such parts, shares and proportions as such next of kin of my said son, Jacob A. Stamler, would have been respectively entitled thereto and therein by law, if my said son, Jacob A. Stamler, had been entitled thereto and possessed thereof, as his own goods and chattels and property at the time of his decease, and he had died intestate, and they were entitled thereto under the provisions of the statute respecting the distribution of the estates of intestates; but in such manner, nevertheless, that the said last mentioned one equal seventh part of the said residue of my said estate shall in no manner be liable for the debts of my said son, Jacob A. Stamler.”
+It appeared that Jacob A. Stamler, at the time of the testator’s death, occupied a house belonging to the testator, and continued so to occupy it, with his wife and family, for fifteen months after the testator’s death. The executors, in their accounts, have charged him with $1,000, for rent of these premises, and claim to deduct that amount from the amount of the trust fund.
+Counsel for Jacob A. Stamler have argued that this $1,000 was a debt or demand, growing out of an agreement implied by the. executor to have been made by Jacob; and, as such a debt, it could not, under the will, be charged against the provision made for Jacob and his family.
+But the meaning of the testator is too clear for doubt. It was, to keep the trust fund free of all debts which Jacob "might incur to other persons. He did not forgive Jacob any debts he might have owed to himself.' Still less did he authorize, his executors to allow Jacob to appropriate a part of his real estate, in addition to receiving the income of the trust fund. The executor’s charge against Jacob is therefore perfectly proper; and, being moderate' in amount, must be allowed.
