@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-11-13"
+citations: ["41 N.Y. St. Rep. 442"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The National Park Bank, Resp’t, v. Warren N. Goddard et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/41/cases/0442-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2068158
+---
+
+# National Park Bank v. Goddard
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+In an opinion handed down herewith the circumstances out of which this litigation arose and the receiver was appointed have been adverted to, and it is not necessary to repeat them here.
+It appears from the papers that the receiver, upon obtaining possession of the goods, found that they consisted of manufactured clothing, goods in the piece and goods in process of manufacture; and that in respect to the manufactured goods portions of them only were claimed by the plaintiffs in replevin, and in other cases different plaintiffs claimed different portions of the same garments; that the season for the sale of summer clothing was nearly over, and that it was the best time of the year for the sale of winter clothing; that the cloth in piece would sell better within a short time than if held over the summer; that the goods were expensive to store and exposed to injury from dust, moths, etc., and would involve heavy expenses to keep them. The receiver had also ascertained that the insolvent firm had a method of keeping an accurate record of all the goods which they bought, by which they could be traced through the processes of manufacture into made up garments, and if they should be sold the identity of the proceeds would be preserved; and that some of the goods were cut out but not made up, and that they would sell for more than the expense of making them up if they should be completed, and that other goods were held by workmen under claim of lien for their labor. The receiver thereupon made an application to the court for instructions how he should proceed, and upon that motion various plaintiffs in the replevin suits appeared and opposed the motion. The court directed the receiver to sell the manufactured goods and hold the proceeds subject to the further order of the court, to complete the clothing in process of manufacture, to sell it and hold the proceeds subject to the order of the court, to store the piece goods, to settle in his discretion with workmen or others claiming liens, to keep by itself the proceeds of the sale of each lot of replevied goods, and to collect unpaid claims held by him as receiver due to the insolvent firm, and from this order this appeal is taken.
+One of the points urged by the court below in opposition to the motion, and now before this court, is that the court below erred in assuming that the appointment of the receiver was authorized, while the papers used upon the motion show that such appointment was unauthorized by law and void. We have already reached the determination in the opinion adverted to, that under the circumstances brought to the attention of the court on the application for the appointment of a receiver it was necessary that the court should appoint a receiver in order to protect the interests of all the parties.
+It is also urged that the receiver should not have been instructed to sell any part of the property in suit, for the reason that it appears that it could be duly ascertained who was absolutely entitled to each particular parcel of property held by him, and that course should have been adopted by the court which would have compelled the receiver to ascertain that fact, and that an order should then have been made restoring to each party such parcel of goods as belonged to him or them.
+We are not aware of any circumstances under which such a duty is imposed upon an officer of the court. If the plaintiffs in replevin who are defendants in this action are entitled to any relief, it becomes necessary for them to show to what goods they are entitled, and then if they are entitled to the goods they will receive the proceeds of the sales thereof. The court was bound to keep possession of the property in order to protect the interests and rights of all parties, and as it is apparent that a sale was for the benefit of all if the court was to retain possession of the property there was no error in ordering such sale.
+It is also urged that the order appealed from, in so far as it directs the unmanufactured merchandise to be stored and held subject to the order of the court, should be reversed because it perpetuates an apparent injustice which was initiated by the order appointing the receiver.
+This point has already been covered by the opinion in the other case and proceeds upon the theory that certain plaintiffs in replevin are absolutely entitled to the possession of certain portions of this property because they are the only claimants. Until final judgment property taken in replevin is supposed tobe in the custody of the court. If the property has been delivered to the plaintiff in the action of replevin the judgment of the court in that action is that it be returned or in default thereof giving a money judgment.
+All that the court has done in the appointment of a receiver is to appoint a custodian for this property pendente lite, and thus by the interposition of its equitable powers to prevent the injury which would result by refusing to exercise that power.
+The order should be affirmed, with ten dollars costs and disbursements.
+Barrett, J., concurs.
