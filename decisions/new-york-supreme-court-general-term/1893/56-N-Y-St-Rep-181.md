@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1893-12-01"
-citations: ["56 N.Y. St. Rep. 181", "56 N.Y. St. Rep. 736"]
+citations: ["56 N.Y. St. Rep. 181"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Elizabeth D. DeLancey, Resp’t, v. Henry Piepgrass, App’lt, Impl�
 source_url: "https://static.case.law/ny-st-rep/56/cases/0181-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 697628
-cites_cases: ["113 N. Y., 476", "23 St. Rep., 263"]
 ---
 
 # DeLancey v. Piepgrass
