@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1886-03"
-citations: ["46 N.Y. Sup. Ct. 620", "46 N.Y. Sup. Ct. 626"]
+decided_precision: "month"
+citations: ["46 N.Y. Sup. Ct. 620"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,6 @@ parties: ["JOHN S. STUBBS and RICHARD S. JONES, as Executors, etc., of SAMUEL S.
 source_url: "https://static.case.law/ny-sup-ct/46/cases/0620-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4517258
-cites_cases: ["25 Hun, 616", "81 N. Y., 235", "82 N. Y., 260", "88 N. Y., 626", "90 N. Y., 402"]
 ---
 
 # Stubbs v. Ripley
