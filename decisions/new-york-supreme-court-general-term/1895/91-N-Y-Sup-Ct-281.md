@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-02"
+citations: ["91 N.Y. Sup. Ct. 281"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Cullen and Pratt, JJ., concurred."]
+parties: ["Anne Jay Bolton, Respondent, v. The Village of New Rochelle, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/91/cases/0281-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4768390
+cites_cases: ["19 N. Y. Supp. 949", "4 N. Y. 195", "79 N. Y. 470", "96 N. Y. 273"]
+---
+
+# Bolton v. Village of New Rochelle
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+The plaintiff is the owner of a house and lot in the village of New Rochelle, bordering on Long Island sound. About fifty feet from the southerly side of her lot a village sewer has its outlet between high and low water. The sewage flowing from this sewer was deposited upon the flats in front of plaintiff’s property, and the odors arising therefrom were so offensive that the plaintiff’s house, in the year 1892, became uninhabitable.
+This action was brought by the plaintiff to recover damages resulting from the nuisance and to obtain an injunction restraining its continuance.
+Municipal corporations have no immunity from legal responsibility for creating and maintaining nuisances, and their liability for such acts as are conceded to exist in this case is settled by numerous authorities. (Noonan v. City of Albany, 79 N. Y. 470 ; Seifert v. City of Brooklyn, 101 id. 136 ; Stoddard v. Saratoga Springs, 127 id. 261.)
+In Seifert’s case the authorities relied upon by the appellant for a reversal of the judgment were discussed by the Court of Appeals, and their inapplicability to cases of the character of that now before the court pointed out. It is unnecessary to add to what was then said by the chief judge, and we quote the following from his opinion r “We are also of the opinion that the exercise of a judicial or discretionary power by a municipal corporation, which results in a direct and physical injury to the property of an individual, and which from its nature is liable to be repeated and continuous, but is remediable by a change of plan, or the adoption of prudential measures, renders the corporation liable for such damages as occur in consequence of its continuance of the original cause after notice, and an omission to adopt such remedial measures as experience has shown to be necessary and proper. (Wood’s Law of Nuisances, § 'T52.) While in the present case the corporation was under no original obligation to the plaintiff or other citizens to build a sewer at the time and in the manner it did, yet, having exercised.the power to do so and thereby created a private nuisance on his premises, it incurred a duty, having created the necessity for its exercise, and having the power to perform it, of adopting and executing such measures as should abate the nuisance and obviate damage. * * * The immunity which extends to the consequences following the exercise of judicial or discretionary power, by a municipal body or other functionary, presupposes that such consequences are lawful in their character, and that the act performed might in some manner be lawfully authorized. When such power can be exercised so as not to create a nuisance, and does not require the appropriation of private property to effectuate it, the power to make such an appropriation or create such nuisance will not be inferred from the grant. Where, however, the acts done are of such a nature as to constitute a positive invasion of the individual rights guaranteed by the Constitution, legislative sanction is ineffectual as a protection to the persons or corporation performing such acts from responsibility for their consequences. (Radcliff’s Exrs. v. Mayor, etc., 4 N. Y. 195.)”
+The fact that the sewer complained of was, in the first instance, constructed by an individual upon his own property, has no relevancy to the question before the court.
+The streets in the locality known as Residence Park were conveyed to the village in April, 1892, and the trustees accepted the conveyance. At the time of the commencement of this action the sewer was a public one, and the nuisance was being maintained by the village. The defendant was, therefore, clearly liable within the rule applied in the cases cited, unless it was relieved from such liability as the result of the laws creating the board of commissioners of sewers and drainage of the village. (Chap. 201, Laws' 1889 ; chap. 220, Laws 1893.)
+The argument of the appellant is that, as by these laws the entire ■charge and control of the sewers was given to commissioners, and they were charged with the duty of their maintenance and management, and could sue and be sued, during the official life of such commissioners the defendant had no control over the sewers, and was not liable for a nuisance arising from the manner in which they were maintained.
+This contention was overruled in In re Smiddy (19 N. Y. Supp. 949); Ehrgott v. The Mayor (96 N. Y. 273); Pettengill v. City of Yonkers (116 id. 558).
+In EhrgotVs case the court said: “ To determine whether there is municipal responsibility, the inquiry must be whether the department whose misfeasance or nonfeasance is complained of is a part of the machinery for carrying on the municipal government.”
+In PettengilVs case the court said of the board of water comissioners of the city, of Yonkers, that it was not an independent body acting for itself, but a department of the city, and one of the instruments of the municipal government.
+Such is the legal character of the commissioners of sewers and drainage of the village of New Rochelle.
+They are not independent officers acting for themselves, but constitute one of the instruments of the municipal government of the defendant. While created by special statute they perform a duty which is primarily charged on the village, and they exist solely for the benefit of the village, and have no duty to perform disconnected therefrom. All property that they may purchase or acquire is taken in the name of the village. All money that they expend is derived from the village, either by taxation of its inhabitants or though the sale of its municipal securities. They are required to report annually to the taxpayers, and at the close of their official term to turn over to the village all property and funds in their possession. In everything they do they exercise municipal power and perform municipal duties, and for their acts of misfeasance or nonfeasance the village in its corporate capacity is liable. It is of no importance, therefore, whether the nuisance existing at the. mouth of the sewer in question is primarily due to the neglect of the commissioners or to the trustees of the village. In either case it is legally the creation of the defendant, and it is liable for the result.
+The point that the plaintiff, having connected her house drain with the sewer, is debarred from maintaining this action, has ne foundation in reason, and is not sustained.
+The judgment is right, and should be affirmed, with costs.
+Cullen and Pratt, JJ., concurred.
+Judgment affirmed, with costs.
