@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Common Pleas"
 decided: "1877-02-05"
-citations: ["7 Daly (N.Y.) 55", "7 Daly (N.Y.) 62"]
+citations: ["7 Daly (N.Y.) 55"]
 reporter: "daly-ny"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["William P. Wright, Respondent, against George S. Wright, Appellant."]
 source_url: "https://static.case.law/daly-ny/7/cases/0055-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1308100
-cites_cases: ["2 Daly, 138"]
 ---
 
 # Wright v. Wright
