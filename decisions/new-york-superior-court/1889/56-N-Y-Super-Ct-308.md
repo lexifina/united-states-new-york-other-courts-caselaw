@@ -1,0 +1,29 @@
+---
+court: "New York Superior Court"
+decided: "1889-01-07"
+citations: ["24 Jones & S. 308", "56 N.Y. Super. Ct. 308"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE NEW YORK SMELTING AND REFINING COMPANY, Appellant v. GEORGE LIEB, Respondent."]
+source_url: "https://static.case.law/ny-super-ct/56/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1689479
+cites_cases: ["39 N. Y. 317", "4 Md. Rep. 239", "44 Md. 204", "56 Mo. 314", "86 N. Y. 302"]
+---
+
+# New York Smelting v. Lieb
+
+## Majority (By the Court.—Sedgwick, Ch. J.)
+
+By the Court.—Sedgwick, Ch. J.
+action .was The to recover certain sums paid on account to the defendant, under a written contract between the parties, by which the defendant was to make a certain machine for the plaintiff, the plaintiff alleging that the defendant failed to make or deliver the machine as provided by the contract. The answer alleged performance of the contract by the defendant and made a counter-claim for the part of the contract price that remained unpaid and for extra work and materials furnished at request of the plaintiff.
+The objections taken upon the trial by plaintiff referred especially to the relations of one Schoenberg to the plaintiff, the defendant claiming that he was the agent of plaintiff to direct the defendant as to the manner in which the machine should be constructed.
+It was conceded, virtually, that Mr. Schütz, the president of the plaintiff, had authority to make the contract and to direct the manner of its performance. The defendant gave testimony, that the machine was built according to the directions of Schoenberg, who was a superintendent of the manufacturing department of the plaintiff. Among other facts and declarations that tended to establish that Mr. Schütz gave specific authority to Schoenberg to act for the plaintiff in the matter was proof by the defendant that at the time the contract was made, Mr. Schütz said to the defendant, that Mr. Schoenberg would direct him how to build the machine, he being the inventor of it.
+The plaintiff disputed the facts and claimed that Schoenberg was not the agent of the plaintiff. For the purpose of maintaining their position, they asked of witnesses, being officers of the plaintiff, questions like these. And in regard to orders, what was the custom, if he, Schoenberg, wanted anything, so far as you were concerned ? What was the usual mode of business in your company, if anything was desired or any order was to be given, as coming from the superintendent? Who, if any person in the place, was authorized to give orders for machinery or matters of that kind, with the exception of the president? Was there any one in your place, who was authorized to give orders for machinery or for any outside work with the exception of the president ? Did you (the witness not being the president) ever authorize him to make any contracts or to superintend the manufacture of a machine which Mr. Lieb was making or to give orders for extra work ?
+The witnesses of whom these questions were asked had without objection described the duties and employment of Schoenberg, as superintendent and in his general relation to the company. But the questions were immaterial to the issue, in view of the statement of the court as to the way in .which he would submit it to the jury, and this statement conformed to the charge after-wards made. The charge was that Mr. Schoenberg, as superintendent, simply had no authority to direct the defendant; that the question for the jury was, did Mr. Schütz delegate to Mr. Schoenberg the power of controlling Mr. Lieb in reference to the construction of the machine, and that if it were the fact that Mr. Schütz did say to the defendant, “You make this machine as Schoenberg instructs you,” then the defendant had a right to act in accordance with instructions given by Schoenberg.
+It therefore appears that the exclusion of the questions, was not injurious to the plaintiff even if it is assumed that they were relevant.
+It appeared on the trial, that Mr. Schoenberg was dead. On the argument of the appeal it is insisted that a witness was allowed to testify as to Schoenberg’s directions to defendant, after it was objected that the evidence was incompetent under section 829 Code Civil Procedure that forbids a party, etc., from testifying to a personal transaction with the deceased, etc. .The witness referred to was not a party or a person interested in the event or one from whom the defendant had acquired an interest. He was. the son of the. defendant, and although the defendant’s business was set up and prosecuted for the benefit of the witness, yet the witness had no legal interest in "the business and being an infant, was, under the circumstances incapacitated from having a legal interest. There is no intention to hold that if it were otherwise the exception taken would raise the point or be valid in itself. The exceptions on this subject should not be sustained.
+What has been said, has referred to all the exceptions argued upon the appeal.
+The judgment is affirmed with costs.
+Freedman and Ingraham, JJ., concurred.
