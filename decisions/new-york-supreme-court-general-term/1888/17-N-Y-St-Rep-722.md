@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-25"
+citations: ["17 N.Y. St. Rep. 722"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Opening of Emmons Avenue, etc."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0722-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008259
+---
+
+# In re the Opening of Emmons Avenue
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This was a proceeding to open a street laid out by a town survey commission of 1867, under an act of the legislature delegating certain powers to the board of supervisors. Under that law the board fixes the district of assessment, after which commissioners are appointed by the supreme court, who are required to view the premises, examine the grounds, hold public meetings and fix the-assessment of each piece of property within the assessment-district so prescribed by .the board of supervisors.
+Then by the same law the commissioners present their report to the court for confirmation. They are not required to take testimony, but parties desiring to object to the report must file written statements of such objections with the statement of the manner in which such report should be corrected, and on such papers the court decides the motion for confirmation of their report.
+That law was complied with in this proceeding. The commissioners heard all the parties, and made their assessment, and their report was noticed for confirmation. It was opposed by the appellants, but was confirmed by the court, and this appeal is taken from such confirmation.
+The appellant raises an objection to the jurisdiction of the commissioners over his land, but as the same was included within the assessment district prescribed by the board of supervisors, the objection cannot be sustained.
+The other objections to the report related to the amount of the assessment against the property of. the appellant, and also the property of another owner, but the amount of assessments in cases like the present are so clearly and peculiarly within the jurisdiction and control of the commissioners, who view the premises and obtain information in various ways, which is not laid before the appellate tribunal, that such conclusions are seldom disturbed, except when it appears that there has been some misapprehension or misconduct, or the adoption of some improper rule of law.
+The order appealed from should therefore be affirmed, with ten dollars costs.
+Barnard, P. J., and Pratt, J., concur.
