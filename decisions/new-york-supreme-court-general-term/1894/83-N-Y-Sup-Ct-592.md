@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1894-03"
-citations: ["83 N.Y. Sup. Ct. 592", "84 N.Y. Sup. Ct. 144", "59 N.Y. St. Rep. 44"]
+decided_precision: "month"
+citations: ["83 N.Y. Sup. Ct. 592"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
