@@ -1,0 +1,23 @@
+---
+court: "New York Court of Chancery"
+decided: "1819-06-19"
+citations: ["4 Johns. Ch. 53"]
+reporter: "johns-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Varick against The Mayor, Aldermen, and Commonalty of the City of New-York."]
+source_url: "https://static.case.law/johns-ch/4/cases/0053-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1978752
+cites_cases: ["17 Johns. Rep. 92"]
+---
+
+# Varick v. Mayor of New-York
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+It appears to be admitted as a fact, that the plaintiff, and those under whom he claims, have had uninterrupted possession of the premises, claiming them as their own, up to the extent of their possession north, for upwards of 25 years, before the filing of the bill; and that the stable, fence, &c., were, during all that period of time, standing on the line on St. David-street, to which he claims. After such a length of time, it is right and just that the plaintiff should be protected in the enjoyment of his property, and that he should not be disturbed by any act or entry of the corporation of the city, under the pretence or allegation that the fence and buildings stand or encroach on part of the public highway. The defendants must first acquire possession of the ground in dispute, not by forcible entry, but by the regular process of law, before they can be permitted to use it as a street. The injunction which was granted upon the filing of the bill, went no further than to restrain the defendants from entering upon, and digging, and -'throwing down, and destroying, the land so possessed by the plaintiff. The injunction was not intended to interfere with the defendants in digging down the street close up to the line possessed by the plaintiff, though such digging might, by necessary consequence, cause the soil of the plaintiff, consisting of sand and gravel, to fall in upon the excavated street. Whatever might be the rights of the parties, growing out of such a fact, it was n.ot the purpose of the injunction to interfere with such a case. The principle upon which the injunction, so modified, is to be upheld, is, that after a claim ’ of right, accompanied with actual and constant possession, for twenty-five years, and upwards, the corporation of JYew-York cannot be permitted, without due process of law, to enter upon the possession of the plaintiff, and pull down buildings, fences* foe. under their right to regulate highways.
+The injunction must be continued and made perpetual, or until the defendants have established, at law, their right to the ground in question.
+Order accordingly.
+In Panton v. Holland, (17 Johns. Rep. 92.) the Supreme Court decided that a person about to erect a house contiguous to another, may lawfully sink the foundation of it below that of his neighbour’s house, and is not liable for the damage which his neighbour may sustain, in consequence of it, provided it was unintentional, and he had used reasonable care and diligence in digging on his own ground, to prevent any injury to his neighbour. In Thurston v. Hancock, (12 Tyng’s Rep. 220.) where the plaintiff had built a house on his own ground, .within two feet of the line, and ten years after, the owner of the adjoining land dug so deep into his own land as to endanger the house of the plaintiff, who was obliged to pull it down, the Supreme Court of Massachusetts held, that the plaintiff could not maintain an action for the damage to his house; and that a person who builds a house adjoining his neighbour’s land, ought to foresee the probable use by his neighbour of his own land, and take care in building his house, to guard against any consequence which might arise. But, on the authority of Rolle, (2 Abridgment, 565, (I.) they held that the defendant was answerable for the direct consequential damage arising to the plaintiff from the falling of his natural soil, into the pit dug by the defendant. (1 Sid. 167. 1 Comyn’s Dig. 315. Action upon the case, and for a nuisance, (C). But if no action will lie where the house of the plaintiff falls down, in consequence of the defendant digging in his own ground, on what principle can the plaintiff maintain an action, because some of his soil has fallen into the pit dug by his neighbour ? Must there not be, in either case, malice, negligence, or misconduct on the part of the defendant, in order to sustain an action ? If the defendant exercise his lawful right, without any fault on his part, the damage which the plaintiff may sustain, in consequence, is not justly imputable to the defendant, but js to be considered a mere casualty, or damnum, absque injuria.
