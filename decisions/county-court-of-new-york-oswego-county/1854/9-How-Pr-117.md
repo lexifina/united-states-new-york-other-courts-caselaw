@@ -1,0 +1,20 @@
+---
+court: "County Court of New York, Oswego County"
+decided: "1854-01"
+citations: ["9 How. Pr. 117"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Burdick, Respondent agt. McAmbly, Appellant."]
+source_url: "https://static.case.law/how-pr/9/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2195569
+---
+
+# Burdick v. McAmbly
+
+## Majority (Tyler, County Judge.)
+
+Tyler, County Judge.
+I am of the opinion that it is irregular, as well in a justice’s court as in a court of record, for the plaintiff to join in the same complaint actions on contract and in tort. It is contended by the counsel for the respondent, that inasmuch as no provision is made in the rules prescribed in section 64 of the Code for objecting to the joinder of difieren causes of action, therefore there is nothing to prevent the litigating in one suit in a justice’s court all of the various causes of action of which the justice has jurisdiction. To this doctrine I cannot for a moment assent. I cannot believe that the law-makers ever contemplated a thing so utterly absurd. Indeed, if we look only to the title of the Code relating to justices’ courts, we find no authority for the joinder of different causes of action in one complaint in any case. The only provision upon the subject is that contained in rule 3 of section 64, which is as follows : “ The complaint shall state in a plain and direct manner the facts constituting the cause of action.” It will be perceived that this language comprehends only a single cause of action. The provision with respect to the complaint in a court of record is substantially the same, but in addition, it is enacted in section 167 that “ the plaintiff may unite in the same complaint several causes of action,” when they “ belong to the same class.” It is unnecessary to state the absurdity of uniting in one complaint an action upon a promissory note, another for the conversion of personal property, another for seduction, and another for fraud in the sale of personal chattels. The objection is obvious to every member of the legal profession. I have no doubt, however, that the plaintiff in a justice’s court may unite in one complaint as many causes of action on contract, express or implied, as may be within the jurisdiction of the justice. He may also in like manner join in one complaint "all actions for torts properly cognizable before a justice of the peace; but that the causes of action so united, must all belong to one only of the classes specified in § 167 of the Code.
+But suppose the plaintiff does unite in one complaint actions ex contractu, and actions ex delicto, in what way is the defendant to avail himself of the objection! He cannot do so by demurrer, because that is not cause of demurrer according to rule 6 of section 64 of the Code. Benedict, in the last edition of his treatise, at page 102, lays down the rule, that actions on contract, and in tort, cannot be united in one complaint; but he fails to give the remedy in case such improper joinder is made. In a work entitled the “ New-York Civil and Criminal Justice,” I find it is stated that in such case the objection must be taken in the answer. This position can hardly be correct, for the answer must contain matters only of defence. This objection does not constitute a defence to the action, and hence can be considered no answer. On the whole, I can see no way to make the objection available, but by compelling the plaintiff, at the time of joining issue, or upon the trial, to elect to which class of actions he will be confined. The more convenient and appropriate time, undoubtedly, would be to make the election at the joining of issue, and yet when it is not made at that time I think the plaintiff may be required to do so before proceeding to trial. It follows, therefore, that the justice erred in this case, in refusing to compel the plaintiff to elect upon which of his counts he would proceed. Judgment reversed.
