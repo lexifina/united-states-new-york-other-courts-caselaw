@@ -1,0 +1,28 @@
+---
+court: "New York City Court, General Term"
+decided: "1896-03-16"
+citations: ["74 N.Y. St. Rep. 565"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Annie Myerson, as Administratrix, etc., Resp'ts, v. Hartford Fire Insurance Company, App'lt."]
+source_url: "https://static.case.law/ny-st-rep/74/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1993725
+---
+
+# Myerson v. Hartford Fire Insurance
+
+## Majority (FITZSIMONS, J.)
+
+FITZSIMONS, J.
+The defendant insured the household furniture and other personal property of plaintiff’s intestate. Said property was destroyed and damaged hy fire to the extent of $401.35, as claimed hy plaimtiff. The policy was for $500, and the jury rendered a verdict in the plaintiff’s favor for $375. The defendant’s policy of insurance contained the following provision:
+“In the event of disagreement as to the amount of the loss, the same shall he ascertained hy two competent and disinterested appraisers, the assured and the company each selecting one.”
+Because of the damage aforesaid, and under said contract, the parties hereto each selected a person to adjust said damage; but no appraisment was ever had, because, as defendant contends, the plaintiff refused to name a competent and disinterested person as her appraiser. The defendant selected one Mr. Baldwin to act aa its appraiser, he having acted in a like capacity for insurance companies prior to the instance in question. The plaintiff nominated three persons. Each of them were objected to by the defendant, upon the ground that they had severally acted as public adjusters, on other occasions and for other persons; that is to say, that they represented the interests of the assured in matters like the one under consideration, besides that they were, at different times, copartners of Mr. Kenny, the plaintiff’s adjuster. The defendant’s counsel, at the close of the case, asked the trial justice to charge:
+“That, if the jury find that Mr. Handte, Mr. Otto, and Mr. Baird, the three persons named by the plaintiff as appraisers, were in point of fact, public adjusters, and were then, or recently had been, partners of the plaintiff’s agent, Mr. Kenny, that they were neither competent nor disinterested, within the meaning of the policy.”'
+The court refused so to charge, and the defendant excepted.
+In refusing to so charge the justice did right. All that the < defendant, under its policy, is entitled to is a fair and just appraisement of the destroyed and damaged goods by competent and disinterested appraisers. The fact that the person named by plaintiff as her appraiser acted in that capacity on similar occasions surely would argue that he was a competent and experienced man. The fact that he so acted should not stamp him as an interested person. Even the defendant seemed to recognize the truth and force of this suggestion, because it selected as its representative one who had acted as an appraiser for insurance companies on many prior occasions. 'Whether or not the persons selected by plaintiff were competent and disinterested was a question of fact, for the jury to determine; not one of law, for the court to decide. That question was fully and fairly submitted to the jury, and they held against the defendant, and their finding is final.' " : . ..j
+The plaintiff was permitted to testify as to the value of the damaged property. The defendant deemed such testimony improper. It is true that it is usually unsatisfactory, and had better be avoided if possible; but, in cases like this one, it is usually the best, and often the only, testimony that can be had. The very careful cross-examination of defendant’s counsel shows upon what she based the estimate of the value of such articles. Many of them she purchased; others, she knew their value; her ex- ( perience and observation formed a basis for the valuation of the balance of them. Taking her testimony as a whole, the jury were justified in believing that her valuation was just and fair.
+The fire occurred a few davs after the death of the assured, and the plaintiff had then applied for letters of administration, which were duly issued to her a few davs thereafter. She was certainly justified in signing the -proof of loss as administratrix-elect. She was so in fact, and was the person who could best sign and submit the same. In onr judgment the proof of loss served complied fully with the requirements of the defendant’s policy of insurance.
+The judgment is affirmed, with costs.
+All concur.
