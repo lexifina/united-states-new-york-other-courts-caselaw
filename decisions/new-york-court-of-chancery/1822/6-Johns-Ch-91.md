@@ -1,0 +1,24 @@
+---
+court: "New York Court of Chancery"
+decided: "1822-04-16"
+citations: ["6 Johns. Ch. 91"]
+reporter: "johns-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. Miller against A. Miller."]
+source_url: "https://static.case.law/johns-ch/6/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1982847
+---
+
+# Miller v. Miller
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+There must be the usual decree for a divorce a vinculo matrimonii, as the adultery is clearly established. The only difficulty is, to ascertain what sum, under all the circumstances of the case, would be a suitable allowance to the plaintiff for her support.
+The statute says, that if the wife be the plaintiff, the Court may “ make a further order, in addition to the decree dissolving the marriage, compelling the defendant to provide a suitable allowance to the plaintiff for her support, and such as, having regard to the circumstances of the parties, shall seem, reasonable and just.” The Court may, also, order the defendant to give reasonable security for such maintenance and allowance, and upon his neglect or refusal, it may sequester and apply towards her support, his personal estate, and the rents and profits of his real estate. (Sess. 36. ch. 102. s. 5.)
+In this case, the defendant’s real and personal estate is estimated at 4550 dollars; and of this, all, except 800 dollars, is real estáte, and the joint product of both is valued at 325 dollars. If the defendant had died, the plaintiff would have been entitled absolutely to one moiety of his personal estate, and to the use for life of one third of his real estate. A third part of the income of the estate would be an allowance within what would have been the provision of the law, in case the marriage had been dissolved by his death. And I observe, that the ecclesiastical Courts, in cases of divorce a mensa et thoro, allow for alimony the one third, or at least (vel ad minus,) the fourth part of the annual income of the real estate. (Oughton’s Ordo Jud. tit. 207. s. 6.) It appears to me that in this case an allowance of 100 dollars a year would not be unreasonable, and not more .than sufficient to render this aged plaintiff comfortable ; and, perhaps, it may be in the power and in the discretion of the Court to vary the allowance hereafter, if future circumstances in relation to the parties, or either of them, should dictate such a course; for the statute speaks of such maintenance or allowance as to the Court shall, “ from time to time,” seem just and reasonable.
+There was a temporary allowance made pending the suit, without an accurate knowledge of the defendant’s circumstances, of 20 dollars a month, which, of course, will be discontinued; and an order was, heretofore, made upon the defendant for the payment of 50 dollars, as an extra allowance, to enable the plaintiff to employ counsel, and to carry on her suit. I shall, therefore, only award taxable costs of this suit.
+The following order was accordingly entered, in addition to the usual decree of divorce, a vinculo matrimoniL
+“ It is further ordered, that the defendant pay to the plaintiff, or to her order, during her natural life, or until the future order of this Court to the contrary, the annual sum of 100 dollars, payable half yearly, that is to say, 5>Q dollars on the first day of October, and 50 dollars on the first day of April, in every year, commencing with the first day of October next, the same being deemed a suitable allowance, having regard to the circumstances of the parties respectively, for her support and maintenance; and that the defendant give such reasonable security as any one of the master’s of this Court shall approve of, for the punctual payment of such maintenance and allowance, and oh default thereof that the plaintiff be at liberty to apply to this Court for a sequestration of his estate, according to the provisions of the statute in such case made and provided. And it is further ordered, that the former order of this Court, touching a monthly allowance to the plaintiff, be deemed to have ceased, as to any future allowance, from and after the first day of Jljtril instant. And it is further ordered, that a copy of this decretal order be forthwith served upon the defendant, or his solicitor, and that either party be at liberty to apply, upon a future change of circumstances in the parties, or either of them, for such variation or modification of this order, touching the said allowance, as those future circumstances may dictate to be just. And it is further ordered, that the defendant pay to the plaintiff' her ordinary taxable costs of this suit, after the same shall have been taxed, and that the plaintiff have execution therefor, according to the course and practice of the Court.”
