@@ -1,0 +1,40 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-01-23"
+citations: ["35 N.Y. St. Rep. 172"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Clemons, Resp’t, v. The Livingston County Mutual Fire Ins. Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/35/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674092
+cites_cases: ["38 N. Y., 289"]
+---
+
+# Clemons v. Livingston County Mutual Fire Insurance
+
+## Majority (Corlett, J.)
+
+Corlett, J.
+About the 5th day of April, 1886, the defendant issued to the plaintiff a policy of insurance on his farm buildings, contents, stock and farming implements in a sum not exceeding $2,200. On the 9th day of July, 1887, a fire occurred which consumed the dwelling house and some farm implements covered by the policy. About forty days after the fire McFetridge and Cole, a director and adjuster of losses, went to the plaintiff's house and adjusted the loss at the sum of $200. The plaintiff refused to accept this sum and an oral agreement was made for an arbitration, which the plaintiff afterwards revoked, stating in substance he would accept the $200. This the company refused to pay without the assent of the executive committee, which was obtained and the sum as adjusted, $200, was agreed to be paid.
+The evidence of Cole, the director and adjuster, on the subject of the payment of the $200 was as follows :
+“ Clemons asked me if we would allow him $250. McFetridge told him he was positive that they wouldn’t allow him more than $200. He said he thought they would allow him that. He said he would see the executive committee and beyond a doubt the money would be deposited for him in the bank at Dansville. He was to notify him what amount the executive committee would allow him. He asked them to allow him $250. Mr. McFetridge thought they wouldn’t. Mr. Clemons had agreed to take-whatever was deposited for him.' He was to find out whether they had allowed the claim or deposited anything by going to the bank and ascertaining. I think there was an understanding that he was to be notified by Mr. McFetridge when the money was deposited. I don’t remember that he was to be notified how much; only when the money was deposited. It was generally understood that it was to be $200 and I understood that when I went away from there. When he asked me on the road if I considered it settled .at $200, I considered it settled at $200. A receipt was to go with the money and he was to have the money when he signed it.”
+On the 24th day of August, a letter, of which the following is a -copy, was sent to the plaintiff:
+“ Scottsburg, N. Y., August 24, 1887.
+Mr. George W. 0lemons:
+Dear Sir.—I am authorized by the executive committee to write you that $200 is the amount that the insurance company will pay you on fire loss and that the money and receipt for you to sign is now at the First National Bank of Dansville, which jou can get at any time by calling there. v
+You can see Romaine Cole, and he will settle with you for the unexpired time of your policy.
+“ Truly yours,
+“E. L. McFetridge.”.
+This letter was received by the. plaintiff at eight o’clock the •same evening. The next day the plaintiff went to the bank, and found that it had failed, having closed its doors the day before. The failure was a disastrous one.
+The cashier of the bank, Mr. Brattle, testified, among other things, to the effect that the money was not to be paid until a receipt was signed. He also testified that he credited the. money to the plaintiff, but did not know that he made an entry in the books ■on'that subject.
+The money was never paid by the bank. The plaintiff demanded the money from the defendant, which it refused to pay. An action was brought, issue was joined, and the cause was tried before a justice and jury in February, 1890. A verdict was directed for the plaintiff for the amount of $200 and interest. A motion for a new trial was made, and denied, and the defendant appealed to this court from the judgment and order.
+The appellant claims that the implements burned were stated in the application and policy to be in the barn; that in fact they were in the house at the time of the insurance and fire. The appellant also claims that the house was not occupied by a tenant at the time of the insurance as stated in the application and policy.
+No controversy ever arose as to the defendant’s liability. The only question was the amount of the loss. The company upon investigation adjusted the loss at $200; the plaintiff was dissatisfied with the amount, but finally agreed to accept that sum. It is very clear that no question as to the defendant’s liability is before this court. The question of payment is the only one about which there was ever any contention between the plaintiff and the company.
+The learned counsel for the appellant claims that the executive ■committee had no power to adjust the loss. This may be so. It is not claimed that the adjusters did not have power, and the agreement to pay was finally based on the plaintiff’s agreeing to accept the sum originally fixed by the company. It was assumed by both parties that the bank was solvent, and that the plaintiff would receive the money deposited. It was a part of the arrangement that a receipt should be signed at the time the money was paid. It turned out' that the bank was utterly insolvent at the time the money was deposited; in fact, long before that time. But. neither of the parties knew it.
+The defendant owed the plaintiff the sum of $200. It was never paid to him, and he never received the money. The defendant’s contention is that the moment it deposited the money in the bank for the benefit of the plaintiff, the debt was paid. The plaintiff was guilty of no laches. He went to the bank as soon as possible after the receipt of the letter notifying him of the deposit. He found the bank had failed, and he could not get the money. The debt existed before the money was deposited.
+It is a familiar rule that in an action for the collection of a preexisting debt the onus of proving payment rests upon the defendant. Bradford v. Fox, 38 N. Y., 289.
+■ All the testimony and the letter strongly tend to show that the-defendant at the time it deposited the money assumed to claim dominion over it to the extent'of preventing its payment until a receipt was signed. It evidently wished to keep it as a voucher, and if it was not signed until after the money was paid there might be ' trouble in getting it. The defendant, therefore, when it delivered the money to the bank directed upon what conditions-it should be paid. It is not probable that any consideration was given to the subject, as it was supposed that the bank would pay the money. If payment had been made by an officer of the company, the taking a receipt would naturally have formed a part of the same transaction. The money and receipt would be exchanged at the same time. This was the substance of the instructions given to the bank when the money was delivered.
+Under all the circumstances, the direction of a verdict by the trial justice was correct, and the judgment and order must be affirmed. -
+Dwight, P. J., and Macomber, J., concur.
