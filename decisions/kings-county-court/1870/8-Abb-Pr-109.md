@@ -1,0 +1,26 @@
+---
+court: "Kings County Court"
+decided: "1870-04"
+citations: ["8 Abb. Pr. 109"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TERRY against HULTZ."]
+source_url: "https://static.case.law/abb-pr-ns/8/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1964086
+---
+
+# Terry v. Hultz
+
+## Majority (Troy, J.)
+
+Troy, J.
+On an affidavit that judgment was recovered by the above-named plaintiff against the above-named defendant on February 7, 1870, in the supreme court, for five thousand one hundred and seven dollars and nineteen cents, and the judgment roll filed on that day in the office of the clerk of the county of Kings, and that execution thereon was duly issued to the sheriff of the county of Queens, w7here the judgment debtor resided, at the time of issuing such execution, and still so resides ; that said execution had been returned unsatisfied, and that George Averill, residing in the county of Kings, was then indebted to the said judgment debtor in an amount exceeding the sum of ten dollars, and also had property belonging to him an order was made by me requiring the said Averill to appear before me at a time specified in said order, and be examined concerning such alleged indebtedness and property. Which order having been duly served upon said Averill, he now appears and claims that the facts stated in the affidavit do not confer jurisdiction upon the county judge of Kings county to make the order aforesaid, for the reason that by said affidavit it does not appear that any execution upon said judgment was issued to the sheriff of the said county of Kings. The objection thus interposed presents a new and .exceedingly important question, which, in the absence of any previous reported decision upon the subject, must be determined by reference to the provisions of the statute alone.
+Section 292 of the Code provides that “When an execution against property of the judgment debtor, or of any one of several debtors in the same judgment issued to the sheriff of the county where he resides or has a place of business, or if he do not reside in the State, to the sheriff of the county where a judgment roll or a transcript of a justice’s judgment -for twenty-five dollars, or upwards, exclusive of costs, is filed, is returned unsatisfied, in whole or in part, the judgment creditor, at any time after such return made, is entitled to an order from a judge of the court, or a county judge of the county to which the execution was issued, ora judge of the court of common pleas for the city and county of New York, when the execution was issued to such city and county, requiring such judgment debtor to appear,” etc.
+Section 294 of the Code provides- that “ After the issuing or return of an execution against property of the judgment debtor, or of any one of Several debtors' in the same judgment, and upon an affidavit that any person or corporation has property of' such judgment debtor, or is indebted to him in an amount exceeding ten dollars, the judge may, by an order,' require such person or corporation, or any officer or member thereof, to appear at a specified time and place, and answer concerning the same. The judge may also, in his discretion, require notice of such proceeding to be given to any party,” etc.
+It will be observed that this latter section does not designate the officer by whom the order may be made, except as “the judge ;” and the same language is used throughout the whole of the rest of the second chapter of the ninth title of the Code, which relates exclusively to proceedings supplementary to execution ; hence the question arises, in this case, as to what “judge” is intended, and who may make an order for the examination of a third person indebted to and having property belonging to a judgment debtor, as provided by section 294.
+There can be no doubt, inasmuch as' the whole chapter relates to the same subject, that the provisions thereof, subsequent to the first section (292), referring to “ the judge ” who may make the*order, evidently intend to relate to some judge previously described, and we must look, therefore, to section 292 to ascertain what judges are therein designated.
+We find by this latter section that jurisdiction is conferred only upon “ a judge of the court, or a county judge of the county to which the execution was issued, or a judge of the court of common pleas for the city and county of New York, when the execution was-issued to such county.” These are the only officers, before whom 'proceedings of this nature can be instituted.
+■ Taking section 292 of the Code, then, in connection with section 294, I am satisfied that a county judge has no power to make an order for the examination of a third party in proceedings supplementary to execution, upon a judgment recovered in the supreme court, unless an execution has been issued upon such judgment to liis county. And the fact that such execution has been issued to a different county, where the judgment debtor resides, as in this case, does not affect the result.
+I must hold, therefore, that the affidavit in this case confers no jurisdiction upon me to make the order obtained, and the same is accordingly dismissed.
