@@ -1,0 +1,27 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-11"
+citations: ["1 Connoly Sur. Rep. 200"]
+reporter: "connoly-sur-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of Demarest. In the matter of the judicial settlement of the account of Abram A. Demarest as executor of the will of Abram J. Demarest, deceased."]
+source_url: "https://static.case.law/connoly-sur-rep/1/cases/0200-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1130501
+cites_cases: ["88 N. Y. 384"]
+---
+
+# In re the judicial settlement of the account of Demarest
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+Whether or not this executor should be held liable for the loss which has come to the estate because of the misappropriation of the funds that came into the custody of his brother Jacob, his co-executor, is a very important and vexatious question. I have come to the conclusion that he ought not to be held for that loss. The general rule is that an executor is responsible only for his own acts, and not for those of his associates.
+Ordinarily in the collection of assets, the rights of each one are alike, and one has not control or supremacy over the other. He must in some way assent to the misapplication by the other. He must be a consenting party to the waste, or neglect some duty consequent upon his knowledge of a misapplication intended or a duty omitted, which must be at the foundation of his liability. Croft v. Williams, 88 N. Y. 384.
+Now here the funds never came to the accounting executor. He became liable individually to the estate for a portion of the purchase price of the farm of his testator. The farm was sold to Andrew, a brother of the executors, and then by him conveyed to the accounting executor. Upon this latter sale, the executor gave his note to his co-executors for $3,000, payable in four months and assumed the payment of the $8,000 mortgage which Andrew had given upon the farm to the executors when he purchased.
+He thus became an individual debtor to the estate, and was bound to discharge these obligations by payment to the executors. Indeed, under the form of these obligations, it is doubtful whether he could discharge his individual liability in any other way than by such payment to his co-executors. However, he had the right to discharge this individual indebtedness by paying to his co-executors. He did so, and this was all that he did that contributed to bringing the funds to the hands of his. co-executors. All of the persons interested in the estate then regarded Jacob as a man of property and financial responsibility, including the contestant. No misapplication or dishonesty was threatened or manifest or even suspected. I cannot believe it to be the law that this executor can be held liable under such circumstances for simply paying his individual indebtedness to his co-executors.
+It may be that this was in fact a purchase by the executor, and that the sale could have been avoided, but no such claim has ever been made, and the purchase must therefore be regarded as an individual transaction between himself and his brother Andrew, whereby he came into Andrew’s stead as a purchaser of the farm. I think the matter should be regarded differently from an instance where funds have actually come into the custody of an executor as such, and then been paid by him over to his co-executor.
+As to whether or not the accounting executor was negligent in the discharge of his duty after knowledge or information of misapplication intended or in progress is a question of fact upon the evidence, and I am not convinced that he has been derelict to an extent that would call upon him to make good the loss. The executor could not be swift to suspect his brother, whom all had trusted alike, of an intention of wronging his mother and his brothers and sisters.
+The question is somewhat marginal and not without some facts and circumstances bearing against the executor, but upon the whole case, I should not hold him liable for the loss.
+The case of Croft v. Williams, supra, was stronger upon the facts against the executor, and he was held not liable. In all of the many cases cited by the counsel for the contestant where the executor has been held for the devastavit, the case is distinguishable from this upon the facts. In no one of them are the facts bearing against the executors so meagre as in this.
