@@ -1,0 +1,20 @@
+---
+court: "New York Surrogate's Court"
+decided: "1900-03"
+citations: ["1 Mills Surr. 513", "31 Misc. 81"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Probate of the Last Will and Testament of Clara T. Hewitt, Deceased."]
+source_url: "https://static.case.law/mills-surr/1/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1064190
+---
+
+# In re the Probate of the Last Will & Testament of Hewitt
+
+## Majority (Thomas, S.)
+
+Thomas, S.
+The will offered for probate was executed ae-cording to legal forms in one of the intervals between the periodic attacks of drunkenness to which the testatrix wias subject, and at that time she had been sober for about three or four weeks. The evidence is substantially uncontradicted that during her intervals of sobriety the testatrix appeared to be rational •and conversed intelligently on many subjects. Even Hrs. Kirk, the housekeeper, called by the contestants, asserted that when the testatrix recovered from the serious debauch of October and November, 1897, at which time the witness left her, •she had made a. “ Christian woman ” of her and she was in good -condition. The son of the housekeeper, Hr. Kirk, testified that it was one of his occupations while he wias in the house of Hrs. Hewitt to read the newspapers to her. Mr. Wherry, the painter, called by the contestants, agreed that when Mrs. Hewitt was sober she gave intelligent direction to the repairing of her house and conversed entertainingly with him. The disinterested witnesses called by the proponent on this point were even more emphatic to the same effect. It is not necessary to impute lack of candor or willful falsehood to the very reputable physicians called by the contestants in order to give full credit to all that was said by the other witnesses. One of these physk cians never knew Mrs. Hewitt, and judged of her mental capacity from an autopsy made by him on her remains. The others saw her only while she was greatly intoxicated or suffering acutely from alcoholic excesses. Their opinions as to what her condition probably would be at other times cannot be suffered to override direct evidence of what that condition then actually was. My conclusion from all of the evidence is that at the time the will was executed she wias of sufficient testamentary capacity. Ho fraud was practiced on the testatrix and there is nothing unnatural in the terms of the will. The principal beneficiary was then living with her as her paramour, and marriage between them was sériously considered; land another beneficiary was a servant who had been kind to her. From the time when Margaret Shea elected to become Olara Theresa DeEorest, or Clara Theresa Hewitt, and to enter on an irregular life, she strove to cut loose from her kindred, and up to the very last she concealed her origin even from her intimates. It is probable that her relatives did not take any pride in her career, and it does not appear that they sought her society. It is not surprising that she preferred to ignore any claim on their part to any portion of her estate. The objections will be overruled and the will admitted to probate.
+Probate decreed.
