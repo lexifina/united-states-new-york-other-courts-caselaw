@@ -1,0 +1,33 @@
+---
+court: "New York Superior Court"
+decided: "1885-02-02"
+citations: ["19 Jones & S. 310", "51 N.Y. Super. Ct. 310"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ERNEST LUDWIG, Respondent, v. LOUIS C. GILLESPIE, Appellant."]
+source_url: "https://static.case.law/ny-super-ct/51/cases/0310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1679289
+cites_cases: ["1 Abb. 217", "10 Johns. 387", "2 Hill, 216", "20 Hun, 1", "22 N. Y. 389", "30 Hun, 488", "44 How. 351", "48 How. Pr. 210", "48 N. Y. 686", "5 Hun, 651", "55 N. Y. 265", "65 N. Y. 6", "71 N. Y. 348", "9 N. Y. 513", "96 N. Y. 289"]
+---
+
+# Ludwig v. Gillespie
+
+## Majority (O'Gorman, J.)
+
+By the Court.
+O'Gorman, J.
+In April, 1882, a contract in writing was entered into, between the plaintiff and the defendant for the sale, by the plaintiff, to the defendant of four thousand cases of “ Syrian bitumen.”
+This contract was executed in two parts, the part known as the “ sold contract,” beginning thus : “ Sold for account of Mr. E. Ludwig to Mr. L. 0. Gillespie, &c.,” and across its face were written by the plaintiff the words: “Accepted, E. Ludwig, Agent.” The contract provided for the times at which the bitumen was to be delivered and the quantity to be delivered at each time and the prices to be paid for the same in “cash thirty days from each delivery.” It was also provided that the seller should not import more of the bitumen, nor make sales of the same in the United States, during the unexpired time and fulfillment of the contract. All the bitumen contracted for was delivered to the defendant in the city of Hew York, and payments were duly made to the plaintiff for all of the same, except for the lot last delivered, the contract price of which amounted to $22,251.60. This sum the defendant refused to pay because : First. The plaintiff did not sell the goods on his own account, but as a known agent of the firm of Arles, Dufour & Go. his disclosed principals, under a special contract in writing, and without authority to receive the proceeds of such sales ; and: Second. Because the seller had violated the contract by importing large quantities of Syrian bitumen into the United States and selling the same at less price than the prices to the defendant, to the great damage of the defendant.
+The referee has found that at the time of making the contract the plaintiff was in fact the agent for Arles, Dufour & Go., of Marseilles, and had been their agent for three years prior to August 31, 1884, and that the bitumen was sold and delivered by the plaintiff, not on his own account, but for and on account of Arles, Dufour & Go. and as their agent, but that there was no proof that the name of Arles, Dufour & Co. was disclosed or mentioned as principal of the plaintiff in the negotiations for the sale, nor at any time before the contract had been executed and delivered. It is in evidence that on each of the bills sent by the plaintiff to the defendant on each delivery of bitumen, these words were used :—“Bought of E. Ludwig, agent for Arles, Dufour & Co.,” and each of the payments made by defendant to the plaintiff was in a check payable to the order of E. Ludwig, and each of said checks were indorsed by E. Ludwig. Each of the receipts for payments made by the defendant was signed thus: “Rec’d pay’t, E. Ludwig.” Ludwig, the plaintiff, carried on business in the city of New York, using on the sign attached to his place of business the words, “ E. Ludwig, agent of Dufour & Co.”
+In April, 1883, during the pendency of this contract, the defendant, in a letter to the plaintiff, refers to the bitumen as due him and “to arrive under contract with you, &c.”
+It is clear that the plaintiff was not the owner of the bitumen or the real party in interest, and the question is whether he was, as he contends, entitled to bring this action as a person with whom or in whose name a contract was made for the good of another, as provided for in section 449 of the Code.
+The decision of the court of appeals in Considerant v. Brisbane (22 N. Y. 389), is authority in favor of the plaintiff’s contention. There, the plaintiff Considerant, entered into a contract “as executive agent of Bureaux & Co.,” and it was held that these words indicated the existence of an express trust and that the plaintiff could recover. The court says, written express contracts by or with agents contracting in their own names, with or without description of agency were, even before the Code, not exceptions to the general rule, that the right af action followed the legal title ; that “ such a contract was with the agent, when executed by him in his individual name, without expressing the agency, through the other party knew he was acting as agent, and contracted with him in that capacity,” and the contract was equally with him and in his name, though he was described as agent on its face. The words expressive of the agency might, if necessary for convenience of the remedy, be rejected as a mere description of the person.
+The principle and reasoning of this decision were followed by the superior court in Arosemena v. Hinckley (43 Super. Ct. 45).
+This right in the agent thus contracting for the benefit of his principal, to sue in his own name for breach of the contract, imposes on him a personal responsibility for the due performance of the contract by his principal (Cobb v. Knapp, 71 N. Y. 348). And the party thus contracting with an agent can reheve himself of liability to him, only by showing that he has performed his part of the contract to the satisfaction of the principal (Knapp v. Simon, 96 N. Y. 289).
+The defense interposed in the case at bar, that the plaintiff had no right of action against the defendant, but that the right of action was vested only in Dufour & Co. the principal of the plaintiff, cannot be sustained.
+The defendant’s affirmative defense or counter-claim is equally without merit. The referee has found, that there was a breach by the plaintiff of that provision in the contract which forbids the seller to import into the United States, or make sales of more of the bitumen, during the unexpired time and fulfillment of the contract. Inasmuch, however, as no substantial damages to the defendant were shown to have been caused by such breach, the referee properly disposed of the defendant’s counterclaim by awarding him only six cents damages.
+The various questions raised at the trial as to the admissibility of evidence were properly disposed of by the referee.
+The judgment in favor of the plaintiff must be affirmed, with costs.
+Sedgwick, Ch. J., and Truax, J., concurred.
