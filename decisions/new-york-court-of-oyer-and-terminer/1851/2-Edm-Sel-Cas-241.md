@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Oyer and Terminer"
 decided: "1851-11-20"
-citations: ["2 Edm. Sel. Cas. 241", "2 Edm. Sel. Cas. 265"]
+citations: ["2 Edm. Sel. Cas. 241"]
 reporter: "edm-sel-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
