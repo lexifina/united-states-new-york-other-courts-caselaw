@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1881-01"
+citations: ["31 N.Y. Sup. Ct. 84"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Learned, P. J\"., Boardman and Bocees, JJ."]
+parties: ["LEVI M. BATES and others, Appellants, v. GEORGE BRADLEY and others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/31/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1916563
+cites_cases: ["11 N. Y., 237", "4 Johns., 536", "72 N. Y., 159", "72 N. Y., 70", "98 U. S., 20"]
+---
+
+# Bates v. Bradley
+
+## Majority (Learned, P. J.:)
+
+Learned, P. J.:
+The assignee in bankruptcy might have brought a suit for the same purpose with the present in a State court. (Kidder v. Horro bin, 72 N. Y., 159; Southard v. Benner, id., 424; Tyler v. McCollum, 26 Sup. Ct. N. Y., 622.)
+The question whether the creditors may maintain such an action was considered in Dewey v. Moyer (72 N. Y., 70 at 87). In that case, as appears more clearly in 16 Sup. Ct. N. Y., 473, the assignee in bankruptcy was not made a party. But the defendant did not set up this in his answer as a defect of parties, and therefore it was not regarded on the trial. And the court sustained the action brought by creditors to set aside fraudulent transfers of property. That case and the many similar cases cited in the opinion establish the correctness of the plaintiffs’ position, unless there be some higher authority reversing the rule. Indeed, when it was established that the assignee in bankruptcy could sue in a State court to set aside fraudulent conveyances, it almost necessarily followed that, if he declined to sue, those for whom he was trustee might, on equitable principles, sue for themselves, making him a party defendant and asking that the avails of the suit be administered by him.
+The case of Glenny v. Langdon (98 U. S., 20), subsequently decided in the Supreme Court of the United States, is claimed by the defendants to be conclusive in their favor. In regard to that case some facts must be noted. The debtors of the complainant had made an assignment under a State law, and subsequently had gone into bankruptcy; and one of the complainants had made an assignment under a State law, and subsequently had gone into bankruptcy ; and one of the respondents in the case had been appointed assignee in bankruptcy. The bankrupts surrendered no property. The complainant alleged that the bankrupts had fraudulently concealed property not surrendered either to the State assignee or to the assignee in bankruptcy, and alleged that the respondent assignee had been - advised of the facts and requested to adopt means to recover the property or to allow his name to be used, but refused to do so. The complainant and the respondents were citizens of the same State, but the complainant being a creditor of the bankrupt instituted this action in his own name in a Circuit Court of the United States, claiming to do so because the assignee refused to proceed or allow his name to be used.
+The first point decided was that the Circuit Court had no jurisdiction on the ground of the citizenship of the parties. Next, that that court had no jurisdiction under the provisions of the bankrupt law giving it concurrent jurisdiction in certain cases with the District Courts.
+The opinion then proceeds to consider the right of action, as based on principles of equity, authorizing the cestui que trust to maintain an action where the trustee is negligent. This is substantially the principle of Bate v. Graham (11 N. Y., 237), and of similar cases; and the court proceeds to say that conceding these principles the Circuit Court had no jurisdiction: 1st. Because complainant and respondents were citizens of the same State; and, 2d. Because in that view the remedy sought did not depend on the bankrupt law. And the court again say that if the remedy sought does not depend on the bankrupt act, the court below had no jurisdiction because both parties were citizens of the same State.
+It will be seen, therefore, that the only point necessary to be decided in that case was whether or not the Circuit Court of the United States had jurisdiction of the action, and that the decision of that point in the negative rested on two grounds: 1st. That the parties were citizens of the same State; and, 2d. That the remedy sought did not depend on' the bankrupt law.
+In examining how far that decision affects this present case we are met with the difficulty that the report does not show what relief the complainant demanded. It is said, incidentally, that it was to recover property conveyed by the bankrupt in fraud of his creditors. But whether the complainant sought such recovery for his own benefit, or whether, as in the present case, he asked to recover money to be administered in due course of proceedings in bankruptcy, does not appear.
+But, at any rate, it is apparent that the question of the right of creditors in some tribunal to maintain such an action as the present was not involved. Indeed, it would be strange, when an assignee in bankruptcy refuses to bring an action to set aside a fraudulent conveyance of the debtor, that the creditors of the debtor, who are really the parties interested, might not bring such an action. If successful the result would be to add so much to the funds in the assignee’s hands. If unsuccessful the bankrupt estate would lose nothing. It is not necessary to- imply¿ as some language in the opinion above spoken of indicates, that the refusal of the assignee to bring this suit is a fraud on creditors. He may reasonably doubt its success and may be unwilling to run the risk of costs and expenses. If creditors are willing to take that risk, why should they not? "We see nothing, therefore, in the case of Glenny v. Langdon, which overrules the principles followed in this State, from Sands v. Codwise (4 Johns., 536) to the present ease.
+The other points taken by the defendant relate simply to the sufficiency of the pleadings, in that the complaint did not state the facts necessary to give the Bankruptcy Court jurisdiction of the bankruptcy proceedings. But the allegations in that respect were sufficient under the present practice. (Code Civil Pro., §§ 519, 532.)
+The judgment should be reversed and a new trial granted, costs to abide event.
+Present — Learned, P. J"., Boardman and Bocees, JJ.
+Judgment reversed, new trial granted, costs to abide event.
