@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1887-05"
+citations: ["5 N.Y. Crim. 139"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE ex rel. VAN RIPER v. HOME OF THE GOOD SHEPHERD."]
+source_url: "https://static.case.law/ny-crim/5/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1168197
+---
+
+# People ex rel. Van Riper v. Home of the Good Shepherd
+
+## Majority (Babtlett, J.)
+
+Babtlett, J.
+The relator’s child, Florence Van Riper, was arrested, brought before a magistrate in the city and connty.of New York, and committed to the institution known as the New York Catholic Protectory, under section 291 of the Penal Code.
+The commitment states that the child was brought before the magistrate “upon the allegation under oath of Henry E. Stocking, that the said child, Florence Van Riper, on the fifth day of October, 1886, at the city and county aforesaid, was found improperly exposed and' neglected and wandering in the public park in said city, to wit, in Union Square Park in said city, without any proper guardianship ; that the said child was found in the company of one Mary Ryan, who is a reputed prostitute, in violation of the provision of the Penal Code of the State of New York, and the Acts amendatory thereof.”
+The commitment further recites that “it has been proven to the satisfaction of the magistrate that the material allegations and matters set forth and charged in the complaint are true, and that the child was actually» and apparently under the age of sixteen years, being fourteen years old, and was found improperly exposed and neglected and wandering in the public park, to wit, in Union Square Park, in said city, without any proper guardianship ; that the said child was found in the company of one Mary Ryan, who is a reputed prostitute, in in violation of the Code and laws aforesaid.”
+In response to the writs of habeas corpus and certorari sued out by the mother in this proceeding. The Mew York Catholic Protectory returned this commitment as its authority for the detention of the girl. The relator filed a traverse to the return, alleging among other things, that the father of the child, in whose house she was then residing, received no notice of the proceeding and was not present at the examination ; that the child “ was not destitute of means of support, but was at the time living in the house of her parents, who had a comfortable home for her in Hoboken, in the State of Mfew Jersey,nor did the said FloxenceYan Riper know that the said Mary Ryan was a reputed prostitute, but she herself was a religious girl, and good and virtuous ; and that the said Florence Yan Riper when found was preparing to return to her said home, and childlike was merely enjoying for the moment the pleasant surrounding of said Union Square.” To this traverse a demurrer was interposed, on the ground that it conceded that the child was detained under a commitment, which was the final judgment of a court of competent jurisdiction. The matter was brought to a hearing at special term upon the return, traverse and demurrer, and the learned justice before whom the cause was heard, discharged the child from custody because it was admitted by the demurrer that her father, with whom she lived and under whose guardianship she was, had no notice of the proceeding which deprived him of his child.
+As to this point, the appellant contends that inasmuch as the mother was present at the examination (as is recited in the commitment and not denied in the traverse) no further notice was required.
+Apart from any question of notice, however, we are of the opinion that the commitment considered in view of the ad-, missions made by the demurrer to the traverse, fails to set out facts sufficient to justify the detention of the child.
+It charges that she was improperly exposed and neglected. This did not warrant her arrest unless she had been so exposed or neglected by her parents or other person or persons having her in charge, and there is no allegation to this effect. (Penal Code Sec. 291, subd. 2.)
+It charges that she was wandering in the park without any proper guardianship. This did not bring her within the description of children “ not having any home or other place of abode or proper guardianship.” (Penal Code, § 291, subd. 2.) The guardianship contemplated by section 291 of the Penal Code is not the mere temporary supervision of a companion in the street. The statute was not designed to provide for the arrest and commitment to a charitable institution of every young child who should happen to get into the street or park without a suitable custodian. It is only the lack of that guardianship which corresponds to the lack of parental care generally which falls within the intent of the clause we have quoted.
+Finally, the commitment charges that the child was found in the company of Mary Ryan, a reputed prostitute.
+The Penal Code authorizes the arrest of any child actually or apparently under the age of sixteen years, who is found “ frequenting or being in the company of reputed thieves or prostitutes.” (§ 291, subd. 4.)
+The facts in this case, as admitted by the demurrer to the traverse, are that on a single occasion, this child while in a much frequented public park, and about to return to the comfortable home in which she lived with her parents, was found in the company of a reputed prostitute, of whose character she was ignorant, being herself a good and virtuous girl.
+It may be difficult accurately to define just what conduct on the part of a cliild amount's to “ being in the company of reputed prostitutes,” within the meaning of subdivision 4 of section 291 of the Penal Code. That it means something more, however, than appears in the case of this girl, we entertain no doubt. A construction which would make it include her conduct on this occasion, would render the child of the worthiest citizen, who happened to lose her way in the public streets, and sought guidance from the first person she met, liable to arrest and incarceration, if the person from whom she asked information and who accompanied her a block or two to show her the way, chanced to be known to a police officer as a reputed prostitute.
+The relator’s child was properly discharged from custody? and the order appealed from should be affirmed with costs.
+Macombeb, J., concurs.
