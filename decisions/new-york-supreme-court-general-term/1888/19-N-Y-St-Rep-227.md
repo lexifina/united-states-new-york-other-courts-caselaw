@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-24"
+citations: ["19 N.Y. St. Rep. 227"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Bornkamp, App’lt, v. Gustav Boehm and Sophia Boehm, Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650543
+---
+
+# Bornkamp v. Boehm
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+The justice presiding at the trial of this action permitted the evidence to take the widest possible range within the rules, so as to enable the plaintiff, if possible, to establish the ultimate fact of his contention, namely; that the instrument in question, though upon its face an absolute conveyance, was intended in fact to be a security only for the indebtedness which was owing by the plaintiff to the defendant, Gustav Boehm.
+The defendant, Gustav Boehm, in order to secure payment to him under a painting contract, held a mortgage upon the four houses, including the house and lot covered by the deed. The real party in interest in the contract seems to have been not the plaintiff, but one Charles Bornkamp, uncle of the plaintiff. It is disclosed by the evidence that the original proposition was that the deed should be given as a substituted security for the mortgage, but that upon consulting with a lawyer it was pointed out that such a course would be objectionable, and thereupon it was concluded that there should be an actual sale by conveyance of the one house, in consideration of which the defendant, Gustav Boehm, should not only relinquish the mortgage on the four houses, but should also complete the painting work of all the houses, and that he would himself furnish the particular house conveyed, the carpenter work and all other incomplete details, and pay or allow to the plaintiff an amount which he had paid to one Pulvermacher.
+That this is shown to be the agreement of the parties, and was a complete transaction, though conditional, is shown by the further fact that the defendant, Gustav Boehm, also agreed at the same time, that within six months he would sell and re-convey to the plaintiff the premises covered by the deed, upon the payment of a sum equal to all the defendant should be entitled to upon his-contract for painting and for his outlay in completing the house conveyed.
+As is pointed out by the learned judge at the trial, if the agreement referring to a re-sale was merely one of defeasance, and the whole transaction was only an awkward way of substituting one security for another, the form it took under advice of counsel could not change the real nature of the transaction if the intention of the parties should still remain that the deed should be a security only. But the clear and positive evidence in behalf of the defendants cannot be said to be overcome by the testimony of Charles and Henry Bornkamp to the effect that they did not understand the contents of the paper which was read to them at the lawyer’s office. There was nothing unfair or unconscionable in the transaction, nor was there any act on the part of the secured creditor which can be deemed to be an advantage taken by him of his debtor.
+The judgment should be affirmed, with costs.
+Van Brunt, P. J., and Bartlett, J., concur.
