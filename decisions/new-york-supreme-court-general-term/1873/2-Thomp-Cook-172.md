@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1873-11"
+citations: ["2 Thomp. & Cook 172"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People v. Mitchell."]
+source_url: "https://static.case.law/thomp-cook/2/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4460021
+---
+
+# People v. Mitchell
+
+## Majority (P. Potter, J.)
+
+P. Potter, J.
+This is a certiorari to review proceedings before the recorder of the city of Elmira. The defendant was arrested upon a warrant issued by the recorder on the charge of being a disorderly person, in that he neglected to support his wife and child, and being brought before the recorder a trial was had in due form, as appears; the defendant was found guilty, convicted of the charge, and, in the warrant of conviction, required to find two sufficient sureties to enter into a recognizance, in the sum of two hundred dollars each, for his good behavior for the space of one year, and in default of finding such sureties, it was adjudged, and the said warrant of conviction directed that the said defendant be committed to the common jail of said county, to remain until such sureties be found, or he be discharged according to law. The certiorari is brought to review this proceeding before the recorder.
+We are obliged to grope very much in the dark for reasons why this proceeding should be reversed upon the one side, or why it should be sustained on the other, the case being submitted without any brief or authority, cited upon the part of the people, and with a meagre brief with two.general points, without reference to an authority, and with the absence of a legal proposition on the other. Indeed, nothing is presented that does not appear upon the face of the proceeding returned.
+The two points raised by defendants are, 1st. “ That the testimony did not justify the conviction.” 3d. “The recorder had no jurisdiction in the case.”
+Reversing the order of these points in our examination, and looking, first, for jurisdiction, we find, that recorders of cities are among the enumerated officers, whose duty it is, to cause to be kept all laws for the preservation of the public peace, and, in the execution of that power, to require persons to give security to keep the peace. 3 R. S. 704, § 1.
+Among offenses against the public peace, is that of persons “who shall abandon or neglect to support their wives or children.” 1 R. S. 638, § 1.
+The complaint expressly stated, “that Alfred Mitchell neglects and refuses to support his wife, Mary Mitchell, and his child.”
+The first above cited statute declares, that such persons are “ disorderly -persons.”
+The warrant issued by the recorder sets forth the complaint that Mitchell was a “ disorderly person; ” that he, the recorder, had examined, on oath, the complainant, and that it appeared to him that the offense had been committed, and it commanded the defendant to be brought before him, to be dealt with according to law, and he was brought accordingly. For aught that appears, the recorder had full jurisdiction.
+Did the testimony support the conviction ? It appeared by the testimony of the wife, that the parties had been married six or seven years. That they lived together about two years; that above four years before, he left her, with no means for her support; that he has neglected and refused to support her, and does so now. They had two children, one of which lives with her; that she worked out since he left her. She has no means for her support but her labor; the city authorities and the overseers of the poor have helped her some. That the defendant lives in that city, is a plasterer by trade, and has employment.
+The defendant was himself sworn, and after stating that he was willing to take and support the child that was with his wife, and take its custody; that he had never refused to support the child; and that he was able to do so also stated, on cross-examination, that he quit living with his wife four years before; that he is a mason and general mechanic; that he has not given his wife any money within a year, and had not provided a home for her within that time, nor any food or clothing within that time, for her or for the youngest child. There was other evidence in the case which, we will notice, but, under this point, it is seen that the testimony is abundantly sufficient to sustain the conviction. This, it must be remembered, was a proceeding under the statutes conferring criminal jurisdiction upon the officer to preserve the public peace.
+Upon the same examination, as a defense or excuse for the charge so alleged against him, the defendant proved that there was depending in the courts an action for divorce brought by him against his wife, and that, while it was depending, there was an order made in the supreme court by which he was required to pay her for alimony, $4 per week, during the pendency of the action; that a determination had been had in said action in the court, which determination had been reversed — that the case was now depending in the court of appeals — that, after its removal to the court of appeals, the application had been renewed for the original allowance of alimony, and an order made granting $50 as a gross sum, and for expenses of the action, which sum he had paid to her attorney, but there was no evidence that he had paid any other sum, by virtue of any order of the court, than the said sum of $50. The case is still depending; he is not divorced from his wife, nor released from the legal obligation of law to support her. The supreme cor^rt, by no order they can make, short of granting a divorce, can cast upon the public the burden of supporting the legal wife of a man able to support her, or to absolve the husband from that duty. The public, through their properly constituted authorities, can enforce that support from the husband, in the way pointed out, and as was done in this case. I am not able to see any error in the proceeding before the recorder, and think the conviction should be affirmed, with costs.
+Miller, P. J., and Parker, J., concurred.
+Conviction affirmed.
