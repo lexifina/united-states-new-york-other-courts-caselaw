@@ -1,0 +1,21 @@
+---
+court: "New York City Court"
+decided: "1896-10-30"
+citations: ["75 N.Y. St. Rep. 937"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ford J. Sweet v. Metropolitan St. R. Co."]
+source_url: "https://static.case.law/ny-st-rep/75/cases/0937-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1997051
+cites_cases: ["20 N. Y. Supp. 882"]
+---
+
+# Sweet v. Metropolitan Street Railroad
+
+## Majority (VAN WYCK, C. J.)
+
+VAN WYCK, C. J.
+—The plaintiff sues to recover damages-sustained by him by reason of personal injuries to his wife through defendant’s negligence. The husband certainly can recover, in such action, damages caused by loss of his wife’s-domestic services, the expenses necessarily incurred by him by reason of her injuries, and the loss of her society and the comforts thereof; while the wife has her action for the general damages from the injury to her person, and for the loss of her earning power over and above her domestic services. London v. Cunningham (City Ct. N. Y.), 20 N. Y. Supp. 882. The-wife’s cause of action for the general damages for her personal injuries dies with her. Therefore, if she had been the plaintiff' herein, taking the inquest, it would not have been unreasonable to have required the defendant to stipulate, as a condition for opening the default and setting aside the inquest, that, if she should die before the cause was retried, final judgment might be entered upon the decision and findings of the jury, on the inquest; for otherwise the defendant, although guilty of' negligence, would, by reason of her death, and the setting-aside of the inquest, entirely escape liability for her cause of action, unless her death had resulted from its negligence. But-in this case the plaintiff is the husband, whose cause of action for the wife’s injuries will not die with her, and his cause and the proof thereof could have been fully protected by requiring the defendant to stipulate, as a condition for setting aside the inquest, that in case of her death before the trial of the cause, then that her testimony as taken on the inquest, or at plaintiff’s, option, as more fully taken on her immediate examination before trial, should be read upon the trial. And the order appealed from will be so modified and affirmed,- without costs..
+All concur.
