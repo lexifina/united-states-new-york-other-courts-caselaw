@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1836-01-19"
+citations: ["5 Paige Ch. 528"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vroom vs. Ditmas and others."]
+source_url: "https://static.case.law/paige-ch/5/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2052557
+cites_cases: ["3 Peters' Rep. 481"]
+---
+
+# Vroom v. Ditmas
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The cause is not in a situation to discuss the question of the fairness of obtaining the release from the administratrix in New-Jersey. The suit is abated, and the parties who are interested in that question are not now before the court, so as to be bound by any decision made thereon. When the personal representative of Vroom applies to revive the suit to carry into' effect the decree,' it will be a good answer to the application that the complainant in the bill of revivor has no longer any interest in the subject of the litigation, unless such representative can, by supplemental matter, show that the release by the administratrix in New-Jersey was not legally or equitably binding upon the estate of the decedent. The only matter now to be discussed is, whether a decree could be entered at all, so as to authorize the revival of the suit thereon, even if no release had been given.
+This court has frequently ordered a decree or order, to be entered nunc pro tune, where the cause has abated by the death of a party after argument, and before the decision of the chancellor thereon ; and such must now be considered as the settled practice of the court. I am not aware that a case like the present has occurred before in this state, except in Rogers v. Paterson, in the court of errors, where the cause was argued and decided after the death of one of the parties, and the cause was remitted to this court before the death of ouch party was known. In that case, I considered it the duty of this court to carry into effect the decree of the court of dernier resoit, although it was not entered as of a day previous to the death of the party ¡ and that the suit must be revived and proceeded in here in the same manner as if the party had died subsequent to the making of that decree. (4 Paige's R. 409.) Where the cause, upon an appeal, has abated by the death of a party after the appeal was in readiness for hearing, and the same has been fully argued by counsel, and examined and decided by the court, I cannot see any objection, in principle, to entering the decree nunc pro tune in such a case, any more than in a case where the death has occurred between the argument and the decision.' But the appellate court ought not to proceed to the hearing of a cause, after the courtis aware that the nominal party on record is no longer in existence, unless with the consent of the counsel for those who have succeeded to his rights. The decision of the supreme court of the United States, in the ease of The Bank of the United States v. Weisiger, (3 Peters’ Rep. 481,) furnishes a precedent for the order asked for in the case now under consideration, and is directly in point; which decision I am inclined to follow in this case, though it is going one step further than this court has yet gone. In that case, the respondent died a few days before the argument, but his death was not known to ^ com.^ or coimsej} aritil after the appeal liad been argued and decided against him. And then the court, upon a suggestion of the fact, and after hearing the objection of the counsel who had argued the cause for the decedent, ordered the decree to be entered as of the first day of the term, which was previous to his death.
+The decree upon the appeal must therefore be entered is the name of Ditmas, as of a day previous to his death, and subsequent to the perfecting of the appeal. But it must be without prejudice to any right acquired by the respondent, under the settlement with the widow or administratrix in New-Jersey, to resist the revival of the suit in the name of the personal representatives of the decedent, or otherwise; or to the right of the defendants, or any of them, to appeal from that decree within the usual time after it is actually entered,, in the same manner as if the complainant was living at the time of entering the decree in the register’s office, and should die afterwards.
