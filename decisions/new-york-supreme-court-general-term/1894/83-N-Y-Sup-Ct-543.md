@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03"
+citations: ["83 N.Y. Sup. Ct. 543"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Haight, JJ., concurred."]
+parties: ["Elmer E. Bunker, Respondent, v. Washington W. Langs, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/83/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4716681
+cites_cases: ["10 Hun, 494", "111 N. Y. 544", "14 N. Y. St. Repr. 637", "15 Hun, 356", "26 N. Y. 418", "5 Lans. 69", "6 N. Y. 176", "64 N. Y. 209"]
+---
+
+# Bunker v. Langs
+
+## Majority (Bradley, J.:)
+
+Bradley, J.:
+The action was brought in the County Court upon a guaranty by the defendant of a promissory note, dated March 25, 1890, made •by Ernest Trowbridge and George B. Emory, for seventy-two dollars, payable to the order of the plaintiff one year after its date, at the bank of Porter & Davis, at Canisteo, N. Y.
+The plaintiff failed to allege in the complaint that the defendant was a resident of the county of Steuben, which was a requisite fact to enable the court to assume jurisdiction of the person of the defendant (Code Civ. Proc. § 340, subd. 3); and for that reason the latter might have demurred or declined to appear and answer the complaint. He did, however, appear and answer it upon the merits, without objection.
+After the issues had been referred, and upon the hearing before the referee he sought to raise the question, and upon motion of the plaintiff amendment of the complaint was allowed, and made so as to allege the residence of the defendant in the county.
+It is now urged that the objection was available at the trial, and that the allowance of the amendment by the referee was error. And in support of that view, reference is made to the provisions of the statute that an objection to the jurisdiction of the court, although not taken by demurrer or answer, is not waived. (Code Civ. Proc. § 499.) This evidently has relation’ to jurisdiction of the subject-matter, which, if not within the jurisdiction of the court, cannot be conferred upon it by consent of the parties.
+The rule is otherwise as to the person. A defendant may submit himself to the jurisdiction of a court, although the process by which the plaintiff has attempted to institute an action against him is ineffectual for the purpose, and if he appear and plead to the merits without objection, the want of jurisdiction of his person is waived. This is the general rule. (Clapp v. Graves, 26 N. Y. 418.)
+The present case comes within this doctrine. And while a demurrer or objection in the outset or failure to appear and answer would have been effectual to prevent a valid recovery, without amendment of the complaint in the respect in question, when the defendant did, without objection, appear and answer the complaint on the merits, he waived the question of jurisdiction of his person, and it was thereby conferred upon the court. (Dake v. Miller, 15 Hun, 356; McMahon v. Sherman, 14 N. Y. St. Repr. 637; Ross v. Konor, 17 id. 465.)
+The cases cited by the learned counsel for the defendant have no necessary application to the question.
+In Frees v. Ford (6 N. Y. 176) the defendant pleaded want of jurisdiction of the County Court, and upon demurrer the plea was sustained.
+In Judge v. Hall (5 Lans. 69) the question arose upon demurrer to the complaint, which was held bad for want of averment that the defendant was a resident of the county.
+And such was the case of Gilbert v. York (111 N. Y. 544).
+The question was not in Burns v. O’Neil (10 Hun, 494).
+No amendment of the complaint in the present case was necessary, and, therefore, the defendant was not prejudiced by it.
+Before the maturity of the note, the plaintiff indorsed and transferred it to one Shaw, who, after default in its payment, recovered judgment against the plaintiff as indorser. The latter paid to Shaw the judgment and took from him the note.
+It is now insisted that the note was merged in the recovery, and that the defendant’s guaranty is not the subject of an action by the plaintiff. It may be observed that the plaintiff’s contract of indorsement was a new and independent one to pay the amount of the note upon the condition that he should become charged in the manner presci’ibed by the law merchant. The action and recovery against him were upon his contract of indorsement. The promise off the makers, as such, of the note was not, nor was the defendant’s undertaking of guaranty, the subject of the recovery by the judgment, or necessarily affected by it; and when the plaintiff discharged liis liability by payment to Shaw and took from him the note and guaranty, the right was restored to him to resort to his action upon either. No question of merger, therefore, arises here.
+In Lancey v. Clark (64 N. Y. 209) the plaintiff paid the amount of the note there in question to the holder and took it up at tiie request of one of the parties for whom the defendant was an accommodation maker of it. And it was held tliat the plaintiff did not derive any right to the note by transfer from the holder, but from the party primarily liable by the payment of it at his request, and the same defense which could be made against the latter by the defendant was available to him as against the plaintiff for the obvious reason that the plaintiff stood in no better position for the purpose of the action than did the person at whose instance he took up the note.
+In the present case the plaintiff discharged his liability as indorser, and thereupon received the note with the guaranty from the holder for his own benefit. lie says he indorsed the note and let Shaw have it, and after it became due “ I took it up at that time; I paid him for it and he gave me the note.” There is no difficulty in the way of his having the beneficial interest in, and title to, the note and .guaranty. The further question raised, whether or not an alteration •after its delivery was made by inserting words which changed the terms of it from a joint to a joint and several note, was one of fact •arising upon a conflict of evidence, and was disposed of by the findings of the referee adversely to the defendant.
+The judgment should be affirmed.
+Dwight, P. J., Lewis and Haight, JJ., concurred.
+•Judgment appealed from affirmed.
