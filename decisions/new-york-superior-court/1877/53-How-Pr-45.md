@@ -1,0 +1,21 @@
+---
+court: "New York Superior Court"
+decided: "1877-05"
+citations: ["53 How. Pr. 45"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Central Cross-town Railroad Company agt. The Twenty-third Street Railway Company et al."]
+source_url: "https://static.case.law/how-pr/53/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4486205
+---
+
+# Central Cross-town Railroad v. Twenty-Third Street Railway Co.
+
+## Majority (Sandford, J.)
+
+Sandford, J.
+The plaintiffs, a street railway corporation, petition for an inspection and copy of certain books and papers of one of the defendant corporations, upon the averment contained in the petition that such an inspection will disclose certain specified facts material and necessary for the establishment of the plaintiffs’ ease. This averment is made merely upon the information and belief of the plaintiffs’ president, who fails to disclose the sources of his information otherwise than by way of inference from the fact that he is himself “ the president of a street railway company and familiar with the method of keeping books of such corporations.” It is further alleged that certain letters which passed between the officers of the said defendant and a person who had contracted with them for the performance of certain work and labor are material as showing a purpose and intent on the part of the plaintiffs, the existence of which is essential to the main tain anee of the action.
+After a careful examination of the petition, aided by the rules of the court and numerous authorities upon the point, to which reference was made by defendant’s counsel upon the argument, I am of opinion that the facts stated in the petition are insufficient to justify the presumption that any entries, correspondence or other documents relating to the subject-matter and tending to establish the plaintiffs’ cause of action exist. If the facts alleged in the complaint and put in issue by the answers are assumed to be true there is, perhaps, reasonable ground for - the inference that books and documents exist in the possession of the defendants which contain entries relating to the subject-matter, the legal effect of which would be to establish such facts, and particularly if the course of business of other, similar corporations indicates that such entries are ordinarily made under like circumstances. But we are not warranted in assuming the truth of the plaintiffs’ averments for the purpose of drawing from such assumption an inference in favor of the existence of evidence tending to support them. Such averments should have a more substantial basis than mere suspicion or conjecture ; and when a searching examination of an adversary’s books and papers is demanded it should be not merely for the purpose of ascertaining whether such averments are well founded, but because there is reasonable ground for the belief that, being well founded, they may, in this manner, be satisfactorily proved. Under the Code of Procedure and the rules of court heretofore existing the practice has been to deny similar applications where the production of the books and papers' desired could be secured by a subpoena duces tecum, and the examination as a witness of the party having their custody, either before or on the trial. It was strenuously urged on the argument of this matter that it should be granted for the very reason that, as against a corporation defendant, a subpoena duces tecum would be unavailing. But a reference to section 868 of the “ Code of Remedial Justice ” 'discloses a beneficent provision of that statute to the effect that “ the production upon a trial of a book or paper belonging to or under the control of a corporation, may be compelled in like manner as if it were in the hands or under the control of a natural person.”
+Upon the ground, therefore, that under the former practice the averments of the petition do not, in my judgment, present a proper case for resorting to this onerous remedy of a search, and because, under existing provisions of law, the plaintiff has ample means of obtaining the proofs required, if they really exist, without subjecting himself to the imputation of fishing in his adversaries’ waters, I deny the motion, with ten dollars costs.
