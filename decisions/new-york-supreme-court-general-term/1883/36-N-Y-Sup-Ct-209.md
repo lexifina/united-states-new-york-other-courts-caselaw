@@ -1,0 +1,18 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1883-01"
+citations: ["36 N.Y. Sup. Ct. 209"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of New York ex rel. John Sanderson, Respondent, v. The Board of Canvassers of Greene County, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/36/cases/0209-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1923516
+---
+
+# People ex rel. Sanderson v. Board of Canvassers
+
+## Majority
+
+— Motion to dismiss appeal granted.
