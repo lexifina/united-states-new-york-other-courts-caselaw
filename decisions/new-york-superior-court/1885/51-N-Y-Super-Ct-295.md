@@ -1,0 +1,40 @@
+---
+court: "New York Superior Court"
+decided: "1885-02-02"
+citations: ["19 Jones & S. 295", "51 N.Y. Super. Ct. 295"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LUCY E. WHITE v. JAMES M. KANE."]
+source_url: "https://static.case.law/ny-super-ct/51/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1679301
+cites_cases: ["1 Barb. 75", "1 N. Y. 298", "11 Barb. 43", "13 Pick. 393", "16 Barb. 193", "16 N. Y. 257", "16 N. Y. 259", "18 Hun, 353", "2 Den., 430", "2 Johns. Ch. 614", "26 Barb. 356", "27 Hun 335", "32 Hun 46", "32 Hun, 46", "5 Hill, 206", "62 N. Y. 494", "71 N. Y. 104", "84 N. Y. 95", "85 N. Y. 146", "91 N. Y. 606", "92 N. Y. 250", "95 N. Y. 31"]
+---
+
+# White v. Kane
+
+## Majority (Van Vorst, J.)
+
+By the Court.
+Van Vorst, J.
+By force of the language of the testator’s will, above given, his lawful debts were charged upon the real estate devised to his wife.
+The existence of these debts however, did not prevent the vesting of the estate in the devisee. Seized of the estate, she had the right as devisee to convey the land.
+The gift of the land, charged with his debts, was made to her individually, and not as executrix. The will did not clothe the executrix with a power of sale. The proceeds realized on the sale of the land, she would be entitled to receive, and if the personalty was insufficient to pay the debts, she would be obliged to apply these proceeds of the real estate, to the payment of the debts. By the devise to her, of the land, subject to the payment of the debts, she would take and hold such proceeds, for the purpose of paying debts, and they could be reached in her hands to to that end. But a purchaser from the devisee, in good faith, would not be bound to look to it, that the moneys were so applied. This has been repeatedly decided in the English courts (Elliot v. Merryman, Barnardiston’s Ch. 78).
+A late case is Corser v. Cartwright, which went to the house of Lords. (See vol. 7, House of Lords Cases, 731.) There are numerous cases in the courts of this state, which treat more or less upon this subject. It is not necessary to refer to any other than Reynolds v. Reynolds (16 N. Y. 257), in which the rule is stated in harmony with the English cases, that “ where a testator devises real estate, after the payment of debts and legacies, it has been held that the real estate was charged.” Where there is a charge for payment of debts generally, followed by specific dispositions of real estate, the purchaser is not bound ‘.to see to the application of the purchase money. “The charge is equivalent to a trust, and the same effect will be given to it by a court of equity, as if a direct devise had been made to trustees for payment of debts” (1 Leading Cases in Equity [White & Tudor] page 88,4th Am. ed. m. p. 76, note to Elliot v. Merryman). The result of the rule in England is that where the debts are charged generally, they do not follow the land in the hands of a bona fide purchaser, otherwise however, where there is a charge of a specific debt or legacy. The reason for the distinction is stated in the cases.
+The rule is stated in 2 Perry on Trusts, § 802, and is sustained by the cases, that if a testator “ charges payments upon real estate, and then devises it, to be held absolutely, the devisee can sell the estate and give valid receipts and discharges for the purchase money.”
+But in this state, although the debts are charged generally, yet they become and remain hens on the devised land, and run with it, for the term of three years 0Code of Civil Procedure, §§ 2749, 2750). By section 2750 it is provided in substance, that any time within three years, after letters granted upon the estate of a decedent, an executor, administrator or a creditor of the decedent, may present to the surrogate’s court, a petition praying for the sale of the decedent’s real property for the payment of his debts, &c.
+The Revised Statutes contained similar provisions. Hyde v. Tanner (1 Barb. 75), decides that this creates, what is called a statutory lien for three years, running with the land, not only in the hands of the devisee, but in the hands of a purchaser from the devisee.
+After three years, however, the land is discharged of the hen, and the bona fide purchaser takes the same free and discharged from the debts.
+In Slocum v. English (62 N. Y. 494), Church, Ch. J., says: “The object of the statute was to fix a certain period after which bona fide purchasers would be protected, and actions might be maintained against heirs and devisees” (Jewett v. Keenholts, 16 Barb. 193 ; Parkinson v. Jacobson, 18 Hun, 353). This view was also advanced as late as February, 1884, in Smith v. Soper (32 Hun, 46), in which the general term of the second department say “the statute is based upon the principle that the purchaser having paid his money in good faith, it devolves upon the creditor to see that it is applied in payment of the debt of the testator, and upon the further principle that the creditors having three years in which to enforce their lien, if they neglect to do it within that time, bona fide purchasers shall not be prejudiced by such neglect.”
+In the case before us, when the plaintiff agreed to sell the land to the defendant, more than seven years had elapsed since the probate of the will, and the issue of letters testamentary. No delay appears to have been allowed in making and filing an inventory of the personal estate, and in administering it, or in proceeding to a final decree. The executrix seems to have made a full ex-Mbit of the condition of the estate for the guidance of creditors, and all concerned. No action or proceedMg of any kind, has been commenced in the surrogate’s court, or in any court, by any person for the sale of the real estate, for the payment of debts.
+Upon such state of facts it seems clear to us, that the devisee can give a good title, umncumbered by the debts of the testator. The statutory lien, so called, is at an end.
+Nor can creditors be prejudiced by the sale of the land. It is in fact a movement in the direction of paying the debt, by raising a fund for the purpose. The price agreed to be paid, is presumably the full value of the land. The creditors must look to it, that the proceeds go to the satisfaction of debts. In no other way than through a sale, can the real estate be utilized in favor of creditors.
+The objection to the title, therefore, that the real estate is incumbered by the debts of the testator, is not well taken.
+Nor does the objection that the widow was put to her election between the gift to her under the will, and her claim of dower, furnish any sufficient reason to question the goodness and completeness of the conveyance she proposes to make, or the title she has tendered.
+All that remains to her is m substance her claim of dower. The estate is insolvent. The testator presumably knew the condition of his estate, and the value of Ms gift to his wife.
+In the proceedings m the surrogate’s court, upon the settlement of her account as executrix, the plaintiff asserted her claim “as widow to her dower out of the proceeds of the real estate when sold.” She proposed “ to wait until the sale, and then have her dower-right adjusted.”
+The will does not declare that the devise was in lieu of dower. And when the condition of the whole estate is considered, the devise to her is not necessarily, or by implication, inconsistent with her claim of dower, to be adjusted and paid out of the proceeds of the sale. The claims of creditors must needs be adjusted out of the residue of the proceeds. They will look after that.
+The result reached is, that the objections taken by the defendant to the title, are not well founded.
+There should be judgment in favor of the plaintiff for a specific performance on the part of the defendant of the contract, with the costs of this action.
+Sedgwick, Oh. J., and Freedman, J., concurred.
