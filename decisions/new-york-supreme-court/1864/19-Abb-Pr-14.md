@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1864-12"
+citations: ["19 Abb. Pr. 14", "29 How. Pr. 6"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NIVER a. NIVER."]
+source_url: "https://static.case.law/abb-pr/19/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4639072
+cites_cases: ["1 Hill, 225", "17 How. 517", "2 Cow. 262", "2 Cow., 262", "32 Barb., 83"]
+---
+
+# Niver v. Niver
+
+## Majority (By the Court.—Peckham, J.)
+
+By the Court.—Peckham, J.
+The motion is made upon the ground that the defendant is not liable to be imprisoned upon an execution in this case. The complaint is for a wilful and wrongful injury to plaintiff’s property, which she obtained under the will of her father, and for wrongfully and wilfully depriving her of the use of certain parts of such property. The . complaint sets forth the will of her father, the injuries complained of, and then asks that the rights and interests of the parties to this action under said will (the defendant, her brother, being a’devisee therein), may be adjudged and determined; that the defendant may be required to remove certain obstructions he had interposed to her proper use of her property; that an injunction be issued against him enjoining him from interfering therewith, and for judgment for an injunction, and for damages to $500 for the said injuries, &c.
+The complaint sets up no alleged doubt or difference between the parties as to their true rights under said will; it presents no question of doubt, and it makes no allegation that the defendant did what he did, under a claim or pretence that he had the right so to do under said will; on the contrary, all the allegations on that subject are that he did the wrongs wilfully, wrongfully, and illegally.
+The gravamen of the action is the wrongs done to the plaintiff’s property. There is but one count, and that asks redress for past wrongs and protection for the future. Lambert a. Snow, 17 IIow., 517, has no application to such a case. There, there were two distinct causes of action, for one of which the defendant could be held to bail, and not for the other. Here are no two causes of action. The action is substantially for injuries, wilful injuries to plaintiff’s property. Nor have the other cases cited by defendant’s counsel any legitimate bearing here. (32 Barb., 83; 1 Hill, 225 ; 7 do., 182 ; or 2 Cow., 262.) This case comes within the plain provision of the Code, § 179, for injuring property.
+The order appealed from is affirmed, with $10 costs.
+Order accordingly.
+Present—Peckham, Miller and Ingalls, JJ.
