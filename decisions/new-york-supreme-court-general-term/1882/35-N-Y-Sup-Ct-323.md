@@ -1,0 +1,18 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1882-11"
+citations: ["35 N.Y. Sup. Ct. 323"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Manneck Manufacturing Company, Respondent, v. Emile A. J. Manneck, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/35/cases/0323-04.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1921360
+---
+
+# Manneck Manufacturing Co. v. Manneck
+
+## Majority
+
+Order affirmed, with ten dollars costs and disbursements. Opinion by Daniels, J.
