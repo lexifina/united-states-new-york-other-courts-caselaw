@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-09-25"
+citations: ["33 N.Y. St. Rep. 34", "11 N.Y.S. 249"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. The New York Phonograph Co., App’lt, v. Frank Rice, as Secretary of State, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/33/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2043009
+cites_cases: ["95 U. S. 319", "96 U. S. 499", "98 U. S. 359"]
+---
+
+# People ex rel. New York Phonograph Co. v. Rice
+
+## Majority (Learned, P. J.)
+
+Learned, P. J.
+Two corporations, theRew York Phonograph Gompany and the Metropolitan Phonograph Company, were organized under the manufacturing act of 1848, and its amendments ; the former for fifty years from October 4, 1888, the latter for fifty years from February 5, 1889. Each paid on its organization the tax of one-eighth of one per cent upon its capital pursuant to chapter 143, Laws of 1886.
+They entered into an agreement of consolidation in pursuance of chapter 960, Laws of 1867. The name of the company thús to be formed is the Rew York Phonograph Company; its capital . is the same as the aggregate of the two consolidating companies; its term of existence fifty years from October 4, 1888.
+The consolidating companies presented to the'secretary of state the requisite papers to be filed as provided by the statute. The secretary refused to file them on the ground that the tax of one-eighth of one per cent on the capital of the company to be formed had not been paid.
+This present proceeding is for a mandamus to compel the filing. The motion for a mandamus was denied by the special term and the relator appeals.
+The question hero involved arises under § 1, chap. 143, Laws of 1886. “ Every corporation * * * incorporated by or under
+any general or special law of this state having capital stock divided into shares shall pay to the state treasurer for the use of the state, a tax of one-eighth of one per centum,” etc., etc. There is no doubt that the corporatiou formed (or to be formed), by the aforesaid consolidation agreement has a capital stock divided into shares. Ror is there any doubt that it is incorporated (or to be incorporated), under a general law of the state.
+The right of the consolidated body to be a corporation comes from the law of the state permitting the consolidation. Without such law, the two companies could not consolidate. And that law, calling the consolidated body “the new company,” specifies in § 4 the corporate powers which it shall have. . It is too plain for argument that, without such law, an agreement of consolidation would not create any body having corporate powers, but would be invalid. Hence it must be that the corporation is-formed (or to be formed) under a general law of the state.
+But it is urged that the two consolidating corporations were corporate bodies in full and vigorous life, entitled to their franchises which they had obtained from the state and for which they had paid a tax, and that the new body is only a union of the two-with no new corporate rights and therefore liable to no new tax. It is true that the two consolidating bodies were corporations in full life, until they formed or should form the new corporation.. Then they ceased (or will cease) to exist. It was for this very purpose that they executed the agreement; the purpose to end their own existence and to form a new person. Whenever they form the new corporation, their own corporate existence ceases.
+' The new company is not a partnership of the two old companies. It is entirely a new corporation. Shields v. Ohio, 95 H. S., 319 ; Railroad Co. v. Georgia, 98 id.,’ 359 ; Railroad Co. v. Maine, 96 id., 499.
+The fifth section of the consolidation act expresses this where-it says that “ on the organization of such new company * * * all and singular the rights, franchises and interests of the said several corporations * * * shall be transferred to and vested in such new corporation * * * and such new corporation shall hold and. enjoy the same and all rights of property, etc., * * * in the same manner and to the same extent as if the said several corporations so consolidated should have continued to retain the title,” etc. If there were not a new corporation, it would be unnecessary to declare that the rights and franchises of the consolidating corporations should be transferred to- and vested in it.
+It is urged by the relator that by payment of the tax the consolidating companies purchased the right to be corporations, and, therefore, that they ought not to be compelled to purchase it again. But the payment of the tax is not the purchase of a right. Under our constitution and laws corporate rights are not special concessions by the state; but they are general privileges in the power of all citizens. And the tax is in no sense a purchase price. The companies have no greater rights when they have paid the tax than they had before. The companies which have paid the tax have no greater rights than those have which were incorporated before-1866, and therefore paid no tax.
+And this shows further that it is immaterial to the present inquiry whether or not the consolidating companies paid the tax. If these companies had been incorporated before 1866, and had entered into a similar agreement of consolidation, the legal question as to liability to this tax would be the same as in the present case. So, too, if one had been incorporated before and the other after 1866. The construction given to the law imposing the tax must be uniform. It cannot vary according as the consolidating companies have, or have not, been required to pay the tax.
+In short, where the language of the statute is clear, it is not for the court to say that a tax is unreasonable. It would have been easy for the legislature to insert in the consolidation act, or in the act imposing this tax, a clause exempting from such tax any corporation of which the consolidating companies or one of them had already paid a similar tax. But that was not done j and it would be judicial legislation for us to construe the statute as if such a clause had been inserted. We have only to inquire what the legislature meant. And they must be held to have meant what they said: It is true that the relator presents a strong equity when it urges that the tax has already been paid on the same amount of capital employed in the same business, and practically by the same parties. But we cannot yield to this equity in violation of the language of the statute. There is nearly always something arbitrary and inequitable in taxes and tariffs, which courts cannot remedy.
+The order appealed from is affirmed, with fifty dollars costs and disbursements.
+Landon and Mayham, JJ., concur.
