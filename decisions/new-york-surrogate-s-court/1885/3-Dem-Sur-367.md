@@ -1,0 +1,23 @@
+---
+court: "New York Surrogate's Court"
+decided: "1885-05"
+citations: ["3 Dem. Sur. 367"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Townsend v. Pell. In the matter of the estate of Alexander G. Mercer, deceased."]
+source_url: "https://static.case.law/dem-sur/3/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1138557
+cites_cases: ["2 Dem., 289", "31 Hun, 638"]
+---
+
+# Townsend v. Pell
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+This testator executed his will at Newport, R. I., in 1870, and thereafter resided in that city until November, 1882, when ' he died. He named Anna Pell as his executrix, and Edward King and Frederick W. Rhinelander as his executors, and directed that John J. Townsend should be substituted in place of any one of the three who should fail to qualify. At the time of his death he was possessed of no real estate in this county, and had no personal property here except moneys on deposit in certain banks and trust companies, and stocks and bonds in the custody of bankers. The will was proved, in -the probate court at Newport, Rhode Island, and letters testamentary were subsequently issued by that court to Mrs. Pell. Mr. Townsend made application for letters, as Mr. King had predeceased the testator; but, as the security required in such cases by the law of Rhode Island was not furnished, Mr. Townsend’s application was continued until the further order of the probate court; and no further order has as yet been made.
+On August 29th, 1884, Mr. Townsend filed with the Surrogate of this county an exemplified copy of the testator’s will and a decree of the probate court at Newport admitting it to probate, together with his petition praying for the probate thereof in this court and for issuance to him of letters testamentary. A decree was entered upon such petition in accordance with its prayer, and, on September 12th, 1884, letters testamentary were granted to Mr. Townsend. No citation was issued in that proceeding, and none was applied for, and no notice was given to Mrs. Pell, or to any other person, that such proceeding had been' instituted. Mrs. Pell now seeks to set it aside. She alleges—and her allegation is not disputed—that soon after she had qualified as executrix, and before Mr. Townsend filed his petition with the Surrogate, she came to New York and reduced to her possession, as executrix, all the assets of her testator’s estate that were within this county, collecting all sums of money here held upon deposit for his account, and taking into actual manual custody all bonds and certificates of stock belonging to the estate.
+There is nothinsc in the averments of Mr. Townsend’s affidavit respecting the action of the executrix in subsequently placing these assets, or a portion of them, in the custody of Mr. Griswold, inconsistent with Mrs. Pell’s claim, that, at the time of the filing of Mr. Townsend’s petition, there were no unadministered assets, and that there are now no unadministered assets, belonging to the testator’s estate within the jurisdiction of this court. I am, therefore, of the opinion that, at the time of entering the decree herein, and of the granting of letters testamentary, the Surrogate was without authority in the premises (Evans v. Schoonmaker, 2 Dem., 289; affi’d on appeal, Matter of Schoonmaker, 31 Hun, 638).
+The application of Mrs. Pell is, therefore, granted, and that of Mr. Townsend, denied.
