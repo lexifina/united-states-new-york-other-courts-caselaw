@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05"
+citations: ["85 N.Y. Sup. Ct. 363"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Follett and Parker, JJ., concurred."]
+parties: ["Charles M. Ward, Appellant, v. New York Life Insurance Company, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0363-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4723223
+---
+
+# Ward v. New York Life Insurance
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+It will not be necessary in the disposition of this appeal for this court to pass upon the question as to the rights of the parties arising out of the discharge of the plaintiff from the employment of the defendant,, because a discussion of such rights might lead to conclusions as to the views of this court upon the merits of this action, which might be modified, had it the facts before it as they may be established upon the trial. •
+It is evident that there is no absolute right upon the part of this plaintiff to have an inspection of the books of the defendant, in order that he may frame a complaint with more particularity than he would be able to do without such an inspection. And where it is apparent that such an inspection would be a great hardship if it should be finally determined that the plaintiff has no right of recovery, an order of that description should not be granted unless the same is absolutely necessary to the framing of the plaintiff’s complaint.
+In the case at bar the first issue which is presented is as to the right of this plaintiff to any relief whatever; and until that is determined it would seem that this extreme right of inspection of an adversary’s books should not be granted. The plaintiff in this action may allege his rights in such a form that upon establishing his right to a recovery he would be entitled to an accounting; or he may assert his rights by such a complaint that the court would have no power as matter of right to compel an accounting by an interlocutory judgment.
+It seems to us, however, that absolute justice will be done between the parties if we place them in such a position that if the plaintiff establishes his right of recovery an opportunity to get the evidence which he now seeks will be given him.
+We think, therefore, if the defendant stipulates that it will consent that the issues which are raised by the plaintiff’s complaint and its answer may be referred in case the plaintiff so desires, that the order appealed from should be affirmed; because upon a trial in such a forum the question of the plaintiff’s right to recover can be first determined, and if it is held that he has such right, facilities for proving the amount of his claim by the defendant’s books will be within his reach. We adopt this method of disposing of the appeal the more readily because it is apparent that it will be impossible to try the issues involved before a jury if the plaintiff succeeds in maintaining his right to a recovery.
+Upon the defendant giving the stipulation in question the order appealed from should be affirmed, with ten dollars costs and disbursements.
+Follett and Parker, JJ., concurred.
+Upon defendant stipulating as directed in opinion order affirmed, with ten dollars costs and disbursements.
