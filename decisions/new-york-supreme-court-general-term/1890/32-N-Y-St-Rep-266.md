@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-06-19"
+citations: ["32 N.Y. St. Rep. 266"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isaac M. Adams, App’lt, v. Charles M. Speelman, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0266-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040109
+cites_cases: ["39 Hun, 35"]
+---
+
+# Adams v. Speelman
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+This action was brought to recover damages for the wrongful taking and detention of certain personal property, consisting of two colts three years of age, one set of double harness, a yoke of oxen, and one pair of bob-sleighs.
+The answer justifies the taking and withholding of such property by virtue of a levy under attachments against the property of one Perry Adams, the father of the plaintiff, and one John Adams, sued out at the instance of the First National Bank of Penn Yan, and that such property was then owned by the defendants in that action and not by this plaintiff.
+On the first trial of this action, the orders of' attachment, by which the defendant claimed to have levied upon the property, were excluded by the court. On appeal from an order denying the defendant’s motion for a new trial, this court held, 39 Hun, 35, that the levy under the warrants of attachment was sufficient under subd. 2, § 649, of the Code of Civil Procedure, and that the direction of the Code, that a delivery of a copy of a warrant and the affidavits upon which it was granted should be made without delay to the person from whose possession the property was taken, was directory only, and a failure to comply therewith was a mere irregularity which did not destroy the effect of a levy if otherwise valid.
+The question there decided has been again reargued in the briefs, but we must adhere to the former conclusion of the court thereupon. Upon the trial, which we are now called upon to review, there was presented a question of fact for the consideration of the jury, and their determination of it appears to have been well sustained by the evidence.
+We have examined in detail the several exceptions taken by the plaintiff during the trial, but find in them nothing which goes to the merits of the case, or which would warrant the court in „ granting a new trial.
+The order appealed from should be affirmed, with costs.
+Dwight, P. J., and Corlett, J., concur.
