@@ -1,0 +1,34 @@
+---
+court: "New York Superior Court"
+decided: "1870-03-05"
+citations: ["2 Sweeny 252", "32 N.Y. Super. Ct. 252"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EGISTO P. FABBRI et al., Plaintiffs and Respondents, v. MARTIN KALBFLEISCH et al., Defendants and Appellants."]
+source_url: "https://static.case.law/ny-super-ct/32/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1421129
+cites_cases: ["13 Abb. Pr., 142", "17 Wend., 305", "19 N. Y., 172", "34 N. Y., 656", "52 Barb., 217", "7 Wall., 251"]
+---
+
+# Fabbri v. Kalbfleisch
+
+## Majority (Jones, J.)
+
+By the Court:
+Jones, J.
+The important question in this case is whether the contract between the parties was to be carried out on a gold or currency basis. If on the former, then the accounts should have been kept in gold, if on the latter, then in currency.
+It must have been present in the minds of both parties that the payment for the merchandise to be bought would have to be paid for in sterling, and that the sterling would have to be bought with gold. If there were no other considerations to be taken into view it would be apparent that plaintiff would be bound to advance the gold for the purchase of the sterling, and could only charge the defendants with the amount so advanced at its face. But it was also equally present in the minds of the parties that there existed two currencies—one of gold and one of paper; that the paper currency was called "into existence by the authority of the United States Grovernment to meet an. exigency for which the supply of coin was inadequate; that in meeting this exigency the paper currencynecessarily became the medium through which munitions of war were to be furnished, armies levied, provisioned, clothed, and paid, and mercantile and monetary business was to be transacted within the United States; that as a necessary consequence of this, when the use of the gold currency became necessary for foreign or governmental transactions, it would have to be purchased with the paper currency the same as any other commodity; and as a further consequence of this, that every dollar of gold currency purchased would cost more than a dollar of the paper currency.
+"When a contract made subsequent to the calling into existence of the paper currency "does not specifically provide (as the one in question does not) for the transaction of the business under it (including therein the charges to be made, the credits allowed, computations to be made, and accounts kept), it must be presumed that such business is to be transacted in that currency which had been called into existence by the United States Q-overnment, and which was necessarily and universally adopted as the medium through which to transact all mercantile and monetary business within the United States—to wit, the paper currency.
+This is one of the results of the decisions holding that there-exists in the United States two distinct kinds of currency authorized and established by its laws—the one a specie currency, and the other a paper currency.
+It follows from the above views that the charges are properly made in the paper currency value of the gold used and advanced by plaintiff at the time the same was so used and advanced, and that the credits are properly allowed at the paper currency value of the gold received from defendants at the time of the receipts. The paper currency thus charged constitutes, within the purview of the agreement, the cost of the merchandise on which the commissions are to be charged, and they are to be charged in paper currency.
+The circumstances under which the over-payments were made were such as not only to justify the plaintiffs in making them, but to render it their duty to make them.
+As they simply performed their duty in this respect they should fee exonerated from loss to arise therefrom. Under the view above taken of the contract, these over-payments are properly charged against the defendant at the currency value at the time they were made, and properly credited at the currency value at the time of repayment.
+It is not, however, perceived on what principle a party who procures his own goods to be insured and pays the premium of insurance thereon is, in the absence of an express contract to the contrary, not entitled to all the benefits springing out of such insurance.
+A custom was endeavored to be proved to the effect that, as to some of these benefits—to wit, the insurance scrip issued in respect of the insurance—he is not entitled to them, but that his agent who procured the insurance for him is. Such custom cannot be allowed to overrule the principles of law which would otherwise be applicable.
+It was sought to found the custom on the ground of the right to receive the scrip being the compensation in part for the services of the agent in procuring the insurance and in attending to the collection of the loss if any should occur. Such a foundation is unsubstantial. It would make the compensation depend not on the intrinsic value of the service, but contingently on the prosperity of the company whereby profits might become divisible among the holders of the scrip. Thus, for services of equal value an agent in one case would receive nothing from his scrip, and in others divers sums varying in amount. A custom which introduces such a sliding scale of compensation for services of equal value cannot be said to be well founded, and should not be .allowed to obtain.
+If, however, this foundation were sufficient to support the custom, yet the contract in question provided for the compensation of plaintiffs in procuring insurance, and that provision includes any further compensation, whether by custom or otherwise.
+Under a certain state of facts these plaintiffs might perhaps be entitled to the scrip. For instance, if they had given to the insurance company their advance premium notes for a large amount, upon which they were liable to be assessed for the whole amount thereof although no premium had been earned, here they might be said to be entitled to the profits earned, because the sharing in the profits depends not on the payment of premiums, but on the advance to the company of the credit of the giver of the note to be used in the prosecution and furtherance of the business which creates the profits. Such a state of facts does not appear in this case.
+The defendants consequently are entitled to be allowed for the value of the scrip, which is $508.
+The judgment reversed, order of reference vacated, and new trial ordered, with costs to the appellant to abide the event, unless plaintiffs stipulate to reduce the judgment by $508. If plaintiffs so stipulate, then judgment affirmed, without costs of appeal.
