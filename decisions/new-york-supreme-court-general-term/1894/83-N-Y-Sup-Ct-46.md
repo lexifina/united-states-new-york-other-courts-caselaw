@@ -1,0 +1,54 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-02"
+citations: ["83 N.Y. Sup. Ct. 46"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman, J., concurred; Cullen, J., concurred in the result.", "Order to be settled by Pratt, J."]
+parties: ["Henry A. Bowerman, Respondent, v. Warren D. Bowerman and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/83/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4720713
+---
+
+# Bowerman v. Bowerman
+
+## Majority (Pratt, J.:)
+
+Pratt, J.:
+This action is brought to set aside a deed made in 1884 by the plaintiff to William D. Bowerman, deceased, and for a co-partnership acounting.
+It is alleged that in 1882 William D. Bowerman fraudulently represented that an indebtedness of $12,000 existed in his favor and against the plaintiff; that plaintiff believed the statement and executed the conveyance in discharge of the alleged indebtedness, which, in fact, had no existence.
+William D. Bowerman died in September, 1891, and in November, 1891, this action was begun.
+In 1882 the plaintiff and William D. Bowerman had been co-partners for about thirty years, and had also had many outside speculations apart from the firm affairs. During most of that time, and until 1879, they resided with their mother, and the evidence shows that their evenings were generally spent with her, and their business affairs were a principal subject of their evening conversations, in which their mother freely and intelligently participated, the sons consulting the mother about their business.
+In 1882 William D. Bowerman claimed that plaintiff was in his debt $12,000. Plaintiff was somewhat surprised.
+William told his brother Benjamin, also a partner, that plaintiff owed iiim (William) $12,000. Benjamin was very much surprised.
+A few days later, William, in presence of Benjamin and of W. S. Childs, their cousin, who was familiar with their speculations, gave plaintiff a statement which purported to show how the indebtedness arose. Childs examined the statement and plaintiff had a conversation with him on the subject that may have lasted five or ten minutes.
+Plaintiff does not remember how long he kept the paper, but thinks two or three days; “ he probably put it in his pocket and looked it over.”
+He afterwards gave it back to William and has not seen it since. After examination he believed that he owed William the $12,000, and suggested that the claim be discharged by a deed of the "Westchester property. This was plaintiff’s own offer, and it is clear that William was in no haste to profit by it, for two years elapsed before the deed was executed which is now the subject of attack.
+The claim is now made that William’s statement of a balance due him from Henry was willfully' false, and plaintiff asks that the account thus stated be opened and the deed by which it was settled be set aside.
+To open an account stated it is usually required that the account be produced, the errors pointed out; whatever has been entered in error or wrongfully omitted being shown, the necessary rectification can be made, and, so far as not impeached, the account will stand as stated.
+In the present case the account is not produced and the parties who examined it do not claim to remember any of the items. Obviously it must have been a statement which, if true, would prove the $12,000 debt, and the plaintiff testified that he believed -it to be true. It cannot be said that he was hasty in acting upon his belief, for it was two years before he made his deed, and apparently no thought of questioning the deed or the account stated occurred to plaintiff until after his brother’s death.
+The ground upon which we are asked to find the account stated to be false and fraudulent is that an examination now made of such accounts as can be found is said not to show the• plaintiff indebted to William, but the contrary.
+If. none but firm transactions had taken place between the partners there would be considerable force in the argument, for the firm books were regularly kept by expert bookkeepers; they were constantly open to the inspection of all the partners ; trial balances were prepared and given to each partner twice a year, and in the ordinary course of business a correct record would be made of firm transactions, and any error would be discovered, if not before, when the trial balances were inspected by the partners. But the force of this argument in the present case is diminished when we learn that the plaintiff and William H. Bowerman had numerous and important speculations in whieli large sums were invested which had no connection with the partnership, and of which slight trace, if any, can be found in the firm books. They were not reported to the bookkeepers, and outside of the two persons directly interested no one seems to have had much knowledge of them, if we except their mother, who died in 1879.
+The records which exist and have been produced upon the trial obviously fail to afford the complete knowledge which would be requisite to accurately state the condition of the accounts in 1882, at the time the account was stated, or in 1881, when the indebtedness then said to exist against the plaintiff was discharged by the conveyance now attacked.
+The transactions upon which that account rested and to investigate which an attempt has been made are ancient.
+The Metropolitan Collar Company business, from which the referee finds a present indebtedness in favor of the plaintiff of $28,000, was closed in July, 1868. It was not a partnership transaction, and the books show the Bowerman interest was then disposed of, and show little more.
+The commercial warehouse investment was not a partnership matter, and was closed in 1873. In that matter the firm books contain entries to the amount of $2,000 only, and from that matter the referee finds an indebtedness in favor of the plaintiff of $100,000.
+From a real estate sale in 1869 an indebtedness is spelled out. of $9,700.
+From the Manhattan Market business, closed in 1873, an indebtedness is found of $25,000.
+From such investigation as he has been able to make of a great number of transactions, including the foregoing, extending from 1852 to 1882, the referee has concluded not only that the sum of $12,000 was not, in fact, owing from the plaintiff to William D. Bowerman in 1882, and that the deed executed in 1881 must be set aside and the proceeds of the property conveyed, now amounting to $60,000, must be paid to plaintiff, but that other valid claims exist in favor of the plaintiff, in whose favor judgment is given for $161,000, against the heir and executrices of William D. Bowerman.
+The whole foundation of this judgment rests on the assumption that it is now possible for strangers to ascertain the exact facts of transactions taking place between two parties from twenty-five to forty years ago, where one of the persons is dead and the other claims to liave been always ignorant, and where, if full accounts of the transactions were ever kept, they cannot now be found.
+We do not think such possibility exists. We do not think it proved that the account stated in 1882 was fraudulent, nor erroneous. If it was glaringly wrong it would have provoked suspicion and investigation.
+The statement of the amount due was made openly and in presence of plaintiff’s friends. The written account in support of the claim was delivered to plaintiff in presence of his friends.
+No suggestion is made that any desired information was asked for and refused, and two years elapsed before the debt was paid. These are not indications of fraud, but the reverse.
+As most of the important items litigated, some of which we have cited, antedated 1882, it follows that they were allowed in and concluded by the settlement then made.
+We think an error was committed in excluding evidence of William D. Bowerman’s reputation for honesty, integrity and general reputation of character during his lifetime.
+The contention of plaintiff is that during a long term of years a man, now deceased, carried out a comprehensive and consistent scheme of fraud, involving enormous sums. The evidence was circumstantial. One of the witnesses was the j>laintiff, and another principal witness was plaintiff’s brother, who might reasonably have expectations of benefit from a recovery by plaintiff.
+Such writings as were produced came from plaintiff’s custody. The transactions were ancient.
+It is not usually the case that men with a reputation for honesty and integrity embark in a scheme of persistent fraud, and if they do, it is not often that they can carry it on for years without discovery. Under the circumstances of this case we think the testimony admissible, and its exclusion error.
+Judgment must be reversed upon both law and fact, and a new trial had before another referee, with costs to abide the event.
+Let the order be settled on notice.
+Dykman, J., concurred; Cullen, J., concurred in the result.
+Judgment reversed and new trial granted, with costs to abide the event..
+Order to be settled by Pratt, J.
