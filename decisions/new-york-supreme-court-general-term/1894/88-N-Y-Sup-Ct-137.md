@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-10"
+citations: ["88 N.Y. Sup. Ct. 137"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Haight, JJ., concurred."]
+parties: ["The People of the State of New York, Respondent, v. Edward Hodnett, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/88/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4740877
+cites_cases: ["112 N. Y. 117", "20 N. Y. Supp. 332", "41 N. Y. St. Repr. 170"]
+---
+
+# People v. Hodnett
+
+## Majority (Bradley, J.:)
+
+Bradley, J.:
+In this action, prosecuted by one of the assistants of the State Dairy Commissioner, the defendant was charged with bringing to the Filmore Cheese Factory in Allegany county, adulterated and. impure milk to be made into cheese, in violation of the “ Act to prevent deception in the sale of dairy products, and to preserve the public health.” (Laws of 1885, chap. 183.) The trial resulted in a. verdict for the defendant and a judgment in his favor for costs. He seeks to have his costs awarded against the county of Allegany, pursuant to the statute, which provides that in an action brought in the name of the People of the State to recover money or property, or to establish a right or claim for the benefit of a county, “ costs shall not be awarded against the People, but where they are awarded to the defendant they must be awarded against a body for whose-benefit the action or special proceeding was brought.” (Code Civ.. Proc. § 3213.)
+The State Dairy Commissioner is charged with the enforcement, of the provisions of the act (Laws of 1885, chap. 183, §§ 12, 19; Laws of 1887, chap. 583, § 2), and. the expenses incurred in the discharge of his duties are paid from, the State treasury. No duty is by the statute devolved upon the officers of any county as such to prosecute actions against those violating its provisions. The money obtained on recovery is, however, divided equally between the State and city or county where the prosecution is had (Laws of 1886, chap. 577, § 5), except that money recovered in actions prosecuted by a citizen of the State is divided equally between him and such city or county. (Id. §§ 6, 25.) The products of cheese factories are articles of commerce, go into the markets of the country, and are dealt out to the public through the retail trade in the towns, villages and cities, of the State. The resulting benefits contemplated by the provisions of the act, in their observance and enforcement, are to the community at large, and they are not necessarily any less to other counties than to those within which the prosecutions are had. The penalty is not.imposed as a benefit, but is a means prescribed to render the beneficial purposes in view impressive and effectual. The recovery of it, therefore, is merely incidental to the object to be attained, and the contribution to the county whose courts are employed to determine such prosecutions is quite reasonable.
+It is urged that, for the purposes of the relief sought, it is-sufficient that the object of the action was to benefit the county in any degree.
+The protection of the public health is an aim of the act. The-people of the county where the prosecution is had participate in the benefits in that respect, as well as in the money which may be derived from a successful result of such prosecution. But the sanitary advantages to the county are in common with those to other portions-of the State. The reasonable intendment of section 3243, before mentioned, is that the benefit there referred to is one peculiar to the county in its relation to the main object sought to be attained by the prosecution of the action, and it is then that the burden of the costs awarded to defendants resulting from the unsuccessful prosecution of actions is cast upon the county. Then, it may be assumed, that actions would and should be somewhat under the control or direction of the local official authorities.
+They do not necessarily have any such relation to those prosecuted pursuant to the act in question, and, as has been observed, the recovery of the penalty is not the chief purpose of it or the ultimate object in view by the prosecution of actions therefor. The purpose is well expressed in the title before mentioned of the act.
+In People v. Alden (112 N. Y. 117) it was held that the costs were necessarily awarded against the county of Warren, because the statutes under which the action was brought “ assume that the protection of game and the enforcement of the game laws is a county interest.” To the same effect is People v. Smith (20 N. Y. Supp. 332; 41 N. Y. St. Repr. 170).
+That interpretation cannot, we think, be given to the Dairy Act, and, therefore, those cases do not seem to aid the defendant in the present case. The view taken is that the county of Allegany is not chargeable with his costs.
+The order appealed from should, therefore, be affirmed.
+Dwight, P. J., Lewis and Haight, JJ., concurred.
+Order appealed from affirmed, without costs of this appeal to either party.
