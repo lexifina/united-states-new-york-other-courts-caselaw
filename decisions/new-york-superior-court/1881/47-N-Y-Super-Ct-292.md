@@ -1,0 +1,32 @@
+---
+court: "New York Superior Court"
+decided: "1881-04-04"
+citations: ["15 Jones & S. 292", "47 N.Y. Super. Ct. 292"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AUGUSTA GERLACH, Adm’r’x, &c., Respondent, v. JOHN H. EDELMEYER, et al., Appellants."]
+source_url: "https://static.case.law/ny-super-ct/47/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1669993
+cites_cases: ["1 Daly, 502", "3 Hun, 462", "31 Penn. 512", "35 N. Y. 27", "57 N. Y. 108", "57 N. Y. 567", "74 N. Y. 609", "8 Ind. 127", "80 N. Y. 212"]
+---
+
+# Gerlach v. Edelmeyer
+
+## Majority (By the Court.—Trttax, J.)
+
+By the Court.—Trttax, J.
+The learned counsel for the defendants, at the close of the testimony for the plaintiff, moved to dismiss the complaint on the following grounds: First; that the evidence showed that at the time of the injury defendants’ elevator was hired to, and was in the possession of, and subject to the control of third partiesand while it was so hired and under such control, defendants were- not answerable for any accident or injury resulting from its use. Second ; it was an act of negligence per se, for plaintiff’s intestate to pass under the elevator while it was in motion. Third ; that there was not sufficient evidence to be submitted to the jury of negligence on the part of the persons having charge of the elevator while it was in 'motion. Fourth; that the plaintiff’sintestate and the person running the elevator were so engaged in a common employment, that each, so far as his immediate employer or that of the other was concerned, took upon himself the risk of injury by the other’s negligence, without recourse to such employer.
+The motion was denied and the defendants duly excepted. The motion was renewed at the close of the case, with the same result.
+I am of the opinion that the motion to dismiss the complaint on the first ground was rightly denied. Dittmer, through whose negligence the accident happened, was the defendants’ servant, paid by and controlled by them. They hired him; they could discharge him. This is the true test by which to determine who is the master, and consequently, who is liable to the party injured (Crockett v. Calvert, 8 Ind. 127 ; Samuel v. Wright, 5 Esp. 263; Quarman v. Burnett, 6 Mees. & W. 499 ; Michael v. Stanton, 3 Hun, 462; Annett v. Foster; 1 Daly, 502, and cases there cited).
+I am also of the opinion that it was not in itself an act of negligence for the plaintiff’s intestate to go under the elevator, at the time and under the circumstances disclosed on the trial. The testimony shows that the intestate was told by the defendants’ servant' that he might go under, and that he had done so several times before the accident happened.
+Contributory negligence consists in a want of ordinary care on the part of the person injured, which want of care is the immediate and proximate cause of the injury complained of (Wasmer v. Del., &c. R. R. Co., 80 N. Y. 212).
+Any person that is injured contributes something to the injury—he contributes the body that receives the blows, if nothing more. But this is not the kind of contribution that the law means. The law is well stated in Shearman & Redfield on Negligence (§ 25), as follows : “One who is injured by the mere negligence of another cannot recover at law, or in equity, any compensation for his injury, if he by his own, or his agent’s, ordinary negligence, or willful wrong, proximately contributed to produce the injury of which he complains, so that but for his concurring and co-operating fault the injury would not have happened to him; except where the more proximate cause of the injury is the omission of the other party, after becoming aware of the danger to which the former is exposed, to use a proper degree of care to avoid injuring him.” See also on this point, Radby v. London, &c., 1 App. Cas. 754; 18 Eng. Rep. 37.
+Ordinary care is such a degree of care, skill and diligence, as men of ordinary prudence, under similar circumstances, usually employ (Brown v. Lynn, 31 Penn. 512), and it is to be determined with reference to all the attendant circumstances of the transaction (Ernst v. Hudson River R. R. Co., 35 N. Y. 27).
+The evidence in the case at bar shows that Dittmer, in substance, had told the intestate that he might go under the elevator. If Dittmer had been more careful the accident would not have happened. He testified that he never saw such an accident before. The intestate, therefore, exposed himself to no danger from the ordinary working of the elevator.
+The learned judge charged the jury, among other things, in substance, that if the intestate went under the elevator in the course of his employment, at a time when the engineer (Dittmer) had told him he might go, the mere fact that he went under the elevator was not of itself contributory negligence. " To this the defendant excepted. The judge, in a subsequent portion of his charge, left the question of the intestate’s negligence to the jury. It was not error to charge as was charged, nor was it error to refuse to charge that the intestate’s negligence contributed to the injury, and therefore the plaintiff could not recover (Hawks v. Winans, 42 Super. Ct. 451; affirmed, 74 N. Y. 609).
+The motion to dismiss the complaint on the third ground was rightly denied. The learned judge charged that, prima facie, the accident happened through Dittmer’s negligence, and that the burden of proof was on the defendants to show that Dittmer was not negligent. This, I think, is a correct statement of the law in this case. The elevator was under the management of the defendants’ servant, and in the ordinary course of events the accident would not have happened, if their servant had been careful. The happening of the accident, therefore, affords evidence, in the absence of explanation, that the accident happened from want of care (Mullen v. St. John, 57 N. Y. 567, and cases there cited ; Thompson on Negligence, 1227 et seq.).
+The motion to dismiss on the fourth ground was rightly denied. The intestate and Dittmar were not fellow-servants, nor were they engaged in a common employment (Svenson v. Atlantic Mail, 33 Super. Ct. 277 ; affirmed, 57 N. Y. 108 ; and cases there cited).
+The judgment and order are affirmed, with costs.
+Sedgwick, Oh. J., concurred.
