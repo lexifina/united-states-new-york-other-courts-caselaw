@@ -1,0 +1,27 @@
+---
+court: "New York Superior Court"
+decided: "1891-02-02"
+citations: ["39 N.Y. St. Rep. 279"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harrison B. Mixer et al., Pl’ffs, v. Nickolaus Schreiner, Def't."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061698
+---
+
+# Mixer v. Schreiner
+
+## Majority (Titus, J.)
+
+Titus, J.
+—Section 537 of the Code of Civil Procedure provides that: “If a demurrer, answer or reply is frivolous, the party prejudiced thereby * * * may apply to the court, or to a judge of the court, for judgment thereupon, and judgment may be given accordingly.”
+The answer does not deny any of the allegations of the complaint, but alleges that the plaintiff ought not to maintain this action as to the moneys claimed to have been incurred by them for protest fees, as stated in said complaint, in that the defendant was and is the maker of the note described in said complaint
+I shall dispose of this question upon the theory that the plaintiff did not necessarily incur the protest fees, the defendant being liable without that formality, as he was the maker of the note.
+The complaint, upon its face, claims $1.30 for the protest, and the,; plaintiffs’ right to recover depends upon the complaint itself, and became a question of law and not one of fact.
+The answer alleges no new matter, but objects to the plaintiffs’ right to recover more than the amount of the note and interest Ho issue of fact is raised, there is nothing for a court or jury to try, and consequently the answer, which is a pleading designed to raise an issue of fact, is not the proper mode of raising the question on the complaint. The only pleading on the part of the defendant is either a demurrer or an answer. Sec. 487, Code.
+The answer must contain a general or specific denial of each material allegation of the complaint controverted by the defendant, or a statement of any new matter constituting a defense or counterclaim. Sec. 500, Code.
+The answer in this case does neither; it is not a denial of any of the allegations of the complaint and does not contain a statement of any new matter constituting a defense or counterclaim. The other pleading mentioned in the Code is a demurrer, and among the several grounds specified in § 488 of the Code of Civil Procedure, the eighth is the only one having any application here. It provides as a ground of demurrer that the complaint does not state facts sufficient to constitute a cause of action. A liberal construction of this section might possibly enable the defendant to demur, for the reason that the facts stated in the complaint do not legally warrant the amount of judgment claimed in the prayer for relief; but it seems to me the better practice would be for the defendant to offer to allow the plaintiff to take judgment for the hum which he concedes himself to be liable for. No additional burden is imposed upon the defendant if the plaintiff accepts, and if he fails to obtain a more favorable judgment, he cannot recover costs from the time of the offer, but must pay costs from that time. Sec. 738, Code.
+This would be so no matter what steps the defendant might be compelled to take to protect himself against an unwarranted demand by the plaintiff in his complaint; the statute discourages litigation and punishes the party with costs who unnecessarily causes it.
+I think, therefore, the plaintiff must have judgment for the amount claimed, less the sum of $1.30 claimed as protest fees; this without costs of this motion.
