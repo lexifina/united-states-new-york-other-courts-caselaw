@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1874-01"
+citations: ["2 Thomp. & Cook 568"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Appleton v. Bowles et al, appellants. Miller v. Bowles et al, appellants."]
+source_url: "https://static.case.law/thomp-cook/2/cases/0568-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4460916
+cites_cases: ["20 How. 583", "38 How. 341", "6 Blatchf. 156"]
+---
+
+# Appleton v. Bowles
+
+## Majority (Donohue, J.)
+
+Donohue, J.
+Alvah Miller, on the 13th day of November, 1872, on a proper affidavit and papers showing a cause of action against the defendants herein, Bowles Brothers, applied to Hon. E. L. Eancheb, a justice of the court, for, and obtained an attachment against the property of the defendants, as non-residents, and under the attachment certain property was attached in that suit, and the action proceeded to judgment.
+The plaintiff, Appleton, on the 21st of November, 1872, applied to this court on proper process, the defendants, appearing, and asked for a receiver of the partnership effects, claiming to be a special partner,, and also asking a dissolution and accounting. On that day the order was made appointion a receiver, and on the 27th of January, 1873, a final decree dissolving the partnership and continuing the receiver was entered in this cause. Prior to the last order, on the 30th of November, 1872, and on cause "shown therefor, this court directed the sheriff to have the property attached in the suit of Miller, turned over to the receiver, subject to the rights acquired by the sheriff, and the plaintiff in the suit of Alvah Miller; Judge Eancheb, in his opinion on that motion, expressly holding that this possession of the receiver must be subject to the lien of the attaching creditors * *- * and they must be paid in full in the order of the liens of the attachments.
+On February 3, 1873, a petition in bankruptcy against Bowles Brothers was filed in Massachusetts and an assignee appointed under proceedings thereunder, March 17, 1873. On the 9th of April, 1873, the receiver applied to this court for an order directing him to deliver the assets in his hands to the assignee in bankruptcy. The court on the motion in substance ordered him to hold the funds until the further order of the court. The attorney for the plaintiff ' Appleton then applied to the court to vacate the decree in this suit and to direct the receiver to deliver the assets to the assignee; this motion was denied and A. Gordon Bowles appealed. The assignee in bankruptcy, though heard on the motion, did not appeal. The appeal was heard and the order affirmed. The plaintiff, in the suit of Alvah Miller, having obtained judgment, applied to this court to be paid out of the money in the receiver’s hands, which motion was granted and an appeal taken. In this appeal defendants and the plaintiff, Appleton, and also the assignee in bankruptcy join.
+The first ground of appeal would seem to be that the bankrupt court, having taken possession of the estate under proceedings, takes from this court all further authority in the matter, and that all the assets must be handed over to such assignee, no matter what ,may be the question litigated here. This is a mistake; this court and its receiver first obtained the possession of the property and control of the litigation and has .the .right to finish its proceedings before being interfered with by any other jurisdiction. Taylor v. Canyl, 20 How. 583, and cases there cited. If the assignee has rights or is entitled to the fund, his title and right, can be and will be disposed of by this court as the law shall direct.
+The next ground on which the appeal is pressed is, that the levy on the attachment is void under the bankrupt act, and thus this court will not give to the petitioner Miller a preference prohibited by that act, and if the case presented facts showing such prohibited preference, this court would be bound to protect the assignee against it. Whatever may have been the opinion on or course of decisions heretofore on that point, we suppose the case, of Wilson v. City Bank of St. Paul, 9 Alb. Law Jour. 77, decided by the supreme court of the United States at its present term, is decisive on the question. In the opinion of the court delivered by Mr. Justice Miller, in which he thoroughly examines the point, he holds that liens by attachment or execution, obtained prior to the proceedings in bankruptcy, in State courts are valid and take preference to the claim of the assignee unless an intent to evade the bankrupt act is shown, and that the fact of taking steps to obtain satisfaction by the ordinary course of law, with a knowledge on the part of the creditor that the debtor is insolvent, is not evidence of such improper intent, and' that, in the absence of any further facts, the party who obtains such preference can hold it. As on this point the. opinion is conclusive in this court, it follows that the preference obtained by Miller was valid, and the ordér directing payment to him out of the fund obtained from the property to be attached must be affirmed.
+Davis, P. J., and Daniels, J., concurred.
+Order affirmed.
