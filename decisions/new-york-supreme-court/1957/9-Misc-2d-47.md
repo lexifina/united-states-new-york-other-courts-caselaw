@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1957-10-08"
+citations: ["9 Misc. 2d 47"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Grove Hill Realty Company, Plaintiff, v. Ferncliff Cemetery Association et al., Defendants."]
+source_url: "https://static.case.law/misc2d/9/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1019545
+cites_cases: ["1 AD 2d 665", "2 A D 2d 653", "2 N Y 2d 484", "208 Misc. 217", "245 App. Div. 573", "276 N. Y. 198", "3 A D 2d 815", "9 Misc 2d 73"]
+---
+
+# Grove Hill Realty Co. v. Ferncliff Cemetery Ass'n
+
+## Majority (George M. Fanelli, J.)
+
+George M. Fanelli, J.
+In this action for a declaratory judgment, defendant Cemetery Board of the State of New York (hereinafter referred to as the “Board”) moves to dismiss the complaint because of legal insufficiency pursuant to subdivision 4 of rule 106 of the Rules of Civil Practice.
+The material facts do not appear to be in dispute. The complaint alleges that in 1910, plaintiff sold and conveyed certain land to defendant, Ferncliff Cemetery Association (hereinafter referred to as “ Ferncliff ”), and that simultaneously therewith it entered into a written agreement with defendant, Ferncliff, wherein it was agreed, inter alia, that in consideration of said conveyance said defendant would upon the sale of plots to the public pay to plaintiff one half of the proceeds of each sale. It appears that said parties have honored the terms of said agreement throughout the years, but that defendant, Board, has recently notified defendant, Ferncliff, that by reason of an amendment to section 87 of the Membership Corporations Law and the enactment of a new section 86-a to said Membership Corporations Law, both effective September 1, 1949, it would be illegal for said parties to continue the afore-mentioned mode of payment since by virtue of said new section and amendment, it is now incumbent upon defendant, Ferncliff, to maintain (1) a ‘ ‘ permanent maintenance fund ’ ’ into which must be first deposited not less than 10% of the gross proceeds of any such sale of a plot, and (2) a “ current maintenance fund ” into which must also be deposited an additional 15% of such gross proceeds. Under such circumstances, it is obvious that plaintiff may then only be entitled to receive one half of the net proceeds remaining after the sales price has been reduced by the afore-mentioned deposits.
+Needless to say, plaintiff asserts that if such deductions are made, not only will there be a breach and violation of plaintiff’s agreement with defendant, Ferncliff, but also to this extent, the amendment to section 87 of the Membership Corporations Law is unconstitutional in that the said provisions thereof impair its said contract with defendant, Ferncliff.
+It appears that the questions raised by plaintiff have already been passed upon in a case almost identical with the case at bar. After a trial before Honorable Isidore Wasservogel, sitting as a Special Referee in Special Term of the Supreme Court, New York County, the said Referee rendered a detailed opinion wherein he reviewed the history of the afore-mentioned applicable law in the Membership Corporations Law and the legislative intent by the enactment of said amendment and new section, and he concluded by upholding the constitutionality of the section and the interpretation thereof by defendant, Board (Keith v. Maple Grove Cemetery Assn., 208 Misc. 217, appeal dismissed 1 AD 2d 665). This court is in full accord with the decision and opinion of Mr. Justice Wasservogel (supra).
+While it is true that where, as here, the presence of a constitutional question or the legality or meaning of a statute permits resort to a declaratory judgment action (Dun & Bradstreet v. City of New York, 276 N. Y. 198), nevertheless, where no question of fact is involved but merely questions of law are presented, the court on a motion to dismiss for legal insufficiency should not dismiss the complaint. Such a dismissal would be inconsistent with a declaration of the rights of the parties involved (see Hoffman v. City of Syracuse, 2 A D 2d 653, mod. on other grounds 2 N Y 2d 484 and cases cited therein; Strobe v. Netherland Co., 245 App. Div. 573; Birnbaum v. New York State Teachers Retirement System, 3 A D 2d 815; Society of New York Hosp. v. Johnson, 9 Misc 2d 73).
+Accordingly, in the light of the afore-mentioned and since the material allegations of the complaint are admitted and no questions of fact are presented, defendant, Cemetery Board of the State of New York, is entitled to a judgment on the merits to the extent of declaring subdivision 2 of section 87 and section 86-a of the Membership Corporations Law to be valid and constitutional insofar as they affect plaintiff’s agreement with defendant, Ferncliff, set forth in the complaint, and dated November 22,1910. Since the defendant, Ferncliff, was neither made a party to this motion nor has it seen fit to intervene (although it has had actual notice thereof) the disposition made herein shall not be construed in any way to determine the jural rights between plaintiff and said defendant.
+Settle order and judgment on notice. No costs.
