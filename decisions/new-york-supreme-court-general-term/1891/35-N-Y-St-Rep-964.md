@@ -1,0 +1,43 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-01-23"
+citations: ["35 N.Y. St. Rep. 964"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clark Woodworth, Resp’t, v. Thomas C. Hodgson and Frank I. Hawley, App’lts."]
+source_url: "https://static.case.law/ny-st-rep/35/cases/0964-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 673765
+cites_cases: ["101 N. Y., 504", "31 N. Y., 542", "41 N. Y., 464", "50 Hun, 410", "56 Hun, 236", "56 N. Y., 273", "77 N. Y., 461", "9 N. Y. Supp., 750"]
+---
+
+# Woodworth v. Hodgson
+
+## Majority (Corlett, J.)
+
+Corlett, J.
+William A. Woodworth in November, 1887, was-engaged in the grocery business on the comer of Kent and Platt streets in the city of Rochester. He had previously resided with his father, Clark Woodworth, in the town of Gates, which adjoins Rochester. The plaintiff, to enable his son to commence business, executed two promissory notes, one for $500, and the other for $100, upon which $600 was obtained for the son. After that the plaintiff signed two letters of credit to grocers in the city of Rochester, by which the son was enabled to purchase goods to the amount of $300, the payment of which was guaranteed by the plaintiff.
+Before the month of July, 1888, the son discovered that he was falling behind in business. On the 23rd of the same month an instrument in writing, purporting on its face to be an absolute bill of sale, was executed by the son to the plaintiff. The plaintiff claimed that under this instrument he obtained title and took immediate possession of his son’s stock of goods.
+The sheriff of the county of Monroe immediately levied upon them by virtue of an execution issued upon a judgment against the son. On the 31st day of July of the same year, the plaintiff brought an action in the municipal court of the city of Rochester against the sheriff, to recover the value of the goods levied upon. The plaintiff in that court obtained judgment for $465.19. An appeal for a new trial was taken to the Monroe county court, which was had and resulted in a j udgment of $584 for the plaintiff, which was based upon the direction of a verdict in favor of the plaintiff by. the county judge. The defendants appealed to this court, where the judgment was reversed, 56 Hun, 236; 31 N. Y. State Rep., 66; 9 N. Y. Supp., 750, and a new trial granted upon the ground that the case upon the evidence presented questions of fact which should have been submitted to the jury.
+An instrument in the form of a bill of sale may be a chattel mortgage if intended to secure a debt. Smith v. Beattie, 31 N. Y., 542.
+A chattel mortgage is void as against creditors unless accompanied by an immediate delivery and followed by an actual and continued possession, unless the mortgage or a copy thereof is false. R. S. (Banks’ 7th ed.), vol. 3, p. 2249, § 1.
+Section 5, the same volume and edition, page 2328, provides that every sale of goods and chattels, unless followed by an actual and continued change of possession, shall be presumed to be fraudulent and void; and shall be conclusive evidence of fraud unless good faith is shown. Under the section last cited, a question of fact is presented. Blaut v. Gabler et al., 77 N. Y., 461.
+The distinction between a chattel mortgage and an absolute sale is, that in the case of the mortgage the instrument is absolutely void as against creditors without an immediate and continued change of possession unless it is filed; while in the case of a sale without like possession, the transaction is presumed to be fraudulent and void.
+A new trial was had in the county court in May, 1890, which resulted in a verdict for the plaintiff for $554.57. A motion for a new trial was made and denied; judgment was entered on the verdict, and the defendants appealed to this court from the judgment and order.
+On the last trial in the county court, the appellants moved for a nonsuit at the close of the plaintiff’s evidence upon the following grounds:
+“ First. That there was no possession given under the alleged bill of sale, and that such being the case, it is a presumption of fraud which vitiates the transaction unless that presumption is refuted by direct .and positive evidence, which has not been produced in this case. Second. On the ground that the alleged bill of sale is a chattel mortgage, and the fact that there was no possession taken under it makes it absolutely void as against the defendants who represent creditors. Third. On the ground that there was no consideration for the alleged.bill of sale. Fourth. On the ground that the alleged bill of sale was virtually an assignment or transfer of all the property'and effects of William A. Wood-worth to his father, one of his creditors, and is consequently void by statute, both as not being properly executed, and as involving more than the statutory amount of preferences.
+Motion denied. Exception. •
+The same motion was repeated at the close of all the evidence, which was also denied.
+The case in all its aspects was fully and fairly submitted to the jury. Ho exceptions were taken by the learned counsel for the appellants to the charge which require special notice.
+Only one exception was taken to a request to charge, which was as follows: “I also ask the court to charge that the words, ‘ actual and continued change of possession,’ mean an open public change of possession, which is to continue and to be. manifested continually by outward and visible signs such as rendered it evident that the possession of the judgment debtor had ceased.
+“ By the court: I so charge, adding, however, that this open and continued and visible possession is a term which is of course modified by the changing circumstances of every case.' The possession must be so open, so visible as the circumstances of the case and the nature of the property require. Exception.”
+Hothing requiring consideration is presented by this exception.
+The decision of this court on the former appeal was adopted and followed by the county court.
+Surrounding and eotemporaneous facts will be considered in construing written instruments. Griffiths v. Hardenbergh, 41 N. Y., 464.
+Conversations are also admissible bearing upon the same subject. Palmer v. First National Bank of Cortland, 4 Wk. Dig., 268; Tilson v. Terwilliger, 56 N. Y., 273; Simis v. Hodge, 50 Hun, 410; 21 N. Y. State Rep., 955; Howe v. Brundage, 1 S. C. ‘R. (T. & C.), 429.
+It was not error to admit in evidence what occurred at the time of the making of the bill of sale. It was a part of the res gestee. Ho claim is made on the part of the defendant that the plaintiff’s debt was not an honest one. The court on one occasion, and the jury on the other, found in favor of the bona fides of the transaction.
+There is no force in the objection that the transaction was void as, against the policy of the general assignment act. Royer Wheel Co. v. Fielding et al., 101 N. Y., 504.
+The various exceptions earnestly urged by the • learned counsel for the appellants have been carefully examined, but no errors are discovered
+The judgment and'order must be affirmed.
+Dwight, P. J., and Macomber, J., concur.
