@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1849-12"
+decided_precision: "month"
+citations: ["4 How. Pr. 243"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Clarks vs. Staring."]
+source_url: "https://static.case.law/how-pr/4/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2189446
+cites_cases: ["3 Hill, 457", "5 Wend. 107"]
+---
+
+# Clarks v. Staring
+
+## Majority (Gridley, Justice.)
+
+Gridley, Justice.
+Two questions arise on this appeal. The first respects the allowance of the travelling fees of the witness Jerrolman, from the city of Hew York to the place of trial and returning after the close of the circuit. The permanent residence of the witness was in Whitestown, in the county of Oneida. He, however, went to the city of Hew York, on business, about one month before the circuit, and he was engaged in business there for about two months afterwards. He was subpoenaed in Hew York city, and came to the court solely in obedience to the snbpoena, and returned to the city immediately after the postponement of the trial. Ho fraud or collusion between the plaintiff and the witness is pretended; but it is insisted that under the act of 1844, (See 2 R. S. 734, 3d ed.) the witness was only entitled to travel-ling fees from Whitestown, the place of his permanent residence. In aid of this position I am furnished with authorities defining the meaning of the word “ residence,” under the election law, the insolvent laws, and the act of 1831, which exempts a resident from arrest. The meaning of words used in a statute, depends on the subject-matter of the enactment, and on the object and intent of its framers. The object of the Legislature in passing the act, the construction of which is now under consideration, was to compensate a witness for travelling to and from the court which he was obliged, by the process of the court, to attend. Ordinarily, a witness is subpoenaed at his permanent residence, and is thus entitled to his fees in travelling from such residence. In this case the witness was subpoenaed at the place of his temporary residence and business, and leaves his business’just as long and travels just as far, and incurs just as much expense as if his permanent residence had been in Hew York city. His temporary residence, therefore, is the place from which to compute the distance which he travelled. Any other construction of the word residence, would fail to carry out the intention of the Legislature. It would be most unreasonable to require the witness to leave his business and travel from Hew York to Oneida county and back again, for the fees due for travelling from the town of Whitestown to Eome, merely because his temporary residence in Hew York would expire in some two months after he was subpoenaed. Such an interpretation of the word would be intolerable, not to say absurd.
+2. The same objection is made in relation to the fees of the witness Willis, and must be disposed of in the same way. This witness was sworn to be material, and was subpoenaed on the night of the first day of the circuit, and arrived the next morning about an hour after the cause was postponed. The reason of the lateness of the time when this witness was subpoenaed, was that the plaintiff had not discovered where the witness could be found in season to make an earlier service of the subpoena. And though the cause had been called once, and by mutual consent had been passed without prejudice, yet, the witness arrived in season to be sworn, if the cause had been afterwards called and tried. I think the fees of this witness should be allowed upon the reason of the case. If the witness had been subpoenaed in season and had without good cause, omitted to be at court before the cause was put over, he would have been entitled to no fees. (See 5 Wend. 107, and 3 Hill, 457.) In the last of these cases, the fees were taxed, notwithstanding the witnesses were delayed by an accident till after the cause was sworn over. In the former case, the fees were disallowed because the witness by his own negligence had failed to be at court till after the cause was postponed. The court placing the right of the party to tax the fees against his adversary on the same ground with the right of the witness to demand them of the party. In this case, neither the plaintiff nor witness was chargeable with any laches. The witness was subpoenaed in good faith, and had earned most of his fees when the cause was put over. Again, if the cause had not been put over, the witness would have been in season for the trial.
+The motion must be denied.
