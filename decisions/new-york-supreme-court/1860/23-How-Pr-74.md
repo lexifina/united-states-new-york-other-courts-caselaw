@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1860-11"
+citations: ["23 How. Pr. 74"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Mechanics’ Banking Association agt. The New York and Saugerties White Lead Company."]
+source_url: "https://static.case.law/how-pr/23/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2214863
+cites_cases: ["4 Hill, 442"]
+---
+
+# Mechanics' Banking Ass'n v. New York & Saugerties White Lead Co.
+
+## Majority (Hogeboom, Justice.)
+
+Hogeboom, Justice.
+I think this judgment must be affirmed, for the reasons stated in the opinion of the learned justice who tried this cause. The authority of McCullough to sign and indorse notes for the White Lead Company is sufficiently established. Townsend was an accommodation maker of the note.
+The evidence leaves it doubtful whether the New York and Saugerties White Lead Company -was an accommodation or business indorser of the note; and the learned judge has not explicitly found that fact. But assuming that it was only an accommodation indorser, it appears that the note was a negotiable instrument, in the ordinary form of commercial paper, indorsed by corporations having authority in their legitimate business to indorse commercial paper, discounted by the plaintiffs, in good faith, and for value, before maturity, with no facts before them to induce a suspicion that the paper was not business paper, and having no knowledge that it was otherwise. The circumstances were such as to lead to the presumption that it was business paper, and the sole question is, whether the plaintiffs were bound explicitly to inquire and ascertain whether the indorsement of the White Lead Company was a mere accommodation indorsement, in which case they, as a corporation, would have no right to make the same ? I think, under the circumstances of this case, the plaintiffs were not required to institute such an investigation, and absolutely to ascertain .the fact; and therefore, that the judgment should be affirmed.
+The cases bearing on this point are : The Farmers’ and Mechanics’ Bank of Kent agt. The Butchers’ and Drovers’ Bank, (16 N. Y. R., 129, 131, 132-135;) The Bank of Genesee agt. The Patchin Bank, (13 N. Y. R., 315;) Stoney agt. American Life Insurance Company, (11 Paige, 565;) Safford agt. Van Wyck, (4 Hill, 442, and other cases cited.)
+Sutherland, J., concurred. Bonnet, J., dissented.
