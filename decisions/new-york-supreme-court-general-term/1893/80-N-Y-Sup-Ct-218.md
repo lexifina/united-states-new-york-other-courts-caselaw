@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-11"
+citations: ["80 N.Y. Sup. Ct. 218"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Parker, J\\, concurred."]
+parties: ["William M. Tebo, Respondent, v. Henry G. Jordan and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/80/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4694851
+cites_cases: ["67 Hun, 392"]
+---
+
+# Tebo v. Jordan
+
+## Majority (Eollett, J.:)
+
+Eollett, J.:
+This action was brought to recover the contract price for the serv-r ices of the steam tug \B. T. JImilcmd, rendered between October 26, 1888, and January 8, 1889. The defense interposed is that the tug was unseaworthy, and that, by the negligence of its officers and pilot, the defendants’ vessels, which the tug had in tow, were greatly injured.
+All of the questions involved in this appeal, except two, were-disposed of when the case was before this court on the last appeal. (67 Hun, 392.)
+It is now urged that the tug was unseaworthy because, at the time of the standings by which the defendants’ barges were-injured, the pilot in charge had not been licensed by the inspectors of steamboats.
+Section 4401 of the Revised Statutes of the United States provides : “ Every coastwise, seagoing steam vessel subject to the navigation laws of the United States, and to the rules and regulations aforesaid, not sailing under register, shall, when under way, except on the high seas, be under the control and direction of pilots, licensed by the inspectors of steamboats.”
+It was admitted that the Baviland was an enrolled vessel and net-sailing under a register.
+Section 4427 of the Revised Statutes provides that “ The officers-navigating such vessels (tugs) shall be licensed in conformity with the provisions of this Title, and shall be subject to the same provisions of law as officers navigating passenger steamers.”
+The strandings of which the defendants complain did not occur upon the high seas, but within waters which were in the jurisdiction of the State of Massachusetts. It was conceded that, at the time of the accident, the tug was not in charge of a licensed pilot, and the court was asked to hold, as a question of law, that this was a breach of the contract and a defense to the action. The court refused so to hold, and submitted the question to the jury whether the pilot in command was or was not competent, in a charge to which, in this respect, no exception was taken. The jury found this issue for the plaintiff, and, as we think, upon sufficient evidence. The Uavilmid, .at the time of the accident, was piloted by 'William TI. Barnard, who testified: “I am fifty-nine .years old; seafaring life has been my occupation; I am a pilot; I pretend to be; never was questioned before; have been a pilot ever since I have been master, 36 years; I have been master of a sailing vessel 36 years; I never held a license from the United States or any other authorities as a pilot; I have had a license as master; I have had over 40 years’ experience in a running over the voyage from New York or Newport News to Boston ; I have been over it hundreds of times ; I have been coast-wise 20 years steady from Cape Ilenry the whole length of the coast; at the time of this charter party I was familiar with the route from Newport Nows to Boston; that was the first time I ever towed barges; in all these voyages I acted always as pilot, and never had it questioned before; I know the route and the lighthouse; am acquainted with the tides and the set of the tides, with Stone Horse ledge and Handkerchief light and Monomoy light and Shovelful light; am also familiar with the course of the channel and of the lights and tides in entering Boston harbor; have been traveling over this route for twenty or thirty years.”
+No evidence was offered tending to show that the pilot was incompetent, except the fact that an accident occurred.
+Under tins charter party the law implies a warranty that the tug was seaworthy, and a vessel not commanded by competent officers is unseaworthy. (Tebo v. Jordan, 67 Hun, 392, and cases there cited.) But a vessel is not, as a matter of law, unseaworthy because if is navigated by an unlicensed pilot, provided he is competent, even though a statute requires that the vessel should have a licensed pilot in command. (Flanigen v. Washington Ins. Co., 7 Barr, 306; 1 Par. Mar. Ins. 385 ; 1 Par. Mar. Law, 143.) The question is not unlike those arising under statutes or municipal ordinances prescribing the rate of speed beyond which trains shall not be run.
+In the case of an accident the fact that the train exceeded the prescribed rate of speed is not proof but evidence of negligence, which may be rebutted, and, in this case, the absence of a licensed pilot cast the' burden on the plaintiff of showing that the vessel, when it was stranded, was in command of a competent master or pilot..
+The defendants’ counsel requested the court to charge: “ 10. That, the fact of running upon a well-known shore is of itself presumptive evidence of negligence.” The court declined to adopt the language of the request and the defendants excepted, and thereupon asked the court to charge : “11. That running upon a well-known obstruction or shore can only be excused by some peril of the sea which rendered the accident unavoidable, with the exercise of skill and good judgment.” This the court charged. The rule of evidence applicable to the case was correctly expressed by the eleventh request, and no error was committed in refusing to charge the tenth, request.
+The judgment and order should be affirmed, with costs.
+Yan Brunt, P. J., and Parker, J\, concurred.
+Judgment and order affirmed, with costs.
