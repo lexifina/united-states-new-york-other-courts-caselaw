@@ -1,0 +1,24 @@
+---
+court: "New York Surrogate's Court"
+decided: "1912-11"
+citations: ["9 Mills Surr. 528"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Application for Letters of Administration de bonis non on the Goods, Chattels and Credits which were of Emma Hagan, Deceased."]
+source_url: "https://static.case.law/mills-surr/9/cases/0528-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1080234
+cites_cases: ["33 Misc. Rep. 271"]
+---
+
+# In re the Application for Letters of Administration de bonis non on the Goods, Chattels & Credits which were of Hagan
+
+## Majority (Ketcham, S.)
+
+Ketcham, S.
+The intestate was survived by her father, who was her only next of kin, and as such entitled to the whole estate. The father took letters of administration and thereafter died. His widow is his administratrix. Administration de bonis non of the original estate is now asked for by the administratrix of the deceased father, by one of the brothers of the original decedent, by a creditor and by the public administrator.
+Every instinct of justice and good sense urges the appointment of the administratrix of the sole distributee deceased. An executor or administrator of a deceased distributee who, at the time of the death of the original decedent, was entitled to any interest in the estate, whether solely or with others, should have the same right to administration as the deceased distributee, if living, would have had.
+The law, however, does not permit such appointment and in this respect the law is wrong and should be made right. It is intolerable, though at present inevitable, that the one person wholly interested in the fund must wait for his own while the fund is subjected to administration and depletion by a stranger.
+The brother of the original decedent cannot take the letters. The right to administration is probably confined to relatives entitled at death to succeed to the personal estate (Code Civ. Pro., § 2660; Matter of Seymour, 33 Misc. Rep. 271), although there are authorities to the contrary. Even if the brother were entitled to administration under the general provisions of section 2660, it is expressly provided that he cannot have such letters in preference to the public administrator, who must take as against relatives of the deceased unless such relatives are “ entitled to a distributive share in the estate of such intestate.” Code Civ. Pro., § 2669.
+Between the creditor and the public administrator the statute prefers the latter (Code Civ. Pro., § 2669) ; and to the public administrator, since he is preferred both to the creditor and to the brother of the intestate, the letters must issue. Decreed accordingly.
