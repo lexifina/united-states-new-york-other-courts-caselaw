@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1889-07"
+citations: ["60 N.Y. Sup. Ct. 210"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J., and Ingalls, J., concurred."]
+parties: ["FRANKLIN A. ROWE and Another, as Executors, etc. and ABRAM W. LANSING, as Residuary Legatee and Devisee Under the Will of WENDELL LANSING, Plaintiffs, v. HANNAH M. LANSING and MARY TUTTLE, Defendants."]
+source_url: "https://static.case.law/ny-sup-ct/60/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4590516
+cites_cases: ["1 Edw. Ch., 411", "25 N. Y., 128", "3 Hun, 326", "84 N. Y., 16", "9 How., 214"]
+---
+
+# Rowe v. Lansing
+
+## Majority (Landon, J.:)
+
+Landon, J.:
+I incline to the opinion that the testator intended that the payment to his widow of the $100 annually during her life should be made as directed out of his personal estate, the principal to be applied to that purpose if the income should fail. The testator did not say it should be paid out of the income; he pointed out no principal from which to raise it.. He suggested no contingency. He declared “ the provisions of this will to be in lieu of dower and other statutory claims of the widow.” All the provisions of the will in favor of his widow are made upon consideration of her electing to accept them in 2fiace of the provision made for her by law.
+These provisions are the purchase-price or value which the testator put upon her legal claims. (Isenhart v. Brown, 1 Edw. Ch., 411; Cole v. Niles, 3 Hun, 326; Williamson v. Williamson, 6 Paige, 298 ; Flynn v. Croniken, 9 How., 214.) Such a legacy does not abate. (Id.) The payment of this annuity will be at the exjjense of the residuary estate. That is devised to his son Abram. There is no suggestion that it is to be preferred to the annuity; and if we compare this residuary devise and bequest with the pecuniary bequests to the testator’s five children, of whom Abram was one, we obtain a suggestion beyond what the terms “rest and residue” imply, that the residuary devise and bequest must abate to any extent necessary to protect the others. The testator says the pecuniary legacies to his five children “ shall be paid * * * in preference and priority to any other gift or legacy.” Thus it is seen the testator contemplated the possibility of some failure in his estimates, and, with that in mind, he guaranteed some of his legacies, then provided for his wife, and bestowed the possible residue.
+The case of Delaney v. Van Auden (84 N. Y., 16) is cited in opposition to the views above expressed. In that case the annuitant was not the widow; the clear purpose of the will was that the annuity should be paid from rents and income; they were ample at first, but in “ the mutations of affairs ” they failed to be sufficient. There, as here, it was the question of the testator’s intention, and the court held that the will made no other provision to pay the annuity than from rents and income. The condition of the estate at the time of the testator’s death repelled the presumption that he had any intention otherwise to provide for it. In Pierrepont v. Edwards (25 N. Y., 128) the annuitant was the widow; her annuity was expressly charged upon the income, but that, failing payment, was directed out of the corpus of the estate.
+Respecting the fund from which the annuity must be paid, it is plain, however, that it must be confined to the $705.80 realized from the sale of the farm implements. The testator devises and bequeaths, upon the death of Mrs. Lansing, the use and income of the house and lot and farm to her mother, Mrs. Tuttle, during her life. Tins is a clear intimation that the corpus of the house and lot must not be impaired to pay the annuity, and Mrs. Lansing must be understood to accept the provisions of the will with this restriction.
+Judgment is directed in accordance, with these views, with costs to the parties out of the fund of personal estate.
+Learned, P. J., and Ingalls, J., concurred.
+Judgment directing annuity to be paid from the corpus of avails of personal property, not from real estate.
