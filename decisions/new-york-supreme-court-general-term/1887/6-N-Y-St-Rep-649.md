@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-03-08"
+citations: ["6 N.Y. St. Rep. 649"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adolph Ladenberg, Resp’t, v. Old Dominion Copper Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/6/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1984458
+cites_cases: ["81 N Y, 646"]
+---
+
+# Ladenberg v. Old Dominion Copper Co.
+
+## Majority (Brady, J.)
+
+Brady, J.
+This action was brought to recover the amount of three promissory notes and interest, made by the defendant’s company, endorsed by the defendant Hamilton and delivered to the plaintiffs for value before maturity. A like action was brought in the territorial court of Arizona territory, in which an attachment was obtained against the property of the defendant company and still another action at Baltimore. The defense in these actions was similar.
+It is alleged that the defendant company, for the purpose of preventing the plaintiffs from securing their claim, hostilely, improperly and irregularly confessed a judgment for a very large sum of money in favor of a firm who were its agents, and that the plaintiffs were about to take testimony under an open commission, which had been forwarded from the territorial court in Arizona shortly after issue was joined in the action pending there, and some time before the trial took place in this case, when, at the request of the counsel for the defendant company, the taking of the testimony was suspended and upon the understanding and agreement that the action should be tried here and not in Arizona and that the result should control the other litigation. The plaintiffs, having succeeded in this action, sent the record to the territorial court to have judgment pronounced there in accordance with the agreement mentioned when objections were raised and the legal doctrine invoked on behalf of the company that the cause of action was merged in the judgment here and the proceeding in Arizona must therefore fail. When this made known to the plaintiffs, and as soon as they were able to get all the facts bearing upon it from Arizona, a motion was made at special term to have the judgment entered against the company on the verdict vacated, and set aside before the court met in Arizona. The motion was opposed, but nevertheless granted. Hence this appeal.
+There can be no question about the power of the court to set aside a judgment under the circumstances disclosed. • The adjudicated cases establishing it are numerous. Vanderbilt v Schreyer, 81 N Y, 646; Barry v. Mutual Life Co. 53 id, 536, Hatch v. Central National Bank, 78 id., 487; in re City of Buffalo, 78 id., 363; Dutz v. French, 43 N. Y. Superior Court Rep., 37.
+The affidavit's of the respective counsel herein read on the motion are at variance and perhaps irreconcilable, and hence the duty of examining and deciding this appeal has been an unpleasant one. But the defendant Hamilton distinctly states that the arrangement was made, of which the motion was predicate, namely, that the trial of the issues should take place here, and the other litigations controlled by the result. This arrangement seems to have been a very proper one, inasmuch as a repetition of the trial might be well regarded by the counsel as an unnecessary procedure, Independently of the expense to which it would necessarily subject the parties: and it was one, therefore, likely to have been made a consideration, which doubtless influenced the learned justice in the court below in arriving at the conclusion which he adopted, after proper consideration of the conflicting statements and the various facts and circumstances surrounding the application.
+It is true the point is made by the appellant’s counsel that the respondent’s counsel is seeking to avoid the consequences of his ignorance of the rule by which a recovery would merge the claim, but this is a theory only. The application to vacate the judgment herein seems to have been a very proper procedure, for the reason that if the arrangement made between the counsel was carried out, the judgment would be the same in Arizona as here, and the plaintiff’s counsel justly relying upon it could not have anticipated the objection made to its attempted application in that territory, while the continuance of the judgment here would, if the doctrine of merger were successfully urged, affect the security which the plaintiffs claimed to have obtained by the proceeding in Arizona. The trial here, therefore, which must at least be assumed to have proceeded upon a misunderstanding, and which involved the suspension of the preliminaries for a trial in Arizona, was properly undone, and the relief granted just.
+This case illustrates, if not the necessity, at least the importance, of requiring all stipulations in a case controlling it in any sense, whether in procedure or result, to be in writing—a rule which would prevent misunderstandings kindred to that which appears - to have existed here, and relieve the court from the exceedingly unpleasant duty of deciding a question of fact • upon conflicting statements made by officers of the court of equal respectability.
+Eor these reasons, thus briefly expressed, the order should be affirmed, but under the circumstances without costs
+Van Brunt, P. J., and Daniels, J., concur.
