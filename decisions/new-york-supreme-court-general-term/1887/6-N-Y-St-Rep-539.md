@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-01-22"
+citations: ["6 N.Y. St. Rep. 539"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank L. Tapscott, Resp’t, v. Del Orme Knowlton et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/6/cases/0539-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1984518
+cites_cases: ["61 N. Y., 564", "94 N. Y., 475"]
+---
+
+# Tapscott v. Knowlton
+
+## Majority (Brady, J.)
+
+Brady, J.
+The complaint in this action prays for an accounting by three of the defendants severally of all the sums of money and shares of stock received and retained, or paid and disposed of by them respectively in and to any dealings and transactions in respect to the purchase and sale of the Silver King Mine and its appurtenances, situated, in the State of Colorado, and further that the plaintiff have judgment against these persons, for such sums of money and shares of stock or the value thereof as may be found due and owing upon such accounting.
+It would seem from the prayer thus stated that the action was one founded upon contract express or implied growing out of relations existing between, the parties in reference to the property stated, and that relation only.
+But the allegations of the complaint of which the prayer is predicated, all contain the elements of fraud. The plaintiff alleges for example that the defendant Knowlton represented that the immediate payment of $5,000 must be made to the owners of the property on account of the purchase price in order to effect the purchase, and that believing this representation to be true he was induced thereby to pay to Knowlton the sum of $1,000 for the purposes mentioned.
+That Knowlton well knew that the representation mentioned was false, and that it was not necessary to make an immediate payment. That Knowlton did not pay it, but retained and converted to his own use a large portion of the moneys contributed and paid to him for the purposes of such payment. That the property having been purchased, it was sold and duly conveyed to the Silver King Mining Company, and that large sums of money were paid and delivered to Knowlton for it, which the parties to the original agreement for its purchase became and were entitled in proportion to their respective interests in the same, and that thereafter Knowlton, with intent to deceive and deceive and defraud the plaintiff, represented that he and the defendants, Bartlett and Smith, had contributed and paid large sums of money to secure the purchase, and that the expenses incident to their procedure had been largely in excess of their actual amount, and that the plaintiff, relying upon these representations, was induced to accept and did accept as his share a portion less than he was entitled to, while in fact and in truth these representations were false. Knowlton, Bartlett and Smith, not having, nor had either of them contributed and paid large sums of money, or any sum of money whatever, on account of or to secure the purchase of the property already mentioned.
+The answer denies the charges of fraud and deceit and denies that the defendant refused to account and the issue appears to be as stated by the appellant whethér the plaintiff was induced to part with his money by means of fraud and deceit, whether the defendant made the representations alleged, whether the representations were false and known to be false, and whether they were made to deceive the plaintiff and induce him to part with his money, and it may be said therefore that fraud and deceit constitute the ground work of the action; and it is not necessary to cite authorities to show that upon such a condition of pleadings the right to a trial by jury or the court cannot be interfered with.
+This is not a case covered by Segelken v. Meyer, 94 N. Y., 475, or Villmar v. Schall, 61 N. Y., 564, in which the elements of an action on contract and tort were seemingly amalgamated, for the reason that it appeared in those cases that the defendants came rightly into possession of the money or property and that the language therefore charging the tort was surplusage. The respondent insists that the only issue raised by the pleadings is the accounting, all the allegations of the complaint leading to that result, and where the primary purpose of an action is to obtain an accounting, the action is referable. This view is not adopted as the correct one upon which this appeal is to be disposed •of. The right to account, the parties having settled the transaction, depends upon the fraud charged, and unless the frauds alleged were practiced the plaintiff has no right to the remedy sought.
+He has placed his right of action upon the charge of fraud. He has not alleged and made it disconnected from fraud, upon which he would have the right to recover. He must therefore stand by the issues raised^ If. after he has established the fraud charged an accounting be necessary, the proper proceeding may then be directed for that purpose. It is not thought that the defendants who insist upon a trial by jury on an issue of fraud can be deprived of that right by a reference under the facts and circumstances •disclosed by the record. The order appealed from must for these reasons be reversed, with ten dollars costs and disbursements.
+Daniels, J., concurs.
