@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1810-11"
+citations: ["7 Johns. 214"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jackson, ex dem. Elmendorf and others, against Jackson and others."]
+source_url: "https://static.case.law/johns/7/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 369191
+---
+
+# Jackson ex dem. Elmendorf v. Jackson
+
+## Majority (Kent, Ch. J.)
+
+Kent, Ch. J.
+delivered the opinion of the courts. The lessors of the plaintiff claim title under Thomas Lewis, on the ground that the inheritable .blood in the line of lineal descent of Leonard Lewis, a younger brother of Thomas, and who died seised of the premises, failed, because his granddaughter was an alien. Leonard Lewis the younger was seised of the premises in 1749, and before he went to the West Indies. He married a Danish subject in the island of St. Thomas, and died there, leaving no issue but two daughters, one-of whom died without issue, and the survivor who was born in St. Thomas, married an alien, and died, leaving a daughter, an infánt and alien, and who died also without issue. The two daughters were natural born subjects within the statute of 3 Geo. II. c. 21. because their father was a subject, but the granddaughter was clearly an alien.
+If the land did not escheat in consequence of the alienism of the infant heir, but went to the next collateral , . , . . , , heir who was not an alien, t then it is certain that the land went to Thomas Lewis and his representatives, he being the elder brother of Leonard, whose inheritable blood had thus failed.
+The only question in this case, then, is, whether Thomas or his issue could inherit, when the lineal descendant of his younger brother was án alien, find so could not inherit. There is a dictum of Newton, J. in 22 Hen. VI. 38. pi. 5. that he could not, and that dictum appears.' to have been acquiesced in by the counsel. The instance given by Newton to illustrate his position is correct, but the application fails'. He says, that if one be attainted of felony in the life-time of his father, and survives his father, the land shall escheat, notwithstanding the father left other issue or a brother living. The same doctrine is advanced in a number of later authorities. (Co. Litt. 163. b. Hob. 334. Cro. Car. 435. Dyer,48. a. Hawk. b. 2. c. 49. s. 50.) But there is a distinction between the failure of inheritable blood, by reason of alienism, and by means of attainder; and the next heir will take in the first instance, but not in the other. This distinction is to be found in Coke; (Co. Litt. 8. a.) but it is stated in the clearest manner, in the treatise on the Law of For- ■ feiture, ascribed to the son of Lord Hardwicke. He says, (p. 72.) that by the ancient common law of England., “ where a man was not capable of civil rights by nature, as an alien born, and never naturalized, being unknown to the law, he was excluded from inheriting; and the next of kin within the allegiance, who did not claim under him, was admitted; or where he had incurred civil disabilities, by his own voluntary act, not criminal, as one who entered into religion, or abjured the realm, he was taken to have undergone a civil death, and the next in course of descent entered. But where he is at-tainted of treason or felony, the law will not pass him over, and marks him out in rei exemplum et infamiam. Tience it is, that though he was never in possession, nor those who claim under him more capable of inheriting than he, by reason of the consequential disability- arising from the attainder of the aocestor, yet the estate will be interrupted in its course to the collateral and escheat." Though this rule is well established in the case of attainder for crimes, yet even there it is condemned by C'raiK, in his Law of Feuds, who says, that the estate ought to go to the next collateral branch, instead of escheating, since it is not necessary for the collateral to make title through the criminal, hut he may have his descent from. an innocent and common ancestor. Lord Ch. Torke,'~ however, ably vindicates the escheat, in the case of attainder, on the ground of public polity. We have, at present, nothing to do with this question; and it is sufl1.~ dent to say, that the doctrine of eseheat does not apply to the present case; and judgment ought to be rendered for the plaintiff. Judgment for the plaintiff~
+■ . (a) The honourable Charles Yorks.
