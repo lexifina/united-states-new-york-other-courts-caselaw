@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court of Judicature"
 decided: "1806-08"
-citations: ["1 Johns. 510", "1 Johns. 493"]
+decided_precision: "month"
+citations: ["1 Johns. 510"]
 reporter: "johns"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
