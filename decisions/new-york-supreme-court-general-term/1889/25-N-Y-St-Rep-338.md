@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-28"
+citations: ["25 N.Y. St. Rep. 338", "26 N.Y. St. Rep. 649"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hugh Flynn, Resp’t, v. J. Monroe Taylor, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/25/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657624
+cites_cases: ["107 N. Y., 360"]
+---
+
+# Flynn v. Taylor
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+The court below found as matters of fact that the defendant, for several years, unnecessarily and unreasonably interrupted and interfered with public travel upon the street and sidewalk in question, and that the plaintiff was specially damaged thereby, and these conclusions are sustained by the proofs.
+The plaintiff has a clear right to have the street and sidewalks clear of all obstructions except such as are reasonable and necessary under all the circumstances. It is not reasonable that during a greater portion of the day the de-, fendant should keep his horses and wagons upon the sidewalk, and thus make the plaintiff and all others _ having occasion to use the walk, turn out upon the street in order to get around such obstruction.
+The plaintiff is injured by having so to turn out in going to and from his place of business. Again his place of business is so near to this place that it may well be inferred that custom may be diverted from his place by the inconvenience of his customers in having to pass such obstructions.
+In a case of such a glaring .public nuisance it is not essential to prove .great damage to warrant its abatement, but slight special injury is sufficient to give a plaintiff standing in court for redress. Callanan v. Gilman, 107 N. Y., 360; 13 N. Y. State Rep., 901.
+Judgment affirmed, with costs.
+All concur.
