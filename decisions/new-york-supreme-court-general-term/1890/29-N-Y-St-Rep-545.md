@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02-10"
+citations: ["29 N.Y. St. Rep. 545"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lewis J. Fosdick et al., Exrs., Resp’ts, v. The Town of Hempstead, Impl’d, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0545-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664320
+cites_cases: ["106 N. Y., 283", "111 N. Y., 66", "4 Abb. Ct. App. Dec., 227", "52 N. Y., 450", "8 Barb., 648"]
+---
+
+# Fosdick v. Town of Hempstead
+
+## Majority (Barnard, P, J. Cullen, J.)
+
+Barnard, P, J.
+The testator by his last will, in case of the failure of any bequests made therein, gave one-half of the estate created by such failing trust to Trinity Church, Rockaway, and the other one-half to the town of Hempstead, to be kept as a fund for the support of the the poor of said town, and to be known as “ The Hewlett Fund.”
+Can the town take the legacy ? The gift is absolute, and vests at once. Wetmore v. Parker, 52 N. Y., 450.
+The town already has a fund for the same purpose. Chapter 591, Laws of 1870, § 8.
+Towns have power by statute to purchase and hold personal property necessary to the exercise of its corporate or administrative powers, and also to make orders for the use of its corporate property as shall be for the interest of its inhabitants. 1 R. S., Thompson Ed., 804.
+The right to purchase and hold personal .property carries with it the right to take by bequest. Sherwood v. American Bible Society, 4 Abb. Ct. App. Dec., 227.
+The duty of towns to maintain the poor therein is recognized by statute, chap. 143, Laws of 1872; 170, Laws of 1878; 3 R. S. , Thompson, 1858, §§ 28, 34, 47 and 53; chap. 334, Laws of 1845.
+Invested money for the support of the poor is regulated and recognized by statute, title 1, part 1, chap. 20, § 74, R S., and in •case the distinction between town and county poor be abolished, the income of the fund may be used to pay such taxes as the town meeting may determine.
+Towns are thus recognized as corporate agencies to administer charities, and for that purpose may take personal property. The cases cited to show that certain town officers are not the agents of the town do not bear upon the question of the rights of towns to take property for the support of its poor.
+A gift of money to improve the agencies for the support of the poor would be valid, and no reason is perceived why a bequest for the same purpose would fail.
+The town of Hempstead may, therefore, take the entire personal property, and the decree should be modified accordingly with costs to all parties out of the estate.
+The title is not good as to the real estate.
+Cullen, J.
+I agree with the presiding justice that the gift to the town of Hempstead so far as it is a bequest of personalty is valid. The town has power to purchase and hold personal property necessary to the exercise of its corporate or administrative powers, 1 Rev. Statutes, 337, and such power to purchase includes the power to take by bequest. Sherwood v. American Bible Society, 4 Abb. Ct. App. Dec., 227; Matter of McGraw, 111 N. Y., 66: 19 N. Y. State Rep., 392. The support of the poor is unquestionably one of the administrative powers of the town, for the burden of supporting the poor has been primarily at least cast upon the town from the commencement of our governmental system. The fact that the town in its corporate capacity does not support the poor does not affect the question. This is equally true of the relation the town bears to the highways within its limits. It is settled by a long line of authorities that a town is not liable for defects in its highways or the misfeasance of highway commissioners, except so far as such liability has been re-cently imposed upon them to a limited extent by statute, and, also, that the towns have no property right in the highways which will enable them to contract for their use or maintain an action for injury to them, the easement of passage being not in the town, but in the people of the state. Morey v. Town of Newfane, 8 Barb., 648; Town of Fishkill v. Fishkill, etc., Plank Road Co., 22 id., 634; Town of Galen v. Clyde, etc., Plank Road Co., 27 id., 543.
+Yet in Vail v. The Long Island Railroad Co., 106 N. Y., 283; 8 N. Y. State Rep.,700, a deed to the town of land to be used as a highway was held valid under the authority given the town to purchase and. hold lands for the use of its inhabitants and effectual to pass not merely an easement, but the whole fea I do not see that any sound distinction in principle can be drawn between a gift of money for the support of the poor, and land for a highway. If, therefore, the gift to the town was absolute, under the authority cited it is good.
+It is claimed, however, that this is not a gift to the town, but a trust of which the town is only the trustee, and the poor of the town the cestui que trusts. I think the will indicates no intention that the poor should be the ultimate objects of the testator’s bounty through the medium of a trust. In the first place, the class for whose support the fund is to be applied is the poor of said town, a class defined by law, and limited to such poor persons as the town is now or may, from time to time, be compelled by law to support.
+The testator neither picked out special objects of his bounty from the class, nor did he extend his bounty to others who might be outside the class. The extent of his bounty is exactly the extent of the town’s burden. In the second place it does not appear that such poor are to receive any further or greater support than they otherwise would receive from the town itself. I think that the real beneficiary is not the poor, but the town, and that the gift was to the latter to enable it to discharge, possibly more generously its own obligations.
+I do not concur in the opinion that there is an equitable conversion of the realty. To constitute an equitable conversion the direction to sell and convert must be imperative. The express authority to sell is found in the first clause of the will, and is only discretionary. The tenth clause, held invalid by the special term, provides for the foundation of a school and directs the executors to pay over to the trustees the residuary estate. It may be that this clause contemplated the payment of the residue in money, and a direction to convert for that purpose would be implied. But this scheme failed, and as the object for which the-conversion was intended failed, a direction cannot be longer implied. On the contrary, in the residuary clause, under which the town takes, there is a marked change of language. In case-of the failure of the previous gift, the testator does not direct his executors to pay over to the legatees and devisees the residuary estate, but directly gives, devises and bequeaths all the property and estate affected by the failing trusts, one-half to the-town and one-half to Trinity Church. The term devise, is applicable to real estate only, and the use of the two words estate and property seem to contemplate and include real as well as personal property.
+A devise of real estate is concededly void, as the town is not authorized to take by devise. Matter of McGraw, supra.
+I think that the decree appealed from should be modified so as to adjudge the gift in the residuary clause to the town valid as to the personalty, but void as to the real estate. But this case must go to the court of appeals for final determination. One re-argument has already been had in consequence of the difference of opinion between my associates. To save still further delay, I think it wiser to assent to the entry of judgment in accordance with the opinion of one of my colleagues.
+Judgment modified in accordance with opinion of Cullen, J. Dykman, J., dissents.
