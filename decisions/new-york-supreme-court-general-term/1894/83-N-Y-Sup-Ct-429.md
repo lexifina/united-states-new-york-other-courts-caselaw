@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03"
+citations: ["83 N.Y. Sup. Ct. 429"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Parker, J., concurred."]
+parties: ["In the Matter of the Settlement of the Accounts of John S. Cameron and Another, as Executors, etc., of John Cameron."]
+source_url: "https://static.case.law/ny-sup-ct/83/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4714770
+cites_cases: ["112 N. Y. 167", "113 N. Y. 405", "76 N. Y. 136", "88 N. Y. 109", "95 N. Y. 588"]
+---
+
+# In re the Settlement of the Accounts of Cameron
+
+## Majority (O’Brien, J.:)
+
+O’Brien, J.:
+The single question for our determination is, whether the legacies given by the will were vested or contingent. In the leading case of Warner v. Durant (76 N. Y. 136) it is said: “It is a general principle that where the gift is absolute, and the time of payment only-postponed, time not being of the substance of the gift but relating-only to the payment, does not suspend the gift, but merely defers-the payment. * * * Another rule is to be noticed. It is this: "Where there is no gift, but by a direction to executors or trustees to pay or divide, and to pay at a future time, the vesting in the beneficiary will not take place until that time arrives.”
+In Smith v. Edwards (88 N. Y. 109) it is said: “ "While we are to encourage always a construction which leans to the vesting of legacies, and seek diligently for evidences of such purpose and intention,, we must still construe the will and not make it over to suit our own notions of what might have been wisest.”
+This tendency to seek diligently for evidence in order that the-legacy may be held to be vested, rather than contingent, in cases of' doubt, explains many of the cases, which are really exceptions to the-general rule laid down in Warner v. Durant (supra), which, as; shown from the citation, is authority for the view that where the; only gift is in a direction to pay or distribute at a future time, without words of present gift, the estate will not vest until the coming of that future time. Thus, in Vanderpoel v. Loew (112 N. Y. 167) the circumstance that the whole income of each share was given to the person to whom the share itself was given, was held controlling as denoting an intention to vest a remainder. So, in Goebel v. Wolf (113 N. Y. 405), the fact that the personalty was vested was regarded as throwing light upon the testator’s intention to have the realty also vest.
+Applying the general rule laid down in Warner v. Durant, viewed in the light of the exceptions founded on the cases cited, it seems to us reasonably free from doubt that the legacies were contingent, and that the circumstances which were resorted to in those cases to vest the interests are not here present. From the will it will be seen that all the personalty is given outright and absolutely to the wife. So far as the rents are concerned, or the income, the amounts which the persons named are to take are unequal, though the desire of equalizing in the final distribution the interests of all parties in the property is apparent.'
+Moreover, the realty, unlike the personalty, is devised to the executors in trust, with direction until the same is sold to pay over the income in equal amounts to the widow and children ; and in the event of the property reaching a certain value during the lives of two of his children, but in any event upon the death of the survivor of them, the executors are authorized and directed to sell the premises for cash, or part cash and part credit; and then follows what we must regard as significant language used by the testator, that they are “ thereupon to divide the whole of such purchase money and mortgages as follows.” This is succeeded by the provisions in which the share each is to receive is indicated; and at the end of these provisions it will be noticed that, while nothing is said about the wife’s share, there is a provision to the effect that “ if any of my said children shall have departed this life before me, leaving lawful issue, such issue shall take their deceased parent’s share amongst them, share and share alike.”
+The intent, we think, from the whole context of the will was, that the interest or share of each one was to be determined by the situation wlien at the period in the future designated the property should be sold and the division made. As suggested by appellant, we find here no words of present gift, and the whole scheme of distribution is introduced by the word “ thereupon,” which, it is urged, should here be given the same force and effect as and held tantamount to the word “then;” which, as shown, has been many times adjudicated by the Court of Appeals to be the pivot upon which the decision of that court turned. (Hobson v. Hale, 95 N. Y. 588; Shipman v. Rollins, 98 id. 311, 324; Quackenbos v. Kingsland, 102 id. 128.)
+Giving due weight, therefore, to the well-settled rule that should incline to a vesting rather than a contingency, we fail to find in this will language which, under the cases to which we have adverted, could be regarded as sufficient to distinguish it from the leading-case already referred to of Warner v. Durant. And thinking- as we do that the general rule laid down in that case should control here, our conclusion is that the legacies were contingent, and that the surrogate was wrong in his construction that they were vested.
+The decree, therefore, should be reversed and the matter remitted to the surrogate for distribution accordingly.
+Yan Brunt, P. J., and Parker, J., concurred.
+Order reversed and case remitted to surrogate.
