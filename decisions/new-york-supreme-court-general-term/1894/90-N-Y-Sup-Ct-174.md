@@ -1,0 +1,38 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12"
+citations: ["90 N.Y. Sup. Ct. 174"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown, P. J., and Dykman, J., concurred."]
+parties: ["Mary Ann Durland, Appellant, v. Jesse Durland, as Executor, etc., of Thomas E. Durland, Deceased, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/90/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1930811
+cites_cases: ["127 N. Y. 93", "80 N. Y. 423"]
+---
+
+# Durland v. Durland
+
+## Majority (Ottllen, J.:)
+
+Ottllen, J.:
+This is an appeal from a judgment in favor of the defendant . entered upon the report of a referee. The plaintiff’s claim is to recover the amount of a promissory note executed by the testator of the defendant. The defensé is that the note was without consideration. "We are not prepared to hold with the learned referee that apart from an assignment hereafter to be discussed it was established that tlds note given by The husband to the wife was without consideration. The proof shows that the wife possessed property which eventually passed to the husband, and also shows a series of transactions between the parties out of which a debt from the husband to the wife might- well have accrued. The proof does not clearly show that any possible liability on such matters was discharged. The substantial evidence to prove that this note lacked consideration is the testimony of Judge Beattie, the counsel of the deceased, as to declarations made by the deceased in plaintiff’s presence and to admissions on her part that an assignment of certain bonds out of which the note in suit directly sprang was a gift by the husband and without consideration. Granting the greatest reliability to be given to the testimony of this witness, as it was undoubtedly entitled to, these admissions should not, considering the business transactions between the parties, outweigh the presumption of consideration which the note imports.
+But whatever may have been the state of the accounts between . the parties, and assuming that the assignment of the bonds was without consideration, still we think it was effective. In December, 1869, the deceased deposited five bonds in the Chester National Bank and took this receipt therefor
+“ December 8th, 1S69.- — • Thomas E. Durland has left in the Chester National Bank for safe-keeping the following described bonds of the township of Pekin, Tazewell county, Illinois, coupons payable on the 1st day of July, each year, at the American Exchange National Bank, New York.” (Here follows the description of five bonds for $1,000 each.)
+This receipt, though unsigned, is in the handwriting of the officer of the bank, and was given on the deposit of the bonds. In December, 1871, the deceased executed at the foot of the receipt the following assignment, and delivered the paper to‘the plaintiff:
+“For value received I hereby assign, transfer and set over to my wife, Mary Ann Durland, the above-described bonds, and hereby request the Chester National Bank to deliver the same to my said wife, and her alone, in the event that she survives me and becomes my widow, but not until then. It is, however, my intention that this assignment is not to take effect unless my death should occur prior to that of my wife, and in that event my wife is to receive said bonds as and for her own in addition to the amount I have heretofore bequeathed her in my will.
+“ In witness whereof I have hereunto set my hand and seal this 22d day of December, 1871.
+“THOMAS E. DURLAND. [l. s.]
+“ In the presence of John Burt.”
+About the time of the maturity of the bonds the deceased took them from the bank and collected and appropriated the amount due on them. If this instrument operated to vest any title in the plaintiff to the bonds deposited, there can be no question that there was consideration for the note which is as follows;
+“ Jcmum-y 1st, 1881.
+“ On demand, I promise to pay to Mary Ann Durland the sum of four thousand dollars (the amount differing on account of depreciation) for investments used as set forth in a paper held by her bearing date of December 8th, 1869, and date of December 22d, 1871.
+“THOMAS E. DURLAND.”
+Assuming that there was no consideration for this assignment, the question then presented to us is whether it was effective and valid. That by its terms the bonds were to be delivered to the wife only after the husband’s decease does not render the instrument a testamentary disposition nor is it sought to uphold it as such. (Carnwright v. Gray, 127 N. Y. 93; Hegeman v. Moon, 131 id. 462; Van Cott v. Prentice, 104 id. 45.)
+The instrument must be sustained if at all upon the ground that it constituted a valid gift or a trust for the wife. That a remainder of the character given the wife by this assignment can be created in personal property we assume to be clear. The difficulty in this case is not as to the nature of the interest created but as to the rule of law on the subject of gifts where the donor reserves an interest in the property given. This subject is so elaborately discussed in Young v. Young (80 N. Y. 423) that for the principles applicable to the matter in hand it is unnecessary to go outside of that case. There Judge Raparlo writes: “The first question which .arises * * * is whether it is practicable to make a valid gift m presentí of an instrument securing 'the payment of money reserving 'to1 the donor the accruing interests, and, if so, by what means this can be done. The purpose of such a gift may undoubtedly be accomplished by a proper transfer to a trustee and perhaps by a written transfer delivered to the donee.”
+If the suggestion of that learned judge be good law there was certainly a valid deed of gift to the plaintiff. And we think it can equally be upheld as creating a valid trust under the rule which is stated by the judge as unquestionable. The bonds in this case were not in the possession of the donor, but deposited in the bank. The assignment not only transferred the property in the bonds to the wife in case she survived the husband, but also expressly directed the bank on such contingency to deliver them to the wife. The assignment reserved to the husband no right to the possession of the bonds or to their disposition, though the proper construction of the instrument would probably reserve to him the interest accruing during his life. Any delivery of the bonds to the husband- by the bank would be unauthorized, for it would put it out of the power of the bank to comply with the direction to deliver the bonds to the plaintiff on her husband’s death. "We think that there are here all the elements of a valid trust, for the creation of which as is often said no particular form of words is necessary.
+The judgment appealed from should be reversed and a new trial had, costs to abide event.
+Brown, P. J., and Dykman, J., concurred.
+Judgment reversed, new trial granted,-costs to abide event.
