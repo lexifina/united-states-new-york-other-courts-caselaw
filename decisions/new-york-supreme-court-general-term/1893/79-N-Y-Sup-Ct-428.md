@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1893-10"
-citations: ["79 N.Y. Sup. Ct. 428", "79 N.Y. Sup. Ct. 622"]
+decided_precision: "month"
+citations: ["79 N.Y. Sup. Ct. 428"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["Rochester Distilling Company, Respondent, v. Mary M. Devendorf, Appel
 source_url: "https://static.case.law/ny-sup-ct/79/cases/0428-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4688487
-cites_cases: ["101 Penn. St. 282", "102 N. Y. 69", "103 N. Y. 25", "12 N. Y. Super. Ct. 201", "121 N. Y. 161", "15 Hun, 282", "16 N. Y. 609", "30 Minn. 61", "4 Paige Ch. 537", "49 Hun, 560", "59 Mich. 119", "64 N. H. 59", "66 N. Y. 385", "79 N. Y. 254", "88 N. Y. 605"]
+cites_cases: ["102 N. Y. 69", "121 N. Y. 161", "30 Minn. 61", "4 Paige Ch. 537", "49 Hun, 560", "66 N. Y. 385", "79 N. Y. 254"]
 ---
 
 # Rochester Distilling Co. v. Devendorf
