@@ -1,0 +1,39 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1859-12"
+citations: ["9 Abb. Pr. 422"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DE LA HUNT a. HIGGINS."]
+source_url: "https://static.case.law/abb-pr/9/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4591892
+cites_cases: ["2 Hill, 587", "23 Wend., 626", "4 Den., 163"]
+---
+
+# De La Hunt v. Higgins
+
+## Majority (Daly, F. J. Brady, J. (after stating the facts).)
+
+Daly, F. J.
+Wynne a. Alden (4 Den., 163), is a controlling authority as to the insufficiency of the notice. It appeared in that case, that the note was duly demanded, and payment refused, upon the day it fell due, and that the notice was mailed on that day to the defendant, but as the notice was without date, and stated that the note was “ this day presented for payment and payment was refused,” it was held to be insufficient. This was going very far, and farther I think than the policy of the commercial law required, but as the case has not been reversed by the Court of Appeals, it should be conformed to and followed. I do not agree that it must be regarded as overruled by the decision of the Court of Appeals in the Cayuga County Bank a. Warden (1 Oomst., 413), as the question there was solely whether the indorser was or could be misled by the erroneous description of the note.
+The case is, if any thing, stronger than Wynne a. Alden, as here the notice was dated as if the day before the note fell due, and came near to Ransom a. Mack (2 Hill, 587), where it was dated the day after, and it was said by Beoksoit, J., in that case, that the indorser had a right to presume that the note was demanded the day after it fell due, as in this case he might presume that it was demanded the day before it fell due. The conclusion in Ransom a. Mack was, that the indorser had a right to consider himself discharged, as the notice showed that the holder relied upon a demand that was utterly void, and the same conclusion applies with equal force to this case, for here the notice, bearing date the day before the note was due, was that the note had been “ protested for non-payment, payment having been demanded and refused.”
+The judgment must be reversed.
+Brady, J. (after stating the facts).
+The defendant, M. J. Higgins, the indorser, insists that the notice was not sufficient to charge him, and that the judgment against him should be reversed. He relies upon Wynne a. Alden (4 Den., 163), and Ransom a. Mack (2 Hill, 587).
+In the former case the notice was without date, but stated that the note had “ this day been presented to the maker for payment, and payment refused.” The question presented was on the face of the notice, no evidence of extraneous facts having been given, in aid of the intrinsic defect in the notice, and the notice was held to be insufficient. In the latter case the notice was dated one day after the day on which the presentment should have been made, and stated that on “ that day” the note was presented. The notice was held to be insufficient.
+The indorser is entitled to notice of the due presentment of the note, either in express terms or by necessary or reasonable implication from what the notice contains ; and it must appear in one form or the other, or the notice will be defective. (Edwards on Bills, 470; Wynne a. Alden, 4 Den., 163; Ransom a. Mack, 2 Hill, 587; Remer a. Downer, 23 Wend., 626; Cayuga County Bank a. Warden & Griswold, 1 Comst., 413.)
+In this case there was no intrinsic defect in the notice. It contained all the requisites to charge the indorser, and is unlike the case of Wynne a. Alden (4 Den., 163). If the notice had no date, the evidence in the case of extraneous facts, namety, oí the presentation and dishonor on the 1st July, would be sufficient in aid of the notice, but the date of the notice being the 30th June, one day before the note became due, and the notice asserting that payment had been demanded, was notice to the indorser that on or before the 30th June such presentation had been made. If the notice had stated “ payment on this day having been demanded” it would present the same question considered in Ransom a. Mack (2 Hill, 587), because it would then appear that the demand was made on the day of the date of the notice.
+I think the authorities referred to are conclusive of the question herein arising upon the contents of the notice. There is nothing in it which either in express terms, or by necessary or reasonable implication, notifies the indorser that the note was presented and dishonored when it became due, and that the judgment should therefore be reversed as to M. J. Higgins.
+
+## Dissent (Hilton, J. (dissenting).)
+
+Hilton, J. (dissenting).
+It is not, nor indeed, upon the evidence, can it well be disputed, that the note in question on the day it matured was demanded of the maker, and payment refused ; and that notice of this demand and non-payment was on the day following duly given to the indorser, M. J. Higgins. But it appears that the notice was wrongly dated by a mistake of the notary, and it is contended that the effect of this mistake is to invalidate the notice, and thus discharge the indorser from liability.
+It is not intimated, nor is there any evidence in the case, from which it can be presumed that the defendant was in any way misled by this error, or that the notice failed to apprise him that this particular note had been dishonored, and under such circumstances, I think, the justice very properly considered the evidence at the trial as aiding the defect in the notice, and in determining as to its sufficiency.
+The cases of Wynne a. Alden (4 Den., 163), and Eansom a. Mack (2 Hill, 587), cited and relied on by the appellant, seem to me to have been overruled by the Court of Appeals in Cayuga County Bank a. Warden (1 Comst., 413), as far as they may be deemed controlling upon the question here presented. In the latter case the objection rested upona misdescription of the note, and, therefore, it was claimed that the notice of protest was not calculated to inform the defendant of the note in that suit having been dishonored.
+It then appeared in evidence that although the note was misdescribed in amount, and also in other respects, yet the defendant could not have been misled thereby, as the bank held no other note indorsed by him. Chief-justice Jewett, in delivering the opinion of the court said: “ Concede that such variance or misdescription exists, it is well settled in accordance with good sense, that an immaterial variance in the notice will not vitiate it. And certainly a variance is immaterial which is not calculated to, and does not in reality, mislead a party. Here the note was properly described, was duly demanded when it became due, and the day following such demand the defendant was notified thereof, and merely because the notice bore a wrong date, and stated that the note had been on that da/y demanded, it cannot and ought not in the absence of any proof on the subject be inferred that this error in date misled the defendant to his injury.”
+It seems to me, in the words of Chief-justice Jewett, “that to hold in conformity with the objection here stated, would be to sacrifice substance to the merest technical formality, and that it is quite impossible not to see, under the circumstances disclosed in this case, that the notice here given fully informed the defendant that this particular note had been dishonored.”
+The remaining objections on this appeal appear to me fully disposed of by.the evidence at the trial, showing this note to have been given for property purchased with money belonging to the separate estate of the plaintiff, and that she became the holder of it for a valuable consideration before maturity.
+I am of opinion that the judgment was right and should be affirmed.
