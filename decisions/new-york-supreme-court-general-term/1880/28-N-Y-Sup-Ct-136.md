@@ -1,0 +1,37 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1880-05"
+citations: ["28 N.Y. Sup. Ct. 136"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J,, concurred."]
+parties: ["JOHN W. GREENE, as Administrator, &c. of DAVID GREENE, Deceased, Respondent, v. JOHN MARTINE and others, as Executors, &c. of THEODORE MARTINE, Deceased, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/28/cases/0136-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1912112
+cites_cases: ["20 Hun, 50", "53 N. Y., 4", "72 N. Y., 486"]
+---
+
+# Greene v. Martine
+
+## Majority (Brady, J.:)
+
+Brady, J.:
+This action was brought to revive and continue a former action, brought by Margaret Greene, executrix of David Greene, deceased, against Theodore Martine, in which both of the original parties have died.
+The action may be regarded as a perfect antique. It was commenced in 1857 ; it was referred, and testimony taken in 1858; the original plaintiff died in 1863 ; the original defendant in 1877; and the present plaintiff procured letters of administration of David Greene’s estate, to which the claim belonged, in October, 1877. He commenced this action for revivor in January, 1878. The learned justice in the court below, after a re-trial, in which the respective parties presented all that they had for his consideration, in reference to the final results, expressed his view as follows:
+“ If, in the decision of this case, I follow the decision in the case of Beach v. Reynolds (53 N. Y., 4), the defendant is entitled to judgment. If, on the other hand, my conclusion is controlled by the case of Evans v. Cleveland (72 N. Y., 486), the plaintiff is en titled to the relief asked for. I am unable to reconcile these decisions, and I am bound to follow the latest, as the most recent exposition of the law. Judgment for plaintiff, without costs.”
+In the case which he declares makes the latest revelation of the law applicable to such cases, the case of Beach v. Reynolds is considered and declared to be distinguishable. In Evans v. Cleveland it was declared that no mere lapse of time after the commencement of an action at law, will bar the action under the statute of limitations ; and, further, that statute cannot in any case, furnish a defense, unless the action was barred before its commencement, and no mere lapse of time will defeat an application for the continuance of such an action in the name of the representatives of the deceased party; and it was left doubtful whether the rule applied to equity cases. Justice Earl, in delivering the opinion of the court, said : “ The case of Beach v. Reynolds is not an authority against the conclusion thus reached. That was an equitable. action, and the cause of action was there barred before the action was commenced.”
+These suggestions explain the difference between the two cases, one of them being an action at law, and the other in equity, and it appearing that in the equity action the cause of action was barred before the action was commenced. This action is one for an accounting, and, therefore, on the equity side of the calendar; but the cause of action was not barred when it was commenced. The progress of the case, it is true, has been marked by great delays, which are to some extent accounted for by a variety of circumstances to which it is not considered necessary particularly to allude. But these delays could have been overcome, and arrested if the defendant in the action had chosen to avail himself of the provisions of the statute which gave him the right to expedite the determination of the action.
+It was said in the case of Evans v. Clevland that as an action conld be revived by supplemental complaint only, if the delay had been unreasonable, or in any way damaging to the defendant, the application might be denied.; but that, under section 121, the court may, on the application of the living party, prescribe a time not less than six months, nor more than a year, within which the representative of the deceased paidy must be substituted. “ The living party, therefore, in such a case, has an ample remedy to secure himself against inconvenience or embarrassment without any statute of limitations.”
+Although, perhaps, as already suggested, the case thus referred to leaves the application of the rale declared by it qucere as to equitable actions; nevertheless the whole reasoning of the opinion is a demonstration that no such distinction is designed to be made, because Justice Eakl, at p. 190, says: “ Section 121 fiumshes a uniform rule for all actions legal and equitable, and now there can be no necessity for' the rale originally adopted in equity, because, as above shown, the living party has ample means to protect himself against unreasonable delay.” Where the cause of action is not controlled by the statute of limitations, and where the, defendant sued has the right to insist upon the appointment of a representative of his adversary dying in the progress of the cause, the charge of laches does not seem to be maintainable, because if he desired a more expeditious determination of the controversy, he could resort to the means suggested to accomplish it. The Legislature, by the provisions of the Code, seem to have established this doctrine, because by section 757 it is provided as follows: “ In case of the death of a sole plaintiff or defendant, if the cause of action survives or continues, the court must, upon a supplemental summons and complaint, or, in its discretion, upon a motion, if made within one year after decedent’s death, in a proper ease allow or compel the action to be continued by or against his representative or successor in interest.”
+This provision of the Code was in existence at the time this action was commenced. In 1879 the Legislature 'amended the section by striking out the words, “ a supplemental summons or complaint, or in its discretion,” and also the words, “if made within one year after the decedent’s death, in a proper case,” leaving the section to read as follows : “ Section 757. In case of the death of a sole plaintiff, or a sole defendant, if the canse of action survives or continues, the court must, upon a motion, allow or compel the action to be continued, by or against his representative or successor in interest.” So that under the existing law, as prescribed by the Code, it seems to be tho duty of the court to continue the action if it survives or continues, upon a motion only to be made for that purpose. This result is doubtless predicated of the right of the living party to compel a determination of the controversy, and does away, therefore, with the doctrine of laches as applicable to such cases.
+Under all these circumstances we do not understand how we can interfere with the decision of the court below. It is quite evident from the disposition made with regal’d to costs, that, as a matter of discretion, the amendment would have been allowed, and with the exercise of such a discretion there is nothing in this case to justify any interference.
+The judgment should be affirmed, but without costs.
+
+## Concurrence (Barrett, J.)
+
+Barrett, J.
+I concur in the result. . My views of the effect of the amendment of 1879, to section 757 of the Code of Civil Procedure, were expressed in Coit v. Campbell, 20 Hun, 50.
+Davis, P. J,, concurred.
+Judgment affirmed, without costs.
