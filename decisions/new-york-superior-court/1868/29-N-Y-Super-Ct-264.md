@@ -1,0 +1,30 @@
+---
+court: "New York Superior Court"
+decided: "1868-04"
+citations: ["6 Rob. 264", "29 N.Y. Super. Ct. 264"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. Mendal Shafer, plaintiff and respondent, vs. James W. Guest, defendant and appellant."]
+source_url: "https://static.case.law/ny-super-ct/29/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1395637
+cites_cases: ["18 N. Y. Rep. 558", "2 Sandf. 732", "24 How. 62", "24 How. Pr. 333", "42 Barb. 623", "6 Wend. 603"]
+---
+
+# Shafer v. Guest
+
+## Majority (By the Court, Monell, J.)
+
+By the Court, Monell, J.
+The defendant, upon his examination as a witness, testified that Miss Osborne was owing him “ some ” for washing, but not for board. Indeed the evidence is uncontradicted that, at the time Miss Osborne left the defendant’s house she paid all that was due for board and use of rooms. There was not, therefore, a present indebtedness; which was essential to give a boarding house keeper’s lien upon the property of his guest. Even if the arrangement made with Wood, that Miss Osborne should board with the defendant for a year, and that he, Wood, would pay the rent, could have been enforced after Miss Osborne left, it would not have created a lien upon the property. The act which provides for the protection of boarding house keepers, (Laws of 1860, p. 771,) gives the lien upon the effects of the boarders for the amount which may be due for board, and it cannot be extended to any other indebtedness, nor to any demand not due at the time of the detention. (Cross on Liens, 43.)
+I do not deem it necessary to look into that part of the case which relates to the second defense, namely, that the defendant claimed to hold the furniture under the agreement made with Wood. The evidence on that branch of the case -was such as, in my judgment, should have gone to the jury; especially as the uncontradicted testimony of the defendant established that the agreement was communicated and assented to by Miss Osborne before she became a boarder in the defendant’s house. But as no request was made, at the trial, to submit that or any other question of fact to the jury, it is too late to raise the objection now. (Winchell v. Hicks, 18 N. Y. Rep. 558; Clark v. The Mayor, &c. 24 How. Pr. 333.)
+The proof of a demand before suit was, it seems to me, clearly insufficient. But as the objection was not taken at the trial, it cannot be raised now. It was one of those objections which might have been obviated by-proof; and the attention of the plaintiff should have been called to the defect in his evidence, that he might, with the permission of the court, have supplied it. ( Wheeler v. Ryerss, 4 Sill, 466. New York and Erie Railroad Co. v. Cook, 2 Sandf. 732.)
+I think the exception should be overruled, and judgment ordered for the plaintiff on the verdict.
+
+## Concurrence (Robertson, Ch. J.)
+
+Robertson, Ch. J.
+I cannot find enough evidence in this case to have gone to the jury upon the question of any agreement by the former owner of the furniture in question (Miss Osborne) to allow the defendant the use of it for a year, which formed the last defense set up in the answer. It is very plain that such furniture was only to be employed in furnishing the rooms occupied by such owner; and therefore to remain constantly in her possession. The defendant expressly testified that he was to give such owner and her sister the second floor of his house, and that her agent (Wood) was to furnish it, which he did by means of such furniture. The submission of any such question to the jury would therefore have been improper.
+The former owner of such furniture testified that when she left the defendant’s house, she owed him nothing for board of herself or sister, and his receipt was produced for board to the time of her leaving. There was, therefore, nothing due for which the defendant had any lien. Any liability under the agreement with the defendant for damages in not boarding, pursuant to it, would not be the subject of a lien, even if the special agreement did not altogether defeat, one. (Trust v. Pirsson, 1 Hilt. 292.) If the defendant had been an inkeeper, he clearly could not have detained the furniture in question for mere non-performance of an agreement to board in future with him, and the statute of April, 1860, (N. Y. Sess. Laws, 1860, ch. 446, p. 771,) only gives the keeper of a boarding house a lien upon and right to detain the baggage and effects of a boarder, for the amount which may be due iy him, to the same extent and in the same manner as innkeepers have them. Thus limiting the lien to that for board actually due, and not including board to become due under an agreement to board in future.
+There was, therefore, no question left for the jury to pass upon, and the instruction to find a verdict for the plaintiff" was correct. I am not prepared to say what would have been the rule, if the evidence had clearly established an agreement or a lien. As the case stands, I concur in affirming the judgment and order appealed from.
