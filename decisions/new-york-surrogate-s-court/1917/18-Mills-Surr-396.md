@@ -1,0 +1,24 @@
+---
+court: "New York Surrogate's Court"
+decided: "1917-02"
+citations: ["18 Mills Surr. 396"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Application for Letters of Administration upon the Goods, Chattels and Credits of Joseph Mandelkorn, Deceased."]
+source_url: "https://static.case.law/mills-surr/18/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1098449
+cites_cases: ["33 Misc. Rep. 674"]
+---
+
+# In re Letters of Administration upon the Goods, Chattels & Credits of Mandelkorn
+
+## Majority (Schulz, S.)
+
+Schulz, S.
+S.The administrator of the goods, chattels and credits of the decedent applies for hn order directing a substitution of attorneys. The matter in which the attorney whose substitution is sought appeared for the petitioner was the proceeding brought by the latter to obtain letters of administration upon the decedent’s estate. On that application a final decree was entered on the 5th day of December, 1916, and letters of administration were thereafter duly issued out of this court. That proceeding was thereby closed.
+It has been held that an order substituting one attorney for another is "merely an incident in the progress of a cause and no such order can be made by a court in which no cause is pending to which such order can relate. (Matter of Krakauer, 33 Misc. Rep. 674, citing Matter of Hoyt, 5 Hem. 432, 445.)
+At the time of the application for such substitution, there was pending in this court a proceeding for the revocation of the letters of administration that had been granted to the petitioner. This was a new proceeding entirely independent of the one which resulted in the grant of letters of administration. (Code Civ. Pro., § 2569.) In that matter the petitioner had the right to be represented by any attorney he desired and has in fact appeared in court by attorneys other than the one who acted for him in the administration matter.
+The order prayed for is therefore unnecessary and the appli-. cation is denied.
+Motion denied.
