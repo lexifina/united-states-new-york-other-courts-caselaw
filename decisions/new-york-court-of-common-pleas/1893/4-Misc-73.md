@@ -1,0 +1,30 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1893-06"
+citations: ["4 Misc. 73"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Howe & Hummel v. Schweinberg, as Administratrix."]
+source_url: "https://static.case.law/misc/4/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 688968
+cites_cases: ["25 N. Y. 361", "70 N. Y. 177", "83 N. Y. 438"]
+---
+
+# Hummel v. Schweinberg
+
+## Majority (Pbtoe, J.)
+
+Pbtoe, J.
+The plaintiffs sue upon a special contract for a, fee of $1,000, contingent on the event of the litigation for which they were retained. On the trial the'single issue in controversy was as to the fact of the agreement. At the close, of the plaintiffs’ case, the defendant declined to introduce any evidence, whereupon the court directed a verdict for the plaintiffs, and the only question for adjudication is, whether the issue touching the contract between the parties should, have been submitted to the jury.
+Upon the assumption that, for proof of the contract, the plaintiffs relied exclusively on the testimony of Moss, their clerk, and that his story was improbable and discredited by his own contrary declarations, the defendant insists that the evidence presented a case for determination by the jury.
+Certainly the courts have gone very far in refusing to decide a case on the uncorroborated evidence of a witness whose relations to a party imply the influence of some sinister interest or motive. Whether the testimony of the witness Moss, before us, in view of his connection with the plaintiffs,, and his supposed improbable and discrepant statements, be of the character impugned by the decisions, we need not determine, for it was abundantly confirmed by another witness whose evidence is accredited by its repugnancy to his own obvious interest.
+Simon Feist was called by the plaintiffs to prove the disputed contract; but, as he had guaranteed its performance by the intestate, the defendant procured the rejection of his testimony, because incompetent under the provisions of section 829 of the Code. Nevertheless, the defendant proceeded,, upon cross-examination, to show by the witness that he had made a payment to plaintiffs, and the time of the payment. Thereupon, plaintiffs’ counsel elicited from the witness thq fact that he made the payment on his guaranty of the very contract in controversy.
+Here, beyond question, was the most persuasive proof of the contract; because, by a witness who was himself bound to perform it on the default of defendant’s intestate, and who, indeed, had already made a partial payment in discharge of his obligation under it. In Kavanagh v. Wilson, 70 N. Y. 177, 179, the court say : “ When a disinterested witness, who is in no way discredited, testifies to a fact within his own knowledge, which is not of itself improbable, or in conflict with other evidence, the witness is to be believed, and the fact is to be taken as legally established, so that it cannot be disregarded by court or jury.” Lomer v. Meeker, 25 N. Y. 361; Elwood v. Western Union Telegraph Co., 45 id. 549. True, the witness was interested; but as his interest was against his testimony, we have a stronger confirmation of his veracity than if he stood wholly indifferent.
+The defendant urges, however, that the contract is incredible, and so it might be if an absolute engagement to pay, but being contingent on the success of the services, it is not an improbable bargain.
+Defendant’s counsel contends further, that the evidence, though drawn from the witness by cross-examination, was incompetent under section 829 of -the Code; but how so? By interrogating upon new matter, the defendant made the witness her own, and, by a partial disclosure, entitled her adversary to a revelation of the entire transaction. People v. Oyer and Terminer of New York, 83 N. Y. 438; Nay v. Curley, 113 id. 575 ; Merritt v. Campbell, 79 id. 625.
+The conclusion is that the court was well warranted in withholding the case from the jury.
+Judgment affirmed, with costs.
+Bookstaveb and Bischoff, JJ., concur.
+Judgment affirmed.
