@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1890-12"
+citations: ["65 N.Y. Sup. Ct. 563"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Daniels, J., concurred."]
+parties: ["In the Matter of the Application of the METROPOLITAN ELEVATED RAILWAY COMPANY, Relative to Acquiring Title to Certain Real Estate in the City and County of New York. (In re WATSON and Others.)"]
+source_url: "https://static.case.law/ny-sup-ct/65/cases/0563-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4622215
+cites_cases: ["78 N. Y., 423", "90 N. Y., 122"]
+---
+
+# In re the Metropolitan Elevated Railway Co.
+
+## Majority (Brady, J.:)
+
+Brady, J.:
+These proceedings were commenced July 10,18S9, to condemn so much of the easements as were taken by the petitioner in the construction and operation of its road in West Fifty-third street, appurtenant to the premises known as 121 and 138 in that street, the former owned by John H. Watson and the latter by Mary E. Hughes, the appellants herein. The questions involved in each proceeding are the same.
+In 1884 and 1887 actions were brought in the'Superior Court of this city to recover damages resulting from the unlawful use by the company and their lessee of the easements and privileges appurtenant to the property of tbe respective persons named, which had been taken from them without compensation, and seeking the equitable interference of the court by enjoining the further use of these easements and privileges and the recovery of damages for the loss sustained. ‘ The plaintiffs were successful. An award of damages was made in each case, and the value of the easements determined, and provision in the judgments made, which was independent of the award of damages,' that upon the payment of the sum mentioned in each judgment a conveyance of the easements and privileges should be executed, the- prototype of the judgments being found in the case of Henderson v. New York Central Railroad Company (78 N. Y., 423). The company in this proceeding invoked the provisions of the general railroad act of 1850 (chap. 140), which was their right, and the appellants insisted that the judgments mentioned, in which their premises, respectively, were the subject of contention, were res ad,judicata between them, and offered the judgments in evidence before the commissioners. They were rejected, and this was the proper disposition of them according to the decision in the case of Henderson already mentioned. It appears that damages were awarded in that case for an unauthorized appropriation of the property in question, and the value thereof having been ascertained the judgment also provided for the tender of .a conveyance by the plaintiffs of their interest in the property in controversy.
+The court said in that case that, in view of the annoyance and the expense incident to the stoppage of its trains, it was just to open the doors of escape and to permit the defendant at once to acquire title to the land occupied, and thus avoid the delay incident to other proceedings for that purpose,-but that it was, noth withstanding, optional with the defendant to comply with the conditions; the plaintiff could not require it. And again, that if the company did not accept the conditions, and chose to- proceed under the statute, the record of the judgment would prevent the allowance of any damages for injury to the land not actually taken, or for any cause covered by its provisions, and leave the defendant liable only for those which may be assessed for the road-way. And this is a declaration that the provision in reference to the deeds contained in the judgments offered in evidence imposed no obligation whatever upon thercompany, and that they could accept those terms or not as they pleased. And the same doctrine seems to have been intimated, if not asserted, in Story v. New York Elevated Railroad Company (90 N. Y., 122). It may be further said that the right of the company to acquire the title to lands was not in issue in the actions mentioned, but was incidentally and equitably connected with the continuance Ur discontinuance of the injunction prayed for. The right to damages and the propriety of an injunction were the subjects litigated, and it may be the value, but only for the purpose of ascertaining the damages, and thus it was incidental. It was upon this theory, no doubt, that in the Henderson Case the suggestion of a deed was regarded as a proper exercise of equitable jurisdiction, though not compulsory upon the defendant, as a means of avoiding the necessity of proceedings to condemn the land under the statute^ and at the same time affording full protection to the owner. No error was committed, therefore, before the commissioners. The petitioner’s right to proceed under the railroad act mentioned was intact. The order below confirming the proceedings before the commissioners was, therefore, properly made and the appeal from it unavailing.
+The order should be affirmed, with ten dollars costs and the disbursements of the appeal.
+Daniels, J., concurred.
+Order affirmed, with ten dollars costs and the disbursements of the appeal.
