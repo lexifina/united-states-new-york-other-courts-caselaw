@@ -1,0 +1,20 @@
+---
+court: "New York Court of Chancery"
+decided: "1833-07-16"
+citations: ["4 Paige Ch. 124"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Leacraft, executrix, &c. vs. Demprey."]
+source_url: "https://static.case.law/paige-ch/4/cases/0124-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050454
+---
+
+# Leacraft v. Demprey
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The plea in this case is a sufficient defence to so much of the bill as seeks an account and satisfaction of the rents and profits of the premises, in the bill mentioned, up to and including the first of February, 1831. But it is defective in a point of form; it being overruled by the answer. It is not necessary to decide the question whether any of the facts stated in the answer do in fact cover the part of the bill intended to be covered by the plea. I am inclined to think, however, they do not. But by referring to the commencement of the answer, it will be seen that it purports to be an answer to the whole bill, without excepting those parts to which the defendant has pleaded in bar, both as to the discovery and relief. The defendant may plead, answer and demur to the same bill; but each of these defences must refer to, and profess, in terms, to be. put in as a defence to separate and distinct parts of the bill. Thus, if an answer commences as an answer to the whole bill, it will overrule a plea or demurrer to any particular part of the bill, although the defendant does not in fact answer that part of the bill which is covered by the plea or demurrer. Lord Redesdale says, if the plea is to part of the bill only, and there is an answer to the rest, it is expressed to be an answer to so much of the bill as is not before pleaded to, and is preceded by a protestation against the waiver of the plea. (Mitf. PL, 4 Lond. ed. 300.) In practice, the plea or demurrer usually precedes the answer, which in that case commences thus : “ And as to the residue of the said bill, this defendant not waiving his said plea, but relying thereon and saving and reserving to himself) &c, for answer thereto, or to so much thereof as he is advised is material,” &c. (Lube’s Eq. PI. 390.) I see no objection, except as to the convenience of reference, in permitting the answer to precede the plea, as has been done in the present case. But then the pleader must, by a reference to the part of the bill which is subsequently covered by the' plea, or otherwise, show that it is an answer to the residue of the bill only. As the answer in this case commences and concludes as an answer to the whole bill, in the same manner as if it was not intended to be followed by a plea as to part, in point of form the plea is overruled by the answer, and cannot therefore be allowed.
+As this plea, however, is a full defence to so much of the bill as it professes to cover, and is merely informal in consequence of the inadvertence of the solicitor in not excepting that part of the bill in the commencement of his answer, it would be a "matter almost of course to permit him to amend, on payment of costs. And as the cause must go to a hearing upon the other parts of the bill, it will be equally beneficial to the defendant if I permit the plea to stand for an answer. I shall therefore direct it to stand for an answer; declaring it to be a good defence, if established by proof, to so much of the bill as seeks for an account and satisfaction of the rents and profits up to and including the 1st of February, 1831. And the complainant is not, by exceptions, to be permitted to call for an account of those rents and profits, or for any further answer as to that part of the bill. This, however, will not preclude the complainant from excepting to the answer to the other parts of the bill, if such answer is insufficient. (Coke v. Wilcox, Mosel. Rep. 74.) And the defendant must pay the costs of the argument of the plea.
