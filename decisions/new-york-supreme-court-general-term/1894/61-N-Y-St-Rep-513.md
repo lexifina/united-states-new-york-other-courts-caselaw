@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05-14"
+citations: ["61 N.Y. St. Rep. 513"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joanna Ditmas et al., as Administrators, etc., Resp’ts, v. Hector M. Hitchings et al., as Executors, etc., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/61/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2099435
+---
+
+# Ditmas v. Hitchings
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+—This action is brought to recover $2,500 delivered by the plaintiff’s intestate to defendant’s testator for a purpose which failed. The defense, a counterclaim for legal services, was the only matter in dispute. The respondent’s intestate testified, in general terms, that ho never employed appellant’s testator to render any legal services ; yet, when pushed on cross-examination, he admitted that he employed the elder Mr. Hitchings to obtain a title to real estate, and also had interviews with the younger Mr. Hitchings, whom he erroneously supposed to be in partnership with his father, for the purpose of having the work hurried up. The plaintiff testified that he was at the lawyer’s office a great many times; that the matter lasted two or three years. The negotiation for the purchase resulted in a verbal agreement, by which Ditmas would receive the property on the terms he offered. Mr. Hitchings drew up two deeds,—the first having proved unsatisfactory,—the last of which would have been executed, had not Ditmas disclosed to the attorney of the grantors the sum he expected to pay. As the failure of Mr. Hitchings to get. the deed was the result of Ditmas' personal intervention, it would seem that Mr. Hitchings was entitled to be paid for his services up to that time. The court charged the j ary that his compensation depended on his good faith, and suggested that, if he did not inform Ditmas of the price for which the property could be got, it was an act of bad faith, which would destroy his right to compensation. That instruction was excepted to, and is alleged as error. An inspection of the pleadings shows that bad faith on the part of the attorney was not pleaded as a defense.
+There was, therefore, no question of good faith before the jury. The instruction was error, and the exception well taken. We have examined the testimony, and do not find that it shows any ground for imputed bad faith. Mr. Hitchings was not employed to obtain the property at a low price. A witness testifies that he offered to pay $2,500 for the property if Mr. Hitcliings could get it. He testifies that he knew there would be trouble in making title to the property, because the heirs were aliens. He could not imagine a lawyer would arrange a complicated matter without compensation, and, from his evidence, it is clear that he expected both Hitchings and Baas would receive a part of the $2,500. There was, therefore, nothing in the evidence to raise the question of good or bad faith, and the jury might well have been instructed that Mr. Hitchings was entitled to receive reasonable compensation for his services in carrying on the negotiation.
+There was also a claim for service in respect to a will. Ditmas testified that he consulted defendant in respect to drawing a will. He described his property, which consisted in part of real estate in six different states. The estate was testified to be “ immense,” and the rights of several minor children were to be guarded. Ditmas stated his wishes in respect to the provisions of the will, was informed that executors would be required to carry them into effect, and a future meeting was provided for. To be prepared, when that meeting should take place, to proceed to the execution of the will, would necessarily require a study of the laws of each of the states where real property was located. The estimate of $200 for such a service was moderate. In allowing nothing for that service, the verdict was erroneous.
+The order denying a new trial should be reversed, and a new trial granted, costs to abide the event.
