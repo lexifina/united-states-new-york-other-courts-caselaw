@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1890-06"
+citations: ["25 Abb. N. Cas. 185"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SABRISKI v. VELOSKI."]
+source_url: "https://static.case.law/abbn-cas/25/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1966180
+cites_cases: ["103 N. Y. 414", "108 N. Y. 495", "4 Daly, 421", "56 N. Y. 12"]
+---
+
+# Sabriski v. Veloski
+
+## Majority (Beach, J.)
+
+Beach, J.
+By a written agreement, dated September 10,1889, the plaintiff and defendants agreed to an exchange of real properties owned by them respectively in this city. That of the defendants was described as being twenty-five feet wide, and it is but twenty-four. The plaintiff brings suit to enforce a specific performance, with compensation to her for the deficiency of one foot. There is a divergence in the evidence upon the subject of what was said about the dimensions of defendants’ lot when the contract was executed. From the peculiar mention of its depth in the agreement, in connection with the oral testimony upon defendants’ behalf, I am inclined to conclude that the defendants’ contention upon the point is correct. The defendants’ lot is wholly covered in width by a building, and there can be no doubt that the plaintiff viewed it with particularity enough, to be aware of that fact.
+There are reasons, apparently well established by authority, which, in my opinion, prevent the rendition of a decree,., conforming to the relief prayed in plaintiff’s bill of complaint. The foundation of the jurisdiction of this court to decree specific performance, is the inadequacy of the remedy at law (Fry on Specific Performance, § 13, p. 48, with numerous, adjudications given in note). In this case I have no doubt that a court of law can afford the plaintiff an adequate-remedy through an action for damages.
+The contract is one for an exchange of realty, and the-defendants being unable to perform, by no act of theirs, the inability constitutes a perfect defense in equity (Fry on Specific Performance, § 658, pp. 389, 390, and note; Beck v. Allison, 4 Daly, 421; Sternberger v. McGovern, 56 N. Y. 12). The reason of the rule is that a decree would, in. substance, call upon the party to perform a contract which he did not make. In the case at bar, the agreement was-for an exchange, the values and money to be paid,' specifically fixed, for the barter. To compel the defendants to-make compensation in money would for them create an. obligation they had never assumed, nor intended to assume.
+The words of the court in Sternberger v. McGovern (supra) state the principle, and also answer the authorities cited on plaintiff’s behalf: “The counsel cites numerous authorities showing that, when a vendor is unable to perform the entire contract, the purchaser may, if he chooses,. enforce performance of that part which the vendor can perform, and recover compensation for the part unperformed... I have examined these and find that, in general, they are-cases where there is a failure of title in the vendor to a part, of the premises agreed to be conveyed ; and when a proper-deduction from the purchase price can be ascertained and determined so as to do complete justice between the parties-in the case before the court.” Upon the main proposition the court say : “ Under this construction the plaintiffs, i£: unable to give title to the Thompson street property, might have been compelled to take the Mott Haven, and pay cash therefor. As above remarked, this would entirely defeat the intention of the parties, as appears from the language of the entire contract. That shows that the object was to exchange the one property for the other, the defendant paying the estimated excess in the value of the plaintiffs’ property to them. This being so, the contract was entire,. and a specific performance of a part cannot be awarded.” And again: “ Under such a contract, to require the defendants to convey the Mott Haven property to the plaintiffs, and pay such compensation as the court should determine its-market value was impaired by the outstanding inchoate right of dower, of such sum as the real value of such right ascertained by the tables of mortality, would be harsh and oppressive.”
+The case of Smyth v. Sturges (108 N. Y. 495) was one where, on the one side was only money, and, as in many others, under such a condition there may be a sound footing for decreeing a part specific performance, with money compensation. Of the same nature is Bostwick v. Beach (103 N. Y. 414).
+Decree for the defendants, dismissing the complaint,,, without costs.
