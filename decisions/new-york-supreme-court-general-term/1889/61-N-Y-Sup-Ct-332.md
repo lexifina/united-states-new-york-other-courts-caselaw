@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-11"
+citations: ["61 N.Y. Sup. Ct. 332"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Daniels, and Barrett, JJ., concurred."]
+parties: ["THE PEOPLE OF THE STATE OF NEW YORK, Respondent, v. WILLIAM GLYNN, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/61/cases/0332-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4578892
+---
+
+# People v. Glynn
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+The evidence in this case shows that one Hiram Springstead was, in October, about the llth, 188S, the captain of a trading schooner, which was lying at the foot of One Hundred and Ninth street, East river, in this city. At midnight he, being in his cabin, heard a noise on deck. The cabin doors had been fastened with lashings on the inside. The captain shoved the door but could not get out because of obstructions from the outside. A knife had been stuck through and the inside lashings cut. The captain then blew out the light and went through the hold and out on deck through the fore-peak hatch, Upon getting upon the deck he saw the appellant standing aft by the cabin door, also another man on deck and a man in a row-boat alongside.
+• The appellant pointed a pistol at the captain and ordered him to go below or he would blow his brains out, which injunction the captain does not seem to have heeded, because, he says, “ I took my chances and slugged him and he fell overboard, and the other man jumped into the boat and it went away.” They then pegged the captain with stones and brick-bats so that he had to lie down below the rail of the vessel to escape the missiles. After they had rowed away the captain examined the boat and missed the articles which were claimed to have been stolen.
+The point made upon this appeal is that the evidence was insufficient to warrant the verdict, in that the acts proved do not constitute robbery. The indictment charged that the appellant, with force and arms, took the articles in question in the presence of the captain against his will, by means of putting the said captain in f ear of some immediate injury to his person.
+It is urged, first, that there is no proof whatever that any property was taken in the presence of the captain, and that the evidence shows that the taking was not against his will, and that the property was not taken by putting the captain in fear; and it is urged that the facts show that the captain not only was not put in fear, but that he q>ut his assailants, among whom was the defendant, in that condition of mind. It seems to be assumed that under the definition of robbery as contained in the Penal Code, fear is a necessary ingredient of the crime, but as we read the Code, fear is not a necessary element, but may be an element which goes to make up the crime.
+Bobbery is to be defined to be the unlawful taking of property from the person of another or in the presence of another against his will by means of force. Neither fear or violence enter into this definition. It is only in the third definition where the element of fear is mentioned, the fear of injury, immediate or future, to his person or property. Therefore, if the property in question was taken in the presence of this captain by means of force or violence, whether it produces fear or not, the crime of robbery was made out. It is urged that the taking was complete at the time that the caqitain discovered the presence of the appellant and his associates upon his boat, and, therefore, nothing that was done afterwards could alter' or change the nature of the offense. It seems to be clear that, although the thief may have procured possession of the property of another without force or violence, the removal of the property from the presence of that other, with force or violence, constitutes robbery. It is not stated in the definition of “ robbery” that the owner or person in whose presence the property is removed shall know of - its removal at the time. The fact that it is removed from such presence by means of force or violence constitutes the crime. Suppose a man should set his carpet bag upon the sidewalk, and two persons confederating to- rob him, one should make an assault" upon him while the other took out some of the contents of the bag and shut it up so that it appeared to be in the same condition as before, and his assailants should then retreat, carrying the stolen property with them, the person robbed having no knowledge that his bag had been opened and anything taken away until after the thieves had entirely escaped, can there be any doubt but that the crime committed would be “ robbery ? ” The facts in the case at bar seem to be exactly like this. The thieves used force and violence in order to be able to carry off the property which they had secured. There was ample evidence from which the jury could find that the property in question was in the boat, and was carried from the presence of the captain by means of the force and violence used by the men in the boat. The mere fact that the captain did not know that it was in the boat in no way altered the effect of these facts, •as knowledge of the fact of removal from the presence, by the person from whose presence property is removed, is not a necessary ingredient of the crime.
+The judgment appealed from should be affirmed.
+Daniels, and Barrett, JJ., concurred.
+Judgment affirmed.
