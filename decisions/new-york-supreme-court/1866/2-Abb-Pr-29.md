@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court"
+decided: "1866-11"
+citations: ["2 Abb. Pr. 29"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PULLMAN against THE MAYOR, &c., OF NEW YORK."]
+source_url: "https://static.case.law/abb-pr-ns/2/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1954264
+cites_cases: ["17 N. Y., 587", "3 Abb. Pr., 182", "32 Barb., 102", "4 Bosw., 89", "6 How. Pr., 211"]
+---
+
+# Pullman v. Mayor of New York
+
+## Majority (George G. Barnard, J.)
+
+George G. Barnard, J.
+The act of 1866 (2 Laws of 1866, p. 2056) authorizes the supervisors of the county of Sew York to raise by taxation certain sums, for certain specified objects, and among others the sum of seven hundred sixty-three thou- ; sand, seven hundred and forty-five dollars, for lamps and gas. It then provides as follows:—“ The said several sums shall be applied only to the objects, and purposes, for which the same are hereby appropriated, and neither said corporation, nor any member or officer thereof, nor any department or head of department, or other official, shall incur any liability for any of the objects and purposes specified to an amount beyond the sums so appropriated and again:—“ The mayor, alderman, and commonalty of the city of New York, shall not be liable upon any contract made, or expenditure authorized, or liability incurred by any board, department, or officer, of said corporation, for any object or purpose which is not expressly authorized by this act, nor for any contract made, or expenditure authorized, or liability incurred by any board, department, or officer of said corporation, for any object or purpose named in this act, beyond the amount appropriated to such specific object or purpose.”
+I do not understand it to be claimed that these provisions of the act are unconstitutional. There are then but two questions, viz.:
+1. Does a proper construction of the act prohibit defendants from making the contract in question.
+2. If it does, are the consequences of making such contract sufficient to call for a preventive remedy.
+That the first question requires an affirmative answer, seems to me almost too clear to admit of argument. If the appropriation is made for the sole object mñ. purpose ofprocuring the lighting of streets for one year only, then as the proposed contract in question extends beyond one year, and contemplates binding the corporation to take gas for more than one year, and imposing on it a liability to pay for the use of such gas for those other years, it is prohibited under the clause declaring that the corporation shall not be liable upon any contract made, or expenditure “ authorized, or liability incurred * * * * for any object “ or purpose not expressly authorized by this actP
+If the appropriation is to be regarded as not limited to procuring gas for one year only, but is intended to authorize the procuring of so much gas as can be procured for that amount, without any limit as to the term within which it shall be supplied, then, as this proposed contract contemplates rendering the corporation liable for a much larger sum than that appropriated, it is prohibited under the clause declaring that the corporation “ shall not be liable for any contract made, or expenditure authorized, or liability incurred * * * .* for any object or purpose named in this act, beyond the amount appropriated to such specific object or purpose.”
+It may be that the attention of the legislature was not called to .the consideration of the question, whether it might not be necessary to make a contract for the supply of gas extending over a term of years, and that if their attention had been called to the consideration of such question, provision would have been made to meet the case. But if no provision was made to meet the case because attention Was not called to the subject, it becomes simply a casus omissus, which the court is not authorized to supply. On the other hand, it may be that the attention of the legislature was called to the subject, and that they determined there was no necessity for a contract for longer than a year.
+Whatever consequences ensue from this want of power to make a contract for a term of years, must be ascribed to the legislature: the possibility of such consequences does not authorize either the common council to transcend their powers, or this court to sanction them in so doing.
+With reference to the second question, viz.:—are the consequences to flow from the making of this unlawful contract sufficient to call for a preventive remedy,—it is urged that if the contracts when executed will be void, no damage can arise from their execution, and consequently an injunction should not issue. ' This contract, if made, confers rights of property, and is to last for twenty years, and the fact of its having been granted might present embarrassment in the way of its being subsequently set aside. In the People y. Mayor (32 Barb., 102) it was held that under such circumstances the preventive remedy by way of injunction was not only lawful, but was the best and safest remedy which could be adopted.
+Here the parties defendants are trustees; their co-trustee seeks to enjoin them against committing a breach of their trust and they come in and say, although the court shall decide that the act which we are about to do would be a breach of our trust, yet the court should permit us to go on and do lt. Under such circumstances even the possibility of inconvenience arising from such breach will be sufficient to call on the court to prevent its commission. I have not considered the question whether it is more expedient to have gas furnished from year to year, than upon a contract for a term of years, nor whether the terms of the proposed contract are for the best interests of the city; as in the view which I have taken of this case these matters are not material to its decision.
+The iniunction must be continued.
