@@ -1,0 +1,25 @@
+---
+court: "New York Court of Sessions"
+decided: "1916-05"
+citations: ["34 N.Y. Crim. 447", "95 Misc. 400"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. MARY CLAFFY."]
+source_url: "https://static.case.law/ny-crim/34/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1215152
+---
+
+# People v. Claffy
+
+## Majority (Nott, J.:)
+
+Nott, J.:
+The defendant contends that the judgment should be reversed because of the improper reception of statements of inmates of the house made in the absence of the defendant, and certain statements of the codefendant Ulmer, who was tried with the defendant, some of which were made in the absence of the 'defendant and one in her presence.
+The statements of the inmates of the house were clearly admissible, not as tending to establish defendant’s knowledge of the disorderly character of the house, but as tending to prove that the premises were, as a matter of fact, carried on as a house of prostitution. As to the statements made by the defendant Ulmer in the absence of the defendant, they were clearly admissible against her (Ulmer) and their reception cannot be assigned as error.
+The statement made by the defendant Ulmer in the defend- • ant’s presence was testified to as follows: The arresting officer testified that after arresting the defendant Ulmer the following took place: “ The defendant Mary Claffy came in about half past five, and in the presence of the defendant Mary Claffy I said to Stella Ulmer—Mary Claffy first says to me, ‘ What’s the meaning of this? ’ I says ‘ I am locking up your maid for running a disorderly house.’ The maid said, 61 am doing nothing of the kind, I am only doing what you told me.’ I says to Mrs. Claffy, ‘ Is that right? ’ The defendant Mary Claffy says to me, 6 Why, no, I am not doing anything of the kind.’. * * * The defendant Stella Ulmer said, ‘ Well, I am not going to get into trouble. I have been here .for one year working for you and I have been giving you the money and I am n">t. o-nino- to stand for this,’ * * * ‘ Sometimes I get five dollars from the men; the girl gets three dollars and I give, two dollars to her * * * If the man pays seven dollars. the girl gets four and I give three dollars to Mary Claffy. If the man pays ten dollars, the girl gets six dollars and I give four dollars of it to Mary Claffy.’ ” The defendant Stella Ulmer thereupon produced a book containing the names and addresses of various girls and stated that she made the inquiries by direction of the defendant Claffy. To this accusation the defendant Claffy remained silent.
+While it is true that the appellate courts have restricted the use of statements made in the presence of the defendant, I am not aware of any case that has gone to the length of holding that where a direct accusation is made by the defendant’s employee, as in the case at bar, an admission by silence cannot be proved. To hold thus under the circumstances here disclosed would be practically holding that an accusation made against the defendant and not denied could never be proved.
+The defendant further contends that no knowledge was proved on her part that the premises were being conducted as a disorderly house. I think, however, a clear question of fact was presented on that subject. The officer testified that when he was first admitted the defendant Claffy was present, asked who he was and was shown the card on which he was admitted. The defendant admitted that the premises were hers, her name was on the door bell and the cards used in the establishment bore her name. It appeared that she was in the premises at the same time when girls were present, clad in kimonos, and the evidence fails to show that she made any objection to their presence or made any inquiries as to what they were doing there. One of the officers also testified, that when the defendant was in the patrol wagon with him, he inquired as to a former occasion on which she had been fined for maintaining a public nuisance and said: “ Don’t you think this ought to be a lesson to you, This is the third time to my knowledge.” The defendant replied: “ Never again, I am through with these kind of houses; no more for me.”
+In my opinion it was clearly a question for the magistrate on the proof to determine whether or not the defendant had knowledge, and his determination is not against the weight of evidence. The judgment therefore is affirmed.
+Judgment affirmed.
