@@ -1,0 +1,43 @@
+---
+court: "New York Supreme Court"
+decided: "1877-02"
+citations: ["2 Abb. N. Cas. 372"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DIECKERHOFF v. AHLBORN."]
+source_url: "https://static.case.law/abbn-cas/2/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1946848
+cites_cases: ["1 Wend. 90", "10 Abb. Pr. 468", "12 N. Y. 575", "16 Barb. 319", "19 How. Pr. 238", "2 Abb. Pr. 175", "3 Cow. 59"]
+---
+
+# Dieckerhoff v. Ahlborn
+
+## Majority (Speir, J.)
+
+The motion to vacate the discharge in the superior court having been heard, the following decision was rendered by
+Speir, J.
+Upon a careful examination of the decisions I am of the opinion that the provisions of the statute requiring notice to be published “once in each week for ten weeks successively ” must be strictly complied with to confer jurisdiction upon the officer before whom the proceeding is conducted. In this opinion I follow the decision recently made in the matter of Robert O. Gleason in this court by Curtís, J. That learned justice says, that the authorities cited by him do not seem to have been overruled. These authorities are, In the matter of Underwood, 3 Cow. 59; Anon., 1 Wend. 90; Slanton v. Ellis, 16 Barb. 319; People v. Gray, 19 How. Pr. 238.
+It was urged before me that a careful examination of the cases established a different rule.
+The general doctrine established by them is, that where there is a want of jurisdiction in the officer to grant the discharge of an insolvent, that defect is available at all times, and by any party prejudiced thereby.
+That special or limited jurisdiction in these proceedings can only be acquired in the mode prescribed by statute. If any prerequisite is wanting, the acts of the officer are a mere nullity.
+In the case before me the defect consists, as appears by the affidavit, in the publication not being made “once in each week for ten successive weeks” as required. The point is that, the publication was not made “once in each week.” Although there may have been ten publications in all, there were weeks in which there was no publication.
+It is to be observed that this notice “once a week in each week ” is peculiar, and its adaption is suggestive. It was not the notice required in the laws of 1813, nor in the act of 1819 to abolish imprisonment for debt. In those cases the publication was to be made “for six weeks successively,”—not once in each week. In both articles fifth and third of the statute, when first enacted, no other notice was required except the notice by publication. In the laws of 1847, chap. 366, sec. 1, it is provided that in addition to the notice by publication the service of notice of the order must be made upon each of the creditors in person or by letter, addressed to them by mail at their place of residence. This is, however, made applicable only to the. third article of the statute, for the plain reason that by that article cause was required to be shown why an assignment should not be made and the debtor discharged from his debts. This additional notice is not made applicable to the fifth article, as the debt remains, and the debtor is simply discharged from imprisonment. There is great force for this peculiar phraseology “once in each week,” and this shows the reason for its adoption. There is no other notice to be given but that of publication. When the statute was enacted, and, possibly, at the present day, the number of weelcly newspapers was far greater thoughout the State than the daily or semi-weekly papers. It was a matter of the first importance that the creditors should have the opportunity of seeing the notice in every paper published once a week. The weekly paper was, and is today, the country paper. This is made a prerequisite to the obtaining the discharge, and the failure to comply with it must be decreed a vital defect in the proceedings.
+In the present case, the order for an assignment having been made before the defect in the advertisement was discovered, the order was a nullity.
+The creditors, by the defect, have had no day in court to be heard, not having seen the notice.
+The People ex rel. Demarest v. Gray, 10 Abb. Pr. 468, decided by the general term, second district, is directly in point. The court say : “ Until publication be made in strict pursuance of the statute there was no authority to proceed and adjudicate on the rights of the parties to be affected by the proceedings.” The late learned and able Judge Woodruff, in Sewell v. Wheaton, 2 Abb. Pr. 175, after an able argument by able counsel on both sides, pronounces his views in a carefully prepared opinion at the general term in this court, and held that, “an advertisement for ten weeks pursuant to the order to show cause is necessary to give the officer jurisdiction. Of course, not necessary to give him jurisdiction to make the order to show cause, but to give him jurisdiction to proceed to the discharge.”
+These decisions have not been overruled in Stanton v. Ellis, 12 N. Y. 575, as supposed by counsel. The case chiefly relied upon, Soule r. Chase, 1 Robertson, 222, only decides that if there be ten publications it is not necessary that there be ten full weeks, and that the last publication may be made in the ninth week. It does not decide the point that there need not be one publication in each week.
+It is plain that if there be an omission to publish in any one week, the notice is defective under the statute, and if two of three weekly papers fail to publish, as in the present case, any number of the papers may omit the publication, provided ten notices are published any time during the ten weeks. As this is the only notice that the creditor in interest can have, it is plain to see both the reason and justice of a strict construction of the statute.
+Motion that the order of arrest be vacated and the insolvent be discharged must be denied.
+On the trial of the action, before Erastus Cooke, referee, plaintiffs obtained judgment and issued execution against defendant’s person. The other creditors of defendant then threw him into bankruptcy in the U. S. district court for the southern district of New York. He was adjudicated a bankrupt, and Freeling H. Smith appointed assignee.
+After being held three months under execution, the defendant applied in the supreme court in the action for discharge from imprisonment, under B. S. part II, title 1, ch. 5, art. 6, commonly called the “ fourteen day act.”'
+The testimony disclosed that various important items of property were omitted from his inventory and schedules under that act, and that he claimed that he had not been sworn to a paper purporting to be his affidavit, knowing that it was to be used as an affidavit in a court of justice upon his first application for discharge from arrest.
+After argument, the following decision was rendered in January, 1877, by Lawkeeoe, J. :
+Without going over all the objections which are taken to the prisoner’s discharge, it is sufficient to say that there are two which strike me as being well taken, and that I cannot regard the petitioner’s proceedings a,sjus¿ and fair.
+First. The omission to insert the claim against Lindheim and the item of $1,500 in cash, in the account or schedule of the petitioner’s property is not satisfactorily explained to my mind. The items actually included in the account are very trifling in amount as compared with those which are omitted, and I do not think that the omission is explained by saying that the petitioner had forgotten the claim, or that he did not read the printed part of the petition.
+Second. The transaction relating to the affidavit dated November 96th or 97th, 1875, shows that the petitioner’s proceedings were not just or fair, whether he did or did not swear to the affidavit. For these rea- ' sons, the motion is denied with costs.
+The defendant them applied to the bankruptcy court to annul Ms adjudication as a bankrupt and Ms assignment, and for a re-conveyance to Mm of all property and rights which had passed to the assignee.
+The matter was referred to Register Dwight, who, upon the consent of all of defendant’s creditors, and payment of all fees, reported favorably, and the bankruptcy court, Blatchfobd, J., passed the requisite decree, and the assignee executed the re-assignment.
+Thereupon the defendant assigned to the plaintiffs all his missing property and outstanding interests, which nearly made them whole, and he was discharged from imprisonment.
+Reversed by the court of appeals on the ground that an insolvent’s discharge does not affect rights of creditors residing out of the State.
