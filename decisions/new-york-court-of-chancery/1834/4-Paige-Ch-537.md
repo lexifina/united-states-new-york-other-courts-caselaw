@@ -1,0 +1,20 @@
+---
+court: "New York Court of Chancery"
+decided: "1834-08-19"
+citations: ["4 Paige Ch. 537"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lloyd vs. Brewster and others."]
+source_url: "https://static.case.law/paige-ch/4/cases/0537-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050496
+---
+
+# Lloyd v. Brewster
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The vice chancellor was right in supposing this was not a case for a bill with a double aspect. That the different parts of the bill would be inconsistent with each other, if the complainant was permitted, therein, to treat the sale to Brewster as valid, by proceeding against him as a judgment creditor under the judgment recovered for the price of the goods upon the sale, and was at the same time permitted to repudiate such sale on account of the fraud practised upon the complainant in obtaining the goods, and to seek a recovery of the specific articles, or the proceeds thereof, in the hands of another of the defendants, to whom they had been assigned for the payment of antecedent debts. A proper case for a bill with a double aspect, is where the complainant is in doubt whether he is entitled to one kind of relief or another, upon the facts of his case, as stated in the bill. In such a case he may frame bis prayer in the alternative; so that if the court is against him as to one kind of relief prayed for, he may still be enabled to obtain any other relief to which he is entitled, under the other part of the alternative prayer. So also where a complainant is entitled to relief of some kind, upon the general facts stated in his bill, if the nature of the relief to which he is entitled depends upon the existence or non-existence of a particular fact, or circumstance, which is not within his knowledge, but which is known to the defendant, he may allege his ignorance as to such fact, and call for a discovery thereof. "And in such a case he may also frame his prayer in the alternative, so as to obtain the proper relief, according as the fact may appear at the hearing of the cause. Here the complainant alleges that the goods were obtained from him by the fraudulent representations of the purchaser and the other defendants. And he states a case of fraud in his bill, which, if true, would subject the purchaser to imprisonment in the state prison, for obtaining goods by false pretences. He had therefore a perfect right to elect to consider the sale as void, and to follow his goods, or the proceeds thereof, into the hands of the assignee who had paid no new consideration therefor on the assignment. Or he might elect .to affirm the sale, or to consider it as valid; and to proceed as a judgment creditor against all the property, equitable interests, and dioses in action of his debtor, either in his own hands or in the hands of a fraudulent assignee. And he might look to Rams-dell and Brown personally for the balance which remained uncollected, if he could establish the fact of their participation in the original fraud in obtaining the goods. I think it is pretty evident that the original bill in the present case was not framed with a view to the first kind of relief. The complainant hoped to reach all the assigned property, under a creditors bill founded upon his judgment, upon the allegations of fraud in the assignment, which were stated in his bill as it was subsequently amended. But the assignee having denied all fraud in the assignment, the complainant now wishes to abandon his judgment recovered for the price or the goods, or rather to place himself in a situation to repudiate the sale in part, so as to follow such part of his goods, or the proceeds thereof, into the hands of the assignee, on the grounds of a prior equity. This would be changing the whole character of the litigation : which I think should not be permitted upon a sworn bill, and in this stage of the suit.
+The decision of the vice chancellor is therefore affirmed, with costs.
