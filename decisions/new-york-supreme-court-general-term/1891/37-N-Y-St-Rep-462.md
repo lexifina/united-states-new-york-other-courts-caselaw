@@ -1,0 +1,101 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-04-16"
+citations: ["37 N.Y. St. Rep. 462"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Will of Samuel Wilcox, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/37/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2054472
+cites_cases: ["110 N. Y., 611", "16 Hun, 559", "77 N. Y., 369", "83 N. Y., 592", "95 N. Y., 329"]
+---
+
+# In re the Will of Wilcox
+
+## Majority (Corlett, J.)
+
+Corlett, J.
+Samuel Wilcox died on the 26th day of June, 1890, at Mendon, in the county of Monroe, leaving an estate valued at $75,000 in real and personal property. He was a bachelor. On the 6th day of April, 1883, he made his last will and testament, which was drawn by himself in his own hand-writing, except the printed portions. His signature to the will was genuine. The attestation clause was also written by himself, except the printed portion. The writing in the body of the will was in light colored ink, but its date and the signatures of the testator and subscribing witnesses were in black ink. It appeared that the decedent drew the will before its execution. The date was inserted by the testator. On the day it was completed the testator went into a store where the subscribing witnesses, Charles Hill and J. G. Stiles, were. No other persons seem to have been present.
+When the instrument was offered for probate the_ subscribing witnesses were sworn before the surrogate, and their testimony was as follows:
+Charles 0. Hill, being duly sworn and examined by Mr. McGuire, testified as follows: I reside in Mendon and have lived there for twenty-six years; I knew Samuel Wilcox in his lifetime ; in 1883 I was employed in the store of Smith Porter as a clerk; there was an occasion when Samuel Wilcox came to our store with a paper he had with him.
+L
+Paper shown witness. ,
+Q. Is that the paper he had with him at the time he called at your store ? A. That is my signature there; I identify the paper by my signature; that is my signature attached to the paper.
+Q. Is that the signature of Mr. Wilcox; you know his handwriting? A. Yes, sir; I know the handwriting of Mr. Wilcox; I can only refresh my recollection as to the date of the occurrence by seeing the paper; Mr. Stiles, Mr. Wilcox and myself were present at the time this paper was presented; no one else that I remember, and this is my signature to the paper.
+Q. State what took place there as near as you can recollect when that paper was signed ? A. All that I can recollect was the bottom of the will being read; Mr. Wilcox read it over to me ; that is all I recollect about it.
+Q. You recollect it was signed ? A. Yes, sir.
+Q. Anything else ? A. No, sir.
+Q. Do you recollect whether anything was said.in regard to what the paper was ? A. No, sir; I had known by his reading the latter part of it; all I recollect is his reading the latter part of the will; he read the attestation clause, and after that was read I affixed my signature; Mr. Stiles was present and Mr. Wilcox.
+Witness shown the alleged will.
+Q. I call your attention to the color of the ink in the body of the will; do you notice it is light color? A. Yes, sir; I see there are certain words and figures in a dark color ink; the dates and signatures look to be all the same ink ; they are darker than the rest of the ink; the dates and all the signatures are all in black ink, and the body of the will is in lighter colored ink; this will was signed at the desk in the store; we kept at the desk a jet black ink.
+By the Court: He has not said that Mi. Wilcox signed it in his presence, or that the other witness did.
+By Mr. McGuire:
+Witness continues: There was no one present except Mr. Stiles, Mr. Wilcox and myself that I know of; I could not state whether or not the signature of Mr. Stiles was made "at the same time as mine ; I think it was; he was there at the time.
+Q. Where were you three persons you have described standing ? A. I could not tell you that.
+Q. Was it at the desk, or where? A. It was at the desk; I do not know whether Mr. Wilcox said anything in regard to the paper, or what it was, more than what he read of it.
+By the Court. Show him the signature.
+By Mr. McGuire: Q. What do you say about the signing of the will by Mr. Wilcox at the time when you signed it yourself ?
+By the Court: Look at the name, and see whether you saw Mr. Wilcox sign it ? A. All I can say is that I should not have signed it if he had not.
+Q. Did you see him write his name there ? A. I could not ■say whether he did or not.
+By the Court: Q. Was his signature visible when you signed your name? A. Yes, sir; there was something there; but furtlier than that, it was so long ago, I haven’t much recollection of it.
+By Mr. McGuire: Q. That is Mr. Stiles’ signature written under yours ? A. I should think it was ; I have no recollection whether Mr. Wilcox called me in behind the desk for any purpose that morning.
+By the Court: Q. Was the paper folded up or spread out when you signed it? A. I could not tell you.
+Cross-examined by Mr. Kiehl.
+I was eighteen years old when I signed this will; all I remember now of this will is that Mr. Wilcox read the attestation clause. I could not tell you word for word, but I remember it was what Mr. McGuire just read; referring to the attestation clause. I have no recollection that he said anything to me that this was his will; he might have done so.
+Q. Did he say anything to you or have you no recollection of his saying to you that this was his last will ? A. No, sir; I have no recollection of seeing his signature.
+Q. Did he acknowledge his signature to you; have you any recollection of his doing so ? A. No, sir; I have no recollection of his writing his signature at that time. I have a recollection of Mr. Stiles signing it; I ain’t expert enough to pick out the different colors of ink in the body of the will; I can see a slight difference ; some is shaded heavier than others.
+Re-direct by Mr. McGuire.
+Q. You said on your direct examination that at the time Mr.. Wilcox read this attestation clause over to you, you saw some thing opposite that seal? A. Yes, sir.
+Mr. Kiehl objected.
+He has said positively that he has no recollection of Mr. Wilcox signing it; also that it is immaterial.
+Objection sustained on the ground that the question is leading.
+By Mr. McGuire: Q. State whether or not you saw this seal attached to this instrument; whether it was on there as it is now ? A. I have no recollection of it at all.
+Q. You see the seal now? A. Yes, sir.
+By the Court: Q. Did you see it at the time of this transaction ? A. I have no recollection of it.
+James G. Stiles, being duly sworn and examined by Mr. McGuire, testified as follows: I reside in Mendon; have lived there since 1867; I knew Samuel Wilcox in his life time; I could not say whether I would know his handwriting or not; I have never seen much of his writing; I think I have seen him write; I was present on the 6th day of April, 1883, at Mr. Porter’s store on the occasion testified to by Mr. Hill.
+Q. Won’t you state what took place, everything that was said to you or what was done in your presence at that time ? A. He asked me if I would sign this will and be a witness to it, and I said yes, I would; that conversation was in the store; Mr. Hill, Mr. Wilcox and I think Mr. Porter was there; we were standing at the back end of the store near the desk; he asked me if I would sign the will as a witness, and I told him I would; I went in behind the desk and signed it; he read over the last clause; I think Mr. Hill was there; I think I heard him say something to Mr. Hill about it; Mr. Hill signed it first; he requested Mr. Hill to sign it as a witness.
+The alleged will is here shown the witness.
+That is my signature attached to that paper; I could not say whether it was Mr. Hill’s signature or not; I was present, but I am not much acquainted with his handwriting; I saw Mr. Hill in behind the desk there; we were all three standing pretty near together; I would not say positively whether I saw Mr. Wilcox sign the will or not; my impression is that Mr. Wilcox’s name was there before I signed mine, but I am not positive.
+By the Court: Q. Do you remember whether that paper was folded up or spread out when you signed it? A. The first sheet was folded up so that the lower half of the last sheet was visible.
+By Mr. McGuire: Q. Do you notice the colored ink in which the date and all the signatures are in? A. I notice the black ink; it is darker than the body of the will; I notice the word six, the date; the word eighty-three is in lighter ink, the same as the body of the will; I do not know as that circumstance refreshes my recollection at all in regard to the making of the signatures; the attestation clause was read over before I signed it; I think the seal was attached to the instrument at that time; I never witnessed any other will than this; I had known Mr. Wilcox a good while; I always considered him a shrewd kind of man; a careful man; he did transact his own business generally.
+By the Court: Q. There is a signature opposite that seal now? A. Yes, sir.
+Q. Can you say whether that was there at the time of the transaction which you have testified to when the lower clause was read over to you, and you signed the paper ? A. I cannot.
+Q. Have you no recollection of seeing it? A. Ho, sir.
+Q. Mr. Wilcox did not point it out to you and tell you it was his signature? A. Hot that I remember of.
+By Mr. McGuire: Q. Did you state on your direct examination that you thought it was there ? A. Ho, sir; I thought the seal was there.
+Q. What did you say about the signature itself ? A. I do not remember whether there was anything said about it; I signed a statement there that this will was signed in my presence.
+Q. What do you say about that? A. I could not tell you now ; I cannot say whether it is true or not; I remember that I read it over, this last clause; I looked it over myself and signed my name; I did not look the paper over, but I looked this clause over, and signed my name, to see what I was signing.
+Q. That clause was, that his name was signed in your presence? A. It shows for itself, but I do not remember whether his name was there or not.
+Cross-examined by Mr. Kiehl:
+I have no recollection of Mr. Wilcox signing that will at all; I have no recollection that Mr. Wilcox acknowledged that signature to the will or pointed it out to me in any way; I have no recollection of seeing that signature; I think I have a recollection that Mr. Wilcox said to me that that paper was his last will; he told me he wanted I should witness his will.
+Q. All he said to you is what you have testified to in your direct examination to the effect that he asked you to sign his will and be a witness ? A. Yes, sir; we were in the back part of the store.
+Q. When you came to the desk where you signed your name he did.not tell you that that paper was his last will, at the desk? A. Ho, sir; I could not say; I have no recollection of that.
+Q. All you recollect is what I have called your attention to as occurring in the back part of the store, where he asked you to sign his will and be a witness to it? A. Yes, sir.
+Q. And you said yes, and went to the desk and signed your name as it appears now, and there was nothing said to you by Mr. Wilcox at the desk? A. Yes, sir.
+Redirect, by Mr. McGuire:
+Q. When Mr. Wilcox asked you to sign the will, did he take out that paper ? A. The paper lay there on the desk; he read over this clause and I signed it; I signed it in his presence; he stood right back of me; I could not say about Mr. Hill; I remember Mr. Wilcox standing back of me and Mr. Hill close by.
+By Mr. Kiehl: Q. When you were in the back part of tíre store, and Mr. Wilcox was talking to you, and asked you what you have testified to, he did not have the will with him at that time, the will was lying upon the desk? A. I think it was. I didn’t see it until I came up to the desk to sign it.
+By Mr. McGuire: Q. Was it lying upon the deskin front of you when he asked you to sign it? A. The desk was in the back part of the store, and the paper was lying upon the desk.
+By Mr. Kiehl: Q. Did he point it out to you ? A. He put his finger on it in this way (illustrates), and said I want you to sign that, and said it was his will.
+After the death of Wilcox, the will, fully finished, was found in the safe among the deceased’s papers, carefully folded. He was a methodical man, with business habits.
+It will be observed that each of the subscribing witnesses testified that the deceased read over to them the attestation clause, which is perfect in form, and that he requested each of them to sign it as subscribing witnesses, and that it was his will. Their testimony also tends to show that the paper was not so folded as to obscure or conceal a full view of the testator’s signature. One of them thinks he saw it; the other appears to have little or no recollection on the subject.
+The will was offered in evidence before the surrogate, and rejected. It was competent evidence, and must be treated on this appeal as before the surrogate and this court. The surrogate made the following findings:
+“1. That Samuel Wilcox died on the 26th day of June, 1890, at the town of Mendon, in the county of Monroe, and state of Hew York, at the age of sixty-four years, leaving real and personal property within said county, and leaving as his heirs-at-law and next of kin the persons named in the petition herein.
+“ 2. That he left a paper in his own handwriting purporting to be his last will and testament, which bears date the 6th day of April, 1883.
+“ 3. That Charles Hill, of Mendon, R. Y., and John Gr. Stiles, of Mendon, R Y, signed said paper as attesting witnesses thereto, at the request of said Wilcox and in his presence.
+“ 4. That said Samuel Wilcox did not acknowledge to said witnesses that he subscribed said paper.
+“ 5. That said Samuel Wilcox did not subscribe said paper in the presence of said witnesses.
+“6. That said witnesses at and before they subscribed said paper as attesting witnesses did not see or identify the signature of said Samuel Wilcox to and at the end of said paper, nor was their attention called to the same by said Wilcox.-
+“ 7. That at the time said witnesses signed said paper, said Samuel Wilcox declared said paper to be his last will and testament, by reading over to them the attestation clause at the bottom of said instrument.
+“ 8. That at the time of the attempted execution of said instrument the said Samuel Wilcox was of sound mind and not under restraint."
+Section 2620 of the Code of Civil Procedure provides, among other things, that if the subscribing witnesses have forgotten the occurrence and testify against the execution of the will, it may nevertheless be established upon proof of the hand-writing of the testator and of the subscribing witnesses, and also such other circumstances as would be sufficient to prove the will upon the trial of an action.
+In Brown v. Clark, 77 N. Y., 369, affirming 16 Hun, 559, and Rugg v. Rugg, 83 N. Y., 592, it was held in substance that the failure of recollection of subscribing witnesses will not defeat probate where the attestation clause and the surrounding circumstances satisfactorily establish its execution.
+To the same effect is Matter of Cottrell, 95 N. Y., 329, and Matter of Hunt, 110 id., 278; 18 N. Y. State Rep., 118. In the case at bar the circumstances attending the signature of the subscribing witnesses, including the color of the ink, indicate that the testator and the witnesses signed on the same occasion, using the same ink. The testator was intelligent and carefully read the attestation clause, stating in effect it was his last will and testament, and asked them to sign it One of them states in substance that he would not have signed it after hearing the clause read unless the facts stated in the attestation clause existed. Under these circumstances the execution of the will was satisfactorily established, and it should have been admitted to probate.
+In Matter of Mackay, 110 N. Y., 611; 18 N. Y. State Rep., 558, it simply appeared that at the time of the alleged publication the decedent stated to the witnesses that he had sent for them to sign his last will; that he presented to them the instrument, stating it was his will, and it was all right awaiting their signatures, but he handed it to them so folded that they could not see his signature or the seal. They were not able to see any of the writing except the attestation clause. It was held that the will was not properly executed. In that case it did not appear that the will was in the hand-writing of the decedent, or that he read to the witnesses the attestation clause.
+The facts in the other cases cited by the learned counsel for the respondents have equally important or like limitations.
+In the case at bar, it is matter of legitimate and almost necessary deduction that a person of decedent’s careful habits would not deliberately read the attestation clause, drawn by himself, to the subscribing witnesses, unless the facts therein recited were true. Ink of the color appearing in the date was the only article there used. It was the same in the signatures of the subscribing witnesses, the date and hand-writing of the testator. Under such circumstances, it would be a forced construction to hold that all this deliberation and particularity was had unless all the facts recited in the attestation clause to which particular attention was called existed and were seen at the time the witnesses signed. Bach case must be determined upon its own facts. Those presented before the surrogate in the case at bar irresistibly lead us to the conclusion that the evidence before the surrogate showed that all the statutory requisites were complied with.
+Section 2586 of the Code gives to this court the samé power to decide and pass upon questions of fact as the surrogate had.
+It follows that the decree of the surrogate must be reversed, and the will admitted to probate.
+Dwight, P. J., and Macomber, J., concur.
