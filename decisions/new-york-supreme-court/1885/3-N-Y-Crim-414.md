@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1885-07"
-citations: ["3 N.Y. Crim. 414", "3 N.Y. Crim. 272"]
+decided_precision: "month"
+citations: ["3 N.Y. Crim. 414"]
 reporter: "ny-crim"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["PEOPLE v. KELLY."]
 source_url: "https://static.case.law/ny-crim/3/cases/0414-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 796218
-cites_cases: ["1 N. Y. 392", "1 N. Y. Crim. Rep. 379", "43 N. Y. 23", "49 N. Y. 407", "69 N. Y. 553", "7 Johns. 314", "77 N. Y. 324", "8 Conn. 139", "81 N. Y. 532", "91 N. Y. 5"]
+cites_cases: ["43 N. Y. 23", "49 N. Y. 407", "69 N. Y. 553", "7 Johns. 314"]
 ---
 
 # People v. Kelly
