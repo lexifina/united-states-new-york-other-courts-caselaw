@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court"
+decided: "1890-12"
+citations: ["65 N.Y. Sup. Ct. 535"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barrett, J., concurred."]
+parties: ["THE PEOPLE OF THE STATE OF NEW YORK, Respondent, v. JAMES DOYLE, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/65/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4617103
+cites_cases: ["45 N. Y., 222"]
+---
+
+# People v. Doyle
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+The manner in which the assistant district attorney conducted the prosecution of this case was certainly of a character which should call for the censure of the court, and which requires a reversal of the conviction. In his opening of the case he stated to the jury that he was curious to know whether the defendant would go upon the stand, since he had found Lee, and have anything to say about how much money he spent with Lee ; that the defendant might listen to prudent counsel and not go on the stand.
+To these remarks the counsel for the prisoner objected and excepted; and called the attention of the court to them, but all that was done was, the court ordered his objection and exception to be noted.
+It is quite well settled that the prosecution have no right to predicate anything upon the refusal of the defendant to go upon the stand. In the case of Ruloff v. People (45 N. Y., 222) the court, in adverting to this subject, say: “ Neither the prosecuting officer or the judge has the right to allude to the fact that a person has not availed himself of this statute; and it would be the duty of the court promptly to interrupt a prosecuting counsel who should so far forget himself and the duties of his office as to attempt to make use of the fact in anyway to the prejudice of a person on trial. An allusion by the judge to the fact, unexplained, cannot but be prejudicial to a person on trial; and a provision intended for his benefit will prove a trap and snare. It is an intimation to the jury of the effect upon his mind of the omission of the accused to explain by his own oath, suspicious and doubtful facts and circumstances, as affecting the question of guilt or innocence.”
+The remarks made by the assistant district attorney to the jury were a challenge to the defendant which compelled him to go upon the stand, or the fact of his refusal would necessarily be considered by the jury to his prejudice. This the attorney had no right to do. He had no right to advert, in any manner or way, upon the question as to whether the defendant would become a witness. And if he had no right to suggest the fact in his summing up, he had no right to press it upon the minds of the jury at the opening of the trial, It does not appear that there was any attempt, upon the part of the learned judge presiding, to repair the damage done by cautioning the jury in this regard. All that the defendant received was the notation upon the record of an objection and exception.
+It seems to us that the action of the assistant district attorney was a clear violation of law which was prejudicial to the defendant, putting him in a false position before the jury and compelling him to testify when otherwise he might not have done so. The gravity of this error is enhanced by the course of the testimony, because we find that this defendant had been examined in supplementary proceedings upon a judgment obtained against him to recover the very money which is the subject of this indictment. And evidence as to what he testified to upon this examination was offered. It is true it was not objected to, but it was clearly improper and incompetent, as such evidence could not, by the provisions of section 2460 of the Code of Civil Procedure, be used against him in a criminal action or a criminal proceeding. If it were not for the exemption contained in this section, a party might shield himself always in supplementary examinations where there was any question of fraud by claiming his privilege, and it was to avoid the failure of justice, by reason of this claim, that it was enacted that evidence given under these circumstances should not be used against the witness.
+There is, however, another question raised by an exception where evidence seems to have been improperly excluded. One of the vital questions in the case was as to the relations of William Doyle and the defendant in respect to certain moneys which belonged to William Doyle and which he had deposited in certain savings banks. It was in evidence that William Doyle had changed these deposits from his own individual name to that of himself and the defendant, and in respect to one deposit he opened a new account in his name in trust for the defendant.
+It was claimed by the defendant that the bank-books were delivered to him and he had charge of them from that time until he drew out the money, after the death of William. The wife of the defendant was being examined upon the part of the defendant, and she stated that she remembered a conversation between William Doyle and herself in the last days of July or 1st of August, 1885,' in reference to her husband and some bank-books, and that her husband was not present when they had that conversation. She was then asked this question : c‘ State the conversation which you then had with William.” This question being objected to, the counsel for the defendant stated that he intended to prove by the witness declarations of William Doyle to the effect that he had in his lifetime made a gift to the defendant of the money which the defendant was charged with misappropriating. The' objection was sustained and the evidence excluded. This seems to have been material testimony upon the question which has already been suggested. Apart from the legal rights of the parties, it was necessary to establish upon the part of the prosecution a felonious intent upon the part of James Doyle in the drawing and using of this money. If William Doyle had attempted to make a gift of this money to James Doyle, and James Doyle had innocently believed that such gift had been made and had acted upon that‘belief in the drawing of the money, then the felonious intent necessary to make a crime would be absent, even though, as against the heirs of William Doyle, the gift may have been ineffectual. Whether such a gift could be effectual or not it is not necessary to determine. The evidence certainly was pertinent upon the question of the intent with which James Doyle possessed himself of this money, and he should have had the benefit thereof.
+Upon the whole case, therefore, we think that the conviction should be reversed and a new trial ordered.
+Barrett, J., concurred.
+
+## Concurrence (Bartlett, J.:)
+
+Bartlett, J.:
+I concur upon the first point discussed in the opinion.
+Judgment reversed and new trial ordered.
