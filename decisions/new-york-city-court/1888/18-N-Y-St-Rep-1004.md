@@ -1,0 +1,31 @@
+---
+court: "New York City Court"
+decided: "1888-10-23"
+citations: ["18 N.Y. St. Rep. 1004"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Spedding, Resp’t, v. Edward N. Townsend et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/18/cases/1004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2011716
+cites_cases: ["106 N. Y., 90"]
+---
+
+# Spedding v. Townsend
+
+## Majority (Browne, J.)
+
+Browne, J.
+The plaintiff’s counsel requested the court to charge the jury as follows:
+“That if defendants retained the coal and used it in their business without notice to and acquiescence of plaintiff, they cannot maintain their counter-claim, and plaintiff is entitled to recover the full amount.”
+The court charged as requested, and the defendant took an exception.
+The action was on a note made by the defendants to the plaintiff’s order. The consideration for the note was coal sold by plaintiff to the defendants. The defendants in their answer allege that when they purchased the coal from the plaintiff’s agents there was a warranty as to quality. That payment should not be made until they had an opportunity to test the quality. That before such test, upon plaintiff’s application, and upon renewal of the contract of warranty, the note was given.
+Evidence was offered and received by the court in support of this issue on the warranty, and the learned judge in instructing the jury stated in substance: “That if they believed the testimony offered in support of the representation as to the quality, and that if they believe that it was not of the quality represented, the defense was established.”
+The effect of these instructions was destroyed by compliance with the request stated above. If there was a warranty, the defendants had an absolute right to retain and use the - coal, and offset the damages sustained by reason of breach of the warranty in an action brought to recover the price. Norton v. Dryfuss, 106 N. Y., 90; 8 N. Y, State Rep., 570.
+There appeared to be an impression existing upon the -trial, that unless the defendants expressed their dissatisfaction with the performance of the contract of sale by a return of the goods and a rescission of the contract, it was a waiver of any claim for damage, because of a breach of the warranty, and that the retention and use of the coal without notice to the plaintiff, was such an acceptance as would support the proposition above stated.
+This would be a defense inconsistent with the defense set up, i. e., that a warranty survived the acceptance of goods.
+The requests to charge as made by the learned justice, left no alternative to the jury. Under it there could be but one result, i. e., a verdict for the plaintiff, for the reason that it was not claimed by the defendants that they offered to return the coal, or notified the plaintiff of its use, or that the plaintiff acquiesced therein. If such fact were proven, they would tend to establish a rescission of the contract of sale. As above stated, it would be inconsistent with the defense set up. It would also have been improper to receive evidence in support of such proposition, if offered. That the instruction did have an effect upon the jury is evidenced by the fact that one of the jurors inquired from the judge whether notice to the agent of the poor quality of the coal, was tantamount to notice to the plaintiff. The judge, in xeply, stated that it would be, provided the person notified continued to be the agent of the plaintiff.
+The request, as charged, seriously affected the defendant’s rights, and the verdict rendered upon the submission should be reversed.
+The judgment and order will be reversed; a new trial ordered, with costs to abide event.
+Pitshke and Ehrlich, JJ., concur.
