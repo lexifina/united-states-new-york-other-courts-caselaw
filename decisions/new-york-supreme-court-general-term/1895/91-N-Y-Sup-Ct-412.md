@@ -1,0 +1,48 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-02"
+citations: ["91 N.Y. Sup. Ct. 412"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt, J., concurred; Brown, P. J., not sitting."]
+parties: ["Samuel Phillips, Respondent, v. The New York Central and Hudson River Railroad Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/91/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4769133
+---
+
+# Phillips v. New York Central & Hudson River Railroad
+
+## Majority (Dykman, J. :)
+
+Dykman, J. :
+This is an action for the recovery of damages resulting from personal injuries to the plaintiff, received at a highway crossing in Rockland county over the West Shore railroad, which is operated by the defendant.
+The highway at the place of the accident is carried across the railroad by a bridge above the grade of the road. The accident happened between half-past six and seven o’clock in the morning of March 21, 1894. During the half hour between half-past six and seven o’clock in the morning of that day two trains passed south on the West Shore railroad under the bridge mentioned. The first of those trains was a train of the New York, Ontario and Western Railway Company, and the second was a train of the West Shore Railroad Company.- The Ontario and Western train passed down about six minutes in'advance of the West Shore train.
+The plaintiff was driving two horses attached to a wagon loaded with furniture. He was sitting on the right-hand side of the seat, and there were two other persons on the same Seat; as the plaintiff turned to the east to cross the overhead bridge the horses were walking, and their feet were on the bridge when the persons in the wagon saw a railroad train coming from the north, about 825 feet from the bridge which the plaintiff was then about to cross. The plaintiff drove on, and when the train was about twice its own length north of the bridge the locomotive whistle was sounded and the horses started upon a run. When the locomotive was under the highway bridge the whistle was again sounded, and the horses continued to run. The wagon was upset, the plaintiff and the^ other persons were thrown out, and he received the injuries of which he complains.
+The cause was tried at tlie Circuit before a jury, and the plaintiff obtained a verdict for $2,500. The defendant has appealed from the judgment and from an order denying a motion for a new trial made upon the minutes of the court.
+There is no claim that the blast of the whistle was given wantonly or maliciously, and the proof is that neither of the engineers saw the plaintiff’s wagon.
+It was of primary importance upon the trial to determine which of the two trains passing under the bridge at the time of the accident frightened the horses and caused the injury, and although the question was decided by the jury, we can review the testimony under the appeal from the order denying the motion for a new trial upon the minutes of the court.
+One of the witnesses for the plaintiff, who was riding in the wagon at the time, said on liis direct examination that tlie train was a Haverstraw train, No. 62, but on bis cross-examination be said be saw tbe tops of tbe cars and did not see tbe sides at all, and did not know what name was on tbe side of tbe cars, but that he judged from tbe time tbe train went through there that it was that train; that there was no other train that went down at that time.
+Tbe testimony was plainly inferential, and amounted only to the judgment or opinion of tbe witness. Moreover, it is antagonistic to tbe following facts, which are undisputed :
+Blauvelt is nine-tenths of a mile north of Orangeburgli, and the bridge in question crosses tbe railroad between tbe two stations about a quarter of a mile north of Orangeburgh. Tbe running time between them is two minutes.
+Tbe Ontario and Western train passed Blauvelt on tbe morning in question at six-thirty-five o’clock, and tbe West Shore train passed Blauvelt at six-forty-one, six minutes behind tbe other train.
+Two witnesses on behalf of tbe defendant, and tbe only persons outside of tbe plaintiff and bis party who witnessed tbe accident, testified that after they reached tbe place where tbe wagon was upset, and tbe horses bad been released and were being led from •the wagon, tbe second train passed by, and they fix tbe time between tbe two trains at from five to seven minutes.
+These facts so far outweigh the testimony of tbe plaintiff’s witness as to constitute a decided preponderance of proof, and lead to the natural, if not irresistible, inference that tbe accident was caused by tbe blast from tbe whistle of tbe locomotive attached to tbe Ontario and Western train, which was not operated by tbe servants of the defendant.
+Tbe verdict is so much against tbe decided weight of evidence on this point that it ought not to stand.
+Proceeding with the examination of the case in respect to tbe negligence of tbe defendant, upon the theory of tbe plaintiff that tbe West Shore train caused tbe accident, it may be remarked preliminarily that the success of tbe plaintiff in this action requires the condemnation of all tbe agencies and precautions which have been so long and so universally employed for tbe prevention of disasters, and for tbe omission of which tbe railroad corporations have so often been found guilty of negligence.
+Formerly a statute of tills State imposed upon railroad companies the duty to sound the locomotive bell or whistle on approaching a public crossing, and rendered the corporation liable for damages for a neglect of that duty.
+That statute is nullified now, but the Penal Code provides that “ a person acting as engineer driving a locomotive on any railway in this State who fails to ring the bell or sound the whistle upon such locomotive, or cause the same to be rung or sounded at least eighty rods from any place where such railway crosses a traveled road or street on the same level (except in cities), or to continue the ringing such bell or bells, or sounding such whistle at intervals until such locomotive and the train to which the locomotive is attached shall have completely crossed such road or street, * * * is guilty of a misdemeanor.” (Penal Code, § 421.)
+The negligence of which the plaintiff complains, and which constitutes the foundation Of this action, is the sounding of the locomotive whistle above the bridge and again under the bridge while the plaintiff was passing over it.
+The bridge is twenty feet above the railroad track, and neither of the engineers saw the plaintiff or his wagon upon the bridge.
+It appears from the evidence that there are two highway grade crossings over the West Shore railroad south of the bridge where the plaintiff was injured; one of those crossings is 1,107 feet and the other 1,343-| feet south.
+The first whistle which frightened the horses of the plaintiff was sounded two train lengths north of the bridge, and the second was blown under the bridge, and each was blown about eighty rods north of the grade crossings respectively, being a proper distance from each.
+The plaintiff sustained no relation to the defendant which imposed any duty upon it in respect to him. The engineer was not required to signalize his approach to the overhead bridge.
+The statute requires him to give warning of his approach to public crossings on the same grade with the railroad. - It so happened in this case that the eighty-rod limit from the two grade crossings was near this overhead bridge, and it would seem to be an exceedingly unjust rule which would impose liability upon the defendant for sounding the whistle of the locomotive at that point when the engineer would be guilty of a crime if he failed to do so. '
+There is no rule of law requiring engineers or others in charge of railroad trains to give signals or warnings for other than grade crossings. With wantonness and 'malice eliminated from .the case, and with the obligation imposed by law to give alarms at public grade crossings, there is no principle upon which an accusation of negligence or wrong can be based upon the conduct of the engineer who sounded the alarm in this case.
+There are many highways in this State so near to points where the engineers are required to sound the whistle that horses are frightened by the blast and damage ensues, but the railroad corporations incur no liability in such cases; they are simply using their own property in accordance with their legal rights. The public have no easement in common with the companies except at grade crossings. In other places travelers upon highways - must avoid exposure and danger which may result from the sound of moving trains.
+If railroad companies were bound to operate their roads with reference to persons having no rights in the locality and to whom they owe no duty, then they can be accused of negligence for every accident resulting from the noise of their trains. In short, the recovery in this action amounts to a condemnation of the precautions which have been devised, required and practiced for the safety of the traveling public since the commencement of railroad operations.
+Railroad companies have been frequently condemned for the omission of such precautions, but never for their proper observance.
+The judgment and order should be reversed and a new trial granted, with costs to abide the event.
+Pratt, J., concurred; Brown, P. J., not sitting.
+Judgment and order reversed and new trial granted,-costs to abide event.
