@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1885-03"
-citations: ["42 N.Y. Sup. Ct. 575", "42 N.Y. Sup. Ct. 633"]
+decided_precision: "month"
+citations: ["42 N.Y. Sup. Ct. 575"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["In the Matter oe the Application oe the NEW YORK,. WEST SHORE AND BUF
 source_url: "https://static.case.law/ny-sup-ct/42/cases/0575-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2365022
-cites_cases: ["1 Abb. Ct. App. Dec., 341", "1 Denio, 440", "108 Mass., 537", "109 Mass., 444", "11 N. Y., 276", "121 Mass., 93", "17 Wend., 649", "18 Penn. St., 233", "19 Wend., 678", "22 Barb., 168", "24 Wend., 258", "3 Cush., 1", "3 N. Y., 547", "34 Barb., 481", "35 Cal., 263", "49 N. Y., 227", "51 How., 451", "54 How., 313", "56 Barb., 456", "60 Md., 215", "78 N. Y., 433", "9 Hun, 104"]
+cites_cases: ["1 Abb. Ct. App. Dec., 341", "1 Denio, 440", "11 N. Y., 276", "121 Mass., 93", "18 Penn. St., 233", "22 Barb., 168", "24 Wend., 258", "3 Cush., 1", "3 N. Y., 547", "34 Barb., 481", "49 N. Y., 227", "51 How., 451", "60 Md., 215"]
 ---
 
 # In re New York, West Shore & Buffalo Railway Co.
