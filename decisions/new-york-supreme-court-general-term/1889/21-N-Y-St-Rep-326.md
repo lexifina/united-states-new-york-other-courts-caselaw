@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-01-28"
+citations: ["21 N.Y. St. Rep. 326"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Kennagh, App’lt, v. Elizabeth McGolgan as Executrix of John McGolgan, Deceased, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0326-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017638
+---
+
+# Kennagh v. McGolgan
+
+## Majority (Bartlett, J.)
+
+Bartlett, J.
+The court below treated the demurrer as a demurrer to the whole answer. In terms, however, the plaintiff demurred “to each and every defense contained in the answer of the defendant.” I think the effect of a demurrer in this form was the same as .though the defendant had demurred separately to each defense, and as though the demurrer had read: “The plaintiff demurs to the first defense contained in the answer on the ground that said defense is insufficient in law on the face thereof. The plaintiff demurs to the second defense contained in the answer on the ground that said defense is insufficient in law on the face thereof and so on.
+If this view is correct the plaintiff is entitled to have his demurrer to each defense specifically passed upon.
+The defenses in the answer are not distinctly separated or separately numbered, but it is evident that the pleader intended to set out three defenses. The first defense is contained in the paragraphs numbered I. and II., the second in the paragraph numbered III., and the third in the paragraphs numbered IV. and V. The action is brought to recover the sum of $750, which is alleged to be due and to have been demanded from the defendant as the balance of a legacy rof $15,000 bequeathed to the plaintiff by the defendant’s testator. In the first defense there is a denial “that said alleged balance of $750 has been demanded, as alleged in the complaint.” As to this defense the learned judge at special term correctly held that it was sufficient, inasmuch as it was necessary, to allege a demand in the complaint, and a denial of that demand raised an issue which must be tried. Code Civ. Pro., § 1819.
+The second defense contained in the answer is that the defendant, after the probate of her testator’s will, was obliged to pay the sum of $750 “by order of the surrogate of the county of New York, in pursuance of chapter 483 of the Laws of 1885, as amended by chapter 713 of the Laws of 1887, known as an act to tax gifts, legacies and collateral ' inheritances in certain cases,” the amount so paid being the tax adjudged to be due and payable under said act by the plaintiff upon the legacy of $15,000. As a part of this defense, it is further alleged that all the rest of said legacy, amounting to $14,250, with interest, has been paid to the plaintiff.
+The criticism made upon the second defense is that it neither states the facts necessary to confer jurisdiction upon the surrogate’s court, nor does it state the order of the surrogate to have been duly made, as prescribed in section 532 of the Code of Civil Procedure. In my opinion, however, the averment that the surrogate’s order for the payment of the collateral inheritance tax was made in pursuance of the statute authorizing such a tax and providing for its collection, is to be deemed in all respects equivalent to an allegation that said order was duly made.
+The third defense is that the plaintiff heretofore petitioned the surrogate for a decree that the defendant pay over to him the sum of $1500; that the defendant appeared in opposition to the application and filed an affidavit showing that she had only $750 in her hands belonging to the plaintiff, having paid the other $750 to the comptroller of the city of New York; that the surrogate thereupon decreed that the defendant should pay only $750 to the plaintiff, and dismissed the petition in all other respects, and that the decree has been complied with by the defendant, but the plaintiff has never appealed from that portion thereof which was adverse to him.
+In view of the provisions of sections 2717 and 2718 of the Code of Civil Procedure, as those sections have been construed by this general term (In re Morey, Daily Register, Sep. 11, 1888), these facts are not sufficient to constitute a defense. The affidavit filed by the defendant in opposition to the plaintiff’s application to the surrogate, appears to to have brought the case fairly within the terms of subdivision 1 of section 2718 of the Code, so far as one-half of the plaintiff’s claim was-concerned; and it follows that the dismissal of the petition as to that portion of the claim was without prejudice to a subsequent action, such as the present suit, in behalf of the petitioner.
+The final judgment should be reversed, and the interlocutory judgment should be modified so as to overrule the demurrer as to the first and second defenses, and sustain it as to the third defense, without costs of this appeal to either. •
+Van Brunt and Daniels, JJ., concur.
