@@ -1,0 +1,23 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1882-06-16"
+citations: ["11 Daly (N.Y.) 176"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["August Werner et al., Respondents, against The Metropolitan Life Insurance Company, Appellants."]
+source_url: "https://static.case.law/daly-ny/11/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1604853
+---
+
+# Werner v. Metropolitan Life Insurance
+
+## Majority (Van Brunt, J.)
+
+Van Brunt, J.
+[After stating the facts as above.]— The question presented upon this appeal is whether any forfeiture of the policy could occur in case the party assured should omit to pay any portion of the premium until the last instalment became due. At first it may seem that this is too broad a statement of the proposition, but I cannot see why, if default without penalty may be made in the payment of the first instalment, default may not be made with like impunity in the payment of the first two, and if in the first two, certainly a default in the first three payments would involve no forfeiture. The claim of the plaintiffs is founded upon the provision of the policy that the payments demanded for a year’s insurance shall be known as the premium, thereof, and that the policy is maintained in force by the payment of all premiums falling due thereon, and it is argued that as the payment for a year’s insurance is the premium, and as the policy is kept in force by the payment of the premiums as they fall due, no premium (that is, payments for a year’s insurance) having fallen due until the last quarter payment has matured, no forfeiture can occur until there is a failure to pay the premium on or before the last quarter payment has become due. In this argument, however, the provision as to how each year’s premium shall be paid is entirely lost sight of. The policy provides that the premium for each year, 'instead of being paid wholly in advance, as the clause defining a premium requires, may be paid in equal quarterly payments on or before twelve o’clock noon of a certain dajr in each of the months therein specified, and so much of the premium as is provided to be paid on each of these days falls due on these days, and unless these quarter days fix the times at which so much of the premium as is provided to be paid thereon falls due, then there is no time at which the premium can possibly fall due. At the time fixed for the payment of the last quarter the whole premium does not fall due, any more than it falls due at the time fixed for the payment of the first quarter. The plain construction of this language of the policy is that although the premium is defined to be the payments demanded for a year’s insurance, such premium may become due by instalments, and when the date for the payment of any instalment passes, the portion of the premium represented by such instalment can never be said to fall due at any future period, and the premium can never then be paid as it falls due.
+In the case of Willis v. O'Brien (35 Super. Ct. 536) language somewhat similar, contained in a chattel mortgage, was thus construed. The condition of the mortgage was, that if the mortgagor should pay the mortgagee (plaintiff) the “full sum of $695 lawful money of the United States, one note, $95, to be paid on the 14th of September, 1869, and twelve monthly notes at $50 per note, to be paid on the first day of each and every month, making the whole amount to be paid in twelve months and one week from date, then these presents shall be void.” The mortgage further provided that in case “ default shall be made in the payment of the said sum above mentioned, then ” it should be lawful for the plaintiff to take the property mortgaged, and until “ default be made in the payment of the said sum of money,” the mortgaged property should' remain in the peaceable possession of the mortgagor. The mortgagor having made default in the payment of some of these instalments, the mortgagee claimed possession of the property, and the court held that he was entitled to possession, there having been a default in the payment of the gross sum in not paying- the instalments as they became due. This case seems to be entirely analogous to the one at bar, and proceeds upon the same principle as has heretofore been attempted to be stated.
+The judgment appealed from should be reversed and the defendant have judgment upon the demurrer, with costs.
+J. F. Daly, J., concurred.
+Judgment reversed, and judgment for defendant ordered on demurrer, with costs.
