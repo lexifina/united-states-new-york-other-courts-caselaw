@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-12-11"
+citations: ["28 N.Y. St. Rep. 242"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert McCrea, Resp’t, v. George Chahoon et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/28/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2033681
+cites_cases: ["15 Hun, 129", "39 Hun, 643", "59 How., 238", "98 N. Y., 222", "98 N. Y., 239"]
+---
+
+# McCrea v. Chahoon
+
+## Majority (Landon, J.)
+
+Landon, J.
+We think the complaint alleges a cause of action against the supervisor and collector of the town of Champlain and the several defendants in whose favor the board of supervisors audited the claims presented by them against the town, but we do not think that a cause of action is stated against the board of supervisors, nor that they are necessary or proper parties to the action.
+The action is brought by a taxpayer to prevent waste or injury to the town of Champlain or its taxpayers. Code Civ. Pro., § 1925; chap. 673, Laws 1887.
+The injury threatened is the payment by the collector to the supervisor and by the supervisor to the several claimants of the amounts respectively allowed to them and charged to the town of Champlain by the board of supervisors in excess of the amounts allowed by the board of town auditors upon their previous audit" of the same claims.
+The board of town auditors and the board of supervisors of the county have concurrent jurisdiction to audit accounts chargeable against the town, except' in the cases in which the statute, chap. 58, Laws 1860, confers exclusive jurisdiction upon the board of town auditors. This exception is not here material. The board of town auditors are authorized by chap. 305, Laws 1840, tó audit and allow “ the account of all charges and claims payable by their respective towns.”
+The board of supervisors are authorized “ to audit the accounts of town officers and other persons against their respective towns, and to direct the raising of such sums as may be necessary to defray the same.” 1 E. §., m. p. 367, § 4.
+The prior audit by the board of town auditors is conclusive and cannot be reviewed or reversed by the board of supervisors. Osterhoudt v. Rigney, 98 N. Y., 222, 234. If fhe board of town auditors first acquire jurisdiction, that jurisdiction is full and complete, and tlieir action within their jurisdiction, so far as it goes, completes the matter, and if the board of supervisors subsequently act upon the matter they necessarily must limit their action to questions yet open, such as the inclusion of the amount in the tax levy.
+Three of the accounts were rejected by the board of town auditors because “not itemized.” This was not a rejection upon the merits, but was conclusive against the accounts in the form in which they were presented to the board of town auditors. As the complaint is framed, it would be competent for the plaintiff to prove that the same accounts in the same form were presented to the board of supervisors. It doubtless would be competent for the claimants after the rejection of their bills because “ not itemized,” to reconstruct them and give the items, and thus give the board of supervisors jurisdiction. Osterhoudt v. Rigney, supra. But as it does not appear from the complaint that this was ■done, we cannot assume upon the demurrer that the board of supervisors had jurisdiction to audit these bills. If any issue can be made upon this subject it is an issue of fact, to be presented by the answer.
+. We must assume, therefore, that the subsequent audit and allowance by the board of supervisors of the same claims and accounts previously passed upon by the board of town auditors was void
+It was proper for the plaintiff to bring his action against such parties as it was needful to hear or to restrain in order to prevent the waste and injury about to be effected by the payment of the illegal appropriations ordered by the board of supervisors.
+But the board of supervisors had completed their action in the premises, and neither threatened to do nor could do anything further. No preventive relief can be had against them. They have no interest in the subject matter of the action. Ch. 673, Laws of 1887, provides that where “ the waste or injury complained of consists in any board or officer, * * * by collusion or otherwise auditing, * * * or conniving at the audit, allowance or payment, of any fraudulent, illegal, unjust or inequitable claims ■* * * the court may * * * .adjudge and declare the colluding or defaulting official personally responsible therefor.”
+This complaint does not allege any collusion or connivance on the part of the board of supervisors, and hence their good faith must be assumed, and although restitution is asked, the allegations of the complaint do not make a case requiring it.
+The separate demurrer of the other defendants was properly overruled. The Code authorizes a demurrer for a defect of defendants, not for an excess. Section 488; Fish v. Hose, 59 How., 238. The fact that no case is stated against the board of supervisors does not avail the other defendants, provided there is a case stated against them.
+It is urged that there is no joint case stated against the defendants in whose favor the audits were made; that each one is only interested in his own, and not in his co-defendant’s case. But ring is an equity action in which each claimant is interested in the single resolution of the board of supervisors in which all the audits are embraced and the audit of the board .of town auditors enlarged.
+The plaintiff seeks to restrain the payment of the whole amount of the excessive audit, and therefore must make each person claiming a part thereof a party. It would be oppressive to the supervisor and collector to bring many actions against them when the whole controversy can be determined in one action. It is not perceived that any claimant can be embarrassed by the case of his co-defendant. The joinder of all the claimants seems to be authorized by §§ 447, 452, of the Code, and sanctioned by authority. Osterhoudt v. Board of Supervisors, 98 N. Y., 239; Latham v. Richards, 15 Hun, 129; Mahler v. Schmidt, 43 id., 512; 7 N. Y. State Rep., 159; Weeks v. Cornwall, 39 Hun, 643.
+The interlocutory judgment is reversed as to the board of supervisors with costs and their demurrer allowed, with costs; it is affirmed as to the other defendants, with costs; with the usual leave to all parties to amend on payment of costs.
+Learned, P. J., and Putnam, J., concur.
