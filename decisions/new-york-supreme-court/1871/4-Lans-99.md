@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1871-02"
+citations: ["4 Lans. 99"]
+reporter: "lans"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cromeline D. Montross, Mary L. Montross, and Lucy H. Montross, a minor, by her guardian, Louisa M. Montross, and Louisa M. Montross, Appellants, v. Abraham Wheeler, Executor, &c., of George Taylor, deceased."]
+source_url: "https://static.case.law/lans/4/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1932321
+cites_cases: ["32 Barb., 354"]
+---
+
+# Montross v. Wheeler
+
+## Majority (Mullin, P. J.)
+
+Mullin, P. J.
+In 1852, Abraham A. Montross, of Gaines, in the county of Orleans, died, leaving a last will, wherein and whereby he appointed his widow Louisa, George Taylor and Hirám S. Goff as executors thereof. Amongst other provisions in said will, the testator directed his executors to put out and keep out at interest all money and property not given to his wife, until his son arrived at twenty-one years of age, when he was to be given a legacy of $1,000. The daughters were to be paid their respective shares of the estate when they severally became twenty-one. The executors proved the will, and took upon themselves the duty of the trust.
+In 1854 the executors applied to the surrogate of Orleans county for a final settlement of their accounts; and such proceedings were had in the matter of the accounting that, on the 19th September of that year, a decree was made by which it was adjudged that the estate was indebted to the said Taylor in the sum of $4,273, and that he had in his hands securities belonging to the estate to the amount of $1,567.27.
+In 1863, the widow, desiring to get possession of the securities in the hands of Taylor, entered into an agreement with one Brown to purchase the same, but Taylor refusing to deliver the securities without the consent of the surrogate, an application was made to him .to authorize such delivery by Mrs. Montross, with the approval of Goff, her co-executor. The surrogate gave his consent, and the securities were transferred :to Brown, by whom they were transferred to Mrs. Montross.
+It is difficult, if not impossible, from the papers before me, to state an account between Taylor and the estate, so as to ascertain, even with an approximation to accuracy, whether he (Taylor) accounted for all the property of the estate that name into his hands. Hor would it be of any practical importance if such an account could be stated, while the decree on the final accounting is left in force. It was admitted by Mrs. Montross that Taylor had transferred all the securities he held at the time of the settlement, and when that transfer was made his liability ended.
+The admission of Mrs. Montross is not binding on the next of kin ; but, as she knew better than any one else what securities he held and what property he received, it is pretty good evidence that Taylor had transferred all the property he had belonging to the estate.
+Mrs. Montross and the next of kin, in March, 1869, presented a petition to the surrogate that Goff be required to account for the property ascertained to be in his hands by the decree in the final accounting of said executors; and, in that petition, they alleged that Taylor had died without having retained in his possession any of the property of said estate. Upon this and other evidence, the surrogate has found that the executor of Taylor has no property of the estate of Montross in his hands; and that finding must be treated as conclusive. -
+In 1867, Wheeler, the executor of Taylor’s will, had his accounts with that estate finally settled before the surrogate of Orleans county, and there was found in his hands a mortgage made by one Reed, for $1,440, which the surrogate, by his decree, directed said Wheeler to retain in his hands, to be accounted for hereafter, under the provisions of the will of the said George Taylor.
+Wheeler testifies that none of the property of the Montross estate came into his hands as executor of Taylor.
+The surrogate has no power to compel Wheeler to account with the representatives of Montross for property belonging to them under the will of Montross, unless it has come into his possession, and then to the extent only that he has received it. (Dakin v. Demming, 6 Paige, 95.) This conclusion necessarily follows from the provisions of the 2d Revised Statutes (2d ed., p. 15, § 17), which declares that no executor of an executor is authorized to administer on the estate of the first testator.
+The defendant not being liable to account as the executor of his testator in reference to the property of the Montross estate, the appellants must present their claims for money owing to the estate of Montross to defendant as executor, and, if not allowed and referred, they must bring their action in a court of law, and have their claim established by a judgment. The surrogate has no power to try disputed claims against an estate. (Curtis v. Stillwell, 32 Barb., 354.)
+The proceedings before the surrogate, from the decree from which this appeal is taken, seem to have commenced to compel the defendant, as executor of Taylor, to pay the amount found by the decree on the final accounting of the executors of Montross to be in the hands of Taylor; the surrogate having power to compel an executor to pay judgments recovered against his testator. But, inasmuch as the surrogate has held that that judgment was satisfied by a transfer of property to the account found to be in his (Taylor’s) hands, no order for its payment could or should be made. The securities found to be in possession of Taylor were held by him under the provision of the Montross will which required the investment of the money of the estate, and to keep it. invested until the children became twenty-one years of age. It was necessary, in order to comply with this provision, that some one of the executors should hold the securities; and it would have been a violation of the provision of the will to have treated the decree of the surrogate as a decree for the payment of the amount of said securities otherwise than in accordance with the provisions of the will.
+That part of the decree of the surrogate that assumes to state an account between the estate of Montross and the defendant and his testator must be reversed, and the residue, thereof affirmed, without costs to either party.
+Ordered accordingly.
