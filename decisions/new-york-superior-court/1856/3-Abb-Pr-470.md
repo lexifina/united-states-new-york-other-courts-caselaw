@@ -1,0 +1,32 @@
+---
+court: "New York Superior Court"
+decided: "1856-11"
+decided_precision: "month"
+citations: ["3 Abb. Pr. 470"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE REPUBLIC OF MEXICO a. ARRANGOIS."]
+source_url: "https://static.case.law/abb-pr/3/cases/0470-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4571760
+---
+
+# Republic of Mexico v. Arrangois
+
+## Majority (Hoffman, J.)
+
+Hoffman, J.
+The defendant asks an unlimited stay of proceedings until the plaintiff remove impediments, which he says they interpose against his examination of material witnesses, the inspection of public documents, and the obtaining of authenticated copies, which he alleges are essential to his defence in the action.
+He representó in his affidavit that when this suit was commenced, the Republic of Mexico was governed by General Santa Anna as Dictator, holding supreme authority, and the suit was commenced by his individual authority. That his power has been overthrown, and a new government formed ; that his officials and heads of departments have dispersed and are concealed, and keep themselves concealed in places unknown to the defendant, and that the archives of the late government are in the possession of the revolutionary government and its officials, and are inaccessible to him.
+He proceeds to state that a revolutionary movement is in progress for the overthrow of the government which superseded that of Santa Anna ; that the latter is pursuing a course of rigorous persecution, exile, and imprisonment against all who do not support it; that his own political sentiments make him obnoxious, and that in consequence he cannot procure proper persons to act as commissioners to take testimony, nor procure the attendance of witnesses, nor have access to their archives, nor engage any proper person to act for, him.
+He next states that as he is advised and believes, free access to the archives of the late government of the Dictator, and full proof of many of the laws and orders of the Republic, and of the acts of the present government, will be necessary for his defence, and for the maintenance of his counter-claim; that several of the clerks and heads of departments, the attorney general and other persons learned in the law, and more particularly Don Ignacio Aguila and others, (naming them), are material witnesses for him. That the places of concealment or refuge of such persons are unknown to him, and, as he believes, to the present government, by whom such concealment has been occasioned, and which has decreed their imprisonment and punishment; and that their testimony cannot be had until public affairs are quieted in the Republic, and an unqualified amnesty published.
+That it cannot be expected that peace and order will be established in less than one year, so as to remove all the obstacles in the way of the defendant’s defence, and to enable him to procure testimony written and verbal. That many of such witnesses were officers of the government, and privy to the occurrences forming the subject of the present suit. He then proceeds to state various particulars to which he expects them to depose.
+When this case was before this court upon the motion to discharge the arrest, the right of a foreign government to sue in our tribunals was recognized. As it sought the benefit of our laws for the enforcement of alleged rights, it subjected itself to the rules which those laws have adopted to secure the administration of justice. (11 How. Pr. R., 1). Beyond a doubt, then, if the present government of Mexico interfered to prevent the defendant from gathering material testimony within its domain, its suit would be arrested, if not dismissed. But this is not to be presumed. It must be established by plain testimony. It is impossible to infer it from the mere representation of the defendant, and the belief of the present consul general.
+The course of the defendant is open. It is probable that the execution of a commission to examine witnesses in Mexico is forbidden, as it is in the Havana. This prohibition of several governments has led to the adoption of letters rogatory or requisitory, which are in fact applications in the name of one State through its court of justice, to another State, to permit and assist in the obtaining of testimony. (See the cases, 1 Hoffman’s Ch. Pr., 81, 82 ; also Sandf. S. C. R., 674).
+The course of the defendant is therefore clear. If he could make out a case for a commission, he can make out one for letters of this description. And if the court permits them to issue, and the government of Mexico the plaintiff in this cause, impedes their execution, this court has the power to redress the wrong by its control of the cause. I cannot but suppose that some persons can be found, perhaps official agents of our own country, to bring such an application before the authorities.
+I forbear, therefore, to consider whether any part of the various matters to be examined into, are within the issues, or may not be proven here, or are material. These points will properly arise upon an application for a commission, or letters in the nature of a commission.
+Another branch of the motion, that to produce the authority of the attorney to proceed under the present government, must be denied, for reasons which induced the court heretofore to deny a similar application. (1 Abbotts' Pr. R., 437). There is an existing and recognized government, whatever may be its difficulties, or its prospects of stability.
+I cannot find the slightest ground to warrant the application that the plaintiff give security for what the defendant may recover upon his alleged counter-claim.
+As to secui'ity for costs, it appears to me that the defendant is as much entitled to it as he would be against any nonresident plaintiff. It appears from the papers that a notice of a motion for such security was given in February, 1855, which was adjourned by consent until the appeal was disposed of. The present order to show cause was made in March, 1856.
+The order will be that the plaintiff file within twenty days a bond with two sureties for securing the costs of the defendant, in the sum of §400, and that upon filing such bond, duly approved, the order to show cause of March 24, 1856, be discharged ; that the order of October 24, 1856, be also discharged ; and that no costs of this motion be allowed to either party.
