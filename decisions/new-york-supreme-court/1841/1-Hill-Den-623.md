@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1841-07"
+citations: ["1 Hill & Den. 623"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Williams & Macy v. Bush & Spicer."]
+source_url: "https://static.case.law/hill/1/cases/0623-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674563
+---
+
+# Williams v. Bush
+
+## Majority (By the Court, Bronson, J.)
+
+By the Court, Bronson, J.
+Prior to 1835, the defendants, Bush & Spicer, were partners, and carried on business as coach and wagon makers 'at Buffalo, and the plaintiffs, Williams & Macy, were brokers in that city. The plaintiffs from time to time endorsed the defendants’ notes, and also made them loans of money. - On the 14th of November, 1834, the defendants gave the plaintiffs their joint bond and warrant of attorney, on which a judgment was perfected July 6th, 1835. The bond was in the penal sum of $10,000, with a condition to indemnify and save the plaintiffs harmless against their endorsements for the defendants, and to pay the plaintiffs all sums of money loaned by them to the defendants.
+On the 12th of January, 1835, the defendants, dissolved their partnership, on which occasion Spicer assigned all his interest in the partnership effects to Bush, and Bush paid Spicer $1000, and agreed to discharge all the partnership debts, and fully to indemnify Spicer against the same. The plaintiffs had notice of the dissolution, and of the terms on which it was made. The defendants were at this time indebted to the plaintiffs for moneys loaned, to about the sum of $2100. It is not alleged that the ' plaintiffs have paid any thing on their endorsements for the defendants, or that there are any such liabilities outstanding.
+After the dissolution, the business was carried on. by Bush, and the plaintiffs made loans to him, he agreeing that the judgment should stand as a security for those loans. On the 3d of November, 1835, the plaintiffs dissolved their partnership,- after, which Macy made loans to Bush on the like understanding, that the judgment should also stand as a security for those loans. The loans made to Bush by the plaintiffs jointly, and by Macy individually, amounted in the aggregate to about $3200. Spicer had no notice of the arrangements between the plaintiffs and Bush.
+In October, 1836, Macy caused an execution to be issued on the judgment, on which the sheriff was directed to levy about $5300—-the amount then claimed to be due for the loans made to Bush & Spicer before, and to Bush after the dissolution of their partnership. In January, 1837, the individual property of Bush, being certain real estate in Buffalo, was sold under the execution, and bid off by Macy for the sum of $3500. Bush has removed to Illinois, and is utterly insolvent.
+On this case the plaintiff, Macy, insists, that he has the right to apply the proceeds of the sale under the execution to the satisfaction of the loans made to Bush after the dissolution of his partnership with Spicer, and to use the judgment against the individual property of Spicer for the purpose of collecting the amount of the loans made to Bush and Spicer while they were partners. This, I think, he cannot do. It would be highly inequitable and unjust.
+On the dissolution of the partnership, the assets which were assigned to Bush constituted the primary fund for the payment of their debts; and although the creditors of the -firm might also reach the individual property of each of the partners, yet, as between the partners themselves, there was a plain equity in favor of Spicer to have the debts satisfied out of the property of Bush. As Bush had agreed to discharge all the liabilities of the firm, he was to be regarded as the principal debtor, and Spicer stood in the character of a surety, and was entitled to all the equitable liens on the property of his principal. (Waddington v. Vreedenburgh, 2 John. Cas. 227.) The plaintiffs not only had notice of .the dissolution, but they knew also the terms upon which it was made. They then held the bond and warrant of attorney, and the judgment, when it was subsequently entered, as a security for the partnership debts, and for nothing else; and they were not at liberty to enter into any new arrangements with Bush which should defeat the existing equities between him and his former partner.
+The bond was in terms conditioned for the satisfaction of the joint liabilities of Bush & Spicer, and if Bush could by any parol agreement give it a larger operation as against himself, he could not do so to the prejudice of his copartner.
+I do not think it necessary to enquire, whether Spicer could have compelled the plaintiffs to resort to the property of Bush ' before calling on him for the partnership debt. The property of Bush has in fact been sold, and the question now is, how shall the proceeds be applied ? I think they should go, so far as is necessary for that purpose, to the satisfaction of the partnership debt, and that the balance only should be applied to the individual debt of Bush. This is the justice of the case; and as the judgment was entered on a bond and warrant of attorney, and there are no complicated equities between the parties, it was not denied on the argument that adequate relief might be afforded by this court, without sending the parties into another forum.
+Other facts are stated in the papers, tending strongly to show that this judgment ought not to be used against Spicer, but he has, I think, a clear equity on the case as already stated.
+As more than enough to satisfy the partnership debt has already been made under the execution, there should be a perpetual stay of proceedings on the judgment as against the defendant Spicer.
+Ordered accordingly.
