@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1857-10"
+citations: ["3 Park. Crim. Rep. 552"]
+reporter: "park-crim-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People v. John Bush."]
+source_url: "https://static.case.law/park-crim-rep/3/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1258968
+cites_cases: ["1 Hill, 238", "3 Chit. Cr. L., 1093", "3 Hill, 92", "4 Blackf., 552", "4 Scam., 197"]
+---
+
+# People v. Bush
+
+## Majority (By the Court, S. B. Strong, P. J.)
+
+By the Court, S. B. Strong, P. J.
+The defendant was convicted of the crime of burglary in the second degree, at a Court of Sessions in the county of Kings. • Several objections were raised, by his counsel, to fhe. proceedings during the trial, and have been repeated in this court, the more material of which I shall consider.
+The indictment charges that the crime was committed in the dwelling-house of John Wood. He occupied two apartments in the house, and there were' several tenanted by others. The outer or hall door was common to all the occupants. The rooms occupied by Wood constituted his dwelling-house within the requirements of the law. It has been decided that chambers in a college or inn of court, where each individual has a distinct property, are considered as separate mansions, though under the same roof and having a common entrance. (1 Hale, 556.)
+Neither the hall door nor the door of the room in which the defendant had been discovered, was locked. If these doors were shut, he had simply unlatched them when he made his entrance. There was no one in the apartment when he entered it. The wife of the tenant testified that she had left the door latched when she left the room, about fifteen minutes before she returned and discovered the defendant, and that the hall door was also latched when she saw it, about ten minutes before; and she farther testified (after an objection had been taken and overruled) that both doors were generally kept closed. I am satisfied that this evidence was properly admitted. The proof that the doors had been so recently shut fairly led to the inference that they were closed at the time, which was strengthened by the general custom. Had no other proof but that of the general habit been introduced, I doubt whether that alone should have been received, and, if admissible, it would have been too uncertain to have warranted the conclusion that the doors were closed when the defendant reached them.
+It is well settled that unlatching a door which is only latched is a sufficient breaking to constitute burglary at ° the common law. (1 Hale, 552; 2 East’s P. C., 487; 3 Chit. Cr. L., 1093.) The rule has been recognized by the Supreme Court of this state. (Curtis v. Hubbard, 1 Hill, 238, per Cowen, J.)
+The court had a right to direct the jury to reconsider . their verdict before it had been recorded, and it was its duty to do so, if satisfied that there had been a palpable mistake. (1 And., 104; Alleyn, 12; Plowd., 211, b.; 2 Hale, 299, 300, 310; Hawk., b. 2, c. 47, § 11; Bro. Abr., 7, “Jurors;” Bac. Abr., "Verdict,” G.)
+I think, however, that the court erred in instructing the jury that this was a case of burglary in the second degree, or of petit larceny. Probably it was supposed to be included in that section of the statute which provides that “ Every person who shall be convicted of breaking into any dwelling-house in the day-time, under such circumstances as would have constituted burglary in the first degree if committed in the night-time, shall be deemed guilty of burglary in the second degree.” (2 R. S., 668, § 11.) To constitute burglary in the first degree there must be forcibly bursting or breaking the wall or an outer door, window or shutter of a window, or the lock or bolt of such door, or the fastenings of such window or shutter, or breaking in any other manner, being armed with some dangerous weapon, or with the assistance and aid of one or more confederates, then' actually present, or by unlocking an outer door by means of false keys or by picking the lock thereof. (Id., 668, § 10.) In this case there was neither. The forcibly bursting or breaking an outer door means, in common parlance, more than simply lifting a latch. That the first subdivision of the tenth section must have designed something further is apparent from the third subdivision, which provides that unlocking an outer door by means of false keys, or picking the lock thereof, shall be a sufficient breaking to constitute burglary in the first degree. The provision would have been wholly unnecessary if simply unlatching the door would have been deemed bursting or breaking it within the meaning of a former part of the same section. Clearly there is no other statutory definition of burglary in the second degree which comprehends the crime perpetrated by the defendant, as proved on his trial.
+For the error of the court in charging the jury that this was a case of burglary in the second degree, or petit larceny, and which led to an improper conviction, such conviction must be set aside, and there must be a new trial in the Court of General Sessions.
