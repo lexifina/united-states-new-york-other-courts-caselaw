@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-07-09"
+citations: ["25 N.Y. St. Rep. 555", "3 Silv. Sup. 59"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Ferber, Resp’t, v. William Smith et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/25/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657637
+---
+
+# Ferber v. Smith
+
+## Majority (Brady, J.)
+
+Brady, J.
+This action was based upon an undertaking given on procuring an attachment which was vacated. The necessary allegations were made in the complaint to enable the plaintiff to recover. The defenses demurred to are as follows:
+“ And for a further answer to the said complaint the defendants show: That at the time of said alleged assignment the said Thomas McGrath was insolvent, and they allege and charge that the said alleged assignment was in fraud of his creditors, without consideration, invalid and void. And, therefore, they deny that this plaintiff has any right or title to or interest in said chose in action (if any) set out in said complaint, or in said undertaking.
+For a third defense herein:
+Third. And for a further defense these defendants show that the order vacating said attachment referred to in said complaint was duly appealed from on,the 20th day of June, 1887, which appeal still remains in full force and undetermined.
+For a fourth defense herein:
+Fourth. And for a further defense herein defendants show: That upon service of said attachment the said goods attached were claimed to be the property of one Thomas R„ Dunne and admitted so to be by said Thomas McGrath, wherefore defendants aver that said McGrath and his assignee, the plaintiff, are estopped from recovering damages in this action. Wherefore defendants demand that the complaint herein be dismissed, with costs.
+They were each demurred to upon the ground that each was insufficient law upon its face, and that the matters therein contained did not constitute a defense to this action.
+The demurrer was properly sustained. The pleading demurred to did not present any sufficient answer in either of these three defenses. The only one, indeed, at all suggestive of a proper response is that averring an appeal from the order vacating the attachment, and that was incomplete because it did not allege that a stay of proceedings had been ordered, or such other facts and circumstances in connection with it as legally accomplished that result. This action is one provided by statute, and is entitled to all the advantages which courts, in the administration of justice, can confer. The process of attachment is too frequently resorted to, either carelessly or without sufficient facts to justify its issuance, and it frequently causes great disaster to the defendant; more injury, indeed, than the rule of damages is broad enough to cover. The right to prosecute is absolute, and the court has no power to recognize sympathetic defenses—they must be legal.
+The judgment appealed from must, for these reasons, be affirmed, with costs.
+Daniels, J., concurs.
