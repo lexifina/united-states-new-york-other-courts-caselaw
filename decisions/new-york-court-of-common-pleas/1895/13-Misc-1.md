@@ -1,0 +1,32 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1895-06"
+citations: ["13 Misc. 1"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carrie Isabelle Bacon, Appellant, v. Frederick F. Proctor et al., Respondents."]
+source_url: "https://static.case.law/misc/13/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 342713
+cites_cases: ["70 N. Y. 34"]
+---
+
+# Bacon v. Proctor
+
+## Majority (Pryor, J.)
+
+Pryor, J.
+The appeal is manifestly without merit.
+The action is for damages from a breach of a contract of employment. That, by oral agreement, the plaintiff was engaged as an actress in the defendants’ theatrical company is conceded, but the defendants contend that the term of her employment was indefinite; that they had a right to discharge her on two weeks’ notice, and that by mutual consent the contract of service was rescinded.
+Assuming the truth of the plaintiff’s story, that her engagement was for thirty weeks, and still it appears by her own evidence that she has no cause of action. She testified as follows : “ Q. Isn’t there a custom, which has grown into law, that any artist or any manager can, by giving two weeks’ notice, cancel a contract ? A. It is. Q. You could have given two weeks’ notice and canceled your engagement, your contract, and they could have given you the same ? A. Yes, sir. Q. In giving two weeks’ notice to the defendants you could have canceled this contract that you made with Mr. Turner ; and on their giving you two weeks’ notice it could also be canceled? A. Yes, sir.”
+The two weeks’ notice to plaintiff being an undisputed fact, what is left of her case ? At this point the court might well have stopped the trial by a direction for the defendants.
+Counsel for the jalaintiff contends that the evidence was inadmissible, because “ immaterial and irrelevant.” Material and relevant in an emphatic sense it was, beyond controversy; and if incompetent, its exclusion should have been demanded on that specific ground. Tooley v. Bacon, 70 N. Y. 34, 37.
+The answer, besides taking issue on the .allegation of an engagement for a definite term, affirmatively pleaded a contract subject to termination on two weeks’ notice.
+The question, as seeming to call for a conclusion of law, may have been irregular; but the response being the statement of a fact, the plaintiff is not prejudiced.
+Again, plaintiff admits that on payment of her last week’s wages she subscribed the following document: “ Received from Messrs. Proctor and Turner payment in full for all salary, liability, indebtedness and cancellation of contract for the season.” Here is a mutual agreement of rescission; and upon an adequate consideration in the reciprocal release by the parties of their respective obligations.
+■ Plaintiff says she didn’t read the paper; but what of it ? It was her own fault and folly to sign without reading; and in the absence of fraud upon her — of which there is no proof— she is bound by the paper though ignorant of its contents.
+It is obvious from the grounds- upon which we dispose of the appeal, that none of the imputed errors in the record is of possible detriment to the plaintiff.
+Judgment and order affirmed, with costs.
+Daly, Oh. J., and Bisohoff, J., concur.
+Judgment and order affirmed, with costs.
