@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1846-05"
+citations: ["2 Denio 646"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dexter and another vs. Adams, sheriff &c."]
+source_url: "https://static.case.law/denio/2/cases/0646-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2186153
+cites_cases: ["10 John. 220", "10 Mass. 206", "10 Wend. 356", "16 John. 181", "18 John. 496", "2 Hill, 451", "23 Wend. 268", "3 Hill, 552"]
+---
+
+# Dexter v. Adams
+
+## Majority (By the Court, Beardsley, J.)
+
+By the Court, Beardsley, J.
+Passing by all other questions which arise in this case, I think it should have been put to the jury to determine whether Jenkins had been induced, by trick and fraud on the part of Baker alone, or in conjunction with Mink, to leave the limits, the trick and fraud having been resorted to for the benefit of Hadley, who owned the judgment; and with instruction to the jury, that if such were found to be the facts the plaintiffs could not recover. In substance the judge was requested so to charge the jury, and it seems to me he erred in withholding the instruction. Although there was no direct evidence on the point, there were facts and circumstances upon which the jury might well have come to that conclusion.
+Baker was the agent of Hadley to commence an action against the sheriff, if Jenkins should be seen off the limits. This was the character of his agency and the extent of his power.' But the evidence contained in the bill of exceptions, affords strong ground to believe that he did much more than this agency required or authorized, and that he and Mink were acting in hearty concert in the base fraud by which Jenkins was decoyed beyond the limits. Whatever Baker and Mink did was plainly enough designed to benefit Hadley. No other motive is suggested, and the object palpably was to create a cause of action against the sheriff by which Hadley might collect his debt. If Jenkins was thus entrapped into an act which, under other circumstances, might constitute a ground of action against the sheriff, such ought not to be its effect as to Hadley, if the fraud had been perpetrated for his benefit. If he sets up as constituting a ground of action in his favor, a departure from the limits which had been fraudulently induced and procured for his benefit, he must submit to all the legal consequences which follow from this, his own voluntary act. And he cannot he allowed to separate the fact of passing beyond the limits from the cause which induced it, and rely upon the escape as an efficient ground of action in his behalf, while at the same time he repudiates the fraud by which the escape was procured. He must repudiate both or neither; he cannot reject one while he virtually affirms the other. If the escape was brought about by those who were acting to aid him and for his supposed benefit, ánd he now seeks to gain an advantage by this result of their efforts in his behalf, he necessarily thereby becomes a party to what they had done. As to others this escape might give a good right of action against the sheriff; but not so as to him for whom the fraud was committed. I am not aware of any exception to the principle, that one who endeavors to turn to his own advantage, what others nad assumed to do for his benefit, although without authority, s, as to such act, deemed to stand in their place; and if what the assumed agents had done, was fraudulent as to themselves, it is equally so as to-him who thus adopts and assumes it. It is too plain to admit of question, that if Hadley, by artifice and trick, had induced Jenkins to quit the limits, the sheriff would not be responsible for the escape; and in principle the case is the same, where Hadley seeks to avail himself of the result of artifices and tricks which others had resorted to for his benefit. If in this case, then, there was evidence on which the jury should have found that the escape was caused by the fraud of Baker and Mink, while acting with a view to aid Hadley, the prosecution of this suit is an unqualified and absolute ratification of their fraudulent acts, and as to Hadley, here was in law no escape from the limits for which he can have redress. In effect he procured it, and therefore the action will not lie. There should be a new trial.
+New trial granted.
