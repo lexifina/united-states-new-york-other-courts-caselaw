@@ -1,0 +1,27 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1882-02-06"
+citations: ["10 Daly (N.Y.) 336"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Brenstein, Respondent, against Morris Mattson, Appellant."]
+source_url: "https://static.case.law/daly-ny/10/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1603825
+cites_cases: ["78 N. Y. 483", "84 N. Y. 56"]
+---
+
+# Brenstein v. Mattson
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+[After stating the facts as above.]— The only question to be considered here is, has the plaintiff shown, by a preponderance of evidence, that he was not gnilty of any negligence which in the slightest degree contributed to the happening of the accident? for we must assume for the purpose of the decision of this appeal that the failure of the defendant to comply with the statute in reference to the protection of hoistways, is proof of his negligence. It is not sufficient that the plaintiff should prove facts from which either the conclusion of negligence, or the absence of negligence, may with equal fairness be drawn ; but the burden is upon the plaintiff to prove that there was no contributory negligence upon his part. This proposition is sustained by the case of Hart v. Hudson River Bridge Co. (84 N. Y. 56), and is but a re-statement of the decisions of the Court of Appeals in previous cases upon this identical point.
+In the case of Hale v. Smith (78 N. Y. 483), it is held that in cases where contributory negligence may be claimed, it is incumbent upon the plaintiff to satisfy the jury by a preponderance of proof, and it is said that the absence of contributory negligence is part of the plaintiff’s case, and the burden of satisfying the jury upon that point rests upon him. Where there is no proof either way upon that subject, the jury cannot find that the plaintiff has established that he has not been guilty of contributory negligence ; and the same is true where the evidence renders it uncertain in regard to that subject.
+Now what evidence is there in the plaintiff’s case going to show that he was not guilty of contributory negligence ? What care or caution did he exercise in approaching this hoistway? He knew that the hoistway was there; he had been accustomed to see it; and although the proof is not positive upon that point, the fair inference to be drawn therefrom is that he knew that the hoistway was used for the hoisting of goods ; and yet, because he had seen the hoistway closed, between twelve and one o’clock, at four o’clock he rushes to it without looking to see whether it is open or closed, and looking up instead of looking down to see where he was going, he walks right into the hoistway and falls down.
+It is difficult to see where ordinary prudence or caution was exercised under such circumstances. We are not at all left in doubt as to what the inference to be drawn from such circumstances is. In the case in 52 N. Y. (Totten v. Phipps), the party injured was the occupant of the upper lofts of the building, the first floor of which was occupied by the defendants, in the hall-way of which was a trap-door which went across almost the entire hall-way. This door the defendants had been accustomed to keep shut during the night. The party injured having had occasion to go after nine o’clock to his lofts, entered the liall-way in the dark, and the hoistway being opened he walked into it and fell. The court held in that case that, as matter of law, he was nqt guilty of negligence because, although he knew the hoistway was there, yet, knowing that it was the custom to close the hoistway at night, he had a right to assume that the hallway was in a fit condition for passage at the time at which he entered ; and that if the deceased had walked into the opening in daylight, he would have been chargeable with negligence within the rule, because the ordinary use of his senses would have prevented it, and he would have been at fault. Applying this principle to the case now before the court, it is clear that if the plaintiff had used his senses and looked to see whether this hoistway was open, he could have avoided the accident, because the evidence shows that the accident occurred because of the assumption upon the part of the plaintiff that the hoistway was closed; and the counsel for the plaintiff seems to have laid great stress upon the establishment of the proposition that he had seen the hoistway closed between twelve and one o’clock of the day upon which he was injured.
+I have been unable to find any evidence of ordinary care or caution upon the part of the plaintiff in approaching this hoistway ; and as the jury had no right without evidence to infer that he had used ordinary care and prudence, their verdict for the want of such proof must necessarily be set aside.
+We are of the opinion, therefore, that the case contains no preponderance of evidence going to show, but that if the plaintiff had exercised ordinary care and caution, and had not assumed that the hoistway was closed, instead of looking to see whether it was open or not, no accident would have occurred. The judgment must therefore be reversed, and a new trial ordered, with costs to abide event.
+J. F. Daly, J., concurred.
+Judgment reversed and new trial ordered, with costs to abide event.
