@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-02"
+citations: ["91 N.Y. Sup. Ct. 267"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Herrick, J., concurs; Putnam, J., dissenting."]
+parties: ["Henry W. Sage and Others, Appellants, v. David G. Burton, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/91/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4761122
+cites_cases: ["128 N. Y. 22"]
+---
+
+# Sage v. Burton
+
+## Majority (Mayham, P. J.:)
+
+Mayham, P. J.:
+This action was brought by the plaintiffs to recover the amount of the balance of hn account accruing in favor of the plaintiffs for some kind of merchandise.
+The answer in effect admitted the accruing of the account and its correctness, but set up payment in the defendant’s check given by the defendant to one Abbott on account of such indebtedness, payable to the order of the plaintiffs.
+Abbott had been for a long time in the employ of the plaintiffs, and was salesman for them, and at times collected accounts for them and received checks of customers for accounts du'e the plaintiffs. He had also made settlements of accounts with customers of the plaintiffs, and on such settlements abated from the amount claimed, and such settlements and abatements had been acquiesced in by his employers. The proof showed on the trial of this action that the defendant settled the account in suit with the agent Abbott, who on such settlement made a reduction from the amount claimed of $100, and took the defendant’s check for the balance of $234.11 payable to the order of the plaintiffs, and at the same time receipted the bill of the plaintiffs in their firm name in full for that amount. The proof also shows that the check was subsequently indorsed in the name of the plaintiffs’ firm and was paid at the bank out of the funds of the defendant. The indorsement of the firm name of the plaintiffs on the check was made by Abbott without the express authority of the plaintiffs, and the money received by him on the same from the bank, but the same was not paid by him to the plaintiffs, and they were never in fact paid the amount of their bill. The main question in this case, and the one upon which the rights of the parties turned in the trial court, and must turn here, is whether the act of the agent Abbott bound the plaintiffs so that under the circumstances of this case the giving of this check by the defendant, and its subsequent payment by the bank, amounts to a payment by the defendant so as to discharge him from this debt. It is unnecessary for us to consider here the right or power of Abbott to adjust amounts due on claims of plaintiffs and make reductions on the same, as that seems to have been conceded on the trial by the plaintiffs’ consent to reduce the amount of their claim to the sum represented by the check.
+There was, on the trial, a sharply contested question of fact as to whether or not the plaintiff Dean Sage told the defendant, in the presence and hearing of Abbott, before the transaction in question, that his dealings with the plaintiffs’ firm must be with Abbott. The defendant testified upon that subject as follows:
+“ He (Sage) then told me in the future I must deal with Mr. Abbott individually in buying, adjusting and settling.”
+This is contradicted by Sage, and the learned trial judge left it to the jury to say whether this general and sweeping authority was given to Abbott by the plaintiff Dean Sage, and was relied upon by the defendant as authority for him to settle all claims between him and the plaintiffs with Abbott. That was, we think, a proper disposition of that disputed question. It is true that payment of this check to Abbott was not in fact payment to the plaintiffs, and if Abbott improperly indorsed the check in their name, and appropriated the proceeds to his own use, it would in effect be a larceny from the plaintiffs and they would be the losers to that amount. But so long as the defendant was authorized to make settlements with, and payments to, Abbott of all claims in favor of plaintiffs against him, the giving of the check and the subsequent payment of the same by the bank out of the funds of the defendant was payment by the defendant so as to discharge him from liability to the plaintiffs.
+While a check of the debtor does not, until paid, ordinarily amount to payment of the debt, it does, after payment of the check, extinguish the debtor’s liability, if the same is paid to the creditor, or to the agent of the creditor authorized to receive, the check of the debtor, for the reason that, after he has parted with the check to the creditor, or his agent, he has no further duty in the matter except to see that funds are in the bank on which it is drawn for its payment.
+“ A check given in payment, and afterwards paid, becomes a valid payment as of the date of its receipt.” (18 Am. & Eng. Ency. of Law, 174, and cases there cited.)
+The plaintiffs having authorized the agent to receive the check, and thus removing’ it beyond the control of the defendant, took; as between them and the defendant, the risk of the acts of their own agent; all the risk that the defendant took in the matter was that of establishing that the agent had power and authority to take the check in settlement, and that the drawer had funds in the bank with which to pay it on presentment. He did not even take the risk of a forged indorsement. That, probably, was the risk of the bank.
+The jury under the charge of the court have, we think, found, upon sufficient evidence, that the agent in this matter was authorized by the principal to receive this check, and that, coupled with its finding of payment of the check, operated to discharge the defendant from liability. (Carroll v. Sweet, 128 N. Y. 22-27.)
+If it be held that Abbott in this transaction was not the alter ego of the plaintiffs, and had no authority to indorse this check, yet, if he was authorized by the plaintiffs to receive this check from the defendant, any misappropriation of its proceeds by him is at the risk of the party who set him in motion and put it in his power to perpetrate the wrong; such party must suffer rather than the party who is in no wise accountable for, and has no control of the perpetration of the wrong.
+We have examined the exceptions taken by the plaintiffs to the various rulings of the trial judge and his charge, and see no error for which this judgment can be reversed.
+Herrick, J., concurs; Putnam, J., dissenting.
+Judgment affirmed, with costs.
