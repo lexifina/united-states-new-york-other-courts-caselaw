@@ -1,0 +1,27 @@
+---
+court: "Brooklyn City Court"
+decided: "1890-06-23"
+citations: ["31 N.Y. St. Rep. 975"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Susan Duer, App’lt, v. The Twelfth Street Reformed Church of Brooklyn, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/31/cases/0975-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2036302
+cites_cases: ["99 N. Y., 491"]
+---
+
+# Duer v. Twelfth Street Reformed Church
+
+## Majority (VanWyck, J.)
+
+VanWyck, J.
+The plaintiff sues to recover $75.15, with interest, received by defendant under the following agreement:
+“ Received from Mrs. Duer, for juvenile concert, $75.15, towards permanent debt of $19,000 of Twelfth Street Reformed Church. The amount of this subscription to be returned, if demanded * * * in case there is not sufficient amount subscribed by January 1, 1880.”
+The answer denies the allegation of the complaint that there was not a sufficient amount subscribed by January 1,1880, to pay the debt, and there is no evidence to prove this allegation. This would be sufficient to "defeat the plaintiff’s claim, but as the verdict in favor of the defendant was directed on the ground that the action was barred by the statute of limitation, we will now consider that.
+Such an action as this must be brought within six years. Code Civ. Pro., § 382. The real question is whether the statute commences to run when the right to make the demand matures, or when the demand actually is made. If the former, then this cause of action was outlawed at the time this action was brought; if the latter, then it was not.
+The right to make the demand of the defendant in this case ripened on January 1, 1880, if at all, for the condition of the subscriptions on that day was to determine the existence or non-existence of such right by the express terms of the contract. As soon as there was a failure, on January 1, 1880, to receive sufficient subscriptions to pay the church debt, plaintiff’s right to recover her subscription back was complete, though to maintain her action a demand was necessary. Code Civ. Pro., § 410, provides: “ Where a right exists but a demand is necessary * * * to maintain an action, the time within which the action must be commenced must be computed from the time when the right to make the demand is complete.”
+The plaintiff insists that this case comes within the exception provided for in subd. 2 of this section, which is that: “ Where there is a deposit of money not to be repaid at a fixed time, but only upon a special demand, * * * the time must be computed from the demand.” This payment of a subscription to a church was not a deposit within the meaning of this exception. The most common illustration of the cases covered by this exception are bank accounts, and most of the cases concerning this exception relate to them. Plaintiff did not deposit this money with the church to be taken care of for her, but paid her subscription “to the church. Corkings v. State, 99 N. Y., 491; see 495; Dickinson v. Mayor, etc., 92 id., 584.
+The judgment and order appealed from should be affirmed, with costs.
+Osborne, J., concurs.
