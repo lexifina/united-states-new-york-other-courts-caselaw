@@ -1,0 +1,23 @@
+---
+court: "New York Superior Court"
+decided: "1895-01-07"
+citations: ["63 N.Y. St. Rep. 442"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Ann Diehl et al., Resp’ts, v. The Metropolitan Elevated Railway Co. et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/63/cases/0442-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2102136
+---
+
+# Diehl v. Metropolitan Elevated Railway Co.
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The court below, on evidence which satisfactorily sustains the result, found that the fee damage to the property, which is known as Mo. 656 Second avenue, this city, was $2,500, and that the past or rental damages were $1,960. The findings taken as a whole show that all legal rules were observed in arriving at the true measure o'f the damages, and that those only were allowed, which were consequential, pecuniary and compensatory, and in keeping with the authorities upon the subject. The evidence as to noise was competent as to past damages and does not appear to have been admitted or considered for any other purpose. The court found that the easements appurtenant to the land taken, in and of themselves, apart from any consequential damages had only a nominal value, and that the defendants were entitled" in mitigation to have taken into consideration, as against the physical inconvenience occasioned by their railroad, all advantages to the plaintiffs’ property, whether general or special in their nature, resulting from the maintenance and operation of said road, and the proximity of its stations, and these circumstances were considered and properly allowed for.
+The sum to be paid to obviate the injunction is to be paid upon the delivery of a conveyance or release from all parties having an interest in or lien upon'the premises, which means a conveyance or release effectually discharging the easement from all claims of every kind, character or description.
+The defendants object to part of this provision on the ground that Christopher Diehl, one.of the plaintiffs, was a lunatic, and that the committee of his estate appointed in proceedings instituted for the purpose, had no authority to execute for him the conveyance or release required by the decree. We do not find in the appeal book the papers in the lunacy proceedings, but a statement that they may be used upon the argument of any appeal herein. They were offered in evidence on behalf of the defendants at the trial, and it is to be inferred from this, and from the fact that the papers were not presented at the argument, that they were correct in substance and form and sufficient for the purpose for which they were evidently intended, for the offer below was unaccompanied by any suggestion to the contrary.
+Mo defect was pointed out at the trial, and none can be inferred on- this appeal. The plaintiffs evidently endeavored to observe and satisfy all legal requirements in respect thereto, and if the defendants intended to rely on substantial or technical defects in the lunacy proceedings, they should have been pointed out and made to appear of record that they might have been considered below and the decision thereon intelligently reviewed here. We find no error, and the judgment appealed from must be affirmed with costs.
+Freedman, P. J., and Gildersleeve, J., concur.
