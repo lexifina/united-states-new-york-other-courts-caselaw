@@ -1,0 +1,31 @@
+---
+court: "New York Court of General Sessions"
+decided: "1897-03"
+citations: ["12 N.Y. Crim. 244", "1 Liquor Tax Rep. 152", "19 Misc. 665"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. CONSTANT BOUDOUIN."]
+source_url: "https://static.case.law/ny-crim/12/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1178246
+cites_cases: ["19 Misc. 665"]
+---
+
+# People v. Boudouin
+
+## Majority (McMAHON, J.)
+
+McMAHON, J.
+The defendant is charged with violation of the Liquor Tax Law, chapter 112, Laws of 1896.
+It is alleged in the indictment that the offense was committed in that portion of the city of New York which was annexed to the county of New York by chapter 934 of the Laws of 1895.
+A demurrer has been submitted in his behalf on the ground that the grand jury of New York county had no legal authority to inquire into the crime charged, by reason of its not being within the legal jurisdiction of the county.
+The territory in which the offense is alleged to have been committed was “set off from the county of Westchester and annexed to, merged in and made part of the city and county of New York ” "by the provisions of chapter 934 of the Laws of 1895.
+To sustain the demurrer the defendant relies upon the following provision of the Liquor Tax Law, which took effect March 23, 1896, and especially relates to the territory in which the offense is laid:
+“If, since the latest state enumeration was taken, the boundaries of a city have been changed by the addition of territory not in the same judicial district, such annexed territory shall not be •deemed to be a part of such city for the purposes of this act, but .such annexed territory shall be deemed to be a town, and all the provisions of this act shall'be applicable to such annexed territory the same as if it had not been so annexed,-except that all the money which would otherwise be payable to the town under this .act shall be paid to the city to which such territory was annexed. ” Liquor Tax Law, subd. 4, § 11.
+There has been no state enumeration since the passage of this ■act.
+The act of 1895, cited by the learned district attorney, made the annexed district part of the city and county of New York, and it so remains. The act of 1896 declares that “ for the purposes of this act” this territory shall not be deemed a part of the city of New York. What are the purposes of this act ? Clearly, to impose a tax upon the liquor traffic within the state and to regulate the collection of the same. It surely was no part of the purpose of this act to change the mode of procedure for the prosecution and punishment of crime. On the contrary, as far as it touches upon that subject, it re-enacts (section 35 ) the sections of the Code of Criminal Procedure, and prescribes that “All proceedings instituted for the punishment of any violation of the provision of this act, the penalties for which are prescribed in section thirty-four, shall be prosecuted by indictment by the grand jury of the county in which the crime was committed, and by trial in a court of record having jurisdiction for the trial of crimes of the grade of a felony. ” Other sections of the same act impose obligations or confer privileges in towns and villages not imposed or permitted in cities. For instance, a light tax-rate and local option are allowed to towns but denied to cities. The distance from schools, churches and public institutions, within which the traffic is permitted in cities and towns, also varies in the act, and it is, no doubt, for these reasons that, with the exception stated in the provision quoted above relating to the payment of money collected, all the provisions of the act were made applicable to such annexed territory the same as if it had not been annexed to the city of New York. The territory in question is sparsely populated, and to subject it to the rigid regulations and high tax prescribed for the first-class city of which it becomes a part would have been oppressive.
+The legislature, within constitutional limitations, has the undoubted right, and has often exercised it, of segregating part of a county and attaching it to another, or of attaching part of a county to a city without changing the county lines, and the act of 1895, by its terms, sets off from the county of Westchester and merges in the city and county of New York certain territory, while a subsequent enactment declares that for certain purposes this territory is not to be deemed part of said city, but should, for the purposes indicated, remain the same as if it had not been so annexed. It it very clear from the text that the words “ so annexed, ”as used in this section, mean the annexation to the city of New York, not the annexation to the county.
+It follows that for all purposes other than those indicated in the Liquor Tax Law, the territory in question is part of the county of New York, and subject to the jurisdiction of the grand jury and courts of that county 'in all matters pertaining to the prosecution and punishment of crime.
+The demurrer is disallowed
+Ordered accordingly.
