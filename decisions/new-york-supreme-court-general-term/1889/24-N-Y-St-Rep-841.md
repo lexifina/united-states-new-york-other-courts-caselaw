@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-22"
+citations: ["24 N.Y. St. Rep. 841", "2 Silv. Sup. 468"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Albert H. Pickard, Pres’t, etc., App’lt, v. John Simson, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0841-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024400
+---
+
+# Pickard v. Simson
+
+## Majority (Dwight, J.)
+
+Dwight, J.
+At the opening of the trial of this action at the circuit, as we read from the record before us, “the question came up as to whether the action, as stated in the complaint, was for an accounting, or upon an account stated. The court held upon an examination of the pleadings, that the action was upon an account stated, and the trial of the action proceeded upon that construction of the pleadings.” No exception was taken by either party to this ruling of the court, and it must be regarded as conclusive for all the purposes of the trial and of this review. But we have also examined the pleadings and, if the question were an open one, should have no hesitation in reaching the same conclusion as to the nature of the action as that embodied in the ruling by the court below.
+At the close of the evidence the court directed a verdict for the defendant, and the only question now presented is whether a case was made for submission to the jury, upon a cause of action on an account stated between the parties.
+The plaintiff sues as president of a joint stock association organized for the manufacture of carriage axles, of which the defendant was president and acting financial manager (so far as the association had any financial management), from its organization, in ISIS to January, 1881. Soon after his retirement from the presidency a committee consisting of the plaintiff and one Lamphire, the nominal treasurer of the association, was appointed to examine the affairs of the company and “to settle with the defendant.” It seems that the company had no money to begin with and never made any money. The means for carrying on its business were derived from the avails of the discount of notes made by some members of the company and endorsed by a man by the name of Driggs for a consideration. When these notes fell due they were either renewed, or, if the company had not money enough to pay the interest and the commission to the endorser, some of them were paid by assessments upon the members of the company.
+The evidence in support of the plaintiff’s cause of action consisted of the testimony of the plaintiff and Lamphire. The plaintiff testified that while the defendant was acting as the financial agent of the company “there was paid to him by the share-holders about the sum of $21,802.38. “ This he swears to in gross without any specification of dates or amounts, nor any statement of the means by which he arrives at the gross sum. He testifies that the committee called upon the defendant “to confer with him relative to the amount of money received and paid out by him for the company * * * .” “We went through Ms books; he gave us the items he had paid out for the company and I set them down on a piece of paper.” He testifies that he footed up those items and they amounted to $13,452.87; and he adds: “he (the defendant) has never, that I know of, paid the difference between that $13, 452.87 and the sum of $21,802.38, that I have named.”
+This is all that the first witness testifies to on Ms direct examination in support of the allegation of an account stated. He does not say that the amount of $21,802.38 was ascertained or verified from the books as the amount received by the defendant, nor that that or any other sum received, was agreed upon or even mentioned in the interview nor that any balance was mentioned or alluded to, but only that the defendant read off from Ms books “ the items he had paid out,” and the witness set them down on a piece of paper.
+Counsel for the defendant came nearer proving an account stated, on the cross-examination of the plaintiff, than his own counsel had done. He seems to have supposed that the witness had testified to a balance ascertained or mentioned at the “ settlement,” for he asked:
+Q. At that settlement, all that you say that was done, then, was a certain amount found remaining in defendant’s hands, as you claim? A. Yes.
+Q. Did he say that was right? A. Well, he did not object to it.
+Q. What did he say? A. Well, I don’t remember what he did say.
+Q. You don’t know what he did say? A. Ho, sir.
+The testimony of Lamphire was no more to the point than that of the plaintiff. He corroborates the plaintiff in respect to the appointment of the committee and the meeting with the defendant, and further testifies as follows: “At that meeting, defendant produced books and vouchers; according to the books and papers he produced, and according to his statement, he had paid out $13,453; I"think that was about the amount showed up; he did not, at that time, show that he had paid anything more than that; no larger sum than that has been accounted for- by him or paid over to the company.”
+This is all the testimony in the case in support of the issue tendered by the complaint. It is scarcely necessary to remark that it falls short of establishing a cause of action against the defendant, on an account stated, because it shows a statement of only one side of the account, and that the side to the credit of the defendant.
+There were some exceptions taken by the plaintiff to rulings of the court in the admission of evidence, but none of the evidence objected to had any bearing upon the issue tried, and hence was not to the prejudice of the plaintiff.
+The suggestion that the plaintiff should be relieved from this judgment because he had been subjected to it by the inadvertence of his attorney in drafting the complaint, or of his counsel on the trial of the cause, cannot be entertained. Leave to amend his pleading was not asked for below, nor was the motion for a new trial based upon the ground of surprise.
+The record discloses no error which vitiates the judgment.
+The judgment and order should be affirmed.
+All concur.
