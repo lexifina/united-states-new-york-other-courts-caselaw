@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-28"
+citations: ["25 N.Y. St. Rep. 709", "2 Silv. Sup. 528"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ellen Hanson, Resp’t, v. Walter M. Aikman, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/25/cases/0709-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657968
+---
+
+# Hanson v. Aikman
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+There is no dispute that plaintiff stepped into a coal hole in front of defendant’s house, and for whatever injury she then sustained she has a right of action. It is the extent of those injuries that is chiefly in doubt.
+The surgeon who attended plaintiff a few hours after the accident found contusion and bruises on the limbs, thighs and pelvis, but found no other injury except the shock. He does not seem to have found the injuries severe, and made but two calls.
+Plaintiff did not seek any further medical attention, either from private practitioners or at any dispensary or hospital. She testifies that she kept her room for three weeks, and was not able to do her work for three months. Her neighbors, some occupying the same house, do not seem to have heard of the accident or to have observed any of the alleged results.
+nineteen months afterwards she was delivered of a child, at full term, and some weeks after that event she seems to have needed and received the care of a physician for the first time after the accident. He testifies that he found her suffering from an inflammation of the bowels and enlargement, inflammation and displacement of the left ovary; and that upon hearing the history of her stepping in the coal hole nineteen months before, he attributed her condition to that accident, “as there was no other exciting cause at the time.” But as she had recently been exposed to the perils of childbirth, in which the doctor was not her medical attendant, his testimony that there was no other excityig cause can be only the expression of an opinion. And in view of the fact that Dr. Eccles, who first examined plaintiff, found no evidence of such ovarian trouble, and that it did not so develop itself during the period of pregnancy as to require attention, it seems more reasonable to believe it a result of childbirth.
+It appears by the testimony of one of plaintiff’s medical witnesses that inflammation of the pelvic parts after childbirth is usually caused by some septic poison from external sources, and that such inflammation is liable to cause displacement of the ovaries. And as we find nothing in the evidence indicating such displacement before the birth of the child, in October, 1886, we think it must be regarded as reasonably certain that it did not earlier exist.
+It may be remarked that the complaint is silent as to any such injury, nor does the plaintiff, in her examination before trial, refer to it, except vaguely as a swelling in the groin.
+We have not yet alluded to the medical testimony introduced by defendant. If it be the fact that displacement of the ovary forbids a full term pregnancy, that would be decisive against the present claim that such displacement was caused by the accident of March 4, 1885. But without going to that extent it seems unlikely that the serious situation now testified to existed before the childbirth, for the attending adhesions would be apt so to interfere with the change incident to pregnancy, and to cause such discomfort as to suggest professional attention, which would have disclosed the cause of the trouble. Would not the weight of the child, in the later months, have caused disagreeable symptoms ? Of these there is no mention.
+Upon the whole evidence it seems reasonably clear that after the passing away of such results of the accident as were discovered by Dr. Eccles, the plaintiff was in her usual health till after the birth of her child, and that exposure to cold, the absorption of septic material or some injury during delivery, brought on the inflammation and suppuration which produced the adhesions which caused the ills from which the plaintiff now seems to suffer.
+Plaintiff (at folio 351) says that the pain she now experiences arose shortly after the birth. Before that time she had never found any bad result from lilting her children, hanging out clothes or other like exertion.
+If we are correct in our views of the testimony, it follows that most of the evils testified to by the plaintiff were not caused by the accident, and that the verdict is excessive. Ordinarily, in such a case, a new trial will be granted, but as the plaintiff has suffered some injury, she may retain $500 of the verdict if she elects to remit the excess above that sum.
+If such reduction is made, the judgment will be affirmed, without costs of appeal. If the plaintiff does not so elect, the verdict will be set aside, with costs to abide the event.
+All concur. _
