@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-03-31"
+citations: ["44 N.Y. St. Rep. 836"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of John Delahunty."]
+source_url: "https://static.case.law/ny-st-rep/44/cases/0836-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2074758
+cites_cases: ["101 N. Y., 582", "40 St. Rep., 343"]
+---
+
+# In re Delahunty
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+It appears that on the 1st of March, 1890, an action was instituted in the city court by one David Rosenbaum, ns plaintiff, against Felicia Denison to recover upon three promissory notes. By proceedings subsequently instituted in the supreme court said Felieia Denison was declared to be a lunatic, .and a committee of her estate was appointed by this court. 'Thereafter a motion was made by the plaintiff to substitute the •committee as defendant in that action, which motion was granted, and thereafter a supplemental complaint having been served an .answer was interposed, in which the defense was relied upon that the action could not be maintained, for the reason that no permission had been granted to sue the committee - of the lunatic. Notwithstanding this objection the city court proceeded and judgment was entered against the committee, and upon a motion being made in this court proceedings upon such judgment were permanently stayed, and from such order this appeal is taken.
+We think that the committee had the right to rely upon the •defense set forth in the answer that no leave to sue had been .granted, and that in consequence of such defense the city court had no right to proceed in the action; and that, therefore, the •order restraining the enforcement of the judgment was properly .granted.
+It has been expressly held in a number of cases that the supreme •court has authority to restrain the enforcement of asserted claims against a lunatic’s estate, and to compel the claimant to establish his demand as it may prescribe.. In re Otis, 101 N. Y., 582; In re Beckwith, 87 id., 503; Carter v. Beckwith, 128 id., 312-16; 40 St. Rep., 343; Code Civ. Pro., §§ 2320, 2321, 2322, 2339.
+The court having the power, was justified under the facts shown "in making the order appealed from and it should be affirmed, with ten dollars costs and disbursements.
+With respect to the second order appealed from, denying the .application for leave to sue the committee nunc pro tune, this also, we think, should be affirmed.
+Upon the facts appearing the learned court very properly said that the proper procedure in a case of this kind would be to institute an independent action by leave of the court against the lunatic and against the committee, and the whole merits of Rosenbaum’s case might be determined in such an action. This course •can result in no injustice to Rosenbaum; he having proceeded in the action against the lunatic without the permission of the court which was essential to its maintenance, should now be required to-do what was necessary to enforce his claim against the lunatic.
+We think, therefore, that this order also should be affirmed, with ten dollars costs and disbursements.
+Yan Brunt, P. J., O’Brien and Ingraham, JJ., concur.
