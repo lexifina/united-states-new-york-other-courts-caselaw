@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1902-02"
+citations: ["2 Liquor Tax Rep. 636"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People ex rel. David Sandman v. F. H. Tuthill."]
+source_url: "https://static.case.law/liquor-tax-rep/2/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1293414
+cites_cases: ["15 Barb. 153"]
+---
+
+# People ex rel. Sandman v. Tuthill
+
+## Majority (W. M. Smith, J.)
+
+W. M. Smith, J.
+The defendant, Edgar W., Steele, a special excise agent, on January 11th, 1902, presented to the defendant Tuthill, a justice of the peace of the town of Riverhead, a verified information in writing, of which the following is a copy.
+Te F. H. Tuthill, Esq. one of the justices of the peace in and for the county of Suffolk:
+“ E. W. Steele being duly sworn says that he resides in the town of Mooers, county of Clinton, and State of New York.
+Upon information and belief, that on or after the 1st day of May, 1901,. at the town of Riverhead in said county of Suffolk, one David Sandman and other persons of the said town of River-head, county of Suffolk, did commit the crime of misdemeanor in that they did at the time and place above named unlawfully, wilfully and knowingly violate the Liquor Tax Law of the State of New York.
+u He therefore prays that subpoenas be issued for Samuel Sandman, John Q. Adams, and other persons whose names are at present unknown to this deponent and their depositions taken and that upon all the evidence adduced a warrant be issued and the said Samuel Sandman and any others shown to have violated the N. Y. L. Tax Law be apprehended to answer to said complaint and be dealt with according to law.
+Dated at Riverhead, in the County of Suffolk, this 11th day of January, 1902.
+Subscribed and sworn to before me this 13th day of January, 1902. ’
+E. W. Steele,
+F. H. Tuthill, Special Agent.
+Justice of the Peace.”
+Thereupon the justice issued a subpoena for the relator and examined him at great length, and on at least.six different days, and caused him to be committed to the county jail for an alleged contempt for refusing to answer questions propounded to him on such examination, from which imprisonment he was discharged upon a writ of habeas corpus issued by the county judge of Suffolk county, upon the ground among others, that the information above set forth was insufficient to confer jurisdiction upon the justice to issue the compulsory process of subpoena to procure the attendance of a witness before him. Notwithstanding this decision of the county judge the justice continued to act upon such written information whereupon a writ of prohibition is applied for to prevent further proceedings, on such information. The application therefore presents the single question of law, namely, whether the information confers jurisdiction upon the justice to issue subprenas for witnesses and compel their attendance before him for examination. The information it will be observed, does not contain a statement that the informant has any knowledge that any crime has been committed or that any person has been guilty of any crime, and it does not contain a statement of the sources of the information which the informant professes to have and to believe. Section 148 of the Code of Criminal Procedure provides that “ when an information is laid before a magistrate of the commission of a crime, he must examine on oath the informant or prosecutor and any witnesses he may produce.”
+Assume that in this case that the justice in compliance with this provision of the Code had examined the informant on oath and had elicited nothing more than was contained in the written information, would he have been compelled or would he have had legal authority at the instance of the prosecutor, to compel the attendance of witnesses before him ? Reason and authority both answer this proposition in the negative. In the case of the People v. Hicks, 15 Barb. 153, a leading case in this State, where a similar question was before the Court, the presiding justice in his opinion, says, “ how much then, must be proved by his (the informant’s) examination? It seems to me that all that can be required is that enough shall appear to furnish good grounds to believe that further investigation will lead to the discovery of crime” and the court in that case upheld the recorder of the city of New York in his action in compelling the attendance of witnesses before him by subpoena solely upon the ground that the information did contain facts sufficient to furnish good grounds to believe that further investigation would lead to the discovery of crime. The information in this case contains no legal evidence whatever of any fact tending to show that a crime had been committed. Legally it is a nullity. In the case of the People against Heat in the Court of Sessions of Suffolk county, in 1885, the defendant was indicted for perjury alleged to have been committed upon an examination before a justice of peace, the defendant having been subpoenaed to attend before the justice in a criminal proceeding founded upon an information laid before him, made as in this case wholly upon information and belief, without stating the sources of the information; the county judge, Hon. Thomas Young, dismissed the indictment and discharged the defendant, holding in a well considered and forcible opinion that the magistrate had no authority or jurisdiction to proceed upon the information, which contained no legal evidence of any fact tending to show the commission of a crime. To hold to the contrary would permit evil-minded or misguided persons to use the machinery of the law for the annoyance and inconvenience of peaceable citizens and the prosecution of men upon the suspicion alone that they are guilty of crime. Such a doctrine is contrary to the spirit of the law and cannot be tolerated upon the plea that the motive of the prosecutor in the particular case is good. It is better that some guilty men should escape .than the bulwarks erected for the protection of the innocent should be completely overthrown.
+The application for a writ of prohibition against the defendant Steele is denied without costs. The application for the writ against the defendant Tuthill is granted, but as he has acted in good faith upon mistaken advice, no costs are imposed upon him.
