@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1878-04"
+citations: ["21 N.Y. Sup. Ct. 55"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bradt and Ingalls, JJ., concurred."]
+parties: ["PHILIP FERDINAND KOBBE and EDWARD BALL, Respondents, v. MORRIS PRICE, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/21/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2357386
+cites_cases: ["54 N. Y., 249"]
+---
+
+# Kobbe v. Price
+
+## Majority (Davis, P. J.:)
+
+Davis, P. J.:
+This action is upon a promissory note. The defense interposed is infancy. The appellant at. the trial claimed the affirmative, which was denied to him by the court, to which he excepted. He then asked to amend the answer so as to entitle him to the affirmative; this also was denied, and an exception taken. These rulings of the court were correct. The question as to the right to the affirmative is to be determined upon the state of the pleadings when the case comes down to trial; and the defendant in this case had denied by his answer the copartnership of the plaintiffs, which clearly entitled the latter to the affirmative upon the trial.
+For the purpose of establishing his infancy the defendant offered in evidence a passport alleged to have been delivered to him on his emigration from Germany, and which, it is supposed, contained a statement of his age at that time. This paper was excluded by the court, and an exception taken. The exclusion was proper, for the passport was at best mere hearsay. Although an official document, it was made up from the statements of the defendant himself, or some person in his behalf, and is not by any statute made evidence of the correctness of its contents.
+He also offered in evidence a book called a family record, and shown to be in the handwriting of his father, containing the births of his several children. The father was living in Germany and had sent this record to the defendant at his request. The book would have been competent had the father been deceased, under the rules laid down by Mr. Greenleaf. (1 Greenleaf on Evidence, §§ 104, 105.) But it was not a public record, and the party who made it was living, and competent to prove its authenticity and the correctness of the facts therein stated. His testimony might have been taken by commission, but it was not. The exception to the rejection of the book was not well taken. The appellant and his two brothers all testified to the fact of his infancy. Their testimony if true, established that at the time of making the note in suit, the appellant was less than twenty years of age. There was no direct contradiction of the fact of defendant’s nonage, sworn to by these several witnesses, but evidence was given tending to impair or destroy their credibility, to some portions of which proper objections and exceptions were made and taken.
+In Studwell v. Shapter (54 N. Y., 249), it was held that fraudulent representations made by an infant to induce another person to enter into a contract with him, would not give validity to the contract itself. In that case, as in this, the action was brought upon the contract itself, and not for any fraud perpetrated by means of alleged false representations; the evidence tended to show false representations, but the court held they were insufficient to charge the defendant with legal liability on the contracts, which the plaintiffs were by those representations induced to enter into with the infant. And Lott, C. C., says “is this different in principle from a representation that ho is of full age ?” That clearly would not have made him liable. The fact that a party is actually engaged in a commercial business, thus -holding himself out to the public as competent to contract, is as full and impressive a declaration to all persons with whom he is dealing that he is of age, as a statement of that fact is to a single individual. If under such circumstances, the infant could be held liable on his contracts he would be deprived of all the protection which the law intended to give him.
+One of the plaintiffs was called and allowed to testify to representations made by defendant as to his capital, at the time he applied for the credit for which the note was given. This was objected to, and the objection overruled and the defendant excepted. The ruling was certainly of doubtful propriety, but the evidence on that subject, it seems to us, was not permitted to go far enough to operate as a legal prejudice to the defendant.
+Both the defendant and Joseph Price, one of his brothers, were asked various questions in respect to their acts in disposing of the goods at the store of the defendant, and to charges of fraudulent acts made against them by one Goodwin and their answers, or failures to reply to such charges. Goodwin was allowed against the objection and exception of the defendant to contradict their denials, both in respect to what was said and done. This testimony was not competent; for if the plaintiff chose to impeach the witnesses by that line of cross questions, as he had a right to do, he was estopped by their answers, and not entitled to contradict them by calling other witnesses. There was we think a fatal error in the admission of this kind of evidence. It is manifest on a review of the whole case that the jury were led by the improper testimony admitted, to the application of incorrect principles in determining the case adversely to the defendant.
+We think for this reason that the verdict and order must be reversed, and a new trial granted with costs to the appellant to abide the event-
+Bradt and Ingalls, JJ., concurred.
+Judgment reversed, new trial ordered; costs to appellant to abide event.
