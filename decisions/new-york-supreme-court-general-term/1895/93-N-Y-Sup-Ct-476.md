@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-04"
+citations: ["93 N.Y. Sup. Ct. 476"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Martin, J., concurred."]
+parties: ["Fred E. Van Aernam, Appellant, v. Sophronia E. Granger, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/93/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4778892
+cites_cases: ["111 N. Y. 278", "34 Hun, 223", "7 Hill, 381", "7 N. Y. St. Repr. 672", "86 N. Y. 630"]
+---
+
+# Van Aernam v. Granger
+
+## Majority (Hardin, P. J.:)
+
+Hardin, P. J.:
+I have carefully read the evidence found in the appeal book, and I am of the opinion that the weight of the evidence indicates that the two notes mentioned in the plaintiff’s complaint, bearing date April 4, 1891, payable to Catherine J. Hess, or bearer, were transferred by the payee to the plaintiff before due, for value, and that the plaintiff thereby became the lawful owner and holder of the ■notes. And I am also of the opinion that the evidence does not indicate that the defendant had a valid offset to the same, and that the verdict is against the weight of evidence.
+(2) Upon the trial Corwin was allowed to testify to a conversation be had in November, 1891, with Catherine J. Hess with reference to the two notes in question, after objections thereto were overruled and exceptions taken. Mrs. Wormwood, the payee of the note of $100, was put upon the stand by the defendant and asked in respect to a conversation which she had had in September, 1891, with Mrs. Hess at her residence in regard to the $100 note. When she was asked to state that conversation an objection was raised by the plaintiff and overruled, and an exception taken, and the witness was permitted to give the statements and declarations of the former bolder of the notes in suit.
+Granger, the husband of the defendant, was called as a witness in her behalf and testified that he held a conversation with Mrs. Hess in June, T891, with reference to the notes in suit, and when he was asked to state that conversation several objections thereto were taken and they were overruled and an exception was taken, and he was allowed to give the declarations of Mrs. Hess, the former owner of the notes in suit. The production of the notes by the plaintiff upon the trial gave rise to a presumption that he was owner thereof, and acquired title to the same before they were due. (Wilson v. Law, 7 N. Y. St. Repr. 672; Benson v. Gerlach, 20 id. 939.) That presumption is strengthened by the evidence given upon the trial, and the evidence offered by the defendant was insufficient to overcome the presumption and the proof of ownership given by the plaintiff during the progress of the trial. If it be correct to assume that the ownership of the notes was in the plaintiff from April, 1891, as the evidence strongly tends to indicate, the declarations received, to which allusion- has been made, were improper. (Paige v. Cagwin, 7 Hill, 381.)
+In Vidvard v. Powers (34 Hun, 223), in an opinion of this court, it was said, viz.: “ In Truax v. Slater (86 N. Y. 630) the general doctrine is laid down by Judge Eakl, that the mere declarations of an assignor of a chose of action forming no part of the res gestee are not competent to prejudice the title of his assignee, whether the assignee be one for value or merely a trustee for creditors, and whether such declarations be antecedent or subsequent to the assignment.” The same quotation is made with approval near the close of the opinion in Bush v. Roberts (111 N. Y. 278).
+The foregoing views lead to the conclusion that the verdict ought not to be sustained.
+Martin, J., concurred.
+
+## Concurrence (Merwin, J.:)
+
+Merwin, J.:
+I concur on the ground that declarations of the former owner were improperly received in evidence.
+Judgment and order reversed and a new trial ordered, with costs to abide the event.
