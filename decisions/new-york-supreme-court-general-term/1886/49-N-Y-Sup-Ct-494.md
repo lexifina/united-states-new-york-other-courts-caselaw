@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-10"
+citations: ["49 N.Y. Sup. Ct. 494"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brady and Daniels, JJ., concurred."]
+parties: ["ISAAC MOOG, Appellant, v. JAMES KEHOE and CLAUS WILKENS, Respondents, Impleaded, etc."]
+source_url: "https://static.case.law/ny-sup-ct/49/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4522416
+---
+
+# Moog v. Kehoe
+
+## Majority (Davis, P. J.:)
+
+Davis, P. J.:
+This action was brought on a city marshal’s bond, executed under the provisions of chapter 484, of the Laws of 1862, to the mayor, aldermen and commonalty of the city of New York. Section 6 of that act provides that any person who shall be aggrieved by any official misconduct on the part of any marshal, and who may desire to prosecute his official bond, etc., may move, before a justice of the Court of Common Pleas in and for the city and county of New York at chambers, after notice, for leave to prosecute such official bond in his own name. And section 7 of the act provides that such justice of the Common Pleas may order such bond to be prosecuted in any of the district courts of the city of New York or in the Marine Court of the city of New York. A motion was made before a judge of the court of Common Pleas, under these provisions, for leave to prosecute the bond in the name of the plaintiff, in the Supreme Court, and an order to that effect was granted by the judge. This action was thereupon commenced, and at the trial at Circuit, the court dismissed the complaint on the ground that the plaintiff could not maintain an action in this court in his own name, under the order granted by the judge of the Common Pleas. A motion was afterwards made before the justice holding the circuit for a new trial, which motion was denied ; and this appeal is from the judgment dismissing the complaint and from the order denying the motion for a new trial. The act of 1862 provides a special form of procedure under which an aggrieved party may obtain an order from a judge of the Court of Common Pleas at chambers, authorizing the prosecution in his own name of a marshal’s bond, and the act prescribes the order that such judge may make, by enacting that he may order such bond to be prosecuted in any of the district courts of the city of New York, or in the Marine Court of that city, and conferring jurisdiction upon either of those courts to entertain the action. No power is given, to the judge of the Common Pleas to make any otiier order than that prescribed in those sections. His jurisdiction is a special and limited one, restricted to the form of order prescribed by the statute. He had no power to direct the prosecution of the bond in this court in the name of the plaintiff, and the order which purported to do so conferred no greater right upon the plaintiff than he previously possessed.
+The right of the plaintiff to maintain an action in his own name on the bond in this court cannot be upheld by the order of the judge of the Common Pleas, and the learned justice was right in dismissing the complaint unless the plaintiff was entitled, independently of the order, to bring an action on the bond in his own name. The bond was given to the mayor, aldermen and commonalty of the city of New York. Undoubtedly this court has jurisdiction to entertain any action that the obligees may see fit to bring upon the bond, but no person other than such obligees can maintain an action thereon, in his own name, in this or any other court, unless specially authorized by some statutory provision.
+The plaintiff is not an obligee of the bond, and for that reason cannot sue in his own name without showing some special statutory authority authorizing him so to do. He wholly fails to show that because the ■ order of tbe judge of tbe Common Pleas, wbicb he produces, was not one wbicb sucb judge bad power to make. By consent of tbe obligees tbe plaintiff probably could bave brought an action for bis own benefit in tbeir name; but no sucb consent appears to bave been given. On tbe contrary, he undertakes to sue without the consent of the obligees, and in his own name, relying for bis right to do so upon the order of the judge of tbe Common Pleas, wbicb order such judge bad not power to make. It is not a question of jurisdiction of tbe subject-matter in this court, but of tbe right to maintain an action upon a bond of a public officer given to tbe mayor, etc., by an alleged injured party without having taken tbe steps necessary to acquire tbat right, and upon tbe order, not of a court, but of a judge whose powers were restricted and limited by statute, and cannot be extended beyond sucb limitation.
+We think, therefore, that tbe court below was right in dismissing tbe complaint and denying tbe motion for a new trial, and tbat tbe judgment and order should be affirmed.
+Brady and Daniels, JJ., concurred.
+Judgment and order affirmed.
