@@ -1,0 +1,24 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1893-04-03"
+citations: ["51 N.Y. St. Rep. 910"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William M. Sayer, Jr, et al., App’lts, v. William Kirchof et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/51/cases/0910-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 678387
+cites_cases: ["2 Code Rep., 77", "46 How. Pr., 465"]
+---
+
+# Sayer v. Kirchof
+
+## Majority (Bischoff, J.)
+
+Bischoff, J.
+Plaintiffs appealed to the general term of the city court of New York from a judgment of the same court at trial term in favor of defendants. The case and exceptions on appeal were duly settled and filed, but copies thereof were never served upon respondents or their attorney. After delay for upwards of fifteen months, respondents, upon due notice, and an affidavit which set forth the grounds of the motion, applied to the court below at general term for an order striking the cause from the calendar, and for judgment of affirmance for appellants’ failure to serve the papers on appeal, such a motion being provided for by rule 41 of the general rules of practice, and rule 3 of the court below. Neither party had noticed the appeal for argument. The order entered upon the motion dismissed the appeal, with costs, and from that order the appellants below now appeal to this court.
+The order is appealable to this court, but only to the extent of permitting us to inquire into the sufficiency of the grounds for granting it, and whether or not there was any evidence in support of those grounds. The right to appeal is a substantial one which the order denies. Furthermore, the order, in effect, determines the action and prevents a judgment from which an appeal might be taken to this court. Code Civ. Pro., § 3191, subd. 3.
+Section 17 of the Code of Civil Procedure authorizes the judicial officers therein designated to establish in convention general rules of practice not inconsistent with the provisions of the Code, and declares that the rules so established shall be binding upon all courts of record, of which the city court of New York, by § 2, subd. 15, is declared to be one, except the court for the trial of impeachments and the court of appeals. Like authority to establish rules of practice therein is given by § 193 to the court of appeals, and is interpreted by the last mentioned court to include the power to dismiss an appeal for failure to prosecute it with reasonable diligence (rule 7 of the court of appeals); and as the Code of Civil Procedure nowhere prohibits or specifically regulates the dismissal of an appeal for the cause mentioned, rule 41 of the general rules of practice, established as prescribed by § 17, which concedes the right of the respondent to such relief, cannot be said to be inconsistent with its provisions. See also Brown v. Niess, 46 How. Pr., 465; Hogan v. Brophy, 2 Code Rep., 77; Phelps v. Swan, 2 Sweeney, 696. Section 323 of the Code of Civil Procedure empowers the city court of New York to establish rules of practice therein, but limits the exercise of that power to rules which are not inconsistent with the provisions of the Code, or the general rules of practice established as prescribed by § 17 thereof, and though the rules of the city court of New York do not specifically authorize the dismissal of an appeal for failure to prosecute it with reasonable diligence, the order was nevertheless authorized by rule 41 of the general rules of practice applicable, as above stated, to the city court of New York and all other courts of record alike.
+The order appealed from should be affirmed, with costs.
+Daly, Ch. J., and Pryor, J., concur.
