@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-05-16"
+citations: ["32 N.Y. St. Rep. 148"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rosetta M. Kearney, Pl’ff, v. Charles E. Fleming et al., Resp’ts, Impl'd with Charles Jones, Appl’t."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039967
+---
+
+# Kearney v. Fleming
+
+## Majority (Barrett, J.)
+
+Barrett, J.
+We concur with the learned judge at special term that the defendant Fleming was protected by the recording act. We think, however, that he was so protected only to the extent of advances actually made in good faith. Fleming did not really purchase the property from Moore. He simply took a deed from the latter pursuant to an arrangement made with Kearney. Kearney had previously induced the defendant, Jones, to advance the money with which to purchase the property, upon an agreement to take title in their joint names and for their joint benefit Jones advanced the money, but Kearney defrauded him by taking title in the name of one Parks, through whom Moore received his deed. Then Kearney made an agreement with Fleming similar to that which he had made with Jones.
+Fleming, however, was wiser than Jones, for he looked after his record title. He knew nothing of the prior arrangement, and he innocently made certain payments upon the faith of the deed which he received from Moore. To the extent of those advances, we agree that he was protected. But after their payment, we think, in equity, Jones’ advances came next. The learned judge made no provision for Jones’ advances, but decreed that the proceeds of the sale, after the payment of Fleming’s advances, be divided equally between Jones and Fleming. This was upon the theory that each of these parties had agreed with Kearney to share such proceeds after the payment of their respective advances.
+We do not think that Fleming’s rights under the sharing part of the agreement were superior to Jones’ equity for the repayment of his cash advances. Fleming was not a bona fide purchaser, for value, from Moore. He paid nothing to Moore, and made no agreement with him. His entire arrangement was with Kearney, and Moore’s deed resulted solely from that arrangement.
+The sharing agreement, made with Kearney, was amply a reward for the proposed advances. So far as Kearney was concerned, o Fleming was secured for this reward. But the profit thus flowing from the advances is not a superior equity to the trust in favor of Jones which was impressed upon each of the several grantees from Parks to Moore.
+And this trust, subject to all proper advances and cash payments actually made in good faith, is also impressed upon the deed from Moore to Fleming.
+We think, therefore, that the judgment should be varied accordingly. This might be done without a new trial, but for the circumstance that one of Fleming’s payments does not seem to have been wholly in good faith. A new trial, however, may be avoided if Fleming will make a suitable stipulation. He says he paid $835 for the assignment to him of a mortgage upon the premises. This mortgage was for but $300, and why he paid more than was due upon it does not appear. This payment he made before he received the deed from Moore. Subsequently he paid off large arrears of back taxes and assessments. Kearney had agreed to have these liens removed, but Fleming was compelled to do this himself, because of Kearney’s neglect, probably because of Kearney’s flight from justice. Fleming’s testimony on this head is as follows: “ I removed the incumbrance after Kearney was among the missing.” We think the learned judge properly allowed Fleming all these payments for taxes and assessments. If therefore Fleming will stipulate to reduce the allowance made for the mortgage payment to the sum actually due upon such mortgage at the date when it was assigned to him, the judgment will be modified by directing the referee first to pay him from the proceeds of the sale the amount of his payments as found at special term less such reduction, second to pay the amount of Jones’ advances and interest, and third to divide the balance equally between them. If Fleming refuses to so stipulate, the judgment must be reversed, and a new trial ordered.
+For we have no means of liquidating the precise sum which was due upon the mortgage at the time it was assigned to Fleming, nor have we any testimony explanatory of the fact that the sum paid was largely in excess of the amount due.
+If the stipulation is given as herein indicated, the judgment will be modified accordingly, without costs of this appeal to either party and without varying the costs and allowance awarded at special term. Otherwise, a new trial is ordered, costs to appellant to abide the event.
+Yan Brunt, P. J., and Bartlett, J., concur.
