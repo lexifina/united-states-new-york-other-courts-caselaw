@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1885-06"
+citations: ["44 N.Y. Sup. Ct. 101"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Baeeee, Haight and Beadley, JJ., concurred."]
+parties: ["JOHN BLANK, Appellant, v. CHARLES HARTSHORN and WALTER PARISH, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/44/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8592986
+cites_cases: ["31 Hun, 432", "96 N. Y., 614"]
+---
+
+# Blank v. Hartshorn
+
+## Majority (Smith, P. 5.:)
+
+Smith, P. 5.:
+The first count alleges that from about 1st of May, 1884, to 1st January, 1885, the plaintiff pastured, fed and took care of, and' furnished hay and other feed for, fifty-two head of cattle belonging to the defendants, at the defendants’ request, and that such pasturing, etc., was reasonably worth $600. The second count alleges-that the plaintiff pastured a like number of cattle belonging to the-defendants, under a special agreement made between the plaintiff' and the defendants about 1st May, 1884, by the terms of which the-defendants agreed to take said cattle to the city of New York and sell them on or before 1st October, 1884, and after deducting the-purchase-price of the cattle and the cost of transportation, to pay the plaintiff two-fifths of the remainder of the proceeds of the sale. The third count alleges a like agreement made between the defendants and one Peters, and that Peters had assigned his cause of action thereunder to the plaintiff.
+The order appealed from requires the plaintiff to elect on which count he will go to trial, and to amend his complaint accordingly, and upon failure to elect, orders the complaint to be stricken out.
+Except in one particular, hereinafter mentioned, the three counts relate to the same transaction. On that ground the respondents’ counsel contends that the pleading violates the mandate of the Code, that the complaint must contain “ a plain and concise statement of the facts constituting each cause of action, without unnecessary repetition.” (Sec. 481, sul^ 2.) But there may be more than one - cause of action arising out of the same transaction, and if the several causes of action are such as may be united under section 484, their joinder does not necessarily vitiate the complaint. Where it can be seen 'that the statement of each cause of action is probably needful in order to prevent a failure of justice, in consequence of a variance between the pleading and the proof, we think such statement, provided it be plain and concise, should not be regarded as “unnecessary repetition” within the meaning of the Code. Thus, in an action for labor and. services alleged to have been performed under a special contract at an agreed price, if it appears that, from the circumstances of the case, it is doubtful whether the alleged contract can be satisfactorily established, we think the spirit of the Code does not prevent the adding of a count for the same labor and services upon a quantum meruit. In the pi’esent case the first count is of that nature and it. embraces a period from the 1st of October, 1884, to 1st of January, 1885, not covered by the special agreement as set out in the other two counts. Upon these grounds we think the first and second counts may be permitted to stand.
+As to the necessity of the third count the plaintiff, in his affidavit used on the motion, avers that the farm on which he pastured the cattle was rented by Peters for the plaintiff’s use ; that the contract with the defendants set out in the' complaint was first negotiated and talked over by Peters and the defendants when the plaintiff was not present, and that it will probably be a question on the trial whether the plaintiff can claim under the contract, as the undisclosed principal of Peters, or as his assignee. In these circumstances we think the third count also should be allowed to stand to enable the plaintiff to present the several lines of proof upon which he relies.
+By this disposition of the matter the defendants cannot be harmed, except in being deprived of the opportunity of nonsuiting the plaintiff for a variance in proof, or of driving him to a motion for leave to amend. A special object of the Code is to remove all such meshes and pitfalls from the path of litigants. The defendants may interpose as many defenses as they have to each cause of action, in the same manner and with the same effect as if such cause of action stood alone.
+These views are in harmony with the cases of Longprey v. Yates (31 Hun, 432), decided in the old Fourth Department, and the authorities there cited. In Velie v. Insurance Company (65 How. Pr. R., 1), WestbRooe, J., speaking of the different grounds of recovery presented by the two counts in that case, said: “ If either or both are tried, the proof upon each ground of recovery stated may be close and conflicting. A jury of twelve men may be divided in opinion as to which one is established, while all may unite, some for one reason and some for another, in the conclusion that the plaintiff is entitled to recover.” And the Court of Appeals has held in a recent case, that “ it is not necessary that a jury in order to find a verdict, should concur in a single view of the transaction disclosed bty the evidence; if the conclusion may be justified upon either of two interpretations of the evidence, the verdict cannot be impeached by showing that part of the jury proceeded upon one interpretation and a part upon the other.” (Murray v. Ins. Co., 96 N. Y., 614.)
+We think the order should be reversed and motion denied, with ten dollars costs and disbursements.
+Baeeee, Haight and Beadley, JJ., concurred.
+Order reversed, with ten dollars costs and disbursements, and motion denied.
