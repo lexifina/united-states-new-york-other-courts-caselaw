@@ -1,0 +1,56 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03"
+citations: ["83 N.Y. Sup. Ct. 399", "58 N.Y. St. Rep. 699"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Follett, J., concurred."]
+parties: ["In the Matter of the Transfer Tax upon the Estate of Ella S. Hoffman, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/83/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4715455
+cites_cases: ["112 N. Y. 100", "20 St. Rep. 477", "25 N. Y. Supp. 909", "56 St. Rep. 113", "73 Hun, 185"]
+---
+
+# In re the Transfer Tax upon the Estate of Hoffman
+
+## Majority (O’Brien, J.:)
+
+O’Brien, J.:
+Ella S. Hoffman died November 7, 1892, leaving a last will and testament, wliicb was admitted to probate on the 9th day of December, 1892. As the assessment and tax with respect to-the residuary estate is not in question here, and the only questions which arise are those presented by the fourth clause of the will, that only need be quoted. That clause provides as follows:
+'“Fourth. I give, devise and bequeath to my executors and trustees, hereinafter named, and to the survivors and survivor of them, and to their successors and successor, the sum of fifty thousand dollars ($50,000.00), to have and to hold the same as long as my mother, Lucinda R. Starkweather, and my daughter, Ella H. Sand-ford, or either of them, shall live, upon the following trusts, viz.:
+“ To invest the same, and to keep the samp invested, in bonds or stocks of the government of the United States, or of the State or city and county of New York; or in bonds secured by mortgage upon improved real estate; or in the mortgage bonds of railroad companies in good standing and repute; hereby giving my executors and trustees, or a majority of them, who shall be acting as such, and their successor or successors, full authority to change any investments so made whenever, in liis or their opinion, it shall be for the interest of the trust hereby created.
+“ To collect the rents, income and profits arising from said fifty thousand dollars, directed to be invested as aforesaid, as long as my said mother and daughter, or either of them, shall live.
+“ To pay over to my mother’, Lucinda R. Starkweather, as long as she shall live, the net income arising from said fifty thousand dollars, hereinbefore directed to be invested, in as nearly as may be equal quarterly payments.
+“ In case of the death of my said mother during the lifetime of my said daughter, Ella IT. Sandford, I hereby direct that, from and after the death of my said mother, the net income arising from said fifty thousand dollars, hereinbefore directed to be invested, be paid to my said daughter as long as she shall live, and, upon her death, I direct that said fifty thousand dollars be paid to her issue, if any shall then be living ; but if she shall die without leaving any issue her surviving, she having survived my said mother, then, upon her death without issue her surviving, I direct that one-half of - said fifty thousand dollars be paid over to my niece, Miss Alice Reid, daughter of George W. Reid, or to her personal representatives, if she be then dead, and the remaining one-half thereof to my niece, Mrs. Cora Marsh, wife of Joseph Marsh, or to her legal representatives, if she then be dead.
+case my said daughter shall not be living at the death of my said mother, upon the death of my said mother I direct that said fifty thousand dollars be paid over to the issue of my said daughter, if any such issue shall then be living; but if, at the death of my said mother, my said daughter shall be dead, and no issue of my said daughter shall then be living, I direct that one-half of sgid fifty thousand dollars be paid over to my said niece, Miss Alice Reid, or to her legal representative if she then be dead, and the remaining one-half thereof be paid over to my said niece, Mrs. Cora Marsh, or to her legal representatives if she be then dead.”
+The appraiser reported, and the order declared, that the cash value of the property transferred by the will, and subject to the payment of the tax, was as follows:
+1. Income for life of $50,000 to Mrs. Starkweather... $9,385 00
+2. Income of $50,000 after Mrs. Starkweather’s death, and for balance of life of Ella II. Sandford.... 25, 428 00
+3.- Remainder interest in $50,000 after death of two life tenants, to issue of Ella.................. 15,181 00
+for life in residuary estate to Ella........ 310, 383 00
+5. Remainder interest in residue to grandchildren sur- . viving, or in default thereof to nieces......... 140, 329 92
+The taxes assessed and declared to be presently payable, were as follows:
+Beneficiary. Tax assessed.
+Lucinda R. Starkweather......................... $93 85
+Ella H. Sandford ($50,000 bequest)................ 254 28
+Ella H. Sandford (residuary)..................... 3,103 83
+151 87
+The appellants do not dispute the valuation of the securities; the appeal relates only to the assessment and tax upon the various interests in the fund of $50,000, and the income thereof.
+The appellants insist :
+1. That the fair market value of the legacy of income to Mrs. Starkweather, being less than $10,000, it is exempt from the transfer tax.
+2. That the legacy of the income to Ella II. Sandford, after the death of Mrs. Starkweather, has no ascertainable “ fair market value,” because it is wholly contingent upon Ella surviving Mrs. Starkweather.
+3. That the contingent remainder to Olga Sandford, only child of Ella II. Sandford, is not at present taxable.
+4. That it was error to allow costs to the Comptroller.
+'With regard to the first of these contentious, it is conceded that the property passing to the mother of the testatrix is personal property of the value of less than $10,000.
+By section 2, chapter 399 of the Laws of 1892, it is provided that, “ when the property or any beneficial interest therein passes by any such transfer to or for the use of any * * * mother * * * of the decedent, grantor, donor or vendor, * * * such transfer of property shall not be taxable under this act, unless it is personal property of the value of ten thousand dollars or more, in which case it shall be taxable under this act at the rate of one per centum upon the clear market value of such property.”
+Section 11 provides that “the surrogate shall * * * as often as and whenever occasion may require, appoint a competent person as appraiser to fix the fair market value at the time of the transfer thereof, of property of persons whose estates shall be subject to the payment of any tax imposed by this act.”
+Section 22 provides that “ the words ‘ estate ’ and £ property,’ as used in this act, shall be taken to mean the property or interest therein of the testator, intestate, grantor, bai’gainor or vendor passing or transferred to those not herein specifically exempted from the provisions of this act, and not as the property or interest therein passing or transferred to individual legatees, devisees, heirs, next of kin, grantees, donees or vendees.”
+It is from the definition of the words “ estate ” and “ property,” as used in section 22, that the surrogate’ reached the conclusion that if the property of the testator which passed to the individual legatees exceeded $10,000, then it could be taxed, notwithstanding that less than that amount might have gone to an individual legatee who, under the express provisions of the act, was exempt.
+We think that in this the learned surrogate fell into error by not keeping in mind that it was the intent and spirit of the act to fix a tax, not upon the property of the testator, but upon the property that was transferred to individual legatees, and also in failing to note that the statute was intended to create an exemption from taxation in favor of those who stood in such a relation to the testator that they -were the natural objects of his bounty and entitled to receive out of his estate, free from taxation, any sum that he might see'fit to bequeath to them, provided such amount should not exceed 810,000. It will also be noted that the language of the act favors the construction that it is not the property that passes from the testator, but the property that is transferred to an individual, which is taxed. This distinction is pointed out in The Matter of Howe (112 N. Y. 100), wherein the court said : “ The tax is not imposed upon the estate of which she was seized or possessed, but only upon so much of it as passes to certain persons, not all persons or any person. * * * There are many other- provisions of the act, * * * all tending to show that * * * it is simply the estate or shares of the beneficiary acquired through the will * * * which is to be valued, and the duty estimated according to its value.”
+With regard to the second and third questions, a reference to the fourth clause of the will will show that it creates two future estates to take effect in the alternative, and the right in possession to the remainder being contingent, it is impossible to designate the person liable to pay the tax. We can see no distinction between the facts here appearing and those in the case of Curtis, decided by this court in December, 1893 (73 Hun, 185; 25 N. Y. Supp. 909), where it was held that no appraisement of the contingent interest should be attempted to be made, or any tax imposed thereon, until such interest became vested in possession and, by a removal of the contingency, the rate of taxation and beneficiary could be determined.
+As to the contention that the allowance of costs to the Comptroller on the appeal to the surrogate was improper, we think that all that is necessary to be said is, that it was a matter resting in the sound discretion of the surrogate, which should not be disturbed except for sufficient cause, which is not present in the record before us.
+Our conclusion, therefore, is that as to the legacy to the mother, being under $10,000, it is exempt under section 2, chapter 399 of the Laws of 1892 ; that the legacies to Ella H. Sandford and Olga Sandford were improperly taxed; and that in these respects the order or decree of the surrogate should be reversed and in all other respects affirmed, with costs to appellants.
+Follett, J., concurred.
+Decree modified as directed in opinion, and as modified, affirmed, with costs to the appellants.
