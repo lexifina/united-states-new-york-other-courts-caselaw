@@ -1,0 +1,18 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-24"
+citations: ["23 N.Y. St. Rep. 1002"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MICHAEL GARCI, App’lt, v. MARY R. CALLENDER, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/23/cases/1002-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 653712
+---
+
+# Garci v. Callender
+
+## Majority
+
+Judgment affirmed, with costs.
