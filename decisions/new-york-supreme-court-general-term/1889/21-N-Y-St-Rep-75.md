@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-01-28"
+citations: ["21 N.Y. St. Rep. 75"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick Van Axte, as Executor, Resp’t, v. Berta D. Fisher, Appl’t."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017734
+cites_cases: ["24 N Y , 9"]
+---
+
+# Van Axte v. Fisher
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+In March, 1882, one Otto F. Fisher died, leaving a last wiE and testament by which, after making certain provision for his wife, etc., he gave, devised and beqeathed all the rest, residue and remainder of his real and personal estate to his executor in trust, with power to sell and dispose of the same, and to invest the proceeds and to pay the interest or income to the testator’s son, Dietrich H. Fisher, during bis life-time, and in case, in the judgment of his said executor, the income of his estate and the other means of support which his son may have should be insufficient to support his son, he authorized and empowered" his executor to use and appropriate so much of the principal as might be necessary, in liis opinion, for the proper support and maintenance of his said son. The testator further provided that after the death of his said son, Dietrich, his executor should pay to his brother, John G. Fisher, all of such balance, residue and remainder of his estate given as above in trust to his executor, or so much thereof as should remain after the death of his son, and which he gave, devised and bequeathed to his said brother upon the death of his said son.
+John G. Fisher died on the 30th of May, 1866, intestate, leaving a widow and eight children. The son of the testator, Dietrich H. Fisher, died in April, 1867, leaving a last will and testament which was admitted to probate, and the defendant Duffy duly qualified as executor, all of the property of said Dietrich being left by his wiE to said Duffy. A portion of the estate, both real and personal, of Otto F. Fisher still remained in the hands of the plaintiff as executor and trustee; and this action has been brought for a construction, of the will of said Otto F. Fisher, the question raised being whether the personal representatives of Dietrich are entitled to the said estate or the personal representatives of John G. Fisher.
+It seems to be reasonably clear under our statutes that John O. Eisher took a vested remainder in whatever might be left of the estate at the death of the son of the testator. According to the statute a future estate is vested when there is a person in being who would have an immediate right of possession on the ceasing of the intermediate or precedent estate. John G. Eisher was in being at the death of the testator, and by the very terms of the devise was entitled to the possession and enjoyment of the estate at the expiration of the trust. It was therefore a present and vested devise of a future estate.
+The fact that the words ,c his heirs or issue ” are omitted from the language of the will subtracts nothing from the extent of the devise, because to mention heirs or issue after a general devise adds nothing to and subtracts nothing from the same. The remainder of the estate, therefore, upon the death of the testator became vested in his brother John, who had power to convey the same or to sell the same, and which descended upon his death to his representatives. The estate was absolutely given to him upon the death of Dietrich. He would have been entitled to the immediate possession of the same as has been already said upon the death of Dietrich, and the estate was therefore vested, the period, however, of its enjoyment being only postponed.
+The fact that by the terms of the will the executor had a power of disposition for the benefit of the person enjoying the intermediate estate of some portion of the corpus of the estate devised, in no manner affected the vesting of the estate. In fact all the questions which can be raised under the will in question seem to have been determined against the appellants in the case of Gilman v. Reddington (24 N Y , 9). It does not seem to be necessary to do more than refer to the statute defining vested remainders, and to its interpretation by the case above cited.
+The judgment appealed from should be affirmed, with costs.
+Brady and Macomber, JJ., concur.
