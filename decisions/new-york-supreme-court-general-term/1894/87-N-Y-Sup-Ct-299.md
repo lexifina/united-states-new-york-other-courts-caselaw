@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-07"
+citations: ["87 N.Y. Sup. Ct. 299"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown, P. J., and Dykman, J., concurred."]
+parties: ["Samuel H. Davis, Appellant, v. Daniel P. Darling and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/87/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4728818
+---
+
+# Davis v. Darling
+
+## Majority (Cullen, J.:)
+
+Cullen, J.:
+This is an appeal from a judgment for the defendants entered upon the report of a referee. The action was brought for an accounting of the partnership transactions between plaintiff and defendants Daniel P. Darling and R. Elliott Darling. The partnership is admitted. The questions litigated on the trial and the subject of this appeal are whether the profits of certain ventures entered into by the defendant Daniel P. Darling should inure to the firm or to that defendant individually.
+We think there can be no doubt as to the correctness of the interpretation of the contract of partnership adopted by the learned referee. The defendant Darling was a real estate broker and also a speculator in real estate. In 1880 the plaintiff and defendants Darling entered into a partnership under a written agreement. The partnership was renewed in 1883 and again in 1886, on both occasions also by written agreement. The agreements of 1880 and 1883 declare that the parties have agreed and do agree to associate them.selves as co-partners in the “ regular real estate, insurance and mortgage loan business.” Here arises the first difference between the parties. The defendants claim that the term “regular real estate business ” is to be interpreted as meaning the business of real estate brokers, not the business of operating or speculating in real estate. This the plaintiff disputes. On this question the referee held for the defendants, From our knowledge of general business terms or expressions we should have little doubt that the true meaning of this phraseology, unless varied by other provisions of the agreement or the situation of the parties, was a brokerage business. But all doubt is set at rest by the further provisions of the agreements themselves. In that of 1880 the contract recites, “ for the purpose aforesaid, he, the said Daniel P. Darling, hath * * * admitted the said Samuel H. Davis to a full one-half interest in said Real Estate, Insurance and Mortgage Loan .Brokerage business.” The agreement of 1883, in directing the distribution of profits, provides, “ in •all net profits arising from 1 said brokerage business,” etc. These declarations are conclusive as to what was intended to be the business of the co-partnership.
+But the more serious question is whether, even on the construction we have given to the partnership agreements, the plaintiff is not entitled to share in the profits of the Cogswell and similar contracts. ~We may assume with the referee that while the other partners were obligated to give their entire time to the business, the defendant D. P. Darling was not. Still, admitting this, that defendant could not ■carry on the same business as that of the firm, and retain the profits for himself. This competition would be inconsistent with his duties to his co-partners. It is unquestionable in our judgment that he might have gone into an ordinary real estate speculation on his own account or with others. But by the Cogswell agreement the consideration or contribution which he made to the joint venture was “ the services of said Darling in the purchase thereof (the land) and his agreement to make sale thereof to the best of his ability.” Now this was the very trade or business of the firm. It is true that he further agreed to personally pay one-lialf of any loss on the venture. It may be that this would take the case out of the general rale, but it is not necessary to- determine that question in the view that we have taken of this case. The evidence shows that the plaintiff knew of at least some of these contracts. ' He knew that D. P. Darling was engaged in such operations, for he asked him for one of the latter’s contracts as a form, and having obtained it he entered into a similar speculation on his own account. He now says that lie intended the benefit resulting therefrom to accrue to the firm. "We think this very doubtful. In all cases of these speculations the regu- ■ lar commission of one per cent was paid' to the firm. The speculations themselves doubtless tended to increase the business of the firm. We think the referee could, on the evidence, well have found that the parties assented and agreed that any member of the firm might enter into such speculation, the firm receiving from the transaction the ordinary commissions on sales.
+The Walsh matter seems to have been the individual speculation of the defendant Darling, which, under the construction which we have put upon the partnership agreement, he was at liberty to make. For these reasons we think the judgment should be affirmed.
+The judgment appealed from should be affirmed, with costs.
+Brown, P. J., and Dykman, J., concurred.
+Judgment affirmed, with costs.
