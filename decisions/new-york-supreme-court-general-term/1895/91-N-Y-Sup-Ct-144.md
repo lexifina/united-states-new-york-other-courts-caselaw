@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-02"
+citations: ["91 N.Y. Sup. Ct. 144"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayham, P. J., and Putnam, J., concurred."]
+parties: ["Conrad Hoffman. Respondent, v. The Fitchburg Railroad Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/91/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4769964
+cites_cases: ["67 Hun, 581"]
+---
+
+# Hoffman v. Fitchburg Railroad
+
+## Majority (Herrick, J.:)
+
+Herrick, J.:
+This is an appeal from a judgment obtained upon a retrial of tbe case, pursuant to a decision of this court reversing a former judgment, and ordering a new trial.
+Our former decision will be found reported in 67 Hun, 581.
+Tbe general facts in tbe case are tbe same as when it was formerly before this court, and are sufficiently set forth in our former opinion, and a restatement of them is unnecessary.
+Upon the former appeal the question before us was as to the negligence of the defendant in approaching the crossing, where the accident happened, without ringing the bell, and we then held that the evidence upon that point was practically uncontradicted, “three witnesses swearing positively to the ringing of the bell,” and the evidence adduced upon the part of the plaintiff in respect thereto being of persons who simply testified that they did not hear it ring, and there was no evidence that their attention had been called to it, or that they listened to hear whether it was or was not rung.
+¥e, therefore, held that there was really no conflict in the testimony as to the ringing of the bell.
+Upon the second trial, which we are now reviewing, the plaintiff, in addition to the testimony adduced by him on the former trial by witnesses who did not hear the bell ring, but whose attention was not called to it, and who were not listening for it, produced a new witness who testifies positively that the bell was not rung; that she noticed it at the time, and was listening and watching, for it.
+The testimony of this witness, coupled with that of the others, produced a conflict of testimony upon that mooted question, and presented a contested question of fact for the jury to pass upon.
+We must assume that the jury found that the bell was not rung as the engine approached the crossing in question. This new fact in the case causes it to present an entirely different aspect from what it did when before this court upon the former review, a fact not only bearing upon the question of the defendant’s negligence, but perhaps also bearing upon the question of the lack of contributory negligence upon the part of the plaintiff.
+Upon the former hearing,' upon the assumption that at the time the plaintiff approached the crossing in question the bell upon the engine which was approaching the same crossing was ringing, we expressed some doubt as to whether, under such circumstances, the plaintiff exhibited such care and prudence in approaching the crossing as showed a lack of negligence on his part.
+The plaintiff claiming that he was driving slowly towards the crossing and listening to see if there'was any danger ahead, it might be said that if lie was so listening lie would have beard the approach of the engine and the ringing of the bell before his horses reached the railway tracks and he was placed in a position of danger.
+Perhaps the finding that no bell was rung changes the view that is to be taken of his conduct.
+I am not entirely clear, however, upon that question, and it may be that the plaintiffs case presents some evidence of the lack of contributory negligence, on the part of the plaintiff, sufficient to present that question to the jury to determine. Not feeling entirely clear that it does not, I do not feel justified in holding that there was error in submitting it to the jury for it to pass upon.
+The judgment should be affirmed, with costs.
+Mayham, P. J., and Putnam, J., concurred.
+Judgment affirmed, with costs.
