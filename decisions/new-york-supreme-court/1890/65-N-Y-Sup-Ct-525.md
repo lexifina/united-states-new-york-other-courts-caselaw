@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1890-12"
+citations: ["65 N.Y. Sup. Ct. 525"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Beadt and Daniels, JJ., concurred."]
+parties: ["ALFRED C. BARNES and Others, Respondents, v. SARAH FRANCES BLAKE, Appellant, Impleaded with EDWIN M. BARNES and Others."]
+source_url: "https://static.case.law/ny-sup-ct/65/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4623196
+---
+
+# Barnes v. Blake
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+The plaintiffs in this action are the executors and trustees under the will of Alfred S. Barnes, deceased, and it is claimed by them that this action was brought for a final settlement of their accounts as such executors and trustees, and for a construction of the will of the deceased in respect to certain points which it is necessary to settle before said accounts can be finally disposed of.
+The defendants are the parties interested under the will, and the assignees of the appellant one of the legatees. The complaint sets forth the circumstances of the various assignments and the indebtedness which, it is alleged, they were made to secure. It is claimed uppn the part of the appellant that there has been a misjoinder of causes of action, in that it combines a cause of action by the executors for an accounting with a cause of action by the alleged creditors against the appellant.
+We do not think that this objection is well taken. It may be true that the executors, in the bringing of this action, might have alleged that the assignees of the appellant claimed a share of her interest in the estate, leaving it to them to set up the particulars. But, in order that there may be a final determination and settlement of the accounts, and of all questions in relation thereto, it was necessary that they should make parties all persons claiming an interest in said estate, whether as legatees or devisees, or assignees of legatees and devisees. 'The assignee of a legatee has as much right to be heard in reference to the adjustment of the accounts of the estate as the original legatee. He is just as much a necessary party, and his claim against the original legatee must be settled before a decree of distribution can be made; and certainly it cannot in any way invalidate the complaint to state all the facts, as the plaintiffs understand them, necessary to a proper determination of the questions which such facts bring up for adjudication.
+If the appellant had not executed assignments of her interest in the estate to these various defendants, although she may have been, indebted to them, clearly they would have been improper parties to the action. But she having given them a specific lien upon her interest in the estate by assignment, they were entitled to be heard as to the distribution, its method and amount. And although, incidentally, the questions as to the indebtedness of the appellant to these assignees may arise, yet they are kindred to the subject matter of the action, viz., the accounting of the executors, and the determination under the terms of the will as to how charges against the various devisees are to be made.
+It is conceded, upon the part of the appellants that, perhaps, all of them may be proper parties, but it is urged that it is not necessary to discuss that question here, the objection being not that there is a misjoinder of parties, but that there is a misjoinder of causes of action, and that there is no power of the court or authority in law compelling the different defendants to litigate in this action their rights and claims against the defendant Blake.
+It is clear, however, from what has already been said, that if these ■defendants choose to litigate their claims against the defendant Blake they have a right to do so, and they are not complaining of the allegations in the complaint. If there had been no allegations in reference to tlie claims of the defendants out of which these assignments arose, each assignee would have a right to set up his particular claim against the estate and have had it determined here, as they are, by reason of their assignments, the representatives of the defendant Blake to the extent of their respective claims. The defendant Blake cannot take the objection that these creditors cannot be forced to come in and litigate their claims against her in this action; and if these various assignees do not choose to assert their .rights here, they have a very easy remedy by disclaiming in their answer all interest in the estate as the assignees of Mrs. Blake. Until this is done, they having made the claims against the estate by reason of the assignment, they are not only necessary parties, but the grounds upon which they claim may with propriety be set forth in the complaint.
+We are of opinion, therefore, that there has been no improper joinder of causes of action; that the complaint is one for an accounting and the construction of the will, and that the other allegations in reference to the assignments made by the defendant Blake of interest in her share of the estate are mere incidents in respect to the accounting and construction.
+The judgment should be affirmed, with costs and with leave to the appellant, upon payment of the costs of this court and of the court below within twenty days after notice of the entry of the order upon this decision, to withdraw her demurrer and serve an answer.
+Beadt and Daniels, JJ., concurred.
+Judgment affirmed, with costs, and with leave to appellant, upon payment of the costs of this court and of the court below within twenty days after notice of the entry of the order upon this decision, to withdraw her demurrer and serve an answer.
