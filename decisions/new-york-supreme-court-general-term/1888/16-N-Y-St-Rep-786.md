@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06"
+citations: ["16 N.Y. St. Rep. 786"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Sprague National Bank of Brooklyn, Resp’t, v. Peter Haulenbeck, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/16/cases/0786-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2004332
+cites_cases: ["60 N. Y., 87"]
+---
+
+# Sprague Natlional Bank v. Haulenbeck
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+Both parties asked the court at the close of the evidence to direct the jury to render a verdict in their behalf respectively. The trial judge was, by consent, thus substituted in place of the jury to decide the case. When this is done by the parties they must be deemed to acquiesce in the withdrawal of the whole case from the consideration of the jury, and they cannot afterwards be heard to complain of the course of procedure further, and that the verdict should have been directed for the other side. Indeed in this case we find no exception taken to the decision or to the refusal of the judge to diréct the verdict in favor of the defendant as requested.
+On the merits of the case the verdict was properly directed for the plaintiff. The promissory note was produced, and it "was, together with the indorsement of the payee’s name and others, read in evidence. Notice of protest was admitted by the defendant in court. This established the plaintiff’s title, which, with the presumption that the same was transferred to the plaintiff before maturity which the law makes entitled the plaintiff to recover. Mechanics and Traders Bank v. Crow, 60 N. Y., 87.
+To defeat this right the defendant testified that he made the note and gave it to one Henry Morris, who was treasurer of the Textile Filter Company, for the purpose of being discounted, and to bring the proceeds to him which was not done, and that no value was ever received by him for the note.
+. But this is not, standing alone, sufficient to defeat a recovery. The plaintiff was presumed to be a holder for value before maturity, in the absence of evidence of notice of such defense. The want of consideration between the original parties, did not change the presumption or require actual proof of the payment of a consideration and an actual transfer before maturity. Being payable at a time after its date, the plaintiff held it clothed with the presumption»„that it was negotiated for value in the usual course of business before maturity and without notice of any equities between the prior parties to the instrument. Collins v. Gilbert, 94 U. S. (4 Otto), 753;
+Such being the rule, it was encumbent upon the appellant to show affirmatively that the plaintiff had notice of the diversion of the paper. The case does not fall within that class of cases cited by appellant’s counsel where the paper was obtained by duress, fraud, or theft, for the appellant made and delivered the instrument to Morris for the express purpose of having it negotiated and put in circulation, and the only just cause of his grievance is the failure of his agent who was to negotiate it to return the proceeds to him.
+The judgment should be affirmed, with costs.
+Van Brunt, P. J., and Bartlett, J., concur.
