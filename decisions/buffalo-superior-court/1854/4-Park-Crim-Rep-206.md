@@ -1,0 +1,27 @@
+---
+court: "Buffalo Superior Court"
+decided: "1854-10"
+citations: ["4 Park. Crim. Rep. 206"]
+reporter: "park-crim-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People v. James M. Fish."]
+source_url: "https://static.case.law/park-crim-rep/4/cases/0206-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1260672
+---
+
+# People v. Fish
+
+## Majority (Clinton, J.)
+
+By the Court,
+Clinton, J.
+The defendant denies that “ there is any such court as the Superior Court of Buffalo, which, by the laws of this State, can or ought to take cognizance of” this indictment. The court is organized under an act of the Legislature, and the counsel cannot expect us to deny our right to exercise the powers we are daily exercising. The precise point of the objection is not explained, and it can hardly be considered as addressed to us.
+It is claimed that the indictment is not warranted by the common law. The facts that no instance of such a prosecution is on record, and that no assertion that the acts averred are a common law offence is to be found in any treatise or book of law, are undoubtedly well calculated to produce doubt, but they are not conclusive. The common law lays down general as well as particular definitions of crime—it defines classes of crime, as well as instances of the class, the species as well as the variety—and whatever act, or series of acts, comes within the general definition, or class, or species, must constitute a particular offence. The better general definition of indictable cheats and frauds at common law, is “ the fraudulent obtaining the property of another by any deceitful and illegal practice or token (short of felony), which affects or may affect the public.” Selling by false weights or measures, comes within the definition. The fraudulent weight or measure, is a false and deceitful token, which may injuriously affect the public, and the practice of selling by it does so affect it. Buying, or receiving and storing for hire, by false weights or measures, in a recognized and most important department of commercial business, is plainly within the spirit of the definition, and these practices are equally if not more injurious to the public than the selling or retailing of property by such false token. It may be true, that when the first indictment for selling by false weights was sustained, the mischief of buying or receiving by them was not felt by the public; but from the growth of commerce, either must now be, if a practice, one of a most alarming nature, well worthy of the most decided reprehension of the law. I am opinion that an indictment will lie for this offence.
+If, however, this misdemeanor at common law is now a statutory felony, the misdemeanor is merged. False weights are false tokens. They were held to be so long before the statute of cheats. The revision of 1813 (1 B. Z., 410, § 1), provided for cheats by false pretences only; but the Revised Statutes broadened the definition so as to include the common law offences, and declared them all felonies. Those statutes now provide that “ every person who, with intent to cheat or defraud another, shall designedly, by color of any false token or writing, or by any other false pretence,” “ obtain from any person any money, personal property, or valuable thing,” shall be guilty of a felony. This statute increases the number of indictable cheats, and makes them felonies. I do not see how any cheat can now be regarded as a mere misdemeanor; and the indictment is for felony.
+It is bad, because it does not charge the acts and intents of the prisoner to have been felonious.
+It sufficiently describes the instruments of the cheat and the manner of cheating thereby.
+But an indictment must, as an almost universal rule, give the accused notice of all the particulars of the crime charged, which may aid him in preparing for his defence, or show a valid excuse. Hence, when a fraud is charged, the person defrauded must be named, or, in excuse, the grand jury must aver that he is to them unknown. In this indictment it would have been sufficient to charge only one receipt by false weights, in fraud of a single person named. So it has been held sufficient to charge sales to divers persons to the jury unknown. Here the charge is of receipts from divers persons, and they are not, nor is any one of them named, nor are they averred to have been to the jurors unknown.
+The caption of the indictment is probably sufficient, but I am not clear that it is so. The indictment was found in and comes to us from another court, and the caption is therefore, I think, a part of it. If it be necessary to the due organization ’of the grand jury that the jurors be sworn to inquire “ as well for the People of the State of New York as for the body of the county of Erie,” and they were sworn only “to inquire for the body of the county of Erie,” there would seem to be a strong indication of a substantial irregularity which has not been waived by pleading, and it may follow that the defect is not one of those defects which our statute requires us to disregard, as “a defect or imperfection in matters of form, which does not tend to the prejudice of the defendant;” and the public prosecutor must excuse us for suggesting that the safer course is to adhere to the immemorial form of the caption.
+Judgment for defendant.
