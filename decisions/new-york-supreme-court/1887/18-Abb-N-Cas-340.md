@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court"
+decided: "1887-02"
+citations: ["18 Abb. N. Cas. 340"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["YOCUM v. HOTEL ST. GEORGE CO."]
+source_url: "https://static.case.law/abbn-cas/18/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 635374
+cites_cases: ["103 N. Y. 10", "13 Allen, 95", "133 Mass. 289", "20 N. J. Eq. 201", "4 Den. 311", "51 N. Y. 300", "63 Barb. 253", "9 N. J. Eq. 186"]
+---
+
+# Yocum v. Hotel St. George Co.
+
+## Majority (Brown, J.)
+
+Brown, J.
+The substantial agreement of counsel upon the general principles of law which govern an action of the character of the one under consideration, renders any extended discussion of the law of the case unnecessary.
+It is asserted by the plaintiff that the noise and vibration produced upon their buildings by the operation of the steam engine and dynamos of the defendant is a nuisance.
+In Fish v. Dodge (4 Den. 311), Judge Bronson, says: 61A man should so use his own as not to hurt another: and therefore, if one carry on a lawful trade or business in such a manner as to prove a nuisance to his neighbor, he must an.swer in damages. ... It is not necessary to a right of action that the owner should have been driven from his dwelling ; it is enough that the enjoyment of life and property has leen rendered %mcomfortgl>leP
+This principle,—that any lawful business conducted in such a manner as to render uncomfortable the enjoyment by the neighbors of life and property, may be deemed a nuisance,—is repeated with more or less elaboration in all the cases on this subject to be found in the reports (Davidson v. Isham, 9 N. J. Eq. 186; Ross v. Butler, 19 Id. 294; Crump v. Lambert, L. R. 3 Eq. Cas. 409 ; Davis v. Sawyer, 133 Mass. 289 Wesson v. Washburn Iron Co., 13 Allen, 95 ; Cleveland v. Citizens’ Gaslight Co., 20 N. J. Eq. 201, 205 ; Catlin v, Valentine, 9 Paige, 575, 576 ; McKeon v. See, 51 N. Y. 300, 306; Campbell v. Seaman, 63 Id. 568; Cogswell v. N. Y. & N. H., &c. R. R. Co., 103 N. Y. 10; S. C., 8 Northeastern Rep. 537.
+The case must, turn then wholly upon the question of fact, whether the noise and jarring complained of are such as to materially interfere with the comfort of life of those who occupy the adjoining property.
+The evidence upon the extent of these noises, and the effect upon the buildings of the rapid motion of the engines, is conflicting. My own inspection of the premises, in company with the counsel for the respective parties, has led me to adopt, as true, the evidence of the plaintiff’s witnesses.
+On the occasion of my visit the noise was plainly noticeable on the street, in front of Mrs. Arnold’s house. Inside of the house it was'much louder, and was such as to materially interfere with ordinary conversation in the parlor. I do not desire to he understood by this that it necessitated a raising of the voice, hut its continuous steady buzz attracted the attention, and seemed to occupy the place to the exclusion of everything else.
+Not easily annoyed or excited myself, I have no hesitation in saying that I would not occupy the house with that noise in it continuously, unless compelled to. In other parts of the house the noise was louder, and there was no place that I visited that was free from it.
+Several witnesses, competent to speak upon the subject, testified upon the trial that the noise would he more apparent in that part of the hotel immediately above the engines, than in the adjoining property. I did not find that to be so ; and in the front part of the room immediately over the engines the noise was barely perceptible; and in the rooms occupied by Mr. Tunbridge, on the second floor, I could not ■ detect it at all without listening attentively.
+Why this should be so I am unable to say, but I am satisfied that there is something about the construction or position of the machinery which causes Mrs. Arnold’s house to receive much of the unpleasant noise and vibration therefrom. The same may be said of the other parts of the hotel which I visited. In the office and dining-room the noise was hardly perceptible.
+I could not, on my visit, detect any vibration to the walls of Mrs. Arnold’s house, but about the engines themselves, and the pipes connected with them, there was a great deal of vibration. Some of these pipes, while not touching the walls of Mrs. Arnold’s house, are in close proximity to if— the space between the wall and the pipes being veiy small.
+I am unable to reject the evidence upon this subject of vibration given by the plaintiff’s witnesses, and I can reconcile it with the evidence of defendant’s witnesses, by the fact, that the effect of the operation of the machinery upon the surrounding buildings, is not at all times the same, and that the examination and experiments of defendant’s witnesses were made at times favorable to the defendant’s view of the case.
+I determine, therefore, the fact to be, that the effect of the operation of the machinery in question, upon the plaintiff’s property, is such as to render it materially uncomfortable, and that it interferes with the comfort of their lives and the reasonable en joyment of their houses, and has caused some of the occupants of these buildings to become sick.
+To live comfortably is one of the chief aims of life. Mon seek'to acquire property as a means of attaining it; and any interference with the comfortable enjoyment of life is a wrong which the law will redress. This is not one of the noises incident to city life, which residents of cities must submit to. It is peculiar in its sound and unlike any other that I have heard, except that produced by other machines generating electricity. It is a combination of the noise of the engine and the buzz of the dynamos. To one who hears it, it is not difficult to understand how, in the quiet of the night, it would render sleep impossible, and upon a person at all predisposed to nervous excitement have an injurious effect. In my judgment it is wholly unnecessary, and is the result of some defect in the setting of the machinery, and I have very little doubt but that it can be remedied in the present location of the engines; but if it cannot, there is no difficulty upon the part of the defendants in so locating them elsewhere upon their own property, where any noise or jar will bo wholly confined to their own hotel, and not distributed to their neighbors, to their injury and great discomfort.
+The point made by the defendant that an injunction should not be granted until the plaintiffs have established their rights in an action at law, is not well taken. When the injury complained of is continuous, plaintiff has a right to come into a court of equity, and invoke its restraining power in liis behalf (Hutchins v. Smith, 63 Barb. 253, and cases cited).
+No more appropriate case for an injunction could be presented than this. Here wrong is apparent, and the injury is continuous, and calls for prompt redress.
+The plaintiffs have established their right to an injunction, and judgment must be entered accordingly; the decree to be settled on notice of two days.
