@@ -1,0 +1,40 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-12-13"
+citations: ["12 N.Y. St. Rep. 592"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Cartwright, App’lt, v. The President and Trustees of the Village of Sing Sing, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/12/cases/0592-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1992901
+---
+
+# Cartwright v. President of Sing Sing
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This action was instituted for the procurement of a permanent injunction to restrain the defendants from the imposition and collection of a supplemental municipal tax, in the village of Sing Sing in Westchester county.
+Under the amended and revised charter of that village, the trustees are authorized and empowered to levy and collect a tax of $10,000 for the ordinary and contingent expenses of the municipality every year. But no tax exceeding $10,000 can be levied under the charter except the sewer or public improvement tax, unless such further tax be authorized by a vote of a majority of the taxable inhabitants of the village, and in all such cases there must be no less than one hundred and fifty votes in favor of the additional tax. Section 54 of chapter 230, Laws of 1887.
+In the month of May, 1887, the trustees levied and collected a tax in the village of ten thousand dollars, and the money was expended.
+Then in the months of July and August, of that year the village was visited with storms of rain of unwonted severity, which so tore and damaged the streets and sewers as to render their reparation an absolute necessity. For that-purpose money was requisite and necessary, and the treasury of the village was exhausted. There was, therefore, no-mode of providing the necessary funds except, by an auxiliary tax.
+In this emergency the trustees proceeded under and in pursuance of the provisions of section 54 of the village charter, to call a meeting of the taxpayers of the village for the purpose of taking a vote to authorize the collection of a subsidiary tax for the sum of three thousand dollars. Such meeting was held, but the majority vote in favor of the tax was less than one hundred and fifty and therefore, no favorable result ensued.
+At this time the trustees of the village were unaware of the existence of chapter 504 of the Laws of 1887, which will now require attention.
+By the terms of that law, whenever it shall be desired by any village to raise money additional to the amount permitted to be raised by its charter for the purpose of building a bridge, constructing a sewer or carrying out some other proper village object, the trustees may call a special • election of the tax paying electors thereof, and submit to them the question of raising such money, and if a majority of such electors voting thereon shall vote in favor of raising the money, then the trustees are authorized to raise the same in the manner other village taxes are raised and collected.
+Other provisions are contained in section 1 which are immaterial here, and then follows section 2, which reads as. follows:
+“The powers conferred by this act are in addition and supplementary to and independent of all other powers pos- ' sessed by villages, either under any special act or under the general act for the incorporation of villages; and when, the trustees of any village shall act under its provisions, they shall state in their proceedings that they are taken under the act of 1887 conferring additional power upon villages.”
+After this fruitless effort to raise the money by calling a. meeting of the tax payers under section 54 of their charter, the trustees called a special election of the taxable inhabitants of the village under chapter 504 of the Laws of 1887 for the purpose of raising a special tax of $3,000 to be-expended in repairing the roads, bridges, gutters, etc.,. damaged by the recent storms. The election was held under proper notice, and sixty-nine ballots were thrown thereat, fifty-two for the special tax' and seventeen against the same, and it is the collection of this tax which the plaintiff seeks to restrain by this action.
+An application was made to the special term for a preliminary injunction, and that was refused, and now the case comes to us upon an appeal from the order of denial.
+If the plaintiff arrests the collection of the impending tax by this action, it is because the new statute is inapplicable to the village of Sing Sing, and such is his contention.
+He insists the law was intended for villages desiring to raise money beyond the amount permitted to be raised by their charter, and that Sing Sing is not in such a category, but is permitted by its charter to raise any amount— $10,000, upon the volition of the village trustees and any amount beyond that sum by a vote of the taxable inhabitants, and the charter is so. But the argument is faulty because it overlooks the purpose and the provisions of the new law. . ¡
+The title of that act is “An act conferring additional powers upon villages.” And then section 2, in consonance ■ with the indication of such title, confers the powers of the act in addition and supplementary to and independent of all other powers possessed by villages, either under any special act or under the general act for the incorporation of villages. This language is exceedingly comprehensive and confers upon the trustees power to call the special election independent of and without regard to other powers possessed by the village. The new law of itself provides á mode of imposing an auxiliary municipal tax independent of all antecedent special acts or charter provisions whenever anything arises to render the same necessary or desirable, . and leaves the trustees of any village at liberty to put its machinery in operation untrammeled by previous legislation.
+A technical objection is made to the regularity of the election because the notice did not call the same for the purpose of building a bridge, constructing a sewer or carrying out some other proper village object, but called the same to raise $3,000, to be expended in repairing the roads, bridges, gutters, etc., damaged by the recent storms; also, that the notice was to the taxable inhabitants and not to the tax paying electors.
+It is deemed a sufficient answer to these objections to say that the election was called and conducted under the new statute, and that conferred the power to raise the tax for any proper village object, and the reparation of roads and bridges is plainly such an object.
+It was doubtless the intention of the legislature expressed in the new statute to require the submission of the question respecting the auxiliary tax to the tax paying electors of the village, but we think the statute has received substantial compliance. The call of the election was notified under that law, and there is no claim of any irregularities at the election, nor that any other than taxpaying electors voted thereat.
+As the proceedings of the trustees are thus found to be within the scope of their official powers, so their action was meritorious and essential.
+The public ways of the village had been impaired by the floods and it became necessary to restore them to usefulness.
+The public purse was empty and could be replenished only by the exertions of the trustees. In this emergency they acted under the most available law they found ready for their use, and they acted wisely and well and their action must be sustained by the courts.
+The order appealed from should be affirmed, with ten dollars costs and disbursements.
+Pratt, J., concurs; Barnard, P. J., not sitting.
