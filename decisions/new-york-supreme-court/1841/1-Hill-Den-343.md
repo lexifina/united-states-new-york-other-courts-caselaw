@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1841-05"
+citations: ["1 Hill & Den. 343"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Germond and another vs. The People, ex rel. Taylor and others."]
+source_url: "https://static.case.law/hill/1/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674545
+---
+
+# Germond v. People
+
+## Majority (By the Court, Cowett, J.)
+
+By the Court, Cowett, J.
+The pleadings show that the bond was based on the alleged acquittal by the verdict of' three men; not by the court. If -this defect was not cured by consent, most clearly the whole was void, and may be impeached collaterally, as was held in 3 Keb. 362, (Case 42,) in debt for an amercement, assessed in a court leet by less than the legal number of jurors. But consent will not give jurisdiction; and the rule applies as well to consent which creates a tribunal, as to that which submits a subject matter to a subsisting tribunal which is an utter stranger to it. ,
+The statute provides, that whenever a defendant, tried either by a court of special sessions itself or by a jury of such court, shall be acquitted, he sháll be immediately discharged; and if the special sessions shall certify as the declaration below stated that they did in this instance, a bond such as the people declared on in the court below, may be taken. (2 R. S. 597, 2d ed. §§ 20, 21.) The defendant may demand of the special sessions a jury of six; which it would doubtless be an error to refuse; but if he do not, the court may try him without. The jury are to be sworn, hear the evidence, and render a verdict. (Id. 595, 6.)
+In the case at bar, the special sessions had complete jurisdiction in regard to the subject matter, and the person both of the complainant and the defendant; and there is not the least doubt that the jury, being allowed by law to the defendant for his benefit, he may, so far as he is concerned, waive that benefit at any stage of the proceeding before judgment, and submit to a trial by the court. And there is as little doubt that the complainant may accede to such waiver; and then, an acquittal by the magistrates themselves may be followed by a certificate to charge him with costs, pursuant to the statute. Here the jury was waived by both parties. I say both parties, because the statute makes the complainant a party to the question of costs. And if, upon the pleadings, we could find enough to warrant us in saying that the court acquitted Stevens, the certificate, and therefore the bond, were well enough. But I do not see how that can be said. It is true that in such case, six persons and no less being known' to the law as a jury, and the parties going on with, less, the trial, if one is to 'be had, necessarily devolved upon the justices. But judicial action as a special sessions is necessary. They must acquit; and the replication, so far from insisting on such action, admits, indeed avers, that what is called an acquittal, was by the miscalled verdict of a miscalled jury, three men sitting and awarding, not under any authority conferred by law, but by the parties; three men who were arbitrators at most, and whose finding was not adopted as the voice of the special sessions. Had the replication added, that On the pretended verdict being pronounced, the court thereupon acted on it as a verdict and pronounced an acquittal, I admit this would have been error merely, and not questionable in a collateral way; but only by certiorari, if questionable at all. (Griffin v. Mitchell, 2 Cowen, 548. Butler v. Potter, 17 Johns. R. 145. Relyea v. Ramsay, 2 Wendell, 602. Horton v. Auchmoody, 7 id. 200. Germon v. Swartwout, 3 id. 282.) The objection is, not that the court wanted jurisdiction, but that they never exercised it. The case is like an inferior court issuing an execution without first rendering any judgment. The right to demand a bond and commit the complainant for default of giving it, depends upon a previous condition—an acquittal by a legal, not a conventional authority.
+It is insisted that the defendants’ bond reciting an acquittal, estops them to deny it. If that were so, the estoppel was not replied, nor did the plaintiffs. demur. On the contrary, they admitted that there was no acquittal, unless that can be called so which is pronounced neither by court nor jury. But the case is not one of which an estoppel can be predicated. It might have been at common law, especially in respect to the surety; but the 2 R. S. 214, 2d ed. § 60, declares, that any bond, «fee. taken by an officer, by color, «fee. in any other case or manner than such as are provided by law, shall be void.
+We think the court below erred; and the judgment should therefore be reversed.
+Judgment reversed.
+In regard to the admissibility and effect of recitals as evidence, and when they operate byway of estoppel, see Cowen & Hill’s Notes to 1 Phil. Ev. pp. 160, 1 1235 to 1238.
