@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-19"
+citations: ["17 N.Y. St. Rep. 430"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Citizens’ Bank of Davenport, Iowa, Resp’t, v. Importers' and Traders’ Nat’l Bank, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008071
+cites_cases: ["48 N. Y., 532"]
+---
+
+# Citizens' Bank v. Importers' and Traders' National Bank
+
+## Majority (Van Brunt, J. P.)
+
+Van Brunt, J. P.
+Most of the questions which are presented upon this appeal were determined in favor of the plainiff when this case came up on a previous appeal before this court from a judgment entered in favor of the defendant, upon a dismissal of the plaintiff’s complaint; and it is not necessary here to reconsider the questions which were then. settled in favor of the plaintiff. The report of the. case is to be found in 9 N. Y. State Rep., 201.
+Upon that appeal it was determined that while a check drawn by a drawer against a bank account does not operate as an assignment of so much of the account, it authorizes the payee or one to whom he has endorsed and delivered it to make a demand, and the refusal of the bank to pay on presentation gives the drawer a right of action in case he has funds in bank to meet the check and the refusal was without his authority. This right of action exists entirely independent of what the relations are as between the drawer and payee of the check. It is not necessary in order that this right of action shall arise, that the drawer shall take back the check from the payee’s hands, because the action is not upon the check but upon the breach of the contract entered into between the depositor and the depositary. Such being the case the defendant became liable to the drawer when presentation was made by the lawful holder of those checks and payment thereof refused for the amount of each check and it is entirely immaterial as far as this cause of action is concerned, as to whether the drawer has reimbursed the drawee or not. Rector, etc., of Trinity v. Higgins, 48 N. Y., 532.
+The only points which seem to be presented upon this appeal which differ from those which were-considered when the case was before the court upon the previous appeal, are the fact that the defendant has paid the amount of these checks to the Fourth National Bank who had possession of the same, and the exception raised by the refusal of proof as to the arrangements between the drawers of the checks and Mr. Bennett, who it was claimed had fraudulently forged endorsements upon the checks.
+In order to entitle the defendant to justify its refusal upon the plea of payment, it was incumbent upon it to show that the person to whom payment was made was authorized to receive payment, the more especially as, in the case at bar, there had been fraudulent alterations, which absolutely vitiated, as far as the conveyance of any title to the check was concerned, the indorsement made by Wadsworth & Co., the payees of the checks.
+Wadsworth & Co., as far as all except two of the checks were concerned, had made special indorsements of the checks. These indorsements had been erased fraudulently by their clerk, and the names of other payees substituted, and it was through these indorsements thus fraudulently made that the check passed into the possession of the Fourth National Bank.
+Under these circumstances, the claim that because the title to a check can be passed by delivery without indorsement, mere possession is evidence of title, cannot prevail; something else must be proved on the part of the party justifying the payment.
+Wadsworth & Co. having shown that these checks were specially indorsed, the defendant could justify their payment only by showing that the indorsers had transferred their title to somebody else. ' This the proof utterly fails to show. As to the checks, that were indorsed by Bennett, in the name of Wadsworth & Co., it is sufficient to say that these indorsements conveyed no title, because Bennett had no authority to make them. His authority was limited.
+It was to endorse checks for business purposes, and there is no claim that these checks were endorsed in Wadsworth Sc Co.’s presence or that any person who received any one of these checks, after they had been endorsed by Wadsworth Sc Co., ever knew that Bennett had any authority whatever under any circumstance, to make endorsements, and consequently could not have relied upon the same. They must, therefore, claim title upon showing strict right in Bennett to use the name of Wadsworth Sc Co. This they did not do. It was shown that these checks were not endorsed by Bennett for any business purposes of Wadsworth Sc Co., and consequently he had no power to make the endorsement by which he assumed to convey the title to those checks.
+The condition of the accounts or the arrangement between Bennett and Wadsworth Sc Co., after the discovery of the forgeries which he had perpetrated upon them, was of no consequence to the defendant whatever. The plaintiff might enter into an investigation of those circumstances, perhaps, when Wadsworth & Co. made their claim to the amount of these checks, but the right of action of the plaintiff against the defendant arose at the moment that payment to the true holder was refused, and as to what subsequently became of these drafts the defendant had nothing whatever to do.
+There is no question as to the good faith of the defendant in its refusal to pay the checks upon the second presentation. But the legal rights of the parties were thereby established; the checks were presented by the true owners thereof, they never having parted with their title to the persons through Avhom the Fourth National Bank derived possession thereof. The defendant having paid these checks to the Fourth National Bank, if that bank had no title whatever to the possession thereof, has its remedy against the receiver of the money.
+We are of opinion, therefore, that the judgment appealed from must be affirmed, with costs.
+Bartlett and Daniels, JJ., concur.
