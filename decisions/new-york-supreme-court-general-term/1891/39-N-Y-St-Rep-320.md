@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-06-12"
+citations: ["39 N.Y. St. Rep. 320"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nathaniel Hooper et al., App’lts, v. C. McCulloh Beecher et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061914
+---
+
+# Hooper v. Beecher
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+—This action was brought to set aside an assignment alleged to have been made by the firm of Chas. McC. Beecher & Co., upon the ground that the same was made with intent to hinder, delay and defraud creditors.
+This assignment, was signed in the name of the firm by one of the members thereof; and it is claimed that the same was never ratified or assented to by the other two members of the firm.
+The case has been twice tried. Upon the first trial judgment was given for the plaintiff setting aside the assignment The defendants appealed to the general term, where the judgment was affirmed. The assignee and one of the members of the firm appealed to the court of appeals, where the judgment was reversed and a new trial ordered.
+It is claimed that this new trial was only ordered as against the said assignee and the appellant assignor, and that one of the other assignors not having appealed, the final judgment remains setting aside the assignment as against him. We find no such limitation of the reversal contained in the report of the decision of the court of appeals, and no evidence that it was their intention to allow the judgment to remain as to one defendant, and reverse the same as to others who stood in precisely the same relation to the judgment.
+Upon an examination of the questions which were discussed by the court of appeals, we do not see that there remains anything to be considered by this court. The court there held that the burden of establishing non-assent to the assignment by the non-executing members of the firm was upon the plaintiffs; and upon the same evidence now before the court, the court of appeals held that the finding was not sustained that Johnson, the non appealing defendant, did not assent.
+It appears from the evidence that Johnson defended the action to set aside the assignment upon the ground of his non-assent; and if any authority were needed, the case of Adee v. Cornell, 93 1ST. Y., 576, holds that the fact that am assignor defended a suit to uphold the assignment was a ratification.
+It is also urged that the other non-executing defendant Baillie never consented to any general assignment, nor assented to, ratified or confirmed the same after the making thereof. Baillie’s letter and telegram, which are now before the court, and are urged upon its attention, were considered by the court of appeals as though they were evidence in the case in discussing the question of Baillie’s assent, although they were not regularly before that court; and they held that that letter and telegram did not sustain the finding that he did not assent
+The facts in respect to the application of the money of the estate to pay the Brazilian creditors was also before that court; and it was not considered any ground sufficient to sustain the judgment setting aside the assignment
+Under these circumstances these questions are not open for discussion in this case, notwithstanding the elaborate brief which has been submitted thereon by the counsel for the appellant.
+It seems to us that upon the previous adjudication all the points now raised have been covered, and that the judgment should be affirmed, with costs.
+Daniels, J., concurs.
