@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court"
+decided: "1893-09"
+citations: ["78 N.Y. Sup. Ct. 232"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Matiiam, P: J., and Herrick, J., concurred."]
+parties: ["Simon Schriver, Respondent, v. The Village of Johnstown, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/78/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8594045
+cites_cases: ["1 Den. 495", "106 N. Y. 156", "106 N. Y. 157", "17 Wend. 562", "2 N. Y. Supp. 130", "20 Barb. 479", "20 Pick. 477", "77 N. Y. 51", "79 N. Y. 477"]
+---
+
+# Schriver v. Village of Johnstown
+
+## Majority (Putnam, J.:)
+
+Putnam, J.:
+The learned referee has written a very satisfactory and exhaustive opinion, on which I think the judgment should be affirmed. On competent and sufficient evidence he has found that the defendant, in June, 1882, completed a permanent system of sewers and gutters in the streets of the village of Johnstown, through which the sewage of said village was collected and emptied into plaintiff’s pond, not only polluting the water, but causing a large deposit of offensive matter therein. That ever since said period the flow of said sewage onto plaintiff’s premises has continued.
+Such being the facts of the case, 1 think the plaintiff was entitled to the judgment awarded of a perpetual injunction, and to at least nominal damages. (Noonan v. City of Albany, 79 N. Y. 477; Stoddard v. Village of Saratoga Springs, 127 id. 261.)
+The only damages allowed by the referee are for the diminution of the storage capacity of plaintiff’s pond, caused by the deposit therein of the contents of defendant’s sewers, and the destruction of his machinery, and the consequent injury to his business. The referee determined that such deposit depreciated the rental value of plaintiff’s premises $200 a year.
+The depreciation in the rental value of plaintiff’s premises, however, was shown on the trial to be attributable to several causes. The pollution of the water, for which no damages were allowed by the referee; the natural surface drainage of the village of Johns-town ; the drainage of other mills ; the contents of private sewers, privies, etc., together with defendant’s sewage, produced such depreciation. There is no evidence showing, with any degree of certainty, the amount of the deposit in plaintiff’s pond, caused by defendant’s sewers, and the amount produced by other causes, or to Avhat extent the rental value of plaintiff’s premises is diminished by acts of defendant.
+As the referee very properly suggests : “ His (plaintiff’s) damages, occasioned by the defendant, are difficult of measurement, and, indeed, the evidence does not furnish means of ascertaining them Avith precision.”
+The serious question of the case, and one on which I entertain considerable doubt, is whether the evidence was sufficient to justify the fin ding of the referee as to the amount of plaintiff’s damages. It is urged that, Avithout any evidence showing the amount of deposit in the pond caused by defendant, and the quantity left there by other sewers, the conclusion of the referee as to the amount of the diminution of the rental value produced by defendant is founded on mere conjecture. It must be admitted that there is some plausibility in this position. But there are well-considered authorities which seem to sustain the view of the learned referee.
+Drucker v. Manhattan Ry. Co. (106 N. Y. 156) was an action brought against the defendant for damages for interfering with plaintiff's easement in a street. The damages allowed were the diminution of rental value of plaintiff’s property. The evidence tended to show that such diminution was caused by defendant’s road, and also by a tendency of the business to move “ up-town.” In the opinion, the following language is used : “ It is often the case that damages cannot be estimated with precision and the basis of accurate calculation is wanting and inadequate. That is notably true in many cases of personal injuries. Such evidence as can be given should be given, and facts naturally tending to elucidate the extent of loss should not be withheld. But when all the proof which, in the nature of the case, is fairly possible has been given, the good sense of a jury must provide the answer, and it is no defense that such judgment involves more or less of estimate and opinion, having very little to guide it. That criticism has no force in the mouth of the wrongdoer when all reasonable data have been furnished for consideration.”
+The same doctrine is held in Tallman v. Met. El. R. Co. (2 N. Y. Supp. 130, 131). In Van Steenburgh et al. v. Tobias (17 Wend. 562, 563), Judge Cowen holding that a joint action does not lie against the separate owner of dogs by whom the sheep of a-third person have been killed, says : “ The difficulty in accurately estimating the separate injury done by each dog, is not an argument of sufficient strength to warrant the injustice of punishing a man who is entirely innocent. The jury must in this, as in most cases of wrong, get at the real damages in the best way they can.”
+In a similar action (Buddington v. Shearer, 20 Pick. 477-479), it was held: “ There may be some difficulty in ascertaining the quantum of damage done by the dog of each, but the difficulty cannot be great. If it could be proved what damage was done by one dog, and what by the other, there would be no difficulty; and on failure of such proof, each owner might be liable for an equal share of the damage, if it should appear that the dogs were of equal power to do mischief and there were no circumstances to render it probable that greater damage was done by one dog than by the other.”
+The same doctrine is held in Auchmuty v. Ham (1 Den. 495), and in Partenheimer v. Van Order (20 Barb. 479).
+It follows, that in actions like tbe one we are considering, as in those for personal injuries, where all the evidence bearing on the question of damages “ which in the nature of the case is fairly possible ” has been given, it is no defense to the wrongdoer that the judgment against him must involve more or less estimate or opinion. In this case the evidence given on the trial was voluminous, and all the facts bearing on the question of damages, asfcvr as possible, seem to have been brought out, and I think, under the authorities cited, the conclusion of the referee was warranted by the evidence, and, therefore, that the judgment should be affirmed.
+Matiiam, P: J., and Herrick, J., concurred.
+Judgment affirmed, with costs.
