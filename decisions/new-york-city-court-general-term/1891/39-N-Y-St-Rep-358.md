@@ -1,0 +1,29 @@
+---
+court: "New York City Court, General Term"
+decided: "1891-06-19"
+citations: ["39 N.Y. St. Rep. 358"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Garfield National Bank, Resp’t, v. William L. Bostwick, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061715
+cites_cases: ["21 How. Pr., 469"]
+---
+
+# Garfield National Bank v. Bostwick
+
+## Majority (McGown, J.)
+
+McGown, J.
+—A judgment was recovered on the 7th day of April, 1885, in the supreme court, Tompkins county, by the Tompkins County National Bank, plaintiff, against William L. Bostwick, the above named defendant, for the sum of $3,815.81; and on the 17th day of April, 1885, in a special proceeding supplemental to an execution, issued on said judgment, Mynderse Yan Cleef was, by an order made and entered on April 17, 1885, appointed by the Hon. Marcus Lyon, justice of said court, receiver of the property of said Bostwick. In pursuance of said order, the receiver executed a bond as required by said order, with sureties in a penalty of $5,000, and which bond was duly approved and' filed in the office of Tompkins county, on the 18th day of April, 1885, and said receiver thereupon became invested with all the rights and powers of a receiver of the property of said defendant, William L. Bostwick.
+On the 2d day of May, 1890, a judgment was recovered in this action against said defendant, and in favor of the above named plaintiff, for the sum of $749.81. Execution issued thereon, returned unsatisfied, and proceedings supplementary to execution were had and an order made and entered in the office of the clerk of the city and county of New York on the 13th day of March, 1891, extending the receivership of said Mynderse Yan Cleef (appointed receiver in the action in the supreme court8 as hereinbefore stated), to the proceedings in this action, as receiver of all the property of said defendant Bostwick, and requiring him to furnish additional security as such receiver.
+On the 6th day of May, 1891, an order was made herein, vacating the order granted on the 13th day of March, 1891 (extending the receivership of said Yan Cleef, receiver), and appointing one George J. Yestner, receiver of the debts, etc., of said defendant Bostwick, in the place and stead of said Yan Cleef.
+The defendant herein (the judgment debtor in the supplemental proceedings) appeals from this order.
+Section 2466 of the Code of Civil Procedure provides, that “ only one receiver of the property of a judgment debtor shall be appointed. Where a receiver thereof has already been appointed the j edge, instead of making the order prescribed in the last section but one (§ 2464), must make an order extending the receivership to the special proceeding before him, etc.”
+Section 2471 provides that “A receiver, appointed "* * * is subject to the direction and control of the court out of which the execution was issued. Where an order has been made, extending the receivership to a special proceeding founded upon a subsequent judgment, the control over and direction of the receiver, with respect to the judgment, remains in the court to whose control and direction he was originally subject.”
+The order appealed from virtually removes Van Cleef as receiver by appointing Vestner receiver, “in place and stead of said Van Cleef, receiver.”
+There is no power in this court to remove a receiver appointed 1 by the supreme court. Such removal can only be made by the supreme court by whom he was appointed. Upon the appointment of Van Cleef as receiver he became an officer of the court, and was appointed for the benefit of all creditors who have commenced or shall commence similar proceedings. Banks v. Potter, 21 How. Pr., 469.
+The order appealed from must be reversed, with costs.
+Bhrlich, Ch. J., and McCarthy, J., concur.
