@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court"
+decided: "1890-04"
+citations: ["25 Abb. N. Cas. 217", "33 N.Y. St. Rep. 9"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAMS v. WILLIAMS."]
+source_url: "https://static.case.law/abbn-cas/25/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1966161
+cites_cases: ["23 Abb. N. C. 472", "32 N. Y. 397", "32 N. Y., 897", "50 N. Y. Supr. Ct., 29", "6 Duer, 629"]
+---
+
+# Williams v. Williams
+
+## Majority (O’Brien, J.)
+
+O’Brien, J.
+If the facts stated in the complaint were-sufficient to constitute a cause of action as against the defendant, I am of opinion that the demurrer to the ninth and. tenth defenses is well taken.
+As to the ninth paragraph of the answer, it does not tend to defeat or diminish plaintiff’s recovery, and therefore is• not of the character specified in section 501 of the Code.
+Ho debt or amount whatever could impair plaintiff’s recovery ; for the judgment he demands comprehends the whole estate of which a debt due the estate from himself or anyone else is a part.
+The tenth count in the answer does not state a counterclaim or defense. The facts stated do not constitute an estoppel against plaintiff, nor is it there alleged that he has ■ released the estate from his claim, nor that his accounting before the surrogate bars his suit as res adjudicata.
+It might well be that these matters, if admitted as evidence, might have a tendency to show the reason for, and the improbability of, the present claim made by plaintiff, but, as a defense, this count is clearly insufficient.
+It has been settled, however, that upon the argument of' a demurrer to an answer the defendant may raise the objection that the complaint itself does not state facts sufficient to-constitute a cause of action, and such an objection, if well" taken, is not only a complete answer to the demurrer, but. should result in the dismissal of the complaint.
+In People v. Booth (32 N. Y. 397) it was said : “ On demurrer to an answer for insufficiency the defendants are-' at liberty to attack the complaint upon the ground that it.. does not state facts sufficient to constitute a cause of action.”' See also Wilmore v. Flack (16 Weekly Dig. 236); Parsons v, Hayes (58 Super. Ct. 29); Graham v. Dunnigan (6 Duer, 629).
+The objection having been taken, therefore, the question is presented whether the action is properly brought against the defendant as administratrix.
+The complaint alleges that for a consideration the intestate agreed that should he die without wife or children he-would leave the income of his estate to his mother for life,, and the whole estate upon her death, or if she did not survive him, to the plaintiff, were he then living, otherwise to plaintiff’s children ; that he died without wife or children, but did not fulfill his agreement; wherefore judgment is prayed for that the terms of the agreement be carried out.
+It will thus be seen that this action is brought to recover^ not a part, but the entire estate, consisting as it may, for aught that appears in the complaint, of both real and personal-property within this State. Such an action is not intended-to affect the administration, but the distribution of the estate.
+It is not a claim against, but to the estate. In effect it is asking the court to make a will which, it is alleged, the-decedent promised and failed to make. It seems reasonably free from doubt that in such an action, the heirs at law and next of kin, and not the administratrix, are the real parties-in interest, and therefore it should be as against them that the plaintiff should assert his claim.
+The complaint states a cause of action, therefore, which-is good as against the heirs and next of kin, but which is-bad as against the present defendant, who is sued as administratrix. While, therefore, the plaintiff’s demurrer would have been sustained to the ninth and tenth defenses, there-should be judgment for the defendants, dismissing the complaint for a failure to state facts sufficient to constitute a-cause of action, but with leave to serve an amended complaint upon payment of costs.
