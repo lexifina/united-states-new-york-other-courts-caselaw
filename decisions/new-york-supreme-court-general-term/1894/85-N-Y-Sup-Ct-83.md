@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05"
+citations: ["85 N.Y. Sup. Ct. 83"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Putnam and Herrick, JJ., concurred. •"]
+parties: ["Sidney G. Marshall, Respondent, v. The Reading Fire Insurance Company of Reading, Pennsylvania, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4721512
+cites_cases: ["43 Barb. 361", "50 N. Y. 407"]
+---
+
+# Marshall v. Reading Fire Insurance
+
+## Majority (Mayham, P. J.:)
+
+Mayham, P. J.:
+On the 1st day of March, 1893, the defendant, a foreign corporation, issued by its agent an insurance policy to the plaintiff, in consideration of a cash premium of thirteen dollars and seventy-five cents at that time paid by the plaintiff to the agent of the defendant, to indemnify the plaintiff in the sum of $1,000 on stock and $100 on store against loss and damage by fire.
+Tlie person who took this risk acted as agent for the defendant, and had been so acting for several years previous thereto ; was furnished with policies in blank by the defendant, signed by the officers of the defendant, and to the knowledge of the plaintiff had been in tlie habit of countersigning policies issued by tlie defendant through him as agent, the defendant receiving tlie premiums of him, and in some instances paying taxes on policies so made out and executed by this agent.
+On the 13th day of April, 1893, the insured property was. destroyed by fire. The plaintiff thereafter made due proof of loss and presented the same to the defendant and demanded payment for tlie same, which was refused, and thereafter the plaintiff brought this action.
+The main contention on tlie part of the defendant on this apjieal is that the policy on which this action was brought was not a valid policy issued by the defendant; that the person who assumed to act as agent for the defendant and by whom this policy was filled up, countersigned and delivered, was not at the time of making this policy the lawful agent of the company, and had no power or authority to issue such policy and bind tlie company thereby, and that the policy was, therefore, void.
+The first ground of that contention was that the defendant had, on the 20th day of September, 1892, suspended and revoked all the powers of the agent who filled out and delivered the policy in suit, and had conferred all tlie powers possessed by him on another agent, and that on the 20th of March, 1893, the successor of such first-mentioned agent went to the store of the plaintiff and notified him of the suspension of such agency, and demanded a renewal of the policy, which the defendant refused, but it does not appear that the agent making that demand returned or agreed to return the premium or unearned premium paid by the plaintiff on this policy.
+As the defendant at the time of the alleged revocation of the power of the former agent gave no public notice of the same, and in no way informed tlie plaintiff of such revocation, and left with the agent the policies signed by tlie company, thus leaving in him the vndicia of authority, the revocation did not bind the plaintiff, in the absence of any proof that it was known to him at the time of the receipt of the policy.
+The agent had acted as the general agent of the defendant upon the subject of issuing of policies, and his acts had been adopted by the company, and so long as the company left this class of policies with him and thus enabled him to continue to deal with the public upon the strength of his previous agency, and to use its policies, no secret revocation of his power could absolve the defendant from liability to third persons dealing upon the strength of such apparent authority without any knowledge of the revocation of such authority. (Post v. Ætna Fire Ins. Co., 43 Barb. 361; Ellis v. Albany City Fire Ins. Co., 50 N. Y. 407; Ruggles v. American Cent. Ins. Co., 114 id. 415 ; Arff v. Fire Ins. Co., 125 id. 57.)
+But it is insisted by the learned counsel for the defendant that this policy is void under the provisions of section 137 of chapter 690 of the Laws of 1892.
+Section 31 of this chapter prohibits the agent of a foreign insurance company from transacting any business in this State until he has filed in the office of the clerk of the county where he resides a certified copy of the authority of the Superintendent of Insurance authorizing him to do insurance business, which certificate is also required to be filed in the office of the Superintendent of Insurance, a copy of which is to be printed four successive weeks in the State paper at Albany and proof of such publication filed in the office of the Superintendent of Insurance.
+None of these things seem to have been done by the agent who executed and delivered the policy in this case. Section 50 of the same title imposes a penalty on any person acting as an agent of a foreign fire insurance company who acts in that capacity without first complying with the provisions. But none of these sections, so far as I can see, render a policy void for a failure to comply with these provisions. It is true that section 137 provides that policies shall be held void if issued by foreign fire insurance companies unless such companies shall have complied with the general insurance laws of this State; but that provision does not seem to apply to the regulation of agencies of foreign insurance companies doing business in this State.
+It is urged that as the enactment of chapter 690 operated to suspend the agencies unless the authority was renewed as required by that chapter, that this relation ipso facto was dissolved, and that the plaintiff was charged with notice of that fact, as it was effected by a public statute, and all persons are bound and presumed to know the law, and -that as to this class of cases the ordinary rule governing principal and agent is no longer applicable to agents of foreign insurance incorporations.
+But it will be observed that this law imposes a duty upon the companies and their agents for the protection of the public, and should not be so construed that it may become an instrument of fraud and oppression to those for whose protection it was intended.
+It presupposes that companies and their agents may assume to act without having qualified themselves by paying the excise duties imposed for the privilege of doing business in this State, and for such violation of law imposes heavy penalties.
+But it nowhere in terms gives the company any immunity or enables it to escape the obligations of its contract through such violations. By assuming to insure the plaintiff’s property it deprived him of the opportunity of availing himself of other insurances, and it should not, when a loss occurs, be permitted to allege its own violation of law as an excuse for refusing to fulfill its contract.
+But it is urged that the company in its policy reserved the right to cancel the policy. Such provision to be valid must be upon the condition of a restoration of the unearned premium where the assured lias practiced no fraud in obtaining the policy.
+In its application to the plaintiff to cancel this policy it adopts it as its own, but fails to give the requisite notice of its intention as required in the policy itself, and I see nothing in the conduct of the plaintiff at the time of the proposed cancellation of the policy which can be construed into a waiver of the required notice.
+I have examined the exceptions taken by the defendant to the various rulings of the trial judge and see no ground in them for a reversal of this judgment.
+Putnam and Herrick, JJ., concurred. •
+Judgment affirmed, with costs.
