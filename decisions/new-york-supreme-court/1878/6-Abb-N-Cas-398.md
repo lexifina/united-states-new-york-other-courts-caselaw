@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court"
+decided: "1878"
+citations: ["6 Abb. N. Cas. 398"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MATTER OF ORTHODOX CONGREGATIONAL CHURCH IN UNION VILLAGE."]
+source_url: "https://static.case.law/abbn-cas/6/cases/0398-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1951566
+cites_cases: ["1 Hill, 572", "17 Wend. 40", "18 N. Y. 395", "19 Barb. 595", "2 Blackf. 715", "21 Wall. 616", "3 Wend. 94", "30 Barb. 570", "37 N. Y. 317", "4 Daly, 305", "4 Hun, 779", "4 N. Y. 208", "7 Cow. 453", "79 Ill. 493", "9 Johns. 334"]
+---
+
+# In re Orthodox Congregational Church in Union Village
+
+## Majority (Landon, J.)
+
+Landon, J.
+I cannot allow the notes of Anna C. Holmes. On their face they have been barred by the statute of limitation for more than a quarter of a century. There is no evidence that the notes have not been paid. The declarations of Mrs. Holmes, in her own favor, are not such evidence as a court ought to receive or act upon; that the trustees consent to the reception of such evidence, and the allowance of the. notes, is of no value in this proceeding—whose rights and property are they thus giving away ? The consent of the officers of a company against the interests of a company may generally be set down as in favor of their own interests. It is the duty of the court to ascertain the debts, and the court refuses to consent to the allowance of a claim that has had no recognition for more than twenty-five years.
+The receiver will report to the court the facts, when he ascertains them, in regard to the account between the estate of Hiram Corliss and the society.
+The legacies given by the several wills consist of annual payments,, to be made to the trustees, so long as the church should bear public' testimony against slavery and intemperance ; upon further consideration I concur in the view that when such public testimony ceased the right to the legacies ceases.
+The referee has fixed that cessation as in March, 1869. I do not find any reason to disapprove his finding.
+From the referee’s report it appears that the church received the principal of the legacy funds under three of the wills, but not under the will of Charles Holmes. Under the latter will the church has nothing to restore. Under the other wills the principal of the fund has been invested in town bonds and railroad bonds, and nominally amounts to $3,400. The bonds should be divided pro rata among the residuary legatees ; seven-nineteenths under the will of Erastus Bigelow to the treasurer of the American Missionary Association; seven-nineteenths under the will of Mary Bigelow, to the residuary legatees named in the will, or their representatives; five-nineteenths under the will of Angeline Mowry, to the residuary legatees named in her will, or their representatives. I presume they are correctly named in the referee’s report, but I use the above terms for the reason that the referee uses the term “heirs,” and the two terms may not be identical.
+So far as the church has, since March, 1869, spent the interests or dividends upon these investments, it must be held that the same was spent with the concurrence of the legatees ; so far as such interest remains unimpaired it should be paid pro rata- with the principal to the several residuary legatees. The deposit of $388.26, I presume, arose from these investments, and may be divided and paid as aforesaid. The costs of these proceedings as reported by the referee are allowed.
+The receiver will pay such costs and his own fees and expenses out of the proceeds of the sale of real and personal property. He will pay the debt as reported by the referee, except the notes of Anna C. Holmes. He will distribute the securities as aforesaid, and the said remaining accumulation of interest thereon.
+Upon what principle the church should pay to the residuary legatees the loss upon the securities held for its benefit, by the bank or by its trustees, I do not understand, unless it be that because there is a fund to be distributed, it should be distributed generously.
+The individuals who changed the securities from ■those authorized by law to those unauthorized, made themselves personally Hable,—responsible for whatever loss the unauthorized investments sustained, no matter how perfect the good faith with which the investments were made. But that act, though made for the benefit of the church, was not the act of the church, and if it could recover of these individuals for the wrong done by them, it would be because the wrong was done to it. It would be a strange rule that would make the church liable because it has been wronged, unless it in some way authorized or ratified the wrong. The three individuals who changed the investments were not the church. I do not think in a proceeding of this kind the funds should be in any sense given to individuals if so, other churches may follow the bad example of this.
+The founders of the church were Congregationalists. The Reformed Church, from which its founders went forth, was not stringent in a particular which they held to be vital, and hence this church was established.' I can hardly believe that in their zeal they would have complacently listened to the suggestion, that when the usefulness of this church was over, the Reformed Church should be heir of its estate. I think the American Congregational Union, of New York, is the best Congregational body to which this surplus can be paid, regard being had to what the court must believe to be most in harmony with the will, the contributors to the fund now under dissolution would have expected, could those contributors have foreseen this event. The Congregational society, recently organized at Greenwich, for the purpose, among other things, of sharing in this distribution, is for that reason excluded from it.
+If the trustees will amend their petition so as to conform to the above suggestion, the order may be made accordingly; if not, the receiver will retain the surplus until the further order of the court.
