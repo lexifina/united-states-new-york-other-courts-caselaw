@@ -1,0 +1,24 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1877-04-02"
+citations: ["7 Daly (N.Y.) 155"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Benjamin Page, a Lunatic."]
+source_url: "https://static.case.law/daly-ny/7/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1308121
+cites_cases: ["1 Barb. 441", "1 Johns. Ch. 436", "11 Abb. Pr. 274", "2 Daly, 288", "2 Phillips 10", "3 Daly, 529", "3 Johns. Ch. 347", "5 Daly, 288", "5 Daly, 293"]
+---
+
+# In re Page
+
+## Majority (Charles P. Daly, Chief Justice.)
+
+Charles P. Daly, Chief Justice.
+Where an unobjectionable person has been appointed by the referee, it is not the practice of the court to disturb the appointment, upon the ground that a relative ought to have been selected, or the converse, or that a better selection from among the persons named might have been made. The selection of the committeeby the referee is a matter of judicial discretion, with which the court should not interfere, unless-he has selected an improper person or one who is disqualified, or one whose situation is such as to warrant the belief that the interests confided to him may not be properly, attended to. Creuze v. Bishop of London, 2 Brown’s C. C. 253; Thomas v. Dawkins, 3 id. 508; id. 1 Ves., jr. 452; In the Matter of The Eagle Iron Works, 8 Paige, 386.) These were cases of the appointment of a receiver, but the rule is the same in respect to the appointment of a committee of a lunatic. (Lady Mary Cope's Case, 1 Eq. Ca. Ab. 277 s. d. 3; s. c. 2 Ch. Cas. 239; In re Lord Bangor, 2 Molloy, 519.)
+If the referee had, in the exercise of his discretion, selected Mr. Olin instead of Mr. Keen, there would be no ground for-interfering; but it is evident from the referee’s opinion, that he exercised no discretion as respect to Mr. Keen; that, being a first cousin of the lunatic, he regarded him as excluded from appointment as a committee under,'as he said, the principle of the decision of this court. (Matter of Owens, 2 Daly, 288.) It was certainly not my intention to hold in that case-that a relative who may be pecuniarily benefited by the lunatic’s death is disqualified from being appointed the committee of his estate, but, in looking at the language I used, I can see that it maj"- have conveyed that impression and misled. I meant to say that the court would exercise circumspection and care in appointing those who might be benefited by the lunatic’s death, and whose interest and disposition it might be to lessen his comforts that bis estate might be-diminished as little as possible; not, however, that they were disqualified; which would have been disregarding a long line-of cases in which relatives have been appointed from Justice Dormer's Case (2 P. Wm. 263) down to the present day. The rule is not that the relatives are to be preferred to strangers, nor strangers to relatives, but that the court in the particular case is to do that which is best for the lunatic, keeping in view the possibility of his recovery. ' “ It is his benefit and comfort I am to take care of,” said Lord Macclesfield, in Justice Dormer's Case, “ and not to heap up wealth for the-benefit of his administrators, or next of kin.’’ Where the custody of the person and estate is to be united in the same committee, a relative may take much more interest in looking after the lunatic’s welfare and comfort, and feel more sympathy for him than a stranger would do. But whether a relative or a stranger' is to be preferred should be determined in the particular case, in view of all the circumstances, and not by the application of any general rule, for there is none, except that heirs or next of kin are not disqualified, if the court or its officer, in the exercise of a sound judicial discretion, think proper to appoint one.
+Mr. Olin is a gentleman known to the court, and one in every way qualified for the discharge of such a trust, and I feel very reluctant to interfere with his appointment. It is, however, said in the refere e’s opinion, that no question was raised at the hearing as to the integrity, capacity, or fitness of either of the gentlemen named ; and, as a large number of the relatives desired the appointment of Mr. Keen, it may be, for all that we know, that the referee, in the exercise of his discretion, would have appointed him, had he not considered him disqualified under the construction which the referee' gave to our decision in the Matter of Owens. I think, therefore, that it will be better to refer the matter again to the referee, that he may be at liberty to select Mr. Keen, if, in the exercise of his discretion, he thinks it more judicious to do so.
+Van Hoesen, J., concurred.
+Ordered accordingly.
