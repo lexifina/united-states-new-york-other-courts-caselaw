@@ -1,0 +1,25 @@
+---
+court: "Brooklyn City Court"
+decided: "1889-11-25"
+citations: ["27 N.Y. St. Rep. 49"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Hourney, Resp’t, v. The Brooklyn City R. R. Co., App'lt."]
+source_url: "https://static.case.law/ny-st-rep/27/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2030551
+cites_cases: ["47 N. Y., 282", "87 N. Y., 63"]
+---
+
+# Hourney v. Brooklyn City R. R. Co.
+
+## Majority (Clement, Ch. J.)
+
+Clement, Ch. J.
+It was conceded at the trial that the plaintiff was a passenger on one of the cars of the Flushing avenue line of the defendant, and it was also conceded that the car on which plaintiff was riding collided with a car of another line, which crossed Flushing avenue at right angles, and it was further admitted that the plaintiff sustained injuries as the result of the col-lision. The main question of fact, which, was sharply litigated at the trial, was as to the position of the plaintiff when the collision occurred. Hourney testified that he first got upon the rear platform, and finding it crowded went to the front of the car, and that when the cars were about to come together he was standing on such platform near the dashboard, that he was crowded by the other passengers, and that, in order to save himself from falling off the car, he threw himself round so that one foot rested on the rod in front of the dashboard, with the result that he was crushed between the two cars. On the other hand, the theory of the company on the trial was that the front platform was crowded and that the plaintiff was not riding there, but upon the guard-rail in front of the dashboard, and with his back to the horses. Other questions of fact arose in the case which will be referred to hereafter.
+The verdict of the jury is conclusive that the plaintiff was riding on the front platform and not upon the guard rail in front of the car. The plaintiff was contradicted by the conductor, who was corroborated by the testimony of one Felton. We have, therefore, a case where there was one witness for the plaintiff and two for the defendant. The verdict on this question was clearly not against the weight of evidence. The jury believed the testimony of the plaintiff rather than that of the driver and Felton. There was a witness for plaintiff, Holland, the driver of the Throop avenue car, who partially corroborated the testimony of plaintiff, but it is claimed by the defense that he so contradicted himself that no credit should be given to him. Without passing-on this point, it is sufficient to say that, without his testimony, the question whether plaintiff was riding on the platform or on the guard-rail was one of fact, and for the jury.
+Assuming, therefore, that plaintiff was riding on the front platform, there was testimony tending to show that the driver of the Flushing avenue car was grossly negligent, and there was also testimony tending to show that there was no negligence on his part. The driver admitted that he heard the bell of the other carat a distance of twenty-five or thirty feet; that he knew that the bell was on a car of a line crossing at right angles. It was argued that the morning was foggy, and for that reason it could be fairly argued to the jury, on behalf of the plaintiff, that the driver was bound to exercise greater care, for the reason that he could not see another car until he was very near to it. Fog or no fog, it would seem, on the driver’s testimony, that the jurors could find him negligent, because he admitted that he heard the other car -at a distance of twenty-five or thirty feet, and did not stop in time to prevent a collision so severe as to crush the leg of a passenger. There was also testimony that the car of the defendant’s line was driven at a rapid rate of speed, which fact alone, in view of the fog, was sufficient evidence of the negligence of the driver to require the submission of the question to the jury.
+It was not negligence per se for the plaintiff to ride on the front platform, within the authorities, Nolan v. Brooklyn City & Newtown R. R. Co., 87 N. Y., 63, and cases there cited, and the only other question raised in the points for the appellant are exceptions to refusals to charge and to modifications of requests. We have examined each exception to which our attention has been called, and we see no error. There were twenty-seven requests to charge on the part of the defendant; some were pertinent to the issue ; others were theoretical, as, for example, the fifteenth, which was charged, viz.: “ That the defendant is not responsible for the foggy condition of the weather or its effect upon its rails at the time of the accident.” Applying the rule laid down by Chief Judge Church in Caldwell v. New Jersey Steamboat Co., 47 N. Y., 282, 286, we think that the appellant has no reason to complain of the instructions given by the learned trial judge.
+Judgment and order denying new trial affirmed, with costs.
+Van Wyck, J., concurs.
