@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-01-15"
+citations: ["4 N.Y. St. Rep. 750"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Maud Watson, an Infant, App’lt, v. John D. Phyfe et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/4/cases/0750-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1981114
+---
+
+# Watson v. Phyfe
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The exceptions presented for review in this case are numerous and some of them perhaps well taken, notably the exceptions taken during the examination of Mr. Herrick and some of those taken upon the exclusion of hypothetical questions. The views of the respective counsel have been elaborately expressed and the examination of the record in its various complications has been examined, re-examined and sifted. The impression which remains after that process is that the issues herein, particularly as to the mental competency of the testator to make a will, should have been submitted to the jury. After the will and codicil were offered in evidence the plaintiff began an assault upon their validity, and upon the ground particularly that the testator was incompetent. Many witnesses were examined, including two experts, and the opinion expressed founded upon the conduct, conversation, demeanor, opinions and peculiar theories of the testator that he was irrational. The experts declared their opinion to be that he was insane, upon elements presented to them in hypothetical form. It is true that their opinions were modified to some extent by the cross-examination to which each was subjected; but there still existed the facts springing from all the evidence on behalf of the plaintiff that the conduct of the testator was irrational, and in the opinion of the experts that he was insane. It is true that the peculiar, if not extraordinary acts, declarations, theories and convictions of the testator were by some of the witnesses described as events occurring some time prior to the making of his will, which was executed in October, 1879; but they were observed as distinguishing characteristics by other witnesses for a period later and up to the time the will was made and subsequently. It may be that all these manifestations of a wayward mind were overcome by proof of the successful business habits of the testator, which were shown chiefly on the cross-examination of the plaintiff’s witnesses, but that was for the jury to determine after a proper consideration of all the evidence given before them; and this, although the more modern rule will be applied, which requires the dismissal of the complaint if the evidence be so slight or of such a character on the main issue that it would be the duty of the trial court to set aside a verdict rendered and resting upon it. When it is difficult to draw the line between the dismissal of the complaint and the submission of the issues to the jury, it is the better course to ask their judgment. The condition of the evidence should leave no doubt of the failure of the plaintiff to establish the claim, and if there be a conflict that the responsive proof is full, complete and certain. Here there was a conflict. The three witnesses called by the defendants to establish the testator’s sanity when the will was executed were met by facts and circumstances and by witnesses, laymen and experts, assailing the correctness of their views. The defendants gave no proof when the plaintiff rested. Their learned counsel, indeed, asked the court to direct'a verdict for them and the request was complied with. It might be advisable to consider the propriety of some of the questions excluded, but it is not deemed best to do so, inasmuch as the next trial, if another take place, may present no exceptions kindred to those in the record.
+The judgment of this court is therefore that a new trial should be ordered, with costs to abide the event.
