@@ -1,0 +1,29 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1887-02-07"
+citations: ["14 Daly (N.Y.) 166", "6 N.Y. St. Rep. 232"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emma B. Smith, Appellant, against Alexander C. Chenoweth, Respondent."]
+source_url: "https://static.case.law/daly-ny/14/cases/0166-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 915479
+cites_cases: ["11 C. B. 447", "11 C. B., 447", "11 Daly 278", "11 Daly, 278", "22 Hun 493", "31 Hun 219", "31 Hun, 219", "35 Hun 141", "35 Hun, 141", "8 Daly 183", "8 Daly, 183", "96 N. Y. 660", "96 N. Y., 660"]
+---
+
+# Smith v. Chenoweth
+
+## Majority (Per Curiam.—[Present, Larremore, Ch.J., Allen and Bookstaver, JJ.])
+
+Per Curiam.—[Present, Larremore, Ch.J., Allen and Bookstaver, JJ.]
+—The plaintiff’s complaint set up three causes of action. The defendant demurred. The demurrer as to the first and second causes of action was overruled, and was sustained as to the third cause of action. Issue was joined upon the first and second causes of action, and the plaintiff recovered judgment on May 28th, 1886, for the sum of $307.72, including $101.26 costs. Judgment was entered in defendant’s favor on demurrer to the third cause of action on the 2d day of March, 1886. From this judgment an appeal was taken to the General Term of the City Court, and the judgment below was affirmed with costs on the 28th June, 1886. Judgment was entered, on this affirmance on the 6th day of July, 1886, awarding the defendant $76.02 costs. Subsequently the court at Special Term ordered the judgment of $76.02 costs on appeal in favor of defendant and against the plaintiff, to be set off in reduction of the plaintiff’s judgment of $307.72. This order was appealed from, and was reversed by the General Term of the City Court.
+The set-off sought here is of costs incurred in the same suit. It is well established that a judgment in one action cannot be set off against a judgment in another action, to the injury of the attorney. This is not what is asked for in this case.
+The costs which accrue in an action, whatever their character may be, are not the property of the attorney: they belong to the party. The attorney has a lien upon them for his compensation. Whether an attorney’s lien for costs is superior in equity to the rights of a party to set off one judgment of costs against another in the same action, is the question presented. There is conflict of authorities upon the subject. We are controlled by the decision of the General Term of this court upon the precise question involved in this case.
+In Hoyt v. Godfrey (11 Daly 278), it was held "that interlocutory costs, allowed to the defendant, might be set off against a judgment rendered in favor of the plaintiffs in the same action, notwithstanding a promise by the party to whom the costs were awarded that they should belong to his attorney. This rule is well supported in Sanders v. Gillett (8 Daly 183); Warden v. Post (35 Hun 141); and Catlin v. Adirondack Co. (22 Hun 493). And it is also in accordance with the English rule as stated in Chitty’s Archbold (vol. 1 p. 110) : “ It [the lien] extends only to the balance which is ultimately to be paid over to the client upon the general and final result of the cause. Whatever costs may be due to the opposite party in the particular ease, whether they are costs of special issues found for him, or of interlocutory proceedings, he has a right to deduct them without. regard to the amount which may be due from the client to the attorney” (see Scott v. Richebourg, 11 C. B. 447). We think this is the fair rule, and the one calculated to produce the least injustice.
+The rule in a case like the one under consideration may be safely stated to be this: The costs do not primarily belong to the attorney; he has a lien upon them for his compensation, and to that extent he is regarded as an equitable assignee of the judgment. Bút where the costs are recovered in one action, the equities of the parties are superior to the lien of the attorney, and a set-off may be ordered, the lien only attaching to the balance remaining in favor of the client.
+In the case of Tunstall v. Winton (31 Hun 219), it was held that the costs of a successful appeal legally belonged, without any ■ assignment, to the defendant’s attorney, and that they could not be set off against the general costs awarded to the plaintiff; although in Garner v. Gladwin (12 Week. Dig. 10), the same court held that where damages and costs were recovered in the same action, the plaintiff was entitled to insist upon the set-off of one against the other, xxnless an assignment had been previously made to the attorney, transferring to him a paramount right to demand and collect such costs.
+The case of Tunstall v. Winton is referred to in the court below as controlling, on the ground that the decision has been affirmed by the Court of Appeals (96 N. Y. 660). It is also quoted elsewhere as having been affirmed in the Court of last resort. From the statement of the attorney for the unsuccessful party in the appeal, annexed to the appellant’s brief, and from an examination of the printed cases on appeal in the cases of Tunstall v. Winton, reported in 96 N. Y. 660, it appears that the decision in that case, reported in 31 Hun, at p. 219, was never taken to the Court of Appeals, and that the cases in 96 N. Y. 660, are the cases of Tunstall v. Winton, reported in 31 Hun, at pp. 222 and 231.
+We are of the opinion the order is appealable to this court (Code Civ. Pro. § 3191 subd. 3).
+We think'the order of the General Term appealed from " should be reversed, and the order of the Special Term affirmed, with costs of appeal.
+Order of General Term reversed, and order of Special Term affirmed, with costs.
