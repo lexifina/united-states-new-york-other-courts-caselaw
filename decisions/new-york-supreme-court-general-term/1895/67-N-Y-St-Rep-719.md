@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-05-04"
+citations: ["67 N.Y. St. Rep. 719"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of Syracuse, App’lt, v. Richard M. Stacey et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/67/cases/0719-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2113283
+cites_cases: ["67 St Rep. 704"]
+---
+
+# City of Syracuse v. Stacey
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Inasmuch as we have reached the conclusion at this term, for the reasons stated in the opinion of Hardin, P. J., in City of Syracuse v. Stacey, 67 St Rep. 704, that the order of confirmation and the judgment of the special term appointing commissioners should be reversed, and the appraisal vacated and set aside, it follows as a sequence that the order awarding costs to-the respondents against the plaintiffs, and an extra allowance, in so far as *it is appealed from, should fall and be vacated.
+Order, so far as it awards costs and an extra allowance to any of the respondents against the plaintiff, vacated and set aside.
