@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-05"
+citations: ["67 N.Y. Sup. Ct. 175"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["PRAtt, J. concurred."]
+parties: ["HENRY F. KEENAN, Appellant, v. JOSEPH G. BIRD and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/67/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2378127
+cites_cases: ["87 N. Y., 327"]
+---
+
+# Keenan v. Bird
+
+## Majority (Barnakd, P. J.:)
+
+Barnakd, P. J.:
+On the 14th day of May, 1889, the defendants by a written agreement under seal, covenanted to convey a title to certain premises particularly described in the complaint. The deed was to be delivered on the 14th of June, 1889. One hundred dollars was paid on account of the purchase-price, and the balance, $5,900, was to be paid at the delivery of the deed to plaintiff. Before the time for the delivery of the deed the plaintiff caused a survey to be made of the land and found that the description in the contract contained a trifle over forty-eight and a-half acres. The contract contained no detailed description, but referred to the deed thereof given by the sheriff upon a .foreclosure sale thereof in 1862, with a specific reference to the record of the deed in the register’s office of Westchester county. This deed was in the possession of plaintiff’s attorney before the contract was'executed, and the contract was drawn from it. The sheriff’s deed gave a general description of the land mainly bounded by the premises of adjoining properties “ containing, by estimation, sixty acres, be the same more or less.” The contract drawn by plaintiff’s attorney contains a still more general description of the land, but refers to the sheriff’s deed for a more particular description, and states the amount of land to be “ aboxit sixty acres more or less.” The representation made by the owners was that the sheriff’s deed “ called for sixty acres of land.” “ That the property overrun that amount and they considered it to contain about sixty-seven acres.” The land was a very irregular piece of land.
+There is nothing in the case to justify a finding of fraud. The vendors sold by the piece, and the statement of quantity in the sheriff’s deed was accurately given as well as tlie deed itself for examination of title. The negotiations were all conducted on this deed and its accuracy of description and its estimates of quantity. The finding, that there was no fraud was right.,
+Is the plaintiff without relief % The contract was not executed and the parties were mutually mistaken as to quantity. The variance is so marked and the purchase being of agricultural land, that the case seems to be covered by Paine v. Upton (87 N. Y., 327). Words such as “more or less” or “ containing by estimates” certain-quantities, do not deprive a vendee of relief where the variance is. so material as to show that the risk of quantity was not one of the-elements of the contract. The evidence shows clearly a mutual mistake in the case, and that the land was purchased-for agricultural purposes, and that the deficiency is so great that it would be inequitable to the vendee to compel him to bear the loss.
+The judgment should, therefore, be reversed and a new trial granted, costs to abide event.
+PRAtt, J. concurred.
+Judgment reversed and new trial granted, costs to abide event.
