@@ -1,0 +1,40 @@
+---
+court: "New York Supreme Court"
+decided: "1899-11"
+citations: ["2 Liquor Tax Rep. 188", "29 Misc. 443"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moses McMullen, Plaintiff, v. Elmer E. Berean, as Town Clerk of the Town of Marlborough, Ulster County, New York, Defendant."]
+source_url: "https://static.case.law/liquor-tax-rep/2/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1293624
+cites_cases: ["26 Misc. Rep. 220", "29 Misc. 443", "3 App. Div. 103"]
+---
+
+# McMullen v. Berean
+
+## Majority (Betts, J.)
+
+Betts, J.
+This is an action brought to restrain the defendant as town clerk of the town of Marlborough, Ulster county, from printing and distributing certain ballots submitting to the electors of said town at the general election to be held November 7, 1899, the four questions authorized by section 16, chapter 398 of the Laws of 1899, known as the local option clause of the Liquor Tax Law.
+A preliminary injunction was granted returnable at a Special Term of the Supreme Court at Newburgh to-day, but by stipulation of parties the matter was brought on before this court at Special Term.
+It is claimed in behalf of the plaintiff: First, that the petition for the submission of this question was not filed with the county clerk as required by the statute; second, that the petition was not filed with the town clerk within the time specified by the statute, and third, that the petition filed with the town clerk was not properly signed and acknowledged.
+The question is submitted on meagre papers and hasty argument, and, as the election is only two days distant, a prompt decision is required.
+The plaintiff is an elector, a hotelkeeper and taxpayer in said town and claims that he will be injured as a taxpayer and in his business by the submission of this question to a popular vote if the result of such vote should be to decide.against the trafficking in liquors in said town.
+His papers disclose that several persons beside himself are engaged in trafficking in liquors in that town. The inevitable result of an illegal or unwarranted submission of this question to the electors if decided adversely to plaintiff would be a multiplicity of law suits, while its proper submission would of necessity be acquiesced in, no matter what the result.
+Although it does not clearly appear from the papers, the fact seems to be conceded that the question of “ local option ” under the Liquor Tax Law was submitted two years ago to the voters of the town of Marlborough and this is an application under the Liquor Tax Law for the second submission thereof. The result of the vote thereon at that time must also have been adverse to the cause represented by these petitioners.
+The petition in question was filed with the town clerk of the town of Marlborough on October 5, 1899. So far as appears from the papers before me it has never been filed with the county clerk of Ulster county, although it appears from the affidavit of the defendant that said petition was sent to the county clerk on November 2, 1899. This was only five days previous to election. The principal question argued before me was as to whether this petition should be filed with the town clerk or the county clerk. Section 16 of chapter 112 of the Laws of 1896, entitled “An act in relation to the traffic in liquors * * and to provide for local option,” etc., as amended by chapter 312 of the Laws of 1897, and as further amended by chapter 398 of the Laws of 1899, provides in reference to this question as follows: “The same questions shall be again submitted in the same way at the town meeting held in every second year thereafter, provided the electors of the town to the number of ten per centum of votes cast at the next preceding general, election shall, by a written petition, signed and acknowledged by such electors before a notary public or other person authorized to take acknowledgments or administer oaths and filed twenty days before such town meeting with the officer charged with the duty of furnishing ballots for the election, request such submission.”
+Apparently this is the first case arising under this division of this section of the statute as my attention has not been called to any decision thereunder, nor have I been able to find any.
+It has been held that this provision of the Liquor Tax Law is to be construed in connection with the Election Law. People ex rel. Hovey v. Town Clerk, 26 Misc. Rep. 220 The board or supervisors of Ulster county has provided, under the Laws of 1898, that town meetings in this county shall hereafter be held on the same day as the general election.
+Section 82 of the General Election Law provides as follows:
+“ Form of ballot for questions submitted. — Whenever the adoption of a constitutional amendment or any other proposition or question is to be submitted to the vote of the electors of the State or of any district thereof, a separate ballot shall be provided by the same officers who are charged by law with the duty of providing the official ballots for candidates for public office. Such ballots shall comply with the requirements for official ballots for candidates for public office, in so far as such requirements are applicable thereto.”
+Section 86 of the General Election Law provides as follows:
+“ Officers providing ballots and stationery.— The county clerk of each county * * * shall provide the requisite number of official and sample ballots, cards of instruction, * * * for the proper conduct of the election, and the canvass of the votes, for each election district in such county * * * for each election to be held thereat, except that when town meetings, city or village elections and elections for school officers are not held at the same time as a general election the clerk of such town, city or village, respectively, shall provide such official and sample ballots and stationery for such election or town meeting.” .
+It is desirable always that the electors of a town should be given the fullest opportunity of expressing their wishes upon any question which is authorized by law to be submitted to them, and courts are reluctant to restrain such action on their part.
+When, however, as in the present case, the law clearly points out the way in which proceedings must be taken by those desirous of ascertaining the will of the electors of the town the plain provisions of the law must be complied with. It is not for the courts to commend or condemn the statute but to enforce its provisions. It is plain from the reading of this statute — plain from the reading of the several statutes so briefly quoted — that this petition should be filed with the county clerk at least twenty days prior to the day of general election. This has not been done. An attempt now by the town clerk to submit this question to the electors of Marlborough would be unauthorized and unlawful.
+This requirement of the statute' that this petition shall be filed with the county clerk twenty days before election is mandatory, must be complied with, and after the time has passed, a county clerk has no right to receive and file it. Matter of Cuddeback, 3 App. Div. 103.
+This presents a different question from that Avliich would be presented if this were an attempt to restrain the printing and distributing of tickets for a town or other officer as the statute fully provides for a special town meeting if such is desired by the requisite number of electors of the town to pass upon the question of “ local option.” No one is disfranchised by this injunction nor can they be as a result of this action brought by the plaintiff.
+The view of the law I take as to the proper place for filing this petition makes it unnecessary for me to pass on the other propositions submitted in support of continuing this injunction.
+An order, therefore, may be handed up continuing the injunction during the pendency of this action.
+Ordered accordingly.
