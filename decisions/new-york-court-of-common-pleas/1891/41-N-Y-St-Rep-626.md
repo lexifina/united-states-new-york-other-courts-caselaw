@@ -1,0 +1,22 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1891-12-07"
+citations: ["41 N.Y. St. Rep. 626", "16 N.Y.S. 539"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maurice M. Sternberger et al. App’lts, v. The Manhattan Railway Co. et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/41/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2068137
+---
+
+# Sternberger v. Manhattan Railway Co.
+
+## Majority (Daly, Ch. J.)
+
+Daly, Ch. J.
+This action is brought to recover damages to the plaintiffs’ property on South Fifth avenue, resulting, as it is-claimed, from the maintenance and operation of the elevated railroad. The plaintiffs’ houses and lots were known by the street numbers 89 and 91, and 190, 192 and 194. As to Nos. 89 and 91 .damages were claimed from April 11,1885, to December SO, 1886; as to Nos. 190,192 and 194, from April 11,1885, to April 11,1888. The latter premises were purchased in 1866 by the plaintiffs Simon Sternberger and by Meyer Sternberger (under whom the other plaintiffs claim), and the former premises were purchased in 1868 by the plaintiff Simon and the said Meyer and one Enchinan, who conveyed his interest to the Sternbergers on December 21, 1883. The premises 190, 192 and 194 were leased for five years from January 1, 1884, to the Kursheedt Manufacturing Company. This lease covered the period for which damages were claimed in this action. The action was tried before a jury and a verdict for six cents damages was awarded. The plaintiffs-claim that they were injuriously affected by the instructions given by the court to the jury at defendants’ request, as follows: “ In considering whether there was any, and if any what loss of rental value to the premises Nos. 190, 192 and 194 South Fifth » avenue from the defendants’ railroad during the period in question, the jury are to consider, with all the other facts in the case, the fact that before April 11, 1885, said premises had been put under a five years lease from January 1, 1884, at a fixed rental of $6,000 a year, and that said rental must have remained the same during the whole period, even if the railroad had been taken away before April 11, 1885.” The plaintiff excepted to this instruction.
+It would seem that the lease referred to could have no possible bearing upon the question which the jury had to determine. Had the railroad been taken away during the period for which damages were claimed, the damage would have ceased and plaintiffs could not recover thereafter whether there was a lease or not - but the railroad remained in full operation during the whole time they sued for, and the fact that there was a lease covering the the whole period at a specified rental could make no difference, whatever in deciding the question submitted to the jury. The lease in question was made after the injury to the property had been inflicted by the railroad, and the rent reserved in it was, as-far as the case shows, the best that could be obtained. It would not assist the jury in arriving at a conclusion as to what loss of rental value to the premises was caused by the defendants’ railroad during the period in question, to consider the fact that during said period the premises were covered by that lease. The instruction might have led the jury into the belief that they were at liberty to find that the loss of rental value for the period shed for was due to the plaintiffs’ act in making a five years lease as well as to the continued operation of the railroad. This is forcibly suggested by the concluding clause of the instruction, “ And that said rental must have remained the same during the whole period, even if the railroad had been taken away before April 11, 1885." It was not an instruction that in estimating the loss of rents to the plaintiffs the jury might take into consideration the lease as depriving plaintiffs by their own act of the advantage of .any rise in rental value during the term, but it was an instruction that in considering whether the defendants’ railroad had caused .any loss of rental value to the premises, the plaintiffs’ act in making a lease was to be considered, and as to this, as we have said, the lease was wholly immaterial.
+It would seem, therefore, that the exception to the instruction complained of was well taken, and the judgment should be reversed and a new trial ordered, with costs to abide the event
+Bischoff, J., concurs.
