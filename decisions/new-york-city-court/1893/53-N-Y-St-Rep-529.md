@@ -1,0 +1,41 @@
+---
+court: "New York City Court"
+decided: "1893-06-19"
+citations: ["53 N.Y. St. Rep. 529", "23 N.Y.S. 1034", "4 Misc. Rep. 279"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Diglia Cassiano, Resp’t, v. Salvatore Strano, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/53/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 685750
+---
+
+# Cassiano v. Strano
+
+## Majority (McGown, J.)
+
+McGown, J.
+The only exception taken by defendant’s counsel upon the trial was the exception taken to the ruling of the trial justice in denying defendant’s counsel’s motion for a new trial after the jury had returned their verdict
+The only question, therefore, to be considered upon this appeal is that raised by the defendant’s counsel in his brief submitted, viz., whether the verdict herein was against the weight of evidence.
+The plaintiff sought to recover the sum of $800, rent in ad-, vanee, being the sum of one hundred dollars ($100) per month, for the months of March to October 1892, both inclusive, under an agreement entered into between her and the defendant herein, bearing date and executed on the 11th day of July, 1888, and which said agreement was offered in evidence.
+Such agreement, duly executed by plaintiff and defendant, was admitted in evidence and marked plaintiff’s exhibit Mo.'1, and the interest admitted to be the sum of §154.
+Plaintiff rested her case.
+Defendant’s counsel thereupon offered in evidence “ the front page of the contract had between plaintiff and defendant,” being the paper produced by plaintiff and already admitted in evidence, and marked plaintiff’s exhibit Mo. 1, which was also admitted in evidence, and marked defendant’s exhibit Mo. 1.
+By consent of plaintiff’s counsel, defendant’s answer was amended by setting up a further agreement made in relation to the same matter between the same parties, which bears date July 12th, 1888.
+Defendant’s counsel thereupon produced and presented, to Louis Canale, a notary public, a witness on the part of the defendant, a paper (and which paper bears date on the 12th day of July, 1888, and was subsequently admitted in evidence and marked defendant’s exhibit Mo. 12), who testified “That the paper was executed on the 12th day of July, 1888, at his office, 84 Centre street; and -that he saw the parties thereto execute the same. That Salvatore Strano subscribed his name, and Diglia Tuscano (the plaintiff herein), being unable to write, made her cross. ”
+Salvatore Strano, the defendant, also testified that the plaintiff on the 12th day of July was present at the witness Canale’s office. That “ she (plaintiff) signed that in my presence, she put her hand to that paper.”
+The plaintiff, after defendant had rested his case was called, and testified:
+“ I was only once at Mr. Canale’s office. One paper was signed upon that day. I was there. That is the paper which is marked plaintiff’s exhibit Mo. 1, and dated the 11th day of July, 1888, that is my mark.
+“ Q. Did you sign that paper upon the 12th day of July ? A. I never signed it only one time, I was never in Mr. Canale’s office the day after I signed the paper.”
+At the close of the testimony, the trial justice in his charge to the jury instructed them:
+“ That the plaintiff must have a verdict at your hands for at least two hundred and twenty dollars ($220), that is, if you find that the plaintiff executed this agreement on the 12th day of July, 1888, she will be entitled to $220 and no more.
+“Before you believe that she did execute this agreement, you must find so, from a preponderance of evidence on the part of the defendant; and if there is an absence of such preponderance of evidence in the defendant’s favor upon that issue, your verdict must be in favor of the plaintiff for the whole amount.”
+“ I repeat, if you believe that the plaintiff signed this paper of the 12th of July, your verdict for her can only be for $220; while, if you believe she did not sign it, your verdict must be for her for nine hundred and fifty-four dollars ($954.00).”
+Mo exception was taken to the charge, and the-jury rendered their verdict for the plaintiff for $954.
+The issues were thus presented to the jury upon contradictory evidence, and it was within the province of the jury to believe or disbelieve either the evidence of the plaintiff or of the defendant, or of any of the witnesses who testified therein, and to give such weight to the evidence of any of the witnesses as the jury in their judgment thought proper.
+In rendering their verdict for the plaintiff they evidently believed her, and did not believe the defendant and his witness, Canale, as to her executing the paper marked defendant’s Exhibit No. 12.
+If the verdict rendered by the jury may reasonably be presumed to have resulted from an honest and intelligent exercise of judgment upon their part, the court will not interfere with their conclusion.
+And in an action of this kind a verdict will not be set aside as excessive, unless it manifestly appears to be the result of passion, partiality, prejudice or corruption.
+We find no evidence of any such herein, and the judgment and order appealed from must be affirmed, with costs to the respondent.
+Van Wyck, J., concurs.
