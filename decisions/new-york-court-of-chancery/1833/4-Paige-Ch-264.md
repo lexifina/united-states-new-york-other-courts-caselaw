@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1833-10-12"
+citations: ["4 Paige Ch. 264"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["De Rivafinoli vs. Corsetti."]
+source_url: "https://static.case.law/paige-ch/4/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050469
+cites_cases: ["3 Swan. 437"]
+---
+
+# De Rivafinoli v. Corsetti
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The material facts alleged in the complainant’s bill are not denied; and for the purpose of this application, they must be taken to be true. There is an affidavit, annexed to the bill, that the defendant has declared hig intention of going to the Havanna; and the defendant has not denied such intention, although he swears he has not made any engagement to go there. Upon the merits of the case, I suppose it must be conceded that the complainant is entitled to a specific performance of this contract; as the law appears to have been long since settled that a bird that can sing and will not sing must be made to sing. (Old adage.) In this case it is charged in the bill, not only that the defendant can sing, but also that he has expressly agreed to sing, and to accompany that singing with such appropriate gestures .as may be necessary and proper to give an interest to his performance. And from the facts disclosed, I think it is very evident’ also that he does not intend to gratify the citizens of New-York, who may resort to the Italian opera, either by his singing, or by his gesticulations. Although the authority before cited shows the law to be in favor of the complainant, so far at least as to entitle him to a decree for the singing, I am not aware that any officer of this court has that perfect knowledge of the Italian language, or possesses that exquisite sensibility in the auricular nerve which is necessary to understand, and to enjoy with a proper zest, the peculiar beauties of the Italian opera, so fascinating to the fashionable world. There might be some difficulty, therefore, even if the defendant was compelled to sing under the direction and in the presence of a master in chancery, in ascertaining whether he performed his engagement according to its spirit and intent. It would also be very difficult for the master to determine what effect coercion might produce upon the defendant’s singing, especially in the livelier airs; although the fear of imprisonment would unquestionably deepen his seriousness in the graver parts of the drama. But one thing at least is certain; his songs will he neither comic, or even semi-serious, while he remains confined in that dismal cage, the debtor’s prison of New-York. I will therefore proceed to inquire whether the complainant had any legal right thus to change the character of his native warblings, by such a confinement, before the appointed season for the dramatic singing had arrived.
+From the terms of the agreement, as stated in the bill, it is evident that there can be no breach thereof until thelst of November next, when the engagement of the defendant was to commence. Even when that time arrives, the complainant will not be entitled to the defendant’s services until he shall have paid, or tendered to him, a half month’s salary in advance. A specific performance cannot be decreed, upon the present bill, because at the time it was filed, the complainant had no right 'of action against the defendant, either at law or in equity. And I believe this court has never yet gone so far as to sustain a. bill quia timet, because the complainant apprehended that the defendant might not be willing to perform an engagement for personal services; and where, from the peculiar nature of those services, they could not be performed until a future day. The writ of ne exeat is in the nature of equitable bail; and to entitle the complainant to such bail, there must be a present debt or duty, or some existing right to relief against the defendant or his property, either at law, or in equity. The writ in this case therefore" was prematurely granted; and the rule to discharge it must be made absoluto.
