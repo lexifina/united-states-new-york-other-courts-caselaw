@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1857-01"
+decided_precision: "month"
+citations: ["4 Abb. Pr. 90"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PHIPPS a. VAN COTT."]
+source_url: "https://static.case.law/abb-pr/4/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2369916
+---
+
+# Phipps v. Van Cott
+
+## Majority (By the Court, S. B. Strong, J.)
+
+By the Court, S. B. Strong, J.
+—In this case, the defendants demurred to the entire complaint. The court at special term sustained the demurrer, and ordered judgment for the defendants, unless the plaintiffs should amend their complaint and pay the costs of the demurrer within twenty days. The plaintiffs appealed from the decision as an order within the twenty days, and stayed the defendants from entering judgment. The defendants now move to dismiss the appeal on the ground that it is in terms from an order, whereas it should have been from a judgment, in which latter case essentially different proceedings would have been requisite in order to perfect the appeal.
+It is provided by the Code that an appeal may be taken from an order made at a special term, when it sustains or overrules a demurrer (§ 349, subd. 2). It is, I believe, generally admitted that where a demurrer is partial, and not to the entire complaint or answer, a decision upon it is an order within the meaning of the provision of the Code to which I have alluded. But where the demurrer is to the entire pleading, and the decision of it may result in a final disposition of the action without any further direction of the court, the question whether such decision is a judgment or order before it has become absolute, is by no means so clear, especially as the determinations of this court setting in the different districts have been variant.
+In' this district it has been decided that the primary disposition at the special term is a judgment (Lewis v. Acker, 8 How. Pr. R., 414). But it has been decided in the third district (Nolton v. The Western Railroad Corporation, 10 How. Pr. R., 97), and in the seventh district (Cook v. Pomeroy, 10 How. Pr. R., 105, 221; Bauman v. The New-York Central Railroad, Ib., 218), that such disposition is an order. Although I was one of the judges who decided the case of Lewis v. Acker, yet I am not so wedded to my own opinions as to refuse to correct them, when I am satisfied that they have been erroneous. Uniformity in our determinations is certainly very desirable, but accuracy is far more essential, and when a mistake has been committed, the sooner it is corrected the better.
+Formerly any decision of a demurrer was considered to be a judgment. But it is different under our present Code. That defines a judgment (§ 245) as “ the final determination of the rights of the parties in the action.” Bow the decision of a demurrer with leave to amend, or to substitute some other pleading within a specified time, is not a final disposition of the rights of the parties involved in the action until that time has expired. It is a permission to the prevailing party to enter such judgment if his opponent shall fail to amend. In such case, no judgment can be entered until the time has expired. If the failing party elects to amend, there can be no judgment at all. At the most, then, it is a defeasible order for a judgment. When there is an actual judgment, it must be entered in the judgment-boob, and it shall specify clearly the relief granted, or other determination of the action (Code, § 280). Of course, this cannot be done until the leave to amend has become inoperative. No appeal can be taken from a judgment at special term until it has been entered (§ 348). All former laws relative to appeals and writs of error antecedent to the Code are thereby abolished, and the only method of reviewing a judgment or order in a civil action is such as is prescribed by, and incorporated in that body of legislation (§ 323).
+Bow, if the unsuccessful party on the decision of a demurrer, cannot appeal from it as an order, he must necessarily wait until the judgment has been actually entered, and he must then have forfeited his right to amend by the lapse of time. Why should the right to appeal be thus restricted ? It has been said that the appeal might, if it should suspend the time for amending, be productive of vexatious delay, where that is the main object of the appellant. But the appellate court might, if satisfied that the appeal was frivolous or interposed for delay, so far modify the primary decision as to make it absolute; and, if not, there can be few general remedies which would not operate hardly in particular cases.
+Where there is a direction for a judgment by reason of the frivolousness of a pleading, there is a final determination of the rights of the parties within the meaning of the Code, and it is nowhere reduced to the class of orders. This court was therefore right in characterizing the determination, in such cases, as a judgment and not an order (Bruce v. Pickney, 8 How. Pr. R., 397).
+The motion to dismiss this appeal should he denied, hut without costs.
