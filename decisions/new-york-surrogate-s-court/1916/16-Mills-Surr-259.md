@@ -1,0 +1,20 @@
+---
+court: "New York Surrogate's Court"
+decided: "1916-02"
+citations: ["16 Mills Surr. 259"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Fannie M. Lothorp, Deceased (Claim of E. Ruth Varney)."]
+source_url: "https://static.case.law/mills-surr/16/cases/0259-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1094227
+---
+
+# In re the Estate of Lothorp
+
+## Majority (Fowler, S.)
+
+Fowler, S.
+—This is a proceeding to determine the validity of a claim filed hy E. Ruth Varney against the estate of the decedent for the sum of $332. The alleged-claim is for railroad fare expended by the claimant in coming from Oshkosh, Wis., to ¡New York, and services rendered by her to the decedent. For some time prior to the date of decedent’s death she had corresponded with the claimant, and in September, 1912, when acknowledging the receipt of flowers sent to her by the claimant, she suggested that the claimant come to Few York. The claimant came here about the middle of October, 1912, and lived at the home of the decedent for about nine weeks. She had visited the decedent in 1910 and remained with her about a month. The claimant alleges that she assisted the trained nurse who was in attendance upon the decedent and that the decedent told her she would be repaid for her services. The claimant is a music teacher and not a trained nurse. There is no corroboration of the alleged conversation between the claimant and the decedent in regard to paying claimant for her services. The friendly relations existing between the decedent and the claimant,, as evidenced by the latter’s visit at the home of the decedent in 1910, as well as the fact that the claimant did not-render any services in a professional capacity, lead me to believe that neither the decedent nor the claimant intended tj/at any service performed by the latter while visiting at the hom'e of the decedent should be the subject of monetary remuneration! This conclusion receives additional force from the fact that the claimant did not present her claim against the decedent’s estate until nearly two years after decedent’s death. While I feel that the claimant is not entitled to recover compensation for any services alleged to have been rendered to the decedent, I think it was the intention of the decedent to compensate her for the railroad expenses incurred in coming to Hew York. This amounted to $62, and I will allow the claim to that extent, but dismiss it as to the balance
+Decreed accordingly.
