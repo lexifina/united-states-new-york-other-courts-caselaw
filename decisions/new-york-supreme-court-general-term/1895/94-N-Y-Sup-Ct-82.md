@@ -1,0 +1,66 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-05"
+citations: ["94 N.Y. Sup. Ct. 82"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown, P. J., concurred in the result."]
+parties: ["John Sutherland, Respondent, v. The City of Brooklyn, Appellant, Impleaded with Others."]
+source_url: "https://static.case.law/ny-sup-ct/94/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4785925
+cites_cases: ["54 N. Y. 606"]
+---
+
+# Sutherland v. City of Brooklyn
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+This suit was brought to recover surplus money arising from a sale of a lot of land in the city of Brooklyn.
+The cause was tried before a judge without a jury. His decision was in favor of the plaintiff, and the defendant has appealed from the judgment entered thereon.
+The facts essential to an understanding of the case are these : On the 11th day of April, 1876, Eliza Richardson was the owner of the lot which produced the surplus involved, and on that day she executed a mortgage thereon, in conjunction with her husband, to the plaintiff to secure the payment of $4,200. Both of the mortgagors are now dead, and nothing has ever been paid on the mortgage.
+On the 11th day of July, 1888, the premises were sold for arrears of taxes to John G. Byrne for $3,500. That sum was $3,407.47 above the amount due to the city for taxes, the sum so due for taxes being $92.53.
+A certificate of such sale was thereirpon issued to John G. Byrne, who afterwards assigned the same to John McNamara.
+Notice of such sale was served upon the plaintiff on the 2d day of November, 1888.
+Thereafter, and on the 19th day of August, 1889, the property was redeemed from such sale for taxes by S. J. Tormey for John G. Byrne by the payment to the registrar of arrears for the use of John McNamara the sum of $1,082.98, that being the amount paid by the purchaser Byrne at the sale and ten per cent thereon, with interest on the aggregate amount at the rate of fifteen per cent and the expenses of the notice served upon the plaintiff, minus the amount of surplus money received upon the sale for taxes, which was then in the hands of the treasurer. That sum of $3,407.47 was allowed and credited to the person redeeming in pursuance of the statute.
+Then on the same day, August 19, 1889, all the money remaining in the hands o'f the treasurer or in the possession of the city to the credit of such tax sale was paid over to John McNamara.
+The statement in figures is-this:
+The property sold for...... ,500 00
+Ten per cent on that sum.. 350 00
+Interest at fifteen per cent. 638 45
+Service of notice......... 2 00
+Total........................................ $4,490 45
+Amount paid to redeem................. $1,082 98
+Surplus............................... 3,401 41
+4,490 45
+The plaintiff has been in possession of the premises as mortgagee for many years, and on the 21st day of October, 1889, he made a demand upon the city for the payment to him of the surplus arising from the sale for taxes. The demand did not receive compliance, and this suit was brought for the recovery of the money.
+The action is prosecuted upon the assumption of the illegality of the redemption, because it was in the interest of the purchaser or his assignee, who had no right to receive credit for the amount of the surplus.
+Then, upon that theory, the plaintiff builds his claim, that the surplus should have remained in the possession of the city to his credit, and for his benefit as mortgagee.
+The plaintiff can claim no other or greater rights in the premises in question than such as pertain to a mortgagee in possession. He had no attribute of ownership in the land, and no title or estate therein whatever. He has the right to remain in possession until the amount due upon his mortgage is paid.
+The following extract from the opinion of the Commission of Appeals in the case of Trimm v. Marsh (54 N. Y. 606) states the law upon the subject with great force and perspicuity : “ Before taking possession the mortgagee has no title jn the lands. How can the mere possession change the title from the mortgagor to the mortgagee, or in any way diminish the estate of the one or enlarge the estate of the other ? Before taking possession the mortgagee had a mere lien upon the real estate pledged for the security of his debt. After possession he has in his possession the property pledged as his security, the title remaining as it was before. The mortgagor’s title is still a legal one, with all the incidents of a legal title, subject to the pledge, and the mortgagee’s interest is still a mere debt, secured by the pledge. If the mortgagee should die in possession the debt would still go to his personal representatives, to be administered as personal estate, and the mortgagor’s title would go to his heirs. Payment, or even tender, would destroy the mortgagee’s right to retain possession, and would enable the mortgagor to maintain ejectment to recover possession. The mortgagee in such case, so far from having any title, holds the land as the land of the mortgagor,, and is liable to account to him for the rents and profits.”
+If, therefore, we assume that the redemption of the premises was invalid, the assumption will not benefit the plaintiff.
+If he had no title in the land it is difficult to see how he acquired or had any title tp the surplus arising from the sale of the land.
+The claim of the plaintiff is that he owned the surplus, and that it was held in trust for him by the ¿ity, and he must recover upon that theory or fail.
+The provision of the statute is that all moneys paid to the registrar of arrears upon sales for taxes shall be deposited by him with the treasurer of the city of Brooklyn, and the surplus, if any, “ shall be held for the use of, and paid over to the person legally entitled, upon his establishing his rights thereto.” (Laws of 1888, chap. 583, tit. 8, § 6.)
+It thus appears that the surplus in this case was held for the use of the person entitled thereto, and the plaintiff must establish his right to the money before he is entitled to recover it.
+We have already seen that he had no title to the land, and it must follow that he had no estate or property in the surplus which was the proceeds of the land. He never had any right or interest in tbe land except such as was secured by his mortgage, and that gave him a lien only.
+The most favorable position, therefore, which the plaintiff can claim to occupy is that of mortgagee; and, as he could not recover the property covered by his mortgage, it is difficult to see how he can recover the proceeds of a sale thereof.
+There is another reason why the plaintiff cannot recover upon the case presented by this appeal.
+As mortgagee in possession the plaintiff can retain the premises until his mortgage debt has been j>aid and no longer, and he is liable to account for the rents and profits. He has been in possession for twenty years, and the rents and profits during that period may have been sufficient to discharge the mortgage. At all events it does not appear that they were insufficient; and, therefore, it is not proven that there is anything due upon the plaintiff’s mortgage.
+Moreover, this suit was unnecessary; the statute has furnished the plaintiff with a remedy which will protect him and the city also. There has been no deed delivered to the purchaser at the sale of the premises, and the plaintiff, as mortgagee, has the right to redeem the land at any time before a deed has been delivered. (§ 5, title 8, chap. 583, Laws of 1888.)
+That is upon the theory that there has been no redemption; and if there has been a regular redemption, of course the plaintiff cannot recover in any view.
+In any view, the judgment works injustice, for under it the plaintiff receives the money upon his mortgage from the city, and also holds it for the full amount against the property.
+The judgment should be reversed and a new trial granted, with costs to abide the event.
+
+## Dissent (Cullen, J.:)
+
+Cullen, J.:
+This case is a peculiar one. It could not arise except where the tax purchaser discovered that he bought the property at too high a price. I am not prepared to say that in such a case the owner or parties interested in the land may not insist that the sale should stand, and take the surplus arising on the sale instead of redeeming the property. If this view be correct, the owner’s right to an election could not be defeated by an unauthorized redemption by a stranger.
+I dissent from so much of the opinion of Justice Dykman as holds that the plaintiff, being only a mortgagee, is not a person legally entitled to the surplus under the charter provisions. The taxes were paramount to the lien of his mortgage. In Brooklyn, where a sale is made of the fee, a tax sale would divest the plaintiff of his lien on the land, but such lien would as plainly attach to the surplus arising on the sale as in the case of a sale under a prior mortgage.
+But I concur in the result reached by my associate on two grounds: First. The sale has not yet become absolute and may never become such. It appears from the complaint that some of the owners of the fee are infants. They have not been served with notice of the sale and have no guardian. Under section 1, title VIII, charter of 1888, even had notice been served, their right to redeem would not expire till one month after arriving at age or the appointment of a guardian of their estate. The plaintiff cannot defeat their right to redeem, and until the time for redemption lias expired the surplus must be retained by the city, to be credited upon a redemption, as prescribed by the charter.
+Second. Even if all parties interested in the land had affirmed the sale, a recovery could not be had against the city for the surplus except on condition of a conveyance to the city of the land sold. The action to recover the proceeds ■ of the sale of the land would plainly be inconsistent with any claim to the land itself.
+The judgment should be reversed and a new trial ordered, costs to abide event.
+Brown, P. J., concurred in the result.
+Judgment reversed and new trial granted, costs to abide the event.
