@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Chancery"
 decided: "1822-02-04"
-citations: ["6 Johns. Ch. 33", "6 Johns. Ch. 36"]
+citations: ["6 Johns. Ch. 33"]
 reporter: "johns-ch"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
