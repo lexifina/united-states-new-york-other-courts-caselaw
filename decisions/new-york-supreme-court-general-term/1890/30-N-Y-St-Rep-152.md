@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02-10"
+citations: ["30 N.Y. St. Rep. 152"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lewis E. Waterman and The L. E. Waterman Company, App’lts, v. Edward L. Shipman et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669231
+cites_cases: ["47 N. Y., 423", "93 N. Y., 59"]
+---
+
+# Waterman v. Shipman
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+This action is brought to protect the use of a trade-mark adopted by plaintiff, L. E. Waterman, who is a manufacturer and seller of a fountain pen. The trade-mark consists of the words “Waterman’s Ideal Fountain Pen” stamped upon- the pen. The Waterman company have a right to sell pens of the L. E. Waterman manufacture. The defendants have both manufactured and sold a pen similar in general respects to the one manufactured and sold by Waterman and the Waterman company, and have stamped upon the article the same words or device as that used by the plaintiff. The case would he a plain one but for the facts. 1st The pen is a patented article and under the name of “Waterman’s Ideal Fountain Pen.” 2nd. L. E. Waterman was the patentee and he transferred the patent to his wife. She, while she was the owner, on the 20th of November, 1884, gave the exclusive right to manufacture under the patent, and on the 25th of November, 1885, she with her husband. borrowed money of Asa Shipman on a pledge of the patents subject to the license to manufacture. This license required a royalty for every pen manufactured to be paid the owners of the patent and monthly returns by the licensees to the owner, and for neglect to return or make payment within ninety days thereafter the owner had the right to cancel the license by notice.
+The note given by Mrs. Waterman and her husband was not paid. The owner commenced suit upon it, obtained judgment and got a receiver of the property of the debtors. There was a default in making returns and a default in payment and Asa Shipman gave notice to Waterman to terminate the license to manufacture them, and then conveyed the right to manufacture as owner of the patent to the defendants as licensees under him. These facts show that the plaintiffs manufacture a protected article under the patent name, and any one who has a right to manufacture the patented article may use the patent name of the article without being technically liable to an action for infringement of the rights of another manufacturer of the same article under the same patent. Selchow v. Baker, 93 N. Y., 59.
+The default in payment made the assignment absolute in Ship-man and unless he receives the money on the loan subsequently the title continues absolute, except by a bill to redeem. West v. Crary, 47 N. Y., 423.
+This court would have no jurisdiction of an action for an infringement of a patent, but the title to the right could be determined in a state court. The defendants are not therefore liable for a violation of the plaintiff’s right in respect to the trade-mark, and the judgment should be affirmed, with costs.
+Dyksian, J., concurs.
