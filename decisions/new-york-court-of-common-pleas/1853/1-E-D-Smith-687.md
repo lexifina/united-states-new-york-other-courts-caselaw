@@ -1,0 +1,31 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1853-05"
+citations: ["1 E.D. Smith 687"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Abel Tinker v. James Geraghty."]
+source_url: "https://static.case.law/ed-smith/1/cases/0687-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1280571
+---
+
+# Tinker v. Geraghty
+
+## Majority (By the Court. Woodruff, J.)
+
+By the Court. Woodruff, J.
+In this case the appellant insists that the notice of claim, filed with the county clerk, is defective, because it does not sufficiently state that the building is situated in the city and county of New York. The notice is addressed in terms to the clerk of the “ city and county of New York,” and states that the building is situated “in 85th street, between the 4th and 5th avenues.” Although this notice may be deemed to lack precision, and to require a reference to the address to the clerk of the county to make it plain that the building is within the county; yet this reference, together with a knowledge of the act under which it is filed, and in connection with which it may be read, could leave no doubt on the mind of any one of the true location of the building ; and if we do not approve of a notice so loosely given, we deem the spirit and intent of the statute so far complied with, that we would not reverse the judgment for this cause.
+2d. The appellant insists that the notice is defective in not stating “ when the lien was filed.”
+If by this is meant that the notice filed with the county clerk does not state when it was filed, the obvious answer is, that the time of filing could not be stated until it was done, and there was neither propriety nor necessity of stating when it would be filed.
+The respondent’s counsel supposes that the above objections are applied by the appellant to the notice to appear before the justice. Probably this is what the appellant intended, though his argument is not very specific. If so, it will be sufficient to say, in reference to both of the objections, that the notice to appear and answer is governed by section 4th of the statute, which does not require that it shall state when the notice was filed with the county clerk; nor that it shall (as also insisted by the appellant in his argument) state when the labor was performed. The time when the labor was performed must appear on the trial; and it must appear then that the notice of claim was filed within six months next ensuing the performance, &c. And that was shown in this case by the appellant’s admission, that the work, &c., was done under the employment of a contractor, whose contract was made in August, and the notice of claim was shown to have been filed in October.
+As to the first objection above noticed, if that be alleged as showing the notice to foreclose to be defective, it must suffice to say that this notice should contain a sufficient reference to the alleged lien; and if it be at all necessary to describe the building, otherwise than by a reference to the creation of the lien, which is, of course, by filing a notice with the clerk, the remarks above made, in relation to the notice in fact filed, are sufficient to dispose of this objection.
+3d. The evidence fails to satisfy us that any thing was due to the contractor at the time the notice of claim was filed, or at any time since. But if this question rested merely upon the degree of weight to be attached to the evidence, which is somewhat conflicting on the subject, we should be disposed to regard the finding of the justice as conclusive. But this is not so. The respondent’s counsel, we think, errs in supposing that any new agreement was proved, which constituted a binding contract, altering the terms of the covenant made by the parties under seal, by which the payments were to be regulated.
+The only evidence of any new agreement is the testimony of the contractor, who says, that he was directed by the owner not to do the work according to the contract, but that if he would do some work in the basement of the building, not particularized in the specifications, that should he in lieu of other work, which, by the terms of the contract, must be done to entitle the contractor to the second payment, and that he (the owner) would thereupon make the second payment.
+It is upon the effect of this so called new agreement that the plaintiff’s right to recover depends, for it is admitted that the contractor never did become entitled to the second payment by performing the work, which, by the terms of the contract, he was to perform ; and it was proved that he did perform the work in the basement.
+This so called new agreement, in our opinion, had no effect upon the sealed covenant by which the terms and times of payment were fixed. An agreement of this description cannot he altered by parol, unless the parol contract be upon sufficient consideration, and be executed.
+How, here was a covenant by the contractor not only to do the work mentioned in the specifications, but also to conform to any “ deviation, alterations, additions, or omissions,” the owner might desire; and the same were “ not to affect or make void the contract, but to be added or deducted from the amount of the contract,” as the case might require. The owner had an absolute right to do what the witness says he did in respect to deviations and alterations of the work, and the contractor was bound to conform thereto, and the contractor was not, for that cause, entitled to payments at any earlier day than the contract specified. The alleged new agreement may, in this view of the subject, be stated in language the owner is supposed to use to his contractor: “ If you will do what you have agreed to do, I will pay you sooner than our contract requires.”
+Such an agreement would be without any new consideration, and could not operate to alter the written instrument, nor bind the owner.
+Upon this ground, and without considering whether, under the peculiar circumstances of this case, the contractor was incompetent, because the suit was for his benefit, we think the judgment should be reversed.
+Judgment reversed.
