@@ -1,7 +1,8 @@
 ---
 court: "Recorder of New York City"
 decided: "1822-04"
-citations: ["1 Wheel. Cr. Cas. 292", "1 Wheel. Cr. Cas. 288"]
+decided_precision: "month"
+citations: ["1 Wheel. Cr. Cas. 292"]
 reporter: "wheel-cr-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["The People vs. Samuel Clark."]
 source_url: "https://static.case.law/wheel-cr-cas/1/cases/0292-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 883320
-cites_cases: ["1 P. R. 752"]
 ---
 
 # People v. Clark
