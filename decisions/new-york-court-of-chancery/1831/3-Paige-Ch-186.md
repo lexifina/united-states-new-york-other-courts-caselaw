@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1831-03-20"
+citations: ["3 Paige Ch. 186"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cuyler and others vs. Bogert and others."]
+source_url: "https://static.case.law/paige-ch/3/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2048398
+---
+
+# Cuyler v. Bogert
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The rule appears now to be well settled, with two or three exceptions,- that if a defendant has a defence which will excuse him from a discovery as to the whole or any material parts of the bill, he must make such defence by plea, or demurrer. And if he submits to answer, he must answer fully. (Mitf. 4 Lond. ed. 307, note h.) One exception to this rule is, that a purchaser, for a valuable consideration without notice, may by answer object to a discovery which is to destroy his title; provided he sets up this defence in the answer, and fully denies all the circumstances stated in the bill, which go to charge him with actual or constructive notice of the complainants’ equity. I was never well satisfied, even with this exception to the general rule, as it compels the complainant to prove his whole case, although he may be able to show conclusively that the defendant’s allegation of bona fide purchase is false. I think, however, the case under consideration does not come within this exception. That part of the answer in which the defendant alleges that he is a bona fide purchaser, is not set up by way of objection to the discovery bought by the bill; but only as a bar to the relief. And the defendant has undertaken to answer all the matters in the bill, notwithstanding this defence. Having answered the residue of the bill in part, the defendant was bound to answer it fully. Although he might, by an answer, showing himself a bona fide purchaser without notice, object to the discovery as to the other matters of the bill, he is not permitted to select such parts of those matters as he thinks proper to answer, and to leave the others unanswered. If he uses this fact in the answer as a substitute for a plea, the rules of pleading must be applied to it. He cannot, by answer, object to the discovery of particular facts in the bill, and then answer those matters in part, without overruling his own objection. The complainants are therefore entitled to a discoveiy of every material fact stated in the bill.
+The first and second exceptions to the answer are well taken. The defendant, as to the matter of those exceptions, avers he has no knowledge or information other'than such as is derived from certain depositions taken previous to the filing of the bill. He says he believes one of those depositions to be true; and refers the complainants to those depositions for further information. The depositions are not made a part of the answer ; and if the cause was brought to a hearing on bill and answer, they could not be read in support of the allegations in the bill. Those allegations should have been answered accordingto his information and belief, if he had no personal knowledge thereof. And if he had no other information than that which was obtained from the depositions, he should have stated what that information was, and have negatived all other, except from the statements in the complainants’ bill. (Morris v. Parker, 3 John. Ch. Rep. 297. Smith v. Lasher, 5 Id. 247.)
+All the allegations to which the third exception relates were also material, and they should have been answered fully and circumstantially, as to the information and belief of the defendant, and not merely as to his personal knowledge. Without taking up further time, to go into a detail of the several reasons on which the other exceptions to the answer are sustained, I am satisfied the master’s report as to all of them is correct. The exceptions to the report are therefore overruled, and the report is confirmed, with costs. The defendant EL H. Bogert must pay those costs, together with the costs of the original exceptions, and of the proceedings thereon, and put in a further answer, within forty days after notice of the order, or the bill must be taken as confessed against him.
