@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1870-05"
-citations: ["9 Abb. Pr. 37", "9 Abb. Pr. 42"]
+decided_precision: "month"
+citations: ["9 Abb. Pr. 37"]
 reporter: "abb-pr-ns"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["ELY against LOWENSTEIN."]
 source_url: "https://static.case.law/abb-pr-ns/9/cases/0037-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1965738
-cites_cases: ["17 Abb. Pr., 96", "17 How. Pr., 464", "4 How. Pr., 350", "5 Sandf., 612", "51 Barb., 368", "8 Abb. Pr., 240"]
+cites_cases: ["17 How. Pr., 464", "4 How. Pr., 350", "5 Sandf., 612", "51 Barb., 368", "8 Abb. Pr., 240"]
 ---
 
 # Ely v. Lowenstein
