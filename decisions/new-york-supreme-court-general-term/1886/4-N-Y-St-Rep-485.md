@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-12-30"
+citations: ["4 N.Y. St. Rep. 485"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Fay, App’lt, v. Isaac N. Hebbard et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/4/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1980955
+cites_cases: ["26 How. Pr., 213", "3 Barb. Ch., 620", "88 N. Y., 73"]
+---
+
+# Fay v. Hebbard
+
+## Majority (Davis, P. J.)
+
+Davis, P. J.
+This action was brought by the plaintiff as assignee of a judgment, to have the judgment declared a lien on certain land of defendant Hebbard, by establishing that the conveyance to him of the land by the judgment debtor was a mortgage only to secure a debt of such judgment debtor and thereupon to redeem by paying off the mortgage on the lands and selling the same on the judgment. It was alleged as one of the defenses that the judgment had been bought and paid for by Abner 0. Thomas, the attorney of the plaintiff in the suit in which it had been recovered and title thereto taken in the plaintiff’s name for the purpose of bringing suit thereon for the benefit of Thomas.
+It was admitted in the case that the plaintiff Mr. Fay, is a clerk and stenographer in the office and in the employ of Mr. Thomas. A witness was then called who testified that Mr. Thomas told him that the check which paid for the assignment was made by him payable to the order of Mr. Fay and endorsed by Mr. Fay.
+This evidence was objected to as immaterial, and the objection was overruled and exception was taken. A motion to strike it out was also denied, and an exception was taken to the denial. The defendant in the judgment was called as a witness for defendants. He was asked if he had had any conversation with Mr. Thomas about the purchase of the judgment, and to state what was said in such conversation. This was objected to by plaintiff, and the objection overruled and an exception taken. There was nothing in the case to show that Thomas’ declarations were competent evidence against the plaintiff, for outside of those declarations nothing appeared that would justify this admission. An attorney is not competent to make admissions in conversation with third persons which will be evidence against a client as to the facts of his case. The plaintiff was not shown to be present at the conversation, and the mere incident that he was a clerk and. stenographer employed in his office did not subject him to the effect of any casual declaration of Thomas as evidence against him. ' There was not enough shown to justify the admission of the statement of Thomas as evidence against plaintiff. The exceptions were, therefore, well taken.
+Without the declarations of Thomas there was nothing to warrant the court in finding that Thomas was the buyer of the judgment, and the plaintiff his mere agent, to enable him to purchase it in violation of the Statute. For this error a new trial must be granted.
+But we doubt very much whether the purchase of a judgment to enforce an alleged lien upon property of a person not a party to the judgment is within the prohibition of the statute. The judgment-debtor is not sued upon the judgment. If it were brought by an attorney to use over against the judgment- debtor, as might have been done before the restrictions imposed by the Code or statute, the transaction- might well be held within the inhibition. But the purchase of a judgment for the purpose of collecting it as such by ■ execution-, or any other mode that simply enforces the judgment or its lien is not within the letter of the statute or itsmischief. Section 73 of the Code of Civ. Pro. provides that “An attorney or counsellor shall not directly or indirectly buy, or be in any manner interested in buying a bond or promissory note, bill of exchange, book debt or other thing in action, with the intent and for the purpose of bringing an action thereon.” There is nothing in this to prevent an attorney or counsellor from buying anything named in the act for any other intent, use or purpose than that of bringing an action thereon. If an attorney or counsellor buy a judgment with intent to sue the judgment-debtor thereon, we think it would be deemed “a thing in action ” within the meaning of the provision. It would be within the spirit of the law, and the mischief to be prevented; but it is quite another thing to buy a judgment with the intent to enforce it by execution against the judgment debtor, or by pursuing the lien it may have on his property in his own or anothers hands. To enforce such a lien of a judgment is not to bring “ an action thereon” within the meaning of the Code. Warner v. Paine, 3 Barb. Ch., 620; Brotherson v. Consaulus, 26 How. Pr., 213.
+In this case the judgment-debtor is not made a party to the action, and it was not necessary that he should be. He cannot be harassed in costs nor annoyed by another suit on the cause of action merged in the judgment.
+In Wetmore v. Hegeman the court of appeals say “ The aim of the statute was to prevent attorneys from purchasing for the express purpose of instituting suits thereon and thus harass debtors and making costs.” Wetmore v. Hegeman, 88 N. Y., 73.
+In this case the plaintiff seeks only to ascertain how much is due the defendant on a mortgage of the judgment-debtor’s real estate, on which the judgment is an alleged lien, for the purpose of paying the' alleged mortgage and collecting the judgment out of the lands when redeemed from the mortgage.
+We think the court erred in holding that there was legal evidence that the plaintiff bought the judgment for the attorney; and also in holding that such a purchase, if made by an attorney for the mere purpose of establishing and enforcing a lien of the judgment, was within the statute.
+The judgment must be reversed and a new trial ordered, with costs to abide event.
+Brady, J., concurs in the result.
