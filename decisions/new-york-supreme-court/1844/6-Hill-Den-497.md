@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1844-05"
+citations: ["6 Hill & Den. 497"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bell vs. Potter."]
+source_url: "https://static.case.law/hill/6/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2176206
+cites_cases: ["13 Wend. 479", "2 Wend. 148", "3 Hill, 547"]
+---
+
+# Bell v. Potter
+
+## Majority (By the Court, Nelson, Ch. J.)
+
+By the Court, Nelson, Ch. J.
+By the statute 8th Anne, ch. 14, of which our old act was almost a literal transcript, (1 R. L. 438, § 17,) it was provided, “ That it shall and may be lawful, for iany person or persons, having any rent in arrear ox due upon any lease for life or lives, or for years &c., ended or determined, to distrain for such arrears, after the determination of the said respective leases, in the same manner as they might have done, if such lease &c. had not been ended or determined: Provided, that such distress be made within the space of six cal* endar months after the determination of such lease, and during the continuance of such landlord’s title or interest, and during the possession of the tenant from whom such arrears became due” (12 Pick. Stat at Large, 69, §§ 6, 7.)
+The object of the statute was, to enable the landlord to dis-train after the expiration of the term, which could not be done at common law. But in order to keep the remedy alive, accord-ding to the terms of the provision, the tenant must have continued in possession. Hence, in Terboss v. Williams, (5 Cowen, 407,) where the lease had expired and the tenant had left the premises with his goods, before the landlord distrained, it was agreed that the distress was illegal, the case not coming within the statute. (2 Wend. 148, S. C. in error.)
+When the provision was incorporated in the revision of 1830, it was modified, with a view to meet what was supposed to be the injustice of the above case. (3 R. ¡S. 761.) But, like many other provisions in the new code, where a single instance of apparent wrong suggested and led to the modification of a general principle, the full effect of the phraseology employed was not foreseen. It is as follows: “ Within six months after the determination of any lease for life, or for years &c., any person having rent due upon such demise in arrear, may distrain for such arrears, either upon any goods remaining on the demised premises, or upon any goods that may have been removed, in the same manner, within the same time, and under the same provisions and restrictions, as if such lease or tenancy had not ended.” (2 R. S. 500, § 1.)
+According to the words of this provision, inasmuch as the continuance of the landlord’s interest and the tenant’s possession is no longer a condition to the remedy within the six months, the goods of any succeeding tenant who may have taken a lease of the landlord would be subject to the rent of the preceding term; and therefore it is insisted, with some plausibility, that the goods of the present plaintiff were subject to the distress in question. But it is impossible to hold that the legislature intended any such consequence, when they changed the- phraseology of the previous statute. On the contrary, we are bound to restrain the operation of the new provision, by keeping steadily before us the object in view, which was simply to enable the landlord to distrain, within the six months, upon the goods of the tenant remaining on the demised premises, or which have been removed, notwithstanding he has abandoned the possession. To give the provision a literal construction, and thereby authorize the landlord to distrain upon the goods of a succeeding tenant, who has taken possession under a new and different demise, would be sanctioning a wrong far greater than the one which the legislature intended to remedy.
+It was at least impliedly conceded in Sherwood v. Phillips, (13 Wend. 479,) and Webber v. Shearman, (3 Hill, 547,) that had it appeared in those cases that the tenant was in the occupation of the premises under a new and distinct demise for several years, and not by the mere act of holding over, the remedy by distress for the rent accruing during the preceding years could not have been upheld. That principle will be found distinctly recognized in Legg v. Strudwick, (2 Salk. 414,) and in various other cases referred to in Sherwood v. Phillips. (See also Bradby On Distr. 70.) When the case of Webber v. Shearman was before us the last time, (ante, p. 20,) we decided that the' occupancy by the tenant under new leases from the landlord, executed each year, was in legal effect the same as a holding over, so far as the right of distress was concerned; but it was admitted to be otherwise, where the new leases are for more than a year. That case undoubtedly went to the extreme in favor of the landlord’s remedy, and we cannot consent to extend the principle further.
+In the present case, the new lease was not for one year, but for six; and the former lease was not to the plaintiff, but to him and another jointly. It is impossible to uphold the distress made by the defendant, without going the length of allowing the enforcement of the remedy in all cases against the in-coming tenant.
+New trial denied.
