@@ -1,0 +1,19 @@
+---
+court: "Brooklyn City Court"
+decided: "1848"
+citations: ["2 Edm. Sel. Cas. 108"]
+reporter: "edm-sel-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People, on the Complaint of Sidney Clayton, v. Samuel Wolven and Russell F. Hulse."]
+source_url: "https://static.case.law/edm-sel-cas/2/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4566424
+---
+
+# People v. Wolven
+
+## Majority (By the Court:)
+
+By the Court:
+In this case it appears from the testimony that the complainant, and another, had, without legal process, violently seized a colored person named Belt, in open day, and in a public street in Hew York, and forcing him into a carriage, ironed him, and, under the pretense of taking him to the tombs, to answer, as they alleged," a charge of stealing a coat, had suddenly conveyed him to a retired place at Graves-end, in this county, by the sea-side. Here he was detained under duress for a period of very nearly thirty-six hours; and until Clayton had ascertained that suspicion had been created as to his object, and a messenger had been despatched to Brooklyn, to disclose the affair, and cause an investigation, when Belt was removed to another place about a mile distant, and still forcibly detained. At this latter place the defendants (who are officers), empowered by warrant from Judge Edmonds to produce Belt before him, at a stated time, found Clayton and Belt, the latter just emerging from the room in which the former was, and under just such circumstances as to show that he had only then been released by Clayton, who had discovered their approach. That finding Clayton had acted without legal authority in the seizure and detention of said Belt, the officers not only took the latter under their warrant for that purpose, but also required Clayton to accompany them to Brooklyn and Hew York, and detained him in custody some horns, and until he was released by Judge Edmonds, on motion of counsel. Upon this act of the defendants is based the charge of assault and battery and false imprisonment, made by Clayton, and it only remains to determine how far the defendants are right or wrong, and whether, under the circumstances, any offense has been committed by them. By statute, every person who shall, without lawful authority, forcibly seize and confine any other, or shall inveigle or kidnap any other, with intent either to cause such other person to be secretly confined or imprisoned- in this State, against his will, or to cause him to be sent out of this State against his will, or to cause him to be sold as a slave, or in any way held to service against his will, is guilty of felony. With us here all are presumptively free men, of whatever color. The acts of Clayton, throughout, to my mind, clearly show a forcible seizure without legal authority, and establish a felonious intent as to the final disposal of Belt, and thus make a strong prima faoie case against him under the statute. If Belt, as alleged by Clayton, had been arrested at the direction of Lee, who claimed him as his slave, and had been taken before the proper judicial officer to adjudicate such claim, his arrest without process might have been justifiable; but the fact that _upon his seizure he was taken from the city, and detained for such a long period, in as secret a manner as possible, justifies the conclusion that no such legal adjudication was contemplated, and that an illegal disposition was designed to be made of him. It is made the duty of even private persons to arrest any one in the act of committing a felony, and the law permits the arrest of any person, without process, who has committed such an offense. Such being the law, Wolven and Hnlse, who seem to have acted entirely in good faith in this matter, were justified in so arresting Clayton, and are accordingly discharged.
