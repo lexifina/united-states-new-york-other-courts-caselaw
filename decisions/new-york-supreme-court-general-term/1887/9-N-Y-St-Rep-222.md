@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-05-13"
+citations: ["9 N.Y. St. Rep. 222"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Seligman Trier et al., App’lts, v. Edward Hermann et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/9/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 644596
+cites_cases: ["11 Hun, 539", "24 How., 163", "88 N. Y., 62"]
+---
+
+# Trier v. Hermann
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The object of this action was to to vacate and annul a prior judgment recovered in favor of David S. Tuska against the defendants Hermann.
+The plaintiffs recovered two judgments against the same defendants upon which they issued executions, but were unable to obtain satisfaction as long as the preceding judgments recovered by David S. Tuska against them stood in the way. His judgment was entered upon an offer served on the same day as the complaint was served in the suit of David S. Tuska against Edward and Moses H. Hermann. The offer was accepted and the judgment accordingly entered. The proceedings in that action were entirely regular, as they were authorized by sections 738 and 740 of the Code of Civil Procedure.
+The plaintiff in this action assailed the judgment, however, as invalid under the allegation that the object of entering the judgment on the offer and acceptance was to evade the observance of the statutory requirements made for the entry of judgments by confession. There was no impeachment of the indebtedness upon which the prior judgment had been recovered. Neither was it alleged that it had been collusively or fraudulently entered. The complaint in the preceding action alleged that the debtors, the defendants, made their promissory note on the day preceding the commencement of the suit payable to Morris Tuska or order, on demand, for the sum of $3,500 for value received, and that Morris, Tuska indorsed and delivered the note to the plaintiff. That he had demanded payment of the amount which the debtors failed to make. It was further alleged that the plaintiff had loaned and advanced to the same defendants, at their request, $2,000, on which the sum of $1,500 had been paid, leaving a balance of $500, with interest unpaid, and demanded judgment for these amounts. This complaint was verified, and it was to permit judgment to be recovered in accordance with this statement of the facts that the offer was served upon which the judgment was entered.
+The main fact upon which reliance has been placed in support of this action to vacate this preceding judgment is that it was recovered by suit instead of by confession to avoid compliance with what the law had prescribed to render a judgment regular when entered upon confession.
+This was not, sufficient under any of the authorities, which have been referred to, to entitle the plaintiffs as subsequent judgment-creditors to maintain this action, for even if the plaintiff in the first judgment brought his action upon the indebtedness to recover his judgment by suit and not by confession to avoid or evade the provisions of the statute regulating the proceedings through which judgment might be confessed, that of itself would not render the judgment so'obtained either fraudulent or collusive, and neither of the authorities which have been referred to in support of the action sustains any other view. But it is plainly "intimated in each of them that the judgment must be collusive or fraudulent, before it can be set aside where it has been recovered in this manner. Such was the conclusion of the court in Ross v. Bridge (24 How., 163). And Beards v. Wheeler (11 Hun, 539), is to the same effect. The case of Moses v. McDivitt (88 N. Y., 62), in no manner considered this point. There the only question was whether the judgment having been recovered in this manner to authorize and protect a usurious transaction, should after-wards exclude the defense of usury, which the court held that it could not do. No authority exists which has been discovered authorizing the court to vacate a prior judgment on the service of a summons and complaint and an offer of judgment and the acceptance, for the sole reason that the proceedings were taken in that manner, as being preferable to those provided for the recovery of judgments by confession.
+The complaint in that action stated all that it was required to set forth to, present two legal causes of action. There was no deficiency in it in any respect and so long as the. defendants were willing to permit judgment to be entered. against them as it was demanded in the complaint, and the indebtedness has in no manner been impeached, the court was not authorized in this action to vacate or set ¿side that judgment.
+The judgment from which the appeal has been taken .should, therefore, be affirmed.
+Van Brunt, P. J., and Brady, J., concur.
