@@ -1,0 +1,32 @@
+---
+court: "New York Court of Chancery"
+decided: "1843-02-21"
+citations: ["3 Sarat. Ch. Sent. 4"]
+reporter: "sarat-ch-sent"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Helen Quackenbush et al. v. Mary Leonard et al."]
+source_url: "https://static.case.law/sarat-ch-sent/3/cases/0004-04.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6698661
+---
+
+# Quackenbush v. Leonard
+
+## Majority
+
+The'chancellor decided that'the marriage-0f one of the female complainants in this case, although after the decree in the cause, was an abatement of the suit, and that it must be revived' either in favor of or against the husband before any further proceedings can be had in the suit, except to set aside the irregular proceedings which have been had in the master’s office in the meantime. But that the decree of the court of errors affirming the decree of this court, although made-after the marriage o‘f one of'the complainants, was not void,- but must be carried into effect here, after the proper parties are brought before the court.
+That the marriage of a fenhále defendant pendent lite, does not abate the suit; and that it is only necessary in such a case, to obtain an order that the suit proceed against her by her new name, in conjunction with that of her husband.
+Proceedings in raastei’s office.
+Who entitled to prosecute order of reference.
+That if after the abatement of a suit by the marriage of a female complainant, there is a decree obtained in her favor, the defendant is bound by it and cannot afterwards urge the ocjection that the suit had abated by her marriage.
+That as the statute authorizing the revival of suits on a summary application to the court by petition, does not apply to the abatement of a suit by the marriage of a female complainant, but only to cases of abatement by the death of a party, the proper course to revive a suit abated by marriage is to proceed by bill-of revivor,
+As to the regularity of the proceedings in the master’s office, the chancellor observed as follows The first objection to the proceedings in the master’s office, and whicli, I think, is well taken, is that under the decree in this-casé, the complainants’ solicitor was entitled to'the prosecution of the reference in the first instance; and that the solicitor of the-defendants had no right -to carry the decree into the master’s office Until the solicitor who had the carriage .of the decree had made default,.and had been deprived of his right to prosecute the reference by-an order of the court. . As a general rule the -party obtaining an order of reference, is entitled to the prosecution thereof in the first instance. And where & ■decree is made on the -hearing, directing a reference in which-both, parties-have, an interest* the complainant’s solicitor ⅛ entitled to prosecute the reference, unless the court, in making the decree, thinks proper 'to commit the prosecution thereof to the other party. In such a c.ase, therefore, if the solicitor of the complainant.neglects to carry the decree into the master’s office, and to take out and serve .a summons upon the defendant’s solicitor, within the time prescribed for that purpose by the 101st rule of the court, the. latter should apply to the court, upon notice to the .adverse party to have the prosecution of the reference committed to him; Or for such other order as may be proper to expedite.the proceedings.— And where the party entitled to the carriage of the decree neglects ,to proceed with due diligence, after he has commenced the prosecution of the reference by the service of a summons, to proceed thereon, the remedy of the other party is by an application to the master under the last clause of the same rule, to have the further prosecution of the reference committed to him.
+What master ' may execute reference.
+Master’s sum-’ monsnot to is-entered*deciee
+Mastertobofur-mshed with copy of decree or order of reference.
+"What is a final derrtie.
+The defendants solicitor was also irregular in this case in carrying the decree into the office of an ordinary master who was not authorized to execute the order of reference, which was general, without the consent of both parties; under the provisions of the 99th rule. Where the parties in such a case do not agree upon a master to execute the reference, the party who is entitled to prosecute it should carry the decree into the office of one of the special masters designated in that rule to execute orders of reference in such cases.
+■ It was also irregular for the master to issue a summons to Proceed upon a reference until the decree was actually entered, and an authenticated copy thereof brought into his office. The possession of the decree or order of reference by the master i& necessary, not only that he may know he has authority to execute the reference, and to summon parties to appear before him, but also to enable him to exercise a proper discretion in .fixing a reasonable time for the service of the summons upon the parties who are to attend before him, in reference to the nature of the matters to be inquired into, and the residences of such parties.and their solicitors. A discretionary power is committed to the master in this respect, by. the 100th rule of the court; and it is his duty to exercise it in such a manner as to do justice to both parties; and not, as is too often the case, to permit the party who has the prosecution of the reference to fix the time aud place of the reference, and the time of service of the summons so as to suit his own convenience only, without any reference to that of the other parties in the suit.”
+The chancellor also decided that a decree which, upon directing a reference to a master, gives all the consequential directions, so as finally to dispose of the whole case upon the coming in and confirmation of the report, by a common order in the register’s office, without the necessity of bringing the case again before the court for any other decree or directions, is a final deciee; although further proceedings in the master’s office, are necessary to carry the decree into effect.
+Liberty to defendants to file a bill of revivor, if complainants fail to file such a bill within sixty days. Proceedings in master’s office, his report, and all subsequent proceedings set aside; without costs to either party as against the others.
