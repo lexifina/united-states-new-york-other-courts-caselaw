@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court"
 decided: "1881-04-04"
-citations: ["15 Jones & S. 533", "47 N.Y. Super. Ct. 533", "15 Jones & S. 531", "47 N.Y. Super. Ct. 531"]
+citations: ["15 Jones & S. 533", "47 N.Y. Super. Ct. 533"]
 reporter: "ny-super-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
