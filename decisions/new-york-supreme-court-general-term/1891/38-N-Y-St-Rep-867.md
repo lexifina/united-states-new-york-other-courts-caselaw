@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1891-06-02"
-citations: ["38 N.Y. St. Rep. 867", "38 N.Y. St. Rep. 865"]
+citations: ["38 N.Y. St. Rep. 867"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
