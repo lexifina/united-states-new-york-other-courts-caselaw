@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06"
+citations: ["56 N.Y. Sup. Ct. 299"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt, J., concurred."]
+parties: ["GEORGE C. CARTER, Respondent, v. JOHN H. BYRON, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/56/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4573002
+cites_cases: ["11 N. Y., 216"]
+---
+
+# Carter v. Byron
+
+## Majority (Barnard, P. J.:)
+
+Barnard, P. J.:
+The plaintiff hired of the defendant a dwelling and lot, 50 by 105 feet, for one year, from the 1st of April, 188Y, to the 1st of April, 1888, at twenty dollars per month, payable in advance. About the middle of May, 1887, the defendant erected a fence in front of the premises, in the place of the old fence, but cut off 17 by 105 feet from the lot leased to plaintiff. The premises were leased for laundry purposes, to the knowledge of the landlord. The cutting off the land in question destroyed four out of the five lines used by the plaintiff for his business in drying and bleaching clothes. The plaintiff protested against the trespass, but it was carried out, notwithstanding his protests. He sought to hold back the rent because of the fencing away of his land, but proceedings were taken to dispossess him, and he paid the rent under an agreement with the plaintiff’s agent that the only way to do was to pay the rent “ and proceed against ” the defendant for the wrong done. Upon the trial the only question of fact presented was, whether or not the plaintiff consented to the building of the fence when it was built. The jury have found that he did not, and this agrees with the evidence. The •only consent, it is apparent, was that a new fence be put in place •of the old one, and that he should still have the 50 by 105 feet. The damages are not so clearly proven to the amount found, but still, I think, sufficiently under the circumstances of the case. The rent was twenty dollars per month, of which eight months had been paid. The laundry business had been destroyed in efficiency by four-fifths. The amount of the loss is not specifically proven. The rent could not be collected while an eviction of part of the premises existed. The plaintiff is not bound to vacate the premises. He .holds them by agreement, and can stay, relying upon his agreement, •and recover damages if the agreement is broken. A wrongful eviction from part of the premises suspends the rent; there can be no apportionment. The whole rent is suspended until possession is restored. (Christopher v. Austin, 11 N. Y., 216.)
+The trespass was willful. It was done in defiance of the plaintiff. The premises were destroyed as laundry premises ; $160 rent had been paid. The amount of the verdict of $200 was, therefore, fairly proven.
+Judgment affirmed, with costs.
+Pratt, J., concurred.
+Judgment affirmed, with costs.
