@@ -1,0 +1,51 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05"
+citations: ["85 N.Y. Sup. Ct. 141"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt and DykmaN, JJ., concurred.", "Judgment affirmed, with costs."]
+parties: ["Amelia F. Baker, Respondent, v. Eliza A. Mott and Another, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4721150
+cites_cases: ["103 N. Y. 264", "22 N. Y. 211", "7 Lans. 249"]
+---
+
+# Baker v. Mott
+
+## Majority (Brown, P. J.:)
+
+Brown, P. J.:
+This action was brought to establish plaintiff’s right to a way over defendants’ land, and to have certain obstructions, placed therein by tbe defendants, removed therefrom.
+There is no dispute as to tbe facts. Tbe parties own adjoining lands lying on tbe northeasterly side of a highway called tbe Sands Point road, and tbe lane in dispute extends from such highway in substantially a direct line to tbe shore of Hempstead harbor, and bounds plaintiff’s lands on tbe southeast.
+Tbe defendants are devisees of Benjamin Mott, from whom plaintiff, by three conveyances, derives title to all her land except one plot designated as No. 4.
+In two of tbe deeds from Benjamin Mott tbe plaintiff’s lands are described as running to “ tbe northwesterly sido of a certain lane -» -x- running from Hempstead harbor to tbe highway from
+Sands Point to Roslyu.” And in tbe third deed tbe lane itself is made tbe southeasterly boundary of tbe land conveyed.
+Prior to tlie execution and delivery of the two deeds first mentioned, and which conveyed to the plaintiff plots 2 and 3, Benjamin Mott delivered to the plaintiff a map of each of said plots showing the lane thereon, and said deeds were thereafter drawn in accordance with said maps.
+We are of the opinion that the rule, that when land is-conveyed by a deed describing it as bounded upon a road, the fee of which is vested in the grantor, and which is mentioned or referred to in the deed, the grantee acquires a right of way over the road, is applicable to the facts here presented.
+Tbe appellants contend that this rule is applicable only to city and village lots. It has, however, no such limitation, and the eases cited by the appellants do not so decide.
+In Smyles v. Hastings (22 N. Y. 211), a plot of about 400 acres was divided into nine lots, and the right of way was claimed to have attached to a lot fifty-seven acres in extent. The easement was claimed to arise from the designation on a map of a contemplated road and a sale in accordance with and by reference to the map. The court held that a right of way over the road passed as a part of the grant as an easement appurtenant to the lot conveyed.
+In neither of the other cases cited is there any intimation of such " a limitation upon the rule as appellants claim.
+The doctrine has no reference to the dedication of the land as a public highway, but proceeds upon a construction of the deed; and a conveyance by which lands are bounded upon a street laid out or existing or designated upon a map referred to, is held to constitute as between grantor and grantee and as to the lots conveyed an irrevocable appropiiation of the spaces designated as streets or ways appurtenant to the land conveyed.
+We have in this case the maps showing the road, and the fact that the land conveyed was bounded upon it. The plaintiff thus acquired, as against Benjamin Mott and his successors in title, a right of way over the lane in question.
+This right clearly extended from the land conveyed to the Sands Point road. Whether it also extended to the harbor it is not necessary to determine, as the right to pass to the harbor exists under the conveyance of lot No. 4, which will be now referred to.
+The land owned by the parties to this action is a part of a’"farm which prior to 1850 was owned by Henry Mott, who devised the same to his two sons, Adam and Benjamin.
+In 1860 the sons partitioned the farm between them. Adam and his wife quit-claimed to Benjamin ninety acres, which include the defendant’s lands, and parcels 1, 2 and 3, owned by plaintiff.
+Benjamin and his wife quit-claimed the balance of the farm to Adam, including parcel 4, owned by plaintiff. Subsequently the executors of Adam Mott conveyed parcel 4 to Marianna "Wilson, who thereafter conveyed it to the plaintiff.
+In the deed from Adam to Benjamin Mott, following the habendum clause, is the following provision: “ And upon this further condition, that the party of the second part and his heirs and assigns shall permit and allow the parties of the first part and their heirs to have free access with teams, at all times, to and from the waters of •Hempstead harbor by the road now and heretofore used through his land, for the purpose of loading and unloading vessels, and also to reach that portion of the shore contiguous to such waters belonging to the parties of the first part, for the purpose of carting to and from the same.”
+The road there referred to is the lane in question, and it bounds parcel 4 on the southeast.
+There is another condition in this deed relating to a road through a wood lot referred to in the findings, but it is not of importance to the decision of this case; and in this connection it may be stated that the thirteenth finding of fact, to which appellants excepted, is not essential to the judgment, and is not, therefore, referred to.
+The appellants claim that the provision of the deed quoted is a condition subsequent. If such was its character it would not aid them. The estate vested in Benjamin Mott, and the right to re-enter for breach of the condition would be in Adam’s heirs. Until that right is exercised the estate would remain in the grantee. The defendants could not avail themselves of a breach of the condition. But the provision is not a condition subsequent. To create such, the intention of the parties to the deed must be clearly expressed in some words importing that the estate is to depend upon a contingency provided for. (Lyon v. Hersey, 103 N. Y. 264.)
+No such intention appears in the deed in question. On the contrary, quite the opposite was .intended. The two deeds partitioning the farm must be read and construed as if one instrument.
+The intention was to divide the farm and give to each grantee a way out to the public highway and to the harbor. Access to the highway was to be had over the road reserved, through the wood lot and to the harbor over the lane in question.
+The legal effect of the condition was to annex the right of way to the land set off to Adam. It was an exception or reservation in his favor. (Mendell v. Delano, 48 Mass. [7 Metc.] 116 ; Bowen v. Conner, 60 id. [6 Cush.] 132; Rexford v. Marquis, 7 Lans. 249.)
+The easement was not personal to him, but was annexed to the estate, and passed to the plaintiff upon her purchase of the land.
+The conveyances between Adam and Benjamin Mott were absolute, and it was not intended or contemplated that the estate conveyed should be dependent upon any condition whatever.
+The right of way to the Sands Point road does not appear to be presented upon the pleadings.
+The complaint alleges a right of way from plaintiff’s lands to the harbor, and its obstruction by the defendants, and the relief demanded is that plaintiff be adjudged to own and possess a way over said road to Hempstead harbor, and that defendants be ordered to remove all obstructions therefrom.
+The judgment, however, adjudged that a right of way exists from the Sands Point road to the harbor, and as no point is made that this is in excess of the relief demanded in the complaint, we have considered the question as it is presented in the evidence and findings of the court.
+The judgment is affirmed, with costs.
+Pratt and DykmaN, JJ., concurred.
+Judgment affirmed, with costs.
