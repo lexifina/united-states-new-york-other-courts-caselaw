@@ -1,0 +1,29 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1853-10"
+citations: ["2 E.D. Smith 159"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John and John E. Bacon v. Isaac Holloway and others."]
+source_url: "https://static.case.law/ed-smith/2/cases/0159-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1283560
+cites_cases: ["14 Wend. 580", "4 How. Pr. Rep. 24", "6 Wend. 620", "7 Cranch, 151"]
+---
+
+# Bacon v. Holloway
+
+## Majority (By the Court. Daly, J. By the Court. Woodruff, J.)
+
+By the Court. Daly, J.
+The plaintiffs were holders of the note in suit for value. They gave their own note to Westlake & Coger for it, and paid that note by an adjustment of a claim for storage which they had against Grinnell, Minturn & Co., the parties to whom Westlake & Coger passed their note, in payment of a bill for iron. Being thus hona fide holders for value, their right to recover upon the note, against both maker and endorser, could not be affected by any failure of consideration between Holloway and West-lake & Coger. (Vallet v. Parker, 6 Wend. 620 ; Grant v. Elliott, 7 Id. 227; Morton v. Rogers, 14 Id. 580; and Case v. Mechanics’ Banking Association, 4 Comst. 168.) They were clearly entitled to recover the amount of the note, less the $200 paid by Coger. H it had been proved to be an accommodation note, it would not have altered the case, for the plaintiffs, though even notified of that fact when they took it, could still, having parted with their own note for it, recover. (Morton v. Rogers, 14 Wend. 580.) That the indebtedness of Westlake & Coger to the plaintiffs has been provided for by their assignment, would not affect or vary either their or the defendant,'Holloway’s, liability. The payment of the $1,425, by the adjustment of the plaintiffs’ claim for storage, was entirely independent, of the compromise which the plaintiffs made of their debt with Grinnell, Minturn & Co. The compromise for 50 per cent, applied to the balance due by the plaintiffs after the adjustment referred to. As respects the note, therefore, the plaintiffs gave full value for it, and were entitled to recover it, less the $200 paid. The referee erred in going into the account between Holloway and Westlake & Coger, and limiting the plaintiffs’ recovery to the amount of the indebtedness of Holloway to Westlake & Coger. He ap pears to have been under the impression that, as the note was made by Holloway for the purpose of being given to Grinnell, Min turn & Co., it could not be transferred by Westlake & Coger to the plaintiffs without his assent, or, at least, that Holloway should have been a party to the exchange. Rut this is wholly immaterial. If the plaintiffs gave value for the note, it would be good in their hands, though Westlake & Coger had put it in circulation fraudulently, unless the plaintiffs had knowledge of the equitable right of Holloway. But nothing of this kind appeared. The report must be set aside.
+Judgment reversed, and cause referred back for new trial.
+Note.—In accordance with the decision, the case was again tried, and the referee reported in the plaintiffs’ favor for the whole amount claimed. Judgment having been entered for $1,110 40, the defendant, Holloway, appealed to the general term, where the cause was argued by the same counsel, and decided in May term, 1854. The opinion delivered on the last appeal is inserted in this place, as it simply affirms the propositions determined when the case first came up.
+By the Court. Woodruff, J.
+After a careful re-examination of. the case, as presented by the referee on the recent trial, I find nothing in it to change the legal rights of the parties, as they appeared to us when the new trial was ordered, and I therefore adopt the opinion of the general term, as delivered at that time by .Judge Daly, as decisive of the.present appeal.
+The referee finds that the plaintiffs, before the maturity of the note in question, received it from the payees, and exchanged therefor. their own note, for the same amount and of the like date, &c.' There was no evidence, that at the time of this exchange they had any notice of any equities between the defendant and the payees, (if, indeed, any existed, which I think was by no means sufficiently proved,) which rendered the note invalid at that time in the payees’ hands.
+The plaintiffs, therefore, by virtue of the exchange, and the moment it was consummated, became Iona fide holders for value.
+And if it were, for the purpose of argument, conceded that their holding of the note in question' was, under the circumstances, as security and to indemnify themselves against the payment of their own note exchanged therefor, still, their holding for that purpose was bona fide, and to that extent the note was their property. ' When, therefore, Grinnell, Minturn & Oo.—the then holders of the plaintiffs’ note— applied to its payment a bill for storage, as they, by the plaintiffs’ assent, had a perfect right to do, the plaintiffs’ note was, for all legal purposes, joadd, and paid by the plaintiffs as truly as if Grinnell, Minturn & Oo. had paid to the plaintiffs, in money, the sum due to them for storage, and the plaintiffs had in turn, with money, paid their own note.
+I perceive no occasion for reviewing in detail the decision heretofore made at general term, which, in my judgment, is conclusive against the appellant, upon the grounds of the present appeal. The judgment should be affirmed, with costs.
+The judgment rendered on the first trial, for a part of the plaintiffs’ demand, having been reversed, and the cause referred back for a new trial, the judgment entered after the second trial, for the whole amount claimed, was affirmed, with costs.
