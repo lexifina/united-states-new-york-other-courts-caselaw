@@ -1,0 +1,50 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-02-11"
+citations: ["22 N.Y. St. Rep. 847"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ludlow W. Valentine, an Infant, etc., Resp’t, v. Hermann T. Richardt et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/22/cases/0847-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020452
+cites_cases: ["51 N. Y., 382", "59 N. Y., 592", "79 N. Y., 541", "84 N. Y., 336", "95 N. Y., 511"]
+---
+
+# Valentine v. Richardt
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+—The plaintiff in this action is an infant, and the only child and heir at law of Catherine A. Valentine, deceased, who died intestate on the 9th day of January, 1888.
+The plaintiff alleges the seizer in fee of Catharine A. Valentine of the premises described in the complaint, and sets the employment of the defendant Richardt as her physician, and then charges upon him illicit relations with her ■ socially after the commencement of his professional visits, and the obtainment of complete control and mastery over her mind and property.
+It then alleges that on about June 7, 1886, Mrs. Valentine being of unsound mind, and incompetent to manage herself or her affairs, in consequence of the influence exerted over her by Richardt, he took advantage thereof and obtained from her a conveyance to him of the premises in question, without paying any consideration therefor, although the conveyance recites a consideration of $15,000, which the premises were and are fairly worth.
+It further alleges that by deed bearing date October 27, 1886, Richardt conveyed the premises to the defendant Austin for the sum of $12,000; that she paid $2,000 in cash and gave him a mortgage on the premises for $10,000, which mortgage was paid off and discharged, and that the defendant- Austin by an instrument dated October 1, 1887, mortgaged the premises to the defendant Elizabeth H. Lunt, to secure the payment of $9,000 advanced by her to the defendant Austin. Also, that Mrs. Valentine continued to reside on the premises until after the sale thereof to the defendant Austin, when she moved to the city of New York; Eichardt also at the same time moving from Brooklyn to a place near her in the city of Yew York.
+The plaintiff then demands judgment which shall declare void the conveyance of June 7, 1886, to the defendant Eichardt, together with the conveyance of October 27, 1886, to the defendant Austin, and the mortgage of October 1, 1887, to the defendant Lunt, and that all these instruments be delivered up and cancelled, and for such further judgment or relief as may be just.
+The defendant Lunt in her answer first makes some admissions" and some denials of knowledge sufficient to form a belief, and makes a general denial of every allegation not specifically admitted.
+Then for a further and separate defense to the complaint she sets up the claim of the defendant Austin to be the owner of the premises; on the 3d day of October, 1887, when her mortgage was given and her possession under the deed from Eichardt, and alleges her reliance upon the apparent ownership of the defendant Austin, and that by reason thereof she loaned to her the sum of $9,000, and took a bond and mortgage upon the premises as security for the payment thereof.
+She then alleges that she had no notice or knowledge of the mental condition of Mrs. Valentine, or the undue influence exerted over her by the defendant, Eichardt, and that she acted throughout in good faith.
+We assume that the answer of the defendant, Austin, was similar, but no copy of that pleading is printed in the' appeal book.
+The plaintiff demurred to the second separate defense in those answers, on the ground that it was insufficient in law upon the face of the answer.
+The demurrer was sustained, and an interlocutory judgment was entered thereon, from which the defendant, Lunt, has appealed. As the defense to which the demurrer was interposed makes no denial of any of the allegations of the plaintiff, the complaint stands admitted for all the purposes of the demurrer, precisely as if it was the sole and only defense set up by the answer; and the defendants, Austin and Lunt,, rely solely upon their position of bona fide purchasers, and mortgagees respectively, which they are assumed to be for the purposes of our decision.
+But they did not purchase of Mrs. Valentine, and she received no consideration from her immediate grantee. They claim through Eichardt, and he could convey no better title than he himself had.
+Under the demurrer of the defendants, we assume the perpetration of a great wrong upon Mrs. Valentine by the defendant, Richardt. With full knowledge of her want of mental capacity and her incompetence to manage herself or her affairs, as a result of his nefarious influence over her, he obtained from her a deed of her property without paying any consideration therefor. Such a transaction is destitute of all the elements which impart valid or binding force to contracts or conveyances.
+The_ contribution of a consenting mind is an essential requisite to the validity of every deed, and if one of the parties to an instrument be destitute of understanding or deprived of volition, no matter what appearance or complexion and ceremony of execution the instrument may have stamped upon it, it is void and of no effect. • It is a nullity from the beginning because it has no mutuality of consent. It is not the result of the meeting of two minds.
+The law is well settled on that subject, and judges and elementary writers have employed plain and forcible language in setting it down.
+Story, in his work on Equity Jurisprudence, section 222, says: “Thegeneral theory of the law in regard to acts done and contracts made by parties affecting their rights and interests is that, in all such cases there must be a free, and full consent of all the parties. Consent is an act of reason and accompanied with deliberation, the mind weighing as in a balance the good and evil on each side. Therefore it has been well remarked * * * that every true consent supposes three things, first, the physical power; secondly, a moral power, and thirdly, a serious and free use of them, * * * and hence it is that if consent is •obtained by * * * undue influence, it is to be treated as a delusion and not as a deliberate and free act of the mind.”
+In the case of Riggs v. The American Tract Society, 84 N. Y., 336, Judge Daneorth, in the course of his opinion, says substantially that a gift or contract is invalid unless the mind goes with the act, and where the actor is without mind, or- of unsound mind, or of a mind not possessed of itself, as under duress.
+In the case of Vandeusen v. Sweet, 51 N. Y., 382, the trial court charged the jury, among other things, that if they found the grantor’s mind did not assent either to the execution or delivery of the deed, then they might find that the deed was a nullity, adding that it was necessary that the mind of the grantor should assent to the act, not only that his hand should sign, and he in some manner should deliver the deed, but that his mind should assent to it, and the charge was held to be correct and not erroneous.
+In the case of Barry v. The Equitable Life Assurance Society, 59 N. Y., 592, Judge Eolger delivering the opinion, said: “ Where there exists coercion, threats, compulsion and undue influence, there is no volition; there is no intention or purpose but to yield to moral pressure for relief from it. A case is presented more analogous to the parting with property by robbery. No title is made through a possession thus acquired.”
+The foregoing extracts have been brought together_ to manifest the uniformity and harmony of judicial expression and decision upon the subject under discussion.
+We see thus how the principle involved in this action has been expounded by eminent jurists, and how all acts and deeds which are not the result of free agency are void,. ab initia; they cannot be else.
+We may also take a closer view. The defense challenged by the demurrer, admits the unsoundness of mind of Mrs. Valentine, and such admission imparts a total deprivation of senses. Such is the legal signification of the term “ unsound mind.” Riggs v. Tract Society, 84 N. Y., 336. Same case, 95 N. Y., 511.
+The answer therefore concedes that the person who executed the same was destitute of legal capacity, and the invalidity of her deed results from such incapacity.
+Our legislature has reinforced the common law in that respect, and interposed a statutory interdiction against the alienation of lands by persons of unsound mind. 1 R. S., 719, § 10. Her deed was therefore in contravention of the statute, and a nullity.
+The defendants seek to bring this case within a line of decisions holding the deeds and contracts of persons of unsound mind voidable only, and not absolutely void, and such a doctrine has been inculcated in many cases in our courts; like the Mutual Life Ins. Co. v. Hunt (79 N. Y., 541).
+But in all such cases an element of good faith has permeated, and the contracts have been beneficial to the lunatic or his estate, and entered into without notice of incapacity, and so far performed that the executing party cannot be placed in statu quo if the transaction be rescinded.
+All these essential requisites are absent and wanting in this case, and it cannot be brought under the principles invoked.
+There may be cases also where a bona fide purchaser for value acquires a valid title to property which he bought from a person who procured it by fraud or false representations; but in all such cases a sale was made, induced by falsehood and fraud, it is true, but still made with intent to pass the title.
+In all such cases the seller voluntarily parted with the possession, and there was an uncontrolled volition to pass, the title. Such is not this case.
+In no view do we see any escape for these two defendants who are without fault of. their own, and the judgment should be affirmed, with costs.
+All concur.
