@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06"
+citations: ["56 N.Y. Sup. Ct. 161"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brady and Daniels, JJ., concurred."]
+parties: ["SAMUEL LEVY and Others, Appellants, v. THOMAS L. JAMES, Respondent, Impleaded, etc."]
+source_url: "https://static.case.law/ny-sup-ct/56/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4560443
+---
+
+# Levy v. James
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+In September, 1883, tbe firm of F. Mayer & Oo., composed of Ferdinand Mayer and Benjamin Mayer, by one instrument, made a a copartnership and individual asssignment for the benefit of their copartnership'and individual creditors.
+Certain judgment-creditors of the firm brought equity actions to set aside the assignment, upon the ground that it contained a preference of a fictitious debt and prevailed. The plaintiffs herein were judgment-creditors of Ferdinand Mayer alone, and after the decision made in the said copartnership creditors5 action above referred to, sent the following notice to the assignee: “You will please take notice that the undersigned, being mctividual creditors of Ferdinand Mayer, above named, do hereby accept and ratify the assignment of his individual property, made by the said Ferdinand Mayer for the benefit of his individual creditors, of which estate you are now substituted assignee, and that they will hold you accountable for their pro rata share of and in said individual estate.55 Subsequently the plaintiffs brought this action to have this assignment declared void as to them.
+Upon the trial of the action the plaintiffs’ complaint was dismissed, upon the ground that after having accepted the assignment, and called upon the assignee to carry out the trust therein contained, they could not attack its validity. This conclusion seems to be entirely correct. The question involved is precisely of the same character as though the plaintiffs had, upon the assignment itself, signified their acceptance of its provisions for their benefit; and it is a well settled rule that a party accepting the benefits of an instrument cannot attack the same, unless it is made to appear that such acceptance was made in ignorance of facts which justify the granting relief against the same.
+In the case at bar the plaintiffs do not claim to have discovered any new facts, but it would appear that they had been advised at the time that this notice was given, that a fraudulent preference contained in the assignment did not vitiate the whole instrument, but only so far as it related to the copartnership estate, and that the individual assignments of individual estates remained in full force and effect.
+It would appear that subsequently and prior to the commencement of this action they had changed their mind in reference to the law, as applicable to the facts of which they were well aware, and that they had come to the conclusion that an instrument which was partially void was necessarily void as a whole, and hence the bringing of this action. The ground upon which the appellants seem to base their appeal is, that because no estoppel has been worked, the plaintiffs, therefore, were not prohibited from changing their position, but the question does not rest at all upon the doctrine of estoppel. It rests upon the fact that the plaintiffs have formally, deliberately, and in writing, accepted the provisions made for them in the instrument in question. They have thereby made themselves party to it, and the fact that the assignment is under seal, and the acceptance not under seal, in no way alters this proposition. Having accepted the provisions of the assignment for them, and having called upon the assignee to perform his duties as such assignee, the plaintiffs have elected the course which they would pursue, and having made that election, they cannot be permitted to recede, unless such election was made under a mistake of fact. There is no question of estoppel, ' and, therefore, the rule, as applicable to estoppel, cannot apply.
+The judgment should be affirmed, with costs.
+Brady and Daniels, JJ., concurred.
+Judgment affirmed, with costs.
