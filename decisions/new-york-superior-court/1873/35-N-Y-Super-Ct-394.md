@@ -1,0 +1,39 @@
+---
+court: "New York Superior Court"
+decided: "1873-04-05"
+citations: ["3 Jones & S. 394", "35 N.Y. Super. Ct. 394"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES S. BRYCE, Plaintiff and Appellant, v. THE LORILLARD FIRE INSURANCE COMPANY, Defendant and Respondent."]
+source_url: "https://static.case.law/ny-super-ct/35/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1412373
+cites_cases: ["10 Barb. 285", "2 Denio, 75"]
+---
+
+# Bryce v. Lorillard Fire Insurance
+
+## Majority (By the Court.—Monell, J.)
+
+By the Court.—Monell, J.
+I think the decision of the court refusing to reform the contract of insurance, was, upon the facts, clearly within the principles governing such relief.
+The evidence of Brown for the plaintiff, and of Lancaster for the defendants, who alone testified to the facts relating to the place where the whiskey was stored, differ so essentially in respect to what was said, and what took place at the time the insurance was effected, that there could not have been such a mutual mistake as is required to authorize the court to correct the contract (Pennell Wilson, 2 Robt. 505; Boardman v. Davidson, 7 Abb. [N. S.] 439).
+A mere contradiction in the evidence is not conclusive that a mistake was not mutual. The contradiction may be fraudulent, and made for the purpose of preventing a change in the contract, as it was executed by the parties. It therefore became a question of fact, and is to be determined upon the evidence. If it can be seen that notwithstanding the contradiction, the weight of the evidence supports the alleged mistake, it will be determined that the mistake was mutual.
+In this case the court has determined, as a matter of fact, not only that the alleged mistake was not mutual, but that the contract was of the precise terms, tenor, and effect as contained in the written policy ; and we think the evidence authorized such a conclusion. There is nothing in the case or in the evidence to cast suspicion upon the credibility of Lancaster’s testimony, and the court had the right to assume that he testified truthfully. Besides, there being perhaps some conflict between him and the plaintiff’s witness Brown, we cannot, upon well-settled principles, disturb the conclusions of the court.
+I think it must be conceded, that if the words descriptive of the location of the subject insured were put into the policy by or through the representation of the insured, they are in the nature of a warranty, which, under the facts in the case, would avoid the policy.
+Warranties of this nature are created by the representations of the insured. To give them binding effect, they need not necessarily be fraudulent. That they are received and accepted as true by the insurers, and enter into and form a part of the contract of insurance, and after-wards are found to be untrue, is all that is required to give force and effect to them as a warranty. Nor is it of any importance that the subject of the representation cannot and did not increase the risk. It is a condition precedent, that it shall be absolutely true, and no recovery can be had if it was untrue (O’Neil v. Buffalo Ins. Co., 2 N. Y. R. 122).
+The sufficiency of these descriptive words as a warranty is sustained by the following cases.
+In De Hahn v. Hartley, 1 Term R. 343, the representation was, that the vessel “ sailed with fifty hands and upwards, 5 ’ and she sailed with forty-six only. Held it was a warranty, and being inserted in the policy, it must literally be complied with.
+In Jennings v. Chenango Co. Ins. Co., 2 Denio, 75, in the printed application for insurance the insured stated “ the mill is bounded by space on all sides.” As this was untrue the' policy was avoided. In that case the distinction between a representation and a warranty is defined. The former is of some matter out of and collateral to the contract, and making no part of it, while the latter is of some matter appearing on its face.
+In Kennedy v. St. Lawrence Ins. Co., 10 Barb. 285, the application required the insured to state the number of buildings within ten rods of that iii which the goods insured were deposited, and he omitted to state all the buildings. This defeated a recovery.
+In Wall v. East River Ins. Co., 7 N. Y. R. 370, the goods (a rope-maker’s stock) were described as “contained in a brick building with tin roof, occupied as a storehouse, ” etc. It appeared that a part of the building was used for hackling hemp, and spinning it into rope yarn. It was held that the description was a warranty. See also Chase v. Hamilton Ins. Co., 20 N. Y. R. 52.
+The description in the policy in this case is merchandise “contained in letter 0, Patterson Stores.” These stores consisted of eight distinct divisions or sections, and were respectively designated "by the letters A, B, C, etc., by which designations they were well known, and especially by Lancaster, by whom the risk was taken. The division walls separating the sections were of brick, some twenty-two inches in thickness ; and there was no entrance or means of access to the different compartments, except through or by a separate door to each, from the public streets. The sections, therefore, were in substance separate buildings, and the designation of the precise place "of deposit of the merchandise was as essentially a part of the contract, as if the sections had not been adjacent to each other.
+The defendants having issued their policy in the form, and containing the description of locality as now appears upon its face, and the plaintiff’s assignor having received and accepted it in that form, and with those contracts, he cannot now say the contract was or should have been otherwise.
+In response to an application for a policy upon a stock of goods “ such as is usually 7cept in a country store” the company sent a policy among goods “hazardous,” and “not hazardous” only, which was accepted by the insured without noticing the change.”
+It was shown that1 c extra hazardous ” goods were kept in the store. In an action to recover for a loss, it was held no recovery could be had (Pindar v. Resolute Ins. Co., 48 N. Y. R. 114). The court say, of an offer to prove that the difference between the policy applied for and the policy sent was not discovered until after the fire, that it could not change the construction of the instrument. “ The failure of the insured to read the policy could not enlarge the liability which it imposed upon the defendant.”
+Applying the case just cited to the one under exami'nation, it must Tbe assumed that the insured agreed to the description in the policy, and is as much bound by it as by any other part of the instrument.
+But independently of this. The same evidence, which the court at Special Term found to be insufficient to establish a mistake in the contract, is used to sustain the general finding, that the description as to the location of the merchandise was furnished to the defendants by the assured. And we think the evidence sustains that finding also. Indeed, the allegations in the complaint substantially concede that the assured was responsible for such description. It is averred that at the time of the insurance, the merchandise was in letter A, of the Patterson Stores, and that “the statement that the same was in section C, was wholly through inadvertence and mistake.” •
+In the view we have taken of the law of this case, the objections to the admission of evidence were properly overruled; and our decision also covers and disposes of the several exceptions to the findings of the court.
+Upon the whole case we think the court below arrived at a correct conclusion, and that the judgment should be affirmed, with costs.
+Freedman and Curtis, JJ., concurred.
