@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1881-11"
+citations: ["10 Abb. N. Cas. 128"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FISCHER v. LANGBEIN."]
+source_url: "https://static.case.law/abbn-cas/10/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 626321
+cites_cases: ["3 C. B. 185", "3 Lans. 53", "81 N. Y. 235"]
+---
+
+# Fischer v. Langbein
+
+## Majority (Lawrence, J.)
+
+Lawrence, J.
+The examination which I have been enabled to give to this case since recess has only served to strengthen the opinion which I intimated to counsel before the court rose. It is conceded, on all hands, that the court of common pleas had jurisdiction in the case of Fischer v. Saab, in which the original order, which has been the cause of this controversy between these parties, was made. The order was made by that court, a court of competent jurisdiction, after this plaintiff and his opponents had been heard, and after full consideration of the subject. It is true that, upon appeal, the court of appeals has reversed the order of the special term, and also the order of the general term of the court of common pleas, affirming the order of the special term, and has declared that that order was erroneous. But they have nowhere declared, and they could not have declared, that the court of common pleas did not have jurisdiction of the action of Fischer v. Raab, and, therefore, to my mind the case presents the ordinary feature of a case in which both the special and general terms have decided one way, and the court of appeals, after consideration, have decided another, and I think it would be a very dangerous rule for any court to lay down that a counsel, or an attorney, who has been sustained by the courts below in the proceeding which he has adopted, a proceeding taken after full consideration, after all the parties had been heard and all their rights considered, should be liable in an action at the hands of the party against whom the proceedings "were taken. The cases which have been cited from the English courts are extremely strong. On this point I cannot distinguish the case of Williams v. Smith, and cases cited (14 C. B. N. S. 196; S. C., 108 Eng. C. L. 596), in any particular from this • case; the head note by the reporter is as follows : “Upon a change of solicitors in certain suits in equity, an order was made by the master of the rolls requiring the former solicitor to hand over to the newly appointed solicitor all papers and documents in his possession, custody or power, relating to the suits. Some of the papers were in the hands of counsel, and others in the hands of a law stationer, who respectively claimed liens thereon for fees and charges ; and the solicitor, alleging that his client had undertaken to provide funds for fees and disbursements, but had failed to do so, was consequently unable to comply with the order as to those papers. The newly appointed solicitor, upon an affidavit alleging the neglect to obey the order, but not mentioning the excuse set up, obtained from the clerk of the records and writs, a writ of attachment, under which the former solicitor (already in custody for debt), was detained. An application having been fruitlessly made to the master of the rolls to set aside the judgment, upon a statement of all the facts, the former. solicitor appealed to the lords justices, who reversed the decision of the master of the rolls, with costs, and ordered the writ to be set aside, and the solicitor discharged from custody. It was held that neither the solicitor who so sued out the attachment, nor the client, was liable in trespass.”
+I cannot distinguish the case at bar from that case in any particular.
+As regards the irregularity which was spoken of by Mr. Smith, I think-that was a matter entirely within the power of the court to amend.
+As to the detention, of the plaintiff by the sheriff after lie had made payment, that seems to me to be an act of the sheriff. The sheriff was not obliged to take Mr. Langbein’s opinion, nor was Mr. Langbein bound to give any opinion. There was the order of the court, the commitment, and the act of the sheriff. It is one of the risks and hazards of the sheriff’s office to determine at his peril whether he can or cannot further detain a party in his custody under a certain writ or process.
+I wish also to say, in dismissing this complaint, I rely not only upon the case to which I have referred at length from the English reports, but also to another English case, the case of Cooper v. Harding (7 Adol. & E. N. S. 928, &c.), and also Simpson v. Hornbeck (3 Lans. 53), referred to by the counsel for the defendants.
+I desire also to state generally, as I have endeavored to state before, that if any wrong was done to the plaintiff in this case, it seems to me to have proceeded from the error of a judicial tribunal, for which an attorney and counselor could not, and ought not to be held liable.
+I ought also to state, that it appears, from the testimony in the case, that not only was the course of the Messrs. Langbein predicated upon the action of the court of common pleas, but it was certainly sustained by the judicial determination of two justices of the supreme court, Presiding Justice Davis, and Justice Beady.
+For these reasons I dismiss the complaint.
