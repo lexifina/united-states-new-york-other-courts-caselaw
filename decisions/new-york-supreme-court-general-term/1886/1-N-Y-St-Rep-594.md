@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-06-30"
+citations: ["1 N.Y. St. Rep. 594"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James K. Sellick, appellant, v. William H. Keeler, respondent."]
+source_url: "https://static.case.law/ny-st-rep/1/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 637513
+cites_cases: ["30 Hun, 380", "40 N. Y., 221", "46 N. Y., 236", "56 N. Y., 273"]
+---
+
+# Sellick v. Keeler
+
+## Majority (Bocees, J.)
+
+The facts will be found in the opinion.
+Bocees, J.
+The defendant, as sheriff, levied on the property in dispute, under an execution in his hands, in favor of George W. Rogers, against Rozel F. Pickert and Hattie F. Pickert, judgment debtors named in the process. The property was claimed by the plaintiff, and this action was brought on his claim thereto.
+The question litigated was whether the property was or was not the property of R. F. Pickert, the judgment debtor, it being insisted by the defendant that it was his property in fact, and that the plaintiff’s alleged title and claim thereto was put forward in fraud of Pickert’s creditors, to hinder and delay them in the collection of their demands against him. Evidence was given tending to show the defense well based, and the jury by their verdict settled the question in favor of the defendant.
+We think the verdict well sustained by the proof. It tended strongly to show that the plaintiff’s alleged title to the. property was merely colorable, put forward under a scheme gotten up by Pickert, with the help of the plaintiff, as a mere cover or disguise for Pickert’s benefit and to aid him in conducting his business and to protect the property against the claims of his creditors. It tended to show a scheme of fraud—a conspiracy to defraud his creditors. We should not, on this appeal, as we think, interfere with the verdict on the merits as disclosed by the proof.
+There are, however, some rulings on questions of evidence which demand attention. Statements made by Pickert, the judgment debtor, were allowed in evidence against objection and exception, to the effect that the property and business were his own, and that the business was conducted under cover because of his creditors. It was in evidence that he conducted the business at a store in Albany, and there had possession of the property. The objection to the evidence was that the particular statements and admissions objected to were made by him at a place or at places other than the store where the business was conducted and where the property was situated, and without connection at all with the conduct of the business; and we are cited to the decision in Roeber v. Bowe (30 Hun, 380), in support of the alleged ground of error. The doctrine of that case is undoubtedly sound. The reason for the rule there laid down is somewhat elaborately stated by Judge Folger in Tilson v. Terwilliger (56 N. Y., 273, 277). But the evidence was doubtless admitted in this case on the ground that it sufficiently appeared to make it admissible that Pickert was a co-conspirator with the plaintiff and others in carrying out a. scheme to defraud Pickert’s creditors. _ We need only say that the bare reading of the evidence in the case strongly indicates such scheme and purpose; and in this view the admission of the evidence was proper. Cuyler v. McCartney, 40 N. Y., 221; Dewey v. Moyor, 72 id., 70. We are of the opinion that the evidence was admissible as the case stood on the proof.
+It is next urged that the discharge of Pickert from his debts under what is usually called the two-thirds act, now provided for by the Code of Civil Procedure, was erroneously rejected. We conclude otherwise. The discharge was offered without the record of the proceedings on which it was based. It was objected to and rejected on the ground that it did not recite or state the facts necessary to jurisdiction. It was held in Bullymore v. Cooper (46 N. Y., 236), that it is not sufficient that the discharge shows general jurisdiction of the subject matter; but that jurisdiction of the person and of the especial case was acquired by the taking of the necessary steps prescribed by the statute; and that if it fails in any of these particulars, the facts needful to jurisdiction must be established by proof aliunde. Now this discharge was faulty in the very first fact necessary to be stated or recited in it; to wit: that the petition for discharge specified the residence of the petitioner. Code § 2151. This was a jurisdictional fact which should be stated in the discharge in order to make it evidence without other proof. The recital in this discharge that “ Eozel F. Pickert, an insolvent debtor, residing at Mohowk, in the county of Herkimer, N. Y.,” is not a statement or recital that his residence was specified in his petition as at Mohawk, nor was it equivalent to such statement or recital This single omission was fatal to the discharge as evidence without other proof. This single defect or omission was sufficient to sustain the ruling rejecting the discharge, and it is unnecessary to consider other points of difficulty appearing, as is alleged, on tho face of the papers. Our attention is not called by counsel to any other exception requiring particular comment.
+Judgment and order appealed from affirmed with costs.
+Lardón and Parker, JJ., concur.
