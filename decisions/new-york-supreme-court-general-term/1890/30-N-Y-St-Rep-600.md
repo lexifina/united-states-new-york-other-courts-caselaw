@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-04-11"
+citations: ["30 N.Y. St. Rep. 600"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emory J. Bishop, Resp’t, v. The Agricultural Ins. Co. of Watertown, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0600-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669275
+cites_cases: ["101 N. Y., 462", "39 Hun, 319", "46 Hun, 151", "47 Hun, 30", "73 N. Y., 480", "93 N. Y., 507"]
+---
+
+# Bishop v. Agricultural Ins.
+
+## Majority (Corlett, J.)
+
+Corlett, J.
+In May, 1887, the defendant issued policies of insurance to the plaintiff, which covered a barn and personal prop-' erty. In October, 1887, the insured property burned. It was situated about nine miles southeast of Medina in the county of Orleans. No proof of loss was served by the plaintiff within sixty days, as required by the policies, nor was the loss appraised. The plaintiff appointed one appraiser, and the company another, but they failed to agree upon a third.
+The plaintiff brought this action, which, was tried at the Orleans circuit in October, 1888, before Justice Lewis and a jury, which found a verdict in favor of the plaintiff for $2,307.20. A motion for a new trial was made'and denied. Judgment was entered on the verdict, and the defendant appeals from that judgment and order to this court.
+The appellant comes here with two contentions, based upon the provisions of the policies, which are in substance as follows :
+First. That after the fire, and within sixty days, unless the time was extended by the company in writing, the insured should serve on the company, in writing, a detailed statement of the loss, etc.
+Second. That in the event of disagreement as to the amount of the loss, the same should be ascertained by two competent and disinterested appraisers, each party selecting one, and the two so chosen shall appoint a competent and disinterested umpire.
+Third. That the company should not be deemed to have waived any provisions in the policy.
+Fourth. That no-suit should be brought until all the provisions should be complied with.
+Fifth. That the insured took the policies subject to the provisions therein mentioned.
+About a week after the fire, Addice Dewey, the regular adjuster and general agent of the company, came to the plaintiff’s house and the place of the fire, and the plaintiff’s evidence tends to show that he then stated to the plaintiff that he need not furnish any proofs of loss; that the adjusters would be there presently and settle the matter up. The plaintiff’s evidence also tends to show that Samuel E. Clark, who issued the policies, stated to the plaintiff that he 'need not make out any proofs of loss. The plaintiff also gave evidence tending to show that by reason of those statements he omitted to make out or serve any "proofs of loss until after the sixty days. The jury found the above matters in favor of the plaintiff.
+It was undoubtedly competent for the company, through its general agent and adjuster, to settle the loss without the service of any proofs. The provisions in the policies that the time of service should not be extended except in writing, have no application. It was not extended, or attempted to be, but, as the jury found, service was absolutely waived. Goodwin v. Mass. Mutual Ins. Co., 73 N. Y., 480; Smith v. Home Ins. Co., 14 N. Y. State Rep., 106 ; 47 Hun, 30; In re Cooper, 93 N. Y., 507-512; Underwood v. Farmers’ Joint Stock Ins. Co., 57 id.. 500; Craighton v. Agricultural Ins. Co., 39 Hun, 319; Hampton v. Boylan, 46 Hun, 151; 10 N. Y. State Rep., 788. And numerous other cases, which might be cited, show that upon the above facts there was a waiver and estoppel.
+As appraisers the company appointed Langworthy' and the plaintiff, Headley. Headley was unable to serve, and on the 30th day of December Dixon was appointed in his place; his substitution was inserted in the contract by Langworthy. Thereupon he and Langworthy endeavored to agree upon an umpire. There was evidence tending to show that Mr. Langworthy had often acted as an appraiser for the defendant, and numerous times for other insurance companies; that he was quite active in favor of the defendant; that he refused to accept any umpire suggested by Dixon who lived either in Medina, Lockport or Albion; that Dixon mentioned the names of several persons, including one Warren, who Clark, the agent, said was a fair man and would make a good umpire. '
+Mr. Langworthy proposed one in Oswego, one in Elmira, and one-in Buffalo, and absolutely refused to consent to the appointment of any other person, stating to Dixon: “When you get ready to accept either of these men, you write and let me know.”
+The plaintiff’s claim is that Mr. Langworthy intended to secure one who would be a partizan of the company, or to defeat an appraisal altogether.
+The trial justice submitted the question of Langworthy’s good faith in selecting an umpire to the jury. On this point the exceptions of the learned counsel for the defendant to the charge were not based upon the ground that there was no evidence tending to show bad faith on the part of Langworthy, but upon the -ground that Langworthy in no way represented the company, and that his conduct could not bind it. The evidence above referred to, his relations to the company, his efforts in its behalf, the fact, that he sent the contract after he inserted Dixon’s name to the company without,, so far as appears, any objections to this act on its part, in connection with the conceded fact that he was the appraiser selected on the part of the company, were sufficient to make the company responsible for Langworthy’s acts in reference to the appraisal. Ho duty rested upon the plaintiff to ignore Langworthy and open fresh negotiations with the company. Uhrig v. Williamstown City Fire Ins. Co., 101 N. Y., 462; 1 N. Y. State Rep., 17, supports the charge of the trial justice. Ho other grounds, for reversal are urged by the learned counsel for the defendant.
+The order and judgment must be affirmed.
+Dwight, P. J., and Macomber, J., concur.
