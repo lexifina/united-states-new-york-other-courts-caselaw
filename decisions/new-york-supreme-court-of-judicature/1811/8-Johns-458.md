@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court of Judicature"
 decided: "1811-10"
-citations: ["8 Johns. 458", "8 Johns. 460"]
+decided_precision: "month"
+citations: ["8 Johns. 458"]
 reporter: "johns"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["Sebring against Wheedon."]
 source_url: "https://static.case.law/johns/8/cases/0458-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2134260
-cites_cases: ["2 Johns. Rep. 199"]
 ---
 
 # Sebring v. Wheedon
