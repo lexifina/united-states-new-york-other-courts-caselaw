@@ -1,7 +1,8 @@
 ---
 court: "Brooklyn City Court"
 decided: "1893-02"
-citations: ["3 Misc. 20", "3 Misc. 19"]
+decided_precision: "month"
+citations: ["3 Misc. 20"]
 reporter: "misc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Brady v. Valentine."]
 source_url: "https://static.case.law/misc/3/cases/0020-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 687254
-cites_cases: ["127 N. Y. 381", "19 N. Y. St. Repr. 447", "20 Wkly. Dig. 67", "5 N. Y. St. Repr. 454", "78 N. Y. 310"]
+cites_cases: ["127 N. Y. 381", "78 N. Y. 310"]
 ---
 
 # Brady v. Valentine
