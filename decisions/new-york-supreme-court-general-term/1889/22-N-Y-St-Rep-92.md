@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-02-11"
+citations: ["22 N.Y. St. Rep. 92"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Benjamin F. Hobby et al., Resp’ts, v. Edward P. Day et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/22/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020676
+cites_cases: ["45 N. Y., 766"]
+---
+
+# Hobby v. Day
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+—This is an action for the foreclosure of a mechanic’s lien for materials used in the construction and erection of two houses.
+There seems to have been no dispute about the claim, but-the defense to the action was -based upon the following-facts:
+The defendant was the owner of two lots of ground in the city of Brooklyn, and he made a contract. with one Spicer by which Spicer was to purchase the two lots of the defendant and erect two houses thereon. The purchase-price was to be $5,500, and the defendant was to make a. builder’s loan to Spicer of $5,600, to be advanced as required, for which Spicer was to give him a bond and mortgage on the premises when the buildings were completed, at-which time Spicer was to receive his deed for the premises.
+Neither the deed nor the mortgage were ever executed, and so the title to the premises remained in the defendant.
+The plaintiffs furnished materials for the buildings, and the facts upon which the defendant relies constitute no defense to the action.
+The plaintiffs acquired a lien upon the premises, and the-peculiar relations existing between Spicer and the defendant will not enable the latter to avoid its effect, because whatever else he may claim it is true that the materials were furnished with his knowledge and consent and he has received the benefit thereof.
+Under all the circumstances, we think the conclusion reached by the trial judge was justified by the decision of the court of appeals in the case of Rollin v. Cross, 45 N. Y., 766.
+The judgment should be affirmed, with costs.
+All concur.
