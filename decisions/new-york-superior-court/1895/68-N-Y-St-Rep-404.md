@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1895-07-01"
+citations: ["68 N.Y. St. Rep. 404"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Solomon Feiner, App’lt, v. Max Kobbe, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/68/cases/0404-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2116229
+cites_cases: ["137 N. Y. 506", "42 N. Y. 203", "51 St. Rep. 179"]
+---
+
+# Feiner v. Kobbe
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+— The action is for brokerage claimed for effecting an exchange of real estate in this city. The defendant owned the tenement house No. 77 Broome street, and one Joseph Newborg owned the flat known as “No. 124 East Eighty-fifth street.” The defendant consented to take the fiat at $30,000 in exchange for his tenement at $28,000, the difference to be paid in cash. Such assent was expressed in a memorandum signed by the defendant, in which it was stated that a formal contract would be made at 10 A. M. on the following day, at the office of his attorneys, A. & L. Levy, No. 25 Chambers street. The defendant attended at the agreed time and place, ready to execute the formal agreement contemplated, but Newborg did not appear. The plaintiff claimed that he had power to represent Newborg, but the defendant declined to consummate the exchange in his absence, and as a consequence, the exchange fell through. We fail to discover how the plaintiff, on the facts stated, became entitled to brokerage. The memorandum signed by the defendant expressly provided that the principals to the transaction should meet at the office of the Messrs. Levy, for the purpose of reducing their proposals to the form of a written obligation, to be signed by each. No time for closing the title had been agreed upon, the character of the deeds or covenants required had not been discussed, and nothing mentioned as to how the interest on the different mortgages covering the two properties was to be adjusted, or the rents apportioned and paid by the one owner to the other. The plaintiff had no written authority from Newborg to execute a formal contract for him ; nor does it appear that he was prepared to adjust any of the preliminaries necessary to a final understanding between the parties, or even possessed the knowledge essential thereto. According to his evidence, he was the broker of both parties, and infer-en tially had no more power to represent one than the other, and possessed no authoriv to make a written contract for either. The general rule undoubtedly is that, when a broker employed to negotiate a sale of real estate brings to his employer a responsible purchaser, willing to buy upon the terms prescribed, he has earned his commissions (Gilder v. Davis, 137 N. Y. 506; 51 St. Rep. 179, and kindred cases); and the employer cannot, by refusing to enter into a contract with a purchaser procured by a broker, escape liability for brokerage; for as the court of appeals in Barnard v. Monnot, 33 How. Prac. 440, *42 N. Y. 203, said:
+“The duty of the broker consisted in bringing the minds of the vendor and vendee to an agreement. He could do no more. He had no power to execute a contract, to pay the money for the one side, to convey the land on the part of the other, or to compel performance of either of these duties.”
+This case differs essentially from. Barnard v, Monnot, supra, in that here the defendant did not refuse to enter into a contract with a person procured by the plaintiff; on the contrary, he was ready and willing to make such contract, and attended at the office of his attorneys at the time and place stated in the memorandum, for the express purpose of joining in such contract; and the failure was owing exclusively to the neglect of Newborg to execute the terms of the contract on his part. The distinction is clearly stated in Platt v. Kohler, 65 Hun, at page 560, as follows:
+“Where a principal refuses to carry out a transaction made by his broker on terms duly authorized, the broker may recover, for he is not to be deprived of his compensation because the principal retreats, or changes his mind. The broker has then done all he can. But where the principal stands ready to perform, to enter into a contract on conditions he has authorized, and the party produced by the broker refuses to conform thereto by entering into a binding obligation, the broker has failed to effect the purpose of his employment; he has not found a person ready and willing to take on the agreed terms, and his principal is not liable for commissions.”
+The defendant insisted upon having a formal contract in writing giving in detail all the terms and conditions of the exchange, and had a right to impose this condition before assenting too trade, or making himself liable for brokerage. The failure to effect the exchange is not chargeable to any misconduct of the defendant, but is owing to inexcusable absence of Newborg, the proposed purchaser, whom the plaintiff impliedly undertook to produce at the time and place appointed for the execution of the formal contract.
+For these reasons, and those assigned by the trial judge, the complaint was properly dismissed; and the judgment entered on such dismissal must be affirmed, with costs.
+All concur.
