@@ -1,0 +1,21 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1894-05-07"
+citations: ["59 N.Y. St. Rep. 207"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nina H. Dearing, Resp’t, v. Aylma Y. Pearson, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/59/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1979060
+cites_cases: ["55 St. Rep. 774"]
+---
+
+# Dearing v. Pearson
+
+## Majority (Bischoff, J.)
+
+Bischoff, J.
+The action was to recover damages for plaintiff’s wrongful discharge from defendant’s employment under a contract for theatrical services and resulted in a verdict and judgment for plaintiff. Feeling aggrieved, defendant undertook to- appeal to the general term of the court and towards that end made and served his proposed case on appeal. To the proposed case plaintiff caused a proposed amendment to be served, which on settlement of the case was allowed. Thereafter defendant moved to have the case resettled and the amendment disallowed which was denied, and from the order denying his motion, defendant appealed to the general term of the court below where it was affirmed. From the order of affirmance this appeal is .taken. On the trial there was some contention on defendant’s part concerning the service of an alleged notice of defendant’s election to terminate the contract of employment. The proposed case on appeal from the judgment contained a request by defendant’s counsel to charge as follows: “I ask the court to charge that if the jury believe the custom as to two weeks’ notice existed, they must give only salary for the two days short of the two weeks,” to which the trial justice responded, “Beclined.” From the proposed case it then appeared that the trial justice proceeded to charge, li But I charge that in that event, that would be the extent of the damages recoverable b.v her in this action,’1 and then followed defendant’s exception. The purport of defendant’s motion for re-settlement of the proposed case on appeal was to have the matter appearing as charged expunged so that defendant’s exception would appear as having been taken to the refusal to charge. On the motion for resettlement of the case it appeared for defendant, from the stenographer’s minutes and the affidavits of Messrs. Bowman and Close, that the matter purporting to have been charged was in fact not charged, while from the affidavits of plaintiff’s counsel, Messrs. George M. Leventritt, Levy and Helling, it appeared that the matter was charged, pending a colloquy between the trial justice and counsel for the respective parties, if not in the exact language of the case, in substance. Upon this conflict of evidence we are obviously unable to say that the trial justice erred in his denial of defendant’s motion, and must assume that, assisted by his own recollection, the justice determined plaintiff’s contention to accord with the actual occurrences. An appellate court will never presume that the court from which the appeal is taken erred, and it is incumbent therefore upon the appellant in every instance to show the error complained of affirmatively. It was the province of the general term of the court below to correct any error appearing from the preponderating effect of the evidence, but the order of affirmance is conclusive upon us in that regard. At any rate, the error, if any, of the denial of defendant’s motion was rendered harmless by the stipulation of counsel that the appeal from the judgment be heard and determined without reference to the matter sought to be expunged from the case, and that the case on appeal from the judgment be for that purpose deemed amended so as to conform to defendant’s contention on the motion for resettlement. Our opinion in the disposition of the appeal from the judgment is evidence that the stipulation was acted upon on our part. Order affirmed, but in view of the stipulation referred to, without costs to either party as against the other.
+Bookstayer, P. J.—In as far as the appeal from the order is concerned, I concur.
