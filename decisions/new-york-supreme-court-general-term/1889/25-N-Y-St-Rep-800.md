@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-06"
+citations: ["25 N.Y. St. Rep. 800"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John S. Riggs, Resp’t, v. Commercial Mutual Insurance Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/25/cases/0800-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657883
+cites_cases: ["18 Fed. Rep., 250", "43 N. Y., 389", "51 N. Y. Supr. Ct., 466", "62 N. Y., 47"]
+---
+
+# Riggs v. Commercial Mutual Insurance
+
+## Majority (Dugro, J.)
+
+Dugro, J.
+The stipulation between the parties reads: “It was considered by both parties that if the decision of this (the superior) court in the steamship company’s case, holding that the vessel was a total loss, should be affirmed by the court of appeals, the plaintiff herein would then be entitled to recover if J. L. Tobias had an insurable interest in the vessel, and it was thereupon agreed that the question of J. L. Tobias’ insurable interest in this case should be re-orgued at the general term, and that the decision of the general term on such reargument should be final, so far as the plaintiff was concerned. Whereupon it is agreed that this cause be reargued at general term on the question of J. L. Tobias’ insurable interest,” etc. The only question before this court is, did Tobias have an insurable interest? If he did, the decision of the general term on this question, by a fair interpretation of the stipulation, is to be final in regard to the appeal.
+The defendant, in the statement of his brief, says: “Upon, March 15, 1879, the appellant, the Commercial Mutual Insurance Company, issued to one Joseph L. Tobias a policy of insurance upon the steamer Falcon for the sum of $1,000. * * * Tobias was, at the time of effecting this insurance, a stockholder in the Merchants’ Steamship Company, which then owned the steamers Sea Gull and Falcon.” Accepting" this as a correct statement of facts, I think Tobias had an insurable interest in the vessel; for he had such an interest in it as that by its destruction he would suffer pecuniary loss. Seaman v. Insurance Co., 18 Fed. Rep., 250; 21 id., 778. An insurable interest may exist without any estate or interest in the corpus of the thing insured. Springfield Co. v. Allen, 43 N. Y., 389, 395, 396.
+The question is one of damages rather than title or possession, and it will be enough if such a relation exists between the assured and the property that injury to it will, in natural consequence, be loss to him. And it is not necessary to show that the insured is the legal or equitable owner. Rohrbach v. Insurance Co., 62 N. Y., 47. That the policy runs to the plaintiff, and by its terms insures his interest in the vessel (he being neither legally nor equitably the owner of the vessel), does not prejudice the plaintiff’s claim. There is no doubt what property the plaintiff and defendant meant to insure, or that it was that which was destroyed. Rohrbach v. Insurance Co. (supra, 60).
+With this opinion, I think the judgment of the special term appealed from should be affirmed.
+All concur.
