@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1878-10"
+citations: ["22 N.Y. Sup. Ct. 447"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Daniels and Potter, JJ., concurred."]
+parties: ["J. E. SMITH, Appellant, v. JAMES McNAMARA, sued herein as JAMES MACK, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/22/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1909636
+cites_cases: ["9 How., 136"]
+---
+
+# Smith v. McNamara
+
+## Majority (Ingalls, P. J.:)
+
+Ingalls, P. J.:
+We are convinced that the motion was decided correctly. Francis L. Lathrop was appointed by the chancellor of New Jersey receiver of the Central Railroad Company of New Jersey, and qualified as such receiver, and assumed control of the assets and affairs of such company. He was the officer of the court, and the property of such corporation passed to the custody and control of such court. (Van Rensselaer v. Emery et al., 9 How., 136.) Judge Harris remarks, “ as such receiver he is the officer of the court;” or, as he has been aptly called, “the hand of the court.” (1 Barb. Chancery Prac., 658.) “ He is subject to the order and control of the court.” Again, “when the appointment was perfected by giving the requisite security, he became entitled to the partnership effects; the effects thus in his possession are deemed to be in the custody of the court and will not be disposed of, it is to be presumed, without a hearing of all parties who have a right to be heard. To enjoin a receiver, under such circumstances, is but to restrain the court itself from making the proper order for the disposition of the funds which may come into the hands of its officers.” (Curtis v. Leavitt, 1 Abbott, 275; Noe v. Gibson, 7 Paige Chy., 513.) In the case last referred to, property in the hands of a receiver was seized by virtue of a distress warrant for rent, and the chancellor held it a contempt of court, and says “ it is well settled that after a receiver has been appointed, and has taken the rightful possession of the property, it is a contempt of the court for a third person to deprive him of that possession by force, or even by a suit or other proceeding against him without the permission of the court big whom the receiver was appointed.” (2 Vol. Waite’s Practice, page 171.)
+Whether the learned judge at Special Term intended to deny the application, on the ground that he had not the power to grant it consistently with established legal principles, or was deterred from making the order out of respect for the tribunal which appointed the receiver, is not stated. Either reason would justify the decision. It would tend to great embarrassment and perplexity, if property of a corporation, which is held by a receiver, should be allowed to be diverted and distributed through the agency of proceedings such as have been instituted in this case. All the parties to these proceedings are' residents of the State of New Jersey, where the railroad is located, and where the services were rendered, the cotopensation for which is sought to be reached through the proceedings complained of by the respondent. It is clearly against the policy of the law to justify such an irregular and vexatious'interference with the orderly and customary method of adjusting and winding up the affairs of a coiporation, after a receiver has been appointed. When a court of competent authority has assumed control in such a case, and possesses a jurisdiction adequate to grant proper relief to all parties interested, such court should be applied to, instead of instituting numerous proceedings before other officers and tribunals, to reach a result which could be attained with less expense and trouble, by a direct application to the court which appointed the receiver. The fact that in conducting the affairs of this receivership, certain of its business must necessarily bo transacted in the city of New York, does not, under the circumstances developed' in this case, in our judgment vary the general rule. If it be assumed that the corporation owed money to such judgment-debtor, and that his creditor had become entitled to it, as between such debtor and creditor, yet the fund sought to be reached remains unchanged in the hands of the receiver, and under the control of the court, and neither the court nor receiver became, in such sense, the debtor of such attaching creditor as to justify an application of any portion of the fund in the hands of the receiver to such claim, except under the direction of the court by which he was appointed.' It becomes unnecessary to express any opinion in regard to the regularity or sufficiency of the attachment- proceedings. The order should be affirmed, with costs.
+Daniels and Potter, JJ., concurred.
+Order affirmed,- with costs.
