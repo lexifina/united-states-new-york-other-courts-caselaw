@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1875-12"
-citations: ["13 N.Y. Sup. Ct. 80", "13 N.Y. Sup. Ct. 182"]
+decided_precision: "month"
+citations: ["13 N.Y. Sup. Ct. 80"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["PETER B. ROSS, Appellant, v. PETER B. ROSS and CORNELIUS P. ROSS, Exe
 source_url: "https://static.case.law/ny-sup-ct/13/cases/0080-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4445720
-cites_cases: ["1 Daly, 186", "13 Johns., 510", "18 Abb. Pr., 305", "18 N. Y., 560", "2 Bradf., 336", "20 Wend., 72", "21 How. Pr., 211", "26 N. Y., 448", "28 N. Y., 494", "3 Cow., 159", "34 N. Y., 195", "40 Barb., 521", "40 Barb., 556", "44 Barb., 489", "5 Den., 640", "5 Watts & Serg., 513", "57 Barb., 453", "6 Cow., 193", "6 N. Y., 268", "7 Wend., 322"]
+cites_cases: ["1 Daly, 186", "13 Johns., 510", "18 Abb. Pr., 305", "18 N. Y., 560", "20 Wend., 72", "26 N. Y., 448", "28 N. Y., 494", "3 Cow., 159", "34 N. Y., 195", "40 Barb., 521", "44 Barb., 489", "5 Den., 640", "57 Barb., 453", "6 Cow., 193", "6 N. Y., 268", "7 Wend., 322"]
 ---
 
 # Ross v. Ross
