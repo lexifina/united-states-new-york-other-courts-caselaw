@@ -1,0 +1,38 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-10"
+citations: ["79 N.Y. Sup. Ct. 168"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — O’Brien, P. J., Follett and Parker, JJ."]
+parties: ["William S. Keiley, as Receiver, etc., Respondent, v. Mechanics and Traders’ Bank, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/79/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4685820
+cites_cases: ["39 N. Y. St. Repr. 438"]
+---
+
+# Keiley v. Mechanics & Traders' Bank
+
+## Majority (Per Curiam :)
+
+Per Curiam :
+The Industrial Manufacturing Company, on the 24th of January, 1888, had certain notes under discount at the Mechanics and Traders’ Bank (this defendant).
+For the purpose of securing the payment of such obligations at maturity, it executed to the defendant a chattel mortgage upon all of its property, consisting largely of machinery then in use by it, and at the same time delivered to the defendant a bill of sale, embracing the same property, under which the defendant at once took possession.
+Subsequently an action was brought for the dissolution of the corporation, in which plaintiff was duly appointed receiver of its property and effects, and thereafter he commenced this suit to set aside the mortgage and bill of sale.
+The trial at Special Term resulted in an interlocutory judgment, declaring the chattel mortgage and bill of sale void, and decreeing that they be set aside. From that judgment an appeal was taken to the General Term of this court, resulting in its affirmance. (39 N. Y. St. Repr. 438.)
+By the interlocutory judgment a referee was appointed to take and state the accounts, and report to the court “ what amounts should be paid over to the plaintiff, in accordance with the terms and provisions hereof.”
+The referee reported that the plaintiff was entitled to have judgment against the defendant for the sum of $3,750, with interest thereon from the date of the conversion of the property, amounting to $958.75. The report being confirmed by an order of the court, a final judgment was thereafter entered.
+So we may consider on this review only the exceptions taken subsequent to the entry of the interlocutory judgment.
+The appellant calls our attention to some exceptions, taken by him to certain rulings of the referee, in the admission and rejection of testimony. But after an examination of the questions presented by them, the conclusion is reached that they do not call for a reversal of the judgment.
+The main contention of appellant is that the defendant should have been charged with the sum of $2,250, instead of $3,750.
+The secretary and treasurer of the “ Industrial Manufacturing Company ” testified that at the time of the giving of the mortgage and bill of sale, the machinery, fixtures and merchandise described in such instruments were worth between $7,000 and $8,000, the original cost being over $12,000. On the part of the defendant expert witnesses wei'e called, who gave to the property a much lower valuation, their estimates running from $1,531.50 to $1,161.
+It appears that almost immediately after the defendant took possession of the property two of the officers of the company, separately and each for himself, commenced negotiations with the officers of the defendant, to purchase the machinery and merchandise described in the chattel mortgage and bill of sale. The negotiations resulted in a sale of the property to one of them, and the referee reached the conclusion, not unwisely, that the sum which the defendant realized from the sale of the property, under the circumstances disclosed, furnished better evidence of value than that afforded by the testimony of the experts.
+'The appellant insists, however, that the referee found that the defendant received for the machinery and effects $1,500 more than it did in fact receive.
+The mortgage was given originally to secure a note for $2,250, and defendant contends that it was sold for a sum sufficient to pay that note only. There were two other notes not yet matured, which had been discounted by defendant for the benefit of the “ Industrial Manufacturing Company,” on one of which the indorser was entirely responsible, while on the other, which was a note of $3,000, the indorser was in poor credit, and failed some two or three months afterwards.
+The purchaser of the machinery actually paid $1,500 on account of this note, and while one of the defendant’s officers insisted that the payment of this sum was not provided for in the agreement ■which he made with him to sell the property, it is apparent that the purchaser understood that he was obliged to pay $3,750 in order to secure the property.
+He was willing to pay it and did pay it. After an examination of the testimony, which it is unnecessary to discuss here, we are of the opinion that the referee was fully justified in finding that the defendant received $3,750 for the property, and that it cannot complain of a determination fixing the value at a sum which it actually received for it.
+The judgment should be afiirmed, with costs.
+Present — O’Brien, P. J., Follett and Parker, JJ.
+Judgment affirmed, with costs.
