@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-07"
+citations: ["96 N.Y. Sup. Ct. 120"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman and Pratt, JJ., concurred."]
+parties: ["Susanne L. Emmer, Respondent, v. The Title Guarantee and Trust Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/96/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8593177
+---
+
+# Emmer v. Title Guarantee & Trust Co.
+
+## Majority (Brown, P. J.:)
+
+Brown, P. J.:
+The questions raised by this appeal relate to tbe measure of damages applicable to the facts of the case.
+Tbe material facts, as determined by tbe jury and now agreed upon by counsel, are substantially as follows:
+The plaintiff, having verbally contracted with one O’Neil to purchase tbe premises known as No. 125 Fourth avenue in tbe city of Brooklyn, employed the defendant to prepare the contract, examine and insure the title and to represent her in the transaction. The purchase price was to be $4,000, and the premises were to be conveyed subject to a mortgage of $9,000. By an error of defendant the written contract of sale described No. 123 Fourth avenue as the premises to be sold to the plaintiff, and defendant accepted for the plaintiff from O’Neil a deed for No. 123, subject to a mortgage for the amount aforesaid, and paid to him the sum of $4,000 which it had theretofore received from the plaintiff, and thereupon issued to plaintiff a policy guaranteeing her against all defects in or incum-brances upon the title so conveyed. Plaintiff thereupon entered into possession of No 125 Fourth avenue and continued in possession thereof until June, 1893, when she was evicted by the then owner thereof, who appears to have been a purchaser under a foreclosure of a second mortgage. At the time O’Neil entered into the contract with the plaintiff he owned both premises. Tlie were of equal value and each was incumbered with a first mortgage of $9,000, and at the time of the conveyance No. 125 was subject to a second mortgage of $5,000.
+Plaintiff discovered the error in the conveyance about three months after the delivery to her of the deed, and subsequent thereto, in an action brought for that purpose, recovered a judgment against O’Neil reforming the deed, and inserting therein the description of No. 125 in lieu of No. 123 Fourth avenue.
+The court charged the jury that if they found for the plaintiff she was entitled to recover $4,000, with interest from June 1, 1893, the date of the eviction, if the property was then worth that sum above the incumbrance. And it refused to charge that it was the duty of the plaintiff upon discovering the mistake in the description to sell the premises actually conveyed to her for the highest price obtainable and thus reduce the damages, and that in the absence of any evidence that there was a difference in the value of the two houses, defendant was not liable for more than nominal damages. The exception to these rulings presents the question to be considered on this appeal.
+The duty which the defendant owed to the plaintiff under its contract was not to pay over to O’Neil the sum of $4,000, which it had received from the plaintiff, until it received from him a conveyance of No. 125 Eourtli avenue, subject to no other incumbrance than a mortgage of $9,000. This obligation the defendant was bound to perform with reasonable care, and if by reason of its. negligence it parted with the money which it received from the plaintiff without obtaining for her a title to the property named, it immediately became liable to return to her that sum. The proposition that, because it received for her a deed for property of equal value, she suffered only nominal damages, is plainly uusound. The purchase of a piece of land cannot be likened to the purchase of corporate stocks or merchandise. Each piece .of land has a character and location of its own, and differs in some essentials from all other real estate. The plaintiff had a right to the conveyance of the lot of her choice, and she was not bound in her relations with the defendant to accept some other piece of land for the sole purpose of relieving it from the loss arising from its neglect. When it appeared, therefore, that the result of the defendant’s management of the business was that it had obtained from O’Neil the title to a piece of land other than that which the plaintiff intended to purchase, it became immediately liable to> restore to her the money it had received from her. Nothing that the plaintiff did after she discovered the mistake relieved the defendant from the liability to restore the money. It has not been charged with the costs of the action against O’Neil to reform the deed as it might have beeii if that action was prosecuted in good faith, and the fact that a second mortgage on No. 125 was foreclosed, and the plaintiff evicted from the property, has not increased the defendant’s liability.
+The pertinent and material fact in the case is that it received from the plaintiff $1,000 with which to acquire for her the title to a specific piece of land. It has not acquired the land, and it has paid away the money.
+The jury having found this to be the result of negligence, the obligation to restore the money is plain.
+The judgment must be affirmed, with costs.
+Dykman and Pratt, JJ., concurred.
+Judgment affirmed, with costs.
