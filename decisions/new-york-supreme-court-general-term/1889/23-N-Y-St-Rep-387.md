@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-03-09"
+citations: ["23 N.Y. St. Rep. 387"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gustav Kuhn, by his Guardian, App’lt, v. Annie J. Kuhn, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/23/cases/0387-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 653780
+---
+
+# Kuhn v. Kuhn
+
+## Majority (Brady, J.)
+
+Brady, J.
+An order was made in this action requiring the plaintiff to pay to the defendant alimony at the rate of four dollars per week, and the amount upon his failure to comply with the order, had accumulated to forty-four dollars on the 25th of August, 1888." On the 29th, a demand was made for the sum mentioned, by a person duly authorized to make it, on which occasion the plaintiff admitted that that amount was due. Thereafter an order was made on a proper precedurefor that purpose, requiring the plaintiff to pay the sum mentioned within five days from the service of a copy of the order, and provided that if he should, fail to comply with "the condition in the order by not paying the amount mentioned within the time specified, a commitment might issue to the sheriff of the county of New York directing and requiring him to arrest the plaintiff in this action, and to punish him for his contempt herein. Two objections were interposed to the propriety of this, order. One was that there was no demand made of the money admitted to be due as already suggested, and the-other was that there had b.een no determination under section 2281 of the code, that the failure to comply with the order was calculated to or actually did defeat, impair, impede, or prejudice the rights or remedies of the defendant which was indispensably necessary as contended prior to the issuance of a commitment.
+Embarrassment in considering and disposing of this appeal arises only from the peculiar character of the order-appealed from. Indeed, regarded as a final determination authorizing the commitment, it is imperfect for the reason that it does not comply with the requirements of section 2281, 'as suggested. „ But it would seem to have been impossible for the learned justice presiding in the court below to-have made such a determination, for the reason that he had given the plaintiff five days after the service of the order upon him within which to pay the same, and the failure to-pay it within that time would, therefore, require the further order of the court to justify a process of commitment, and on that application the court could determine whether or hot there had been, as required by section 2281, such conduct as was calculated to, and actually did, defeat, impair, impede or prejudice the' lights of the defendant.
+Inasmuch as the order directed the payment of the alimony in five days, and the defendant might, within that-period, pay the amount directed to be paid, the order must be regarded only as a final determination of the indebtedness, with the suggestion that a commitment might issue-in case of the failure of the plaintiff to pay as required. There wras abundant evidence to justify such an order, and. it must, therefore, be affirmed, with costs.
+Ordered accordingly.
+Yak Brunt, Oh. J., and Daniels, J., concur.
