@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-28"
+citations: ["2 Silv. Sup. 564", "24 N.Y. St. Rep. 722"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John DeWitt Walsh, Appellant, v. William C. Brown, as Assignee, etc., Respondent."]
+source_url: "https://static.case.law/silv-sup/2/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2169913
+---
+
+# Walsh v. Brown
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+This case was decided at the February general term. The action was brought to recover the value of certain tissue paper, and the question involved was whether the title to such paper passed to the defendant under an assignment for benefit of creditors, executed by Henry K. Thompson and William M. Thompson to William C. Brown the defendant.
+In the argument and decision of the case, the act passed May 15, 1888, amending the act entitled “ An act in relation to assignment of estates of debtors for the benefit of creditors,” being chapter 294 of Laws of 1888 (page 509), was entirely overlooked and hence this motion is made.
+The act referred to provides as follows:
+“ Every conveyance or assignment, made by a debtor, of his estate, real or personal, or both, to an assignee for the creditors of such debtor, shall be in writing, and shall specifically state therein the residence, and the kind of business carried on by such debtor at the time of making the assignment, and the place at which said business shall then be conducted, and if such place be in a city, the street and number thereof, and if in a village or town, such apt designation as shall reasonably identify such debtor. Every such conveyance or assignment shall be duly acknowledged before an officer authorized to take the acknowledgment of deeds, and shall be recorded in the county clerk’s office, in the county where such debtor shall reside, or carry on his business, at the date thereof.”
+The act took effect July 1, 1888.
+The assignment was made on the 17th of July, following, and failed to state the “ kind of business ” carried on by the assignees at the time of the assignment.
+Assuming that the statute was intended to establish a new rule as to assignments, and that it is mandatory, the question arises, whether it is incumbent upon the court at this time, to grant a re-argument.
+The case was decided rightly upon the facts and law as presented at the last general term when it was decided. It is not claimed that the court overlooked any point presented at that time, but it appears that court and counsel were ignorant of the statute above quoted, and the case was decided upon the facts and law as they were supposed to exist at that time.
+The parties are presumed to know what the law is, even if the court, does not; and when the assignment was offered in evidence, it was the duty of the plaintiff to make such objections to its introduction as he intended to rely upon, and all other objections were then and there waived.
+The mistake was one easy to occur, as the official copy of the statute had been distributed but a few days. In fact it is doubtful if the act had been published at all, except in a fragmentary way, in newspapers ; therefore no one was in fault, in being ignorant of its passage.
+No good purpose can be served by granting a re-argument and reversing the judgment.
+The assignment was eminently equitable and just, and.' under the present judgment the property will be equally divided, but if it is reversed, the assigned property will be diverted from an equal distribution among the creditors.
+We think the plaintiff must stand by the theory of his case presented by his complaint, and upon the trial.
+Motion denied,
+All concur.
