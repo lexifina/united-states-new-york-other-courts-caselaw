@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court"
+decided: "1894-12"
+citations: ["89 N.Y. Sup. Ct. 289"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Putnam and Herrick, JJ., concurred."]
+parties: ["Libbie E. Button, Appellant, v. Charles M. Hibbard, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/89/cases/0289-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4748026
+cites_cases: ["53 N. Y. 267"]
+---
+
+# Button v. Hibbard
+
+## Majority (Mayham, P. J.:)
+
+Mayham, P. J.:
+The first count of the plaintiff’s complaint alleged, in substance, that she was an unmarried female, and that the plaintiff and defendant, about the 24th day of June, 1891, made and entered into a mutual promise of marriage.
+The second count alleged that the plaintiff, relying upon such contract, had remained single and unmarried, and was at all times ready and willing to perform the contract on her part.
+The third count alleged the breach of the contract on the part of the defendant by his marrying another woman on or about the 30th day of November, 1892.
+The fourth count alleged that, relying upon the defendant’s repeated promises of marriage, she yielded to and was seduced by the defendant, whereby she became pregnant and sick with child, to which she gave birth on the 18th of June, 1892, and for all of which she claimed damages.
+The answer in substance denies all the allegations of the complaint except that of his marriage. The evidence upon the trial tends to show that for a considerable period of time the defendant paid markéd attentions to the plaintiff, escorted her to church and prayer meetings, and on various occasions kissed and caressed her, and frequently told her that he hoped she would think enough of him to marry him, proposed to purchase for her her wedding dress and received from her samples of dress goods, such as she" thought suitable for a wedding garment, and carried it with him to town with the avowed purpose of purchasing goods for her wedding dress, and by his conduct towards her and conversations with her evidenced emotions of affection and regard from which a jury might, within the rules of law governing this class of contracts, have found a mutual agreement of marriage. '
+These acts of attention and evidences of affection and regard occurred at the defendant’s while she was at work for him, and also at the house of the plaintiff’s father, and also quite often when the defendant took her riding. It also appeared that the defendant had given plaintiff presents, and told her that when they were married they would go to Niagara.
+On the cross-examination of the plaintiff she testified that, at the time of her seduction, the defendant proposed illicit intercourse with her and she objected. He told her it was all right. She replied that he might change his mind; he said he would not; that he would marry her if she would be seduced by him. Upon this testimony the learned trial judge, at the conclusion of the plaintiff’s evidence, dismissed the complaint on the -ground that the immoral consideration shown by this evidence would not support the promise. It is doubtless true that a promise of marriage, based wholly upon the consideration of illicit and adulterous intercourse, is void on account of the immorality of the consideration. (Steinfeld v. Levey, 16 Abb. Pr. [N. S.] 26; Lewis v. Goetschius, 20 N. Y. Wkly. Dig. 140.)
+But we think the learned judge fell into error in assuming that that transaction was the only evidence in the case from which a promise of marriage could have been legally found by the jury. The law is- well settled that a contract of marriage may be found by a jury from the familiar and affectionate intercourse which may exist between marriageable persons of opposite sex. Constant and devoted attention to each other, fondness for each other’s society, endearing epithets, caresses, rides and walks with each other, presents, familiar talk upon subject of intermarriage, plans for enjoyment, or of future life after marriage, exchanges of presents, and an innumerable variety of acts and conduct toward each other evincing attachment and regard, from which a jury are at liberty to presume a contract of marriage.
+In Homan v. Earle (53 N. Y. 267) Church, Ch. J., in delivering the opinion of the court, while discussing the correctness of the charge of a trial judge to a jury in this class of cases, says: “ As matter of law the learned judge was clearly right in holding that no formal language is necessary to constitute the contract of marriage. If the conduct and declarations of the parties clearly indicate that they regard themselves as engaged, it is not material by what means they have arrived at that state.” And at page 277 of the case the learned judge adds, “ AVhat the parties intended by these acts and declarations, what is the correct translation of them, is for a jury and not a court. It is a question of fact and not of law.”
+This language of the learned judge is but a reiteration of a rule long settled in this class of cases. In the case at bar it was for the jury to interpret and construe the facts detailed by the evidence, and from that determine outside of the immoral act upon which the learned judge dismissed the complaint that the minds of the parties had met upon a mutual contract of marriage as evidenced by their conduct and declarations. And it was, we think, error for the judge to take that question from them.
+The judgment must be reversed and a new trial ordered, costs to abide the event,
+Putnam and Herrick, JJ., concurred.
+Judgment reversed, new trial granted, costs to abide the event.
