@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-07-01"
+citations: ["2 N.Y. St. Rep. 155"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thompson Mayhew, appellant, v. Wallace Howard, respondent."]
+source_url: "https://static.case.law/ny-st-rep/2/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1976197
+cites_cases: ["36 N. Y., 20", "38 Barb., 445", "47 N. Y. 52"]
+---
+
+# Mayhew v. Howard
+
+## Majority (Boardman, J.)
+
+Boardman, J.
+This is an appeal from a judgment of the county court reversing a judgment for the plaintiff in justice’s court.
+Plaintiff and defendant agreed in writing that defendant should work plaintiff’s farm on shares, each to have one-half of the products, the defendant to sell the marketable products and pay plaintiff his one-half. The action was brought for the balance due plaintiff under this contract for certain produce sold by defendant. The answer was a general denial, and that defendant had paid plaintiff in moneysetc., to apply on his one-half of produce, $500 more than his share. On the trial plaintiff gave evidence tending to show the amount of sales made by defendant of hay, barley, etc., sold to certain persons from the farm, the amount received therefor by each of these parties, and thus showing the amount of the deficiency due plaintiff. There was also evidence of a demand and refusal. At the close of plaintiff’s evidence a motion for a non-suit was made, “On the ground that plaintiff had not proven facts sufficient to constitute a cause of action or facts sufficient to warrant the court in rendering judgment in favor of plaintiff.” The motion was denied. The defendant gave no evidence. There is not an objection or exception in the case besides the refusal to non-suit. The judgment for the plaintiff was reversed in the county court. The motion for a non-suit raised no question but the sufficiency of the evidence to make out a cause of action. We are of the opinion that a cause of action was made out as to each of the sales to Grant, Spicer, Barnes and Lauce. The sale-to Grant was conceded by defendant at the price of $391.88. It is proved that defendant received $200 of that amount- and _ plaintiff only $150; so that plaintiff was entitled to receive from defendant on account of that sale an additional amount of $45.94, the amount allowed by the justice.
+Defendant also concedes that he received for barley sold $39.90. It is proved that the barley was raised on the farm, and no part of the proceeds of the sale was paid, plaintiff. The one-half of this amount, $19.95, was allowed by the justice.
+Defendant also conceded that he sold hay to Spicer to the value of $361.95, and that he (defendant) received $200 of that amount. It is proved that plaintiff only received the balance of $161.95. The deficiency, $19.02, was allowed plaintiff by the justice.
+The evidence of the sale of a stack of hay for twenty dollars is not denied, and plaintiff never received any part of the pay. The one-half of this was allowed to plaintiff' by the justice.
+We must presume that all of these items are proceeds of property raised upon plaintiff’s farm. Some of them are proved to hdve been proceeds of farm produce. Some are admitted to be so. All of the evidence is admitted, without objection, and is within the issue made. If any one of the claims referred to was proved the nonsuit was properly denied. But counsel for respondent insists that the motion for a nonsuit should have been granted, because the plaintiff had failed to prove that the property sold was the produce of the farm. This position is not sound. The motion for the nonsuit should have pointed out this defect, if it was one, before advantage can be taken of it on appeal. Where there is any missing link of evidence necessary to-make out a cause of action, which could be supplied, it must be called to the attention of the court and the adversary, so it may be remedied, or it cannot be urged upon appeal. In such case the appellate court will not review a refusal to grant the motion for a noilsuit upon a mere-general objection. Mallory v. Traveller’s Ins. Co., 47 N. Y. 52; Biusse v. Wood, 31 id., 526; Shotwell v. Mate, 38 Barb., 445; affirmed 36 N. Y., 20; Belknap v. Seeley, 14 id., 143. So any supposed variance between the proof and the complaint must be distinctly stated and insisted upon at the trial or such variance will be disregarded. Belknap v. Seeley (supra).
+Upon the merits, the plaintiff has plainly established a right of recovery against the defendant for the amount allowed by the justice. The defendant has that amount of money, which, under the contract, belongs to the plaintiff. Possibly it was necessary to demand it. At least it was prudent to do so. The defendant has broken his contract, by which one-half the proceeds of the sales should have been paid to plaintiff. The right of action exists independently of any relations existing between them as tenants in common. It is an action on a contract for money due thereon. Their tenancy in common ceased when the defendant sold the produce, one-half as his own and the other half as plaintiff’s agent, pursuant to the contract. The money for plaintiff’s half came into defendant’s hands for plaintiff, and it was his duty to pay it over. Even if defendant would have been liable in trover, the plaintiff might waive and has waived the tort and sued upon the contract.
+The judgment rendered by the justice seems to us to have been, on the facts proved, just and we think its reversal was erroneous.
+The judgment of the county court must therefore be reversed and that of the justice affirmed, with costs.
+Hardin and Follett, JJ., concur.
