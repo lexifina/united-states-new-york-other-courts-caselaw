@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-10-21"
+citations: ["48 N.Y. St. Rep. 358"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of The City of Rochester, to acquire Lands for Park Purposes."]
+source_url: "https://static.case.law/ny-st-rep/48/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2089901
+cites_cases: ["27 Hun, 409"]
+---
+
+# In re the City of Rochester
+
+## Majority (Lewis, J.)
+
+Lewis, J.
+By chap. 193 of the Laws of 1888, the city of Rochester was authorized to acquire lands for a park for said city. Commissioners for that purpose were named in the act. The act contains the usual provisions found in the various park .acts passed from time to time - for other cities of the state. An examination of the records shows that all the proceedings were complied with which were required by the act to be taken for the •purpose of condemning the appellant’s lands. The act contains adequate provisions for compensation for lands taken. The fee ■does not vest in the city until it is paid for. The provision that the city'may sell at any time, at public auction, any lands purchased or condemned for purposes of the park which may be found to be unnecessary, is usual in park acts. The power is given to procure land for park purposes only.
+In laving out and arranging the lands that may be acquired into ■a park, if it be found that land taken is not needed for park purposes, the act provides that the city may dispose of it at public auction. It is not apparent why such a provision should be held to make the act void. It will not bear the construction that it gives authority to the commissioner to purchase or condemn land with a view of selling it. The principal contention of the appellant is that the commissioner did not award him what his land was worth. His exceptions relate solely to that question. The appellant’s testimony before the commissioners tended to show that there was a quantity of clay on the portion of his land selected by the city which was adapted to the manufacture of brick and mineral paints. His witnesses entered into a detailed estimate of the quantity of clay found upon the land which was suitable for the purposes mentioned. They gave hypothetical calculations as to what could be produced by converting the clay into brick and mineral paint, and from these calculations drew inferences as to the value of the land; and in the same manner they estimated the value of a portion of the appellant’s land because of the presence therein of some layers of rock. Such evidence is nofc very convincing, and is frequently quite unsatisfactory and misleading. . These theories were combatted by witnesses called by the-city; their evidence tended to show that the appellant’s witnesses-were in error as to the quantity and quality of clay and stone found upon the appellant’s land, and as to its adaptability to the manufacture of brick or paint. A number of witnesses were called by the city, who placed the value of appellant’s land at much less than -the amount awarded by the commissioners. The commissioners viewed the premises, as the act required they should, and they thereby presumably acquired important information, which aided them in fixing values.
+_An appellate court will not set aside an award of commissioners in such cases or reverse the decision of the special term confirming their report, unless it is made to appear that the commissioners adopted some wrong principle in arriving at the value: of the land, or unless the sum awarded be grossly inadequate and unequal in comparison with other valuations. Matter of Boston Road, 27 Hun, 409; Matter of N. Y., L. & W. R. Co., id., 116.
+We are satisfied from a perusal of the evidence that this is nob a case for reversal because of inadequacy of compensation. The appellant’s exception to the admission of the evidence that the quality of clay upon his land existed in large quantities upon other lands in the vicinity, was not well taken. One of his witnesses, in describing the quantity and quality of clay upon the appellant’s land, stated that he did not know of any other similar deposit of clay in that locality; and when the counsel for the city proposed to controvert this evidence by showing that there were hundreds of acres of better clay and better stone in the vicinity of Rochester, the appellant’s counsel objected.
+This evidence was proper not only because it controverted material and competent evidence introduced by the appellant, but for the further reason'that it tended to show that the clay upon appellant’s land was so common, and found in such large quantities in the neighborhood, that the theories and calculations of the appellant’s witnesses were erroneous and misleading. And it further negatived the claim that the appellant had a practical monopoly of that quality of clay.
+We have examined all the exceptions taken by the appellant, and find nothing in them justifying a reversal of the orders appealed from. The report of the commissioners was fully sustained and justified by the evidence. The orders appealed from should be affirmed, with costs.
+Dwight, P. J., and Macomber, J., concur.
