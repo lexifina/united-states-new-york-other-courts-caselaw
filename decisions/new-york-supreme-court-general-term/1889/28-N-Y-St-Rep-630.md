@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-12-09"
+citations: ["28 N.Y. St. Rep. 630"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pauline Webber, Resp’t, v. Edward C. Hoag, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/28/cases/0630-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2033430
+cites_cases: ["108 N. Y., 428"]
+---
+
+# Webber v. Hoag
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The cause of action was fully proven. The plaintiff was a servant with one Carpenter. She went out of the house in the evening to get a pail and the defendant’s dog, without the slightest warning, sprang upon her and bit her. This act is sufficient to stamp the character of the dog as vicious and dangerous, and the master was bound to keep him in subjection without further notice. Brice v. Bauer, 108 N. Y., 428; 13 N. Y. State Rep., 765.
+There is abundant proof of knowledge upon the part of the owner of the savage nature of the dog.
+It was proven that he attacked a driver on an ice wagon. He habitually assailed people on the street near the owner’s premises before plaintiff was bitten. The plaintiff’s employer informed the defendant of this habit of the dog to assail him on his own premises. The defendant was informed that the dog assailed one Dis-brow and tore his coat. The dog was proven to have attacked one Francis in the road in the presence of the defendant.
+The animal must have been a terror in the neighborhood and as dangerous as a wild beast in view of his size and ferocity. The words of the judge were proper as applied to this case if the jury believed the plaintiff’s testimony.
+There was no error committed upon the trial. In giving evidence of the nervous terror of the plaintiff her expression as to the presence of “ Hoag’s dog ” was admissible. It did not prove the biting by this dog, but it was a necessary part of the manifestation of plaintiff’s injury. The answer as to the general character of the kind of dog which bit plaintiff was stricken out and the answer of the witness given, therefore, was not objected to.
+The evidence as to the treatment of the dog after the bite was proper, as tending to show the character before the same was made. It was proper to combat the allegation that if a mad dog be killed the person bitten cannot have hydrophobia. It was not proper for one witness to testify .as to an offer which another witness said he could get for testimony.
+The character of any dog other than defendant’s mastiff Jane, was wholly unimportant.
+There are no other exceptions on the trial of importance.
+The judgment should be affirmed, with costs.
+Pratt, J., concurs.
