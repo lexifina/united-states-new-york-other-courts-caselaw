@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1878-12"
+citations: ["23 N.Y. Sup. Ct. 349"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["INGALLS, J., concurred..", "Present — Davis, P. J., Beady and Ingalls, JJ."]
+parties: ["JOHN A. WEEKS, Plaintiff, v. FRANCIS TOMES and others, Defendants. In the Matter of the Petition of ADRIAN ISELIN to be Relieved from his Purchase."]
+source_url: "https://static.case.law/ny-sup-ct/23/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8594895
+cites_cases: ["12 How., 171", "48 N. Y., 585", "69 N.Y., 600"]
+---
+
+# Weeks v. Tomes
+
+## Majority (Davis, P. J.:)
+
+Davis, P. J.:
+Both of these appeals involve the same questions. We think that all the objection made by the petitioner to the sufficiency of the title were properly disposed of by the court below, except one.
+It appears in the case, that in the above entitled action, notice of lis pendens was filed on the 22d of November, 1877 ; that on the 9th of January, 1878, one Melvain, who had recovered a judgment against Benjamin Tomes, commenced an action to set aside the conveyance by Tomes to his wife of the premises, covered by the mortgage in this action, charging that it was fraudulent as against him, and to declare his judgment a lien on the premises ; and on that day he filed his complaint and notice of pendency of action. It further appears that on the fourteenth of January the complaint in this action was filed, and on the sixteenth the usual judgment of foreclosure and sale was entered in this action, directing the sale of the premises by the receiver. On the seventeenth of February following an order was made in this action by the Special Term that the complaint therein be filed, nunc pro tunc, as of November 22, 1877. Melvain was not a party to this action, either at its commencement nor when the order directing the complaint to be filed nunc pro tunc was made, nor at any other stage.
+The question presented upon these facts is whether the order of the court directing the filing of the complaint, nunc pro tunc, as of November 22d, 1877, was valid as against Melvain and his action.
+The Code (section 132) provides “that in an action affecting the title to real property, the plaintiff, at the time of filing the complaint or at any time afterwards, * * * may file -with theclerk of each county in which the property is situated, a notice of the pendency of action, containing the name of the parties, the object of the action, and the description of the property, in that county affected thereby.” It also declares that from the time of filing only, shall the pendency of the action be constructive notice to a purchaser or incumbrancer of the property affected thereby. It is apparent, from the language of this section, that the notice is wholly inoperative as against incumbrancers or purchasers until the complaint be also filed. The language of the Code admits of no other construction, and the courts have so held in Burroughs v. Reiger (12 How., 171), and Leitch v. Wells (48 N. Y., 585).
+At the time Melvain commenced his action and filed his notice of Ms pendens, no complaint in this action was on file. He acquired, therefore, certain rights entitling him to be considered an equitable incumbrancer, of which he could not be deprived by any subsequent proceeding in this action, to which he was not a party.
+The power of the court to amend by filing papers nunc pro tunc is indisputable, and the operation of such an order upon all persons who are parties to the action in which it is made is not controverted. But such an order is not operative as against persons who are not parties to the action, and have no opportunity to be heard upon the question, whether or not it should be granted. Melvain not being a party to the action, could neither be prejudiced nor affected by the order. He might have been brought in by an amendment, and made a party to the suit for the foreclosure of the mortgage, giving him an opportunity to be heard upon the motion for leave to file the complaint nunc pro tunc, and in that case quite a different question would have arisen.
+As it is, however, not being a party, it seems to us impossible to maintain that his rights are cut off or affected by the order of the Special Term directing that the complaint be filed, nunc pro tunc, as of November 22. It appears, by the record handed up with the appellant’s points, that his action subsequently ripened into a judgment setting aside the deed to his wife, and declaring Melvain's judgment a lien upon the lands, and appointing a receiver to take possession and collect rents for his benefit. That, however, has all occurred since these motions, and therefore cannot be considered as affecting the result of the motions themselves. The fact illustrates, however, the serious character of the objection and the injury that may be sustained by a purchaser compelled under such circumstances to take title. It is held by the courts that a purchaser on a judicial sale is entitled to demand a good title, and it is not material that the interest of any of the incum-brancers not brought in is small in amount. (Smith v. Wells, 69 N.Y., 600.)
+The learned judge below thought this objection to the title obviated by the fact that Melvain may come m and participate in any surplus that would arise upon the sale. If he should come in and participate in the surplus, that would, doubtless, preclude him from asserting any further claim against the premises purchased by the relator. But non constat that he will do this • and he is not bound to do it; he may, undoubtedly, file his bill to redeem the premises from the sale based upon the lien of his judgment as established in his action, and for leave to pay off the amount due on the incumbrance notwithstanding the sale.
+The purchaser is not bound to take a title subject to the embarrassment of any such contingency. His objection on that ground, we think, was well taken, and his petition, to be relieved, should have been granted, and the motion to compel him to complete the purchase should have been denied.
+The orders below must be reversed, with ten dollars costs of one appeal besides disbursements, and orders entered granting the prayer of the petitioner according to the course and practice in such cases.
+INGALLS, J., concurred..
+Present — Davis, P. J., Beady and Ingalls, JJ.
+Orders reversed, with ten dollars costs of one appeal, besides disbursements; orders to be entered granting the prayer of the petitioner.
