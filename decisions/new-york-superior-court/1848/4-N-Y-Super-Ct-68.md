@@ -1,0 +1,33 @@
+---
+court: "New York Superior Court"
+decided: "1848-07-27"
+citations: ["2 Sandf. 68", "4 N.Y. Super. Ct. 68"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Zachrisson v. Ahman."]
+source_url: "https://static.case.law/ny-super-ct/4/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1360164
+cites_cases: ["1 Denio, 327", "3 Denio, 472", "3 Hill, 282", "6 Hill, 512"]
+---
+
+# Zachrisson v. Ahman
+
+## Majority (By the Court. Oakley, Ch. J.)
+
+By the Court. Oakley, Ch. J.
+The defendant contends, that he has a right to hold the bills of lading and the cotton in question, for the advances which he made to Súber; and the principal question in the cause, is whether he has that right.
+The plaintiff was indisputably, the owner of the whole of this cotton. The question of fact as to his ownership of the parcel of one hundred and thirty-six bales, was submitted to us on the evidence contained in the case. We have examined the evidence, and have no doubt on the subject.
+The first objection made to the plaintiff’s recovery, is that there is no proof of any demand of the property from the defendant before the commencement of the suit; and that a demand was necessary, because it came lawfully into his possession. That the bringing of replevin for the unlawful detention of property, is of itself an admission that its original possession by the defendant, was lawful and not tortious.
+There are two answers to this objection. 1. The cases to which we were referred by the plaintiff’s counsel, viz.; Cummings v. Vorce, (3 Hill, 282;) Pierce v. Van Dyke, (6 ibid. 613;) and Stillman v. Squire, (1 Denio, 327;) establish the position that replevin in the detinet, lies where the taking of the property was tortious, as well as in cases where the wrong consists in its detention only.
+2. Another answer is, that a demand was proved. The plaintiff’s agent, Mr. Wissman, demanded the bills of lading of these two parcels of cotton, from the defendant. The bills of lading were the representatives of the cotton, the evidences of the title to the property; and a demand of those evidences, was a demand of the cotton represented by them, and must have been so understood by, the defendant. The demand is therefore held to have been sufficient.
+Next, ■ it is insisted by the defendant, that the plaintiff as charterer of the vessel, was pro hac vice the owner, and could hold the cotton laden on board of her, and need not deliver it upon the bills of lading, -to the defendant or the assignees of those bills ; and that he could remove the captain of the ship, if he were obstinate and refused to withhold the cotton on the plaintiff’s order to retain it.
+This, we must say, is no ground at all. The captain had issued bills of lading for these two lots of cotton, to the defendant and his assignees; which enabled the defendant to dispose of the property to others in good faith for value, by a mere in- * dorsement of the two bills, who could demand the cotton from the master of the ship, whoever he might be, and could hold it by virtue of the bills of lading against any direction or control of the plaintiff; and it is very likely the defendant had so parted with the bills, before any knowledge of the difficulty came to the plaintiff’s agent.
+The main question in the cause, is whether the defendant can hold the cotton for his advances, as against the true owner. And in considering the question, we are to regard the advances as having been made in good faith.
+It is said, that Súber was the general commercial agent of the plaintiff, and thereby authorized to pledge or dispose of this property for the advances made by the defendant. Arid further, that he was, as agent, entrusted with the possession of the bills of lading ; and his contract, pledging the bills to the defendant, for the payment of the money advanced to him by the defendant, was valid, and barred the plaintiff from'a recovery.
+On this subject, it is clear that the plaintiff’s letter of instructions to Súber, affords no pretence for the authority ascribed to him as the plaintiff’s general-or commercial agent. Those instructions are very limited in their character.: They doubtless grew out of the fact that Súber, as well as the plaintiff, was a Swede, and Wissman, the plaintiff’s agent, was a German, unacquainted with the language in which much of the plaintiff’s foreign correspondence was conducted; and it thus became necessary to have it interpreted to Wissman; and Súber was therefore,deputed to receive and examine the plaintiff’s letters, keep those which were of a private nature, and furnish to Wissman the contents of the business letters.
+The case furnishes no evidence of a general authority in Súber to act for the plaintiff, or of any acts of Súber which were known to the defendant, from which he could infer that Súber had such authority.
+The other ground upon which the defence is attempted to be sustained is, that Súber was in possession of the bills of lading of the cotton, having been entrusted with the same ; and that he could dispose of them under the act of 1830, relative to factors, &c., to the defendant acting in good faith, on the strength of such possession.
+This ground, in our opinion, entirely fails. A clerk is not within the statute at all. Súber was not a factor in any sense of the word, or an agent for the sale of this property. He had no control at all of the cotton, nor was he entrusted with the possession of the bills of lading, in any other manner than any clerk or porter is entrusted to whom bills of lading are handed to be carried from a shipper’s office to the master, or vice versa. Indeed, if Súber had been a factor, the defendant could not hold the cotton for his advances, because he knew from the bills of lading, that Súber was not the owner of the property. The act of 1830 was made for the protection of those who dealt with a factor in ignorance of his not being the true owner. This is well settled by the case of Stevens v. Wilson, (6 Hill, 512, and in error, 3 Denio, 472,) cited by the plaintiff’s counsel. The statute was iniended, (as this case decided,) to protect advances and dealings made on the faith of the ownership of the property, and not on the faith of the possession of the paper title, or the evidences of title.
+In this case, if Súber were to be deemed a factor of the plaintiff, yet the defendant knew, or ought to have known, that he was not the owner of the cotton. On this point also, there is no room for doubt; and we must give judgment for the plaintiff for the value of both parcels of cotton.
