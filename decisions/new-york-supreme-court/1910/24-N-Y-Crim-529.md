@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court"
+decided: "1910-06"
+citations: ["24 N.Y. Crim. 529", "68 Misc. 307"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE EX REL. HARRY S. BRETTON v. HENRY C. SCHLETH."]
+source_url: "https://static.case.law/ny-crim/24/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 810771
+cites_cases: ["107 N. Y. 1", "125 App. Div. 522", "156 N. Y. 541", "26 App. Div. 470", "32 Hun, 538", "53 N. Y. 511", "60 N. Y. 570", "97 N. Y. 212"]
+---
+
+# People ex rel. Bretton v. Schleth
+
+## Majority (GrABRETSOM, J. :)
+
+GrABRETSOM, J. :
+The return to the writ of habeas corpus shows that the relator is in the custody of the respondents by virtue of a judgment of the County Court of Queens county, by which he is sentenced to the State prison for the term of his natural life upon a conviction, on his plea of guilty of grand larceny in the second degree, to an indictment charging him with the crime of grand larceny in the second degree as a second offense.
+The questions arising hereon relate to the validity of the judgment and the relief to which the relator is entitled, should the judgment be held void and erroneous.
+Where it is sought to impose an increased punishment upon second offenders, it is essential that the conviction for the first offense be charged in the indictment and proved. It is a substantial and component part of the indictment. (Wood v. People, 53 N. Y. 511; Johnson v. People, 55 id. 512; People v. Sickles, 26 App. Div. 470; affd., 156 N. Y. 541; People v. Jordan, 125 App. Div. 522.)
+The relator’s plea of guilty of grand larceny in the second degree went no further in fact and effect than its terms import. Upon this plea judgment could be pronounced only for the crime charged, and as for a first offense, and that by imprisonment for a term not exceeding five years.
+It was stated by the district attorney upon the hearing that the court might take into consideration facts disclosed upon the examination of the relator before sentence, as provided by section 485-a of the Code of Criminal Procedure, it appearing that the relator admitted upon such examination that he had been in prison three terms under as many charges for grand larceny, and that the court was thereupon justified in imposing the judgment and sentence which it did by virtue of section 1942 of the Penal Law.
+I am of the opinion that the increased punishment under the section last cited can only be imposed upon a conviction under an indictment charging the prior convictions and in the same manner as for a second offense.
+The examination under the section of the Code above cited is had after conviction, and for the purpose, among others, of enabling the court to determine whether, within the limits of its power and discretion, the sentence should be for a greater or lesser term. The defendant was then before the court for judgment under the conviction already had which, in this case, Was for the crime of grand larceny in the second degree, upon his plea of guilty; and upon this conviction only could judgment be pronounced. The judgment was, therefore, erroneous, but the conviction is valid and remains in force.
+By section 2032 of the Code of Civil Procedure it is provided that, upon the hearing under the writ of habeas corpus, the justice must forthwith remand the prisoner by final order, if it appears that he is detained in custody by virtue of the final judgment or decree of a competent tribunal of civil or criminal jurisdiction; and, by section 2034 of the same Code, the justice is prohibited from inquiring into the legality or justice of such judgment or decree.
+The County Court is a court of record of superior criminal jurisdiction (People v. Bradner, 107 N. Y. 1), and in the particular case had jurisdiction of the relator and of the crime charged in the indictment and was empowered to pronounce judgment upon a conviction of imprisonment in a State prison. The judgment being merely erroneous, the court having given a wrong judgment when it had jurisdiction, the relator can only have relief by appeal. It cannot be said that the court could not, under any circumstances or upon any state of facts, have pronounced the judgment. (People ex rel. Tweed v. Liscomb, 60 N. Y. 570; People ex rel. Devoe v. Kelly, 32 Hun, 538.)
+In the case last cited, upon appeal to the Court of Appeals (97 N. Y. 212) the judgment was held void and the prisoner discharged.
+In the case at bar the County Court had power to sentence to imprisonment in a State prison, and, therefore, the judgment is not void, even though the term be excessive, but is erroneous and voidable.
+Upon appeal, where an erroneous judgment has been entered upon a lawful verdict or finding of fact, the appellate court has power to correct the judgment. (Code Crim. Pro., § 543.)
+For these reasons I am of the opinion that it cannot be held in this proceeding that the judgment of the County Court is void; and that the law and practice neither permit nor require that a final order be made remanding the relator to the custody of the respondent to the end that a proper judgment be imposed, but that the remedy of the relator is by appeal.
+Writ dismissed and relator remanded to the custody of the Warden and sheriff.
