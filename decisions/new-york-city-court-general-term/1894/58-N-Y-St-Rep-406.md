@@ -1,0 +1,20 @@
+---
+court: "New York City Court, General Term"
+decided: "1894-03-31"
+citations: ["58 N.Y. St. Rep. 406"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Kirkpatrick, App’lt, v. William Livingston, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/58/cases/0406-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 705223
+---
+
+# Kirkpatrick v. Livingston
+
+## Majority (Van Wyck, P. J.)
+
+Van Wyck, P. J.
+The plaintiff, who is in the retail jewelry business on Broadway, sues the defendant, a resident of this city, to recover the unpaid balance of the value of certain jewelry that William Livingston, Jr., a son of the defendant, being duly authorized by and acting under the instructions of the defendant, purchased of him during the year 1891. And to maintain his cause plaintiff made proof that the defendant has had for fourteen years a running account with plaintiff at his jewelry store; that such running account of defendant was for his family matters, purchases made by any one of his family; that his family consisted of his wife, a daughter and this son William, Jr., and the account referred to, was for the purchases made by these different members of his family from time to time; that this son had been in the habit of coming to plaintiff’s store and buying goods for years, and that such goods so purchased were charged to defendant and the bills therefor rendered to him, and these bills were paid by him from time to time, and that the goods sued for were purchased by this son, charged as usual to the defendant to whom a bill for these goods was sent, and that he paid $165 on account of this bill. The plaintiff made proper effort but was not allowed to prove that defendant’s wife, daughter and son had from time to time during these years purchased goods, from defendant, at his jewelry store, which were always charged to the defendant, and bills for the same rendered to and paid by him; and that the goods so purchased, billed and paid for were similar to those purchased by the son and herein sued for. The plaintiff was non-suited on the ground “ that nothing has been proven either agency or promise.” However, defendant contends that the complaint does not state a cause of action against defendant, and hence the nonsuit was proper. Ho attack was made, before or at trial, against the complaint upon any ground whatever, and moreover, the complaint, although somewhat carelessly drawn, sets forth the cause of action against defendant. The plaintiff was improperly nonsuited and the judgment is reversed with costs to appellant to abide the event.
+McCarthy, J., concurs.
