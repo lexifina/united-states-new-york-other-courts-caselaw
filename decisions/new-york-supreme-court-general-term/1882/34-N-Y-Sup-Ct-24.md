@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1882-04"
+citations: ["34 N.Y. Sup. Ct. 24"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Davis, P. J., Brady and Ingalls, JJ."]
+parties: ["CHARLES P. BERDELL, Appellant, v. JULIA C. BERDELL and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/34/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4467092
+---
+
+# Berdell v. Berdell
+
+## Majority (Per Curiam:)
+
+Per Curiam:
+Our examination of this case upon the merits leads to the impression that the complaint was properly dismissed. But we are not disposed to pass upon that question distinctly, because we think a new trial must be granted upon exceptions taken to the rulings of the court.
+The plaintiff had examined the defendant, Julia C. Berdell, under the provisions of the Code. He subpoenaed kirs. Berdell and brought her into court as a witness at the trial, and asked that she be sworn. The counsel for the defendant objected to her being sworn, on the ground that she had been examined before the trial at the instance of the adverse party. The court thereupon ruled that, having been examined before trial at the instance of the adverse party, she could not be called as a witness at the trial by the adverse party. To this ruling the plaintiff duly excepted.
+The following further proceedings'were, then had, as appears in the case:
+Plaintiff’s Counsel. — I propose to call Julia C. Berdell to prove additional facts about which she was not examined before the trial. (Objected V>.)
+The Court. — You cannot call her as a witness, having examined her before the trial. To which ruling plaintiff duly excepted.
+Plaintiff’s Counsel. — This examination was taken at the office of the defendant’s counsel, and no judge was present, and I desire to ask her some questions inadvertently omitted to be asked on the examination.
+The court refused to permit her to be called as a witness, to which ruling counsel for plaintiff duly excepted.
+Plaintiff’s Counsel. — I desire to prove by her some facts not included in this examination, and on which she was not examined.
+The court refused to permit her to be called as a witness, to which ruling of the court plaintiff duly excepted. Under this ruling of the court plaintiff’s counsel read the examination of Julia C. Berdell taken before trial.
+"We are of the opinion that the rulings of the court, in disposing of the several offers of the counsel, and in refusing to permit Mrs. Berdell to be sworn as a witness, were erroneous. • The Code does not, by any of its 'provisions, preclude a party who has examined his adversary in an action, out of court, from calling him at the trial as a witness, especially when the object of so calling him is declared to be to prove additional facts about which he was not examined, and to ask questions inadvertently omitted to be asked on the examination. "Where an examination taken out of court has been read upon the trial by the party in whose favor it was taken, the court may properly preclude that party from further examinátion upon the subjects embraced in the deposition. But even in such case, it was said in Wilmont v. Meserole (40 Superior Court Rep., 321), that the party would be at liberty to examine as to new matter, or as to matters which, by inadvertence, had been omitted.
+But when an examination taken out of court is not used, or sought to be used, by the advei’se party, we do not think the Code precludes the calling of the witness by such party on the trial in court for a general examination. But if this be not so, that is certainly no ground for holding that an examination cannot be had as to new matter, or as to subjects inadvertently omitted.
+For these reasons we think the judgment must be reversed and a new trial granted, with costs to abide the event.
+Present — Davis, P. J., Brady and Ingalls, JJ.
+Judgment reversed, new trial ordered, costs to abide elent.
