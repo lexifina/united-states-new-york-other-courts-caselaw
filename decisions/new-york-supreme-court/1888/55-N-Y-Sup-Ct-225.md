@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court"
+decided: "1888-04"
+citations: ["55 N.Y. Sup. Ct. 225"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hardin, P. J., and Follett, J., concurred."]
+parties: ["GEORGE F. COMSTOCK, Jr., Respondent, v. THE NEW YORK CENTRAL AND HUDSON RIVER RAILROAD COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/55/cases/0225-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4552132
+cites_cases: ["109 Mass., 191", "2 Allen, 524", "67 N. Y., 267"]
+---
+
+# Comstock v. New York Central & Hudson River Railroad
+
+## Majority (Martin, J.:)
+
+Martin, J.:
+The plaintiff was the owner of four stores situated on North Salina street, in the city of Syracuse. They were occupied by a tenant, whose term expired May 1, 1881. The. defendant was lessee of adjoining lands. An iron pipe was laid under ground .across the premises occupied by defendant, to conduct water to an ■engine used by defendant in operating a bridge over the Oswego ■canal. This pipe was originally laid by the defendant’s lessor.
+In the spring of 1886 the pipe became out of repair and water flowed from the broken pipe on to the plaintiff’s premises and into the cellars of the buildings thereon. It flowed through the walls of the plaintiff’s stores and somewhat injured them. The amount of damage caused by such injury was not definitely proved. The plaintiff notified the defendant of the flow of water on to his premises, and requested it to repair the defect in its pipe. The defendant denied that the water came from its pipe, and neither repaired the old nor put in a new pipe. The plaintiff then constructed a concrete wall along the side of his buildings to prevent the flow of water into his cellars. About the time of its completion, and after the expense of its construction had been incurred, it was definitely ascertained that the water came from the defendant’s pipe, and the defendant then repaired it. Since such repairs no water has flowed on to the plaintiff’s premises. On the trial the court held, and charged the jury, that the plaintiff was entitled to recover such damages as he had sustained by injury to the walls of his buildings, and also for such expenses as were reasonably necessary and proper to prevent further injury to such walls from the flow of this water through them. The ruling and charge of the court upon this question was excepted to by the defendant. That .the verdict was for the cost of constructing the concrete wall is not ■disputed. The defendant so claims, and the plaintiff in his brief says, “ the verdict is for the cost of the wall only.”
+The defendant insists that as the plaintiff was not in, or entitled to, the possession of the premises when the injury occurred, he could recover no damages except such as affected the inheritance, and of such, damage only such as was sustained before the commencement of the action. If the question here were, whether the plaintiff was entitled to recover damages for an injury to the possession, or whether he could recover for an injury caused or sustained after the commencement of the action, the authorities''cited by the defendant would be applicable and perhaps decisive of the question. But such is not the case.
+The only question here involved is whether the plaintiff was entitled to recover such expenses as were reasonably necessary and proper to protect the walls of his buildings from further injury from the flow of this water through them. In other words, the question is whether a person seized of an estate in remainder or reversion, may recover such expenses as are reasonably necessary and proper to protect his inheritance from further injury from the wrongful acts or omissions of another. We think the plaintiff was entitled to recover such expenses in this action, and that the court properly submitted that question to the jury. The rule contended for by the defendant would compel the owner to sit idly by and see his buildings permanently injured or destroyed, or to prevent their further injury at his own expense. There would be no jnstice in such a rule. The plaintiff was entitled to all the actual damages sustained by him on account of the wrongful omission of the defendant. The building of the wall to preserve his property was a part of the damages sustained by him. It was his duty to protect his buildings from further injury so far as it was reasonably necessary and proper.
+In Jutte v. Hughes (67 N. Y., 267, 272) the defendant failed to keep the privies and drains upon his premises in proper repair, and the water and filth therefrom overflowed upon the plaintiff’s adjoining premises. On the trial the court confined the damages to the injuries done to the walls and cellars. It appeared that the plaintiff incurred expenses in plumbing and fixing the sewers, and that other expenses would be required to prevent further injury from, the flow of the water. It was held that these were proper items of damage.
+In Sherman v. The Fall River Iron Works Co. (2 Allen, 524), where gas pipes had been so improperly laid that gas escaped into the plaintiff’s well and rendered it unfit for use, it was held that he might recover the expense incurred in reasonable and proper attempts to exclude the gas from the well.
+In Emery v. The City of Lowell (109 Mass., 191), in a case where a drain had become obstructed, and water and filth flowed into plaintiff’s cellar, it was' held that the plaintiff might recover reasonable expenses in preventing or removing the nuisance.
+"We are of the opinion that both upon principle and authority, the plaintiff was entitled to recover such expenses as were reasonably necessary and proper to prevent further injury to his building, and that the court committed no error in its submission of that question to the jury.
+It follows that the judgment and order appealed from should be affirmed, with costs.
+Hardin, P. J., and Follett, J., concurred.
+Judgment and order affirmed', with-costs.
