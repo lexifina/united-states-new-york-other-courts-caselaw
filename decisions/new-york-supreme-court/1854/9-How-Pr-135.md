@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1854-02"
+citations: ["9 How. Pr. 135"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Van Rensselaer agt. Emery and others."]
+source_url: "https://static.case.law/how-pr/9/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2195712
+---
+
+# Van Rensselaer v. Emery
+
+## Majority (Harris, Justice.)
+
+Harris, Justice.
+Upon the dissolution of the partnership, it became the primary duty of the partners to wind up its affairs. For this purpose either partner might collect debts due to the partnership, and apply the partnership effects to the discharge of partnership liabilities. By the assignment from Redfield to the plaintiff, the latter succeeded to the interest of the former in the partnership estate. He became entitled to receive the share of the surplus which, after extinguishing all debts and charges, and adjusting the equities between the partners themselves, would have belonged to the assignor. (Story on Partnership, § 322, 326, 328, 341.) By virtue of the agreement between the partner, Emery, and the plaintiff, at the time the assignment was made, the plaintiff was to act with Emery in the settlement of the partnership business. Either would have had the right, as either partner would have had but for the assignment to the plaintiff, to apply the partnership funds and effects to the discharge of the partnership debts and liabilities. The fact that this has been done by the partner, Emery, without the consent, or even the knowledge of the plaintiff, if it has been done in good faith, furnishes no just ground of complaint. In doing so, he has but executed what was the duty of both parties, which was to wind up the partnership concerns by satisfying the debts and charges against it, and thus prepare for an equitable division of the surplus.
+I think, too, the injunction against Kibbe should not have been granted. It has already been held that the judgment and proceedings under which he was appointed receiver were regular. See Emery agt. Emery, (ante, p. 130.) As such receiver he is the officer of the court, or, as he has been aptly called, “ the hand of the court.” (1 Barb. Ch. Pr. 658.) He is subject to the order and control of the court. The proper mode of restraining such an officer when engaged in the discharge of his official trust is by application to the court for instructions, and not by making him a party to an action and obtaining an injunction against him.
+But waiving this objection, I think the injunction ought not to be continued as against the receiver. eJudgments have been recovered against the copartnership which are valid as against the copartnership estate. The defendant, Kibbe, has been appointed a receiver upon proceedings had upon those judgments, in the manner prescribed by law. When his appointment was perfected, by giving the requisite security, he became entitled to the possession of the partnership effects. The effects, thus in his possession, are deemed to be in the custody of the court, and will not be disposed of, it is to be presumed, without a hearing of all the parties who have a right to be heard. To enjoin the receiver, under such circumstances, is but to restrain the court itself from making the proper order for the disposition of the funds which may come into the hands of its officer.
+As against the defendants, George W. Emery and Austin S. Kibbe, therefore, the injunction must be vacated with costs of the motion, to abide the further order of the court. As against the defendant, Henry D. Emery, the injunction was properly allowed. Where, upon the dissolution of a partnership, the partners cannot agree upon the mode of closing its affairs, it is the practice of a court of equity, with a view to the protection of all who are interested, to exclude all the partners from any participation in the business of closing it up, and appoint a receiver for that purpose. The plaintiff having, with the consent of Henry D. Emery, been admitted to the rights of Red-field, has the same right that Redfield would have had to exclude Emery from the management of the partnership concerns, and to have a receiver appointed, so that the business may be wound up under the direction of the court. As to the defendant, Henry D. Emery, therefore, the motion must be denied, with costs of opposing the motion, to abide the further order of the court.
