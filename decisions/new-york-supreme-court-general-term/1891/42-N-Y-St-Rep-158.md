@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-12-14"
+citations: ["42 N.Y. St. Rep. 158"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ada Aller, Resp’t, v. Annie E. O’Reilly, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/42/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2071397
+---
+
+# Aller v. O'Reilly
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The defendant carries on a trucking business. The plaintiff and Irene E. Blake, as is averred in the complaint, -employed the defendant to remove their furniture. That the defendant received the property and did not deliver it at the place to which it was to be carried, but put the same in a storehouse to the . damage of the owners of the properties of sixteen dollars. Mrs. Blake has assigned her interest in the contract to the plaintiff. The answer denied the plaintiff’s allegation. Upon the trial the plaintiff gave evidence upon her part tending to prove that the contract was made with the defendant to carry the things for five dollars. That when one-third of the load of property arrived at the place of delivery the defendant demanded the payment of the-five dollars before it was delivered. The payment was refused, but the money was paid to the owner of the premises to be given to defendant when all the things were in. The defendant gave evidence tending to show that the contract was for five dollars a load and that the load was full, and the plaintiff refused to pay unless all the furniture was brought for the five dollars. The defendant stored the load of furniture. The court found in favor of the defendant. This finding establishes that the agreement was for five dollars a load; that the load carried and offered was a full load. That there was furniture left and that the plaintiff refused to pay five dollars a load, but demanded all for five dollars.
+The appellate court was bound by these findings and the judgment should be reversed and the judgment of the justice affirmed,, with costs.
+Dykman and Pratt, JJ., concur.
