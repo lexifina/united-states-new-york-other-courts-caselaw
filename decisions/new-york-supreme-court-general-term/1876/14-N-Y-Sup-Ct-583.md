@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1876-04"
+citations: ["14 N.Y. Sup. Ct. 583"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mullin, P. J., and Smith, J., concurred."]
+parties: ["BENJAMIN H. TISDALE, Respondent, v. MARGARET MORGAN, Administratrix, etc., Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/14/cases/0583-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 625037
+cites_cases: ["2 Denio., 45", "20 N. Y., 268", "35 Barb., 151", "42 N. Y., 316", "5 Wend., 235", "53 N. Y., 488"]
+---
+
+# Tisdale v. Morgan
+
+## Majority (Noxon, J.:)
+
+Noxon, J.:
+In December, 1868, one Lewis Higgins was indebted to the plaintiff for running a canal boat, in the sum of $218. The said Higgins was also, at the same time, indebted to certain boat captains in Buffalo in the sum of $300, and was also indebted to the firm of Petrie & Co., of which Samuel Morgan was a member, in the sum of $322, in all $840. On or about December 18, 1868, the said Higgins being embarrassed, and the said plaintiff being desirous of his pay, a meeting was had at a hotel in New York, at which was present said Higgins, said Morgan, and William H. Tisdale, the agent of, and acting in behalf of the plaintiff, to determine what should be done in the matter of these several claims. And it was thereupon agreed that the said Morgan should advance to Higgins $300 to pay his captains in Buffalo, and should buy plaintiff’s claim of $218; and that Higgins should execute a bill of sale to Morgan of the canal boat Sehermerhorn; and that the claim of Petrie & Co., of $322, should form a part of the consideration, making the full consideration of the boat $840; and that Morgan should execute to Higgins an agreement, in writing, providing that upon the payment by Higgins to Morgan, within one year, of the $840, with interest, that Morgan should reconvey the boat to Higgins. Morgan was to pay plaintiff’s claim, and plaintiff release Higgins from the debt. It was also agreed that plaintiff should have the net proceeds of the freight on a cargo of brick, which should be deducted from plaintiff’s claim, and be allowed Higgins -on the contract for the boat Morgan agreed to pay ,the plaintiff .his debt during the next season, with interest. In pursuance of the agreement, and on or about the 18th December, 1868, the bill of sale of said boat was executed and delivered by Higgins to Morgan, in consideration of $840, and at the same time said Morgan executed and delivered to Higgins an agreement to convey to him the title of said boat upon payment to him of the $840, with interest, in one year from date. The net proceeds of the cargo of brick amounted to $120, and was collected and paid to the plaintiff upon liis claim of $-218. The $300 was advanced by Morgan. Morgan died in October, 1869, and the defendant was appointed administrator upon his estate in January 1870. No other payments were made to plaintiff, and in the month of March, 1872, this action was brought to recover the balance of plaintiff’s .claim amounting to $98 besides interest.
+The defense to the action, and the ground upon which a reversal of the judgment is claimed, is contained in the motion for nonsuit, upon the ground that the pretended sale of the plaintiff’s claim to .defendant’s intestate was woid by -the statute of frauds, because it was not in writing, no part of tbe purchase money having been paid at the time of the sale, ,-nor any delivery of the property sold.
+It is very clear under the authorities if the transaction between the parties had been simply a sale of the plaintiff’s claim against Higgins to Morgan (and no payinent had been made by Morgan), and a parol agreement by Morgan to pay the plaintiff the amount of the claim, the case would come within the statute of frauds, and no recovery could be had. The evidence, however, shows a state of facts, and an agreement wholly outside the statute. The plaintiff and the defendant Morgan were each creditors of Higgins, and Higgins, the debtor, transfers a boat to Morgan, and in consideration of the transfer, and as part of the consideration, Morgan assumes and agrees to pay the plaintiff his debt, and the plaintiff agrees to release Higgins from the debt. The agreement was valid and the plaintiff was entitled to recover within the authorities laid down in Barker v. Bucklin (2 Denio., 45); Ellwood v. Monk (5 Wend., 235); Barker v. Bradley (42 N. Y., 316); Lawrence v. Fox (20 N. Y., 268); Seaman v. Hasbrouck (35 Barb., 151).
+The complaint may not have covered the case as proved, but the facts in the case proved a good cause of action, without objection to the evidence, and the rule is settled in such cases, that the case on appeal may be disposed of as though the pleadings had been amended on the trial. (Sherman v. Parish, 53 N. Y., 488; Tyng v. Commercial W. House Co., 58 id., 313, and cases cited.) It is unnecessary to examine the question as to the effect of the receipt by the plaintiff of $120, which was applied on the plaintiff’s claim, although some of the later cases seem to hold that such payment would make the contract valid within the statute of frauds. The case of Belknap v. Bender (6 N. Y. S. C., 611), cited by the appellants, was correctly decided but does not cover this case.
+The judgment should be affirmed with costs.
+Mullin, P. J., and Smith, J., concurred.
+Judgment affirmed with costs.
