@@ -1,0 +1,27 @@
+---
+court: "New York Superior Court"
+decided: "1869-06-11"
+citations: ["1 Sweeny 311", "31 N.Y. Super. Ct. 311"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM G. PECK and Another, Plaintiffs, v. CHARLES KNOX, Defendant"]
+source_url: "https://static.case.law/ny-super-ct/31/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1419154
+cites_cases: ["1 Daly, 326", "1 Duer, 366", "12 Abb., 395", "19 How., 309", "23 N. Y., 264", "24 Barb., 528", "30 Barb., 276", "31 How. Pr., 424", "33 Barb., 213", "38 N. Y., 468", "38 N. Y., 475", "5 N. Y., 463"]
+---
+
+# Peck v. Knox
+
+## Majority (Fithian, J.)
+
+By the Court:
+Fithian, J.
+The question in this case is whether there is any evidence tending to establish a wrongful taking or detention of plaintiffs’ property. The only possession of the property defendant is shown to have had is the constructive possession of the premises in which the "property was on the night and morning of February 17 and 18. This possession was certainly not wrongful. It was delivered to him by the judgment and process of a court of competent jurisdiction. The premises belonged to the defendant. He came rightfully and legally into the possession of them on the night of the 17th of February. The plaintiffs’ property (if any they had) was fixed to defendant’s freehold. And if it was necessary, in receiving lawful and rightful possession of his own property, to receive, also, possession of plaintiffs’ property, such talcing cannot be said to be wrongful.
+Heither was the leasing of defendant’s premises, and the delivering possession thereof, including plaintiffs’ fixtures, to Burke, on the 18th of February, such a disposition of the property as in law amounts to a wrongful conversion of the same, or an interference therewith, to the owner’s exclusion. It was not the defendant’s fault that plaintiffs had omitted to remove their fixtures until after the lease under which they were holding was terminated by judgment of dispossession for non-payment of rent. The defendant had a perfect right to lease his premises, or make any other disposition of them he chose. He is not to be barred of that right, or charged with a wrongful conversion, because, in the exercise of it, by delivering possession of his own property to another, it became necessary to deliver, also, possession of a third person’s property, stored on the premises. By so doing, he transfers possession of his own property merely/ in respect to which, plaintiffs have no rights whatever. And the person receiving possession takes it subject to every legal right or claim which plaintiffs had to any property belonging to them remaining upon the premises.
+Nor can the defendant be charged with a conversion, or a wrongful detention of the property, by reason of his refusal to deliver, when demanded, on the 18th of February. And this because he had before that rightfully parted with all possession, control, and right of entry of and to the premises wherein the property demanded was situated. He would himself have been a trespasser if he had attempted, without the consent of his tenant, to comply with the demand. It is settled that a demand ■ and refusal is only prima facie evidence of a conversion or wrongful detention. And that, notwithstanding the refusal to deliver, the party refusing may, if he can, show that he had not in fact converted the property to his own use, or detained it wrongfully; as in the case of one having the possession of property as a mere servant or custodian for another, neither claiming nor asserting any interest, or right ®f possession, or control in himself. This principle is so familiar that it is unnecessary to cite authorities to sustain it.
+The claim of plaintiffs’ counsel that the defendant Knox had sold the property in question to Burke, and received a consideration therefor, is not sustained by the evidence. Knox did not assume absolutely to sell the property, but only such interest in the same (if any) as he had. If he had or has an interest, plaintiffs cannot object to Ms selling Ms own. If he had none, then notMng was sold, and plaintiffs’ rights are unaffected thereby. If the plaintiffs were wrongfully prevented by the officer from removing the property on the 17th of February, and have been injured thereby, their remedy is against the officer, and not the defendant here.
+Exceptions were taken by plaintiffs’ counsel to various rulings of the justice during the trial. But I see no error in those rulings. Indeed, I tMnk all the evidence in respect to the alleged parol agreement to lease the property to the plaintiff Peck could have been properly excluded, as it was not claimed that such alleged agreement was ever perfected so as to become an actual lease, or give plaintiffs any rights of entry to the premises as tenants. The declarations of the officer, not in the presence of defendant, were clearly inadmissible.
+The above considerations, if correct, constitute a complete barrier to plaintiffs’ right of recovery in this action. It is therefore unnecessary to consider the other question in the case, as to whether plaintiffs had not lost title to this property, by reason of its being fixed to the freehold, and not removed before the termination of the tenancy, by the judgment and removal on the summary proceedings.
+Exceptions overruled, and judgment ordered for defendant on the verdict, with costs.
