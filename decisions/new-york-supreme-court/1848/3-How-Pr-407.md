@@ -1,0 +1,37 @@
+---
+court: "New York Supreme Court"
+decided: "1848-12"
+decided_precision: "month"
+citations: ["3 How. Pr. 407"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emily L. Hill, by Daniel Hill, her guardian, agt. Christian L. Thacter."]
+source_url: "https://static.case.law/how-pr/3/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1300848
+cites_cases: ["11 Wend., 164", "12 Wend., 191", "5 Hill, 226"]
+---
+
+# Hill v. Thacter
+
+## Majority (Before Willard, Justice.)
+
+Before Willard, Justice.
+This was a civil action, commenced against a Defendant for speaking defamatory words of and concerning the Plaintiff. The summons was dated on the 2d November, and the affidavit to the complaint, on the 6th November. The appointment of a guardian for the Plaintiff, who was an infant, was made on the 7th November, and the summons was served on that day.
+■ An application is made to set aside the proceedings for various irregularities, which will be noticed in their order; and in case that part of the motion is denied, a motion is made requiring the guardian to give security for costs, on the ground that he is an irresponsible person.
+The first objection is, that the guardian was not appointed previous to bringing the action, meaning, it is supposed, previous to the date of the summons. The summons describes the Plaintiff as suing by guardian, thus, “ Emily L. Hill by Daniel Hill, her guardian.” At the date of the summons no guardian was appointed—nor was he in fact appointed at the date of the jurat to the complaint, but he was appointed on the 7th November, the day when the summons and complaint were served.
+Formerly an infant Plaintiff appeared by his next friend, admitted by the court, and it was sufficient if the order for the admission of the procliein ami was obtained before declaration, and a copy thereof annexed to it. (2 Saund, 117, f. n. 1.) The Revised Statutes (2 R. S., 446,) provide that before any process shall be issued in the name of an infant, who is sole Plaintiff, in any suit, a competent and responsible person shall be appointed to appear as next friend for such infant, in such suit, who shall be responsible for the costs thereof. The code, § 95, requires that when an infant is a party, he must appear b j guardian, who may be appointed by the court in which the action is prosecuted, or by a judge thereof.
+The code does not, in terms, say at what stage of the cause the guar-, dian shall be appointed—nor does it repeal, in terms, the Revised Statutes, except so far as it substitutes the name guardian for next friend. A repeal of a statute by implication is never favored. (Per Nelson, Ch. J. ; 5 Hill, 226, Bowne v. Lease.)
+But it is insisted that, under the code, a civil action is not deemed commenced until the service of the summons—(§ 106, § 79.) For certain purposes this may be so. But it does not follow that a guardian need not be appointed until such service. It is, I apprehend, the safer rule, to treat the old law as remaining, until a change has been clearly shown to be made. I cannot think that the legislature intended to alter the salutary provision of the Revised Statutes, which required the appointment, before the process was taken out. If I am right in this conjecture, the summons was irregular. (See 12 Wend., 191.)
+2d. It is objected that the complaint is not correctly entitled. The title is “ Emily L. Hill, &c., agt. Christian L. Thacter.” The counsel insists that it should have been “ Emily L. Hill by Daniel Hill her guardian," agt. the Defendant. The latter, no doubt, is the more lawyer-like mode of entitling the complaint. The “ &c.,” as an abbreviation, is rarely used when the name of a person is understood. It can hardly be denounced as a latinism, for it is as fairly naturalized as any abbreviation in the language. It is true the code (§ 120,) requires that the complaint shall contain the title of the cause, by giving the name of Plaintiff and Defendant, but it does not specify in what part of the complaint the title shall be found. This complaint does not contain, in the body of it, the name of the Plaintiff and Defendant, in a manner to be understood “by a person of common understanding.” It thus satisfies the requirements of the code.
+3d. It is objected that the complaint is not verified according to the code. The 132d section requires that every pleading must be subscribed by the party or his attorney, and the complaint, answer and reply must be verified by ihe party, his agent or attorney, to the effect that he believes it to be true.” The verification of the complaint in this case is thus:
+“ Washington county, ss. Daniel Hill, father o.f said Plaintiff, being duly sworn, says that the foregoing complaint is true in substance and matter of fact as he believes. his
+Daniel M Hill. mark.
+Sworn this 6th day of ¡November, 1848, before me,
+J. A. McFarland, Justice of the Peace.
+Daniel TTill is described in the complaint as. guardian of Emily L. Hill, the Plaintiff, but he was not in fact appointed until the next day. In the affidavit, he does not describe himself as agent or attorney, and it is only in one character or the other that he could be permitted according to the code to verify the complaint. Had he been in truth appointed the guardian at this time, I think he might, in that character, have verified the complaint, or that it might have been done by the attorney. (See People v. N. Y. Com. Pleas, 11 Wend., 164.) But he was not then appointed, and had no more right to interfere with the management of the suit than a stranger.
+4th. It is objected that the summons and complaint were improperly signed by an attorney. It is insisted that they should have been signed by the guardian, who ought to have been appointed prior to the issuing of the summons and complaint. And it is urged that § 133, which requires every pleading to be subscribed by the party or his attorney, must be understood as relating only to suits where the party has a legal capacity to appoint an attorney. I think, however, that where the party is an infant and appears by guardian, it is regular if signed by the attorney. The view of this matter taken by Ch. Justice Savage in 11 Wendell, supra, is the correct one. Though the appointment of guardian should appear upon the record, yet the signing of the process and pleadings should be done by the attorney who conducts the suit. There is, therefore, nothing in this objection.
+5th. The objection that the guardian is an irresponsible person, need not be considered, since the motion must be granted for other reasons. I have no doubt, however, that the Revised Statutes, requiring a responsible person to be appointed the next friend of an infant Plaintiff, are applicable to a guardian appointed for the same purpose under the code. In Fulton v. Rosevelt, 1 Paige, 178, decided in 1828, and before the Revised Statutes, an irresponsible next friend was required to give security for costs. The same reason exists in favor of a Defendant sued by an infant under the code, for requiring security for costs, as before, or under the Revised Statutes.
+It cannot be, that the mere silence of the code, abrogated the practice which had so long existed, of requiring security.
+The result is, that the summons and complaint must be set aside, as irregular for having been issued in favor of an infant Plaintiff without the appointment of a guardian for the infant.
