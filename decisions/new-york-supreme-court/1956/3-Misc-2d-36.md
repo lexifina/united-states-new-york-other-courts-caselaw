@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1956-04-05"
+citations: ["3 Misc. 2d 36"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles F. Stachowiak, an Infant, by Boleslaus Stachowiak, His Guardian ad Litem, Plaintiff, v. Domenic Garmone, Defendant."]
+source_url: "https://static.case.law/misc2d/3/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1001035
+cites_cases: ["121 N. Y. 461", "281 App. Div. 93", "309 N. Y. 465", "40 N. Y. 551", "83 App. Div. 467"]
+---
+
+# Stachowiak v. Garmone
+
+## Majority (Michael J. Montesano, J.)
+
+Michael J. Montesano, J.
+Two actions, one by the infant plaintiff to recover damages for personal injuries sustained when struck by an automobile owned and operated by the defendant, and the other by the infant’s father to recover for expenses and loss of services, were jointly tried. The evidence which the jury by its verdict accepted as established disclosed that as a result of the negligent operation of defendant’s automobile, the father was obliged to pay or become liable for the payment of medical services of the reasonable value of $265, damage to the infant’s automobile in the sum of $89, and sustained damages for loss of the infant plaintiff’s earnings amounting to $144. The jury returned a verdict in favor of the father in the sum of $500, an amount about equal to his total loss.
+There is implicit in the jury’s verdict a finding that the infant’s injuries were such that he was unable to resume his usual work for a period of 18 days; that his injuries required medical attention intermittently over a period of four months; and that he was unable to resume his former work.
+The court charged clearly that the infant plaintiff, if entitled to recover at all, was entitled to fair, full and adequate compensation for his injuries, and his pain and suffering incidental thereto. Nonetheless, the jury awarded the infant plaintiff the sum of $125 to compensate him for the injuries sustained and for his pain and suffering.
+If it is true, as the jury found by its verdict in the father’s action, that the infant plaintiff as the result of his injuries was unable to work for 18 days and that his injuries necessitated medical treatment for some four months, then in my opinion, it follows that its verdict does not fairly or adequately compensate the infant. I would be disinclined to disturb the verdict in the infant’s case had the jury returned a verdict for substantially less than the total expenses and loss claimed by the father. But I cannot reconcile the finding by the jury that the infant plaintiff sustained injuries which incapacitated him for 18 days and required medical services of the value of $265 with its verdict that the injuries sustained and the accompanying pain and suffering are adequately compensated by a verdict of $125.
+While the power of a trial court to set aside a jury’s verdict as excessive and conditionally or unconditionally decrease it is unquestioned (Civ. Prac. Act, § 549; Klingman v. City of New York, 281 App. Div. 93; Holmes v. Jones, 121 N. Y. 461) heretofore the power of the trial court to set aside a verdict on the ground of inadequancy and grant a new trial unless the parties stipulate to a recovery in excess of the jury’s verdict as fixed by the court does not seem to have rested on firm judicial sanction. “ Some of the decisions seem to intimate, if not hold, that the authority of the court to set aside a verdict on the ground that the damages are excessive is greater than its authority to vacate the verdict for inadequacy of damages ”. (Stuart v. Press Pub. Co., 83 App. Div. 467, 473; McDonald v. Walter, 40 N. Y. 551, 554.) Whatever doubt has heretofore existed — however unfounded — concerning a trial court’s power to set aside a verdict as inadequate and conditionally increase it has been put at rest by the recent pronouncement of the Court of Appeals in the case of O’Connor v. Papertsian (309 N. Y. 465, 471); " The power of the trial court to grant a new trial on the ground that the verdict is inadequate or excessive, is undisputed. Similarly the trial court may deny a motion for a new trial on condition that the party, other than the movant, stipulate to pay a greater amount or accept a lower amount, as the case may be (7 Carmody-Wait on New York Practice, §§ 21, 22, pp. 120-122). As we have said earlier, the Appellate Division is enabled to render the judgment which the trial court could or should have rendered ‘ upon the right of any or all of the parties * * * ’ and therefore can act as it did in the present case.”
+Accordingly, the plaintiff’s motion to set aside the verdict in the infant. I would be disinclined to disturb the verdict in the granted unless, within 10 days from the entry of the order herein, the defendant stipulates to increase the amount to $500, in which event the infant plaintiff’s motion is denied.
