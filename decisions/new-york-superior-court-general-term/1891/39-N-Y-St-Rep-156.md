@@ -1,0 +1,23 @@
+---
+court: "New York Superior Court General Term"
+decided: "1891-05-04"
+citations: ["39 N.Y. St. Rep. 156"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Albert Wilson, Resp’t, v. George W. Smith, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2062036
+cites_cases: ["18 Abb. Pr., 405", "39 Hun, 366", "78 N. Y., 487"]
+---
+
+# Wilson v. Smith
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+—The amendment allowed did not increase the amount of the plaintiff’s demand which was to recover $542.30, and merely allowed him to state the fact that $234 of it was a separate item for cash loaned, the remainder of the claim being for so much money paid, laid out and expended, as charged in the original complaint. The moneys expended were paid out between January 1, 1884, and July 1, 1884. The loan was made June 8, 1884, so that nothing was imported into the complaint by the amendment except that which was necessary to apprise the defendant of the nature of the demand against him. The cause of the error was explained, the delay excused, and a case presented which called for the exercise of the liberal power of amendment vested in the court. Code, § 723. The defendant claims that the effect of the amendment was to introduce a new cause of .action barred by the. statute of limitations, and that this circumstance was sufficient to require the denial of the motion. Citing Sheldon v. Adams, 18 Abb. Pr., 405; Evangelical L. Ch. v. Fingar, 11 W. Dig., 460.
+These cases do not question the power of the court to allow such an amendment, but hold that it should be exercised as in other cases, only in furtherance of justice and upon cause shown. With this qualification the power is plenary. Hatch v. Central N. Bank, 78 N. Y., 487 ; Eighmie v. Taylor, 39 Hun, 366. The plaintiff did not, however, invoke the exercise of this power in the present instance. He did not seek to introduce a new or independent cause of action barred by the statute. He applied to correct an inadvertent error in his complaint, by amending it to conform to the truth and fact. The amendment was neither misleading nor prejudicial to the defendant, for he had been apprised of the true state of facts by the service of the bill of particulars seven weeks before the statute of limitations could have been attached. The amendment was in furtherance of justice and properly allowed. Indeed, it would have been an abuse of discretion to have denied it.
+The appeal is without merit, and the order appealed from must be affirmed, with costs.
+Sedgwick, Ch. J., concurs.
