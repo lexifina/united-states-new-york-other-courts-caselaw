@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-28"
+citations: ["25 N.Y. St. Rep. 683", "3 Silv. Sup. 413"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary F. Stouter, Resp’t, v. The Manhattan Railway Company, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/25/cases/0683-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657884
+---
+
+# Stouter v. Manhattan Railway Co.
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+The plaintiff was injured while she was a passenger on the defendant’s railroad, and this action is for the recovery of the damages resulting from such injury.
+There was no claim that the plaintiff contributed"any negligence to bring on the accident, and the question of the negligence of the servants of the defendant was fairly submitted to the jury and decided against the company.
+A strenuous objection is made against the- proof of the diagram by the first witness introduced by the plaintiff. The engineer of the train which collided with the car in which the plaintiff was riding when she received her injuries was called, and sworn as a witness, and was shown a rough diagram which had been made by the husband of the plaintiff a short time before the trial. Upon being asked if the diagram correctly represented the place where the accident happened, he said : “I should call it a very good rough diagram, with one exception.”
+Then this question was asked : “ Q. What is the exception?” A. There is a portion of a chock-block here at present.
+Thereupon the counsel for the defendant moved that the answer be struck out, and the motion was denied, and the defendant excepted. Then the witness said it was not as it was on the thirty-first day of December (the day of the accident).
+Then the trial judge asked the witness what the difference was between the state of the locality on the thirty-first day of December, and as it was represented on the diagram. That was also objected to, and allowed over the defendant’s exception, and the witness said, in substance, there was no chock-block there at that time.
+That was the extent of the testimony against which the objection is now lodged, and, in our view, it discloses no error. It was entirely competent for the plaintiff to show the absence of a chock-block, and to show, if she could, that the disaster resulted from such absence.
+At a subsequent stage of the trial, when the husband of the plaintiff was under examination, the trial judge guarded against any indirect proof of a change since the accident, bv striking out the mark which indicates the chock-bloclr.
+Much complaint is also made against the size of the verdict, and we have made a careful examination of the testimony relating to the extent of the plaintiff’s injuries, and we find evidence sufficient to show them to be very serious.
+If the testimony of the plaintiff, herself and her husband, and of the physicians, received full credit from the jury, as we must assume now it did, the verdict is not so large as to justify the interference of an appellate tribunal.
+Under the charge of the trial judge the jury must have found that the plaintiff had sustained an injury to her spine of a very serious nature, from which she was yet suffering at the time of the trial, and if that be her condition, the verdict cannot be disturbed by reason of its size.
+We find no error committed either upon the trial or in the charge, and the judgment and order denying the motion for a new trial should be affirmed, with costs.
+All concur.
