@@ -1,0 +1,36 @@
+---
+court: "New York Superior Court"
+decided: "1873-12-31"
+citations: ["4 Jones & S. 481", "36 N.Y. Super. Ct. 481"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN UNDERWOOD, Plaintiff and Respondent, v. JOHN GREEN, Defendant and Appellant."]
+source_url: "https://static.case.law/ny-super-ct/36/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1405408
+cites_cases: ["11 N. Y. 285", "12 How. P. R. 438", "12 How. Rep. 539", "12 Howard Rep. 438", "13 Howard Rep. 572", "18 N. Y. 150", "2 Abb. 117", "3 Howard Rep. 280", "30 Barb. 471", "49 N. Y. Rep. 162", "52 N. Y. 249"]
+---
+
+# Underwood v. Green
+
+## Majority (Monell, J. Barbour, C. J. Freedman, J.)
+
+Monell, J.
+Upon the appeal from the judgment the proceedings on the part of the plaintiff were stayed. The General Term reversed the judgment, and granted a new trial. From the order of reversal, the plaintiff appealed to the Court of Appeals. The latter court reversed the order of the General Term and affirmed the judgment which had been reversed.
+Until the affirmance by the Court of Appeals, the first judgment, after its reversal by the General Term, was at least suspended. An execution upon it could not have been issued; nor could it have been enforced by action or otherwise. In effect it was as if it had been cancelled of record. And although the judgment of affirmance restored the original judgment, the whole of the intervening time, from the first appeal to the final affirmance, was dies non juridici, to the plaintiff.
+The cases we were referred to merely sustain the general proposition, that an execution cannot he issued without leave after five years from the entry of judgment. In none of those had there been an appeal or suspension of the judgment.
+The true construction of the section (284) of the Code, I think, is, that execution must issue within five years of the entry of the judgment where such judgment is final between the parties. The first judgment was only final in the court below, and was subject to appeal. There was, therefore, no judgment upon which an execution could be issued until the end of the appeal and the affirmance of the judgment. During the intervening time there was either a stay of proceedings or a vacated judgment, either and both of which must have the effect of suspending the period prescribed by the 284th section of the Code.
+In King v. Harris (34 N. Y. R. 330) it was held that the lien of a judgment vacated by an order of the Special Term could not be restored by a reversal of such order by the G-eneral Term, as against other creditors who had in the meantime acquired a lien. In the court below (30 Barb. 471), Mullen, J., gives the effect of a reversal as follows: “After the entry of the order of the Special Term, all persons dealing with the real estate of iihe judgment debtor as bona-fide purchasers, or incumbrancers, and all commencing actions affecting the real estate, would be at liberty to act as if no such judgment had ever been docketed / and the subsequent reversal of the order could not affect such parties or their proceedings.”
+The judgment entered upon the remittitur from the Court of Appeals is a new judgment, and although the ■former judgment is restored, so far as respects its lien, .an execution can issue only after such judgment upon the remittitur, and is in fact issued upon it.
+I am, therefore, of opinion, that under the facts of the ease, the execution was properly issued, it being within ■ five years of the entry of the judgment upon the remittitur from the Court of Appeals.
+The order should be affirmed, with costs.
+Barbour, C. J.
+The papers used upon the motion below on the part of the appellant, raised no question touching the validity or legal effect of the order of a General Term of this court, which in terms reversed a. judgment at Special Term, or of the order of the Court of Appeals, which, in like manner, reversed the General Term order and affirmed the original judgment, and therefore it is unnecessary for us to consider here whether a judgment can properly be affirmed or reversed by- a mere order of an appellate court. It is-sufficient to say that the question is not now before us.
+The point of the appellant’s counsel, that the judgment entered upon the remittitur was a nullity because, the costs being costs on appeal from an order merely, were adjusted by the clerk and not by the court or a. judge, cannot be sustained; for there is nothing in the papers used upon the motion or in the decision of the judge which indicates that the question was, or could properly have been, raised or adjudicated at the Special Term.
+I am of opinion, however, that the learned judge erred in refusing to set aside the execution. The language of the Code, § 284, clearly prohibits the issuing of execution after the lapse of five years from the entry of judgment, except upon notice and proofs and an order of court, founded thereupon, granting permission to issue the same. The prohibition is imperative, and in terms-extends to all cases (See Morse v. Goold, 11 N. Y. 285 ; Redmond v. Wheeler, 2 Abb. 117 ; Swift v. Flanagan, 12 How. P. R. 438; Sacia v. Nestle; 13 Ib. 572).
+The order appealed from must therefore be reversed,, with costs, and an order entered vacatingii and setting aside the execution.
+Freedman, J.
+I agree with the learned Chief Justice • that there is nothing in the point made hy the appellant that the judgment entered upon the remittitur is void, because the costs being costs on appeal from an order merely, were adjusted by the clerk and not by the i court or a judge thereof. Sot only is there no proof that this question was raised or passed upon at Special Term, but if there were, the proposition could not be maintained. The appeal was under Subd. 2 of § 11 of the Code from the order of the General Term, reversing plaintiff’s judgment and granting a new trial. The Court of Appeals reversed that order and affirmed the judgment with costs, which under § 307 meant full costs (Brown v. Leigh, 52 N. Y. 249). The appeal not being an interlocutory or special proceeding within the meaning of Subd. 2 of § 311, it became under Subd. 1 of the last-named section, the duty of the clerk, on application of the' prevailing party, to insert the costs allowed by the provisions of the Code in the entry of the judgment which necessarily had to be entered upon the remittitur.
+Upon the other branch of the case I concur in the views expressed by my brother Monell. The time during which plaintiff’s judgment remained suspended, should not be held to constitute part of the five years mentioned in § 284. As an additional reason why the order appealed from should be affirmed, I will point out that it has been repeatedly held that an execution issued without leave, after five years from the entry of the judgment in a court of record, and in violation of § 284, is not void, but only voidable in the discretion of the court from which it issued (Bank of Genesee v. Spencer, 18 N. Y. 150 ; Winebrener v. Johnson, 7 Abb. N. S. 202).
+The order should be affirmed, with costs.
