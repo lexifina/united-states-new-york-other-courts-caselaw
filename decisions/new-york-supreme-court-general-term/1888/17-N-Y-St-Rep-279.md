@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-23"
+citations: ["17 N.Y. St. Rep. 279"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George S. Vaughn, App’lt, v. Samuel H. Lego et al, Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008102
+cites_cases: ["17 Hun, 27", "4 Hun, 309"]
+---
+
+# Vaughn v. Lego
+
+## Majority (Barker, P. J.)
+
+Barker, P. J.
+A justice of the peace has ample power
+at any time before the trial, or during the trial, to amend the pleadings, if substantial justice will be ■ promoted thereby. Code of Civil Procedure, § 2944.
+Within the rule as laid down in Walsh v. Cornett (17 Hun, 27), and Wood v. Shultis (4 Hun, 309), a case was made by the defendants authorizing the justice to allow the amendments, and it was an error to deny the application. In these cases it was held that the power conferred b;y the statute was for the promotion of justice, and that suitors have a right to insist upon its exercise in a proper case, and it is not wholly within the discretion of the magistrate to allow or refuse the proposed amendment. There was nothing in this case to show that the proposed defense was false, untrue, or put in for delay or vexation. The defendants did not ask for an adjournment of the trial, or show any disposition to delay the proceedings.
+In the return,the justice states that after hearing the statements and admissions of the attorneys made on the application to amend, the motion was denied. This statement does not disclose anything in favor of the allowance or rejection of the application. It simply indicates that it was opposed by the plaintiff. If the matte! in issue had been previously tried and determined, it would have been fair and just to the defendants to give them an opportunity to make that defense.
+The plaintiff’s complaint was in writing and verified in the form and manner required by chapter 414 of the Laws of 1881. The plaintiff contends that as the defendants’ proposed amended answer was not also verified as required by that act, it affords some evidence that the proposed amendment was not made in good faith and was not truthful. It does not appear that a copy of the plaintiff’s verified complaint was served with the summons, as required by the said act, and for that reason, by the rules of pleading applicable to justice’s court, the defendants were not required to verify their answer and the omission to do so in this case, cannot be received, as any evidence that the application to amend was not made in entire good faith. There is nothing to distinguish this case from Walsh v. Cornett, where a justice’s judgment was reversed because the defendant’s motion to amend his answer, was denied, and upon its authority the judgment is affirmed.
+Judgment affirmed.
+Haight, Bradley and Dwight, JJ., concur.
