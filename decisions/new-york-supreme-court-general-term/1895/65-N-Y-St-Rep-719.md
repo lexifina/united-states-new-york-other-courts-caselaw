@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-02-12"
+citations: ["65 N.Y. St. Rep. 719"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles A. C. Beller, Resp’t, v. Sarah Jane Antisdel et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/65/cases/0719-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2107438
+---
+
+# Beller v. Antisdel
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+We think, as a general rule, to which, of course, there may be exceptions, that when, in an action of partition, a mortgagee is brought in as a party defendant, and it is proposed to pay such mortgage from the proceeds of the sale of the property upon which his mortgage is a lien, the costs of such partition should not be deducted from the proceeds of the sale before applying the same in extinguishment of the mortgage. Unless the mortgagee has unnecessarily increased the costs and expenses of litigation, there is no reason why he should be compelled to pay any portion of the costs of the action in partition, which he might be compelled to do if the costs of such action were to be deducted from the proceeds of the sale first, and the remainder applied to the satisfaction of his mortgage. There is some difficulty, however, in applying that rule m this case". It is contended that the mortgage is a lien upon some ten acres of land in addition to that sought to be partitioned. This does not clearly appear from the case, and the appellants have excepted to those findings of the referee from which it might be inferred that there is more property covered by the appellants’ mortgage than that sought to be partitioned ; but in the appellants’ brief it is practically admitted that such mortgage does cover land in addition to that sought to be partitioned, and to which appellants could resort to make up any deficiency which might, arise from applying the proceeds of that portion of the land involved, covered by the mortgage, to the payment of their mortgage, after deducting a pro rata share of the costs in this action from snch proceeds. The relative value of the different parcels of land covered by the appellants’ mortgage nowhere appears in the case, and does not seem to have been found or considered by the referee or by the special term; so that we find ourselves somewhat embarrassed as to the proper disposition of the matter; but it seems to us that the judgment entered should be so modified as to provide that the proceeds of the sale of that part of the premises described in the complaint which are covered by the mortgage of the appellants be first applied in satisfaction of said mortgage before any part thereof shall be applied in payment of the costs of this action, or, if the respondent so elect, the decree may be so modified as to provide for the sale of such premises, subject to the lien of the appellants’ mortgage. As so modified, the order appealed from is affirmed, with $10 costs and disbursements of this appeal, to be paid from the proceeds of the sale of the, premises described in the complaint.
+All concur.
