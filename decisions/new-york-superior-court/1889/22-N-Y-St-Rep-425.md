@@ -1,0 +1,32 @@
+---
+court: "New York Superior Court"
+decided: "1889-03-05"
+citations: ["22 N.Y. St. Rep. 425", "24 Jones & S. 519", "56 N.Y. Super. Ct. 519"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Wallace et al., App’lts, v. Frederick D. Blake et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/22/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020739
+---
+
+# Wallace v. Blake
+
+## Majority (Truax, J.)
+
+Truax, J.
+—The power of the court to issue a commission depends entirely upon sections 887, 888 and 889 of the Code of Civil Procedure.
+Before the court can issue a commission, the applicant must show that the party to be examined is not within the state, and that his testimony is material. Upon such showing the court may issue the commission bo one or more0 competetent persons to be named in the commission.
+In case before us the name of the commissioner was not inserted in the order. The order further provided for the examination of “ such other witnesses as the defendants may submit the names and addresses of to plaintiffs.” In both these respects the order is irregular.
+The failure to insert the name of the commissioner is in conflict with the provision of the section above cited.
+The provision relating to the examination “ of such other witnesses, etc.,” is opposed to the direction of the Code, that only a witness whose testimony is material, can be examined on commission.
+It has often been held that the materiality of testimony must be made clearly to appear; but how can the materiality of “ such other witnesses as the defendants may submit the names and addresses of,” be made to appear?
+The attorney for the respondent suggested on the argument that the order could be modified in these two respects, and we would so modify and affirm it were it not for other irregularities.
+Section 887 of the Code, provides that the testimony of a person not within the state, may be taken by commission when it appears that such testimony is material.
+The respondent failed to show that the persons whose testimony he desired to take, were not within the state, while it was stated in the appellant’s papers, used to oppose the motion, that one of the witnesses had been within the state a short time before* the application for a commission was made.
+Prior to the adoption of the Code of Civil Procedure, a party was entitled to a commission on showing, among other things, that the persons whose testimony he desired to take did not reside in the state. Now he is required to show that such person is not within the state.
+He does not show that fact by showing that the person resides out of the state.
+The attorney for the respondent suggested that this defect could be cured at the trial by showing, as in the case of testimony taken de bene esse. that the person was absent from the state at the time of the trial. But there is no authority for such a course in the case of a commission, while it is specially authorized, by section 882 of the Code of Civil Procedure, in a case of a deposition de bene esse. Moreover, there is no allegation of the materiality of the testimony of two of the persons to be examined.
+Order is reversed with costs.
+Sedgwick, Ch. J., concurs.
