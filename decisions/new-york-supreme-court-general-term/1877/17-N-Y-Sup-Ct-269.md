@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1877-03"
+citations: ["17 N.Y. Sup. Ct. 269"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J., concurred.", "Present — Davis, P. J., Bradt and Daniels, JIT."]
+parties: ["In the Matter of the Petition of CATHARINE A. DURKIN to Vacate an Assessment, etc."]
+source_url: "https://static.case.law/ny-sup-ct/17/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4446846
+---
+
+# In re Durkin
+
+## Majority (Daniels, J.:)
+
+Daniels, J.:
+Tbe first assessment was made in 1852, for paving, resetting curb and gutter and flagging stones, between Sixth and Seventh avenues, and it was shown- to have been paid in April, 1852. Tbe last assessment was for tbe expense of paving tbe street with Belgian pave-. ment, from Sixth to Tenth avenues. Tbe resolution directing tbe work was passed by tbe board of assistant aldermen on tbe 14th of June, 1870, and. by tbe board of aldermen on tbe twenty-third of August following; and it was approved by tbe mayor on tbe twenty-sixth of that month. At that túne tbe designation of newspapers for tbe publication of municipal notices, under tbe act of 1867, bad ceased to be operative, and no effectual designation bad been made under tbe act of 1868. Bor these reasons, publication of this ordinance was not required in either of tbe newspapers employed under tbe act of 1867; or which might have been, but were not employed under tbe act of 1868. Consequently, proof of tbe failure to publish in tbe newspapers employed in 1867 did not render tbe ordinance or resolution providing for tbe second pavement invalid.
+But it was claimed that tbe failure to publish notice of tbe proceedings in tbe newspapers required to be designated by section 1 of chapter 383 of tbe Laws of 1870, must be attended with that result. Tbe evidence proved that no designation of newspapers bad been made, as that section of tbe statute required it to be done, when this ordinance or resolution was introduced and acted upon by tbe boards of aldermen and assistant aldermen, and was approved by tbe mayor. Bor that reason, publication in such newspapers was an actual impossibility, and yet publication bad been positively required by a preceding act. That could not be complied with in any way if publication in newspapers designated by the city authorities was what the law was designed to require, for there were no such newspapers in existence. The designation made under the act of 1867 had expired. That which was attempted under the act of 1868 was never effectually completed, and none whatever had been made under the act of 1870. And still, by a preceding law, it had been made the duty of the clerks of the respective boards of aldermen to make the publication. When that duty was created there were no corporation papers whatever designated, in which municipal proceedings could be or were required to be published. And as the clerks had been subjected to the duty of making publication of the resolutions and ordinances, they could not be absolved from a failure to discharge it by reason of that circumstance. The result of this state of things was that they could lawfully publish them in any newspaper published in the city. That would comply with what the act of 1870 declared it to be the duty of the clerks to do. (Yol. 1, Laws of 1870, 369, chap. 137, § 20.)
+This state of things continued until chapter 383 of 1870 went into effect, which provided that newspapers should be designated, and that these proceedings should be published in them. But as that could not be done until the designation should be made, and the duty to make publication was an absolute one, the clerks were at liberty to continue it in the same way that it could be done by them before chapter 383 went into effect. The failure to perform the duty, providing that a designation of newspapers should be made, did not discharge the clerks from the performance of that which had been positively imposdd upon them, and for those reasons it is not to be presumed, without evidence, that no such publication as was required was made of the ordinance or resolution providing for this improvement. That was the conclusion arrived at in the Case of Peugnet (12 S. C. N. Y. [5 Hun], 434), under circumstances similar to those shown in support of this application. And the Case of Levy (11 id., 501), relied upon by the petitioner’s counsel, is entirely consistent with this result; for it appeared there that no publication of the ordinance or resolution had been made. The want of publication was not established in this case, and as that was the only irregularity relied upon, the case of the petitioner was not made out. The order appealed from should be reversed, and a rehearing of tbe case directed, with tbe usual costs to tbe appellants to abide tbe event.
+Davis, P. J., concurred.
+Present — Davis, P. J., Bradt and Daniels, JIT.
+Order reversed, rebearing ordered, ten dollars costs to appellants, to abide event.
