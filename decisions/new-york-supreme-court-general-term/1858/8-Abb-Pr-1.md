@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1858-09"
+citations: ["8 Abb. Pr. 1"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HAVEMEYER a. CUNNINGHAM."]
+source_url: "https://static.case.law/abb-pr/8/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4584233
+---
+
+# Havemeyer v. Cunningham
+
+## Majority (By the Court.—Hogeboom, J.)
+
+By the Court.—Hogeboom, J.
+This was an action to recover damages for not delivering a cargo of sugars, which it was alleged the defendants had agreed to sell and deliver to. the plaintiffs. The defence was, that the contract was conditional, and that the contingency had never occurred which required the delivery of the sugars ; and also, that by mutual consent, as established by the correspondence of the parties, the parties had abandoned the contract. The principal question in the case arose upon the proper legal construction to be given to the written contract or sale note upon which the plaintiffs’ claim was founded. But there were also questions of evidence in the case; and, as before stated, the question of abandonment of the contract, as evidenced by the correspondence of the parties, to the introduction and admission of which the plaintiffs objected and excepted. The defendant also excepted to the rule of damages and mode of calculating damages adopted in the case, and to the allowance of interest. A witness, Horatio Hawes, had also been examined by consent, before the trial, on the part of the defendant, and his deposition was read on the trial. It contains several objections by the plaintiffs to questions put to and answered by the witness, and one objection by the defendant to a question put by the plaintiffs to the witness on the cross-examination, and answered by him. These objections do not distinctly appear to have been passed upon by the commissioner who took the deposition, nor by the judge who presided at the trial, nor was any formal exception taken in reference thereto. A motion was made to dismiss the complaint, and it was denied, the judge reserving the questions as questions of law; and the defendants excepted. The judge directed a verdict for the plaintiffs for the amount of damages claimed by them, and according to the mode of computation adopted by them, subject to the opinion of the court at general term. The defendants excepted to such direction and disposition of the cause.
+Upon the authority of the case of Cobb a. Cornish (16 N. Y. R., 602; S. C., 6 Abbotts’ Pr. R., 130), I am of opinion that there has been a mistrial of this cause, and that the judgment should be reversed, with costs to abide the event of the action. The case does not seem to be in a situation to render final judgment. It does not present only questions of law. (Code, § 265.) Aside from the objections taken to the evidence of the witness Hawes, and the question, what would be the amount of damages if the defendant’s mode of estimating them were adopted, the letters of the parties to each other were admitted under the plaintiffs’ exception, and are claimed by the defendants, both in the case itself and in the points, to furnish material evidence tending to show the plaintiffs’ abandonment of the contract. As the case was disposed of at the circuit, there is no mode that I can discover by which he can obtain the benefit of that exception, in case the court at general term pronounce judgment in favor of the defendant. Such judgment is final, subject only to the right of appeal. A new trial cannot be granted.’ The exception to the evidence cannot, that I see, be reviewed. And yet that evidence may possibly furnish a material element in leading tire mind of the court to the judgment which it shall ultimately give. To dispose of the case finally in its present shape might therefore work serious injustice to one or the other of the parties ; and therefore, to obviate the effects of the mistrial, the judgment of the court below should be reversed, and a new trial granted, with costs to abide the event of the action.
+Present, Davies, P. J., and Sutherland and Hogeboom, JJ.
