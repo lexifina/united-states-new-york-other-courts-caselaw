@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-03-29"
+citations: ["23 N.Y. St. Rep. 391", "1 Silv. Sup. 100", "5 N.Y.S. 64"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James J. McComb v. The Cordova Apartment Association et al."]
+source_url: "https://static.case.law/ny-st-rep/23/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 653835
+cites_cases: ["2 N. Y. Supp. 570"]
+---
+
+# McComb v. Cordova Apartment Ass'n
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The action is for the foreclosure of a mortgage given upon the apartment house known or called the “ Cordova,” and the land upon which it has been erected, situated in the city of New York. A receiver was appointed by the court in the action, with the powers and duties ordinarily delegated to receivers in foreclosure suits. The appellant was the owner of an apartment in the building, and he, together with other owners were, upon motion, directed to pay to the receiver a rental at the rate of $1,700 per year. The appellant however failed to ooccupy the apartment to which he was entitled, and the receiver, under the authority vested in him, rented the apartment from the 1st of October, 1886, for one year, and, received, as rent, the sum of $2,500. He again, with the acquiesence of the appellant, rented the apartment for another year,for the rent of $2,700, to the 1st of July. After paying his commissions, and the expenses of repairs and improvements, and commissions to brokers for renting the apartment, and the amount of $1,700 per annum, mentioned in the order, he had, in his hands, a balance of $550.90, and this sum the appellant demanded of the receiver as so much money to which he alleged himself to be entitled as the owner of the apartment, ana by virtue of the order.
+But this order in no manner either directly, or by implication, required the receiver to pay over any balance accruing to him from the rental of the apartment to the applicant. It entitled the appellant only to the occupancy of his apartment for the annual rental of $1,700, prescribing and declaring his obligations to the receiver only in case of the occupancy of the apartments by himself. If he omitted to occupy the apartment, then the order in no manner declared or affected the rights or obligations of himself or the receiver. That consequently was left to the order appointing the receiver, and under that order when he found the apartment unoccupied, he had, by virtue of the authority with which it vested him, the right to lease the apartment and obtain as large a rental as it was practicable to secure, and to be held by himself as receiver, and disposed of by the court in the adjustment of his account, and the final disposition of the moneys. This order appointing him, supplied him with his authority, and in its effect defined his rights and obligations, and within those obligations no duty rested upon him to pay over to the appellant this balance or any other moneys that he should obtain from leasing the apartment to another tenant than the appellant himself. But whatever money was obtained by the receiver from the leases or rentals arising under his authority, were necessarily to be held by him in his capacity as receiver. His obligations under the facts as they arose, were in no manner defined, or dependent upon the order, relating to the rental to be paid by the appellant himself, but they depended wholly upon the order appointing the receiver, and under that it was not only his right but he was obligated, when the apartment was found to be vacant, to rent it for as large a rental as he could obtain for its occupation, and to retain the rent in his hands as receiver under the order, until the final or other disposition of the action. The appellant had no right, whatever, to this balance, inasmuch as it was obtained by the receiver under and by virtue of his own appointment, and not under the order declaratory of the applicant’s obligations. It was asserted in supprt of the application that the receiver agreed to account to the appellant for such rentals as accrued. But that had been positively denied, and the facts appear as it has already been stated, that the receiver acted wholly under his own appointment, and is entitled to retain the money, subject to the future order and disposition of the court, when the rights of the plaintiff as the holder of the mortgage, shall be finally settled and adjusted.
+The order should be affirmed, with ten dollars costs, besides the disbursements.
+Van Brunt, Ch. J., and Brady, J., concur.
