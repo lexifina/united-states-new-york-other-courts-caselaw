@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-03"
+citations: ["93 N.Y. Sup. Ct. 1"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis and Beadley, JJ., concurred."]
+parties: ["Caroline Wasmuth, Respondent, v. Edward H. Butler, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/93/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4780992
+cites_cases: ["39 N. Y. 400"]
+---
+
+# Wasmuth v. Butler
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+Tbe action was to recover damages for a bodily injury sustained by the plaintiff by means or in consequence of alleged negligence of the defendant’s servant in the management and control of a horse of -the defendant while used and employed in the business of the latter.
+The evidence plainly demonstrated the negligence complained of. The horse, which was driven to a light cart in delivering newspapers, was left by the driver standing in the street, unfastened and not watched, while the driver went inside a neighboring building and shut the door behind him. "While thus left alone the horse became frightened and ran away in the direction in which the plaintiff was driving on the street, overtook her from behind, collided with her wagon and threw her out, and in the fall she sustained the somewhat serious injury of which she complains.
+The court at the Circuit properly submitted to the jury the question whether the act of the defendant’s servant in leaving the horse untied and without supervision on the street of a city was negligence; but if the verdict of the jury had answered that question in the negative it would, probably, have been a question for the court, on a motion for a new trial, whether the verdict was not so manifestly opposed to the experience and judgment of mankind as to necessitate the granting of the motion. Certainly, the verdict in the affirmative on the question of negligence was justified by the facts. It has become almost proverbial that no horse is safe to leave untied on the street.
+The contention of the defendant, that it was necessary, in order to the maintenance of the plaintiff’s action, to show that the horse was of a vicious nature, is sufficiently answered by the suggestion that the complaint is not of the fault of the horse but of the fault of the driver. Precisely the same principle was involved in the case of Dickson v. McCoy (39 N. Y. 400) where the horse was set loose on the street to go, as he was accustomed to do, from one stable to another, and in his passage playfully kicked over the plaintiff, a little child. It was held there as here, that it was not required to show that the horse was of a vicious nature, or accustomed to kick or injure mankind ; that the fault upon which the action was based was not that of a horse, but that of the owner in suffering the horse to go at large on the street.
+In that case the horse was purposely, in this case negligently, suffered to go at large, with the result in each case of an injury to another who was without blame.
+The judgment and order appealed from must be affirmed.
+Lewis and Beadley, JJ., concurred.
+Judgment and order affirmed.
