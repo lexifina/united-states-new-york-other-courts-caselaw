@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1903-05"
+citations: ["3 Liquor Tax Rep. 137", "83 N.Y.S. 21", "40 Misc. Rep. 589"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. George A. Gress, Relator, v. George Hilliard, as Special Deputy Commissioner of Excise for the Boroughs of Manhattan and The Bronx, Respondent."]
+source_url: "https://static.case.law/liquor-tax-rep/3/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1292263
+cites_cases: ["144 N. Y. 516", "156 N. Y. 442", "162 N. Y. 240", "22 Wend. 395", "39 N. E. 638", "40 Misc. 589", "51 N. E. 303", "56 N. E. 625", "72 N. Y. 530"]
+---
+
+# People ex rel. Gress v. Hilliard
+
+## Majority (Bischoff, J.)
+
+Bischoff, J.
+The premises upon which the relator desires to carry on his liquor business are situated in the lower part of the borough of The Bronx, being within the territory originally annexed to the city and county of New York, as a part of the first judicial district, and, in accordance with the Liquor Tax Law, as in operation on the 31st day of December, 1902, the excise tax within that territory was, at that date, $800.
+The tax in this particular district (as a part of the city and county of New York, prior to the “Greater New York” consolidation of 1897) has been larger than the tax in the rural districts which became a part of the city under that consolidation, and it has been the intent and purpose of the Legislature to continue the distinction by preserving the scale of payment, in those districts, which obtained prior to 1897. Laws of 1897, chap. 442.
+The present controversy turns upon the construction of chapter 115' of the Laws of 1903, which, in the form of an amendment to section 11 of the Excise Law, fixes a definite rate of tax (subdivision 1) according to the population of the “ city or borough ” in which the business is carried on, and, agreeably to the test afforded by population, taking the borough of The Bronx as a whole, the tax payable by the relator would be but $750. The act of 1903 provides, however (subd. 7), that “The excise taxes assessed under this act in cities containing a population of fifteen hundred thousand or' more, which are or shall be formed by the consolidation of territory situate in one or more counties, shall ba . assessed in the several boroughs or portions of the territory so consolidated to form such city at an advance of one-half in the rate over the amount at which such taxes were assessed on the thirty-first day of December, nineteen hundred and two, in the several portions of the territory so consolidated.”
+• This provision, if controlling, fixes the tax payable by the relator at $1,200, in accord with the express rate fixed (by the population test) for the borough of Manhattan, and in harmony-with the statutory conditions prior to December 31,1902, whereby the rate was uniform for the territory of the first judicial district, in which the relator’s premises are situated. If this provision is not to control, the excise tax is lessened in this portion of the borough of The Bronx while increased in every other city in the State. The apparent conflict in the provisions of this statute arises through the measurement of the increased tax by population in a city “ or borough ” when this one particular borough (The Bronx) had theretofore been divided, for the purposes of liquor licenses, by another line of demarcation, i. e., the limit of the first judicial district, which boundary brought a portion of the territory — now forming the borough of The Bronx — within the lines of the district originally regulated, for the purposes of this tax, by the population of the city of New York.
+The evident purpose of the act of 1903 was to effect an increase of 50 per cent, in all liquor licenses. This purpose is directly stated in subdivision 7 (above quoted) and the provision may properly be read as a proviso, controlling over possible inconsistencies in the body of the statute. Matter of New York & Brooklyn Bridge, 72 N. Y. 530. Without this proviso, the license rate in the boroughs of Richmond and Queens, as determined by the population test, would be increased much more than 50 per cent., and the necessity of the proviso to maintain the proper proportion of increase is thus apparent. To hold that by the use of the term “ city or borough ” in subdivision 1, the Legislature intended to reduce the license rate in this portion of The Bronx, would be to disregard the obvious purpose of the act and to give controlling force to an isolated instance of a conflict in the provisions of the statute evidently arising through inadvertence.
+Whether the construction of the statute is to be strict or liberal, it must be at least reasonable for the purpose of carrying out the legislative intent, and I find no room for doubt that the provisions of subdivision 7 should control and the use of the word “ borough,” as applied to the borough of The Bronx, be taken, so far as limited by the proviso. Donaldson v. Wood, 22 Wend. 395; Hayden v. Pierce, 144 N. Y. 516; Blaschko v. Wurster, 156 id. 442; People ex rel. Town of Plattsburgh v. Williams, 162 id. 240.
+The tender made by the relator was insufficient and the writ should, therefore, be dismissed.
+Writ, dismissed.
