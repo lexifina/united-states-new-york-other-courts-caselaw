@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1874"
+citations: ["9 N.Y. Sup. Ct. 628"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of THE CITY OF BROOKLYN and TEUNIS G. BERGEN and others, Commissioners, Appellants, v. JOHN A. LOTT and others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/9/cases/0628-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2355769
+---
+
+# City of Brooklyn v. Lott
+
+## Majority (Talcott, J.:)
+
+Talcott, J.:
+On a careful examination of the numerous acts of the legislature concerning Prospect Park, etc., in the city of Brooklyn, we are unable to discover any indication that the legislature intended ,to authorize the assessment of any portion of the expense' of acquiring the title to and constructing the said park, upon the property situated in the adjoining town of Flatbush; but on the contrary we find many provisions of those laws, which seem to be wholly inconsistent with such an intention. The land is to be acquired for and in behalf of the city of Brooklyn. The receipts from it, when any portion of it is sold or rented, are to be paid into the treasury of Brooklyn. In the original and preliminary act of 1859, although the commissioners are authorized to select for such purpose lands outside of the city, they are nevertheless required to make such selection and location, “in view of the present condition and future growth and wants of said city” of Brooklyn, and not for the benefit of any other place. And, in the act of 1860, the lands selected and taken for the purpose, and then lying outside of the city limits, are annexed to and made to form a part of the city. And, in the act of 1866, “ to extend the boundaries of Prospect Park in the city of Brooklyn,” under which the board of commissioners were authorized, “ for and in behalf of said city,” to acquire title to the lands situated partly in the city and partly in the town of Flatbush, it is provided that the lands thus taken shall be deemed to have been taken by the city of Brooklyn. The title is vested, .in fee simple absolute, in the city of Brooklyn. The lands are annexed to, and made to form a part of the city, and the assessment is confined to the city. This is the apparent spirit and purpose of all the legislation on the subject. It is true, in some of the acts, the assessments are authorized to be made upon any lands outside of the park. These words, standing by themselves, and disconnected from the subject-matter, might seem to authorize an assessment upon lands in the city of New York, or any other part of the State which the commissioners might think had been benefited by the construction of Prospect Park. But this language seems to have been used only to extend over the whole city the area of assessment, instead of confining it to the western district, and cannot be presumed to have intended to authorize an assessment upon the lands of other towns, for whose benefit the legislature does not suggest that the lands have been condemned. It is true, as a matter of fact, that lands lying beyond the limits of a city, may be, and usually are, more or less benefited by improvements of a public character within the city, but it has not been hitherto the policy of the legislature to compel the suburban districts to pay the expenses of such improvements. In most cases, it will be found that, where the legislature has authorized public improvements to be made by a municipal corporation, and an assessment of the expenses thereof upon other territory, the authority to assess has been general, to assess the expense upon the lands deemed benefited by the improvement. Yet it has never before, so far as we are aware, been claimed that the authority to assess extended beyond the limits of the municipality. Whatever the commissioners may have thought, we fail to discover any legislative recognition of the fact that any lands in Flatbush were to be benefited by the construction of Prospect Park, or that any portion of the expense was authorized for the benefit of the town of Flatbush, or any of the lands therein, unless it be those which were authorized to be taken and annexed to the city of Brooklyn; and we think the order appealed from should be affirmed, on substantially the same grounds expressed in the opinion delivered at the Special Term.
+Order affirmed, with ten dollars costs.
+Present — Barnard, P. J., Talcott and Tappen, J J.
+Order affirmed, with ten dollars costs.
+Session Laws of 1859, chap. 466.
