@@ -1,0 +1,30 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1893-11-06"
+citations: ["55 N.Y. St. Rep. 392", "25 N.Y.S. 760", "5 Misc. Rep. 408"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Rubenstein, Resp’t, v. Abraham Kahn, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/55/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 694756
+cites_cases: ["34 N. Y. 657", "34 N. Y., 657"]
+---
+
+# Rubenstein v. Kahn
+
+## Majority (Bischoff, J. Giegerich, J.)
+
+Bischoff, J.
+While as a general rule a license issued by state or municipal authority for the sale of beer, wines and spirituous liquors involves, the granting of a mere personal privilege depending upon the licensee’s possession of the prescribed qualifications, and so is incapable of assignment and of barter and sale, Am. & Eng. Ency. of Law, vol. 13, p. 514; Myer on Vested Rights, § 1356 ; Metropolitan Board of Excise v. Barrie, 34 N. Y., 657, the existing excise laws of this state distinctly grant and recognize the licensee’s right to sell and transfer his license to another subject to the approval of the board of excise. Laws 1892, ch. 401, § 26, as amended by Laws 1893, ch. 480.
+In substance plaintiff testified that defendant had promised to pay him $175 for the transfer to defendant, with the approval of the board of excise, of a liquor license issued to one Joseph Hudes for the premises 21 Suffolk street in the city of New York, in which license plaintiff at the time claimed to have a qualified ownership by transfer from Hudes, which last mentioned transfer had not yet been approved as above stated to be requisite. It is unchallenged, in fact conceded, that the transfer to defendant was subsequently effected and approved by the board of excise. It also appears in evidence that plaintiff was induced by defendant’s promise to waive his own rights in the matter and to consent to the transfer to defendant. We can conceive of no valid ground therefore for holding that plaintiff was not entitled to recover for defendant’s refusal to pay the sum agreed.
+It was wholly immaterial that Hudes may have included his license among the goods and chattels mortgaged by him to the Budweiser Brewing Company and others while defendant accepted a transfer of the license and received it unimpaired by Hudes’ attempted incumbrance. Nor do we discover anything so inherently improbable in plaintiff’s assertions at the trial that we would feel justified to reverse a judgment in his favor as against the weight of the evidence only because in some particulars he was contradicted by several witnesses for the defense, each of whom was either directly or indirectly interested in the event of the action in defendant’s favor.
+The judgment is affirmed, with costs.
+Giegerich, J.
+The agreement between the parties, which was the result of a compromise between them upon their conflicting claims, is contained in the following paper writing, signed by the defendant and by him delivered to the plaintiff, viz:
+“ I hereby agree, after the license in the name of Joseph Hudes is transferred to my name by the board of excise on the store 21 Suffolk street, to notify the paying teller of the Union Square Bank to pay one hundred and seventy-five dollars ($175) to S. Rubenstein.
+“(Sg.)
+A. Kahn.”
+A licensee may transfer his license by permission of the board of excise. Laws of 1892, chap. 401, § 26, as amended by Laws of 1893, chap. 480, § 7. The transfer of the license being conceded by the defendant, the plaintiff is entitled under the terms of the agreement to the sum agreed to be paid upon such, transfer.
+There being no error of law apparent upon the record, and it appearing therefrom that no injustice has been done to the defendant, I concur in the conclusion arrived at by Judge Bischoff, that the judgment should be affirmed, with costs.
