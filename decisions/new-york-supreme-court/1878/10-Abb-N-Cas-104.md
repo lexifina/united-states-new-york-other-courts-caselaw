@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1878-10"
+citations: ["10 Abb. N. Cas. 104"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MATTER OF THE BOSTON, HOOSAC TUNNEL & WESTERN R. R. CO."]
+source_url: "https://static.case.law/abbn-cas/10/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 626384
+cites_cases: ["12 Bush (Ky.) 160", "28 Ohio St. 643", "70 N. Y. 191", "81 Penn. St. 156"]
+---
+
+# In re the Boston, Hoosac Tunnel & Western R. R. Co.
+
+## Majority (Learned, J.)
+
+Learned, J.
+This is an application under section , 14 of the general railroad'act. The owner of the land opposes. The ground of opposition is that the route of the road has never been properly located under section 22. The alleged defect is that the “ map of the route,” filed by the company under the requirements of that section, is defective. It appears, from the map itself, produced on the hearing, that it shows only a single line as the route. This line is not described on the map as being the center or the side line of the route, nor is there any designation on the map of what the line is intended to represent. There is nothing on the map expressing the proposed width of the road.
+I think it is plain that the map mentioned in section 22 must show the land which is to be taken. Because the section provides that, within fifteen days after notice, any person feeling aggrieved by the proposed location, may apply for an alteration of the route. It is manifest, therefore, that the map must be such as to inform the owners of the land what piece or parcel of their land it is proposed to take. They could not be so informed by the map in question, for, even assuming that the line shown on the map is intended to indicate the general course of the road, there is nothing to inform them whether the company proposes to take land on one side or on the other, or on both sides of the line ; or how much is to be taken. As the road may be six rods wide (§ 28, subd. 4), it might be a matter of great importance to know whether all of this width was to be taken on one side of the line or not.
+Under the general railroad act the company select the route which they think best. But, before that selection can be established, the persons over whose land the company proposes to construct its road, must know just what land the company proposes to take. And they must have a hearing, in order that the route-may be altered or affirmed “ as may be consistent with the just rights of all parties and the public.” They cannot know whether or not they are “aggrieved,” unless they are informed exactly what part of their land the company proposes to take. Then, by their acquiescence, or by the decision of the commissioners appointed under the section, the route becomes “located,” not before. The same provisions apply when there is a change of route (section 23, at the end).
+It is only when the route has become thus “located,” that is, when it has thus been determined upon what land the company is authorized to construct its road, that the company is in a condition to- take such land by compulsory proceedings under section 14. -The petition is to show that the company has made a map or survey by which the route or line is designated and that it has located its road according to such survey. Now the company cannot “locate” its road, except by the proceedings provided in section 22. It has no right arbitrarily to “locate” its road where it pleases. It must give the occupants of the land the opportunity to be heard on this question of “location.” That is the very word used in section 22 and again in section 23. This use of the word indicates that the “location” spoken of in section 14is the proceeding had in section 22.
+The company, in the present case, insists that the map required under section 22 is one to be made before constructing the road: that section 14 refers to another map or survey under which they are to locate the roads and to file certificates of location, signed by a majority of the directors. It insists that, as they have filed a map and survey with such certificates of location, this is sufficient; and that on this proceeding no question can be raised as to the legality of what has been done under section 22. I do not think that this is correct. It is evident that it would be absurd to take property under section 14, if the matter were still open for decision under section 22 where the road was to be located. That the land is “required for the purpose of constructing the road” depends first on the determination of the place where the road has been “located.” And that is a determination which neither the company nor its directors can make absolutely, except by the course provided in section 22. These views agree with those of Judge Gilbert in N. Y. & Boston R. R. Co. v. Godwin (12 Abb. Pr. N. S. 21).
+The application must be denied, with costs.
