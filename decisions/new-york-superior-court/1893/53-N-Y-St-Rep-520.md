@@ -1,0 +1,31 @@
+---
+court: "New York Superior Court"
+decided: "1893-07-03"
+citations: ["53 N.Y. St. Rep. 520", "23 N.Y.S. 1061"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alexander Filippini, App’lt, v. Charles M. Stead, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/53/cases/0520-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 685978
+cites_cases: ["17 Hun, 600", "20 How. Pr. 384", "20 How. Pr., 384", "52 How. Pr. 435", "56 N. Y. 402", "64 N. Y. 411", "64 N. Y., 411", "67 N. Y. 95", "67 N. Y., 95", "73 N. Y. 216", "97 N. Y. 81", "97 N. Y., 81"]
+---
+
+# Filippini v. Stead
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The action was to charge defendant with liability for a judgment of $9,332, obtained by default against the firm of Allen & Stead, composed of Harry Allen and the defendant, the latter not having been served with the summons in the-original action. Code, § 1937, et seq. It appears that prior to November 7, 1885, the firm of Allen & Stead purchased for and on account of the plaintiff seven first mortgage seven per cent bonds of the Utah Southern Extension Railroad Company, of the par value of $1,000 each, and the bonds were paid for by the plaintiff.
+The bonds were thereafter deposited with the firm, which agreed to return them to the plaintiff whenever he demanded the same. The plaintiff alleges a demand upon the defendants for the bonds, their refusal to comply, and claims that by reason of such failure the defendants became indebted to the plaintiff for the value of the bonds, etc.
+The main defense relied upon was, that the firm of Allen & Stead dissolved November 7, 1885; that the business was transferred to Allen, one of the copartners, who was to continue it on his individual account, and that he had assumed all the obligations of the firm. The defendant also alleged that the plaintiff had due notice of the dissolution and transfer, and thereafter gave credit to Allen individually, by agreement that Allen should hold the bonds instead of the late firm, and that in consequence the firm, and the defendant as its retired member, were discharged from all liability for said bonds.
+The defense is founded on the familiar principle that under such, circumstances the retired partner becomes a mere surety upon the partnership obligation, and is entitled to the rights of a surety against any creditor of the firm who has notice of the dissolution and assumption of the debt by the remaining partner, to the extent that if the creditor enlarges the time of payment to such principal debtor, or makes any new contract with him respecting the obligation, the partner who’ retired is discharged from liability. Colgrove v. Tollman, 67 N. Y., 95; Millerd v. Thorn, 56 id., 402;
+Calvo v. Davies, 73 id., 216; Palmer v. Purdy, 83 id., 147; Dodd v. Dreyfus, 17 Hun, 600. The defendant proved the dissolution of the firm, that all accounts between the partners were settled, that Stead paid into the firm about $20,000 on his retirement, and that Allen agreed to assume all the obligations of the firm.
+It was undisputed that notice of the firm’s dissolution was duly and timely given to the plaintiff, but he seeks to avoid the effect of the decisions cited on the ground that the notice of dissolution did not inform him that Allen had assumed the existing liabilities of the firm. The notice given inferentially at least informed him of that fact, for it stated that Stead had retired from the firm, and that Allen was thereafter to continue the business on his own account The notice was sufficient to put the plaintiff upon his inquiry, and charge him with the knowledge such inquiries would have revealed. So construed, the notice was ample, and when the plaintiff knew of the changed relation between Allen & Stead he was bound to respect it Grow v. Garlock, 97 N. Y., 81.
+It appeared throughout the case that in all the transactions the plaintiff regarded Allen (not the defendant) as his friend, and on September 13, 1887, he wrote Allen, making a claim on him for the bonds.
+On October 4, 1887, the plaintiff made a new arrangement with Allen, which is expressed in a writing signed by the plaintiff under that date, wherein he certifies: “I have this day received from Harry Allen six certificates, representing 500 shares each of the ordinary shares of the Scottish Canadian Asbestos Company, Limited, which are to be held by me as a pledge for the loan to Harry Allen of seven bonds of $1,000 of the Utah Southern Railroad Company, and are to be returned to him upon the delivery to me of the last mentioned bonds.” These writings were signed and delivered nearly two years after the dissolution of the firm, and indicate that the plaintiff knew of the new relation and voluntarily assented to it, and looked to Allen as the only person responsible to him on the transaction. The question involved is not whether the plaintiff gave such an extension of time to Allen as disabled him for a stated period from suing, but whether the plaintiff did not, by his hew arrangement, accept Allen as the principal debtor and discharge Stead, the surety, by operation of law.
+No effort was made to hold Stead until recently, the plaintiff acquiescing since the dissolution in the theory that Allen was his real and only debtor.
+When the evidence closed, the trial judge directed the jury to find a verdict in favor of the defendant
+The plaintiff excepted to the direction and asked to go to the jury “ as to the intention of the parties.” Assuming that permission to go to the jury was applied for in time, the plaintiff, having limited his request, waived the submission of all other questions but the one specified. Dounce v. Dow, 64 N. Y., 411. The only intention inferable from the acts of the parties here is, that they contemplated the legal consequences of their acts, and the trial judge held them to this construction ; the jury could have found no other.
+The writings signed by the plaintiff constitute evidence controlling as to the facts. Boyd v. Colt, 20 How. Pr., 384: Lynch v. Pyne, 52 id., 435. Upon the entire case, therefore, the direction to find for the defendant was correct, and the judgment entered on the verdict must be affirmed, with costs. Gildersleeve, J., concurs.
