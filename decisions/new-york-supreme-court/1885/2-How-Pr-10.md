@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1885-04"
+citations: ["2 How. Pr. 10"]
+reporter: "how-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Dick agt. Henry W. Livingston."]
+source_url: "https://static.case.law/how-pr-ns/2/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2290690
+cites_cases: ["16 How., 571", "28 N. Y., 122", "3 Denio, 527"]
+---
+
+# Dick v. Livingston
+
+## Majority (Westbrook, J.)
+
+Westbrook, J.
+The owner of a junior mortgage, not made a party to the foreclosure of two prior mortgages, brings this suit against the defendant, who is the owner of one piece of property covered by the three mortgages, which title of the defendant is through the sale under the prior mortgages, to redeem the one parcel. To this complaint there is a demurrer which is well taken for two reasons.
+First. There is no general rule of law or equity which permits the owner of a junior mortgage to single out one of several parcels covered by his and an older mortgage and redeem that one parcel. His only right .is to redeem the whole. The foreclosure of the older mortgages though not valid to cut off the younger is valid as a transfer of the rights of the older mortgagee to the purchaser or purchasers at that sale, and from them to their assignees. The defendant holds, therefore, the one piece of property sought to be redeemed with the same rights as against the younger mortgage which the owner of the older mortgages had. As the junior mortgagee or his assignee could not redeem a single lot out of the several mortgaged from the older mortgagee, neither can he •redeem a single lot from one who is the assignee of the older mortgagee became such assignee succeeds to all the rights of the older mortgagee. The cases cited by the plaintiff have no application. Two of them (Hodge agt. Gallup, 3 Denio, 527; Dickinson agt. Gilliland, 1 Cowen, 481) relate to redemptions by a mortgagee from a sale under a general judgment which is regulated by statute; and Dows agt. Congdon (16 How., 571) simply decides that a railroad company .which had acquired title to a part of premises covered by a mortgage upon which it had erected valuable improvements, was entitled to have the premises sold in the inverse order of alienation, and if the parcels which should be sold prior to that of the company did not pay the mortgage, then the company could protect itself by paying the actual value of the property without its improvements, which value the court would ascertain without a sale. Even the doctrine of the last case, adopted for reasons peculiar to that case, and which reasons do not exist in this, is questioned with great force by Emott, J., when the case was before the court of appeals (28 N. Y., 122, 131, 133). The permission, however, to a party to a foreclosure suit to pay his proportion of a mortgage given, because the court supposed the owner had peculiar equities entitling him to protection is a very different thing from allowing the owner of a junior mortgage to single out one lot in regard to which he has no special equities, from several covered by his and the prior mortgage and redeem that one lot. To make the cases at all parallel his mortgage should cover but the single lot sought to be redeemed and there should be special equities favoring it; and also all the parties having an interest in the questions involved should, as they were in Dows agt. Congdon, be before the court. The state, ment last made brings us to the second ground for sustaining the demurrer, which is:
+Second. All the parties who purchased at the prior mortgage sale, or their grantees, and the prior mortgagees should be parties. If a part of premises covered by a prior mortgage can be redeemed it must always be a question what amount shall be paid % In that question the mortgagee, or if he has parted with his interests, as he has in this case, the parties who succeed thereto should be brought in. It is apparent in this case, that even though the right to redeem exists, the owner of every parcel covered by the prior mortgage, and the plaintiff in the foreclosure suit should be before the court. Without their presence the court cannot decide what sum should be paid to redeem that one lot. Even though the party is only obliged to pay the amount it brought at the foreclosure sale, in the ascertainment of that sum all have an interest and should be parties.
+The defendant is entitled to judgment on the demurrer with costs, on payment of which, in twenty days, the plaintiff may serve an amended complaint.
