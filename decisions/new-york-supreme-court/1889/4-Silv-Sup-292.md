@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1889-11-07"
+citations: ["4 Silv. Sup. 292"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Albert N. Monroe et al., Appellants, v. James O’Shea, Respondent."]
+source_url: "https://static.case.law/silv-sup/4/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2171131
+cites_cases: ["21 Hun, 462", "67 N. Y. 1"]
+---
+
+# Monroe v. O'Shea
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The action was brought for the recovery of damages caused by the purchase of cattle by the defendant from the plaintiffs- with the intention of cheating and defrauding them out of the purchase price. The sale was made on the 15th of October, 1886, at Jersey City, for the price of $974.10. It was a cash sale, for which the defendant undertook to make immediate payment. He did not do so ; but on the 16th of October, 1886, he drew his check for the price, and delivered it to the agent of the plaintiffs, who were engaged in business at Brighton, in the state of Massachusetts, The check was sent to them, and under their authority was presented to the bank for payment on the 20th of October, 1886, and payment was refused, the defendant at that time having in the bank to his credit the sum only, of $153.-84. When the check was drawn he had a larger amount than the sum mentioned in it to his credit in the bank, but this was drawn down to the small balance just stated by other checks previously drawn by him upon the bank. On the 19th of October, 1886, the defendant made a general assignment for the benefit of his creditors. At that time his debts and -liabilities amounted to $44,310.77, and there were also contingent liabilities which he had assumed amounting to about $6,000. The actual value of his assets was $7,811.66, His business was that of a butcher, and these cattle were the • last purchased by him in the course of his business, and they were disposed of prior to the time of the dishonor of the check in such a manner as prevented the plaintiffs from disaffirming the sale and recovering the cattle.
+Preceding dealings of the same description had taken place between these parties, from which it was claimed the defendant had acquired knowledge of the mode in which the plaintiff’s business was carried on, and that in this business the checks received for the prices of cattle were sent to them at their place of business in Massachusetts, and were then returned by them, for payment to be made by the banks upon which the checks were drawn. An offer was made on behalf of the plaintiffs to prove these facts. That was objected to by the defendant, and the evidence was excluded by the court. And to that the plaintiff excepted. The theory of the case was, that the defendant had purchased these cattle intending at the time to defraud the plaintiffs out of the pur■chase price. And if that were the fact, there seems to have been no legal obstacle in the way of their right to maintain the action. Schufeldt v. Schnitzler, 21 Hun, 462; Wright v. Brown, 67 N. Y. 1.
+And the facts which have already been narrated had a tendency to indicate this to have been the design of the defendant, for his insolvency was so marked as to have been at variance with any expectation on his part that he would be ■able to proceed with his business and pay his debts. The proof which in this manner was offered and rejected would have had a tendency to indicate the understanding on the part of the defendant that he would be able to dispose of the cattle prior to the dishonor of the check, and thereby avoid all legal measures which might be taken by the plaintiffs for the recovery of their property. The proof offered to be given, included facts having a bearing upon the probable intention of the defendant in the purchase of the cattle. Anditshould,. 'for that reason, have been received by the court.
+In the course of the examination of the defendant as a witness for the plaintiffs upon the trial, he was asked whether any person among his creditors became insolvent after the 15th of October, and answered that he guessed there was some of them, and thought there was a man named Nolan who> owed him something like $2,700.
+He was then asked when Nolan became insolvent. And! the answer to this inquiry was excluded by the court upon the defendant’s objection, and an exception was taken to the ruling. This evidence ought, also, to have been received for. the purpose of indicating whether or not any change whatever had taken place in the financial condition of the defendant ■ after he purchased the cattle, and before he made the assignment.
+Besides that, the case, as it was presented by the proof received upon the trial, depended for its disposition upon a question of fact. It was for the jury to inquire and consider whether, under the circumstances proved, the defendant did not purchase the cattle with the intention, at the time of the purchase, to defraud the plaintiffs out of their price. That was the theory of the case stated in the plaintiff’s complaint, and the evidence given at the trial, to a reasonable degree of certainty, tended to sustain it. The complaint should not. have been dismissed, butthei case should have been submitted. to the jury.
+The judgment should be reversed, and a new trial ordered, with costs to the plaintiffs to abide the event.
+Yah Beiiet, P.J., and Beady, J., concur.
