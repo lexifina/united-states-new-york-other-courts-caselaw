@@ -1,0 +1,24 @@
+---
+court: "New York Court of Chancery"
+decided: "1823-09-05"
+citations: ["1 Hopk. Ch. 6"]
+reporter: "hopk-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the matter of Daniel Wood."]
+source_url: "https://static.case.law/hopk-ch/1/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1892482
+---
+
+# In re Wood
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+So far as the legal profession is an occupation open to all, there is no reason to consider a lawyer as a public officer. The exercise of this profession, is in part an occupation, in which every person is free to engage ; but it is not so in respect to proceedings in the courts of justice. These proceedings are according to our laws and usages, conducted by a distinct class of men specially appointed for this service. The practice of the law in the courts of justice, is permitted only to those who are appointed by the courts; the persons appointed are subject to the control of the courts; and they may be deprived of their right to pursue this occupation. These regulations evidently consider the practice of the law in the courts as a part of the administration of justice ; as a function important not merely to private parties, but also to the public. They are regulations, which are supposed to be necessary or conducive to a good administration of public justice. The admission of an attorney, solitor, or counsellor, is a general appointment to conduct causes before the courts; this station thus conferred by public authority, has its peculiar powers, privileges and duties; and this station thus becomes an office in the administration of justice.
+Attorneys solicitors and counsellors, are constantly denominated officers of the courts by which they are appointed. Our laws have required, that upon their admission, they should take a particular oath, for the faithful discharge of their duties, and that oath is termed by the legislature itself, an oath of office. In this, as in other regulations, the legislature have considered and treated persons appointed to practise the law, as holding a spe.cies of office.
+The oath of office prescribed by law for attorneys solicitors and counsellors, is still requisite, if it is not superseded by the existing constitution; and either that oath, Or the oath of office established by the constitution, must now be taken. If this station was an office before the adoption of the existing constitution, it is an office still; and if it is an office under the laws of the state, it is an office in the sense of the constitution.
+The constitution of the union requires, that all executive and judical officers of the United States, and of the several states, shall be bound by oath or affirmation to support that constitution. The supreme court of the United States have directed, that counsellors and attorneys admitted to practice in that court, shall take an oath or affirmation to demean themselves uprightly, and also to support the constitution of the United States. Rule of February term, 1790, and rule of February term, 1791. Attorneys and counsellors are thus considered by that court as officers of the United States, under the national constitution : and the terms of that constitution, “ executive and judicial officers,” are also the terms of the constitution of this state. This is not only high authority, but it is also most direct authority upon the question now arising here ; the oaths to be taken by public officers, being the subject of regulation in both constitutions, and the words used in both, being the same. It is not to be doubted, that the same terms have the same meaning in both instruments ; but if such a doubt could arise, it must vanish when we perceive that the constitution of the state, in establishing the oath to be taken by officers of the state, includes also the oath t0 SUpp0rt the national constitution ; thus incorporating the two oaths, and making them applicable to the same persons •and cases.
+There one oath for nil offices and public trusts.
+The terms office and public trust, have no legal or technical meaning, distinct from their ordinary signification. An office is a public charge or employment, and the term seems to comprehend every charge or employment in which the public are interested. The words public trust, still more comprehensive, appear to include every agency in which the public, reposing special confidence in particular persons, appoint them f°r t^ie performance of some duty or service. The obvious intention of the existing constitution, is to establish one oath for all offices and for every public trust: and I am accordingly of opinion, that the oath so established must be taken, and, consequently, that no other oath can be required.
