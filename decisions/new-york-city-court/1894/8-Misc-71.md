@@ -1,0 +1,42 @@
+---
+court: "New York City Court"
+decided: "1894-04"
+citations: ["8 Misc. 71"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Williamson, Respondent, v. Gustav T. Lawrence et al., Appellants."]
+source_url: "https://static.case.law/misc/8/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 699243
+cites_cases: ["137 N. Y. 307", "140 N. Y. 593"]
+---
+
+# Williamson v. Lawrence
+
+## Majority (Conlan, J.)
+
+Conlan, J.
+This action was brought originally against the sheriff of the city and county of New York to recover the possession of two horses claimed to have been purchased at a sale under foreclosure of a chattel mortgage executed by one Frederickson to one Schumacher, to secure the payment of $750, , which was in settlement of a copartnership between the mortgagor and the mortgagee.
+The horses were purchased by plaintiff on January 20,1893, at public auction for $158, and the plaintiff paid a deposit of twenty-five dollars to the auctioneer, who received the same; this was just ten o’clock in the morning; the plaintiff went away, as he says, for the balance of the purchase money, returning about ten-thirty with the money, but was unable to get possession of the horses, because, as he learned, they were in the possession of the sheriff.
+The sale to the plaintiff is also testified to by the auctioneer, Schwab, who put the horses in the stable, awaiting plaintiff’s return with the balance of the purchase money, but while he was gone they were seized by the sheriff.
+The sale was advertised for half-past nine, and appears to have been honestly and fairly conducted.
+The evidence discloses a gross fraud and imposition practiced upon Schumacher, the mortgagee, whereby he was rendered, as he says, unconscious, and while in that condition he was made to sign certain papers, one purporting to sell the horses in question and other property of the value of $750 to the defendant Lawrence for $350, the consideration being represented by a check for that amount made by a third party named Wells, and which check Schumacher found in his pocket the next morning, but says he does not know how the same came into his possession; another to release Frederick-son from all indebtedness to him growing out of the partnership referred to, and a third authorizing said Wells to settle all fees and expenses incident to the sale, conditioned that Schumacher return him the amount so paid before nine-thirty a. m. of January 11, 1893, otherwise to be deducted from the amount of the check. These three papers all bear date January 10, 1893.
+Schumacher testifies that he has no recollection of signing these papers; that they were obtained from him in the early part of January at a saloon on the corner of Watts and Greenwich streets in this city; that he went to the saloon in. company with four men, two of whom were Lawrence and Wells, the others he did not know; that he was sober; that he drank three glasses of beer, leaving a fourth untouched, while he went to a closet; that he had his senses about him and knew what he was doing; when he returned to the party he drank the fourth glass of beer, when, as he says, “ I was gone; I became stupefied as though I was drunk; I became drowsy and sleepy.”
+Other witnesses testified to his condition when he entered the saloon, and when he was taken to his home after the transaction had been completed.
+Mr. Schnepel, the saloon keeper, is not able to fix the date, but says Schumacher was sober when he came to the place; that the parties, Schumacher, Lawrence and Wells, went into a small private office, and that Schumacher remained after the others went out, and when he saw Schumacher about fifteen minutes afterwards, he acted strange, as though something was the matter with him, something wrong, stupid.
+Conrad Tulken, another witness for the plaintiff, testifies that when he saw Schumacher at the saloon, between five and seven o’clock in the evening of the occasion, Schumacher was sitting on top of a chair and having,his head over a little table in the office; that his head was lying on the table; that he took him home; that he had, to assist him; that he was blabbing, but could not understand what he said; that he carried him up stairs, removed his shoes, and left him with his wife.
+It is needless to say that the defendant’s evidence differs from that detailed above, but comment upon this evidence seems to be unnecessary.
+The jury considered it, and them verdict was warranted from the evidence, and fully sustains the plaintiff’s theory.
+What follows is but the attempt to carry into effect the bill of sale and release thus obtained.
+The sheriff took possession of the property in question on January twentieth, after the purchase by the plaintiff at the auction sale.
+The right to maintain this action by the plaintiff against the sheriff is given by section 1690 of the Code of Civil Procedure, and as construed in Wise v. Grant, 140 N. Y. 593, requires only that the true owner shall be in actual or constructive possession, or have the right to reduce it to his immediate possession.
+The plaintiff became the owner of the horses when they were struck down to him and his deposit of twenty-five dollars accepted by the seller; he then had the right to the possession of the property; that he did not take possession for reasons of convenience of his own cannot avail the defendants here, so long as his right to the immediate possession remained.
+Lawrence, the defendant, acquired no title from Schumacher by reason of the pretended bill of sale of January 10, 1893, for it is plainly evident that Schumacher was not in a condition of mind or understanding to have entered into anv such negotiations or to have effected any such transfer.
+The bill of sale thus obtained had no binding effect on him and conveyed no title to Lawrence, for it was the outcome of ' an imposition practiced upon Schumacher at a time when he was without understanding.
+In Page v. Krekey, 137 N. Y. 307, the court says: “ It has .been uniformly held that an instrument procured by fraud, trick or artifice, or executed by a party in such a state of intoxication as to be incapable of consenting or contracting, is invalid as between the parties to the transaction.”
+The sheriff’s right to possession depended solely upon Lawrence’s right to the property and to its possession, and he could not take what Lawrence could not claim, and it follows, as a matter of course, that the property was properly taken from the sheriff, and the verdict that they were the property of the plaintiff was properly rendered.
+No errors were committed on the trial, and the charge was eminently fair to all parties.
+For the reasons above stated, we are of the opinion that the judgment should be affirmed, with costs.
+Newburger and McCarthy, JJ., concur.
+Judgment affirmed, with costs.
