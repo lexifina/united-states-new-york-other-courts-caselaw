@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court"
 decided: "1859-07-21"
-citations: ["3 Bosw. 657", "16 N.Y. Super. Ct. 657", "4 Bosw. 616", "17 N.Y. Super. Ct. 616"]
+citations: ["3 Bosw. 657", "16 N.Y. Super. Ct. 657"]
 reporter: "ny-super-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
