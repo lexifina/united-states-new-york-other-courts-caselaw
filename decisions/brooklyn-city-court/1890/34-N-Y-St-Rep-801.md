@@ -1,0 +1,25 @@
+---
+court: "Brooklyn City Court"
+decided: "1890-12-22"
+citations: ["34 N.Y. St. Rep. 801"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Quinn, Resp’t, v. The Atlantic Avenue R. R. Co., Appl’t."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0801-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2046893
+---
+
+# Quinn v. Atlantic Ave. R. R.
+
+## Majority (Osborne, J.)
+
+Osborne, J.
+Plaintiff brought this action to recover damages for injuries sustained by the alleged negligence of a driver of one ■of the defendant’s street cars. On December 5, 1889, plaintiff was driving in an empty coal 'cart down Twentieth street, between Seventh and Eighth avenues, in the right hand, or northerly track of defendant’s road ; he was followed, about sixty feet in the rear, by another empty coal cart. The last mentioned cart turned out of the track, and when the car in question got within ■about twenty feet of plaintiff, he then, as he testifies, became aware of its proximity. At that time another car was passing plaintiff’s cart on the left hand or southerly track, and plaintiff testified that he waited for that car to pass before turning out to the left hand track, as there was not room enough for him to turn out on the right, although it appears that he was in error •on that point. While in the act of turning out defendant’s car struck the tail of plaintiff’s cart with such violence as to upset the cart and throw plaintiff out on the street, causing the injuries for which he here seeks to recover damages. Plaintiff further testified that he saw the car in question on the stand at Ninth avenue when- he passed there; that he looked back at Eighth avenue to see if it was approaching, and that he was listening for it up to the time he first became aware of. its approach.
+Defendant’s driver testified that when he was from thirty-five to forty feet of plaintiff, he called out; that when he was twenty feet away, his horses being on a trot, he put his brakes on fully, and. that when about fifteen feet away he had gotten his horses down to a walk, but that, owing to the down grade and the slipperiness of the track, he was unable to avoid a collision with plaintiff’s cart. The jury found a verdict in favor of the plaintiff, and from the judgment entered thereon, and from the order denying a motion for a new trial, defendant appeals.
+It seems to us, from a careful review of all the evidence, that it was properly for the jury to decide whether plaintiff’s injures were caused by the negligence of the defendant’s driver, and also whether the plaintiff was free from contributory negligence. These questions were submitted to the jury by the learned trial judge in a charge in which he clearly laid down the law applicable to cases of this character. The jury were charged that “it was plaintiff’s duty to be attentive not only to what was in front of him, but also to be attentive to what was taking place in the rear. It was his duty to look back occasionally to see whether a car was approaching or not, and if he saw a car approaching, or was warned of a car approaching, then it was his duty, seasonably, and as soon as he could properly, to turn off the track, so that the driver of the car would not be compelled to stop or be delayed, and the driver of the car had a right to assume that Quinn would turn off.” This, certainly, was a clear exposition of the duty that the law required of plaintiff; the duty of the driver was equally well defined. The jury having found on these questions in favor of the plaintiff, we can see no reason for interfering with the verdict.
+The learned counsel for the appellant requested the court to charge that 1 If Quinn wilfully obstructed the passage of the car he is guilty of contributory negligence, and cannot recover.” A question arose as to the meaning of the word “ wilful,” as there used, which counsel proceeded to interpret, and thereupon the court refused so to charge. The court had already substantially charged as to the duty of the plaintiff to turn -out of the track,, and that a failure on his part to perform that duty would constitute contributory negligence. This, we think, more than covered the defendant’s request, as it did not limit plaintiff’s duty to-a “ wilful ” obstruction of the passage of the car.
+There was no evidence in the case as to the condition of Twentieth street on the right hand side of the track, and the request of the defendant’s counsel to charge that the presumption is that the condition of the roadway was sufficient and competent to enable plaintiff to turn to the right was properly refused. No such question was involved in the case, and the court was not, therefore, called upon to charge as requested.
+The other exceptions in the case are not tenable and do not seem to call for any discussion.
+Judgment and order denying motion for new trial affirmed; with costs.
