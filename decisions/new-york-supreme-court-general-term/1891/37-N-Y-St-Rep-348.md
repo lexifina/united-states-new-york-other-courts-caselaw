@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-04-16"
+citations: ["37 N.Y. St. Rep. 348", "13 N.Y.S. 940"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick Van Patten, App’lt, v. Constantine Ulrich, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/37/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2054316
+cites_cases: ["12 N. Y. 462", "21 Wend. 502", "21 Wend., 502", "25 N. Y. 170", "25 N. Y., 170", "30 Barb. 403", "30 Barb., 403"]
+---
+
+# Van Patten v. Ulrich
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+— This action is brought by one endorser of a promissory note, against co-endorser, to recover one-half of the amount paid to the holder of the paper after maturity, and after notice of demand and non-payment had been given to both endorsers.
+The note was made by the firm of Bohn & Bowen on the '25th of September, 1884, in the sum of $200, payable three months after date, with interest, at the First National Bank of Auburn. Both parties to this suit endorsed the note solely for the accommodation of the makers. Their endorsement was procured at the instance of one Mr. Smith, to whom the makers had applied for a loan, and who had told them, in substance, that he could procure the money for them provided they obtained the endorsement of these persons. The note was accordingly made as suggested by Smith, endorsed by Ulrich first and by Yan Patten afterwards, and taken by the makers to Smith, who in turn endorsed it and presented it at the First National Bank, which discounted it at Smith’s request, and the proceeds, viz., $200, handed to him, the identical money received by Smith from the bank, being turned over by him to Bohn & Bowen. After the maturity of the note an action was brought by the bank against Yan Patten, the plaintiff in this action, who paid the note and costs in full, and he now brings this action against his co-endorser for contribution.
+The learned referee has found that the note was executed and delivered in pursuance of a corrupt and usurious agreement, made between Bohn & Bowen on the one side, and Smith on the- other, by which Smith should loan to the makers the sum of 200 at three months on the condition that the makers should pay him ■the sum of twenty-five dollars over and above lawful interest. It further appears in evidence, and the fact is found by the refereé, that Bohn & Bowen gave Smith a note of twenty-five dollars, which was paid three days thereafter, and which the referee has further found was done in pursuance of the usurious agreement.
+It is upon this ground, solely, that the decision of the learned referee in favor of the defendant has been given. It seems to us, however, that the fair construction of the testimony of Bowen and Smith, who gave all the evidence relating to this subject, goes rather to show, that the sum of twenty-five dollars was paid to Smith for accommodation to them by way of endorsement and procuring the note as so endorsed by him to be discounted by the "bank, rather than as an usurious transaction. Whatever the preliminary talk may have been between the parties, it is conceded that when they came to act upon the previous negotiations Smith received the note with the endorsements, added his own, and that then the bank discounted it for him and mainly upon his resposibility, paying over to him the full face thereof. He retained no part of the principal sum, but delivered the identical bills to the makers of the note. There was, therefore, no usury in the transaction. The bank was the first and only holder of the note for value. Its inception was when the cashier discounted the note. The paper, therefore, did not have the taint of usury upon it.
+But there is a ground, however, upon which the judgment appealed from may be affirmed. Whatever the agreement between the makers and Smith was, there was turned out by the makers to him sufficient personal property as collateral security to indemnify him from all liability upon the note. After the note had been paid hy this plaintiff, and apparently as a part of that transaction, Smith turned over to him the most of this personal property, at least sufficient to indemnify the plaintiff against the claim now made by him against his co-surety. The plaintiff was subrogated to the rights of Smith. e
+One who endorses negotiable paper for the accommodation of another party to the instrument, has all the rights of a surety, and is exonerated -in like manner in respect to every one having notice of the facts. Rouse v. Whited, 25 N. Y., 170; Barry v. Ransom, 12 id., 462 ; Griffith v. Reed, 21 Wend., 502; Greenough v. McClelland, 2 El. & El., 424; Pooley v. Harradine, 7 El. & B., 431; Davies v. Stainbank, 6 De G., M. & G., 679.
+It is an established principle, elementary in its character, that a surety is entitled to the benefit of every security for the performance of the principal obligation, whether held hy the creditor or by a co-surety, whether the same was given at the time of entering into the contract or was acquired afterwards, and whether the surety was or was not aware at the time this contract was made of the fact that such security had been given. Stirling v. Forrester, 3 Bligh, 575-590; Aldrich v. Cooper, 8 Ves., 382; Ramsey v. Lewis, 30 Barb., 403 ; Pledge v. Buss, H. R. V. Johns., 663 ; Pearl v. Deacon, 24 Beav., 186.
+For the reasons here stated, the judgment appealed from should be affirmed.
+Dwight, P. J., and Oorlett, J., concur.
