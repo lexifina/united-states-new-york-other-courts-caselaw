@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1893-12"
-citations: ["80 N.Y. Sup. Ct. 608", "80 N.Y. Sup. Ct. 607", "80 N.Y. Sup. Ct. 610"]
+decided_precision: "month"
+citations: ["80 N.Y. Sup. Ct. 608"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,6 @@ parties: ["Elizabeth D. De Lancey, Respondent, v. Henry Piepgras, Appellant, Imp
 source_url: "https://static.case.law/ny-sup-ct/80/cases/0608-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4701960
-cites_cases: ["113 N. Y. 476"]
 ---
 
 # De Lancey v. Piepgras
