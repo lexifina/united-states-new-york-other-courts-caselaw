@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-10-21"
+citations: ["10 N.Y. St. Rep. 800"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Caroline Horton, Resp’t, v. Thomas Brownsey, Impl’d, etc., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/10/cases/0800-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 647484
+---
+
+# Horton v. Brownsey
+
+## Majority (Smith, P. J.)
+
+Smith, P. J.
+Action to recover damages for the alleged maintaining of a livery stable in such a manner, as to render it a nuisance. The suit was brought against Mary S„ Cotton, Thomas Brownsey, the appellant, and Alice Brownsey, his wife, the latter of whom is an adopted daughter of the defendant Cotton. The stable was erected and conducted by the appellant on land owned by the defendant Cotton. At the trial, the complaint was dismissed as to Mrs. Brownsey, and the jury rendered a verdict in favor of the other two defendants, and a motion for a new trial was made by the plaintiff, on the judge’s minutes which was granted as to Brownsey, but denied as to the defendant Cotton.
+For the appellant it is contended that the complaint does not set forth a cause of action as against him, inasmuch as it does not allege that he is a tenant of the freehold. It alleges that Brownsey acted with the consent, by license, lease or otherwise,” of Cotton. That was sufficient, to admit proof of the nature of Brownsey’s holding. Especially in the absence of a motion to make it more definite.
+The record shows that a motion for a new trial was made on the ground that the verdict was contrary to the evidence. It appears from the evidence that the stable is a brick building located on the north side of plaintiff’s dwelling house, on the east side of Franklin street, Buffalo, about eighteen inches from the wall of plaintiff’s house; is two stories in height, extending 140 feet in depth from the sidewalk, projecting fifteen feet in front of plaintiff’s house and about thirty-six feet beyond the rear of it, and covering the full width of the lot on which it is built. On. the side next to plaintiff’s house it has sixteen small windows, one for each stall, placed three or four feet above the horses heads, and four windows in the roof above the horses, the latter being kept open continuously. Brownsey commenced keeping the stable early in July, 1885, and the action was begun on the twenty-second of September following. In the meantime, from three to nine horses were kept at the stable. Their excrement was removed several times a day from the stable and placed in a box in the stable, built for that purpose, and was removed from the stable once a week. From the box, a ventilating flue rises to the roof. The plaintiff has occupied her premises as a family residence for about nineteen years. In the summer of 1885, her family consisted of eight persons who, with a servant, resided in the house. The plaintiff’s husband, two daughters and a daughter-in-law and the' servant testified, positively, and with much particularity of statement, that portions of the house, and especially the sleeping rooms and the dining room, which had windows on the side next to the stable, and within four feet of it, were pervaded, almost' continuously with offensive odors from the stable, to the great discomfort and annoyance of the inmates of the house. This testimony was not controverted by any witness who had been in the house and knew how it was affected by such odors. It was attempted to be met by testimony tending to show that the bam was well constructed, and neatly and well kept, and by the testimony of several witnesses that from different points in the barn or in the street in front of it, at different times, they perceived no offensive odors, or at least none that were not peculiar to a stable in which horses are kept. That testimony did not meet the case made by the plaintiff’s witnesses, and as the latter were uncontradicted and unimpeached, had no direct interest in the result, and their statements were not improbable, we cannot say that the order of the learned trial judge, setting aside the verdict as contrary to the evidence, should be disturbed.
+Order affirmed, with costs of the appeal to abide the result of a new trial as to the defendant Thomas Brownsey. Barker, Haight and Bradley, JJ., concur.
