@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court"
+decided: "1894-12"
+citations: ["89 N.Y. Sup. Ct. 338"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Putnam and Herrick, JJ., concurred."]
+parties: ["The People of the State of New York ex rel. The Forest Commission, Relator, v. Frank Campbell, Comptroller, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/89/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4749304
+cites_cases: ["97 N. Y. 37"]
+---
+
+# People ex rel. Forest Commission v. Campbell
+
+## Majority (Mayham, P. J.:)
+
+Mayham, P. J.:
+The relator sued out a writ of certiorari to review the action of Edward "Wemple as Comptroller in canceling the tax sale of the southeast quarter of township 24, great lot 1, Macomb’s purchase, being a part of the town of Harrietstown in the county of Franklin.
+The relator by this certiorari seeks to set aside the cancellation of the tax sale by the Comptroller on the ground, among other things, that that officer had no power under the statute to act upon the application of Turner, the alleged owner of the land, as he was not a purchaser at the tax sale, and that none but a purchaser can legally apply to the Comptroller for such cancellation. The defendant objects to any proceeding on the part of the relator on this writ, on the ground that the relator, “ The Forest Commission,” has no interest in this controversy, and that it cannot, therefore, invoke the aid of a writ of certiorari to review the action of the Comptroller in making the order of cancellation. If this contention of the defendant be correct, then the relator has no standing in court and is not in a position in this proceeding to challenge the correctness of the act of the Comptroller in making this cancellation, and it will not be necessary in that case to examine the questions sought to be raised by the relator under this writ.
+Section 2121 of the Code of Civil Procedure specifies the parties on whose application the writ of certiorari may be granted, as follows : “An application for the writ must be made by or in behalf of a person aggrieved by the determination to be reviewed.” Was “The Forest Commission,” as such, aggrieved by the determination of the Comptroller in the cancellation of this tax sale ?
+That body was in no sense the owner of the land in question, its control and authority over the same being only that of an administrative officer of the State, charged with certain specified statutory duties in respect to State lands known as the “ forest preserve,” and as to such “ forest preserve,” it is authorized by section 11 of chapter 283 of Laws of 1885 to bring in the name of the State, or on behalf of the People of the State, any action to prevent injury to the forest preserve, or trespass thereon, to recover damages for such injury or trespass, and to recover lands belonging to such forest preserve, but occupied or held by persons not entitled thereto.
+This section also authorizes the Forest Commission, with the consent of the Attorney-General and Comptroller, to employ counsel in the prosecution of the actions therein authorized, but provides that such prosecution>.shall be under the direction and in the name of the Attorney-General; and if no such attorney or counsel is employed, the Attorney-General shall prosecute such actions. No other special authority to prosecute seems to be conferred by statute on the “ Forest Commission ” by chapter 283 of the Laws of 1885.
+By section 102 of chapter 332 of the Laws of 1893 the powers and duties of the “Forest Commission” were more particularly defined and prescribed, and the jiowers therein expressly conferred may be .exercised by it. No express jiower is conferred by that section, or any other section of that chapter, on the relator to prosecute an action or special proceeding in its name of office ; the most that can be claimed under the provisions of that chapter is that it confers upon the Forest Commission certain police powers for the government.and management of the forest preserve. Section 112 of that chapter substantially re-enacts the powers of the Forest Commission conferred by chapter 283 of the Laws of 1885 to prosecute in the name of the People, for trespass committed on the forest preserve, and, with the consent of the Attorney-General, to employ attorneys to conduct such prosecution, but no authority is conferred by that section to prosecute any action in its own name.
+The “ Forest Commission ” not being a corporation, individual or body politic, but simply an administrative office created by statute, with all its j>owers derived from and defined by statute, having no express authority to sue or be sued in its own name, is not authorized to sue out and prosecute this writ in its official name as relator. It is quite apparent that, as the Forest Commission is not a corporation, and is not authorized to sue or be sued, an action could not be maintained against it in its official name. (People ex rel. Second Ave. R. R. Co. v. Board of Park Commissioners, 97 N. Y. 37.)
+In this case the court says : “ The park board is a mere department of the city government. It is not a corporation, and there is no statute authorizing- actions to be brought against it by its official name. We see no answer to this objection.”
+It is true,that in that case the proceeding was against tne Doard of commissioners. But the objection that it can prosecute without authority, would rest upon the same ground of want of ability as that it cannot be prosecuted without authority. In either case the administrative body would have no standing in court for want of express authority to sue or be sued. If we are right in this conclusion, it follows tliat the relator cannot in these proceedings review the action of the Comptroller in canceling this tax sale, and that the writ of certiorari must be quashed. ¥e are not, therefore, called upon to consider the many important questions raised by the relator as to the power or authority of the Comptroller to cancel the tax sales.
+"We think it cannot be maintained in this case that the relator has brought itself within the provisions of section 2127 of the Code of Civil Procedure, which allows only the person ‘aggrieved by the determination sought to be reviewed to apply for and prosecute the writ of certiorari.
+The writ of certiorari must be quashed, with fifty dollars costs and disbursements to the defendant.
+Putnam and Herrick, JJ., concurred.
+Writ of certiorari quashed - and determination of Comptroller affirmed, with fifty dollars 'costs and disbursements.
