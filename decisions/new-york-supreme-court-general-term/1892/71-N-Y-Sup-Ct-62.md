@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-04"
+citations: ["71 N.Y. Sup. Ct. 62"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Yan Brunt, P. J., O’Brien and Andrews, JJ."]
+parties: ["AARON LEVY, Respondent, v. JOHN BEACHAM, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/71/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4649625
+cites_cases: ["13 Hun, 232"]
+---
+
+# Levy v. Beacham
+
+## Majority (Per Curiam :)
+
+Per Curiam :
+Without disposing of the other questions raised upon this appeal, as to the sufficiency of the affidavit, there is one respect in which it appears to be fatally defective and to require a reversal of the order.
+Section 2436 of the Code requires that in order to obtain an order requiring the judgment-debtor to be examined, concerning his property in aid of the execution, the judgment-creditor must prove to the court that the judgment-debtor has property which he unjustly refuses to apply towards the satisfaction of the judgment. Such proof must show that a demand of the application of the property to the payment of the judgment has been made, otherwise no refusal can be established. This is the rule which has been laid down in the case of the First National Bank v. Wilson (13 Hun, 232), and Hutson v. Weld (38 id., 142).
+The order should be reversed and the order for the examination dismissed, with costs.
+Present — Yan Brunt, P. J., O’Brien and Andrews, JJ.
+Order reversed and order for the examination dismissed, with costs.
