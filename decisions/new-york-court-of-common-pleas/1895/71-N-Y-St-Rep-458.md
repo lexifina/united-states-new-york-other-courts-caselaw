@@ -1,0 +1,25 @@
+---
+court: "New York Court of Common Pleas"
+docket: "1; No. 2"
+decided: "1895-11-27"
+citations: ["71 N.Y. St. Rep. 458"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isaac Walker et al., Resp’ts, v. William C. Beecher, App’lt. Same, Resp’t, v. Same, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/71/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2125734
+cites_cases: ["35 N. Y. Supp. 1060"]
+---
+
+# Walker v. Beecher
+
+## Majority (BOOKSTAYER, J.)
+
+BOOKSTAYER, J.
+These are appeals from judgments against the defendant as an underwriter upon two fire insurance policies issued, respectively, as appears in the caption of the policies and from the testimony, at Metropolitan Lloyds and at Union Lloyds of New York City. The. causes of action are similar in all respects, and by stipulation the testimony, exhibits,, and all. evidence in action No. 1 are to be considred as taken in action No. 2, subject to all exceptions, save that .the policies and proofs of loss differ in dates and amounts. The questions raised are the same, and both appeals are argued upon the same brief. The particular facts of the Metropolitan Lloyds are made .the basis of the opinion, which is, however, equally applicable to the essential facts of both cases.
+The appellant’s position that the action was not properly brought against him as defendant, in the first instance, is untenable, as decided by this court in Knorr v. Bates (Dec., 1895), 35 N. Y. Supp. 1060.
+This substantially leaves but one question to be decided, viz., whether the notice and proofs of loss were properly served. The policy provides that “if fire occur the insured shall give immediate notice of any loss thereby, in writing, to the attorneys of the underwriters,” and also provides that various written statements in proof of the loss shall be rendered to the attorneys of the underwriters. It further provides that “wherever the phrase “attorneys of the underwriters’ occurs, it shall be held to mean their attorneys in fact, to wit, Beecher & Co. The notice and proofs of loss were sent to Edwards & Co.” The notice and proofs of loss were sent to Edwards & Co., who at the time of the fire, and subsequently, were the attorneys in fact of the Metropolitan Lloyds, having offices at the same address. There was evidence that this change of attorneys was well known among insurance men, from notices in the newspapers, and from the circulars that had been sent out by Edwards & Co., anouncing their succession to Beecher & Co. as attorneys and managers of that insurance company. The appellant claims, however, that he is not liable, because of the plaintiffs’ failure to send the notice and proofs to Beecher & Co., in strict compliance with the provisions of the insurance contract. I think this construction of the clause above quoted is, in view of the facts, unwarranted. The meaning is that “attorneys” should be understood, not as legal counselors, but as the attorneys in fact, or the agents, of the underwriters; and the addition, “to wit, Beecher & Co.,” was used to make the intent more unmistakable, by designating the then holders of the office, and not to require that service should be made upon that particular firm in all events, and even although they might renounce their agency, or their principals might revoke the same. The fact that the group of underwriters, of which the defendant was one, withdrew from the Metropolitan Lloyds at the time Edwards & Co. succeeded Beecher & Co. as managers, and the consequent fact that the latter company never actually represented the defendant, is therefore immaterial, or, rather, the defendant is es-topped from showing it for the purpose of escaping liability. Having withdrawn from the Metropolitan Lloyds without notice to the plaintiffs, who had dealt with him while the connection existed, and who, in reliance upon the continuance of that connection, had sent proofs of loss to the attorneys in fact of the Metropolitan Lloyds, the defendant cannot now be heard to say that neither he, nor any one having authority to represent him, ever received those proofs. The principles applicable to the retirement of a partner without notice to those having dealt with the firm are not without analogy to this case.
+The above view of the sufficiency of the service of the notice and the proofs of loss renders it unnecessary to discuss the alleged errors in the admission of evidence.
+Judgments affirmed, with costs.
