@@ -1,0 +1,25 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1867-12"
+citations: ["36 How. Pr. 63"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David L. Gardiner agt. Julia E. Tyler."]
+source_url: "https://static.case.law/how-pr/36/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4453931
+---
+
+# Gardiner v. Tyler
+
+## Majority (Van Vorst, J.)
+
+Van Vorst, J.
+The plaintiff desired to change his attorney. He invoked the aid of the court for the accomplishment of this result. As was just to both attorney and client, a reference was ordered to ascertain the amount due to the attorney for his services, upon the payment of which the substitution was to be made. After subjecting the attorney to the annoyance and trouble of a reference, and the loss of time and professional service to others, incident to his attendance on the trial before the referee, and after prosecuting the proceeding until a report was made, plaintiff then abandons his application for a change of attorney, and refuses to pay the amount reported due. Unless the court had believed, that plaintiff’s original application was made in good faith, and with the design of being carried out, it would not have aided him to a reference. An attorney is an officer of the court and is entitled to its protection, and a court will not willingly make an’ order the effect of which will be unnecessarily to harass or vex him in his business. A client has a right to change his attorney, and the court will aid him to do so in all cases in a way to protect the interests of both. It will assist Mm to ascertain in a summary way the amount of the attorney’s Mil and lien. The client having put this proceeding in motion, which is special in its character, should feel himself under an obligation to carry it out. But I do not see that there is any power in the court to compel it to be done, upon the refusal of the client, and the withdrawal of his application for a substitution. The court can oblige the party to pay the costs of the proceeding, as it does other litigants who unnecessarily invoke its aid. Plaintiff has paid the fees on the reference, and has been ordered to pay the costs on the motion for the confirmation of the report. I do not see how any order can be made, or, if made, how it could be enforced, compelling the client to pay the amount reported due to the attorney. The referee’s report is confirmed, and the value of the attorney’s services is fixed and determined by it. But it is not a judgment to be enforced by execution. If it was, this motion would be unnecessary. This report would, in any action to be brought by the attorney against his client for his services, doubtless fix the amount to be recovered; and the report and confirmation of it might be made the foundation of an action in favor of the attorney against the client. If an order could be made, such as is asked for, it should be made, not in any special proceeding between attorney and client, but in this action, in which all papers on the various motions, including the present application, are entitled, and it would embrace for services in another action between one of the parties to it and his attorney.
+A refusal to pay the amount ordered would not render the plaintiff liable to the process of attachment or imprisonment. The amount due the attorney is for professional services, and is a debt only. There is no provision of law which would justify the issuing of an execution upon any such order.
+Executions are issued. to enforce judgments and to collect costs, on motions. (Code, § 283; Laws of 1840, p. 333, 15; Laws of 1847, p. 491, § 2.) An order such as is asked for in this proceeding would not be a judgment within the meaning of that word, nor would it be an order for the payment of costs.
+I have been referred by the attorney to the case of Buzzard agt. Gross (4 How. Pr. R. 23) as an authority which would justify an order such as he asks for, and its enforcement by execution. But there is nothing in that case which favors this application. The order directed to be made in that case was for the payment of the costs, upon the denial of a motion for a new trial. These costs had not gone into the judgment with the general costs. An order was directed to be made that the unsuccessful party should pay the costs, and, if not paid on demand, an execution should issue for their payment.
+The application before this court has no relation to the payment of costs between the parties to a suit. The attorney is not seeking to recover costs of his client, the amount of which has been fixed and determined by the court as such, but he seeks to collect his claim for professional services. It is a simple debt or demand, the amount of which was liquidated by the referee as the basis of an order for a substitution of attorney, which has not been carried out.
+Motion denied, but without costs.
+[An appeal was taken to the general term cf this court from the order directed at special term, and the same was affirmed.]
