@@ -1,0 +1,21 @@
+---
+court: "New York Superior Court"
+decided: "1894-06"
+citations: ["60 N.Y. St. Rep. 616"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William G. McCrea, Resp’t, v. Arthur G. Bedell, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/60/cases/0616-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1982539
+cites_cases: ["43 Hun, 188", "50 St. Rep. 644"]
+---
+
+# McCrea v. Bedell
+
+## Majority (Mo Adam, J.)
+
+Mo Adam, J.
+The plaintiff, as owner of more than five per cent, of the capital stock of the North Side Publishing Company, a corporation organized under the laws of the state of New York, sued the defendant, as treasurer of said corporation, to recover $450 as penalties for failing to furnish the plaintiff with a statement of the affairs of the corporation, agreeably to the statute, after demand made "therefor. The plaintiff declared upon § 52 of chapter 564 of the Laws of 1890, which requires the treasurer of such a corporation to furnish a statement within “ twenty days after service of a written demand. The purpose of the provision requiring a detailed account of the assets and liabilities of the company, is to enable the stockholders to appreciate the value of the shares of the stock held by him, from the financial standing of the company. French v. McMillen, 43 Hun, 188. The action was commenced July 30, 1892, and at that time § 52 of chapter 564 of the Laws of 1890, had been superseded by a new act which went into effect May 18, 1892. See L. 1892, ch. 688, § 52. The default sued for occurred in June, 1892, after the new act had become inoperative. The complaint alleges that, although more than “ twenty ” days had elapsed since the service of the demand, the defendant failed to comply therewith “ and with the statute aforesaid,” i. e., the act of 1890 before referred to. Section 52 of the new act is a substantial re-enactment of the same section of the former statute, except that it allows the treasurer “ thirty ” instead of “ twenty ” days within which to comply with the requirements of the demand. At the trial the defendant, among other objections to the complaint, insisted that it was defective in not requiring a “ sworn ” statement as provided by the act; and, also, that the complaint did not allege a failure to comply with the demand within “thirty days” according to the act of 1892, supra. We hold that the demand was sufficient, as the failure to require a sworn statement, (which was intended for the security of the stockholder demanding it), was, at most, a waiver on the part of the plaintiff of the verification he was authorized to demand. The real difficulty seems to be, that the plaintiff founded his action on a statutory enactment which at the time of suit brought had no legal force or vitality. The action is highly penal, and is without any authority other than that furnished by the act of 1892, the existence of which must have been unknown to the plaintiff, or he would not have based his right of recovery upon the act of 1890, which had ceased to exist prior to the bringing of his suit. The plaintiff treated the act of 1890 as a private statute, and under § 530 of the Code designated it “ by its chapter and year of passage.” To recover under another statute passed two years subsequently, and known by another chapter,- would be a fatal variance between the allegation and the proof. This must be so,' because the statute is the sole authority for the action. The objection may be technical, but it was pointed out in time to enable the plaintiff to move to amend, which might have been permitted on terms which could not have misled the defendant to his prejudice. Besides, the action, being penal in its character, is controlled by a stricter rule than' that applied in ordinary actions. See Whitney v. Cammann, 137 N. Y., at p. 344; 50 St. Rep. 644. Ho motion to amend appears to have been made, and the court below, as it lawfully might, applied the strict rule of interpretation to the plaintiff’s pleading. Ho error was committed in so doing. For these reasons the exceptions must be overruled, and the defendant's motion for judgment on the dismissal granted, with costs.
+Freedman, P. J., concurs.
