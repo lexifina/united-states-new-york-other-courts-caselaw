@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-13"
+citations: ["24 N.Y. St. Rep. 894", "1 Silv. Sup. 369"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maria Robostelli, Pl’ff and Resp’t, v. Charles H. Noxon, Def’t and App’lt."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0894-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024211
+cites_cases: ["44 Hun, 530", "5 Abb. 322", "5 Abb., 322"]
+---
+
+# Robostelli v. Noxon
+
+## Majority (Pbatt, J. Dykman, J.)
+
+Pbatt, J.
+The real question involved upon this motion is whether a demurrer can be regarded as an answer, so that an answer, as an amendment, can be served as a matter of course within thirty days.
+The defendant served a demurrer, and before the expiration of twenty days, gave notice of withdrawal of the demurrer and served an answer; the plaintiff, in the meantime, having made a motion for judgment upon the demuri’er as -frivolous.
+A demui’rer is one form of answer, although it is designated as a demuri’er.
+A defendant answers the complaint by saying that it is not valid as a matter of law, so that the plaintiff can take a judgment upon it.
+I can find nothing in section 542 of the Code that implies that a demurrer cannot be regarded as an answer so long as it remains in the case.
+This construction is sustained by a long line of cases and has been the established practice for a long time. Betts v. Krindell, 13 Civ. Pro. Rep., 157; Frank v. Bush, 2 N. Y. Civ. Pro. Rep., 250; Cooper v. Jones, 4 Sand, 699; White v. Mayor, 5 Abb., 322, and others.
+In tile case of Cooper v. Jones, above mentioned, the precise point was decided by six judges, and the decision has never been questioned, to my knowledge, until the case of Smith v. Laird et al. (44 Hun, 530; 9 N. Y. State Rep., 376). We think the defendant had a right to rely upon a practice apparently so well settled.
+The reasoning of the earlier cases seems sound, and we think they should have been followed.
+The defendant also moved that the plaintiff be required to receive his answer, which set up a good defense to a portion of the claim. This request appealed to the discretion of the court, and, upon the facts, ought to have been granted upon just terms, even if the defendant had no right to amend as matter of course.
+Order reversed, with costs and disbursements.
+Dykman, J.
+This is an appeal from an order denying a motion of the defendant to set aside a judgment and compel the attorneys of the plaintiffs to accept the defendant’s answer.
+Before the time to answer expired, the defendant served a demurrer to the complaint. That was on the 6 th day of December, 1888, and on the same day the attorneys for the plaintiff served a notice of motion for judgment upon the demurrer as frivolous for the 11th day of December, 1888.
+On the tenth day of December, the day before the motion was to be made, the attorney for the defendant served notice of withdrawal of the demurrer, and at the same time served an answer to the complaint, and such service was within the time allowed for the service of course of an amended pleading.
+Notwithstanding the service of the answer, the attorneys for the plaintiff proceeded with the motion for judgment ■on account of frivolity of the demurrer, and the motion was granted, and judgment was entered for the amount claimed in the complaint.
+Thereupon the defendant moved to set aside that judgment and compel the plaintiff’s attorneys to accept the answer, and that motion was denied, and the defendant has appealed from the order of denial.
+We think the denial of the motion was erroneous. The practice of the defendant was regular, and the answer ■served raises a material issue which entitles the defendant to a trial.
+The withdrawal and abandonment of the demurrer was the exercise of a legal right, and the answer was within time, and regular.
+While the practice of the defendant in the procurement of time to plead, and his delay in serving his answer subjects him to just criticism, at least, yet we cannot for that reason deny him the right to answer, and prove the partial ■defense he has set up against the plaintiff’s claim.
+The order appealed from should be reversed, with ten ■dollars’ costs and disbursements, and the motion should be .granted without costs.
