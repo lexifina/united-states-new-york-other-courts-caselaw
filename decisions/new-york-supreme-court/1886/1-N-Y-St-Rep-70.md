@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1886-03"
+citations: ["1 N.Y. St. Rep. 70"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Billings et al. v. Pickert et al"]
+source_url: "https://static.case.law/ny-st-rep/1/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 637477
+cites_cases: ["6 Barb., 53"]
+---
+
+# Billings v. Pickert
+
+## Majority (Davis, P. J.)
+
+Davis, P. J.
+This action was brought for goods sold by the plaintiffs to the defendants between the 11th of Novemher, 1878, and the 18th of April, 1879. On the trial it was admitted by stipulation that the defendants, as copartners under the name of Pickert & Co., bought from the plaintiffs, as copartners under the name of Billings & Wetmore, from and including November 11, 1878, down to and including April 18, 1879, goods, wares and merchandise of the value of $2,116.89, and that that sum became due and payable on the 1st of May, 1879, and that no part has been paid. The defense was a discharge under the provisions of the Code of Civil Procedure, which have taken the place of the provisions of the Revised Statutes, familiarly known as the two-thirds act. The proceedings for the discharge were had in the county court of the county of Herkimer in this State, and are quite fully set forth in the answers of the defendants.
+On the trial the plaintiff’s counsel moved the court to •direct a verdict for the plaintiff, on the ground that the record of discharge recited in the order showed that the order made by the county court was required by its terms to be served upon each of the creditors of the said defendants, residing within the United States, by delivery of a copy of said order at least twenty days before the 23d day of July then next, personally. or by depositing said copy at least forty days before that day in the post-office, enclosed in a postpaid wrapper addressed to the creditor at his place of business.
+That by section 2165 of the Code of Civil Procedure, subdivision 2, it is required that said order, when served other “than personally, shall be so served by depositing it at least forty, days before the return day in the post-office, enclosed in a postpaid wrapper addressed to the creditor at his usual place of residence.
+That by the terms of the answer it was averred that such •order thus duly enclosed and postpaid was addressed to the creditor’s place of business instead of his usual place of residence, and that the answer also alleged that the proof presented to the court set forth that the order was served at least forty days before the 23d day of July, 1883, by depositing it in the post-office, enclosed in a post-paid wrapper addressed to the creditor “at his place of business.”
+A reference to subdivision 2 of section 2165 of the Code shows that the copy of the order when served by mail must be addressed to the creditor at his usual place of residence. The question thus presented to the court was whether the county court of Herkimer acquired jurisdiction to adjudge the discharge by proof of service by mail, in conformity to the directions of the order of that court, by depositing the notice in the post-office, addressed to the creditor at his place of business. On motion of the defendant an amend • ment of the answer was allowed by inserting therein that, defendant “served a copy of the order on the plaintiffs personally at their place of business and residence twenty days before the return day thereof ;”and under such amendment the defendant offered to prove that he made such personal service upon plaintiff. This evidence was objected to and excluded by the court, and the defendant’s counsel duly excepted. The plaintiffs did not appear in the proceedings, and there was nothing upon the face of the record to show that service was made in the form prescribed by the Code. By excluding the offer to prove personal service the court held that the defect in the record could not be. cured by such proof.
+We are of opinion that the rulings of the Court in excluding the evidence and directing the verdict were correct. The question was a jurisdictional one, and it has been held that where the record fads to show that the court acquired jurisdiction of the person, it cannot be shown by parol evidence that it did in fact obtain jurisdiction. Noyes v. Butler, 6 Barb., 53. It was essential that the record should show how the order to show cause was served. This requirement was sought to be complied with by showing that the order to show cause was served by mad, directed to the place of business of the plaintiffs. The law required it to be directed to the usual place of residence. The place of business and the usual place of residence may be, and often are, identical, but they are not necessarily so, and where the statute expressly requires that service shall be directed to the latter in order to confer jurisdiction, courts cannot hold that service by directing to the former is a compliance with the statute. We are of opinion that the ruling of the court upon this question was correct, and that the judg ment upon that ground must be affirmed. Other defects in the proceedings apparently fatal are now urged which were not suggested on the trial. But it is not necessary that we should pass upon them now, inasmuch as we regard the point upon which the court below passed as fatal.
+The judgment should be affirmed.
+Daniels, J., concurs; Brady, J., dissents.
