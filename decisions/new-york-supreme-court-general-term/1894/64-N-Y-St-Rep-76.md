@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12-04"
+citations: ["64 N.Y. St. Rep. 76"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Hempenstall, Resp’t, v. New York Central and Hudson River Railroad Company, App'lt."]
+source_url: "https://static.case.law/ny-st-rep/64/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2104740
+---
+
+# Hempenstall v. New York Central & Hudson River Railroad
+
+## Majority (Per Curiam)
+
+Per Curiam
+The plaintiff had purchased a ticket for passage on the defendant’s railroad from Fonda to Albany, was waiting at the former place for an east-bound train, which was past due at that point on schedule time. While there, a fast train, eastward bound, passed the station without stopping, which the plaintiff supposed was his train, and passed from the depot, over some of the tracks of defendant’s road, for the purpose of boarding it As that train passed without stopping, the plaintiff as would seem, to avoid a west-bound train, which at that time was approaching, stepped back, and was hit by a freight car,—which was in process of being switched, and was moving slowly, either from gravity or its own momentum, detached from any engine,—and was injured.
+It is claimed by the plaintiff that the defendant was, as to the passengers traveling on its train, and to whom it owed a high degree of deligence, negligent in kicking a freight car, detached from the engine, in front of its passenger depot, while passengers were in waiting there, for a past-due train. It is also claimed by the defendant that the plaintiff did not show his freedom from contributory negligence, in exposing himself in the daytime to be hit by a freight car, and that if he had looked and listened he could have seen it, and escaped injury. Under these circumstances of this case, we do not think this court can say, as matter of law, that the defendant was free from negligence. ÍSTor can we say, as matter of law, that the plaintiff was guilty of contributory negligence. Under the circumstances of this case, we think that it was a question for the jury whether, under the facts disclosed by the proof, the defendant was guilty of negligence which produced the injury; and it was also a question for them to determine whether the plaintiff had established his freedom from contributory negligence, and that the case was therefore properly submitted to the jury, under a fair charge by the judge.
+It is insisted by the defendant that the damages given by the jury are excessive. We think the damages are large, and larger, perhaps, than we would have awarded, had we been called upon to assess them. But that is not the test to be applied by the appellate court in determining whether or not damages are excessive. The jury is the tribunal, under the law, to assess the damages, in a case of this character; and it is only when their verdict is so excessive and disproportionate to the injury that it evinces passion, prejudice, or partiality that the court may interfere to reduce it. We cannot say, as matter of law, that the size of this verdict evinces any such improper passion or emotion on the part of the jury in this case. The judgment must be affirmed, with costs.
