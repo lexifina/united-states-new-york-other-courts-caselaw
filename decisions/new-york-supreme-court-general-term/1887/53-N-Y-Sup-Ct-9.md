@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-10"
+citations: ["53 N.Y. Sup. Ct. 9"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bradley and Childs, JJ., concurred."]
+parties: ["DUANE EARL, Respondent, v. GEORGE W. LEFLER, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/53/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4542520
+cites_cases: ["3 Hun, 496", "5 Barb., 283"]
+---
+
+# Earl v. Lefler
+
+## Majority (Smith, P. J.:)
+
+Smith, P. J.:
+Action for an alleged breach of warranty in a horse trade. There was evidence tending to show that tbe defendant warranted tbe horse which he let the plaintiff have, to be kind and sound in every respect and eight years old, but-that in fact he was unsound, vicious and at least sixteen years old. The plaintiff recovered $200 damages. The appellant contends that the trial court erred in rulings upon the admission and rejection of testimony.
+One of the issues was as to the age of the horse at the time of the trade. Several witnesses testified as to the extent to which the appearance of a horse’s teeth indicates his age. Cook, a veterinary surgeon, called by the plaintiff, testified that he had taken an impression of tbe month of the horse in question which he produced at the trial. The plaintiff offered it in evidence, and it was received against the defendant’s objection that it was incompetent and irrelevant. We think the objection was properly overruled. Such 'an impression in plaster, wax or any other suitable substance, may • be classed as a species of evidence with diagrams, drawings and photographs. It is argued by the appellant’s counsel that the impression in question, may have been inaccurate and misleading, as there was no proof that it was taken at a time near the date of the trial, or that it was an exact or correct impression. The objection to its admission was not put on those grounds; if they had been specified, they might have been obviated. The objection was general, and was equivalent to saying that under no circumstances is an impression of that nature competent evidence. If the impression in question was taken at a time too remote, or was incorrect in any respect, the defendant might have cross'-examined the witness in those respects, but he did not.
+The plaintiff put in evidence what is termed in the printed case a “ chart,” showing the formation of the mouth of a horse, published by a professor in a veterinary college in the city of - New York. It is contended that the reception of it was error. Whether it was so or not, and whether if erroneous, its reception harmed the defendant in view of all the evidence, are questions which we cannot determine, for the reason that the chart is not contained in the case.
+A witness called by the plaintiff was asked the following question : “ What do you say would have been the value of this horse if he had been as represented, sound, kind and true, and gentle in harness as any woman or child could drive; and eight years old, coming nine ? ” An objection to the question was overruled and the witness answered: “ From the representation that he speaks of, I should say it was worth $300 or $400 or $350.’ He was then asked: “ What would you say would be his value if, as he has been represented here by witnesses with reference to his unsoundness and ids age, and being balky and unkind, or from the description of the witnesses of the action of this horse?” The witness answered: “ From the witnesses you have mentioned, I should not consider him worth over $100, from their testimony.” The first question was hypothetical, based upon facts proved, or which the plaintiff had the right to assume were established by the testimony, and it was proper. The second question was improper, for the reason that it left the witness to determine what had been established by the previous testimony; and it is impossible to ascertain, either from the question or the answer, upon what state of facts the answer was based. Testimony of the -like faulty nature was received in some other instances. But there was other testimony in the case, entirely competent and proper, furnishing an ample basis for the amount of damages recovered; so that if the objectionable evidence were eliminated from the case, the judgment would be well supported^ In these circumstances, we think the County Court properly declined to reverse the judgment on account of the reception of the improper evidence referred to. 1 The provisions of the statute respecting appeals from Justices’ Courts require the appellate court to “ render judgment according to the justice of the case, without regard to technical errors or defects which do not affect the merits.” (Code, § 3063.) Appeals from judgments of. the Municipal Court of the city of Bochester are with the like effect as appeals from judgments obtained in Justices’ Courts. (Laws 1811, chap. 192, § 2.) It has frequently been held that the admission in a Justice’s Court of incompetent testimony, to establish a fact clearly proved by other testimony of a competent character, is not such an error as requires the County Court to reverse the judgment. (Bort v. Smith, 5 Barb., 283; Spencer v. Railroad Co., 12 id., 382; Buck v. Waterbury, 13 id., 116; Milliner v. Lucas, 3 Hun, 496.)
+We have examined the other points made by the appellant’s counsel, and think they are without merit.
+The judgment should be affirmed.
+Bradley and Childs, JJ., concurred.
+Judgment affirmed.
