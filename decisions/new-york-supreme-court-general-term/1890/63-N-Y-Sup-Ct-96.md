@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02"
+citations: ["63 N.Y. Sup. Ct. 96"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bartlett, J., concurred."]
+parties: ["EMMA VAN RADEN, Respondent, v. THE NEW YORK, NEW HAVEN AND HARTFORD RAILROAD COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/63/cases/0096-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4594679
+cites_cases: ["106 N. Y., 589"]
+---
+
+# Van Raden v. New York, New Haven & Hartford Railroad
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+This action was brought to recover damages on account of personal injuries alleged to bave been caused by the negligence of the defendant. The proof showed that the defendant is a foreign railroad corporation, operating a railroad which passes through the town of Cromwell, in the State of Connecticut, and 'crosses a public highway of said town on a level therewith. That the plaintiff, a resident of Brooklyn, in this State, was, in July, 1887, in said town of Cromwell, and was being driven by a Mr. Franklin in his carriage to the steamboat landing, which was situated on the east side of the railroad, and to reach which it was necessary to turn from the main highway and to cross the railroad. Before reaching the railroad Mr. Franklin and the plaintiff became aware that there was a train upon the railroad which they must avoid. The view of the railroad was obstructed upon one side by buildings, etc., and they stopped and allowed this train to pass. After this train had passed Mr. Franklin and the plaintiff put their heads forward and listened, and hearing nothing started down the highway. Until they arrived within a few feet of the corner, they had no view of the railroad; above the crossing a train of cars had been standing on a side track to allow the other train to pass, and, about the time the plaintiff and Mr. Franklin, turned the corner and started to the ferry, this train commenced backing slowly toward the crossing. There was a dispute .in the evidence as to whether a bell was. rung or not. Upon turning this corner the horse was so near the train that he took fright and ran away, and the plaintiff was injured. Upon these facts the jury found a verdict for the plaintiff, and from the judgment thereupon entered, and from an order denying a motion for a new trial, this appeal was taken. The questions presented upon this appeal are whether the plaintiff was shown to be guilty of contributory negligence, and whether the court erred in certain portions of its charge, which were excepted to. It is claimed, upon the part of the plaintiff, that if the statutory signals were not given by the servants of the defendant in charge of the train in question, the plaintiff has the absolute right to recover, unless she has lost it because of contributory-negligence. This claim is founded upon a statute of Connecticut, which is as follows:
+“ Every person controlling the motions of any engine upon any railroad, shall commence sounding the bell or steam whistle attached to such engine, when such engine shall be approaching and within eighty rods of the place where said railroad crosses any highway at grade; should keep such bell or whistle occasionally sounding, until such engine has crossed such highway; and the railroad company in whose employ he may be shall pay all damages which may accrue to any person in consequence of any omission to conqfiy with the provisions of this section; and no railroad company shall knowingly •employ any engineer who has twice been convicted for violating the provisions of this section.” And this seems to have been the theory of the learned court in its presentation of the case to the jury, because, after calling attention in a prior portion of the charge to the statute referred to, the jury were instructed as follows:
+“ If you believe the hell was not sounded and that the whistle was not blown ; if you believe, on the evidence before you, that the ■occupants of that wagon did not see the train in time to stop the horse before it became frightened,und that it became frightened in consequence of the negligence of the defendant, then I charge you the plaintiff is entitled to recover, because it has been settled if a traveler upon a highway, crossing a railroad, is himself free from fault, and does not hear an approaching train, the railroad corporation is guilty of negligence in not giving the proper signals, and that it cannot escape responsibility because the horse of the traveler, frightened by the sudden approach of the engine, suddenly starts forward, and getting beyond control, draws the wagon on to the track and so exposes the traveler to injury. It is not a legal inference that the traveler heard the approach of the train because the horse did.”
+This instruction was duly excepted to so far as it instructed the jury that if they should find that the signals were not given on the train, or the ringing of the bell and blowing of the whistle, that they must find for the plaintiff. The complaint makes no mention of this statute, and only claims a right of recovery because of the negligence of the defendant, and hence the failure to comply with the directions of the statute did not necessarily give a right of recovery.
+It was competent to prove the statute, because it was some evi-. deuce bearing upon the question of negligence (Archer v. N. Y., N. H. and H. R. R. Co., 106 N. Y., 589), but it was by no means conclusive evidence.
+This instruction to the jury was, therefore, error, as the failure to comply with uhe statute was made by the charge conclusive evidence of negligence. The jury had a right to consider the statute in determining the question whether or not the defendant had operated its road with due care, but the mere fact that tlie statute was not complied with would not necessarily import negligence.
+There are many other points raised by the appellant which it is not necessary to advert to; as for the error already pointed out there must be a new trial.
+The judgment must be reversed and a new trial ordered, with costs to the appellant to abide event.
+
+## Concurrence (Barrett, J.:)
+
+Barrett, J.:
+I concur. "When the defendant excepted to that part of the charge discussed by the presiding justice, the learned judge observed that what he had said to the jury was that they might fl/nd for the plaintiff. Unfortunately, his language was much broader, namely, that the plaintiff was entitled to recover, and that observation was not withdrawn. The surrounding circumstances were not left to the jury, in connection with the defendant’s failure to sound the bell and blow the whistle, as matters of fact.
+And the jury must have understood that the defendant’s failure to comply with the Connecticut statute in these two particulars was negligence as matter of law.
+Bartlett, J., concurred.
+Judgment reversed and new trial ordered, with costs to appellant to abide event.
