@@ -1,0 +1,19 @@
+---
+court: "New York Surrogate's Court"
+decided: "1894-11"
+citations: ["64 N.Y. St. Rep. 10"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application for the Sale of the Real Estate of James T. Corwin, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/64/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2104674
+---
+
+# In re the Sale of the Real Estate of Corwin
+
+## Majority (Coleman, S.)
+
+Coleman, S.
+An application to sell decedent’s real estate. The petitioner’s claim is for funeral expenses only. A motion is made, on behalf of the next of kin, to dismiss the proceedings as being unauthorized, the petitioner being neither an executor nor administrator nor creditor of the decedent. Code Civ. Proc. § 2750. An examination of §§ 2749, 2750, 2752, 2754, and others, clearly shows a purpose to provide for the payment of funeral expenses, when necessary, from a sale of decedent’s real estate, and it has been so held even where there were no unsettled debts. Estate of King, 10 Civ. Proc. R. 175. That purpose must, however, be accomplished in the way provided in the statute. Section 2750 provides who may present a petition to obtain a sale. It must be “ an executor or administrator * * * or a person holding a judgment lien * * * or any other creditor of the decedent” So, an executor or administrator could undoubtedly have commenced these proceedings by filing the proper petition, but one who is the owner of the claim for funeral expenses could not, unless he is included in the term “ creditor of the decedent.” In determining whether such a person is so included, the act itself, as well as the usual definition of the term “ creditor,” may be considered. By looking through the several sections of the Code relating to the sale of real estate, we find that where it is provided what claims may be paid, what parties shall be brought into the proceedings, and as to all other matters, except where it is provided who may file the petition, the claim for funeral expenses is always mentioned by name, and is not treated as though included in the expression “debts.” The omission is significant, and it may reasonably be supposed it was purposely done. Unlike ordinary debts, this claimant has a personal remedy for the claim against the executor or other person who contracted the obligation, and was, therefore, not given the right to proceed against the real estate of the decedent for the collection of his claim. To suppose that such a claimant is included in the term “creditor of the decedent” would be to extend the scope of the expression beyond any fair or reasonable meaning of the term. Estate of King, sufra, is cited as an authority by the petitioner in this case, but it does not appear from the report of the case who was the petitioner in that proceeding. I am of opinion, for reasons before stated, that these proceedings should, be dismissed, as authorized in the Code. Proceedings dismissed.
