@@ -1,0 +1,25 @@
+---
+court: "New York Marine Court"
+decided: "1879-02"
+citations: ["1 N.Y. City Ct. Rep. 143"]
+reporter: "ny-city-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SMITH against DITTENHOEFER. (Actions Nos. 4 and 5.)"]
+source_url: "https://static.case.law/ny-city-ct-rep/1/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1101579
+cites_cases: ["1 Wend. 487", "15 Johns. 229", "16 N. Y. 548", "19 Wend. 207", "27 Ill. 270", "42 Barb. 270", "43 N. Y. 248", "54 Barb. 191"]
+---
+
+# Smith v. Dittenhoefer
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The plaintiff brought three actions against the defendant to recover rent due upon the same indenture of lease. The three actions are designated for convenience of reference as numbers 3, 4 and 5. They were commenced on the same day (i. e., October 3, 1878)—Action No. 3, to recover $275 rent for July, 1878 ; Action No. 4, to .recover $275 rent for August, 1878 ; and action No. 5, to recover $275 rent for September, 1878.
+Action No. 3 was not defended, and judgment was allowed to go by default, October 14,1878. This judgiment was shortly afterwards paid and satisfied. The present actions, 4 and 5, were and are defended upon the plea that the pendency of Action No. 3, and the judgment therein, and payment thereof, were, under the circumstances, a bar to Actions 4 and 5.
+The truth of the plea was admitted upon the trial, and the question presented for decision is as to the legal effect thereof. The law is well- settled that where a party has several demands, or existing causes of action, growing out of the same contract, and which may be joined or sued for in the. same action, they must be joined, and if the demand and causes of action be split up and a suit brought for part only, and subsequently a second suit for the residue, the first action may be pleaded in abatement or in bar of the second action.
+The leading case in this State establishing this principle grew out of a lease contract. In 1835, a suit was brought by Cocks against Bendernagle for alleged breach of covenants in the indenture contained. Bendernagle pleaded, in abatement, that in 1834 Cocks had brought an action of covenant against him- upon the same identical indenture of lease, for the alleged breach of certain covenants in the indenture contained, and that such action was still pending. • Cocks replied that the covenants, for the breach of which the first suit was brought, were other, distinct and different from the covenants for which the last suit was brought. Bendernagle demurred to the replication. The court below adjudged the replication to be good, and rendered judgment in favor of the plaintiff. The defendant sued out a writ of error. The supreme court, by Cowett, Justice, reversed the decision of the lower court, holding that several claims already due under the same contract, shall be deemed an entire demand or cause of action. That thereafter a suit and recovery for part, the whole being due, shall be a bar to the whole, and adds, “ the plea of former judgment in an action for a part of such entire demand, being valid as a plea in bar to the whole, it follows that the plea of the pendency of such an action is good in abatement for the whole. Both stand upon the same principle ; the only difference lies in the form of the plea and the effect of the judgment, respectively” (Bendernagle v. Cocks, 19 Wend. 207, 209, 215 ; and the same principle has been affirmed in Secor v. Sturgis, 16 N. Y. 548, where Bendernagle v. Cocks is cited with approval, and in Reformed Church v. Brown, 54 Barb. 191 ; O’Bierne v. Lloyd, 43 N. Y. 248 ; Miller v. Covert, 1 Wend. 487; Guernsey v. Carver, 8 Id. 492 ; Stevens v. Lockwood, 13 Id. 644, 646 ; Smith v. Jones, 15 Johns. 229 ; Williard v. Sperry, 16 Id. 121; Wells on Res Adjudicata, 204; Smith's Lead. Cas. 669 ; Coggins v. Bulwinkle, 1 E. D. Smith, 436; Hopf v. Myer, 42 Barb. 270 ; Logan v. Caffrey, 6 Casey, 196 ; Casselberg v. Forquer, 27 Ill. 270). The several claims involved in Actions 3, 4 and 5, having arisen under the same indenture of lease, and being all due and payable at the time said actions were commenced, constituted one entire indivisible demand or cause of action ; and the plaintiff having wrongfully split said demand into three parts, so as to bring separate actions thereon, the pendency of Action No. 3 was a good defense in Actions 4 and 5, by way of plea in abatement, and after judgment therein, by way of plea in bar. The defense, although purely technical, is founded upon the above well-established rule, which, although severe in its application to some cases, was found necessary to prevent useless vexation, annoyance and expense to litigants by a multiplicity of actions upon past .due claims under the same contract, which properly form the subject of but one action. The rule is applicable to the-present Actions 4 and 5, and entitles the defendant to judgment.
+Judgment accordingly, with costs.
+The above ruling was subsequently affirmed upon appeal. •
