@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1875-11"
+citations: ["50 How. Pr. 91"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Ryan agt. The Mayor, Aldermen and Commonalty of the City of New York."]
+source_url: "https://static.case.law/how-pr/50/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4471911
+---
+
+# Ryan v. Mayor
+
+## Majority (Freedman, J.)
+
+Freedman, J.
+to 1869, the office to which plaintiff was appointed did not exist. There were attendants on the court, commonly designated as officers of the court, but the office of “ attendant and messenger,” by which title plaintiff’s office was sought to be distinguished from the office of a gen-neral attendant or officer, was not known.
+Section 28 of the Code (.being section 31 of 1848), provides that the supervisors of the several counties shall provide the courts appointed to be held therein, among other things, with , attendants suitable and sufficient for the transaction of their business.
+By section 51 of the Code, which was added in 1849, the twenty-eighth section was made applicable to the superior court.
+By chapter 529 of the Laws of 1853, it was, among other things, provided that the superior court should appoint the officers necessary to attend said court, and that their salaries should be fixed by the board of supervisors, and paid out of the city treasury.
+The last named act seems to have repealed, by necessary implication, the power of appointment previously lodged in the board of supervisors, unless a distinction can be drawn between the terms “ attendants ” and “ officers,” as used in said acts, which, however, I have never known to exist in point of fact.
+But even if both acts could be upheld as cumulative, and not inconsistent grants of powers, then the board of supervisors were clearly prohibited from creating the office in question by section 4 of chapter 854 of the Laws of 1868, because plaintiff was not appointed by them as a general attendant on the court, but as an “ attendant and messenger,” with a salary different from the one paid to the ordinary attendants. He was, therefore, appointed to a position specially created or him by the board of supervisors. This was expressly prohibited by the act last referred to, which constituted the county tax levy for the year 1868. . Similar provisions have, on several occasions, been the subject of judicial review, and have been held not to be obnoxious to any constitutional objection. The act in question was passed to provide for the raising and disbursing of moneys required for carrying on the government of the county of Hew York, and the restriction upon the creation of new offices, and the increasing of salaries was a subject within both its scope and title.
+I am also of opinion that the plaintiff is an officer within the meaning of the said prohibitory clause. The meaning of the words “office” and “officer” necessarily varies with its use in different statutes, and to determine it correctly in a particular instance, regard must be had to the intention of the act, and the subject-matter in respect to which the terms are used. In the present case, the word “ office ” is to be construed in its ordinary and familiar signification, as in general and popular use, the intention of the act evidently being to prohibit the board of supervisors from creating any new position with a regular yearly salary attached to it.
+These views do not conflict with the doctrines laid down in Landon agt. The Mayor and Jarvis agt. The Mayor. In these cases, it was held that clerks and other officers of courts appointed by such courts under special statutes, were not city or county officers within the true intent and meaning of these terms, as used in certain local acts pertaining solely to the city and county of Hew York, and conferring upon certain officers of the municipality the power to regulate the salaries of the officers of the local government. These decisions proceeded upon the ground that the courts of record therein referred to do not constitute part of the local government of the city and county of Hew York. A prohibition, "however, upon the local government, contained in an act pertaining exclusively to matters connected with such local .government, against the, creation of a new office by its own act, without the requisition or solicitation, though, perhaps, for the convenience, of said courts, rests upon an entirely different footing, and is not objectionable on any of the grounds which constitute the basis of the decisions referred to.
+If, therefore, the plaintiff had continued to rest his case solely and exclusively upon his appointment by the board of supervisors, as he did in his original complaint, his demurrer to the defense now under consideration would have to be overruled. But, by his amended complaint, he set up, in addition, an adoption and ratification of his appointment by the court, and the rendition of services in pursuance thereof. These facts, when proved or conceded, are sufficient, under the decision of the court of appeals in Brerman agt. The Mayor, &c., to authorize and sustain a recovery. The answer, by not denying them or putting them in issue, admits them. Under these circumstances, the naked plea of want of authority in the board of supervisors to make the appointment is insufficient in law to constitute a defense.
+The plaintiff is entitled to judgment on the demurrer, but defendants may have leave to amend their answer on payment of costs.
