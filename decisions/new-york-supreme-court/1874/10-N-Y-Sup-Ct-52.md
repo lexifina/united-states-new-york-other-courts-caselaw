@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1874-12"
-citations: ["10 N.Y. Sup. Ct. 52", "10 N.Y. Sup. Ct. 57"]
+decided_precision: "month"
+citations: ["10 N.Y. Sup. Ct. 52"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["THE BOARD OF COMMISSIONERS OF PILOTS, Appellant, v. PAUL N. SPOFFORD 
 source_url: "https://static.case.law/ny-sup-ct/10/cases/0052-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2357872
-cites_cases: ["1 Bosw., 653", "2 Hill, 77", "26 How., 398", "45 N. Y., 446", "49 N. Y., 660"]
+cites_cases: ["1 Bosw., 653", "2 Hill, 77", "26 How., 398", "49 N. Y., 660"]
 ---
 
 # Board of Commissioners of Pilots v. Spofford
