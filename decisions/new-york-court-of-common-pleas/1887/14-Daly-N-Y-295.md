@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Common Pleas"
 decided: "1887-12-05"
-citations: ["14 Daly (N.Y.) 295", "14 Daly (N.Y.) 292", "12 N.Y. St. Rep. 117", "14 N.Y. St. Rep. 687"]
+citations: ["14 Daly (N.Y.) 295", "14 N.Y. St. Rep. 687"]
 reporter: "daly-ny"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Robert G. Cornell, Appellant, against Daniel Donovan et al., Responde
 source_url: "https://static.case.law/daly-ny/14/cases/0295-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 915492
-cites_cases: ["11 Daly 297", "11 Daly, 297", "12 Daly 217", "12 Daly, 217", "4 Abb. Ct. App. Dec., 382", "45 N. Y. 210", "45 N. Y., 210", "58 N. Y. 211", "60 N. Y. 117", "82 N. Y. 10", "82 N. Y., 10"]
+cites_cases: ["4 Abb. Ct. App. Dec., 382", "82 N. Y. 10", "82 N. Y., 10"]
 ---
 
 # Cornell v. Donovan
