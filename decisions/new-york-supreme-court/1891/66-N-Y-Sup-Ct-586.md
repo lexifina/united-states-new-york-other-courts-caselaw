@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1891-03"
+citations: ["66 N.Y. Sup. Ct. 586"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Dwight, P. J.; Macomber and Corlett, JJ."]
+parties: ["THE PEOPLE OF THE STATE OF NEW YORK ex rel. EDWARD ROSSNEY v. JULIUS ARMBRUSTER and Others, Comprising the Executive Board of the City of Rochester."]
+source_url: "https://static.case.law/ny-sup-ct/66/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4626428
+---
+
+# People ex rel. Rossney v. Armbruster
+
+## Majority (P.er Curiam:)
+
+P.er Curiam:
+. The relator, being an honorably discharged soldier of the late •war, was superintendent of streets of the city of Rochester, under the appointment of the defendants who constitute the executive board of the city. The relator was removed from that post on the 30th day of April, 1890, without any charges against him and without a hearing, and his place filled by another person. It is now contended by counsel for him, that his removal was unlawful and in violation of chapter 119 of the Laws of 1888, as amended by chapter 67 of the Laws of 1890, entitled “An act relating to employees of the various cities and counties of the State.” That provision is as. follows: “No person holding a position by appointment in any city or county of this State, receiving a salary from such city or county (unless he has been appointed for a definite term), who is an honorably discharged soldier, sailor or marine, having served as such in the Union army or navy during the war of the rebellion or the Mexican war, and who shall not have served in the Confederate army or navy, shall be removed from such position, except for cause shown after a hearing had, but this provision shall not be construed to apply to the position of private secretary or chief clerk or deputy of any official or department, or to any other person holding a confidential relation to the appointing officer.” Unless the relator comas within the exceptions mentioned in the statute his removal was unlawful, and he should be reinstated.
+The executive board is a department of the city government of the city of Rochester, as expressed in section 142 of chapter 14 of the Laws of 1880, which constitute the city charter. That section ■creates a board, consisting of three members, who shall be electors .and freeholders of the city, and chosen by the electors of the city, each to hold office for the term of three years.
+By section 149 of that act this board has power to let all contracts made by the city, except as otherwise provided, to superintend and ■control all work or improvements ordered by the common council, to have control of the construction, improvement, repair aud cleaning of streets. This section concludes as follows: “ The executive board may appoint, and at pleasure remove, a superintendent of •streets, fix his compensation and prescribe his duties.” By the sixty-first section of the same act, the superintendent of streets is required to act under the direction of the executive board, and in case of a vacancy in that office all powers and duties imposed upon him must ■be performed by the executive board.
+Under these statutes it is plain to be seen that the relator is not included within the general provisions/of the act relating to appointment and removal of officers, but comes within the exception thereto contained in the last clause of the act. As has been stated above, the defendants constitute a “department” of the city oE Rochester. The relator is a “ deputy ” of that department, and hence by the 'terms of the statute is not included within the class of persons who ■cannot be removed, except for cause shown and after a hearing had.
+It follows that the exceptions taken at the trial must be allowed ■and a new trial granted, with costs to abide the event.
+Present — Dwight, P. J.; Macomber and Corlett, JJ.
+Exceptions allowed, verdict set aside and a new trial granted, with ■costs to abide the event.
