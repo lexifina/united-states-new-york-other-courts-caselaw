@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-03-13"
+citations: ["37 N.Y. St. Rep. 622"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Fowler, App’lt, v. The Metropolitan Life Ins. Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/37/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2054726
+cites_cases: ["116 N. Y., 389", "41 Hun, 357"]
+---
+
+# Fowler v. Metropolitan Life Ins.
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The action was brought to recover the amount of a policy of life insurance. It was before this court in 1886 when, on account of assurances contained in a pamphlet issued and circulated in the defendant’s business, it was concluded that the policy was not forfeited by the failure to pay the interest on the-premium, notes held by the company at the time when it became due. There was then evidence before the court from which it could be reasonably inferred that the omission to pay arose out of ■ reliance placed upon the statements contained in the pamphlet, and the company was, therefore, held to be liable to the plaintiff as the assignee of the insurance. Fowler v. Metropolitan Ins. Co., 41 Hun, 357 ; 2 N. Y. State Rep., 583. But a different view of the case was taken by the court of appeals, which reversed the judgment, 116 N. Y., 389 ; 26 N. Y. State Rep., 770, and ordered a new trial.
+Upon the last trial evidence was given to the direct effect that it was reliance upon the statements contained in the pamphlet that induced the delay in the payment of the interest from the Saturday when it became due until the next Monday, when it was tendered and refused. This created no substantial change in the state of the case. For whether the fact should be inferred from the conduct of the person entrusted with the money to pay the interest that the delay had been induced by the representation contained in the pamphlet, or from direct proof that such was the truth, can make no difference in the disposition to he made of the action under the opinion of the court of appeals. The representation which appeared to have been made was held not to relieve the default in payment on the part of the assured. That was an effectual disposition of the action adverse to the plaintiff.
+And the judgment should, therefore, be affirmed, with costs.
+Van Brunt, P. J., concurs.
