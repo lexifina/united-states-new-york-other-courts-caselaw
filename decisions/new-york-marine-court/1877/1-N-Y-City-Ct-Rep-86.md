@@ -1,0 +1,27 @@
+---
+court: "New York Marine Court"
+decided: "1877-01"
+citations: ["1 N.Y. City Ct. Rep. 86"]
+reporter: "ny-city-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GUSTAVUS BRUGGEMANN against THE BANK OF THE METROPOLIS."]
+source_url: "https://static.case.law/ny-city-ct-rep/1/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1101418
+cites_cases: ["1 Abb. Pr. 417", "1 Cow. 691", "11 Abb. Pr. 3", "14 How. Pr. 383", "2 Edw. 647", "23 How. Pr. 258", "3 Barb. Ch. 391", "3 Sandf. Ch. 571", "6 N. Y. 412", "8 Abb. Pr. 354"]
+---
+
+# Bruggemann v. Bank of the Metropolis
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The papers, upon the application for an order of interpleader, show that on December 20, 1876, at the city of New York, one F. Goll, a depositor with the (defendant, drew his bank check directed to it, whereby he required it to pay to W. W. Coomes, or order, the sum of §180 for value received.
+The check was given by the drawer Groll to the payee Coomes.
+The bank certified the check, and it is now sued upon its certification. The bank raises no question about its liability, and asks leave to pay the amount of the check into court, and be absolved from further liability, upon the ground that there is a dispute concerning the title to the check. The check being payable to Coomes’ order, no one can acquire title to it without his consent. Coomes, the payee, has notified the bank that he has never parted with title to the check, and that it is still his property.
+The plaintiff, upon the other hand, contends that Coomes indorsed the check and delivered it to one Foster, and that Foster indorsed and delivered it to one Warren, and that Warren indorsed and delivered it to the plaintiff. Under Coomes’ statement, title to the check is in him. Under the plaintiff’s statement, title, is shown out of Coomes and in the plaintiff.
+The bank, in the language of subdivision 3 of section 122 of the code, before answering, upon affidavit that Coomes (who is not a party to the action) and without collusion with it, makes a demand against it for the same debt or property, makes application upon notice to such person, and the adverse party, for an order to substitute such-persop. in its place, and discharge it from liability to either party, on its depositing in court the amount of the debt. The plaintiff opposes the application. Coomes, the third person, offers no opposition. The bank shows the necessary facts in addition to those which have already been mentioned —i. e., that it is disinterested (1 Cow. 691; 3 Sandf. Ch. 571; 2 Paige, 199 ; 1 Abb. Pr. 417), that it is ignorant of the rights of the rival claimants (4 Paige, 384, 385 ; 11 Abb. Pr. 3 ; 3 Barb. Ch. 391; 8 Paige, 339), and being unable to determine for itself the disputed question of title, it is, under the circumstances disclosed, entitled to an order for interpleader (1 Wait Pr. 173; 14 How. Pr. 383; 8 Abb. Pr. 354; 2 Edw. 647; 1 Cow. 691). The case is analogous to that of Regan v. Serle (9 Howl. 193), in which it was held that where actions were commenced against an acceptor of a bill by two parties, each of whom claimed to be the lawful owner of .it, the case was a proper one for interpleader to determine which one of them was entitled to recover. The case of Lund v. Seaman’s Savings Bank (23 How. Pr. 258), referred to by the plaintiff’s counsel, is not an authority against the propriety'of granting the present application.
+That case merely holds that a bank cannot set up as a defense against its depositor, that his title to the money deposited is defective or wrongful.
+That principle of law has no application to the questions raised upon the present motion. The defendant does not dispute the title of its customer (the drawer of the check) to the fund upon which it was drawn. It conceded the existence and ownership of the fund when it accepted the check. The check, after acceptance, however, amounted to an assignment of the fund. The drawer ceased to have any control over it. The holder of the check became entitled to it. The drawee before acceptance owed no duty to the holder (Chapman v. White, 6 N. Y. 412), but after acceptance, the rule was reversed, and it owed no duty to any one but the holder—by which I mean the legal holder, and not one having the naked possession of the check without the legal title and ownership. In Lund v. Seaman’s Savings Bank (supra), the interpleader was denied, because the third persons were not in privity with the depositor, but were claiming by a hostile and superior title. This case is the reverse of that. The third person here w’as in privity with the depositor, and claims under a title derived directly from the depositor, and not under title hostile or superior to him. The question, therefore, reduces itself to one of title to the check. This is disputed—the quarrel does not owe its origin to any fault of the bank or of its officers, and there is no legal reason why the bank should be continued an unwilling litigant in a dispute between others, in which it has no concern; nor do I think that the bank is captious in asking the benefit of section 122 of the code, which was designed for just such a case as this. The application is evidently made in good faith, and therefore commends itself to the consideration of the court.
+Motion for interpleader granted, order to be settled upon two days’ notice.
