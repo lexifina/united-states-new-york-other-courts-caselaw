@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-10-27"
+citations: ["11 N.Y. St. Rep. 514"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hudson G. Bottom and another, Resp’ts, v. John Scott, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/11/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990173
+cites_cases: ["108 U. S. Rep., 269", "110 U. S., 508", "70 N. Y., 202", "71 N. Y., 420", "83 N. Y., 99"]
+---
+
+# Bottom v. Scott
+
+## Majority (Lawrence, J.)
+
+Lawrence, J.
+—This action being upon a promissory note, the counsel for the respondent is quite right in stating that the presumption is that the note is a valid obligation, given for a good and legal consideration, and that the urthen of attacking it for any cause is upon the defendant.
+See Bigelow v. Benedict (70 N. Y., 202); Story v. Salomon (71 id., 420); Kingsbury v. Kirwin (77 id., 612); Harris v. Tumbridge (83 id., 92); Irwin v. Williar (110 U. S., 508). There was, therefore, no ground for dismissing the complaint and the case was properly submitted to the jury. An exception was taken by the defendant’s counsel to that part of the charge which stated that the burthen of proof of establishing the illegality of the transaction was on the defendant, which exception is necessarily disposed of by what has before been said in regard to the refusal of the court to dismiss the complaint. Some exceptions were also taken to the refusal of the court to charge certain requests submitted on the part of the defendant.
+By the fifth request the defendant requested the court to charge that there is no evidence in this case that Bottum & Sexton ever made a contract with any person on defendant’s account, that bound him to receive or deliver any grain. This request the court charged. By the sixth request the defendant requested the court to charge that unless there was such a valid contract the defendant is entitled to a verdict. The court refused to charge otherwise than as charged, and the defendant excepted.
+It will be observed that the court had already charged, at folio 108 of the case, that “there is no evidence that Bottum & Sexton ever made any contract with any person that bound them to receive and deliver any grain; and, if yon are satisfied that there was no such valid contract, the defendant is entitled to a verdict at your hands.” And also that ‘c if the arrangement or agreement was that the defendant was to pay the differences and was not to receive or deliver any grain on his' contract, the defendant is entitled to a verdict.” Case folio 116. Also, that “if you are satisfied, from the evidence, that no such valid contract was entered into, although the accounts were rendered' in the way in which they were, then the defendant will be entitled to a verdict.”
+It seems to me that the refusal to charge the sixth request of the defendant was quite right. The court had already charged that if no valid contract had been entered into the defendant was not liable, and that proposition had been charged in various ways. I do not understand that it is incumbent upon the court to reiterate in different verbiage the propositions which it has already charged. The court had already charged that there was no evidence in the case that Bottum and Sexton ever made a contract with any person on defendant’s account that bound him to receive or deliver any grain. It had also charged that the burthen of proving that the transactions were not bong fide orders to purchase and sell, but were to be settled by the payment of differences, and were, therefore, in the nature of wagers, and unlawful, upon that account was upon the plaintiff. It seems to me that this was a fair submission of the question raised by the evidence to the jury, and that the court was not bound to go further than it had gone in presenting it.
+In Bigelow v. Benedict (70 N. Y., 202) it was held that a contract whereby A, for a valuable consideration, agrees to purchase of B gold coin at a specified price, within a specified time, B having the option to deliver or not, is not upon its face a wager contract within the meaning of the statutory provision declaring such contracts void (1 R. S., 662, § 8), and that in the absence of evidence to the contrary it wifi be presumed that the contract was made in good faith with intent on the part of both parties to perform.
+See to the same effect Story v. Salomon (71 N. Y., 420); Roundtree v. Smith (108 U. S. Rep., 269); Harris v. Tumbridge (83 N. Y., 99). In the latter case Finch, J., in delivering the opinion of the court says: “ It is next argued that this was a gambling transaction, and, as such, prohibited by statute. It may have been, but there is no proof that it was, and no such defense was pleaded. The contract was not of necessity a wager contract; that it might have been, does not at all dispense with the necessity of proving that it was.”
+In this case the defense that the contract was a' wager contract is pleaded, but that defense does not dispense with proof on the part of the "defendant to substantiate the defense. Inasmuch as the case was submitted to the jury upon conflicting evidence with proper instructions as to the burthen of proof, it seems to me that the verdict should stand.
+It is claimed on the part of the defendant that thd verdict should be set aside as against the weight of evidence. To this I am not prepared to accede. The jury were judges as to the question of fact and as to the weight to be given to the testimony of each witness whom they saw and who testified before them. Upon the whole case no error is discovered in the rulings of the learned justice before whom the cause was tried, and we are, therefore, of the opinion that the judgment should be affirmed.
+Bartlett, J., concurs in the result.
