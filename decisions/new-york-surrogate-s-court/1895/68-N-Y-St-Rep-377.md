@@ -1,0 +1,21 @@
+---
+court: "New York Surrogate's Court"
+decided: "1895-06"
+citations: ["68 N.Y. St. Rep. 377"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of a Proceeding to Appraise the Estate of Marietta Grover, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/68/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2116111
+---
+
+# In re a Proceeding to Appraise the Estate of Grover
+
+## Majority (Sheldon. S.)
+
+Sheldon. S.
+— By her last will and testament Marietta Grover made the following devise: “ I give, devise, add bequeath to my sister, Eliza Chassell, of Holland Patent, in the county of Oneida and state of New York, my house and lot located on Steuben street, in Holland Patent, county and state aforesaid, and at her decease to become the property of her son, George Chassell.” The question for determination is whether Eliza A. Chassell takes the house and lot absolutely and in fee, or does she take a life estate only and the remainder in fee vest in her son George? The controling rule in the construction of wills is that the intention of the testator must govern, unless carrying the intention into effect would violate the law. In arriving at the intention of the will maker words. must be given their ordinary meaning, unless their use in a different sense is manifest from other language and provisions, and, if possible, all the-words used by the testator are to be considered in arriving at the intent. I find no other provision of the will or language used therein which sheds any light upon the intent of the testator in making this devise. The devise must be clearly of s. fee if it were not for the words “and at her decease to become the property of her son, George Chassell.”
+The district attorney, for the people, contends that the effect of the whole is to give Eliza a life estate and the remainder in fee to her son George. George contends that his mother was intended to have an absolute estate, and that only in case of the death of his mother before the death of the testator was he to have the property, and as that contingency has not happened his mother takes the fee. His contention is that the clause must be construed as though the concluding portion read, “and in case of her death the property shall go to her' son, George Chassell.” It is well settled that the use of such language imports the intention to provide for the happening of a death prior-to the death of the testator, and in this case, if such is the meaning, George Chassell takes •nothing, as the contingency has not occurred, the mother, Eliza, having outlived the testator. But I am of the opinion that the testatrix did not have in her mind and intend to provide for the happening of the death of her sister Eliza before her own death, but that she had in her mind that her sister Eliza should have and enjoy the property devised to her during her life, and that at -her death George should own and enjoy it. Such is the natural meaning of the language used. The property could not become the property of George at the death of Eliza unless Eliza outlived the testatrix. The idea was plainly that there should be a succession of estates, .the mother should have the property, and at her death it should become the property of George. Such a succession provided for by the will necessarily made the first estate a life estate only, and the fee vested in George Chassell. It follows that the estate of George Chassell in the house and lot devised is subject to appraisal, and if the total amount passing to George 'Chassell under the will is sufficient to be liable to the tax such tax must be assessed.
+Ordered accordingly.
