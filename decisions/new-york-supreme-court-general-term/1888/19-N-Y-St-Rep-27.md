@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11"
+citations: ["19 N.Y. St. Rep. 27"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eunicy Birch, Resp’t, v. Lyman Hall, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650511
+cites_cases: ["1 Johns. Cas., 110", "12 Johns., 300", "2 Abb. Ct. App. Dec., 353", "52 N. Y., 237", "6 Hill, 297", "6 Lans., 214", "74 N. Y., 476", "93 N. Y., 552"]
+---
+
+# Birch v. Hall
+
+## Majority (Martin, J.)
+
+Martin, J.
+It is alleged in the complaint that the defendant wrongfully took and collected three promissory notes, which belonged to the plaintiff, of the value of $318; and that by reason thereof the defendant became indebted to the plaintiff in that sum; that he wrongfully received said money, and that he refused to pay it to the plaintiff, notwithstanding she had made demand therefor.
+The proof was that in .the fall of 1883 plaintiff became insane and was removed to an asylum, where she remained until June, 1887; that at the time of her removal she was residing with her father and stepmother at Granby, N. Y.; that she was then the owner and in possession of the notes in question and also of other notes, mortgages and personal property, which were in her trunks and left at her father’s house; that her father subsequently died; that after her father’s death the defendant, with the consent of the plaintiff’s stepmother, took charge of the plaintiff’s truriks and their contents, and removed them to the place where he and his wife, who was the plaintiff’s sister, then resided; that the notes in question were collected by the defendant; that after they were collected, and before this action, a conversation took place between the parties, in which the plaintiff inquired of the defendant where her money was," to which he replied that he had every dollar of it and was saving it for her. There was neither claim nor proof that the defendant ever had any money which belonged to the plaintiff except that which he collected on those notes, nor was there any proof of any demand for the money thus collected.
+It is quite apparent from the evidence that the defendant took possession of the plaintiff’s property, collected these notes, saved the money for the plaintiff, and preserved her other property, because she was the sister of his wife, who was, so far as the evidence discloses, the only surviving relative she had, and the only person interested in her welfare or in the preservation of her property. That defendant has acted in the most perfect good faith toward the plaintiff in the care and preservation of her property, and that the plaintiff has been benefited thereby, we can find no reason to doubt.
+But the plaintiff contends that the taking and collection of the notes was wrongful in that it was without her consent, and hence, that the judgment was proper and should be upheld. It is, perhaps, true that while the defendant was guilty of no moral wrong, yet, that he was guilty of a technical one, for which he would be liable unless his acts have been ratified by the plaintiff.
+It is quite manifest, from the plaintiff’s own evidence, that she knew that the notes in question had been collected when the conversation took place between the parties about her money.
+There is no claim or pretense that the defendant ever had any other money belonging to her, nor that the conversation between them related to any other money than that collected upon these notes. "When the plaintiff asked about this money she was frankly told by the defendant that he had it, and was saving it for her; With this she was content. She interposed no objection and made no demand for its delivery to her. We think the evidence was such as to raise an implication of her approval of his action, and of her consent that he should continue to hold the money for her. We are inclined to the opinion that the plaintiff’s acts amounted to a ratification of the defendant’s action in taking and collecting the notes in question, and to a consent that he should hold the money for her. Towle v. Stevenson, 1 Johns. Cas., 110, 112; Armstrong v. Gilchrist, 2 id., 424; Cairnes v. Bleecker, 12 Johns., 300; Hazard v. Spears, 2 Abb. Ct. App. Dec., 353; McKinley v. Tucker, 6 Lans., 214, 217; Story on Ageny, §§ 255, 256; Evans on Principal and Agent (text book series), 107, et seq.
+Assuming then that the defendant retained the money collected, for the plaintiff and by her consent, thus holding it on deposit for her, and it follows that a proper demand was necessary before an action could be maintained for its recovery. Boughton v. Flint, 74 N. Y., 476; Payne v. Gardiner, 29 id., 146; Downes v. The Phœnix Bank, 6 Hill, 297. The correctness of this principle seems to have been recognized by the plaintiff when the complaint in this action was prepared, as she alleges a demand.
+If correct in our conclusion, it follows that' the court erred in denying the motion for a nonsuit on the ground that no demand had been made.
+The answer contained a counterclaim for services rendered of the value of fifty dollars, and for expenses paid by defendant to the amount of fifty dollars, which services were rendered and expenses paid in collecting notes belonging to the plaintiff, in paying her debts, and in preserving her property, and which were rendered and paid at her request. Ho reply was served. On the trial the defendant moved that that portion of the counterclaim alleging serv-, ices be admitted and allowed. The motion was denied, and the defendant excepted.
+That a counter-claim such as was contained in the defendant’s answer may be properly set up, even in an action of tort, seems to be settled. Carpenter v. Manhattan Life Ins. Co., 93 N. Y., 552. Section 522 of the Code of Civil Procedure provides that each material allegation of new matter in the answer not controverted by the reply, where a reply is required, must, for the purposes of the action, be taken as true. In this case a reply was required (Code Civ. Pro., § 514), and hence the allegations of the answer which constituted a counter-claim were to be taken as true.
+We think the court erred in denying the defendant’s motion, and that his exception to such ruling was well taken. Isham v. Davidson, 52 N. Y., 237.
+We are of the opinion that the defendant’s appeal should prevail, and that the judgment and order should be reversed.
+Judgment and order reversed and a new trial granted, with costs to abide the event.
+Hardin,. P. J., concurs.
+
+## Concurrence (Follett, J.)
+
+Follett, J.
+I concur in that pan; of brother Martin’s opinion holding that the answer pleads a counter-claim, which the plaintiff admitted by failing to reply, and that the court erred in refusing to so hold, for which error the judgment must be reversed. But I cannot agree that the case contains sufficient evidence of ratification by the plaintiff of defendant taking and collecting the three notes, to sustain a holding, as a matter of law, that plaintiff ratified defendant’s acts. In the autumn of 1886, at Willard Asylum, the parties talked about defendant having some of plaintiff’s property in his care, but she swears (folio 50): “The subject of these particular notes was not mentioned ; nothing was said about his collecting notes, getting the money on them,” etc.' I fail to find any evidence that plaintiff then knew the defendant had taken and collected these notes. I think the question of ratification was one of fact, and should have been left to the jury with instructions that if they found there was no ratification, no demand was necessary; but if there was a ratification, no recovery could be had without a demand.
+The judgment should be reversed and a new trial granted, with costs to abide the event.
