@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1855-05-07"
+citations: ["11 How. Pr. 24"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Acome agt. The American Mineral Company."]
+source_url: "https://static.case.law/how-pr/11/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2199185
+cites_cases: ["12 Barb. 573"]
+---
+
+# Acome v. American Mineral Co.
+
+## Majority (Hand, J.)
+
+Hand, J.
+The complaint alleges that the “ defendant is an incorporated company, doing business at Moriah,” &c. The demurrer admits the truth of this allegation; and if it did not, it was not necessary for the plaintiffs to set out the act of incorporation. (Stoddard agt. Onondaga Ann. Conf., 12 Barb. 573.) Nor are we to intend, as a matter of law, that this company is a foreign corporation, especially as it is stated that it is doing business within this state.
+It is said, that a corporation, under the general law of 1848,' (Laws of 1848, chap. 40,) should be sued with the addition of the officers, as “ President, directors,” &c. But it does not appear that this company -was formed under that law; and if it was, that act does not prohibit the adoption and use of a corporate name, like that by which the defendants are sued in this case. (§ 2; and see Ang. and A. on Corp. 79, and chap. 18.) We are not to presume, on demurrer, that this is a wrong name.
+The complaint does not allege that the goods and chattels _ were sold and delivered at the special instance and request of the defendant; and one ground of demurrer is, that it does not state facts sufficient to constitute a cause of action. But when the sale is stated to have been made directly to, the defendant, the words “ sold and delivered ” -would seem to imply a contract between the parties. (See Emery agt. Fell, 2 T. R. 28 ; Buller, J.; Brown agt. Garnier, 6 Taunt. 389; 2 Chit. Pl. 55, n. o.; 1 M. & Gr. 266, n. b.; Berry Lernaindes, 1 Bing. 338; 1 Saund. R. 264, a. n. a.; Allen agt. Patterson, 3 Seld. 479.) And if so, it can hardly be necessary to allege that the goods were sold and delivered at the request of the defendant. (Id.) P
+I am aware that this has been doubted; and in some editions Mr. Chitty adds, “sed qucere. (2 Chit. Pl. 55, n.o., 5th Am. ed.; Dumford. agt. Messiter, 5 M. & Sel. 446.) And there was a request by the defendant in Allen agt. Patterson, (3 Seld. 476.) But where there is a contract for the sale and delivery of goods to the defendant, into which both parties, of course, must have voluntarily entered, and which has been so far executed that the defendant has received the goods, it is not very apparent how it can be necessary to allege that such contract was made at the request of the defendant. I am inclined to think such allegation is not necessary in a count for goods sold and delivered ; though it may be prudent to insert it.
+But the objection that several causes of action have been improperly united in one count, seems to be well taken. (Code, §§ 144, 167; Benedict agt. Seymour, 6 Howard’s Pr. R. 298.) There is at'least too much doubt to grant this motion. The common counts may, in fact, be contained in one count, by stating that the defendant -was indebted in a sum large enough to cover all the sums the plaintiff claims to recover; if it be further alleged that, in consideration of such indebtedness, the defendant promised to pay such sum. All may be put into one count, though there be distinct and different considerations, if the indebtedness in one sum, and one promise, be alleged. (Bailey agt. Freeman, 4 John. R. 280; Nelson agt. Swan, 13 id. 483; Rooke agt. Rooke, Cr. Jac. 245; Morse agt. Morse, 11 M. & W. 831; 2 Saund. R. 122, c. n. 2 & b.; 1 Chit. Pl. 301.)
+In the case now under consideration, the pleader intended there should be but one count, and that sets out the sale and delivery of so much wood on the first of March, 1855, at a fixed price, and amounting to a fixed sum; and also the sale and delivery of so many pieces of lumber on the 28th of August, 1854, at a fixed price and sum; and interest is claimed on one, and on part of the other of said sums, from different dates; and there is a further allegation that, “ on account of said goods and chattels, the defendant is, and remains, indebted ” in a'sum consideraba less than the aggregate amount. But no promise to pay that or any other sum is stated. There was not in Allen agt. Patterson, supra; but' in that case there was but one sale and delivery.
+Here the whole claim, it is true, is for goods and chattels sold and delivered; but there were two contracts of sale; and each transaction—as to consideration, time, quantity, price, sum of the price and interest thereon—is stated separately, but yet in one count, (Jourdain agt. Johnson, 2 Cr. M. & R. 564;) Galway agt. Rose, (6 M. & W. 291,) goes a great way; but in that case, and also in Bailey agt. Freeman, and Moss agt. James, .above cited, and in Webber agt. Twill, (2 Saund. R. 121, a,) there was a promise to pay; and no doubt there was in Nelson agt. Swan, (supra. And see 2 Saund. R. 121, c note 2 & b.) No promise was alleged in Allen agt. Patterson, but this point did not arise.
+At any rate, if there should be no amendment of the complaint, this question had better be disposed of by a direct adjudication upon the demurrer; which is a much better way of trying the validity of pleadings, where there is any room for doubt, than by an application to a judge for judgment because of frivolousness. It should be a strong case to authorize an interference in this summary manner. (Van Santf. Pl. 433; Gra. Pr. 759 ; 1 Whitt. Pr. 468.)
+Motion denied.
