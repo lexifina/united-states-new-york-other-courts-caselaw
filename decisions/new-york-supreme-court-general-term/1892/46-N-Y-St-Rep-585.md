@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-07-02"
+citations: ["46 N.Y. St. Rep. 585"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Claim of Clarence G. Carr, Ex’r, Resp’t, v. The Estate of Susan B. Tompkins, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2083862
+cites_cases: ["12 St. Rep., 419", "46 Hun, 500"]
+---
+
+# Claim of Carr v. Estate of Tompkins
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+We think the order of the surrogate, from which the appeal is taken, should not have been granted.
+The power of the surrogate to open and modify a decree, and of the general term on the appeal from his order in such a case, is conferred by subdivision 6, § 2481 of the Civil Code, as follows:
+“ 6. To open, vacate, modify or set aside, or to enter, as of a former time, a decree or order of his court; or to grant a new trial or a new hearing for fraud, newly discovered evidence, clerical error, or other sufficient cause. The powers conferred by this subdivision must be exercised only in a like case and in the same manner as a court of record and of general jurisdiction exercises the same powers. Upon an appeal from a determination of the surrogate, made upon an application pursuant to this subdivision, the general term of the supreme court has the same power as the surrogate, and his determination must be reviewed as if an original application was made to that term.’ ”
+The petition upon which said order was granted does not set out any facts showing fraud, newly discovered evidence, clerical error, or other sufficient cause to open the decree within the meaning of the above quoted section of the Civil Code. The intent of the attorney on the former accounting is entirely immaterial and he fails to show any knowledge of the intent of the deceased accountant. The only possible ground, if any shown, to open the former decree is a mistake of the deceased and his attorney on a matter of law. The decision of the general term of this district in the Matter of the Estate of Edward O'Neil, deceased, 46 Hun, 500; 12 St. Rep., 419, should be followed and is decisive of this case. It was held in that case that no court of general jurisdiction would permit a decree to be opened unless upon clear and sufficient grounds. That when the party has had his day in court he must show that it was not his fault that he did not improve it before he can get another day in the same matter. Assuming that the petition in this case may be deemed to prove the allegations set out in it, it fails to allege any facts which authorize the opening of the former decree of the surrogate within the above quoted case.
+Again, the petition in this case, such as it was, was squarely denied by the answer, and the surrogate assumed to open the decree without any evidence whatever showing the propriety of such a proceeding.
+We do not consider the question of the delay in making the application to open the decree.
+Order reversed, with ten dollars costs and disbursements, and motion denied, with ten dollars costs.
+Mayham, P. J., Putnam and Herrick, JJ., concur.
