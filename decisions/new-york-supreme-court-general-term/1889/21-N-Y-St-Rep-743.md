@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-01-28"
+citations: ["21 N.Y. St. Rep. 743"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anna F. Churchman, Resp’t, v. Hannah B. Merritt et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0743-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017793
+cites_cases: ["64 N. Y., 120"]
+---
+
+# Churchman v. Merritt
+
+## Majority (Bartlett, J.)
+
+Bartlett, J.
+The avowed purpose of the examination, which has been ordered in this case, is to enable the plaintiff to frame her complaint. That the provisions of the 'Code of Civil Procedure, relating to the examination of parties before trial, authorize a plaintiff to examine a defendant for this purpose was established by the decision in Glenney v. Stedwell, 64 N. Y., 120. But the right of a •plaintiff thus to obtain discovery of facts which he desires to allege in his complaint, is conditioned upon his showing that he has a cause of action against the defendant. Such was the rule in chancery, and such is the rule under the 'Code. It was essential to a bill of discovery, in equity, that "the bill should set forth with reasonable certainty, the nature of the suit which had been brought. Story’s Equity Pleadings, § 321; and under our present system of procedure, if an action is pending, the nature of the action, and "the substance of the judgment demanded must be stated in "the moving affidavit. Code Civ. Pro., § 872, sub. 2.
+In the present case the plaintiff swears that this action “‘has been brought to reform and correct a certain mortgage given by the defendant Hannah B. Merritt to the defendant Edward H. Brown,” as trustee of "the plaintiff, upon certain leasehold premises, No. 131 William street, in the city of New York. There is nothing in the papers to show whether any error or informality in the mortgage, or any omission therefrom, was due to fraud or mutual mistake, or to indicate what the plaintiff claims or supposes the facts to be in regard to the execution and delivery of the instrument. The plaintiff says she has been advised by her counsel that the mortgage is not a sufficient and good security for the $25,000 it purports to secure. She also states on information and belief that her trustee, the defendant Edward H. Brown, was in a precarious condition ■of health before she received the mortgage from him, and that he has since been under restraint for mental ailments; and she denies any knowledge as to how or under what circumstances he was induced to take “such an extraordinary instrument as security for the loan of so large a sum of money.”
+It seems that the defendant George Merritt acted as agent for the defendant Hannah Merritt in making the mortgage, and the plaintiff further says that she is unable to state, whether the present condition of the bond and mortgage is due to a mutual mistake, or whether her trustee labored under a mistake in regard to “ certain facts touching the value of the mortgage in question” which the defendant George fraudulently took advantage of to her prejudice.
+There are no specifications as to these certain facts unless they be found in the criticisms made upon the mortgage Iby the counsel for the appellant. They are:
+First. That the description of premises meagre, and in his judgment defective; secondly, that the mortgage contains no covenant of. any kind requiring any insurance to be kept upon the property; and, thirdly, that there is no covenant on the part of the mortgagor to pay taxes.
+The absence of these covenants renders the mortgage, irt his opinion, a doubtful security. Their omission from the instrument, however, does not of itself warrant any inference of fraud or mistake, nor does the plaintiff undertake to say that they were fraudulently or mistakenly left out From the statements which have been mentioned and. others contained in the moving papers, it would seem that the plaintiff’s real purpose in the examination of the defendant is not to obtain knowledge of facts which will facilitate the statement of a known and ascertained cause-of action, but is rather to find out whether any cause of action whatever really exists in her behalf against these defendants, or any of them.
+Under these circumstances an examination of a defendant before trial is not authorized by the statute. To sanction it would be to permit investigations of the most harassing character and give rise to a practice liable to grave-, abuse.
+Where a suit is brought to reform a written instrument, it is not a sufficient compliance with that provision of the Code which requires that the nature of the action shall be stated as a prerequisite to an order for the examination of a party before trial, merely to state that the purpose of the; action is to reform a deed or mortgage, or other paper, a© the case may be_; but the grounds upon which relief is sought should be indicated with reasonable certainty.
+The affidavits upon which the present application is based seem to us insufficient in this respect, and the order should therefore be reversed, with costs, but without prejudice to another application upon papers setting forth a cause of action.
+Van Brunt, Ch. J., and Daniels, J., concur.
