@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1881-02"
+citations: ["31 N.Y. Sup. Ct. 204"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnard, P. J., and Gilbert, J., concurred.."]
+parties: ["WILLIAM O. JACKSON, Appellant, v. ALBERT DAGGETT, as late Sheriff of Kings county, and WALTER THORN, his Deputy, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/31/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1916575
+cites_cases: ["1 Abb. Ct. App., 210", "1 Hill, 275", "13 N. Y., 322", "13 N. Y., 323", "15 N. Y., 432", "17 N. Y., 466", "19 N. Y., 464", "22 Barb., 110", "25 How., 285", "30 N. Y., 594", "35 N. Y., 403", "38 Barb., 18", "48 Barb., 26", "58 N. Y., 280", "7 Mass., 317", "7 N. Y., 550"]
+---
+
+# Jackson v. Daggett
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+This action is against the defendants as sheriff and deputy sheriff of Kings county, for the recovery of damages for failure to return an execution against property within the time required by law, and for a false return. The plaintiff is the assignee of the cause of action, and at the close of the testimony on this part on the trial, the complaint was dismissed on the ground that the cause of action was not assignable, and the plaintiff could not, therefore, maintain this action. An exception was taken to this ruling, and the first question for examination is thus presented. .
+The ruling seems to have been made on the authority of the case of Zabriskie v. Smith (13 N. Y., 322.) That was an action for the recovery of damages for falsely and fraudulently representing a person as solvent, and in it the Court of Appeals held that the right of action was not assignable. So far as the determination of this question, is concerned, this case is not in harmony with the current of judicial authority. The question was examined on common law principles' and authorities, without any reference to our statutes on the subject which are controlling. In the opinion it is stated the power to assign and to transmit to personal representatives are convertible terms, and under our statute for wrongs done to the property, rights or interests of another for which an action might be maintained against the wrongdoer, such action may be brought by the person injured, or, after his death by his executors or administrators against such wrongdoer, and after his death against his executors or administrators in the same manner and with the like effect in all respects as an action founded on contract. (2 R. S., 447, § 1.) The next section takes out of the operation of this statute, actions for slander, libel, assault and battery, false imprisonment and injuries to the persbn. Now, it is entirely plain that the wrong complained of in Zabriskie v. Smith was an injury to the rights and pecuniary interests of the plaintiff’s assignor. This case was decided in 1855, and,'in Í859 there went to the Court of Appeals, for determination, the case of Haight v. Hayt (19 N. Y., 464), an action against a vendor of land for fraudulent representations as to incumbrances, which had been continued against the executor of the vendor, and the court there held that the right of action survived against the personal representatives, and the judge who prepared the opinion in Zabriskie v. Smith, wrote an opinion in this case in which he said the cause of action was a wrong done to the rights and interests of the plaintiff. This last decision was founded on our statute while the other was not, and the two cases are entirely inharmonious. Besides this, the case of Zabriskie v. Smith has been criticised in Johnston v. Bennett (5 Abb. [N. S.], 331), Fried v. New York Central R. R. (25 How., 285), Wade v. Kalbfleisch (58 N. Y., 280).
+' This examination shows that the case of Zabriskie v. Smith is not authority sufficient to support this nonsuit, and that the principles decided in the case of Haight v. Hayt will sustain the action by the plaintiff. It has been held that an action for neglecting to arrest a debtor on an execution against his person, survives to the personal representatives of the judgment creditor and is therefore assignable (Dininny v. Fay, 38 Barb., 18); that an executor can maintain an action for a false return to final process (Williams Exrs. v. Cary, 4 Mod., 403; S. C., 12 id., 71); and that an action against a sheriff for default of his deputy in not returning an execution, survived to the administrator of the judgment creditor. (Paine v. Ulmer, 7 Mass., 317.)
+Our conclusion is that this action is for a wrong done to the property, rights and interests of the assignor, and that the cause of action would survive alike in favor of the personal representatives of the injured party and against the personal representatives of the wrongdoer under our statute, and is, therefore, the subject of assignment.
+It is claimed on behalf of the defendants that there are other facts in the case to support and justify the nonsuit. This argument is founded on the testimony introduced to show that the defendant in the execution had no property which could have been seized under the execution, and that the plaintiff in the execution had sustained no damage. It will be seen, however, that all these questions were for the jury, and could not. be determined by the court.
+The judgment and order denying a new trial must be reversed, and a new-trial granted, with costs to abide the event.
+Barnard, P. J., and Gilbert, J., concurred..
+Judgment and order denying new trial reversed, and new trial granted, costs to abide event.
