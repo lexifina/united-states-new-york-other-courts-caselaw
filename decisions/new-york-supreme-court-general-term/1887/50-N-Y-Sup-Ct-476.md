@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-02"
+citations: ["50 N.Y. Sup. Ct. 476", "7 N.Y. St. Rep. 110"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barker, Haight and Bradley, JJ., concurred."]
+parties: ["FRANK MOLL, Respondent, v. FRANK X. FOERY and CONRAD KASTNFR, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/50/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4535780
+cites_cases: ["17 N. Y., 173", "50 N. Y., 145"]
+---
+
+# Moll v. Foery
+
+## Majority (Smith, P. J.:)
+
+Smith, P. J.:
+The action was brought to recover for work done in removing the surface earth of a quarry owned by the defendants, and in drawing away certain chips thrown up from the quarry and loose stone found in removing the surface earth. The work was done under a special contract by which the plaintiff agreed to remove the earth from a portion of the defendants’ quarry constituting an area of sixty feet in breadth and one hundred and twenty-five feet in length, for the sum of $200. The plaintiff claimed to have fully performed the contract, but the defendants disputed the claim, and one of the defenses set up by them was that the contract had not been performed. Upon that issue the evidence was conflicting. The testimony on the part of the plaintiff tended to show that he had removed the surface earth from the entire area specified in the contract, while, on the part of the defendants there was evidence tending to show that when the plaintiff quit the work there was a part of said area, from three to five feet in width, that had not been excavated ; that the defendants called the plaintiff’s attention to it and insisted that he should excavate it, and he refused to do so.
+The defendants’ counsel requested the court to charge the jury that they must consider, as a question of fact to be determined by them, whether the contract has been performed by the plaintiff, and that if he has not performed it as agreed, he cannot recover anything under the contract. The court charged in that regard in the following language: “ That if there has been a total failure on the part of the plaintiff to perform the contract, so that he would not have done any work at all, or done it in such a manner as would not have been a benefit to the defendants, he cannot recover. If you find he substantially complied with the terms of the contract, he is entitled to recover for the work done under the contract. The defendants cannot recover any damages by way of counterclaim, because there is no evidence by which you can arrive at a conclusion as to the amount of such counter-claim.” The defendants’ counsel excepted. The defendants’ counsel then asked the court to charge the jury that they must find that the plaintiff has performed his contract as it was made, before he can recover on the contract. The court declined and the defendants’ counsel excepted. The exception taken to the charge was probably unavailing, for the reason that the part of the charge excepted to contained several distinct propositions, some of which were unexceptionable, and the exception taken was general. But the exception taken to the refusal to charge as requested, raises the distinct question whether, in view of the evidence, it was error to refuse to instruct the jury that the plaintiff could not recover under the contract unless they should find that he had performed it as it was made.
+In view of the evidence given on the part of the defendants, tending to show a failure to perform* the contract in full, we think they were entitled to the instruction asked for. By the terms of the contract, performance was to precede payment, and was a condition thereof. There are cases holding that when a contracting party has, in good faith, intended to and has substantially complied with the contract, although there may be slight defects caused by inadvertence or unintentional omissions, he may recover the contract-price, less the damage on account of such defects. (Glacius v. Black, 50 N. Y., 145; Johnson v. De Peyster, id., 666; Phillip v. Gallant, 62 id., 256.) Most of those cases relate to building contracts, but whether or not the rule extends to other contracts as well, the present case is not within it.
+According to the testimony on the part of the defendants, the plaintiff intentionally abandoned the work, leaving the contract unperformed in a substantia] particular. It is like the case supposed by Comstock, J., in Smith v. Brady 17 N. Y., 173, 188). “If A should agree to plough the field of B, consisting of twenty acres, at a given price for the whole service, or at so much per acre, to be paid when the service is done, and, after ploughing nineteen acres, should abandon the contract, he can recover nothing for his work. The owner of the field may enter, sow it with his grain, and reap the harvest, thus enjoying fully the benefits of the part performance. In so doing he waives nothing, because he cannot reasonably do otherwise. He is not obliged to abandon his field in order to be enabled to insist upon the condition of the contract.”
+We think the judgment should be reversed, and a new trial had in the County Court of Monroe, costs to abide event.
+Barker, Haight and Bradley, JJ., concurred.
+Judgment reversed, and new trial ordered in the County Court of Monroe county, costs to abide event.
