@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-12"
+citations: ["81 N.Y. Sup. Ct. 382", "56 N.Y. St. Rep. 421"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayham, P. J., and Herrick, J., concurred."]
+parties: ["William Sylvester, Appellant, v. Thomas B. Wheeler, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/81/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4705547
+---
+
+# Sylvester v. Wheeler
+
+## Majority (PüTNAM, J. :)
+
+PüTNAM, J. :
+As claimed by plaintiff under well-settled principles, a judgment of nonsuit having been granted by the trial court, all contested questions of fact should be deemed established in his favor. Bearing in mind this well-established principle the following facts may be considered as shown by the plaintiff on the trial:
+Plaintiff’s assignor entered into a contract with the defendant, of which the following is a copy:
+“ Rouse’s Point, N. Y., Nov. 11, 1891.
+“ I hereby agree to construct for T. B. Wheeler, of Montreal, a tank of eighteen hundred gallons capacity, of clear stuff, pine, free from sap or knots, two inches thick, six feet three inches square, or more, if necessary, absolutely water tight immediately on being filled, of the very best workmanship, and of sufficient strength to be perfectly secure, with platform complete, at his laboratory, at Rouse’s Point, for the sum of eighty dollars, to be in place thirty davs or before from date.
+“E. G-. SYLVESTER.
+“ Accepted.
+“ T. B. Wheeler.”
+In pursuance of this contract Sylvester, within thirty days, made a tank of the best materials, free from knots and in the best manner, water tight, and in all regards as called for by the terms of the contract. He did a “ very fine job,” and on December eleventh endeavored to set it up in the building mentioned in the contract, but was unable to obtain access to that place. One Bullis, who had charge of the building for defendant, as Sylvester claimed, told bfm that Wheeler would be there the next day, Saturday, December twelfth. He did not come Saturday, and on Monday, the fourteenth, Sylvester telegraphed to him at Montreal that the tank was ready, and received a day or two after an answer stating that he would be at Rouse’s Point on December twenty-first. On December twenty-first he accordingly came. The tank was set up and leaked. There was some evidence that it was merely a slight leakage. It was shown that when completed the tank would not leak, being made of the best materials and in the best manner, and that the leakage was caused by its remaining for ten days in Sylvester’s shop exposed to the heat of the stove. When Sylvester put the tank in defendant’s laboratory lie offered to tighten it up, but the latter would not permit him to do so. Sylvester testified : “ I told him if I did that it would stop the leaking. At that time it leaked just a drop in two or three places. He refused to allow me to tighten it up.”
+The jury, if the case had been submitted to them, could have found from the evidence that, within the time specified by the contract, plaintiff’s assignor had constructed a tank in all regards as required,, of the best materials and in the best manner, and one that would not leak, and had tried, but was finable, to place it in defendant’s laboratory, which was not accessible to him. That defendant had prevented him from placing the tank in his laboratory by locking up the same and remaining away from Rouse’s Point. In other words, that Sylvester had jierformed the contract as to making the tank, and endeavored to perform it as to placing the tank in the laboratory, but was prevented from so doing by defendant’s act. That defendant, after receiving notice of the completion of the tank, delayed seven days before opening his laboratory to allow it to be placed therein. That the ten days’ delay occasioned by defendant’s absence, three days before he received the telegram and seven days afterwards, caused the leakage.
+Under the contract Sylvester was legally bound to construct a tank as specified therein, within thirty days, and put the same in defendant’s premises, and the latter was obligated to receive the tank at the place specified in the contract, and, if made according to the agreement, to pay for it.' The rights of the parties under the contract were not at all affected or changed by the letter written by defendant on November fourteenth. If Sylvester had completed the tank prior to the expiration of thirty days from the date of the contract, it is possible that defendant would have been entitled to notice, so as to have had his laboratory open ; but as Sylvester was only ready to place the tank on the last day mentioned in the writing, we think defendant was not entitled to any notice. The contract was notice to him. He was bound to carry out the covenants in the contract, and to receive the tank where Sylvester covenanted to put it and where he agreed to receive it. He prevented Sylvester from carrying out the contract for ten days and for seven days after actual notice from Sylvester that the tank was ready. It was suggested, by the trial court that from the evidence it may bo deemed that the time to perform the contract was extended ten days by consent of the parties. The evidence, we think, is capable, of another construction. The jury could have properly found that, plaintiff’s assignor was prevented from placing the tank for ten days by the defendant without his consent. It appeared that he could not help himself. lie testified on the trial, “I told Dr. Wheeler the morning he came and received the tank, before it left my shop, I told him it was not fair of him to bind me to make it and leave it there in my shop ten days. Well, said he, I am ready to. take it now.”
+On the whole, we think, there was a fair question of fact in the case that should have been submitted to the jury. The jury on the evidence given could have properly found that plaintiff’s assignor performed the work on liis part as to making the tank according to the covenants of the contract, and was prevented from placing it for ten days, and that this delay, occasioned by defendant, caused a slight leak. In other words, that plaintiff’s assignor performed the contract in every regard except as prevented by defendant, and hence-that plaintiff was entitled to recover the contract price of the tank.
+The judgment should be reversed, new trial granted, costs to, abide the event.
+Mayham, P. J., and Herrick, J., concurred.
+Judgment reversed and a new trial granted, costs to abide the event.
