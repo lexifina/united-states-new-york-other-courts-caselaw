@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-01"
+citations: ["70 N.Y. Sup. Ct. 6"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P J., and Macomber, J., concurred."]
+parties: ["AMY C. PALMER, Appellant, v. ELEAZER GREEN, Jr., and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/70/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4645494
+cites_cases: ["3 Barb. Ch., 477"]
+---
+
+# Palmer v. Green
+
+## Majority (Lewis, J.:)
+
+Lewis, J.:
+The plaintiff’s complaint is quite voluminous, but its material allegations are very brief; they áre as follows:
+Mrs. Sylvina Green died in the county of Chautauqua intestate in or about the month of March, 1888, leaving her surviving, as. her only children and lieirs-at-law, the plaintiff and the defendants, Eleazer Green, Jr., and Broughton W. Green; the defendant Mary Green being the wife of Eleazer, Jr. That, previous to and at the time of Sylvina’s death, the defendant Eleazer had in his possession a large amount of money and personal property belonging to liis mother Sylvina. That he had not made any distribution of the said estate in his hands, and that the plaintiff, as the next of kin of her mother, claims to be entitled to a distributive share of said estate, and that Eleazer had refused to pay it to plaintiff.
+There are allegations in the complaint concerning the acts and conduct of the other defendants, but it is not necessary to state them, for if the plaintiff’s complaint fails to state a cause of action against Eleazer, it will not be claimed that it states a case against the other defendants.
+The allegations of the complaint, that the defendant Eleazer was the executor of his father’s estate; that he accounted as such in the Surrogate’s Court; that his accounts were settled and that he was, by decree, discharged as such executor, are not material.
+The defendants’ answers put in issue all the material allegations of the complaint. The plaintiff’s counsel, in opening his caseto the referee, stated that he claimed to recover a money judgment only against the defendants for the distributive share of plaintiff in the personal estate of her mother Sylvina Green, deceased, which he claimed was in the possession of the defendants, and further stated that such was the construction he claimed should be given to the plaintiff’s complaint.
+The referee thereupon, upon motion of the counsel for the defendants, dismissed the plaintiff’s complaint, without costs. The defendants were not liable to account to the plaintiff as one of the next of kin of the mother.
+The proper course for the plaintiff to have taken was to procure the appointment of an administrator of her mother’s estate. The administrator could then institute an action against the defendants to recover the entire property in their hands belonging to the estate, and then a proper distribution thereof would be made pursuant to the provisions of law in such cases. (Muir v. The Trustees, etc., 3 Barb. Ch., 477; Dayton on Surrogates, 211.)
+Had plaintiff succeeded in her action and obtained her alleged share of the estate, she would be obliged to account to an administrator,' when one should be appointed, for the money received.
+The judgment appealed from should be affirmed, with costs.
+Dwight, P J., and Macomber, J., concurred.
+Judgment appealed from affirmed, with costs.
