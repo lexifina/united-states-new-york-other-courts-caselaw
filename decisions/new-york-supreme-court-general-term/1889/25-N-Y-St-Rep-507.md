@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1889-06-28"
-citations: ["25 N.Y. St. Rep. 507", "2 Silv. Sup. 521", "25 N.Y. St. Rep. 506", "2 Silv. Sup. 519"]
+citations: ["25 N.Y. St. Rep. 507", "2 Silv. Sup. 521"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
