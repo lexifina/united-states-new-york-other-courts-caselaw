@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1811-02"
+citations: ["7 Johns. 426"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reed against Pruyn & Staats."]
+source_url: "https://static.case.law/johns/7/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 369299
+---
+
+# Reed v. Pruyn & Staats
+
+## Majority (• Kent, Gh. J.)
+
+• Kent, Gh. J.
+delivered the opinion of the court. The execution, against which the defendant Staats prays to be relieved, ought to be considered as satisfied and discharged. The deputy sheriff who had the execution, instead of executing it according to law, discharged it himself out of his own money, on taking a note drawn by one defendant, and endorsed by the other, payable at the bank of Hudson in 55 days. This he did as early as November, 1808, and gáve the defendants under his own hand an acknowledgment of having received the full amount of the execution. The note not being "paid, and having neglected to fix the endorsor by the requisite notice, the deputy sheriff now proceeds to indemnify himself, by putting the execution in force, which had slept quietly for two years. Such, management of the process of execution, by the officer, is not to be permitted. It is liable to infinite abuse and oppression. The law has long since, and v.ery wisely, guarded against such application of its process. In Waller v. Weedale, (Noy, 107.) it was laid down by the C. B. that the sheriff on ji.fa. cannot detain the goods taken upon an execution in his own hands, and satisfy, the debt of his own proper money, for “ a grand inconvenience would ensue, if the sheriff himself might detain them.” This case received strength and credit in Langdon v. Wallis, (1 Lutw. 589.) when it was cited as good law by such counsel as Serjeants Wright and Lutroyche. It was there observed, that the law requires of sheriffs a strict execution and observance of writs, as their authority was to sell the goods, and the doctrine appeared to be approved by the decision of the court.
+It was once moved as a question by Lord Hobart, in Speake v. Richards, (Hob. 206.) whether, if the sheriff on execution pay the plaintiff with his own money, he might afterwards levy the money of the defendant. But this point, if not essentially involved in the decision in Noy, seems to be embraced by the decision in the K. B. jn Ward v. Hauchel, where it was agreed by the court, that if the sheriff takes a bond from the party, on fi. fa., it was pleadable in bar of a new execution, and the court referred to a case in which such a plea had been adjudged good. (1 Keb. 551.) This authority clearly applies to the present case. The sheriff must look to his note; and it would be oppressive to allow him to keep an execution alive over the party, after having formally paid it himself, arid accepted of a note as his 'own security.
+The practice of sheriffs of paying executions themselves, and taking security and judgment bonds from the party over whom they have at the time such means of coercion, is to be strictly and vigilantly watched by the courts. Such humanity is imposing, but it may be turned into cruelty. Nothing is more important to the honour of the administration of justice, than that the officers of the court should not use its process as the means of making unequal bargains, and taking undue advantage. The facts in this case have the appearance of an instance of gross abuse. The whole debt, costs, and poundage, that the defendant Staats was originally bound to pay on the ca sa. issued in favour of the plaintiff in October, could not exceed 445 • dollars. He gave a judgment bond with surety for the amount of that execution, and immediately another execution issued against him and the surety for 494 dollars and 37 cents ;' whereas the costs of entering up the judgment bond could not have been more than lti dollars. On this second execution he gave a note for 560 dollars. Here is, then, by this management of taking a judgment bond to meet the first execution, and of taking a note to meet the* second execution, an accumulation of debt to more than 100 dollars beyond any estimate that I can possibly make of legal charges; an4 this enormous extra accumulation of charge upon this oppressed defendant, accrued within the short space of ten days. Such conduct is not to be sanctioned or endured.
+I am happy, therefore, that Van Slyck, the deputy sheriff, will be driven to seek his remedy upon the note, when the legality of this increase of the original debt, will be open to further investigation.
+The court are of opinion that this motion to set aside , the execution be granted, with costs, to be paid by Henry. Van Slyck the deputy sheriff.
+Motion granted.
