@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-09-14"
+citations: ["47 N.Y. St. Rep. 506"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Smith A. Skinner, Resp’t, v. The Walter A. Wood Mowing & Reaping Machine Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/47/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2086956
+cites_cases: ["112 N. Y., 22", "13 Hun, 89", "14 Wend., 257", "20 N. Y., 423", "20 St. Rep., 962", "66 N. Y., 207", "66 Pa., 354"]
+---
+
+# Skinner v. Walter A. Wood Mowing & Reaping Machine Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+—Defendant insists that the contract under which plaintiff claims was single, and its breach constitutes but a single cause of action, and plaintiff having in a former action chosen to sue for and recover what he now claims was only part of his damage, cannot recover the balance. _ °
+We are of the opinion that the learned referee has reached the correct conclusion as to this position of the defendant’s, and referring to his opinion in that regard, deem it unnecessary to further discuss the matter. 2 Parsons Cont., 29-31; Lucesco Oil Co. v. Brewer, 66 Pa., 354; Sickels v. Pattison, 14 Wend., 257; Per Lee v. Beebe, 13 Hun, 89; Tipton v. Feitner, 20 N. Y., 423.
+Defendant also claims that plaintiff’s patent being in fact void, after the notices claimed to have been given in October, 1880, and June, 1882, all liability to pay for the use of plaintiff’s patent ceased. It concedes that the invalidity of plaintiff’s patent alone is no defense to the action as to defendant as licensee, Marston v. Swett and others, 66 N. Y., 207; 82 id., 526, but it insists that at the time mentioned notice was given to plaintiff that it would pay no more under the contract, and that the invalidity of the patent after such notice should prevent a recovery. The referee held that no notice was given by defendant to plaintiff sufficient to terminate the contract. We coincide with his views, and again, referring to his opinion in that regard, will not discuss the matter, except to make a single suggestion.
+We are unable to see that any valid action was taken by defendant with a view of terminating the contract with plaintiff, or giving him notice of such termination. The defendant could only act through its trustees. Beveridge v. N. Y. E. R. R. Co., 112 N. Y., 22; 20 St. Rep., 962.
+It does not appear that the trustees ever met, acted or voted in • the matter. It is not shown that the auditing board had any authority to cancel or annul the contract made by the corporation, or to serve any notice upon the plaintiff; and if such board had this power, it does not appear that it attempted to exercise it. Mo vote was taken, nor any action, except an expression of opinion by the individual members of the board. The evidence, we think, sustains the finding of the referee. The first action was commenced in July, 1883. The alleged notices were given by defendant in October, 1880, and June, 1882. Therefore, although, if in fact any proper and authorized notices were given to plaintiff by defendant, it had a complete defense to any action of the plaintiff since October, 1880, no such defense was asserted in its answer, or claimed on the trial in the first action. This failure on the part of the defendant to claim such a defense in the pleadings or on the trial of the first action is virtually an admission that no such defense existed, and tends to show that the conclusion of the learned referee was correct.
+The judgment in the first action necessarily determined that plaintiffs license to defendant continued until September 1st, 1884, two years after the alleged notices, and this fact was not controverted by defendant in the pleadings or on the trial.
+It follows that as the former judgment does not prevent the plaintiff from recovering for the use of his patent since September 1st, 1884. and the invalidity of the patent alone is no defense to the action, and no sufficient notice was given by defendant to plaintiff that it would pay no more under the contract or license, that the plaintiff is entitled to judgment in the action. It is not, then, necessary to consider also the position taken by the learned referee that the former judgment was a bar to the defence asserted by defendant based upon the invalidity of the plaintiff’s patent, and the notice to him alleged to have been given by defendant.
+Judgment should be affirmed, with costs.
+Mayham, P. J., Herrick and Putnam, JJ., concur.
