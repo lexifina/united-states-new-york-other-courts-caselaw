@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1853"
+citations: ["8 How. Pr. 428"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hall & Hall, Ex’rs, &c., agt. Taylor, Committee of Tolbert."]
+source_url: "https://static.case.law/how-pr/8/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2194430
+cites_cases: ["19 Wend. 649", "4 Denio, 262"]
+---
+
+# Hall v. Taylor
+
+## Majority (Johnson, Justice.)
+
+Johnson, Justice.
+The proper course to be pursued to recover a debt from an habitual drunkard after the appointment of a committee, is to apply to the court which appointed the committee, and which alone has the care and custody of the person and estate of the habitual drunkard, for payment out of the estate. After the appointment of the committee the estate of the drunkard is vested in the court, and no creditor can take it upon any process, to satisfy any judgment. In the matter of Heller, (3 Paige, 199.) In the matter of Hopper, (5 Paige, 489.)
+The committee is the mere officer of the court, and acts under its direction in the disposition of property, and applying the proceeds to the payment of debts. I do not see upon what principal a creditor can maintain an action against a committee of such a person, in the nature of a legal action, to recover a judgment upon a debt or demand against the habitual drunkard. Such an action must be founded upon a promise express or implied, or some legal liability to pay. It results in a judgment merely, payment of which is to be enforced by issuing an execution and seizing and selling property.
+This mode of satisfying a demand against a person or estate thus situated, as we have seen, cannot be resorted to. The action at law, even if it can be maintained, therefore, against the committee, for the purpose of obtaining a judgment, is worse than useless, and ought not to be encouraged. Formerly, when the Court of Chancery had the exclusive care and custody of the person and estate of the habitual drunkard, suits could be instituted by bill in equity, against the habitual drunkard and his committee jointly. And in one case it was held that the bill might be filed against the committee alone, without making the lunatic a party. Ex’rs of Brosher agt. Van Cortlandt, (2 John Ch. 240.) The proceeding by bill in equity would seem more appropriate, because the court having the care and custody of the estate, could decree its payment in whole or in distributive proportions, according to the principles of equity, and direct its officer, the Committee, to pay from the estate accordingly.
+It is more analagous to a proceeding by petition, where the court directs or refuses payment by order instead of a decree. The only objection to an action in the nature of a suit in equity, is its unnecessary expense. But the proceeding by action, where a judgment only is demanded, is not at all adapted to a case where the debtor and the property sought to be reached are both in the care and custody of the court.
+Formerly the drunkard could be sued at law notwithstanding the appointment of a committee; but when the creditor had obtained his judgment he was compelled to stop, and could proceed no further upon it. Clark agt. Dunham, (4 Denio, 262;) Robertson agt. Lain, (19 Wend. 649.) I am not aware that an action at law was ever sought to be maintained against a committee, and am of the opinion, that an action, where the plaintiff merely demands a judgment for the amount of his demand against the committee, cannot be maintained, and ought not to be tolerated. The Supreme Court has now the care and custody of such persons and their estates, the same as the Court of Chancery had formerly, and has power to direct how parties shall proceed upon coming into it for redress.
+The proceeding by petition is simple, expeditious, and comparatively inexpensive, and should always be adopted, unless it is shown that a trial is necessary in order to settle some disputed question or right, which cannot be properly determined and adjusted on a reference, to ascertain the amount due, in a proceeding by petition. In such a case, I think, an order, upon cause shown, should be obtained, authorizing the bringing of an action in the nature of a suit in equity, before such action should be permitted against either the committee or the lunatic or the habitual drunkard. Here the demand is already in judgment, and no action is necessary in order to determine the amount’-due. If, however, I am wrong in holding that no action like this can be maintained against the committee of such a person, it is clear that no cause of action is alleged in the complaint against the defendant. It does not allege or show by what court or authority Tolbert, the debtor, was declared an habitual drunkard, and the custody of his person and estate awarded to the defendant. It is not alleged to have been done upon any proceeding before any court, and for aught that appears, the whole proceeding was a nullity.
+The complaint should at least show a regular and valid proceeding and appointment. The defendant is therefore entitled to judgment upon the demurrer.
