@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1888-05"
+citations: ["55 N.Y. Sup. Ct. 500"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Daniels, J., concurred."]
+parties: ["EDWARD S. JAFFRAY and Others, Respondents, v. SIEGFRIED DAVIS and SAMUEL GOLDSTONE, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/55/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4553196
+cites_cases: ["33 N. Y., 648"]
+---
+
+# Jaffray v. Davis
+
+## Majority (Brady, J.:)
+
+Brady, J.:
+The defendants gave three promissory notes to the plaintiffs for one half of the debt due them, which were accepted in full payment of the claim. They were secured by a mortgage on personal property of the defendants, executed by them, but which was not under seal. The rule established by Cumber v. Wayne (1 Strange, 426), and in PinnelVs Case (5 Coke, 117), which has been the subject of numberless controversies, has been evaded by slight pretext as one obnoxious to common sense by the courts -in England and in this country. In Foakes v. Beer (9 App. Cases [Eng. Rep.], 605), two of the noble lords who wrote opinions thought it would have been wiser and better if the resolution in Pi/rmelVs Case had not been adopted, but thought the rule too old to be departed from. This view, while it displays devotion to ancient error, proclaims that the law is not a progressive science, and that once a rule always a rule is still a .governing principle. We have not yet engrafted this mode of perpetrating wrong upon our system, and it is to be hoped we never will. In the same case, but in an earlier stage of it (Beer v. Foakes, 11 Q. B. D., p. 221), it was said of the rule by Justice Watkin Williams : “ Judges had long tried to escape from the doctrine which was a reproach to English law,” and this rested no doubt upon this absurdity, namely, that a larger could not be paid by a smaller sum, a figurative form of expression, shown to be so, for the-reason that if the sum accepted in full payment were given in the form of a note made or indorsed by another, or were represented by a chattel other than mongy, and of less value, it would bind the creditor.
+In the case of Bidder v. Bridges (reported April 2, 1888, 37 L. R. Ch. Div., 406), a check given by the plaintiff’s solicitor for costs due from the former for less than the sum, and accepted in full, was held to be an absolute payment, discharging the whole debt. (dumber v. Wa/gne and PimielVs Case, and others kindred, were-considered therein, and, indeed, the most recent of cases on the subject. It does not need a high order of intellectual strength to understand the utter impossibility of reconciling, in a spirit of justice, the recognition of a prejudicial difference between money and a chattel, leveled against the former, where the latter .has the lesser value. The rule was, in fact, the result of a mathematical turn of mind in a judicial officer, who, by force of habit or education, was-in close -sympathy with the subtleties of special pleading and its exquisite refinements, and exulted in them, in the application of which rights were often obliterated and solemn compacts spurned for errors of form only. In modern days it was thought by some, that from more enlightenment, the stride of intelligence and a. broader appreciation of right and duty, the rule would be rejected for its absurd conflict with the other and recognized mode of accomplishing the desired result as suggested, but it has not been.
+Unhappily for the defendant herein, the point presented on his behalf was considered in Platts v. Walrath (Lalor’s Sup. 59), and passed upon adversely to his defense, and that decision is quoted with approbation and reaffirmed in Keeler v. Salisbury (33 N. Y., 648), where it was declared that a mortgage given by the debtor upon his own estate, to secure the payment of the lesser sum agreed upon, for full payment, would not take it out of the rule. If the security had been given outright, it was conceded that the accord and satisfaction would' be complete, thus preserving and reasserting the difference between money and chattels, and reproclaiming the antique .antagonism. As long as that case stands the debtor obtains nothing by his settlement, even when he does what he would not be obliged to do, except as a part of the settlement, and the creditor may, with, perfect nonchalance, repudiate his agreement solemnly, and, therefore, understandingly, made.- If the defendant gave his notes, indorsed by another, or any form of security, involving another, the settlement would have been complete and binding. The suggestion of a new consideration would have made it so. It may be that this question will sometime receive further consideration in our court of last resort and with different results.
+At present the law requires us to sustain the rule promulgated in the old cases referred to. For these reasons, without pursuing the subject further, it is apparent the judgment must be affirmed, with costs.
+Yan Brunt, P. J., and Daniels, J., concurred.
+Judgment affirmed, with costs.
