@@ -1,0 +1,31 @@
+---
+court: "New York Surrogate's Court"
+decided: "1890-10-16"
+citations: ["33 N.Y. St. Rep. 584"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the judicial settlement of the Estate of William L. F. Warren, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/33/cases/0584-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2043100
+cites_cases: ["56 N. Y., 553"]
+---
+
+# In re the Judicial Settlement of the Estate of Warren
+
+## Majority (Coleman, S.)
+
+Coleman, S.
+The testator, William L. F. Warren, died in November, 1879. At the organization of the Newburgh National Bank in 1864, he subscribed for and became the owner of fifty shares of the capital stock, for 'which he paid $5,000, its par value. At the time of his death he was still the owner of this stock, and the executor and trustee under his will retained the same until June 15, 1890, when the capital stock of the bank was reduced one-half. On the 27th of January, 1890, the directors passed the following resolution :
+“ Resolved, that in the opinion of the members of this board it is expedient and they recommend, that the capital stock of this bank be reduced from $800,000 to $400,000, by returning to the stockholders $400,000 of the capital with a premium of 40 per cent payable out of the surplus profits.”
+And on June 9, 1890, they also passed the following:
+“ Resolved, that the cashier be and he is hereby authorized and directed to transfer $80,000 from the account of surplus fund and place the same to the credit of ‘ profit and loss.’
+“ Resolved, that a dividend of forty per cent (40 per cent) on the one-half of the capital stock of $800,000 to be returned to the shareholders be declared and payable to the shareholders on and after June 16, 1890.”
+Shortly after the executor surrendered to the bank the certificate for the fifty shares of stock, and received from the bank a new certificate for twenty shares and $3,500 in cash. Regular semiannual dividends have been declared and paid by the bank up to and since the reduction of the capital stock. Upon the hearing the president of the bank testified that the 40 per cent, was paid from the accumulated earnings of the bank.
+The will of the deceased contains the following clause: “ I also give and bequeath to my said wife the use, interest and income, during the term of her natural life, of all the rest and residue of my personal property and estate,” with remainder over as to the principal.
+The executor still retains $1,000 of the money paid him by the bank, being the forty per cent, dividend, and on the settlement it is claimed on behalf of the widow that it should be paid to her as income, derived from the $2,500 of capital returned, and to this the remainderman objects and claims that it should be considered capital.
+To whom the $1,000 belongs, whether to the life tenant or' to the remainderman, must be determined by the construction to be given to the clause in the will quoted. I think it may properly be inferred that the testator supposed that after his death the bank stock would form a part of his estate; and it is also properly assumed that he knew when he provided that his widow shoulcl receive the income from his estate, she would not have aiiy right in or to the earnings of the bank until a dividend was declared, though the bank might earn thousands and might defer dividing for years. But that whenever a dividend was declared, such dividend became at once income to the estate, whether it was paid from earnings made by the bank since the death of the testator or before that time. Hyatt v. Allen, 56 N. Y., 553 ; Matter of Kernochan, 104 id., 618; 6 N. Y. State Rep., 439. I therefore conclude that the true construction of this clause in the will gives to the widow as income of the estate any dividend of earnings properly declared by the bank upon stock belonging to his estate.
+This payment of forty per cent, on that part of the capital of the bank which was retired was however an unusual and extraordinary dividend, and there may be a doubt whether it is to be .considered as a dividend of earnings to the shareholders, or whether it should not be considered a payment back to the shareholders of capital.
+The bank in one resolution proposes “ to return ” to the shareholders $400,000 "with a premium of forty per cent, payable out of the surplus and profits.” And again it is resolved “that a dividend of forty per cent ” on the capital to be returned “ be declared and payable to the shareholders.” The bank by its action could have capitalized its surplus earnings, or it could have divided its earnings among the shareholders in the form of dividends. It had the power to do either, and whether its action was one or the other determines whether the $1,000 was a part of the capital or income from the capit&l. Until the proceedings were taken by the bank, the surplus earnings belonged only to the bank. By its proceedings the shareholders acquired a ¡right to so much of the surplus as the bank determined to part with. Did the bank give up this part of its surplus as capital or as earnings? I conclude that it was as earnings. It was determined by the bank to return to the shareholders a portion of the capital they had in the bank, with a “premium” or “ dividend ” or whatever you may choose to call it, but whatever it was, it was- payable from the “surplus and profits,” and the amount was directed to be taken from the “ account of surplus funds." It was recorded in the books of the bank as a dividend and paid out as such.
+I am of opinion that the widow is entitled to this sum of $1,000 as income derived from the bank stock.
