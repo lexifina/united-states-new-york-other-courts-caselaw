@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1857-04"
+citations: ["15 How. Pr. 41"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Bank of Kinderhook agt. John Jenison. Andrew Barhight agt. The Same. Jared Best agt. The Same."]
+source_url: "https://static.case.law/how-pr/15/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2204449
+cites_cases: ["12 How. 141", "12 How. 410"]
+---
+
+# Bank of Kinderhook v. Jenison
+
+## Majority (Harris, Justice.)
+
+Harris, Justice.
+To authorize a judgment by confession to be entered, a verified statement showing the origin of the indebtedness, is necessary. In this case, I do not think the facts are sufficiently stated. Seven notes are mentioned; their dates and amounts are specified, and it is stated that they had been discounted by the bank, and that at the time of making the statement, the bank was the owner of these notes. The aggregate amount of the notes exceeds by several hundred dollars the amount of the confession. But it does not appear what connection the defendant has with these notes. It is not stated that he is either maker or indorser of the notes, or, indeed, that he is in any way liable for their payment. It was not enough for the defendant to state that the notes had been discounted by the bank, and that they were still owned by it. He should have shown how he became liable for their payment, or, in the language of the statute, “ the facts out of which his indebtedness arose.” Enough should have been stated to enable those who might be affected by the judgment to see how the defendant had become indebted, and that the sum for which the judgment was confessed, was justly due from the defendant to the plaintiff. These are requisites which cannot be dispensed with, without defeating the object for which the statement is required.
+I am- not disposed to insist upon a construction of this statute which shall have the effect to prevent its practical use as a convenient and safe mode of entering judgment by consent. Some of the reported decisions, in my judgment, have this tendency.
+In Stebbins agt. The East Society of the Methodist Episcopal Church of Rochester, (12 How. 410,) it was stated that the plaintiff had lent and advanced money to the defendant to the amount for which the judgment was confessed. The object for which the money had been borrowed by the defendant was stated. It was further 'Stated that the money thus borrowed had been used for the purpose of paying, the debts of the defendant, and that no part of it had been repaid to the plaintiff. It was held, that it should further have appeared from the statement whether the money had been lent or advanced at one or several times, and when and in what sums. The court went still further, and held that it should have been stated to whom, the defendant owed the debt, for the payment of which the money was borrowed, and how the defendant became so indebted. In that decision I could not have concurred. The statement showed that the defendant was indebted for money lent and advanced. This I should have regarded as a sufficient compliance with the requirement that the origin of the indebtedness should appear. It also showed that no part of the money so lent and advanced had been repaid. This I should have regarded as a sufficient compliance with the requirement that it must be shown that the sum confessed is justly due.
+So, in Hoppock agt. Donaldson, (12 How. 141,) the origin of the indebtedness was stated to be for goods and merchandise previously delivered to the defendant. The statement was loose and carelessly framed. I am not surprised that it should have been held to be fatally defective, and yet I should have been inclined to regard it as as a substantial compliance with the statute.
+But, in the case under consideration, although it sufficiently appears from the affidavits read upon the hearing, that the notes specified in the statement were the notes of the defendant, and were discounted by the bank for him, I am constrained to hold the statement to be entirely insufficient in this respect. The most that can be said of it is, that it shows that the notes specified had been discounted by the bank for some one, and by implication, perhaps, that in some way, the defendant is liable for their payment; but whether as principal debtor or surety, or whether he originally became liable, or has become liable by some arrangement subsequent to the discount, could never be discovered by anything contained in the statement. The judgment, therefore, must be set aside, and the proceeds of the sale applied upon the other executions. I think, too, the plaintiffs in the other judgments are entitled to the costs of this motion.
