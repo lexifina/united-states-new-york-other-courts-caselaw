@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court"
+decided: "1853-04"
+citations: ["8 How. Pr. 168"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hyatt agt. Burr."]
+source_url: "https://static.case.law/how-pr/8/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2194450
+---
+
+# Hyatt v. Burr
+
+## Majority (Roosevelt, Justice.)
+
+Roosevelt, Justice.
+The preliminary question presented in this case is one of great interest to occupants and owners of dwellings, especially in a city where “ moving,” as it is termed, is of such frequent occurrence, and the time of its advent so near at hand.
+One tenant, at the alleged expiration of his term, refuses to deliver possession to the succeeding tenant, whose family or business is thereby ruinously deranged. To meet the pressing evil the law has provided a summary remedy. The landlord applies for it—an immediate hearing is had before the Justice’s Court, the tribunal designated for the purpose; that tribunal decides that the case is one .of wrongful holding over and issues its warrant of dispossession in favor of the landlord, nominally, but really in favor of the new tenant. The whole proceeding, thus far, is simple, prompt and seemingly efficient. Errors however may be committed by the magistrate, and the law accordingly provides (2 R. S. 516) that “ the Supreme Court may award a certiorari for the purpose of examining any adjudication made on any such application.” To prevent, however, the main purpose of the law, a prompt change of possession, from being defeated, the decision of the magistrate, although impugned, is presumed in the first instance to be right and must be executed accordingly; it being expressly declared (§47) while allowing a review, that the proceedings to dispossess, “ shall not be stayed or suspended, by such writ of certiorari, or any other writ or order of any court or officer”
+These words, if still, in force, it is conceded are broad enough to prohibit the issuing of an injunction. Have they been repealed by the new Code?
+Section 471 of that act declares, among other things, that th<> changes therein made “ shall not affect any special statutory remedy not theretofore obtained by action,” “ nor any proceedings provided for by chapter 8 of the 3d part of the Revised Statutes, excluding the 2d and 12th titles.”
+Now, in the first place, the summary proceeding before the magistrate is “ a special statutory remedy;” and in the second place, it is “ a proceeding provided for in title 10 of chapter 8 of the said 3d part of the Revised Statutes.
+It would seem, therefore, most explicitly exempted from the operation of the Code.
+The section which has just been cited contains, however (and this is the plaintiff’s only reliance), an exception, declaring that “ where any particular- provision of the titles and chapters enumerated in this section shall be plainly inconsistent with this act (the Code), such provision shall be deemed repealed;” and it is contended that the provision prohibiting any stay of the summary proceedings in the case of tenants is plainly inconsistent with that clause of the Code (§219) which declares that “ where it shall appear by the complaint that the plaintiff is entitled to the relief demanded, and such relief, or any part thereof, consists in restraining the commission or continuance of some act, the'commission or continuance of which during the litigation would produce injury to the plaintiff, &c., á temporary injunction may be granted to restrain such act.”
+• Is there any very palpable inconsistency in saying that injurious acts generally may be stayed by injunction,"but that a particular proceeding, to wit, the dispossession of a tenant holding over in spite of the deliberate judgment of a magistrate, after full hearing (although it may be reviewed), shall not in the meanwhile be stayed by any “ writ or order of any court or officer?” Suppose the legislature should provide that no divorce on the ground of adultery should be granted after condonation, and by a subseauent statute should declare that divorces may be granted in cases of adultery and cruel treatment, would this be a repeal of the previous inhibition?”
+Again; can this court, sitting even with all the powers of a Court of Chancery, say that the prompt execution of a regular judgment, although of a subordinate tribunal, would produce injury to a party, when the legislature has not only authorized such execution, but has expressly declared that it shall not be interfered with .collaterally by any court or officer? Or be suspended‘even by regular process of review?
+•The case presented to the legislature was virtually that of two houseless tenants, demanding possession at the same time of the same premises. . To determine the immediate and temporary, but not the final right, a summary hearing was provided. The magistrate decides that A, making out a better case than B, shall enter. It may be very inconvenient to B to submit even temporarily to the magistrate’s.decision, and the decision may even be wrong; but the legislature in the exercise of a sound discretion, declared that it was a less evil to act, provisionally at" least, upon the presumption that A, who had the magistrate’s decision in his favor, was right, than that B was right, who had the same decision against him.
+How then, I repeat, can an act thus legislatively authorized and legislatively guarded, be judicially deemed an “ injury?” How can this court pronounce an act injurious when the legislature has declared it beneficial? (a)
+(a) I have consulted on this subject with two of my colleagues with the view of establishing a uniformity of practice on a point so important to the community as well as the profession — and they concur with me in saying that by the true construction of the Code an injunction can not be granted to stay or suspend proceedings under the statute for recovering summary possession of houses or lands.
