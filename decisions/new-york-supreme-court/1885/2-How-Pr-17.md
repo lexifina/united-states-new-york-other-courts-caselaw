@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1885-01"
+citations: ["2 How. Pr. 17"]
+reporter: "how-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Cordelia Ray agt. John Davenport, as auditor, and Lawrence D. Kiernan, as clerk to Board of Education."]
+source_url: "https://static.case.law/how-pr-ns/2/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2290751
+---
+
+# People ex rel. Ray v. Davenport
+
+## Majority (Lawrence, J.)
+
+Lawrence, J.
+The relator is, I think, entitled to a peremptory mandamus in this ease. Section 1 of chapter 248 of the Laws of 1884, provides that, “ the colored schools in the city of New York, now existing and in operation, shall hereafter be classed and known, and be continued as ward schools and primaries, with their present teachers, unless such teachers are removed in the manner provided by law, and such schools shall be under the control and management of the school officers of the respective wards in which they are located, in the same manner and to the same extent as other wards schools, and shall be open for the education of pupils for whom admission is sought, without regard to race or color.” Section 2 repeals all acts or parts of acts inconsistent with the provisions of said act.
+It is not claimed on the part of the board of education, that the relator has ever been removed from her position as teacher, under the provisions of the statutes providing for the organization of the board of education and prescribing the powers and duties of said board, and of the board of trustees of the several wards. The provisions in respect to such removals are contained in sections 1038 and 1042 of the consolidation act (See Manual of the Board of Education, pp. 20, 34). ¡Neither is it alleged that the license of the relator has been revoked for any cause by the written certificate of the city superintendent and the written concurrence of two of the inspectors for the district for which the teacher is employed, as prescribed by section 1042 of the consolidation act (See Manual of 1884, p. 32). It is however alleged that, by the provisions of the act of 1884, the school to which the relator was attached became a ward school, under the provisions of the by-laws of the board of education relating to ward schools, and that by those by-laws but one teacher could be allowed for every thirty-five pupils of a grammar grade, and one for every fifty scholars of a primary grade, and that additional teachers could only be employed by the ward trustees, when authorized by the committee on teachers of the board of education. The respondents further aver, in their return, that the number of pupils returned by the principal of the school in question for the year 1883 was eigthy of the grammar grade, and that the number of teachers allowed by the by-laws aforesaid was, therefore, two only, and that two teachers, in said return named being senior in rank to the relator, were assigned to the two positions of first and second assistants, as prescribed by section 35 of the by-laws of the board of education.
+After examining the act of 1884, I am of the opinion that the teachers in the colored schools, when said act was passed, were continued as such teachers in the word schools and primaries until removed in the manner provided by law.
+I am also of the opinion that the words “ removed in the manner provided by law,” mean the manner provided by the statutes relating to such removals. As already shown, those statutes, provide for a removal by the board of trustees, and by the board of education, and that a license of a teacher may also be revoked for any cause affecting the morality or competency of the teacher (See secs. 1038, 1040 and 1042 of the Consolidation Act).
+In this case the relator was dropped under a provision of a by-law of the board of education, and not removed in the manner prescribed by the statute above referred to.
+This procedure I do not think was warranted by the act of 1884. I think that the clear intention of the legislature was to continue the teachers in the colored schools until they were removed for some misconduct.
+If there is any inconsistency between the act of 1884 and the by-laws of the board of education, the former must control, particularly in view of the fact that the act of 1884 provides that all acts or parts of acts inconsistent with the provisions of said act are hereby repealed. If the by-law of the board of education, upon which the learned counsel for the respondent relies, has the force and effect which he attributes to it, it is to my mind entirely inconsistent with the provisions of the act of 1884, respecting the “present teachers” in the colored schools.
+Indeed, the effect of the by-law in question seems to me, upon the facts stated in the return, to have been rather to increase the salaries of the two teachers who were the seniors in rank to the relator, than to “ remove ” the relator “ in the manner porovided by la/wP The learned counsel for the respondents has not furnished the court with a brief in this case, and I have considered it solely upon the points necessarily presented by the return to the alternative writ. Mo objection was taken on the oral argument to the form of remedy, and I have, therefore, assumed that no such objection is intended to be urged.
+Let an order be entered that a peremptory mandamus issue to the effect prayed for by the relator.
