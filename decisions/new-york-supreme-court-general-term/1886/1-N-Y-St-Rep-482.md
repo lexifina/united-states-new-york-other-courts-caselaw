@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-06-01"
+citations: ["1 N.Y. St. Rep. 482"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the judicial settlement of the accounts of Benjamin Knower, as executor, etc."]
+source_url: "https://static.case.law/ny-st-rep/1/cases/0482-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 637439
+---
+
+# In re the judicial settlement of the accounts of Knower
+
+## Majority (Brady, J. Daniels, J.)
+
+Brady, J.
+Benjamin Knower was the son-in-law of the testator, John F. Gray, who, by a codicil to his will, desired and directed that his executors should have full and absolute discretion as to the form, manner and extent of any and all investments of his estate, and they were empowered to change any investment of his estate existing at the time of his death into such other and manner of investment as they should see fit.
+And by a second codicil he nominated Mr. Knower and his nephew, Mr. Hull, as his executors, but advised that his son-in-law, the appellant, from his long experience and methodical habits of business, should keep the accounts and control the securities of his estate.
+It appears that for several years before the testators’ death the executor, Knower, who was the only one that qualified, had acted as the testator’s general man of business and as his banker, and that by an account rendered shortly before" his death it appeared there was then in the hands of his son-in-law belonging to him the sum of $169,535.
+It appears that the relation mentioned existed for several years before the testator’s death, and that about six months prior to that event an agreement was made between him and his son-in-law that the latter should allow four per cent interest upon the sums of money which he had then in his hands; and the testimony was clear and uncontradicted that the rate of interest paid by trust companies and on call loans was less than four per cent during the time that elapsed between the appellant’s qualification as executor and his purchase of securities for the estate. The case shows that the testator had every confidence in his son-in-law and that the use of his money by the latter was regarded at the time as perfectly safe and satisfactory.
+The learned surrogate, however, upon the accounting charged the appellant with interest at the rate of six per cent, rejecting the judgment of the referee before whom the account was taken and by whom it was fixed at five per cent. The learned surrogate has expressed his views in an elaborate opinion.
+It will have been observed that by the codicil to which reference has been made full and absolute discretion was given to the executor as to the form, manner and extent of all and any investments of the testator’s estate, and he was empowered to change any existing investments as he might see fit. And this discretion would seem to indicate an intention on the part of the testator to allow his executor to continue the fund in his possession and at the same rate of interest which was agreed upon between them, namely, four per cent. The application of the same rule as to debts due from executors to the decedent, and which is illustrated by the able opinion of the surrogate, does not appear to be just in this matter. The executor is not a mere debtor. He was a quasi trustee possessing the entire confidence of the decedent; which was well deserved, and he was his son-in-law, to whom he entrusted very large sums and by will extended his confidence in him beyond the grave, for, as we have seen, he advised that his son-in-law, from his long experience and methodical habits of business, should not only keep the accounts but control the securities. It cannot be well gainsayed that unless the intention suggested is to control the amount of interest to be paid herein there is no other element that can be invoked for the protection of the appellant. That it should be conclusive if it can be sustained is clear from the fact that not more than four per cent could have been obtained for the period in dispute, and from the fact that in all probability less than that sum would have been realized if the amount had been paid in and deposited in a trust company, a ceremony which would have shielded the appellant beyond doubt. The case seems to appeal to the equity side of the court growing out of the peculiar relations existing between the decedent and his son-in-law in reference to his estate and the evident desire of the former that as to his funds there should, in case of his death, be the same management by the latter—the same broad discretion and use of them as allowed during fife. The reversal of the surrogate’s decree so far as appealed from should rest upon the relations referred to in connection with the provisions of the will which in union with the facts and circumstances disclosed are unusual and extraordinary, and this too because it seems to be more just in its results.
+Daniels, J.
+In the disposition of this appeal the interest should be reduced. That can be done by a modification. With that qualification I concur.
