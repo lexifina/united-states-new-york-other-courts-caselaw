@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-12-12"
+citations: ["50 N.Y. St. Rep. 631"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application for removal of Esek C. Carpenter, as Justice of the Peace."]
+source_url: "https://static.case.law/ny-st-rep/50/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2096328
+---
+
+# In re the Application for removal of Carpenter
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The evidence shows that in January, 1892, at midnight, the respondent attended a prize fight at the hotel of one Shea in Highland Falls, in Orange county. A warrant had been issued by one Avery, a justice of the peace, and delivered to a constable. The respondent prevented the arrest of the guilty parties. He ordered the constable to be let in, and refused permission to let in the ring the constable’s aids, duly deputized by Justice Avery, on the ground that they were not officers. He ordered the constable to go away, and ordered the release of Shea, who was arrested by one of these aids. Another aid to this constable was threatened with arrest by respondent if he did not stop his attempt to go in the prize-ring. Respondent ordered the wild, lawless crowd to be let out of the ring upon the constable’s party. One of the constable’s deputies was knocked down. The evidence shows that on the 5th of July, 1891, the respondent and the two village constables were at Oranstons. There was open gambling of the worst description in the highways, thimble-riggers and card playing. The coroner of the county applied to the constables to aid him in stopping the gambling. The coroner arrested a gambler at one of the points of disorder, and then went to other places. At one of them the respondent sat near by watching them. He was again asked to stop it, and replied that the people wanted it, and he would not interfere. He was in conversation with the arrested gambler, and immediately violence was threatened by the gambler to the coroner. The respondent was proven to have been a frequent visitor at the disorder on Sundays in the previous year, 1890, without protest or interference. The highways were blocked up by the gambling parties. On the 12th of July, 1891, Supervisor Goodsell broke up the custom without judicial aid. Respondent was apparently in control of the village constables, and was intimate at the Sunday gamblings with a class of persons called “ Coppers.” Their function was to watch the supervisor, and inform gamblers. The day before the prize-fight the respondent attended a dog-fight at Shea’s hotel, in which one dog lost his eye. I think the evidence shows that the respondent used his office to punish one Meskill. Meskill was one of the deputies of the constables on the night of the prizefight. Shea made a complaint that Meskill shot at him.
+The justice caused the arrest so late in the day that there was no other way but to go to jail at Newburgh. Meskill denied the charge and the grand jury ignored the indictment. Respondent’s manner was violent upon the arrest. He said he had seen the officer and knew that Meskill was guilty. The justice would not listen to the information that Meskill was so sick that it was dangerous to go to jail. The fact was proven by Dr. Brown. Mes-kill offered bail, and it was refused because the offense was not bailable. It was bailable, but not by respondent. If he had done his duty humanely and without malice, he would have committed the accused for the action of the grand jury, and he could have been bailed without passing the night in jail. The record is so very voluminous that we can but state conclusions from the proof returned, that the Shea house is very bad and of evil repute; that the respondent is deemed his supporter and is also deemed to be in league with gamblers and gambling and other evil practices. That respondent was in league with the constables in screening gambling carried on in his presence openly and continuously on Sundays. While a bad character is not sufficient to remove a public officer, it does give color to the testimony when it is in dispute as between the justice and Shea and the other witnesses who testify in favor of the existence of the facts charged.
+We think the proof justified and calls for the removal of the respondent as justice of the peace of the town of Highland, in Orange county.
+Dykman and Pratt, JJ., concur.
