@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1889-06"
+citations: ["60 N.Y. Sup. Ct. 145"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman, J., concurred."]
+parties: ["KATE F. MONJO, Respondent, v. DOMINGO M. MONJO, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/60/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4590408
+---
+
+# Monjo v. Monjo
+
+## Majority (Barnard, P. J.:)
+
+Barnard, P. J.:
+The general facts which surrounded this case are undisputed. In April, 1888, the defendant procured an absolute divorce from the plaintiff. The decree awarded the custody of the children to the defendant. He had two of them, but the plaintiff kept from him the possession of the youngest. In August, 1888, the defendant found his child with the plaintiff, her mother, in a restaurant in New York. The defendant had the decree which entitled him to the child, and the wife, the plaintiff, refused to give her up. A policeman was finally called in, and the dispute drew a crowd of people. The policeman finally, by direction of defendant, arrested the plaintiff and conducted her to the station-house. The sergeant in charge took a minute of some charge, it does not appear what, and the wife still refusing to give up the child, she was locked up in the station-house all night with her little daughter, the subject of the dispute. On the next morning the police justice gave up the child to the defendant and discharged the plaintiff. The only dispute is as to the fact whether the arrest and detention was caused by defendant’s order, and the jury have found for the plaintiff upon the issue. The defendant mistook his remedy. He could have taken the child by force, if the decree allowed, in a gentle manner, but he could not arrest the plaintiff because she refused to voluntarily give up the child. Assuming an illegal arrest, the damages are not excessive. The plaintiff was taken to a public j>laee and conducted through a public street to the station-house, and detained in a lock-up or cell under surroundings which would humble and humiliate her. There was no evidence tending to show that the arrest was made, for a breach of the peace or for acts which tended to a breach of the peace. A request to charge must rest upon evidence. The jury may find a fact against the statement of both the parties, it is true, but there must be evidence in the case somewhere which justifies such a finding. This evidence is nowhere to be found in this case. The arrest was a mistake in the law on the part of the police officer, and the only question was whether the defendant directed it.
+The judgment should, therefore, be affirmed, with costs.
+Dykman, J., concurred.
+Judgment and order denying new trial affirmed, with costs.
