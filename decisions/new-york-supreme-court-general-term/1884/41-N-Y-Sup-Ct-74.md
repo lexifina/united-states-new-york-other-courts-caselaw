@@ -1,0 +1,53 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1884-10"
+citations: ["41 N.Y. Sup. Ct. 74"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Smith, P. J., (Bradley and Barker, JJ."]
+parties: ["MARY A. NUNDY, Respondent, v. JAMES N. MATTHEWS, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/41/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4493483
+cites_cases: ["11 N. Y., 441", "17 Johns., 134", "3 Johns., 535", "32 Am. Rep., 35", "38 Barb., 528", "46 N. Y., 467", "58 Barb., 236", "6 Wend., 103"]
+---
+
+# Nundy v. Matthews
+
+## Majority (Corlett, J.:)
+
+Corlett, J.:
+The plaintiff recovered against one Austin L. Wells three judgments, amounting in the aggregate to more than $3,000. In August, 1879, proceedings supplementary to execution were instituted on one of the judgments and the defendant was examined before a referee. By virtue of such proceedings the examination was continued from the 15th day of August, 1879, until the thirteenth day of September, when they were held open by agreement and no further steps were taken.
+The defendant is a son-in-law of the judgment debtor, and the plaintiff opened a correspondence with him upon the subject of her demands against his father-in-law, with a view to obtain payment or a’ settlement from the defendant; and this action was brought to recover the sum of about $700 which the plaintiff alleges the defendant bound himself in writing to pay. The alleged contract upon which a recovery was had in this case is contained in two letters, of which the following are copies:
+“Westfield, September 21, 1879.
+“ Mr. Matthews :
+“ Dear Sir.— The time has expired that you wrote me you would endeavor to be in Westfield to see what could be done concerning the business between Mr. A. L. Wells and myself. I write once more to ask you if you intend to do anything about it. I let the matter rest because you gave me encouragement you would. 1 ■game you my terms.
+“If I can have $700 to pay up the mortgage on my store, which is now due, I will wait a suitable time for the rest, if you, will see that I have my pay, which is no more than right.
+“ I have had a talk with Mr. W. He says he will let me have $150 in October, if I will wait, but I am in a place where I must have more or lose a great deal.
+“ Please let me hear from you soon, as the papers is now in the-hands of Mr. Kingsbury; but will wait to hear from you as I want to do the fair thing.
+“ Yours, with respect,
+“MANY A. NUNDY.”
+“ Bueeado, N. Y., Januwry 8, 1880.
+“Dear Madam.— I have shown your letter to Mr. Wells and consulted with him freely on your proposition. I infer you have-been listening to bad advice. Not one step will I proceed toward any settlement which assumes that he has acted otherwise than honorably in the matter.
+“ That sort of pressure will not stir me an inch. If you wish me to take any interest in your affair, drop it.
+“ Still, I am sorry for your trouble and wish to see you safely out of it.
+“ But he is confident he can raise the money out of his own resources, and I desire to give him the chance.
+“Now, what I propose is this: he shall have one year to pay the-$700 you demand in full of dll obligations to you.
+“ He shall take care of your present mortgage interest, etc., and the mortgage shall be paid within the year.
+“ If he fails to do this out of his own resources . I will make up the deficiency. You are to have no further trouble about it and must not cause him any. Not a cent beyond the $700 will I help to pay ; nothing for costs; nothing for advice. Such outlay will be-worse than wasted.
+“ Now, if this is satisfactory to you, well. If not, please do not trespass any further upon the time or patience of
+“ Yours, very sincerely,
+“ J. N. MATTHEWS.
+“ Mary A. Nundy, Westfield, N. Y.”
+The plaintiff’s contention on the trial was that the defendant’s letter amounted to a substantial acceptance of the plaintiff’s offer-embodied in her letter, and the plaintiff’s claim was adopted by the learned referee, who, in his opinion, says: “ In the construction which I give to defendant’s letter to plaintiff, January 8, 1880, I hold that it was' not incumbent upon her to notify him of an acceptance; that his letter was an acceptance of her proposition, with some amendments, and did not require her to formally accept.”-
+The plaintiff’s proposition was that slie would accept $700 down, and that she would wait a suitable time for the balance, if the defendant would see that it was paid. There is no confusion or ambiguity about her offer. The defendant, instead of accepting her proposition, makes a counter offer by proposing that the judgment debtor should have one year to pay the $700, in full of all obligations to the plaintiff; that he should take care of the interest on her mortgage, and that if he failed to do this out of his own resources the defendant would make up the deficiency.
+Tt is very clear that the defendant’s letter was in no sense a substantial acceptance of the plaintiff’s proposition or any part thei'eof. Her judgments against "Wells aggregated more than $3,000, and her offer amounted in substance to a proposition to give time for the payment of all except $700 in case the defendant would see her paid. Whereas the défendant’s counter proposition was that Mr. Wells should have a whole year in which to pay this $700, and that in case he failed within the year the defendant would pay the deficiency, but that he would in no event be bound or liable beyond the $700.
+It is impossible to so construe those letters as to show a contract between them — a meeting of the minds of the parties. The law upon this subject is simple and elementary. In 1 Parsons on Contract (6 ed., 176-178) the rule is stated thus: “But there are cases where the answer either in words or in effect departs from the proposition, or varies the terms of the offer or substitutes, for the contract tendered one more satisfactory to the respondent.” In these cases there is no assent and no contract. The respondent is at liberty to accept wholly or-to reject, but one of these things he must do; for if he answers not rejecting, Tout proposing to accept under some modification this is a rejection of the offer. All the cases adopt this view. (Hutchison v. Bowker, 5 M. & W., 535; Vassar v. Camp, 11 N. Y., 441; The Chicago and G. E. R. R. Co. v. Dane, 43 id., 240; 32 Am. Rep., 35-51.)
+Winslow v. Moore et al., decided at the June Term, 1883, by this court, where Smith, P. J., speaking upon this subject says: “ Doubtless an acceptance in order to bind a party making an offer must be an unconditional and unqualified acceptance of all the material terms of the offer.”
+It follows, therefore, upon this branch of the case, that the defendant did not accept the plaintiff’s offer, but on the contrary rejected it. It is a familiar rule that there is no contract unless the parties thereto assent, and they must assent to the same thing in the same sense. The obligation must be mutual. The minds of the parties must meet. (Dana v. Munro, 38 Barb., 528; Bruce v. Pearson, 3 Johns., 535; Tucker v. Woods, 12 id., 190; Wells v. Thompson, 13 Weekly Dig., 256; Mactier v. Frith, 6 Wend., 103; Fullerton v. Dalton, 58 Barb., 236.)
+The plaintiff did not accept the defendant’s offer or assent to its terms. It is well established that a mental determination to accept, including an acting upon that determination by waiting for the expiration of the time or the happening of the event embodied in the offer, will not amount to a legal acceptance. There must be an overt assent or acceptance and actual consent to the terms of the offer, evidenced by an overt act, to create a contract so as to bind the parties. In other words, both parties must agree. Acting upon the faith of the offer, without an agreement to accept, creates no binding contract. (Beekman v. Hale, 17 Johns., 134; White v. Corlies, 46 N. Y., 467; Howard v. Daly, 61 id., 362-366; Trevor v. Wood, 36 id., 307; Dickinson v. Rawson, 12 Weekly Dig., 563.)
+The learned referee seems to have assumed that if the plaintiff evinced her acceptance by performance, she was entitled to recover in the absence of an agreement on her part. He says: “ If she in fact performed according to the spirit and terms thereof, that was. sufficient to enable her to recover in the action.” While the report is based upon the assumption that the defendant accepted the plaintiff’s offer, and therefore the contract was complete without acceptance, still importance seems to have been attached to the fact that the plaintiff waited a year before calling on the defendant for payment. And it seems to have been assumed, on the part of the plaintiff and by the learned referee, that even if the defendant’s letter was not an acceptance of the plaintiff’s offer, still the waiting on the part of the plaintiff, and her omission to carry on legal proceedings during the year, amounted to an acceptance of the defendant’s offer, and that she could recover on this ground. The plaintiff testified that she did not answer the defendant’s letter or in any manner acknowledge its receipt, and that she did not send any word, verbal or written, in regard to it, either to the defendant or Mr. Wells. • In other words, no claim is made that there was any acceptance or assent by any overt act on the part of the plaintiff, and the very most that can be said is, that in her own mind she determined to accept the defendant’s offer and acted accordingly. As has already been shown, this was not such an acceptance as the law requires to make a binding contract between them. The only consideration for the defendant’s promise was a promise on the part of the plaintiff ; that is, if the defendant became bound to pay the $700; the plaintiff also became bound to discharge the judgments against Wells and to wait a year for the payment of the $700. Nothing can be gleaned from the letters which would enable any person to maintain an action against the plaintiff to extinguish her claims against Wells upon the payment of $700. She made no such contract, and unless she did the defendant’s promises would be without consideration. What occurred in the winter of 1881, between the parties, is of no importance. Even if both parties supposed that a binding contract existed between them, it was of no importance unless in fact such an agreement had actually heen made. (12 Week. Dig., 566, supra)
+The judgment must be reversed.
+Present — Smith, P. J., (Bradley and Barker, JJ.
+Judgment reversed and new trial ordered before another referee,, costs to abide the event.
