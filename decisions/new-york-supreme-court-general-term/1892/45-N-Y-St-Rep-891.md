@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1892-04-14"
-citations: ["45 N.Y. St. Rep. 891", "45 N.Y. St. Rep. 886"]
+citations: ["45 N.Y. St. Rep. 891"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["James W. Holloway, Resp’t, v. Franklin H. Delano et al., App'lts."]
 source_url: "https://static.case.law/ny-st-rep/45/cases/0891-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2080804
-cites_cases: ["101 N. Y., 416", "102 N. Y., 175", "118 N. Y., 219", "122 N. Y., 1", "125 N.Y., 175", "27 Hun, 442", "28 St. Rep., 821", "33 St. Rep., 475", "34 St. Rep., 876", "58 N. Y., 270", "60 N. Y., 609", "60 N. Y., 610", "64 N. Y., 71", "64 N. Y., 73", "68 N. Y., 252", "90 N. Y., 122", "92 N. Y., 267"]
+cites_cases: ["101 N. Y., 416", "102 N. Y., 175", "122 N. Y., 1", "125 N.Y., 175", "27 Hun, 442", "33 St. Rep., 475", "34 St. Rep., 876", "58 N. Y., 270", "64 N. Y., 73", "90 N. Y., 122", "92 N. Y., 267"]
 ---
 
 # Holloway v. Delano
