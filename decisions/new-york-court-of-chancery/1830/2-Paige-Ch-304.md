@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1830-08-31"
+citations: ["2 Paige Ch. 304"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Knickerbacker vs. De Freest and others."]
+source_url: "https://static.case.law/paige-ch/2/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179841
+---
+
+# Knickerbacker v. De Freest
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The court never selects a guardian ad litem for an infant defendant on the nomination of the adverse party. It is frequently necessary for the guardian seriously to contest the complainant’s claim. It is his duty in every case to ascertain from the infant and his friends, or from other proper sources of information, what are the legal and equitable rights of his ward. And if a special answer is necessary, or advisable, for the purpose of bringing the rights of the infant properly before the court, it is his duty to put in such an answer. If the infant is a mere nominal party, or has no defence against the complainant, and no equitable rights as against his co-defendants which render a special answer necessary, the general answer will be sufficient. If the infant has any substantial rights which may be injuriously affected by the proceedings in the cause, or if the claim against him is of a doubtful character, it is also the duty of his guardian ad litem to attend, before the court on the hearing, on the taking of testimony in the cause, on references to the master, and on all others proper occasions to bring forward and protect the rights of his ward. And if the guardian neglects his duty, in consequence of which the rights of the infant are not properly attended to, or are sacrificed, he may be punished for his neglect. He will also in such case be liable to the infant for all damages he may sustain. Although it is the duty of the court to protect the rights of infants, when they are properly before it, so that they may be seen and fairly understood, yet it is the special duty of the guardian ad litem to bring those rights directly under the consideration of the chancellor for his decision thereon, ^is being the duty, of the guardian, it would be improper in any case to permit the complainant to name the person who tQ regjgt c]aim against the infant.
+The revised statutes have made provision for the. appointment of a guardian for an infant defendant in courts of com-. ' mon law, where he neglects to have one appointed for himself. (2 R. S. 447, § 10, 11.) ■ It is therefore advisable that the proceedings in this court should conform to the spirit of those provisions. There a guardian is not to be appointed ‘ for an infant, on the application of the adverse party, until the infant defendant has been duly notified and required to procure one to be appointed for himself. When,the complainant applies for the appointment of.a guardian for an infant defendant, under the last clause of the 144th rule, he will be entitled to an order appointing such person as shall then be designated by the court guardian ad litem, unless the infant, within ten days after service of a copy of suchorder, shall procure a guardian to be appointed for himself; and shall, give notice thereof to the complainant; Such service may be made on the infant, ór at his place of residence, in the usual manner, if he is of the age of 14 years or upwards. If he is under that" age it should be served ón his general guardian, or on tiis relative, friend or other person, with whom he resides. At the expiration of the ten days, on filing an affidavit of the service of the order, and that no notice of the appointment of a guardian ad litem has been received, the complainant may have an order of course that the former order for the appointment of the guardian named by the court, be made absolute.
+In partition causes, where security is required from the guardian,the order must require the infant to procure a guar-, dian to bé appointed and to file the requisite security within the ten days, or the order for the appointment of the person ■named by the court will be made absolute, on his filing such ■ security. Where the infant is a non-resident, special direc- , tions must be given by the court as to the manner of serving the order, if any notice thereof shall be deemed requisite.
+In this case James Porter is appointed guardian ad litem, if the infant defendant shall not procure one to be appointed for himself within ten days.
