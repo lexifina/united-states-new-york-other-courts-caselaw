@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-06"
+citations: ["77 N.Y. Sup. Ct. 51"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and IIaight, JJ., concurred."]
+parties: ["George W. Bennett, Appellant, v. John Taylor, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/77/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4677657
+cites_cases: ["1 Den. 589", "13 Hun, 198"]
+---
+
+# Bennett v. Taylor
+
+## Majority (Macomber, J.:)
+
+Macomber, J.:
+The plaintiff, as landlord, instituted summary proceedings to recover possession of certain demised premises situated in the village .of Palmyra, upon the ground that the tenant, the defendant, was holding over after the expiration of his lease. Upon a trial before a justice of the peace and a jury, a verdict was rendered in favor of the landlord, and from a judgment entered thereon an appeal was taken by the tenant to the County Court, where, after argument, the judgment was reversed upon the ground of the admission of erroneous evidence prejudicial to the tenant. The record there showed that the plaintiff was permitted to testify, under objection, to two several conversations which lie had with one Ered Taylor. That this evidence was inadmissible admits of no doubt, nor is it contended by the appellant here that the same was competent for any purpose. Upon the merits, therefore, of the appeal, the judgment of the County Court was clearly right.
+But it is contended that the return of the justice to the County Court had been tampered with or made up, in part at least, by counsel for the tenant, and that in truth and in fact the supposed erroneous evidence upon which the justice’s judgment was reversed, was not in fact ever given before the justice of the peace, but was, on objection, excluded. "We agree with the learned county judge who heard the motion for an amended return and for a reargument thereon, that such motion could not be granted and that a justice of the peace cannot be permitted to make an amended return which will absolutely contradict what is stated in a previous return. (Barber v. Stettheimer, 13 Hun, 198; Fitzgerald v. Fitzgerald, 25 id. 319.) If the justice of the peace made a false return he is liable for the same to the party injured. (Houghton v. Swarthout, 1 Den. 589.) But it is claimed that the justice of tbe peace himself was deceived by counsel for the tenant and was induced by fraud to sign the false return, and that for this reason the case' is taken out of the operation of the general rule above stated. But we have examined the affidavits given upon this subject and they clearly acquit the counsel of any such alleged impropriety, and consequently the plaintiff is not entitled to any relief upon this ground.
+It follows that the judgment and order appealed from should be affirmed.
+Dwight, P. J., Lewis and IIaight, JJ., concurred.
+Judgment and order of the County Court of Wayne county appealed from affirmed, with costs.
