@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1831-08-27"
+citations: ["3 Paige Ch. 440"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Garlick vs. Strong & Garlick."]
+source_url: "https://static.case.law/paige-ch/3/cases/0440-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2048402
+cites_cases: ["1 Rand. Rep. 563", "7 John. Rep. 26", "8 Mass. Rep. 229", "9 Cow. 463"]
+---
+
+# Garlick v. Strong
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The facts stated in the complainant’s bill are sufficient to entitle her to the relief asked for by that bill. She alleges that the husband was seised of a real estate worth five or six thousand dollars, parts of which were sold by him from time to time, and on which sales she relinquished her right of dower to the purchasers, at his request. That a part of the estate, worth about-$2000, was afterwards sold to the defendant Strong; and the complainant refused to join in the conveyance and relinquish her right of dower in the property, unless a part of the consideration money could be secured for her separate use, the husband having wasted most of his property by intemperance,. It was accordingly agreed between the husband and wife, with the knowledge of Strong, that she should execute and acknowledge the conveyance, relinquishing her dower, and should receive out of the price of the property to be paid by Strong,- $1000 as her separate property, free from the power and control of her husband. Strong agreed to give his note to the complainant for her share of the purchase money, payable in a few months thereafter. She executed and acknowledged the deed, and Strong gave her the note for $1000 in pursuance of the agreement. She put the note into the hands of Pellet, her son-in-law, as her trustee, to receive the money of Strong when it became due, and to put it out at interest for her separate use. An arrangement was afterwards made between Pellet and Strong, with the sanction of the complainant, by which $600 of the debt was paid over to J. M. D. Carr, by way of loan to him, to be secured by bond and mortgage, for the use of the complainant. A bond and mortgage was accordingly taken by Pellet from Carr, but in the name of the complainant; and the residue of the $1000 was also settled between Strong and Pellet as the trustee of Mrs. Garlick. The complainant also alleges, that she having been compelled to leave her husband on account of his intemperance and other bad conduct, he assigned the bond and mortgage of Carr to the defendant Strong, who has given Carr notice not to pay it to her trustee, and claims to recover it for his own use. It is well settled that a post-nuptial agreement between the husband and wife, by which property is set apart for her separate use, will be sustained in equity though void at law. (Atherly on Mar. Sett. 161. 2 Kent’s Comm. 166.) The relinquishment of the dower in this case was a sufficient consideration to support this agreement, on the part of the husband. (Taylor v. Moore, 1 Rand. Rep. 563.) Although as against creditors, whose debts existed at the time, post-nuptial agreements will not be permitted to stand beyond the value of the consideration, that principle cannot be applied to this case, which appears to be an attempt on the part of these defendants to defraud the wife of the monies to which she is equitably entitled under this agreement. The demurrer on the record cannot therefore.be allowed.
+The demurrer ore terns, however, is well taken; as the wife cannot be permitted to sue except by her next friend. If the defendants cannot sustain the demurrer on the record, they may demur ore tenus; but availing themselves of that right, they must pay the costs of the demurrer on the record. This was so held by Lord Eldon in the case of The Attorney-General v. Brown, (1 Swanst. Rep. 288,) and by this court in the recent case of Robinson v. Smith and others, decided in April last. The complainant is also to be allowed to amend by substituting a proper and responsible person as her next friend to prosecute this suit. And if she does not so amend within thirty days after payment by the defendant of the costs of the demurrer, the bill must be dismissed. In that case, however, it must be dismissed without costs; as á decree for costs cannot be made against the wife in favor of her husband.
+Ante, page 222,
