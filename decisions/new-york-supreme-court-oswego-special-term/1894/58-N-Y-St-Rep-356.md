@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court Oswego Special Term"
+decided: "1894-03"
+citations: ["58 N.Y. St. Rep. 356"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rush S. Watson, Pl'ff, v. The Oswego Street Railway Company, Def’t."]
+source_url: "https://static.case.law/ny-st-rep/58/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 705012
+cites_cases: ["37 St. Rep. 135", "69 N. Y. 309", "80 N. Y. 622"]
+---
+
+# Watson v. Oswego Street Railway Co.
+
+## Majority (Wright, J.)
+
+Wright, J.
+While the plaintiff was standing on the defendant’s car, being in a weak condition from the administration of anaesthetics by a physician, the president of the defendant, observing the plaintiff’s condition and believing it to be that of drunkenness, ordered the conductor to put him off. The conductor thereupon, in obedience to the command, ordered the plaintiff to leave the car, and put his hand on his arm. The plaintiff thereupon, with the assistance of the conductor and a friend, complied with the order.
+The witness Paige testified: “Callanen (the president of the defendant company), said ‘Put that man off; he is drunk.’ He cried the same thing again. -Then, the conductor said to the plaintiff, ‘You will have to get off,’ and put his hand on his arm, and he and I helped him down into the street.”
+The witness Keller testified: “Callanen ordered- the plaintiff from the car, and the car was stopped, and the plaintiff was removed from the car.”
+Callanen, a witness for the defense, testified : “I saw the plaintiff swaying and staggering on the platform. I hailed the conductor and told him to put him off. No one was with the plaintiff at that time caring for him. He was slipped off. He was perfectly helpless. The conductor just helped him off.”
+A witness for the defense testified, “ no force was used in the removal.
+Force is defined as “Power dynamically considered, that is, in motion or in action ; constraining power ; compulsion ; strength directed to an end. Unlawful violence which may be implied as in every trespass.” Black’s Law Diet.
+It is also defined as “Strength or power exercised without law upon persons or things.” Burrill’s Law Diet.
+A mere unlawful direction by a conductor to passengers, unattended with menace, threats of violence or other wrongful element, is not a thing upon which the implication of force can be predicated. But the plaintiff urges that the act of the conductor was both a menace and active force.
+If the conductor’s act was a menace—an exhibition of a disposition to use personal strength to remove the plaintiff—and the plaintiff was thereby put in fear of such use of physical strength, that act constituted force. The question, therefore, is, was there any menace, or any use of actual physical strength in the removal. In determining that fact we must consider not only the act, but the intention that prompted it.
+The removal of the plaintiff was indisputably the result of the conductor’s order, or of his order and the conductor’s physical contact with him. The defendant contends that it was solely the result of the order, and that the question of force must be detertermined by the conductor’s intention, and that the whole body of the evidence, considered together, shows conclusively that the plaintiff gave obedience to the conductor’s order willingly and without the slightest physical compulsion; and that the sole act and intention of the conductor was to render such help to the plaintiff, which he in his enfeebled condition greatly needed. That such in fact was the sole character and purpose of the conductor’s act is not conclusively apparent. The generous impulse and purpose of helpfulness may have acted jointly and in union with the purpose and act of a compulsory character. The charitable purpose does not necessarily exclude a compulsory purpose.
+The removal, though forcible, may have absolutely required for its accomplishment in a humane manner the helpfulness and assistance given by the conductor. This idea of helpfulness in the case raises an important element for the consideration of the jury on the question of damages; but here the inquiry is whether or not the proof on that point is essentially inconsistent with any degree of “constraining power,” for the amount of force exercised is not material for present consideration.
+If the physical contact of the conductor upon the plaintiff was in the slightest degree a “ constraining power ” in causing him to act—to abandon his right of passage and leave the car—it constituted force in the legal acceptation of that term. Holding as a matter of law that said physical contact had no such constraining .efficacy was, in view of all the circumstances of the ease, unwarranted, and the charge, in taking all question in that regard from the consideration and determination by the jury,was an erroneous invasion of its province; for though the facts are uncontroverted,' yet since sound minds might reasonably differ in regard to what inference should be drawn therefrom, a court is not warranted in determining that inference. Hart v. Hudson River Bridge Co., 80 N. Y. 622.
+From the smallness of the verdict it is reasonably inferable that the error may have produced an effect prejudicial to the plaintiff, and for that error, therefore, he is entitled to a new trial.
+The second ground of alleged error is untenable. Bleecker v. Johnston, 69 N. Y. 309 ; Whitney v. Town of Ticonderoga, 127 id. 46; 37 St. Rep. 135.
+An order granting a new trial may be entered, with costs, to abide the event.
+Ordered accordingly.
