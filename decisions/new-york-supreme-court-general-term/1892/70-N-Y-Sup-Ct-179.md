@@ -1,0 +1,42 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-02"
+citations: ["70 N.Y. Sup. Ct. 179"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pjratt, J., concurred."]
+parties: ["In the Matter of the Judicial Settlement of the Account of ANNA SEEBECK, as Surviving Executrix of and Trustee under the Will of JOHN H. SEEBECK, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/70/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4647964
+cites_cases: ["48 N. Y., 668", "55 Hun, 131", "59 N. Y., 204", "81 N. Y., 281", "84 N. Y., 521"]
+---
+
+# In re the Judicial Settlement of the Account of Seebeck
+
+## Majority (Dykman, J. :)
+
+Dykman, J. :
+This proceeding was instituted before the surrogate of Kings county to compel the surviving executrix and trustee, under the. last will and testament of John II. Seebeek, deceased, to pay over to Anna M. Tienken, individually, or to her and John S. Gage, as executors of Henry M. Tienken, deceased, the surplus income in the hands of Anna Seebeck, as such trustee, which would have been payable to Henry M. Tienken, if living.
+John H. Seebeck died, leaving a last will and testament and a codicil thereto, which were proved and admitted to probate by the surrogate of Kings county, and the executors and trustees named in the will, Anna Seebeck and Abraham Lott, both qualified and entered upon the discharge of their duties. Lott is now dead, and Anna Seebeck is living.
+The income, which is the subject of contention in this proceeding arose and was accumulated in the hands of the trustee, Anna Seebeck, under the nineteenth clause of the will of John IT. Seebeck, deceased, as modified by the third clause of his codicil thereto.
+The nineteenth clause is as follows :
+“ Nineteenth. I give and devise to my sister, Anna Tienken, all my property at the north-east corner of Bridge and Nassau streets, with the house and lot on Nassaii street, adjoining, in the city of Brooklyn, and also my house and lot on the south-west corner of King and Van Brunt streets, and the house and lot adjoining on Yan Brunt street, to have and to hold the same for and during her natural life, with. remainder to her children in equal shares, and in case any of such children should be dead; leaving lawful.issue him or her surviving, then I order and direct that the lawful issue of such child so dead shall take the share which his, her or their parent would have taken if living.”
+The third clause of the codicil is as follows: “ I do hereby revoke and annul the nineteenth item of my said will, and in lieu .thereof I direct my said executors to let the premises described in said item, and out of the income arising therefrom to pay to my sister, Anna Tienken, the just and full sum of six hundred dollars per annum, in quarterly installments, and to pay over the balance' thereof, after paying all taxes, assessments and insurance, and for all repairs on said premises, to the children of my said sister in equal shares, I do^ hereby modify and change the twentieth item of my said will as far as to order and direct that my nephew, John H. Tienken, the son of my sister, Anna Tienken, shall only receive the income from one-fourth of my residuary estate for and during his natural life, and that the said one-fourth of such residuary estate shall go to the children of the said John IT. Tienken, at his death.”
+John H. Seebeck left him surviving his widow and trustee, Anna Seebeck, his sister, Anna Tienken, and her four children, John H. Tienken, Henry M.Tienken, Matilda Jahn and Henrietta (now Ficken)
+Henry M. Tienken, one of the children, died October 31, 1889, childless, leaving a last will and testament and a codicil thereto, which have been admitted to probate, by which he gave all his property to his mother, Anna Tienken. Under this will the mother claims the share of the income which would have belonged to her son if he had not died.
+The question upon which the controversy depends is, whether the children of Anna Tienken took the remainder of the income individually or as a class.
+By a reference to the third clause of the codicil, which modified the nineteenth clause of the last will and testament, it will be seen that it contains no words of devise or bequest either to Anna Tienken or her children. But the executors are directed to pay to Anna Tienken $600 annually out of the income, “ and to pay over the balance thereof ” * * * to the children. The children are not named, and are only designated as children, and that has ever been considered sufficient to show that they took as a class, if no other portion of the will contravened such intention. (Ferrer v. Pyne, 81 N. Y., 281.)
+Again, the children are not numbered, and there is no direction to divide the balance of the income and pay a certain portion to each child! Their individuality is sunk and obliterated and they are ¡consolidated into a class.
+The payment is to be made to the children, and there is nothing to show that the word was not employed in its ordinary, primary sense, and it does not, therefore, include grandchildren or legatees or devisees. (Palmer v. Horn, 84 N. Y., 521; Shannon v. Pickell, 55 Hun, 131.)
+The executors are directed to pay over the balance to the children, ¡and they can make payment to no other person; and so long as there are children of Anna Tienken in existence during her lifetime they must receive the balance of income in equal shares.
+In the case of Magaw v. Field (48 N. Y., 668) the language of the will was: “I give, devise and bequeath to the children of Van Brand Magaw, late of Gravesend, deceased, all that certain piece or parcel of land, * * * to have and to hold the same to the said children, their heirs and assigns forever.”
+■ At the time of the execution of the will there were seven children of Yan Brand Magaw living, but all of them had died but two before the testator’s death. The two living children claimed the whole estate, and brought this action of ejectment against the children of the deceased children of the testator. Held, that the devise was to a class and only the two surviving children took under it.
+In the case of Hoppock v. Tucker (59 N. Y., 204) the testator, by the seventh clause of his will, directed his executors to divide the residue of his estate into six equal parts, and- then the eleventh clause of the will read as follows:
+“ Eleventh.' Out of one other of such equal sixth parts 'or shares I do give and bequeath the sum of $10,000 unto my grandson, Edward A. Hoppock, son of my son Moses Allen Hoppock, and the remainder of the said last-mentioned equal sixth part or share-of my said residuary estates and property, I do give, devise and bequeath in equal proportions, share and share alike, unto John Compton Tucker, Hubert Y. W. Tucker and William Edgar Tucker, the children of my deceased daughter Ann Maria, late wife of John C. Tucker.”
+In speaking of this provision, Chief Justice Church, who wrotfe the opinion of the court, said: “We * * '* have arrived at the conclusion * * * that the bequest of one-sixth of the residuary estate * * * to the children of the testator’s deceased daughter Ann Maria, was intended as a bequest to them as a class, and not as. individuals, and that the specification of their names must be subordinated to that intent. * * * The description by names is a perfect bequest to them as individuals, while the other description as children of the deceased, daughter, standing by itself, ie a perfect bequest to them as a class.”
+Our conclusion, therefore, is that by the nineteenth clause of the will, as modified by the third clause of the codicil, Anna Tienken, the sister, was to receive $600 a year, from the income of the real property, during her natural life, and the remainder of such income, after the payment of taxes and assessments, was to be paid over to her children, and if any of them should die during the lifetime of their mother the survivors were to receive such balance in equalshares.
+The order appealed from should be reversed, -with costs, and the proceedings should be remitted to the surrogate.
+Pjratt, J., concurred.
+Order of surrogate reversed, with costs, and the proceedings remitted to surrogate.
