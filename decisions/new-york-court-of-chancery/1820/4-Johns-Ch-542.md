@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Chancery"
 decided: "1820-08-08"
-citations: ["4 Johns. Ch. 542", "4 Johns. Ch. 545"]
+citations: ["4 Johns. Ch. 542"]
 reporter: "johns-ch"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
