@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1879-11"
+citations: ["26 N.Y. Sup. Ct. 152"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Learned, P. J., Bockes and Boardman, JJ."]
+parties: ["PETER E. N. DECKER, Respondent, v. CHARLES BOICE and other, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/26/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4455574
+cites_cases: ["10 How. Pr., 51"]
+---
+
+# Decker v. Boice
+
+## Majority (Learned, P. J.:)
+
+Learned, P. J.:
+If two deeds, of the same date, and of the same property, were executed by the same grantor to two different grantees, at the same time, and one should be recorded and the other not.; if the grantee in the recorded deed were a purchaser in good faith, and for a valuable consideration, we suppose he would be protected against the unrecorded deed; although, as the deeds were executed at. the same time, the other grantee would not be, in strictness, a. subsequent purchaser. It would hardly be an equitable construction of 1 Revised Statutes [m. p.], 756, section 1, to hold that a purchaser in good faith, and for a valuable consideration, who purchased, an hour after the execution of an unrecorded deed,, and who recorded his conveyance first, should be protected while a purchaser in good faith, and for a valuable consideration, who purchased at the same time with the execution of an unrecorded deed should not be protected by such prior recording.
+And as the word “conveyance” expressly includes mortgages- (§ 38), it would seem that the mere fact that mortgages were executed at the same time would not prevent the operation of there cording act.
+Decker and Crandall, Crossett and Kellogg were, all of them, “purchasers.” (1 R. S. [m. p.], 762, § 37.) Each was a purchaser in good faith and for a valuable consideration. The-respective assignments to them were “ conveyances.” (§ 38.), They were “purchasers” of the “same real estate”, with that of which Mary J. Clark and Sally Ann Roekerfeller had conveyances. And the “ conveyances ” of Decker and Crandall, of Crossett and Kellogg, were “ first duly recorded; ” that is, were, recorded before the conveyances of Clark and of Roekerfeller. This seems to be within the express language of section 1.
+But the question here involved does not depend on the rights: of Crandall and Kellogg, as assignees of the mortgages of Catharine Decker and of William H. Boice, respectively, in regard to the other mortgages which had not been recorded. Decker, the plaintiff', is not the assignee of a mortgage. He is the purchaser-under powers of sale, given by the owner, Charles Boice, which powers have been executed according to the provisions of the statute. The affidavits of publication and sale stand in the place. of a deed, executed by virtue of the power of sale. It is uot claimed that the proceedings were imperfect. The title to seven-ninths was unquestionably in Charles Boice when the mortgages were executed. These two mortgages, held by Crandall and Kellogg, covered six-ninths. If they were properly foreclosed, the purchaser at the sale went back to the execution of the mortgages mid to the authority there given for his title. And Charles Boice, in each of these mortgages, authorized the holder thereof to sell .six-ninths of the property to pay the mortgage.
+Notice of the sale is to be served on the mortgagor, and on subsequent grantees and mortgagees, whose conveyances and mortgages shall be on record at the time of the first publication. (2 R. S., 5th ed. [m. p.], 546, § 3, sub. 3.) The first publication in one foreclosure was June 2, 1877; in the other, June 29, 1877. The Clark mortgage was not recorded until July 24, 1877 ; and the Rocker-feller mortgage not until August 4, 1877. The Talbot mortgage has been paid by the mortgagor, and therefore has ceased to be a lien.
+The purchaser at such a sale has a right to look to the statute for his guidance and protection. He has only to see that notice was served on those grantees and mortgagees whose conveyances wore on record at the time of first publication ; and on judgment creditors. And, to understand the effect of the sale under the .statute, we must compare sections 3 and 8. Section 3 points out who are the persons to be served with the notice ; and section 8 declares them, when they have been served, to be barred by the .sale. The persons to be served are those whose conveyances are on record. The assignees of mortgages are entitled to notice. (Wetmore v. Roberts, 10 How. Pr., 51.)
+Furthermore, the notices were, in fact, served on Sally Ann Rockerfeller, on Mary J. Clark, and on Lansing E. Hay, the administrator of Lansing Hay, assignee of the Clark mortgage, as well as on the mortgagor himself. And, with the exception of Peggy Knickerbocker and Jacob Boice, who make no claim, every one of the heirs of William Boice was present at the sale; and it is not claimed that they objected.
+Even, then, supposing that Sally Ann Rockerfeller and Mary J. Clark, or her assignee, by virtue of the original parol agreement, had equal liens with Crandall and Kellogg, still these foreclosures, to which, they were parties, like a foreclosure in equity,, cut off their claims. Whatever rights they have in this respect, must be sought against Crandall and Kellogg, who have received the whole avails of the sale. If, by reason of the parol agreement, these four liens are on equal footing, then it may be that Rocker-feller and Hay, assignee of Clark, are entitled to recover their pro rata share of the avails from Crandall and Kellogg. But, however that may be; the title of the bona fide purchaser is good. To liken the statutory proceeding to an action, Crandall and Kellogg made Rockerfeller and Hay parties defendant; although their title did not appear at the time of beginning the action and of filing the notice of lis pendens. The purchaser at the sale gets a good title ; whatever equitable rights in the distribution of the avails Rockerfeller and Hay may have.
+As to the Talbot mortgage, we do not see that Charles Boice has any claim in respect thereto. It has been paid; and has ceased to have any validity whatever.
+We think, therefore, that the decision was correct, and that the judgment should be affirmed, with costs against appellants.
+Present — Learned, P. J., Bockes and Boardman, JJ.
+Judgment affirmed, with costs.
