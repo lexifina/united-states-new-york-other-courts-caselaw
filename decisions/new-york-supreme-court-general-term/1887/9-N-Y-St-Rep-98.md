@@ -1,0 +1,40 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-05-13"
+citations: ["9 N.Y. St. Rep. 98"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Welcome C. Barney et al., Resp’ts, v. John M. Forbes, Jr., Appl’t."]
+source_url: "https://static.case.law/ny-st-rep/9/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 644510
+cites_cases: ["77 N. Y., 91"]
+---
+
+# Barney v. Forbes
+
+## Majority (Brady, J.)
+
+Brady, J.
+On the 31st óf August, 1882, one John H. Mur was indebted to the plaintiffs in the sum of $9,941.88 for advances made in the purchase of stocks as securities for which he deposited with them eight $1,000''first mortgage bonds of the B. and E. B. B. Co., which at the time mentioned, were in their possession. The defendant was a member of Bussell, Sage & Co., of Shanghai, China, and employed Mur to proceed to China and act as their bookkeeper. Mur said that he could not go until he obtained possession of the bonds, which the plaintiffs held, and which they refused to surrender unless the bebt was paid. The result of that was an interview with Mr. Forbes who sent for Mr. Raymond, one of the plaintiffs, on the 29th of August, 1887. Mr. Raymond subsequently received a communication from Mr. Mur dated August 31, 1882, 'and one from Mr. Forbes, both of which he stated were sent to him by Mr. Forbes. He was acquainted with the handwriting of Mr. Forbes, and the communication signed by him, he said was in his handwriting. The communications thus received from the defendant and Mr. Mur are as follows:
+New York, August 31, 1882. Messrs. Barney, Raymond & Co., 34 Broadway.
+Dear Sirs—Mr. J. M. Mur being under engagement to Messrs. Bussell & Co., as their head bookkeeper, will have $4,000 (Mexican) per annum as salary, and I will undertake that the agreement made by him to pay a certain amount to you each year, shall be carried out, until the indebtedness to your firm is liquidated.
+Yours truly,
+JOHN M. FOBBES, Jr.
+New York, August 31, 1882. Messrs. Barney, Raymond & Co., New York:
+Dear Sirs—As you are aware, I have accepted a position in China in the house of Messrs. Bussell & Co., at a salary of $4,000 per annum, and in order to liquidate my indebtedness to you of $9,941.88 as per account rendered yesterday, I now pledge to you to remit you from China the sum of $3,000 (three thousand dollars per annum), in quarterly payments, until the said account is closed. There shall be no failure on my part, and I trust with this assurance and the letter enclosed, that this arrangement will be satisfactory and that you will release the bonds in question.
+I am, dear sirs,
+Very respectfully yours,
+J. M. Mur.
+On the receipt of these letters, the bonds were surrendered by the plaintiffs.
+Mr. Baymond also testified that he had an interview with the defendant in August, 1885, at which time the defendant called upon him at his office in answer to several letters that he had written to him in regard to the claim against him, on which occasion he said that Mur had left their employment, and that although it was hard on him, he proposed to stand up to his guaranty. The bonds, it appeared, belonged to OHphant & Co., and Mur never had any title to them. Indeed, it may be inferred that he had improperly obtained possession of them, which was doubtless the reason why he could not leave until they were surrendered. The defendant stated on his examination that he had no knowledge that there were any bonds in the possession of the plaintiffs as bonds ; but he did know that it was necessary for Mur to get possession of some securities in the hands of the plaintiffs before he could keep the engagement he had made with the firm of Bussell & Co., of Shanghai, and although the defendant at first stated he would have nothing whatever to do with it, finally determined that he would, and did by the letters which were written. The testimony of Mr. Forbes undoubtedly justified the conclusion that he knew they were securities in the hands of the plaintiffs which Mr. Mur desired to be surrendered, and that for the purpose of obtaining such surrender he wrote the letter mentioned. Indeed, he said, “The reason given by Mr. Mur why he wanted those securities was (he said that he could not go away), that he owed this debt to Barney, Raymond & Co., with these securities in their hands. The understanding was that these securities had a certain .value, and they were unwilling to relinquish the securities unless they had some arrangement made with me that a part of his salary would be remitted. It was with that understanding that I wrote that letter.”
+It is insisted that the engagement of the defendants is void within the statute of frauds, inasmuch as no consideration is stated in the contract. It is not necessary to consider this proposition, as the consideration clearly and distinctly appears, which was the surrender of the securities. The letter of the defendant refers to the indebtedness of Mr. Mur, and the accompanying letter of Mur refers to the bonds, and expresses the hopo that the agreement of the defendant, which was sent at the same time with his own letter, will be satisfactory and that the bonds will be released. The statement of the defendant that his letter was written with reference to the bonds, which were by him designated as securities, was received and given without objection.
+The consideration sufficiently appears by those two papers thus considered. .
+_ Aside from that, however, the promise is an original one, and comes within the third class of cases enumerated in Leonard v. Vredenburgh (8 J. R,, 28), viz., where the promise to pay the debt of another arises out of some new and original consideration of benefit or harm running between the newly contracted parties. In this class of cases the subsisting liability of the original debtor is no objection to a recovery. And when the purpose of the promise is to secure a benefit to the promissor by relieving his property from a hen, or securing or confirming his possession, the promise is original and not collateral, although a third person may be personally hable for the debt, and the promise may be in form a promise to pay such a debt,_ and although the performance of the promise may result in discharging the debt. See, also, Pume v. Cooler, 77 N. Y., 91, and cases cited; Ackley v. Parmenter, 93 id., 425.
+The facts as they have been detailed show that the services of Mur as bookkeeper had been secured for the China House, of which the defendant was a member, and that having stated his inability to proceed thither on account of his indebtedness to the plaintiff, the written engagement was entered into for the purpose of enabling him to keep his contract with the defendant’s firm, and thus the promise was made for the benefit of the defendant. It must also be said that the contract resulted in harm to the plaintiffs, who gave up m consequence of the engagement the bonds which they held as security for Mur’s debt.
+It is suggested that the bonds not having been owned by Mur, and the plaintiffs having no title to them, the sur render did not amount to any consideration whatever. But this is an erroneous proposition. The possession of the bonds gave the plaintiffs a quasi title to them, and left the question of their right to retain them one which might be contested, and successfully.
+Whatever interest they had in the bonds, whether legal or equitable, they abandoned by the surrender; and that was sufficient beyond doubt to create a circumstance to their prejudice.
+The exception to the exclusion of evidence showing the period during which Mur was in the employ of the defendant, was not argued on the brief, and it is supposed was abandoned. It is sufficient to say, however, that from the character of the engagement made, • the testimony was properly excluded as irrelevant.
+For these reasons we think the judgment was right, and it should be affirmed, with costs.
+Daniels, J., concurs.
