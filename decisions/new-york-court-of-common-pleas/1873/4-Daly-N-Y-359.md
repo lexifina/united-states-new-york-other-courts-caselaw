@@ -1,0 +1,24 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1873-01"
+citations: ["4 Daly (N.Y.) 359"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herman Funk v. Mario Brigaldi."]
+source_url: "https://static.case.law/daly-ny/4/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 910840
+cites_cases: ["1 Daly, 487", "28 Verm. 425", "33 Penn. 522", "4 Met. 310", "40 Miss. 91", "40 N. Y. 297", "48 N. Y. 278"]
+---
+
+# Funk v. Brigaldi
+
+## Majority (By the Cotjbt.—Robinson, J.)
+
+By the Cotjbt.—Robinson, J.
+—The facts of the ease are briefly these. Plaintiff sold defendant a dwelling-house and lot, No. 407 Sixty-first street, in this city, and while negotiating the sale and as an inducement to the purchase, informed defendant that “ the house was complete and ready for him to move into, and that all he. had to do was to walk in and light the gas, as it was complete.” The contract of purchase made no allusion to any gas fixtures, but some few weeks after the sale, and after defendant had been in possession, plaintiff for the first time asserted ownership of the gas fixtures in the house; made a demand of the defendant for-their redelivery, which was refused, and then brought this action to recover damages for their wrongful detention. They consisted of chandeliers and brackets that could be unscrewed from the gas-pipe, “ without injury to anything else.” On the trial, the question eliciting the preliminary conversation, and plaintiff’s before-mentioned statement inducing the purchase, was objected to on his part, but allowed, to which he excepted, and on this appeal his counsel claims it was inadmissible, as tending to vary the written contract of sale. He refers to Shaw v. Lenke (1 Daly, 487) decided at general term of this court in 1865, as controlling. That case held that as between grantor and grantee, the mere conveyance did not ex proprio vigore grant “ gas fixtures ” as fixtures, under the legal import of the term, and as part of the realty. To the same effect are Montague v. Dent (10 Rich. (S. C.) 135); Vaughan v. Haldeman (33 Penn. 522); Rogers v. Con (40 Miss. 91); but contra, Hays v. Doane (3 Stock. (N. J.) 96); Wash, on Real Prop. (3d ed.) 17. The case of Shaw v. Leake, supra, must be followed, so far as it controls the question presented in this case, but -it does not assume to prevent the introduction of parol testimony “ to amnex incidents ” to the grant, and show that these gas fixtures had legally become “ fixtures,” intended by the owner “ ad integrand/u/m domumfi with a view to render the dwelling-house complete for the purposes of its occupancy and full enjoyment as a residence (1 Greenl. Ev. § 294; 1 Wash. Real Prop. 17). In the consideration of the question, whether certain articles, which in their nature are mere chattels, have become part of the freehold, by mere attachment and ordinary use therewith, for the general purposes to which it is adapted and employed (Lawton v. Salmon, 1 H. Bl. 251), the mere intention of the owner, evidenced by according acts, is sufficient to so appropriate and convert personal chattels into fixtures annexed to the freehold, that they would pass by his deed to his grantee. This case (by the affirmative extrinsic evidence uncontradicted by plaintiff) conforms to the requirements, in this respect, accepted and adopted as law in the most recent decisions on the subject by the Court of Appeals, in Potter v. Cromwell (40 N. Y. 297). “¿First. Actual annexation to the realty or something appurtenant thereto. Second. Application to the use or purpose to which that part of the realty with which it is connected, is appropriated. Third. The intention of the party making the annexation, to make a permanent accession thereof to the freehold.” It furnished evidence that the gas fixtures had been put in “ to enhance the general value of the estate and not for its temporary enjoyment ” (Winslow v. Merch. Ins. Co. 4 Met. 310), which being uncontradicted by the plaintiff, present as a witness on the trial, became conclusive on that point. I am of the opinion'thát the proof of plaintiff’s statement tending to show the gas fixtures had been annexed by the owner for that purpose was admissible, and that fact being shown affirmatively, they strictly became annexed to the freehold, within the principles of Hill v. Wentworth (28 Verm. 425); cited and adopted in Potter v. Cromwell (supra), and also Voorhees v. McGinnis (48 N. Y. 278).
+The attempt of the plaintiff to recover for these gas fixtures, after presenting them, in their complete condition, as an inducement for the defendant to purchase the property, was certainly inequitable, and it is satisfactory that a full answer at law exists to his unconscientious demand.
+The judgment should be affirmed.
+Judgment affirmed.
+Present, Daly, Oh. J., Robinson and Loew, JJ.
