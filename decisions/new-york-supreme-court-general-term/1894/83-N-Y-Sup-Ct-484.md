@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03"
+citations: ["83 N.Y. Sup. Ct. 484"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., and Parker, J., concurred."]
+parties: ["Minnie L. Ackerman, Respondent, v. The Third Avenue Railroad Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/83/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4720688
+---
+
+# Ackerman v. Third Avenue Railroad
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+This action was brought to recover damages resulting from a personal injury caused, as alleged and found, by the negligence of the defendant’s employees.
+On June 28, 1891, the plaintiff was a passenger on one of the defendant’s open cars, which left the track at a curve and collided with a post on the elevated railroad. The car struck the post with such force that one of the passengers was thrown forward to the street, and the plaintiff was thrown forward on to a seat in front of her, and to the car floor, causing injuries from which she has not recovered.
+The defendant asks for a reversal of the judgment on the following grounds:
+First. Because the court refused to nonsuit the plaintiff;
+Second. Because the court refused to charge four additional requests preferred by the defendant ;•
+Third. Because the court refused the defendant’s request that the official stenographer be directed to enter in his minutes statements which the defendant’s counsel asserted that the plaintiff’s counsel made in summing up to the jury;
+Fourth. Because the court denied the motion for a new trial on the minutes.
+No exceptions were taken to the rulings admitting or excluding evidence-, and no exceptions were taken to the charge as delivered. Before the court charged the jury the defendant preferred twenty-six requests, all of which were charged except the eleventh, twelfth, fifteenth and twenty-fifth, which were withdrawn. The defendant ■also preferred, before, the charge was delivered, four additional requests. It is not asserted that any one of those was justified by the evidence, but it is alleged that they were by the remarks of the plaintiff’s counsel in his address to the jury. No objections were taken to the remarks when made, nor was the attention of the court ■called to them until after the jury returned to the bar of the court, and announced that it had agreed on a verdict; whereupon the defendant made this request: “ Before the verdict is taken, I make ■an application that the stenographer may note that in the summing up, plaintiff’s counsel referred to the affliction of the parents and their ■suffering by reason of this injury. The point of my application being that some of my last requests to charge were made in view of that, and I think that I am entitled to that on record. Request declined, and defendant excepts.”
+At this stage of the trial the court was under no obligation to grant tlie request. If tlie defendant desired to object to tlie remarks of tlie plaintiff’s counsel lie should have done so when, made, or at least not later than at the conclusion of his address. The court may, in its discretion, refuse to entertain exceptions taken after the jury has returned to the bar of the court with its verdict. (Code Civ. Proc. § 995.) And it is then too late to lay the foundation for exceptions to matters which have previously occurred in open court. The exception taken to the refusal of the court to charge the four additional requests was not error.
+"Without stating the evidence, we think it was sufficient to justify the finding of the jury that the negligence of the defendant’s servants caused the accident, and that the plaintiff in no way contributed thereto. Nor can we say that the damages were excessive.
+The court did not err in refusing a nonsuit or in refusing to grant a new trial on the ground that the damages were excessive.
+The judgment and order should be affirmed, with costs.
+Van Brunt, P. J., and Parker, J., concurred.
+Judgment affirmed, with costs.
