@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-10"
+citations: ["3 N.Y. St. Rep. 431", "49 N.Y. Sup. Ct. 159"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick J. Blaesi et al., App’lts, v. Caroline Blaesi, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/3/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1978648
+cites_cases: ["13 N. Y., 509", "25 N. Y., 328", "31 Barb., 371", "32 Barb., 250", "32 N. Y., 423", "35 Hun, 267", "44 N. Y., 36", "7 Cow., 360", "86 N. C., 139"]
+---
+
+# Blaesi v. Blaesi
+
+## Majority (Bradley, J.)
+
+Bradley, J.
+Action to establish a deed of conveyance alleged to have been made by the defendant to Jacob F. Blaesi, her husband, deceased. He having title, conveyed the premises to one Jacob Stubenbord, May 18, 1874. And on May 17, 1877, he married the defendant. On June-, 1877, Stubenbord conveyed the premises to her. Jacob died intestate in December, 1883. The plaintiffs are his heirs-at-law, and they allege that the defendant made and delivered to him in 1882,- a" deed of conveyance of the land in question.
+They demand judgment that the deed may be produced, and that they be adjudged the owners of the premises as .such heirs, subject to her right of dower. The allegations of conveyance are put in issue by the defendant’s answer. The trial court found that the defendant took title from Stubenbord, and has since continued to be, and is the owner, and in the possession of the premises; and directed judgment dismissing the complaint on the merits.
+There was evidence tending to prove that the defendant executed á deed of the premises, and acknowledged its execution before a notary public, which in terms conveyed them to her husband in 1882, or 1883, prior to his death; that after his death the deed was in a desk which contained his papers, and that the consideration expressed in it was §1200. All the evidence given of facts material on the subject was that of the plaintiffs. And whatever view may be taken of its terms as expressed by their testimony, their relation to the action and the interest they had in the event, presented a question of credibility for the court to determine. In that view, without considering any other, the conclusion may be deemed supported. And for the same reason, the exception to the refusal of the trial court to find the execution and delivery by the defendant to her husband of the alleged deed, was not well taken. The burden was with the plaintiffs to establish by satisfactory evidence all the facts requisite to the relief asked for. The defendant had the apparent title to the premises by deed of conveyance produced at the trial. The plaintiffs sought to prove that by an unproduced deed she had conveyed the land to her husband. This required its execution and delivery by her to him. Then it would be void at law. And for the purpose of obtaining the assistance of equity to establish it as a conveyance of the property by her to her husband, a valuable consideration was requisite. And the circumstances under which the deed is executed by a wife to her husband will also be considered upon the question whether it should and will be supported as a conveyance. Shepard v. Shepard, 7 John. Ch., 57; White v. Wager, 25 N. Y., 328; affirming, 32 Barb., 250; Winans v. Peebles, 32 N. Y., 423; reversing, 31 Barb., 371; Hunt v. Johnson, 44 N. Y., 36; Johnson v. Rogers, 35 Hun, 267; Warlick v. White, 86 N. C., 139; S. C., 41 Am. Rop., 453.
+The evidence tending to prove that the alleged deed expressed the consideration of §1,200, may have been sufficient to permit, although not to require the conclusion that the instrument contained the acknowledgment of the receipt of such sum; which, if so found, might constitute some evidence of such consideration (Jackson v. McChesney, 7 Cow., 360; Wood v. Chapin, 13 N. Y., 509), but what force it should have as such, or whether entitled to any, would depend upon circumstances which require no consideration on this review.
+The difficulty arises upon exceptions taken to the exclusion of evidence on the trial. One of the plaintiffs testified that a conversation took place between the defendant, her husband, and himself. And his evidence of such conversation was excluded as incompetent under Code of Civil Procedure, § 829. The witness was a party, and interested in the event, and was examined in his own behalf and interest and that of his co-pkdntifcs, but not against the executor, administrator or survivor of a deceased person, or a person deriving title from, through, or under a deceased person.
+The defendant took her title from a person other than her husband, and although her grantor took his title from him, that fact does not presumptively place her within the relation to the deceased required to give application to the inhibition of the statute referred to.
+Her grantor would be excluded as against her from testifying to personal communication had by him with the deceased. This contest is between the defendant and the heirs of the decedent. They claim under him, and as against them the defendant would not be permitted to relate personal transactions or communications had by her with him in his lifetime, but their transactions with him as against her do not seem to come within the letter or spirit of the provisions of such section.
+The exception to tho exclusion of the evidence seems to have been well taken. And we think the striking out the statement of the witness that he saw the deed in the possession of the husband was error, not only for the reason before given, but because it did not, as it stood) tend or purport to prove any personal transaction between him and the witness.
+There seems to have been no error upon the trial or in the decision, other than in the ruling excluding and striking out the evidence referred to. And for those reasons the judgment should be reversed and a new trial granted.
+Costs to abide event.
+Smith, P. J., and Barker, J., concur.
