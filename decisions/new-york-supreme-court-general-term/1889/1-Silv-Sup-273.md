@@ -1,0 +1,50 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-12"
+citations: ["1 Silv. Sup. 273", "24 N.Y. St. Rep. 165"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles F. Brown, as Administrator, etc., Respondent, v. Simeon Klock, Appellant."]
+source_url: "https://static.case.law/silv-sup/1/cases/0273-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1099741
+cites_cases: ["101 N. Y. 427", "101 N. Y., 427", "19 Hun, 450", "49 Hun, 450"]
+---
+
+# Brown v. Klock
+
+## Majority (Merwin, J.)
+
+Merwin, J.
+—The cause of action of the plaintiff, as presented at the trial, was based on an instrument, reading as follows:
+“ Oneida Community,one note,dated June 1,1880, $1,029 13
+One note on the State Bank of Oneida......... 1,429 10
+One note of Robert Klock..................... 220 00
+One note William Siver...................... 400 001
+One note George W. Ball.................... 100 00
+One note Charles F. Brown, January, i, 1880.. 200 00
+One note of John Oaks, September 27,1880, due E. K. Petrie............................... 128 00
+SIMEON KLOCK.”
+In order to prove the signature of the defendant to this paper, the plaintiff himself was called as a witness and asked this question: “ Whose signature is that to that paper? ”
+Objection was made that witness was not shown competent to speak from knowledge of the signer’s handwritings and indirectly seeking to show a personal transaction between the witness, a party interested, and a lunatic, and not competent under section 829 of Code.
+The witness, then, in answer to preliminary questions of defendant’s counsel, said: “I know Simeon Klock’s handwriting , I have seen him write at Oneida, February 15, 1888, not more than once. I say from seeing him write that one time, I know his handwriting. I do not base my knowledge exclusively upon that time. My answer would be based upon what he had said to me partly as well as upon the fact of seeing him write.”
+Then to plaintiff’s counsel, the witness said: “ I heard Klock testify in this matter at Oneida, within a year, to his signature. The paper was shown to him at that time.”
+The objection was then overruled, and defendant excepted " and the witness answered: “ I know the signature of Simeon Klock; the signature at the end of exhibit “ A ” is in the handwriting of Simeon Klock. It is his handwriting.” The paper was then offered, and received in evidence.
+The witness showed that he had-sufficient knowledge to speak as to the handwriting of the defendant, and the only question is whether he was disqualified from speaking, under section 829, and that depended upon the force to be given to the fact testified to by him that his answer would be based partly upon what the defendant had said to him-.
+It is not clear whether this referred to what Klock testified to at Oneida, or to something else. At most, the answer given only indirectly related to a communication between the witness and defendant—and it is very questionable whether it is within the purview of the statute. Be that as it may, in our view of the other evidence in the case, it is not important.
+A similar' question was raised as to the evidence of the witness, Jane H. Brown, in relation to what occurred between the defendant and Mrs. Petrie when, as it was claimed, the defendant signed this paper. Mrs. Brown was a legatee under the will of Mrs. Petrie and was one of her heirs. Prior to giving her evidence, Mrs. Brown was paid her legacy by the plaintiff and released the plaintiff and the estate from all claim, including any claim on any residue, so that, at the time of testifying, she had no interest in the estate. But it is suggested that she was liable to refund in case there was not enough to pay the other legacies, as there would not be, were there no recovery here. It was a voluntary payment by the plaintiff, and he therefore under any ordinary circumstances could not compel the legatee to refund. (2 Wm. Exrs., 6th Am. Ed., 1560), and it has been held that an unsatisfied legatee cannot maintain an action against a satisfied legatee as long as the executor is solvent. (Id. 1562.) It is not shown here that the plaintiff is insolvent.
+But there is a further answer to the objection made to Mrs. Brown’s evidence, and that is that the preliminary examination by the defendant’s counsel, shows that the witness took no part in the conversation or transaction, and therefore was competent to speak. Simmons v. Havens, 101 N. Y. 427. Afterwards, there was evidence given tending to show that Mrs. Brown did take some part in the interview, but no motion was made to strike out or disregard the evidence given by her as to the signing the paper.
+A motion was made to strike out other evidence given by her, that was not objected to at all at the time it was given. That motion was properly denied.
+Aside from the evidence of the plaintiff himself, and of Mrs. Brown, there is in the ease abundant evidence to require the finding that the defendant executed the paper. If so, then any error in the admission of the plaintiff’s evdence would not avail. Direct evidence on the subject is given by Mr. Rogers, one of the attorneys for the plaintiff- and he is corroborated by another witness produced by plaintiff, apparently disinterested, and also a witness in, troduced by defendant, gives evidence in the same direction.
+No evidence is given by the defendant as to the handwriting of defendant to the paper. A son of defendant, who did business for lfis father at the time, was on the stand as a witness, but was not interrogated on the subject.
+In fact the. defendant does not, in his answer, deny his signing such a paper, but says that he has no recollection of signing it, and, if he did, it was intended merely as a memorandum of property belonging to Mrs. Petrie, and not as an obligation to pay.
+We must assume, therefore, that the instrument of September 27, 1880, was executed by the defendant. Upon its face it indicates that the defendant had in his hands the property there described, to be paid or accounted for to Mrs. Petrie. She and the defendant were relatives, and he had acted as her agent and adviser in the management of her business affairs; had had charge of her business for several years.
+It was conceded that Mrs. Petrie or the plaintiff have had all the items named in the paper, except the second one. It was also conceded by the defendant, that on September 27, 1880, Simeon Klock had no note of $1,420.10, on deposit in the State Bank of Oneida, and never had. It was shown that Klock, on June 3, 1879, had on deposit in the Oneida Valley National Bank, a balance of $1,168.66; which, at that date, was drawn by his son, acting for him, and deposited in the Central Bank, and a certificate of deposit taken, payable to order of Simeon Klock, at five per cent interest. On the 3d June, 1880, this certificate was taken up, and a new one given, for $1,427.10, in same form.
+The amount of this was apparently the amount of the other and the year’s interest and $200 in addition. On June 3, 1881, the certificate of the year before was taken up and a new one given for $1,4-50. On the 15th August, 1881, the certificate of June 3, 1881, was surrendered, being endorsed by Simeon Klock, and in its place a certificate given for $1,250, dated June 3, 1881, and payable to the order of Klock, and also a draft for $200, payable to order of C. F. Brown, which was sent by the cashier of the bank to Brown by letter stating it was from E. K. Petrie.
+The referee has drawn the inference that the business at the bank was done by Simeon Klock, and that by his direction the $200 draft was sent Brown as from Mrs. Petrie. This inference is warranted by the evidence. The $1,250 certificate was taken up September 10,1881, being endorsed by Simeon Klock. It is not shown what became of the money. Mrs. Petrie died in June, 1883.
+The referee finds that the certificate of $1,427.10 is ídenticál with the item of $1,429.10 in the paper of September 27, 1880. This finding is authorized bjr the evidence. This fund was separated by Klock from his ordinary account, and placed where he previously had no deposit. An obligation on some bank evidently was designed to be stated. The amounts are similar. The circumstance as to the $200 draft is somewhat significant. It was incumbent on Klock to show a mistake in the entry of such an amount in the instrument, or to account for the obligation or the amount. No such mistake is shown. Does it appear that it is accounted for ? There is evidence on the part of defendant of statements made by Mrs. Petrie that she had her business in her own hands, except the Robert Klock note; that she had got her papers and money. The time when some of the statements were made is quite indefinite. On the other hand, there is evidence that the defendant^ when this claim was presented after Mrs. Petrie’s death, recognized it as correct. The certificate of $1,250 was paid September 10, 1881. If, as claimed by defendant in his answer, there was a settlement between defendant and Mrs. Petrie in December, 1881, the proceeds of that certificate would be an important factor in such settlement. Still, how or to whom that certificate was paid was not shown, although the officers of the bank, as well as the son of the defendant, who was then doing business for him, might apparently have given some light on the subject. The burden was on defendant to show the settlement.
+We think the referee was justified in his conclusion that there was no such settlement.
+The plaintiff put in evidence one count of defendant’s answer. This did not prevent the plaintiff from showing that some statements in that count were not correct. Some other suggestions are presented by the defendant’s counsel, but no error is developed affecting in any way the result.
+It follows the judgment should be affirmed with costs.
+All concur.
