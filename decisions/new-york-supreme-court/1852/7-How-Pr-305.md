@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1852-10"
-citations: ["7 How. Pr. 305", "7 How. Pr. 303"]
+decided_precision: "month"
+citations: ["7 How. Pr. 305"]
 reporter: "how-pr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
