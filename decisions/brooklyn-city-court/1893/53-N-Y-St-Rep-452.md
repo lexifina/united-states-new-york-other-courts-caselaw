@@ -1,0 +1,27 @@
+---
+court: "Brooklyn City Court"
+decided: "1893-06-27"
+citations: ["53 N.Y. St. Rep. 452", "23 N.Y.S. 1031", "4 Misc. Rep. 288"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ada Brooks, Resp’t, v. The Kings County Elevated Railroad Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/53/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686159
+cites_cases: ["134 N. Y. 418", "134 N. Y., 418", "31 N. E. Rep. 870", "47 St. Rep., 631"]
+---
+
+# Brooks v. Kings County Elevated Railroad
+
+## Majority (Osborne, J.)
+
+Osborne, J.
+Plaintiff obtained a. verdict against the defendant for damages for injuries alleged to have been sustained by her through the negligence of the defendant’s servants. From the judgment entered thereon and’ an order denying motion for a new trial defendant appeals. The main ground on which the learned counsel for the defendant asks for a reversal is that the verdict was against the weight of evidence.
+Plaintiff testified on the trial that, on the afternoon of April 25, 1892, she started to cross Fulton street at or near the corner of Sands - street, passing under the elevated structure of the defendant; that someone called out “Look out, lady!” and pointed upwards; that she looked up and saw something falling from above and close to her head, and, fearing injury, she threw herself forward, and, in so doing, one ankle went under her, and she fell and broke the small outer bone of her leg near the ankle joint. The article which fell from the defendant’s structure was a large wrench weighing some ten or fifteen pounds, which one of defendant’s workmen came down from the elevated structure and got and took back with him. Plaintiff further testified that this wrench struck the ground with great force close by her. side; that she recrossed Fulton street, and went up the stairway leading to defendant’s station on her foot and the knee of the injured leg, told the agent there of her mishap, then picked up a piece of stick to aid her, and managed to hobble home. Ño other witness was called, by plaintiff to substantiate her statement
+On this evidence, we think the motion to nonsuit was properly denied. The falling of the wrench from defendant’s structure raised a presumption of negligence sufficient to put defendant to its proof to rebut the presumption, if it could, Volkmar v. Manhattan Railway Co., 134 N. Y., 418; 47 St. Rep., 631 and cases there cited, or to show that plaintiff was guilty of contributory negligence.
+Defendant called five witnesses, all employes of the Brooklyn City Railroad Company, for the purpose of contradicting plaintiff’s evidence; these men all testified to seeing the wrench fall; one of them, Jennings, testified that there was no woman within fifteen feet of the spot where the wrench fell at the time of its fall, and that a crowd gathered there within a minute; the other four testified that when the wrench fell they did not see any woman there, and they contradicted the witness, -McLaughlin, as to the gathering of any crowd.
+We cannot say that there was any such preponderance of evidence in favor of the defendant as to make it the duty of the learned trial judge to grant the motion to dismiss at the close of the testimony. The evidence of the plaintiff was of such a character as to warrant the jury in finding a verdict in her favor; hers was not a case with a mere scintilla of evidence to support it, or one creating a mere surmise of negligence on the part of the defendant; while there were some minor discrepancies in her statement, still they were not of such importance as to discredit her story of the manner in which she was injured. We can not but regard it as corroborative of plaintiff’s statement that she at once climbed up the stairs leading to defendant’s station as best she could, with.a view of calling the attention of defendant’s servants to the injury which she had sustained ; almost as soon as she got home the surgeon of the defendant called at her house, and she then signed a written statement as to how she was injured which did not materially vary from her evidence on the witness-stand. We think it highly improbable that this plaintiff, suffering from a broken bone in her leg, should have immediately fabricated a falsehood in order to make the defendant responsible for injuries which she had incurred in some other way. The jury heard her story, and they saw and heard the witnesses for the defendant testify, and they were certainly better able, under the circumstances, to judge of their credibility than we are, and we think their verdict should be upheld.
+None of the exceptions in the case seem to us to be well taken, or of sufficient importance to call for any discussion.
+The judgment and order appealed from should be affirmed, with costs.
+Clement, Ch. J., concurs.
