@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-01"
+citations: ["46 N.Y. Sup. Ct. 378"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Follett and Churchill, JJ., concurred."]
+parties: ["ELIZABETH PRITCHARD, Appellant, v. JOHN W. HIRT, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/46/cases/0378-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4501816
+cites_cases: ["14 N. Y., 567", "19 Barb., 634", "68 N. Y., 30", "68 N. Y., 444", "69 N. Y., 373", "78 N. Y. 446", "88 N. Y., 526"]
+---
+
+# Pritchard v. Hirt
+
+## Majority (Hardin, P. J.:)
+
+Hardin, P. J.:
+Vanderlip v. Keyser (68 N. Y., 444) requires a holding that the case, as made up, does not present to us an exception as to the ruling upon the trial upon defendant’s motion' for a nonsuit, or to dismiss plaintiff’s complaint. Appellant should have had his case show a distinct ruling and an exception. The referee at least “ should have been requested to decide the motion as of that time, and if he had refused to do so an exception taken to such refusal. If the motion had been granted an exception should have been taken to his decision.” (Miller, J., page 445.) Such should have been the case brought to us, if the appellant would reverse the finding or the decision of the referee as one of law that there was no evidence to sustain the complaint as to plaintiff’s ownership of the note. We are called upon to treat the referee’s report as one passing upon the eyidence and upon the merits of the case made by the evidence. The question of fact and the rulings and exceptions taken in the progress of the trial are here for review.
+Second. Plaintiff’s position was that her husband gave her the note in question in August, 1876, before it fell due. That he handed the note to her and that she by a gift inter vivos took the absolute possession and title to the note from her husband. Her husband corroborates her in a narrative of the facts and circumstances attending the interview and delivery of the note He was then asked by plaintiff’s counsel, viz.: “ At the time you handed these notes to your wife, did you intend to part with the title and give the notes to her ? Defendant objected as incompetent, calling for a conclusion not fact. Plaintiff took an exception to the ruling excluding the evidmce.
+We think the referee fell into an error. Whether a gift was made or not, was a question of fact. A delivery of the note with an intention to give it to plaintiff was essential to establish a valid gift. (Trow v. Shannon, 78 N. Y. 446; Young v. Young, 80 id., 422; Jackson v. Twenty-third Street Ry. Co., 88 N. Y., 526.)
+What the intention of the husband was at the time of the delivery was^a fact not only essential to plaintiff’s theory of a gift, but it bore upon the position taken by the defendant that the delivery was to the plaintiff to enable her <(to keep the note” for the husband. If the husband had died and the plaintiff was seeking to establish the gift she would be permitted to prove the declaration of the husband, that it was his intention to give the note to his wife and that such was his intention when he delivered it to her. (Hunter v. Hunter, 19 Barb., 634; Seymour v. Wilson, 14 N. Y., 567; Forbes v. Waller, 25 id., 439.)
+The fact that the husband was alive at the trial, and could give evidence of his intention does not change the rule or the principle upon which it rests. It merely alters the mode of proof. In conjunction with the facts attending the delivery of the note, it was competent to prove the actual intention of the donor of the note at the time of the alleged gift. We think the evidence was improperly excluded by the learned referee and that the exception presents an error which requires a reversal.
+The evidence was conflicting before the referee, and we cannot say that he would not have been influenced by the evidence excluded. Certainly, the evidence related to the very pivotal point upon which the plaintiff was turned out of court without a recovery. Plaintiff had given prima facie evidence by production of the note of ownership. She had testified to ownership herself; had stated a gift to her, and her husband had corroborated her in many essentials. He was not allowed to add the fact that it was his intention, at the time of the delivery of the note to her, to make a gift of it to her. For the error thus pointed out, we think there should be a new trial. Plaintiff was only called upon to make out a valid transfer of the note to establish the legal title to it. Apparently upon the evidence before us, the defendant had no legal interest to inquire “whether the transfer was an actual sale or merely colorable, or whether a consideration was paid therefor,” or whether as between the husband and wife the gift was for good motives or not. (Sheridan v. Mayor, 68 N. Y., 30.) In either event a payment of the note by the defendant to plaintiff, or a recovery against him would bar the plaintiff and her husband, the former owner of the note. A formal transferee may be the real party in interest. (Code of Civil Pro., § 449; Merchants’ Bank of C. v. U. R. R. & T. Co., 69 N. Y., 373; Hays v. Hathorn, 74 id., 486; Sullivan v. Bonesteel, 79 id., 631.) When the husband was on the stand, the referee did not allow him to state that he was not owner of the note. We think the referee held the plaintiff within too-narrow compass in regard to her evidence, and that a new trial should take place.
+The judgment should be reversed, and a new trial ordered before another referee, with costs to abide the event.
+Follett and Churchill, JJ., concurred.
+Judgment reversed, and a new trial ordered before another referee, with costs to abide event.
