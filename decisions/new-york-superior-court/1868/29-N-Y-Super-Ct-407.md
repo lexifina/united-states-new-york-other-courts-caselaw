@@ -1,0 +1,39 @@
+---
+court: "New York Superior Court"
+decided: "1868-12-31"
+citations: ["6 Rob. 407", "29 N.Y. Super. Ct. 407"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The East New York and Jamaica Railroad Company, plaintiff and appellant, vs. William A. Lighthall, defendant and respondent."]
+source_url: "https://static.case.law/ny-super-ct/29/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1395644
+cites_cases: ["1 Sandf. Ch. 280", "15 N. Y. Rep. 9", "17 N. Y. Rep. 507", "2 Rob. 278", "21 N. Y. Rep. 124", "3 Duer, 241", "30 Barb. 246", "40 Barb. 256"]
+---
+
+# East New York & Jamaica Railroad v. Lighthall
+
+## Majority (By the Court, Monell, J.)
+
+By the Court, Monell, J.
+The question which was submitted to the jury in this case was, whether Degrauw agreed with the defendant to receive the coal stock in payment for his subscription; and they were instructed that .if they so found, the agreement was binding upon the plaintiff.
+If it was proper to submit such question to the jury, their verdict cannot be disturbed. The evidence was conflicting, and therefore not open for review upon these appeals.
+But it is claimed that, notwithstanding Degrauw’s agreement, the receipt of the coal stock by him was not payment to the plaintiff, for two reasons; first, because the plaintiff had no power to receive any thing other than money in payment of subscriptions to its capital stock ; and, second, because Degrauw had no authority to receive it, or to bind the plaintiff by any agreement that it should be received in payment of the defendant’s subscription.
+Independently of the evidence furnished by 'the plaintiff, that Mr. Degrauw was expressly authorized by them to collect stock subscriptions, I think he had power to do so, by virtue of his office, as president of the company.
+Corporations cap act only by and through their agents; for, although in' law a person, and capable of exercising all the functions conferred upon it by law, a corporation is yet, as a corporate aggregation, incapable of exercising such functions otherwise than through its officers and agents. Hence the acts of such officers and agents, performed within the scope of their general official duties, are binding upon the corporation. Ordinarily, corporations do not differ from persons in the effect which is to be given to the acts of their agents. If the corporation has power, it may delegate such power; and it is only when prohibited by law, or the act is not incidental to the purposes of its incorporation, that it is ultra vires, and void. (Sharp v. Mayor of New York, 40 Barb. 256.)
+Receiving payment of subscriptions to its capital stock was no more out of the line of the president’s duty, than receiving payment of any other debt, and it cannot be pretended that such receipt, had it been in money, would not have bound the plaintiff, even although it never came to its possession. And the fact testified to by the secretary, that no one was authorized to receive any thing other than money, cannot impair the effect which must be*given to the payment made by the defendant.
+In this case, however,- there was express authority given to the president of the company, and it therefore follows that his act is binding on the plaintiff, unless the plaintiff itself was incapable of receiving any thing but money; and that is so, notwithstanding the authority given to the president may have been limited, in terms, to collections in. money only. (Clark v. Metropolitan Bank, 3 Duer, 241.)
+It is a familiar principle, that the act of the agent, although in abuse or excess of authority, if within the general scope of the business he was employed to transact,' is binding upon his principal, as respects third persons, who, believing in the power of the agent, would sustain a loss if the act was not considered that of the principal. Hope Mutual Life Insurance Company v. Taylor, 2 Rob. 278.)
+It remains then to be seen, whether the plaintiff had power to receive payment otherwise than in money, for subscriptions to its capital stock.
+Every corporation has, besides the powers expressly conferred by its charter, certain common law powers, which may be exercised in furtherance of the purposes of the corporation. Such common law powers are the same as those possessed by individuals, and may be employed in the same manner, unless restricted by some positive or clearly implied prohibition of law. (Barry v. Merch. Exch. Co., 1 Sandf. Ch. 280. DeGroff v. Am. Linen Thread Co., 21 N. Y. Rep. 124.) And the objection that an act of a corporation is ultra vires ‘rests upon the absence of either express or implied power, and not upon the wrong use of it, especially where such wrong use may work injury to innocent persons.
+These common law or implied powers in a corporation were fully recognized in Curtis v. Leavitt, (15 N. Y. Rep. 9,) where it was held that a corporation had power to contract a debt, and give its time obligation for its payment. And in a later case, (City Bank of Columbus v. Bruce, 17 N. Y. Rep. 507,) the receipt by a corporation of its own stock in payment of a debt due to it was sustained, as being within the incidental powers of the corporation. The court there say, (Selden, J.,) “I am not aware of any common law principle which forbids it, nor is it known to have been in contravention of any provision of the charter of the company.” And in Magee v. Badger, (30 Barb. 246,) a railroad corporation took the promissory notes of a subscriber in payment of his subscription for stock, and it was upheld.
+I have looked into the charter of the plaintiff’s company, and also at the provisions of the Revised Statutes to which the charter is subject, and do not find any limitation to the ordinary implied powers of all corporations,.'nor any provision which, either in express terms or by necessary implication, defines the thing which the plaintiff shall receive in payment for debts due to the corporation.
+I do not think any question, whether receiving coal stock of another company was within the purposes of the plain- • tiff’s corporation, is involved in the present case. If this was an action upon an executory contract, to compel the plaintiff to receive the stock in payment for the defendant’s subscription, it might be said that dealing in such stock was foreign to the purposes of the company, and the contract therefore not within its implied p'owers. But in this case the contract was executed. The stock had been received by Degrauw in payment of the defendant’s subscription, and, as has been seen, such receipt was the receipt of the plaintiff, and cannot now be rejected upon any plea of want of authority.
+And although the plaintiff has not reaped the fruits of the transaction, it must, nevertheless, be concluded by the act of its agent, and not seek to inflict a wrong upon an innocent person who, believing in the competency of the agent to act on behalf of his principal, had dealt with him accordingly.
+I am of opinion that the judgment and order appealed • from should be affirmed.
+
+## Concurrence (Garvin, J.,)
+
+Garvin, J.,
+concurred.
