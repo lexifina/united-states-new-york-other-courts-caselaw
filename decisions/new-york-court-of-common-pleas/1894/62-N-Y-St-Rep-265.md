@@ -1,0 +1,34 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1894-10"
+citations: ["62 N.Y. St. Rep. 265", "10 Misc. 24"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ellen Banzer, Pl’ff, v. Adam Banzer et al., Def'ts."]
+source_url: "https://static.case.law/ny-st-rep/62/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1985115
+cites_cases: ["100 N. Y. 287", "100 N. Y. 293", "128 N. Y. 263", "129 N. Y. 17", "133 N. Y. 309", "15 N. J. .Eq. 80", "18 Abb. N. C. 90", "18 Am. Dec. 383", "20 N. Y. 320", "20 St. Rep. 430", "22 Wkly. Dig. 23", "26 Am. Rep. 64", "26 St. Rep. 487", "36 Am. St. Rep. 64", "40 St. Rep. 267", "41 St. Rep. 211", "45 St. Rep. 188", "5 Dem. 24", "51 Hun, 12", "54 Hun, 85", "81 N. Y. 356", "82 N. Y. 405", "88 N. Y. 228", "91 N. Y. 464"]
+---
+
+# Banzer v. Banzer
+
+## Majority (Pryor, J.)
+
+Pryor, J.
+In a suit for partition the case is this : John Maier and Michal Banzer were tenants in common ; Maier conveyed his undivided moiety to Susanna, the wife of Banzer; then Banzer executed a will disposing of his property in these words: “First after all my lawful debts are paid and discharged I give aud bequeath to my beloved wife, Susanna Banzer, all my real and personal estate now at present and hereafter in my possession; my real estate consisting at present of a part of a house known by the number 220 West Thirty-second street, Twentieth Ward, so as described in the deed of said house; and my personal estate, and whatever belonging to me at my dead ; whatsoever and wheresoever, of wat nature, kind and quality soever may be, that she shall have undisputed right, to do and dispose, acording her own judgment, that after her, dead, my beloved children • or their executor, administrator shall di vite the same chair and chair alike,” under and by virtue of the last clause, not otherwise, the plaintiff claims as co-tenant with the defendants.
+Counsel for the defendants objects that Michael and Susanna Banzer were tenants bv the entirety, and if such indeed was their estate it could not be the subject of partition. 4 Kent’s Comm. 363; Hardenbergh v. Hardenbergh, 5 Hals. N. J. 42; Thornton v. Thornton, 3 Rand. Ta. 179; Code of Civ. Proc., § 1532. But the position is untenable.
+It is only by a conveyance to husband and wife that they take as tenants by the entirety. Steltz v. Shreck, 128 N. Y. 263; 40 St. Rep. 267; Miner v. Brown, 133 N. Y. 309; 45 St. Rep. 188; Wright v. Sadler, 20 N. Y. 320, 323; Hulet v. Inlow, 26 Am. Rep. 64, and note; Bramberry’s Appeal, 36 Am. St. Rep. 64, and note; Den v. Hardenbergh, 18 Am. Dec. 383, note.
+If a man and woman holding an estate as co-tenants marry, they will continue to be joint tenants or tenants in common as before marriage. Moody v. Moody, Amb. 649; McDermott v. French, 15 N. J. Enq. 80, 4 Kent, 363.
+John Maier conveyed to the wife; not to husband and wife. Taking but the interest of Maier, Susanna Banzer became co-tenant with her husband, Jooss v. Fey, 129 N. Y. 17; 41 St. Rep. 211, as such was seized only of her grantor’s estate, arid of that in several and distinct freehold. 4 Kent, 367. The husband continued owner merely of his original- share, and no privity of estate subsisted between him and his co-tenant wife. 4 Kent, 368.
+If marriage between joint tenants or tenants in common be inoperative to create an estate by entireties, a fortiori does such effect not follow a conveyance to the wife alone by the husband’s co-tenant.
+Plaintiff’s counsel contends, however, that by virtue of the limitation over in the will of Michael Banzer, she is a co-tenant with the defendants, and so entitled to partition. If co-tenant at all, she is co-tenant only of Michael Banzer’s moiety ; for it was. of his own interest merely that he was capable of disposing — the other moiety being the property of Susanna Banzer.
+Upon the construction of the will before me, the conclusion is clear that the entire and absolute estate in Michael’s moiety, without limitation over, passed by the devise to Susanna Banzer.
+If the supposed limitation be inapplicable to the realty, then the gift and devise merely would" convey it in fee simple absolute; much more when coupled with an express and unrestricted power of alienation. Foose v. Whitmore, 82 N. Y. 405, 407.
+Conceding, however, that the supposed limitation applies as well to the real as to the personal property—a position strenuously contested by the defendants—the deduction is still inevitable.
+Bearing in mind that the will is obviously the composition of an illiterate layman, we observe that, without reservation or qualification, it gives and bequeaths all his property to Susanna Banzer, with the right to do with it and dispose of it according to her own judgment—an absolute and beneficial power of disposition.
+*■ The precise question presented, therefore, for our determination is, whether an executory devise can be made to depend on the non-execution by the first taker of an absolute beneficial disposing power vested in him by the will creating the limitation; or, in other words, whether there can be a valid executory devise where the executory limitation is conjoined with an absolute power in the primary devisee to defeat and cut off the future estate or interest by alienation of the entire fee in his lifetime, and whether it makes any difference as to the rights of the ulterior devisee, whether the power has or has not been exercised. This question is answered by an unbroken line of authorities in this state, and the almost uniform course of decision elsewhere, against the validity of such a limitation.” Andrews, J., in Van Horne v. Campbell, 100 N. Y. 287, 294; see, also, Campbell v. Beaumont, 91 N. Y. 464; Clarke v. Leupp, 88 N. Y. 228; Buckland v. Gallup, 22 Wk. Dig. 23; Griswold v. Warner, 51 Hun, 12; 20 St. Rep. 430; Rood v. Watson, 54 Hun, 85; 26 St. Rep. 487; Roseboom v. Roseboom, 81 N. Y. 356; Foose v. Whitmore, 82 N. Y. 405; Hermance v. Mead, 18 Abb. N. C. 90; Matter of Le Fevre, 5 Dem. 24.
+In the masterly opinion of Judge Andrews, the limitation under criticism is discriminated from a valid executory devise by the decisive test, that here “ is interposed between the primary and secondary limitation a disposing power whereby the first taker was entitled to dispose of the whole fee for her own benefit, and thereby cut off and defeat the ulterior limitation." 100 N. Y. 293.
+My conclusion is, that the limitation is invalid for repugnancy to the previous devise of the entire and absolute estáte. And, since the only claim of interest in the property by the plaintiff is by virtue of that limitation, it results that the complaint must be dismissed on the merits. .
+Judgment accordingly, with costs.
