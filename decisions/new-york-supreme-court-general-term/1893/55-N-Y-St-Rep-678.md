@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-12-06"
+citations: ["55 N.Y. St. Rep. 678"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Claim of George Clark for Damages for the Taking and Appropriating of Lands by the Water Commissioners of Amsterdam."]
+source_url: "https://static.case.law/ny-st-rep/55/cases/0678-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 694579
+cites_cases: ["130 N. Y., 11", "40 St. Rep., 489", "5 Barb., 393"]
+---
+
+# In re the Claim of Clark
+
+## Majority (Herrick, J.)
+
+Herrick, J.
+This is an appeal by the Water Commissioners of Amsterdam from an order of the special term, confirming as modified an award of commissioners of appraisal.
+The proceeding is a special one instituted by the petitioner Clark; under and by virtue of chapter 101 of the Laws of 1881, as amended by chapter 197 of the Laws of 1882. Under said acts, the Water Commissioners of Amsterdam are authorized to purchase and take land, and their proceedings in so doing are regulated by such statutes. It is conceded that the water commissioners took and appropriated this land in 1882, under and pursuant to the provisions of the aforesaid statutes, and have been using and occupying the property ever since.
+The petitioner commenced his proceedings for compensation for the land so taken and used March 14, 1892. Commissioners of appraisal, or of assessment, to determine the damage sustained by the petitioner, were appointed. At the time of the appointment of such commissioners, the water commissioners set up the statute of limitations in opposition to their appointment; again, after such commissioners had been appointed by the court, and before the examination of the witnesses, the water commissioners again objected to such commission proceeding, upon the ground that the petitioner’s claim was barred bv the statute of limitations.
+It is conceded that the petitioner’s claim to compensation accrued immediately upon the commission taking possession of the land in 1882, but the effect of the statute of limitations is sought to be avoided by the peculiar wording of § 5, chapter 197 of the Laws of 1882, which provides that in case the water commissioners shall fail to make an application to the court for the appointment of commissioners to determine the damage sustained by persons whose lands are taken “ before taking or using such lands and tenements, hereditaments, rights or property, then or at any time after the said commission shall take and use any such lands, etc., the owners of or parties interested in any such lands and tenements, hereditaments, rights or property, may, upon ten days’ notice, * - * apply to the court for the appointment of such commissioners.” ■
+It is contended that the use of the words “ then or at any time after," takes these proceedings out of any and all statutes of limitation. Except for the use of these words, it is conceded that the petitioner’s claim would be barred by the six year statute of limitations.
+It is the policy of our law, and the intention of the legislature by the different statutes of limitation, to fix a period of time beyond which no action or proceeding can be brought or maintained for any claim or demand, and the obvious intention is to apply such limitations to every action or proceeding to procure redress for wrong or injury, compensation for property or services, or payment of a debt of any kind or description ; and it has been held to be well settled law that no exception to a statute of limitations can be claimed unless it is expressly mentioned in such statute. Bucklin v. Ford, 5 Barb., 393 ; Levy v. Newman, 130 N. Y., 11; 40 St. Rep., 489.
+While it may not be necessary that the exception to the statute should be set forth in the statute of limitations itself, as suggested in the case of Bucklin v. Ford, but may be contained in some other statute, yet, wherever contained, the exception should be expressly set forth in plain and unambiguous terms.
+Where rights or remedies are given, or procedure to protect rights and enforce remedies are provided by special statute, and no express limitation is therein specified as to the time within which such rights or remedies are to be enforced, or such proceedings instituted, it will be deemed to be the time prescribed in the general statutes of limitation.
+The words of this statute depended upon to take the case out of the statute of limitations I do not think sufficient for that purpose ; they are not sufficient to be an express exception of the petitioner’s claim, or of the proceedings under which it is sought to be enforced. The words “ then or at any time after," etc., I think were not used as words extending the time within which landowners should commence their proceedings, but were rather words of permission, and are used in the sense of immediately, forthwith, or at once; and are used for the purpose of indicating the earliest time at which they might commence their proceedings, and not for the purpose of removing any barrier of time beyond which proceedings could not be taken. The court will not assume, in the absence of a plain and unambiguous expression of the legislature to the contrary, that it intended to remove all limitation of time for the commencement of proceedings like these in question, where the general policy of the state is, as expressed in its statutes, to fix a time or times beyond which no actions or proceedings shall be commenced to procure the enforcement of any right or remedy.
+For these reasons, I think that the plaintiff’s claim for compensation was barred by the statute of limitations, and that it was not excepted therefrom by any provision of the statute by virtue of' which these proceedings were instituted, and that the order appealed from should be reversed. Let an order be entered accordingly, with ten dollars costs, and printing and other disbursements.
+Mayham, P. J., and Putnam, J., concur.
