@@ -1,0 +1,35 @@
+---
+court: "New York Superior Court"
+decided: "1858-04-17"
+citations: ["3 Bosw. 29", "16 N.Y. Super. Ct. 29"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fletcher Harper v. H. J. Raymond, Edward B. Wesley and George B. Jones."]
+source_url: "https://static.case.law/ny-super-ct/16/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343926
+cites_cases: ["1 Wend., 532", "12 Johns., 402", "14 Johns., 318", "17 Johns., 525", "2 Cai., 293", "2 Edw., 28", "3 Barb. Ch., 46", "4 Johns. Ch., 522", "5 Cow., 688", "6 Barb., 537"]
+---
+
+# Harper v. Raymond
+
+## Majority (Hoffman, J.)
+
+By the Court.
+Hoffman, J.
+—The parties to the original association, in the 6th article, contemplate and allow a sale of a share or shares, but stipulate and direct that such sale shall not constitute the purchaser a partner. They intend also that such a sale shall not work a dissolution of the association. They contemplate a subsequent allotment of profits to the vendor in such sale.. The purchaser being registered, and getting his certificate, could demand and receive the profits declared as belonging to his vendor, by getting a power of attorney or other authority for that purpose from him. In fact, it seems that such vendor was to be still regarded as a partner for management. At least, he is not excluded. Upon a dissolution, the purchaser would succeed fully to all his vendor's rights and interests.
+The case is, in this particular, very similar to that of Tatam v. Williams (3 Hare’s Rep., 347). The leading principle of the arrangement in each case, is the prevention of the intrusion of a new partner without the concurrence of all, and the guarding against the dissolution being produced by the transfer of any party’s share. Neither his caprice nor his misfortunes were to produce this result. As between Fletcher Harper, Jr., and Fletcher Harper, the instrument of the 29th of July, 1855, transferred the whole stock, and every right, interest or benefit which the ownership of the stock on that day conferred upon Fletcher Harper, Jr. The right to the future dividend passed from the latter, and vested in Fletcher Harper, he being the owner when the dividend was declared. This right followed the title to the corpus, as between these parties.
+As between Fletcher Harper and the association, the purchase not having been tendered to the latter, nor assented to by them, Harper did not become a partner. He could not be intruded upon the association as such. He could not insist upon the future profits being declared to him, credited to him, or paid to Mm as purchaser. Fletcher Harper, Jr., was not, however, dispossessed of a nominal ownership, nor was a dissolution worked by the assignment. The profits would he declared as payable to him on the thirty shares, and a power of attorney would enable this plaintiff, Fletcher Harper, to obtain them.
+But the dissolution of the association or partnership on the 29th of January, 1856, abrogated the 6th article of the agreement, superseding, of course, all the motives and reasons for framing or continuing it. Raymond and Wesley became agents and trustees to conduct the establishment until an advantageous disposition could be made, and thus a great loss be averted.
+The consequence of this was, that the right of Fletcher Harper was no longer embarrassed or qualified by the influence of the articles. It was entire and absolute, and I cannot doubt that on the thirtieth of January, he was entitled to the dividend in question.
+Then on the tMrtieth of January, Fletcher Harper, through his authorized attorney Bangs, enters into the contract with Wesley, contained in the instruments of that date, and carries such contract into effect by executing and delivering the assignment of January the 81st.
+After a careful consideration of these instruments, I have concluded that the right to this dividend did not pass to Wesley under them.
+They may indeed be considered together: but if the last in date, the formal assignment, is unequivocal, it must control the question. If the preceding papers did clearly import a different meaning, and would produce a different result, they would be superseded by the last and decisive instrument as the true indication of the parties’ ultimate intent. But if the first papers, being the heads of the agreement, may, when fairly interpreted, be made consistent with the final instrument, there can then no longer be room for doubt.
+Now the instrument of the 31st of January, 1856, is a transfer of' the stock, the corpus, and all future benefit and dividends thereof. Whatever then should thereafter spring from the stock in any form of benefit or dividend, was to pass. It is a strong exclusion of any profit or dividend, which then existed, and had been separated and distinguished from the stock itself.
+I admit that if the instruments of the 30th January afforded the sole ground of decision, the better construction would be, that the previous dividend of December 31st passed under them. A transfer of the stock, and all right and interest therein, would, I think, be sufficient for this purpose.
+Yet it seems to me impossible to deny that these instruments are consistent, in their language, with an intent to exclude such previous dividend; and that intent is disclosed and contained in the actual assignment of the 31st of January.
+I consider the assignment of the 1st of February, 1856, from Fletcher Harper, Jr., to the plaintiff as totally ineffectual and inoperative. If it could have any operation—that is, if Fletcher Harper, Jr., had a right to this dividend which it professes to transfer, then beyond doubt that right would have gone to Wesley, under the papers of January 30th.—F. Harper, Jr., agreed to sell every right and interest he possessed in all the stock. There was no scintilla of interest in him except connected with this dividend, and if that was in him it passed to Wesley, or the language was nugatory. But the view I have taken shows that there was nothing in him. All had gone to the plaintiff under the transfer of July, 1855.
+Another question is raised under the 5th point of the defendants, connected with the 11th jDoint of the plaintiff. It relates to the point whether the case does not enable the Court to decide fully and finally every matter connected with, the partnership between these parties. Of this we are entirely satisfied. The partnership as far as concerns the plaintiff is wholly dissolved; and except as to this isolated sum and the question of reduction for the rent there is nothing which shows the least ground of claim which can require an account.
+The result is, that the plaintiff is entitled to the three thousand dollars after deducting his three-tenths of the rent or $1,280. We understand the parties not to differ as to this amount, or at any rate that they would adjust this deduction among themselves. Judgment accordingly.
+This case is also reported in 7 Abb. Pr. R., 142.
