@@ -1,0 +1,47 @@
+---
+court: "New York Supreme Court"
+decided: "1875-04"
+citations: ["6 Thomp. & Cook 669"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of New York Central and Hudson River Railroad Company v. Sweeney."]
+source_url: "https://static.case.law/thomp-cook/6/cases/0669-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2436091
+---
+
+# New York Central & Hudson River Railroad v. Sweeney
+
+## Majority (Mullin, P. J.)
+
+Mullin, P. J.
+The land proposed to be taken is a triangular strip lying in Horth Tonawanda, between the tracks of the said petitioner’s road, which runs from Buffalo to Hiagara Ealls, and the track of its road running from Tonawanda to Batavia. The petitioner alleges that it desires to connect these tracks by a track laid upon a curve extending from the one' line to the other, and that such new or proposed road or track would pass over the triangular piece of land above mentioned.
+The persons interested in the land, in answer to the petition, allege that the said land is not necessary for the purpose of petitioner’s incorporation; that the line or route of the railroad of petitioner has never been located over or upon the land in question, or any part thereof; that no notice has ever been served upon them or either of them; that no map or profile of the intended route has ever been made or filed, nor has any notice been given to the parties interested in said land that it was intended to locate the route of said road over said land; that the land in question is not in the located or adopted route of said road, and that such route has not been changed.
+The issues joined by the petition and answers thereto were tried at a special term held in the city of Buffalo, and for the purposes of the trial it was admitted by the parties:
+1st. That the land described in the petition is not embraced within the route of the petitioner’s road laid out and designated on the map of the route adopted by it.
+■ 2d. The line of said road does not pass over or through the premises in question.
+3d. The line of said road has not been changed so as to pass over or through the said premises.
+4th. That petitioner seeks to obtain^ said land to build a line connecting the Niagara Falls branch with the Batavia & Tonawanda branch.
+5th. 'The said premises are not necessary for the purposes of petitioner’s road as now constructed and operated, except for the purpose of making the connection aforesaid. If such connection is not made at the point proposed, the land in question is not required for the purposes of the petitioner’s incorporation, but it is necessary for the purposes of petitioner’s incorporation that such connection be made.
+' After hearing the parties and considering the evidence, the court dismissed the petition with $10 costs.
+It being conceded by the parties that it was necessary for the purpose of petitioner’s incorporation that the tracks of its two branches should be connected, and it not being alleged or shown that a track to connect them could be laid over other lands in the vicinity so as to produce less injury to the owners of the land than is done to' the owners of the land in question, we must assume that the court dismissed the petition, because it did not set forth the matters required to be alleged therein by the general railroad act and the acts amendatory thereof.
+The question for us to consider on this appeal is whether, when a railroad company has located its road and completed it, and complied with the requirements of the statute in acquiring its lands, and it becomes thereafter necessary for the convenient transaction of its business, and in furtherance of the object of its incorporation to acquire additional land, it must allege in the petition presented, in order to acquire such land, the same facts which are required to be made in the original'petition, and to make and file the same maps, etc., required to be made and filed when it first applied to acquire lands for its road.
+Section 14 of the general .railroad act of 1850 (Laws of 1850, chap. 140) required the company to state in its petition:
+1st. A description of the land sought to be acquired.
+2d. That the company is duly incorporated, and that it is its intention in good faith to construct and finish a railroad between the places mentioned in its charter.
+3d. That the capital stock has been in good faith subscribed.
+4th. That the line of its road has been surveyed, and a map or survey made by which such line is designated, and that said road has been located according to such survey, and certificates of such location, signed by a majority of the directors, filed in the clerk’s offices of the several counties.
+5th. That the land described is required for the purpose of constructing or operating its road, and that the company has not been able to acquire title thereto, and the reasons for such inability.
+6th. The names and residences of the owners, and whether any are infants, etc., etc. .
+It will be seen that there is not in this section, nor is there in the act of 1850, any manifestation of an intention to allow railroad companies incorporated under it to acquire lands except for its main line and appendages. After it has completed its line, its. power to acquire land is at an end under the original act, except in cases where the title acquired has failed. Then, by section 21 of the act of 1850, it may proceed to acquire other lands. Chap. 237 of the Laws of 1869 remedies this omission, if it was one in the general law, and authorizes railroad companies, at any time after the construction of any railroad operated by steam, to acquire land for the purposes of its incorporation or of running or operating its road in addition to what it has already acquired by purchasing the same, or by paying such damages to the party injured as maybe agreed upon; but if the company for any cause shall be unable to agree for the purchase of such land, they may proceed to acquire title, and to ascertain and appraise damages in the manner and by the proceedings in said act prescribed. The whole question turns upon the construction to be given to the last clause above cited.
+Did the legislature mean, and is it the reasonable construction of this clause, that the petition to acquire a few rods of land for the purpose of placing upon it a wood-shed, or water-tank, or for a ditch to convey water to or from the land of the company, shall contain the same allegations as are required to be made in the original petition, and the same or any maps to be filed as are required to be made and filed upon such original application.
+Why should the petition to acquire additional land allege that it is the intention to construct and finish a railroad between the termini mentioned in its charter? Such an allegation would be untrue, and wholly irrelevant to the proceeding, and of no benefit to either the company or owners of the land.
+Would it benefit either party to allege that the capital stock had been subscribed for, or that its main line had. been surveyed, or map of it made and filed? Most clearly it would not. Such allegations have no relation to the new proceeding, and unless clearly and imperatively required to be made, they ought to be omitted, and the petition is valid without them.
+The objecfin view in requiring the railroad company to survey and locate its line and file maps thereof, before applying to acquire title to lands, is to enable owners to know where it crosses their lands, and thus enable them to ascertain the extent of the damages done thereto by the construction of the road. Such a consideration has no application to proceedings to acquire a few rods of land, and as to which the damages would be the same in whatever manner the track crosséd it.
+The company, as I understand the petition, desires to appropriate the whole of the lots described in the petition.
+I do not intend to hold that the petition required by the act of 1869 may contain one set of allegations when the land is a large parcel, and other and different onés when it is a small parcel. What I do intend to hold is, that allegations may be omitted in petitions under the act of 1869 which are essential in the act of 1850.
+In construing these acts, regard must be had to the end to be attained by them, rather than to the words of the act.
+The only map that could reasonably be required to be filed would be one showing the location of the road over the lands proposed to be taken; but that is not the map required to be filed by the act of 1850,
+I am of the opinion that the order should be reversed, and proceedings remitted to the special term, with directions to appoint commissioners. The question being a new one, costs are given to neither party.
+Order reversed.
