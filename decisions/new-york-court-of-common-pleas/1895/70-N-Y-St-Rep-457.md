@@ -1,0 +1,27 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1895-11-04"
+citations: ["70 N.Y. St. Rep. 457"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lena Kopetzky, Resp’t, v. Metropolitan Elevated Railroad Company et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/70/cases/0457-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2122045
+cites_cases: ["114 N. Y. 455", "129 N. Y. 252", "14 St. Rep. 829", "140 N. Y. 382", "23 St. Rep. 759", "34 N. Y. Supp. 233", "41 N. Y. 545", "41 St. Rep. 531", "45 St. Rep. 322", "5 Misc. 239", "54 St. Rep. 785", "55 St. Rep. 728", "63 Hun, 506"]
+---
+
+# Kopetzky v. Metropolitan Elevated Railroad
+
+## Majority (Bischoff, J.)
+
+Bischoff, J.
+Plaintiff brought this action for damages and an alternative injunction to restrain the operation of defendants’ elevated railway in front of her premises, situated in Second avenue, between Sixtieth and Sixty-first streets. From a judgment rendered in her favor the. defendants appeal and present the following points:
+1. That the damages awarded are excessive. As to this we must hold that the testimony given by the witness Freund, with regard to fee values, and Kopetzky, with regard to the actual rents received, taken together with the other evidence of the state of rents in the locality, and of the ratio of fee to rental values, sufficiently supports the finding of the referee. Defendants’ evidence would, if adopted as the true basis for computation, make the award appear excessive, but we find no injustice in the judgment as based upon .the plaintiff’s 'evidence.
+2. That the referee erred in granting the plaintiff’s motions to strike out specific evidence, to the admission of which objections and exceptions had been taken by defendants’ counsel. It was certainly within the power of the referee to take this course. American Bank Note Co. v. Metropolitan El. Ry. Co., 63 Hun, 506; 45 St. Rep. 322, and we must assume that he determined the issues irrespective of such evidence. Nette v. Railroad Co., 34 N. Y. Supp. 233; Chesebrough v. Conover, 140 N. Y. 382; 55 St. Rep. 728. The remaining evidence is amply sufficient to support his determination.
+' 3. That plaintiff’s witness Kopetzky should have been discredited by the referee, and hence the proof as to rental damage should have failed. This contention is based upon Kopetzky’s direct contradiction of his own testimony, subsequently during the trial, upon a point immaterial to the issue. It certainly would appear that this witness deliberately swore to a falsehood in this instance, but we are not to say that his entire testimony was necessarily to be rejected for that reason. He was not contradicted upon the question of rents received, and was in a measure corroborated by the testimony of the plaintiff’s expert as to.fee value and its ratio to rental value.' The referee might have discredited the testimony had he seen fit, but, as appears, he did not. The rules applicable to the facts in this ease do not call for our denunciation of tile decision upon this ground. Lee v. Chadsey, *41 N. Y. 545; Dunn v. People, 29 id. 529 ; Deering v. Metcalf, 74 id. 501; People v. O'Neil, 109 id. 266; 14 St. Rep. 829.
+4. That it was error for the referee to refuse defendants’ request to find that “ the alleged inconvenience or injury resulting from the maintenance and operation of defendants’ railroad is due in part to the noise occasioned by the trains on said railroad.” It is claimed that, there being uncontradicted evidence in support of this proposed finding, it should have been so found, in order that a deduction for the damage thus sustained might have been made, since a recovery for damages by reason of noise is not to be had in this class of actions. American Bank Note Co. v. New York El. R. Co., 129 N. Y. 252, 273; 41 St. Rep. 531. But what ■deduction ? There was no proof as to the amount of injury flowing from this cause, and while, as in the case last cited, it must be held that an affirmative judgment, based in part upon an express item of damage for noise, requires modification in so far as to strike but that item, we cannot see how the finding of defendants’ request could have availed in this case, the recovery being based merely upon the decline in rents and of fee value, due to the numerous and unspecified causes which were the effect of the road as maintained and operated.
+The refusal of the requests to find that the territory in the vicinity had been largely built up since the construction of this railway, and that such condition was caused by its operation presents no error. These matters were immaterial, and the requests dealt with an abstract proposition, which the referre was not required to pass upon. Moreover, it is impossible to say that the result would have necessarily been affected had the findings been made. Baldwin v. Doying, 114 N. Y. 455; 23 St. Rep. 759. If of any avail, the findings related solely to the question of general benefits, and there was nothing upon which an allowance for such benefits could have been based; the plaintiff’s evidence with regard to" values being found acceptable by the referee, and a substantial decrease of value being thereby shown. The rule stated in the Nette Case, supra, and in Struthers v. N. Y. E. Railroad Co., 5 Misc. 239; 54 St. Rep. 785, applies.
+The judgment must be affirmed, with costs.
+All concur.
