@@ -1,0 +1,28 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1894-02"
+citations: ["7 Misc. 77"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bernard Campbell, Respondent, v. Juan Y. Jimenes et al., Appellants."]
+source_url: "https://static.case.law/misc/7/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 696624
+cites_cases: ["113 Mass. 187", "3 Misc. Rep. 144", "46 Penn. St. 434", "52 N. Y. St. Repr. 495"]
+---
+
+# Campbell v. Jimenes
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+This is the second appeal to this court in this case. After hearing the very careful argument of counsel on both sides and considering their briefs, we see no reason whatever to change our view of the law laid down upon the former appeal (Campbell v. Jimenes, 3 Misc. Rep. 144; 52 N. Y. St. Repr. 495), which was to the effect that where the intention of the parties to a written contract is intelligible upon the face of the instrument, extrinsic proof of its meaning is inadmissible, and its construction is for the court alone; but where the terms of a contract are so obscure or ambiguous as not to be understood without the aid of adventitious light, then evidence not only of the surrounding circumstances, but of the acts and conversations of the parties, is competent to illustrate their intention, and upon such evidence the meaning of the instrument is for the determination of the jury. But in the light of the last argument, and upon a more critical examination of the contract itself, we are of the opinion that our former determination as to the obscurity or ambiguity of the contract was wrong. It is as follows:
+“I, Bernard J. Campbell, chief engineer, hereby agree to render myself to the orders of Captain Compton for service on steamer he may assign, and for services in the West Indies, not to extend six months, receiving wages at the rate of $250, American gold or its equivalent, per month, one month to be paid in advance on leaving, and free passage out and home.
+“ New York, April 8,1889. Jimenes, Haustedt & Co.”
+We do not see how the words “not to extend six months” can by any mental process be held to mean for a period of six months. When used with reference to time, the verb “ to extend ” is synonymous with “ to continue ” or “ stretch over,” and is a period of time which is not to continue six-months. As we said on the former appeal, the word “ extend,” as here used, was equivalent to the word “ exceed,” and by the most liberal interpretation of it in plaintiff’s favor it is an indefinite period which may amount to six months, but cannot in any event exceed it. Either party may put an end to the contract at any time if the term is indefinite, as if A. employs B. to serve him at a certain sum a month for a term not exceeding three years. Wood Mast, and Serv. (2d ed.) § 133. And where the hiring is for a period not exceeding a named term, its duration is indefinite. Harper v. Hassard, 113 Mass. 187; Peacock v. Cummings, 46 Penn. St. 434; Coffin v. Landis, Id. 426. For the support of the judgment, therefore, it is indispensable that the contract on which it rests should stipulate for a service of six months, which clearly is not the case by any rule of interpretation of this contract.
+So, we think, in reading the whole contract together, the word “steamer” is neither indefinite nor uncertain. This word is defined in all dictionaries to be “ a vessel propelled by steam,” no matter whether it is a passenger, freight or war vessel. The only possible indefiniteness or uncertainty arises from the fact that no particular steamer is named or designated. But the plaintiff agreed to render himself amenable to the orders of Captain Compton “ for service on steamer he may assign,” and when the assignment was made this provision became clear and definite, and no maxim of law is better known than Id cerium est quod certmm reddi potest. Broom’s Maxims (3d ed.), 556; 2 Bouv. Law Dict. 129.
+It must be borne in mind that this action is not for the reformation of the contract, which respondent now claims is indefinite and uncertain, and does not contain the whole contract or express the intention of the parties, but for its enforcement, and thereby the plaintiff reaffirms the contract in all its parts, and it was incompetent for him to give evidence tending to elucidate the construction of the contract, much less, as he did in this case, to seek to contradict it and make it an entirely different contract from the one sued on.
+We think the court below should have construed the contract as indicated in the opinion above. The judgment must, therefore, be reversed and a new trial ordered, with costs to the appellant.
+Bischoff and Pkyob, JJ., concur.
+Judgment reversed and new trial ordered, with costs to. appellant.
