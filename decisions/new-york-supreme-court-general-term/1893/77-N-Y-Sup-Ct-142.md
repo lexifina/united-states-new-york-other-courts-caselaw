@@ -1,0 +1,40 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-06"
+citations: ["77 N.Y. Sup. Ct. 142"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. L, and Follett, J., concurred."]
+parties: ["Jane McKenzie and Another, as Executrices, etc., of Alexander McKenzie, Deceased, Plaintiffs, v. Loftus D. Hatton, Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/77/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4678172
+cites_cases: ["2 Bosw. 130", "20 N. Y. 281", "55 N. Y. 280", "90 N. Y. 297"]
+---
+
+# McKenzie v. Hatton
+
+## Majority (Barrett, J.:)
+
+Barrett, J.:
+This action was for rent. The lease was admitted, also the nonpayment of the rent. The sole defense was a partial eviction. This was pleaded first as a defense, and then as a counterclaim. Upon the trial, the plaintiffs proved the lease and rested. The defendant then gave evidence tending to show that, in the month of July, 1892, certain contractors began to excavate, for the purpose of building, upon the lot adjoining the demised premises, and, desiring to go ten feet below the curb, they obtained from the plaintiffs the ordinary license to enter, as called for by the Consolidation Act. (Laws of 1882, chap. 410, § 414.) This license was in the following language:
+“New Yoke, June 28, 1892.
+“ Messrs. N. Larkin & Son, Contractors <&c.:
+“ Dear Sirs.— In respect to the excavation which you are making at 18 and 20, &c., Washington Place, and adjoining the property No. 35 West Fourth Street on the rear owned by our clients, you will take notice that you are. hereby permitted to enter upon said premises, No. 35 West Fourth street, to do all things necessary for the purpose of preserving the walls and building of said premises from injury, and that you will be held responsible under the law for any injury that may occur.
+“ Respectfully yours,
+“D. J. NEWLAND,
+“Atty. for Jane McKenzie, Executrix and Trustee, <&c.,
+“ 121 Nassau St., N. Y.
+“JOHNSTON & JOHNSTON,
+“ Attys. for Alice J. Jones, Executrix and Trustee, dec.,
+“ 8 & 10 Centre St., N. Y. City.”
+Armed with this paper, the contractors called upon the defendant, who told them that he required security against loss or damage ; that he had not given them authority to enter, and that he would hold them responsible for entrance until he had consulted his counsel. The contractors, however, insisted upon entering, telling the defendant that they were bound to go ahead with their business, and that they did not care if they tore the building down. “ Then,” said the defendant, “ I called them in presence of my engineer, and told them, mrder authority to enter from the landlord, to make arrangements with the engineer at what time they desired to enter, what they desired to do, and to notify me, the engineer to notify me as the work went along, so as to keep me posted as to what they were doing.”
+There was an engine in the basement of the premises in question which was connected with the second floor by means of belting and shafting, and which was used to furnish power for the purpose of the defendant’s business.
+After the above conversation, the contractors entered the premises and proceeded to insert beams in the basement walls and in the passageway going up stairs. They inserted these beams, at such points and in such a manner that the engine could not be run. The consequence was that, for want of such power, the defendant was unable to use his second floor for the purpose to which he had devoted it. This condition of things lasted for several months and constituted the partial eviction of which complaint is made.
+Upon this state of facts, a verdict for the plaintiffs was directed; and, we think, properly. , The plaintiffs were in nowise responsible for the acts complained of. Their license was to enter, to do what was necessary for the preservation of the demised premises, not to do anything which might injure them. The moment the contractors did anything contrary to the terms of the license they became trespassers, and the defendant had his remedy against them for the damages caused by their unauthorized acts. These contractors and their employees were not the owner’s servants. Nor were they brought Within that relation by the license. The sole effect of the license was to throw upon the person making the excavations the duty of preserving the wall of the demised premises from injury. (Consolidation Act, above cited.) That duty is, by the act, dependent upon the granting of the license. . If, therefore, such license had been here refused, and in consequence the wall had been injured, the defendant would have had just cause for complaint-against the plaintiffs. He certainly has no such cause where the license has been given but abused.
+The defendant also overlooks the fact that the entry here was necessarily under his own authority. Either that or it was a trespass notwithstanding the plaintiff’s license. The defendant had exclusive possession of the premises under his lease, and he could not be disturbed in that possession without his own consent. His-license, as well as that of the owner, was therefore, necessary. (Johnson v. Oppenheim, 55 N. Y. 280; Sherwood v. Seamam, 2 Bosw. 130). And if the contractors exceeded the limits of such license the defendant had his remedy.
+The defendant asked to go to the jury on the question of eviction, and also as to the damages claimed in his counterclaim. This-was properly refused, for two reasons : First. Because there was-no eviction in that the defendant has continued throughout in the legal occupation of the entire premises. (Boreel v. Lawton, 90 N. Y. 297.) He never relinquished possession even of the engine room or second floor. Second. Because a counterclaim was not available in an action on the lease for rent due. thereunder. Eviction was necessary to constitute a breach of the covenant of quiet enjoyment ; but, as we have seen, there was no eviction. Eor the wrong done to the defendant, the plaintiffs, as already pointed out, are not responsible. But even if they were, the right of action for that wrong could not be the subject of a counterclaim, for the reason, as was said in Boreel v. Lawton (supra), that it does not arise out of the contract or transaction set forth in the complaint, nor is it connected with the subject of the action, nor is it a cause of action on contract. (See the cases there cited. Edgerton v. Page, 20 N. Y. 281; Lounsbery v. Snyder, 31 id. 514; Home Insurance Co. v. Sherman, 46 id. 370, and Levy v. Bend, 1 E. D. Smith, 169.)
+The exceptions should, therefore, be overruled, and judgment rendered for the plaintiffs on the verdict, with costs.
+Yan Brunt, P. L, and Follett, J., concurred.
+Exceptions overruled and judgment rendered for the plaintiffs on the verdict, with costs.
