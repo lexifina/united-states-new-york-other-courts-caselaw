@@ -1,0 +1,22 @@
+---
+court: "New York Superior Court"
+decided: "1855-10-27"
+citations: ["5 Duer 39", "12 N.Y. Super. Ct. 39"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Russell v. The Hudson River Railroad Co."]
+source_url: "https://static.case.law/ny-super-ct/12/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1350800
+---
+
+# Russell v. Hudson River Railroad
+
+## Majority (By the Court. Duer, J.)
+
+By the Court. Duer, J.
+It cannot he denied that the decision of the Court of Appeals in the case of Coon v. the Syracuse and Utica R. R. Co., (1 Selden, p. 492,) has established the law that a servant or agent cannot maintain an action against his employer for injuries sustained by him, through the negligence of another servant or agent engaged with him in the same common employment, and if this rule were applicable to the present case, it would be our plain duty to dismiss the complaint. But we are clearly of opinion that the rule is not applicable, since, as we understand the facts of the case, the plaintiff was not in the employ of the defendants when, through the negligence of their engineer, the accident happened by which he was injured. It appears from the evidence, and was admitted upon the argument by the counsel for the defendants, that the plaintiff was employed by the day, and when the work of each day was performed, was under no obligation to return on the following. There was a separate contract, therefore, for each day, and it was a part of this contract that when the day’s work was over, the plaintiff should be transported in the cars of the defendants, without charge, to his residence in this city. When the accident happened, the plaintiff had performed his day’s work, had done all that he was bound to do, and the defendants, in the execution of their contract, were transporting him to his residence. Hence, although the contract between the parties, not having been fully performed by the defendants, was not terminated, it seems to us manifest that the relation between them of master and servant, which the contract created, had wholly ceased, since there were no longer any services, which the defendants had a right to exact and the plaintiff was bound to render. His taking passage in the cars was not in the discharge of any duty which he owed to the defendants, and. in the discharge of which he was subject to their authority. It was as much a voluntary act as in the case of an ordinary passenger, and as he had paid for his passage by the work he had performed—(for his free transportation was a part of his day’s wages)—we see no reason to doubt that his rights were in all respects the same as those of an ordinary passenger, and, consequently, the defendants just as responsible for any injuries which, through the negligence of their servants, he might sustain. To sustain the defence, we should be obliged to hold that the relation of master and servant continues, even when the servant has performed all his stipulated work, so long as any part of his stipulated wages remains unpaid; a proposition which, when thus stated, the learned counsel for the defendants readily admitted could not be maintained.
+The case before us is, therefore, widely distinguishable from the recent case in the Supreme Court of Pennsylvania, to which we were referred, (Ryan v. Cumberland Valley R. R., Law Mag., April, 1850, p. 253,) for in that case, the very ground of the decision was, that the plaintiff, when he sustained the injuries for which the action was brought, was in the actual employment of the defendants, and in the discharge of a duty which his contract of service imposed on him.
+Placing our decision upon the ground that when the cause of action occurred, the relation between the parties, which is set up as a defence, no longer existed, we deem it unnecessary to consider the other questions that were raised and discussed upon the hearing. We think, however, with Mr. Justice Gardiner, that it may reasonably be doubted, whether the rule, that exiempts the common employer from all liability, can be justly applied, when the employment of the servant, who is injured, is wholly distinct from that of the servant by whose negligence the injury was occasioned, (1 Selden, p. 495.) The decision in the Court of Appeals leaves this an open question.
+The plaintiff is entitled to judgment upon the verdict, with costs.
