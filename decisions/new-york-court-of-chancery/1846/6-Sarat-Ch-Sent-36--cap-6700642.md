@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Chancery"
 decided: "1846-08-24"
-citations: ["6 Sarat. Ch. Sent. 36", "6 Sarat. Ch. Sent. 37"]
+citations: ["6 Sarat. Ch. Sent. 36"]
 reporter: "sarat-ch-sent"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
