@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-09-22"
+citations: ["47 N.Y. St. Rep. 741"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James P. Schuyler, Resp’t, v. The Fitchburg Railroad Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/47/cases/0741-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2087204
+cites_cases: ["46 St. Rep., 963"]
+---
+
+# Schuyler v. Fitchburg Railroad
+
+## Majority (Herrick, J.)
+
+Herrick, J.
+-—None of the questions discussed in this case were overlooked by the court in coming to the conclusion heretofore announced. The question as to whether the defendant properly protected its road, and was or was not negligent, was a question of fact, and was properly submitted to the jury, and there was evidence to sustain their finding, and I can find no substantial error in the charge of the court. The evidence as to whether the cattle guard in question was the same as to those in general use on the road was properly excluded. Such evidence would not establish or tend to establish the fact that the cattle guard was a sufficient one. The defendant’s system may be an improper •one. Again, the evidence is that the guard in question, a ditch, across the road, was, and had been for two weeks before the accident, filled with ice. While the mere fact that such a guard is filled with ice is not, within some of the authorities, evidence of negligence on the part of the defendant, yet its being allowed to remain filled for a long period of time may, I think,- be considered by the jury in determining whether a railroad company has properly guarded and protected its lines. A cattle guard, good and sufficient when first constructed, may be so neglected as to afford no protection whatever, and the fact that it was originally proper in kind and sufficient in construction would be no defense to the railroad for allowing it to become and remain insufficient. I think there are no questions of law in the case of sufficient importance to warrant us in sending it to the court of appeals.
+Motion denied, with ten dollars costs.
+Mayham, P. J., and Putnam, J., concur.
