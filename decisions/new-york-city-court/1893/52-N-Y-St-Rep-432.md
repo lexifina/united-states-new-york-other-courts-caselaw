@@ -1,0 +1,62 @@
+---
+court: "New York City Court"
+decided: "1893-04-14"
+citations: ["52 N.Y. St. Rep. 432", "23 N.Y.S. 344", "3 Misc. Rep. 365"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Flanagan, Ex'r., Resp't, v. Patrick Fox, App'lt."]
+source_url: "https://static.case.law/ny-st-rep/52/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 682463
+cites_cases: ["1 St. Rep., 51", "101 N. Y. 387", "116 N. Y. 230", "116 N. Y., 230", "120 N. Y. 253", "120 N. Y., 253", "2 Johns. 395", "2 Johns., 395", "22 N. E. Rep. 406", "24 N. E. Rep. 195", "26 N. Y. 33", "26 N. Y., 33", "26 St. Rep., 629", "30 St. Rep., 899", "4 N. E. Rep. 749", "47 N. Y. 475", "47 N. Y., 475", "63 N. Y. 336", "76 N. Y. 115"]
+---
+
+# Flanagan v. Fox
+
+## Majority (McGown, J.)
+
+McGown, J.
+The plaintiff seeks to recover damages for a breach of contract on the part of the defendant.
+On the-day of June, 1892, the above named defendant, as vendor, entered into a contract in writing (Plaintiff’s Exhibit A.), with Catharine Flanagan (now deceased), as vendee, in and by which the defendant agreed to sell to the said Catharine Flanagan a lot of land in the city of New York for the sum of $6,000, $500 to be paid on the signing of the contract (which was then paid), $3,500 on delivery of the deed, and the remaining sum of $2,000 by the execution of a purchase money mortgage by the said Catharine Flanagan; the defendant to deliver a full covenant warrantee deed, properly executed and acknowledged, for the conveyance and assuring to the said Catharine Flanagan the absolute fee of said premises free and clear of all incumbrances, etc. “ The vendor shall give, and the vendee shall accept a title such as the Title Guarantee & Trust Company will approve.” The deed to be delivered at the office of the said company on or before July 15, 1892. The stipulation in the contract to apply to and bind the heirs, executors, administrators and assigns of the respective parties. The contract was executed by the said defendant, and by the said Catharine Flanagan.
+The plaintiff herein and the defendant met at the offices of the company on the 15th day of July, the day named in the contract as the time for the performance. The said company had not completed its examination; and some objections having been raised to the defendant’s title, by mutual agreement the time for the performance of the contract was extended to the following Tuesday, at which time the title company declined to approve of the title, and the contract was not carried out. The said company claimed of the plaintiff the sum of eighty dollars for its services in examining the title, and the plaintiff paid it, the company, forty dollars in settlement of the claim.
+Plaintiff thereupon commenced this action to recover the said sum of $500 paid on the execution of the contract, the sum of forty dollars paid to the company for examining the title, and the further sum of fifty dollars, alleged to have been paid to his attorney herein, for examining the title.
+The parties hereto testified, in substance, to their being ready and willing to perform the contract, while it appears from the evidence herein that the defendant did not tender to the plaintiff a deed properly executed and acknowledged, and that the plaintiff did not tender to the defendant the sum of $3,500, the second payment on the contract
+By reference to the statements made by the counsel for the plaintiff during the course of the trial, and to the rulings of the trial justice in excluding testimony offered by the defendant, and to his charge to the jury, it clearly appears, we think, that the case was tried and disposed of upon the erroneous theory that in order to recover it was only necessary for him to prove that the said title company did not and would not approve the defendant’s title.
+It appears from the testimony of the witness John H. Post, a representative of the said company, that the company did not approve of the title; and on cross-examination by defendant’s counsel was handed a paper and the witness asked:
+“ Q. Look and see if that is a report you made to Mr. Fox of the objections of the title company to that title ? A. I recognize that as a memorandum prepared in the office. I am not able to say that it was handed to Mr. Fox; I don’t know.
+“ Q- Are the objections set forth in that paper the objections that the title company had to that title ?
+“Plaintiff’s counsel objects as irrelevant, immaterial and incompetent.
+“ The Court (to plaintiff’s counsel), Do I understand you, that the basis upon which you claim is that it does not make any ■difference whether there was a good or bad title, so long as they do not deliver a deed guaranteed by the company? ’’
+“Plaintiff’s counsel; Yes sir.
+“ The Court: Excluded on that statement. Defendant excepts.”
+Upon the examination of the defendant by his counsel, the defendant was handed the same paper, which he stated was a memorandum of the objections which he got from the said company sometime in July, and which was then offered in evidence by defendant’s counsel.
+“ The Court: Is it your contention that the word ‘ approve means 1 guarantee ’ ?
+“ Plaintiff’s counsel: Ro sir, that is not my ‘ contention.’
+“Received in evidence and marked defendant’s exhibit 1. Plaintiff’s counsel excepts.”
+And after further direct examination of the defendant:
+“ The Court: I reverse the ruling as to this paper marked defendant’s exhibit 1, sustain the objections of plaintiff’s counsel, and exclude the paper.
+“Defendant excepts.
+“ Paper referred to marked for identification 1.
+“Defendant's counsel: Now I will make an offer to prove that the title to this property is absolutely.good, and it is a market-' able title, and that there is no claim, force or foundation in the objections raised by the Title Guarantee & Trust Company.
+“ Plaintiff’s counsel: I object to the evidence being put in.
+“ The Court: Do you object to the offer ?
+“ Plaintiff’s counsel: No, sir.
+“ Objection sustained. Defendant excepts."
+We think it was error on the part of the trial justice in excluding evidence as to what the real objections were, if any, the company had for not approving of the title. Had such evidence been admitted the defendant would have had the right to introduce evidence to show that there was no force or merit in the objections; that the action of the company in refusing to approve the title was arbitrary and unwarranted by the facts, and that the objections were not good or legal.
+The contract between the parties (plaintiff's exhibit A) did not require that the company should guarantee or insure, but only that it should approve the title. Before the plaintiff could recover, it was necessary for him to show ability and readiness to perform on his part. He testifies : “ I have $3,500 in this pocketbook (referring to July 15th). I have money with me to pay you if this thing is all right.”
+It does not appear that he either exhibited or tendered that amount to the defendant. In order to bring the defendant in default, the plaintiff should have made a legal tender of the amount to the defendant and demanded a deed such as the contract called for. It was the duty of the defendant to tender to plaintiff such a deed as the contract called for.
+The plaintiff testified that defendant had never tendered a deed. Defendant was not allowed to prove his readiness to comply with the contract, and was asked by his counsel:
+“ Q. Please look at the paper I now hand you and state what they are?”
+“ Plaintiff’s counsel: I object to his stating what they are. Objection sustained. Defendant excepts.
+“ Q. Well, please look at this paper. Were you or were you not ready to deliver this paper, properly executed, at the time of closing of that title?
+“ Plaintiff’s counsel objects. Objection sustained. Defendant excepts.”
+The trial justice, as before stated, evidently held, that to entitle the plaintiff to a verdict it was only necessary for him to show that the Title Company did not and would not approve defendant’s title ; as in his charge to the jury he said: “I charge you that the plaintiff is entitled £o recover the sum of §500 and interest. * * * Now, you must ñnd a verdict for the plaintiff for $500 and interest from the 10th day of June, 1892. It is for you to say upon the evidence whether the plaintiff incurred reasonably the expense of the searching of the title of $40, and whether he paid the Title Guarantee & Trust Company that sum,” thus virtually directing the jury to ñnd a verdict for the plaintiff for at least the sum of $500 and interest, the amount paid on executing the contract, to which charge defendant excepted.
+The Title Guarantee Company was employed by the plaintiff to search the title of defendant, and it was his agent for that purpose, and he paid the company for its services. The contract provided for the delivery to the defendant of “a full covenant warrantee deed, properly executed and acknowledged,for the conveying and assuring to the vendee * * * the absolute fee of said premises free and clear of all incumbrances.”
+The contract further provides that the vendor “ shall give and the vendee shall accept a title such as the Title Guarantee & Trust Company will approve.” It cannot be successfully claimed that by the force of this provision the plaintiff can lawfully demand that the defendant do more than by the previous terms of the contract he is bound to do. There is nothing left by the contract indefinite or uncertain as to what defendant should do. The stipulation that the title was to be approved by the title company is not to be a capricious one, or to be arbitrary. The defendant had a right to know what the objections were to his title, and a right to show that such objections were untenable, and that there was no merit therein. If defendant’s title to the property is good and marketable, that is all the plaintiff was entitled to, Vought v. Williams, 120 N. Y., 253; 30 St. Rep., 899, and all that the defendant was 'bound to give, and neither the plaintiff nor the title company can demand more than n performance in fact to the limit of their legal requirements of the covenant contained in the contract. The reservation to the plaintiff that the title was to be approved by the title company is no more in effect than that it shall be to the satisfaction of the company. That the requirements of the contract should be fulfilled. Such satisfaction is not an arbitrary or capricious one. It has its measure by which it can be fulfilled ; that which the law should say a contracting party ought in reason to be satisfied with, that the law will say he is satisfied with. See Brooklyn v. B. C. R. R. Co., 47 N. Y., 475.
+In Folliard v. Wallace, 2 Johns., 395, there was an agreement to pay three months after one should be well satisfied that the title was good. The court, per Kent, Oh. J., said : “ Nor will it do for the defendant to say he is not satisfied with his title, without showing some lawful incumbrance or claim against it. A simple allegation of dissatisfaction without some good reason assigned for it might be a mere pretext, and cannot be regarded. If the defendant were at liberty to judge for himself when he was satisfied, it would totally destroy the obligation, and the agreement would be absolutely void. * * *
+“ The law in this case will determine for the defendant that he ought to be satisfied.”
+There is, as before stated, no proof in the plaintiff’s ease of any performance on the part of the plaintiff; no proof of failure on the part of the defendant; and the only attempt of any proof to show a cause of action is simply the disapproval of the title company, without showing or specifying any reason or defect impairing the marketibility of defendant’s title.
+No reasons are given or shown by the plaintiff in this case why the title was not approved, or why the title was not perfect, or wherein it was defective, or for what reason, or on what grounds the title company refused to approve the same. See Thomas v. Fleury, 26 N. Y., 33; Bowery National Bank v. Mayor, 63 id., 336; Meisell v. Globe M. L. Ins. Co., 76 id., 115; Duplex Safety Boiler Co. v. Garden, 101 id., 387; 1 St. Rep., 51; Doll v. Noble, 116 N. Y., 230; 26 St. Rep., 629.
+The judgment and order appealed from should be reversed, and a new trial ordered, with costs to the appellant to abide the event.
+Fitzsmoiís,' J., concurs.
