@@ -1,0 +1,41 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-07-08"
+citations: ["53 N.Y. St. Rep. 607", "24 N.Y.S. 212", "70 Hun. 571"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Almira Trumpbour, Pl’ff, v. John Trumpbour et al., Def’ts."]
+source_url: "https://static.case.law/ny-st-rep/53/cases/0607-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686110
+---
+
+# Trumpbour v. Trumpbour
+
+## Majority (Herrick, J.)
+
+Herrick, J.
+On the 8th day of June, 1871, a judgment in partition in the above entitled action was rendered, and entered in the Columbia county clerk’s office.
+Pursuant to the provisions of the will of one Paul Trumpbour, ■ deceased, which are declared by said judgment, the sum of $500, a part of the proceeds of sale under said judgment of partition, was brought into this court to be held for the benefit, after the death of John Trumpbour, Jr., who is one of the defendants in said action, of the persons who, at the death of said John Trumpbour, Jr., should be his heirs, or the assigns of any of them.
+The referee in said action in partition deposited the said $500 in the Farmers’ National Bank of Hudson, subject to the order of the court. I assume it was so deposited with the remainder of the proceeds of the sale of the real estate in question in the action.
+Upon the judgment, the referee’s final report of sale, and other orders and papers in the action, an order was made at a special term of the court on the 30th day of March, 1872, ordering the Farmers’ National Bank of Hudson to pay to the order of the New York Life Insurance & Trust Company the sum of $500, and it was further ordered that the New York Life Insurance & Trust Company retain said sum of $500 and the interest and accumulations thereof, subject' to the further orders of this court, for the benefit of the plaintiff, Almira Trumpbour, and others, except their right thereto is subject to be defeated or varied according to the provisions of the will of Paul Trumpbour, as stated in said judgment. It was further ordered that while such sum of money remained on investment in such Life Insurance & Trust Company, the interest or dividends that should from time to time accrue thereon should be added to the principal, to constitute a new principal, upon which further interest or dividends should be computed and allowed:
+A copy of said order was duly served on such Life Insurance & Trust Company on or about the 3d of April 1872, and said company agreed to accept the money as a deposit, subject to the future orders'of this court, and to allow interest thereon at the rate of four per cent, per annum to be compounded annually.
+John Trumpbour, Jr., died on or about May 13, 1892.
+The petitioner^ in these proceedings are the -heirs, and the assigns of the heirs, of the said John Trumpbour, Jr.; there is no question raised, but what they are the persons legally entitled to the $500, so ordered to be deposited as heretofore stated, and its increase.
+Two of the heirs of said John Trumpbour, Jr., on or about the 20th day of March, 1877, duly assigned their interests in said fund to Horace R. Peck, one of the petitioners, and thereafter and on the 24th day of April, 1878, an order was made at a special term of this court, entitled in the action, directing the New York Life Insurance & Trust Company to retain and invest the interest of .said heirs so assigned and the accumulations thereof, for the benefit of said Horace R. Peek, and that in the final disposition of said fund the said Horace E. Peck, his legal representatives or assigns, should be entitled to receive and be paid by the said Hew York Life Insurance & Trust Company such portion of said fund as would otherwise belong to the heirs of the said John Trumpbour, Jr., who made such assignment. A copy of such order was duly served on the said Hew York Life Insurance & Trust Company on the 27th day of April, 1878.
+The Hew York Life Insurance & Trust Company for some reason failed, omitted or neglected to ask or demand in any way from the Farmers’ Hational Bank of Hudson the said sum of $500, pursuant to the order of the court, and has never received it, but it has always remained where it now is, in the Farmers’ Hational Bank of Hudson.
+If the terms of the aforesaid order and agreement of the Life Insurance & Trust Company in relation to said fund had been complied with, the fund would now amount to about the sum of $1,094.30, with interest at four per cent, per annum from the 3d day of April, 1892.
+The petitioners, Almira Trumpbour and others, ask an order of this court for the distribution of the fund in the proportions set forth in the petitition, and for an order directing the Hew York Life Insurance & Trust Company to pay the same to them or their respective attorneys.
+The special term made an order directing the distribution and payment of such money as prayed for by the petitioners and from that order the Hew York Life Insurance & Trust Company appeals to this court. The facts are undisputed.
+Ordinarily the fact that a person, bank or other depository, had not received the money, would be a complete defense to an application made to compel him or it to pay it over.
+But the Hew York Life Insurance & Trust Company does not stand in this case in the position of an ordinary depository; it is incorporated under chapter 75 of the Laws of 1830, as amended by chapter 250 of the Laws of 1834 and chapter 630 of the Laws of 1872. Subdivision 5 of § 2, chapter 75, Laws of 1830, empowers its corporators, “ to accept and execute all such trusts of every description as may be committed to them by any person or persons whatsoever, or may be transferred to them by order of the court of chancery or by a surrogate.”
+Section 2, chapter 630 of the Laws of 1872, after limiting the amount which said company may have in trust, provides as follows, “ but the said company may at any time receive in deposit and loan out any money which may be deposited with them by the supreme court, or any of the courts of law or equity, or surrogates’ courts of this state, notwithstanding the limitation contained in this act.”
+Under these acts, such company is made one of the depositories of the court, and without entering into the question as to whether it can be compelled to receive deposits, it is sufficient to say that in this particular case it agreed to receive the deposit in question.
+¡Now while it is true that it did not receive in fact a deposit of cash, or a check or draft, it received what under the circumstances was the equivalent of a check or draft, and it is only by, its own neglect or omission that it failed to realize, upon it as it could upon a check or draft where there was money on deposit to the credit of the person drawing such check or draft.
+The fund in question was in the possession and under the control of the court, and deposited for the time being in the Farmers’ ¡National Bank of Hudson.
+The court does not pay cash or draw checks or drafts, but makes and directs payments by its orders. In this case it directed the transfer of the money in its possession from and its payment by the Farmers’ ¡National Bank of Hudson to, the ¡New York Life Insurance & Trust Company, by its order, which took the place of a check or draft of an individual or corporate drawer.
+That order was given to and left with the ¡New York Life Insurance & Trust Company, such company in nowise refusing to accept the same, but agreeing to take the money therein mentioned, and to pay interest upon it as prescribed by its terms.
+This, I think, was a complete acceptance of the trust which it was authorized to receive and execute under its charter, and that it must be held to possess the money mentioned in the order subject to an order of this court If it does not in fact possess it, it is by reason of its own omission and neglect, and it is responsible for it and its increase to the court and those for whom it was to hold it in trust just the same as if it had drawn it from the Hudson Bank.
+The order of the special term should be affirmed, with ten. dollars costs, and with printing and other disbursements.
+Mayham, P. J., and Putnam, J., concur.
