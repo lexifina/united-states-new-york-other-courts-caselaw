@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-03-03"
+citations: ["6 N.Y. St. Rep. 647"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Harton, Resp’t, v. Abraham H. Carrick, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/6/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1984469
+---
+
+# Harton v. Carrick
+
+## Majority (Brady, J.)
+
+Brady, J.
+This was an action of claim and delivery founded upon alleged frauds by which the defendant Car-rick obtained from the plaintiff certain goods, wares and merchandise. The fraud seems to have been presented in two aspects for the consideration of the jury: First, upon the defendants various and fraudulent statements; and Secondly, upon the proposition that the purchase was made at a time when the defendant Garrick, was not in such a condition financially, that he had any reasonable right to expect he would be able to pay for the goods.
+In reference to the first, the only evidence of representations is that given by the witness Dun, a reporter for the Mercantile Agency of R. G. Dun & Co., of this city, who called on Garrick on November 9th, 1883. and asked him if he could make any statement in reference to his financial condition, to which the response was given, that he could not, but would do so in January, when he took his annual inventory, whereupon the witness then said to him, “ Mr. Garrick, the trade would estimate your means at $15,000 to $20,000. Is that about right?” To which the defendant replied, “Yes, as near as I can get at it it is about right.” The salesman of the plaintiff made no inquiries of Garrick in reference to his responsibility, merely having taken the order which he solicited, Garrick having neither spoken to nor sought him for the purpose of making the purchase. The plaintiff, when the order for the goods came in, and prior to their delivery, sent to the agency already mentioned and received , a statement, the only material part of which bearing upon the question before us is as follows: “In the meantime he is thought worth $15,000 to $18,000, and will be sold his wants. ”
+This statement it will be perceived was not of what_ he said or of what he thought, but what was thought of him, by whom does not appear; and it was not therefore calculated to excite confidence in his financial condition, but rather to excite suspicion. It would naturally suggest the inquiry by whom it was so thought, and demand further investigation. If it had recorded the interview as detailed by the witness it would indicate an acquiescence by the defendant Garrick in the estimate suggested, which might furnish some reason for extending the credit desired; It must be borne in mind that the defendant did not solicit the purchase and denied positively that he had made the statement, although he admitted that the witness Dun, might have-said in the conversation referred to, what the trade thought of him and rated him, but he denies positively that he told the witness that that was so (meaning the estimate) and refused to make any statement. He also stated positively that he intended to pay for the goods when he obtained them, and never thought anything of being insolvent when he bought the goods, expecting to continue (to use his own language) “right along in the business” and also stating that prior to the purchase he had regularly paid his merchandise debts as they became due.
+Upon the testimony thus given, the question of the honesty of the purchase was submitted to the jury in both of the aspects considered, namely, the fraudulent representations and the dishonesty of the purchase. The jury found for the defendant, and the learned judge set aside the verdict upon the ground that it was against the weight of evidence. The preponderance of evidence should be such as to justify the conviction of a clear and palpable error on the part of the jury. This rule was conceded on the trial, and on the briefs submitted on the part of the respondent.
+It conclusively appears that the plaintiff was not advised that the defendant, Garrick, made any statement in reference to the amount at which he was rated. There was nothing in the note found in the office of the agency which conveyed to him such intelligence. What was there thought does not appear to have been predicated of anything said by the defendant, Garrick, himself. The omission of a debt, or to disclose his insolvency, even if it is known to exist, is not of itself sufficient to avoid the sale on the ground of fraud. There must be an intent to obtain possession of goods without paying for them, or.the absence of any reasonable hope or expectation of being able to pay for them.
+The issues involved in this action were peculiarly within the province of the jury, and a close consideration of the case has led us to the Conclusion that the verdict should'not have been- disturbed, and, therefore, that the order appealed from should be reversed with costs.
+Van Brunt, P. J., and Daniels, J., concur..
