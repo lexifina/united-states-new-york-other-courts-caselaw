@@ -1,7 +1,7 @@
 ---
 court: "New York City Court"
 decided: "1893-06-19"
-citations: ["53 N.Y. St. Rep. 531", "23 N.Y.S. 1036", "4 Misc. Rep. 282", "53 N.Y. St. Rep. 529", "23 N.Y.S. 1034", "4 Misc. Rep. 279"]
+citations: ["53 N.Y. St. Rep. 531", "23 N.Y.S. 1036", "4 Misc. Rep. 282"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
