@@ -1,0 +1,51 @@
+---
+court: "New York City Court"
+decided: "1892-11-25"
+citations: ["49 N.Y. St. Rep. 213"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lena Schmidt, by Guardian, Resp’t, v. Valentine Cook et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/49/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2093313
+cites_cases: ["124 N. Y, 308", "36 St. Rep., 272", "58 N. Y., 248", "91 N. Y., 420"]
+---
+
+# Schmidt v. Valentine Cook
+
+## Majority (Newburger, J. Fitzsimons, J.)
+
+Newburger, J.
+The plaintiff, a child of eleven years, was injured while playing with some other children in the yard of a house belonging to defendants, by moving a flagstone leaning against the fence, so as to cause it to fall over upon her foot, crushing one of the toes.
+The stone was thirty-three (33) inches long, twenty-five (26) inches wide, and three (3) inches in thickness, and stood up straight or upright against the wall and fence in the yard of said premises.
+The stone had been standing in that dangerous condition for three months or more before the accident.
+On the trial of the action, the defendants moved to dismiss the complaint, upon a number of grounds.
+Whether the complaint should have been dismissed on the ground that the negligence of the plaintiff contributed to the accident is the only question which we shall now discuss.
+The plaintiff, in order to recover, had the burden of proving, first, that the defendant was guilty of negligence, and second, that she was free from all fault contributing to the result.
+It appears that the stone had been leaning against the fence for three or four months, and that plaintiff had seen it during that time in the dangerous condition that it stood.
+On the day of the accident, the plaintiff, while playing, used the stone, as she expressed it, for the purpose of playing piano, and continued around it, knowing the dangerous condition.
+There was no evidence authorizing the jury to find that the plaintiff observed that degree of care and caution which the law imposes.
+If she had been an adult, therefore, it would have been the duty of the court to dismiss the complaint.
+Does a different rule apply because the plaintiff was a girl, only eleven years of age? An infant of tender years is not expected to exercise the same care and caution which is required of a person of more advanced age, so that it frequently becomes a question for the jury, whether the child exercised that degree of care and caution which should be required and expected from it.
+In the case of Wendell v. N. Y. C. & H. R. R. R. Co., 91 N. Y., 420, the plaintiff’s intestate, a boy of seven years of age, was held to have been guilty of negligence, it appearing that he was a bright, active boy, capable of understanding the peril of the situation, which he recklessly encountered, resulting in his death.
+In the Reynolds case, 58 N. Y., 248, a bright and intelligent boy, thirteen years old, was killed while crossing a railro'ad track. The plaintiff was unable to show that his intestate observed that care which was required of a person crossing a railroad track, and the court, having under consideration the distinction which the law makes between those who are sui juris and non sui juris, held that plaintiff should have been non-suited.
+In the case of Tucker v. The N. Y. C. & H. R. R. R. Co., 124 N. Y, 308; 36 St. Rep., 272, the plaintiff’s intestate, a boy twelve years old, intelligent, accustomed to attend school, was held guilty of negligence, and that plaintiff should have been non-suited.
+The fact that the girl, Lena Schmidt, was eleven years of age, attended school, Sunday school and church, seems to bring this ease within the rule of the cases before cited.
+Aside from the evidence of the girl’s age, no fact was adduced to show that she was not as well qualified to understand and appreciate the danger which overtook her as an adult.
+At what age an infant’s responsibility for negligence is presumed to commence is not a question of fact for the jury; it is a question of law for the court.
+The complaint should, therefore, have been dismissed.
+For these reasons, the judgment must be reversed.
+Ehrlich, Ch. J., concurs.
+Fitzsimons, J.
+In this action it was plaintiff’s duty to establish negligence on defendant’s part and freedom from contributory negligence on her own part.
+The pleadings admit that, at the time plaintiff was hurt, defendants were the owners of the premises described in the complaint, but there is nothing in the pleadings or testimony to show that the defendants retained and had under their control the yard of said premises; for aught that appears the yard may have been rented to the Lieber family, who rented the basement and floor above the same, and under their control the entrance to the yard could, apparently, be obtained only by going into and through the part of the house rented to the Liebers.
+Before the plaintiff could recover it was her duty to establish an obligation on defendants’ part to keep the yard free from dangerous things.
+Wo such obligation devolved upon them unless they retained control of the yard, after renting the premises, as shown by the testimony.
+We cannot assume that they retained such control. It was plaintiff’s duty to prove it. Having failed to do so, I think that the trial justice erred in his refusal to grant the motion made by defendants’ counsel at the close of plaintiff’s testimony to dismiss the complaint upon the ground that the plaintiff failed to prove or allege any breach of duty from the defendants to the plaintiff, by reason of which she was injured.
+Besides, I think that the testimony shows that plaintiff was guilty of contributory negligence, granting that defendants were guilty of negligence.
+The plaintiff, at the time she was injured, was between ten and eleven years of age. Her testimony shows that she is a bright, intelligent child, and apparently her counsel thought that she possessed an accurate, reliable judgment and was a discerning person, for she testified to answer to his questions, “ that she did not know that the stone as it stood was dangerous," and many other statements made by her show that she is more than ordinarily intelligent. Under the circumstances she had the capacity for forming a judgment as to the probable results of her actions, and if she exercised bad judgment concerning the same, she must put up with the consequences just as if .she were an adult person.
+Upon this phase of the case her testimony shows, that she saw how the stone stood, “right up straight” against the fence, and notwithstanding this fact, she put her foot between the fence and the stone and was playing on and around the stone, when it fell, injuring her. In view of the fact that the testimony shows that the stone stood as plaintiff found it immediately prior to its fall upon her for four months, and even her own mother saw it in that position for some weeks prior to that time, proves, I think, that it was .not in a dangerous position, and was only made so and caused to fall over by plaintiff's interference, and, therefore, I think that plaintiff was guilty of contributory negligence, which, of course, absolves defendants from all liability to her; besides she, having seen the position of the stone, was in a position to know whether or not its position was dangerous ; if she deemed it safe, when really it was dangerous, she erred and thereby used bad judgment, she must suffer the consequences of her rash act.
+The complaint should have been dismissed upon the ground of contributory negligence on plaintiff’s part.
+For these reasons the judgment must be reversed.
+Judgment reversed, complaint dismissed, with costs.
