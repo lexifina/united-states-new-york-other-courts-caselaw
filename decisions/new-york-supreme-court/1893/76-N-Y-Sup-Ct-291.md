@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1893-05"
+citations: ["76 N.Y. Sup. Ct. 291"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Barrett, J., concurred."]
+parties: ["Charles Meyers, as Administrator, etc., of Charles Meyers, Deceased, Respondent, v. The Mayor, Aldermen and Commonalty of the City and County of New York, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/76/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4679381
+cites_cases: ["113 N. Y. 416", "128 N. Y. 117", "131 N. Y. 128", "46 N. Y. St. Repr. 130"]
+---
+
+# Meyers v. Mayor of New York
+
+## Majority
+
+Follett, J.:
+A public officer cannot, without his assent and in the absence of statutory authority, be deprived of the salary attached to his office by being suspended or prevented by his official superiors from temporarily discharging the duties of his office. So long as he remains a public officer his right to the salary attached to the office exists. Nothing short of removal from or abandonment of his office bars this right. (Gregory v. The Mayor, 113 N. Y. 416.)
+The view we take of this case renders it unnecessary to determine whether the power to remove an officer includes the power of suspending him. Eor a discussion of this question see Gregory v. The Mayor (supra), and Emmitt v. The Mayor (128 N. Y. 117), anddhe cases cited in Throop on Public Officers, sections 401 to 406, inclusive.
+The right of the plaintiff to recover depends upon whether his intestate was a public officer of the city or a meres employee of the department of public works. In this State public offices can be created only by the law-making power — the Legislature, or by some public body or board to which' the power to make local laws or regulations has been delegated, pursuant to the Constitution. No such office as inspector of regulating and grading the streets in the city of New York has been created by the statutes of this State, nor by any law or ordinance of any public board or body authorized to legislate for the city in respect to its local affairs. Such an office is not mentioned in the Consolidation Act (Chap. 410, Laws of 1882), nor do we find any authority therein for the creation of such an office by any board or body existing by virtue of that act. Moreover, the evidence does not show that any body, board or officer has attempted to establish such an office.
+Section 54 of the Consolidation Act provides: “ Every person elected or appointed to any office under the city government shall, within five days after notice of such election or appointment, take and subscribe, before the mayor or any judge of a court of record, an oath or affirmation faithfully to perform the duties of his office; which oath or affirmation shall be filed in the office of the mayor.”
+The burden of showing that the decedent held a public office was on the plaintiff, and there is no evidence that the intestate took an official oa¡th. A person designated and employed as foreman of a street-cleaning gang could claim with as much propriety as the decedent to be a public officer. We have not failed to note the cases in which excise inspectors (Gregory v. The Mayor, 113 N. Y. 416), inspectors of masonry (Emmitt v. The Mayor, 128 id. 117), court attendants (Rowland v. The Mayor, 83 id. 372), and various other persons occupying positions in the courts, or in the departments of the State or city governments, have been held to be public officers; but in all those cases the position occupied was created and existed by force of some statute, or local ordinance having the force of a statute.
+The plaintiff’s intestate was not a public officer, but a mere employee of the department of public works, serving for daily wages at the rate of three dollars for each day’s service. When the officer who employed him, and had the power to continue or to cease to employ him, refused to permit him longer to render service, his right to wages was terminated. It makes no difference in what language cue refusal is expressed. When his services were disjjensed with, his right to pay ceased. We are unable to see any good reason why a person whose services are no longer desired is “ suspended,” instead of being discharged, and why the custom prevails, unless it is “ keep the word of promise to our ear and break it to our hope,” is difficult to understand. This practice has caused a multitude of actions against the city.
+Chapter 119, Laws of 1888, provides: “No person holding a position by appointment in any city or county of this state, receiving a salary from such city or county (unless he has been appointed for a definite term), who is an honorably-discharged soldier, sailor or marine, having served as such in the Union army or navy during the War of the Rebellion, shall be removed from such position except for cause shown after a hearing had.”
+The intestate held no “position by appointment,” and he was compensated for his labor by daily wages, but not by “ receiving a. salary,” and he is not within the statute. Salary differs from wages and denotes a higher degree of employment. The term “ wages ” indicates inconsiderable pay, without excluding salary, which is suggestive of a larger compensation for more important service. The. contention that a person employed by the city by the day, who has served in the army, cannot be discharged, or his services dispensed with “ except for cause shown after a hearing had,” derives no support from the language or intent of the statute quoted. But admitting that the terms of the employment of the intestate brought him within the act, he was not entitled to pay from the city while unemployed, though wrongfully removed or suspended by the commissioner of public works. (Higgins v. The Mayor, 131 N. Y. 128.)
+When this case was before this court on a former appeal, the question whether the then plaintiff was a public officer or a mere employee of the city, was not presented to nor considered by the court. However, that decision in so far as it conflicts with this judgment, is overruled.
+The judgment should be reversed, and as under no circumstances can the plaintiff recover, the complaint should be dismissed, with costs.
+Yan Brunt, P. J., and Barrett, J., concurred.
+Judgment reversed, and complaint dismissed, with costs.
