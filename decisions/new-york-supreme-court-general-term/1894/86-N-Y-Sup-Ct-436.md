@@ -1,0 +1,58 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-07"
+citations: ["86 N.Y. Sup. Ct. 436"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., and Parker, J.', concurred."]
+parties: ["Benjamin W. Jones, Respondent, v. Henry J. Newton, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/86/cases/0436-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2399941
+cites_cases: ["14 N. Y. 472", "21 N. Y. 336", "35 Barb. 143", "4 Hill, 178", "47 How. 80"]
+---
+
+# Jones v. Newton
+
+## Majority (Barrett, J.:)
+
+Barrett, J.:
+Upon tbe uncontradicted testimony in this case a verdict was properly directed for tbe plaintiff. Tbe goods were delivered to Yan Gelder upon the defendant’s original undertaking. Credit was given solely to tbe defendant and tbe goods were charged to him. Tbe goods were sold in tbe year 1891. Tbe course of dealing between the parties was as follows: Upon the delivery of tbe goods to Yan Gelder tbe latter receipted therefor. A bill was then made out to Newton. This bill (accompanied with Yan Gelder’s receipt) was sent to Newton, who wrote across its face, “Payment guaranteed, H. J. Newton.” This course of dealing bad continued for four years. It originated after the failure of Yan Gelder Bros. That firm, in tbe year 1887, made an assignment to Newton, who was willing to help them. As they bad no credit and wanted goods, Newton told the plaintiff’s agent, one Sharts, that be would guarantee sales made to them by tbe plaintiff. Accordingly a sale was made. Tbe first bill was charged to Yan Gelder Bros., and tbe defendant, in execution o'f Ms guaranty, was required to and did give Ms note for the amount thereof payable in two months. The bill read: “Terms, 60 days note of Henry J. Newton.” The correspondence with regard to this transaction settled all future questions as to whether the defendant "was to be a guarantor or an original undertaker. Sharts wrote to Newton on the 25th of May, 1887, as follows:
+“Mr. Henry J. Newton, 436 West 16th street, New York:
+“ Dear Sir —■ The writer (after seeing you last Monday) called on Yan Gelder Bros, and reported to them the'result of our interview. They are anxious to get the skins from me with as little delay as possible, so if you will be hind enough to sign the enclosed note for $308.70, and retmrn it to me, Van Gelder can obtain the goods at once. Please fill in on the note where you want the note made payable, i. e., at what bank. Your attention to the above will oblige, Yours, very truly,
+“B. W. JONES —P. H. Sharts.”
+To this Newton, on the next day, sent the following answer:
+“Mr. B. W. Jones:
+“Dear Sir — Yours with bill for goods to Yan Gelder Bros, and note came to hand this morning. My understanding with the gentleman from your house, who called on me, was that the goods should be billed to me, and in f%otu/re you will please bill all goods delivered to Van Gelder Bros, to me, and send me bill when delivered. Yery respectfully yours,
+“HENBY J. NEWTON.”
+Sharts replied May 27, 1887, as follows:
+“ Henry J. Newton, Esq., 430 West 16th street, New York:
+“ Dear Sir —Your favor of 26th inst. received with note at two months from the 26th of May (due July 29th) for three hundred and eight .70 dollars in settlement of bill for salted skins, dated May 25th. I have made out the invoice in your name instead of Yan Gelder Bros., and enclose it herewith. The two casks of skins were delivered to Yan Gelder Bros, this day. Thanking you for the note, I remain Yours, very truly,
+“B. W. JONES — P. H. Sharts.”
+Thereafter all bills were made out directly to the defendant, and the goods, as delivered from time to time to Van Gelder Bros., were charged to him.
+Charles Van Gelder went out of the firm of Van Gelder Bros, on the 1st of February, 1888, and thereafter the same course of dealing proceeded with regard to Henry Van Gelder. This also is evidenced by the defendant’s letters. Thus, in July, 1888, he wrote to the plaintiff as follows:'
+“New York, July '¡ZSrd, 1888.
+“Mr. B. W. Jones :
+“ Dear Sir — As I expect to be out of town most of the time until Sept. 1st next, you will please let Mr. Henry Yam, Gelder home such goods as Tie may require to successfully ca/rry on his business d/wring my absence, a/nd 1 will be responsible for the same.
+“ Yours very respectfully,
+“HENRY J. NEWTON.”
+And again in July, 1889 :
+“New York, July Ylth, 1889.
+“ B. W. Jones, Esq.:
+“ Dear Sir- — -This is to certify that during my absence from the city you are authorized to furnish Mr. Henry Van Gelder with goods in his line as heretofore, for which you may consider me responsible, as usual. On my return to the city I will notify you, and then a return to the ordinary method will be in order.
+“ Yours respectfully,
+“HENRY J. NEWTON.”
+Hpon each of the twenty-six bills sold in 1891, which form the subject of this action, the “ return to the ordinary method ” is evidenced by these undisputed facts: That each bill was made out and rendered to H. J. Newton; was accompanied by Henry Van Gelder’s receipt, and was identified and approved by the words, “ Payment guaranteed, H. J. Newton,” written across its face by the defendant.
+It is clear upon this state of facts that there was nothing to go to the jury, and that the defendant was liable upon his original undertaking. He chose to bind himself in that manner rather than give his note each time that Van Gelder purchased a bill of goods.
+He knew that a guaranty meant the giving of his note before the plaintiff would trust Yan Gelder with, the goods. This was evidenced by Sharts’ letter with regard to the first purchase. To avoid that inconvenience he deliberately chose the obligation of a direct sale to himself, with sixty days’ credit. His present claim, therefore, that he was a mere guarantor, is both disingenuous and frivolous. He was clearly liable for every bill made out in his name which, when sent to him, was accepted, such acceptance being evidenced by the words, “Payment guaranteed, H. J. Newton,” written across the face thereof.
+The direction was, therefore, right.
+As to the rulings upon evidence, we think the court committed no error. Yan Gelder was asked whether he or Newton purchased the goods; whether they were purchased for him in his business for Newton; whether Newton had any interest in his business; whether he was acting as Newton’s agent; whether the goods were charged to him or to Newton; whether he was authorized to purchase for Newton, and a host of similar questions. Newton, was asked whether he ever purchased any goods of plaintiff, whether he had any interest in Yan Gelder’s business.
+All these questions were properly excluded. Many of them involved mere conclusions. The object could only have been to induce the witnesses to deny the legal effect of the documentary evidence. Not a question was asked calling for any conversation, agreement or actual transaction between the parties; nothing suggestive of a new or different arrangement from that evidenced by the defendant’s own signature. It is clear that the defendant could not, in the way attempted by these questions, vary the conclusive effect of the real transaction. ~We are referred to a class of cases where the admission of what, upon the surface, might seem to be conclusions of witnesses, was sustained. (Caspar v. O’Brien, 47 How. 80; Sweet v. Tuttle, 14 N. Y. 472; Smith v. Knapp, 27 id. 281, 282.)
+In these and similar cases, however, the question admitted had no direct relation to the subject of the inquiry. Thus, in Caspar v. O’Brien, the question was as to the fact of naked ownership at a particular time, while, as the court said, “ the issue to be determined by the jury involved the lonafides of the possession and ownership at the time of the loan made by the plaintiff.” In each of the cases the witness was permitted to testify to some particular fact actually within his knowledge, not to his conclusion from such fact. The questions here attempted to be put “were,” as Judge Freedman said in Caspar v. O’Brien (supra), “ subject to the criticism that they or either of them embraced the whole merits of the case and left nothing for either court or jury to decide.”
+As to' certain other questions, not necessary to be enumerated, they were either incompetent or immaterial. It was, for instance, quite immaterial whether Yan Gelder was acting as Newton’s agent or acting for himself with Newton’s support. The fact was that-Newton lent Yan Gelder his credit and that he made himself responsible for the purchases. As to the question put to Yan Gelder ■ — ■ “ What was your arrangement with Mr. Jones when you purchased the goods of him?” — it is enough to say that the witness testified that originally he made no arrangement with Jones; that he was ashamed to go to him, and that the arrangement was made directly between Jones and Newton. There was no suggestion of a different arrangement with regard to the goods in question, nor was it intimated that the inquiry related to a new arrangement. If the defendant, by any of these questions, intended to show any variation in the existing agreement, he should certainly have avowed his purpose, and put his questions accordingly. But, even if he had avowed such a purpose, we think the questions as put were still improper. We may add that the only time the defendant’s counsel hinted at the possibility of a somewhat different arrangement the court said : “ If he (the defendant) can testify to any conversation with the plaintiff’s agent that is all very well. ' He may do so.” But no such conversation was asked for.
+The use of the words “ payment guaranteed ” upon the bills made out to the defendant did not tend to vary the original undertaking or to turn it into a guaranty. That was simply the form used to express approval of each particular transaction. It amounted to nothing more than the defendant’s guaranty of his own debt, which, under the authorities, is not a collateral but an original undertaking. (Fowler v. Clearwater, 35 Barb. 143; Brown v. Curtiss, 2 Comst. 225; Gardell v. McNiel, 21 N. Y. 336; Johnson v. Gilbert, 4 Hill, 178.)
+There was nothing in the conversation between Yan Gelder and the plaintiff, wherein the former asked advice as to whether he should continue in business, which affected the transaction. Jones then made no agreement to extend the existing credit or to change the existing relation of the parties. He neither said nor did anything which could prejudice the defendant. He was simply asked for his advice as to whether Van Gelder should go on. His answer was that Van Gelder ought to be the best judge of what he should do. Einally, when pressed, he asked Sharts what he thought, and when Sharts answered, “ I think he had better go on,” the plaintiff added, “Well, I do too.” The contention that the defendant was entitled to notice of this conversation from Jones, and was in some way defrauded because' such notice was not given him, is hardly worthy of consideration.
+The judgment appealed from and the order denying the defendant's motion for a new trial should be affirmed, with costs.
+Van Brunt, P. J., and Parker, J.', concurred.
+Judgment and order affirmed, with costs.
