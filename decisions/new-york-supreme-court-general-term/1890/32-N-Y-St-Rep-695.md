@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-07-18"
+citations: ["32 N.Y. St. Rep. 695"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Probate of the Will of Joseph Gall, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0695-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040097
+cites_cases: ["114 N. Y., 109"]
+---
+
+# In re the Probate of the Will of Gall
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is an appeal from a decree of the surrogate of Kings county refusing probate to the last will and testament of Joseph Gall, deceased, because he was married and had issue of such marriage subsequent to the making of his will.
+There is not a disputed fact in the case, and the statute accomplishes the revocation and nullification of the will if the marriage and birth of a child were subsequent to its execution.
+The time of birth of the child is undisputed, and therefore the only thing for our determination is the time of the marriage of the testator, and that question depends upon inferences to be drawn from undisputed facts, which are substantially as follows:
+Joseph Gall, the testator, lived in Rutherford Park, in the city of New York, and his wife died there on the 16th day of February, 1883; at that time he had a domestic servant who lived in his family by the name of Amelia Steeb, and after that she became his housekeeper. He commenced cohabitation with her soon after the death of his wife, and she became pregnant in May, 1883. When her condition was ascertained, he broke up his household in Rutherford Place, and hired rooms for Amelia in Tenth street, in New York city, and went himself to reside at the Westminster Hotel. That was in January, 1884, and he never lived in Tenth street.
+Amelia’s child was bom on the 29th clay of February, 1884, and Gall employed the physician to attend her and paid him for his services.
+In April, 1884, Gall bought a house and lot in Lafayette avenue, Brooklyn, and Amelia with some members of her family and her child, left Tenth street and went there to reside the last of April, 1884.
+Gall sailed for Europe on the 1st day of May, 1884, and returned in July following, and went to the Westminster Hotel to reside, and remained there until March, 1886, when he went to Brooklyn and lived with Amelia as her husband until his death in the "month of May following. About two months after his death, on the 8th day of July, 1886, Amelia gave birth to another child.
+From July, 1884, to the time of his removal from the Westminster Hotel in March, 1886, Gall visited Amelia in Brooklyn several time a week -and in the locality where she lived he treated her as his wife.
+In his codicil, which was executed April 28, 1884, after the birth of the first child, he uses this language: “II. I give and bequeath to Amelia Steeb, a former servant of my late wife, the sum of one thousand dollars.” III. “I give and bequeath to the child of said Amelia, Betsey A. Gall, now of the age of two months, the sum of five thousand dollars.”
+About a week before Gall sailed for Europe the 1st day of May, 1884, his partner, Charles Lembkie, importuned him to make some provision for Amelia and her child, and he simply said he would do something. This is an extract from his testimony:
+Q. “Mow, at the time when the codicil was spoken about, did he give you any reason why he wouldn’t marry Amelia?
+“A. Well, of course he related to her social standing and his social standing. This was. on the 23rd or 24th of April, when I went down with him about the codicil. He mentioned the ignorance of the person; he said his social standing would not admit of a marriage; that is, contracting a marriage at that time.”
+After the death of G-all, Amelia commenced an action for the recovery of dower in his estate, and obtained a judgment which was affirmed in the supreme court and court of appeals. Gall v. Gull, 114 N. Y., 109; 29 N. Y. State Rep., 746. The jury in that action found that Gall and Amelia intermarried between the month of February, 1883, and the death of Gall, and found a general verdict in favor of the plaintiff, but the time of such marriage was not fixed.
+The facts already recited are sufficient to enable us to determine the character of the association of these parties at both ends of the line of their intercourse. At the first their relations were licentious, and at the last they were matrimonial, and we are required to find the time when the latter commenced, or rather to find whether they were married when the codicil was executed, for if we find their relations illicit at that time then the marriage was consummated later, and the codicil and the will fall together before the statute which executes itself and revokes them both.
+There was no proof in the case either of a ceremonial marriage or an actual marriage contract between these parties, and such a contract can only be implied from the facts and circumstances disclosed by the evidence, and the presumption furnished by the licentious character of the intercourse between these parties in its commencement, supplemented by the natural and legitimate deduction from the evidence already recited, renders it impossible to infer a marriage contract between them earlier than Juty, 1884, after the return of Gall from Europe.
+Prior to that time there was nothing in his conduct or conversation to indicate anything but the existence of concubinage between him'and Amelia. His conversations with his physician, his designation of Amelia in this codicil as a former servant of his wife, his declaration to his partner at the same time that the difference between the social position of himself and Amelia was too wide to admit of a marriage between them, are all absolutely inconsistent with the existence of a matrimonial contract between them at the time of the execution of his codicil and his departure for Europe.
+The testimony of the mother of Amelia has not been overlooked, but if Gall ever had such a conversation with her in 1883 as she details, it was the language of pacification and not of truth, and her evidence is so at war with all the conceded facts, that it is entitled to no weight in the case.
+There is sufficient evidence to justify the inference of a marriage contract between the parties after July, 1884, but not before that time, and bur conclusion is that the marriage and birth of the last child were subsequent to the execution of the will and codicil and that both stand revoked by virtue of the statute.
+The decree of the surrogate should therefore be affirmed, with costs to be paid from the estate.
+Barnard, P. J., and Pratt, J., concur.
