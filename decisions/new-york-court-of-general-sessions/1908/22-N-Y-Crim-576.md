@@ -1,0 +1,26 @@
+---
+court: "New York Court of General Sessions"
+decided: "1908-09"
+citations: ["22 N.Y. Crim. 576", "60 Misc. 517"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. MARGARET TEAL, JULIA M. FLEMING AND HARRY S. MOUSLEY."]
+source_url: "https://static.case.law/ny-crim/22/cases/0576-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 809068
+cites_cases: ["126 App. Div. 72", "173 N. Y. 395", "53 Misc. Rep. 158"]
+---
+
+# People v. Teal
+
+## Majority (Ceaix, J.)
+
+Ceaix, J.
+This is a motion for leave to inspect the minutes of the grand jury, containing the evidence upon which the indictment herein, which charges the defendants with the crime of an attempt to commit the crime of subornation of perjury, was found.
+The moving papers show that a reasonable effort has been made by the moving parties to learn, without an inspection of the grand jury minutes, what was testified to before the grand jury. They show to what extent it has been possible in this way to learn what was so testified to. They show to what extent such information has not been obtainable, and why it was not obtainable. In the absence of such complete information the moving papers show what the moving parties surmise was the testimony before the grand jury and the grounds of such surmises; which surmises in turn in the light of the facts disclosed are not unreasonable.
+Upon the information which the moving parties have been able to obtain, and upon such surmises, they urge for reasons stated in the moving papers that there is reasonable ground for belief that, in the finding of the indictment herein, the grand jury received other than legal evidence to such an extent and in such manner as to invalidate the indictment, and that the legal evidence received by the grand jury was insufficient to warrant the finding of the indictment, and that they, therefore, upon the constitutional grounds stated in People v. Glen, 173 N. Y. 395, and People v. Sexton, 186 id. 495, contemplate moving to set the indictment aside; and this motion is stated to be made in aid of such contemplated motion, in order that such motion when made may not rest even in part upon surmise, but wholly upon disclosed and ascertained facts.
+In the respects mentioned the moving papers present a case distinguishable from those where, without the disclosure of such effort by the moving parties to learn without recourse to the grand jury minutes what was testified to before the grand jury, and wholly without the statement of any reason upon which a surmise is predicated that a grand jury received illegal evidence, or did not receive sufficient legal evidence, a motion is made for an inspection of the minutes of a grand jury upon a naked-assertion that such was the fact.
+No attempt should be made upon the decision of this motion to pass upon the questions which the motion papers and briefs indicate will come before the court upon the motion which the moving parties state they are about to make to dismiss the indictment. For the purposes of this motion it is sufficient that the moving papers indicate that such a motion is contemplated, and that it will apparently be made in good faith and upon grounds which concededly merit discussion and consideration.
+It is desirable that if made it be made upon the more accurate information obtainable alone from the minutes of the grand jury, so that it may beyond pera ¿venture be disposed of upon the merits, and not upon a technicality. The case falls within that part of the opinion in the case of People v. Klaw, 53 Misc. Rep. 158, 160, substantially followed in Matter of Montgomery, 126 App. Div. 72, 83, and within the instances in which the latter decision states that it is proper that an inspection of a copy of such minutes should be granted.
+Motion granted.
