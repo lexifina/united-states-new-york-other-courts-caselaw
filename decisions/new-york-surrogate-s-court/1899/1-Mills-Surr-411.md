@@ -1,0 +1,21 @@
+---
+court: "New York Surrogate's Court"
+decided: "1899-12"
+citations: ["1 Mills Surr. 411", "30 Misc. 25"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement of the Account of Martin Herman et al., as Executors, etc., of Jacob Scholle, Deceased."]
+source_url: "https://static.case.law/mills-surr/1/cases/0411-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1064245
+cites_cases: ["1 H. & M. 546", "23 N. Y. 298", "31 App. Div. 151", "79 N. Y. 327"]
+---
+
+# In re the Judicial Settlement of the Account of Herman
+
+## Majority (Fitzgerald, S.)
+
+Fitzgerald, S.
+In this case the testator gives “ all the rest, residue and remainder ” of his estate to his executors in trust to keep the same invested for his wife and surviving children in -equal undivided shares. The shares held in trust for the children, of whom there are five, are carefully disposed of, ultimately becoming vested in the testator’s grandchildren. The executors •are directed to pay the income of the remaining share to testator’s wife “ during the term of her natural life, and after her death such share shall form part of my residuary estate.” The wife having died, the question arises as to whether this share should proportionately augment the principals of the five trusts created in behalf of the decedent’s children, or whether it is to be at once distributed among the next of kin of the testator by reason of his failure to- properly dispose of it. It is undoubtedly so that a general residuary clause vests in the residuary legatees so much of the estate as it not otherwise effectively disposed of. But this rule does not apply where a lapse is to he predicated of part of the residuum itself. In such an event the residuary portion thus failing does not go to increase the shares of the beneficiaries to whom the residuum is given, but devolves as undisposed of. This tenet of construction was clearly enunciated in Beekman v. Bonsor, 23 N. Y. 298, 312, and has been repeatedly applied. Kerr v. Dougherty, 79 N. Y. 327, 346; Booth v. Baptist Church, 126 id. 215; Morton v. Woodbury, 153 id. 243, 256. I am of the opinion that the clause of the will of which construction is sought herein falls directly under the operation of the rule just enunciated. The shares of the residuary legatees are distinctly fixed by the will. One of such shares, after the usufruct thereof is given for life, falls back into the residuum. There being no express gift of the remainder of such share to the other residuary legatees,.it must be held that no effectual disposition has been made thereof. This conclusion was reached in the English cases to which my attention has been called and in which the facts were practically identical with the case at bar. Humble v. Shore, 7 Hare, 247; Lightfoot v. Burstall, 1 H. & M. 546. The case of Meldon v. Devlin, 31 App. Div. 151, is cited as an authority to the contrary. In that case, part of the residuary estate was given by the testator in trust with the right to the trustees to pay the income thereof, or so much thereof as they chose, to certain nephews or to' the “ body ” of the estate. By reason of the division made by the testator, the court was enabled to exactly define the last expression as meaning that part of the residuary estate not included in the trust. Hence, it was held that there was no lapse of this part of the residuumsince it was clearly given in augmentation of a certain fund distinguishable from the remainder of the estate. But in the present matter no such distinction can be made. The share of which the life estate is predicated is directed to fall back into the residuary estate, the beneficiaries whereof and the shares which they are to take having already been fixed by the testator. Hence, there was a failure to dispose of the share in question and under the rule stated the same should be distributed among the next of kin as if undisposed of. Submit decree in accordance with the above decision.
+Decreed accordingly.
