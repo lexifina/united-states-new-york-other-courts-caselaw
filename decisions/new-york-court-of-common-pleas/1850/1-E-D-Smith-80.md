@@ -1,0 +1,40 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1850-11"
+citations: ["1 E.D. Smith 80"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Benjamin Decker v. David Jaques."]
+source_url: "https://static.case.law/ed-smith/1/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1280486
+cites_cases: ["15 Wend. 491", "18 Wend. 141"]
+---
+
+# Decker v. Jaques
+
+## Majority (By the Court. Woodruff, J.)
+
+By the Court. Woodruff, J.
+The plaintiff, as lessee of public wharves, brought his action for wharfage of the defendant’s oyster boat, which lay at the bulkhead in the slip between Fulton and Dey streets, in this city, at the rate of 30 cents per day, for 333 days, amounting to $99 90.
+The defendant paid into court the sum of $50, together with the costs incurred to the time of such payment, and thereupon resisted the plaintiff’s recovery of any other or further sum, upon the ground that by the ordinance of the corporation regulating the rates of wharfage accruing from the wharves belonging to the city, he was only chargeable with half wharfage, or 15 cents per day, for the period in question.
+It appears that the defendant’s boat is constructed, not for sailing purposes, but as a receiving vessel or depositary for oysters brought to the city for sale, and is made square at each end—is for the most part boarded up at the sides and covered over—and, in general, receives oysters at one end, and discharges them at the other. That she was made fast at one end to the bulkhead in question, midway, or thereabouts, between the two piers forming the slip, and she was connected with the bulkhead by gang planks leading directly on board from the wharf or street, over which oysters were discharged on to the wharf or street.
+Section 212 of the act to reduce, &c., relating to the city of New York, (2 Rev. Laws, p. 429,) prescribes the rates of wharfage which it shall be lawful for owners of wharves in the city of New York to charge for all ships and vessels “ using their wharves,” respectively, “for every day such ship or Vessel shall use or be made fast to any of the said wharves.”
+And section 215 of the same act provides, “ that every ship or other vessel which shall make fast to any other ship or vessel that shall be fastened to any wharf, and being so fastened shall load, unload or careen, shall pay the one half of the rate of wharfage such ship or vessel would have been liable to pay, if fastened to such wharf, and there loaded, unloaded or careened.”
+An ordinance of the corporation of this city, in relation to wharfage, at such wharves as are the property of the city, provides, “ that for all vessels of more than five tons burthen, and under 20 tons, there shall be paid only 30 cents a day, subject to abatement or half wharfage, according to the provisions of the laws of this state, when not homing dock berths.”
+It was not claimed by the defendant, in the court below, nor is it now claimed, that the bulkhead is not a “wharf” within the meaning of this statute and the ordinance of the corporation; but the argument of the appellant’s counsel concedes that the bulkhead is a wharf within their provisions, and that the defendant’s boat is a vessel within their meaning.
+The appellant contends, that under this ordinance he was not liable for more than half wharfage, and on the trial endeavored to prove, that “ not having dock berths,” means not lying broadside to the pier or wharf.
+It seems to me impossible to read attentively the ordinance in question, together with the above sections of the statute, without giving to the proviso in the ordinance the same meaning which is intended by section 215 of the act. That is the law which defines the cases and circumstances in which “half wharfage” only shall be paid, and the corporation, when fixing a uniform rate of wharfage for the use of their own wharves, at something less than the statute allowed, them to charge, made that rate subject to abatement or half wharfage according to the provisions of the act. If they intended to provide a new class of cases in which that abatement should be made, it was not only senseless to say, “ according to the provisions of the laws,” &c., but it imported falsehood.
+' Thus, for example, “ subject to abatement or half wharfage, according to the provisions of the laws of this state, when lying on the east river side of the city.” There are no provisions of the laws of this state which could be so referred to.
+The plain reading of the ordinance is, “subject to abatement, &c., when, according to the provisions of the laws, &c., not having dock berths,” and it seems to me too plain to admit of much discussion; for surely it cannot be contended that the reference to the laws of the state was made for a definition of “ half wharfage.” To show that half wharfage meant one half the full rate of wharfage, certainly required no such reference.
+This appeal must therefore be determined by the meaning of sect. 215, above referred to, and the question is,, Was this vessel made fast to another vessel that was fastened’ to a wharf, and loaded and unloaded being so fastened?
+Or was she fastened to such wharf,, and there loaded and unloaded ?
+Upon the facts the justice has found, and we think correctly, that according to her usual and most convenient manner of loading and unloading, she did unload over her bow on the bulkhead, to which she was firmly and constantly attached. And to say that because the owner thought proper to secure her stem by a rope attached also to another vessel alongside, therefore she came within the definition contained in § 215, is trifling with the plain meaning and good sense of the statute.
+The statute intended to make a distinction between those vessels which enjoyed the convenience and security of making fast to a wharf and there unloading, and those which, having no immediate access to the wharf, were made fast to other vessels lying within, and were thus at the disadvantage of inconvenient and insecure positions while unloading.
+Upon the facts found by the justice, regarding the manner of this vessel’s construction—the manner of using her—the usual and customary mode of loading and unloading—and especially that she was made fast to the wharf and there unloaded—I think the vessel was liable to pay full wharfage, under the act and under the ordinance.
+But if it were conceded that the ordinance may, in fact, have provided for only half wharfage in a new class of cases, that, “ when not having dock berths,” may mean something other than the contingency provided for in the statute; the questions presented were, What is the meaning of “having dock berths?” and had this vessel a dock berth ?
+We cannot say, as matter of la/w, that “having a dock berth ” means any thing other than having a place for loading and unloading at a dock, which is in substance the meaning above given to the expression.
+If its meaning be technical, and therefore susceptible of proof by witnesses familiar with the business in reference to which the term is used, then the inquiries, what is the meaning of “having dock berths,” and, also, had the vessel in question a dock berth, were both questions of fact, in relation to which much testimony was given by both parties, and upon which the justice has found adversely to the appellant. This finding is to be treated as we would treat the verdict of a jury, and is not to be disturbed on appeal, unless very clearly against the weight of evidence. This view of the finding of the justice accords with the decisions of the late supreme court and court of errors, (see Stryker v. Bergen, 15 Wend. 491 ; Noyes v. Hewett, 18 Wend. 141,) and has been held by this court in one or more cases, at nearly every term since appeals were directed to be made to us.
+So far from deeming this a case in which the finding should be set aside as against the weight of evidence, I regard it rather as sustained by the testimony.
+The judgment must be affirmed, with costs.
