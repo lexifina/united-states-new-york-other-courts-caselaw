@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1874-07"
+citations: ["8 N.Y. Sup. Ct. 639"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE BUCHANAN FARM OIL COMPANY Respondent, v. GEORGE WOODMAN and THOMAS EVANS, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/8/cases/0639-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1907003
+cites_cases: ["12 Abb. Pr., 476", "15 How. Pr., 97", "17 Barb., 644", "17 How., 420", "21 How. Pr., 462", "7 Abb. Pr., 171", "8 How. Pr., 298"]
+---
+
+# Buchanan Farm Oil Co. v. Woodman
+
+## Majority (.Davis, F. J.:)
+
+.Davis, F. J.:
+The complaint in this action alleges, “that at various dates between September 17th, 1870, and March 20th, 1873, the plaintiff deposited with the defendants, as its bankers, various sums of money, which said deposits, on the said 20th day of March, 1873, after deducting all credits due to said defendants, amounted in the aggregate to the sum of twenty-nine thousand five hundred dollars, leaving the defendants, on said last-mentioned day, indebted to the plaintiff in the aforesaid sum and interest.” “ That the plaintiff has, since the said sum became due, demanded payment thereof from the defendants, but the defendants refuse to pay the same, and no part thereof has been paid; wherefore plaintiff demands judgment against the defendants, for twenty-nine thousand, five hundred dollars, and interest from March 20, 1873.”
+These allegations fail to show anything more than a cause of action arising upon contract for moneys had and received; and there is no averment, from which a just inference can be taken, that the indebtedness sued for, is for money received in a “ fiduciary capacity,” within the meaning of the Code. The moneys are alleged to have been deposited with defendants as the bankers of plaintiff, and the indebtedness is stated as the balance of a current account, running through a period of two and a half years. The fair inference from the complaint is, that the moneys were deposited from time to time in the course of ordinary banking business, subject to checks at sight, and that it was neither intended nor supposed that the funds deposited were to be held in trust, but that the same were to be used, as customary with banks and baiikers under such circumstances, in the usual course of their business. In such case, the relation is that of debtor and creditor, and not that of trustee and cestui que trust. The credit is given to the pecuniary responsibility of the banker, and not to his personal integrity, and the deposit becomes the property of the recipient, to be paid for on demand as a debt due and payable upon the checks of the depositor.
+The right of arrest, under section 179 of the Code, does not, in such a case, exist or arise as a part of the cause of action. “ The test is whether the specified moneys ought in good faith to have been kept and paid over, or whether the agent had a right to use the money. ”
+Under the complaint, in this case, the plaintiff will, at the trial, make out his cause of action by producing the accounts rendered (as described in the affidavits), and no question of tortious conversion can properly arise on the complaint.
+Nor do the affidavits tend to establish any fiduciary relation between the parties, within the meaning of the section of the Code above cited. They may be said, perhaps, to show that Rose, the treasurer of plaintiffs, transferred his account, as treasurer, from the Ninth National Bank to the defendants, for his private convenience, and that defendants knew of that purpose; but they show that the deposits were received by defendants, as bankers, and so kept and continued till the balance was struck and counterbalanced, by conveying the same to the account of W. W. Rose, as a credit against his individual indebtedness. The question at the trial may be, whether the defendants had any right to balance the account by such a debit; but that question does not involve any fiduciary relation.
+Running through the affidavits on the plaintiff’s part, are allegations tending to show a fraudulent conspiracy between Rose, the plaintiff’s treasurer, and defendants, to get into the possession of defendants, the moneys of plaintiffs, so that Rose could use the same, by defendants’ aid and connivance, in his individual stock speculations. That such a fraudulent conspiracy might give to plaintiff a cause of action against any or all the parties implicated in it, need not be controverted; but such an action must be maintained upon a complaint charging the alleged frauds and conspiracy, and presenting .to defendants the opportunity to take issue and have a trial by jury upon the fact of their guilt or innocence. Undoubtedly, such a complaint would present a case in which the right of arrest would be involved in the cause of action. But, under the present complaint, no such issue is tendered or triable ; nor could it arise—except, possibly, as an incidental question affecting the alleged right of defendants to debit the account of Rose, as treasurer, with the balance due on his individual account. It is not at all material to the question, whether the money was received in a fiduciary capacity; and it is not averred in the complaint that the defendants received it tortiously, and are liable in an action for such a wrong. The cause of action,' assuming it to exist for fraudulent conspiracy, alleged, or attempted to be, in the affidavits, is not consistent with the cause set forth in the complaint, and therefore the order of arrest in this action cannot be sustained.
+The order of arrest should therefore have been vacated. The order appealed from is reversed, with ten dollars costs of the appeal, and the motion to discharge the order of arrest is granted, with ten dollars costs.
+Daniels and Beady, JJ., concurred.
+Order reversed, with costs.
+McBurney v. Martin, 6 Robt., 502; Goodrich v. Dunbar, 17 Barb., 644; Schudder v. Shiels, 17 How., 420; Bussing v. Thompson, 15 How. Pr., 97.
+Stoll v. King, 8 How. Pr., 298.
+7 Abb. Pr., 171; Wickes v. Harmon, 12 Abb. Pr., 476; S. C., 21 How. Pr., 462.
