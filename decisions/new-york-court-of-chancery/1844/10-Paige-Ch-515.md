@@ -1,0 +1,23 @@
+---
+court: "New York Court of Chancery"
+decided: "1844-01-16"
+citations: ["10 Paige Ch. 515", "3 Sarat. Ch. Sent. 93"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Didier vs. Davison."]
+source_url: "https://static.case.law/paige-ch/10/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 482451
+cites_cases: ["14 Peters' Rep. 211"]
+---
+
+# Didier v. Davison
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+In Wyatt’s Practical Register, and some other elementary treatises, it is said several matters in bar may be pleaded together. But it is very doubtful whether double pleading was ever allowed in chancery without the special leave of the court. And the statute authorizing the defendant in any action to plead as many matters as he shall think necessary for his defence does not apply to suits in this court. The word u action,” when used in the revised statutes, is intended to designate a proceeding in a court of law. But when the word “ suit" is used in reference to legal proceedings, by the revisers, the statute may apply to a proceeding either at law or in equity, unless there is something in the context to confine the operation of the statutory provision to suits in a particular court. It is well settled that neither in this court nor in a court of law can the defendant plead two distinct defences in one plea, without rendering such plea bad for duplicity. The rules of pleading, on that subject, are substantially the same in this court and in courts of law. (Welf. Eq. Pl. 292. Lube, 263. Coke’s Litt. 304, a. Euer’s Syst. of Pl., ch. 36. Story’s Eq. Pl. 498. Rhode Island v. Massachusetts, 14 Peters’ Rep. 211. Bogardus v. Trinity Church, 4 Paige’s Rep. 178.)
+In courts of law, however, the defendant is permitted to put in separate defences, by several distinct and independent pleas, as a matter of course; subject to the right of the plaintiff to apply to have some of them stricken out, where they are inconsistent with each other. But in this court thé defendant cannot put in several separate and independent defences, by plea, to the whole bill, or to the same part of the bill, without the special leave of the court first obtained. Indeed, until the case of Gibson v. Whitehead, (4 Mad. Rep. 241,) where Sir John Leach permitted two pleas to be filed, it was not supposed to be admissible to plead two or more pleas in bar in this court under any circumstances. And Mr. Willis considered that as an unauthorized departure from what was previously supposed to be the established rule. (Will. Eq. Pl. 493.) Lord Brougham, also, in a subsequent case in the house of lords, said it was contrary to the established rule of pleading, and that it had been overruled. (See Harland v. Emerson, 8 Bligh’s Rep. N. S. 85.) It appears to have been followed, however, by Sir Launcelot Shad well, in the case of Hardman v. Ellames, (5 Sim. Rep. 645,) and by Lord Langdale in the more recent case of Kay v. Marshall, (1 Keen’s Rep. 190,) notwithstanding what was said by Lord Brougham two years before. And a very late writer on the subject of equity pleading, in England, considers it as now settled there, that where great inconvenience would result to the defendant by compelling him to answer the complainant’s bill, the court, upon a special application, may give him permission to plead two separate pleas in bar. (Welf. Eq. Pl. 293. See also Story’s Eq. Pl. 501, § 657; Van Hook v. Whitlock, 3 Paige’s Rep. 419; and Saltus v. Tobias, 7 John. Ch. Rep. 214.)
+Although this court has the power to allow the defendant to plead two or more pleas in bar, it is not a matter of course to allow it to be done, upon an affidavit merely showing that the defendant believes he has several defences, of which he might avail himself by plea if permitted to do so. The general rule is, that where a defendant, in this court, wishes to set up more than one defence to the complainant’s bill, he must do it by answer. And he must make out a very special case of hardship, and inconvenience, to justify the court in departing from the general rule. The cases which would appear to justify a departure from the usual course of proceeding are, where the making of the defences by answer, instead of pleas, would render it necessary for the defendant to set out very long accounts in his answer ; or where the discovery of matters sought for by the bill might be productive of great injury to the defendant, in his business or otherwise, if he were required to put in a full answer.
+In the present case there is nothing to take the case out of the general rule. The defendant’s application is therefore denied.
