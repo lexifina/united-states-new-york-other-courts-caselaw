@@ -1,0 +1,32 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1890-06-02"
+citations: ["32 N.Y. St. Rep. 299", "16 Daly (N.Y.) 212", "10 N.Y.S. 113"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Eagle Tube Company, App’lt, v. The Edward Barr Company, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039962
+cites_cases: ["60 N. Y. 487", "60 N. Y., 487"]
+---
+
+# Eagle Tube Co. v. Edward Barr Co.
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+The action was brought to recover the contract price of goods sold and delivered to the defendant amounting to $106.25. The defendant admitted the indebtedness and set up a counterclaim for $600 damages arising not out of the contract sued on, but on a former contract between the parties whereby the plaintiffs undertook to weld heads into about 540 pieces of iron pipe which had been ordered by the Vertical Tube Boiler Company of the defendant, and which the plaintiff delivered to that company with their heads sweated in and not welded in, and which were on that account rejected by the Vertical Tube Company. Defendant’s answer set up the agreement to weld in the heads, its breach and a claim for the special damages sustained by it by reason thereof. To this plaintiff replied admitting that it contracted to weld the heads into the pipe, but alleged that its contract only required them to stand a pressure of 300 pounds and that they not only stood this but much more.
+On this trial evidence was given tending to support the issues so raised, and the jury found a verdict for the defendant for the amount of its counterclaim less the amount of plaintiff’s claim in this action. The general term of the city court reviewed the questions of fact and affirmed the judgment, therefore we can only examine the questions of law in the case as presented to us.
+There is but one question raised by the various exceptions to the introduction of evidence and to the charge and that is, what is the true rule of damages to be applied to such a case ?
+Appellant contends that the defendant, if entitled to any damages, could at most recover only the value of the pipe if welded according to the contract, that is to say, the original cost, the expenses of transportation, and the amount the defendant paid the plaintiff for the welding.
+In all ordinary cases of breach of an executed contract, the defendant could not recover even that much, unless the goods were totally spoiled for any purpose, as it is claimed these were.
+But in this case the answer alleged the plaintiff was “ fully informed as to the purpose for which the pipes were to be used,” and charged it with knowledge of the necessary loss and damage which would occur in case the agreement was not carried out ;and the court, at plaintiff’s request, charged the jury that if the plaintiff was not informed for whom, and for what purpose, the pipes were needed, it was not responsible for any special damage suffered by the defendant resulting from the defective pipes, 5 they were defective, thus sharply bringing home to the jury the question of plaintiff’s knowledge of the use to which the pipes were to be put, and on the evidence the jury found that the plaintiff had such knowledge. To us it appears that the evidence on this question on the part of the defendant was very slight, and that on the part of the plaintiff was much stronger, but both the jury and the general term of the city court have determined otherwise, and we are concluded thereby, as there was some evidence to support the finding.
+Where the parties to a contract of sale have such knowledge of special circumstances affecting the question of damages as that it may be fairly inferred they contemplated a particular rule for estimating them, and entered into a contract on that basis, that rule will be adopted. Booth v. Spuyten Duyvil Rolling Mill Co., 60 N. Y., 487.
+The Vertical Tube Boiler Company was under contract to deliver certain boilers at a certain time. The tubes or pipes in question were ordered of the defendant to be used in making these boilers, and it contracted with plaintiff to weld in a head on the pipes furnished by it, with knowledge, as the jury has found, of the circumstances. This it failed to do, and in consequence of such failure the Vertical Tube Boiler Co. had to deliver the boilers without them, in order to prevent a breach of contract on its part, and to do this was put to the expense of plugging up the holes in which the tubes were to be inserted, and were compelled to procure other tubes and insert them in the boilers after they had been placed, and at such times as they could when the boilers were not in use. Besides, they had to pay for extra carting, etc. These items constituted the claim made by that company against the defendant, and which the latter set up in its answer as a counterclaim against the plaintiff.
+We think these extra expenses were the natural consequence of plaintiff’s breach of contract, and were properly allowed. It was not necessary for the defendant to have actually paid in money the claim of the Vertical Tube Boiler Company in order to set up and recover it against the plaintiff, if it was just It is enough that it is liable to pay it Sedgwick on Damages, 7th ed., vol. 1, p. 197.
+But defendant has practically paid it, as the Vertical Tube Boiler Company has claimed the amount allowed by the jury against defendant, and refused to pay a bill due the defendant of a larger amount in consequence.
+Plaintiff claims that inasmuch as only about one-fourth of the tubes were tested, the counterclaim should not have been allowed, because the proof failed to show all would not stand the required pressure, but the contract, as claimed by the defendant ■and found by the jury, was that the tubes should not only stand the pressure, but that the heads should be welded in, and the ■chief contention on this branch of the case was not so much about the pressure as about the welding in of the heads, and we think the testimony sufficient to warrant the jury in finding that they had not been welded but sweated in, as it is known in the trade, atad that all had been subjected to the same process, and were liable to the same infirmity as regards pressure.
+The judgment should, therefore, be affirmed, with costs.
+Larremore, Ch. J., concurs.
