@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-10"
+citations: ["11 N.Y. St. Rep. 71"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Miriam D. Paul, Resp’t, v. Orvin I. Paul, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/11/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990221
+cites_cases: ["101 N. Y., 659", "7 N. Y. St. R., 177"]
+---
+
+# Paul v. Paul
+
+## Majority (Smith, P. J.)
+
+Smith, P. J.
+—The complaint charged the defendant with acts of adultery and asked for a divorce. The answer de • nied the charges, and alleged, as a counter-claim, that the plaintiff had been guilty of adultery, and demanded a judgment of divorce on account thereof. The referee, to whom the issues were referred to hear, try and determine, reported that the defendant had committed adultery, but his report was silent as to the charges made against the plaintiff. It was held by the general term in the first department, in a like case (Price v. Price, 9 Abb. (N. S.), 291), that the omission to find upon the issues respecting the plaintiff’s adultery was fatal to a judgment of divorce in her favor.
+That decision was followed by us in the case of Church v. Church (7 N. Y. St. R., 177), decided at the last January term. The reason for those decisions is, that as the plaintiff in an action of this nature is not entitled to a divorce, although the adultery of the defendant is established, where such plaintiff has also been guilty of adultery (Code, § 1758, subd. 4), and as a divorce will not be granted upon the mere consent of parties, it is necessary that where an issue as to the guilt of the plaintiff is raised by the plead ings, it should be determined before it can be adjudged that the plaintiff is entitled to a divorce.
+The respondent’s counsel contends that the rule should not be applied in the present case, 'because it does not appear that the defendant requested a finding upon his counter-claim, or excepted to the report on account of the alleged defect, or asked to have the report sent back for further findings. In respect to objections of that nature, an action for divorce on the ground of adultery is an exception to the ordinary rule. The most that can be claimed by the respondent is that by reason of the omissions referred to the appellant waived the default, but the plaintiff is not entitled to a divorce by reason of the waiver or consent of the defendant. A trial and determination of the counter-claim is needed for the information of the court before judgment will be pronounced.
+In regard to the finding as to the defendant’s guilt, we think it is supported by the evidence. There is not only ample evidence of opportunity during the four years’ residence of the alleged paramour in the defendant’s house as a domestic, but there is much testimony tending tó show repeated acts of familiarity (not explained by the fact that they were members of the same household) of such a character as to indicate a mutual inclination to know each other carnally.
+Furthermore, the witness Lillie Nichols testified that she saw the defendant and his paramour in bed together, before the marriage of the defendant with the plaintiff. It is to be presumed that the referee believed the statement of the witness, and we cannot say that he erred in doing so. The testimony was admissible to characterize the subsequent conduct of the parties (Smith v. Smith, 4 Paige, 432), for it was evidence which, if believed, authorized the finding of an adulterous intercourse on the occasion to which it referred, and in view of the evidence of subsequent opportunity and inclination, it justified the inference that the unlawful connection was continued. Id.
+The alleged paramour was not put upon the stand as a witness, and her absence is not accounted for.
+We have read the entire testimony, but do not deem it necessary to state it in detail. The above expression of our views of it sufficiently indicates the grounds on .which we conclude that the referee’s finding of the defendant’s adul tery ought not to be disturbed. The fact of .adultery may be proved in a civil action, “by such facts and circumstances,” says the court of appeals, “as under the rules of law are legal evidence, admissible in a court of justice, which clearly satisfy the mind of the tribunal which is required to pass upon the question of the commission of the act. In weighing the evidence and considering the facts and circumstances, great care is necessary, on the one hand, not to be misled by circumstances reasonably capable of two interpretations, into giving them an evil rather an innocent one, nor, on the other, by refusing to give them their plain and natural significance on the theory that a different standard of judgment applies to such cases from that which in ordinary transactions guides the conclusions of intelligent and conscientious men.” Allen v. Allen, 101 N. Y., 659. Thus weighed and considered, the testimony, we think, supports the finding, and we do not disturb it.
+But on account of the omission of the referee to find upon the recriminatory charges, the judgment must be reversed and the case sent back to the same referee with instructions to find upon the issues respecting the alleged adultery of the plaintiff. The findings as to the defendant’s guilt to stand. And as the findings, so far as they deal with the merits, are not disturbed, and the only defect m the judgment is one which might have been remedied, if the defendant had called attention to it before bringing his. appeal, the costs of the appeal should be charged upon him.
+Haight and Bradley, JJ., concur.
