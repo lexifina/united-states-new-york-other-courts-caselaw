@@ -1,0 +1,38 @@
+---
+court: "New York Superior Court"
+decided: "1872-03-30"
+citations: ["2 Jones & S. 321", "34 N.Y. Super. Ct. 321"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GILBERT G. YOUNG, Plaintiff and Respondent, v. THE PACIFIC MUTUAL INSURANCE COMPANY, Defendant and Appellant."]
+source_url: "https://static.case.law/ny-super-ct/34/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1417507
+---
+
+# Young v. Pacific Mutual Insurance
+
+## Majority (By the Court.—Monell, J.)
+
+By the Court.—Monell, J.
+— The only questions, which in my judgment, it was proper to investigate on the trial of this action were:—First. Was the damage to the ale from any of the causes mentioned in the warranty; or was it caused by actual contact of sea water % Second. Was there a total loss of the subject insured ?
+These questions were submitted to the jury, and they have answered them .favorably to the plaintiff.
+Upon the first question the burthen, I think, rested upon the defendants of showing that the damage was from some inherent defects or qualities of the ale itself, and not from actual contact of sea water.'
+The plaintiff having shown the sound condition of the ale at the time of shipment, it was incumbent on the defendants to rebut the presumption arising upon such proof, by showing that the ale was not injured by any of the causes insured against.
+The defendants attempted this rebuttal, and the examination of. one or two experts, and of the several witnesses who- testified to the condition of the ale, a month or more after it was rescued from the wreck, was designed to furnish evidence upon which the jury could say, that the ale became sour, bad and unmerchantable, after it was taken from the hold of the vessel and brought on shore.
+It was, therefore, a proper question for the jury. There was evidence on each side, and it would have been error to have taken the question from the jury. The first motion, therefore, to dismiss the complaint on the ground of the plaintiff’ s failure to show any contact of the ale with sea water was properly overruled; and as the other grounds of that motion related wholly to the question of abandonment, which was ultimately taken from the jury, they need not be examined.
+Upon the second question, namely, was there a total loss of the subject insured, the defendants having shown, as I think they did show, that the casks when they came from the wreck and when offered to the consignees, were in sound condition, were full, without leakage, well hooped and in fine condition, the burthen then rested on the plaintiff to establish that the contents of the casks were of no mercantile value.
+The only issues to which the evidence was intended to apply, were, the supposed actual abandonment, and' the warranty. The plaintiff, therefore, did not deem it necessary to do more than to furnish evidence in support of those issues. He, accordingly, called no witness to testify as to the condition of the ale, but read merely the evidence of one of the defendants’ witnesses, who had examined the ale, more than a month after it was taken from the vessel. Subsequently, however, depositions of other of defendants’ witnesses were read for the defense, and oral testimony given, in which the condition of the ale, one or Mo months after it came on shore, was described. But it is perfectly evident that all the evidence of the condition of the ale so furnished by the defendants, and which was the only evidence in the case on that subject, was offered to show, that the defects were inherent in the ale itself, and were not produced by sea water; and that neither party intended or supposed that such evidence would or could be used to establish a constructive total loss.
+That the plaintiff had no such thought, is evident from the fact that he directed all his evidence to proving the abandonment, and procured none on any other issue in the case, doubtless being satisfied, that upon the warranty the burthen was upon the defendants. And it cannot be supposed that the defendants went into an investigation of the condition of the ale for any other purpose than to show that the damage was within the insured’s warranty.
+At the close of the evidence, the learned justice decided that there was no question of abandonment involved in the case, and directed that all evidence tending to prove an abandonment should be laid out of view as irrelevant, and then left it to the jury to determine whether the ale was in a condition caused by the perils insured against as to be of no mercantile value.
+One of the grounds of the motion to dismiss the complaint, and which was among the requests to charge, was that the plaintiff had failed to show any extinction of the ale, either physical or as to value, arising from the perils insured against.
+It seems to me that this is a substantial ground of objection.
+As we have seen, the burthen was upon the plaintiff to establish a total loss by showing an extinction of the subject insured ; or that, by reason of damage by perils of the sea, it was of no mercantile value. The rule, making total loss of value to the owner equivalent to a total physical loss, is now firmly established by the recent case of Wallenstein «. Columbia Ins. Co. (44 A. T. 204\ where my views in the same case (3 Bobt. 528; are sustained, although my judgment was reversed.
+It was doubtless competent for the jury to look at any evidence which had been given on the trial, without regard to the party who had offered it, and also without regard to any specific purpose'for which it may have been offered ; and if it was found sufficient to support the verdict no error would be committed.
+But I am satisfied, that taking all the evidence, and giving to it its broadest and most comprehensive effect, it falls wholly short of establishing a total loss, by failing to show that when the ale reached the port of destination it was of no mercantile value.
+According to the evidence, the vessel was wrecked on November 23, and was, with her cargo, sold on the 28th of the same month to Heidenheimer, who succeeded in raising twenty-three casks from the hold, which he placed in a shed, on his premises, where they remained for about four weeks and until sold to Sorley.
+There was no proof that any examination of the contents of the casks was made, until about and after the sale to Sorley, which was a month after the casks were landed ; and'those examinations were made with a view of discovering whether the ale had been injured by sea water, and for no other purpose.
+Hunt and the captain, one or both, and it is not material which, had possibly, by the sale of the vessel and cargo, put it out of the power of the plaintiff to make an earlier examination into the condition of the contents of the casks, or, indeed, any examination whatever, at any time after the casks came on shore. But the defendants are not to be made responsible for the plaintiff’s being thus deprived of the power of inspecting the ale; nor can it excuse his furnishing such proof as was required to show a total loss of value at the time the ale was landed, unless the evidence was sufficient to make Hunt the agent of the defendant, either by original appointment, or subsequent ratification of his act.
+We are, therefore, of the opinion that the evidence to establish a constructive total- loss was insufficient, and the motion to dismiss the complaint ought to have been granted.
+Judgment and order reversed, and new trial granted,. with costs to the appellants to abide the event.
