@@ -1,0 +1,27 @@
+---
+court: "New York Superior Court"
+decided: "1869-11"
+citations: ["7 Abb. Pr. 22"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHERLOCK against SHERLOCK"]
+source_url: "https://static.case.law/abb-pr-ns/7/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1963066
+cites_cases: ["35 How. Pr., 209", "50 Barb., 70", "9 Bosw., 636"]
+---
+
+# Sherlock v. Sherlock
+
+## Majority (Fithian, J.)
+
+Fithian, J.
+The order of arrest in this case was based upon subdivision 3 of section 179 of the Code.
+It is objected by defendant’s counsel that in the cases specified in that subdivision an order of arrest cannot issue until after the plaintiff shall have made and delivered to the sheriff the affidavit and indorsement thereon required by sections 207 and 208 of the Code, and the sheriff shall after due search be unable to find the property.
+This objection is not well taken. In an action to “recover the possession of personal property” it is optional with the plaintiff whether he will avail himself of the provisions of sections 207 and 208 or not. And if he elect so to do, he may do it at any time before answer in the action. The order of arrest, however, is wholly independent of those sections. It is granted, if at all, under the provisions of section 179, and upon an affidavit stating facts sufficient to bring the case within some one of the subdivisions of that section. The facts upon which this objection is founded are not required to be stated or to exist as a preliminary to the order. The order may accompany the summons, or be issued at any time afterward before judgment (Code, § 183).
+Objection is taken to the form of the order, that it does not direct the defendant to be held to bail in any specific sum, but requires defendant to give the undertaking provided by section 211 of the Code. Section 183 of the Code, prescribing generally what shall be required by or stated in an order of arrest, must be construed and read together, or in connection with subdivision 3 of section 179, and the whole of sections 187 and 211. Section 187 expressly provides that if the arrest be for a cause mentioned in the third subdivision of section 179, the only bail defendant can give is such as is required by section 211, which is altogether a different undertaking from the one required by the form of the order prescribed in subdivision 1, of section 183. It must necessarily follow, therefore, and must be held that this subdivision, so far as it prescribes the form of the order, does not and cannot apply to arrests for the cause specified in subdivision three of section 179. The form of' the order in this case is substantially correct.
+The principal ground, however, upon which the motion to vacate is "based, is the alleged insufficiency of the affidavit upon which the order Was granted.
+The order is based upon the assumption that the affidavit shows á good cause of action to recover the possession of personal property unjustly detained by the defendant,—what, under the old system, would be an action of replevin “ in the detinet.” The objection is hat the affidavit shows that before the commencement of the action the defendant had so disposed of the property that it was out of his custody or power to deliver ; or, in other words, that the defendant did not detain the property. If that fact appears by the affidavit, the action for wrongfully detaining property cannot be maintained, nor can an order of arrest issue under the third subdivision of the section.
+I am of opinion that the affidavit does not show any such disposition of the property. The affidavit shows that the defendant obtained from the agent of plaintiff United States seven-thirty bonds to the par value of $17,600, the property of the plaintiff, and to be held by defendant for and subject to the order of plaintiff; that plaintiff had demanded the bonds, and defendant has refused to deliver or account for the same) “and has wrongfully and unlawfully converted the same to his own use, and unjustly detains the same, and has converted, removed and disposed of the same so that it cannot be found or taken by the sheriff, and with the intent that it should not be so found or taken.” Further, that the defendant stated on the bonds being demanded of him “ that he had the bonds deposited in a bank in the city, and that he intended to keep all he had got, and would not deliver either the bonds or their value.” And further, that defendant has “collected the interest on said bonds and appropriated the same to his own use.” These allegations, taken together, in my opinion, are clear and positive assertions that the defendant has this property under his control in a place of concealment, with the intent that it shall not be reached by the plaintiff on process of immediate claim and delivery. The “ wrongful conversion ” in the affidavit stated, must he held to mean a conversion by the acts and in the manner therein stated. Undoubtedly such acts would amount to a conversion in law if plaintiff choose so to treat them. But they do not show such a parting with the possession and control of the property as put it out of the defendant’ s power to deliver. The plaintiff, therefore, may at her election bring her action to recover the possession, and upon the facts above stated have an order of arrest.
+Motion denied with §10 costs.
