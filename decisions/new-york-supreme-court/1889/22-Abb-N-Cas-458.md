@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court"
+decided: "1889-02"
+citations: ["22 Abb. N. Cas. 458"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SEGELKE v. FINAN."]
+source_url: "https://static.case.law/abbn-cas/22/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1961645
+---
+
+# Segelke v. Finan
+
+## Majority (O’Brien, J.)
+
+O’Brien, J.
+On June 13, 1888, the plaintiff, Henry Segelke, recovered a judgment against the defendant, Robert Finan, in Queens county, in an action for the wrongful taking and detaining of personal property. After entry and docketing of judgment on June 14, 1888, an execution against the property was issued to sheriff of Queens county, which, on August 14, was returned unsatisfied. No order of arrest was granted in the action.
+On February 14, 1889, a transcript of the judgment was filed in New York, and on the same day an execution against the person of defendant was issued and executed.
+.Defendant moves for his discharge on the grounds of irregularities in the writ or process, and under section 572 of the Code.
+The execution against the person does not indicate any docket of the judgment in New York county, and there is an omission or mistake in the “ teste.”
+Without determining whether or not these irregularities are fatal or amendable, it seems to me that section 572 of the Code is authority for granting this motion to set aside the execution and discharge the defendant from arrest.
+Its provisions are general, applicable alike to cases where an order of arrest in the first instance before judgment was granted, and to cases where, after judgment, the defendant for the first time is arrested by virtue of an execution against the person.
+The only exception made by the section is in a case “ where an order of arrest can be granted only by the court,” which is not this case.
+. The expression, “ a case where the order of arrest can be granted only by the court,” refers exclusively to a case; under section 551 of the- Code, where the remedy was formerly by a writ of ne exeat.
+' With this exception, section 572 directs a supersedeas, unless the defendant is charged in execution, etc.,..... “ within ten days after the return of the execution against the property, and in any event where there is a neglect to issue the same within three months after the entry of judgment,” . . . “ unless reasonable cause is shown why the application should not be granted.”
+Plaintiff’s argument that his rights are regulated by sections 1487 and 1489 of the Code, exclusively, is hot tenable.
+Section 1487 prescribes in what cases execution may be issued against the person: 1, where the right to arrest depends upon the nature of the action; 2, in any other case, etc.
+Subdivision 1, above quoted, corresponds to section 549. Subdivision 2 includes the cases specified in section 550.
+As shown, section 572 embraces cases where a person can be arrested as specified in sections 549 and 550.
+The time, therefore, within which the execution against the person can be issued in cases allowed by sections 1487 and 1489, is controlled- by section 572, thé section under discussion.
+It was not, apparently, necessary to docket the judgment here before issuing execution against the person, as it was seemingly within plaintiff’s power, under section 1365 of the Code, after the return of the execution against the property in Queens county,- where defendant resided, unsatisr fied, to issue an execution against the person to any county-The true construction, therefore, of these sections, would require the issuance of an execution against the property to a county where the debtor besides, while an execution against the person can be issued to any county, but this right (unless for cause shown) terminates at the expiration, at the farthest, of three months, after the entry of judgment.
+Xo good cause having been shown, and the execution against the person having been issued more than ten days after the return of the execution against the property, and more than three months after the entry of judgment, the defendant is entitled to a supersedeas vacating the execution against the person pursuant to section 572.
+Ordered accordingly.
