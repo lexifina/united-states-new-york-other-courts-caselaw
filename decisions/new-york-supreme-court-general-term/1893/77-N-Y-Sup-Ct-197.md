@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-06"
+citations: ["77 N.Y. Sup. Ct. 197"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Follett and Barrett, JJ., concurred."]
+parties: ["David A. White and Another, Respondents, v. Wilson Reid, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/77/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4679314
+cites_cases: ["115 N. Y. 617", "98 U. S. 61"]
+---
+
+# White v. Reid
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+This action was brought upon a judgment recovered by the plaintiffs against the defendant in the Superior Court of the Commonwealth of Massachusetts. The defendant, in his answer, admitted the bringing of the suit and that he appeared therein and set up his defense, and that judgment was thereafter entered in said suit as alleged in the complaint. In order to avoid the effect of this admission, the defendant, further answering, alleged that he had and now has a good and valid defense to said action, and the plaintiffs had no valid cause of action, and that in November, 1890, said judgment being entered on the oth of January, 1891, the defendant was induced by fraudulent representations and assurances of the plaintiffs, made to the defendant and one of his co-defendants, and upon which he relied, to the effect that said action would be discontinued, to abandon his defense to said action and not to apjjear further therein, and that the plaintiffs fraudulently, and without the knowledge of the defendant, procured the judgment mentioned in the complaint to be entered against him.
+Upon the trial a verdict was directed in favor of the plaintiffs upon the pleadings upon the ground we imagine which is urged before this court, viz., that the fraud for which a judgment may be avoided must be such as prevented the defendant from ever appearing in the suit, and that when the defendant has appeared and set up his defense in the foreign State all subsequent proceedings in that suit, including the judgment, are conclusive upon him, because he has had his day in court and should not be allowed to try the issues again.
+This we think is an entirely erroneous view to take of the sanctity of the judgment of a sister State.
+The Constitution of the United States provides that full faith and credit shall be given in this State to the public acts, records and judicial proceedings of every other State. But such provision does not give greater force to the judgment of a sister State than that which obtains in our own State. Many cases have occurred in our own State where the validity of judgments has been attacked upon the ground of fraud, and where the defendant has been deprived of his defense by the fraud of the plaintiff with the connivance of his attorneys, and we are somewhat surprised that the jurisdiction of the court in this respect should be questioned. That such jurisdiction exists is expressly recognized in Mayor v. Brady (115 N. Y. 617); Pomeroy’s Equity Jurisprudence, 400 ; and in United States v. Throckmorton (98 U. S. 61), where the court, speaking of the existence of this power, defines it as follows: “ If the court has been mistaken in the law there is a remedy by writ of error. If the jury has been mistaken in the facts the remedy is by motion for a new trial. If there has been evidence discovered since the trial a motion for new trial will give appropriate relief. But all these are parts of the same proceeding. Relief is given in the same suit, and the party is not vexed by another suit for the same matter. So in a suit in chancery on proper showing a rehearing is granted. If the injury complained of is an erroneous decision an appeal to a higher court gives opportunity to correct the error. If new evidence is discovered after the decree has become final, a bill of review on that ground may be filed within the rules prescribed by law on that subject. Here again these proceedings are all parts of the same suit, and the rule framed for the repose of society is not violated. But there is an admitted exception to this general rule, in cases where, by reason of something done by the successful party to a suit, there was in fact no adversai-y, trial or decision of the issue in the ease. Where the unsuccessful party has been prevented from exhibiting fully his case by fraud or deception practiced on him by his opponent, as by keeping him away from court; a false promise of a compromise; or where the defendant never had knowledge of the suit, being kept in ignorance by the act of the plaintiff; or where an attorney fraudulently or without authority assumes to represent the party, and connives at his defeat; or where the attorney regularly employed corruptly sells out his client’s interest to the other side — these and similar cases which show that there has never been a real contest in the trial or hearing of the ease, are reasons for which a new suit may be sustained to annul the former judgment and decree, and open the case for a new and a fair hearing.”
+We think, therefore, that the court erred in directing judgment upon the pleadings, as seems to have been done, upon the ground that the defendant having appeared in the action in Massachusetts, his defense could not be sustained.
+This being the only question presented upon this appeal we think that the judgment should be reversed and a new trial ordered, with costs to appellant to abide the event.
+Follett and Barrett, JJ., concurred.
+Judgment reversed and new trial ordered, with costs to appellant to abide the event.
