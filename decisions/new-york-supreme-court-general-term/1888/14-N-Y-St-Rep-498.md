@@ -1,0 +1,38 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-02-13"
+citations: ["14 N.Y. St. Rep. 498"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Horey, Resp’t, v. The Village of Haverstraw, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/14/cases/0498-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1998797
+cites_cases: ["103 N. Y. 77", "28 N. Y, 306", "40 Hun, 398", "46 Barb., 624", "61 N. Y., 455"]
+---
+
+# Horey v. Village of Haverstraw
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is an action for the recovery of damages resulting to the plaintiff from a fall sustained by him in Warren avenue in the village of Haverstraw.
+Warren avenue was originally laid out as a public highway by the commissioners of highways of the town of Haverstraw, and subsequently fell under the control of the municipal authorities of the village of Haverstraw. It extended from the Hudson river westward, and Rockland avenue ran into it from the south.
+As time wore on the avenue was invaded by the owners of the fee, and excavations were made below the surface to an extent which rendered it impassable for vehicles and teams, and it subsided into disuse as a thoroughfare many years before the commencement of this action.
+The avenue was barricaded by a fence west of Rockland, street, which seems to have been moved to the westward as the excavations progressed from time to time.
+Yet there was nothing to impede traveling on foot from Rockland avenue upon Warren avenue at the time the plaintiff was injured, and there was in fact a well-trodden and much-traveled foot-path on that portion of Warren avenue. The plaintiff resided on the northerly side of Warren avenue, about 300 yards or more north of it, and northeasterly from the junction of Rockland avenue. He was familiar with the locality and with the configuration of the surface of the ground.
+On a certain night in September, 1886, as the plaintiff was returning to his home, he turned from Rockland avenue by the foot path into Warren avenue, and when he reached a point near the centre of the latter avenue, he fell from the bank of a clay pit, about ten feet, and sustained the injuries complained of in this action. He had passed that same way about two hours before, in going from his home, and was familiar with the path.
+It is by no means difficult to deduce the negligence of the municipal authorities from the undisputed facts of which the foregoing is a brief statement.
+In the face of well settled principles of law imposing upon the defendant and its officers the duty to guard the public-streets against encroachments, and to maintain the same in a condition suitable for public travel, they"have witnessed the invasion of this avenue through many years without the exertion of any effort to arrest its devastation and destruction. The law furnished them remedies entirely adequate to arrest the disruption of the auenue, and yet when a complaint upon the subject came up to the board of trustees, their action upon the subject resulted in a request to the persons who had destroyed the street to erect a fence, or some other suitable construction, at the place of danger, to protect the public, and so far a£ we can find, no effort was put forth at any time to secure the restoration of the street.
+The question of negligence in the preservation of the avenue was therefore properly submitted to the jury as a question of fact, and the same must be said respecting the contributory negligence of the plaintiff.
+Upon all the facts and circumstances, different minds ihight well reach antagonistic conclusions respecting the conduct of the plaintiff. He said he was proceeding with great care at the time of his fall, and if that statement received the belief and confidence of the jury, it is sufficient to sustain the verdict.
+The jury rendered a verdict in favor of the plaintiff, and the defendant has appealed from the judgment, and also from the order denying the motion for a new trial on the minutes of the court.
+Still there remains a serious question for our determination. By the Revised Statutes, as amended by chapter '311, ■of the Laws of 1861, all highways which have ceased to be traveled or used as highways for six years, cease to be highways for any purpose ; (1 R. S. 520, § 99), and under this ■statute the defendant claimed upon the trial, and upon this appeal, that Warren avenue had ceased to be a highway for any purpose because it had not been used or traveled as such for six years before the commencement of this action.
+There was proof introduced on the trial as we have already seen that portions of Warren avenue had been rendered impassable for vehicles and teams up to Rockland avenue; but it also appeared that there was a fence across Warren avenue west of Rockland avenue, and that the avenue was still traveled from the fence westward to Broadway. At the mouth of Rockland avenue, and from there ■east, as we have seen, Warren! avenue became impassable and went into disuse by reason of the invasion and obstruction thereof by the owners of the soil.
+Without a pause to determine whether the avenue ceased to be a highway in a legal sense so long as any portion of it remained open and in use, of which there may be some ■doubt (Vandermark v. Porter, 40 Hun, 398; Marble v. Whitney, 28 N. Y, 306), we will proceed to the examination of another question more decisive of this branch of the case.
+When Warren avenue became a highway, the public acquired rights in it which could only be extinguished in a legal way. One such method would be an order of discontinuance after an abandonment of' the same by the public Laws of 1853, chapter 174, section 15.
+Another would be by a cessation of travel over it for six years. 1 B. S., 520, § 99. And in our view such cessation of travel and use must result from voluntary forbearance of the public to utilize the right to the street as contradistinguished from an involuntary surrender. There must be an abandonment, and that can only be accomplished by the public by an unconstrained relinquishment of the right of travel. The statute designates highways that have ceased to be used, and that implies disusage or a gradual cessation of the use. There was no such gradual voluntary disuse in this case, but the public was excluded from the street by the wrongful and unlawful encroachments of the adjoining-owners. Such an invasion can never work an abandonment of a highway. Amsbey v. Hinds, 46 Barb., 624; Hood v. Smith, 5 Weekly Digest, 117; Driggs v. Phillips, 103 N. Y. 77; 3 N. Y. State Rep. ,69. It was the duty of the village officers to prevent the intrusion upon the street, and neither their omission of duty nor their acquiescence in the infringement could deprive the public of the right to use the whole of the avenue. Coolc v. Harris 61 N. Y., 455; Driggs v. Phillips, supra.
+In this view the avenue in question never was closed and never ceased to be a public highway, and the statute invoked by the defendant has no appropriate application to the case.
+In this view of the case the record discloses no error, and the judgment and order denying the motion for a new trial on the minutes, should be affirmed with costs.
+Pratt, J., concurs; Barnard, P. J., not sitting.
