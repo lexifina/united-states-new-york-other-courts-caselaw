@@ -1,0 +1,19 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-06"
+citations: ["48 N.Y. Sup. Ct. 641"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of New York, Respondent, v. Peter Smith, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/48/cases/0641-25.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4507964
+---
+
+# People v. Smith
+
+## Majority (Brady, J.)
+
+J udgmenl; affirmed. Opinion by
+Brady, J.
