@@ -1,0 +1,38 @@
+---
+court: "New York Superior Court"
+decided: "1859-01-22"
+citations: ["4 Bosw. 64", "17 N.Y. Super. Ct. 64"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lowell Holbrook v. Wm. S. Wilson and Francis Brown."]
+source_url: "https://static.case.law/ny-super-ct/17/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1342062
+cites_cases: ["11 Blackf., 435", "14 Pick., 326", "17 Vt., 449", "2 Denio, 403", "2 Hill, 459", "3 Miss., 529", "9 Wend., 209"]
+---
+
+# Holbrook v. Wilson
+
+## Majority (By the Court—Hoffman, J.)
+
+By the Court—Hoffman, J.
+The defendant, Wilson, being examined as a witness, on behalf of the defendants, it was offered to prove certain representations made to him by one Rich, as to the affairs of the Atlas Insurance Company, when the defendants gave the note in question. The offer was ruled out, unless it was shown that- Rich was acting in that matter on behalf of the Company.
+We think this ruling was correct. The plaintiff was making title througlithe Company. He could not be bound by declarations or statements, not made by them or their authorized agents.
+The like remark applies to the next exception, to the rejection, by the Judge, of questions addressed to the witness Rich, himself, when he was produced as a witness to the same point. Rich is in no way connected with the Company so as to make his statements equivalent to their own.
+To understand the exceptions as to the refusal to submit the specified questions to the jury, some facts should be noticed.
+Rich & Knowlton were original subscribers to the stock of the Atlas Mutual Insurance Company. A proposition to increase the stock, having been made among the parties interested, Rich & Knowlton subscribed $2,500, with the understanding that they might procure other notes than their own to make it up. They got two notes from the defendants; one of which is that in suit. The Company agreed to take those notes in place of Rich & Knowlton’s notes for $1,000, part of the $2,500. The defendants knew of these circumstances. Receipts were given to the subscribers, similar to the one in evidence given to the defendants. By the agreement made upon the new subscription, (which was to be for $400,000,) no subscription was to be binding until the sum of $800,000 was subscribed. Testimony was, given as to this subscription being filled up to that amount. All the evidence'was produced by the defendants. The defendants contended that the subscription was not full; that their’s was a subscription note; that the condition had not been complied with; that the Company could not have collected the note; and, as the plaintiff took with knowledge, he was in no better position.
+The defendants, then, must be taken to have made out, by their own uncontradicted and unquestioned evidence, the best case they were able to make; and the question, whether they have established a legal defense on that evidence, becomes a question of law. There was nothing of contradictory or discrepant testimony for the jury to weigh.
+The effect of the receipt as tending to constitute a defense was of this nature: The inquiry, whether the Company took the note with knowledge of circumstances impeaching its validity, was not a question for the jury. A jury should be asked to pass upon the question of knowledge of particular facts; but whether, if known, they impeach the validity of a note, is for the Court to determine.
+The third question was, in point of fact, answered in favor of the defendants, by the admission of the plaintiff and the other testimony.
+None of the exceptions being tenable, the question arises upon the case, whether the judgment on the verdict ought to be for the plaintiff or the defendants. (Code, § 265.)
+It has been decided in this Court that, where a note, given on a subscription like the present, had been transferred before maturity to a bank to be discounted, with other notes, for the general purposes of the Company holding it, the bank could recover, unless' chargeable with notice of an intended and actual misappropriation. (The Central Bank of Brooklyn v. Lang, 1 Bosw. R., 202.)
+The Company, in the present case, knew that the note was given as part of Rich & Knowlton’s subscription, and the defendants were apprised of the nature and object of this arrangement. Nelson took the note, either as trustee for parties who had previously loaned money to the Company, or to use for the purpose of securing parties who should lend their notes as makers or indorsers, for the benefit of the Company.
+I shall assume that Nelson stood in no better position than the Company; nor the plaintiff in a better one than Nelson. Then if the Company could not recover upon one of Rich & Knowlton’s notes, given for the remaining $1,500 of the subscription, the plaintiff cannot recover on the present note.
+This brings us to the question: Have the defendants shown that the condition was not fulfilled ? They have given a promissory note; have failed to establish any fraudulent representations, which could defeat the Company’s claim upon it; and if they could avail themselves of an exemption arising from the failure of a condition upon which they alleged the note was given, they must make out that failure fully and explicitly. It is similar to the rule declared in The Bank of the United States v. Davis. (2 Hill, 459.)
+The defendants have fallen short of doing this. The Secretary of the Company, called by themselves as a witness, states that $300,000 was made up, not including the amount marked in pencil on the subscription books. The previous subscription of $40,000 was included in this estimate. Why it should not be so does not appear. He adds, that of the amount of $300,000, the sum of $37,000 was subscribed by other Insurance Companies; but there is no evidence to show what Companies subscribed, nor that they were prohibited from subscribing, or could not lawfully do so. The witness says, also, that the $40,000 was not all paid in notes or cash; $36,000 only was. He included the $40,000 in his estimate; that it wras payable in four months; $36,000 was paid in notes.
+This is the whole of the evidence; all supplied by the defendants themselves. They have not proved that the subscription was not filled up to $300,000, as required.
+But again, if this were doubtful, there is another view of the case, which seems decisive against the defendants. Have not the parties waived the objection that the subscription was incomplete by giving their notes ? It may be that had they been sued for the subscription money, the defense would have availed them ; but the delivery of the notes was either a waiver of the condition or an admission that it had been complied with.
+It is sworn to by Rich, that when he got the notes of the defendants, he informed them of the terms of the $400,000 subscription. The note was given and made on the 8th of January, 1856, though dated the 8th of November, 1855, and the receipt was given after the note, though dated in December, 1855. The terms of the resolution of November 8, 1855, were, that the subscription was to be binding when $300,000 was subscribed. There was nothing as to restoring notes or refunding cash if the subscription fell short; and 1 think that the giving of the notes, two months after the resolution, and with a knowledge of its terms, was an implied admission of the defendants being satisfied as to the filling up of the stock.
+The plaintiff must have judgment upon the verdict.
+Ordered accordingly.
