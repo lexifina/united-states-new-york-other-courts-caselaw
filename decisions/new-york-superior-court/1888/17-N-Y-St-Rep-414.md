@@ -1,0 +1,34 @@
+---
+court: "New York Superior Court"
+decided: "1888-07-13"
+citations: ["17 N.Y. St. Rep. 414"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dora T. Ulrich, Resp’t, v. Minna Ulrich, Impleaded with August Ulrich, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008077
+cites_cases: ["102 N. Y., 99", "20 N. Y., 412", "4 Hun, 332", "80 N. Y., 345"]
+---
+
+# Ulrich v. Ulrich
+
+## Majority (Beckwith, C. J.)
+
+Beckwith, C. J.
+This action is brought for the foreclosure of a mortgage upon a lot of land, situate in Buffalo, which mortgage was executed by the defendant, August Ulrich, to his mother, the plaintiff, to secure an advance or loan of money.
+The defendant, August, obtained his deed of the land on or about the 17th day of February, 1882. He married the defendant, Minna, January 3, 1883, and executed the mortgage on the 16th day of June, 1883.
+The defendant, Minna Ulrich, claims that her right or inchoate interest pertains to the land free from the plaintiff’s mortgage.
+The trial court found the following facts: “ That the defendant, August Ulrich, purchased the said mortgaged, premises on or about the 17th day of February, 1882, and built a house upon the same, in the spring of that year; that the entire purchase price paid by said defendant for said lands, together with the moneys with which he erected the buildings thereupon, were loaned and advanced to him by the plaintiff, under and pursuant to an agreement made by and between plaintiff and said defendant, at or shortly prior to the time he purchased said lands; that in consideration of said loan he would execute and deliver to plaintiff, to secure her for the moneys so loaned and advanced by plaintiff to said defendant, a mortgage upon the land, for which the the money was paid. That the money so loaned and advanced by plaintiff to said defendant was so loaned and advanced by plaintiff pursuant to and in reliance upon said agreement. That the bond and mortgage mentioned in the complaint were executed and delivered by the said defendant to plaintiff in fulfillment of said agreement, and to secure plaintiff for a part of the moneys loaned and advanced, as aforesaid, for the purchase of said lands and premises, and the erection of the buildings thereupon.”
+The court found as a conclusion of law “ that the execution of said mortgage was the consummation of said agreement, and that said lien took effect as against the defendant, Minna Ulrich, as and at the time said agreement was made, and that the said defendant’s interest in said premises is subject to that lien.”
+The agreement between the plaintiff and August Ulrich was not in writing, but oral.
+The defendant, Minna Ulrich, contends that the contract, being oral, gave no lien upon the land, and that consequently, when she married August, her inchoate interest came into existence as to the entire land, according to the apparent legal estate of her husband, and that the mortgage executed by her husband subsequent to the marriage, she refusing to join in its execution, is inferior and subject to her inchoate right of dower.
+Notwithstanding this apparent consequence in law, that a mortgage executed subsequent to marriage by the husband alone, must be subject to the wife’s inchoate interest, still I think the decision of the court in this case, which was brought within its equity jurisdiction, was correct. I put this conclusion entirely upon the principle that in equity, the thing will be taken and deemed to have been done, which ought to have been done.
+The defendant, August, when he obtained the plaintiff’s money, ought immediately to have executed the promised mortgage upon the inducement of which she advanced the money, and as to him, in order to do that justice as between himself and the plaintiff, which ought to have been then effected by his act, equity will consider the mortgage in the same light, as though it had been then in fact executed. 1 Story Eq. Jur., §§ 64, 64 g.; Frederick v. Frederick, 1 P. Wms., 710; Coman v. Lakey, 80 N. Y., 345; Ray v. Adams, 4 Hun, 332; Burdick v. Jackson, 7 id., 488; Perry v. Board of Missions, etc., of Albany, 102 N. Y., 99; 1 N. Y. State Rep., 169.
+The mortgage having been executed in fulfillment of the oral agreement is to be deemed the same security it would have been if executed at the time the purchase money was advanced, and may, perhaps, be regarded as a purchase money mortgage. If this view is correct, we are relieved from considering the argument of the appellant’s counsel made in support of his proposition, that even in equity, because there was no writing, there was no lien existing in favor of the plaintiff at any time prior to the execution of the mortgage, which the plaintiff could have enforced.
+But that is on account of the statute of frauds. In justice and good conscience, she was entitled to the security of a lien, and that security having been executed, it should now be treated as having the same value and effect as if given the day it was promised, unless some right, claim or interest of another person has attached without notice, and for a valuable consideration. A wife does not acquire her inchoate interest in any manner as the product of her contract of marriage, but by institution of law. 4 Kent’s Com., 35.
+The extent of her interest is measured by that of her husband, and is subject to a purchase money mortgage, or other incumbrance that would diminish the interest of the husband. 4 Kent’s Com., 50; Warner v. Van Alstyne, 3 Paige, 513.
+The cases respecting an instantaneous seizin by the husband do not aid our inquiry (Mills v. Van Voorhies, 20 N. Y., 412), for undoubtedly the wife’s right arises in relation to all the land of which her husband became seized, but if his estate consists in an equity of redemption, her right is •also limited to that estate. In the present case, the mortgage must be looked upon in equity, as before stated, as a purchase money mortgage, or at least as a mortgage which became a lien at the time when the husband agreed to execute it, which was before his marriage to the appellant.
+Upon these grounds, I think, the judgment should be affirmed.
+Hatch, J., concurs; Titus, J., not sitting.
