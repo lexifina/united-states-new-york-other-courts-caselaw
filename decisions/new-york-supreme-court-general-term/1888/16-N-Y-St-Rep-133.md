@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-05-18"
+citations: ["16 N.Y. St. Rep. 133", "1 N.Y.S. 185"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Campbell Printing Press and Manufacturing Company, App’lt, v. George Damon et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/16/cases/0133-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2004695
+cites_cases: ["27 N. Y. 568", "27 N. Y., 568", "90 N. Y. 372", "90 N. Y., 372"]
+---
+
+# Campbell Printing Press & Manufacturing Co. v. Damon
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+The facts of this case, as they appeared from the admissions contained in the pleadings and the evidence upon the trial, seem to be as follows: The plaintiff is a corporation and two of the defendants are co-partners. The other defendant Freeman in September, 1883, was the owner of certain personal property of the value of $500, which at that time he mortgaged to one Nadean P. Wheeler. This mortgage was never filed, and Freeman remained in possession of the property until on or about September, 1886, when the other defendants, having become the owners of the mortgage and the debt secured thereby, and Freeman having made default upon the mortgage, took possession of the property mentioned in the mortgage, which became so mingled with their own as to be incapable of identification.
+In April, 1886, the defendant Freeman was a member of the firm or Freeman & Ahlstrom, which firm then became indebted to the plaintiff in the sum of $6,200 for goods sold.
+Judgment having been obtained against said Freeman & Ahlstrom for said indebtedness and executions issued, the plaintiff filed this bill to have said mortgage declared void and a receiver appointed of this property, and to have it sold and the proceeds applied upon their judgment.
+Upon the trial, the complaint was dismissed and from the judgment thereupon entered this appeal is taken.
+It would appear from the nature of the findings that the learned court dismissed the complaint because the relief asked for could not be granted, the property in question being incapable of identification. In this there seems to have been error. The plaintiff was not restricted to the particular relief asked for in the complaint. It was entitled to such relief as the facts proven warranted, and if it turned out that the particular relief asked for could not be granted, but that other and different relief consistent with the case made by the complaint and embraced within the issue was proper, the court was bound to grant this relief and not turn the plaintiff out of court. A court of equity adapts its relief to the exigencies of the case in hand. The plaintiff was entitled upon the facts found to a judgment against the defendants Damon & Peets, to the extent of the value of the property received by them (Murtha v. Curley, 90 N. Y., 372), and this relief should' have been granted.
+It has been the settled law of this state since the decision of the case of Thompson v. Van Vechten (27 N. Y., 568) that a mortgage not filed of a chattel not delivered is void as to a creditor at large, whose claim accrues while the default in filing continues, though such creditor is not in a position to raise the question until he has obtained judgment or process against the property.
+The mortgage in question was not filed, nor was the property delivered, until after the plaintiff’s claim accrued. Such mortgage was, therefore, void as to them, and after they had obtained their judgment they could enforce their rights. The subsequent delivery of the property and foreclosure of the mortgage could not affect their rights, which had attached. The claim that Mrs. Wheeler, the successor of the mortgagee, and her assigns, the defendants, Damon and Peets, were creditors equally with the plaintiff, and the suggestion that there is no law that prevented the mortgagor from delivering his property over to any of his creditors, subject to outstanding liens on the property at that time in satisfaction of the just claim of such creditor, may be very good law, but it has no application to the case before the court, for the reason that there is no finding by the court that either Mrs. Wheeler or Damon and Peets were creditors, or that the property in question was delivered in satisfaction of any debt. Upon the contrary, it is found that said chattels were taken possession of because of a default of the mortgagor in the payment of the amount secured by the mortgage, and it is alleged in the complaint and admitted in the answer, because not denied, that the defendants, Damon and Peets, claim to hold possession of the chattels, and to dispose of the same under the rights derived through said mortgage. The defendants have placed themselves upon this mortgage, and if this title fails, they must fail together under the pleadings as they now stand.
+As has been seen, they derived no rights but this mortgage as against the plaintiff, because it was void as to it.
+The judgment appealed from must be reversed and a new trial ordered, with costs to the appellant to abide the event
+Daniels and Beady, JJ., concur.
