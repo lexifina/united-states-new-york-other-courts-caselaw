@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-24"
+citations: ["24 N.Y. St. Rep. 636"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George F. Fitzpatrick, Resp’t, v. The New York and Manhattan Beach Railway Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024422
+cites_cases: ["101 N. Y., 617"]
+---
+
+# Fitzpatrick v. New York & Manhattan Beach Railway Co.
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action was for false arrest and imprisonment of the plaintiff by a policeman and detectives claimed to be in the employ of the defendant. Two persons were arrested at this time under precisely the same state of facts. The other person arrested being the brother of the' plaintiff, James 0. Fitzpatrick, brought an action against the defendant, and recovered damages for such arrest. The grounds upon which the defendant sought to relieve itself from such recovery, were the same as those which were raised upon the trial of the case at bar.
+Upon appeal to the court of appeals the verdict was sustained for the reasons given in the dissenting opinion of Mr. Justice Brady. The affirmance will be found in 101 N. Y., 617, and the decision of the case at 'the general term is partially reported in 15 Weekly Digest, p. 506.
+It is not at all necessary to reconsider the questions which were raised in that case and determined against the defendant. The only points to be considered are the exceptions which have been raised to the admission of evidence.
+The question as to the physical condition of the plaintiff’s brother does not seem to have been objectionable, in that it was part of the plaintiff’s case to show that the persons making the arrest had no reasonable ground to suppose that he and his companion had been guilty of the theft charged.
+The testimony of Burnap was also entirely admissible, because such testimony was offered for the purpose of showing that the premises upon which a large part of this trespass was committed were under the control and management of the defendant.
+The other exceptions criticizing the manner of the cross-examinations were not at all well taken. In fact, the only question which seems to be specially criticized was never answered.
+The refusal of the court to allow the witness Wilkinson to testify as to the description given him by the complainant, and on which the alleged arrest was claimed to be made, is not well founded, in that no question of this kind seems to have been presented to the jury. The naked question left to the jury upon the commission of the crime was, whether any complaint whatever had ever been made to these detectives, there being an irreconcilable conflict of testimony between them as to its origin.
+The judgment should be affirmed, with costs.
+Daniels, J., cohcurs.
