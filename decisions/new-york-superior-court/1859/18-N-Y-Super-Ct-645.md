@@ -1,0 +1,53 @@
+---
+court: "New York Superior Court"
+decided: "1859-12-31"
+citations: ["5 Bosw. 645", "18 N.Y. Super. Ct. 645"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isaac Merritt, Plaintiff and Respondent, v. John A. Millard, Defendant and Appellant."]
+source_url: "https://static.case.law/ny-super-ct/18/cases/0645-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1338419
+cites_cases: ["11 Johns., 29", "11 Mass., 147", "11 Wheat., 258", "17 Mass., 400", "19 Wend., 516", "2 Denio, 45", "20 John, 397", "20 Johns., 397", "20 Johns., 398", "20 Wend., 24", "20 Wend., 27", "20 Wend., 390", "20 Wend., 400", "20 Wend., 401", "3 Barb., 228", "5 John., 334", "7 Wend., 280"]
+---
+
+# Merritt v. Millard
+
+## Majority (By the Court—Bosworth, Ch. J.)
+
+By the Court—Bosworth, Ch. J.
+The second defense admits (by not denying) that the defendant received the $500 for the plaintiff, and promised to pay it to him when requested to do so; that he has been requested to pay it to the plaintiff, and refuses to pay it over, or any part of it.
+Assuming the agreement between the plaintiff and Brewster to be one on which an action would not lie by the former against the latter to recover the $500, yet it is not pretended that Brewster, after having paid the money to the plaintiff, could recover it back.
+Can the defendant set up the illegal agreement between the plaintiff and Brewster, as a defense to this action ?
+Tenant v. Elliott, (1 Bos. & Pul., 3,) is an authority in support of the plaintiff’s right to recover. Farmer v. Russell, (id., 296,) is not opposed to it. In the latter case, the defendant was a party to tire transaction and to the carrying of the goods, for a part of the price of which (after it came to the defendant’s hands) the plaintiff sought to recover. Rooke, J., says he could not act on the monstrous doctrine, that the defendant’s innocence shall work a loss to him, and his guilt shall be his indemnity. Eyre, Ch. J., and Buller and Heath, J. J., thought the plaintiff ought to recover, unless the original transaction could be mixed with the contract on which the action was brought.
+In the present action, the second defense does not aver that the defendant had any knowledge or notice of the illegal agreement between the plaintiff and Brewster when he received the $500 and promised to pay it to the plaintiff. It is sufficient to entitle the plaintiff to recover, to prove that the defendant received money for the plaintiff on a promise to pay it to him. His promise has its consideration in the receipt of the money, and in that only, and though it was a gift by Brewster, the defendant would be liable to pay it to the plaintiff.
+In substance, the agreement as between the plaintiff and Brewster has been executed. Brewster has paid all he agreed to pay; not to the plaintiff personally, but to the defendant who received it for him and as his money, and on a promise to pay it to him.
+In Thalimer v. Brinkerhoff, (20 J. R., 386, 398,) the Court said: “When it is considered that, in this case, the plaintiff’s only title to, demand anything depends on the validity of the agreement entered into between him and Teller, if that agreement be void, he stands without any pretense of right.”
+Brinkerhoff had not received any money as the plaintiff’s agent, or to his use, or on a promise to pay it to him. He had received it under an authority from Teller, and for his use, and the plaintiff’s right to any part of the money depended solely on the validity of the agreement between him and Teller.
+In De Groot v. Van Duzer, (20 Wend., 390,) the action was brought, on an agreement held to be illegal, by one of the parties to it against the other.
+In Nellis v. Clark, (20 Wend., 24,) the action was brought on a note given as part of, and by a party to, an illegal transaction,' and the plaintiff stood upon the rights of the other party to such transaction.
+There is, therefore, nothing in the facts of either of the three cases last cited which raises a conflict between the decisions made in them and that in Tenant v. Elliott. In the latter case it was decided that a person who receives from one party to an illegal contract, money paid in execution and satisfaction of it to the use of the other party to such contract, cannot defend an action brought by the latter to recover it from him on the ground of the prior illegal contract. Owen v. Davis, (1 Bailey R., 816,) is to the same effect.
+In the present case, there is no connection between the defendant’s promise and the illegal agreement between Brewster and the plaintiff. In that agreement the defendant in no way participated, and it is not alleged that he had any knowledge of it.
+He has received money from Brewster as being the money of the plaintiff, and on a promise to pay it to the latter, and although it was paid to and received by him as the plaintiff’s money; he insists upon retaining it. This is the whole transaction on which, as between him and the plaintiff, the rights of the latter and the liability of the former depend.
+The cause of the delivery of the money to him by Brewster does not appear to have been disclosed at the time; with it he has no concern; it is his duty to perform his promise.
+In Armstrong v. Toler, (11 Wheat., 258,) the Court held, that where the promise on which the action is brought, is entirely disconnected with the illegal act, and is founded on a new consideration ; it is not affected by such illegal act. The opinion of Chief Justice Marshall discusses the various prior decisions bearing on this question, and cites Farmer v. Russell (supra) with approbation.
+A person who sells goods knowing that the purchaser intends to apply them, in an illegal trade, is nevertheless entitled to recover the price if he yields no other aid to the illegal transaction than selling the goods, and obtaining permits for their delivery to the purchaser. (Hodgson et al. v. Temple, 5 Taunt., 181.)
+If it do not offend the morals of the Court, in its administration of justice, nor violate any considerations of public policy to entertain such an action, it is not obvious why it should be reluctant to enforce the promise of a defendant who has received from a third person money to the use of the plaintiff upon an agreement to pay it to him, when that is the whole transaction to which the defendant is a party.
+isTo case precisely like the present has been cited, in which it was held that the defendant could prevail on the grounds relied upon here.
+By 1 Revised Statutes, 771, title III, and the act of May 15th, 1837, Laws of 1837, 486, usurious agreements are declared to be void, and the taking of usury is declared to be a misdemeanor, and is indictable as such. (Laws of 1837, 487, § 6.) In Murray v. Judson and Sands, (5 Seld., 73,) it was held that a general assignment, by an insolvent debtor, of his property to a trustee for the payment of his debts, is not void on account of its providing for the payment of a usurious judgment, giving it priority over other debts, if it be in other respects free from objection.
+Gardiner, J., said, “ the assignment was not a contract with the holder of the judgment, or a mere security for that debt, but the setting apart of property for the payment of a specified demand in the order designated. (Id., 83.)
+That remark suggests a clear distinction between the present case and Dewitt v. Brisbane et al. (16 N. Y. R., 508.) The latter case holds, that “ the assignment, to secure the performance of an agreement void for illegality, of a mortgage valid between the parties to it, transfers no title, and is a defense to the mortgagor in an action brought against him by the assignee.”
+In the case cited, the assignment was executed as a part of the illegal-contract, and to. secure to the assignee its performance by the assignor.
+In the present case, the money sought to be recovered from the defendant was not paid to him as security for the performance by Brewster of his illegal contract with the plaintiff.
+It was paid to him after all of that contract had been performed, except the payment by Brewster of the sum he had agreed to pay to the plaintiff It was paid to and received by the defendant as the plaintiff’s money, and on the defendant’s promise to pay it to the plaintiff.
+The defendant’s promise to deliver the money to the plaintiff, and the delivery of it to him for the plaintiff’s use on the defendant's promise to so pay it, is the whole of the • transaction as between the defendant and Brewster.
+When the plaintiff, sues the defendant' to recover the money on the refusal of the latter to pay it, the defendant should not be permitted, in such a case, to allege that Brewster was under no legal obligation to appropriate the money to'the plaintiffs use; but on the contrary appropriated it as performance, on his part, of a contract between him and the plaintiff, which was void for illegality.
+It is enough to entitle the plaintiffs to recover, that the money when it came into the defendant’s hands was the money of the plaintiff, and was received as such, and that there is no pretense that Brewster resists- the payment or objects to the plaintiff’s right to the money.
+The plaintiffs cause of action against the defendant does not arise ex- turpi causa; but is founded lipón a transaction subsequent tp and not mixed with the illegal agreement. It arises solely, upon the defendant’s acceptance of money as the property of the plaintiff and his promise to pay it to him; and upon the defendant’s breach of - that promise.
+We thjnlc the demurrer to the second defense is well taken. We understood the defendant’s counsel to concede, that the mat-, ter pleaded as a third defense did not constitute one. If it does not, the demurrer to it is well taken. (Laws of 1857, vol. 2, p. 554, § 153.)
+In respect to the fourth defense, we think it quite clear, that a complaint, in an action by the defendant against the plaintiff, containing the same allegations, would be demurrable as not stating facts sufficient to constitute a cause of action.
+No fact is stated, which justifies the inference that the plaintiff is liable to the attorney of Brewster for his services as such, in defending a pending action brought by the plaintiff against Brewster.
+It id as essential to the sufficiency of an answer which attempts to set up a counterclaim or set-off, as to a complaint, that it state facts constituting a 'cause of action. The part of the answer, which states the fourth defense, does not do that.
+The order or judgment appealed from must be affirmed.-
+Order affirmed.
