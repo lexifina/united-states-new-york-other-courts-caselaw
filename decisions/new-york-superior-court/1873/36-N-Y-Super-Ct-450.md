@@ -1,0 +1,40 @@
+---
+court: "New York Superior Court"
+decided: "1873-12-31"
+citations: ["4 Jones & S. 450", "36 N.Y. Super. Ct. 450"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES D. EVANS, Plaintiff and Respondent, v. CHARLES H. KALBFLEISCH et el., Executors, etc., Defendants and Appellants."]
+source_url: "https://static.case.law/ny-super-ct/36/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1405370
+cites_cases: ["1 Hall, 560", "1 Sweeny, 346", "10 Abb. 118", "11 Abb. 34", "11 How. 113", "11 How. Pr. 113", "15 Abb. 303", "16 Howard, 173", "28 How. P. R. 289", "30 How. 65", "7 Bosw. 678", "7 Hill, 173", "7 How. 359", "9 How. P. R. 69"]
+---
+
+# Evans v. Kalbfleisch
+
+## Majority (By the Court.—Monell, J.)
+
+By the Court.—Monell, J.
+I am satisfied there is but one cause of action alleged in the complaint, namely, an agreement to pay five thousand dollars. After alleging the employment and performance of the services, it is averred that the price “ agreed upo,n ” by the defendants’ testator for such services, “so to be rendered,” was the sum of five thousand dollars. The subsequent allegation, that the services so rendered were reasonably worth the sum of five thousand dollars, is not a statement of another and different cause of action.
+A plaintiff may unite a cause of action upon a special contract, with á cause of action arising upon what was formerly denominated a quantum meruit. But they must be separately stated (Code, § 167), and must each contain a statement of facts sufficient to constitute the alleged separate cause of action.
+In the complaint in this action there is no such compliance with the provision of law referred to. The alleged quantum meruit is but a mere continuation of the preceding averments appertaining to the special contract, and is not in any proper sense the allegation,, of a separate and different cause of action. Taken by itself, as it must be, it does not contain facts sufficient to constitute a cause of action ; and it must, therefore, to be available at all, have relation to the preceding matter.
+This, I think, is the correct construction of the pleading. It contains a statement of facts constituting a cause of action arising upon a special contract, and not of facts sufficient to constitute any other or different cause of action.
+Such an action the court has not the power to refer.
+The trial would not require the examination of a long account. x
+Proof of the special contract would authorize a recovery, although proof of performance by the plaintiff of the services rendered plight be necessary.
+In this view the order of reference was improperly granted.
+But assuming, as was doubtless assumed by the learned judge at Special Term, that the complaint contains a statement of facts sufficient to constitute a cause of action upon a quantum meruit, as well as upon the special contract, is the case then referable ?
+Recent adjudications by the court of last resort have very much disturbed, if they have not reversed, many decisions of this and other courts, sustaining the power of the court to make compulsory references in certain cases. In Whitaker v. Desfosse (7 Bosw. 678), this court held that if any of the issues required the examination of a long account, the action was referable. The same view was substantially held'in Goodyear v. Brocks (4 Robt. 682), and was affirmed in Batchelor v. The Albany City Insurance Co. (1 Sweeny, 346), where the cases are carefully collected and reviewed.
+The principle affirmed in those cases was to the effect that if any one of the issues made by the complaint or answer would, standing by itself, have been referable, then the court had power to refer all the issues; in other words, refer the whole action, notwithstanding some of the other issues would not, .standing by themselves, have been referable.
+But in the recent case of Townsend v. Hendricks (40 How. Pr. R. 143), the Court of Appeals have affirmed, I think, a different rule, and have denied in effect the power of the court to refer any action where any of the issues were such that the party had the right of trial by a jury. In that case the complaint alleged a cause of action in tori, and the defence was in part a counterclaim, which by itself would have been referable. But the court held that a party could not be deprived of the right of trial by jury in any of the cases when such right is preserved by the constitution.
+The action in that case was not upon contract, but was for a tort, and the court recognizing it as among those in which a “trial by jury has been heretofore used,” has declared that the court could not refer it, notwithstanding the counter-claim, which was legitimately set up, would otherwise have been referable..
+It may be that the court did not intend to go any farther than the facts in that case required, and only to hold that if the plaintiff’s cause of action was among those which were heretofore triable by jury, neither of the parties to the action could be deprived of such right, although other issues in the case might otherwise have made the whole action referable.
+But it seems to me to follow, necessarily, that where there are several consistent causes of action united in one complaint, some of which the parties have a right to be tried by a jury, and others of which may be referable, the court cannot make a general reference of the action against the consent of the parties. If it was otherwise, a plaintiff, by merely inserting an additional but referable cause of action in his complaint, could always deprive his adversary of trial by jury in any case of contract, which by itself would be a violation of a constitutional right.
+The principle, therefore, to be deduced from the decision referred to is that all the causes of actiou stated in the complaint must be referable. If part or one only is referable, the court cannot refer the others, but as was said in Townsend v. Hendricks (supra), if such referable issues should ever require examination, a reference can be ordered as to them after the trial of the other issues.
+In the later case of Kain v. Delano (11 Abb. N. S. 29), the power to refer is restricted, even in actions arising on contract, to cases where the court can see,, from the proofs before it, that the examination of a long-account will be required. In that case there was an affidavit that the trial would require the examination of a long account, involving very numerous items of charges and credits amounting to many thousand dollars, and extending over several years. This proof, the court held, was not sufficient to authorize a reference.
+Applying the force of that decision to the case under consideration, it would dispose of the latter upon the same ground. The proofs before the Special Term were wholly insufficient to enable the court to determine whether the trial would require the examination of a long account in any aspect of the case. There is nothing in the complaint or answer, from which it can be seen that any account will require examination; and the affidavit, which states merely that the trial will involve the examination of some fifty items of account, upon the authority of Kain v. Delano (supra), is not enough.
+Upon all of these grounds stated, namely : first, that there is hut one cause of action; second, assuming there are two, one is not referable, and third, the insufficiency of the proof that the trial will require the examination of a long account; I am of opinion the reference in this case was improperly ordered.
+The order should he reversed, with costs.
+Barbour, Oh. J., and Freedman, J., concurred.
