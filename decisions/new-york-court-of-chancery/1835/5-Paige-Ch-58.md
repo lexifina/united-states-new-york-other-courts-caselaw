@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1835-01-20"
+citations: ["5 Paige Ch. 58"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richardson vs. Richardson & Wing."]
+source_url: "https://static.case.law/paige-ch/5/cases/0058-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2052530
+---
+
+# Richardson v. Richardson & Wing
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The replication in this case was irregular, and must be taken off the files of the court. The 45th rule declares that where the complainant amends after answer, the defendant shall have the same time to answer, after such amendment, if a further answer is necessary, as he originally had. Where the complainant, as in (his case, waives the necessity of a further answer, if the defendant deems it essential to his defence to answer the amendments, he has the right to do so. 'And unless the defendant elects to abide by his former answer within that time, the complainant must wait until the expiration of the forty days, allowed to the defendant to answer, before he is at liberty to file a replication. In this case, as the amendments were served on the agent, the time for answering the amendments had. not expired, by forty days, at the time the replication was filed. The defendant will therefore have that time to put in his further answer, after the entry of the order upon this decision.
+The counsel for the complainant, upon the argument, asked that his client might not only be excused from the payment of the costs of this application, but also from the payment of the costs of the further answer, which she is bound to pay by the terms of the order allowing the amendment. Although a party duly admitted to prosecute his suit as a poor person, cannot be charged with the general costs of the cause, in favor of the adverse party, he may be charged with interlocutory costs for any irregularity in the proceedings- on his part, or for the expense of expunging scandalous or impertinent matter from any of his pleadings or proceedings, or for the costs of his contempts. (1 Newl. Ch. Prac. 603. Murphy v. Oldis, 2 Moll. R. 475.) If he were exempt from the payment of such costs, the adverse party would have no protection against his irregularities in practice. And it is sufficiently burthensome to defendants lobe compelled to litigate their rights with those who are not to be chargeable with the ordinary costs of the suit, although such suit turns out to have been wholly unfounded. Neither can I relieve the complainant from the payment of the costs of answering these amendments, of which she has assumed the payment., by the order entered by her solicitor, as a condition of the amendment. Before a complainant can be admitted to prosecute as a poor person, he must, upon oath, present a prima facie case of right against the defendant. And it would be unreasonable to permit him, after the defendant has put in a perfect answer to the original bill, to amend as a matter of course; and to insert any new matter which he might think fit, without paying the extra costs of a further answer. In such a case, if he thinks proper to amend under a common order, it must be upon the payment of the costs of the further answer. But if hé has a meritorious ground upon which to found a claim for permission to amend his bill without costs, he should apply to the court for an older to that effect, upon an affidavit showing his belief in the truth of the matters which he seeks to insert in his bill by way of amendment ; of which application due notice should be given to the adverse party. In the present case it is doubtful whether the amendments can benefit the complainant, although it might be unsafe for the defendant to leave them unanswered. And no affidavit is produced on her part, showing that she even believed the charges contained in these amendments were true.
+The complainant must therefore pay the costs of this application ; and if a further answer is put in, she must pay the necessary costs of such further answer, according to the condition of the order allowing the amendment.
