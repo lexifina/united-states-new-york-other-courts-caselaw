@@ -1,0 +1,21 @@
+---
+court: "New York Superior Court"
+decided: "1893-07-03"
+citations: ["53 N.Y. St. Rep. 588"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James E. Ehrlich, App’lt, v. Samuel Adams et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/53/cases/0588-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686123
+---
+
+# Ehrlich v. Adams
+
+## Majority (Per Curiam)
+
+Per Curiam
+The action was to recover a certain sum as damages for the alleged breach of a contract of employment To recover the plaintiff was bound to establish the contract sued upon. The letter of January 27, 1891, written by the defendants to the plaintiff, was a mere offer which had to be accepted before it became binding. In fact this was stated therein in express terms. Nothing passed between the parties which can be construed as an oral acceptance, and no competent proof was given of the delivery to the defendants of the letter which, according to plaintiff’s contention, contained the only notice of acceptance which was given. The subsequent conduct of the parties is consistent with some other arrangement which may have been made. The plaintiff, therefore, failed to prove the cause of action alleged in the complaint.
+The record discloses no error, and the judgment should be affirmed, with costs.
+Freedman and Gtldersleeve, JJ., concur.
