@@ -1,0 +1,42 @@
+---
+court: "New York Superior Court"
+decided: "1889-03-05"
+citations: ["24 Jones & S. 527", "56 N.Y. Super. Ct. 527"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANCIS LAHEY, Respondent v. GOUVERNEUR KORTRIGHT, Individually and as Trustee, &c., AND ANOTHER, APPELLANTS."]
+source_url: "https://static.case.law/ny-super-ct/56/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1689490
+cites_cases: ["1 R. 8", "105 N. Y. 68", "117 Mass. 219", "2 Hun 90", "37 N. Y. 261", "49 Hun 249", "51 N. Y. 646", "98 N. Y. 35", "98 N. Y. 39"]
+---
+
+# Lahey v. Kortright
+
+## Majority (Freedman, J.: Per Curiam.)
+
+Freedman, J.:
+Assuming that the power of sale given by the will was an imperative and general power in trust, which, although discretionary as to the time of execution, could, on the death, removal, resignation or refusal to act of the trustees, be conferred by the Supreme Court on a trustee appointed by that court to carry out the trusts created by the will, the question still remains whether the Supreme Court really did confer the power. If it was conferred it must be found in the order of appointment, for a trustee so appointed takes all his powers from the order of his appointment.
+In Kortright, trustee, &c., v. Storminger, 49 Hun 249, which was a case submitted on an agreed state of facts, the case as submitted to the general term of the Supreme Court showed that by an order duly made and entered, a new trustee had been duly appointed to hold a certain share of the estate, with all the powers and authority given to the trustees by the provisions of the will. But the order of his appointment was not set forth. Under that broad admission it could well be held, as it was held, that he possessed all of the powers to sell which were possessed by thé original trustees.
+In the cases before me the orders appointing Gouverneur Kortright and Lawrence M. Kortright as trustees were put in evidence, and they fail to show that any power of sale was conferred by the court upon either of said trustees.
+The order appointing Gouverneur Kortright shows that Sarah J. Taylor and Lawrence M. Kortright had petitioned for his appointment as trustee, “ to hold the share set apart by commissioners in partition for the benefit of said Sarah J. Taylor and Lawrence M. Kortright, and to be held in trust for their benefit,” and that thereupon it was ordered that he be appointed “ such trustee.”
+The order appointing Lawrence M. Kortright was made on the petition of Gouverneur Kortright, praying that Lawrence M. Kortright be appointed trustee to hold his (Gouverneur K.’s) share, and by it he is appointed “ such trustee.”
+Now it may be conceded that under the decisions of Clark v. Crego, 51 N. Y. 646, and Farrar v. McCue, 89 Ib. 140, it was not necessary for the Supreme Court to expressly confer the power of sale on the new trustees. Their general appointment in place of the former trustees would have carried with it all the powers vested in the former trustees.
+But the two orders above referred to did not appoint generally, but specially, and for that reason they did not by implication confer the power of sale.
+The foregoing considerations entitle the plaintiff to judgment. Findings and judgment to be settled on notice.
+From the judgment entered on this decision defendants appealed.
+Platt & Bowers, attorneys, and John M. Bowers of counsel for appellants, argued: —
+I. The power of sale given by the will was a general imperative power in trust, which, although discretionary as to the time of execution, could, on the death, removal, resignation or refusal to act of the trustees, be executed by a trustee appointed by the Supreme Court to carry out the trusts created by the will. The power is general, 1 R. S. 732, § 77.—The power is imperative, 1 R. S. 734, § 96.—The power is in trust, 1 R. 8. 734, § 95.— An express trust is created, 1 R. S. 728, § 55.—The Supreme Court has full power to appoint a new trustee, 1 R. S. 730, §§ 68, 69, 70 and 71.—The following authorities seem directly in point: Cook v. Platt, 98 N. Y. 39; Farrar v. McCue, 89 Ib. 140; Delaney v. McCormick, 88 Ib. 174. Cook v. Platt, 98 N. Y. 35, though holding that the trust in that case was an invalid one, sustains the point here maintained.
+II. The power of sale was to the trustees, and though imperative, could be exercised as to time in their discretion. In such cases the power passes to new trustees duly appointed, and not to the administrator with the will annexed. Cook v. Platt, 98 N. Y. 39 ; Mott v. Ackerman, 92 Ib. 540. The following cases are directly in point. Ward v. Ward, 105 N. Y. 68 ; Tobias v. Cushman, 32 Ib. 319; Robert v. Corning, 89 Ib. 225; Bacon v. Bacon, 4 Demarest, 5.
+III. The trustees having refused the trust, an order discharging them therefrom was unnecessary. By their refusal to act, the trust vested in the Supreme Court, with all the powers and duties of the original trustees; and the court properly executed the trust by the appointment of new trustees. Depeyster v. Clendenning, 8 Paige, 295; Matter of Robinson, 37 N. Y. 261; Dunning v. Ocean Nat. Bk., 61 Ib. 497, pp. 500-502 ; Ross v. Roberts, 2 Hun 90.
+IV. It is not necessary for the Supreme Court to expressly confer any authority on the new trustee. The appointment carries with it all the authority vested in the original trustee. Clark v. Crego, 51 N. Y. 646; Farrar v. McCue, 89 Ib. 140; Nugent v. Clune, 117 Mass. 219.
+James F. Malcolm, attorney, and Samuel Jones of counsel for respondent, made and argued, orally, various points in support of the judgment.
+Per Curiam.
+This action was begun to relieve the plaintiff from the obligation of a written contract, made by him and defendants, and by which the former was to buy and the latter to sell certain real estate.
+On the trial, the plaintiff maintained that the defendants had no power to sell so much of the real estate as they held as trustees. The learned court held.with the plaintiff in this respect, grounding its decision upon the construction of two orders of the Supreme Court appointing the defendants trustees.
+As these orders were of similar tenor, it is necessary to advert but to one of them. It recited that on reading and filing the petition, etc., praying that Lawrence M. Kortright be appointed trustee under the will of Nicholas G. Kortright, deceased, to hold the share set apart and for the benefit of said Gouverneur Kortright and to be held in trust for his benefit, etc., it is ordered that the said Lawrence M. Kortright be and he hereby is appointed such trustee upon, etc. '
+The construction given below to this order was, that Kortright was appointed as trustee solely to hold the share, and therefore that the order gave no power to sell it. It was competent, however, for the purpose of construction, to look at the whole of the record which ended in the order. From that record it appeared that the will of a former owner had appointed a trustee to hold the share and for other purpose with power of sale. The trustee named not taking, the Supreme Court appointed a trustee, to execute the trust of the will. Afterwards the trustee so appointed resigned, and the trustee named in the order, now examined, was appointed as appears by that order.
+On the whole record, the object of the proceedings appears to have been to substitute some one in the place of the one named in the will, without a purpose of dividing the power that the will had provided. As the trustee had a power of sale under the will, the trustee named in the order had the same power. The expression “ to hold ” the share of Gouverneur Kortright, was used not as a description of power, but of necessity, in order to identify the trusteeship or office, as under the will there were trusts as to other shares like that of Gouverneur Kortright, excepting that they were for the benefit of other persons. The power of sale was but an incident of the trusteeship, and accompanied that. The words “ to hold ” might have been supplaced by the words “ of the share,” etc.
+There are in the case other questions. The argument at the bar was so shaped that it is proper to determine this appeal, by a consideration of the construction of the order.
+The judgment is reversed and a new trial granted, with costs to abide the event.
