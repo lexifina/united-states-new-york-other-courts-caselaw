@@ -1,0 +1,24 @@
+---
+court: "New York Court of Chancery"
+decided: "1828-10-07"
+citations: ["1 Paige Ch. 209"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Knickerbacker v. Harris."]
+source_url: "https://static.case.law/paige-ch/1/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2178388
+---
+
+# Knickerbacker v. Harris
+
+## Majority
+
+The Chancellor :—The agreement between the parties, although not in writing, has been so far carried into effect that neither party is now at liberty to make that objection. The defendant went into possession of the premises under the agreement, and occupied the same between eight and nine years; and the complainant, during the same period, has received the principal part of the purchase-money. It is *also too late for the defendant to object that the complainant did not cause the premises to be surveyed and give him a deed therefor immediately after the first payment. He has waived that objection by continuing to make payments towards the land for several years after-wards. This must be considered as an election, on his part, not to rescind the contract in consequence of that neglect on the part of the complainant.
+In 1828, the purchase-money was all due, and the defendant could only put an end to the contract, at that time, by making a formal tender or offer to pay the balance due, and by demanding a performance of the contract on the part of the complainant. At the time the formal demand was made in February, 1824, this suit was pending to compel a specific performance of the contract; and the rights of the parties must be determined without reference to that transaction. If any effect is to be given to that proceeding, it is evidence that up to that time the defendant considered the contract in force, as he then demanded to have it fulfilled. It therefore becomes necessary to ascertain what that contract was, in order to do justice between the parties.
+If the defendant, in his answer, had explicitly denied that he was to pay any interest, or alleged that the agreement was that the payments were to be made without interest, it would have been incumbent on the complainant to disprove that allegation in the answer by more satisfactory testimony. But a denial according to the best of his knowledge and belief, or in other words saying he has no recollection it was so, merely throws the proof upon the other party, and a single witness is sufficient to establish the fact.
+In the first place, it is highly improbable that the agreement was that he should have seven years to pay for the farm without interest; as it is contrary to the usual mode of making such sales, where the purchaser goes- immediately into possession. In addition to this, we have the testimony of Thomas Scott, the defendant’s witness, that he told him he was to pay interest on the purchase-money from the 20th of December, 1815, the time he was to make the first *payment. The complainant therefore is entitled to interest on the purchase-money from that time.
+As to the controversy about the two acres which were included in the lot conveyed to Seymour, more than he was entitled to, the defendant is not bound to take that land, although the complainant has now a perfect title to the same. At the time of his purchase, that land had been conveyed to Seymour. The defendant’s purchase was bounded on Seymour’s land, and did not include any part of it. He is only bound to take the land which he agreed for, without reference to any mistakes which had been made in the running out and conveying the land to Seymour. The land which the defendant is bound to take, is all that part of lot number one, in great lot number two, which lies north of the lands sold and conveyed to Seymour, and no other.
+It must be referred to a master to ascertain the number of acres in the farm, and the amount which is still due thereon, estimating the land at $21 50 per acre, and computing interest from the 20th December, 1815; and on the coming in and confirmation of the master’s report, the defendant must pay the amount reported due, with interest from the date of the report, and the complainant must convey the premises to the defendant by a good and sufficient deed, with the usual covenants of warranty and seizin, to be settled by the master, and the injunction to restrain the defendant from proceeding at law must then be made perpetual.
+As the complainant insisted upon the defendant’s taking the two acres of land covered by the Seymour deed, which he was not bound to take under his contract, and the defendant declined paying interest, which under the contract the complainant was entitled to, neither party is to be allowed costs as against the other.
