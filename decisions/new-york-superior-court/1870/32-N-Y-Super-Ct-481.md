@@ -1,0 +1,47 @@
+---
+court: "New York Superior Court"
+decided: "1870-06-30"
+citations: ["2 Sweeny 481", "32 N.Y. Super. Ct. 481"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY M. De CAMP, Plaintiff and Respondent, v. THE NEW JERSEY MUTUAL LIFE INSURANCE COMPANY, Defendants and Appellants."]
+source_url: "https://static.case.law/ny-super-ct/32/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1421105
+cites_cases: ["11 How., 481", "12 Johns., 153", "2 Hall, 649", "24 How. 517", "24 How., 517", "25 How., 362", "3 How., 327", "5 How., 46", "7 How., 225", "9 Abb., 66"]
+---
+
+# De Camp v. New Jersey Mutual Life Insurance
+
+## Majority (Jones, J.)
+
+By the Court:
+Jones, J.
+The first question raised on this appeal is that the order is not appealable.
+The case of Illius v. New Haven R. R. (3 Kernan, 597) is cited in support of this proposition.
+In that case the court below granted the application for a removal, and the appeal was to the Court of Appeals. The point decided was that an appeal would not lie to the Cov/rt of Appeals from suoh an order.
+I do not stop to inquire whether the principle of the decisions or the reasoning of the learned judge supports the proposition contended for in this case, for there is a subsequent decision of the Court of Appeals which, in my view, controls the question of the appealability of this order.
+It is the ease of Philo Stevens et al. v. The Phœnix Insurance Co. of Hartford. In this case the defendant had made an application for the removal of the cause under the said 12th section, which application was denied. The defendant then answered, setting up among other defenses the existence of the matters and the doing of the acts which called for a removal under this 12th section, the making of an application to the court for an order óf removal, the papers on which that application was founded, the proceedings thereon, and the denial thereof, and insisted that by reason of the said several matters the court had no jurisdiction over the cause. On the trial of the action the plaintiff had a verdict and judgment thereon. The j udgment was affirmed at General Term. From this judgment an appeal was taken to the Court of Appeals, where it was reversed on the ground that, the defendant having complied strictly with said 12th section, the State court had no further jurisdiction to proceed in the case.
+This decision establishes that upon a strict compliance with this 12th section the State court loses jurisdiction and the United States court gains it without any formal order to that effect; and consequently, if it is attempted to proceed in the State court after such compliance, the fact of such compliance will constitute a defense to be interposed by way of a plea to the jurisdiction, and this although a formal order of removal has been refused.
+Thus the right to the transfer of jurisdiction and the refusal to accord it may be pleaded in defense to the action. It may be laid down as a general maxim that whatever may be pleaded in defense relates to the merits of the controversy, for that constitutes a part of the controversy itself.
+An order denying a removal affects this right of transfer, which may thus be pleaded in defense and thereby form one of the controverted issues to be tried, and therefore it affects a substantial right; and that is all that is necessary to invest it with an appealable character.
+It is true we might dismiss this appeal and leave the defendant to obtain his right by an answer to the jurisdiction; and if the judge below had declined to make any order this would have been the only course that could have been pursued. But the judge below made an order; that order, as shown above, affects the substantial right and is therefore appealable, and if it is erroneous we should not permit it to stand.
+Upon examining the said 12th section it appears that, so far as the present question is concerned, four matters must exist in fact before the State court is called on to act at all.
+1. That the suit should be against an alien by a citizen, or by a citizen of one State against a citizen of another.
+2. That the matter in dispute exceeds the value of $500.
+3. That the defendant shall at the time of entering his appearance in the State court file a petition for the removal of the cause for trial into the next Circuit Court to be held in the district where the suit is pending.
+4. Offer good and sufficient surety to the effect prescribed.
+If all these matters exist then the State court is called on simply to accept the surety, and thereupon .to proceed no further, and to discharge any bail that may have been originally taken.
+It is evident that if any one of these prerequisites does not exist the State court is not called on to accept the surety.
+Whatever may be the effect of the judge’s determination as to the existence of these prerequisites upon a conflict of proof and after hearing both parties, the Court of Appeals have held that his determination that as a matter of law upon the conceded facts they do not exist, is not such a determination as will conclude the parties until it is reversed on appeal; but that on a plea to the jurisdiction it may be urged that he was in error and was forced to accept the surety. What may be the effect of his decision on a conflict of evidence as to the prerequisites existing in fact, and how such a decision may be relieved against, are questions that do not arise in this case; for here there is no such conflict.
+In this case it is contended that the prerequisites were not established by proper proof, because the proof of them consists solely in the statements in the petition, the only verification to which is that the petitioner knows the contents thereof and that the same is true of his own knowledge, except as to the matters therein stated on information and belief, and as.to those matters he believes it to be true; which is simply swearing that the petitioner is informed that the matters contained in the petition are true, and believes such information to be true, and that this does not constitute legal proof: It is insisted that the judge properly refused to accept the surety for want of legal proof of the existence of its prerequisites.
+The petition, however, is but the initiatory step for setting on foot the proceedings to obtain a removal. Its office is like that of filing a declaration at law, or a bill in equity, and like them must contain such averments as will, "on being either conceded or established, entitle the petitioners to the relief asked for ; but it is no part of its office to furnish proof of its averment, although if properly verified it may incidentally do so in some instances.
+If the petitioner applied ex parte, undoubtedly the court would, while accepting the petition as evidence of those averments which were positively sworn to, yet require legal proof of those sworn to on information and belief.
+But when the application is made on notice to the adverse party, the court will leave the party to take care of his own interests and require him to controvert those averments of the truth whereof he is not satisfied, and will consider those averments not controverted as conceded to he true. The controversion may he by either an answer or affidavit; but whatever form it comes in, those matters which are controverted and those only are the ones which are in dispute, and as to those the petitioner will be at liberty to furnish proof.
+In the present case none of the averments in the petition are controverted, except so far as the facts stated in the affidavit of the attorney for the plaintiff tend to controvert the averment that the petitioners were not citizens of this State but citizens of the State of New Jersey. The question thus presented to the court, and the only question, was whether on the facts stated in that affidavit the defendants were to be regarded as citizens of this State or not.
+The judge below, as appears from his opinion, regarded this as being the only point presented for his determination, and denied the motion on the sole ground that under the decisions of the Supreme Court in Stevens v. Phœnix Ins. Co. (24 How., 517), and of this court in N. Y. Piano Co. v. New Haven Steamboat (2 Abb. Pr., N. S., 357), the defendant was estopped from setting up that it was not a citizen of this State. He so held apparently, not because he was satisfied of the correctness of the doctrine, but because he felt himself bound by those authorities.
+Since the decision of the motion in the court below the Court of Appeals has reversed the decision of the Supreme Court in Stevens v. Phœnix Ins. Co., and with that reversal the case in this court also falls.
+It is now established by the decision of the Court of Appeals that the defendant being incorporated under the laws of the State of New Jersey is a citizen of that State alone, and is not estopped by the other matters set forth in the affidavit of plaintiff’s attorney from claiming that it is not a citizen of this State.
+The order below must be reversed; but as the plaintiff may, by reason, of her reliance on the General Term decision of this court, have omitted to controvert some of the other averments in the petition, an order of removal should not be made here, but the defendants should be remitted to the Special Term to renew their motion there. ¡No costs of appeal to either party.
+Ordered accordingly.
