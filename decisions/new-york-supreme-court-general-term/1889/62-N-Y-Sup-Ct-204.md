@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-12"
+citations: ["62 N.Y. Sup. Ct. 204"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., concurred."]
+parties: ["In the Matter of the Application of THE MAYOR, ALDERMEN AND COMMONALTY OF THE CITY OF NEW YORK to Compel an Accounting by ALFRED L. SIMONSON and EDWARD T. SCHENCK, as Executors of and Testamentary Trustees under the Last Will and Testament of SAMUEL WOOD, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/62/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4589444
+cites_cases: ["113 N. Y., 337", "113 N. Y., 350", "118 N. Y., 887"]
+---
+
+# In re Mayor of New York
+
+## Majority (Bartlett, J.:)
+
+Bartlett, J.:
+The appellants failed in their application because, in the opinion of the learned surrogate, they were not persons interested in the estate or fund in the hands of the executors within the meaning of the Code, aud the only question presented by this appeal is whether that view is correct. We think it is. The claim of the city to any interest in the estate of the testator rests upon the second subdivision of the seventh article of the will, which seeks to establish a trust in three executors for purposes which are thus stated :
+“ To create, endow and forever maintain an institution in the city of New York, to be called ‘The Samuel Wood Benevolent Institute,’ and to vest in said institute all of my property and estate not otherwise disposed of, and for the use and purposes thereof as the same are hereinafter declared, and to the end that the said ‘ The Samuel Wood Benevolent Institute ’ may, by the laws of this State, be capable of taking and holding real estate and other gifts and donations to its use, I hereby direct and order my executors, as soon as may be after my decease, to apply to the legislature of this State for an act of incorporation, incorporating the said ‘ The Samuel Wood Benevolent Institute,’ with power to take, and hold real estate for the purposes of said institute, and to prosecute said .application until a charter shall be obtained conformably to this, my will, and to be governed as hereinafter provided; and m case said charter shall not be obtained within the life of the longest li/ver of my said executors, then I give, devise and bequeath the said rest, residue and remainder of my estate, real and personal, to the Mayor, Aldermen and Commonalty of the City of New York in their corporate ■capacity, to be strictly devoted by the city of New York to the charitable uses in this my will declared.”
+The primary gift for the establishment of the Samuel Wood Benevolent Institute (changed by the codicil to a college of music) was invalid. So far as the real estate was concerned, the power of .alienation was suspended for more than two lives. So far as the personal property was concerned, the absolute ownership was suspended for more than two lives. In neither case was the period of suspension limited by two lives in being, but, on the contrary, the testator contemplated that it might last through the lives of his three executors. But, notwithstanding that the primary gift must be deemed void, the learned counsel for the appellants insists that the substituted gift to the city of New York is good, and he refers to Cruikshank v. Home for the Friendless (113 N. Y., 337) as a case in which a somewhat similar primary devise was adjudged void, while the alternative and substituted gifts were upheld. But in that case the testator plainly intended that the gifts over should take effect at once, if the prior disposition of his property for the benefit of a non-existent corporation was invalid in law. In the will now under consideration, however, the language upon which the substituted gift is dependent, manifests a clear intention that the Mayor’, Aldermen and Commonalty of the City of New York shall receive nothing until the death of the last of the testator’s three -executors. “ In case said charter shall not be obtained within the life of the longest liver of my said executors ” is the phraseology. The suspension of the absolute ownership and power of alienation is thus attached to the substituted gift itself, and operates to invalidate it equally with the primary devise. The lurking doubt of the validity of the prior trust which influenced the testator in the case of Cruikshank v. Home for the Friendless (see opinion of Finch, J., 113 N. Y., 350), does not appear to have existed in the mind of Mr. Wood. He contemplated possible and probable delay in the ■formation of such a corporation as lie desired to have organized, but no legal objection to the testamentary disposition he attempted to make. He distinctly postponed his gift over to the city of New York until the expiration of three lives in being, and hence rendered ineffectual the only portion of his will under which the city could .assert any interest to compel his executors to account.
+The order of the surrogate should be affirmed, with costs.
+Yan Brunt, P. J., concurred.
+Order of the surrogate affirmed, with costs.
