@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-07-22"
+citations: ["47 N.Y. St. Rep. 762"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Judicial Settlement of the Accounts of Bridget Bolen, Adm’rx of Julia Cody, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/47/cases/0762-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2087235
+cites_cases: ["89 N. Y., 435"]
+---
+
+# In re the Judicial Settlement of the Accounts of Bolen
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+—This is an appeal from the decree of the surrogate confirming the report of a referee.
+The question involved is the right to a deposit of' $1,016.50 in the Emigrant Industrial Savings Bank.
+The deposit originally stood in the name of Julia Cody, the deceased intestate, and in August, 1879, the money was re-deposited in the name of Julia Cody or daughter Bridget Bolen, and in February, 1886, the money was drawn out and again re-deposited in the name of Julia Cody or daughter Bridget Bolen, and a bank book was issued by the bank in the same names, which came to the possession of the daughter, Bridget Bolen, and remained there until the death of her mother, when she drew the amount of money from the bank and claims the right to retain it.
+That claim is controverted by her sister, Mary Heany, who disputed the account of the administratrix rendered to the surrogate, which failed to charge herself with that amount.
+The surrogate referred the matter to a referee, who decided the question against the administratrix, and his report being confirmed by the surrogate, the administratrix appealed from the decree of confirmation.
+Our conclusion is in favor of the decree and the same should be affirmed, with costs payable by the appellant personally.
+Barnard, P. J., and Cullen, J., concur.
