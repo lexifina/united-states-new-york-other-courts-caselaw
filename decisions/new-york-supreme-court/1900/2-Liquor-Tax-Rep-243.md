@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1900-02"
+citations: ["2 Liquor Tax Rep. 243"]
+reporter: "liquor-tax-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People ex rel. James S. Caldwell v. George S. Wood, on the Return of a Writ of Habeas Corpus."]
+source_url: "https://static.case.law/liquor-tax-rep/2/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1293629
+---
+
+# People ex rel. Caldwell v. Wood
+
+## Majority (Dwight, J.)
+
+Dwight, J.
+The relator Avas convicted, in the County Courc of Cayuga county on the 12th day of February, 1900, of a misdemeanor under subdivision 1 of section 34 of the Liquor Tax Law of 1896, as amended in 1897, and was sentenced thereupon, to imprisonment in the county jail for the term of three months, and he is now held by the sheriff by virtue of a commitment issued out of said court in pursuance of such sentence. He now objects that the sentence was without authority of law and void, because not within the authority and requirements of the statute under which he was convicted.
+The subdivision of the statute cited above, defines the offense of trafficking in liquors without having paid the tax and obtained the certificate provided for by the Act, and it declares that the person so unlaAvfully trafficking “ shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not less than $200 nor more than $1,000, provided that such fine shall equal at least the amount of the tax for one year imposed by this act upon the kind of traffic in liquors carried on, where carried on, or which would be so imposed if the traffic were lawful, and may also be imprisoned in a county jail or penitentiary for the term of not more than one year.” The objection of the relator is to the effect that the court had no authority to impose a term of imprisonment until it had first imposed a fine.
+The objection at once calls attention to the peculiar and altogether exceptional language employed in prescribing the punishment of this particular offense. It is no longer, as in all other similar provisions, of which I am aware, of the statutes relating to misdemeanors, that the-offense shall be punished by a fine of not more than so many dollars or by imprisonment for a term of not more than so many months, or by both such fine or imprisonment; on the contrary the requirement here is absolute that the offense shall 1)6 punished by a fine, and may also be punished by imprisonment. The inquiry is at once suggested why this variation from all other statutes prescribing the punishment of misdemeanors? and the answer, I think, is found in the peculiar character and purpose of the statute, as a whole, and in the definition of the particular offense in question.
+In the first place it is apparent from the general scope and tenor, and even from the title of the Act, as well as from many of its particular provisions, that it was primarily intended as a statute for revenue and only incidentally for the regulation or restriction of the traffic in intoxicating liquors.
+With this general purpose of the statute the positive prescription of a fine and the permission, merely, to add a term of imprisonment, found in the provision under consideration, is consistent; but even more significant is the particular definition of the fine to be imposed. It shall not be less than $200, nor more than $1,000, but in every case it shall equal at least, the amount of the tax which the offender would have been required to pay in order to legalize the traffic which he has unlawfully ■carried on. First of all, then, he shall pay at least as much by way of fine as his neighbors, lawfully engaged in the same kind of traffic, have been required to pay by way of tax, and as much more as the particular circumstances of his offense seem to justify. ■
+Such unquestionably is the absolute requirement of the statute in respect to the imposition of a fine and then follows — in the order observed in the enactment — a discretion conferred upon the court whether “ also ” to impose the punishment of a term of imprisonment in the county jail or penitentiary. Is it not the intention of the statute that the exercise of that discretion shall follow the imposition of the fine or at least the determination of its amount? If the fine exceed the amount of the tax, which shall, at least be covered by it, such excess is wholly punitive, and it may be assumed that the discretion whether to impose still further punishment will be largely controlled by the amount of the fine already imposed, or to be imposed. Was it not the intention of the statute that it should be so controlled?
+Led by these considerations I have reached the conclusion that the reasonable interpretation of the provision in question excludes any authority in the court to impose a term of imprisonment as punishment for the offense defined by the subdivision quoted, except as additional to a fine already imposed or to be imposed. •
+The question, so far as appears, is entirely new and must be determined on principle. If my solution of it is correct then the sentence imposed in this case was without authority of law and void, and the relator can no longer be held under it.
+An order may be entered discharging the relator from further imprisonment under the commitment set out in the return of "the sheriff.
