@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["86 N.Y. Sup. Ct. 314"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Brien and Parker, JJ., concurred."]
+parties: ["Fourth Presbyterian Church, Thirty-fourth Street, Plaintiff, v. David Steiner, Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/86/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2394676
+cites_cases: ["87 N. Y. 311"]
+---
+
+# Fourth Presbyterian Church v. Steiner
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+Assuming that the statements contained in the submission are true, and that all of the facts relevant to the question submitted are contained therein, it is clear that the case falls within the princijile laid down in the class of cases of which The Trustees of Columbia College v. Thacher (87 N. Y. 311) is a type, and that the performance of the covenants would not be enforced or their violation restrained by a court of equity; nevertheless, the damages sustained by the violation of tlie covenants might be recovered at law by the owners of the adjoining lots, to which this negative easement created by the covenant has attached. We assume from the submission, though it is not expressly stated, that there are many lots to which the easement is attached. In case an action should be brought, by a lot owner to restrain the violation of the covenants and recover damages for their violation, and the facts should be found as stated in the submission and no others, equitable relief would be refused and the damages awarded would be nominal. However, whoever owns the lot in question will be exposed to actions by the owners of the adjacent lots either for the purpose of enforcing the performance of the covenants restraining their violation or for damages. This is not the kind of title that a purchaser under this contract is entitled to receive. It is suggested that there be deducted from the contract price $2,000 per lot, and that the vendor be compelled to convey on those terms. The covenant, while it liquidates the damages as between Mrs. Aycrigg, her heirs and representatives, and the owner of the lot in question, does not assume to liquidate the damages which may be sustained by the owners of neighboring lots who are entitled to the benefit of the covenant. The covenants contained in the deed constitute such an incumbrance upon the title that the defendant should not be compelled to perform his contract, and is entitled to recover the sum which he has paid on the contract, with interest.
+A judgment should be entered accordingly in his favor and against the plaintiff, with costs.
+O’Brien and Parker, JJ., concurred.
+Judgment ordered in favor of defendant and against the plaintiff, with costs.
