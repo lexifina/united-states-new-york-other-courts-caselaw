@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court"
 decided: "1891-07-02"
-citations: ["27 Jones & S. 486", "59 N.Y. Super. Ct. 486", "15 N.Y.S. 562"]
+citations: ["27 Jones & S. 486", "59 N.Y. Super. Ct. 486"]
 reporter: "ny-super-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["EUGENE F. LETHBRIDGE, Appellant and Respondent v. THE MAYOR, ALDERMEN
 source_url: "https://static.case.law/ny-super-ct/59/cases/0486-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1695892
-cites_cases: ["102 N. Y. 536", "113 N. Y. 410", "113 N. Y. 416", "12 N. Y. Supp. 269", "13 N. Y. Supp. 887", "14 N. Y. Supp. 785", "18 N. Y. Supp. 869", "2 Den. 110", "21 N. E. Rep. 119", "28 Cal. 21", "33 N. Y. 291", "5 Daly, 448", "7 N. E. Rep. 787", "8 Hun, 479"]
+cites_cases: ["102 N. Y. 536", "113 N. Y. 410", "113 N. Y. 416", "2 Den. 110", "33 N. Y. 291", "5 Daly, 448", "8 Hun, 479"]
 ---
 
 # Lethbridge v. Mayor of New York
