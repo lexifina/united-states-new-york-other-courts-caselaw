@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-12"
+citations: ["99 N.Y. Sup. Ct. 78"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Merwin and Parker, JJ., concurred."]
+parties: ["William H. Rich, Appellant, v. Homer C. Markham, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/99/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4800058
+cites_cases: ["11 N. Y. St. Repr. 855", "41 Barb. 555", "46 Hun, 492"]
+---
+
+# Rich v. Markham
+
+## Majority (IIardin, P. J.:)
+
+IIardin, P. J.:
+It is contended by the appellant “that the justice never rendered any judgment until the 19th of April, 1893, and after the lapse of the four days after final submission, and after the cause had passed from his jurisdiction.” We think the facts stated in the return and the amended return of the justice are opposed to this contention of the appellant. The cause was tried and submitted to the justice for decision on the 14th of April, 1893, and inasmuch as he was entitled to four days within which to render judgment, the last day for the rendition of a judgment was the 18th day of April, 1S93. On that day he made an entry as follows: “ Judgment is hereby rendered in favor of deft, and agst. plff. for $40.66 damages, besides costs of the action. W. II. Egleton, J. P.” In the amended return the justice certifies, viz.: “ On April 18th, 1893,1 determined that the def’t was entitled to recover damages against the pl’ff to the amount of $40.66, and so entered the same on my docket and on the minutes of the- trial kept by me, besides the costs of the action, and on the same date, to wit, April 18th, 1893,1 entered the items of costs which were to go in the judgment, as follows : * * * The item for serving summons was first entered on the docket among the items of cost, April 19th, 1893. I left the amount of costs unfinished, in order to obtain from pl’ff’s counsel the amount of witness and subpoena fees on the part of pl’ff, in order to include them in the judgment, being of the impression that they should be included in the judgment, and not obtaining the information desired from pl’ff’s counsel in reference to said witness and subpoena fees, I thereupon, and on the 19th of April, 1893, finished the item for filing papers by inserting 24 as the number of papers filed, and $1.20 as the total for filing papers, and also at the same time entered among tlie items of cost the items for serving-summons, $3.25 ; and immediately footed up the costs and arrived at the sum of $7.95 as the costs of the action included in the judgment, and arrived at the sum of $48.61 as the total amount of the judgment against the plaintiff.” "When the justice on the eighteenth rendered a decision upon the merits and made his entry of judgment for the amount of the damages, a valid judgment was rendered against the plaintiff, and it was beyond the power of the justice to invalidate the same by adding costs thereto on the following day. We think the facts in relation to the acts of the justice bring the case within the rule laid down in Dauchy v. Brown (41 Barb. 555). In that case it was held that certain alterations did not make the judgment void; that being “ made after the time limited by statute for the justice to render judgment and enter it in his docket, they were clearly void acts, as much so as if they had been done by a stranger. Being void, they could not affect the judgment.” We are entirely satisfied with the opinion of the court, delivered by James C. Smith, J., and we think the authorities cited in the opinion fully sustain the conclusion reached.
+Appellant calls our attention to Putnam v. Van Allen (46 Hun, 492; S. C., 11 N. Y. St. Repr. 855). We think that case differ» from the one before us. In that case the trial was had before a jury and a verdict was rendered for the defendant on October 1, 1885. In that case the justice did not write “Judgment” opposite the total of the items of costs, and upon the facts disclosed it -was held that his acts on the fifth of October were without authority, and that the judgment attempted to be entered on that day was clearly void “ as having been rendered not forthwith after the verdict but, '* * * at a time when the justice had" no right to render any judgment.” In the course of the opinion delivered by Williams, J., he said: “ This judgment appealed from was clearly void as having been rendered, not forthwith after the verdict,'but four days later, at a time when the justice had no right to render any judgment.” And that judge further said, in the course of his opinion, “that no judgment was rendered or entered October 1, 1885.” The case, therefore, differs essentially from the one in hand.
+The principal question involved in this appeal is carefully discussed in the opinion of the learned county judge, and we are satisfied. witli the views he there expresses, and for the reasons therein stated, as well as upon the views we have already expressed, we are of the opinion that the action of the County Court ivas proper.
+The judgment of the County Court of Lewis county should be affirmed, with costs.
+Merwin and Parker, JJ., concurred.
+Judgment of the County Court of Lewis county affirmed, with costs.
