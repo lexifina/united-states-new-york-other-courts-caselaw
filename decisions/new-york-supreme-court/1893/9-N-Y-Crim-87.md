@@ -1,0 +1,56 @@
+---
+court: "New York Supreme Court"
+decided: "1893-12"
+citations: ["9 N.Y. Crim. 87", "56 St. Rep. 201", "73 Hun, 534"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. BENJAMIN VAN ZILE."]
+source_url: "https://static.case.law/ny-crim/9/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1171546
+---
+
+# People v. Van Zile
+
+## Majority (DYKMAN, J.)
+
+DYKMAN, J.
+The defendant in this prosecution was indicted by the grand jury of Kings county in October, 1891, for the crime of abortion.
+The indictment contained two counts, one charging the use of instruments for the procurement of an abortion, and one charging the prescription and administration of drugs to procure the same result.
+. The indictment charges the commission of the offense on the 9th day of December, 1889.
+The defendant was tried at the court of oyer and terminer in Kings county, in February, 1893, and the jury rendered a general verdict of guilty.
+A careful examination of the testimony leaves no reasonable doubt of the guilt of the defendant.
+While it is true that the evidence is circumstantial and leaves the question of guilt to be determined by inferences drawn from established facts, yet the facts proven are not only entirely inconsistent with the innocence of the defendant, but they can be reconciled upon no theory except that of his guilt.
+The law under which the defendant, was indicted and convicted is this: “ Any person who, with intent thereby to pro-
+cure a miscarriage of a woman, unless the same is necessary to prolong the life of the woman or the child with which she is pregnant, either, first, prescribes, supplies or administers to a woman, whether pregnant or not, or advises or causes a woman to take any medicine, drug or substance ; or, second, uses or causes to be used any instrument or other means, is guilty of abortion and is punishable by imprisonment in a states prison for not more than four years, or in a county jail for not more than one year.” Section 294 of the Penal Code.
+Under this statute the crime is perpetrated either by prescribing, supplying or administering to a woman, whether pregnant or not, any medicine, drug or substance with intent thereby to procure a miscarriage, or advising or causing a woman to take any medicine, drug or substance, unless the same is necessary to prolong the life of the woman or the child with which she is pregnant. Or, second, using or causing to be used any instrument or other means to accomplish the same result.
+In this case the evidence tended to prove the defendant guilty, under the first part of the statutory inhibition, of prescribing medicine and drugs with intent to procure a miscarriage.
+It will be sufficient, therefore, for the justification of this conviction if the evidence was sufficient to prove that the defendant gave the prescription set out in the case for the purpose of causing a miscarriage, because the second count in the indictment contains that charge, and the verdict was general. An outline of the material facts is this:—On the eighth day of November, 1889, Howard S. Terrell went to the office of the defendant, who was a practicing physician in the city of Brooklyn. Terrell was accompanied by a young woman, named Lillie L. Cook, and the object of his visit was to procure an examination of the young woman by the defendant to determine whether she was pregnant. The visit had been previously arranged between Terrell and the defendant, except that no time for it had been specified. The defendant made an examination of the girl, pronounced her pregnant, and advised Terrell to marry her.
+For that examination the defendant charged and received twenty-five dollars. Three days after that and on the eleventh day of November, 1889, the' defendant and Terrell met at Munson’s drug store in the city of Brooklyn and after a conversation in the corner which was not heard by the clerk, the defendant asked for pen, ink and paper, and wrote a prescription whicli he gave to the drug clerk and said, put it up and give it to this young man, meaning Terrell, and the clerk did so.
+The prescription specified several drugs which were required to be compounded, and made into twenty capsules, one of which was to be taken after each meal.
+Such compound was pronounced by a professor of materia medica to be an abortive mixture.
+On the 19th day of December, 1889, Lillie L. Cook had a miscarriage, and at her request her sister went to the office of the defendant and left a request for him to call at the house, and he came there about -eight o’clock in the evening. When he reached the room the following conversation ensued, according to the the testimony of the defendant: The girl said,
+“You don’t remember me, and I says no, who are you? and she says ‘ I am the girl that Terrell had at .your office,’ and I say's, 1 What is your trouble ? ’ and she said, ‘ I am all through my trouble.’ ‘When did it occur?’ and she says, ‘Last night.’ ”
+The girl died on the 2oth day of December, 1889, and in the evening before her death Doctor Topham, the family physician, was called in at the request of the mother of the girl, and the following conversation ensued between him and the defendant, according to the testimony of Doctor Topham : “ Q. What was the conversation, please? A. He, Van Zile, told me that he had been called into the case, I think the Thursday previous, and that she had been getting rapidly worse, and was now in a very bad condition. He did not seem to understand what the matter, what the trouble was. Q. Did he say so ? A. He said so.”
+On the night of the girl’s death the defendant fled from the city and remained absent about three months, but before he left he called upon Munson, the druggist, and informed him that the girl had died, and lie thought if Munson would lend him $250 he could pay the funeral .expenses and satisfy the mother and settle with her in that way.
+This general statement is amply sufficient to show that the jury was justified in finding the defendant guilty of making the prescription with intent to produce a miscarriage.
+In fact, the guilt of the defendant becomes so evident upon an examination of the record, that no doubt remains upon that subject.
+It becomes necessary now to examine the legal questions raised by the defendant at the trial and again upon this appeal.
+When the assistant district attorney was about to open the ease for the people, the counsel for the defendant requested the court to direct him to omit from his opening any reference to any former trial of any one in respect to this case. The request was denied, and the counsel for the defendant excepted.
+Then the assistant district attorney proceeded with the opening and stated that the defendant had been jointly indicted with Terrell, and upon the trial of the latter, the defendant became a witness for him. That the indictment, upon which Terrell was tried, contained but one count charging that the abortion had been committed by means of mechanical appliances, but upon the trial it was disclosed that the defendant had given a prescription which was.to aid in producing the abortion, and then it became necessary to reindict the defendant.
+That now the defendant was charged in two counts with having brought about the abortion by means of mechanical appliances, and also with giving a prescription for the purpose of bringing about the abortion that was successfully brought about upon the person of Lilly L. Cook.
+blow it is claimed that such opening was erroneous and violative of the legal rights of the defendant to a fair and impartial trial..
+It is to be observed, preliminarily, that there is no legal rule for the measurement of an opening either in a criminal or civil action.
+It is the legitimate office and purpose of an opening in a criminal action to give the charge against the accused and the evidence to be presented by the public prosecutor to establish the commission of the crime and its perpetration by the -defendant.
+Its scope and extent must be controlled by the trial judge in the exercise of a wise discretion, and it would require a plain violation of the rights of a defendant to induce an appellate tribunal to reverse a conviction for an erroneous opening for the prosecution.
+What is said in an opening has no binding force and it is designed only to give a general acquaintance with the case to enable the jury to understand and appreciate the testimony as-it falls from the lips of the witnesses.
+The complaint here is against the statement in the opening of any connection between the defendant and Terrell in relation to the abortion.
+But it was the intention and the right of the public prosecutor to establish the complicity of the defendant with Terrell, and, therefore, he had the right to state it fully. Also it was his intention to read to the jury the testimony of the defendant given voluntarily upon the trial of Terrell, and, therefore, it was proper in the opening to state that Terrell had been previously tried. Also as it was a fact that the defendant had been reindicted, it was proper to state that as a reason why he was now tried for giving the prescription and producing the miscarriage. We, therefore, fail to detect any error in the opening.
+Neither was it erroneous to take proof of the death of the girl from miscarriage. It was a part of the history of the case, and may well have had a legitimate bearing upon the effect of the examination of the girl by the defendant.
+He said in his testimony that he used a sponge, and the effect of such use was in question all through the trial.
+Even the disclaimer of the assistant district attorney for which thé defendant contends does not include the use of the sponge. But the disclaimer seems to have been misunderstood. The disclaimer was of any insistance that the abortion was produced by a puncture of membraneous sack of the womb.
+A physician was permitted to say that he would look for a miscarriage -if the whole prescription of the defendant was taken at one dose, but that was after he had said the doses prescribed were too small. We do not think the testimony erroneous, any testimony respecting the effect of the medicine prescribed by the defendant was relevant.
+The exceptions to the charge of the court and the refusals to charge have all received careful examination, and we find no question raised by them sufficiently serious to require a separate examination.
+They present no error, and we find none in the record.
+The trial was full and fair and the conviction should be affirmed.
