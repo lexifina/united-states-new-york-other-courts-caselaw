@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-12-10"
+citations: ["21 N.Y. St. Rep. 118"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. Merritt Collyer, Resp’t, v. George B. Collyer, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017596
+---
+
+# Collyer v. Collyer
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+This is an action for slander. The complaint charges that defendant uttered the following words, concerning the plaintiff, “ He and Steve got my nephew whom I left in charge of the house drunk, and they went through the house and stole my sister Elizabeth’s will and other papers. ” On the trial, the plaintiff was permitted to amend by adding after the"word stole, the words “anddestroyed,” to which exception was taken. We think the complaint was sufficient without the amendment.
+The defendant characterized the act as larceny, and by including the words “ other papers,” with the word “ will,” it is plain that if a larceny can be predicated upon the felonious taking of any papers, the charge was complete. It was not necessary that the defendant should specify precisely what papers, as by describing' the act as a theft, he must be presumed to have charged it in respect to papers that could be the subject of larceny.
+It is not. therefore, necessary to decide whether a will can never be the subject of larceny, as the charge included other property, and by not so far explaining as to show that the act charged, referred to papers that could not be the subject of larceny, the defendant did charge the plaintiff with a crime.
+It is claimed, however, that the verdict was rendered under the judge’s charge for words imputing another offense which had been added to the complaint upon the trial.
+The action was brought for words spoken upon a certain occasion, stated in the complaint.
+The amendment related to the subject-matter under investigation. It did not seek to set up a new cause of action or refer to any other occasion or charge, than that described in the complaint.
+The reason why amendments which change the cause of action are not permitted upon the trial, is that a party may be surprised and unable to meet the changed aspect of the -case
+1 The reason of the rule fails in this case, as no surprise could be claimed by defendant. But under section 723 of the Code of Civil Procedure, the court had the power and properly exercised its discretion to allow the amendment.
+It is not essential to constitute slander, that the charge must be of an offense at common law; it is sufficient that the charge, if true, would subject the party slandered, to indictment. By reading sections 110, '718 and 528 of the Penal Code, it is clear that the words charged a crime, and were slanderous per se.
+The verdict is fully sustained by the evidence, and the judgment must be affirmed with costs.
+Barnard, P. J., concurs; Dykman, J., not sitting.
