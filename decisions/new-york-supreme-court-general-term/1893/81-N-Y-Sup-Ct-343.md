@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-12"
+citations: ["81 N.Y. Sup. Ct. 343"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayham, P. J., and Herrick, J., concurred."]
+parties: ["William A. Chrigstrom, as Trustee, etc., Respondent, v. George McGregor, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/81/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4712356
+cites_cases: ["15 N. Y. 303", "28 N. Y. St. Repr. 641", "4 Johns. Ch. 113"]
+---
+
+# Chrigstrom v. McGregor
+
+## Majority (Putnam, J.:)
+
+Putnam, J.:
+This is an appeal from a judgment of the County Court of Clinton county affirming a judgment of a Justice’s Court in favor of plaintiff. The action was brought to recover a school district tax assessed against tire defendant which he neglected and refused to pay. It Is not denied that defendant was a resident of the school district and that he had sufficient personal property in his possession therein out of which the tax could have been collected. The collector levied on sufficient property and advertised the same for sale. The defendant forbade the sale, and there being no bidders, the collector returned the warrant uncollected.
+Section 86, chapter 555, Laws of 1864, as amended, provides as follows: “ Section 86. If the sum or sums of money payable by any person named in such tax list, shall not be paid by him, qi- collected by such warrant within the time therein limited, it shall and may be lawful for the trustees to renew such warrant in respect to such delinquent person; or in case such person shall not reside within their district at the time of making out a tax list, or shall not reside therein at the expiration of such warrant, or in ease the property assessed be real estate belonging in an incorporated company, and no goods or chattels can be found whereon to levy the tax, the trustees may sue for and recover the same in their name of office.”
+In a note contained in the Code of Public Instruction, prepared ■under the supervision of State Superintendent Draper in 1887,. it is .said: “ The latter clause of the above section, giving the trustees the right to sue, is confined to those persons who do not reside within the district at the time of making out the list, or who shall .have ceased to reside therein at the expiration of the warrant, or to •corporations having real property upon the tax list.” (Code of Public Instruction, page 366, note.)
+It will not be claimed that the above-quoted section of the statute •authorizes this action.
+A school district is a quasi corporation, with some powers conferred by statute not generally possessed by such corporations. (2 Kent’s Comm. 278.) Such a corporation can exercise no powers beyond those conferred by statute, or which by necessary inference arise therefrom. (21 Am. & Eng. Ency. of Law, 800.)
+Here the defendant lived in the district, and concededly had sufficient goods and chattels therein to satisfy the tax. There is no statutory provision to sustain an action to collect a tax under such circumstances. On the contrary, section 86, chapter 555, Laws of 1864, as amended, above quoted, impliedly prohibits such an action. It authorizes an action to collect a tax against a non-resident of the district, or in case the property assessed be real estate of a corporation and no goods or chattels can be found whereon to levy the tax, and thus impliedly forbids an action. This seems to be the proper construction of the statute. Expressio unius exolusio alterius. (Wait v. Wait, 4 Comst. 100, 101; Flatter of Washburn, 4 Johns. Ch. 113, 114.)
+We do not think that section 1926 of the Code of Civil Procedure confers upon plaintiff a right to maintain this action. The effect of that section was not to create newr causes of action, but to confer upon the trustee a right to maintain, i/n his own name, an action upon existing causes of action, in favor of the body represented by him, or of his predecessor, or on contracts made by him. It was not intended to give the trustee power to maintain an action where no cause of action existed at the time of the enactment of said section. We think that no such cause, of action as set out in the complaint herein then existed, because the statute did not authorize, but, on the contrary, impliedly prohibited the maintenance of such an action.
+The case of Torrey v. Willard (28 N. Y. St. Repr. 641) is not a parallel one. That action was commenced by the trustees of a union free school. The board of education of a union free school is a corporation proper, and not a quasi corporation, like the trustees of the ordinary school district. The distinction between the two corporations is pointed out in Bassett v. Fish (15 N. Y. 303-311). The statutory provisions as to the two kinds of corporations are not the same. And, hence, the case cited is not an authority here. A union free school, being a corporation proper, can maintain an action upon any liability, express or implied, under the general powers conferred on corporations. The plaintiff, however, represents a quasi corporation, and can only maintain an action which is expressly authorized by statute. No cause of action exists in his favor unless expressly authorized.
+Again, in the case cited it appears from the statement in the opinion that the collector was justified in returning the process, being unable to collect the amount from the defendant. In this case it appeared that defendant had ample property from which the collector could have collected the tax, and, hence, he was not justified in returning the warrant uncollected. He had an actual levy on the property. We do not regard the fact that defendant forbade, the sale as an excuse for the collector’s neglecting to perform his. duty.
+In Torrey v. Willard (supra) it was held that, although there was no authority for the actiqn, a common-law action could be maintained on the ground that there being an obligation to pay the tax, the law implied a promise to pay it. In this case we could hardly hold that a common-law action could he maintained in the face of the statute, which, as we have seen, impliedly prohibits such an action.
+Without considering the other questions raised by the parties, we think the judgment of the court below should be reversed, with costs in this court and in the County Court.
+Mayham, P. J., and Herrick, J., concurred.
+Judgment reversed, witli costs in this court and in the County Court.
