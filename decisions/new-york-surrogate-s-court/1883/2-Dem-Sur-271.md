@@ -1,0 +1,30 @@
+---
+court: "New York Surrogate's Court"
+decided: "1883-11"
+citations: ["2 Dem. Sur. 271"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rauchfuss v. Rauchfuss. In the matter of the judicial settlement of the account of Louis Rauchfuss, as executor of the will of Gustavus Rauchfuss, deceased."]
+source_url: "https://static.case.law/dem-sur/2/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1137287
+cites_cases: ["1 Dem., 180", "33 N. Y., 561", "43 N. Y., 521"]
+---
+
+# Rauchfuss v. Rauchfuss
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+Three questions are submitted, for the determination of the Surrogate, upon the settlement of this account: First.—The testator left him surviving several children, for all but one of whom he makes provision by his will. His son Gustavus is expressly excepted from its benefits. He directs that, upon the coming of age of his “ youngest child,” all his real estate shall be sold. “ The proceeds thereof,” he says, “shall be divided equally between all my children, share and share alike, except my son Gustavus Rauchfuss who shall not receive any part of my estate.
+By a subsequent clause of the will, provision is made for the division of refits of the real property during the “youngest child’s ” minority. These rents are directed to be divided among all the testator’s children, share and share alike, excepting again his son Gustavus, “who shall receive,” he says, “no part of my said property.”
+The first question presented for my determination is the following: Is Gustavus debarred by these words of exclusion from sharing, as one of his father’s next of kin, in the distribution of any assets as to which the decedent may have died intestate % The will contains no general bequest of his personalty, and names no residuary legatee. By one of its clauses, his stock in trade, in the business which he carried on in his lifetime, is bequeathed upon certain conditions to his son Louis. By another clause, Ms widow is given Ms household furniture, paintings, pictures and library. There is no bequest of personalty except as above indicated., But it appears, by the account of the executor, that the testator died possessed of certain other personal estate, which is valued at the sum of $8,839.53.
+As to tMs property, it is plain that the decedent died intestate. I hold that it must be distributed (after certain deductions, wMch will be specified hereafter) among all Ms next of kin, not excepting Ms son Gustavos. The question whether, under the circumstances here disclosed, Gustavos must share in the unbequeathed portion of decedent’s estate does not, as it seems to me, differ from the question which would have arisen if the decedent had made no disposition whatever of any part of his property, but had simply provided that Gustavus should have no share therein. It has been repeatedly held that such words of exclusion in a will are utterly ineffectual, unless the testator supplements them by some disposition of his property.
+In Lynes v. Townsend (33 N. Y., 561), the court says: “Merely negative words are not sufficient to exclude the title of the heir or next of kin. There must be an actual valid and effectual gift to some other.”
+In Pickering v. Lord Stamford (3 Vesey, 492), the Lord Chancellor declares: 6 6 Neither an heir at law nor, by parity of reasoning, next of kin can be barred by anything but a disposition of the heritable subject or personal estate, to some person capable of taking. Notwithstanding all words of anger and dislike applied to the heir, he will take what is not disposed of. It is impossible to make a different rule as to the personal estate, with regard to what is not disposed of. Here is a legal intestacy.”
+That it is improper to force the construction of a will in order to prevent a conjectural intention from being defeated, see, also. Wing v. Angrave (8 H. of L. Cas., 183).
+I find, therefore, that the contestant Gustavus is entitled to share in the personal property as to which his father died intestate. But out of that sum, before it is distributed among the next of kin, must be made certain deductions—to wit, the commissions and expenses of the temporary administrator, $415.74; the funeral expenses, $190; the costs of contested probate proceedings, $551.02; the advertising for claims, $60; anda debt mentioned in schedule B., $13—amounting in all to $1,229.76. There must also be deducted the costs and expenses of this accounting.
+Second.—The decedent, at the time of his death, was indebted to one Maxwell in the sum of $6,000, thebalance of the principal sum of a bond which in his lifetime he gave to said Maxwell conditioned for the payment of $20,000 and interest, and secured by a mortgage on the premises No. 44 east twelfth street.
+This mortgage must be paid out of the proceeds of the house and lot, when the same shall be sold, and not out of the personalty as to' which the decedent died intestate (Erwin v. Loper, 43 N. Y., 521, 525).
+Third.—Anna Rauchfuss, one of the testator’s children, died intestate on the 17th day of May, following the death of her father. She left no issue. Gustavus claims that,' as heir and next of kin of his sister, he is entitled to share with his brothers in her interest in this estate. It is claimed by the counsel for the executor that the representatives of the deceased daughter have no. interest in the real estate or its proceeds. In Lyons v. Mahan (1 Dem., 180), I held that the right of one situated like decedent’s daughter, Anna, vested at the time of testator’s death. When Anna died, Gustavus, as one of her next of kin, became entitled to a portion of her estate. The share of the rents which she might justly have claimed, had she lived, should be delivered to her administratrix, to whom also should be paid, whenever the realty shall be sold, such portion of the proceeds thereof as her decedent would have taken if living.
