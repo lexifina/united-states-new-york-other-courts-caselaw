@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1848-01"
+citations: ["5 Denio 161"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Camp vs. Morse."]
+source_url: "https://static.case.law/denio/5/cases/0161-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1881417
+cites_cases: ["20 John. 15", "3 Wend. 249", "7 Wend. 129"]
+---
+
+# Camp v. Morse
+
+## Majority (By the Court, Whittlesey, J.)
+
+By the Court, Whittlesey, J.
+The second special plea to which a replication has been put in seems to present substantially a good defence to the declaration. In Robb v. Montgomery, (20 John. 15,) it is said that if the party whose .duty it is to pay, offers to do so, on receiving a good title, it must be made to him or the contract will be rescinded. This plea seems to have been drawn according to the doctrine of that case. The contract, by its terms, had long since expired. All the payments had been due for several years, and the vendor might have demanded.the whole purchase money by tendering a deed. And the vendee might have demanded a conveyance on tendering payment. The vendee takes the first step by demanding a conveyance and tendering payment. In such cases it is understood that the vendee is not bound to prepare a conveyance and tender it for execution, but he may demand the execution of a conveyance, offering payment, and after a reasonable time had elapsed upon a second demand, if a conveyance has not been prepared, he may consider the contract broken. While it is not the duty of the vendee to prepare the conveyance, still he may do it for the purpose of expediting the result and tender it for execution, and thus the vendor must determine more speedily than in the other case. (Fuller v. Hubbard, 6 Cowen, 13; same case 7 id. 53; Hackett v. Huson, 3 Wend. 249; Connelly v. Pierce, 7 id. 129; Blood v. Goodrich, 9 id. T9.) ,
+In this case the plea avers the preparation of a conveyance according to the requirements of the contract; a demand of its execution with an offer to pay and a refusal to execute such conveyance or any conveyance. This is clearly a good answer to the defendant’s .liability on the agreement. And though this plea might be bad for duplicity if the objection was taken to the plea itself by special demurrer, yet as the plaintiff instead of demurring for this cause, has replied, this defect in the plea, if it exists, cannot be urged here.
+The- replication hardly furnishes a good answer to the second plea. It is not material that the plaintiff, when he contracted to sell to the defendant, had not a legal title, but only an agreement, for a title, or that the defendant knew that fact. If the fact was so, it was the duty of the plaintiff to have perfected his legal title, as doubtless he expected to do, by the time he was required to convey to the defendant by his contract with him, or some four years after the date of such contract. All that the defendant could require was that the plaintiff should be .able to give him a good title, and actually give him one after all the payments had become due, upon his making such payments. After that time the defendant had a right at least to a conveyance upon offering to pay the whole of the purchase money. Tbeplaintiff, upon thedeed being tendered to him'forexecution, had doubtless a right to keep it a sufficient time to see that it comported with the contract, &c. but he certainly was hot entitled to time to get the title from some other person with whom he had contracted. To obtain it might require a long litigation in chancery, for the termination of which the defendant could not be compelled to wait. While it is possible the plaintiff might be allowed some little time to execute the deed, yet the reasons given in the replication for not executing it at once, are not good legal reasons, and hence the demurrer to the replication appears to me to be well taken. If the replication had merely averred that the deed was executed and tendered in a reasonable time, it might have been sufficient and have offered a proper issue; but when this averment is coupled with the allegation that he procured the conveyance from his grantor in a reasonable time, the question would probably be put to the jury as to the reasonableness of the time for obtaining the deed from the grantor, when the true question would or should be as to the reasonableness of the time for delivering the deed simply, disconnected with the time for obtaining it.
+To the third plea of the defendant there is a demurrer by ihe plaintiff. I think this plea is double, inasmuch as it sets up an offer to perform on the part of the defendant, and a want of title in the plaintiff, and also an encumbrance by mortgage. (Connelly v. Pierce, 7 Wend. 129.) This objection is assigned as a cause of demurrer.
+I think, therefore, that there should be judgment for the defendant on the demurrer to the replication to the second plea, and for the plaintiff on the demurrer to the third plea.
+Ordered accordingly.
