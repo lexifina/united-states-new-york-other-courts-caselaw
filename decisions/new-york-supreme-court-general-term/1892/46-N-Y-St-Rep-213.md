@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-07-02"
+citations: ["46 N.Y. St. Rep. 213"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People, Resp’ts, v. Joseph Davis, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084264
+cites_cases: ["38 St. Rep., 997"]
+---
+
+# People v. Davis
+
+## Majority (Mayham, P. J.)
+
+Mayham, P. J.
+The defendant was convicted of grand larceny,, second degree, in stealing a watch. The facts relied upon to prove the larceny and the guilt of the defendant are stated by the complainant in his testimony substantially as follows: Complainant was tending bar, and at the same time doing work as a carpenter in a. saloon of his brother-in-law in Cohoes.
+Defendant came in, and asked for a drink, which was refused; complainant then walked into a closet, and hung-up his vest, the pocket of which contained his watch; defendant followed complainant into the closet but came out immediately after complainant, and soon left, the saloon. About twenty minutes after placing his vest in the. closet the complainant went and got it and started for home, not noticing whether or not the watch was in the pocket, and after traveling about 2,000 feet he missed the watch. No further affirmative proof was offered by the People. The defendant was sworn in his own behalf and denied taking or knowing anything about the watch.
+At the conclusion of the evidence on the part of the People and also at the conclusion of all the evidence the counsel for the defendant asked the court to discharge the prisoner on the ground that the evidence was insufficient to warrant the submission of the same to the jury. The court denied the motion and the defendant’s counsel duly excepted. And the judge thereupon charged the jury. To some portions of the charge the counsel for defendant excepted. The jury rendered a verdict of guilty. The counsel for defendant thereupon moved for a new trial pursuant to § 465 of the Code of Criminal Procedure on the-ground:
+First: That the substantial rights of the defendant had been prejudiced.
+Second : That the court misdirected the jury in matters of law.
+Third: That the court refused to instruct the jury as prescribed by § 420 of the Code of Criminal Procedure. The court thereupon rendered judgment of conviction and sentenced the prisoner to the state prison for four years and three months,"from which conviction and sentence the defendant appeals. The counsel for the appellant now insists that the evidence is too slight to justify a conviction and that if the jury had fairly applied to this case the rule of law that gives to a prisoner accused of crime the benefit of every reasonable doubt, they would have acquitted the defendant.
+That question, however, is always one for the jury under proper instructions from the court; and the jury were we think fully and fairly instructed upon that point by the learned trial judge. And ■when there is evidence upon which the jury might or might not entertain rational doubt, it is not for the court on appeal to say the jury should have doubted and given the defendant the benefit of that doubt by his acquital. Such a determination on appeal would transfer from the jury to the court the domain of doubt, and render any instruction upon that subject by the court to the jury useless.
+Again, it is urged that the evidence fails to establish the corpus delicti. We think not. The proof shows that the complainant owned and had in his possession a watch. That watch was, without the knowledge or consent of the complainant, taken out of his possession and carried away or concealed by some active agency. It could not have gotten away from him without assistance. Such taking or removal from the possession of the owner, without his knowledge or consent, followed by concealment, was evidence of larceny. It proved that a crime had been committed, and thus established the corpus delicti. True, that alone did not prove who committed the crime; only that the crime had been committed. Who committed it ? The People relied upon the circumstances that the defendant was in a position to have committed it, and that no other person was in a situation to have done so. That reliance was wholly upon circumstantial evidence; and upon that kind of evidence the trial court made the remark to which the learned counsel for the defendant took an exception, which he argues here as a ground of reversal of this conviction.
+We think the trial judge laid down the proper rule upon that subject, and that he did not overestimate the force and effect of that kind of evidence; qualified as his remarks were in his charge upon that subject. It is true that circumstances do sometimes mislead and point to an erroneous conclusion, but they sometimes point with unerring certainty to the truth. And we do not think that the rule was erroneously stated by the trial judge. Mor do we think the judge’s reference to the former conviction of the prisoner for some other crime error. Doubtless the jury in construing the circumstances and weighing the credibility of the defendant as a witness take that into the account.
+It is also urged that the re-sentence of the prisoner was erroneous. This was done so that the termination of the period of imprisonment might be at the season required by § 697 of the Penal Code. It was a proper exercise of authority, and we think the absence of the prisoner’s counsel worked no wrong.
+He was not deprived of counsel, nor were his rights in any way prejudiced or jeopardised by the absence of counsel at that stage of the proceeding. It was not a violation of § 8 of the Code of Criminal Procedure. People v. Trimble, 38 St. Rep., 997.
+The conviction must be affirmed.
+Putnam and Herrick, JJ., concur.
