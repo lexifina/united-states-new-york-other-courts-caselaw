@@ -1,0 +1,22 @@
+---
+court: "Buffalo Superior Court"
+decided: "1895-07-30"
+citations: ["69 N.Y. St. Rep. 154"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles A. Adolff, Resp’t, v. Catharine Schmitt, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/69/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2119277
+cites_cases: ["27 St. Rep. 678", "44 N. Y. 349"]
+---
+
+# Adolff v. Schmitt
+
+## Majority (Titus, C. J.)
+
+Titus, C. J.
+The defendant is the wife of Henry Schmitt She is the owner of the premises, fixtures, and everything in the house at 992 Broadway, in this city, and has been since May, 1892. She has made application each year since that time to the board of excise for a license to sell strong and spirituous liquors at her place, and taken a license in her name, and paid for the same. She also paid the special tax to the internal revenue office, and took a receipt in her name, and for a time conducted the business herself. Her husband, Henry Schmitt, had his sign over the door for a greater part of the time since 1892, and has been in the saloon, managing the business as though he was proprietor, buying liquors, and selling the same over the bar. He had no license to sell liquor in his name, and whatever was done by him in the business was done under the license held by his wife, the defendant. The plaintiff in May, 1892, and since that time, has sold liquors to Schmitt, gave him a pass book, and supposed he was the owner and proprietor of the business, and did not learn anything to the contrary until some time before the commencement of this action against the defendant. In the applications for licenses during this period the defendant states that she is the only person actually beneficially interested a§ owner and engaged in the business aforesaid in which said licenses were granted. The defendant was living in the house, with her husband, where the business was canned on, and spent a portion of her time in waiting upon customers. The business was carried on and all the bills for goods were paid cut of the profits earned in the selling of liquor. The husband, however, claims that the business is his, and not the defendant’s. There is considerable evidence in the case, but nothing which contradicts this statement of facts ; and the ease was submitted to the jury, and they found a verdict in favor of the plaintiff for the amount of his bill.
+It is not clear how the husband can, as a matter of law', claim he only is liable to the plaintiff; for, according to his own statement, the defendant owned everything,—real estate, fixtures, and money, if there was any. Because he is there, managing the business, with the help of his wife, the defendant, it does not follow by any means that she was the real owner. If a judgment was obtained against him for his individual debt, there could be no question from the evidence but that the defendant’s property and the proceeds of the business could not be reached on an execution issued on such a judgment, for the reason that the property and business is hers, and not his. The plaintiff, not knowing the real owner of the business when he sold the goods, may, when he discovers it, bring an action against the true owner. But the fact that Schmitt claims to be the owner does not alter the case. He is undoubtedly individually liable to the plaintiff, because he did not disclose the real owner; but the principal is nevertheless liable as well. Meeker v. Clayhorn, 44 N. Y. 349; Coleman v. Bank, 53 id. 388: Kayton v. Barnett, 116 id. 625; 27 St. Rep. 678.
+The court submitted the question of Schmitt’s agency to the jury on the evidence which warranted the verdict, and it is difficult to see how any other conclusion could have been reached. 1 think the judgment should be affirmed, with costs.
