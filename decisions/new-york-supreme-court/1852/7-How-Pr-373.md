@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1852-12"
+citations: ["7 How. Pr. 373"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Graham agt. Van Wyck and others."]
+source_url: "https://static.case.law/how-pr/7/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2193212
+---
+
+# Graham v. Van Wyck
+
+## Majority (Barculo, Justice.)
+
+Barculo, Justice.
+The rights of the parties depend somewhat upon the effect which is to be given to a deed executed by Caroline Van Wyck on the 4th day of March 1850. By that instrument she, for the consideration of one dollar, granted and released, so far as she could, to her husband, Theodore Van Wyck, all her dower right in and to “ all the real estate” owned by her said husband. That this deed was inoperative at common law, is too plain to require discussion. If it has any vitality it derives it from the act “ for the more effectual protection of the property of married women,” passed April 7, 1848. By the 3d section, as amended in 1849, it is provided that “ any married female may take by inheritance or by gift, grant, devise or bequest, from any person other than her husband, and held to her sole and separate use, and convey and devise real and personal property and any interest or estate therein, and the rents, issues and profits thereof, in the same manner and with the like effect as if she were unmarried.” This language certainly admits of ^the construction claimed for it by the defendant. But I am hardly prepared to believe that the legislature could have intended so violent an innovation upon the existing law. If this deed is permitted to stand, this lady will have conveyed to her husband, shortly before his death, all the interests in his property which could enure to her benefit as his widow, without, so far as I can discover, receiving any thing in return. If such is the effect of this statute, it will be found to contain a new mode “ for the more effectual protection of the property of married women.” I think the safer and more reasonable construction will restrict her right to convey { to persons other than her husband. This will harmonize with the preceding part of the section, which permits her to take from any person other than her husband, and will preserve, to some extent, that invaluable principle of the common law, by which husband and wife are regarded, during coverture, as one person, incapable of contracting with and conveying lands to each other.. The legal presumption that she was sub potestate viri, at this execution of the release, is not repelled or weakened by the fact shat she now, being free, comes into court and repudiates her former act.
+The decree of sale must, therefore, make the usual provision for her dower right.
+In regard to the infants who have no general guardian, and the lunatic who has no committee, their shares must be paid to the county treasurer of Dutchess county, to be invested and accumulated, until the further order of the court.
