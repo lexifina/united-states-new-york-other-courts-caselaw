@@ -1,0 +1,24 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1869-12"
+citations: ["3 Daly (N.Y.) 105"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary J. Mooney, an Infant, &c., v. The Hudson River Railroad Company. Impleaded, &c."]
+source_url: "https://static.case.law/daly-ny/3/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1302385
+cites_cases: ["1 Denio, 158", "1 Sandf. 11", "11 Barb. 310", "15 How. 18", "17 Wend. 87", "22 How. Pr. 364", "23 Wend. 377", "31 How. Pr. 123", "5 N. Y. 69", "7 Cow. 366"]
+---
+
+# Mooney v. Hudson River Railroad
+
+## Majority (Daly, F. J.)
+
+By the Court
+Daly, F. J.
+Issue was joined, neither party demanding a jury, and the cause was adjourned for trial. Upon the adjourned day both parties appeared, and when the cause was called, answered that they were ready, whereupon the judge, of his own motion, decided that the cause should be tried by a jury, and, for that pm*pose, adjourned the cause to a farther day, the defendant excepting upon the ground that neither party had asked for a jury upon the joining of issue and before the adjournment. Upon the day fixed by the justice, both parties appeared, and the cause was tried by a jury, who found a verdict for the plaintiff.
+There is no authority for the trial of a cause in the Marine Court by a jury unless a jury is demanded by one of the parties after issue is joined and before the ccmse is adjourned (Laws of New York, 1812, p. 177, § 1). No jury having been demanded by either party, it was the duty of the justice, when the parties appeared upon the adjourned day, to proceed and try the cause himself, under the provisions of the 122d section of the Act of 1813 (2 Rev. Laws of 1813, p. 388), which declares that upon the return of the summons, or upon the appearance of the defendant, or at such other time as the court shall deem meet and convenient, not exceeding six days thereafter, the court shall proceed to hear the proofs and allegations of the parties, and shall, within four days thereafter, give them judgment thereon in such manner as shall appear to the court to be agreeable to law and equity. When this section was enacted, two justices were required to hold the court, but by the Act of 1818 (Laws of New York, 1818, p. 287, § 1), any one of the justices may hold the court, and hear, try, and determine all causes. The Marine Court is declared, by the statute creating it, a court of record; but that is only for the purpose of exercising the powers which have been expressly conferred upon it, and that it is not, and was not intended to be, a court of record in the strict legal sense of the term, like courts exercising a general common law jurisdiction, is apparent from the statutory provisions, which at the creation of the court, and from time to time, have been enacted respecting it (Huff v. Knapp, 5 N. Y. 69; Ford v. Babcock, 1 Denio, 158; Wheaton v. Fellows, 23 Wend. 377). In other words, it is a court of limited and special jurisdiction,. deriving its powers solely from the statutes that have been passed relating to it, and these statutes having declared that any one of the justices may hear, try, and determine causes, and having made provision for a trial by a jury only where either of the parties demand one, within a prescribed time, a trial by jury in that court can take place only in the way which the statute has provided.
+It was no waiver of the objection that the defendants after-wards appeared and tried the cause before the jury (Avery v. Slack, 17 Wend. 87; Belden v. N. Y. & Harlem R. R. Co.,15 How. 18; Robinson v. West, 11 Barb. 310). Tkeplaintffi did not require them to submit the decision of the cause to a jury. They did not desire it themselves, and yet the justice, without any authority, would not allow,the cause to be tried in any other way. He would not recognize the right which the law gave them to try the cause before the court without a jury. They objected, the objection was overruled, and, as Justice Cowen said, in the case first above cited, resistance to the extent of a man’s power would be a new kind of waiver. It has been held that a voluntary appearance will confer jurisdiction where the party, at the time when he should have made it, was ignorant of the defect (Pinkley v. Winchell, 7 Cow. 366; Wright v. Jeffrey, 5 id. 15; Smith v. Dipeer, 2 Code R. 70). But here the objection was distinctly made at the proper time, and, because the party afterwards went to trial, he should not be deprived of the right, the jury having found against him, of reversing the error of the justice in compelling him to try his cause in a mode which neither he nor the plaintiff wished. The judgment should be reversed.
+‘ Judgment reversed.
