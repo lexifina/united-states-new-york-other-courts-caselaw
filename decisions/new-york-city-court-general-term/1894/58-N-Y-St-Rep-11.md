@@ -1,0 +1,20 @@
+---
+court: "New York City Court, General Term"
+decided: "1894-01-18"
+citations: ["58 N.Y. St. Rep. 11"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James M. Cummings, Resp’t, v. Henry Rosenberg, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/58/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 705087
+---
+
+# Cummings v. Rosenberg
+
+## Majority (Fitzsimons, J.)
+
+Fitzsimons, J.
+The defendant rented for the term of one year from May 1, 1892, premises No. 125 West 127th street in this city from the plaintiff; on December 13, 1892, after due proceedings, a decree was entered in a foreclosure action in which the plaintiff and defendant were defendants and the demised premises, the foreclosed premises. Said decree provided that the purchaser at the foreclosure sale be let into possession of the premises upon production of the referee’s deed. The premises were sold and the referee’s deed delivered February 17, 1893. The purchaser through his agent demanded and received the keys of said premises the same or next day from defendant. The plaintiff commenced this action for the rent due for the months commencing November 1, 1892, and ending May 1, 1893, and judgment was rendered in her favor for the rent so claimed. Upon the delivery to him of the referee’s deed the grantee in said deed became the owner of the premises in question. The evidence shows that said purchaser demanded possession of said premises on February 18, 1893. Another defendant surrendered them to him on that day by delivering up the keys. Therefore there was a surrender and acceptance of the demised premises, consequently a cancellation and termination of the lease mentioned and if it was not for the fact that the pleadings admitted that the rent was payable monthly in advance, the plaintiff would only be entitled to rent up to February 18, 1893, but under the agreement to pay monthly in advance the plaintiff is entitled to recover for the month of February as well as January, 1893, and November and December, 1892. It was error for the trial justice to find that he was also entitled to rent for March and April, 1893. The judgment rendered must be accordingly reduced $140.00 being the amount of rent for said two months. The defendant was not required to demand from the purchaser a production of the referee’s deed before he could surrender the premises. He had a right to do so if he chose, upon the demand of the purchaser; nor was it necessary that the report of the referee upon the foreclosure sale should have been confirmed. Such procedure would have been proper but was not necessary. The judgment herein is reduced to $380.00 and interest thereon and costs and allowances on said principal and interest of 5 per cent, and as so modified is affirmed without costs. The pleadings are hereby amended so as to conform to the proof submitted.
+Newburger and McCarthy, JJ., concur.
