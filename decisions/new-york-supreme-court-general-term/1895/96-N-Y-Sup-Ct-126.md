@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-07"
+citations: ["96 N.Y. Sup. Ct. 126"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt, J., concurred; Brown, P. J., not voting."]
+parties: ["Stephen D. Arents, Respondent, v. The Long Island Railroad Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/96/cases/0126-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8593219
+cites_cases: ["39 N. Y. 302"]
+---
+
+# Arents v. Long Island Railroad
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+This is an appeal by the defendant from a judgment entered upon the report of a referee.
+The action was ejectment and both parties claimed title to the premises.
+The defendant also claimed adverse possession for twenty years before the commencement of this action. The defendant further claimed that the premises were in the actual-possession of the South Side Railroad Company, under a claim of title adverse to that of the plaintiff when he took his deed.
+The referee found in favor of the plaintiff on all of the issues.
+The premises in suit consist of a narrow strip of land about sixty-six feet wide which is now used as a portion of the roadbed of the defendant’s railroad. Both parties recognize the title of John Jackson, and he conveyed the same to his son John Jackson, Jr., by warranty deed dated May 12, 1872.
+The referee found that the premises so conveyed to John Jackson, Jr., were conveyed to the plaintiff through several mesne conveyances which the referee finds and describes in detail'.
+It was also found by the referee that Charity Treadwell, one of the grantees to whom the premises were conveyed in January, 1808, was in possession of the premises and cultivated them for more than forty years after the date of her deed.
+It was further found by the referee that Jeremiah Carman, to whom the premises were conveyed in 1849, was in possession of the premises and cultivated the same for three years from' the date of his deed. The evidence is sufficient to srrpport the findings of the referee and to iustify his report in favor of the plaintiff,
+The premises were held in the actual possession of two of the intermediate grantors of the plaintiff, and that is all that can possibly be required under the circumstances.
+It is to be borne steadily in mind that the plaintiff adduced a chain of title to himself from a source acknowledged to be genuine and valid, and in such a case it is not necessary to show possession in each of the intermediate grantees. Such possession is presumed and the burden is cast upon the defendant to establish an adverse possession. (Stevens v. Hauser, 39 N. Y. 302.)
+As the answer admits the possession of the premises by the defendant, it was only necessary for the plaintiff to establish his right to the possession.
+It should be noted that the premises in question constitute but a small part of the land conveyed by the deeds to the intermediate grantors of the plaintiff.
+The defendant claims title from the South Side Railroad Company, and such right as the latter company had was obtained by a grant from Jacob S. J. Jones. There was no proof of title in him, and the referee refused to find that he ever had any title. There was an offer to prove by him that he was in possession, claiming title to the premises, in 1866, when he made the written agreement consenting to the construction of the South Side railroad over the land, but that proof was offered to show that the land was held adversely by the South Side Railroad Company when the plaintiff took his deed for the premises.
+That offer was properly rejected. It appeared in several ways, which need not be recited here, that he never had any interest in the premises conveyed to the plaintiff. They were in Little Neck and the land of the witness Jones was in Great Neck.
+The first deed of conveyance in the chain of title under which the defendant claims was from John Jackson to Obadiah Jackson, dated March 15, 1761, and conveyed land in Great Neck.
+The effort of the defendant to show title and adverse possession proved abortive.
+We, therefore, find no error in the record, and the judgment should be affirmed, with costs.
+Pratt, J., concurred; Brown, P. J., not voting.
+Judgment affirmed, with costs.
