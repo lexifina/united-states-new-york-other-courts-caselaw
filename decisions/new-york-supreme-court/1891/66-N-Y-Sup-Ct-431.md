@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court"
+decided: "1891-02"
+citations: ["66 N.Y. Sup. Ct. 431"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Beady and Daniels, JJ., concurred."]
+parties: ["WILLIAM E. DODGE STOKES, Plaintiff and Respondent, v. ANSON PHELPS STOKES and Others, Defendants, and JOHN A. STEWART and Others, Executors of ISAAC N. PHELPS, Deceased, Appellants, Impleaded, etc."]
+source_url: "https://static.case.law/ny-sup-ct/66/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4626042
+cites_cases: ["52 N. Y., 146", "73 N. Y., 599", "81 N. Y., 555", "9 Daly, 104"]
+---
+
+# Stokes v. Stokes
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+This action was brought by the plaintiff for án accounting in respect to the copartnership dealings and transactions of the firm of Phelps, Stokes & Go. from the time of the commencement thereof to the time of its dissolution.
+It appeared from the complaint that James Stokes, Isaac N. Phelps and Anson P. Stokes entered into copartnership, the articles concerning which were in writing and which provided that said copartnership should commence on the 1st of January, ls79, and continue for five years, unless terminated by the death of Anson P. Stokes, or by a written notice of either of the partners to the other-members of the firm, of at least six months, of the termination of said firm. Shortly after its formation the defendant Olcott was admitted as a copartner in said firm, but such admission presents no question raised by this demurrer. On the 18th of November, 1880, James Stokes assigned and transferred to his son, William E. D. Stokes, the plaintiff, an undivided fifth part, of his interest in said firm, together with all profits accrued thereon since January 1, 1879, the formation thereof.
+In 1881 James Stokes died, leaving the defendants, Anson P. Stokes and Frederic P. Olcott and Isaac N. Phelps, the sole surviving partners, and the said Phelps died in August, 1888, leaving Anson P. Stokes and Frederic P. Olcott sole surviving partners; and also leaving a will, which was duly proved, upon which letters of administration were issued to the appellants. The defendants, the executors of Phelps, interposed a demurrer to the complaint upon the ground that the complaint, as against them, failed to state facts sufficient to constitute a cause of action. This demurrer was overruled and from the judgment thereupon entered this appeal is taken. From an examination of the authorities cited by the appellants it appears that they claim that because the plaintiff, by reason of the assignment from his father, did not become a partner in that firm, he had no right to maintain this action.
+It is clear that by such assignment lie obtained no rights as a partner, and was not responsible for the debts of the firm, as is held in the case of Burnett v. Snyder (81 N. Y., 555). And in none of the cases cited upon the part of the appellant is it held, that the assignee of the interest of a partner, upon the dissolution of the firm, has no rights which he may enforce against the survivors. In the case of Hooleyv. Gieve (9 Daly, 104)7 affirmed upon the opinion of the court below (73 N. Y., 599), it is expressly held that upon the death of a copartner the surviving partners become trustees of the partnership fund, not only for the creditors, but for the personal representatives of the deceased partner; and that the entire assets of the firm, subject to the payment of its debts, became impressed with a lien in favor of the representatives of the deceased partner, to the extent of the share of the deceased partner in the firm’s assets.
+Now, in the case at bar the plaintiff is a representative of the deceased partner, James Stokes, by assignment; and if the assets, in the hands of the surviving partners are impressed with a lien in favor of the deceased partner, it is clear that he has a right and interest in the assets belonging to the firm, and having such right or interest as one of the personal representatives of James Stokes, deceased, he certainly can maintain the action for an accounting, in order that that interest may be ascertained.
+It is an elementary rule of law that a cestui que trust may call his trustee to an account, and that is precisely the relation which existed between these surviving partners and the plaintiff, as assignee of James Stokes, deceased.
+But it is insisted that the appellants are the executors of a partner who, surviving James Stokes, died since his decease, and, therefore, they have no interests in this controversy. Upon the contrary, these executors are cestuis que trust precisely the same as the plaintiff.
+Anson B. Phelps and Frederic P. Olcott, the sole surviving partners of the firm, hold the assets of the firm as trustees of the representatives of the deceased partners, of whom Isaac N. Phelps is now one. In order that the accounts of the firm, as between the various claimants upon the same, may be settled, it is necessary that all the cestuis que trust be before the court, and, therefore, these executors are necessary parties defendants. The plaintiff has stated a cause of action as against them ; he has shown by the allegations in the complaint that they are necessary for a complete determination of these accounts.
+If there had been any doubt in regard to the proposition herein-before stated, it is distinctly held in the case of Menagh v. Whitwell (52 N. Y., 146) that the assignee of the interest of a partner is entitled to an account of the dealings of the firm from its other members, and to share, to the extent of the assignment, in the surplus of the property of the firm.
+It seems to us, therefore, both upon principle and authority, that the plaintiff is entitled to an account, and that he is entitled to bring in all those who are interested in the surplus of the property, after the payment of the debts, in order that there may be a complete -determination of the rights of all tire parties ; and the fact that, by the'assignment, he never became a partner in no way deprived him -of this right.
+It would be difficult to say why a partner has not the right to assign his interest in a firm, and if he has that right, why his assignee has not the right to call upon a court of equity to determine the extent of his interest, which can only be done upon a settlement of the affairs of the firm.
+We are of opinion, therefore, that the judgment should be affirmed, with leave to the defendants to answer within twenty days upon payment of the costs of the demurrer in the court below, and of this appeal.
+Beady and Daniels, JJ., concurred.
+Judgment affirmed, with leave to the defendants to answer within twenty days, upon payment of the costs of the demurrer in the court below and of this appeal.
