@@ -1,0 +1,33 @@
+---
+court: "New York Superior Court"
+decided: "1890-05-05"
+citations: ["26 Jones & S. 188", "58 N.Y. Super. Ct. 188", "31 N.Y. St. Rep. 188"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STAR COMPANY, Appellant v. WILLIAM S. ANDREWS, and Another, Individually and as Trustees, Respondents."]
+source_url: "https://static.case.law/ny-super-ct/58/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1693430
+cites_cases: ["35 Hun, 118", "73 N. Y. 609", "73 N. Y., 609", "96 N. Y. 473", "96 N. Y., 473"]
+---
+
+# Star Co. v. Andrews
+
+## Majority (By the Court.—O’Gorman, J.)
+
+By the Court.—O’Gorman, J.
+In this action, the plaintiff seeks equitable relief that two chattel mortgages, covering the personal property of the Star Printing Company, including printing presses in its possession, be declared to be void, and for an injunction.
+The learned trial judge dismissed the complaint on the merits, and the plantiff appeals. • The case on appeal does not state that it contains all the evidence, therefore, all the facts, as found by the trial judge, must, for the purposes of this appeal, be assumed to be true. Porter v. Smith, 35 Hun, 118.
+The material facts are these :—The Star Printing Company was a domestic corporation publishing the “ Star,” a newspaper in the city of New York. This corporation, having become financially embarrassed, borrowed from various persons contributing, the sum of $25,000, for payment of which loan, it gave to “Andrews,” who represented all the contributors, its five promissory notes for $5,000 each, and as collateral security executed mortgages on all its chattels, including the chattels in suit. Judgments were subsequently recovered' against the company, and executions issued, under which all its chattels were sold by the sheriff.
+There was a sale subsequently, of the property of the company, made by a receiver. Public notice was given at such sales, that these chattels were subject to the liens of said mortgages. The plaintiff acquired the title of the purchasers at these sales, and the printing presses are in its possession. The mortgages were assigned to the defendant, Dayton, who now represents the contributors of the money lent to the Star Printing Company, to secure payment of which the mortgages were given. The question now in contention is only a question of law.
+The plaintiff claimed in its complaint that the chattel mortgages were invalid, because the consent of the corporators had not been obtained for the execution thereof.
+The defendants contend (1) that as the plaintiff represented the purchasers of these chattels, who had notice of the execution of the mortgages before the sales, it is estopped from taking advantage of such a defect, if it existed; and (2) that, in fact, the written consent of the corporation to execution of the mortgages had been obtained, and was duly filed.
+The plaintiff next contends that, as to one of the printing presses, it had been substituted after the first mortgage was executed, in place of another printing press, and that the consent of the corporation to the mortgage did not apply to the substituted mortgage.
+That the money was loaned on the security of these mortgages, there is no question, and that the amount so loaned is wholly unpaid, ■ is also true. That the corporation and the lenders did in fact consent to the substitution of the mortgage on the new-printing press in place of the press theretofore mortgaged, is not denied.
+The plaintiff’s contentions depend on its views as to the strict application of the law as it interprets it, and the question now to be considered is whether, the facts not being open to dispute, the decision of the learned trial judge on the law was correct. It seems to me that the purchasers of these printing presses at public sale, having full notice of the mortgages as liens on the presses, cannot take advantage of the alleged defect, as to want of consent to the mortgage by the corporation.
+Whatever depreciation occurred of the price obtained at the sales, for these chattels, by reason of these liens, the purchasers reaped the advantage. That such depreciation must have been considerable cannot reasonably be doubted. It would be unjust and inequitable that they should now repudiate the lion. Gildersleeve v. Landon, 73 N. Y. 609.
+The necessity of obtaining the written consent of corporators of the “ Star Printing Company” to these mortgages, depends on the interpretation of the act, known as the “ Manufacturers Act,” enacted in 1848 as amended by Chapter 517, Laws of 1864. There is no evidence in the case that it was incorporated under that act, and the trial judge finds only that the “ Star Printing Company” was a domestic corporation. But even if it were conceded that the assent of the corporators should have been obtained to the execution of these mortgages, such assent was, in fact, obtained. The assent of the corporators as set forth in writing and filed, was an assent “that the real and personal property of the Star Printing Company may be mortgaged.” This language was broad enough to warrant the cancelling of the mortgage on some of the chattels of the company, with the consent of all parties to the mortgage, and the substitution of another mortgage on other chattels of the company. This assent was not of itself a mortgage, but only a permission to mortgage, and authorized the substituted mortgage in question.
+It should be borne in mind that the objection of the legislature in requiring such assent, was the protection of stockholders against improvidence, collusion, or unwise acts of the trustees, the governing body of the corporation, in incumbering the corporate property. Rochester Savings Bank v. Averell, 96 N. Y. 473. There is no reason to believe that it was any part of the intention of the legislature to supply purchasers of corporate property with means of defeating the just claims of bona fide creditors of a corporation, when the existence of such claims and of the liens depending thereon were well known to the purchaser, and the justice and validity of such claims were unimpeached. Purchasers of the mortgaged property of the corporation were sufficiently protected from loss, by notice of the existence of the liens, given at the time and at the place of the»sales.
+On the whole case, I am satisfied that the findings of the trial judge were warranted by the facts, and that the judgment appealed from should be affirmed, with costs.
+Sedgwick, Oh. J.y concurred.
