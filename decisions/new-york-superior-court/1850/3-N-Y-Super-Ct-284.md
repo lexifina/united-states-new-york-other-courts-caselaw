@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court"
 decided: "1850-01-26"
-citations: ["1 Sandf. 284", "3 N.Y. Super. Ct. 284", "3 Sandf. 284", "5 N.Y. Super. Ct. 284"]
+citations: ["1 Sandf. 284", "3 N.Y. Super. Ct. 284"]
 reporter: "ny-super-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Deming v. Colt and others. J. N. Hayes v. Heyer and others."]
 source_url: "https://static.case.law/ny-super-ct/3/cases/0284-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6064867
-cites_cases: ["1 Brock. 456", "10 Mass. 475", "12 Mass. 54", "17 Verm. Rep. 390", "3 Paige 511", "3 Paige 517", "4 Day 428", "4 McCord 519", "5 Cranch 300", "5 Paige 30", "5 Watts 22", "5 Watts 222", "6 Pick. 360", "7 Paige 583", "8 Leigh 415"]
+cites_cases: ["1 Brock. 456", "10 Mass. 475", "12 Mass. 54", "3 Paige 511", "4 Day 428", "4 McCord 519", "5 Cranch 300", "5 Paige 30", "5 Watts 22", "5 Watts 222", "6 Pick. 360", "7 Paige 583", "8 Leigh 415"]
 ---
 
 # Deming v. Colt
