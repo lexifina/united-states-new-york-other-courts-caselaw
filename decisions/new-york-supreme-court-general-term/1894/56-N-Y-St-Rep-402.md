@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-01-02"
+citations: ["56 N.Y. St. Rep. 402"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John H. Haviland, Resp’t, v. Welcome B. Price, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/56/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 697680
+cites_cases: ["105 N. Y., 289", "19 N. Y. Supp., 226", "45 How. Pr., 95", "45 N. Y., 628", "46 St. Rep., 754", "55 How. Pr., 416", "7 Lans., 177", "7 St. Rep., 502"]
+---
+
+# Haviland v. Price
+
+## Majority (Bookstavek, J.)
+
+Bookstavek, J.
+This action was brought to recover commissions claimed.to have been earned by plaintiff’s assignors, J. Romaine Brown & Go., in effecting the exchange of certain real estate. In May, 1890, defendant was the owner of a house and lot on Ferry street, for which he asked $15,000 and which he had placed with Brown & Co., for sale at that price. This they were unable to accomplish and subsequently they notified the defendant that a Mr. McKelvey, one of their clients, had a house and lot on West Fifty-sixth street which could be exchanged at a valuation of $30,000. Afterwards the parties met by appointment at Brown & Go’s office, where the negotiation resulting in an agreement to exchange properties was conducted. At that interview a Mr. Pressinger, a lawyer and broker represented the defendant, but nothing was said as to the relation of Brown & Co. to him, although the defendant knew at the time he had placed his property with the firm for sale and that Mr. McKelvey was also a client of that firm.
+Mr. Cain represented Crown & Co. on that occasion and endeavored to bring the parties together respecting the price to be paid upon the exchange by the one increasing his offer and the other reducing his demand, but no concealment of the true relation of the parties was attempted. The defendant did ■ not repudiate the authority of Cain. All that took place at the interview was submitted to the jury. The defendant did not request the dismissal of the complaint, but on the other hand he requested the court to charge “that in order to recover the jury must find that Mr. Cain, representing J. Romaine Brown & Co., in this transaction stood impartially between the two parties, and did not favor Mr. McKelvey at the expense of Mr. Price,/’ which was charged. Thus in effect admitting the employment by both parties of the brokers and only raising the question of impartial dealing or acting in good faith to be determined by' the jury, and requesting such determination by the jury.
+Having taken his chances with the jury for a favorable verdict, a defendant is precluded from successfully asserting for the first time on appeal that the facts did not warrant their submission to the jury, and that the verdict rendered is without evidence or against the weight of evidence. Bennett v. Levi, 19 N. Y. Supp., 226; 46 St. Rep., 754; Barrett v. R. R. Co., 45 N. Y., 628, 632; Sickels v. Glllies, 45 How. Pr., 95 ; Rowe v. Stevens, 44 id., 10 ; Caspar v. O'Brien, 47 id., 80.
+It is, therefore, too late now to raise the question as to whether or not the plaintiff should be allowed his recovery because he “ was serving two masters.” As a general rule a broker will not be allowed to recover from both parties, but under the circumstances of this case we do not see why he should not under Jarvis v. Schaefer, 105 N. Y., 289; 7 St. Rep., 502, and in view of the stipulation in the case that it was the custom among brokers in the city of Hew York to charge commissions against both sides in a case of exchange of property, when there is no agreement or understanding to the contrary.”
+But the recovery in the case under consideration may be sanctioned on another ground, and that is, the brokers were mere middle men, not vested with discretion respecting the price and terms on which the sale was to be made; hence, the rule that an agent may not recover from both sides does not apply. Siegel v. Gould, 7 Lans., 177, followed in 55 How. Pr., 416.
+The judgment should, therefore, be affirmed, with costs.
