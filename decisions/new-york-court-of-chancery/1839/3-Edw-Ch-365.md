@@ -1,0 +1,25 @@
+---
+court: "New York Court of Chancery"
+decided: "1839-12-10"
+citations: ["3 Edw. Ch. 365"]
+reporter: "edw-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the matter of the Petition of George D. Post."]
+source_url: "https://static.case.law/edw-ch/3/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 488227
+---
+
+# In re Post
+
+## Majority (The Vice-Chancellor :)
+
+The Vice-Chancellor :
+I have no doubt whatever of the jurisdiction of the Vice-Chancellor to determine any question relating to fees or commissions claimed by the clerk of this court for any services he may be called upon to perform as clerk or upon any money received and paid over by him in that capacity by virtue of any order or decree m.ade by the Vice-Chancellor, subject, as in all other cases, to the appellate jurisdiction of the Chancellor. And I also think the matter is properly before me on this petition and that the petitioner is , , . ‘ ill not to be put to his action at laxv to recover back the money alleged in the affidavit of the clerk to have been voluntarily paid. The whole matter is fairly cognizable here and to be disposed of upon this petition. Then, in regard to the merits : what fees or commissions is the clerk entitled to in this case?
+The fee bill for the register, assistant register and clerks in chancery is very explicit: and seems to me not to admit of a doubtful construction. It provides a specific fee to be charged in some cases ; and a commission, by way of compensation, in others. And the cases may be classed as follows : 1. In relation to moneys deposited in court or entering the receipt, putting the same in bank, &c., a specific fee. 2. In relation to stocks, purchasing stock, procuring a transfer &c, a commission by way of brokerage ; making a transfer of stock by order of the court, a specific fee for the service ¡'receiving the interest on stock, entering it to the credit, &c., placing it in bank, &c., a per centage commission. 3. Putting out money by order of the court on mortgage or any security other than stock, examining into the validity of the security (as, for instance, the title of premises proposed to be mortgaged) a per centage, by way of commission or brokerage ; transferring a bond and mortgage or security other than stock, &c., a specific fee. 4. Paying interest to a party, &c., (meaning, no doubt, interest received oil bonds and mortgages and on slocks or by means of any other investment) a per centage or commis sion. 5. Receiving money for stock paid off, &c., a specific fee. 6. For any other services, relative to the receipt, safe keeping, putting out, paying or taking security for money under the direction of the court not before provided for, such allowance and compensation, &c., as the Chancellor may direct by an order for that purpose, &c.
+Thus, every case of a moneyed transaction, in which the clerk may be required to act, is distinctly provided for ; and there is no difficulty in discovering in which class or under what head any given transaction falls. In the case in hand, the bringing in and depositing with the clerk the bonds and mortgages taken by the guardian, though in the name of the clerk, was not bringing in and depositing moneys with the clerk, nor was it purchasing and procuring the transfer of stock by the clerk, nor was it the putting out of money on mortgage or other security by the clerk. In short it was not a transaction by the clerk entitling him to charge a per centage or commission on the amount of the bonds and mortgages.
+There is no allowance of commissions or of a per centage by the fee bill on the receipt of money, except the interest on stock. This allowance does not apply to the receipt of interest on bonds and mortgages or securities other than stock. For receiving money for stock paid off or for moneys deposited in court there is no commission chargeable and only a specific fee of $1 50 for the whole service. If a bond and mortgage held by the clerk should be paid off to him, this fee of $1 50 is the utmost he could charge and that could,only be done by an equitable construction of that clause while speaking of the “ receipt of moneys deposited by the court,” &c.
+The one hundred and twenty-fourth rule, establishing a per centage allowance for services under the 6th head of my foregoing classification, is confined to cases of paying out money ; and is not, under that rule, to be charged on the receipt of money.
+I must, therefore, conclude that the clerk cannot charge commissions on receiving interest money upon the bonds and mortgages in question. All that he can charge a commission for is on paying over the interest money at the rate of one per cent, on two hundred dollars and a quarter of one per cent, on the excess. This may be charged on each payment made and at the time of making it.
+Order accordingly ; and that the clerk pay over the balance which he has retained for commissions.
