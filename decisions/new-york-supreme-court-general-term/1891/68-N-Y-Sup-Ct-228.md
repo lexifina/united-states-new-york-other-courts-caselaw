@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-10"
+citations: ["68 N.Y. Sup. Ct. 228"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., and Lewis, J., concurred."]
+parties: ["WALTER S. YATES, Respondent, v. WILLIAM H. APPLETON and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/68/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4643747
+---
+
+# Yates v. Appleton
+
+## Majority (Maqomber, J.:)
+
+Maqomber, J.:
+The facts as found by the learned referee in his report, and which are clearly sustained by the evidence, are as follows: Between the 25th day of June, 1887, and the 1st day of October, 1887, the plaintiff was employed by the defendants, under a special contract in writing, to canvass and sell books and publications of the defendants in the States of Indiana, Ohio and Michigan, for which he should receive certain graduated compensations. The plaintiff performed* his part of the agreement, and, under the contract, his commissions came to the sum of $835.30, upon which he was paid the sum of $550 by the defendant. Other items of increased compensation growing out of verbal modifications of the written agreement, one of thirty-nine dollars and twenty cents, and the other twenty-five dollars and twenty cents, do not seem to be disputed. With these added, the whole amount of unpaid compensation to the plaintiff is, and is so found by the referee to be, $399.70, for which judgment has been given, with interest, from July 9, 1889.
+By reference to the written agreement, it is found that the plaintiff was engaged to sell the publications of the defendant to none but bona fide subscribers within the territory assigned, and to do all in his power to advance the interests of the defendants. ’ He also engaged to take reliable orders, but “ proof of the reliability of said orders shall be the readiness of the subscriber to receive the books and pay for them according to their respective orders.” The defendants engaged on their part, as follows: “All orders for the above-named publications, taken in accordance with the provisions of this agreement, will be served, and all collections will be made through O. J. Rowe, Superintendent of Agencies for Ohio, Michigan and Indiana.”
+The defense, which is that portions of the orders taken and returned by the plaintiff are uncollectible, and the subscriptions thereto are not made bona fide, is wholly unsupported by any evidence in the ease. An inspection of the whole testimony, which is confined to that of the plaintiff himself, and the defendants’ agent Carmichael, shows that the conclusions arrived at by the learned referee in his report, notwithstanding the criticism of his opinion made by the learned counsel for the appellants, are well sustained. Hnder this agreement, if the subscriptions obtained by the plaintiff were bona fide, and made by apparently responsible person's, as we must presume them to have been in the absence of testimony to the contrary, the plaintiff was entitled to recover the commissions for such subscriptions, even though the defendants failed to deliver the books m pursuance of such subscriptions. The plaintiff did not engage to show, as a condition precedent to the right of payment for his services, that each of the subscribers whom he had obtained was responsible for' the amount of his subscription, notwithstanding the provision of the agreement which reads as follows: “ Proof of the reliability of said orders shall be the readiness of the subscriber to receive the books and pay for them according to their respective orders.” It is argued, as we understand the brief of the appellants, that from this and other provisions of the contract, the subscriptions cannot be deemed to be reliable subscriptions within its terms, unless the subscriber has paid for the book; and that it is incumbent upon the plaintiff to show that the defendants actually received pay for the book, or that it was the fault of the defendants that they did not so receive it. In this conclusion we cannot concur with the.learned counsel. Had the defendants shown by evidence that their omission to fill the orders was because they did not regard the subscribers responsible, the burden of establishing such responsibility might, under this clause of the contract, well be deemed cast on the plaintiff; but such reason for their action is not shown, and hence the plaintiff was not driven to the necessity of showing affirmatively,, beyond presumptions, that each subscriber was able and willing to-pay the amount of Ms subscription.
+The referee seems to have carefully considered the whole evidence and the presumptions arising from the absence of evidence in the case, and has reached a conclusion entirely consonant with such facts as the parties saw fit to lay before him.
+Judgment appealed from should be affirmed.
+Dwight, P. J., and Lewis, J., concurred.
+Judgment appealed from affirmed.
