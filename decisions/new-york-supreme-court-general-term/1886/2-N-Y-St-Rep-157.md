@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-07-01"
+citations: ["2 N.Y. St. Rep. 157"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jay A. Loomis, respondent, v. William Render, appellant."]
+source_url: "https://static.case.law/ny-st-rep/2/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1976184
+cites_cases: ["17 Abb., 237", "18 Hun, 132"]
+---
+
+# Loomis v. Render
+
+## Majority (Boardman, J.)
+
+Boardman, J.
+This is an appeal from a judgment on a verdict and from an order denying a new trial. But the notice of appeal is not sufficient to constitute an appeal from the order denying the motion for a new trial.
+Questions of law can therefore alone be considered. The action was for false imprisonment and the answer a general denial. The criminal complaint on which the order of arrest was issued was drawn by defendant, signed and sworn to by one Crandall, of the firm of Crandall & Weed, and alleged upon information and belief that plaintiff did steal, etc., a mower at, etc., and that Crandall & Weed are the owners, and its value was $57. Defendant presented the complaint to the justice, filled up the warrant of arrest, and gave it, signed by the justice, to a constable, and ordered him to arrest the plaintiff at any cost. Plaintiff was arrested, and, after some arrangement between him and defendant, was discharged.
+In February, 1884, plaintiff made a contract with Crandall & Weed to furnish them with mowers, etc., to sell on commission. They were to pay plaintiff the proceeds of sales and in the fall make a final settlement for the year’s business, and give their note at one year for goods unsold. In October, 1884, Crandall & Weed gave their note for goods, sold, and also a note for goods unsold, but plaintiff claims the last note recognized the title of the property in him until paid for. In January, 1885, Crandall & Weed having failed, plaintiff took one of the unsold mowers, and such taldng constitutes the alleged larceny for which plaintiff was arrested. Before the failure, and before such taking of the mower by plaintiff, Crandall & Weed had given defendant a chattel mortgage on this mower among other property. Plaintiff had a verdict of $125 damages.
+« The justice had no right to issue the warrant against plaintiff. No facts were proved to justify it. Code of Civil •Procedure, § 149. The defendant would not have been liable if he had only presented the complaint to the justice and asked for a warrant—if he had done so in good faith and without malice. Von Latteam v. Rowan, 17 Abb., 237. In this case the court disapproved of the broad doctrine laid down in Comfret v. Fulton (13 id., 276), that the complainant would be hable for false imprisonment if the warrant was issued without competent evidence of guilt, page 247, but adds: “The action of false imprisonment could undoubtedly be sustained in that case (Comfret v. Fulton), upon the last ground intimated by Judge Gould, that the defendants were conspicuous actors in the imprisonment of the plaintiff.” In this case the defendant drew up the complaint, filled up the warrant for the justice to sign, received it from the justice, gave it to the constable and ordered him to arrest the plaintiff at any cost. The defendant also had a chattel mortgage, under which he claimed to hold the property, and it is open to inference that the proceedings, were had for his own benefit, Crandall Sc Weed, the alleged, owners in the criminal complaint having before that time made an assignment. Besides, the defendant, after the warrant was issued, settled the matter with plaintiff, and made him pay defendant two dollars costs, which he announced to the justice in language indicating malice and. anger against the plaintiff; so that it became a fair question for submission to the jury, and was fairly submitted, whether the defendant was acting in good faith and as agent of Crandall & Weed in this prosecution, or whether, on the contrary, he was, in bad faith and with improper-motives, invoking the instruments of the law to compel plaintiff to recognize and pay his claims.
+The jury must have found that no crime was committed by the plaintiff, and that the defendant, in procuring the warrant and ordering plaintiff’s arrest, acted maliciously,, or at least in bad faith. Under all the authorities such findings would sustain the verdict. The evidence justifies the jury in the verdict rendered.
+There was no evidence produced before the justice on which he had authority to issue his warrant. The justice had no jurisdiction to issue the warrant against the plaintiff. He had no jurisdiction of his person. And it was solely through the defendant’s acts and declaration that the warrant was issued and arrest made. It has been held in Blodget v. Race (18 Hun, 132), that the justice himself would be hable in a somewhat similar case. How much more should this defendant be held hable if he was. misusing criminal process for his own selfish or malicious purposes.
+The evidence of Crandall’s declarations was competent upon the intent of plaintiff in taking the mower. So far as plaintiff then knew, no one besides Crandall Sc Weed could object to his taking the mower. If he had their consent and took it by reason thereof, it effectually repelled any felonious intent.
+Mitchell was properly allowed to testify as an expert. As such he was competent to examine and compare the various-signatures before the court and give his opinion as the result of such inspection.
+A case was made out for submission to the jury; the charge was eminently fair and clear without an1 exception to anything said and without a request for any further or other charge. There are no errors on admission of evidence or denying the motion for a nonsuit. In short, the case seems to have been well and justly disposed of by the court and jury, and we see no good reason for reversal.
+The judgment and order must be affirmed, with costs.
+Hardin and Follett, JJ., concur.
