@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1893-01-13"
+citations: ["51 N.Y. St. Rep. 27"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Valentine Muller."]
+source_url: "https://static.case.law/ny-st-rep/51/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 678266
+cites_cases: ["11 N. Y., 324", "13 Abb. Pr., 138"]
+---
+
+# In re Muller
+
+## Majority (O’Brien, J.)
+
+O’Brien, J.
+The relator applied for his discharge by writ of habeas corpus, alleging, among other things, that he was held by virtue of a commitment for civil contempt, which did not recite all the jurisdictional facts, and was, therefore, void. The point suggested, and the ground upon which the relator was discharged, was that the commitment did not recite that the order requiring him to pay the amount specified was ever served upon him, or any demand made upon him to comply therewith. This was held to be fatal, and the relator was discharged. Upon the return the commitment shows that it was issued by the court of common pleas in a proceeding had to punish the relator for contempt. Ho question can arise but that the court had jurisdiction of the subject matter and of the person of the relator. All the other facts required in the Code are recited, and the question left for determination is whether the failure to recite the service of the original order, in the commitment itself, rendered the latter void.
+We think that this case in principle is controlled by that of Seaman v. Duryea, 11 N. Y., 324, which, in effect, holds that it is not requisite that the process of commitment should recite all the facts and proceedings necessary to confer jurisdiction; that it is sufficient if upon its face it appears to have been issued in a proceeding of which the court had jurisdiction, states in substance the cause of the commitment, and specifies the act or duty to be performed, and the expenses to be paid. In this connection we think it important to keep in view the distinction between an appeal, which would involve all the proceedings, and in which the steps leading up to the final commitment would be set forth and presented for review, and a proceeding initiated by habeas corpus, for the purpose of inquiring into the regularity of the commitment, and which presents simply the question of its validity on its face. As held by Ingraham, J., in Davison's case, 13 Abb. Pr., 138, headnote, if it appears on the return to a writ of habeas corpus that the prisoner is detained in custody for a contempt specially and plainly charged in the commitment, by some court having authority to commit for the contempt charged, it is the duty of the officer conducting the proceedings forthwith to remand the prisoner into custody. In a commitment for contempt by a court of general jurisdiction all the preliminaries to warrant the imprisonment need not be set out. The proper remedy in case of irregularities in proceedings by which a party has been adjudged guilty of contempt by a court of general jurisdiction is by motion in the court in which the judgment was rendered. An examination of this commitment will show that such jurisdictional facts as are required by the Code are recited in the commitment, and we do not think the validity of the commitment is affected by the failure to recite the evidence, or «the preliminary steps which led up to the granting of the writ, one of which was the service of the order requiring him to do the acts for failure to do which he was punished as for a contempt. We are of opinion, therefore, that the order should be reversed, and the sheriff directed to retake the relator into his custody.
+Van Brunt, P. J., and Follett, J., concur.
