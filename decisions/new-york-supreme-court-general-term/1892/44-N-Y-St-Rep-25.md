@@ -1,0 +1,53 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-01-22"
+citations: ["44 N.Y. St. Rep. 25"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The First National Bank of Penn Yan, Resp’t, v. Eli McConnell, Impl’d, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/44/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2074702
+cites_cases: ["123 N. Y., 191", "33 St. Rep., 389", "50 N. Y., 160", "78 N. Y., 287"]
+---
+
+# First National Bank v. McConnell
+
+## Majority (Lewis, J.)
+
+Lewis, J.
+The court having directed a verdict for the plaintiff, we must, in considering this appeal, give that construction to the -evidence which is most favorable to the appellant Guided by this rule, the following is a statement of the facts ;
+The defendant Tuth.il!, on the 14th day of November, 1889, purchased of the appellant McConnell the stock of the Penn Yan Democrat Printing Company, and in part payment therefor gave to McConnell his promissory note bearing date on that day for the sum of $1,000, payable to the order of McConnell on or before January 1, 1891, with interest.
+McConnell endorsed his name in blank upon the note, and continued to hold and own it from the time of the execution and. delivery thereof to him' until the 28th day of October, 1890, when it was paid by Tuthill, and McConnell surrendered the note toTuthill, and when thus surrendered his name was still on it.
+Tuthill thereafter, and on the same day, took the note to the-plaintiff’s banking house and requested plaintiff’s president,. George H. Lapham, to discount-the note.
+Plaintiff asked Tuthill whose note it was. Tuthill replied that, it was a note he had given McConnell in payment for his printing-house stock; that it belonged to McConnell, and he had requested him (Tuthill) to see if plaintiff would discount the note for him.1 (McConnell).
+Lapham declined to discount the note for McConnell, but. offered to discount it for Tuthill, and thereupon Tuthill delivered the note to Lapham, Lapham paying him therefor the sum of. $1,000, which sum he placed to the credit of Tuthill upon the books of the bank. Tuthill had not, theretofore, had an individual account with plaintiff.
+The proceeds of the note were checked out by the individual checks of Tuthill. Three of the checks, amounting in all to the-sum of $260, and dated, one upon the 28th of October, 1890, and the other two upon the 31st day of October, were made payable; to McConnell, and were used by him. The next check was for the sum of $100, payable to one John Young; and on the 17th-of November, 1890, the balance of the credit, $640, was drawn upon the check of Tuthill, payable to the firm of H. Tuthill &. Son, of which firm Tuthill was a partner.
+McConnell was at the time of discounting of the note a resident of the village of Penn Yan.
+Lapham had known him a good many years and had frequently seen him about the streets of the village.
+At the close of the evidence, both plaintiff and defendant asked! for a direction of a verdict in their favor respectively.
+The defendant’s request was denied, and he thereupon requested to have the questions of fact submitted to the jury. His motion was denied and he duly excepted.
+The court, thereupon, directed a verdict in favor of the plaintiff, to which direction the defendant excepted.
+The defendant did not waive his right to have the case submitted to the jury by asking the direction of a verdict in his favor. Koehler v. Adler, 78 N. Y., 287.
+The burthen of showing that it was a bona fide holder of the note was upon the plaintiff, it having taken the note from one who was not its apparent owner.
+“An individual negotiating for the purchase of a bill or note-from one having it in his posseesion and whose name appears upon it, must assume that the title of the holder, as well as the- ' liability of all the parties, is precisely that indicated _ by the instrument; that is, he cannot assume that the person in possession has any other or different rights, or that the liability of the parties is other or different from that which the law would imply from the form and character of the instrument.” Central Bank of Brooklyn v. Hammett, 50 N. Y., 160.
+Lapham knew when he bought the note that it was given by the maker to the payee m part payment for property purchased.
+He was informed that the' maker was there at the endorser’s request to obtain a discount of the note for his benefit.
+He declined to discount it for the endorser, but did discount it for the maker. Having refused to deal with Tuthill as McConnell’s agent, McConnell should not be held liable for Tuthill’s representations to Lapham, and if not, applying the law as stated in Central Bank of Brooklyn v. Hammett, supra, plaintiff failed to make out a case.
+The only principle upon which the declarations- of Tuthill to Lapham can be claimed to have been admissible against McConnell arises from the fact that McConnell delivered the note to TutMll with his name endorsed upon it. The respondent’s contention is, that as between McConnell and the bank McConnell should •suffer, as he put it m the power of Tuthill to deceive the plaintiff.
+Whether this position can be sustained or not, it is not necessary to decide, for the only testimony as to the statements of Tuthili was given by Gfeorge H Lapham, the plaintiff’s president. He was, by virtue of his office, a financial officer of the bank. He acted for the plaintiff in the transaction through which plaintiff claims to own the note.
+His credibility was, therefore, a question for the jury to determine. Canajoharie National Bank v. Diefendorf, 123 N. Y., 191; 33 St. Rep., 389.
+The fact that McConnell received from the checks of Tuthill a portion of the proceeds of the note is not significant, as there was no evidence that McConnell knew of the discount of the note by plaintiff when he accepted the checks. .
+It did appear that the property sold by McConnell to Tut-hill was only partially paid for by the note in suit. And there is -no evidence showing that the checks were not given to pay the unpaid purchase price of the stock.
+But if any inference was to be drawn from the circumstances mentioned, it should have been left for the jury to decide.
+It will be observed that the note was, at the maker’s option, payable at any time on or before the 1st day of January,-1891.
+This is important, bearing u-pan the question of the good faith of the plaintiff in buying the note.
+The note was, when discounted, due at the option of the maker.
+Lapham testified that when the note was presented to him for -discount, McConnell’s name was not upon it; and at his suggestion Tuthill left the bank with the note, and in a few moments returned with McConnell’s name endorsed upon it.
+This was important evidence, if true. The defendant testified that his name was upon the note before it was paid by Tuthill, and before Tuthill ever had the note in his possession.
+it was, therefore, a question for the jury to decide and not thee court, there being conflicting evidence.
+Giving to the' evidence the most favorable construction for the plaintiff, we think the case should have been submitted to the-jury, and therefore the direction of a verdict was error.
+The judgment and order appealed from should be reversed, ancL a new trial granted, with costs to abide the event.
+So ordered.
+Dwight, P. J., concurs, Macomber, J., dissents.
