@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-10"
+citations: ["88 N.Y. Sup. Ct. 213"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Haight .and Beadley, JJ., concurred."]
+parties: ["In the Matter of the Probate of the Last Will and Testament of Richard D. Lewis, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/88/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4737311
+cites_cases: ["72 N. Y. 269"]
+---
+
+# In re the Probate of the Last Will & Testament of Lewis
+
+## Majority (Lewis, J.:)
+
+Lewis, J.:
+The deceased died on the 16th day of September, 1892, at Rochester, N. Y., leaving personal property within the county, and real estate in Kansas City, Mo. He was, at the time of his death, seventy-eight years of age.
+A will purporting to have been executed by him on the 14th day of August, 1891, was offered for probate to the Surrogate’s Court of Monroe county by the executrix named therein. >
+Probate thereof was contested by Mary E. Langslow, Henrietta Thompson and Anna Thompson, granddaughters of the deceased and legatees mentioned in the will, upon the ground of incompetency on the part of the testator to make the will, and upon the further ground that it was not his free and voluntary act, but was procured by fraud and coercion exercised upon him by the executrix or some other person or persons unknown to the contestants.
+The surrogate refuged probate of the will on the ground of incompetency, and from the decree entered upon such decision this appeal was taken.
+The question mainly litigated upon the trial was as to the competency of the testator. There was very little, if any, evidence tending to show any undue influence. The vital questions are, was the testator, at the time he executed the will, possessed of sufficient intelligence to comprehend the condition of his property, his relations to those who were the objects of his bounty and the scope and meaning of the provisions of his will; and was it his free act. If so the will should have been admitted to probate. (Horn v. Pullman, 72 N. Y. 269.)
+We have carefully examined the evidence given before the surrogate and are not satisfied with the .conclusions of fact reached by him.
+The evidence of the witnesses to the will, one of them being the attorney who drew it, tended to show quite clearly that the testator came to the office of the attorney from his home in Rochester on the day before the will was executed unattended by any one, and gave to the attorney in an intelligible mariner specific directions as to how the will should be drawn. He was not able to inform the attorney of the full name of the person whom he wished to act as his executrix. He was, therefore, directed by the attorney to ascertain the name and return the following day to the office.
+The next day, being the day that the will was executed, he came , to the office attended by Mrs. Adamson. The will was drawn according to the directions which he gave the day previous and was duly executed. There were many witnesses called upon the part of the contestants, whose testimony tended to show that for some months prior to the date of the will the testator was afflicted with a disease which rendered him incompetent to transact business,‘and that he continued to fail in health and in ability to transact business until the time of his death.
+Expert witnesses,^called by the contestants, testified that from- the nature of testator’s disease, in their opinion, there would not be such lucid intervals as that the testator could transact business, but that it was not impossible that he might have had such intervals.
+A large number of witnesses were called by the proponents, who gave evidence controverting the evidence of the contestants, and tending to show that while the" deceased was old and feeble his mind was clear and that he was able to comprehend and understand about his property and business affairs. And a physician who attended him during the month that the will was executed and thereafter until his death, gave evidence tending to show that his mind was clear and that he was competent to transact business.
+But having arrived at the conclusion that the questions of fact mentioned, should be tried before a jury, it is unnecessary that any extended comments should be made upon the.force and effect of the evidence, as all the facts bearing upon- the questions at issue can be presented upon a* trial to be had.
+The decree of the surrogate of Monroe county appealed from should be reversed, with costs of the appeal to abide the event, and a new trial ordered before a jury in the Circuit Court in Monroe county of the questions:
+First, was the deceased at the time of the execution of his will on August 14, 1891, possessed of testamentary capacity?
+'Second, was the instrument obtained and executed by circumvention and undue influence practiced upon the deceased ?
+Dwight, P. J., Haight .and Beadley, JJ., concurred.
+So ordered.
