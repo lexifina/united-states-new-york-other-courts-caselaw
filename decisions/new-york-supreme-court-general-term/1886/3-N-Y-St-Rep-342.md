@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1886-10-15"
-citations: ["3 N.Y. St. Rep. 342", "3 N.Y. St. Rep. 340"]
+citations: ["3 N.Y. St. Rep. 342"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
