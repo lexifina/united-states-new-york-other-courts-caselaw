@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court"
+decided: "1956-12-29"
+citations: ["4 Misc. 2d 3"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of George C. Feld et al., Petitioners, against Mask Hanna et al., Constituting the Board of Assessors of the Town of Lisbon, County of St. Lawrence, Respondents."]
+source_url: "https://static.case.law/misc2d/4/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1004534
+cites_cases: ["1 Misc 2d 990", "160 N. Y. 225", "176 U. S. 335", "180 Misc. 910", "184 N. Y. 431", "2 Misc. 2d 361", "204 U. S. 152", "244 App. Div. 417", "257 App. Div. 415", "269 N. Y. 634", "99 N. Y. 296"]
+---
+
+# Feld v. Hanna
+
+## Majority (Felix J. Aulisi, J.)
+
+Felix J. Aulisi, J.
+This is a proceeding brought under article 13 of the Tax Law to review an assessment made July 1, 1956 on real property of the petitioners in the town of Lisbon, St. Lawrence County, New York. The assessment includes 30 trailers at $400 each, which the petitioners contend is illegal for the reason that said trailers are personal property and not owned by petitioners but by other parties.
+The parties have submitted this application on the petition and the answer, contending that the only question involved is the construction and constitutionality of subdivision 6-a of section 2 of the Tax Law which reads in part as follows:
+“ 6-a. a. In addition to their meaning as provided in subdivision six, the terms ‘ land,’‘ real estate,’ and ‘ real property,’ as used in this chapter, include all the forms of housing which are adaptable to motivation by a power connected thereto or which may be propelled by a power within themselves and which are or can be used as a house or living abode or habitation of one or more persons, or for business, commercial or office purposes, either temporarily or permanently, and commonly called and hereafter referred to as ‘trailers’; except (1) transient trailers which have been located within the boundaries of a tax district for less than sixty days and (2) trailers which are for sale and which are not occupied.
+“b. Trailers shall be assessed to the owners of the real property on which they are located.”
+The right to tax is conferred upon the State as a necessary attribute of sovereignty (People v. Adirondack Ry. Co., 160 N. Y. 225, affd. 176 U. S. 335) and “ The power of taxation being legislative, all the incidents are within the control of the legislature. The purposes for which a tax shall be levied; the extent of taxation; the apportionment of the tax; upon what property or class of persons the tax shall operate; whether the tax shall be general or limited to a particular locality, and in the latter case, the fixing of a district of assessment; the method of collection, and whether the tax shall be a charge upon both person and property, or only on the land, are matters within the discretion of the legislature and in respect to which its determination is final ”. (Genet v. City of Brooklyn, 99 N. Y. 296, 306-307; People ex rel. Hatch v. Reardon, 184 N. Y. 431, affd. 204 U. S. 152; Weiskopf v. City of Saratoga Springs, 244 App. Div. 417, revd. 269 N. Y. 634.)
+The greatly expanding use of the trailer requires a locality to provide police and fire protection, sanitation supervision, schools, courts, and other governmental services. In order to make the occupants of these trailers pay their fair share of the real estate taxes, the Legislature has selected trailers to be assessed as real property. The petitioners argue that a trailer cannot become real property because it is a mobile unit. I can not agree with that. The time has long since passed when a trailer could be regarded solely as a method of transportation. A trailer which is removed from the highway, attached to the soil and occupied as living quarters becomes a fixed residence. It may well be that our grandparents would not recognize a trailer as their idea of a house. But today they are home or office to thousands of people in the United States. They are the house which young people and the retired could not afford to buy if it were in more conventional fashion built up from the ground. They are the house that working wives can take care of, and which enable a man working in an out-of-the-way location or one brought by military service or other occupation to our area for only a year or a few years, to have his family with him. In these homes, the family lives; the children are raised; they go to school. These trailers are home and more and more, they are not called trailers but mobile homes.
+It is my opinion that the assessors acted legally in this matter. The Legislature has the power to classify and define what property is taxable as real property, and for some time prior to the enactment of the statute in question the Tax Law has provided that certain property, which under the common law is personal property, is subject to tax as real property.
+“ Ordinarily, we might consider the system involved to be personal property or fixtures. It is not for the courts, however, to apply their conception or understanding to the nature of the property. The Legislature has established its own standard by the enactment of subdivision 6 of section 2 of the Tax Law and has defined what constitutes real estate for taxation purposes.” (People ex rel. Holmes Elec. Protective Co. v. Chambers, 1 Misc 2d 990, 997.)
+' ‘ ‘ The Tax Law has set up a standard of its own which must govern the case.’ ” (Matter of New York Tel. Co. v. Ferris, 257 App. Div. 415, 417.)
+The section in question is apparently phrased so as to avoid a conflict with section 3 of the Tax Law. The section in question being the subsequent act of the Legislature, would control in any event. The Legislature had the power to provide, as it did, that the trailers should be taxed as a part of the real property and assessed to the owner of the land. (Interstate Lien Corp. v. Schmidt, 180 Misc. 910; Matter of Beagell v. Douglas, 2 Misc. 2d 361.)
+I, therefore, hold and decide that subdivision 6-a (pars, a, b) of section 2 of the Tax Law are valid and that the assessment in this proceeding is legal and must be sustained.
+Submit order accordingly.
