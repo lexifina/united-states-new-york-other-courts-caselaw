@@ -1,0 +1,30 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1862-06"
+citations: ["1 Daly (N.Y.) 214"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James C. Rappelyea v. Stephen P. Russell."]
+source_url: "https://static.case.law/daly-ny/1/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1295866
+cites_cases: ["10 Pick, 154", "12 Wend. 51", "13 Johns. 349", "2 Dev. 21"]
+---
+
+# Rappelyea v. Russell
+
+## Majority (Daly, F. J.)
+
+By the Court.
+Daly, F. J.
+It is well settled that an executor, if he have sufficient assets, is liable upon an implied promise to a third person, who, as an act of duty or necessity, has provided for the interment of the deceased, if the funeral was conducted in a manner suitable to the testator’s rank in life, and the charge is fair and reasonable. Tugwell v. Hayman, 3 Camp. 298 ; Rogers v. Price, 3 Young & J. 28 ; Corner v. Shew, 3 Mee. &. Wells. 350; Brice v. Wilson, 8 A. & E. 348, Note; Hapgood v. Houghton, 10 Pick, 154.
+1 do not understand that the law, as established by these cases, is founded upon anything peculiar to an executor as contra-distinguished from an administrator, but that it rests upon reasons which are as applicable in the case of the one as in that of the other; The burial of the dead is an act of public necessity. It is an imperative obligation thus strongly put by Lord Denman, in Key v. Stewart, 12 A. &. E. 773 : " Every person dying in this country, and not within certain exclusions laid down by the ecclesiastical law, has a right to Christian burial, and that implies the right to be carried from the place where his body lies to the parish cemetery. .. The' common law casts upon some one the duty of carrying to. the grave, decently covered, the dead body of any person dying in such a state of indigence as to leave no funds for that purpose... The individual under whose roof a poor person dies is bound to carry the body decently covered to the place of burial; he cannot keep him unburied, nor do anything which prevents Christian burial; he cannot, therefore, cast him out, so as to expose the body to violation or to offend the feelings or endanger the health of the living; and for the same reason he cannot carry him uncovered to the grave.”
+Unless a man has left specific directions as to the mode of his interment, it may be assumed to_ be in consonance with his wishes, as it is conformable to the habits of society, that he should be buried in the manner which custom and usage have established. Funeral expenses, therefore, may be defrayed by an executor "before probate (Toller’s Law of Executors, 24; 2 Rev. Stat. 71, § 16), or "by a stranger, if the necessity exists for his interference (Office and Duties of Executors, 174; Swinburne, 6 § 22 u.; Rogers v. Price), 3 Young & J. and this expense is a charge upon the estate of the deceased, which takes priority over every other. Parker v. Lewis, 2 Dev. 21; White v. Stephens, R. M. Charlton R. 56.
+If a person defrays the necessary funeral expenses of an intestate before letters of administration are granted, he is entitled to he reimbursed out of the assets which come into the hands of the administrator. " Funeral expenses,” says Chief Justice Taylor, in Gregory v. Hooker, Hawks R. 394, are not a debt, but properly a charge upon the estate, “ and if an administrator having assets in his hands refuses or neglects to pay it after being requested to do so, he is individually liable at the suit of the person who has been at the expense of the funeral.
+In Arbat v. Churchland, cited in Rogers v. Price, 3 Young & J., at page 32, an undertaker furnished the funeral of the intestate at the request of the surgeon who attended him, and administration being afterwards granted upon his estate, the undertaker arrested the administrator for the amount of his bill, but subsequently abandoned the suit. The administrator brought an action for false imprisonment which was not sustamed, Best, C. J., being of opinion that the original action was well brought, and that the undertaker might "have recovered. '
+In Gregory v. Hooker, Hawks, 390 (N. Carolina), the question of the liability of an administrator for funeral expenses incurred without his knowledge was much discussed, and it was held that a person who had furnished certain articles for the funeral of the deceased, before administration granted, could not maintain an action against the administrator for their value, where no notice of the claim, had been given before suit brought.
+But afterwards in the same State it was decided, in Parker v. Levins, 2 Dev. 21, that an action for funeral expenses might he maintained against an administrator. That they were a charge upon the assets independently of any promise by the administrafeor, and if suitable to the estate and degree of-the deceased, were to be preferred to any" other claim.
+The only case relating to funeral expenses, in this State, appears to be Myer v. Cole, 13 Johns. 349; but all that was Held in that case was that a count upon a promise by an executor to pay the costs and charges of the testator’s funeral could not be joined with a count for work and labor and goods sold to the testator in his lifetime.
+In the present case the plaintiff has averred that in the capacity of undertaker he superintended the burial of Anna "Winchester, expending money and furnishing materials for her funeral; that she died intestate, having no friends or relations in this city ; that the defendant, afterwards, as public administrator, took out letters of administration ; that he has assets in his hands more than sufficient to discharge the plaintiff's claim, and that having such assets in his hands, he was requested to pay the plaintiff’s bill, and refused to do so. This is sufficient to maintain the action. The demurrer to the complaint was not well taken, and the judgment of the Court below was erroneous.
+Judgment reversed.
