@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-10"
+citations: ["88 N.Y. Sup. Ct. 26"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J,, and Barrett, J., concurred.’"]
+parties: ["In the Matter of the Judicial Settlement of the Account of Charles T. Harbeck and Others, as Executors and Trustees, etc., of Ella S. Flagg, Deceased, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/88/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4739414
+---
+
+# In re the Judicial Settlement of the Account of Harbeck
+
+## Majority (Parker, J.:)
+
+Parker, J.:
+The appellants, as executors and trustees of an estate valued at $90,000, paid to a bookkeeper for keeping the accounts of the estate the sum of $100 per year. Upon the judicial settlement of their accounts, objection was made to such payments by the special guardian of an infant cestui que trust.
+Subsequent proceedings resulted in a decree surcharging the trustees’ account in such respect. The result of our examination of the evidence, and a consideration of the arguments of counsel,, have persuaded us that the decree should be affirmed.
+Undoubtedly there are many instances where the necessary expense of employing clerks and bookkeepers should be allowed to administrators, executors and trustees. Indeed, the courts have been careful not to insist that so much clerical work should be either" personally performed by an administrator, executor or trustee, or paid for by him, as to make the acceptance of such a position impossible without considerable personal loss. Care has also been observed to limit the authorization of such expenditure by executors and trustees to cases where employment of assistance seems a matter of necessity, and not to so extend it as to create the impression that the only duty which the law devolves upon such an officer is to-employ persons to perform all of the various duties necessary to the conduct of the trust undertaken. While the estate in the hands of these trustees was not a small one, it is difficult to conceive of a case in which either executors or trustees could hare had less work to do, and a smaller number of entries to make in the course of a year, than was required in its management.
+If these trustees could be relieved from doing the small amount of work required to receive the income and keep an account of it, it is not easy to conceive of a case in which an executor or trustee would not be justified in asking some measure of compensation for a bookkeeper or clerk.
+It is true that the appellant trustees are men of large affairs, and accustomed to employ men to keep their books and take charge of such details as the conduct of this estaté required. And in employing this bookkeeper and fixing his compensation, they did in the matter of this estate, apparently, precisely as they would have done in the management of their own affairs. But their practice in such respect cannot be accepted as the guide for the court.
+The fact that they are busy men and have not as much time to give to the management of estates as other individuals, cannot be permitted to affect the legal rule, which must be applied and enforced whenever a question is presented touching the propriety or legality of the expenditure of the moneys of an estate.
+The general rule is that administrators, executors and trustees are not only bound to assume the responsibilities and exercise the discretions of their office, but must also perform within reasonable limits the actual manual labor requisite to the due execution of the trust.
+The surrogate’s decree, tested by this rule, is right and should be affirmed, with costs.
+Van Brunt, P. J,, and Barrett, J., concurred.’
+Decree affirmed, with costs.
