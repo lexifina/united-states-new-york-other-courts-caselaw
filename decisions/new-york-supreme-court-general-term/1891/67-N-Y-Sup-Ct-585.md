@@ -1,0 +1,19 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-07"
+citations: ["67 N.Y. Sup. Ct. 585"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Andrew J. Dexter, Respondent, v. William Ivins and others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/67/cases/0585-09.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2377493
+---
+
+# Dexter v. Ivins
+
+## Majority (Barnard, P. J.)
+
+— Judgment and order denying new trial affirmed, with costs. Opinion by
+Barnard, P. J.
