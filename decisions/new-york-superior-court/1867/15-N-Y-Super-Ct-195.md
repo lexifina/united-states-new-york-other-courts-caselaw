@@ -1,0 +1,36 @@
+---
+court: "New York Superior Court"
+decided: "1867-12-06"
+citations: ["2 Bosw. 195", "15 N.Y. Super. Ct. 195"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Atlantic Mut. Ins. Co. v. Bird & Neilson."]
+source_url: "https://static.case.law/ny-super-ct/15/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1336483
+cites_cases: ["1 Duer, 79", "1 John. 24", "10 Mass. 195", "15 Barb. 51", "2 John. 322", "2 John. 323", "2 Johns. 336", "2 Johns. 352", "3 Johns. 154", "5 Binn. 525", "5 Sandf. 578", "6 Cow. 504", "7 Cranch. 358", "9 Johns. 186"]
+---
+
+# Atlantic Mut. Ins. v. Bird & Neilson
+
+## Majority (By the Court. Bosworth, J.—)
+
+By the Court. Bosworth, J.—
+According to the facts stated in the case, the defendants had no agency in forwarding the log-wood to New York. That was done by Woolley, and the defendants were his consignees and agents to receive and sell it. There was no communication between Woolley and the owners of the brig. It cannot be said, therefore, that Woolley was in any respect their agent.
+The case, then, is reduced to a narrow compass. A vessel is wrecked, within thirty-five miles of her port of destination, a part of her cargo is washed ashore and piled on the beach, and all hands on board are lost. The owner and consignee of the cargo abandon it to the underwriters. The latter, on diligent inquiry, cannot discover any owner of the brig, and no owner, or part owner, nor any one in their behalf, presents himself either to protect the cargo, or to forward it to its port of destination.
+Under such circumstances, the underwriters take charge of it, by contracting with a third person to deliver the cargo saved, at its port of original destination, at a specific compensation agreed upon between them. Under that contract it is so forwarded and sold.
+If the shipowner is entitled to freight in such a case, then he is entitled to' freight in all cases, in which his vessel is disabled during her voyage, by the perils of the seas, from completing it, provided the cargo, or any part of it, ultimately reaches its port of destination through the intervention of its owners, although the carriers, from the moment of the wreck, give no care, either to the preservation of the cargo, or to forwarding it to the place at which their contract, as a condition to the right to demand any freight, required them to deliver it.
+Such an intervention of the owners, at an intermediate point in the voyage, to secure so much of the cargo as they could save, cannot be said, justly, to be a voluntary acceptance of the cargo, at the place of the wreck.
+There was no election to be made, except between the two alternatives of losing the whole, or saving, by their unaided efforts, such portion of the cargo as might be secured from the perils, to which the shipowner, for all practical purposes, had abandoned it.
+There certainly was no acceptance, voluntary or otherwise, of the cargo, at the intermediate point, by the original consignees and owners. They abandoned to the plaintiffs, their insurers.
+It would be a very forced construction to hold, that the efforts of the latter to save a part of the cargo, after they had paid, or had become liable to pay, a total loss, when it is considered that those efforts were made after a failure, upon diligent inquiry, to discover any owner of the vessel, and apparently after a total abandonment, by the shipowner, of the voyage, raise an implied promise to pay freight, because those efforts have resulted in conveying some of the cargo to the port of destination, and placing its proceeds in their possession.
+Under such a state of facts, these proceeds belonged to them, as insurers of the cargo, after paying a total loss, and there was no lien for freight attached to that cargo. (Mar. Ins. Co. v. Unit. Ins. Co. 9 J. R. 186-191; Dunnett v. Tomhagen, 3 J. R. 154; Welch v. Hicks, 6 Cow. 504.)
+In Dunnett v. Tomhagen, the Court say: “no freight was earned on the homeward voyage, because no part of the cargo was delivered by the ship.” In the case before us, no part of the cargo was delivered by the ship, or by any one acting in behalf of the master or shipowner, but it was delivered through the efforts of the underwriters, to whom it had been abandoned, and who were compelled, by necessity, to save what they could, or submit to a total loss.
+The leading cases on this subject are examined in Abbott on Shipping, 5 Amer. Edition, 547, note 1; and in Angell on the Law of Carriers, § 399 to 414 inclusive.)
+If it must be admitted that the rule, to be deduced from the earlier cases, and from foreign ordinances, is that stated by Kent, Justice, in Robinson v. The Marine Insurance do., (2 John. 322,) namely, that a pro-rata freight is always due where the owner accepts the goods at an intermediate port of necessity, whether the acceptance be voluntary or compulsory; we, nevertheless, are of the opinion, that this doctrine is completely overruled by the more recent decisions, both in our own Courts and in the Supreme Court of the United States. We regard the law as now settled, that a pro-rata freight is only due where the owner of the goods elects to receive them at the intermediate port, and that this election can only be made when the master is able and willing to transport them to their port of destination. When the vessel is wholly disabled, and no effort or offer is made by the master or shipowner to transport the goods to their final port, by any other conveyance, their acceptance by their owner is compulsory, and no freight whatever is demandable. The right to freight pro-rata itineris must arise out of some new contract between the freighter and master, either expressly made, or to be inferred from their conduct.
+That the master cannot recover, upon the original contract, which he has not performed, but must sue, if at all, upon some new contract, implied or expressed, will be found to pervade all the cases.
+Such a contract cannot be implied, if the owner accepts them only from the necessity of the case, because under such circumstances, he will only take up his own goods; and the Court will not be able to imply, that, by such an acceptance, he had any intention to waive the completion of the whole agreement.
+The shipowners cannot, on any principle, be entitled to freight on the portion of logwood which was sold to pay the necessary expenses of recovering and securing the part saved. That was lost, as absolutely, and totally, as the portion which was drifted to sea, and could not be reclaimed.
+The logwood saved, has not been in the possession of the shipowners, or of their agents, at any time since the wreck of the Emeline, and whatever claims they have, if any, upon the present plaintiffs for freight, they have no lien upon the moneys in the defendants’ hands, which can operate as an answer to any part of the plaintiffs’ action to recover the one-half of the net proceeds of the logwood sold. (Caze & Richard v. Baltimore Insurance Co., 7 Cranch. 358 ; 9 J. R. 191.)
+The plaintiffs must have judgment for $835.64, and interest.
