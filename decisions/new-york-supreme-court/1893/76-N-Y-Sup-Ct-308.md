@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1893-05"
+citations: ["76 N.Y. Sup. Ct. 308"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Yan Brunt, P. J., O’Brien and Lawrence, JJ."]
+parties: ["The Hanover National Bank of the City of New York, Appellant, v. William R. Stebbins, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/76/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4676455
+cites_cases: ["14 Daly, 41", "19 Wend. 11", "4 Hun, 487", "5 N. Y. 422"]
+---
+
+# Hanover National Bank v. Stebbins
+
+## Majority (Per Curiam :)
+
+Per Curiam :
+The original affidavits upon which the warrant of attachment was granted justified the issuance of such warrant upon the ground of defendant’s non-residence. It is insisted, however, that the affidavits used on the motion to vacate such attachment by their weight more than counterbalanced such original affidavits, and if they did not conclusively show that defendant was a resident of the State, they left the question in such doubt that the burden placed upon plaintiff of showing non-residence of the defendant was not sustained, and, therefore, that the attachment should be vacated. This was the view taien by the judge on the motion to vacate, and it remains on this appeal to determine whether such conclusion was right.
+No doubt exists but that prior to June, 1891, the defendant was a resident of this city. According, however, to his own account, in that month he gave up housekeeping in this city, stored his furniture, and departed with his family for Europe, where he remained until August following, when he returned, and after spending a few days in some hotel in this city, he departed for Kansas City and various places in the west where his interests were situated, and in which places most of his time has been spent since August, 1891. His wife and a portion of his family remained in Europe, where some of Ms children were being educated, and had not returned at the time the warrant was granted, in July, 1892. The defendant states that he never acquired a residence in Europe or in Kansas City or any place in the west, and that it was his intention, as soon as his wife returned in the fall of 1892, to resume housekeeping in the city of New York.
+Taking, however, the statements of the defendant as to his residence during all this period, can there be any doubt as to his being, since June, 1891, a non-resident of this State ? The Code (§ 636) provides that a plaintiff shall be entitled to an attachment upon showing by affidavit, to the satisfaction of a judge, among other things, that the defendant is “ not a resident of the State.”
+In determining this question of residence for ¿he purpose of an attachment, the distinction must always be kept in mind between it and domicile. The fact that the defendant never acquired a residence in another place and that he had all the time since 1891 an intention to return and resume housekeeping with Ms family in this city, would be sufficient to constitute a domicile within this State. But the word “ residence,” as used in section 636 of the Code, means the abode or place where one actually lives and not one’s legal domicile. In other words, a reading of this section will show that it was intended to supply a method for the collection of debts by appropriating property of the debtor to be found within the State when proceedings against the debtor personally are impossible or liable to be made ineffectual, and thus it allows the use of the process in rem when process in personam could not be served.
+As said in Drake on Attachments, section 65 : “ The Court of Appeals of New York recognized the compatibility of domicile in that State with actual non-residence so as to authorize the party to be proceeded against by attachment as a non-resident even when the intention to return existed and there was no abandonment of domicile.”
+And in "Waples on Attachments (pp. 34, 35), it is said:
+“ The condition upon which attachment issues is, not that the debtor be a resident of another State or country, but that he be not a resident of the State in which the suit against him is brought and the attachment issued. * * * The essential charge is that he is not residing or living in the State, that is, that he has had no abode or home within it where process may be served so as effectually to reach him. In other words, his property is attachable if his residence is not such as to subject him personally to the jurisdiction of the court and place him upon equality with other residents in this respect.”
+These views are supported by the cases of Frost v. Brisbin (19 Wend. 11); Haggart v. Morgan (5 N. Y. 422); Mayor, etc., v. Genet (4 Hun, 487); Wood v. Hamilton (14 Daly, 41); Weitkamp v. Loehr (58 Super. Ct. 79).
+Taking the defendant’s own statements, and applying thereto the Code provisions relative to attachments, interpreted in the light of the decisions above referred to, we think that the defendant at the time the attachment was issued was not a resident of New York, nor could it be claimed that he was even constructively such resident. Neither his home nor his family were here, and though it is sought to be shown that his absence was necessary for his business and health, the principal fact is apparent that his residence again in New York was entirely dependent on the time of the return of his family, who had been in Europe for more than a year at the time the attachment was issued, and who were to remain abroad at least for months subsequent thereto. The fact that his furniture was stored here, coupled with liis intention to resume his residence on the return of Ms family, would give him a domicile here, but upon all the facts we think that at the time the attachment was issued the defendant was not a resident, of this State within the meaning of section 636 of the Code, and that, therefore, the attachment was properly issued against his property within this State.
+Our conclusion, therefore, is that the motion to vacate the attachment should have been denied, and that the order vacating the attachment, from which this appeal is taken, should be reversed, with ten dollars costs and disbursements.
+Present — Yan Brunt, P. J., O’Brien and Lawrence, JJ.
+Order reversed, with ten dollars costs and disbursements.
