@@ -1,0 +1,25 @@
+---
+court: "County Court of New York, Livingston County"
+decided: "1914-12"
+citations: ["32 N.Y. Crim. 300", "88 Misc. 136"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. SCOTT SMITH."]
+source_url: "https://static.case.law/ny-crim/32/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1209514
+cites_cases: ["151 App. Div. 943"]
+---
+
+# People v. Smith
+
+## Majority (Abbott, J.:)
+
+Abbott, J.:
+.The court has considered the motion made by defendant’s counsel last night to dismiss the indictment on the ground that the people have not made out a cause of action. This indictment has arisen under a comparatively new section*of the Penal Law which was enacted in 1905. For that reason, there are no adjudicated cases that bear exactly upon the point raised by the defendant’s counsel in this case. The language of the section is “ A parent or other person charged with the care or custody for nurture or education of a child under the age of sixteen years, who abandons the child in destitute circumstances and wilfully omits to furnish necessary and proper food, clothing or shelter for such child is guilty of felony.”
+The facts in this case as proved on the trial are that the mother rents the house where these people lived, that she was also working and contributing money week by week for the support of the family and that the husband was also contributing. On a certain day in May last he goes away. The testimony of the child shows a home somewhat different from one that would be in destitute circumstances. She testifies to an eight-room house nicely furnished, with every necessary convenience and that she has had all the necessary food and shelter and clothing that she could ask for and was perfectly happy. It seems to the court that one could scarcely say that that child was in destitute circumstances. It is true that it is the duty of the father to provide, in the first instance, for the child, and also the duty of the mother, secondarily, so to do; and it seems in this case that both of them contributed and labored for the maintenance of this home and the care and support of this child. The section of the Code is enacted for the protection of children, so that children shall not be neglected by their parents and not properly cared for. This section has no relation to the duties due to each other of husband and wife. There is no law that compels husband and wife to live together if they do not see fit to do so and it seems in this case that the father went away. If this child was in destitute circumstances, if the facts and circumstances showed that it needed clothing and food and shelter, then unquestionably the father and husband would be liable under this section; but I do not believe that the section contemplates or that the legislature intended that where a child was not in actual destitute circumstances, or likely to be so, it was intended to convict the husband and father of a felony and send him to state prison therefor. The circumstances of each case must determine whether or not it is within the language of the statute; and notwithstanding the contention of the counsel I hardly believe that a child, one of whose parents happened to be a millionaire, and the other parent went away, that that parent could be found guilty of abandonment under this section of the Code.
+The only case cited by the counsel for the people is People of the State of New York v. Connor, 151 App. Div. 943, and the facts in that case bear out the decision of the court in this case, because the mother of the child, it appeared, had no means at all, but was dependent upon a mother and brother, who furnished support for the child out of their meagre earnings.
+If a child had to be provided for by charity or by the care of friends or in a public institution, I think that would bring the case within the limits of this section of the Code; but if the circumstances, were that its other parent had ample means to take care of the child and did so, I do not believe that the deserting parent would be liable under this section and the dicta of the court in the case cited by counsel is obiter and was not necessarily given in the decision of the case cited.
+Por the reason stated, the motion of the defendant’s counsel is granted and the indictment is dismissed.
+Motion granted.
