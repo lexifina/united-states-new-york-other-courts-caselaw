@@ -1,0 +1,33 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1890-12-01"
+citations: ["34 N.Y. St. Rep. 10", "11 N.Y.S. 709", "16 Daly (N.Y.) 413"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Regan, Resp’t, v. Adolph Luthy, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2047101
+cites_cases: ["1 Denio, 104", "10 N. Y. 117", "10 N. Y., 117", "44 N. J. L. 266", "44 N. J. L., 266", "44 N. J. Law, 266", "7 Johns, 4", "7 Johns. 4", "7 Johns., 4"]
+---
+
+# Regan v. Luthy
+
+## Majority (Bischoff, J.)
+
+Bischoff, J.
+Plaintiff was lessor and defendant lessee of the premises 51 East One Hundred and Twenty-ninth street, in the city of Hew York, the term of letting being from year to year, and the 37ear expiring May 1, 1890. About March 8, 1890, the defendant moved out and securely closed the premises against tlfe intrusion of persons without his consent. Within a few days thereafter the plumbing work was cut out and stolén by persons unknown.
+When plaintiff again became possessed of the demised premises he caused the plumbing work to be replaced, and thereupon brought this- action to recover the sum claimed to have been necessarily expended by him for that purpose. On the trial there was no dispute as to the fact of letting and the removal of the plumbing work in the manner above stated, and after- being duly charged by the trial justice the jury rendered a verdict in favor of the plaintiff. Judgment was thereupon duly entered, from which defendant appealed. The only alleged errors assigned by defendant as grounds for reversal are to be found in the charge to the jury and the justice’s refusal to charge as requested by the defendant
+The alleged error in the charge is that portion thereof where the justice sa3rs: “If you believe the evidence of the plaintiff, your verdict will be for the plaintiff.” To this defendant’s counsel excepted,' and the trial justice thereupon corrected his charge, by stating that he desired to be understood as saying, that if the" jury believed the evidence as adduced by the plaintiff, the verdict should be for the plaintiff; to which correction the defendant’s counsel again excepted. Defendant’s counsel also requested the court to charge that in respect to the property stolen the defendant was bound only for ordinary diligence and that it was sufficient to exonerate the defendant from liability for the stolen property, “if the defendant used as much care and diligence for the safety of the property as is usual with the common run of men or with' men of ordinary discretion, in managing their property,” and “ that the defendant is not responsible for the condition of the house unless it was put in that condition by his own fault or negligence.”
+Defendant’s counsel further requested the trial justice to charge, that if the defendant “left the house in the same condition as the owner of the property would have left it and while in that condition the property was stolen, the defendant was not liable.”
+All of these requests were refused, and to such refusals the defendant’s counsel also duly excepted.
+It is apparent from the exceptions and the requests that the defense proceeded upon the theory that the facts adduced to substantiate plaintiff’s claim constituted what is termed permissive waste, and that, therefore, negligence of the defendant in permitting the injury to plaintiff’s property complained of, being the gist of the action, must be proved, and that without such proof the defendant is not answerable; and indeed, the brief for the defendant upon this appeal is almost entirely devoted to substantiate that view. In this, however, the counsel for the defendant is mistaken. Permissive waste consists in the negligent or wilful omission to do what is required to prevent an injury to demised premises ; as to suffer the demised premises or a part thereof to go to decay for the want of repairs.
+Voluntary or commissive waste consists of injury to tho demised premises or some part thereof, when occasioned by some deliberate or voluntary act, as for instance, the pulling down of a house or the removal of wainscots, floors, benches, furnaces, windows, doors, shelves, or other things fixed to and constituting a material part of the freehold. See Washburn on Eeal Property, Yol. I, page 125, par. 2 ; Bouvier’s Law Dictionary, Yol. II, page 654, “Waste.”
+The mere statement of these definitions will be sufficient to make it clear that the injury to the freehold complained of in this action-falls within the class known to the law as commissive waste. I apprehend however that defendant’s counsel will contend that because it does not appear that the injury for the'recovery of damages for which this action was brought was shown to have been committed by the defendant or by his direction or by his agents or servants, commissive waste was not established. But it was not essential to the recovery that such proof should have been made, for though the acts complained of were committed by strangers the defendant was none" the less liable. Washburn on Eeal Prop.erty, vol. I, page 135, j)ars. 34 and 35 ; Cook v. Champlain Trans. Co., 1 Denio, 104.
+And being so liable the fact that he was a tenant for one year, or from year to year only, does not deprive the plaintiff of his right of redress against him. There appears to be some doubt as to whether a tenant at will, or from year to year, may be liable for permissive waste, and in support of his claim that such an action is not maintainable against that class of tenants defendant’s counsel cites Herne v. Bembow, 4 Taunton, 764. The English law in that respect does not. appear to have been followed in this country, at least not in the states of Hew Jersey and Hew York. See Newbold v. Brown, 44 N. J. L., 266; Phillips v. Covert, 7 Johns., 4.
+The facts in this case however constituting, as above stated, commissive waste, there can be no question as to the plaintiff’s right to maintain this action, since in such a case all tenants are alike answerable. See Wood’s Landlord and Tenant, 710, § 425 and cases cited.
+It would therefore have been proper upon the evidence for the trial justice to have directed a verdict for the plaintiff, leaving the damages only to be assessed by the jury. McGregor v. Brown, 10 N. Y., 117.
+For the reasons above stated the defendant’s exceptions taken upon the trial in the court below are insufficient to warrant a reversal. _ ,
+_ The judgment appealed from should be affirmed, with costs.
+Daly, Ch. J., and Pryor, J., concur.
