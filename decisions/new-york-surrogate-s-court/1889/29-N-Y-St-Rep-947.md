@@ -1,0 +1,32 @@
+---
+court: "New York Surrogate's Court"
+decided: "1889-10-31"
+citations: ["29 N.Y. St. Rep. 947"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of John A. Babcock, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0947-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664409
+cites_cases: ["89 N. Y., 352"]
+---
+
+# In re the Estate of Babcock
+
+## Majority (Spring, S.)
+
+Spring, S.
+Although this controversy has jingled along for two years and the papers in the case are voluminous, yet the real difference between the parties is slight.
+I append a summary statement of the account as I regard it established:
+The executor sold the home farm of testator for $5,632, April 22, 1886, but the money therefor was not paid until the 19th of the succeeding month, so that the executors received in interest $23.76. By the terms of the contract of sale the purchaser was to assume the payment of the mortgage held by the executor, Mr. Dow, and which was an incumbrance on this farm, but it seems the entire purchase money was paid to the executors. The Dow mortgage should then have been paid. It was not fair to the cestuis que trusient to retain this money uninvested and permit his mortgage to be earning interest from the estate, and I have accordingly treated the bond and mortgage as paid May 19, 1886, which is in accordance with the agreement made with the purchaser of this land.
+The interest on the mortgage had not been kept up by the testator, and Mr. Dow at one time had a settlement with him and took his note of $381.36 in payment of this interest, as Mr. Dow testifies.
+This note Mr. Dow paid out of the funds of the estate.
+He had no right to do this until it had been judicially established. Revised Statutes, part 2, chap. 7, art. 2, § 33 (Banks & Brothers’ 8th ed., p. 2561); Code Civil Pro., § 2739; Neilley v. Neilley, 89 N. Y., 352; Snyder v. Snyder, 96 id., 88.
+H there had been sufficient funds to pay the debts of the deceased, this would have been only a technical error, but it seems the property will be insufficient to pay the claims against testator and his course gives his own claim a preference over others of the same class. His counsel urges that this was a mere evidence of the debt and the whole amount of interest still attached to the mortgage lien. He treated the note as a payment of this interest. This enabled him to get compound interest and in paying it he made his computation with full recognition of the note as an obligation. It is too late after it becomes apparent the estate will not pay in full to ignore the note which he cheerfully enough fathered and recognized and even paid and now embodies in his account as a liquidated obligation.
+The money received by Mr. Dow, as executor, and it was considerable in amount, he deposited in the Salamanca National Bank, of which he is president, and until recently was the owner of a major part of its capital stock. He accounts for no interest on this large sum upon the pretext that he must hold it in readiness for his judicial settlement. This money, arising from the sale, was paid over in May, 1886, and the auction sale was before this, so that the greater portion of the moneys was in the custody of the executors as early as the date of the actual sale of the home farm, and proceedings to settle the accounts of the executors were not instituted until November, 1887, and during all this' time the money was lying idle.
+Thrifty, careful business men certainly cannot be excused for being so derelict in the management of trust funds committed to-' them.
+The cashier of the bank testifies it was the custom of the bank to pay three per cent on time deposits, and even more than this on a special agreement The president and principal stockholder of the bank was fully aware of this, and justice to those for whom he was acting in a trust capacity required that he should have these moneys earning something to the estate, not to him and the other stockholders.
+The theory of the law is, that an administrator should make no personal profit out of the estate intrusted to him. These moneys were a source of daily revenue to Mr. Dow. They formed a part of their discounts, comprised a portion of the material out of which their banking business was made profitable, and was sustained as a business venture. Certainly, three per cent, is a low rate to charge against him, but the proof fails to elicit the measure of his profit. Probably it cannot be ascertained with accuracy.
+It is urged in his behalf that after proceedings for judicial settlement had been commenced he was obliged to have this money in readiness for distribution. If he had taken an interest certificate, that would have been in his possession at the commencement of this proceeding, and he could have held it intact until distribution was ordered.
+I have only charged interest, even at this small rate, on the net sum remaining after his partial distribution, so that the whole sum upon which interest has been computed has been continuously in his possession.
