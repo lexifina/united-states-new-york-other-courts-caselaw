@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1893-07"
+citations: ["78 N.Y. Sup. Ct. 139"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt, J., concurred."]
+parties: ["In the Matter of the Judicial Settlement of the Account of Henry E. Nesmith, as Sole Surviving Testamentary Trustee under the Will of James Nesmith, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/78/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8593334
+---
+
+# In re the Judicial Settlement of the Account of Nesmith
+
+## Majority (Barnard, P. J.:)
+
+Barnard, P. J.:
+The deceased was a warehouseman doing business near the Fulton ferry in Brooklyn in connection with his two sons, James I. Nesmith and Henry E. Nesmith. He died in 1812, leaving a last will and testament with two codicils thereto. The second codicil is as follows, so far as needed to present the question raised:
+“I give to my sons, James I. and Henry E. Nesmith, * * * the Empire Stores property, or by whatever name known, in trust for the benefit of themselves, one-quarter each, of my son Beniamin I. one-quarter, and of tlie children of my daughter Caroline, one-quarter subject to an annuity of my wife Caroline, of five thousand dollars per year during her life; said James I. and Henry E. Nesmith to have sole direction and management of said property, to improve the property if they see fit, and to buy the adjoining property on the same block (any such purchases to be included in this trust) if they see fit, raising money on mortgage for either or both purposes, if in their judgment necessary; to receive the earnings of said property, and after deducting therefrom all charges, expenses and. disbursements, including the aforesaid annuity, to account to the heirs for their respective portions except as to the children of my daughter Caroline, who may not be of age, to them paying sufficient to support and educate them till they become of age, if necessary; and it is my will that when either of said trustees shall die, the survivor shall hold the trust, and on his death the property shall be sold and the proceeds divided in the manner directed in my will concerning my personal property.”
+Under this power to improve, the trustees erected a shed at a cost of $12,450, which was necessary to hold and increase the business, and the year’s rental thereby was increased $6,000 a year. The surrogate decided that they were' to be paid out of this increased income. This was a favorable construction to the appellants. The clause taken together means to give very full power to the trustees. The power to raise the needed money by mortgage was not imperative and did not subject the trustees to loss if it was not exercised. That was one way of getting the money and, in view of the heavy mortgage on the property, an uncertain way. If there had been a mortgage the interest would be chargeable on the income. When payable out of the increased income there is no reason why the appellants should object. There is no illegal accumulation of rents. The trustees had power to charge the $12,450 on the income wholly where a shed costing $12,450 would increase the rental so much as to pay it .back in two years. The decree only postpones the payment until the increased rents will pay it.
+The referee has found that the office in New York is necessary to the business, both as carried on by the trustees and the present occupant and tenant, whose occupancy will terminate so soon, when the office will be liable to become again a necessity. The charge for rent was, therefore, proper. The trustee gave substantially Ms entire time to the management of the business at this office.
+The moneys of Nesmith were deposited in the firm name. The account was not changed in form after his death. There was no time when the deposit did not equal the trust funds, in other words, when the trustee had used the money for his private use. The decree appealed from charges him with the interest on such sums as were used by him. The appellants claim that he should be charged with interest on the whole deposit. The referee has found that it was used to carry on the business under the old name. That there was no intent to use the trust moneys for the trustee’s personal benefit or to strengthen Ms individual credit. The beneficiaries generally understood the way the business was managed. No harm was intended. None was done. The business was successfully carried on and the income divided yearly among those entitled thereto.
+The decree of the surrogate should, therefore, be affirmed, with costs.
+Pratt, J., concurred.
+Decree of surrogate affirmed, with costs.
