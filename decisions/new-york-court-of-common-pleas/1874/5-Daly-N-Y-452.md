@@ -1,0 +1,23 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1874-12"
+citations: ["5 Daly (N.Y.) 452"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Andreas Schmidt against Martin Gunther, President of the Unterstetzung Verein Union, John Schedler, Secretary, and Anton Saur, Treasurer."]
+source_url: "https://static.case.law/daly-ny/5/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1303815
+cites_cases: ["2 Daly, 356", "30 N. Y. Rep. 390", "4 Sandf. 658", "47 N. Y. Rep. 71"]
+---
+
+# Schmidt v. Gunther
+
+## Majority (Daly, Chief Justice.)
+
+Daly, Chief Justice.
+This judgment will have to be reversed. It was brought to recover $70, to which the plaintiff claimed to be entitled from an unincorporated association of individuals, due to him as a member of the association in weekly payments of $5 a week, for fourteen weeks during which he was sick. The plaintiff has not sued the members of the association, nor could he in an action at law, unless the right to do so was given by the conditions of the agreement under which the parties were united into a body (Habicht v. Pemberton, 4 Sandf. 658 ; White v. Brownell, 2 Daly, 356, 358 ; McMahon v. Rauhr, 3 Id. 116; same case on appeal, 47 N. Y. Rep. 71). He may have a remedy against the individual members of the association in equity, but no such remedy could be applied in the present action, as the district Justices’ Courts have no jurisdiction in equity.
+The only way in which an action at law could formerly be brought against an unincorporated association, was by an action against them as individuals, brought by a plaintiff who had a claim against them as a body, and who was not a member of the organization. If a member of the body, he could not maintain such an action; for it was well settled, that it was an answer to such an action, that the plaintiff was legally interested in each side of the question (1 Chitty on Pleading, 45, 6th Am. ed.) The statute has provided that such an association may be sued in the name of the president or treasurer for the time being (L. 1849, e. 258). It is not necessary to inquire whether, under this statute, a member of such an association may bring an action against it by suing the president or treasurer as such. The plaintiff has not brought such' an action. He has sued the president, treasurer and secretary, and judgment is rendered against all these defendants for $99. There is no provision in the statute for suing the secretary, and if any effect is to be given to the judgment against him, it must be as an individual. It may be that he would not be able to protect himself, by invoking the record to show that he had been sued as secretary, and he certainly had the right to object, as was done below, that the action could not be maintained in its present form. If the action is brought under the statute, it should be brought in the mode provided by the statute; that is against the president or the treasurer. We might, if the objection had not been taken below, have upon appeal amended the proceeding so as to conform it to the proof (Bate v. Graham, 2 Kern. 242; Thompson v. Kessel, 30 N. Y. Rep. 390). But as a general rule, we have refused to do so where the objection was taken upon the trial, and the party being then advised of the defect, had the opportunity, but neglected to apply to the court to amend the proceeding, the justice having ample power to allow it (2 Rev. Stat. 429, § 1). So far as allowing such an amendment moreover appeals to our discretion, there is the additional reason, that it is very doubtful if justice has been done. The association after paying the plaintiff for six weeks, caused an investigation to be made as to the cause of the plaintiff’s injury. They appointed a committee to investigate; the committee did so, and reported that the plaintiff’s injury was caused by his own misconduct; whereupon a special meeting of the society was called, and a resolution was passed, that the plaintiff’s sickness was brought about by negligence, and that he should not be paid. It was sworn to that the plaintiff was injured in a brawl, which he had provoked by his own misconduct; although whether he was the party in fault in the quarrel, was a point upon which there was conflict. The justice excluded evidence of what was done by the committee, as well as the minutes of the proceedings of the special meeting. Without pausing to inquire whether he was right or not in this ruling, I think it is better that the judgment should reversed for the error first above stated, that the cause may be tried over again.
+Loew and J. F. Daly, JJ., concurred.
+Judgment reversed.
