@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1900-07"
+citations: ["15 N.Y. Crim. 90", "32 Misc. 178; 99 St. Rep. 717"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MATTER OF THOMAS J. DEMPSEY."]
+source_url: "https://static.case.law/ny-crim/15/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1183338
+cites_cases: ["106 N. Y. 508", "137 N. Y. 517", "3 N. Y. Crim. 504", "32 Misc. 178", "90 N. Y. 12", "99 St. Rep. 717"]
+---
+
+# In re Dempsey
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The complaint sufficiently charges a larceny under section 528 of the Penal Code. It appears therefrom that the prisoner obtained fifty dollars from the complainant for two specific purposes, and became a bailee of the money for those purposes. Instead of devoting the money to the objects intended, the prisoner appropriated part of it to his own use in direct contravention of subdivision 2 of the section cited. The balance of the money was to be used in the purchase of a wedding ring for the complainant. The prisoner purchased the ring as directed, but wrongfully appropriated it to his own use. The purpose of the bailment was in no sense performed, and the complainant has by the wrongful acts of the prisoner been robbed of fifty dollars. These facts make out a case under the Penal Code, by which larceny is so treated as to include not only that offense as defined at common law and by the Revised Statutes, but also embezzlement, obtaining property by false pretenses and felonious breach of trust. People v. Dumar, 106 N. Y. 508; People v. Ward, 3 N. Y. Crim. 504. According to her complaint, the complainant did not intend to transfer title to the money to the prisoner, but parted with the custody or naked possession of it for specific purposes, intending to retain title to the money until such purposes had been fully performed. To constitute a larceny, as that offense is defined by the Penal Code (§ 528), or at common law, it is not essential that the property should have been taken from the possession of the owner by a trespass; it is sufficient if possession is obtained by some device, trick, artifice, fraud or false pretense, with intent on the part of the person so obtaining it to appropriate it to his own use, and he does so appropriate it. People v. Laurence, 137 N. Y. 517. If A. intrusts B. with fifty dollars in bank bills to exchange for gold coin, and B. makes the exchange but appropriates the gold coin to his own use, can there be any doubt that such a misappropriation by the bailee would be a larceny ? Certainly not. See Justices, etc. v. People, 90 N. Y. 12. Much may depend upon whether the complainant intended to part with the entire ownership of the money, and whether the prisoner obtained the money animo furandi. These will be questions for the jury to determine when the prisoner is placed on trial. The complaint sets forth with sufficient' particularity the commission of a criminal offense, which is sufficient for present purposes.' The writ must be dismissed and the prisoner remanded.
+Writ dismissed and prisoner remanded.
