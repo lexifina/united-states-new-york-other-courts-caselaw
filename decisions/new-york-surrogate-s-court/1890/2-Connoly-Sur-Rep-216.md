@@ -1,0 +1,31 @@
+---
+court: "New York Surrogate's Court"
+decided: "1890-03"
+citations: ["2 Connoly Sur. Rep. 216"]
+reporter: "connoly-sur-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of Kennedy.", "In the matter of the estate of John A. Kennedy, deceased."]
+source_url: "https://static.case.law/connoly-sur-rep/2/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1132633
+cites_cases: ["11 Paige 520", "18 Hun 29", "3 Dem. 75", "32 Barb. 587", "42 Hun 514", "45 Barb. 182", "81 Mo. 676"]
+---
+
+# In re the Estate of Kennedy
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+The good faith of the administratrix is found by the referee, and is manifest from the testimony. I am of opinion, therefore, that in the exercise of the discretion lodged in the court by the law with reference to imposing the penalty of compound interest, I must overrule the referee in that regard.
+Compound interest is allowable in cases of gross delinquency, or as a penalty for negligence or wrong doing, or for some clear violation of a trust. There is no uniform rule of redress, but each case calls for the exercise of the judicial discretion of the court. Thorn v. Garner, 42 Hun 514.
+A recent case upon this subject, which contains a comprehensive review of the authorities, is Cruce v. Cruce (81 Mo. 676-686), and the court reached the conclusion that “ all orders for periodical rests and for compounding interest should be adopted, not for punishing the delinquent trustee, but for the purpose of attaining the actual or presumed gains, and to make certain that nothing of profit or advantage remains to the trustee.”
+The doctrine thus stated is but a reiteration of the law as laid down in our own state. Utica Ins. Co. v. Lynch, 11 Paige 520. In that case the court stated the rule to be : “The court in charging a trustee with interest, when he has commingled the trust fund with his own, or has neglected his duty in relation to the fund, does not always proceed upon the ground that the trustee has made a profit by his breach of trust. It is true he is not permitted to make a profit out of the trust fund for his own benefit. If he has employed the fund in trade, whereby he has made more than simple interest, he may be charged with the whole of such profits, either by making periodical rests and charging him with compound interest, or in such other manner as may best carry out the principle of giving to the cestui que trust the benefit of all profits made beyond the simple interest. In cases of that kind, the principle of the court appears to be to allow simple interest only where it is evident that the profits made by the trustee could not have exceeded that amount. But if it is doubtful whether the profits were not greater, then to allow the cestui que trust to elect between such interest and an inquiry as to the actual profits made out of the trust fund. Stating the account with periodical rests and compounding the interest is only a convenient mode adopted by the court to charge the trustee with the amount of profits supposed to have been made by him in the use of the money, where the actual amount of profits which he has made, beyond simple interest, cannot be ascertained.” See, also, Wyckoff v. Van Siclen, 3 Dem. 75; Clarkson v. De Peyster, Hopk. 424; Baker v. Disbrow, 18 Hun 29.
+For a mere failure to invest, simple interest will be charged. Thorn v. Garner, supra; Duffy v. Duncan, 32 Barb. 587.
+In this last case, assignees for the benefit of creditors retained a large sum of money for many years without any effort on their part to distribute it among their cestuis que trust. The money was commingled with their individual funds. Held, that they were chargeable with simple interest thereon, although there may have been no profit by their use.
+In Lansing v. Lansing, 45 Barb. 182, it was held that if the trustee negligently suffers trust moneys to lie idle, he is chargeable with simple interest. If he converts the trust moneys to his own use, and employs them in business or trade, he is chargeable with compound interest. While trustees are held to great strictness in the management of trust funds, the court will deal leniently with them when it appears that they have acted in good faith, and if no improper motive can be attributed to the trustee, the court will excuse the apparent breach of trust, unless the negligence is very gross.
+In the present case, I am of opinion that a proper case is presented for the simple indemnification of the cestuis que trustent. To that end, the charges of compound interést made by the referee will be disallowed. In case of the reinvestment of the proceeds of the sale of the Broadway and Seventh Avenue Railway stock, the administratrix should be charged with the amount of interest received by her thereon, and with simple interest upon the periodical payments from the date of their receipt to the date of the account.
+The interest upon the sum referred to in the seventeenth finding and likewise upon the value of the library should be simple interest. The same applies to the interest upon dividends and other sums received periodically from the securities held by the administratrix. She should be charged with simple interest upon such sums from the date of their receipt to the date of the account.
+The evidence relied upon to support the charging of the account with $250, referred to in the sixteenth finding, while probably sufficient for that purpose, is still entitled to no more weight or consideration than the testimony immediately succeeding, which should entitle her to credit for its payment to the next of kin. Properly stated, the account should debit and credit her with the same, without interest.
+My conclusion, not to charge the administratrix with compound interest is founded upon her good faith, evidenced in many ways apart from her refusal to interpose the apparent defence of the statute of limitations, and upon the acquiescence of the next of kin for more than fifteen years. It is plain the referee would have acted likewise had he been of the opinion that he had discretion in the matter.
+In all respects, except as above indicated, the report of the referee is confirmed.
