@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-06-02"
+citations: ["38 N.Y. St. Rep. 983"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Baldwin’s Bank of Penn Yan, App’lt, v. John H. Butler, Impl’d, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/38/cases/0983-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2058243
+cites_cases: ["5 Hun, 41"]
+---
+
+# Baldwin's Bank of Penn Yan v. Butler
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+This action was brought to recover upon two notes, respectively for $1,000 and of $500, against Wood, Butler & Morris, a firm of lawyers doing business in Penn Yan.
+The thousand dollar note, which was dated the 28th day of February, 1883, has no place in this appeal, inasmuch as the court at the trial nonsuited the plaintiff in respect to it,' and submitted only to the jury the question of the defendant’s liability upon the five hundred dollar note. The latter note was also dated the 28th day of February, 1883, and was made by one J. P. Farmer, to the order of the Farmer Manufacturing Company, and claimed to have been endorsed by the defendants for value and transferred before maturity to the plaintiff. The defendant Wood did not answer. The defendants Butler and Morris answering separately, in substance, allege a want of knowledge that the name of the firm was endorsed upon the notes, and denied that the avails of the note were used by the firm for its benefit, or for the indvidual benefit of either of them, and as to these two defendants the endorsement of the firm name was without authority; that they never received notice of protest, and that such notice was never served.
+The firm of Wood, Butler & Morris was engaged in no business except that of attorneys and counselors at law.
+The learned judge at the trial charged that the plaintiff knew that this law firm was organized for the practice of law only, and therefore was bound to know that, by the rule of law applicable to it, it was not engaged in general commercial business, and that it was put on inquiry as to the right of Wood to use the firm name in the endorsement of the note, and in procuring the same to be discounted at the bank.
+He further charged that there must have been shown an express authority for that act of endorsement, because there was no claim made that the same had been ratified by Butler. This authority, the court further instructed the jury, need not necessarily be conferred in words, but might be implied from acts on the part of the defendants, which would indicate to the mind that they had authorized the use of their names upon the note. He then called the attention of the jury to the fact that the firm, in some way or other, had drawn the money, and that the pass book showed that it had been passed to their credit; that the pass book was at the office of the defendants, and many other circumstances claimed by the plaintiff to establish such authority, and which the court instructed the jury they were at liberty to consider and to say whether they established Wood’s authority or not. Opposed to this there was evidence to show that Butler did not know that the avails of the notes were placed to the credit of the firm, or that he knew that the same had been drawn out by the firm. The verdict of the jury was in favor of the plaintiff’s contention.
+Upon the motion for a new trial on the minutes, the court, evidently, after proper deliberation, granted the defendant Butler a new trial upon the ground that the verdict as to him was against the evidence in the case. After an examination of the testimony, and in view of a better opportunity which the trial justice had in observing the manner of the witnesses, we are not disposed to disturb the order so made. But we think that under the established practice an order granting a new trial for this cause under § 999, should have imposed as a condition thereof, that the defendant pay the costs of the former trial, together with ten dollars costs of the motion. Bailey v. Park, 5 Hun, 41.
+The order appealed from must be modified m this particular, and as so modified, affirmed, without costs to either party on this appeal.
+Dwight, P. J., concur.
