@@ -1,0 +1,25 @@
+---
+court: "New York Superior Court"
+decided: "1867-02"
+citations: ["6 Rob. 552", "29 N.Y. Super. Ct. 552"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James E. Conor, Joseph Cahn et al., plaintiffs and appellants, vs. Herman Hernstein, defendant and respondent."]
+source_url: "https://static.case.law/ny-super-ct/29/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1395651
+---
+
+# Conor v. Hernstein
+
+## Majority (By the Court, Robertson, Ch. J.)
+
+By the Court, Robertson, Ch. J.
+The order of reference made in this case did not dispose of the original motion, nor did it authorize the referee to decide any thing bearing on its merits. It only authorized him to take testimony and report his opinion as to one fact, to wit, payment by the plaintiff Solomons of the judgment in question. He, however; thought proper to pass upon another fact beyond the scope of his authority, to wit, a purchase of such judgment by the claimant Russell. The original motion, therefore, still remaining pending and undetermined, the order appealed from was made, based, as appears by its recital, solely on the report of the referee, without regard to the original affidavits, and reciting that the facts, as found or stated by the referee, “satisfactorily appeared” to the court from such report. It was evidently an oversight or error to pass upon the merits of the motion without considering all the papers upon which it was founded. That alone would justify the vacation of the order appealed from, accompanied • by a direction that the motion be reheard on all the papers. But as we have before us all the evidence upon which it could be reheard, it is not improper for us to examine it upon its merits, and make whatever order should properly have been made at special term.
+As this case turns on the question whether Russell became virtually assignee of the judgment in question at the time of the delivery of the assignment of it to Mr. Isaacs, and the payment by the latter of the same amount as was due on it to the defendant’s attorney, it is necessary to scrutinize the testimony bearing on that question. In order to render Russell such assignee, it was at least necessary that he should have agreed to become so, and to have paid the necessary sum, before the assignment was delivered and the money paid to the defendant’s attorney; since from such agreement alone could have been derived any authority possessed by Isaacs to borrow the money for Russell from golomons, to pay it to the defendant’s attorney, and take the assignment in Russell’s name. Taking .an assignment in blank, and subsequently, by agreement, filling it up with Russell’s name, would not legally make him an assignee after the real debtor had, under the coercion of a levy, actually paid the amount. The latter could not take a blank assignment so as to make any one assignee whom he after-wards should select for the purpose. The judgment could not so be kept alive after being satisfied in law.
+I think the weight of the evidence before us establishes that it was not until after the payment of the amount of the judgment to Adams, and the execution of the assignment, that Russell agreed to become assignee.
+[After scrutinizing other evidence upon the time when Russell agreed to become assignee, the court proceeded.]
+I think it, therefore, very clear that although there may have existed an intention to procure an assignee, the decision of the motion came by surprise, so that the plaintiff Solomons had no time to procure the assent of Russell to become assignee, although he may have believed that, as a friend, he would become so; that the assignment was accepted and executed in blank, with the design of filling it up with the name of whoever might become assignee in case Russell declined; that Solomons, believing he retained the right of transferring the judgment by means of the blank assignment, requested Russell to by it, and not the judgment, informing him that the paper was at the office of Mr. Isaacs; that Russell did so by refunding the money Solomons had paid, and afterwards, first seeing Mr. Isaacs casually in the street, asked him to make him the assignee, and then called on him for the paper. This reconciles all the apparent contradictions in the testimony.
+How far any one is authorized by law to insert a name in a blank assignment, after it had been acknowledged before an officer without it, so as to make the assignor covenant, under seal, with a person whom he did not know would be the assignee, as to the amount due on such judgment, it is not necessary now to decide; nor is it necessary to pass upon the effect of the exceptions in the assignment, or the actual levy upon the property of Solomons. It is enough that at the time of the payment of the judgment by him, no one had agreed to become assignee of it and' pay the purchase money therefor.
+The order appealed from must therefore be reversed, and the execution issued in favor of Russell, the supposed assignee, set aside.
