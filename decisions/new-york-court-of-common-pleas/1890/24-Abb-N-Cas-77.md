@@ -1,7 +1,8 @@
 ---
 court: "New York Court of Common Pleas"
 decided: "1890-02"
-citations: ["24 Abb. N. Cas. 77", "24 Abb. N. Cas. 74"]
+decided_precision: "month"
+citations: ["24 Abb. N. Cas. 77"]
 reporter: "abbn-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["MOORE v. N. Y. ELEVATED R. R. Co."]
 source_url: "https://static.case.law/abbn-cas/24/cases/0077-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1964828
-cites_cases: ["12 Daly, 134", "3 Johns. 252", "38 N. Y. Super. Ct. 482", "4 Johns. 487", "56 How. Pr. 167", "65 How Pr. 154", "66 How. 302", "74 N. Y. 370"]
+cites_cases: ["12 Daly, 134", "3 Johns. 252", "38 N. Y. Super. Ct. 482", "4 Johns. 487", "56 How. Pr. 167", "66 How. 302", "74 N. Y. 370"]
 ---
 
 # Moore v. N. Y. Elevated R. R. Co.
