@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-11-13"
+citations: ["41 N.Y. St. Rep. 434"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charlotte W. Patten, Resp’t, v. The United Life & Accident Insurance Association, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/41/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2068243
+---
+
+# Patten v. United Life & Accident Insurance
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action was brought by the plaintiff to recover upon a policy of insurance issued upon the life of one Jarvis Patten for the benefit of the plaintiff.
+The plaintiff alleged performance of all the requirements of the policy, which was denied by the defendant, it alleging failure to make a payment which fell due on the 16th of April, whereby under the conditions of the policy it lapsed and became void; and that to induce the defendant to reinstate Patten he certified in writing, by a certificate dated April 19, 1888, and received by the defendant on April 23, 1888, that he was in good health. He died on the 16th of May following, and it was claimed that the statement made by the decedent in said certificate in respect to his health at that time was untrue.
+To sustain this issue the defendant offered in evidence an exemplified copy of the records of the health department of the city of Washington, showing the record of the death of Jarvis Patten. This was objected to by the plaintiff, the objection sustained, and an exception duly taken by the defendant.
+The defendant also offered in evidence the testimony of Dr. George 1ST. Perry, taken on commission duly issued and returned. To certain interrogatories the plaintiff’s objections were sustained and the exception of the defendant was duly taken. Upon the conclusion of the trial, the court directed a verdict for the plaintiff, and from the judgment thereupon entered this appeal is taken.
+The exceptions to the exclusion of evidence hereinbefore referred to form the sole basis of the appeal.
+Without passing upon the question of the admissibility of the copy of the record of the health department of the city of Washington for any purpose, it is sufficient to say that no question is presented by the case on appeal upon this point, as the copy of the certificate is not contained in the case and we cannot say whether or not it contained any matter relevant to the issue presented for trial.
+The exception to the exclusion of the answers to some of the interrogatories to Dr. Perry presents, perhaps, a more serious question; but upon a consideration of all that appears upon the face of this record, it appears that Dr.. Perry was the attending physician of the deceased in his last illness; and, therefore, under the provisions of the Code he was not allowed to testify in regard to any knowledge which he acquired as such attending physician. He was asked :
+“Did you attend Jarvis Patten professionally in his last illness?
+“ Did you continue in such attendance upon Jarvis Patten until his death ?
+“ When were you first applied to in relation to the last illness •of Jarvis Patten?
+“ Where did you first see Jarvis Patten concerning his last illness?
+“How many times did you attend him professionally intermediate the time you first saw him in relation to his last illness as you have testified, and the death of Jarvis Patten?”
+Some of these interrogatories, perhaps, it might have been ■proper to allow; but the answers thereto, no matter what they might have been, would in no way have established or tended to establish the defence interposed by the defendant.
+It may be said that the interrogatory inquiring when were you first applied to in relation to the last illness of Patten, might have shown that at the time of the giving of the certificate in question the witness was attending him professionally. But that question involved the statement that he was called in relation to the last illness of Patten; and that this was his last illness could only be ascertained by Dr. Perry in his professional capacity in attending upon the patient, and therefore the interrogatory was properly excluded.
+Upon the whole case there seems to have been no error which was detrimental to the defendants and the judgment should be .affirmed, with costs.
+Daniels and Ingraham, JJ., concur.
