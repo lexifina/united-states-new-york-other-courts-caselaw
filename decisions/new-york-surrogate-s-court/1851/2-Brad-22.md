@@ -1,0 +1,20 @@
+---
+court: "New York Surrogate's Court"
+decided: "1851-08"
+citations: ["2 Brad. 22"]
+reporter: "brad"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ex parte, Brown. In the matter of the Estate of Dorcas M. Remsen, deceased."]
+source_url: "https://static.case.law/brad/2/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1127715
+---
+
+# Ex parte Brown
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+The will of , the deceased has been proved before me, and the executor having renounced, one of the legatees applies for letters of administration with the will annexed, and claims that the same should be granted without any bond being required. The section of the statute under which this application is made, provides that if all the persons named in a will as executors, shall renounce, or after being duly summoned to appear and qualify, shall neglect to qualify, or shall be legally incompetent, then letters testamentary shall issue, and administration with the will annexed be granted, as if no executors were named in such will, “ to the residuary legatees or some or one of them, if there be any; if there be none that will accept, then to any principal or specific legatee, if there be any ; if there be none that will accept, then to the widow and next of kin of the testator, or to any creditor. of the testator; in the same marnner and under the Wee regulations and restrictions, as letters of administration in case of intestacy.” (2 R. S., p. 136, 3d ed., § 15.) It is contended that the words of the section just quoted in italics, apply only to the last class of persons entitled to administration, and not to the two previous classes, viz., the residuary and the specific, or general legatees. The result of such a construction, having regard only to this section, would be that the usual regulations and restrictions in relation to administration in case of intestacy, are applicable to administration with the will annexed only when granted to the widow, next of kin, or creditors. It would consequently follow, that a residuary or other legatee might administer without giving a bond with the requisite sureties. I do not think this a proper mode of interpretation, but on the contrary, am • of opinion that the final clause of the section and the regulations and restrictions there referred to, are applicable to all the preceding provisions relative to administration with the will annexed.
+Again, by the 43d section of the statute (2 R. S., 3d ed., p. 141), it is provided that “ every person appointed administrator, shall, before receiving letters, execute a bond to the people of this State with two or more competent sureties, to be approved by the Surrogate, &c.” Sow, although, throughout the statute, an administrator with the will annexed, is frequently distinguished from an administrator in case of intestacy, yet I conceive that the word administrator is sufficiently broad and comprehensive to embrace every kind of administrator, whenever no distinction is made; so that the direction requiring “ every person appointed administrator ” to execute a bond, of necessity includes an administrator with the will annexed. Indeed, if these two sections (§§ 15, 43), are not to be interpreted in this way, the statute is grossly deficient in securing the accountability and control of an administrator with the will annexed. Unless the word administrator be construed to cover- an administrator with the will annexed, there is no mode provided by law for compelling him to make an inventory, to account and distribute the estate; and in truth, he would in almost every important respect, be exempt from the supervision and control of the Surrogate. Such an idea cannot prevail for a moment ; and I have no hesitation, therefore, in applying to administrators with the will annexed, as a species or class of administrators, all the provisions of the statute applicable to administrators generally. The applicant in this case, must consequently give the usual bond, before the letters can be issued.
