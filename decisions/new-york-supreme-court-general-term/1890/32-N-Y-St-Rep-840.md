@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-06-06"
+citations: ["32 N.Y. St. Rep. 840"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel Charles F. Reister v. Stephen B. French et al., Com’rs."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0840-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040179
+---
+
+# People ex rel Reister v. French
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The charge upon which the relator v?as tried and removed was, that he was so.much under the influence of intoxieating liquor in the first precinct station house, as to be unfit to perform, police duty, and that this was his condition at the expiration of his tour of patrol duty on the 18th of January, 1889. The charge was denied by him. And in support of the charge Captain McLaughlin testified that the officer could not walk straight, and smelt very much of liquor, but still he could talk very well. This was at the time he was entitled to leave the station house, and he added that the officer was then unfit for duty. Sergeant Hatton gave substantially the. same descrqition of the officer, and added that this was his condition when he came in from patrol duty. Sergeant Doherty was not quite as pronounced in his conclusion, but by his evidence still confirmed the fact that the officer was so much influenced by liquor as to be incapable of overtaking a person who should endeavor to escape from his efforts to capture him. Sergeant Halpin was about as confident .as the witnesses first examined, as to the officer’s condition, and he added that the latter stated he had taken a drink on account of a person brought in by him, which he thought to be a case of cholera. But in his judgment the officer was unfit for patrol duty, by reason of being under the influence of liquor. The evidence of the surgeon was more favorable to the accused, but his inspection and examination of him was nearly an hour later in the afternoon.
+The officer denied being in this condition, and also the statement mentioned by Sergeant Halpin, and testified that the person brought in by him was a sick sailor. Patrolman Newton stated that he saw the officer about twenty minutes after twelve, when he gave no indication of having been drinking. The further evidence was very slight, and not materially affecting the case. It is quite plain that the evidence created a question of fact for the .commissioners to decide. It was sufficient to support the view adopted by them. And upon the whole case there seems to be but one alternative, and that is to affirm their decision.
+Van Brunt, P. J., and Brady, J., concur.
