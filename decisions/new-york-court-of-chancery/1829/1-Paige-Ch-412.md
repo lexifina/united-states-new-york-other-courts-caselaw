@@ -1,0 +1,26 @@
+---
+court: "New York Court of Chancery"
+decided: "1829-02-17"
+citations: ["1 Paige Ch. 412"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*Piggot v. Mason."]
+source_url: "https://static.case.law/paige-ch/1/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2178512
+cites_cases: ["13 John. 297"]
+---
+
+# Piggot v. Mason
+
+## Majority
+
+The Chancellor, :—The objection that the covenant to renew contained in the original lease was personal, and did not pass by the assignment of the lease, cannot be sustained. It was a covenant running with the land, and passed to the complainant by the several mesne assignments of the term. It is well settled, even at law, that the assignee may recover in Ms own name for a breach, of such a covenant, if the breach was committed after the assignment. (Lamette v. Anderson, 6 Cowen, 302; Withey v. Mumford, 5 id. 137; Kane v. Sanger, 14 John. R. 89; Grescot v. Green, 1 Salk. 199.) And it lies either for or against an assignee, although he is not named in the covenant. (Hyde v. The Dean and Canons of Windsor, Cro. Eliz. 552.) The assignee of a part of the premises may also recover pro tanto, if the covenant be in its nature divisible. (Touchstone, 199; Co. Litt. 385 a.) A case is mentioned by Gawdy, (Moor, 159,) very similar to this. The lessor of a term for years covenanted to renew at the end of the term, and afterwards granted the reversion; and the assignee of the lease was permitted to maintain an action in his own name for a breach of the covenant against the assignee of the reversion.
+If the defendant in this case had obtained an advantage by procuring the surrender and conveyance of the sublease to Spies, as he obtained it with full knowledge of the complainant’s *rights, this court would not permit him to retain such advantage. But such is not the fact. The leases to Griffiths and Green and to Spies were strictly subleases, and did not convey to them all the interest of the lessors in those particular portions of the premises. The lessors retained an interest in those portions of the premises by the new rent reserved to themselves. They did not give to the sub-lessees an absolute right to take off the buildings which they should afterwards erect. If buildings had been previously erected, the absolute right to them at the expiration of the term belonged to the complainant, if the lessees did not think proper to take new sub-leases; and the right of the complainant to take the renewal of the original lease in his own name is evidently reserved in the sub-leases.
+The defendant is therefore bound to give to the plaintiff a new lease of the whole premises, and he will then be entitled to a renewal of the sub-lease for lot No. 2, on the terms and conditions specified in the lease to Spies.
+As the parties cannot agree upon persons to fix the value of the rent to be inserted in. the new lease, it may be fixed under the direction of the court; and the proper sum to be inserted must be ascertained by the report of a master. The other conditions of the lease are sufficiently ascertained by the one originally granted. The new lease must be for a similar term, and with the like covenants and conditions inserted therein, except the covenant for renewal, which the complainant is not entitled to have inserted in the new lease, as that would, in effect, create a perpetuity. (Fritton v. Foot, 2 Bro. Ch. R. 636; Hyde v. Skinner, 2 P. Wms. 196.) The amount of the rent to be inserted in the new lease must be estimated in reference to the value of the land in May, 1823, without taking into consideration any buildings or improvements made thereon by the original lessee or those who succeeded him in the occupation of the premises.
+It would be for the interest of all parties if the defendant should give to the complainant, or to him and Griffith separately, a new lease or leases of lots No. 1 and 3 only, and retain No. 2 himself, with a proportionate reduction of the rent. The amount of the rent may be fixed by *three freeholders, to be selected by such master as may be agreed on by the parties or designated by the court. H the defendant consents to that arrangement, a decree will be entered accordingly, and without costs to either party. Otherwise there must be a decree for a specific performance of the covenant of renewal contained in the original lease, with a provision therein for the execution of a sub-lease to the defendant for lot No. 2, and a reference to a master to settle the form of the lease and sub-lease, and fix the amount of rent to be reserved in each. And that the question of costs, and all other questions and directions be reserved until the coming in of the report of the master.
+But a covenant in a lease which relates to a thing not ire esse, but to be. done upon the land, does not run with the land so as to bind the assignee, unless he be named in the covenant. Tallman v. Coffin, 2 Comst. 134.
+Astor v. Miller, 2 Paige, 68.
+Carr v. Ellison, 20 Wen. 178; see also Abeel v. Radcliffe, 13 John. 297; but see Bridges v. Hitchcock, 5 Brown’s P. C. 6. A covenant to renew on such terms as might be agreed on, is void for uncertainty. Whitlock v. Duffield, 110; S. C., 26 Wen. 55.
