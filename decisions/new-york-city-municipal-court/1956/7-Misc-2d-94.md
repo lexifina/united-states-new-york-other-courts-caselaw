@@ -1,7 +1,7 @@
 ---
 court: "New York City Municipal Court"
 decided: "1956-08-22"
-citations: ["7 Misc. 2d 94", "7 Misc. 2d 93"]
+citations: ["7 Misc. 2d 94"]
 reporter: "misc2d"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Gustave B. Garfield, Plaintiff, v. Constance C. Mackinney, Defendant.
 source_url: "https://static.case.law/misc2d/7/cases/0094-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016318
-cites_cases: ["112 N. Y. S. 2d 211", "7 Misc 2d 94"]
 ---
 
 # Garfield v. Mackinney
