@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1885-01"
+citations: ["41 N.Y. Sup. Ct. 633"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J., dissenting."]
+parties: ["Thomas J. Pope and another, Respondents, v. The Terre Haute Car and Manufacturing Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/41/cases/0633-05.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4477406
+---
+
+# Pope v. Terre Haute Car & Manufacturing Co.
+
+## Majority (Daniels, J.;)
+
+—Order and judgment
+affirmed. Opinion by
+Daniels, J.;
+Davis, P. J., dissenting.
