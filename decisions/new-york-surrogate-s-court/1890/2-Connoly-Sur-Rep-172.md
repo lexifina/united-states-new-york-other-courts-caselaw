@@ -1,0 +1,27 @@
+---
+court: "New York Surrogate's Court"
+decided: "1890-02"
+citations: ["2 Connoly Sur. Rep. 172"]
+reporter: "connoly-sur-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of Brooks.", "In the matter of the judicial settlement of the account of Charles M. Thompson, as executor of the will of Benjamin F. Brooks, deceased."]
+source_url: "https://static.case.law/connoly-sur-rep/2/cases/0172-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1132607
+cites_cases: ["20 Wend. 564"]
+---
+
+# In re the Judicial Settlement of the Account of Thompson
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+The testator provided in his will as follows: “ First. I give and devise to my wife Celia Ann, $2,500 in lieu of dower. Also, I give and devise to my executors hereinafter named, $2,000, intrust, for my nephew Ellsworth Mather. And it is my will that this sum shall be so managed and used as will best promote the future welfare, comfort and happiness of the said Ellsworth Mather, and to that .end I shall leave the disposition and management of the said sum, both interest and principal, should it be necessary, to the better judgment and discretion of my executor hereinafter named.....All the rest and residue of my real and personal estate whatsoever and wheresoever and which has not hereinbefore been disposed of, after paying my debts, legacies, and funeral expenses I give.....to my two nieces.” ....
+The estate is insufficient to pay the legacies in full. The legacy to the widow is conceded to be in value many times the actual value of the dower right released, and it is claimed that the excess in value should ratably abate with the other legacies. The principle is well established that legacies given in lieu of dower do not abate, and while I do not find any case in which it is stated that it makes no difference whether the legacy exceeds in amount the value of the dower right relinquished, I do find several cases in which it was stated that such was the fact and no significance apparently was attached to it. Orton v. Orton, 3 Abb. App. Dec. 411.
+The testator died July 11, 1888, and his nephew has since died, having received only $174.50 on account of the said legacy.
+The question now arises, who takes the principal of the legacy—the representatives'of the deceased nephew or the residuary legatees ? In Roper on Legacies, at page 640, several instances are given where executors were directed to purchase annuities, for legatees during life, and the legatee died soon after the testator, and before the money had been invested in the annuities, where it was held that the fund vested in legatee at the death of the testator, and passed to the representatives of the legatee; and at page 647, other cases in which legacies were given to trustees in trust to apply the produce to the maintenance during minority and then to settle the same upon the legatee or his issue in the discretion of the trustee, the legatee having obtained majority.but dying before settlement made, was held to have become absolutely entitled upon his death, so as to be able to bequeath the fund by his will.
+These cases differ from the present in that in those cases to have carried out the directions of the testator would have completely taken away from the residue the amount of the legacy and the testator clearly so intended. Here such intention is not so plain; the gift is $2,000 in trust to the executors “for my nephew.” The trust is the disposition and management “ of the sum ” principal and interest, if necessary, for the nephew’s best interests. In their discretion, they might-have paid out to or for him the whole income and fund and, I think, could have invested the whole fund in annuities payable during his life.
+The case of Campbell v. Brownrigg, 1 Phil. Ch. 301, it seems to me, is an authority in this case. The testator bequeathed 50,000 sicca rupees to his daughter for her use in the following manner: to be invested in government securities, interest to be paid to her during her lifetime, and if she married and had children, such children to take the principal. The remainder of his property he gave between three legatees.
+The daughter survived the testator and was married, but had no children. The question arose, whether the fund belonged to the personal representative of the daughter or to the residuary legatees. The chancellor, overruling the decision of the vice-chancellor, held that the use only was controlled, and that the daughter took subject to that restriction, and when it ceased it remained by virtue of the gift her absolute property. In Hone’s executors v. Van Schaick, 20 Wend. 564, legacies were given not to be paid without the written approbation of the parents, who were to fix a discreet, and proper time for the payment, and it' was held that the legatees took a vested interest immediately on the death of the testator.
+I have been unable to find in the reports of this state any authority which settles the law of this case, but upon the authority of Campbell v. Brownrigg, supra, and our statute relating to uses, I conclude that the legacy to Ellsworth Mather vested in him at the death of his uncle, the testator, subject only to the control of the executor during the life of said Ells-worth, and at his death passed to his legal representatives and not to the residuary legatees of the testator.
