@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Common Pleas"
 decided: "1882-12-04"
-citations: ["11 Daly (N.Y.) 301", "11 Daly (N.Y.) 306"]
+citations: ["11 Daly (N.Y.) 301"]
 reporter: "daly-ny"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Emil A. Neresheimer, Respondent, against Peter Bowe, as Sheriff of th
 source_url: "https://static.case.law/daly-ny/11/cases/0301-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1604835
-cites_cases: ["10 How. Pr. 90", "12 Abb. Pr. 81", "17 Abb. Pr. 196", "18 Johns. 335", "2 Johns. 482", "33 Barb. 86", "4 How. Pr. 432", "41 How. Pr. 95", "5 How. Pr. 476", "5 Rob. 72", "8 Hun 361"]
+cites_cases: ["12 Abb. Pr. 81", "18 Johns. 335", "2 Johns. 482"]
 ---
 
 # Neresheimer v. Bowe
