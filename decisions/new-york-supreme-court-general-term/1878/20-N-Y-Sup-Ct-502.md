@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1878-03"
+citations: ["20 N.Y. Sup. Ct. 502"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J., and Daniels, J., concurred."]
+parties: ["ISAAC V. FRENCH, as Receiver of THE CENTRAL PARK SAVINGS BANK IN THE CITY OF NEW YORK, Appellant, v. JOSEPH E. REDMAN and others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/20/cases/0502-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2356498
+cites_cases: ["1 Edw. Ch., 513", "1 R. I., 312", "11 Ala., 191", "20 Ohio St., 442"]
+---
+
+# French v. Redman
+
+## Majority (Brady, J.:)
+
+Brady, J.:
+Assuming that tbe purchase of four plots of land were necessary for tbe banking-house contemplated by tbe resolution to build, it appears that three of tbe plots were sold, and as tbe result tbe plot left cost $29,250. This, it would seem from the evidence, was a fair price for it when purchased, although by tbe depreciation in real estate it was not worth more than $22,000 when this action was tried. If it was fairly worth tbe sum wbicb it cost when it was bought, then no charge of improvidence or wrong can be sustained unless tbe purchase itself, under tbe then existing circumstances, was wholly unwarranted. It is a notorious fact that real estate has, during tbe period of five years last past, depreciated in all tbe States and in Europe, a result from causes to wbicb it is not necessary to refer. It is equally notorious that loans made upon real estate in this county, and elsewhere situate, and by corporations exercising care, have not been realized by tbe sale of tbe securities pledged, owing to tbe depreciation mentioned.
+Tbe difference between tbe values of 1873, 1875, 1876 and 1877 are easily accounted for, therefore, and readily understood. Tbe mere fact of the depreciation is consequently insufficient to sustain any charge of wrong done, and suggests the inquiry, as already intimated, whether the purchase was unjustifiable. The bank was not at the time the land was selected a success, and nothing in the case revealed warrants the conclusion that it would be. During its existence, except for the years 1870 and 1871, its outlays were more than its receipts; and in 1872, the year succeeding the last prosperous year, the amounts paid out exceeded the sums received by more than $2,000. The land was purchased in 1873, and in the year succeeding that in which as' just stated the outlays exceeded the receipts. How could it, then, be possible that any new building was necessary for the business of the bank beyond what it occupied, and if it was not, how can the purchase of the excessive plots be construed as other than an intention to speculate, and thus, if successful, increase the assets of the bank ? It is true that the right to the exercise of their judgment and discretion may protect its officers, but. these elements of human action must rest upon something other than mere caprice, and upon something which has substance, some thing which business men would estimate as of value, and sufficient for operations connected with the subject to which it related. For these reasons, without any extended examination of the authorities kindred to the subject, it is quite apparent that whether the discretion was abused is a question for determination. The learned justice presiding at the trial so treated the issues presented. He proclaimed that there was nothing in the case to show that at the time the purchase was made it was such an excess of authority on their part or such a want of judgment as to make them personally liable for the result. In this we think he may have been mistaken, and that under’ the circumstances the question was a proper one for the jury to consider and decide. The facts detailed are sufficient to demonstrate that a jury might regard the purchase as one which the financial condition of the bank did not at all warrant, and draw thence the conclusion of wrong intended or liability incurred by unjustifiable expenditure.
+The defendants would have the benefit on the investigation of the charge against them of such evidence as they might present in defense, and of the doctrines of ignorance of the facts, of innocence and of good faith so far as they could be applied, and might clearly exculpate themselves from all imputation. The evidence given called upon them to respond. There was a prima facie case against them, which demanded consideration at the hands of the jury. The respondents placed great confidence in the case of Scott v. De Peyster (1 Edw. Ch., 513), and with some plausibility, as an authority for the proposition that on the facts disclosed the defendants are relieved from all liability, there being no charge of dishonesty or willful wrong established against them.
+A careful examination of that, case dissipates the thought of its advantage to them, as assumed. So far as it bears analogy to this case, the result is that the conduct of the trustees was regarded as an innocent mistake or error of judgment.
+The circumstances were peculiar, but fully sustained the conclusion expressed. Whether the conduct of the defendants complained of was an innocent mistake or a mere error of judgment, it was the province of the jury to determine, and from which they were prevented- by the dismissal of the complaint. We think the case should have been submitted to the jury, and that the omission to allow it to be done was error.
+Judgment reversed, with costs to abide event.
+Davis, P. J., and Daniels, J., concurred.
+Judgment reversed and new trial ordered, costs to abide the event.
