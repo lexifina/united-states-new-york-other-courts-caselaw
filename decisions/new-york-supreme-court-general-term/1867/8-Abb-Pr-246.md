@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1867-09"
-citations: ["8 Abb. Pr. 246", "8 Abb. Pr. 256"]
+decided_precision: "month"
+citations: ["8 Abb. Pr. 246"]
 reporter: "abb-pr-ns"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["CORN EXCHANGE INSURANCE COMPANY against BABCOCK."]
 source_url: "https://static.case.law/abb-pr-ns/8/cases/0246-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1964109
-cites_cases: ["17 Barb., 492", "18 N. Y., 265", "2 Hill, 339", "22 N. Y., 450", "39 Barb., 194"]
+cites_cases: ["18 N. Y., 265", "22 N. Y., 450", "39 Barb., 194"]
 ---
 
 # Corn Exchange Insurance v. Babcock
