@@ -1,0 +1,23 @@
+---
+court: "New York Surrogate's Court"
+decided: "1889-02"
+citations: ["1 Connoly Sur. Rep. 362"]
+reporter: "connoly-sur-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of Jansen. In the matter of the estate of August H. Jansen, deceased."]
+source_url: "https://static.case.law/connoly-sur-rep/1/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1130491
+---
+
+# In re the estate of Jansen
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+It is not within the province of this court to question the power of the learned justice to make the order referred to, but as the action did not relate to any part of the estate left by the deceased, and as section 1823, under the authority of which the order was made establishing the lien on the real estate of the deceased, occurs under Title III., Article I., Chap. 15 of the Code of Civil Procedure, which speaks only of “ Actions relating to the estate of a decedent,” the power to make such order may fairly be regarded as questionable. The section seems to have reference to section 1852, which authorizes the court to direct that the judgment against an heir at law or devisee, be collected out of specific real property. But, with that, this court has no concern, except that it must determine whether the judgment has been obtained in an action relating to the estate of a decedent, and if it has, then it may, if the decedent left assets, under the provisions of §§ 1825 and 1826, and in such case only, make the order sought.
+There seem to be hut three cases in which the Surrogate’s Court has anything to do with the issuing of an execution. The first is where a judgment was obtained against a person in his lifetime, since deceased, under § 1830. The second is, where a judgment has been recovered against an executor or administrator for a sum of money under §§ 1825 and 1826, supra. And the third is where the Surrogate himself may issue an execution under § 2554. The second is the only one with which we are here concerned. The sections (1825 and 1826) are intended as substitutes, with amendments, for 2 R. S. 88 § 32, and 115 § 13, and relate solely to the collection of debts, legacies and distributive shares, for which judgments have been obtained, out of the assets of the decedent. They confer no power upon the Surrogate to permit an execution to be issued against real estate. The very sections themselves point out the manner in which the Surrogate shall ascertain the amount for which the execution is to issue. If an accounting shall have been had, it is a matter of calculation, if the balance of assets is insufficient to pay all claims of an equal degree in full, to ascertain the pro rata share for which the execution shall go. If the assets are admittedly sufficient, then it will issue for the whole amount due. If there has been no accounting and a question be raised as to the sufficiency of the assets, then the' Surrogate may, under the pro1visions of § 2723, require an intermediate accounting ; and if it shall appear that there are no assets, as in this case, then no execution can be issued, because there is nothing on which it can operate.
+But granting that the assets were here abundant, as the judgments have not been obtained in an action relating to the decedent’s estate, no step can be taken by this court looking to the collection thereof. The sections under which it is asked that the order be made, have reference only to claims that belonged to the decedent in his lifetime, or to claims existing against him at the time of his death; or judgments for distributive shares or for legacies where he died testate. The claim which the widow of the intestate as administratrix, sought to recover is created by statute (Code § 1902) and had no existence during his lifetime. His death gave birth to the claim. It surely was no part of the estate left by him, and her action in no sense could be styled “ an action relating to decedent’s estate.” It is true that if any damages had been recovered in the action and collected, they should have been accounted for in this court, “as if they were assets” but would have belonged exclusively to the widow and next of kin, without regard to any debts of the deceased or expenses of administration. But this provision (§ 1903) does not make them assets. It excludes the idea of their being such.
+It would be foreign to this case to endeavor to consider what other remedy the defendants may pursue for the recovery of their costs embraced in the judgment. It is sufficient that this court is powerless to render them any aid.
+Motion denied, with ten dollars costs.
