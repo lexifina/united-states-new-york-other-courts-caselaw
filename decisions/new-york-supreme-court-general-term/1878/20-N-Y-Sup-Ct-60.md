@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1878-01"
+citations: ["20 N.Y. Sup. Ct. 60"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Learned, P. J., Bockes and Osborn, J.L"]
+parties: ["THE TROY AND BOSTON RAILROAD COMPANY, Respondent, v. THE BOSTON, HOOSAC TUNNEL AND WESTERN RAILROAD COMPANY and WILLIAM L. BURT, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/20/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2357014
+---
+
+# Troy & Boston Railroad v. Boston, Hoosac Tunnel & Western Railroad
+
+## Majority (Learned, P. J.:)
+
+Learned, P. J.:
+In tbe view which we take of this appeal it is not necessary to inquire very carefully wbat may be tbe rights of tbe respective parties on a final decision upon the merits.
+This appeal is brought from an order granting an injunction pending the action. Such an injunction is not a matter of right, but of discretion, and should be granted with great caution. It by no means follows that, because it appears probable that the plaintiff will finally recover, therefore the court should restrain the defendant before the trial and decision of the case. The frequent granting of injunctions pending the action is the cause which has thrown so much discredit on this remedy.
+In this present case the plaintiff claims, by virtue of a lease or contract, to own the road-bed and generally the rights which formerly belonged to the Albany and Yermont Railroad Company. The plaintiff became possessed of these rights about seventeen years ago. At that time it removed the rails from the road-bed for a considerable part of the route owned by the Albany and Yermont Railroad Company. That portion of the road the plaintiff has not in any way used from that time to the present. The owners of land along the road have generally inclosed the parts adjoining to their own property, as if the use had been abandoned for railroad purposes. This strip of land or road-bed is not generally adjacent to the road of the plaintiff. It lies, as stated on the argument, in places two or three miles distant therefrom. The plaintiff does not aver in the complaint that it is in possession of this apparently abandoned road-bed. But it alleges its intention at some future time if business requires to use this roadbed again.
+After this long disuse of this piece of the road-bed and this actual resumption of it by the adjacent owners, the defendant has purchased from these owners, or some of them, their title thereto, whatever that may be, and is proceeding to construct a railroad thereon. It is the intention of the defendants to operate that road when completed. This will create a rivalry with the business of the plaintiff. The plaintiff has obtained an injunction forbidding the defendants from proceeding with this work, and the defendants appeal.
+An injunction is sometimes granted to restrain trespassers, on the ground of preventing a multiplicity of suits. But as the plaintiff does not aver possession of the premises, it is not seen how trespass could be maintained, and this ground of the injunction seems insufficient.
+So in some cases the owners of the property have, on a final decree, restrained the construction of a railroad in a street in front of their property. In such cases the owners have been in possession of the property, and the construction of the road has been held to be an invasion of rights which they possessed, as well as claimed. In those cases, too, the land which the plaintiffs held had not been taken for railroad purposes, although it was subject to the easement of ordinary travel.
+But in the present case the plaintiff, who has been out of actual possession of this land for seventeen yéars, seeks to restrain an entry upon the land, made under conveyances from those who were last in actual possession. To justify such an injunction, pending the action, it should appear that the acts done, and to be done, by the defendants will work such injury to the plaintiff as cannot be compensated, or that they will prevent the final judgment in the action from being effectual. Such does not seem to be the case here. If the defendants are re-grading and laying down rails, these acts do not permanently injure the land. If the land belongs to the plaintiff, the affixing of rails and sleepers thereto will tend rather to increase its value, by making it more fit for the purpose for which it was originally laid out and jirejiared. These acts will put the road in good condition for that very use of it, which the plaintiff avers that it contemplates at some future day.
+It may be said that the defendants, after putting this road in order, will proceed to operate it and therefore should be enjoined; but there is no need even in that view of an injunction pending the action. The only damage to the plaintiff would be from loss of business. That could be compensated in damages; sufficiently so, at least, as to all that can be done before a trial and judgment.
+The defendants evidently go on with this work at their peril, in case they have no right to the land. They are improving property to which it may appear that they have no title; while if they have a right to the land the injunction operates as a great injury to them; much greater than any possible loss which can be. suffered by the plaintiff jaending the action.
+, The railroad act provides for the right of a road to form connections with other roads. If then this road, when constructed, is a necessary link in the route of the defendants it would seem that they would have a right of connection over it; although it may be decided to belong to the plaintiff. The legislature did not intend that a railroad companymwning a certain line of road should block up all passage over it by refusing to connect with other roads. It . is unreasonable that tbe plaintiff should neither use this road-bed itself nor permit others to use it. Certainly they should not do this by an injunction pending the action, when the final judgment can redress all injuries which they may be shown to have suffered if they should establish the rights they assert.
+Without, therefore, making any decision on the merits of the case as they may appear on the trial, we think that this is not a case where during the action the defendants should be enjoined.
+The order appealed from should be reversed, with ten dollars costs and printing disbursements.
+Present — Learned, P. J., Bockes and Osborn, J.L
+Order reversed with ten dollars costs and printing disbursements; and motion for injunction denied, with ten dollars costs.
