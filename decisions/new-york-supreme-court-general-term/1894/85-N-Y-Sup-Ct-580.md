@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["85 N.Y. Sup. Ct. 580"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Bradlet, JJ., concurred."]
+parties: ["John Doorley, Respondent, v. Ellen L. McConnell, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0580-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4719141
+cites_cases: ["41 N. Y. 442"]
+---
+
+# Doorley v. McConnell
+
+## Majority (Haight, J.:)
+
+Haight, J.:
+This action is in ejectment to recover possession of real estate.
+The demurrer is interposed upon the grounds that there is a defect of parties plaintiff, and that the complaint does not state facts sufficient to constitute a cause of action. The complaint, in substance, alleges that on the 1st day of April, in the year 1876, Henri Hall, Warren Packard and Mary E. Packard, his wife, and the plaintiff, John Doorley, were owners in fee and -tenants in common (except that the interest of the said Mary E. was an inchoate right of dower only) in the premises in question. On that day they conveyed the same to Warren Packard by a deed with covenants of warranty and of quiet and peaceable possession and containing the following: “ And the said Packard, party of the second part, for himself, his heirs and assigns, does hereby covenant to and with the said Hall, Warren Packard and Doorlev, their heirs, executors and administrators, that neither the said Warren Packard, party of the second part, nor his heirs or assigns, shall or will, at any time hereafter, erect any building within ten feet of the front of said lot or lots, and will not erect or permit on any part of said lot or lots any barn or outhouse, except a summer house or other ornamental building or privy, nor keep for sale, nor permit to be sold or kept for sale upon said premises any intoxicating liquor of any kind or description whatever, under the penalty of a forfeiture of the lots above conveyed to the said first party, their heirs or assigns, upon proof of such selling or keeping for sale any intoxicating liquors as aforesaid.”
+The complaint further alleges that the premises so conveyed to Packard were by him, through several mesne deeds, conveyed to King I). Fleek and Ermina Fleek, his wife ; that the deeds by which such conveyances were made were all recorded in the clerk’s office.
+The complaint further alleges that during the time that Fleek and wife were the owners and in possession of the premises they erected thereon a hotel for the accommodation of the public within ten feet of the street in front thereof, and also built a hotel barn on the lot, in which they kept horses and carriages for the accommodation of their guests and patrons, and also constructed other shanties and buildings thereon in violation of the condition in the deed, and did therein, under a license issued by the board of excise of the town, sell and cause to be sold and kept for sale, and offer for sale in said hotel building to persons, various kinds of intoxicating liquors dui’ing the year 1889.
+It is further alleged that thereafter, and on the 11th day of September, 1890, King D. Fleek made a general assignment for the benefit of creditors to George W. Boomer, who duly qualified as such assignee and entered into possession of the said premises, and, on the 30th day of April, 1891, thereafter, did sell and convey the same by deed, in which Fleek and wife joined, for a consideration duly paid, to the plaintiff.
+The summons issued herein is dated July 13, 1893. It thus appears that this action was commenced four years after the alleged selling and keeping for sale of intoxicating liquors upon tlie premises, and after the premises bad been conveyed to the defendant. There is no allegation in the complaint that she knew of such sale or of there being a forfeiture by reason thereof. In this respect it appears to us that the complaint does not state facts sufficient to constitute a cause of action.
+Packard, as the party of the second part, covenants that he, his heirs or assigns, shall or will not at any time erect any building within ten feet of the front of the lot, etc. This provision of the deed is described as a covenant, and, as we understand, it is separate and distinct from that which follows.
+The deed then provides that the grantee shall not keep for sale nor permit to be sold upon the premises any intoxicating liquor, under the penalty of the forfeiture of the lots, etc., “ upon proof of such selling or keeping for sale of any intoxicating liquors as aforesaid.”
+It will be observed that the forfeiture herein provided for has reference to the selling or keeping for sale of intoxicating liquors upon the premises, and that it has no application to the covenant pertaining to the buildings upon the lot, so that whilst there may be a breach of the covenant as to the buildings, such breach does not create a forfeiture of the estate, and that such forfeiture can be maintained only upon proof of the selling and keeping for sale of intoxicating liquors. Can it be now invoked ? As we have seen, the plaintiff rested upon his rights during the time that Eleek and wife owned and occupied the premises. He waited four years and until after the defendant had purchased and paid for the premises. Her possession is that of an innocent purchaser for value, and it appears to us that she obtained a good title of which she cannot now be divested because of the misconduct of one of her former grantors. She found the premises in their peaceable possession. The records of the clerk’s office showed them to be the owners in fee. She is not charged with having knowledge of any forfeiture, and if she had, she might reasonably have supposed that it had been waived byThe persons entitled to insist upon it, from the facts disclosed in the case. It is true she was apprised by the records of the condition incorporated in the deed to Packard, and if she now violates it she may forfeit her estate. (Plumb v. Tubbs, 41 N. Y. 442.)
+These views render it unnecessary to consider the question as to whether there is a defect as to parties plaintiff.
+The interlocutory judgment should be reversed, with costs, but with leave to the plaintiff to amend the complaint within twenty days upon payment of the costs of the demurrer and of this appeal.
+Dwight, P. J., Lewis and Bradlet, JJ., concurred.
+Interlocutory judgment reversed, with costs, but with leave to the plaintiff to amend complaint within twenty days upon payment of the costs of the demurrer and of this appeal.
