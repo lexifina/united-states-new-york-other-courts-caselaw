@@ -1,0 +1,24 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1882-06-05"
+citations: ["11 Daly (N.Y.) 129"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ilka A. Nemetty, Appellant, against Joseph Naylor et al., Respondents."]
+source_url: "https://static.case.law/daly-ny/11/cases/0129-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1604807
+cites_cases: ["38 N. Y. 83", "41 N. Y. 113", "5 Den. 29", "66 Barb. 35", "66 N. Y. 385", "80 N. Y. 413"]
+---
+
+# Nemetty v. Naylor
+
+## Majority (Beach, J.)
+
+Beach, J.
+[After stating the facts as above.]—Had the landlords brought an action for rent against the tenant, a judgment in their favor would not have barred the latter from maintaining an action to recover damages for the breach of any independent agreement for repairs not subversive of the contract upon which the judgment was founded. The latter would not be bound to recoup her damages in the first suit, but might reserve them. This is the breadth of the adjudications cited by the counsel for appellant. A defendant is not called upon to assert claims existing in his favor against the plaintiff, but may use them for legal proceedings initiated by himself (Yates v. Fassett, 5 Den. 29 ; Kelsey v. Ward, 38 N. Y. 83 ; Brown v. Gallaudet, 80 N. Y. 413 ; Morgan v. Powers, 66 Barb. 35). This principle, however, has not sufficient scope to control the case at bar. The adjudication in the summary proceedings was final so far as the facts" necessarily passed upon. The judgment conclusively settled the tenancy, rent due and unpaid, and the holding over after default in payment. This action is brought upon verbal agreements, whose terms include an entire abrogation of the liability to pay rent from its cessation, until the repairs and =alterations provided for were finished. The plaintiff testifies these were not done when she was removed from the premises by process of law. The judgment established the allegations in the affidavit needful to sustain the landlord’s right of possession, and among them was the lease set forth (Brown v. The Mayor, &c., 66 N. Y. 385 ; Grates v. Preston, 41 N. Y. 113).
+The plaintiff here must establish one or more agreements, wholly inconsistent with the original lease. They are detailed by the plaintiff in her testimony, with sufficient clearness to show radical change in the term of occupancy, an increased rent to begin in the future, and release from payment of the rent provided for in the original instrument. Both written and verbal contracts could not stand. The cause of action might not be affected by the judgment, if it was founded upon an agreement consistent with the lease, and the damages claimed to have resulted from the defendant’s breach would then constitute a claim unaffected by the prior adjudication. '■ While a counterclaim or set off need not be asserted by answer to a complaint, it cannot be made the subject of an independent action when it results from an alleged contract, the existence of which, in many of its material parts, is directly.negatived by a judgment unreversed and unappealed from, given in an action between the same parties. The H. Naylor named in the summary proceedings must be taken as representing the landlords, and I see no reason why that should not be held established by the judgment. The firm is' bound by his action and entitled to its benefits.
+The judgment should be affirmed, with costs.
+Charles P. Daly, Ch. J., and J. F. Daly, J., concurred.
+Judgment and order affirmed, with costs.
