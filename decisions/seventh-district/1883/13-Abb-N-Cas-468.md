@@ -1,0 +1,26 @@
+---
+court: "Seventh District"
+decided: "1883"
+citations: ["13 Abb. N. Cas. 468"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VILLAGE OF BROCKPORT v. JOHNSTON."]
+source_url: "https://static.case.law/abbn-cas/13/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1954014
+cites_cases: ["1 L. 1870", "2 Hun, 63", "33 Mich. 72", "34 Wis. 450"]
+---
+
+# Village of Brockport v. Johnston
+
+## Majority (Brassy, J.)
+
+Brassy, J.
+The village of Brockport was organized under the general act for the incorporation of villages. By that act the trustees have power to establish ordinances for several purposes, among which are to prescribe the limits within which wooden buildings shall, not be built and to control the construction of buildings as to material, and to prescribe a penalty not exceeding one thousand dollars for a violation of any ordinance passed relating thereto (L. 1870, c. 291, tit. 3, § 3, subd. 23).
+Pursuant to this power the trustees of the village of Brockport passed an ordinance forbidding the erection of wooden buildings upon Main street in said village or within a certain distance from that Street, and imposing a penalty of one thousand dollars for a violation of that ordinance. After the ordinance was passed the defendant commenced the erection of two wooden buildings upon Main street in that village ;
+. this action is brought to restrain the erection of said. buildings, and a preliminary injunction for that purpose has been granted, which the defendant now moves to vacate. It is stipulated by the' parties that, the buildings which the defendant is erecting are not á nuisance, and will not be, if they are erected and finished, and the only question presented on the argument of the motion is whether the court will prevent and restrain, by injunction, the violation of said ordinance.
+It has been decided that a court of equity will not interfere by injunction to enforce a penal ordinance of . a corporation unless the act sought to be restrained is in itself a nuisance (Mayor v. Thorne, 7 Paige, 261).
+The plaintiff insists that the decision in that case was obiter, and that this court is not bound by it. Whether what the chancellor said in that case upon that point was or was not necessary to its decision, is not important to consider, because the case has been so often cited and approved as an authority upon that precise point, not only in this State but in the courts of other States, and by the text writers, that it would not be proper for me, sitting at special term, to attempt to overrule it (Village of Waupun v. Moore, 34 Wis. 450 ; S. C., 17 Am. R. 446 ; Village of St. Johns v. McFarlan, 33 Mich. 72; S. C., 20 Am. R. 671; City of Troy v. Winters, 2 Hun, 63-65 ; High on Inj. § 1248 ; Dillon Mun. Corp. 3 ded. § 405, note 2). With this array of authorities against the claim of the plaintiff, I should feel bound to vacate this inj unction unless there is something in the act for the incorporation of villages which gives to a court of equity jurisdiction to enforce such an ordinance. The plaintiff claims that such power is found in subdivision 27 of section 3 above cited, which gives to the board of trustees general power to make all ordinances necessary to carry out the purposes of the act and to enforce them, and also to prescribe a penalty for violation of them not exceeding one hundred dollars. 1 do not think that subdivision 27 at all controls the power granted to the trustees by the previous subdivisions of that section, but it was evidently intended to give them a general power to make necessary ordinances as to matters which might have been omitted in the twenty-six previous subdivisions of the section, and the authority to enforce the ordinance mentioned in subdivision 27, if it shall be deemed . to give the trustees the right to enforce them in any other way than by the imposition of a penalty does not apply to any ordinance, except such as are mentioned in subdivision 27.
+It is well settled law in this country that when the statute prescribes the mode of enforcement of an ordinance no other mode can be pursued (Dillon Mun. Corp. 3d ed. § 410). The statute in this case, has prescribed that the trustees may impose for the enforcing of this ordinance a penalty of one thousand dollars, which they have done. To enforce an ordinance of this kind does not mean to prevent, its violation, but to recover the penalty or inflict the punishment imposed for disobedience, and so we have the word used in the text-writers (Dillon Mun. Corp. 3d ed. §§ 409-412).
+EVen if the power to enforce the ordinances given by subdivision 27 shall be held to apply to all the ordinances mentioned in the section, it is quite clear, T think, that they can only be enforced in the way prescribed by the statute. The statute prescribes for the enforcement of ■ this particular ordinance that the trustees may impose a penalty of one thousand dollars, and it prescribes no other mode of enforcing it. I think, therefore, that the rule laid down, in Mayor v. Thorne and Village of St. Johns v. McFarlan, aboye cited, is controlling upon me in this case, and requires xhe to vacate this injunction.
