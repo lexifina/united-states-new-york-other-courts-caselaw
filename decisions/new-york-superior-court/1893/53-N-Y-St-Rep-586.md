@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1893-07-03"
+citations: ["53 N.Y. St. Rep. 586", "24 N.Y.S. 116", "4 Misc. Rep. 433"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Patrick Donovan, Resp’t, v. Thomas Sheridan et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/53/cases/0586-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 685803
+cites_cases: ["34 Fed. Rep. 57", "34 Fed.. Rep., 57", "35 Fed. Rep. 305", "42 N. Y. 246", "42 N. Y., 246", "63 How. Pr. 351", "63 How. Pr., 351", "9 Hun, 334", "9 Hun, 834", "97 U. S. 379", "97 U. S., 379"]
+---
+
+# Donovan v. Sheridan
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The action was brought upon an agreement whereby the plaintiff chartered to the defendants the passenger steam tug “ Annie & Maggie,” for 150 days, at twenty dollars a day. The tug was delivered to and accepted by the defendants. The answer was a general denial, nothing more, and the jury having found that the contract was made unconditionally as alleged, their determination ought seemingly to end the controversy.
+But the defendants insist upon several matters of defense not specially pleaded.
+First. That when the owner of a vessel charters her or offers her for freight, lie is bound to see that she is seaworthy and suitable for the service in which she is to be employed. Work v. Leathers, 97 U. S., 379; The Director, 34 Fed.. Rep., 57 ; McAdams v. Leverich, 35 id., 305; Abbott on Shipping, ed. of 1892, p. 389.
+There was no evidence given or offered that the boat was unseaworthy or unfit for the purpose intended. There was proof that the vessel drew seven feet of water and that the channel to Ellis Island, where the boat was intended to ply, furnished only five or six feet, but the plaintiff testified that the defendants told him that there was over ten feet of water in the channel, and that was “ according to their contract with him.” The plaintiff also testified that he told the defendants how much water the boat required, so that the trial judge was right when he told the jury that the doctrine as to implied warranty of fitness was true as an abstract proposition of law, but did not apply to the case, if they found the facts to be as stated by the plaintiff, and the jury did find the facts to be as testified to by him.
+Second. That the action was commenced before the 150 days mentioned in the charter expired, and was therefore not maintainable. No such point was made at the trial, and is not enforcible now. But apart from this the law. is settled that an action for breach of contract will lie at once, upon a postitive refusal to perform, although the time specified for performance has not arrived, Burtis v. Thompson, 42 N. Y., 246; Freer v. Denton, 61 id., at p. 496; Howard v. Daly, id., 362 ; Gray v. Green, 9 Hun, 834; Wetmore v. Jaffray, id., 140, and the damages recoverable may continue down to the time of trial, if the contract extends beyond that Bruell v. Colell, 1 City Ct., 308; Cummings v. Hausen, 63 How. Pr., 351. The recovery of damages resulting from one and the same cause of action must be assessed and recovered once for all, and should be for the difference between the sum the plaintiff should have received under the contract and that which he has or it is shown might have received elsewhere. The contract expired long before the cause was tried, and at a time when the damages had become fixed and unalterable, and the trial judge carefully limited them to indemnity for the actual loss. No objection was made to the form of the action or of the complaint and none can be raised for the first time now.
+Third. That the boat belonged to the plaintiff’s daughter and the action should have been brought in her name. This objection is answered by the fact that the contract was made by the plaintiff, who had authority from the daughter to make any contract he pleased concerning the boat, and she to have none of the earn.ings. The daughter testified to these facts and thereby estopped herself from making any claim upon the defendants, so that the plaintiff was more than the trustee of an express trust. Code, § 449. Indeed he became the only person interested in the recovery and qualified to maintain the action. We have carefully examined the record in all its parts and fail to discover any force in any of the exceptions urged against the recovery. The verdict is satisfactorily sustained by the evidence, and the judgment and order appealed from must be affirmed, with costs,
+' . GrILDERSLEEVE, J., concurs.
