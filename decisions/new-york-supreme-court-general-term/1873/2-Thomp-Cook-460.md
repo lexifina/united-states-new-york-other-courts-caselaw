@@ -1,0 +1,46 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1873-12"
+citations: ["2 Thomp. & Cook 460"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Soverhill v. Suydam, appellant."]
+source_url: "https://static.case.law/thomp-cook/2/cases/0460-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4459978
+cites_cases: ["11 Barb. 546", "19 Johns. 188", "2 Cow. 781"]
+---
+
+# Soverhill v. Suydam
+
+## Majority (Mullin', P. J.)
+
+Mullin', P. J.
+The argument and brief of the appellant’s counsel has not satisfied me that the views heretofore expressed on the question of interest were erroneous. In this case there were claimants to the extent of the whole funds. The referee, who held the surplus moneys, was entitled to the protection of an order of the court in favor of each person claiming a share of such moneys. To enable the court to distribute the whole fund, some day must be fixed upon to which interest should be computed on all the claims, and that is'usually the day of the date of the report of the referee as to priority, etc., of claims on the surplus. When his report is made, his power over the subject ends, and the court must thereafter postpone the day to which interest shall be computed, if justice to the claimants requires it to be postponed.
+The court has not changed the day, and it is not for us, on this appeal, to review the exercise of the discretion vested in the special term.
+The argument of the respondent’s counsel has failed to satisfy us that the appointment of Hiram L. Suydam, the judgment debtor, executor of his wife, the judgment creditor, discharged or satisfied the judgment. On the contrary, we are still of the opinion heretofore expressed, that the judgment was not satisfied or discharged by such appointment.
+In this State, before the Revised Statutes, the law was well settled, that if a creditor appointed his debtor his sole executor, or one of his executors, and the debtor accepted the trust, this operated as a release or extinguishment of the deht. Marvin v. Stone, 2 Cow. 781; Gardner v. Miller, 19 Johns. 188.
+The rule was subject to this qualification, that when there was a deficiency of assets to pay debts, the debt due from the executor was not discharged, but was considered a part of such assets.
+In the latter case, it was in judgment of law paid to the debtor executor, and was considered money in his hands. Whenever, from the whole will, it appeared that the testator did not intend to discharge the debt by making his debtor executor, the latter was a trustee of the debt for the legatee or next of kin.
+The reason for the adoption of the general rule above stated was that, by the appointment of the debtor as executor, the same person occupied relations of both debtor and creditor, and as he could not sue himself nor be sued by his co-executors, the debt was necessarily extinguished.
+The rule operated so unjustly, that the courts sometimes strained a point to get rid of it, as was done in Gardner v. Miller, 19 Johns. 188.
+A rule somewhat different prevailed in the courts of equity. The general rule there was, that the debtor executor was accountable for the amount of his debts as assets, not only for the payment of the testator’s debts, but also of his legacies. And if the debt was a specialty debt, it remained such, and retained its priority as against the estate of the debtor, in the event of his death, as though a stranger had been appointed executor. 2 Williams on Ex’rs, 1184, 1185.
+In the opinion of the learned author, it was not definitely decided whether, the debt of the executor was not a specific legacy to him, which would not be reduced in case of deficiency of assets to pay debts until the general legacies had been extinguished.
+By 3 R. S.- (5th ed.) 170, § 14, it is enacted, that “ The naming of any person executor in a will shall not operate as a discharge or bequest of any just claim which the testator had against such executor, but such claim shall be included among the credits and effects of the deceased in the inventory, and such executor shall be liable for the same as for so much money in his hands at the time such debt or demand becomes due, and he shall apply and distribute the same in the payment of debts and legacies, and among the next of kin as part of the personal estate of the deceased.”
+The revisers, in their note to this section, say “The debt of an executor is now liable to creditors, and, in some cases, to legatees; but, when not required for these purposes, it is discharged or belongs to the executors, and is not to be distributed among the next of kin, unless it appear on the face of the will that the testator did not intend to discharge the debt.” And they say the object "of this section, as reported, was “ to avoid the disputes that arise, and to establish what is believed a just rule.”
+It will be seen, by comparing section 14 of the Revised Statutes^ above quoted, with the rule theretofore in force as to the condition of a debt due from a person indebted to a testator, of whose will the debtor is appointed executor, that the following important changes and modifications were made in the law by said section:
+1st. In no case and in no court is the debt of the executor discharged by his appointment as such by the will of his creditor.
+2d. In no case and in no court can such appointment operate as a bequest of the debt to the debtor.
+3d. Legatees and next of kin are entitled to share in the debt as assets, or rather in the money the product of the debt, in the hands of the executors.
+4th. A judgment is assets in the hands of the executor; but, as he cannot be sued at law, it is, by the statute, converted into money, and he is bound to dispose of it as such.
+The judgment against this executor was the debt, and the debt not being discharged, the judgment remains in force; and if the money is not, in fact, in the hands of the executors, its lien continues in favor of the creditors, next of kin and legatees of the testator.
+All that remains of the old rule is, that at law the executor cannot be sued, and hence the necessity of making him liable for so much money and obliging him to appropriate it to the payment of debts, legacies, etc.
+In equity, one executor may sue another and recover a debt due by him to their testator. Smith v. Lawrence, 11 Paige, 207; Wurts v. Jenkins, 11 Barb. 546. In the case last cited, it was held that two of the executors of James Jenkins might maintain an action in equity against their co-executor, to recover of him a debt due from him to the estate of the testator, to be applied in payment of advances made by the plaintiff for the estate.
+If the plaintiffs were entitled to a judgment for the money, will it be claimed they could not have also the benefit of a mortgage or other security held by the testator as security for the debt? If the executor sued was insolvent, so that the judgment could not be enforced against him, but the collateral security was ample to satisfy the debt, would any court be guilty of the absurdity of holding the collateral security discharged, and yet issue process to collect the debt out of other property of the debtor.
+The debt is not discharged unless the debtor’s executor applies the amount of his indebtedness in payment of claims against his testator, in due course of administration. If he refuses or is unable to pay, the debt he owes the testator still exists, and may be sued for and its payment enforced, and any security held therefor may be applied to the payment of such debt.
+The creditors of the testator, the legatee or the next of kin, may maintain an action in equity for that purpose, but at law the debt is to be deemed collected, and the money may be applied in payment of the debts or legacies of the testator by any court having jurisdiction to compel the executors to account.
+I can perceive no distinction in principle between the liability of an executor for an indebtedness to his testator, and a trustee of an express trust for a debt to the person creating the trust.
+If a trustee has transferred to him property of his grantor, including a debt due from himself, and he is required to apply the property or its avails to the payment of debts or other uses, it would not be tolerated that a mortgage or judgment, held as collateral to the debt, should be discharged because he could not sue himself. In the case supposed there would be what was deemed quite material before the Revised Statutes: evidence of an intention on the face of the conveyance in trust not to discharge the debt. But, since the adoption of those statutes, intention has nothing to do with the question whether the debt of an executor is discharged by his appointment as executor. It seems to me the section of the statute referred to is conclusive, that neither the debt of the executor nor any security collateral thereto is discharged by his appointment.
+The order appealed from must be affirmed as to the interest, and reversed as to the judgment being discharged by the appointment of the debtor executor of the creditor’s will, with $10 costs of appeal.
+Ordered accordingly.
