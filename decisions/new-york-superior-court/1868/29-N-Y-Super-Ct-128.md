@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court"
 decided: "1868-04-16"
-citations: ["6 Rob. 128", "29 N.Y. Super. Ct. 128", "6 Rob. 133", "29 N.Y. Super. Ct. 133"]
+citations: ["6 Rob. 128", "29 N.Y. Super. Ct. 128"]
 reporter: "ny-super-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
