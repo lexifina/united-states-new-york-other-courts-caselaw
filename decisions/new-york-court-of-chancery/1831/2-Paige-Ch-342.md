@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1831-03-01"
+citations: ["2 Paige Ch. 342"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Osborn and another vs. Heyer & Burdett."]
+source_url: "https://static.case.law/paige-ch/2/cases/0342-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179917
+---
+
+# Osborn v. Heyer & Burdett
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+It does not appear by the papers before me on this motion, which of these suits was first commenced ; neither do I consider that question material in this case. Here are two suits commenced by different complainants in this court, one before the chancellor and the other before a vice chancellor, against the same defendants, who are admitted to be insolvent, to reach property in their hands which can only be recovered by the aid of this court. One of these parties has obtained an order for a receiver to collect and preserve the property pending the litigation. The other party has obtained an injunction prohibiting the defendants from collecting the debts and preserving the property from waste. In all these cases of bills to reach the equitable property of debtors, on an execution at law returned unsatisfied, it is the duty of the complainant, within a reasonable time after he has obtained an injunction restraining the defendants from collecting their debts, or disposing of their perishable property, to apply to the court and obtain the appointment of a receiver, or to make some other provision for the collection of the debts and the preservation of the property, or the injunction should be dissolved so far as to enable the defendants to preserve it themselves. If the complainants in the other suit, who now resist this motion had applied for and obtained the appointment of a receiver to take charge of this part of the fund, which they now claim, before the receiver in this cause was appointed, they would have had some grounds for resisting this application; especially if' they had given notice of that application to these complainants. In that case the receiver appointed by the vice chancellor would have been the proper person to preserve the fund pending the litigation, and until it was determined to which of the parties it belonged. The receiver appointed in either cause is the officer of the court and holds the fund subject to the equitable rights of. all parties; to be disposed of under the order of the court only. As no objection is made to the receiver already appointed, or to the sufficiency of his sureties, the whole of the property and effects in the hands of the defendants must be delivered over to him, together with the books and papers; to be collected and converted into money, for the benefit of the parties to whom it may hereafter appear to belong. The complainants in each suit are to have notice of all proceedings before the master relative to the delivery of the books, papers and property to the receiver ; and with liberty at all reasonable times to inspect and take copies of such books and papers, if they shall deem it necessary for the protection of their respective rights. The receiver must keep a separate account of all that part of the property and effects of the defendants which it is alleged belonged to the firms or partnerships in which the complainants in the suit before the vice chancellor claim an equitable interest, and of all disbursements and expenses relating thereto. And the complainants in either suit are to be at liberty to apply to the chancellor for such special directions to the receiver, in relation to the execution of his trust, as they may be advised are necessary or proper ; and each party is to have notice of any application which may be made to this court in the premises,
+The defendants must therefore forthwith deliver over the residue of their books and papers to the receiver, or an attachment will be issued against them on the production of the master’s certificate of their neglect to comply with the order of the court.
+See 193d and 194th rules, adopted 5th April, 1831, which provide for cases of this description.
