@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-07-28"
+citations: ["54 N.Y. St. Rep. 66"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jane Ann Hulse, Adm’rx, App’lt, v. The New York, Ontario & Western Railway Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/54/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 689605
+cites_cases: ["1 St. Rep., 46", "101 N. Y., 377", "131 N. Y., 453", "43 St. Rep., 288", "70 N. Y., 126"]
+---
+
+# Hulse v. New York, Ontario & Western Railway Co.
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The facts in this case are substantially uncontradicted. The defendant company received a car load of lumber consigned to one of its engineers. One Berry was erecting a creamery on the company’s lands at his own expense. The lumber was delivered to Berry and his builder, one Terwilliger. They took possession of the car load of lumber, and Terwilliger, who was building by contract with Berry, proceeded to unload the lumber from the car. It was held in place by four stakes, two on each side, and these stakes were fastened on the top by cross pieces. Terwilliger commenced to unload by removing all these stakes and cross pieces both sides. The man on the top of the lumber, one of Terwilliger’s men, removed these stakes, and the lumber fell on the plaintiff’s intestate, causing his death. The lumber was piled in separate piles in the car, and there was nothing to hold one pile to the other piles when the stakes were removed ; and this is the only fact on which the plaintiff alleges negligence in the company. The nonsuit was properly granted. The lumber was piled safely, and was securely bound together, until the contractor destroyed this security. Tjje company were not bound to so load its cars that no accident could happen in unloading it after the stakes were removed. The piling was plainly to be secured, and it was the height of imprudence not to notice the fact that a pile of boards as high as this was piled was liable to fall over if it was left without support. The company owed no duty to the deceased. Terwilliger was the contractor, and he must respond to him. Hexamer v. Webb, 101 N. Y., 377; 1 St. Rep., 46; McAlpin v. Powell, 70 N. Y., 126.
+The case is not like Thomas v. Henges, 131 N. Y., 453 ; 43 St. Rep., 288. There'the defendant owed a duty to keep a derrick on a dock in safe condition, and he failed to do so. It was a dock free for those who had business to moor at and unload by means of this derrick. The derrick was left unsafe and broke, and the owner was held liable to the party injured, although he had not any particular interest in the load which was being delivered at the dock.
+Ho negligence was proven, and the deceased is not shown to be free from contributory negligence, even if the owner owed him a duty in respect to the unloading of the car.
+Judgment and order denying a new trial affirmed, with costs.
+Dykman and Pratt, JJ!, concur.
