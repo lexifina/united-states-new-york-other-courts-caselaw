@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court"
+decided: "1896-02-20"
+citations: ["72 N.Y. St. Rep. 742", "37 N.Y.S. 353", "16 Misc. Rep. 104"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emma Closs, Pl’ff, v. Julia E. Eldert et al., Def’ts."]
+source_url: "https://static.case.law/ny-st-rep/72/cases/0742-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1987966
+cites_cases: ["104 N. Y. 125", "105 N. Y. 612", "12 N. E. 571", "5 Hill, 206", "5 St. Rep. 562", "8 St. Rep. 647", "9 N. E. 868", "9 N. Y. 502", "94 N. Y. 609"]
+---
+
+# Closs v. Eldert
+
+## Majority (GAYNOR, J.)
+
+GAYNOR, J.
+—After making specific devises of real estate to his widow, son, and daughter, respectively, the testator, by the seventh clause of his will, gives and devises all the rest, residue, and-Remainder of his estate, both real and personal, “equally” to his said widow, son, and daughter, “share and share alike. Did this put the widow to her election in respect of the residuary real estate ? It seems to me that it did. The widow does not depend upon her husband for dower. It is not his to give,.but is hers by law. It follows that, unless it appear from a husband’s will that he did not intend that his widow should take both dower and the provision which he therein makes for her, she is not required to elect which she shall take. 1 Rop. Husb. & Wife, 582; Bull v. Church, 5 Hill, 206. To put her to such election, the taking of dower .must be inconsistent with the provisions of the will. The test is whether the setting off of one-third of the real estate by metes and bounds to the widow for her dower would make the carrying out of the devise of the will impossible. 1 Rop. Husb. & Wife, 576 ; In re Zahrt, 94 N. Y. 609. The devise here is of all of the residue to the widow and two children, share and share alike. It would be impossible to thus partition it equally among them if one-thir'd has first to be set off by metes and bounds to the widow. Any division of it except into thirds would disturb and disappoint the will. I see no conflict between my conclusion and the decision in Konvalinka v. Schlegel, 104 N. Y. 125 ; 5 St. Rep. 562. There was a peremptory power of sale of the land in the will construed in that case, with a direction to divide the proceeds among the widow and children, share and share alike. This meant & sale subject to the widow’s right of dower. That case did not present the practical impossibility of an equal partition of the lands by metes and bounds if one-third had first to be set off for the widow. Sfor does the case of Lewis v. Smith, 9 N. Y. 502, control this case. There the devise by the husband was of his entire estate to his widow for life, and it was held that there was no conflict between her taking as doweress and also under the will, it being carefully pointed out that there was “no person who takes an interest under the will during her lifetime with which the ■claim of dower will conflict.” In the Zahrt Case, supra, there was the same devise to the widow, but upon the conditions that she should keep the estate in repair, pay the taxes, assessments, and water rates, and keep the buildings insured. The court distinguished that case from Lewis v. Smith, because of the said conditions imposed by the will, and held that the widow was put to her ■election. I do not just now see how the requirements of the will concerning waste, and the payment of taxes, water rates, and ordinary assessments, made a difference, for they would have existed the very same if the will had not mentioned them. The law has always imposed them upon the widow, the same as upon other life tenants. 2 Reeve, Eng. Law (Finl. Ed.) pp. 173, 436 ; Code Civ. Proc. § 1651; Thomas v. Evans, 105 N. Y. 612 ; 8 St. Rep. 647. ■ If the inconsistency be based wholly upon the requirement for insurance, it shows that a much smaller inconsistency than that presented by the present case may require the widow to elect. Let judgment of partition and sale be entered accordingly.
