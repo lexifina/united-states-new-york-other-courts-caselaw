@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-12"
+citations: ["23 N.Y. St. Rep. 442", "1 Silv. Sup. 237"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Octavus F. Salmon, as Adm’r of Sophia M. Williams, Deceased, App’lt, v. The New York Central and Hudson River Railroad Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/23/cases/0442-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 653975
+cites_cases: ["100 N. Y. 632", "100 N. Y., 632", "29 N. Y. 330", "29 N. Y., 330", "47 Hun, 428"]
+---
+
+# Salmon v. New York Central & Hudson River Railroad
+
+## Majority (Martin, J.)
+
+Martin, J.
+This action was to recover for personal injuries sustained by the plaintiff’s intestate, which resulted in her death, and which were alleged to have been caused by the defendant’s negligence. The accident, which resulted in the injuries complained of, occurred at about noon on the 5th day of January, 1888, at the crossing of the defendant’s road at James street, in the city of Rome.
+The defendant’s road crosses the street diagonally at a point 239 feet east of its station. At this crossing defendant has four tracks, which are numbered from the south to the north, one, two, three and four. Tracks one and four are for east-bound trains, and tracks two and three are for west-bound trains. The defendant’s road runs along and across the street for the distance of ninety-two feet, while the street is but sixty-six feet in width. The distance from the building on the north side of the defendant’s road, and on the east side of James street, to the building on the opposite side of the defendant’s road, is nearly sixty feet.
+There was a planked sidewalk about five feet in width across defendant’s road. There was snow upon the walk, and considerable thrown upon each side, both north and south of the crossing. The defendant maintained gates on both sides of its tracks, but the gates did not extend to the sidewalk on either side. They were in charge of a watchman at the time of the accident.
+When the decedent started to cross the defendant’s tracks, a passenger train was standing at the station, with its rear car resting on James street, and partially obstructing it. A freight train was approaching from the west, on track number four, and another freight train was also approaching from the west on track number one. As she approached the crossing, and was about to cross, the watchman at the gate told her not to go over, as there something coming on track one. That she understood him is shown by her subsequent admissions. She, however, continued without heeding the warning given her, and passed over the other tracks for a distance of about forty-three and three-fourths feet before reaching track one, where she was struck by a train on that track, and fatally injured. She was seventy-three years of age, but her eyesight and hearing were good. SÉe was quite smart for a person of her years, and had resided for about two years south of and but a short distance from this crossing. She had to cross the defendant’s track to attend church and to do her shopping. Her direct route was over this crossing, and hence she must have been familiar with the crossing and the trains running on defendant’s road. If her view was obstructed by the passenger train standing on track two, still, after passing that track, she could have seen west for the distance of four hundred and forty-five feet from that point until she reached track one.
+At the close of the evidence, the court directed a verdict for the defendant, upon the ground that the evidence did not show that the plaintiff’s intestate was free from _ negligence which contributed to her injury, and that it was shown conclusively that she was guilty of contributory negligence. The principal question involved on this appeal is the correctness of this decision.
+In an -action of the character of this, it seems to be settled that before a party can recover, he must show by circumstances, or otherwise, that there was no negligence on the part of the decedent. Wilds v. H. R. R. R. Co., 29 N. Y., 330; Warner v. N. Y. C. R. R. Co., 44 id., 466; Cordell v. N. Y. C. and H. R. R. R. Co., 75 id., 330; Hale v. Smith, 78 id., 480; Tolman v. S., B. and N. Y. R. R. Co., 98 id., 198; Splittorf v. State, 108 id., 205, 216; 13 N. Y. State Rep., 472.
+A careful examination of the evidence in this case has led us to the conclusion that the plaintiff not only failed to prove that the decedent was free from contributory negligence, but that the undisputed evidence tended to show quite conclusively that the negligence of the decedent' was the cause of her injury. We think the direction of a verdict for the defendant was justified by the principle of the foregoing and following authorities. Davenport v. B. C. R. R. Co., 100 N. Y., 632; Woodard v. N. Y., L. E. and W. R. R. Co., 106 id., 369; 11 N. Y. State Rep., 169; Young v. N. Y., L. E. and W. R. R. Co., 107 id., 500; 12 N. Y. State Rep., 285; Donnelly v. B. C. R. R. Co., 109 id., 16; 14 N. Y. State Rep., 29; Powell v. N. Y. C. and H. R. R. R. Co., 109 id., 613; 14 N. Y. State Rep., 912; Bomboy v. N. Y. C. and H. R. R. R. Co., 47 Hun, 428; 14 N. Y. State Rep., 291; Heaney v. L. I. R. R. Co., 20 N. Y. State Rep., 296; Hunter v. C. and S. V. R. R. Co., 21 id., 1.
+We have carefully examined the plaintiff’s exceptions to the admission and rejection of evidence, and have found none that seem to require special consideration, or that would justify a reversal of the judgment appealed from. It, therefore, follows that the judgment herein should be affirmed.
+Judgment affirmed, with costs.
+Hardin, P. J., and Merwin, J., concur.
