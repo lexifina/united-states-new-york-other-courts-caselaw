@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1810-11"
+citations: ["7 Johns. 57"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Watson against The Marine Insurance Company."]
+source_url: "https://static.case.law/johns/7/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 369116
+cites_cases: ["1 Johns. Rep. 412"]
+---
+
+# Watson v. Marine Insurance
+
+## Majority (Kent, Ch. J.)
+
+Kent, Ch. J.
+delivered the opinion of the court. The counsel for the defendants object to the recovery ia this case, and contend,
+1. That the vessel was seized in port within the true, intent and meaning of the policy.
+2. That stopping at Belle-Isle was a deviation. -
+3. That many of the items contained m the account . . , , v i - •annexed to the case, were not chargeable to the insurer upon the vessel, and that they were at least the subject of a general average, or chargeable upon the ship, freight and cargo, in due proportions.
+The two first objections are without any plausible force. The ship was captured by a French armed boat, off the island of Belle-Isle, and thirty miles from the port of Nantz. The captain states that he went" to Belle-Isle for a pilot, and was chased under the lee of that island, by two English vessels ; and that having taken a pilot on board, he lay to for an hour, about a league from shore, as the fog was so thick that he could not proceed. In this situation he was taken; and there does .not appear to be any well-founded pretence for alleging that he was then in port, or that a delay of one hour was unnecessary, or amounted to a deviation.
+With respect to some of the items in the account, the objection is well taken. The 12th charge of 70S livres, arose expressly on account of the cargo, and was not chargeable to the ship. That item ought, therefore, to be deducted. With respect to the rest of the charges, they may, perhaps, be considered as incurred equally for the benefit of the ship and freight; and the eleven first items arose before the captain ceased to have charge of the cargo, and were therefore incurred in labouring for the benefit of the cargo, as well as for the ship and freight. All these subjects of insurance were equally involved in the peril, and it would seem to be just that the ship and freight should bear these expenses in due proportions throughout; and that the cargo should bear its proportion of the-first part of the expenses, until the captain ceased to have any further concern with it. But this nice and difficult question of apportionment need not be discussed in this case, for the captain declares generally, that these expenses were incurred about the business of the ship. The labour and expense were incurred for the recovery of the ship, notwithstanding that other subjects might incidentally enjoy the result of the effort. The plaintiff was obliged to pay and bear the charges, as owner of the ship;" and according to the decision in Maggrath ξ Higgins v. Church, (1 Caines, 215.) he is entitled, even if a case for contribution existed, to recover the whole of it, in the first instance, of the insurer upon the ship, and to leave it to him to call upon the owners or insurers of the cargo and freight, for their contributory shams. The decision on this point was afterwards considered by the court, in Vandenheuvel v. The United Insurance Company, (1 Johns. Rep. 412.) as a settled rule; and Pothier, in his Traite du Contrat d'Assurance, (No. 52. and 164.) recognises it as an established doctrine. There is no doubt that the insurer is liable beyond the sum insured, for the expenses of “ labour and- travel for, in, and about, the defence and recovery of the property insured (1 Caines, 284.. 450.) and the captain proves in this case, that the expenditures, subject to the above exceptions, were necessarily incurred about the business of the ship, and of her only, The principal objection is to the last charge of 526 dollars, for the captain’s port pay. , Was this an expense incurred in travelling or labouring for the recovery of the ship ? It was proved, that this.was “ an allowance by agreement with the plaintiff, of one dollar per day, for each day he remained in port.” This is an extra allowance for discharging the cargo, and procuring freight, and attending to the interests of the owner, after the vessel has arrived in port; and .it does not seem to come within the meaning of the allowance granted by the policy. The plaintiff might, by agreement, have allowed the captain 20 dollars a day, instead of 1 dollar, while he was in port; and ought the defendants to be responsible, beyond their subscription, for such extraordinary contracts? The clause in the policy ought to be confined to expenditures arising directly from a prosecution of the express objects for which it was introduced. The court are not informed by the case . of any established rule or usage on this subject; and standing as the charge does, upon the naked fact of an allowance by agreement, without the particulars of that agreement being given, it ought not to form part of the recovery. The last charge and the 12th charge being deducted from the verdict, the plaintiff is entitled to judgment for the residue.
+Judgment accordingly.
