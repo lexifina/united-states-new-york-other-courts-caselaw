@@ -1,7 +1,7 @@
 ---
 court: "New York Superior Court General Term"
 decided: "1891-05-04"
-citations: ["39 N.Y. St. Rep. 169", "39 N.Y. St. Rep. 172"]
+citations: ["39 N.Y. St. Rep. 169"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
