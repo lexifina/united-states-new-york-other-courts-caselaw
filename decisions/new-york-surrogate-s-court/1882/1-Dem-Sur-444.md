@@ -1,0 +1,27 @@
+---
+court: "New York Surrogate's Court"
+decided: "1882-08"
+citations: ["1 Dem. Sur. 444"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Zahrt v. Zahrt. In the matter of the estate of John C. Zahrt, deceased."]
+source_url: "https://static.case.law/dem-sur/1/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1134758
+cites_cases: ["8 Hun, 606"]
+---
+
+# Zahrt v. Zahrt
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+This is an application under § 2799 of the Code, for the distribution of surplus money arising on the sale of real estate belonging to the deceased, under a judgment of foreclosure in the Supreme Court, which surplus has been paid into this court, and by this court paid over to the county treasurer, as directed by § 2537 of the Code. Under the will of the deceased, his widow became entitled to a life estate in said real estate, and the remainder was devised to her children, who are infants. The widoxv asks that the decree provide for the payment to her of a sum in gross, representing the vajue of her life estate, under Rule 71 of the General Rules of Practice applicable to all courts of record.
+Section 2799 of the Code provides that the said surplus money shall be distributed by the decree, as if it was the proceeds of real property sold under the decree of the Surrogate’s court, to pay the debts of the deceased. Section 2793 provides that the surplus money arising on the sale of the deceased’s land to pay his debts, and remaining after paying the expenses of the proceeding in the Surrogate’s court, satisfying the widow’s claim for dower, and paying the debts of the deceased, must be distributed among the heirs and devisees of the deceased. Section 2796 provides that, where the interest in the property represented by such surplus consists of a precedent estate, and a remainder or reversion, the decree must provide, as the judgment of the Supreme Court would provide, in an analogous case, for the investment of the money in certain securities, and for the payment of the income until the determination of the temporary interest, and then for the payment of the principal to the person or persons entitled thereto. It is unnecessary to discuss how far the rule of practice above referred to can be allowed to interfere with the rights and interests of infant devisees or legatees; it is sufficient to say that it was not intended to apply to cases where the distribution of the fund in court is expressly provided for by statute (Banks v. Banks, 2 T. & C., 483).
+Here the statute points out what the decree must contain on the subject, and the Rule cannot be invoked to authorize a departure from the terms of the statute. This same statute authorizes the payment, to the widow, of _,a sum in gross, in lieu of her right of dower in the fund to be distributed (§ 2793, subd. 3); and if the legislature had so intended, it no doubt would have made a similar provision in regard to the owner of a life estate.
+In Arrowsmith v. Arrowsmith (8 Hun, 606), the Surrogate in his decree had adjudged that the husband’s life estate, as tenant by the curtesy, in the lands sold to pay the debts of his wife, was worth the sum of $1,110.69 and had directed that that amount be paid from the proceeds of sale to a judgment creditor of the husband, and the balance, after deducting the expenses of the proceeding, to the heir-at-law of the intestate. The Supreme Court, at General Term, in discussing the disposition which the Surrogate was authorized to make of the surplus proceeds of sale remaining after the payment of the deceased’s debts, and the expenses of the proceeding in his court, under chapter 150 of the Laws of 1850, which is revised in § 2796 of the Code, say : “Under § 55 of the statute relating to the proceedings of the Surrogate in such cases (3 R. S., m. p. 107 [6th ed., 116); and chap: 150, Sess. Laws 1850, p. 315), he might order the investment of such moneys on the ground that the respondent was entitled to the interest thereof during his life, but he could not pay them to him or to the heir, who would only have been entitled to the reversion of the land sold and represented by such money, upon the termination of the life estate.” See, also, what was said by the learned Surrogate of Westchester county, in the Matter of Igglesden (3 Redf., 375, 378).
+The statute expressly requiring that the Surrogate’s decree, in a case like this, must provide for the investment of the fund, the payment of the income arising therefrom, and the payment of the principal upon the termination of the life estate, the decree must conform to these directions.
+Oh the settlement of the findings in October, 1882, the question arose whether the widow’s interest in the surplus moneys should be applied to the payment of the interest and taxes which became due on the mortgaged premises since the death of the testator and were paid out of the proceeds of sale. *
+The Surrogate.—By the terms of the will, the widow was to pay said interest and taxes, and, as between her and the remaindermen, therefore, her estate and not theirs in the devised property was liable for the payment of the said liens, and since they were paid from the principal of the proceeds of sale which belonged to the remaindermen, the latter are entitled to have the amount repaid out of the income from the surplus moneys which belongs to the widow during her life.
+Decreed accordingly.
