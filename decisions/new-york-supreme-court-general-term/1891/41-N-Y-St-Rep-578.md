@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-11-13"
+citations: ["41 N.Y. St. Rep. 578"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sarah E. Mellen, Resp’t, v. William C. Banning, Ex’r, et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/41/cases/0578-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2068134
+---
+
+# Mellen v. Banning
+
+## Majority (Lambert, J.)
+
+Lambert, J.
+It may be assumed in disposing of this appeal that by the fifth clause of the will of Abner Mellen, deceased, one undivided one-fourth of the lands owned by the deceased at the time of his death vested in Abner Mellen, Jr., and by the death of Ellen Mellen intestate he became seized of one undivided one-sixteenth thereof, so that at the time of mating the conveyance to the plaintiff he was the owner of five-sixteenths of the lands devised by the fifth clause of the will of his father, Abner Mellen, deceased.
+November 5, 1888, Abner Mellen, by an instrument alleged to be sufficient in form for the purpose, conveyed the five-sixteenths of said lands to his wife, the plaintiff, and thereafter, and on November 30, 1888, she commenced an action for a partition thereof; all of the parties to this action except the infants were made defendants. The defendants in that action, except her husband Abner Mellen, Jr., asserted by allegations contained in answer served in said action that the deed of conveyance from Abner, Jr., to his wife, the plaintiff, was void for fraud, and in this action again allege that the conveyance of the interest and title of Abner, Jr., to the plaintiff was made and accepted with a fraudulent intent, and for a like purpose. If the defendants should succeed upon this issue in either case, then the infant defendants would succeed to the title and interest of their father, the grantor, in which event it must be conceded they would be necessary parties to this action. The motion was properly disposed of at special term, and the decision is affirmed, with ten dollars costs and disbursements of the respondents.
+Daniels, J., concurs.
