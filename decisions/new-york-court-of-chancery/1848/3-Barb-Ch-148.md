@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1848-05-01"
+citations: ["3 Barb. Ch. 148"]
+reporter: "barb-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wakeman and Skinner, executors, &c. vs. Hazleton and wife."]
+source_url: "https://static.case.law/barb-ch/3/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1997937
+---
+
+# Wakeman v. Hazleton
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+It is very evident in this case that if any thing is lost upon the bond and mortgage given to the executors, it will have been occasioned by their negligence in employing a man to foreclose the mortgage, in chancery, who was not authorized to practice, and who suffered the premises to be sold under a decree which was a mere nullity, so far as the rights of the owner of the equity of redemption were concerned. For under such a foreclosure there is no presumption that the mortgaged premises were sold for their value. Nor were the legatees who were adults bound to attend and bid upon the premises, upon a sale under such a decree, for the purpose of preventing a sacrifice of the property. There being no valid foreclosure, the legal effect of the proceeding is the same as if the executors had assigned this bond and mortgage to Clark for $600; when the mortgage was a valid lien upon premises which were worth the whole amount due, including the necessary costs of a proper foreclosure. I do not see any thing, therefore, to protect the executors from personal liability to the legatees in case this sale is permitted to stand. And as Hunting was not an officer of this court, authorized to foreclose the bond and mortgage here, it is more than doubtful whether the complainants could recover against him for his gross neglect in failing to have the mortgage properly foreclosed. I think also, from the facts stated m the papers which were before the vice chancellor, that Hazel-ton, and Clark his father-in-law, must have been aware of the legal defects in the foreclosure of the mortgage; and that they intentionally suffered the premises to be struck off to Smith, for a small sum, for the purpose of obtaining the property without paying the amount justly due upon the bond and mortgage. The complainants, on the other hand, even if they were aware of the fact that Clark had not been made a party to the foreclosure suit, could not have understood the legal effect of the proceeding, or they would not have allowed the property to be sold under the decree for less than one third of the amount actually due. I think, therefore, that justice to all parties required that the vice chancellor should grant relief; where it could have been done without any injury whatever to Clark, the owner of the equity of redemption in the mortgaged premises. The sale, as well as the imperfect decree under which it was made, should have been set aside upon terms; unless Clark thought proper to pay the balance due upon the decree.
+The order appealed from must therefore vbe reversed. And unless Clark thinks proper, within sixty days after the entry and service of the decretal order upon this appeal, to pay the complainants the balance due upon the decree, after deducting therefrom the amount which he has already paid to Ruth Smith for her share, with the interest thereon, the master’s sale and the decree under which it was made, and all proceedings in the suit subsequent to the taking of the bill as confessed against the defendants, are to be set aside ; upon the complainant’s refunding to Clark the $600, and the amount paid to Ruth Smith, with interest on those two sums from the times they were paid. And the bill in that case must be amended by making the owner of the equity of redemption a party to the suit. If Clark does not pay the balance due upon the decree within the time above specified, the complainants are, within sixty days thereafter, to pay the amount of the bid at the master’s sale and the money paid to Ruth Smith under the vice chancellor’s order. And if they neglect to pay or to tender it to Clark or to his solicitor, within the sixty days, their motion is to be denied with costs.
+Neither party is to have costs as against the other upon this appeal.
