@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1884-10"
+citations: ["41 N.Y. Sup. Ct. 70"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Smith, P. J., Headley and Parker, JJ."]
+parties: ["MULFORD VIAL, Respondent, v. ELIJAH MATHEWSON, Appellant, Impleaded with Others."]
+source_url: "https://static.case.law/ny-sup-ct/41/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4484792
+cites_cases: ["11 Wend., 187", "16 Hun, 168", "20 Hun, 492", "52 N. Y., 274", "66 N. Y., 374", "87 N. Y., 620", "9 Cow., 73"]
+---
+
+# Vial v. Mathewson
+
+## Majority (Corlett, J.:)
+
+Corlett, J.:
+On the 3d day of January, 1878, one Oorydon Putnam and the defendant Daniel made their promissory note of which the following is a copy:
+“ $500. “ Stooktown, January 3, 1878.
+“ One year after date I promise to pay Mulford Yial, or bearer, five hundred dollars for value received, with annual interest.
+“OORYDON PUTNAM.
+“DANIEL MATHEWSON.”
+It was given for money loaned to Putnam, and signed by Mathewson as surety. After its maturity the payee brought an action against both makers of the note. Service was only made upon Mathewson, but Putnam resided in Chautauqua county and might have been served. Judgment was finally obtained against Mathewson upon which execution was issued and returned nulla bona. No judgment was recovered against Putnam or any steps taken to collect the note from him.
+Prior to the 16th day of October, 1878, Putnam was the owner of forty-eight acres of land described in the complaint, which he conveyed on that day to Daniel Mathewson, in consideration of the payment of certain notes which he had signed as surety for Putnam. ,The plaintiff claims tbe above note was one of them. Tbe referee, upon conflicting evidence, found that such was tbe fact.
+Previous to the 2lstday of October, 1878, Daniel Mathewson was the owner of about 179 acres of land, also described in the complaint which, as the referee found, was worth $é,000, subject to a mortgage of $3,250. On the day last mentioned Daniel Mathewson conveyed both of said pieces of land to the defendant Elijah Mathewson, his son, who was then married, thirty-six years of age, living with his father for whom he had worked for many years. And the referee found that on the day of such conveyance hi's father owed him for such labor $1,890.
+The evidence on the part of the defendant tended to show that the consideration for such conveyance was the said debt of $1,890, the assumption of the above mentioned mortgage of $3,250 and the payment of certain debts owing by Daniel Mathewson to the amount of $800. The referee found that the consideration was the assumption of said mortgage and the payment of notes (of which the above was not one) to the amount of at least $800 and their actual payment. The referee does not find either way as to whether said debt of $1,890 was a part of the consideration. The defendant’s testimony is to the effect that it was and was extinguished upon the execution of the deeds, while the plaintiff gave no evidence on the subject.
+The evidence on the part of the defendant also tended to show that at the time of the purchase Elijah Mathewson knew nothing of the existence of the above note, and did not learn of the same until long after he took the deeds and made all the payments, and that he had no knowledge of any debts owing by his father, except such as he agreed to pay. The referee omits to find either way on those questions.
+There-was a conflict in the evidence as to the value of the forty-eight acres, and the referee omits to find -the same, but he does find that after the purchase Elijah sold that land for $1,200, which the defendant’s testimony tends to show was all it was worth. The referee found, upon sufficient evidence, that in addition to the other consideration, Elijah agreed to support his father and mother during their lives. (Both were old at the time of the conveyance.) There was also evidence on the subject of the ownership of the stock on the farm, that of the defendant tending to show that he owned and had, for a great many years, all the stock. The referee made no finding on that subject.
+The referee, in his conclusions of law on the facts found, determined that the deed of the 179 acres was fraudulent and void as against creditors, but reaches no conclusion as to the forty-eight acres or the personal property. An examination of the evidence and the referee’s report makes it very clear that he was of the opinion that Elijah’s agreement to support his father and mother as a part consideration for the purchase, made the conveyance void as against creditors, without regard to the other consideration paid by him, or whether he had knowledge, at the time of the purchase, of any other indebtedness owing by his father, except such as he paid, or assumed to pay, relying probably on Young v. Heermans (66 N. Y., 374-382), Grover v. Wakemam, (11 Wend., 187), Jackson ex dem. Cary v. Parker (9 Cow., 73-85), and that class of cases.
+The referee evidently reached the conclusion that as soon as it appeared that there were creditors, and the debtor had conveyed all his property to a purchaser, and that a portion of the consideration was an agreement to support the vendor, that this in law made the conveyance void as to those creditors, whether the purchaser, aside from that, paid a valuable consideration, or whether he knew of the existence of the debt or had any knowledge of the vendor’s fraudulent intention (if it existed). Otherwise the referee would have passed upon the questions of fact which he omitted. The findings made and the omissions to find clearly show that such was the conclusion he reached. In reaching such a conclusion the learned referee fell into an error. It was not wrong of itself for Elijah to-provide a home for his father and mother, assuming that no creditors were thereby defrauded. On the other hand it was not only commendable, but the law, under certain circumstances, imposes that duty.
+Assuming that the forty-eight acres were only of the value of $1,200, which it was sold for, and the referee does not find that it was worth more than that, and assuming that the defendant owned the personal property (the reverse of which is not found) it is evident that Elijah paid much more for the land than it was worth.. He paid in cash, more than $800. His own debt was about $2,000. The larger farm was incumbered within $750 of its value. The forty-eight acres were worth $1,200, making less than $2,000 in all, while the amount paid was about $2,800 besides the incumbrances, or $800 more than the land was worth.
+The rule is now well established that when a grantee is innocent of any fraudulent intent, and pays a valuable consideration without knowledge of outstanding equities, the conveyance can never be found absolutely void. The most that can be done is to direct a sale of the lands subject to the amount paid by the purchaser. (Van Wyck v. Baker, 16 Hun, 168; Davis v. Leopold, 87 N. Y., 620-622; Pond v. Comstock, 20 Hun, 492.) Fraud is not to be presumed. (Jaeger v. Kelly, 52 N. Y., 274.)
+If in the present case it should be found that the defendant Elijah Mathewson occupied that position, he is entitled to protection to the extent of the consideration paid, and a creditor’s remedy would be confined to the value of the land; beyond that, neither the findings of fact or conclusions of law by the referee were sufficient to present this question. The other questions argued need not be determined. *
+J udgment reversed and new trial ordered before another referee, costs to'abide the event.
+Present — Smith, P. J., Headley and Parker, JJ.
+Judgment reversed and new trial ordered before another referee, costs to abide the event.
