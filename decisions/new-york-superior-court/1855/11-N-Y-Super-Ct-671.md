@@ -1,0 +1,23 @@
+---
+court: "New York Superior Court"
+decided: "1855-08"
+citations: ["4 Duer 671", "11 N.Y. Super. Ct. 671"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Before Hoffman, J.)"]
+parties: ["Porter v. Lent."]
+source_url: "https://static.case.law/ny-super-ct/11/cases/0671-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6764049
+---
+
+# Porter v. Lent
+
+## Majority (Hoffman, J.)
+
+Hoffman, J.
+The summons is for the relief demanded in the complaint, in ease of a neglect of the defendant to answer. The case made by the complaint is, that the defendant was an agent for the collection of rents belonging to the plaintiff; — payments on account are stated, and a request that the defendant would furnish a fall account of his dealings; — his refusal; — the inability of the plaintiff to state the precise sum due, but his belief that such balance is at least $550. The demand is for a discovery and account, and for judgment for such sum as shall be found due upon the said accounting, with interest, and costs of the action. The defendant has not appeared, and application is made for judgment under section 246 of the Code. The plaintiff proposes to take judgment for the sum of $550. The complaint is verified.
+I do not think such a judgment is warranted by the Code. The first subdivision of section 246 clearly does not apply. Under that, the summons must contain the amount of the money demanded — certainly under the first clause; probably in all the cases within that section. And again, the case is not within the second clause of such first section, because the complaint is sworn to. Under the second subdivision the court is to be applied to for the relief demanded in the complaint; and here the 275th section is of importance. The relief to be granted, if there is no answer, cannot exceed that which is demanded in the complaint. In other cases any relief may be granted which is consistent with the case made. The second subdivision provides that in other actions the plaintiff may apply to tbe court for tbe rebef demanded in tbe complaint. If tbe taking of an account or tbe proof of any fact be necessary to enable tbe court to give judgment, or to carry tbe judgment into effect, tbe court may take tbe account, or bear tbe proof, or may, in its discretion, order a reference for that purpose. Tbe relief, then, demanded in tbe complaint, defines and limits tbe power of tbe court as to tbe judgment to be given. It is not tbe case .made, but tbe judgment asked for, wbicb controls. In tbe present instance this is for an account and payment of tbe balance, to be ascertained upon it. I think there must be a reference to take tbe account as sought.
+Attention has been called to tbe 86th rule of tbe Supreme Court, as implying that applications of this nature must be made at Special Term. In tbe case, also, of Ryan v. Melansvell, (1 Sandford, S. C. Rep. 709,) a similar view was taken; and tbe 47th (present 87th) section of tbe Code was referred to, wbicb directs that judgments upon appeals shall be given at tbe General Term, and all others at tbe Special Term. Tbe case in 1st Sandford was decided in 1848. In 1850 this court adopted, among others, tbe fifth rule, providing that non-enumerated motions will be beard by one of tbe justices at tbe Special Term room and tbe chambers daily, with certain exceptions. For such motions, and for tbe purpose of making all necessary orders,, and giving judgments in causes under chapter first of title eight of tbe second part of tbe Code, a Special Term will be held every day during tbe vacation, at 10 o’clock, A. M. This chapter comprises tbe 245tb, 246th, and 247th sections of tbe Code, and judgments of this nature to be directed at chambers as at Special Term, are now warranted.
+Is not an application “ for the relief demanded in the complaint” an application for judgment ? The court may see that it is necessary some fact should be ascertained to enable it to give judgment, and this necessity may result in an order of reference, to be executed before judgment can be given. By requiring the application to be made “ to the court,” (§ 248, sub. 2,) does not the Code make it indispen-sible, that the application should be made to a Judge, at a term of the court, and not to a Judge at chambers, or out of court? And is not the difficulty obviated by rule 6, of this court, adopted January 18, 1851, which provides, that for the purpose of “ giving judgments in causes under chapter first, title eight, of the second part of the Code, a Special Term -will be held every day during the vacation, at 10 o’clock, A. uV' — JRep.
