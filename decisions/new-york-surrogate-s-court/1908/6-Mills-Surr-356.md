@@ -1,0 +1,21 @@
+---
+court: "New York Surrogate's Court"
+decided: "1908-02"
+citations: ["6 Mills Surr. 356"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Contested Will of Phebe E. Tredwell."]
+source_url: "https://static.case.law/mills-surr/6/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1073429
+cites_cases: ["55 Misc. Rep. 162"]
+---
+
+# In re the Contested Will of Tredwell
+
+## Majority (Beckett, S.)
+
+Beckett, S.
+The views expressed in my opinion respecting' the matter of the contested will of Sarah E. Tredwell, deceased, this day filed, also apply generally to this matter, for this instrument was also one of the four mutual wills and was subscribed at the same time and place -and witnessed by the same subscribing witnesses. Moreover, in this contest, at the opening of the trial, the same contestant withdrew all his objections as to lack of testamentary capacity and exercise of undue influence; hence, the matters of the factum and custody of the instrument alone remain to be considered. The proofs offered by the proponents satisfied me as to the factum and it also appeared that the instilment had been delivered by the decedent to, and been continuously in the custody of, her personal counsel (in the will box of his law firm) for the last ten or fifteen years, until its production by said counsel in this court as an exhibit in the Sarah K. Tredwell will contest. Matter of Foley, 55 Misc. Rep. 162. The will should be admitted to probate.
+Probate decreed.
