@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-23"
+citations: ["17 N.Y. St. Rep. 225"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederika Egerer, v. The New York Central and Hudson River Railroad Company."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0225-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008046
+cites_cases: ["104 N. Y., 268", "90 N. Y., 122"]
+---
+
+# Egerer v. New York Central & Hudson River Railroad
+
+## Majority (Dwight, J.)
+
+Dwight, J.
+The action was for damages caused by the obstruction of a street, adjacent to the plaintiff’s dwelling-house, interfering as she alleges with her easements of the light, air and access.
+The acts of the defendant complained of, were done in the work of elevating the tracks of its road, through the city of Rochester,under the provisions of chapter 147 of the Laws of 1880, and a contract with the city made pursuant thereto.
+This court has already considered the effect of that legislation and action of the city authorities in the case of Wilson v. The same defendant, decided in January, 1886, and as we now think, disposed of all the questions which properly arise in this case. See MS opinion of Barker, J., in ■the case referred to.
+The effect of the action of the commissioners on the part of the city, was, among other things, to discontinue that portion of North avenue, at and near its junction with North street, over which the four tracks of the defendant’s road passed at grade; and, by diverting its course for a short distance, form a new junction with North street near the overhead crossing of the latter. All the structures, of the defendant, complained of in this case, are on the land from which the street was thus removed, and of which the fee was in the defendant; or on land of the defendant which was always outside the limits of the street.
+The diagrams in evidence show that the plaintiff still •has all the access to the street which she ever had, except ¿such as she assumed to make use of across the land of the defendant which was not included within the limits of the. street.
+In respect to interference with' easements of air and light, the case is not within the doctrine of the New York Elevated Railroad cases (Story v. N. Y. El. R. R. Co., 90 N. Y., 122; Lahr v. Met. R. R. Co., 104 N. Y., 268; 7 N. Y. State Rep., 870), because, in those cases, the interference was with the enjoyment of an easement in an existing street, by a party whose property abutted thereon. Here the injury, if any, results from a discontinuance of the street itself, by action of the city authorities, and a consequent deprivation of the easements formerly enjoyed therein. It is not contended that the plaintiff could acquire such easements, by prescription over the lands of the defendant, an adjoining proprietor.
+The discontinuance of the street was within the authority given to the commissioners of the city by the act of 1880, and the plaintiff had no cause of action against the-defendant for damages caused thereby.
+In conformity with the principles declared in the case of Wilson v. N. Y. C. and H. R. R. R. Co. (supra), we must hold the verdict properly directed in this case, and deny the-plaintiff’s motion for a new trial.
+Motion for a new trial denied and judgment ordered for the defendant on the verdict.
+Barker, P. J., Haight and Bradley, JJ. concur.
