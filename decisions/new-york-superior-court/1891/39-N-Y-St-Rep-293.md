@@ -1,0 +1,24 @@
+---
+court: "New York Superior Court"
+decided: "1891-03-10"
+citations: ["39 N.Y. St. Rep. 293"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Giovannia Pullutro, Pl’ff, v. The Delaware, Lackawanna & Western Railroad Co., Def’t."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2062076
+cites_cases: ["7 N. Y. Supp., 511"]
+---
+
+# Pullutro v. Delaware, Lackawanna & Western Railroad
+
+## Majority (Hatch, J.)
+
+Hatch, J.
+—The record upon which this case was brought before the general term, upon the appeal taken by plaintiff from the judgment of nonsuit disclosed, and the court in disposing of it assumed that the cars, between which the plaintiff was caught, were not provided with bumpers or dead woods, or other appliance, to prevent the cars from coming in immediate contact. Pullutro v. Delaware, L. & W. R. R. Co., 7 N. Y. Supp., 511.
+That it was within the province of the jury to determine whether, by a failure to provide such appliances the master had not failed in its obligation to provide reasonably safe and proper implements and machine for the use of plaintiff in and about the performance of the duty required of him, and that if they found there was such failure, and if such absence of appliance was the proximate cause of the injury, then defendant’s negligence was established.
+It was also assumed, that from the evidence, the jury would be authorized to find that the injury was inflicted by catching plaintiff’s leg between the ends of the car, and if the bumpers were present such accident would not have happened, as the cars would have been prevented from closing up. Id., 514. Under such circumstances, whether plaintiff was guilty of contributory negligence was also deemed a question for the jury. The evidence upon the new trial is essentially changed, and just how the injury was inflicted has ceased to be a disputed question of fact The plaintiff testifies that when he boarded the train he went between the cars, placed one hand on the end of one car, and the other hand upon the car next it, threw one leg up and was bringing the other up when it came between the drawheads, where the link was, and was crushed. The witness Minelli testified that plaintiff’s leg was caught in the middle of the car, and he indicated upon the diagram, used upon the trial, the place, which shows it to be the point where the drawheads were. The witness Manganzo states that plaintiff’s leg was caught at the place where the cars were coupled together. This constitutes the whole of plaintiff’s proof upon this subject. Instead, therefore, of the proximate cause of the accident being the absence of an appliance-to prevent the cars from coming together, it is beyond dispute-that their presence or absence was not even a contributing cause of the injury. The proof is without dispute to show that thedrawheads, where the cars were coupled, receive the first blow,, when the cars come together, and they give some inches; thus when his leg was between these, if they came together it must be caught without reference to the presence or absence of buffers, or dead woods. It is not claimed, nor could it be successfully, that there was any neglect of duty by defendant in the construction or placing of the drawheads. They were necessary in order to fasten the cars together. That they are made to meet, and will close together, in the ordinary operation of the train, is so apparent that a person endowed with ordinary understanding has but to glance at them to be informed, and there was nothing to obstruct his vision.
+Under such circumstances, with the cars in motion, the placing of any portion of the person between them is so apparently dangerous, that the act can only be characterized as heedless and rash. I have not over-looked the suggestion that, by the absence of any appliance to get upon the car, the plaintiff was necessitated to go between them; that he was greatly hurried, unacquainted, in a large degree, with his surroundings, not instructed, had but recently been employed, and adopted the usual method by which the other men got upon the train; yet, with all these considerations, the use of his eyes would at once have disclosed the danger, and no matter how much he was hurried or ill-informed, the faculty which would disclose the danger could be used much quicker than he could act. His failure to do so resulted in the injury, as there is nothing to show that he could not have gotten up without placing his leg between the draw-heads. I am, therefore, unable to see how his act can be harmonized with the rule, requiring that he must act as an ordinarily prudent person would have acted under like circumstances.
+It follows, that the verdict must be set aside, and a new trial ordered, with costs to abide the event.
