@@ -1,0 +1,25 @@
+---
+court: "New York Superior Court"
+decided: "1854-02-11"
+citations: ["3 Duer 54", "10 N.Y. Super. Ct. 54"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lewis H. Sayre, Administrator, &c., of Charles Henry Hall, deceased, v. The New York and Harlem Railroad Co."]
+source_url: "https://static.case.law/ny-super-ct/10/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1326226
+cites_cases: ["11 Mass. 302", "2 Johns. 145", "21 Wend. 120", "4 Cow. 4", "5 Wend. 496", "6 H. & J. 81", "6 Hill. 54", "8 Wend. 615", "9 Wend, 325", "Rob. 56"]
+---
+
+# Sayre v. New York & Harlem Railroad
+
+## Majority (By the Court. Oakley, Ch. J.)
+
+By the Court. Oakley, Ch. J.
+We are all of opinion that the motion made before the Referee, for the dismissal of the complaint, ought to have been granted. The evidence wholly failed to sustain the allegations, which the plaintiff was bound to prove.
+In order to sustain the allegations in the complaint, it was necessary to prove that the agreement made in December, 1840, between Hall and the defendants remained in force, that it was fully performed by him, and that he sustained damage from the neglect or refusal to perform on the part of the defendants. The proof, however, showed that the agreement, through the default of Hall himself, became inoperative and void: that it was never performed by him, and that no damages were, or could have been sustained by him from its alleged violation.
+He made the agreement as owner of the fee. It was only while he remained such owner that he was capable of executing it, and there is no pretence for saying, that during the continuance of his ownership, there was any breach of the agreement on the part of the defendants, that could entitle him to maintain an action. The defendants were certainly not bound to erect a depdt until the lots upon which it was to be erected were, in fact, conveyed to them, and the evidence conclusively shows that no such conveyance was received by them, until that made by Adriance, in 1849. Many years, however, before this time, Hall had ceased to be the owner. The conveyance by the sheriff to Adriance in April, 1842, extinguished ■ his title, and by a necessary consequence, annulled the. agreement between him and the defendants. As from that time, if not before, he was incapable of executing the agreement on his part, he could have no right to claim its execution by the Company. His performance was a condition precedent to their liability, and from April, 1842, until his death, he was unable to perform. The agreement between him and the defendants was just as effectually dissolved by the conveyance made by the sheriff to Adriance, as it would have been, had the conveyance been made by himself.
+The clause in the conveyance from Adriance to the Company, which was somewhat relied on in the argument before us, is not a covenant, but a mere declaration of the use or purpose to which the lots, thus conveyed, were meant to be applied. We cannot regard it either as a revival of the agreement of 1840, or as a confession that this agreement was still subsisting ; and were it possible for us to give it this construction, the unanswerable objections still remain, that the agreement was not performed by Hall, and consequently that there was no consideration proceeding from him that could create an obligation to him on the part of the Company, and that no damages which the law can notice were, or could have been sustained by him from the refusal or neglect of the Company to perform. He had no estate or interest whatever, legal or equitable, in the 'tavern and other property, the value of which is alleged to have been injuriously affected by the failure of the defendants to erect the contemplated depot. The loss of the benefit that .might have resulted to this property, had the depdt been built, was in judgment of law a loss to Adriance as the owner of the fee; and the possibility or probability that Hall, through the indulgence of Adriance, would'have shared in this benefit, is plainly no foundation for an action. If there was no contract between Hall and the defendants which they have broken, no legal right of his which they have violated, the claim for damages sustained by him must be groundless. Whether Adriance himself would be entitled to any relief against the Company, is a question which we are not required to consider, and in relation to which we are not to be understood as intimating an opinion.
+Even could this action be maintained, the referee certainly erred in allowing damages for the period that had elapsed between the death of Hall and the time of trial; but, instead of granting a new trial upon this ground, we think ourselves bound, holding as we do, that upon the evidence the action is not"maintainable at all, not merely to reverse the judgment, but to dismiss the complaint.'
+Judgment on report reversed, and complaint dismissed with costs.
