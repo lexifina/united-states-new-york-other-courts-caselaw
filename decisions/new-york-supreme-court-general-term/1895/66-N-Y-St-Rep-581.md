@@ -1,0 +1,19 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-03-15"
+citations: ["66 N.Y. St. Rep. 581"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["New York Insulated Wire Company, App’lt, v. Westinghouse Electric and Manufacturing Company, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/66/cases/0581-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2110636
+---
+
+# New York Insulated Wire Co. v. Westinghouse Electric & Manufacturing Co.
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+The summons aud complaint in this action were served on the 16th of August, 1894, and on the 12th of November the defendant served an answer. On the 24th of November a notice of motion for a severance of the action and for a judgment pf $17,079.24, claimed to be admitted to be due in said answer, was served; said notice being returnable on the 3d of December, the last day for the defendant to serve an amended answer. The defendant asked that the motion stand over until the following day in order that it may serve its amended answer. This application was granted, and the next day the defendant, pursuant to such leave, served and submitted to the court such amended answer, and at the same time served upon the plaintiff an offer of judgment for $24,000. The original answer and the offer to allow judgment are contained in the papers handed up upon this appeal. It is undoubtedly true that the plaintiff was entitled to the relief demanded by this motion under the original answer. .But the amended answer contains no such specific-admissions as were embraced within the original answer, and the court cannot determine, upon an inspection of the amended answer, the amount which is admitted to be due. It is urged, however, upon the part of the apppellant, that recourse may be had to the original answer for the purpose of explaining the allegations contained in the amended answer. But we think that this cannot be done, as it is a well-settled rule of pleading that where an amended pleading is served it takes the place of the original pleading, and the action proceeds as though the original pleading had never beenserved. Such original pleading,under such circumstances forms no part of the record, and does not set forth the issues which are involved. It is diffcult, therefore, to see what bearing or relevancy the original answer can have upon a motion of this description ; and upon reading the order in this case it would seem not to have been considered by the court below. The summons and complaint and the amended answer are referred to in definite terms, but, although the words, “and upon all the papers and proceedings herein,” are inserted in the order, it is manifest that the court did not consider the original answer in determining the application ; and, if it did, it would have been error. Neither can the plaintiff’s application receive any support because of the offer of judgment which is contained in these papers. The only way in which the plaintiff can avail himself of an offer of judgment is set forth in the Code. It is not upon such a motion as the one now under review that any use is permitted of such an offer. If the amended answer in question was served in bad faith, simply for the purposes of delay, the Code points out the remedy which a party aggrieved is entitled to pursue. He may have it stricken out upon motion, and then the action proceeds upon the original pleading. No such course was taken in the case at bar, and we no means of aiding the plaintiff in procuring the judgment which he was entitled to under the original answer, and to prevent the recovery of which the amended pleading seems to have been served. The order appealed from must be affirmed, with $10 costs and disbursements.
