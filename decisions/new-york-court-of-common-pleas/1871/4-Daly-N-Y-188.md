@@ -1,0 +1,31 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1871-12"
+citations: ["4 Daly (N.Y.) 188", "43 How. Pr. 29"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Dart and another v. Marcus Walker and Andrew McKinney."]
+source_url: "https://static.case.law/daly-ny/4/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 910828
+cites_cases: ["53 Barb. 412", "53 Barb., 472"]
+---
+
+# Dart v. Walker
+
+## Majority (By the Court.—Robinson, J.)
+
+By the Court.—Robinson, J.
+—This is an appeal from an order made on the application o-f both defendants for the removal of this action now at issue, and pending in this court, to the Circuit Court of the United States for the Southern District of this State. The application was made on the affidavits of both defendants that both plaintiffs are residents of this State; that they (the defendants) are both residents of the State of Massachusetts; that the matter in controversy is a claim for damages in the sum of $30,000 (far exceeding $500, exclusive of costs); that they both believe that from prejudice or local influence they and each of them will not be able to obtain justice in this court.
+The application is also founded upon their joint petition for such removal of the cause, stating substantially the same facts as are contained in their affidavits, in which they jointly and severally offer the security required by the acts of Congress of March 2d, 1867, or that of 1866, to which it is amendatory. "
+The action was commenced in December, 1865, and issue was joined in March, 1866. The defendant Walker was at the time of the commencement of the suit a resident of this State, hut for the past year and upwards has been a resident of Massachusetts, while the defendant McKinney, at the commencement of the action and ever since, has resided in Massachusetts. The cause has been once tried, but on appeal, a new trial has been ordered, and the case now stands for trial on the calendar of this court.
+As to the defendant Walker, he cannot avail himself of the benefits of either of the acts of Congress of July 27th, 1866, or March 2d, 1867, above referred to.
+At the time of the passage of both these acts, this suit had been already commenced and was then pending. It was not (as to him) one pending between “ a citizen of the State in which the suit was brought against a citizen of another State,” nor was it one that was “ thereafter commenced,” so that he did not come within either category of the statute. ■
+His subsequent change of residence to the State of Massachusetts did not affect the exclusive jurisdiction of this court, nor authorize the removal of the cause to the Circuit Court of the United States.
+The order denying the application in his behalf was correct, and should be affirmed. The motion was, however, granted as to the defendant McKinney, on condition that he file a bond in the penalty of $20,000, with sureties, conditioned for the performance of the requirements of these acts. An objection is taken by the plaintiffs, on the ground that the application was made with express reference to the act of 1867, and that the defendant McKinney is not within the intent of that statute, because it had only reference to a suit between “ a citizen of the State in which the suit is brought and a citizen of another State,” that where all the plaintiffs are residents of one State, and all the defendants reside in another, and that no such relief as is sought can be afforded, because the application is made with reference to the act of 1867, and should not be granted under the act of 1866, because not asked for under that statute. Undoubtedly, the act of 1867 is to be construed in harmony with that received by the similar terms in the judiciary act of 1789, and has reference only to actions between one or more plaintiffs (of one class) and one or more defendants of the other class, in which the application for the removal of the cause should be made, either by all the plaintiffs, citizens of one State, or by all the defendants, who are citizens of another (Fisk v. Chicago, Rock I. & P. R. R. Co. 53 Barb. 412). The act of 1866, however, is one for the benefit of such of several defendants, citizens of a State other than that in which the suit is instituted, who make it appear to the satisfaction of the court, by petition, that the suit is one in which “ there can ~be a final determination of the controversy so fa/r as the petitioning defendant is concerned, without the presence of the other defendants as parties in the cause.”
+The petition alleges, and by a statement of the nature of the action, discloses it to be one of this character, and although the rights of the petitioner, as stated, may be sought under and by erroneous reference to a particular statute, yet the appropriate relief may be granted, although afforded under a different act. It is further objected, on the part of the plaintiff, that the petition is joint, and being denied as to one defendant, should be as to both. The petition states the case of each defendant, and shows, as to McKinney, that he is within the provisions of the act of 1866, and that a removal may be made as to him, although refused as to Walker. They each offer to comply with the conditions of the statute, and the order allowing the application as to the defendant McKinney, on terms conforming to the act of 1866, could not have been properly denied.
+By these statutes, application for the removal can be made “before trial or final hearing,” and it is also urged that a trial having previously been had, the application is too late. This objection should not prevail. That trial was adjudged a mistrial, and the case now stands for trial as if none such had occurred. A trial being the final determination of the merits of the controversy, such judicial consideration of the case must necessarily yet be had (Akerly v. Vilas, 8 Am. Law Reg. N. S. 229).
+The order appealed from was, in all respects, proper, and should be affirmed, but without costs.
+Judgment affirmed.
+Present, Daly, Oh. J., Robinson and Labremore, JJ.
