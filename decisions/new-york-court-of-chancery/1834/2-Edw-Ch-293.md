@@ -1,0 +1,24 @@
+---
+court: "New York Court of Chancery"
+decided: "1834-04-14"
+citations: ["2 Edw. Ch. 293"]
+reporter: "edw-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bullock v. Boyd et al."]
+source_url: "https://static.case.law/edw-ch/2/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1986614
+---
+
+# Bullock v. Boyd
+
+## Majority (The Vice Chancellor:)
+
+The Vice Chancellor:
+The statements in the answer are undoubtedly sufficient, in the first instance, to show a stated account between the debtor and creditor; and between the defendants and the present complainant it is as valid and binding as between them and Lampson.
+In .order to entitle Lampson or the complainant to have the accounts opened, it would be necessary that they should point out errors or charge fraud in the present or preceding accounts whicli form the series from the commencement of their dealings. This has not been done.
+The principal allegations in the bill, upon the subject of these accounts, are that the complainant was informed by Lampson and he believed, at the time of the assumption of the debt to the defendants, that he, Lampson, did not owe them any thing upon a just settlement of accounts or, at all events, much short of eight thousand dollars, and no account was ever rendered to the complainant by the defendants of the balance due to them by Lampson and assumed by the complainant or of said Lampson’s account with them. Manifestly, I think, proceeding upon the idea of open, subssiting accounts between them; and not of accounts made up and balances struck and which were false or erroneous. A defendant may plead or set up in his answer a stated account to a bill for an account generally. This will he prima facie a bar to any further accounting; and it will not be entirely opened, except upon a bill for that purpose and therein charging fraud or other sufficient cause: Dawson v. Dawson, 1. Atk. 1.; Sumner v. Thorpe, 2. Ib. 1. A party may, doubtless, be permitted to surcharge and falsify, without opening an account: yet, for this purpose, it would seem to be necessary to charge some specific error or omission in the account or, at. all events, shpw the accounts to be erroneous : Taylor v. Hayling, 2. Bro. C. C. 310. and in 1. Cox. 435.; Johnson v. Curtis, 3. Bro. C. C. 265; Chambers v. Goldwin, 9. Vesey, 266.; Drew v. Power, 1. Sch. & Lef. 192. And when a bill is brought to impeach a stated or settled account and it charges that the complainants had no counterpart of the account and prays the same hnay be set forth, the defendant will be obliged to do so or annex it by way of schedule to his answerer plea, although he pleads or sets up in his defence that it is a stated account. The reason for this is, that without a discovery of the account itself, the complainant will have no means of pointing out the errors upon the face of it, provided any exist: Hankey v. Simpson, 3. Atk. 303.
+But the present is not a bill to impeach the accounts between the defendants and Lampson. Its scope and object, go far as the complainant assumed Lampson’s indebtedness, is to ascertain the amount of the same ; and which depends, ag pe a]]egeSj up0n the just settlement of the accounts between them. The defendants undertake to answer, and it is true, they are bound to answer fully—but I think they do answer fully on the point of indebtedness and as to its amount, when they say that shortly before the complainant entered into the engagement with them to pay Lampson’s debt, they and Lampson accounted together, struck a balance which he acknowledged in writing to be correct and justly due to them and that the schedule annexed to their answer contained the account thus stated. This account must be deemed correct and conclusive, until it is impeached for fraud or error. Lampson does not appear to have ever questioned the correctness of any of the accounts or sought to open them ; and if the complainant would do so, I consider, upon the authorities cited, he should have framed his bill differently or have moved to amend it.
+The case made by the bill in my opinion does not warrant the prayer “ that the defendants may set forth and discover their accounts with Lampson from the commencement of their dealings with him up to the time of filing the answer and annex all such accounts to their answer.” It will be of no avail to have a discovery of all these accounts, unless the complainant can impeach or be permitted to surcharge and falsify them ; and there is no foundation laid for either in the bill. For these reasons and upon this ground the exception to the answer should have been disallowed.
+I must overrule the master’s report. No costs are asked by either party against the other.
