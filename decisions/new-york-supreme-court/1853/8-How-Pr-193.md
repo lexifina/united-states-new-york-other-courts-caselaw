@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court"
+decided: "1853-01"
+citations: ["8 How. Pr. 193"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Otis agt. Ross and others."]
+source_url: "https://static.case.law/how-pr/8/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2194408
+---
+
+# Otis v. Ross
+
+## Majority (By the Court, Shankland, Justice.)
+
+By the Court, Shankland, Justice.
+The plaintiff moved to strike out a portion of the defendants’ answer to the complaint, on the ground that it set forth two defences, not separately stated, as required by section 150 of the Code. The motion was granted, at special' term, and the defendants appeal
+The complaint alleges that on the 24th of April 1852, the defendant Erastus Ross, being a merchant in failing circumstances, purchased of the plaintiff a quantity of goods; that in. order to obtain said goods and to deceive and defraud the plaintiff,, said Ross represented to plaintiff, that he was in good and, flourishing circumstances, and was worth more than three thou-sand dollars, over and above all his debts and liabilities; that, such representations were false, and were made to obtain pos-, session of said goods—he having no intention to pay for them, &c.
+The answer denies that said Ross was much embarrassed, insolvent, or in failing circumstances; and they further deny that in order to obtain said goods, and to deceive and defraud said plaintiff, said Ross represented to him, that he was in good or flourishing circumstances, or that he was'worth more than three thousand dollars,, or that said Ross did not intend to pay for said goods; or that such representations, or that any representations made by said Ross to the plaintiff, were false, or made for the purpose of obtaining said goods,” &c. The objection made to the answer is, that if the defendant did not make the alleged representations as to his property, then he has a good defence on that ground alone; and if he did make the alleged ■representations, and they were true, then the truth of those representations is a defence; and that by denying the fact of making such representations,. and also denying that he made ■false representations, two defences are combined in one answer.
+I atii of opinion that it is competent for the defendants to answer as they have done in this case, because the 149th section of the Code permits the defendant to deny generally or specifically each material allegation of the complaint controverted by the defendant; and every material allegation of the complaint not denied by the answer, as prescribed by section 149, is admitted (see § 168). The defendants had the right by a general denial of the complaint to oblige the plaintiff to prove both the representations, and their falsity; and the specific denials of the answer require him to do no more than that.. The answer does not contain a double defence because it denies two facts, both of which are necessary to make out a good cause of action. If this were so, an answer could never deny more than one material allegation of the complaint, and would, of necessity, admit all •the rest; or the defence, although consisting of bald denials of •allegations, on the other side, would call for as many separate answers as there are material allegations to be denied.. I am of opinion that all the material facts constituting one cause of action, may be denied in one answer, however numerous those facts are. Nor is there any thing inconsistent in the denials contained in this answer—for it may be true, that the defendant, Ross, never represented to the plaintiff that he was in good circumstances at the time of the purchase of the goods, and yet he may in fact have been in good circumstances. It would be exceedingly unjust to drive "him to admit, either that he made the representations of his wealth or that they were false. I hold that he may deny both.
+The 150th section of the Code, which is relied on by the plaintiff, is, that the defendant may set forth by answer as many defences as he shall have, and that they shall each be separately stated.
+This section does not relate to defences which consist of mere denials of the complaint, but relates to distinct affirmative de fences—such as payment, statute of limitations, release, &c. I1 must be new matter.
+The answer seems to be defective, in one respect not alluded to by the court at special term, nor in the notice of motion, viz* it denies the allegations in the alternative form, that he made this representation, or that, or that, or that—and thus leaves i* uncertain which he means to deny. The defendants probably intended to use the word “ nor ” instead of “ or,” but they have not done so.
+The last clause of the 160th section of the Code enacts, “ that when the allegations of a pleading are so indefinite or uncertain, that the precise nature of the charge or defence is not apparent, the court may require the pleading to be made definite and cer tain, by amendment.”
+I have doubts whether this section has relation to defences, which consist in bare denials of the plaintiff’s allegations, and am inclined to think it should be limited in its application to defences of new matter contained in an answer.
+But I deem it unnecessary to decide the doubt in this case, for the reason that the application did not ask to have the answer made more definite or certain, but asked to have the defendants elect which of two defences they would rely on, and to have the other stricken out.
+But it is said that this is not an appealable order, because it does not involve the merits. I am of opinion that striking out the denial of any material allegation in a complaint, and thereby obliging the defendant to admit that allegation, does involve the merits; and such was the decision reported in 4 How. Pr. R. 314.
+I am of opinion that the decision at special term is erroneous, and should be reversed with costs of this appeal, and ten dollars costs of defending the motion at special term.
