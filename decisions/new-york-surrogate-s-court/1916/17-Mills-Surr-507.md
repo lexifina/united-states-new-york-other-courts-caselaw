@@ -1,0 +1,25 @@
+---
+court: "New York Surrogate's Court"
+decided: "1916-10"
+citations: ["17 Mills Surr. 507", "97 Misc. 238"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Charles M. Moore, Deceased."]
+source_url: "https://static.case.law/mills-surr/17/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1095829
+cites_cases: ["126 App. Div. 257"]
+---
+
+# In re the Estate of Moore
+
+## Majority (Fowler, S.—)
+
+Fowler, S.—
+The executor of decedent’s estate contends that the appraiser erred in his valuation .of fifty shares of the stock of Tiffany & Company held by the decedent at th^time of his death. The par value of this stock is $1,000 a share, and the appraiser reported that its market value at the date of decedent’s death was $7,683.45 per share.
+The stock is not customarily bought and sold in the open market. The sale of three shares in 1914, at an average price of $5,570 a share, cannot be accepted as the clear market value of the stock on the 30th of March, 1914, the date of decedent’s death, as the record does not show the circumstances under which the sale of these shares was made. The appraiser, .therefore, was forced to rely upon the statement of assets and liabilities of the company in ascertaining the value of the stock. In this statement the company claims that the sum of $2,300,000 should be deducted from the assets as a reserve fund. The appraiser allowed a deduction of $2,102,463.48 as a reserve against depreciation and refused to allow the other deduction. The value, of the assets represented the cost price of the goods purchased by the company, plus the expenditures made for labor in preparing them for sale. The reserve for depreciation represented the amount which the company considered reasonable as a reserve fund, in view of the fact that the goods sold by the company consist almost exclusively of luxuries. Nothing is more fickle than fashion and the taste in luxuries. The design or style of many of the most costly articles may suddenly become obsolete and necessitate the employment of considerable labor and expense in making such articles conform to the fashionable or popular taste for the time being. This reserve for depreciation is, therefore, a reasonable deduction from the assets of the company, but for the purpose of ascertaining the value of the stock the reserve maintained against possible loss by theft, smoke, etc., should not be deducted, as this is a reserve for contingencies which may nev°er happen, and no evidence was submitted to thp appraiser to show that the company had ever lost any of the amount reserved for such contingencies. The appraiser, therefore, was correct in refusing to deduct this special reserve of $2,300,000 from the assets of the company.
+The appraiser ascertained the value of the good will by deducting interest at the rate of six per cent per annum on the capital employed by the company in its business from the average annual net profits, of the business and multiplying the difference by ten. This gave the value of the good will, as $1,507,922.40. No exception was taken to the amount which the appraiser adopted as the average annual net profits, but it is contended that the value of the good will should be ascertained by multiplying the average net profits by three or five instead _ of ten, the latter being the figure used by the appraiser.
+The oases in this country are not uniform in regard to the number of years’ purchase by which the average "annual net profits may be multiplied for the purpose of determining the value of the good will. Most of the American cases adopt a period ranging from two to six years, the number being dependent upon the nature of the business, the length of time during which it has been established at a particular place and the extent to which it is known to the public. Tiffany & Company has an enviable international reputation as a craftsman and tradesman; it has been established in New York city for more than sixty years. If six years’ purchase of the average annual net profits was considered not an unreasonable value of the good will in a case where the question of good will related to the name under which a number of candy stores were conducted (Von Au v. Magenheimer, 126 App. Div. 257) it would seem that the good will of a company having the prominence, the permanency and the established reputation of Tiffany & Company should be worth at least ten years’ purchase of the annual net profits. It seems to me, therefore, that the finding of the 'appraiser was not against the weight of evidence, and was not so manifestly incorrect as would warrant the court in modifying or rejecting it.
+The State Comptroller has conceded the validity of the other objections raised by the notice of appeal, and an order may be entered modifying the order fixing tax in accordance with the objections raised by points 3 and 4 of the executor’s notice of appeal.
+Order modified.
