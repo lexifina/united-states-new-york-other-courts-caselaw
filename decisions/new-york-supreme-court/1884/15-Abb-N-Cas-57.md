@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court"
+decided: "1884-04"
+citations: ["15 Abb. N. Cas. 57"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SCHOMER v. CITY OF ROCHESTER."]
+source_url: "https://static.case.law/abbn-cas/15/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1955043
+cites_cases: ["4 Wall. 189", "75 N. Y. 45", "81 N. Y. 21"]
+---
+
+# Schomer v. City of Rochester
+
+## Majority (Hardin, J.)
+
+Hardin, J.
+Plaintiff, while passing along Smith street, in the city of Rochester, passed over a bridge erected in Smith street across the Erie canal, and just as she was leaving the bridge at the east end, received injuries for which she sought to recover.
+That she was not guilty of contributory negligence was found by the jury. That defendant was guilty of neglect, in leaving the street open and in use, in the imperfect and unsuitable condition in which it was at the time plaintiff was injured, has been found by the jury.
+Defendant in the answer admitted that Smith street is one of the public streets in the defendant city, and it was shown to be open and in use by the public, at the time the plaintiff was injured, and that the defendant knew of and countenanced such use of the street, and that part of it passing up to the bridge and over its abutments, and over the Erie canal.
+In 1861 the defendant recognized Smith street as a public street, and directed the ejection of a fence or other structure on the east side of the Erie canal where ■ the street intersects it. In 1872, defendant’s superintendent filled up holes and repaired the street. In 1874 defendant’s board of public works passed an ordinance to construct and place a sidewalk in the street, and also in 1878,at a meeting held on the 4th of January, 1878, passed a resolution authorizing the construction ; of a “ protective railing at Smith street canal bridge,” V, and in 1878, and in 1879, the defendant paid items ' | of expenditure for guard rails at the Smith street ■ bridge. After the State had constructed the bridge,! ' the city used it for street purposes, and invited the/ public to use it as part of the street. A"
+It does not appear that the State had any separate possession of it, or had any separate or special use for it. It does appear by the evidence that the State expended various sums, and on several occasions caused repairs to be made to the bridge and its approaches.
+Qualborough testified that when he was deputy superintendent of defendant’s streets, in 1870 to 1872, he filled “up the holes on the side of Smith street bridge, and on the west side we filled it from the bridge up pretty near to where Robert McIntyre lived, with ashes about a foot high.”
+In July, 1879, the plaintiff was injured as she phrases it, “ as we were coming along Smith street, going up the hill . . . the accident occurred just at the coming on the bridge, where the street adjoins the bridge.” We are of the opinion that the evidence warranted the jury in finding that the defendant “had treated the place as a public street, taking charge of it, regulating it as they do other streets.” It was not in a situation to say it had not authority to establish the street, and to say that while it was left open and the public invited and authorized to use it, that it had no authority to repair it (Mayor v. Sheppard, 4 Wall. 189; Sewell v. City of Cohoes, 75 N. Y. 45). If the jury had found difficulty in repairing the street, the approaches to or the bridge, because the State had a legal title to the bridge, as part of the canal property, certainly the city could have barricaded the bridge, shut up the street, and given the public, including the plaintiff, thereby notice, that the street was in an unsafe and dangerous condition, and thereby prevented the injury, and escaped the just imputation of negligence.
+Our attention is directed by the defendant’s counsel to Carpenter v. City of Cohoes, 81 N. Y. 21. In that case the bridge was the property of the State and used asa “ change bridge, and in use for the passage of draft horses from one side of the canal to the other.” The referee found that “ the cause of the injury was the neglect of the State and its officers to guard the precipitous side of the road with a sufficient wall or other adequate protection, and held that the city was not liable for the injury.”
+The opinion of the court, in approving the conclusion of the referee, says : 11 The State not only owned the locus in quo, but it was one of its own structures ; erected by it and used as a part of its public works, with which the city had no right to interfere by the erection of permanent structures thereon, such as a railing or wall . . . such action by the city might have obstructed or impaired the use which the State was making of its own premises as a passage for horses from the tow-path to the bridge; but at all events it would have been an unauthorized interference with the State property to place such structures thereon . . . Whether the city might ham kept the road-bed in repair, or was required to do so, it is not necessary to determine, as it is not found that the injury was caused by any defect in the road-bed, but is found to have been owing to the absence of the railings or walland the complaint was dismissed on the ground that the omission to erect such a guard was the fault of the State and not of the city (see p. 24).
+We think the case in hand falls within the decision in Sewell v. Cohoes (above), and not within Carpenter v. Cohoes (above).
+We think the learned trial judge was correct in saying to the jury that the defendant “ was not bound to take charge of this place at all . . . If it assumed to, and actually took such possession as you shall say amounted to dominion over it for purposes of travel, the city, so far as that question goes, is liable.”
+That instruction was warranted by the opinion of Miller, J., at page 52 of Sewell v. Cohoes, 75 N. Y.
+So were the rulings correct admitting proof of the several acts, resolutions and ordinances of defendant as to the street, as they were competent to show the defendant’s adoption of the street, and control over it (opinion of Miller, J., supra, page 54).
+In the charter of defendant, section 163 of chapter 14 of Laws 1880, it is provided that whenever any street shall have been “opened and used as such by the public for the period of five years, the same shall thereby become a public street for all purposes, and the common council and. executive board 6 shall have the same authority and jurisdiction over and legal interest in the same as they have by law over the other streets, alleys, lanes and highways of said city.’ ”
+We do not doubt the power of the defendant to keep Smith street in a good and safe condition, or to prevent the public from using it, when not in such condition. Because of the defendant’s neglect of duty, the jury have found it negligent, and we see no occasion to disturb the verdict (Brusso v. Buffalo, 90 JUT. T. 679).
+Motion denied and judgment ordered for the plaintiff on the verdict.
+Smith, P. J., and Barker, J., concurred.
