@@ -1,0 +1,20 @@
+---
+court: "New York Surrogate's Court"
+decided: "1896-01"
+citations: ["72 N.Y. St. Rep. 806", "15 Misc. 416", "1 Gibb. Surr. 503"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Judicial Settlement of the Accounts of Eliza J. Arkenburgh et al., as Executors, etc., of Robert H. Arkenburgh, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/72/cases/0806-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1988114
+---
+
+# In re the Judicial Settlement of the Accounts of Arkenburgh
+
+## Majority (TOMPKINS, S.)
+
+TOMPKINS, S.
+—The decree settling the account of the executor and executrix was made on the 30th day of December, 1895, after a prolonged contest, and many delays in effort to settle the decree after the decision was filed. Two accounts were filed,—one by the executor, and one by the executrix. Numerous objections were filed by legatees to items of the executor’s account. The decree directs payment of various amounts for costs, and on account of legacies. An order was made, during the contest over the account, requiring all moneys to be deposited in the Farmers’ Loan'& Trust Company, in the name of the estate, to be drawn only on orders or checks signed by both the executor and executrix. A certified copy of the decree was served upon the attorney for the executrix on the 2d day of January, 1896. and on the same day a like copy was personally served upon the executrix. The executor, on the 3d of January, requested the executrix to sign certain checks with which to pay certain amounts ordered to be paid by the decree. This the executrix refused to do. In brief, she refused to make or participate in any of the payments directed by the decree. On the oth day of January, 1896, the executor procured an order directing the executrix to show cause on the 9th day of January, 1896, why she should not unite with the executor in making payments required to bé made by the decree, and why she should not comply with the decree, and why she should not be punished for her alleged contempt, etc. • The executrix, for answer to the motion, says that she has been informed that certain of the legatees, who were contestants on the accounting, intend to appeal from the decision of the surrogate, and from the decree. In fact, the executrix alleges that she lias been informed by counsel for some or one of the contestants that an appeal would be taken and perfected within the statutory time. I think this is a sufficient answer to the motion. An executor should not be compelled to comply with the directions of a decree, where he is promptly advised that an appeal is to be taken, until at least a reasonable time is allownd within which to take and perfect such an appeal. Here only three or four days elapsed between the service of the copy of the decree and the making of this motion. If an executor is satisfied, and satisfies the court, that an appeal will be taken which may result in a reversal of tbe decision of the surrogate, or some part of it, and necessitate a modification of the decree he should not be punished for contempt for failing to comply therewith until the time to appeal expires. Of course, the surrogate can compel compliance but should not punish for contempt unless'there is evidence of bad faith or a willful refusal. It might very easily and naturally occur that on a modification of the decree, if payments were now made under it, there might not be assets enough to comply with the decision of the appellate court. The executrix should not be forced into such a position, where she would be Jikely to suffer a personal loss, by an order of the court at this time. There has been no willful refusal on the part of the executrix to comply with the executor’s request; hence she should not be punished. Nor should she be compelled to pay out moneys undei; the decree while she is satisfied that a timely appeal, in good faith, is to be taken.
+Motion denied, with $10 costs against the executor.
