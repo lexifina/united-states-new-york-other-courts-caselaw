@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1894-11"
+citations: ["89 N.Y. Sup. Ct. 150"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["HaediN, P. J., and MaetiN, J., concurred."]
+parties: ["John D. Higgins, Appellant, v. Georgianna M. Kingsley, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/89/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4746272
+cites_cases: ["1 Allen, 450", "1 Lans. 79", "112 N. Y. 364", "129 N. Y. 114", "18 Barb. 397", "2 Metc. 180", "24 Hun, 407", "48 Mo. 380", "60 Barb. 47"]
+---
+
+# Higgins v. Kingsley
+
+## Majority (MerwiN, J.:)
+
+MerwiN, J.:
+The parties to this action own adjoining lots in the city of Rome. The defendant undertook to build her portion of the division fence and claims tliat she has placed it along the line equally on the lands of each owner. The plaintiff claims, first, that the defendant had no-right to place any part of it on his land; and, second!, that if she had such right, she has not placed it equally on the land of each, but has by it improperly taken into her own' possession the strip here sought to be recovered.
+The first position of plaintiff is based upon a judgment between, the same parties entered shortly before the fence was built. The defendant owned a strip of land twenty-two feet wide adjoining the-easterly side of plaintiff’s lot. There was a dispute between them, as to where the division line was, and the defendant was about to-build a fence westerly of the line as claimed by plaintiff and on the plaintiff’s land as he claimed it. Thereupon the plaintiff brought, an action against the defendant and her husband to restrain them from placing any fence or obstructions on plaintiff’s land and west of the line as plaintiff claimed it. Thereafter, in pursuance of an offer made by the defendants, a judgment was entered fixing the location of the division line and perpetually restraining the defendants “ from placing any fence or obstruction on, or cutting trees from,, lot 14 in block 12, in the city of Nome, N. Y., westerly of the strip of 22 feet, as above located and described, and to remove any such fences or obstructions (if any) placed thereon.” The question as to how a division fence should be built, or whether one should be built at all, was not involved in the action. The defendants were in the attitude of taking more than they were entitled to, as the plaintiff claimed, and the plaintiff sought to stop them. The question in that case was as to where the dividing line in fact should be located. The judgment should not, I think, be construed to prevent the defendant from building on the true line a proper division fence.. (Shaw v. Broadbent, 129 N. Y. 114.) The parties evidently contemplated that a division fence would be built and had agreed upon, the part that each should build. A division fence, when properly built, is said to be, in contemplation of law, upon the line between. the adjoining lots. (Ferris v. Van Buskirk, 18 Barb. 397.)
+Was the fence properly built? Posts about four inches in diameter were set about fifteen feet apart along the line. The posts wer® connected with rails which were set into the westerly or plaintiff’s side of the posts and flush with that side. Then upon the westerly side of the posts and rails a wire netting about a quarter of an inch thick and about five feet higb was placed along the whole distance. The posts with the wire netting on were four inches thick, two inches of the posts being on defendant’s land, and the balance of the posts, together with the netting and rails, being on plaintiff’s land. The netting operated to exclude. from the possession of plaintiff, and include upon the defendant’s side of the fence, two inches in width of plaintiff’s land, the whole distance, except as occupied by the posts. This is the space that plaintiff seeks to recover.
+There is no doubt of the rule that a division fence should be made equally upon the lands of each. (Warren v. Sabin, 1 Lans. 79 ; Ferris v. Van Buskirk, supra ; Carpenter v. Halsey, 60 Barb. 47; Newell v. Hill, 2 Metc. 180; Pettigrew v. Lancy, 48 Mo. 380.) If more than half is built upon the land of one party without his consent, he is entitled to relief. (Sparhawk v. Twichell, 1 Allen, 450 ; Leprell v. Kleinschmidt, 112 N. Y. 364.)
+In this case the trial court has held that the fence was built equally on the lands of each. There is no evidence of any custom to build a division fence in the manner this was built. The plaintiff objected to it in time. Clearly the fence is not equally on each. The defendant has, in effect, appropriated to her own use a certain portion of plaintiff’s lot, small, it is true, but the plaintiff has a right to assert his ownership. (Countryman v. Lighthill, 24 Hun, 407, and cases cited.) There is no evidence that a proper division fence cannot there be made that will be equally on each party.
+Ye think the court erred in holding that the fence was built equally on lands of each party, and for that reason the judgment should be reversed.
+HaediN, P. J., and MaetiN, J., concurred.
+Judgment reversed and new trial ordered, costs to abide the event.
