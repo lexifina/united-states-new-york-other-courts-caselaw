@@ -1,0 +1,35 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1879-02"
+citations: ["5 Abb. N. Cas. 374"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HALL v. WATERBURY."]
+source_url: "https://static.case.law/abbn-cas/5/cases/0374-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1950278
+cites_cases: ["28 N. Y. 659", "3 Abb. Ct. App. Dec. 336", "3 Sandf. 577", "63 N. Y. 184"]
+---
+
+# Hall v. Waterbury
+
+## Majority (J. F. Daly, J.)
+
+J. F. Daly, J.
+Motion for new trial by defendants, Waterbury, Smith & Co. A verdict was rendered against that firm, and Phillips, a city marshal, for $20Q damages for failing to deliver to plaintiff goods which had been seized under an attachment, the attachment having been dissolved by the operation of the bankruptcy laws of the United States (§ 14, Bankruptcy Act).
+The question of the liability of Waterbury, Smith & Co. for the non-delivery of the attached goods was reserved for this motion. They were the plaintiffs in the action in the marine court in which the attachment was issued.
+The attachment was regular and was properly issued. It was dissolved by the operation of the bankrupt law, and not for any defect, insufficiency or irregularity. It was not void.
+The plaintiffs did not receive any part of the property seized, all of which remained in the custody of the marshal until he gave to plaintiff, as assignee in bankruptcy, an order upon his storekeeper for its delivery.
+The plaintiff took what was so delivered, but complained that some portion of what had been seized was missing.
+He contends that the plaintiffs in the attachment are responsible for the missing portion on the ground that the marshal was their agent.
+The officer becomes the agent of the party suing out process only where the process is irregular, unauthorized and void (Kerr v. Mount, 28 N. Y. 659). But the officer is in no sense the agent of the party where the process is authorized and regular (Raney v. Weed, 3 Sandf. 577). In such case the party is not liable for the wrongful or negligent acts of the officer, unless express authority or ratification can be shown.
+The authority from the party to the officer which the law implies is “only co-extensive with that conferred by the warrant, and to do only lawful acts pursuant to the process” (Welsh v. Cochran, 63 N. Y. 184). In the warrant issued by the defendants Waterbury, Smith & Co., to the defendant Phillips, the marshal, the latter was directed to “attach and safely keep” the property of Hewlett, the defendant in the process. So far as taking the property was concerned, the marshal acted under his warrant as directed, but he was to do more, “to safely keep” the property attached, and only by keeping safely, as well as taking, would the marshal perform his duty and fulfill his instructions.
+If the marshal suffered any part of the property to be lost, or if he converted any of it to his own use, he did not obey, but disobeyed the warrant, and did the opposite of that which he was commanded.
+For the breach of his instructions and duty, the plaintiffs in a valid process cannot be made answerable.
+The dissolution of the attachment by operation of the bankrupt law did not have the effect of making the attaching creditors trespassers ab initio (as in cases where the attachment is vacated for irregularity), and they are not to be held liable in such a case as this, because of their original direction to the marshal to attach the property.
+They gave no direction to the marshal afterwards, and had no control of the goods which were in custody of the officer of the law. He and his bondsmen are alone liable for his official misconduct in converting a portion of the goods he was directed to keep'.
+The case of Wilson v. Brinkman (2 Nat. Bank. Reg. 468), cited by plaintiffs’ counsel, is not in point. No question such as arises here was before the court.
+The decision is merely that upon the dissolution of the attachment, the sheriff and the plaintiffs are liable in an action for the value of the goods taken, where delivery thereof to the assignee in bankruptcy is refused. There was no refusal in this case. So far as was possible they yielded to the claim of the assignee, and the only goods not delivered were such as the marshal had lost or appropriated in violation of his duty, and contrary to their direction in the process.
+These observations apply equally to any claim that defendants, Waterbury, Smith & Co., are liable under the first attachment issued by them, which was vacated by the special term of the marine court, but afterwards reinstated by the order of the general term of that court, reversing the special term order. For the reasons stated on the trial, I held the attachment to be valid and regular.
+A new trial should be granted defendants, Waterbury, Smith & Co. Costs to abide event.
