@@ -1,0 +1,33 @@
+---
+court: "New York Superior Court"
+decided: "1883-04-09"
+citations: ["17 Jones & S. 178", "49 N.Y. Super. Ct. 178"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE R. MORRISON, et al., Respondents, v. WILLIAM R. LEWIS, as Receiver, Impleaded, &c., Appellant."]
+source_url: "https://static.case.law/ny-super-ct/49/cases/0178-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1675453
+cites_cases: ["13 N. Y. 322", "49 N. Y. 259", "7 Hill, 126", "71 N. Y. 85", "9 Bosw. 678"]
+---
+
+# Morrison v. Lewis
+
+## Majority (By the Court.—Ingraham, J.)
+
+By the Court.—Ingraham, J.
+—The complaint alleges that the plaintiff, relying on certain representations made by defendants Hunt & Warren, sold'and delivered to said Hunt & Warren as copartners, certain goods and merchandise particularly described, which were of the value of $246.96 ; that said representations - were false ; that subsequently said Hunt & Warren made a general assignment for the benefit of creditors ; that the assignee was removed by an order of the superior court and the defendant Lewis was appointed receiver df the property assigned by said assignment; that Lewis had qualified as such receiver and took possession of the property so assigned, and was in possession of the property described in the complaint. The complaint demands judgment for the 'possession of said goods and chattels and damages for their detention.
+Defendant Lewis demurs on the ground that the complaint does not state facts sufficient to constitute a cause of action against him.
+The special term ordered judgment for the plaintiff on the demurrer, and judgment was entered in favor of the plaintiff and against the defendant Lewis for the possession of the property therein described with costs. From that judgment defendant Lewis appeals.
+The first defect in the complaint on which plaintiff relies to sustain the demurrer is, that there is no allegation in the complaint that the specific property sought to be recovered is or was the property of the plaintiff, or that plaintiff was the owner thereof, the only allegation being that plaintiff sold and delivered to defendants goods, etc., and the question to be determined is whether this is a sufficient allegation of plaintiff’s ownership of the property.
+The Code of Civil Proceedure (§ 1720) provides how in. an action for claim and delivery of personal property title shall be stated in the pleadings, and it is there stated that an “allegation to the effect-that the party pleading or a third person, was at the time when the action was commenced or the chattel was replevied, as the case may be, the owner of the chattel, or that it was then his property, is a sufficient statement of title, unless the right of action . . . rests upon the right of possession by virtue of a special property, in which case, the pleading must set forth the facts upon which the special property depends, so as to show, etc., that the party pleading was entitled to the possession of the chattels.”
+I think the pleader has in this case complied with the provisions of this section. He alleges that plaintiff sold and delivered the goods to defendants, and in consequence of fraud asks to avoid the contract of sale and be placed in the same position that he was before the property was obtained from him by the fraud. The demurrer admits that plaintiff sold and delivered the goods ; that the sale was induced by fraud ; and that the goods are in possession of defendant Lewis. This is sufficient to show that the plaintiff has a special property in the property described, and is sufficient to enable him to maintain this action. The delivery of the property was part of a contract that was fraudulent. Plaintiff asks to have that contract rescinded and is entitled to have it rescinded. In order to completely rescind it, it is necessary to redeliver the property to the plaintiff.
+The cases cited by appellant do not conflict with this view. In Pattison v. Adams (7 Hill, 126), the complaint alleged that plaintiffs were entitled to the possession' of the ’ property. It was “held that this was not sufficient, as in pleading his right the fact must be alleged and not the conclusion.” In Scofield v. Whitlegge (49 N. Y. 259), the complaint alleged “ that defendant had become possessed of and wrongfully detained from plaintiff.” It was “held that the allegation that the property was wrongfully detained was a conclusion to be drawn from the fact of the ownership or right to possession, and that the fact must be alleged in the complaint, and not the conclusion. In this case it is the fact of the sale and delivery that is alleged, and that having been induced by fraud gives plaintiff a right to have it rescinded.
+I think also that ownership of the property should be implied from fhe'allegations of sale and delivery. Possession of personal property alone and without explanation is evidence of ownership (Rawley v. Brown, 71 N. Y. 85).
+In an action to recover the value of property sold and delivered no allegation of ownership is necessary. The fact of the sale and delivery of the goods implies that the goods belong to the seller (Phillips v. Bartlett, 9 Bosw. 678). There is no reason why the same implication should not apply in this case.
+The second ground on which it is claimed that the demurrer should be sustained is that complaint does not allege that the statement was made with intent to defraud. The complaint alleges that the representations were made for the purposing of securing credit to defendants Hunt & Warren, and to induce merchants to extend credit and sell goods to them, and that such representations were false, and were known to defendants to be false at the time they were made and when the goods were sold.
+In the case of Zabriskie v. Smith (13 N. Y. 322) the court says, “it is sufficient, however, that the requisite allegations (viz.; that the false representations wTere made with an intention to deceive and defraud plaintiff) can be fairly gathered from all the averments in the complaint.”
+The averments in this complaint come within this rule and make out the allegation of bad faith and intent to defraud. The representations are alleged to have been made with intent to obtain credit and to induce merchants and others to sell goods to them, when they knew the statements were false and untrue. There could be but one motive, and that would be to defraud the persons trusting them on the faith of such representations.
+The judgment appealed from should be affirmed, with costs.
+Sedgwick, Ch. J., and O’Gorman, J., concurred.
