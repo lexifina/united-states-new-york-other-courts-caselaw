@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1829-10"
+citations: ["2 Hall 465", "2 N.Y. Super. Ct. 465"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elisha Smith versus William Tracy."]
+source_url: "https://static.case.law/ny-super-ct/2/cases/0465-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1361807
+---
+
+# Smith v. Tracy
+
+## Majority (Oakley, J.)
+
+Oakley, J.
+[After a statement of the facts of the case.] By the 12th sec. of the act, regulating the practice of physic and surgery, [2 R. L. 222,] it was provided, that if any person shall practice physic or surgery without a license, “ he shall for-" ever thereafter be disqualified from collecting any debt or debts, “ incurred by such practice, in any court of the state.” By the new revised code, which was in force at the time the plaintiff rendered the services in question, [1 R. S. 455. sec. 22,] it is enacted, that every person “ not authorized by law, who for any “ fee or reward, shall practise physic or surgery, within the state, shall be incapable of recovering by suit any debt arising from "such practice.” The provisions of both acts, in this respect, are similar in effect, and undoubtedly must receive the same construction.
+In the case of Timmerman v. Morrison, [14 J. R. 370,] the Supreme Court held, that by the true construction of the former act, no person practising without a license, could recover, for services rendered or medicines furnished, as a physician or surgeon. In Allcott v. Barber, [1 Wendell’s R. 526,] the action was for medicines furnished. The plaintiff, in that case, being an unlicensed physician, was employed to attend the defendant’s daughter, and, in the course of such attendance, furnished a quantity of medicine. The • Court of Common Pleas, in which the action was tried, directed the jury, that the plaintiff had a right to recover for the value of the medicine furnished; and the Supreme Court held that direction to be erroneous. The Chief Justice says, that “where the same person officiates as physician and apothecary” he comes within the decision of Timmerman v. Morrison ; and he says, that if it were otherwise, the country would be filled with quacks and pretenders, “peddling their nostrums, and deceiving and “ destroying the ignorant and the credulous, the very mischief “ which the statute is intended to prevent.” I cannot distinguish the case now before us from Allcott v. Barber. The plaintiff acted in the joint capacity of physician and apothecary. The medicines charged by him, were used and applied in the course of his attendance, and prescriptions as a physician. The case comes entirely within the principle of that decided by the Supreme Court, and must be controlled by it.
+It is contended by the plaintiff; that the patent, in evidence in the case, gives him the right to sell the medicines in question, notwithstanding the provisions of the state law, and his general right to sell his medicines, as an apothecary, is not questioned in this case. The patent confers no additional right on him, but precludes others from selling or using them. The state law, by the construction given to it by the Supreme Court, prohibits him from “peddling his nostrums” in the character of a physician, and inducing people to buy and use them, in consequence of their reliance on his pretended skill. Such practices, the law of the state has declared to be dangerous to the public health, and if the patent in question, had authorized him, in express terms, to vend his medicines in the manner in which he has done it in this case, I should have no hesitation in holding, that the patent would be inoperative against the provisions of the law. It is not necessary, however, to enter further into this view of the case.
+The plaintiff also contends, that the knowledge of the defendant that the plaintiff was an unlicensed physician, is a feature in this case, which distinguishes it from those decided by the Supreme Court. I cannot so consider it. That knowledge, no doubt, exis ted in the case of Allcott v. Barker, and exists also, in the great majority of cases, in which unlicensed physicians are employed. The mischief intended to be prevented by the statute, is injuryAo the “ ignorant and credulous,” and the protection of the statute, to that class of people, would be in a great measure defeated, if a circumstance of such common occurrence, were permitted to take the case out of its operation. The motion to set aside the nonsuit must be denied.
+Motion denied.
+[D. Graham, jun. Att’y for the plff. E. Anthon, Att’y for the deft.]
+Note.—This “ practitioner” professed to cure “most diseases incident to humanity,” among which were enumerated gout, gravel, asthma, syphilis, stone, dropsy, ulcers, salt rheum, affections of the nerves, palpitation of the heart, St. Anthony’s fire, tetters, scald heads, consumptions, and all diseases arising from impurity of the blood. One of his recipes for a “ tincture” in the above complaints, was as follows:
+“ Take one gallon of cider, half a pound of horse-reddish-root, a quarter of a “ pound of white-oak bark, and two ounces of oxyd of iron. Let the mixture stand “ six days, stirring it twice every twelve hours, and it will be fit for use.”
