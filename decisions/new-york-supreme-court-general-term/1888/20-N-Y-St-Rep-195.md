@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-24"
+citations: ["20 N.Y. St. Rep. 195"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Walter A. Mann, Resp’t, v. Henry C. Dennis, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/20/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2014826
+cites_cases: ["18 Hun, 481"]
+---
+
+# Mann v. Dennis
+
+## Majority (Per Curiam)
+
+Per Curiam
+After the judgment in the justice’s court, the defendant following the instruction of his attorney, went to the justice and asked to see his taxed bill of costs. The justice refused. The defendant asked what was due him and respondent, for his and their costs on appeal. The justice said that all the appellant had to pay was $9.65, which appellant then paid, and served his appeal. He had been instructed to pay the respondent’s costs and also two dollars to the justice. These facts are proved by another witness; and the instructions to pay the costs and the two dollars are proved by appellant’s attorney.
+Afterwards the justice claimed his two dollars, and they were paid and his return was filed.
+The respondent’s attorney served notice of appearance in the county court, and two terms have passed.
+We think the county court properly refused to dismiss the appeal. The appellant went to the justice to pay the necessary costs and fee.
+The taxed bill was not shown him, and he had to rely on the justice’s statement. The justice stated how much the appellant must pay. If the justice by accident or mistake did not claim his two dollars that should not prejudice the appeal. The respondent’s costs must be paid, but the justice may waive his fee. Thomas v. Thomas, 18 Hun, 481. If he did not ask for its payment and has received it, he only gave credit. And since the respondent’s costs were paid and all was paid which the justice asked, the appeal should stand.
+Order of county court affirmed, with ten dollars costs and printing disbursements.
+Landon and Ingalls, JJ., concur.
