@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1851"
+citations: ["6 How. Pr. 18"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morse, Plaintiff in error, agt. Keyes, Defendant in error."]
+source_url: "https://static.case.law/how-pr/6/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2191871
+---
+
+# Morse v. Keyes
+
+## Majority (By the Court, Cady, Justice.)
+
+By the Court, Cady, Justice.
+By 2 R. S. 367, § 22, various articles of the personal property of a debtor, being a householder, are exempt from levy and sale under any execution. Some articles are exempted without any qualification; others are exempted if necessary. For example, all sheep to the number of ten; all necessary pork, beef, fish, flour and vegetables, actually purchased for family use; all necessary wearing apparel, beds, &c. The tools and implements of any mechanic necessary to the carrying on of his trade, not exceding $25 in value.
+In 1842 the legislature added to the articles before exempt, necessary household furniture and working tools and team to the value of not exceeding $150.
+These exemption laws, although in derogation of the common law rights of creditors, are intended not only to operate in favor of debtors, but also in favor of the public. The public have an interest that every mechanic shall have the necessary tools to carry on his trade; but these laws often tend to embarrass constables and sheriffs in the execution of a final process. It is not always in the power of a sheriff or constable to know on what property he can safely levy. There is no difficulty in selecting the articles specifically exempted; but when it becomes necessary for the officer to determine the value of articles, or what articles are necessary, and to act at his peril, there is difficulty and hazard in performing his duty. When the officer has to judge of the value of property, or determine whether the property is necessary for the debtor, and the debtor knows it is levied on; knows that it is advertised for sale, and interposes no claim until after the sale, the officer ought to be protected as far as the rules of law will possibly permit, and perhaps it might be a reasonable rule that whenever an officer levies on property, and the question whether it be exempt from levy and sale depends on the value of that or other property which the debtor has, or upon the question whether it be, or be not necessary, and the debtor makes no oh* jection until after the sale, he shall be deemed to have consented to the sale.
+That question, however, does not arise in this bill of exceptions.Whether the plaintiff in this case did or did not object to the sale, does not appear. In this case the officer had to act at his peril, and determine whether the wagon in question was exempt from levy pnd sale on execution; he decided that it was not exempt, and therefore levied on and sold it. The justice decided that it was exempt; the Court of Common Pleas held that it was not, and this court must now determine whether the Court of Common Pleas erred or not.
+A wagon, whether a single or double one, is not an article which is exempt by name from levy and sale under execution; it does not come within the words of the Revised Statutes, “the tools and implements of any mechanic necessary to the carrying on of his trade, &c.” If exempt, it must be so by force of the act of 1842. What words in that act include a wagon? It must be included in the words “ working tools,” or within the word “ team,” Or it is not exempt. It is only for the legislature to determine what pro* perty shall be exempt from levy and sale on execution, and it is not for the court to give any" strained construction to any words which the legislature has seen fit to use, in order to' bring within their meaning articles of property which the legislature have not seen fit specifically to designate.
+Under the Revised Statutes, a mechanic can claim to have his tools to the value of $25, exempt from execution, and in addition to that he can, under the act of 1842, claim to have his necessary working tools, to the value of $ 150, exempt from execution. Taking both laws together, he may have tools to the value of $175 exempt from execution, if necessary “ to the carrying on of his trade.” But a wagon can not be said to be a necessary tool, or a working tool for a mechanic. Is a wagon a part of a team? A team is said to be two or more horses or oxen harnessed together. Harness may, therefore, be regarded as exempt; but a wagon, a cart or a sleigh can not be regarded as a part of a team.
+It may be asked, why exempt a cartman’s team if you do not exempt his cart? That would be a proper question to put to the legislature, but not to the court; and jt might with the same force he asked wdiy exempt a farmer’s team from execution, but allow all the grain w'hieh he has prepared for seed to be taken from him? The legislature has done all it deemed proper, and if enough has not been done, the legislature, not the court, is to extend the exemption.
+The judgment of the Conrt of Common Pleas is affirmed on the ground that a wagon is by no act pf the legislature exempt from levy and sale under execution.
