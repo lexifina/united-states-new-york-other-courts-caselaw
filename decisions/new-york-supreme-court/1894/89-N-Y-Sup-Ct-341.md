@@ -1,0 +1,46 @@
+---
+court: "New York Supreme Court"
+decided: "1894-12"
+citations: ["89 N.Y. Sup. Ct. 341"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Putnam and Herrick, JJ., concurred."]
+parties: ["In the Matter of the Probate of the Last Will and Testament of William V. Clark, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/89/cases/0341-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4747654
+---
+
+# In re the Probate of the Last Will & Testament of Clark
+
+## Majority (Mayham, P. J.:)
+
+Mayham, P. J.:
+The testator made his original will, bearing date September 22, 1885, in and by which he bequeathed to his wife $2,000, one-third of all of his household furniture absolutely, and the use of the remaining two-thirds during her life; he also devised to her the use of the farm on which he lived, together with the use of the team, tools, stock and implements, and such grain as might be on hand at his death, during her natural life, in lieu of her right of dower, and of all other legitimate claims she might have against his estate, real or personal, and after his death the remainder of his farm he devised to his grandson, William C. Grennell, in fee. By the third item he gave and bequeathed $500 to Mary Jane Hayner.
+By the fourth item he bequeathed to Mary A. Grennell, wife of Isaac K. Grennell, $300. '
+By the fifth item he gave to Mary A. Glenn, widow of Allan S. Glenn, $1,000.
+By the sixth item he gave to his grandson, William C. Grennell, his gold watch.
+By the seventh item he gave to Eliza Grennell and William 0. Grennell, and Rosella Grennell, children of Isaac Grennell and grandchildren of testator, $5,000 each.
+By the eighth clause he bequeathed to his four grandchildren all the personal property bequeathed to his widow remaining at her death.
+By the ninth clause he gave to his four grandchildren, share and share alike, all the rest, residue and remainder of his estate.
+By a codicil to his will, dated the 26th day of April, 1888, the testator revoked legacy numbered third to Mary Jane Hayner, and legacy numbered fourth to Mary A. Grennell, and directed that the sums therein bequeathed pass, under the residuary clause of his will, to the persons therein entitled to such residue.
+On the 17th of December, 1889, the testator made another codicil to his will, and by the first clause thereof revoked the fifth clause of his will entirely, and also revoked the provisions made for Mary A. Glenn in the eighth and ninth clauses of his will.
+In the second clause of such codicil he bequeathed to the five children of Mary A. Glenn, who .were his great grandchildren, each the sum of $200. By the third clause of this codicil the testator bequeathed the share given to Mary A. Glenn in the eighth and ninth clauses of his will, to his grandchildren, Eliza Grennell, William C. Grennell and Rosella Grennell, to be divided equally between them.
+On the 21st of October, 1892, the will and codicils of the testator were duly proved and admitted to probate by the surrogate of Sara-toga county, and Isaac K. Grennell, the executor named therein, duly qualified as such.
+On the 28th of November, 1892, Scott B. Glenn, a-great graúdson of .the testator, presented his petition to the surrogate of Sara-toga county, praying for the revocation of such probate and letters testamentary, stating various grounds for the relief sought. On the hearing a large amount of evidence was taken before the surrogate, and from such evidence the surrogate found and directed that at the time of the execution of the will and each of the codicils thereto, the testator was of sound and disposing mind, and in all respects competent to make and execute the same, and that the will dated September 22, 1885, and the codicil dated April 26, 1888, were in all respects executed and published by the testator in conformity to law, and entitled to be admitted to probate as and for the last will and codicil of the deceased.
+The surrogate refused to find that the instrument purporting to be a codicil to the will dated December 17, 1889, was genuine and valid, and was executed and published by the testator in conformity with the statute,' and accordingly decreed that the will dated September 22, 1885, and the codicil dated April 26, 1888, were valid, and confirmed the probate as to them, and that as to the codicil dated December 17, 1889, the probate thereof was revoked. The main contention of this appeal is as to that part of the decree revoking the probate of the second codicil. .
+By the provisions of that codicil the whole tenure of the will and first codicil were materially changed, and the bulk of the estate transferred from one branch of testator’s family to another. The testator’s entire estate was about $45,000. By the first will and codicil the Grennell branch of testator’s family was to receive about $28,500 of the estate, and the Glenn branch about $14,500.
+By the last codicil the Glenn branch of testator’s family was to receive $1,000, and the Grennell branch received $43,000.
+Some attempt was made by the petitioner to show that the codicil was in part the result of undue influence of Isaac K. Grennell, who is the father of the Grennell beneficiaries, and executor named in the will, who, as the proof showed, had occupied a confidential relation with the testator.
+But the learned surrogate held that the codicil was not the result of undue influence, and as he saw the witnesses who testified in this proceeding, and there was no direct proof of undue influence, we must regard his determination as the settlement of a disputed question of fact which we should not disturb on appeal. But the learned surrogate held and decided that statutory formalities required for the due execution of a will were not complied with in the execution of this codicil, and that the due. execution of this codicil was not, therefore, proved.
+One of the witnesses called upon that branch of the case proved the full compliance with the requirements of the statute, and swore that the testator declared the alleged codicil to be a codicil. The other heard no such declaration. But it is urged on the part of the executor that as the will and codicil were attached together, the declaration by the testator to the witnesses that they had signed it before showed that the testator regarded their subscription to the document as equivalent to a declaration that the paper was a part of the will, and their signatures in his presence, and in the presence of each other, as a signature in his presence, and in the presence of each other, in substantial compliance with the statutory requirements.
+But the testimony of the subscribing witnesses as to what did occur is positively contradicted by two other witnesses, who claim to have been present at the time of the alleged execution of this instrument.
+That testimony raises a disputed question of fact which it was the •duty of the surrogate to decide, and under the circumstances of this case we cannot disturb his finding on that disputed question.
+But it is insisted by the executor that the surrogate erred in xeceiving the testimony of Mrs. Máry J. Clark, widow of testator, and that she, being a beneficiary under the will of her husband, was, therefore, disqualified from giving testimony as to this codicil under the provisions of section 829 of the Code of Civil Procedure.
+But it will be seen that this witness had no interest in favor of or adverse to either party in controversy under this codicil. It neither added to nor diminished her rights of interest in the estate of the testator.
+She was not, therefore, a party interested in the event, or a person from, through or under whom such person or interested party -derived his title or interest.
+Her rights and interests in her husband’s estate remained unchanged after as well as before the making of this codicil, and her testimony does not, therefore, come under the condemnation of that section.
+On the whole case I see no error in the determination of the learned surrogate, and his decree must be affirmed, with costs.
+Putnam and Herrick, JJ., concurred.
+Decree of surrogate affirmed, with costs.
