@@ -1,0 +1,28 @@
+---
+court: "New York Superior Court"
+decided: "1829-12"
+citations: ["2 Hall 482", "2 N.Y. Super. Ct. 482"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard Higgins versus Jacob Soloman."]
+source_url: "https://static.case.law/ny-super-ct/2/cases/0482-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1361802
+---
+
+# Higgins v. Soloman
+
+## Majority (Oakley, J.)
+
+Oakley, J.
+This case comes before us on a bill of exceptions, by the defendant. The first objection, taken at the trial, was that the declarations and acts of Pritchard were improperly admitted in evidence.
+It was clearly proved that he was sent on board the vessel, as the agent and supercargo of the defendant, and continued on board as such, throughout the voyage. His declarations and acts in the course of his business, as such agent, are clearly competent proof. The charter-party in question, provided that a supercargo might be put on board, and his authority, as the agent of the defendant, to detain the vessel on the voyage, “ on account of cargo or otherwise,” is clearly recognized in the instrument itself.
+The second and principal objection was, that the proof furnished by the plaintiff, showed that the contract on his part had not been performed, and that he ought to be nonsuited on that ground. The variance alleged is, that the vessel instead of proceeding directly to Havannah, from Santa Cruz, went from the latter place to Oratava, in the same island, and from thence to Havannah. The objection appears to me, to admit of two answers.
+1. The declaration sets out the charter-party, and avers, that the voyage had been performed. The defendant pleads 1st, non est factum, which plea, in an action of covenant, puts in issue only the execution of the instrument, and admits all other averments. [Kane v. Sanger, 14 J. R. 93.] The 2d and 3d pleas of the defendant are in answer to the averments, as to the breaches assigned in the declaration. The 4th plea sets forth the fact, that the direct voyage from Santa Cruz to Havannah, was departed from, and that the vessel was detained at Oratava, “ by means whereof the defendant was disabled from putting on board a full homeward cargo, at Havannah.” The replication to the last plea, admits the fact of the deviation from the direct voyage, and of the detention of the vessel at Oratava, and tenders an issue on the last averment in the plea, which issue is joined by the defendant.
+Under this state of the pleadings, it was clearly incumbent on the plaintiff to prove, 1st, the execution of the charter-party, and 2d, the breaches assigned in the declaration. The burthen of proof, upon the issue joined under the 4th plea, (if deemed a material issue,) rested on the defendant. The question of performance on the part of the plaintiff, therefore, could not arise in the case, except under the general issue, and under that plea, the defendant cannot be permitted to show any failure of performance on the part of the plaintiff. The case of Kane v. Sanger seems to me to establish this doctrine clearly. There the action was on the covenant for quiet enjoyment in a deed. The declaration set forth the covenant and averred an eviction. The plea was non est factum, and the court held, that under that state of the pleadings, the plaintiff was not bound to offer any proof of the averments in his declaration, nor would the defendant have been permitted to question the fact of eviction, if he had not put it in issue, by a notice annexed to his plea. So, in the case now before us, the averment of performance of the voyage is admitted on the record, by the state of the pleadings, and that fact could not regularly be drawn in question at the trial. The same doctrine is also fully recognized in Gardner v. Gardner, [10 J. R. 47,] and in Thomas v. Wood, [4 Cowen's R. 185.]
+2. But if this were otherwise, Í am of opinion, that the evidence in the case, supports substantially the averment of the performance of the contract on the part of the plaintiff. The voyage from Santa Cruz to Havannah, was, in fact, made. The deviation to Oratava, and the consequent delay in performing the direct voyage, were the acts of the agent of the defendant, who, by the terms of the charter-party, had the right to detain the vessel at pleasure. But for his interference, we have a right to presume that the plaintiff would have literally fulfilled his contract, and he is fairly to be considered as being willing and ready, at Santa Cruz, to proceed, and as offering to proceed, directly to Havannah. Upon this view of the case, it seems to fall within the principles laid down by the S. C. in Fleming v. Gilbert, [3 J. R. 531.] The defendant having himself prevented a literal performance by the plaintiff, shall not avail himself of a non-performance, which he has occasioned. A tender and refusal are held to be equivalent to an actual performance.
+There appears to me, therefore, to be no weight in either of the exceptions taken by the defendant, and the motion for a new trial must be denied.
+Motion for a new trial denied.
+[E. Anthon, Att’y for the plff. D. Graham, Jun., Att’y for the deft.]
+Note.—The Chief Justice expressed a doubt whether the plaintiff was not bound to declare upon the special circumstances of the case, showing the deviation by his pleading, as well as proof. But as the other two Judges were clearly of opinion that the verdict might be sustained, the Chief Justice acquiesced in their decision, and gave an opinion in accordance with it.
