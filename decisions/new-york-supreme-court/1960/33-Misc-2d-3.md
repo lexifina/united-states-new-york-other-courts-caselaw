@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court"
+decided: "1960-12-20"
+citations: ["33 Misc. 2d 3"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sydney Leider, Plaintiff, v. Beth Israel Hospital Association, Defendant."]
+source_url: "https://static.case.law/misc2d/33/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1103595
+cites_cases: ["126 N. Y, 180", "16 Misc 2d 989", "210 App. Div. 204", "9 N. Y. S. 2d 367"]
+---
+
+# Leider v. Beth Israel Hospital Ass'n
+
+## Majority (Owen McGtvern, J.)
+
+Owen McGtvern, J.
+This is a motion by the defendant, the Beth Israel Hospital Association, for summary judgment and to vacate the plaintiff’s notice to examine defendant before trial. The action itself is one by a surgeon for a permanent injunction restraining the defendant hospital from excluding his private patients from the hospital and for damages for alleged breach of contract.
+The defendant is a private, voluntary, nonprofit hospital, organized as a membership corporation under the laws of this State. The plaintiff had been a member of the defendant’s medical staff, having been appointed annually by defendant’s board of trustees for one-year terms, the last of which expired on April 30, 1960. By letter dated April 29, 1960, the plaintiff was advised that the hospital, pursuant to action of its board of trustees, decided not to reappoint him to its staff as of May 1, 1960.
+The plaintiff, alleging a contractual right to treat his private patients at the hospital, relies upon section 9 of article VI of the hospital’s constitution and article IX of the by-laws of the hospital’s medical board.
+Article IX of the by-laws of the medical board provides:
+“ When any surgeon or physician of the Medical Staff below the rank of Director or Attending shall have reached the age limit provided for by the Constitution of the Hospital, such surgeon or physician shall thereafter continue to retain the rank then held, but without service, and shall be designated with his title, ‘ off service ’. These physicians and surgeons shall enjoy the following Hospital privileges:
+“ 1. Care of their private patients in the Hospital.
+“ 2. Continuation as members of the Junior Medical Board, with the right to vote.
+“3. Attendance at and participation in all professional programs of the Medical Staff.”
+The question before this court turns on whether the foregoing provisions of the constitution and by-laws of the medical board spell out a contract which divests defendant’s board of trustees of the right to determine who shall be privileged to continue as a member of the hospital staff with full ‘‘ on service ’ ’ status or “ off service ” status.
+It seems clear to this court that the foregoing provision of the by-laws upon which plaintiff relies cannot derogate from the right of the board of trustees to make wmual appointments only, and that this provision can refer only to those physicians and surgeons whom the board of trustees determines annually to reappoint to the hospital’s medical staff “ off service ” after they have reached the age limits specified in section 9 of article VI of the hospital’s constitution. A reading of other sections of the defendant’s constitution, the effect of which plaintiff would avoid, discloses the correctness of this conclusion. Section 2 of article VI defines medical staff of the hospital as “all Physicians and Surgeons in any way connected with any of the departments therein ”, and further states that it “ shall be divided into such groups and classes, with such titles, as may from time to time be determined by the Board of Trustees ”.
+Section 2 of this same article states “Appointments to and dismissal from the Medical Staff shall be made solely by the Board of Trustees. The Board in its exclusive discretion may fix periods of time for the tenure of appointments to the Medical Staff.”
+Section 5 of this same article states in part “ The Board of Trustees shall be vested with the power at all times to revoke its approval of the by-laws, rules and regulations of the Medical Board or any portion thereof, and nullify same ”.
+To hold, in view of the foregoing provisions of the constitution, that defendant intended to and did in fact divest itself of the power to determine who should be entitled to remain a member of its medical staff and that those doctors who have reached the limitation of tenure permitted by their rank must be permitted thereafter to enjoy the privileged status of an “ off service ” member of the medical staff entitled to the use of the hospital for their private patients, would lead to absurd results violative of the right of the board of trustees to determine what is in the best interest of the hospital. To so hold would annul section 7 of article IV of the hospital’s constitution which commits to the board of trustees the control, direction and management of all the affairs and property of the corporation.
+This court accordingly finds that the plaintiff had no contractual relationship with the defendant which prohibited its board of trustees from terminating his membership on its staff, and further that his exclusion from the staff and the courtesy privileges incident thereto, including the right to treat private patients in the hospital, rested entirely in the discretion of the board of trustees. Although plaintiff alleges that he was told he was being discharged because of being over age, the record rather sustains the inference that other elements led to the termination of his association. As to plaintiff’s claim that he was denied a hearing by the board of trustees, there is no provision in the defendant’s constitution or by-laws for a hearing prior to removal, and none is required, and the board of trustees was entitled to bring any inharmonious condition to an end by summary action.
+A board of trustees of a private, voluntary hospital such as defendant is charged only with the duty of exercising best judgment, and the board cannot be controlled in the reasonable exercise and performance of that duty. The members have wide discretion in the exercise of their judgment, and equity will not attempt to correct errors of judgment absent manifest failure in the performance of a legal duty. The plaintiff acquired no vested right to the continued treatment of his private patients in the hospital, and the denial of future courtesy privileges following the termination of his annual employment constituted no legal wrong. Courts may not interfere in the internal management of corporations in the absence of fraud or bad faith, if kept within corporate powers. (Manczur v. Southside Hosp., 16 Misc 2d 989; Van Campen v. Olean Gen. Hosp., 210 App. Div. 204, affd. 239 1ST. Y. 615; Loewinthan v. Beth David Hosp., 9 N. Y. S. 2d 367; People ex rel. Cline v. Roll, 126 N. Y, 180.)
+The motion for summary judgment is granted, and in view of this decision, the motion to vacate plaintiff’s notice to examine defendant falls and becomes moot.
