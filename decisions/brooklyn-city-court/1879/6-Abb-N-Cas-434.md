@@ -1,0 +1,25 @@
+---
+court: "Brooklyn City Court"
+decided: "1879-05"
+citations: ["6 Abb. N. Cas. 434"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WHITNEY v. DAGGETT."]
+source_url: "https://static.case.law/abbn-cas/6/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1951527
+cites_cases: ["14 How. Pr. 327", "66 N. Y. 646"]
+---
+
+# Whitney v. Daggett
+
+## Majority (Reynolds, J.,)
+
+Reynolds, J.,
+The Code of Procedure, section 304, provides that costs shall be allowed of course to plaintiff, upon a recovery “ in the actions of which a court of a justice of the peace has no jurisdiction ” (subd. 3). Previous to 1862 this provision read “ in the actions of which, according to section 54, a court of a justice,” &c., and it is claimed by defendant that the dropping of the words “according to section 54,” has not changed the sense or scope of the provision, and that now, as previously, the actions named in section 54 are the only ones in which costs are allowed to the plaintiff by virtue of subdivision 3, upon a recovery of less than $50. Some dicta are found favoring this idea, but I think, upon examination, such a view will appear to be unsound.
+The grant of jurisdiction to justices’ courts is found in section 53. The object of section 54 seems to be to except from their jurisdiction certain actions which would be included in the general terms of the previous section. This is clearly the case as to all of the actions enumerated in section 54 except a part of those named in subdivision 3 of section 53, and they must have been inserted from abundant caution, inasmuch as the only need of any restriction was to exclude what would otherwise have been given ; these courts having no jurisdiction beyond what is expressly conferred.
+As the Code stood, previous to the amendment of 1862, it was held that in an action not specified in section 54, costs could not be allowed to plaintiff upon a recovery of less than $50, although clearly an action of which a justice had no jurisdiction. This resulted from the phraseology then used in subdivision 3 of section 304. The consequence was that there were certain causes of action which could only be prosecuted in a court of record, and yet the plaintiff could only go into such a court under the penalty of paying costs, unless he could establish a claim of $50 or over. Accordingly, in an action against a justice of the peace for making a false return, where the plaintiff’s recovery was $33, it was held that the defendant was entitled to costs (Worden v. Brown, 14 How. Pr. 327). As it is facetiously stated in the head-note, “the plaintiff will whip the justice for making a false return to the extent of $33, and the defendant will turn around and whip the costs out of the plaintiff sufficient to pay it.” The court says, “ The case was doubtless overlooked by the codifiers. It is casus omissus, but the legislature alone can supply the remedy.” I think this remedy was effected by the amendment of 1862. In Blank v. Wescott (7 Abb. Pr. N. S. 225), the judge in his opinion takes occasion to say, that the statute fairly construed means the same, with or without the words which were stricken out by the amendment, and that they may well have been dropped as superfluous. It seems to me that the reasonable inference is that the words were stricken out for the purpose of remedying the defect in the law which had been pointed out by the courts. We have only to read the law as it now stands, and not as it was before the amendment, and the meaning is perfectly plain. The actions ■ of which a justice’s court has no jurisdiction are not only such as are specified in section 54, but all actions, jurisdiction of which is not expressly conferred by law.
+The authorities cited by defendant (including Blank v. Wescott, just referred to) are cases in which a justice’s court would have had jurisdiction if the plaintiff had not claimed an excessive amount. It is difficult to see how there could have been any serious question in those cases. As Judge Barnard says, in Pindor v. Stoothoff (7 Abb. Pr. N. S. 433), “jurisdiction of the action, and not of the claim of damages as made in it, determines the plaintiff’s right to costs, if the recovery be less than $50.” Where the subject, matter of the action is within the jurisdiction of a justice’s court, and the plaintiff puts himself out of court by demanding more than $200, he cannot by his own act affect the rights of his adversary, and put him to the costs of a court of record by an excessive claim of damages (Powers v. Gross, 66 N. Y. 646).
+It is admitted that this is not such a case. Here, as the defendant concedes, a justice’s court had no jurisdiction of the- subject-matter of the action, and the case is covered by subdivision 3 of section 304.
+The judgment for costs in favor of defendant is set aside with $10 costs, and costs are to be taxed in favor of plaintiff.
