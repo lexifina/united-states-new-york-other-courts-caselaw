@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1889-07"
+citations: ["60 N.Y. Sup. Ct. 214"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J., and Injgalls, J., concurred."]
+parties: ["NELSON E. WHITNEY, Respondent, v. THE TOWN OF TICONDEROGA, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/60/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4586762
+cites_cases: ["102 N. Y., 680", "18 Hun, 146", "34 Hun, 33", "74 N. Y., 273", "78 N. Y., 543", "82 N. Y., 281"]
+---
+
+# Whitney v. Town of Ticonderoga
+
+## Majority (Landon, J.:)
+
+Landon, J.:
+The appeal is from the judgment. No appeal is taken from the order denying the motion made upon the minutes to set aside the verdict. We must in such case assume that, if the rulings of the court were correct, the evidence justified the verdict. The judgment, therefore, must be affirmed, unless the exceptions taken upon the trial disclose some ruling of the court to the prejudice of the defendant. At the close of the plaintiff’s ease the defendant moved for a new trial on the ground that “ there is no evidence of the existence of a defective highway in the town of Tieonderoga.” The evidence was to the effect that this highway was not defective otherwise than on account of this scraper. Tbe scraper bad been left standing for the night upon the roadway near the west sidewalk, unguarded and unlighted. The night was dark. The plaintiff did not see it. It was in the form of a four-wheeled wagon truck, with a scrapeiwlevice beneath the wagon frame, quite heavy, four feet two inches wide, seven feet two inches long, exclusive of the pole. It is obvious that it was a formidable and- dangerous obstacle for a horse and light vehicle to collide with in the dark. The statute, chapter 700, Laws 1881, imposes a liability upon towns for certain damages caused “ by reason of defective highways or bridges in such town, in cases in which the commissioner or commissioners of highways of said towns are now by law liable therefor.”
+Refinement in discrimination may distinguish between a defect in the highway itself and an obstacle upon it; but why a liability should be imposed in one case and not in the other is not apparent. The legislature obviously meant by a defective highway one actually unsafe for public travel. A wooden awning over a sidewalk (Hume v. Mayor, 74 N. Y., 273); an advertising banner suspended over the street (Champlin v. Village of Penn Yan, 34 Hun, 33 ; 102 N. Y., 680); a pile of ashes in the street (Ring v. The City of Cohoes, 77 id., 83); a pile of stones upon the side of the roadway (Eggleston v. Columbia Turnpike Road, 18 Hun, 146; 82 N. Y., 281), have been held to be defects in the streets or highways. The .exception on this ground cannot be sustained.
+Another ground urged for the nonsuit was that there is no evidence of negligence upon the part of the commissioner of highways. The defendant’s answer was read in evidence. It°denies everything in the complaint not admitted, and alleges the ownership of the scraper to be in the town or road district thereof in which Main street is situate; that neither the town nor road district had owned or provided any place for storing it; that the commissioner had no funds applicable to procuring a place, and there was no place to put it except within the lines of the highway, and that the scraper was placed at the time in question close upon the west line of the highway, outside the portion of the same traveled by teams, leaving ample room for teams to pass each other without danger from it; and that “ defendant’s said commissioner of highways used due and proper diligence and Care in the placing and leaving of said scraper to prevent accident.”
+The defendant’s counsel urges that this answer must be taken as an entirety, and that the confession cannot be separated from the avoidance. This is true when regarded as a pleading. In such case every part of the pleading is adopted, nothing extrinsic is to be considered, and, therefore, nothing is presented to impair the full force of the result which the pleader sets forth. If the avoidance is ample as pleaded, there can be no confession in the pleading which can be separated from the ample avoidance. But when the pleading is read in evidence it is read as the declaration of the party, and takes its place as any other testimony to be considered by the jury in connection with the other testimony. The jury must determine the issues of fact upon a fair consideration of all the testimony. Their- convictions or inferences cannot be coerced by the court, and they may, upon all the evidence, reach the conclusion that the confession of the party is true and the avoidance false. (Mott v. Consumers' Ice Co., 78 N. Y., 543.) Within this rule there was evidence of the negligence of the defendant’s commissioner — evidence that he placed the scraper where it was left The declaration of the defendant that the commissioner used due diligence and care in so doing was only part of tbe whole testimony upon that issue, the circumstances were the other part; the jury could consider it all and adopt the inference deducible from the circumstances instead of that declared by the defendant.
+The judgment should be affirmed, with costs.
+Learned, P. J., and Injgalls, J., concurred.
+Judgment affirmed, with costs.
