@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-09"
+citations: ["18 N.Y. St. Rep. 10"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James F. Mason et al., App’lts, v. George T. Smith and Another, Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/18/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2011665
+---
+
+# Mason v. Smith
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+We think this order appealed from was properly granted.
+This is not what has been called “a fishing excursion.” It is simply an application for discovery of a certain letter written by plaintiff’s clerk to defendant. This letter is evidently claimed to alter or modify a contract made between the parties. It is therefore really a part of the existing contract, if it has any connection at all with the matter. That it is connected with the matter is not denied by defendants.
+The plaintiffs do not know the contents of the letter, and have no copy of it.
+The defendants urge that the discovery is not shown to be necessary. We think that the plaintiff’s affidavit sufficiently shows that it is material and necessary.
+It can hardly be called an invasion of property rights to require a defendant to produce a copy of a specified letter written by plaintiff. In the ordinary course of business persons retain a copy of business letters. If the plaintiffs had done this such retention of a copy would not have invaded the defendants’ rights. By some accident or negligence the plaintiffs retained no copy. How are the defendants any worse off in giving a copy than they would have been if plaintiff had retained a copy when the letter was sent ? Not in any way.
+As to the claim that the application should be denied because the plaintiffs do not state positively the contents of the letter, the plain answer is that if they knew the exact contents of the letter they would not need a discovery. The existence of the letter is admitted. The affidavit and the pleadings show unmistakably that it contains a modification, or what is claimed by defendants to be a modification, of the contract between the parties. The defendants do not deny this, and give no facts why they should not make discovery. Discovery cannot injure them. They do not claim that the letter is their affirmative defense.
+The order appealed from is affirmed, with ten dollars costs and printing disbursements.
