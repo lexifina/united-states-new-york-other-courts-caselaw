@@ -1,0 +1,63 @@
+---
+court: "New York Surrogate's Court"
+decided: "1900-07"
+citations: ["1 Mills Surr. 580", "32 Misc. 187"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement of the Account of Frank Chapman, as Executor, etc., of Richard A. Chapman, Deceased."]
+source_url: "https://static.case.law/mills-surr/1/cases/0580-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1064269
+cites_cases: ["160 N. Y. 607", "59 App. Div. 624"]
+---
+
+# In re the Judicial Settlement of the Account of Chapman
+
+## Majority (Herriman, S.)
+
+Herriman, S.
+The testator, Richard A. Chapman, died April 28, 1895, leaving a will made March 29, 1895, of which his brother, Frank Chapman, his widow, Sophia S'. Chapman, now Sophia S. Wildman, and his friend, John W. Benton, were appointed executors and executrix.
+Frank Chapman has been acting executor since the probate of the will.
+By this will the testator gave to his widow a legacy of $10,-000, confirmed an assignment previously made to her of a policy of life insurance for $10,000, and also gave to her the income of the remainder of his estate during her life and directed his executors to collect the income and pay the same to her semi-annually or at more frequent intervals. Upon the death of the widow the remainder of the estate was given to his children, if any, and in case there were none, then to the seven children of testator’s brother, Frank Chapman.
+The 6th clause of the will is as follows:
+“ 6th. In case I am interested in the steamer Jóhn Rugee at the time of my death my executors are authorized to continue said investment and my estate shall receive its share of the profits and bear its share of the losses in running said boat in the same general manner as said business is now conducted. And my executors shall not be responsible for any losses in continuing said investment or in holding any securities, real estate or other property owned by me at the time of my death.”
+' The steamer J ohm, Rugee was purchased in 1889 by Frank Chapman, Richard Fitzgerald, and Richard A. Chapman, the testator, said Frank Chapman taking one-half interest and Fitzgerald and Richard A. Chapman each one-quarter interest. In 1892 the testator purchased from Frank Chapman one-eighth interest, and at the date of the will and at the time of the testator’s death the vessel was owned by these three persons, Frank Chapman’s interest and Richard' A. Chapman’s interest being each three-eighths, and Richard Fitzgerald’s interest being one-quarter.
+The original purchase price of the vessel in 1889 was $90,-000, of which $35,000 was paid in cash and the balance, $55,-000, in the joint notes of the three purchasers. The vessel was immediately placed in the freight-carrying trade upon the Great Lakes and has ever since been and still is engaged therein. During all these times Richard Fitzgerald has been captain of the vessel and Frank Chapman has been the managing owner, kept the books of account, and received'and disbursed all moneys, except such as were disbursed by the captain for current running expenses.
+In the season of 1889 the net earnings of the boat were $10,-000, of which the testator’s share was $2,500. These earnings were kept in the hands of Frank Chapman, as managing owner, and by him applied in payment of the purchase-money notes.
+In 1890 the net earnings were $6,000, of which the testator’s ’ share was $1,500. Of this the testator drew out $500, and the balance of $1,000 was applied on the notes.
+In 1892 the net earnings were $6,000, of which the testator’s share was $2,000. He drew out $750 and applied 1,250 on the notes.
+In 1892 the net earnings were $6,000, of which the testator*s share was $2,250. He drew out $1,125 and applied $1,125 on the notes.
+In 1893 the net earnings were $1,600, of which the testator’s share was $600. He drew out this sum in cash.
+In 1894 the business of the vessel resulted in a net loss of $3,585.91, the testator’s share of which was $1,345.92. This loss was paid with borrowed money and was carried along on the books in the running and operating account as a debit balance at the beginning of the year 1895.
+The net earnings for the season of 1895 (the first season after the testator’s death) were about $6,800. Of this sum $3,585.91 went to pay the loss sustained in 1894, $2,400 was divided between the owners, the widow of testator receiving $900, and a balance of about $800 was carried into the season of 1896.
+In 1896 the net earnings were about $6,000, including the balance carried over from 1895. Of this sum $5,600 were divided between the owners, the executor receiving $2,100, and a balance of about $400 was carried over to the season of 1897. Of the $2,100 recrived by the executor for the estate’s share of the earnings of 1896, he paid the widow $1,350 and retained in his hands $750.
+For the season of 1897 the net earnings divided between the owners was $600, of which the share of this estate was $225. All of this sum has been retained by the accounting executor.
+For the season of 1898 the net earnings, divided, were $2,-000, of which the executor received $750. He paid $500 to the widow and retained $250.
+For the season of 1899 the net earnings, divided, were $7,-600, of which the executor received $2,850. He paid $1,000 to-the widow and retained $1,850.
+During all these times the net earnings have been computed by deducting from the gross receipts every expenditure made in the running of the boat, including repairs, both ordinary and extraordinary, and in making such changes in her rig and equipment as became necessary from time to time by the exigienciesof the trade in which she was engaged.
+It thus appears that the accounting executor has received as-the estate’s share of the earnings from the receipts of this vessel since the death of the testator $8,170.92. Of this sum he has applied to payment of an indebtedness owing by the testator at the time of his death for his share of a loss sustained in
+1894 ....................................$1,345.92.
+He has paid to the widow....................... 3,750.00'
+He has retained and still holds as executor......... 3,075.00'
+$8,170.92'
+This sum of $3,075 has been mingled with other funds belonging to the estate and kept invested by the executor and the-, income therefrom paid to the widow.
+The executor claims the right to retain this sum of $3,075,. and to retain other sums out of future earnings of the boat, as-a sinking fund to provide against loss to the corpus of the estate by depreciation in the value of the boat, so that the corpus, of the estate Will be kept good and turned over to the remainder-men upon the death of the widow intact as it was at the death of the testator.
+Is this the true construction of the will ?
+The question as to how the loss from depreciation of the assets of the estate is to be borne as between the life tenant and remaindermen is to be determined, if possible, from the language of the will itself, read with reference to the established rules of law.
+The testator gives to his widow “ the income ” of all his property real and personal for and during her natural life and directs his executors “ to collect the rents, profits and income ” of his estate and pay the same to his wife. In case he shall be interested in the steamer John Rugee at the time of his death, his executors “ are authorized to continue said investment ” and he says, “ my estate shall receive its share of the profits or bear its share of the losses in running said boat in the same general manner as said business is now conducted.”
+If it were not for this sixth clause of the will it would have been the duty of the executors within a reasonable time after the probate of the will, to sell the testator’s interest in this boat, invest the proceeds in such forms of securities as the law sanctions for the investment of trust funds and pay the income to the widow. But the testator saw fit to excuse the executors from the performance of this duty and relieve them from liability which they would otherwise incur by continuing so hazardous an investment, and devolved upon his estate any loss or benefit which might arise from depreciation or fluctuation in the value of the property. In my opinion he intended nothing more by the sixth clause of his will. It is a matter of common knowledge that property of this kind fluctuates greatly in earning capacity and in salable value.
+The widow will suffer by any loss and be benefited by any increase of earnings. But there is nothing in the will which indicates to me that the testator intended that she should either benefit or lose by fluctuations in the value of the estate or that the remaindermen should be protected at the expense of the widow against such depreciation in the value of this boat as arises from age or ordinary use.
+Would it be contended that if, by reason of a large advance in freight rates, the actual value of this vessel should increase, the widow would be entitled to receive the profit ? If not, why should she be charged with a loss ?
+The evidence in the ease and the conduct of the executor show that there is no accurate and well defined method of measuring the loss by depreciation. Ho one can say that the boat will be worth ten per cent, or any other per cent, less next year than this. She may be worth more. And the executor has not followed any rule in setting aside part of the income to provide for depreciation. In 1895 he set aside nothing, but paid a debt incurred for a loss arising in 1894. In 1896 he set aside about thirty-five per cent, of the net earnings, in 1897, all, in 1898 thirty-three and one-third per cent., and in 1899 about thirty-five per cent.
+There is no evidence that these sums are the amounts actually lost by depreciation in those years.
+If the widow were chargeable with depreciation at all the amount should be accurately shown by the evidence instead of being arbitrarily fixed or guessed at.
+The foregoing construction of the will seems to me to be in accord with the authorities. Matter of Hoyt, 160 N. Y. 607; McLouth v. Hunt, 154 id. 179.
+The executor would probably be justified in retaining a reasonable sum in his hands out of the income from the boat to provide for emergencies in the way of repairs and current expenses, and possible losses in the business. But the fund would belong to the widow, and if it were not needed for'those purposes it should be paid to her. As arrangements have been made for the sale of the boat it is not now necessary to make future provision for these contingencies.
+If I am correct in this construction of the will it follows that the widow is entitled to receive the $1,345.92 deducted from income and used to pay an obligation incurred during the life time of the testator and the $3,075 reserved from income to meet depreciation. She is not, however, entitled to interest upon either of these sums. She has received the income from the $3,075, which was invested by the executor, and she has also indirectly received the income from the $1,345.92 because the principal of the estate has been increased by that amount.
+I am asked by counsel to construe the will of Richard B. Chapman (father of the testator), under which Frank Chapman is the executor and Richard A. Chapman was one of the beneficiaries, and to pass upon the right of the executor to continue paying to himself a salary for his management of the estate.
+The executor claims that he has paid to the widow as income derived from the Richard B. Chapman estate some moneys which are properly part of the principal of the Richard A. Chapman estate, but the evidence fails to show just what income accrued from the Richard B. Chapman estate before and what accrued after the death of Richard A. Chapman.
+It seems to me that such questions ought to be determined in proceedings arising directly under the will of Richard B. Chapman, and 1, therefore, refrain from making any ruling on those questions here.
+Let a decree be drawn settling the executor’s account in accordance with the foregoing and submitted for signature on two days’ notice. The decree should reserve all questions relative' to the estate of Richard B. Chapman and payments therefrom.
+Upon the settlement of the decree I will hear such suggestions as counsel desire to make in regard to the allowance of costs, disbursements and commissions.
+Decreed accordingly.
