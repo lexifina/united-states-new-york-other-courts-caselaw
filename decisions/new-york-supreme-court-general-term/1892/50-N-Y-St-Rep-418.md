@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-12-16"
+citations: ["50 N.Y. St. Rep. 418"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of The Board of Rapid Transit Commissioners to fix Compensation."]
+source_url: "https://static.case.law/ny-st-rep/50/cases/0418-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2096374
+---
+
+# In re Board of Rapid Transit Commissioners
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The question of the proper compensation to be awarded to these commissioners is a difficult and delicate one. We recognize the high character of the gentlemen who compose the commission, the importance of their services, and the extent of their labors. It will, of course, be impossible adequately to compensate such gentlemen for what they have done without unduly burdening the bidders at the sale of the franchise, or the city, in case that sale is without immediate result; and we know that these -commissioners are public-spirited citizens, who have doubtless served in this matter, not from any personal or pecuniary motive, but because of their desire to improve the city and to benefit the people. At the same time, a fair and moderate allowance should be made, based upon some general principle with regard to similar services. The legislature has frequently fixed an annual salary of $5,000 as a fair compensation for commissioners in various public boards of this city. The duties of the present commissioners were somewhat analogous to those imposed upon the board known as the “ Aqueduct Commission,” though we think their current labors probably exceeded those of this board.
+Certainly the responsibility of the present commissioners was very great, and their reports, which are elaborate and comprehensive, will not only aid in the solution of the present problem of rapid transit, but will undoubtedly serve as a useful guide in the future. The evidence shows that there were 250 days of actual-service, during which from one to three hours of time was given by these gentlemen to the business of the commission. Public meetings were held and attended, engineers were employed, a great variety of plans were considered, various sections of the city were personally examined, the motive power was thought out; in brief, a great part of the commissioners’ time was faithfully devoted to the important trust which devolved upon them. We feel that an allowance of less than the ordinary salary of, for instance, an aqueduct commissioner, to each of these gentlemen would be unworthy of the occasion, and essentially unjust. More they have undoubtedly earned, if their earning capacities as business men are to be considered. But we do not deem this to be the criterion, nor do we imagine that the commissioners claim any special consideration on that head. An allowance of, say $5,000,. to each commissioner may seem inadequate, but it represents the medium between what would be paltry and what might be burdensome. Such an allowance is certainly reasonable, for it eliminates every consideration save the character and extent of the services rendered and their value to the community. For special quality of service, and for individual sacrifices, the commissioners must look to public gratitude for their reward. An allowance of $5,000 will, therefore, be made to each commissioner.
+Van Brunt, P. J., O'Brien and Barrett, JJ., concur.
