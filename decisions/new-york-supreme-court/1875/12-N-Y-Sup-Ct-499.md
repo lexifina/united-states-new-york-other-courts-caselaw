@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1875-10"
-citations: ["12 N.Y. Sup. Ct. 499", "12 N.Y. Sup. Ct. 503"]
+decided_precision: "month"
+citations: ["12 N.Y. Sup. Ct. 499"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["ORSON COLLINS, Respondent, v. THE NEW YORK CENTRAL AND HUDSON RIVER R
 source_url: "https://static.case.law/ny-sup-ct/12/cases/0499-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11281172
-cites_cases: ["1 Denio, 100", "18 Barb., 80", "22 N. Y., 210", "29 Barb., 227", "34 N. Y., 208", "38 Barb., 574", "57 Ill., 78", "6 Allen, 92"]
+cites_cases: ["1 Denio, 100", "22 N. Y., 210", "57 Ill., 78", "6 Allen, 92"]
 ---
 
 # Collins v. New York Central & Hudson River Railroad
