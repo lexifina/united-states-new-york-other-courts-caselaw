@@ -1,0 +1,45 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03"
+citations: ["84 N.Y. Sup. Ct. 83"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, Haight and Bradley, JJ., concurred."]
+parties: ["Eugene C. Denton, Appellant, v. Ontario County National Bank, Impleaded, etc., Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/84/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1928306
+cites_cases: ["2 Barb. Ch. 155", "44 N. Y. St. Repr. 33", "50 N. Y. 386"]
+---
+
+# Denton v. Ontario County National Bank
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+The action was to foreclose a mortgage of $1,000 on a parcel of "thirty-three acres of a farm of 208 acres, title to which was in the defendant bank as purchaser at the sales in foreclosure on two previous mortgages. No other defendant appeared in this action. The •plaintiff’s alleged standing to assert the lien of his mortgage, notwithstanding such previous foreclosures, is based upon the facts that the first of the mortgages foreclosed covered only the other parcel, of 1Y5 acres, of the farm, and that in the action to foreclose the other mortgage, which covered both parcels, the plaintiff was not made a party.
+The narrative of the case is, briefly, as follows:
+Previous to 18Y8 the farm was conveyed to one. Luman M. Durand in the two parcels mentioned, and in that year he and his wife, Letitia, executed to one Gilbert Gillett a mortgage of $5,000 on the 1Y5 acres, which was afterwards assigned to the defendant bank, the respondent here.
+In 1886 Durand and wife executed to one Lansing two mortgages, •one for $6,000 and one for $2,000, each of them covering both parcels, of the same date and simultaneous lien, and at the same time the holder of the above-mentioned $5,000 mortgage executed an instrument which postponed the lien of that mortgage to those then executed.
+In 1887-8 the respondent foreclosed the $5,000 mortgage, and on the sale became the purchaser of the 175 acres covered thereby, subject to the lien of the two Lansing mortgages, and entered judgment against Durand, the maker of the bond, for a deficiency of some $1,500. While that foreclosure was in progress Durand conveyed the thirty-three acres to his wife and she executed to the plaintiff, appellant, the mortgage thereon which is the subject of this action. This mortgage was dated and acknowledged April 12, 1888, but was not recorded until the sixth day of June of that year.
+On the fourteenth day of that month Lansing commenced an action to foreclose his mortgage of $2,000, and in that action he failed to make the appellant a party, for what reason is not shown; but the appellant’s mortgagor, Mrs. Durand, was made a party and appeared by the same attorney who represents the plaintiff in this action, and who — as appears by his verification of the complaint herein— drew the mortgage to the plaintiff, and had it in his possession or under his control during all the progress of that action. By stipulation of the parties to that action the whole farm was sold as one parcel, and subject to the lien of the $6,000 mortgage. During the progress of that action no notice was given to the plaintiff therein of the existence of the mortgage in suit, nor was any claim made in behalf of the plaintiff herein for the surplus arising upon the sale in that action.; but Mrs. Durand, by the attorney before mentioned, claimed, and contested with the respondent, the right, to that surplus.
+The value of the 175 acres is $50 per acre, and of the 33 acres $30 per acre, and the fair rental value of the whole farm is $2.25 per acre. The respondent has been in the occupation of the 175-acres since the foreclosure of the $5,000 mortgage, March 5, 1888, and of the whole farm since the sale on the foreclosure of the $2,000 mortgage March 2, 1889. The respondent has paid the interest on the $6,000 mortgage since he went into possession of the farm, and interest has accrued on the $2,000 mortgage since November 1,1887.
+This case has been twice fried and is now for the second time in this court. On the former appeal it was held — affirming, so far, the decision of the court at Special Term — that upon the facts then appearing, which are included in those above stated, the plaintiff’s action could not be maintained for a foreclosure of his mortgage, but that — all the parties interested being before the court— it might be treated as an action to redeem upon such terms, to be fixed, as should conserve the equities of all parties. (See Denton v. Ont. Co. Nat. Bank, 44 N. Y. St. Repr. 33, opinion by Macomber, J.) It was also held — still as at Special Term — that the plaintiff while he should not be a loser neither could he be a gainer by the omission to make him a party to the previous action of foreclosure, but that he must be permitted to redeem on such terms as would have been available to him had he been made a party to the previous action; and the case was sent back to the Special Term for further proofs and findings bearing upon the terms of redemption to be allowed to the plaintiff. There was also, in the opinion cited, a strong intimation that the final disposition of the case must probably be controlled by the principle of equity that parcels of land held by successive alienees subject to a lien on the whole, when resorted to for satisfaction of such lien, shall be sold in the inverse order of their alienation.
+That principle has been fully and, we believe, correctly applied to this case on the trial now under review. The court has found that, by virtue of the $5,000 mortgage on the 175 acres, executed to Gillett, postponed to the lien of the two Lansing mortgages, and assigned to the resjiondent, and by his foreclosure thereof and purchase of the mortgaged premises on the sale, the respondent became entitled to be regarded as the alienee of the 175 acres as of the date of the postponement of the lien of that mortgage, and pro tanto its amount. There seems to be no question of the applicability of the principle, above stated, to the case of successive mortgages of parcels, equally as to that of successive conveyances of the fee. (Hart v. Wandle, 50 N. Y. 386; Stuyvesant v. Hall, 2 Barb. Ch. 155.)
+Applying the principle to this case, the court held that the thirty-three acres being last aliened were the first to be applied to the satisfaction of the lien of the two Lansing mortgages, after first applying the equity of redemption of Durand in the 175 acres, which was of the value of $3,750,— or $8,750, the total value of the 175 acres, less $5,000, the amount of the respondent’s mortgage. Thereupon the court computes the total amount of liens chargeable-upon the thirty-three acres as between the plaintiff and defendant as follows:
+Principal of the two Lansing mortgages................ $8,000
+Interest paid by defendant on $6,000 mortgage........ 1,620’
+Interest paid accrued on $2,000 mortgage............. 660'
+$10,280
+Deduct rental value of premises....................... 1,872
+Net aggregate of liens.......................... $8,108
+From which should be deducted value of equity of redemption....................................... 8,750
+Which leaves the sum of........................ $1,658
+to be paid by the plaintiff in order to redeem the thirty-three-acre parcel.
+The method here adopted and its result is, we believe, correct, and it is plainly in accordance with the doctrine of the previous adjudication of this court.
+It is true, no doubt, that, unless there has been or shall be "a sudden and surprising advance in the value of the thirty-three acres, the terms imposed render the redemption of the property out of the question; but that only demonstrates that the plaintiff has no-interest in the premises after satisfying the liens prior to his mortgage — in other words, that this action was unwisely brought. His complaint was, therefore, properly dismissed, with costs, unless, indeed, he is prepared to accept the alternative of redeeming on the terms prescribed.
+We have examined the numerous exceptions taken by the plaintiff on the trial and to the findings of the court, and find none which seem to vitiate the disposition made of the case.
+The judgment appealed from should be affirmed, with costs.
+Lewis, Haight and Bradley, JJ., concurred.
+Judgment appealed from affirmed, with costs.
