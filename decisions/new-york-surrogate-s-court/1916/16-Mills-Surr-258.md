@@ -1,0 +1,21 @@
+---
+court: "New York Surrogate's Court"
+decided: "1916-02"
+citations: ["16 Mills Surr. 258"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Louise Tillinghast, Deceased."]
+source_url: "https://static.case.law/mills-surr/16/cases/0258-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1094254
+---
+
+# In re the Estate of Tillinghast
+
+## Majority (Fowler, S.)
+
+Fowler, S.
+—This is an appeal by the executors of decedent’s estate from the order entered upon the appraiser’s report. The 'decedent was given a power of appointment under the will of her husband. She exercised the power over property valued by the appraiser at the sum of $95,000. This sum was taxed in the proceeding brought to assess a tax upon the estate of the donor of the power - and the executors contend that it should not be taxed in the estate of the decedent herein.
+Subdivision 6 of section 220 of the Tax Law provides that whenever a person shall exercise a power of appointment such appointment shall be deemed a transfer taxable in the same manner as though the property belonged absolutely to the donee of the power. The appraiser, therefore, was correct in reporting as part of the taxable assets of decedent’s estate the value of the property over which she exercised the power of appointment. The fact that this property was taxed as part of the estate of the donor of the property cannot prevent its taxation under the section of the Tax Law above referred to. The remedy of those interested in preventing double taxation of the property passing by virtue of the exercise of the power of appointment is by a modification of the order entered in the estate of the donor of the power as indicated in my decision in Matter of Estate of William H. Tillinghast (post 76). Order fixing tax affirmed.
+Order affirmed.
