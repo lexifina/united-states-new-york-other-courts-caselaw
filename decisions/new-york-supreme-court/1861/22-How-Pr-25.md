@@ -1,0 +1,37 @@
+---
+court: "New York Supreme Court"
+decided: "1861-10"
+citations: ["22 How. Pr. 25"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Thomas Crimmins and others agt. Thomas McManus and Daniel Gallagher."]
+source_url: "https://static.case.law/how-pr/22/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2213675
+---
+
+# People ex rel. Crimmins v. McManus
+
+## Majority (By the court, Leonard, Justice.)
+
+By the court, Leonard, Justice.
+The defendant Gallagher, being a candidate for the office of trustee of common schools in the nineteenth ward of the city of New York, at the December city election, 1860, his office as an inspector of elections for the second district in that ward became vacant. Such is the direction of the act of 1857, (chap. 294, Sess. Laws, vol. 1.) There is nothing in the act of 1860 (chap. 246, Sess. Laws,) inconsistent with that provision in the act of 1857, and it is still in force.
+Two inspectors of election may act, however. (1 R. S., 422, § 13, 5th ed.)
+It was irregular for Gallagher to act as an inspector at that election. There were, nevertheless, two lawful inspectors, and by the statutory provision referred to, they were competent to act without Mr. Gallagher.
+It might be considered that public policy requires that the votes cast for Mr. Gallagher, at the election district where he acted as an inspector, should not be counted in his favor, but it is not necessary to decide that question, as will be subsequently seen. So far as the question affects the defendant McManus, the public policy which prohibits voters from being disfranchised, must prevail, in the absence of fraud, or the violation of express statutes affecting the result, or rendering the votes or the election nugatory. True, Gallagher was not an inspector, either defacto or de jure. His office was vacant during the whole day of the election. That fact did not render the proceedings of the other two inspectors, or the ballots of the voters invalid.
+It was held, in The People agt. Cook (4 Selden, 69,) that the election was valid, although four inspectors acted part of the time, one of whom was necessarily wholly unauthorized to act.
+There was no fraud alleged or proved in respect to proceedings at the said election district; nothing to show that the result of the election was in any respect affected by the conduct of the inspectors.
+In my opinion the returns from the second district were properly received; certainly, so far as Mr. McManus is concerned.
+If the votes in the third and fourth election districts of the said ward, which were headed or designated for “ Trustees of Public Schools,” instead of Common Schools, as the office is called in the statute, had been allowed for the relators, one of them—Schaefer—would not have a majority over the defendant McManus.
+There were two candidates only to be elected. Those two candidates having the largest number of legal votes were the persons elected.
+The verdict is in favor of both the relators and against both the defendants. It cannot be upheld, even if the views of the counsel for the relators are correct in respect to the votes in the third and fourth districts, above referred to. The addition of these votes to those allowed would elect the relator Crimmins, but not Schaefer. The defendant McManus is entitled to his office, and the verdict, as against him, is erroneous, without reference to the technical question, whether one action can be maintained in behalf of two claimants, each demanding separate and distinct offices. This may be, however, a question of pleading, and then, if irregular, can perhaps be amended.
+It was erroneous to direct a verdict for both plaintiffs against both defendants.
+Assuming that a trial may be had hereafter involving the questions arising on the votes of the third and fourth election districts, it is important that the views of the general term thereon should be had.
+We consider that the intention of the voters was distinctly manifested by the ballots which were cast for trustees of public schools.
+There were no trustees to be voted for at that election, except trustees of common schools.
+The voter cast his ballot for trustees of public schools. There was no officer having exactly that name then to be voted for, but there were trustees of schools distinctly indicated on the ballot, and no other officer called a trustee was then to be elected.
+We think as a matter of law the relators were entitled to those votes, and that the intention of the voter was not here a question of fact for the jury, but of law for the court. (The People agt. Cook, 4 Selden, 73, 74, 75, &c.)
+The statute requiring the ballots to be indorsed in a particular manner, is directory only, and not imperative. There is no nullifying clause in case the direction of the statute in this respect is omitted. (The People agt. Cook, 14 Barb. R., 290, 291, 292 and 293.)
+There being no evidence to show that the relators were ever notified of their election to office, the judge at the trial correctly held that the objection- that they had not taken the oath of office was not tenable.
+There must be a new trial, with costs to abide the event.
