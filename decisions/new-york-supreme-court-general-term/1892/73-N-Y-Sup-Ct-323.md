@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-12"
+citations: ["73 N.Y. Sup. Ct. 323"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman and Pratt, JJ., concurred."]
+parties: ["JAMES McCALDIN, Plaintiff, v. WILLIAM A. PARKE and Another, Defendants."]
+source_url: "https://static.case.law/ny-sup-ct/73/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2384511
+cites_cases: ["127 Mass., 236", "24 Blatchf., 473"]
+---
+
+# McCaldin v. Parke
+
+## Majority (Barnard, P. J.:)
+
+Barnard, P. J.:
+The plaintiff was the owner of the steamer “ Caroline Miller.”' The defendants chartered the vessel to carry lumber for them from Port Boyal, South Carolina, to New York. The defendants agreed that there should be sixteen feet of water at the wharf. On the 12th of April, 1887, the vessel arrived with a cargo of lumber at the port of New York, and was ordered by the defendants to discharge the same at their yard in Hunter Point. The plaintiff had made with the vessel two preceding trips and delivered at the same place the cargo without accident. On this occasion the vessel was loaded so as to draw a little over fifteen feet -water. The tide was about half ebb, and in running into the dock the vessel struck on a ledge of rocks at the bottom of the East river some seventy feet outside of and in front of the defendants’ bulk-head. The depth of water was sufficient to float the vessel at the dock, and there was sufficient depth of water to approach the same if the vessel had approached the dock either from the north or south inside of the rocks. On the occasion in question the vessel ran in bow-on with an ebb tide, and the stern of the steamer was carried by the tide, so that she struck on the rocks and was injured. The vessel was 190 feet long. The rocks at low tide’are twelve or thirteen feet below the surface, and, as the tide falls about five feet, at the time of the collision there was not water enough to float the vessel. The complaint avers that the defendants knew of the danger of the approach, and agreed that the water was sufficient for the plaintiff’s vessel at all turns of the tide. There was no proof given of the knowledge of the defendants of the existence of the rocks, but the defendants both testified that they had never heard of the ledge of rocks before this accident. The proof did not show that an accident had ever happened before at this point, and did show that vessels of even larger draft had landed at defendants’ dock safely. The question presented is, whether it was the defendants duty to measure the depth of water at this point and inform the plaintiff of the result. The plaintiff establishes by numerous authorities that an owner of a dock is liable for neglect to keep the dock in repair and the approaches thereto in suitable order for the business of those who are invited to deliver freight on the dock. The principle settled by the cases is, that the owner must suffer the cause of the accident to exist by neglect; that, if he knew of a hidden danger, lie must give notice of it; or he, in the exercise of ordinary care and diligence, should have known of the obstruction and removed it. (O'Rourke v. Peck, 24 Blatchf., 473; Nickerson v. Tirrell, 127 Mass., 236.)
+There was no proof upon the trial that the defendants knew of the existence of the ledge of rocks in question. The defendants both affirmatively testified that they neither knew or had ever heard of it. Just before the accident the defendants caused the river bottom in front of the dock to be dredged out so as to be some fifteen feet at “ mean low water.” This dredging did not go beyond forty feet from the dock. The question is simplified to this: "Were the defendants, who engaged for sixteen feet of water, bound to give sixteen feet of water at the point of the accident ? Ve think they were. An approach must mean that portion of the frontage of the dock which a vessel must pass through to reach the same even bow-on. That is a legitimate way of approach, so that the bow being fastened to the dock the stem of the steamer would be carried by the tide alongside of the dock. It was negligent in the defendants to engage for a depth of water which should not take in the length of tlie vessel, for which a depth of sixteen feet was to be given. In the absence of this undertaking there" was no proof of negligence. The ledge of rocks at the bottom of the East river, some sixty feet from the dock, would ordinarily be without the scope of the defendants care and duty to remove. "When they undertook that a vessel of 190 feet in length and sixteen feet draft could unload at the dock, it was their duty to know that the undertaking was based upon the fact represented, and the omission to know this was negligence. The case should have gone to the jury under the evidence.
+The exceptions should, therefore, be sustained and a new trial granted, with costs to abide event.
+Dykman and Pratt, JJ., concurred.
+Exceptions sustained and new trial granted, costs to abide event.
