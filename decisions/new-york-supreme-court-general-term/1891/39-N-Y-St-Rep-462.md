@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-06-26"
+citations: ["39 N.Y. St. Rep. 462"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Solomon Adler, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2062025
+cites_cases: ["111 N. Y., 289", "58 N. Y., 216"]
+---
+
+# In re the Estate of Adler
+
+## Majority (Barrett, J.)
+
+Barrett, J.
+—We think that the learned surrogate wisely exercised the discretion conferred upon him by § 2602 of the Code of Civil Procedure in denying this application. It is quite evident that the funds of the estate are not in jeopardy and that no practical good would be accomplished by subjecting them to the additional control of the appellant. The papers show a lack of harmony between the appellant and her co-executors, but nothing whatever to justify any apprehension of mismanagement, misappropriation or danger to the estate. The appellant seems to think that the order applied for was substantially her legal right, and that she was not bound to show any special facts or circumstances calling for the exercise of the discretion conferred upon the surrogate by the section in question. At all events, the facts which she did show were entirely insufficient, and even these were either denied or explained. But in her general view of what is essential successfully to invoke the discretion thus conferred we think she is mistaken.
+Section 2602 is new, and it was intended thereby to provide a summary remedy in cases where prior to its enactment thé surrogate was powerless to interfere. Formerly the only remedy was in equity, and such remedy was limited to cases where mismanagement and misconduct jeopardizing the interests of the beneficiaries under the will was shown. ■ Thus, in Burt v. Burt, 411ST. Y., 46, it was held that a decree in favor of one executor requiring his co-executor to place the securities which were in the latter’s possession belonging to the estate in the custody of a bank, and to deposit in such bank all money thereafter collected, to be drawn out only on their joint check, was not authorized by the fact that the co-executor maintained exclusive manual possession of such securities. It may be that under the wide discretion conferred by this new provision the surrogate is not limited to cases within the rule thus laid down, but certainly it is not a matter of course to require such joint deposit The applicant must still make out a case calling for the surrogate’s interference and showing that the protection of his rights and interests, or of the rights and interests of others require the favorable exercise of the discretion conferred. With the exercise of that discretion we cannot interfere; certainly not unless it is .apparent that it has been abused.
+The appellant contends that the rules which govern on appeals from discretionary orders of the special term of our own court are equally applicable to appeals from similar orders of the surrogate’s court. This, however, is not the case. It is true that on appeals from the special to the general term of our own court we are bound to review upon the merits all orders resting in discretion. Hanover Fire Insurance Company v. Tomlinson, 58 N. Y., 216; Jemison v. Citizens' Savings Bank, 85 id., 546.
+That discretion, however, is the discretion of the supreme court, whether exercised in one of its branches or in another. It is the same court and the same discretion throughout. But this rule is not applicable to appeals from another and a distinct tribunal such as the surrogate’s court There our appellate authority is confined to errors of law, or to matters of substantial right which are not dependent upon the discretion of such other court. Matter of Selleck, 111 N. Y., 289 ; 19 N. Y. State Rep., 601. Where, as here, the surrogate is expressly clothed with discretion, the utmost that can be claimed is that we may review his action so far as to ascertain whether “ there has been an abuse of discretion and a violation of justice.” See opinion of Gray, J., p. 290. This cannot possibly be claimed in the present case. On the contrary, as suggested at the outset, we think the discretion was wisely exercised.
+The order appealed from should, therefore, be affirmed, with costs.
+Van Brunt, P. J., and Patterson, J., concur.
