@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1809-11"
+citations: ["5 Johns. 74"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thornton against Payne."]
+source_url: "https://static.case.law/johns/5/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2131541
+cites_cases: ["3 Johns. Rep. 44"]
+---
+
+# Thornton v. Payne
+
+## Majority (Spencer, J. Van Ness, J.)
+
+Spencer, J.
+delivered the opinion of the court. The pleas are clearly bad, if the payment of the 250 dollars is to be considered as a condition, which it is not, but is. to be construed as a covenant. There was no rent due on the 1st of April, 1807. The term was for six years, from the 1st of April, 1807, ending on the 1st of April, 1813, and the payment of the 250 dollars was to be on the first day of April, during the six years. Or, according to the plain sense of the agreement, here was a renting for six years, at the annual rent of 250 dollars, to be paid on the first of April, in each year. The term of six years is to be from the first of April, 1807 ; and whether that day shall be inclusive or exclusive, is to depend on the subject matter, and the evident sense of the parties. Here, then, there can be no hesitation in saying, that the day is excluded; for it would be unreasonable, without expressions clearly denoting the contrary, to suppose that the year’s rent is to be paid in advance, and before any enjoyment of the premises. But the term is to end on the first of April, 1813 ; consequently that day is included; and if the rent is to be paid on every first of April during the term, and the first of April, 1807, be one of them, then, instead of the plain-: tiff’s paying six years’ rent for so many years’ enjoyment, he would pay seven years’ rent. Evidently, then, the term must commence on the 2d of April, 1807. Consequently, the pleas, tendering issue on an immaterial fact, are bad.
+It has been objected, that the article set forth is a lease, and consequently that the breach, in not letting the premises, is not supported, and that the plaintiff, having committed the first fault, judgment must be against him. It is observable, that though the breach extends also to not giving the plaintiff possession, and not permitting him to enter; yet there are no such covenants in the article. The case, therefore, rests on this: whether the article is a lease in presentí, or an agreement for a lease. Without recurring to the cases in the English reports, all the principles applicable to this case have been settled in this court. It is a cardinal point in determining whether contracts between parties, in relation to letting, are leases, or agreements for leases only, to seek for the intention of the parties from the whole instrument. The case of Hallet and Wyley, (3 Johns. Rep. 44.) was one of great hardship on the defendant, who was prosecuted for the rent of a house in Nexv-Tork, accruing after its destruction by fire, without any blame imputable to him ; and the court reluctantly .gave judgment for the plaintiff, adjudging the instrument between the parties to be a lease, though it purported, on the face of it, to be only a memorandum for a lease ; by which the plaintiff agreed to let or lease the house, for the term of four years, on a specified rent. In making that decision, the court was governed by the fact, that there was nothing in it to show that the parties contemplated any further assurance; and it was there held, that the words implied a present demise; the period for which it was to be held, and the rent, being definitely and accurately stated. The only circumstance differing this case from that is, that there the lessee went into possession under the instrument. But that alone cannot give a different effect to the articles now under consideration. I will barely observe, that in every case decided in the English courts, where agreements have been adjudged not to operate by passing an interest, but to rest in contract, there has been either an express agreement for a further lease, or construing the agreement to be a lease in presentí would work a forfeiture, or the terms have not been fully settled, and something further was to be done. In the present case, the words imply an immediate demise; there is no stipulation for a further lease ; the term, the rent, and the manner of occupying the farm, are all explicitly stated. We are, •therefore, of opinion, that the plaintiff acquired by the article, all the rights of a lessee, from the first of April, 1 SO/; and that there has been no breach of covenant on the part of the defendant. The plaintiff’s remedy, if fie is-kept out of possession, must be an action of ejectment.
+Van Ness, J.
+having been concerned as counsel in the cause, gave no opinion.
+Judgment for the defendant.
