@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court"
+decided: "1868-12"
+citations: ["5 Abb. Pr. 119"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE ex rel. NEWMAN against THE SAILOR’S SNUG HARBOR."]
+source_url: "https://static.case.law/abb-pr-ns/5/cases/0119-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1959615
+---
+
+# People ex rel. Newman v. Sailor's Snug Harbor
+
+## Majority (Sutherland, J.)
+
+Sutherland, J.
+—By the will of the founder of the charity, the testamentary gift was to be used and applied for supporting the asylum or hospital “in such manner as the testamentary trustees, or a majority of them, may, from time'to time, or their successors in office may, from time to time, direct.”
+By the act incorporating the trustees, they have power to make all proper and necessary rules and regulations for the government of the corporation, not inconsistent with the constitution and laws of the United States, and of this State.
+The 7th article or section of the 11th subdivision of the by-laws declares, among other things, that any inmate who shall be convicted “ of leaving the premises, without permission from the governor, or one of the assistants, shall forfeit the benefit of the institution, and be expelled from it.”
+By the 13th section or article of the same subdivision of the by-laws, “inmates are strictly forbidden to indulge in contention, or boisterous and disorderly conversation at the table, and are solemnly enjoined to demean themselves in a decorous manner, as becoming aged and honest seamen.”
+The 19th section or article of the same subdivision of the by-laws forbids any inmate leaving the institution without permission of the governor.
+The return to the alternative writ of mandamus in this • case, alleges, that the relator, an inmate of the asylum or hospital, was on the 11th of September, guilty of improper and disorderly conduct and conversation, at the breakfast table, by making grossly improper remarks to the steward, which are set out, and by violently assaulting the steward.
+The return further states, that the steward' reported this improper conduct to the governor of the institution, who afterwards dismissed the relator from the institution by the direction of the executive committee thereof.
+The return further states, that the relator was notified of the time of the examination of his conduct by the executive committee; that the relator did not attend, alleging that he had to attend in New York city as a witness under a subpoena, and the return further alleges, that the relator was not in fact then under a subpcdna to attend as a witness as he alleged.
+The return refers to certain affidavits which were handed up with it, as verifying the facts stated in the return.
+Since these papers were submitted, the counsel of the relator has handed me an affidavit of the relator, verified on November 30, alleging that on September 11, on the occasion referred to in the return, the steward first assaulted him, and that in the affray he did nothing more than was necessary to protect himself from, and get rid of, the assault of the steward. The relator does not deny in this affidavit, that he made use of the language charged in the return, on this occasion.
+The by-laws which have been specified apj)ear to me to be reasonable, and proper and valid. They appear to me to be authorized by the act of incorporation, and to be consistent with the administration of the charity which the founder of it had in view; but Í am not willing to hold that the governor has the power to expel an inmate for a violation of either of the by-laws referred to, without the authority of the trustees, or at least, of the trustees constituting the executive committee.
+Probably intermediate the periods of the meetings of the trustees, the executive committee can act for them, in examining a charge of an alleged violation of a by-law.
+The accused inmate should have reasonable notice of' such examination, and an opportunity of being heard, of exculpating himself, and of disproving the charge.
+Nor am I willing to concede, that the action and proceeding of the trustees, or of the executive committee, in investigating such a charge, is beyond the control of, or a review by, this court.
+In this case, I am satisfied from the return and all the affidavits and papers submitted, that the allegations in the return as to the conduct and conversation of the relator on the 11th of September are substantially true; that the governor did not undertake to expel the relator without the direction of the trustees, or of the executive committee, that the governor reported the alleged misconduct and violation of the by-laws on the part of the relator to the trustees or executive committee, who examined into the truth of the charge, and directed the governor to expel the relator ; and that the relator had reasonable notice of the time and place of such examination, but absented himself therefrom without a reasonable excuse.
+Though I have been somewhat embarrassed in disposing of this case, from the manner in which the papers, affidavits, &c., have been submitted, yet I do not see how I can dispose of it otherwise than by dismissing the alternative writ, and denying the motion for the peremptory writ without costs.
+Order accordingly.
