@@ -1,0 +1,18 @@
+---
+court: "Saratoga Chancery Court"
+decided: "1842-01-22"
+citations: ["1 Sarat. Ch. Sent. 82"]
+reporter: "sarat-ch-sent"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Thomas et al. v. Same."]
+source_url: "https://static.case.law/sarat-ch-sent/1/cases/1075-17.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12110926
+---
+
+# Thomas v. Same
+
+## Majority
+
+Same counsel.
