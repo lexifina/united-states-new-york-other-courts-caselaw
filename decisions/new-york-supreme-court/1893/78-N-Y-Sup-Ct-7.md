@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1893-07"
+citations: ["78 N.Y. Sup. Ct. 7", "78 N.Y. Sup. Ct. 11"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt, J., concurred; Dyicman, J., not sitting."]
+parties: ["Charles Greite, Respondent, v. Charles Henricks, Appellant, Impleaded with Leopold Kornick."]
+source_url: "https://static.case.law/ny-sup-ct/78/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8592190
+cites_cases: ["106 N. Y. 473", "11 N. Y. Supp. 504", "113 N. Y. 476", "47 N. Y. 40"]
+---
+
+# Greite v. Henricks
+
+## Majority (Barnard, P. J.:)
+
+Barnard, P. J.:
+The defendant Kornick conveyed a hotel, saloon, boarding-house and restaurant business to the plaintiff in Mount Yernon, N. Y. The consideration for the transfer was $5,000, and by the terms of the bill of sale, the covenants and conditions contained in a bill of sale from defendant Henricks to defendant Kornick, were made applicable to the sale to plaintiff. The bill of sale from Henricks to Kornick contained this covenant: “ Neither I, the said party of the first part, nor my wife, shall, in any manner, carry on or engage in any hotel, inn-keeping, saloon, restaurant or boarding-house business within one-half mile from said premises, at any time within five years from the date hereof.” The date was 15th of January, 1891. The business was conducted upon premises known as 3 South Fifth avenue and 18 and 20 West First street, Mount Yernon. The Fifth avenue property was owned by Henricks, and he was the lessee of the West First street property when he sold to Kornick under a lease which expired May 1, 1892. In 1891, Henricks bought the First street property and gave notice to plaintiff to vacate at the end of the lease. The plaintiff then bought the adjoining property and continued his business therein. On the 2d of May, 1892, Henricks opened the same business on the old premises. The covenant was valid. It is not in general restraint of trade. It was based upon a good consideration. It was beneficial to the purchaser, and its violation will be injurious to him. The rule governing such covenants is settled by the Court of Appeals in Diamond Match Company v. Roeber (106 N. Y. 473).
+The covenant between the defendants was personal when made, but when the sale was made to the plaintiff, this covenant was legally incorporated in it. The case was then one where. Henricks had sold a business carried on in certain premises partly owned by him and partly hired, and had covenanted not to open a like business within a half mile within five years, nor to permit anyone to carry on the business in the Fifth avenue premises owned by him. The lease was given under this condition to Kornick, and before it expired, it was sold to plaintiff. This personal covenant, under these circumstances, passed to plaintiff. It was bought by Kornick as incident to these premises, and was assignable.
+The judgment should be affirmed, with costs.
+Pratt, J., concurred; Dyicman, J., not sitting.
+Judgment affirmed, with costs.
