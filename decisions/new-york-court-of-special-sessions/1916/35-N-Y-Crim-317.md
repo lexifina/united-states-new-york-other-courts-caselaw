@@ -1,0 +1,30 @@
+---
+court: "New York Court of Special Sessions"
+decided: "1916-11-02"
+citations: ["35 N.Y. Crim. 317"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. INTERBOROUGH RAPID TRANSIT CO."]
+source_url: "https://static.case.law/ny-crim/35/cases/0317-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1217025
+cites_cases: ["157 App. Div. 492", "158 App. Div. 217", "158 App. Div. 456", "170 App. Div. 375", "178 N. Y. 516", "43 App. Div. 472"]
+---
+
+# People v. Interborough Rapid Transit Co.
+
+## Majority (Freschi, J.:)
+
+Freschi, J.:
+By the information filed on July 17th, 1916, the district attorney of the county of The Bronx accuses the defendant of the crime of unlawfully fastening factory doors, committed on June 16th, 1916, by keeping “ locked, bolted and fastened, during working hours, doors leading into, from and to a factory.” The defendant by demurrer challenges the sufficiency of the allegation, contending that- no crime is charged; and by its objections, the defendant urges that the specific exceptions set out in the Labor Law (chap. 36, Laws 1909, § 2), applicable especially to defendant, are not negatived in the information. Further, the defendant claims that the term “ factory,” as it is employed therein, is a conclusion.
+The language of the statute affecting the case reads as follows : “ The term ‘ factory,’ when used in this chapter, shall be construed to include any mill, workshop, or other manufacturing or business establishment and all buildings, sheds, structures or other places used for or in connection therewith, where one or more persons are employed at labor, except power houses, generating plants', barns, storage houses, sheds and other structures owned or operated by a public service corporation, other than construction or repair shops, subject to the jurisdiction of the Public Service Commission under the Public Service Commission Law.”
+It is claimed and not disputed that the defendant is a railroad corporation, as appears from a reference to the Eapid Transit Law, which makes this plain.
+In passing upon this demurrer, the court cannot look to the deposition taken by the committing .magistrate. (People v. Perrin, 170 App. Div. 375.) The facts charged in that deposition make it appear that the defendant is the proprietor of the alleged factory in question wherein cars are repaired and inspected, at 180th street and La Fontaine avenue, borough of The Bronx, city of Hew York, and that while certain doors leading into and out of the factory to and from the street were locked, six persons were employed therein; but these allegations cannot be read into the district attorney’s information filed in this court, for any purpose in the adjudication of the issue of law now raised.
+Upon a trial of an issue of fact in such a case as this, the prosecution must prove beyond a reasonable doubt that the premises in question constitutes such a factory (Molloy v. Village of Briarcliff Manor, 158 App. Div. 456-460), as is defined in the Labor Law (supra), and which does not come within any exception thereof. (See, also, People v. Corbalis, 178 N. Y. 516; People v. Kane, 43 App. Div. 472.)
+The mere statement of a witness under oath that the place where certain work was being done is a factory would be incompetent and without probative force. While it is true that evidence should not be pleaded, yet the law requires a clear and concise statement of fact. (Code of Crim. Pro., § 275; People v. Firth, 157 App. Div. 492; People v. Silver, 158 App. Div. 217, 218). Just as it would be insufficient to charge the unlawful sale of “ liquor ” without specifying the character of the liquor sold, so I deem it a mere conclusion to charge the maintenance of a “ factory ” in an attempt to give it the special meaning of the Labor Law. The necessity for alleging in due form the character of the premises charged to be a factory must be obvious; more especially is this so in view of the exceptions which the Legislature incorporated in the legislative definition of a factory in the Labor Law. This law makes certain premises wherein given conditions exist a factory unless the exception applies, and, therefore, I am of the opinion that the exceptions are part of the People’s case, and that the People must allege and prove that the place termed a factory is not a power house, generating plant, barn, storage house, shed or other structure owned or operated by a public service corporation, other than construction or repair shops subject to the jurisdiction of the Public Service Commission.
+Is the word “ factory ” and its word power used compendiously to include a given number of things ?
+The word “ factory,” as the word is employed in this statute, is a comprehensive term, and includes a number of things and conditions, to meet which, under the requirements of the criminal law and procedure, the prosecution must adduce proof that the defendant has violated this law by doing the things charged in such' a factory as comes within the Labor Law.
+Certain classes of work conducted under given conditions and subject for control under a different law is made the exception in the law affecting factories. , If the place referred to in the information is not a factory, then the acts, complained of constitute no crime. The accused is not to meet the general charge by proving the exception. My conclusion is, therefore, that to allege that the defendant had a factory within the law might very well include such a factory as is exempted from the operation of this law. Such exceptions must be negatived in the pleading and proof, and since the information falls short of the required facts to fully apprise the defendant of the charge by excluding the premises from the operation of the exception within this law, I vote to sustain the demurrer.
+Edwards, J., Presiding Justice, and Herrman, J., Associate Justice, concur.
+Ordered accordingly.
