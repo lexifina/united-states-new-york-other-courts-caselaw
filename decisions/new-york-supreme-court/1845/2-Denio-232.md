@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1845-12"
+citations: ["2 Denio 232"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mead and others vs. Gale."]
+source_url: "https://static.case.law/denio/2/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2186106
+cites_cases: ["2 Blackf. 32", "2 Metc. 118", "21 Pick. 492", "4 Hill, 109"]
+---
+
+# Mead v. Gale
+
+## Majority (Porter, Senator.)
+
+Porter, Senator.
+Gale sued Mead and others in trover for a'horse. The -defendants were trustees of a school district in Clarkson, and as such issued the warrant upon which the horse of Gale was-taken. The legality of that seizure is the point in controversy. On the 7th October, 1839, at a-regular school district meeting, a tax of $300 was voted, for the purpose , of building-a school house. In -pursuance of ¡that vote an assessment was made upon the taxable inhabitants of that district, to raise that sum, dated November 1,1839. The amount of the tax directed to be collected -from.Gale, was $60,19. A special school district meeting was called by .the trustees, and was held .on the 25th of November, 1839, at which meeting the former vote to raise the tax was repealed. Prior to this -time, however, the warrant to collect the -tax had been made out and .signed by the trustees, and dated November 21st, 1839. Another special meeting was called and held on the 5th of December of -that year; and-at this last meeting, the vote of the meeting held on the 25th of November, repealing the vote of-the .5 th of October, to raise the tax, was itself repealed. In pursuance of this last vote, the trustees, supposing that the vote of October 5th was revived, and the assessment and warrant made out under it confirmed by the repeal of the vote of November 25th, renewed the warrant on the 23d of December of that year, and on that day it was -first placed in the hands of the collector.
+Upon this state of facts the principal question presented is this: Were the proceedings of the defendants, the trustees, regular without a new assessment and tax list ? It must be conceded that after the repealing vote of the 25th November there wás a time when there was no existing tax in this district, and no legal assessment and tax list upon which to collect this $300. The vote laying the tax had been repealed; and all the acts and doings consequent upon that vote had become null and void. If the plaintiff below had, prior to the 5th of December, sold and conveyed his property situate in that district, and had himself removed therefrom, neither he nor his property could have been affected by that vote and the subsequent proceedings.
+It is admitted that the vote of the 5th of December, repealing that of the 25th of November, had the legal effect of reviving the vote of the 7th of October by which the tax was levied. But this admission will not necessarily carry with it the validity of the assessment, tax list and warrant that were made out under that vote. Whether these can stand and be enforced, depends upon other considerations. The counsel for the plaintiff in error seemed to rely upon this position that after the vote oí the 5th of December, the power to levy and collect the tax was wholly derived from the vote of the 7th of October; and that it was to be considered and treated as though it had never been interrupted or invalidated. This I deem to be erroneous, and particularly as it relates to the assessment and tax list. If the authority to make the assessment and levy the tax existed after the last repealing vote, it results as well from that vote as from that of October 7th; and it is a power which must be exercised after the last vote. The whole proceedings, in my opinion, must be construed as they would have been 'if the original vote to lay the tax had passed on the 5th of December. In that case it could only affect the persons and property at that time subject to the authority of that meeting to impose a tax upon them. In this instance the time was short after the assessment and tax list was made out, until the revival of the vote laying the tax; but suppose the delay had been six months or a year. No one, I think, would pretend that an assessment and tax list made out at such a length of time previous, would bo deemed to have been rendered valid and legal by such a vote. Would a school district vote raising a sum of money and directing that it be levied according to a previous assessment, authorize a tax list and warrant for its collection? Surely not. The law plainly contemplates that the assessment shall be made after the tax shall have been voted ; and it expressly directs that the assessment shall be made and the tax list made out, within one month after the tax was voted. The statute does not say that it shall not be made before the vote, but certainly there could be no authority for it before the vote.
+I do not perceive any ground upon which the proceedings of the trustees can be sustained; though every inclination of my mind would lead me to save them from this dilemma, did the law permit. I think the judgment should be affirmed.
+Senators Lott and Smith delivered opinions for affirmance, concurring substantially with that delivered by Senator Porter; and,
+On the question being put, “ Shall this judgment be reversed?” the members of the court voted as follows:
+For reversal: The Chancellor, and Senators Backus, Folsom, Hard and Sedgwick—5.
+For affirmance: Senators Beers, Bockee, Chamberlain, Denniston, Emmons, Hand, Lester, Lott, Mitchell, Porter, Scovill and Smith—12.
+Judgment affirmed.
