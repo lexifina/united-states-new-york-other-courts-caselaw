@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-05-13"
+citations: ["24 N.Y. St. Rep. 429", "1 Silv. Sup. 292"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Petition of James M. Waterbury et al. Ex’rs, etc., Resp’ts, v. George C. Eldridge, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024267
+cites_cases: ["16 N. Y. 389", "16 N. Y., 389", "27 Hun, 301", "29 Hun, 459", "82 N. Y. 161", "82 N. Y., 161", "96 N. Y. 641", "96 N. Y., 641"]
+---
+
+# Waterbury v. Eldridge
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+The decision of the court below in this matter was as liberal to the defendant as the facts warranted. There was no occasion to send the matter to a referee or turn the petitioner over to his action, as it clearly appeared without dispute what services the respondent had rendered since he was paid, and the value could be estimated readily and properly by the court.
+The respondent had rendered his bill with items, and set a price upon his services, and was fully paid.
+The principle upon which the court below acted was sound, and well sustained by authority. Williams v. Glenny, 16 N. Y., 389; People v. Buffalo Asylum, 96 N. Y., 641; Matter of Mertian, 29 Hun, 459; Matter of Friedman, 27 Hun, 301.
+It was too late, after receipt of the money from the city of Brooklyn, to seek to open an account that had been previously seutled in full.
+Order affirmed, with costs.
+Barnard, P. J., concurs.
+
+## Dissent (Dykman, J.)
+
+Dykman, J.
+(dissenting.)—This proceeding was for the procurement of an order to compel the summary payment of money by a. lawyer to his client.
+The proceeding was inaugurated by a petition of the client which contained a statement of the transactions with the attorney, which was answered by an affidavit of the lawyer and another person, and then there was an affidavit in reply, and upon those papers an order was made at special term, requiring the attorney to pay over to his. client the sum of $2,500.
+It appeared, from the papers presented, that the lawyer had collected considerable sums of money for his clients, and had also performed laborious professional services for them in important litigations and beneficial negotiations. His claim was, and is, that the sum of $2,500, which he had retained, and which is the sum in dispute, was no more than a just compensation for his services so rendered to his clients, and that he retained the same for that reason.
+A fair and important issue was thus raised between the parties which required proof for its determination. The allegations of the petitioners on one side, and of the respondent on the other, were not proofs. They were in the nature of pleadings, and it was not competent for the court at special term to decide the question involved, and make the order appealed from, without the introduction of proof under the common law rules of evidence.
+Such proofs could have been introduced before the special term, or before a referee appointed for that purpose. Matter of Eldridge, 82 N. Y., 161; Matter of Knapp, 85 id , 284.
+The order appealed from should be reversed, with ten dollars costs and disbursements.
