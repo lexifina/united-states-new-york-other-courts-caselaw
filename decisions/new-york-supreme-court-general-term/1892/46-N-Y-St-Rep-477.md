@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-05-13"
+citations: ["46 N.Y. St. Rep. 477"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adolph Schwarz et al., App’lts, v. Timothy B. Livingston et al., resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084312
+---
+
+# Schwarz v. Livingston
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The order of reference in this case was vacated upon the ground that at the time the action was reached upon the circuit calendar the cause was not in a position to be tried, because a notice of trial had not been properly served.
+In this conclusion we think the learned court at special term erred. It appears without dispute that the notice of trial was duly served by mail. Section 797 of the Code of Civil Procedure expressly provides for this mode of service; and when service is so made, it is as complete as though made in any of the other methods prescribed by the various subdivisions of the section in question. The fact, therefore, that the attorney claims not to have received notice was irrelevant upon the question of the right to proceed upon the notice, as it was served.
+There was jurisdiction to proceed with the trial, and, in the absence of the defendant Irwin, and of his attorney, judgment might have been rendered against him by default. Instead of that an order of reference was made upon the consent of the attorney for the other defendant, who assumed to act and consent for all. The order of reference which was thereupon made was duly served upon Irwin’s attorney together with a notice of hearing before the referee. This attorney retained both the order and the notice, without objection, for upwards of two weeks, and only objected thereto upon the first hearing before the referee. His motion to vacate was founded solely upon the grounds, first, that notice of trial was never served upon him; and, second, that he never consented to the order of reference. It was not claimed, much less proved, that the cause was one which was not compulsorily referable. Whether the attorney consented or not, the court had jurisdiction, Irwin being in default, to refer what we must assume to have been a referable case, of its own motion. In view of the -consent of the other attorney, professing to act for both defendants, and the retention of the order until the hearing, we think the motion to vacate was in bad faith and should have been denied.
+The order should be reversed, with ten dollars costs and disbursements.
+Van Brunt, P. J., O'Brien and Barrett, JJ., concur.
