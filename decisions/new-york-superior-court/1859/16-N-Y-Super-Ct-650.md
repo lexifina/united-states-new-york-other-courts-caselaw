@@ -1,0 +1,46 @@
+---
+court: "New York Superior Court"
+decided: "1859-07-19"
+citations: ["3 Bosw. 650", "16 N.Y. Super. Ct. 650"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Catharine N. Forrest v. Edwin Forrest."]
+source_url: "https://static.case.law/ny-super-ct/16/cases/0650-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1343924
+cites_cases: ["6 Duer, 102"]
+---
+
+# Forrest v. Forrest
+
+## Majority (Woodruff, J.)
+
+Woodruff, J.
+—The only questions remaining to be settled in this case are the amount which should be allowed to the plaintiff for alimony, and the manner in which that should be secured to her. To determine those questions we have ordered a reference. The plaintiff is left by the defendant, her late husband, entirely destitute. Although entitled to share justly and equitably the income of one, who, according to the papers before me, has a fortune of half a million of dollars, she is left to her own personal exertions to obtain the necessaries of life.
+And this, when it is entirely certain that her late husband owes her, and must be decreed to provide her, a comfortable support.
+This is true even though we should assume him innocent, and presume that such innocence may appear on a reversal of the judgment of this Court, for if instead of being divorced, he were her husband still, he is bound to support her.
+So that whatever be the result of this struggle on his part, a comfortable support is due and must be decreed to her, or1 be furnished to her by him, in any event.
+For the purposes of the reference ordered, he is to be deemed, as he has been adjudged, guilty; and she is to be deemed entitled to alimony.
+It is true that she has not heretofore urged her claim with the eagerness which might have been expected, but her delay is explained, and certainly that delay has not operated to the defendant’s disadvantage. If he had deemed the delay undesirable, he could have moved the reference himself.
+Now, she has found means to press her claim, and counsel willing to devote their time to its prosecution; and she presents herself apparently, and according to her statement, in need of that support to which she is clearly entitled.
+Her first endeavor has been so far défeated that, against her objection and that of her counsel, the hearing is adjourned for three months to enable the defendant’s counsel to go to Europe.
+She, in a state of destitution, dependent hitherto upon the good will of her counsel and compelled to await their convenience, is thus postponed,—until it is in a high degree probable that their engagements will again deprive her of their services,— in order that the defendant, who is abundantly able to employ any desired number of counsel, may not be subjected to inconvenience while his counsel is absent for months from the city.
+This seems to me manifestly unjust.
+The suggestion that the months of July, August and September are vacation months, in which it is the right of the defendant to have the case suspended, is to me a novel one. Although the arrangement of the Terms of Court are so made that, so far as possible, the comfort of jurors, witnesses and suitors may be promoted by relieving them from attendance upon crowded Court-rooms in the heat of summer; yet, the period is not uniform in the various Courts, and nothing is more common than for references to be sought and granted for the very purpose of avoiding the delay which the interruption of the monthly sessions of the Courts for trial would otherwise cause.
+For other purposes, the Courts are open, and one or more of the Judges are in daily attendance.
+But in expressing the opinion that the delay which would be caused to the plaintiff is unjust, I state not my own opinion only, but the declared judgment of the General Term. A motion to postpone to October the argument of an appeal, involving the most important question to the defendant, which is connected with this reference, was denied, though urged upon the very grounds on which the postponement of the reference is now sought to be justified. The Court thought the plaintiff ought not so to be hindered in the obtainment of an obvious right, and to be left destitute of the means of support, while the defendant’s counsel was pursuing either pleasure or business in Europe.
+I am clearly of that opinion in regard to the reference itself. And the views which I entertain in regard to the proper subjects of inquiry on the reference (and which, on a former motion, I have expressed), lead me also to the conclusion that the reference ought not to be protracted beyond a very few sittings, and that any counsellor of ordinary capacity, skill and learning is abundantly competent to protect the defendant’s interest on this reference, whether he has been familiar with the prior stages of this litigation or not.
+I entertain the most sincere respect for the fairness, good faith, and impartiality of the referee, and have unquestioning confidence that he has done what he deemed in entire accordance with the right of the defendant, in adjourning the reference. But he erred I think in not considering sufficiently the plaintiff’s right to have her support provided, when her right to a support had been already settled by a decree, and the amount alone remained to be fixed.
+The Court would not of course compel a referee to act, against his inclination and at a sacrifice of personal convenience which he felt unwilling to make, when there are, no doubt, many who are not only willing but desirous of rendering such services.
+Whether the Court can regularly make an order vacating the order of adjournment already made by the referee may be open to question. That the Court can vacate the order of reference and direct a reference to some person whose engagements are such that the reference will be proceeded in with reasonable dispatch is not doubtful.
+If the present referee can so arrange his business as to continue the reference, and the defendant consents to vacate the order of adjournment, that the reference may proceed without further delay that course should be taken; but if not, then the order of reference should be vacated and a reference be directed to some suitable person who will attend and hear the parties and their proofs at once.
+In relation to the application for alimony pending this reference, there seems to me to be no reason why it should be withheld; on the contrary the considerations above suggested are strong' reasons why it should be granted. Not only so; it is the uniform practice of the Court to grant it without special reasons.
+The circumstance that six or seven years ago in San Erancisco the plaintiff received considerable sums as the proceeds of theatrical exhibitions under her management, becomes of slight importance in this connection, when it appears that the plaintiff is now destitute and unable to pay the expenses of the reference.
+I perceive no just reason why the defendant should have at any time withheld the allowance, which he voluntarily made to her down to Kovember, 1851.
+As already suggested his obligation to pay is not, as the case now stands, in any degree doubtful. And it will be strange if when the permanent alimony shall be fixed there be not a very large sum in arrear which it will be the duty of the defendant to pay. With him therefore the question whether he shall now pay something towards the plaintiff’s support pending the reference and something towards the expenses, is only a question of time, and to my mind it is reasonable that the plaintiff’s wants should receive some consideration; and to require the defendant to pay something now, out of the income of an estate of which the principal is said to amount to five hundred thousand dollars, is only requiring him to pay now what it seems to me certain he must pay hereafter, unless the death of the plaintiff, before any sum is fixed, should operate to release him.
+The circumstance that the plaintiff has not made -the application sooner, is to his advantage. Had the petition been presented three years ago it must have been granted. He should not complain that it has been delayed.
+On this branch of the application the order will be that the defendant pay for the support of the plaintiff at the rate of two hundred dollars per month, beginning with the presentation of this petition. And that he advance to her fifteen hundred dollars towards counsel fees and expenses of the reference.
+It will be necessary that the order to be entered be settled on notice; and the details, conforming to the directions above indicated, as well respecting the continuance of the reference as the making of the payments will then be settled.
+The consent of the referee to proceed forthwith in the reference, and the consent of the defendant to vacate the order of adjournment having been filed, an order was entered that the reference proceed and that the defendant make the payments to the plaintiff in conformity with the foregoing opinion.
+This motion was made and decided, after the appeal in Forrest v. Forrest, reported (post, 661) had been argued, and while it was held under advisement.
