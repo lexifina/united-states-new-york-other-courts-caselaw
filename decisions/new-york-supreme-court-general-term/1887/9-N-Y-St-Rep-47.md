@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-05-13"
+citations: ["9 N.Y. St. Rep. 47"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Florence A. Merrill, Resp’t, v. Peter Brunner, Survivor, etc., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/9/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 644516
+cites_cases: ["39 Hun, 291", "55 N. Y., 400", "69 N. Y., 577", "95 N. Y., 516"]
+---
+
+# Merrill v. Brunner
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The plaintiff purchased from the firm of Brunner & Moore a parlor suite of furniture for the price of $450, one cocobola cabinet for thirty-eight dollars and a table for twenty-eight. This purchase was made on the 8th of July, 1884, and she retained the property so purchased until October, 1885, when she discovered that the parlor suite was not rosewood, for which it was claimed on her part she had purchased it. She thereupon tendered it back to the defendant, who was the surviving member of the firm, and demanded from him the purchase price for which the verdict of the jury was rendered upon the trial. The defendant refused to receive the furniture, and it was returned to the plaintiff’s house, where it has since remained in store for him. It was stated by the plaintiff in her evidence that she bought the furniture from Mr. Moore, who had since died. She was then asked, “ In purchasing this furniture did you, or did you not, rely upon representations that were made ?” This was objected to under section 829 of the Code, and also that the question was leading. The objection was overruled and the defendant excepted, and the witness answered, “I certainly did; I considered it one of the oldest and best houses, and believed the representations to be true.”
+Q. “ And you made the purchase of the furniture because you relied upon these representations ? ”
+The same objection was repeated which was overruled and an exception taken, and the witness answered, “Yes, sir.”
+This section of the Code rendered this witness incompetent to give evidence concerning a personal transaction between herself and this deceased member of the firm, against the defendant. Each of the questions which were asked of her, and the court permitted to be answered, related to a transaction of this description. The sale of the furniture, as this witness stated it to have been made, was between herself and the deceased partner, and whatever representations may have been made concerning the furniture were necessarily made by him. They must have been, if any were made, a part of the transaction which took place at the time between the plaintiff and Mr. Moore. This evidence tended to prove them, for if Moore did not make'them she could not rely upon them, and did relate to and include a personal transaction between the witness and the deceased partner, which she was not competent to give in her own behalf. It was directly within the prohibition of this section which has, in a similar manner, been applied to the disposition of like objections in other cases. Viall v. Leavens, 39 Hun, 291; Matter of Smith, 95 N. Y., 516.
+Before the plaintiff could rescind the sale, and recover back the purchase price of these articles of furniture, the law required her to establish the fact that the representations were not only false but were made by the vendor with intent to deceive and induce a sale which would not otherwise have been made. That they were in fact made is supported by the testimony of the witness Charlotte Humphrey She testified that the furniture was represented to be rosewood And such was its appearance, for Thomas De G-reef whose evidence was introduced to prove that the furniture was not rosewood, stated that it was made of beach or birch, common white wood stained to represent rosewood, and he added, “It is a first class representation. No one who is not well acquainted with woods could detect that it is imitation. It is very hard to detect it. ”
+If Mr. Moore represented the furniture to be rosewood, he may, according to the evidence of this witness, have been deceived himself, and in making the representation may not have intended to mislead the plaintiff, or represent the furniture otherwise than he believed it to be. If that were the fact, then there was no fraud established in the case, which would permit the plaintiff to rescind the purchase and recover back the purchase price.
+There was some evidence given by the witness Humphrey, from which it might be argued that Mr. Moore understood the nature of the material out' of which the furniture had been manufactured. She stated that he said that the carving cost him $7 a day for the man to carve that furniture, which if it was done under his supervision, that fact would to some extent at least tend to prove that he must have known the wood was not rosewood. Even trivial circumstances may be relied upon in proof to support an inference of fraud Beardsley v. Duntley (69 N. Y., 577, 581.) But at the same time the evidence must go farther than to consist of only proof of vague surmises. Arthur v. Griswold, 55 N. Y., 400.
+The testimony upon this subject was extremely slight, but possibly may have been sufficient to warrant the submission of this part of the case to the jury.
+Two witnesses were sworn who were in the employment of the firm, who testified that they informed the plaintiff that the furniture was cocobolo finish. This, however, was denied, by her, and the issue created by the denial could be no otherwise legally settled than by the jury.
+Without, however, determining, as the evidence may appear different upon another trial, that there waSj or was not sufficient to submit the question of fraudulent intent to the jury, it is enough for the present purposes of the case, that the evidence already referred to was illegally admitted, and for that reason the judgment should be reversed and a. new trial ordered with costs to the appellant, to abide th& event.
+Van Brunt, P J., and Brady, J., concur.
