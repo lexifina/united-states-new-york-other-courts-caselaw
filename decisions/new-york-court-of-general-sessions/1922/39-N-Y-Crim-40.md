@@ -1,0 +1,22 @@
+---
+court: "New York Court of General Sessions"
+decided: "1922-01"
+citations: ["39 N.Y. Crim. 40", "117 Misc. 608"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. MORRIS ISSENOFF."]
+source_url: "https://static.case.law/ny-crim/39/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1224700
+---
+
+# People v. Issenoff
+
+## Majority (Nott, J.:)
+
+Nott, J.:
+The defendant’s contention is that he was convicted of criminally receiving stolen property on the theory that he aided and abetted one Bleiweis and others in the commission of a crime. The moving affidavit then sets forth that the indictment charging Bleiweis and the others with the commission of the crime had been dismissed subsequent to the conviction of the defendant, and that this dismissal of that indictment establishes the fact that those defendants were innocent of the crime and that therefore Issenoff could not be guilty of aiding and abetting in the commission thereof.
+Whether the dismissal, subsequent to the trial of this action, of the other defendants’ indictment could be deemed to be newly discovered evidence, within the meaning of the statute, is doubtful but it is not necessary to decide that question at the present time. The fallacy of the defendant’s contention consists in the assumption that an order dismissing an indictment is necessarily an adjudication that the defendant is innocent. It may, and very often does, simply adjudge that for various reasons the defendant’s guilt cannot be established. In this case, however, the moving affidavit is erroneous in its allegation that the indictment has been dismissed. An examination of the records of the court shows that an order has been entered merely discharging bail and the indictment is still pending.
+Ho ground, therefore, is presented justifying the granting of the motion and it must be denied.
+Motion denied.
