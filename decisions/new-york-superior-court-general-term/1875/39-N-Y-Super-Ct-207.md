@@ -1,0 +1,37 @@
+---
+court: "New York Superior Court General Term"
+decided: "1875-03-01"
+citations: ["7 Jones & S. 207", "39 N.Y. Super. Ct. 207"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SETH W. HALE, Plaintiff and Appellant, v. THE OMAHA NATIONAL BANK, Defendant and Respondent."]
+source_url: "https://static.case.law/ny-super-ct/39/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1407536
+cites_cases: ["1 Cush. 168", "10 Barb. 432", "10 Barb. 627", "10 How. Pr. 222", "1040 B, 1055", "11 How. Pr. 11", "11 Wend. 312", "12 N. Y. 551", "13 Wend. 605", "14 Abb. Pr. 379", "17 How. Pr. 57", "17 N. Y. 101", "17 N. Y. 202", "17 N. Y. 583", "2 Serg. & R. 11", "2 Story, 639", "20 Barb. 342", "20 Johns. 637", "22 N. Y. 225", "22 N. Y. 564", "22 Pick. 535", "24 Barb. 554", "24 Wend. 114", "25 Barb. 284", "28 N. Y. 585", "29 Barb. 145", "3 Denio, 512", "3 Wheat. 578", "32 Barb. 305", "37 N. Y. 440", "37 N. Y. 99", "41 N. Y. 374", "42 N. Y. 322", "42 N. Y. 438", "42 N. Y. 490", "43 Barb. 379", "43 N. Y. 209", "45 N. Y. 822", "49 N. Y. 293", "49 N. Y. 626", "49 N. Y. 633", "5 Barb. 398", "54 Barb. 417", "6 Hill, 93", "6 Johns. Ch. 398", "8 Abb. Pr. 3"]
+---
+
+# Hale v. Omaha National Bank
+
+## Majority (By the Court.—Speir, J.)
+
+By the Court.—Speir, J.
+The complaint is in substance the same as a declaration in trover, under the former system of pleading.
+Although the code has abolished all distinctions between the mere forms of action, and every action is now in form a special action on the case, yet in their nature they are essentially dissimilar, marked by intrinsic differences which no law can abolish. In trespass and trover, before the code, the plaintiff recovered, if he recovered at all, upon the ground that he was the owner of the property in controversy. The measure of damages, therefore, in all such cases, was the value of the property taken or converted. I think the case, as now presented by the evidence and findings of the learned judge who tried it, was»properly decided by him The defendant’s proceedings were simply to enforce its own right against the mortgagors. By the sale, under the chattel mortgage, the defendant sold only the rights of Cozzens & Co., and of itself in the property, and did not sell the plaintiff’s interest, if any he had therein.
+o
+The following positions respecting actions of this character are perfectly well established:
+First. That a mortgagor of chattels remaining in possession before default, under a clause entitling him to such possession, has an interest in the property which is the subject of levy and sale on execution against such mortgagor.
+Second. That although the interest which passed to the purchaser at such sale is only such an interest as the morgagor had, yet parties promoting the sale are not trespassers if the sale is in general terms, without any notice being taken of the existence of the mortgage. So far as this case is concerned, I think it is covered by these propositions (Hathaway v. Brayman, 42 N. Y. 322; Hull v. Carnley, 17 Id. 202; Goulet v. Asseler, 22 Id. 225; Fairbanks v. Phelps, 22 Pick. 535).
+The defendant removed the property covered by its mortgage from the premises, and while the property was in its possession, under its mortgage, the plaintiff, on September 24, 1868, assigned to the defendant, in consideration of the sum paid by it, the mortgage which had been executed to him by Cozzens & Co. on October 14, 1867. The defendant retained possession of the property under both mortgages,until November 20,1868, when they sold it at public auction. The sale was made under both mortgages,notice of time and place of sale being published for thirty days in the Omaha newspapers'.
+The defendant had taken possession of the chattels under its mortgage, on April 28, 1868, in an action against the lessees to recover such possession, and in such action it was adjudged that the defendant, as mortgagee, was entitled to such possession. The sale was therefore lawful, because it was under a decree of the court, and no right or interest of the plaintiff was sold.
+The plaintiff’s counsel here interposes the objection, that, at the time the hotel was furnished, which by the findings appears to have been on or about July 25, 1867, the equitable lien attached, which was prior to the execution of the chattel mortgages. I think the answer to the position is that, strictly speaking, no lien had attached at any time during the proceedings complained of.
+“ The elementary rule in the interpretation of air agreement, where the terms are not ambigious or uncertain, excludes all evidence of the language employed by the parties in making the contract, other than is set down in the writing itself.” The lessees, after covenanting to pay the rent, as it shall become due, add, “a lien shall be given by the said lessees to the said lessor to secure the payment thereof on all the furniture tha.tshall be placed in said hotel by said lessees.”
+It is plain the parties contemplated some further and other act to perfect the security. The lease and agreement import a covenant to create a lien upon the property by a proper instrument, when it shall have been put upon the premises by the lessees. As soon as the lessees had furnished the hotel and placed the furniture therein, the lessor could have required of them security in proper form upon the furniture, and had they refused, upon request, to give the lien agreed upon, a specific performance would have been decreed.
+No proper instrument was at any time executed by the parties to perfect the lien, nor was any specific performance decreed or instituted for that purpose.
+The defendant, by taking its second mortgage without notice of plaintiff’s inchoate equitable claim under the lease on the furniture and chattels, to secure the payment of the sum of five thousand nine hundred dollars, theretofore loaned to the lessees, then due and owing, the payment of which by its terms was extended sixty days, containing a covenant that the bank might take possession of the property at its election any time, became a bona fide holder for value and held in priority to plaintiff’s claim under the lease.
+The decision of the Court of Appeals (Hale v. Bank of Omaha, 49 N. Y. 626) does not affect the case as now presented. The defendant demurred to the complaint, which contained two counts. The demurrer was general, and there being two distinct and separate counts, it was overruled, the court reversing the-judgment on the ground that the second count was good. The learned judge, however, has put a constrnction upon the true character of the lien contained in the clause in the lease, and is authority on that question.
+The fact has been found by the court below, that before the defendant took its mortgage on the 10th of March, 1868, it had no knowledge of the provisions in the lease in plaintiff’s favor in respect of the lien to be given by the lessees. An examination of the testimony on that subject justifies the fact as found.
+The assignment of the mortgage to the defendant does not import that the same was made subject to any lien in plaintiff’s favor, and being made subject only to-certain bankrupt proceedings is a strong inference that the lien claimed was waived, and that the mortgage-assigned was a first lien.
+The judgment must be affirmed, with costs.
+Freedman and Curtis, JJ., concurred.
