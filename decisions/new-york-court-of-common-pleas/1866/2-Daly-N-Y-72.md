@@ -1,0 +1,32 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1866-06"
+citations: ["2 Daly (N.Y.) 72"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert L. Smith v. George W. White."]
+source_url: "https://static.case.law/daly-ny/2/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1300037
+cites_cases: ["10 Abb. Pr. 431"]
+---
+
+# Smith v. White
+
+## Majority (By the Court.—Brady, J.)
+
+By the Court.—Brady, J.
+John B. Fuller, a judgment debtor, was required by the order of Justice Leonard, of the Supreme Court, to appear before him and make discovery on oath concerning his property. He failed to appear, and on proper application therefor, an attachment was issued against him for the contempt committed. On being arrested by the sheriff by virtue of the attachment, the defendant and another signed as sureties the bond required by law to accomplish the discharge of the party under arrest (3 Bev. Stat. 5th ed., p. 851, § 13). The condition of the bond is, that if the said John B. Fuller shall appear on the return of the said attachment, and abide the order and judgment of the court thereupon, then the obligation to be void, otherwise to remain in full force and virtue. The plaintiff insisted that the condition of the bond had been broken, and that the defendant, as one of the sureties, the bond being joint and several, was liable for the amount due upon the judgment against Fuller, and the interest thereon and certain costs, amounting in all to the sum of one hundred and fifty-six dollars, besides interest and costs. When the bond had been given in evidence, the counsel for the defendant objected to the jurisdiction of the court in the action on the bond and the objection was overruled. The question of jurisdiction was presented on the appeal, and is to be considered. The act of 1857 (Laws, vol. 1,' p. 707) by the third section declares in what actions the District Courts shall have jurisdiction, namely, in actions similar to those provided by sections fifty-three and fifty-four of the Code of Procedure where the sum recovered shall not exceed $250, notwithstanding the accounts of both parties may exceed $400, and in an action upon the charter ordinance, or by-law of the corporation of the city of New York or a statute of this State, where the penalty shall not exceed. $250. Section fifty-three of the Code provides that justices of the peace shall have jurisdiction in the following actions, and no other:
+1. An action arising on contract for the recovery of money only, if the sum claimed do not exceed $100.
+2. An action for damages for injury to rights pertaining to the person, or to personal or real property, if the damages claimed do not exceed $200.
+3. An action for a penalty not exceeding $200.
+4. An action commenced by attachment of property as now provided by statute, if the debt or damages claimed do not exceed $200.
+5. An action on a bond conditioned for the payment of money not exceeding $200, though the penalty exceed that sum, the judgment to be given for the sum actually due. Where the payments are to be made by installments, an action may be brought for each installment as it becomes due.
+6. An action on a surety bond taken by them, though the penalty or amount claimed exceed $200.
+7. An action on a judgment rendered in a court of a justice of the peace, or of a justice’s or other inferior court in a city where such action is not prohibited by section seventy-one.
+8. To take and enter judgment by confession, where the amount shall not exceed $500.
+9. An action for damages for fraud in the sale, purchase, or exchange of personal property, if the damages claimed do not exceed $200.
+10. An action to recover the value of personal property, the value of which, as stated in the affidavit of the plaintiff, his attorney, or agent, shall not exceed $100.
+By the Laws of 1862, chapter 389, the legislature also declared that the Marine and District Courts should have jurisdiction of actions in which the people of this State are a party, where such actions are brought by the Commissioners of Public Charities and Correction in said city, upon bastardy or abandonment bonds, and the amount demanded or recovered did not exceed $500; and by chapter 484 of the laws of the same year, the legislature further provided that sections 206 to 217, inclusive, of the Code of Procedure should apply to the Marine and District Courts of this city, &c. These sections relate to the “ claim and delivery of personal property.” We have thus before us the laws declaratory of the jurisdiction of the District Courts, and it appears from them that none has been conferred in reference to bonds such as presented in this action. The fifth subdivision of section fifty-three relates to bonds for the payment of money only. The whole subdivision makes that conclusion inevitable, the last provision thereof providing that where the payments are to be made by installments, an action may be brought for each installment as it shall become due. The District Courts were not invested with jurisdiction upon bonds with conditions other than for the payment of money, excepting, however, surety bonds taken by them as provided by subdivision 6 of the fifty-third section of the Code. Jurisdiction, by that section, is given in a class of cases named, and no other, and the exception just mentioned shows that it was designed to limit the jurisdiction of these courts to actions on b.onds for the payment of money only. Section fifty-four contains no provision from which jurisdiction in cases like this can be inferred. Its subdivisions limit or except from the general jurisdiction given by section fifty-three certain actions which would otherwise be included in its terms. Judge Hilton, in the case of Mahoney v. Gunter, 10 Abb. Pr. 431, expressed an opinion that the District Courts had no jurisdiction of actions on bonds other than for the payment of money, and upon an examination of the question, such is my conclusion. The question, however, was not decided in the case mentioned, and is not cited therefore as an authority. I think, for these reasons, the judgment should be reversed. We have not been advised of the respondents’ views of this case, no points having been submitted by them, although ample opportunity has been given.
+Judgment reversed.
