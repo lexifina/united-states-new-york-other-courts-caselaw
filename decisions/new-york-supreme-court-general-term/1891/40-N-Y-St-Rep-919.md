@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-10-16"
+citations: ["40 N.Y. St. Rep. 919"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Proving the Last Will, etc., of John Patterson, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/40/cases/0919-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2065308
+cites_cases: ["111 N. Y., 523"]
+---
+
+# In re Proving the Last Will of Patterson
+
+## Majority (Barrett, J.)
+
+Barrett, J.
+The general term did not overlook the nature of the case here presented. The respondents chose to enter a decree in the surrogate's court without a preliminary decision containing the surrogate’s findings of fact and conclusions of law. It appears that thereafter the appellants applied to the learned surrogate for an order to show cause why such findings should not he made and filed in conformity with the provisions of § 2545 of the Code, but the application was denied upon the ground, endorsed upon the papers, that findings were not necessary. The respondents now contend that the learned surrogate was wrong, and that findings were necessary. In this contention they are probably correct, but the difficulty with their present position is that they cannot be permitted to take advantage of their own error. If, upon the argument, they had objected to a review upon the facts, because of the irregularity in their own practice, the court would have suspended the consideration of the appeal until the findings had been made and inserted in the appeal book. The result would necessarily have been the same in the end. Instead, however, of making any such objection or claiming that the appellants were limited to a review upon the law, the respondents argued the appeal upon the merits as an appeal upon the facts, and took their chances of a favorable result. The suggestion that the respondents reviewed the testimony merely to. demonstrate that the surrogate had before him some evidence to support his rejection of the will, so that such rejection was not an error of law, is an afterthought, borne out neither by what actually transpired upon the argument nor by the elaborate-brief submitted in support of the respondents’ contention. The same observation applies with even greater force to the pretence that the discussion upon the facts proceeded upon the idea of showing that even if certain testimony was improperly admitted, such admission could not' have prejudiced the appellants. The truth is, that the appeal was unqualifiedly argued upon the facts and that the case was duly prepared and settled for that express purpose. Exceptions were unnecessary for the proper presentation of the question whether there should be a new trial before a jury. This was expressly held in Burger v. Burger, 111 N. Y., 523; 20 N. Y. State Rep., 105, where the analogies of a rehearing in equity and of an appeal from an order denying a motion for a new trial in a jury case were considered. In the case at bar the notice of appeal covered both the facts and the law. It was general and in no wise limited the appellants to a review upon the law. The case was made and settled expressly as provided by law for a review upon the facts, and we found in it even the usual statement that it contained all the evidence. The general term, therefore, had jurisdiction to review the facts and to perform all the functions conferred upon it by §2586 of the Code. We were, in substance, requested by the respondents to review the facts, both in their argument and in their brief. And we were so requested after the respondents had signified by their practice .and the learned surrogate by his decision that findings were deemed unnecessary.
+The motion for a reargument should therefore be denied, with •costs.
+Van Brunt, P. J., concurs; Bartlett, J., concurs in the result
