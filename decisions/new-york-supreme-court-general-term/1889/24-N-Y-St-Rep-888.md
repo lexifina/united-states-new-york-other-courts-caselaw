@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-22"
+citations: ["24 N.Y. St. Rep. 888", "2 Silv. Sup. 457"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Judicial Settlement of the Accounts of Jane A. May, Executrix, etc., of Vashti Acker, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0888-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024390
+---
+
+# In re the Judicial Settlement of the Accounts of May
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The report of the referee, to whom had been referred the settlement of the accounts of the executrix, was confirmed by the surrogate, except in regard to the fourth conclusion of law, relating to the application of the statute of limitations to the interests of certain persons not necessarily now to be considered; and a decree was thereupon entered accordingly. From this decree the executrix has appealed to this court, but the merits of such appeal are not before us. After the perfecting of such appeal, the motion was made before the surrogate, as above stated. The surrogate denied the motion, among other grounds, for the reason that the case having been taken out of his court by appeal, he had no power to entertain such a motion. In this decision we concur with him. After the transferrence of the case to this court, the surrogate had no power to proceed upon any matter contained in the record so transferred. Notwithstanding such appeal, however, the counsel for the respondents tendered a stipulation, after the surrogate had indicated his want of power to proceed upon the motion, to the effect that if the appellant would withdraw the appeal, the case might be resubmitted to the surrogate with power to make any changes which he saw fit therein. This was declined by the appellant.
+Under the sixth subdivision of section 2481 of the Code of Civil Procedure, “upon an appeal from a determination of the surrogate, made upon an application pursuant to this subdivision, the general term of the supreme court has the same power as the surrogate; and his determination must be reviewed as if an original application was made to that term,” We do not, under the discretionary power so given us, feel disposed to grant the application either to reverse the surrogate’s order, or to grant the motion as an original application to us, inasmuch as the appellant voluntarily refused, under the stipulation already mentioned, to permit the surrogate to pass upon the questions raised, reserving to ourselves, for further consideration, any question which may arise upon the appeal from the decree entered upon the report of the referee.
+The order appealed from should be affirmed, with ten dollars costs and disbursements, and the application denied.
+All concur.
