@@ -1,0 +1,18 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-04-11"
+citations: ["30 N.Y. St. Rep. 1022"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George C. Unglish, Resp’t, v. George W. Marvin, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/1022-14.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669194
+---
+
+# Unglish v. Marvin
+
+## Majority
+
+Motion denied.
