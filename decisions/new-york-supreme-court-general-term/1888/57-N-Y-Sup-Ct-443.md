@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-12"
+citations: ["57 N.Y. Sup. Ct. 443"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnard, P. J., and Dykman, J., concurred."]
+parties: ["JANE COLGAN, as Administratrix, etc., of ANTHONY DAVIN Deceased, Respondent, v. PATRICK DUNNE and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/57/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5856897
+---
+
+# Colgan v. Dunne
+
+## Majority (Pbatt, J.:)
+
+Pbatt, J.:
+Appellant contends that the action is not based upon a sealed instrument, but upon the statute liability created 'by sections 183Y-1841, Code of Civil Procedure, and that it accrued in 18Y2, when the estate was distributed, and that it is barred by the six-year or by the ten-year limitation.
+We think the right to pursue the legatee for the debt of the testator exists independent of the statute. Courts of law and courts of equity have, from the earliest times, sustained the creditor’s right to satisfaction of his debt from the assets of testator in the hands of the legatee. (Bract., book 2, chap. 26, fol. 61; 2 Bl. Com., chap. 32; 6 Bac. Abr. Legacies, h; 2 Redf. on Wills, § 56; 1 Wash. on Real Prop., chap. 3, § 73; Watkins v. Holman, 16 Peters, 25; Noel v. Robinson, 1 Vern., 90-94; Newman v. Barton, 2 id, 205; Nelthrop v. Hill, 1 Ch. Cas., 136.) The theory is that the testator cannot cut off the right of his creditor to satisfaction of the debt from testator’s estate. In form the action is against the legatee; in substance it is against the property of testator in defendant’s hands. The statute regulates the procedure, but does not create the right.
+It follows that the action must be regarded as brought upon a sealed instrument, and the period of limitation is twenty years. That period has not elapsed since the execution of the bond and mortgage. The introduction of the deficiency judgment did not injure defendant. The effect of that proof was to limit the plaintiff’s recovery, not to enlarge it. Proof of the mortgage and its recitals established a cause of action for $3,000 and interest. By introducing the judgment in foreclosure, plaintiff, in effect, showed that, except as to the amount of the judgment, the bond and mortgage were paid. It cannot be justly said that defendants are held liable for the costs of that suit. Proper statement would be that a portion of the proceeds of sale being used to defray the expenses of the foreclosure, that amount was not applied to the reduction of the mortgage debt, which, therefore, remained a liability for which defendants must respond.
+Judgment affirmed, with costs.
+Barnard, P. J., and Dykman, J., concurred.
+Judgment affirmed, with costs.
