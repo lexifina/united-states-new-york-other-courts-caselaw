@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1812-08"
+citations: ["9 Johns. 234"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mandell, Assignee of the Sheriff, &c. against Barry and others."]
+source_url: "https://static.case.law/johns/9/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 372248
+cites_cases: ["4 Johns. Rep. 45", "7 Johns. Rep. 510"]
+---
+
+# Mandell v. Barry
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The escape charged in the declaration, in the suit below, was found, by the special verdict, to have been voluntarily and intentionally made. This is the necessary and inevitable inference from the matters of fact found in respect to the second plea; and, as to the third plea, the jury expressly say, that the escape was made without any such cause as was set forth in that plea, that is, it was not “ accidentally and inadvertently, and. without intention to escape.” The only question, then, arising upon the record is, whether a voluntary return, after a voluntary escape, and before suit brought, be a defence to a suit brought for such escape, by the assignee of the sheriff. The history of the several statutes upon this subject is, briefly, as follows:
+By the act of 30th March, 1801, c. 91. gaol liberties were established, and prisoners were entitled to the benefit of them, on giving bond, with sufficient sureties, to the sheriff, that they would remain true and faithful prisoners, and not, at any time, nor in any wise, escape.” Under this act it was decided, in Tillman v. Lansing, (4 Johns. Rep. 45.) that the bond was forfeited after a voluntary escape, and that the sheriff (who alone was liable, under that act, to be sued by the plaintiff for the escape) could not plead a return before suit brought. The grounds of that decision the court nee no reason to question. They were further considered and enforced by two of the judges of this court, in the case of Dash v. Van Vleeck; (7 Johns. Rep. 510.) and the provisions in the 2dand?3d sections of the act of 28th March, 1809, (c. 148.) were evidently made in consequence of, and in affirmance of that decision. The act of 1809, also, made these bonds, given for the gaol liberties, assignable to the plaintiff and authorized him to sue as assignee of the sheriff Nothing was done by this act to alter or enlarge the nature of the defence. The bond remained forfeited after a voluntary escape, and the remedy upon it complete, as under the act of 1801. But the act of 5th April, 1810, (sess. 33. c. 187.) made a new provision in respect to the defence in a suit against the sheriff and enacted, “ that nothing contained in the acts of 1801, or 1809, aforesaid, should be so construed as to prevent any sheriff coroner, or other officer, in cases of escapes, from availing himself, as at common law, of a defence arising from a recaption on fresh pursuit, and a returning of the prisoner within the custody of such officer, before an action shall be commenced for the escape.” ijijjg wort|s 0f this act apply only to relieve the sheriff, coroner, or other officer, when they are sued for the escape. The act has application to a suit upon the bond, either by the sheriff or by his assignee. It was made to relieve the officer, who may be an innocent party, and not the original debtor, who bound himself “to remain a true and faithful prisoner,” and that he would “ in no wise escape.” If he has wilfully departed from the liberties,- he has broken his engagement, and forfeited all just title to indulgence. The persons who became his sureties (and who were, probably, indemnified by him) must, and ought to, be equally responsible with the debtor, or otherwise the guard hereby intended against fraud would be illusory, and of no effect. They ought especially to be held so, when they join with him in his defence, for it would be impossible, and contrary to all rule, to allow to one defendant the plea of a voluntary return, and not to the other. The fact of how long the prisoner continued without the liberties, or tó what distance he escaped, never can be material, when it is once ascertained that the escape was voluntary and intentional.
+The court are perfectly satisfied that, according to the letter and spirit of the several statutes upon this subject, as well as upon principles of justice and sound policy, the party to the bond cannot set up as a defence to a breach of the bond for a voluntary escape, that the prisoner voluntarily returned before suit brought, and the judgment below must, accordingly, be affirmed.
+Judgment affirmed»
