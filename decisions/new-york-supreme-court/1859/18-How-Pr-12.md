@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1859-09"
+citations: ["18 How. Pr. 12"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Christie, Jr. and others agt. Jacob Bloomingdale."]
+source_url: "https://static.case.law/how-pr/18/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2208049
+cites_cases: ["1 Duer, 701"]
+---
+
+# Christie v. Bloomingdale
+
+## Majority (Gould, Justice.)
+
+Gould, Justice.
+This motion is claimed to come under section 30, title 1, chap. 5, part 3, of the Revised Statutes (5th edition, 3d vol, p. 596). And the defendant insists that he is, as a matter of right, entitled to the granting of the motion. The preceding section (29), however, is to be taken in immediate connection with section 30. And section 29 says, “ every judgment, &c., rendered upon a verdict," &c.; and then section SO says, “ the court in which such judgment shall have been rendered,” &c., “ shall vacate such judgment and grant a new trial in such cause.”
+These two sections make it entirely plain, not merely that the defendant cannot claim to move thus as a matter of right, but that the court has no power to vacate the judgment under that statute. For, first, it must have been a judgment rendered on a verdict, thus involving almost certainly some matter of fact, on which the law allowed the taking of the opinions of two juries, by reason of the importance of the subject, which. is a conclusive and final settlement of the title to real estate. Mow, the case before me is not rendered on a verdict, but is a iudscment entered by the court on the hearing of a demurrer. (1 Duer, 701.)
+Secondly, the right of the party against whom “ such a judgment ” (on a verdict) shall be rendered is not what is asked in this case, leave to withdraw a demurrer, and serve an entirely new answer, and then go to a trial before a jury on that; but it is that the court “ grant a new trial” on the same pleadings. And, when that statute was enacted, an argument upon a demurrer was never called a trial, nor was a re-hearing on a demurrer “ a new trial.” The phrase “ trial of an issue of law ” belongs to the Code.
+Further to apply the statute to this case, and grant a new trial of the issue of law raised by the demurrer, would be merely to order a re-argument of a cause; and as the final judgment on the demurrer was before the court of appeals, a re-argument can properly be had only in that court, and upon a motion made to that court for leave to re-argue it. Besides, the demurrer concedes all the facts set forth in the complaint; and in the complaint (as I understand it), the rate of annual rent reserved by the lease, and the period for which the rent was in arrears, if not the precise amount in dollars and cents, are set forth, and, therefore, admitted. And that admission of a fact the defendant should never, in this suit, have liberty to retract. If he can really make a case for relief, it is provided for in section 7 at page 830 of the 3d vol. Revised Statutes (5th edition), under which he could apply to the equity side of this court.
+It is further perfectly clear’, that said sections 29 and 30 were never intended to apply to the statute remedy of ejectment for rent arrear, inasmuch as those sections contemplate an action in which damages as well as costs may be recovered. Whereas, the ejectment for non-payment of rent (5th ed., Rev. Statutes, vol. 3, p. 829, §§ 1, 2) is limited to the “ recovery of the possession of the demised premises,” and the costs. And where, in this kind of action, a recovery has been had and the plaintiff has even been put in possession (pp. 829, 880, §§ 4, 5), the statute giving the action prescribes its own manner and measure of relief, by allowing the tenant six months within which to pay phe arrears of rent and costs of suit, and thus be restored to his former estate'in the lands. And it then goes on to say that, unless he proceeds in that way, he “ shall be forever barred and foreclosed from all relief or remedy in law or equity.” This, if held to refer to the same class of cases as those referred to by said sections 29 and SO, would be manifestly inconsistent therewith; since these latter give a defendant three years within which to claim a new trial as a right. Comparing the two statutes will show that by no possibility can the one under which this motion is made apply to ejectment for non-payment of rent; as in reason it should not, since the latter is but a substitute for a re-entry, which was and is final.
+Under all the circumstances of this case, after the protracted litigation on this subject, and the elaborate, extended and repeated arguments of such demurrers, there being during all that time no intimation to any court, or at any stage of any cause, that the defendant wished leave to answer, in case the demurrer should be decided against' him; I cannot‘believe that the attorneys make this motion in good faith, or that it is anything but an after-thought, seeking an irregular and improper mode of protracting litigation and opening up questions that have received full and careful investigation, and have been authoritatively decided.
+The motion should be denied with costs.
