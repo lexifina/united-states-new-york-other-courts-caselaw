@@ -1,0 +1,75 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12"
+citations: ["90 N.Y. Sup. Ct. 78"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DyKmaN and CulleN, JJ., concurred."]
+parties: ["Jacob Hauptmann and Another, as Administrators, etc., of John Hauptmann, Deceased, Respondents, v. The First National Bank of the City of Brooklyn, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/90/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1930919
+cites_cases: ["123 N. Y. 272", "130 N. Y. 517"]
+---
+
+# Hauptmann v. First National Bank
+
+## Majority (Brown, P. J.:)
+
+Brown, P. J.:
+The complaint in this action, after setting forth the incorporation of the defendant, the death of John Hauptmann and the appointment of the plaintiffs as the administrators of his estate, alleged that one John Ernst had deposited with the defendant the sum of §15,000 with instructions that the same should be held for the account of the Church of the Annunciation, a domestic corporation, and that defendant had received said sum of money and placed it to the credit of said church.
+That said money was the property-of said John Hauptmann in his lifetime and was a part of his estate, and that the title thereto was vested in the plaintiffs as his administrators.
+It further alleged that plaintiffs had notified defendant of their ownership of said fund, and had demanded payment thereof, which had. been refused, and contained the usual prayer for judgment for the sum named with interest.
+The answer put in issue the death of John Hauptmann and the appointment of the plaintiffs as administrators of his estate, and the ownership of said money by Hauptmann in his lifetime and the plaintiffs’ title thereto.
+As a further defense it alleged the deposit by Ernst and instructions to credit the same to the account of the .Church of the Annunciation, and the payment of checks and drafts to the amount of $8,289.42, drawn by said church upon the defendant before it was notified of the ]ilaintiffs’ claim.
+It appeared upon the trial that, prior to the demand of the plaintiffs upon the defendant, there were other deposits made by said church, and credited generally to its account upon the defendant’s books, and that the fund deposited by Ernst had not been specially appropriated to the payment of the drafts aforesaid, but they had been charged generally to the account of the church, and that, after deducting them from the total credits, there remained a balance to the credit of said church of $12,032.J8.
+The identity of the money held by the bank at the commencement of this action with the original deposit of $15,000 is of no importance in this controversy.
+The action is for money had and received. Its object was to obtain payment of the debt due to the plaintiffs from the defendant. But it is of an equitable character, and when the account is made up of deposits from two or more sources, the title to only one of which is questioned, the law applies the payments made by defendant of checks drawn upon the account to the reduction of that part which is made up of deposits not in dispute, and leaves those deposits which are in question, so far as practicable, unimpaired. (Importers & Traders' Nat. Bank v. Peters, 123 N. Y. 272.)
+The defendant would have been fully justified in making such application of the payments itself, and in so doing would not have violated any rule of law or equity, nor impaired the rights of the church, and if it had chosen so to act the case would have been one in which an order of interpleader would have been proper, and the defendant might have relieved itself from liability by depositing the balance of the account in court, and left the title to the fund to have been determined in an action between the plaintiffs and the Church of the Annunciation. It elected, however, to defend the action against the plaintiffs’ claim, and if it now finds that it is liable to an action by the church for the same fund its embarrassment is the result of the course it pursued.
+Upon the pleadings the only issue was one of fact, and the material question was whether the money deposited by Ernst belonged to John Hauptmann at the time of his death.
+We are of the opinion that the evidence made a case for the jury.
+Father Hauptmann died on June 10, 1891. For twenty-seven years prior to his death he had been the pastor of the Church of the Annunciation. Up to June 4, 1891, he had on deposit in three savings banks in the city of Brooklyn, in six separate accounts, the sum of $18,000.
+One-half of this amount, or three of the accounts, had originally stood in the name of Maria Hausman, who had been a housekeeper for the deceased, and who had inherited some property from her relatives.
+She died in October, 1889, leaving a last will and testament, by which she appointed Father Hauptmann sole executor, and bequeathed to him all her property.
+Father Hauptmann, soon after the admission of the will to probate, had one of the accounts, amounting to-$3,000, transferred to his name, and at the time of his death the other two stood in his name as executor. The other three accounts had always been in Father Hauptmann’s name.
+On June 4, 1891, all the money on deposit in the several banks to the credit of the six accounts was paid to John Ernst upon drafts drawn by Father Hauptmann and payable to bearer. At that date Hauptmann was sick, and on the following day he went to Hurley-ville, in Ulster county, where he died on June tenth.
+Ernst was an assistant to Hauptmann, and his account of the transaction was that Hauptmann said the money all belonged to the church, and directed him to deposit it immediately to the credit of the church in the Manufacturers’ Bank.
+This he neglected to do, and it remained in Father Hauptmann’s house (about $6,000 of it in a drawer in his sleeping room and the balance in a bookcase) until after liis death, when Ernst deposited $15,000 with the defendant. Of the balance, $2,000 was paid to a monastery in Pennsylvania for masses, and $1,000 for a vault for the interment of Hauptmann’s remains, both of these payments having been made by Hauptmann’s direction.
+It would serve no useful purpose to discuss here the evidence in detail. Discussion of testimony in a j udicial opinion is seldom profitable, and we shall attempt only to state our conclusions from a careful reading of the case.
+In reading the evidence two facts are prominent: First. There is absolutely no ground for the claim that the whole fund deposited in the several banks was the property of the church.
+Hauptmann’s direction to pay from it $3,000 for masses and for a vault for his body is conclusive that he claimed ownership of a part of it.
+Second. There is no reasonable doubt but that a very substantial part of the fund belonged to Hauptmann.
+Nine thousand dollars came to him through Maria Hausman’s will. In that instrument the testatrix mentioned specifically “ all my money in the banks.” The will bears date August 12,1874, and at that date the testatrix had on deposit in two of the savings banks about $5,500. After the date of the will the accounts increased by small deposits and credits of interest to the sum of $9,000.
+There is no testimony that even suggests that the church had any interests in these deposits, or that Maria Hausman’s interest therein was other than an unqualified ownership thereof.
+As executor and sole legatee Father Hauptmann had the legal title to the whole beneficial interest in the-several deposits, subject only to the payment of the debts of the testatrix (Blood v. Kane, 130 N. Y. 517), and upon his death the title to the fund passed to his administrators.
+"With reference to- the fund deposited in Hauptmann’s individual name, the evidence that any of it was the property of the church is of a meager character.
+It consists wholly of alleged admissions by Hauptmann that it was church money. But no statement to that effect was ever made by Hauptmann to any person entitled to. inquire for the church, or who represented it in any way, and none of. the alleged admissions were of such a character that they would work an estoppel against him.
+The cashier of one of the banks testified to the deposit of church moneys to the individual credit of Hauptmann and of his.advising him to separate the church funds from his own money, and it appears that he followed this advice as to money belonging tó three church societies.
+The cashier does not, however, identify any deposit as that of church money, and his testimony is of little value in substantiating the claim that any of it was the property of the church.
+An unsigned memorandum in Hauptmann’s handwriting was produced by the defendant’s counsel that tends to identify two deposits in the Dime Savings Bank of the dates of December 29, 1881, and January 10, 1888, amounting to $900, as being church money.
+But no explanation of this paper was offered. "We are not-informed as to its history or where it was found or how defendant became possessed of it. 1
+Of course it was not conclusive. The jury were entitled to consider it, and give it such weight as it deserved. "We attach little importance to it.
+The case is, however, more suggestive in what the defendant omitted to prove than in what it did prove.
+Of course it was not necessary to its defense to show that the fund belonged to the church. It could rest its case on the weakness of the plaintiffs’ evidence. The burden of proof rested upon the plaintiffs to show that the money belonged to Hauptmann at his death. But a prima faoie. case was made when it appeared that one-half of the fund had been deposited in the savings bank by Hauptmann and stood in his name, and that he had acquired title to the other half under Maria Hausman’s will, and that the money was in his possession at the time of his death.
+The presumption of ownership from these facts was not at all weakened by the fact that the fund had been on deposit with defendant in the name of the church for more than a year before this action was commenced.
+That deposit was shown to have been made after Hauptmann’s death by Ernst., who in no respect represented his estate, and who had no authority to dispose of the money.
+The conclusion to be drawn from Ernst’s evidence ivas that the possession of the money after it was drawn from the bank was in Hauptmann and not in Ernst, and all instructions as to depositing it which had been given to Ernst were nullified by Hauptmann’s death.
+The plaintiffs had, therefore, made a case upon which the conclusion was permitted that the money, at the time it was deposited with defendant, belonged to Hauptmann.
+• The only other possible theory under the pleadings and evidence was that it belonged to the church.
+It appeared that there were books of account of church funds, and that they had been delivered to the pastor who succeeded Hauptmann. Ernst had taken possession of all of Hauptmann’s papers.
+"Why were not these books or papers produced ? If the church possessed any money of which Hauptmann had been the custodian there surely must have been some record of it, or there must have been some officer or trustee who had some knowledge of it. But no record of the church was produced, and no witness connected with it was called, and the omission of all evidence from such sources is suggestive of the fact that none existed, and that the claim that the money belonged to the church was a sham. It is impossible to believe that if Hauptmann had several thousand dollars belonging to the church in his possession at the time of his death some other person connected with the corporation would not have known of it. And it is equally incredible that, if such evidence was available to the defendant, as it must have been if the claim of the church was well founded, it would not have been produced upon the trial.
+¥e are of the opinion, therefore, that the verdict has ample support in the testimony.
+There is in the evidence a suggestion of a gift of the fund to the church. I understand any such claim to be now abandoned by the learned counsel for the appellant.
+But the question was submitted to the jury, and they have found against it.
+The court instructed them that, if the money belonged to Father Hauptmann, and was drawn from the savings banks and Ernst, instructed to deposit it in the Manufacturers’ Bank for the church, and if it was deposited pursuant to that direction, tbe plaintiffs could could not recover.
+The defendant has no reason to complain of this instruction.
+I do not think the evidence would support the claim of a gift. There was no delivery to the church or to any one in its behalf. It was not delivered to Ernst for the church, and if not to him, then in legal contemplation it was always in Hauptmann’s possession.
+Ernst testified on this subject as follows: “ When I got back to the house with the money I handed it over to him (ITauptmann), and he said, ‘Well, where will we put it; where will we put it in order that it may be safe ? ’ And he put some in his bookcase and some in a regular drawer where money was left. * * * These places had a lock and key; the key w’as placed somewhere where I knew — I didn’t have the key in my possession.”
+The money remained thus until Hauptmann’s death.
+Upon this evidence there could be no question but that it was under the control of Hauptmann and subject to his direction, and this disposition of the fund negatives any idea of a delivery to the church.
+The judgment appealed from is not binding upon the church, and if it has any valid claim to any part of this fund, it may be hereafter presented to the administrators and determined in the manner provided by law for the adjustment of claims against the estate of deceased persons.
+We have examined the exceq>tions taken upon the trial, and there are none which call for a reversal of the judgment or which require to be noticed.
+The judgment must be affirmed.
+DyKmaN and CulleN, JJ., concurred.
+Judgment and order affirmed, with costs.
