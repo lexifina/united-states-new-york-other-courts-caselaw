@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-06-17"
+citations: ["2 N.Y. St. Rep. 339"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the matter of the judicial settlement of the accounts of John J. P. Read, as administrator of Elizabeth Read, deceased."]
+source_url: "https://static.case.law/ny-st-rep/2/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1976266
+cites_cases: ["10 Hun, 97", "25 N. Y., 138", "89 N. Y., 490", "92 N. Y., 254", "98 N. Y., 347"]
+---
+
+# In rethe Judicial Settlement of the Accounts of Read
+
+## Majority (Barker, J.)
+
+Barker, J.
+The important legal proposition presented by this appeal is, whether the surrogate’s court has jurisdiction to try and determine the question of fact relative to the validity of the release. By the provisions of the Code of Civil Procedure defining the power of the surrogate’s court, power is conferred upon that tribunal, among other things, to direct and control the settlement of the accounts of administrators, and to enforce the payment of debts and legacies, and the powers so conferred are to be exercised in the cases and manner enumerated in sections 2717, 2718, 2719. After the period of eighteen months has elapsed from the granting of letters of administration, he may be called upon to make a judicial settlement of his accounts and proceedings by any person interested in the estate or funds which came to his hands in his representative capacity. The course of procedure in a proceeding of this character is marked out in article 2, title 4, chapter 18 of the Code of Civil Procedure. No question is made but that the court possessed jurisdiction of the subject-matter.
+The objection made by the appellant to granting the order requiring the administrator to make an account, is based upon the admitted fact that the petitioner executed an instrument releasing the administrator from all her interest in the personal estate, and exempting him from the statutory liability to render an account, and that the surrogate’s court is without jurisdiction to declare the instrument void for the reasons set forth by the petitioner. Therefore, so long as that instrument stands, it is conclusive that she has no interest in the estate, and he should not be called upon to account upon her demand.
+The jurisdiction of the surrogate’s court is wholly statutory. The powers which it possessed under the Bevised Statutes are discussed and fully set forth in the opinion of the court in Riggs v. Cragg (89 N. Y., 490), to which reference is made. In this connection, Lambert v. Craft (98 N. Y., 347), Frister v. Shepard (92 N. Y., 254), may be consulted, where the court gave expression as to the extent of the rule existing before the provisions of the Code, that a surrogate’s court had no power to adjudicate on the validity of a debt on the petition of a creditor and legatee where its validity was disputed.
+As to the power of the court to try the question of the validity of the release, consult Harris v. Ely (25 N. Y., 138), where the court, without deciding the question, expresses the opinion that the surrogate had power to determine questions of this character. See also the case of Clock v. Chadeagne (10 Hun, 97), where the court acted upon the supposition that upon an accounting questions of this character might be adjudicated by the surrogate.
+After an accounting is had and the amount of the funds subject to distribution is ascertained, then under the provisions of section 2743, the court can decree to whom the same shall be paid, and upon that hearing, for the purpose of determining that question, the surrogate may determine the validity of the release. The question is of the same character as one which would arise upon the presentation of a simple receipt where the genuineness of the signature of the next of kin should be in question; or where a voucher good in form had in fact been delivered; or if it was claimed by the administrator that one of the next of kin had sold and assigned all his interest in the estate. If questions of this character cannot be tried in surrogate’s courts, when an issue is raised on such questions, then it deprives the surrogate’s court of the power to order an administrator or executor to render an account. The jurisdiction conferred by statute is very broad, and the intention was to confer upon that tribunal the power to order distribution among the next of kin of the decedent. All incidental issues necessary to determine how the account should be made and stated, and to whom it should be paid, may be investigated and tried by'the surrogate.
+It was held in the case of Riggs v. Cragg, supra, that the surrogate’s court might determine the validity of the will when the proper parties were before it. That is, where the right of a legacy depends upon the question of construction, etc., the surrogate’s court has jurisdiction under the broad ground of the power conferred upon it to investigate that question. See the cases cited on page 492;
+There is no pretense that the .administrator here ever rendered an account.
+The defence of the statute of limitation may be disposed of upon the authority and upon the suggestion contained in Clock v. Chadeagne (10 Hun, 97, supra), that the question was not presented by the answer or raised on the hearing before the surrogate.
+The petitioner was allowed to amend her petition by inserting an allegation that she was security on the administrator’s bond, and claimed the right to demand an accounting for that reason as provided in section 2726.
+This memorandum is made after an examination of all the authorities, and I have reached the conclusion that the case should be disposed of by affirming the order, and upon the grounds—
+First. That the surrogate has jurisdiction to order the accounting upon the petition of the petitioner, as she was one of the next of kin.
+Second. That she may demand an accounting for the purpose of ascertaining tire condition of the accounts at the time she executed the release; that it may appear upon the trial of the validity of the release, what the true state of the accounts were, and that the surrogate’s court has the power to determine the validity of the release, that being essential to the making of a decree determining who is entitled to the funds in the hands of the administrator.
+Ten dollars costs and disbursements allowed the defendant, to be paid by the appellant.
+Smith, P. J., Haight and Bradley, JJ., concur.
