@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-02-23"
+citations: ["50 N.Y. St. Rep. 829"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arthur S. Grout, Resp't, v. John B. Cottrell, App'lt."]
+source_url: "https://static.case.law/ny-st-rep/50/cases/0829-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2096434
+cites_cases: ["1 Cush., 288", "116 N.Y., 336", "128 N. Y., 123", "26 St. Rep., 787", "38 St. Rep., 882", "39 St. Rep., 433", "66 N. Y., 525"]
+---
+
+# Grout v. Cottrell
+
+## Majority (Hardin, P. J.)
+
+Hardin, P. J.
+Upon the evidence given upon the trial the court committed no error in refusing to grant a non-suit, and in submitting the questions arising upon the evidence to the jury. Wass v. Stephens, 128 N. Y., 123; 38 St. Rep., 882. In the case just cited, Andrews, J., in delivering the opinion, said “there was at least evidence to go to the jury upon both the question of probable cause and of malice. While it is true that what constitutes probable cause, where an arrest has been made, does not depend upon the question whether an offense has been actually committed, or upon the innocence of the accused, but upon the prosecutor’s belief of his guilt, based upon reasonable grounds, 1 Cush., 288; Fagnan v. Knox, 66 N. Y., 525, nevertheless, applying this test in this case, the jury were justified in their conclusion that the defendant had no reasonable ground for believing that the charge made by him was true.”
+The learned counsel for the appellant calls our attention to Anderson v. How, 116 N.Y., 336; 26 St. Rep., 787. Attention was given to that case'by Andrews, J., in the opinion from which wo have just quoted, and we need make no further comment upon it.
+(2) Appellant urges that it was error to admit the justice’s docket in evidence to prove proceedings, in the criminal case. The justice was dead and his docket was produced by the town clerk, and upon an inspection of the contents thereof nothing is found therein beyond the formal entries of the issuance of the warrant on the 24th of November, 1888 ; the arrest and return of the prisoner; his plea of not guilty; that subpoenas were issued to both parties ; that an adjournment was had to the 26th of November; and that on the 26th of November a venire was issued and a jury summoned and trial had; and the names of the jurors; the names of the witnesses sworn and the verdict returned November 27th, of, not guilty, and that the defendant was discharged. All the material facts shown by the record appear in the testimony before the objection and exception had been taken to the admission of the docket; we are, therefore, of the opinion that the exception presents no prejudicial error.
+(3) When plaintiff was upon the stand he testified that he purchased the mill of the defendant twenty-seven years previous, and that he paid interest on $3,000 for upwards of twenty years. The evidence was objected to and the court observed: “ That may stand, that he paid a portion of it.” An exception was taken.
+When the defendant was upon the stand his counsel proposed to show the value of the property to be $4,500, when he purchased it in 1869. The court observed : “ I don’t think it is important on either side; I don’t think the subject is competent. I will strike that evidence of value and payments out if there is any importance to it.” Thereupon the defendant’s counsel observed: “ What we propose to show is that the property was worth $4,500, and cost this man that.”
+Thereupon, the court observed: “ I don’t think it is competent. I will strike out the plaintiff’s evidence of what he paid for the purpose of saving rights that you have in the matter; the amount they paid.; statements who paid it; ” thereupon the plaintiff’s •counsel observed: “I thought it was competent to show his good faith in the matter that he bought the property and kept it for •quite a long time.’’ The case then states, viz. : “The court to plaintiff’s counsel: Do you insist on his evidence stating the amount he paid? Plaintiff’s counsel: Yes, sir. The Court: Then I think I will let it stand, and let in the other, and give you an exception.”
+Thereupon the defendant’s counsel propounded the following question: “Now you may state what that property was worth? A. $4,500; a little over $4,500. (Asked to strike out the amount he paid.) The Court: I refuse to strike it out on the ground you insisted on the evidence being kept in that the court says is incompetent.” We think, under the circumstances, the defendant could not complain of the rulings made by the court on the subjects embraced therein.
+(4) Appellant’s learned counsel has called our attention to some ■other exceptions taken during the progress of the trial. After a careful examination of the case and the questions made in respect to the exceptions, we are of the opinion that no error is presented warranting an interference with the trial.
+(5) We are urged by the learned counsel for the appellant to rule and hold that the verdict is excessive. It was delivered by a jury after a full consideration of all the circumstances disclosed by the evidence bearing upon the intent, motive and acts of the defendant, and after a charge made in respect to the evidence which presented the law quite as favorable to the defendant as he was entitled to have the same delivered, and the question of damages was one fairly within the discretion of the jury. We are disposed to say as the court said in Kingsland v. The Mayor, etc., of New York, 39 St. Rep., 433, “Under the circumstances of the case, the amount awarded by the jury was not excessive, and on going over the whole record we find nothing whatever which should induce us to reverse the judgment entered below.”
+Judgment and order affirmed, with costs.
+Martin, J., concurs; Merwin, J., dissents.
