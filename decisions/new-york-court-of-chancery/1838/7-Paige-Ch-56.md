@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1838-01-22"
+citations: ["7 Paige Ch. 56"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Austin and others vs. Figueira & Spinola."]
+source_url: "https://static.case.law/paige-ch/7/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2054749
+---
+
+# Austin v. Figueira
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+Neither of the objections to the order of the vice chancellor is well taken. It has been frequently decided by this court that it is the duty of the complainant in a creditor’s bill, where an injunction has been issued, to apply for the appointment of a receiver without any unreasonable delay, so that the property of the defendant may not be lost for want of some one who is authorized to collect the debts and dispose of perishable articles. And it is a-very, common practice to give notice of the application to appoint a receiver at the time of the service of the injunction and subpoena upon the defendant. Although the defendant has a certain number of days after the return day of the subpoena to enter his appearance, before he is liable to be attached or to have the bill taken as confessed against him, there is nothing in the rules or the practice of the court which requires all other proceedings on the part of the- complainant to be stayed in the meantime. The complainants may therefore apply for an injunction or a receiver or for a writ of ne exeat, upon due notice to the defendant, at any time between the time of serving the subpoena and the time limited by the rules of the court for the defendant to appear. After that time, if the defendant has not appeared and the bill has been taken as confessed against him, the application may be made ex parte and without any notice thereof to him.
+The legal meaning of the sheriff’s return on the execution in this case is, that neither the defendants jointly nor the defendant Spinola separately have any property of which he could levy the amount of the debt. The return is as broad as the command in the body of the execution, and is only restrained by the limitation of the endorsement on the execution,in conformity with the statute. There can be no doubt that such a return to the execution would have been sufficient if both defendants had been served with process, so as to make the separate property of each as well as'the joint property of both answerable for the satisfaction of the execution. And in that case the sheriff might have been sued for a false return if it could be shown that either had separate property on which he had neglected to levy and satisfy the execution.
+If the executions upon both of the judgments had been issued , arid returned unsatisfied, so as to have authorized the commencement of joint proceedings in this court against the drawer as well as the endorsers of the note, I am inclined to think neither could have demurred for multifariousness; as both judgments were for the same debt, although some costs may have been included in each judgment for which the defendants in the other were not liable. But it might be necessary, in such a proceeding against them all jointly, to show that the defendant in the judgment against the endorser had assets to the amount of $100 and- more, to excuse the complainants from paying him costs. I am satisfied, however, that this is a case in which the complainants were not bound to file their bill jointly against the drawer and endorsers of a note, any more than they would have been if the judgments had been recovered in two separate and distinct suits throughout. But if they have unnecessarily proceeded against the endorsers separately in this court, when they knew or had good reason to suppose that the maker had ample property to pay the note, which assets might be reached by a joint bill against both, it may be a good reason for not charging the endorsers with costs. There is no pretence, however, in the defendants’ affidavits, that these complainants are proceeding against the endorsers of the note unreasonably, and with a knowledge that they had a perfect remedy against the property of the drawer. In the case of Van Cleef v. Sickles, (5 Paige’s Rep. 505,) there was a joint judgment, for the costs as well as the debt, against the makers and endorsers of the note.
+The order of the vice chancellor must be affirmed, with costs, and the proceedings are to be remitted.
