@@ -1,0 +1,23 @@
+---
+court: "New York Superior Court"
+decided: "1865-04"
+citations: ["3 Rob. 716", "26 N.Y. Super. Ct. 716"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Mulry plaintiff, vs. John H. Collett, defendant."]
+source_url: "https://static.case.law/ny-super-ct/26/cases/0716-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1423690
+---
+
+# Mulry v. Collett
+
+## Majority (Robertson, Ch. J.)
+
+Robertson, Ch. J.
+This is a motion to discharge an order of arrest. The affidavit on which the order was granted states that the plaintiff delivered, at different times, between the 17th and 27th of January, the sum of three thousand dollars, wherewith the defendant promised to purchase certain bonds of the United States, and deliver them in a week or ten days from the time of giving the first of the checks on which such money was obtained. That the defendant has not delivered such bonds, and has only paid SHOO of such sum, and is insolvent.
+■ The defendant, in his affidavit on which he moves to vacate such order, states that prior to the. 17th of January, he had borrowed money of the plaintiff, and furnished him with United States bonds at one per cent less .than the market value, and without charging commissions for purchasing them ; and that the plaintiff dent him the sum in question upon the same terms of furnishing bonds of the United States, within ten or fifteen days, at a half per cent below the market price, and without any commission; and such omission to charge it, and such deduction from the price, was to be the defendant’s compensation for procuring and delivering such bonds. That at that time the plaintiff knew that such bonds could be purchased at the subcription price. This statement is corroborated by the affidavit of S. B. Cushing, Esq. as to admissions to the same effect by the plaintiff.
+The plaintiff’s rebutting affidavit denies that he delivered such money for any other purpose, to the defendant, than to purchase such United States bonds, for which he was to receive forty-five dollars, including his commission, and also denies that he agreed to lend such sum for any time to the defendant. A memorandum is annexed to such affidavit, in the defendant’s handwriting, containing the words and figures “ $5000 10-40 bonds at 101|-, ch. 5075,” which the plaintiff states was delivered to him by the defendant as the price at which U. S. bonds could be subscribed for. Five notes from the defendant to the plaintiff, at different dates, between the 31st of January and the 24th of February, are also appended, none of which refer to the transaction in question, except one of the 4th of February, 1865, which states, if the bonds come in, the defendant will send them to the plaintiff’s house, and one of the 17th of the same month, in which he promises, if he has the bonds, to call at his house that evening. This affidavit is very deficient in stating the dates of such transactions.
+A plaintiff is bound to make out his case beyond a doubt, to sustain an order of arrest. Here the plaintiff’s statement is diametrically opposed to that of the defendant’s, who is corroborated by the testimony of another witness. According to the plaintiff’s statement, he expected the bonds he desired, to be purchased at par, and to be delivered in eight or ten days. He delivered his money in three installments, with an interval of a week between. Why he did not retain the whole of it until the defendant was ready to pay the whole of the bonds, did not appear. The plaintiff does not claim to have delivered the different sums to purchase different amounts of bonds. If the amount mentioned in the defendant’s memorandum was the cost of the bonds, it is clear the plaintiff had not paid enough, and if the commission of $45 was to be added, it was $120 too little. If the bonds were to be purchased, the plaintiff could hardly expect they were to be bought at par; and if so, it would have been time enough to have given the money after the contract was made. Subscribing for the bonds was an entirely different thing, and it is not alleged that the money was given for that purpose. If it had been, the plaintiff! probably would have taken means to ascertain that the subscription had been made. Previous contracts of loan had been made on similar terms, and the money in all cases was allowed to lie for some time in the hands of the defendant, before the bonds were to be delivered, and no reason is assigned by the plaintiff for such forbearance.
+The motion must be granted, with $10 costs.
