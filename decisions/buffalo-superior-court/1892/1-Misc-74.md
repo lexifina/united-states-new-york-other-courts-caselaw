@@ -1,0 +1,25 @@
+---
+court: "Buffalo Superior Court"
+decided: "1892-10"
+citations: ["1 Misc. 74"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Schaffer v. Jones."]
+source_url: "https://static.case.law/misc/1/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 682961
+cites_cases: ["46 N. Y. 259"]
+---
+
+# Schaffer v. Jones
+
+## Majority (White, J.)
+
+White, J.
+The plaintiff in this action recovered a judgment against the defendant in the Municipal Court of Buffalo, on July 18, 1891. On the 24th day of July, 1891, a transcript of the judgment was filed in Erie county clerk’s office, and the judgment docketed therein on that day. On August 1, 1891, the defendant served a notice of appeal from said judgment to this court, and demanded a new trial. On the 15th day of August, 1892, the plaintiff’s attorney, supposing that the defendant had executed and filed the undertaking required by statute to render such an appeal effectual, served a general notice of retainer in the case in this court. No undertaking had been given by the defendant, and immediately upon the discovery of that fact, within an hour after service of the . notice of retainer, and before the defendant had taken any further proceeding in the case, the plaintiff asked to be relieved from the effect of the notice of retainer which he had served, and disclaimed any intention to waive the giving of the undertaking on the part of the defendant. The defendant thereupon took the ground, which he still maintains, that by serving the notice of retainer, the plaintiff had waived the right to require an undertaking, and that jurisdiction having been so conferred upon this court, it must proceed to the trial of the case on its merits.' The plaintiff, to relieve himself from the effect of his notice of retainer, moved, at Special Term, to dismiss the defendant’s appeal on the ground that no undertaking had been given. That motion was denied, and the plaintiff appeals. The notice of motion to dismiss the appeal was in form for general relief in case the court should hold that a dismissal of the appeal was not the appropriate remedy for the difficulty encountered by the plaintiff by reason of his service of the notice of retainer.
+The case is such, it seems to me, that if the court possesses the power to relieve the plaintiff from the effect of his inadvertence and mistake, it should unhesitatingly interpose in his behalf, and I think it has the power. Perhaps it may be said, strictly speaking, that the plaintiff was not and is not entitled to have the appeal to this court dismissed, so long as the service of Ms notice of retainer stands unimpeached. I am of the opinion, however, that it was competent for the Special Term, under and pursuant to the notice of motion given by the plaintiff, to set aside the service of the notice of retainer, and I think that should have been done.
+On a motion to amend irregular proceedings, they may be stricken out under a prayer for general relief. If a party moves for wrong relief the granting relief under the general prayer is ordinarily a matter of discretion. Van Slyke v. Hyatt, 46 N. Y. 259.
+Under section 1317 of the Code of Civil Procedure we “ may modify the * * * order appealed from.”
+My conclusion is that the order appealed from should he so modified as to provide that service of notice of retainer by the defendant be set aside, or that the plaintiff be permitted to withdraw and cancel such notice, and that the defendant he allowed to give the undertaking prescribed by law in such cases to perfect an appeal, without costs to either party.
+Ordered accordingly.
