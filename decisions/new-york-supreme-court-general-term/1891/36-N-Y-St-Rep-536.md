@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-01-16"
+citations: ["36 N.Y. St. Rep. 536", "13 N.Y.S. 41"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Briggs Priestley et al., Resp’ts, v. Samuel Adams et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/36/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050806
+cites_cases: ["69 N. Y. 212", "69 N. Y., 212", "89 N. Y. 292", "89 N. Y., 292", "96 U. S. 245", "96 U. S., 245"]
+---
+
+# Priestley v. Adams
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The plaintiffs are manufacturers at Bradford, in England, of a class of goods marked and sold in the city of New York and elsewhere as Priestley’s Silk Warp Henrietta, These goods had become favorably known and extensively dealt in by dealers in the city of New York, and appear to have been of a desirable quality and style of manufacture.
+Proof by affidavits was made, showing that the defendants had advertised goods for sale as Priestley’s Henriettas at a much lower than their selling prices, and had sold at their store in the city of New York goods represented to be those of Priestley’s manufacture, which in truth were not of that make or description. They were detected in their sales by two persons commissioned to buy the Priestley goods, in May and September, 1890. They were remonstrated with after each sale, but denied that such sales had been made under their authority. But from the affidavits it may be assumed to have been proved that sales were made in this manner, of goods represented to be the Priestley manufacture, but which, in fact, were not so, by a person in their employment. And it is quite improbable that he would have made the sales with this positive assurance if that had not been permitted and sanctioned by the defendants themselves. The business was theirs and the profits in this manner obtained were theirs, and it is not to be supposed that persons employed by them would have made use of this device without their approval.
+But while the plaintiffs identified and accompanied their goods with the name of Priestley’s Silk Warp Henrietta, as the defendant did not add that name and phrase to these sold by them, but went no further than to advertise and represent them as Priestley’s Henrietta, it has been contended in their behalf that this was not sufficient to entitle the plaintiffs to an injunction, restraining that use of this name. And a dicta to that effect has been found in the opinion upon which the case of Enoch Morgan's Sons' Co. v. Troxell, 89 N. Y., 292, was decided. But it certainly is a fraud not only on the purchasers, but also on the manufacturer, to advertise and sell goods as his which are of a different manufacture, and of an inferior, and different quality. And as the deception is one which it must be impractical either to prevent or compensate by an action for damages, a proper case for the interposition of a court of equity will be presented. And so it has already been considered, and in other instances held by the courts. In Wotherspoon v. Currie, L. R., 5 Eng. & Irish Appeals, 508, it was held that a name may become the trade mark of the party, and that others infringing his right to its exclusive use as a distinguishing mark of his manufacture may be restrained from continuing to do that by an injunction. And in Jay v. Ladler, L. R., 40 Ch. Div., 649, it was held that this restraint could be applied to prevent the advertisement of the. goods of one person as those of the manufacture of another. The same principle will sustain the injunction as the courts have invariably applied to prevent the simulated violation of a trade mark. It rests substantially upon the same facts. For there is presented the same injury to the exclusive right of the manufacturer, and the same deception and fraud upon the public in the one case as there is in the other. And that was unqualifiedly acknowledged in the decision of the case of McLean v. Fleming, 96 U. S., 245, 254. And to the same general import is the case of Devlin v. Devlin, 69 N. Y., 212.
+The right of the plaintiffs to the injunction includes the entire foundation of their action. As the case is now presented, a presumptive ground for it has been disclosed. It may turn out differently at the trial, when the evidence shall be obtained unqualifiedly from the witnesses. But that possibility will not justify a disturbance of this order. And injustice in any view will be best prevented by continuing the injunction until the proofs of the parties can be presented in that manner. The order should accordingly be affirmed, with ten dollars costs and the disbursements on the appeal.
+Van Brunt, P. J., and Brady, J., concur.
