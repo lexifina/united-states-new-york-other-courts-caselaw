@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1888-08-13"
+citations: ["17 N.Y. St. Rep. 891"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Honora Sullivan, Pl'ff, v. James T. McCann et al., Def’ts."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0891-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008308
+---
+
+# Sullivan v. McCann
+
+## Majority (Ingraham, J.)
+
+Ingraham, J.
+It is clear that the provision in the will for the plaintiff is inconsistent with her claim for dower. The will gives all the testator’s estate, real and personal, to-his executors in trust for and during the natural life of his-son, James Sullivan. The trustees are to rent the real estate, collect the rents thereof and the income of his personal estate, and are given a power of sale of the real estate; or any portion thereof. The trustees are directed to pay the sum of $1,500 a year in equal monthly installments for the support and maintenance of his wife during her life and also to provide her with suitable apartments for her to live in, using so much of said income, in addition, as may, in the judgment of the executors, be necessary for that purpose.
+It is clear that it would be impossible for the executors to take possession of all the testator’s estate, or to sell it if the plaintiff had a right of dower. Vernon v. Vernon, 5$ N. Y., 362, and cases cited; Konvalinka v. Schlegel, 104 id.,. 125; 5 N. Y., State Rep., 562.
+The devise or bequest to the plaintiff was therefore in lieu of dower and she was put to her election whether to accept, a dower or the provisions made in the will. Section 14 of title 8 of chapter 1 of part 2 of the Revised Statutes provides that when a woman shall be entitled to an election she shall be deemed to take the provision of the will unless within one year after the death of her husband she shall enter on the lands to be assigned to her for her dower or commence: proceedings for the recovery or assignment thereof.
+It is conceded that this action was not commenced until more than a year after the death of the testator, and that no other proceedings were commenced for the recovery or assignment of plaintiff’s dower. During that period plaintiff accepted from the executor the annuity mentioned in the will. She selected, with the approval of the executor, an apartment in one of the houses left by the testator for her residence, and thus defeated her right of dower. Vernon v. Vernon, supra. Nor was the proceeding commenced for the recovery or assignment of dower within the year permitted by statute. The retention of the apartments in one of the houses of the testator was not such an entry on the lands to be assigned to her for her dower as is required by section 14 of the Revised Statutes above mentioned, for it was made to carry into effect the provisions of the will .and not under a claim for dower.
+If the disposition of the income from the property after paying the annuities mentioned, is illegal, that would not defeat the trust so far as it is necessary to carry into effect the valid provisions of the will.
+The provision for the plaintiff appears rather small in consideration of the amount of the property left by the testator, but the court can grant her no relief.
+Defendants are, therefore, entitled to judgment dismissing the complaint, but under the circumstances, without costs
