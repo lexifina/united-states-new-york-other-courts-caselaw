@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court"
+decided: "1886-06"
+citations: ["5 N.Y. Crim. 38"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["People v. McIntosh."]
+source_url: "https://static.case.law/ny-crim/5/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1168295
+cites_cases: ["12 Barb., 21", "12 How., 83", "138 Mass., 490", "138 Mass., 511", "27 N. Y., 329", "29 Fed. Rep., 202", "3 N. Y. Crim., 50", "3 N. Y., Crim. Rep., 572", "30 N. W. Rep., 764", "32 Kans., 201", "4 Hun, 523", "57 Vt., 543", "80 Mo. 216", "97 N. Y., 271"]
+---
+
+# People v. McIntosh
+
+## Majority (Boches, J.)
+
+Boches, J.
+The defendant was convicted upon his plea of guilty of the offence of selling intoxicating liquors without license in the village of Gloversville, in the county of Fulton, before a justice of the peace residing in that village; and was sentenced therefor to imprisonment in the Albany penitentiary for the term of sixty days.
+On appeal to the Fulton sessions the sentence Avas modified to imprisonment for the same term in the county jail; and the conviction and sentence as modified were affirmed. From this judgment of the Fulton sessions an appeal was taken to this court.
+The sentence, as modified hy the Court of Sessions, is not now assailed for error. Such modification seems well authorized hy section 764 of the Code of Criminal Procedure, as amended by chapter 360 of the Laws of 1882. But it is insisted^ that the justice before whom the case was tried had no jurisdiction of the proceeding before him, for the reason, as is alleged, that the affidavits on which the warrant for the arrest of the defendant issued, stated a case on information and belief only—hence, that the arrest, arraignment, trial and sentence were without authority of law, and void.
+We think this ground of objection untenable. It should be noted that the plea of guilty without entering any objection to the preliminary proceedings, removes from the case all grounds of error based on matters of mere irregularity. The only question then to "be considered is one of jurisdiction. Now we have here the complaint on oath by the complainant, Gouse, accompanied by affidavits tending to sustain the charge against the defendant, of selling intoxicating liquors without license, followed by the warrant of arrest in due form (as must be assumed, nothing appearing to the contrary), changing such offence.
+No objection was made to the regularity or sufficiency of the proceeding in any respect, but a plea of guilty to the charge thus made in the warrant and on the affidavits was interposed. It would seem that nothing remained for the justice but to pronounce the sentence authorized by law for the offence admitted on, the record before him.
+But it is urged that there was an insufficiency of proof to sustain the charge on Avhich the warrant issued. The answer is that the plea of guilty was to the charge. No question was raised as to the sufficiency of the proof to sustain the charge. That ground of objection, if it * existed, was waived by the omission, to raise it; and it cannot be disputed but that all the steps necessary to jurisdiction were in fact taken; and it may be added that the facts set forth in the depositions tended to establish the offence charged.
+This was, in any possible view of the case, all that was necessary to sustain the warrant. Code of Criminal Procedure, sections 149-150.
+The charge, it is true, was on information and belief; but the facts and circumstances on which such information and belief were founded, were given, and they were such as tended to sustain the charge. This was sufficient to sustain the preliminary proceeding for the issuance of the warrant as to the matter of jurisdiction. The affidavits accompanying the complaint state that the defendant kept a saloon, and that he there sold intoxicating liquors. These facts were directly and positively stated; and in the complainant’s deposition it was averred that such sales were without license, as he believed. This certainly tended to show a violation of law. It was an unlawful act to sell intoxicating liquor without a license, so to do ; and, indeed, had the defendant been on trial on a plea of not guilty, proof that he in fact sold intoxicating liquors would have made a case against him on a charge that he sold without license. As said in Schwab v. The People, 4 Hun, 523, proof that the seller had no license is not required to make the people’s case. When an act is prohibited with an exception, the exception is matter of defence. Fleming v. People, 27 N. Y., 329; People v. Jefferson, 3 N. Y., Crim. Rep., 572, 577. So it was laid down in People v. Quant, 12 How., 83, that if the sale was privileged the burden was on the seller to show it. To the same effect is the decision in Smith v. Joyce, 12 Barb., 21-26, and in many other more recent cases. It cannot therefore be well' objected that the preliminary proof laid before the justice as the foundation for the warrant of arrest, did not tend to support the charge, if indeed that point of objection could be urged over the defendant’s plea of guilty, without having previously interposed the objection.
+The judgment of the sessions should be affirmed.
+Land on and Parker, J.J., concur.
+Note.—Under an indictment charging that the defendant did sell certain distilled liquors therein described contrary to the laws of the United States, whether defendant had a license is particularly within his own knowledge, and the burden is upon him to produce such license and rely upon it as a defense. United States v. Nelson, (U. S. Dist. Ct., D. Alaska, 1886), 29 Fed. Rep., 202.
+The burden of showing that defendant had a license is on such defendant. State v. Nulty, 57 Vt., 543; State v. Bach (Minn.) 30 N. W. Rep., 764; Jackson v. Camden, (N. J.) 2 Cent. Rep., 258; State v. Hoxsie, 1 New Eng. Rep., 29. The burden of proving that those to whom liquor was sold, were persons to whom under his license defendant prosecuted for selling had a right to sell, is upon him. Commonwealth v. Towle, 138 Mass., 490; Commonwealth v. Barnes, 138 Mass., 511.
+One who would justify sales of intoxicating liquors under a license must show a license signed by one having authority to issue it. Cronin v. Stoddard, 97 N. Y., 271.
+An indictment under a statute making it an offence for a druggist to sell liquor for other than medicinal purposes is bad in not averring that the sale was for other than medicinal purposes; State v. McAdoo, 80 Mo. 216.
+It is held in a Kansas case, contrary to the current of authorities, that in a prosecution for selling liquor without a druggist’s permit, the prosecution must prove that defendant had no permit. State v. Nye, 32 Kans., 201.
+This is contrary to the New York rule, as held in the principal case and in many others. People v. Nyce, 3 N. Y. Crim., 50, where on a trial of defendant for practicing medicine without a license or diploma, it was held that the burden of proof was on the defendant to show that he had such license.
+On the general subject of sales of liquor, see an article on the “ Liquor Laws,” 7 Grim. Law Mag., 137.
