@@ -1,0 +1,25 @@
+---
+court: "New York City Court"
+decided: "1885-06"
+citations: ["2 N.Y. City Ct. Rep. 155"]
+reporter: "ny-city-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES PARKER against JOHN TOTTEN."]
+source_url: "https://static.case.law/ny-city-ct-rep/2/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1104185
+---
+
+# Parker v. Totten
+
+## Majority (McAdam, Ch. J.)
+
+McAdam, Ch. J.
+The plaintiff sues to recover damages for injuries received by him while excavating on the defendant’s land, so near his neighbor’s lot that the wall upon the neighbor’s land fell into the excavation and did the damage complained of. It was claimed that the defendant was guilty of negligence because his foreman ordered the work to be done. But the difficulty is, that, the facts which charge the defendant with negligence inculpate the plaintiff to such an extent that the responsibility cannot be divided. If the defendant’s foreman was guilty of negligence in ordering the work to be done, the men employed were equally negligent in doing it: that is to say, if the work was per se dangerous, they had the same means of knowing the danger that the foreman had. If the foreman could reasonably have foretold the risk, it was because the peril was transparent to the eye and might have been observed by the plaintiff as easily as by the foreman.
+Wharton, in his book on Negligence (section 300), lays it down as an elementary rule that a person who, by his negligence, exposes himself to injury, cannot recover damages for the injury thus received. The common law imposes upon every one in the full possession of his faculties, when approaching a known place of danger, the exercise of that degree of prudence, care and caution incumbent upon a person of ordinary reason and intelligence in like circumstances (2 Thompson on Neg. 1149). It will not do to say that the defendant’s foreman was guilty of negligence for telling the men to excavate in a dangerous place, and in the same breath urge that the men who undertook the work with the same means of information and knowledge possessed by the foreman, were not equally negligent with him. There is no pretense that the defendant or his foreman had any means of knowing of the danger not possessed by the plaintiff. It was the mutual and co-operating negligence of the plaint■iff and defendant’s foreman that did the damage, and no recovery can be had in such a case. The danger was not a secret or hidden one, but consisted of a wall which stood erect over the excavation, which any one in the excavation could see, and which any one in the possession of his faculties could have observed at a glance was in danger of falling into the excavation if not properly supported by timbers or the like ; and, being forewarned of his danger, the plaintiff ought to have avoided it in some way, and not having done so, cannot now complain of the consequences of his indiscretion. The danger in the nature of things increased as the excavation progressed.
+Cooley on Torts (p. 674) lays it down as a rule of contributory negligence that if the plaintiff or party injured, by the exercise of ordinary care under the circumstances, might have avoided the consequences of the defendant’s negligence, but did not, the case is one of mutual fault, and the law will neither cast all the consequences upon the defendant nor will it attempt any apportionment thereof.
+The plaintiff knew that the defendant had made no effort to support the wall, and had not erected posts or taken any means to prevent its falling. This omission of care was visible to the eye and must have been apparent to everyone in the excavation, and the danger which threatened and subsequently followed could have been anticipated by the exercise of ordinary care and prudence.
+As before remarked, the defendant may have been guilty of negligence, but the difficulty is that the facts which prove negligence associate the plaintiff with the accident to the extent of making him liable for contributory negligence, on the theory of mutual'or co-operating neglect.
+The defendant did not guarantee the safety of the plaintiff, nor had he given the plaintiff any assurance that the work was safe, or that there was no danger of the wall falling. In other words, the plaintiff as well as the defendant assumed the chances of whatever danger there might be, neither suspecting that the injury would follow. It is not a case of defective appliances or dangerous machinery furnished by the master, and which he is bound to furnish in a safe condition for the purposes intended, and the rules regulating that class of cases have no application to the one at bar. Under the circumstances, the complaint must be dismissed.
+Where the dangers of am employment are obvious, or are well known to the servant, instruction and warning as to them are not required of the master (Wendling v. Bainbridge, 25 Week. Dig. 481).
