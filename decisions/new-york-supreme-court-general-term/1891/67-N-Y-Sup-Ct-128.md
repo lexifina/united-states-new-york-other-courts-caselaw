@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-05"
+citations: ["67 N.Y. Sup. Ct. 128"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Daniels, J., concurred."]
+parties: ["MAGDALENA BACH, Respondent, v. THE NEW YORK ELEVATED RAILROAD COMPANY and Another, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/67/cases/0128-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2385236
+---
+
+# Bach v. New York Elevated Railroad
+
+## Majority (Van Brunt, P. J.;)
+
+Van Brunt, P. J.;
+This action was brought for an injunction and damages arising from a trespass committed by the erection of the defendant’s railroad in front of premises 360 Ninth avenue.
+Upon the opening of the trial of the case and the proof of the title of the plaintiff, it appeared that the only interest in the premises which the plaintiff had was that of a life tenant, provided she so long remained unmarried. Objection was then taken to proceeding with the case because the proper parties were not before the court, which objection was overruled and excejttion taken; and the court having ascertained the probable length of life of the plaintiff, gave permanent damages upon that theory, not apparently regarding the contingency that the plaintiff might marry and thus terminate the estate.
+We think, in cases of this description, all the parties should be before the court so that there may be a complete determination of the matter at issue, and that the defendants, in the first place, should not be required to run all the risk of the death of the plaintiff prior to the anticipated time ; and, secondly, in a case such as the one at bar, should not be required to take the hazard of the plaintiff’s remarrying, because it is a well-established historical fact that women are never too old to remarry; and, therefore, if any claim is made because of the age of the plaintiff, that such contingency is not to be feared, common experience shows such claim to be ill founded.
+The only way in which there can be a complete determination of the rights of the parties to this action is to bring in those persons who represent the fee, and then to apportion the damages in such way as may be equitable and satisfactory to the parties. Thus the defendants would acquire that which they had paid for without, running the hazards to which attention has already been called.
+We think, therefore, that the learned judge should have compelled the other parties interested in the fee to have been brought in so that the proper award might be made as a condition of refusing an injunction.
+The same question as to the trial by jury, because the action was in the nature of an action for a nuisance, as was raised in the case of Sommer v. New York Elevated, etc., decided herewith, is raised in this case, and the disposition of it there made disposes of that ■exception so far as this case is concerned.
+The judgment should be reversed and a new trial ordered, with ■costs to appellants to abide event.
+Daniels, J., concurred.
+Judgment reversed and new trial ordered, with costs to appellants to abide event.
+Reported post page 148.
