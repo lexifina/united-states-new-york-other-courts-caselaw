@@ -1,0 +1,44 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-10"
+citations: ["88 N.Y. Sup. Ct. 52"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., concurred."]
+parties: ["Walter Hamilton, as Trustee for Florence H. Hamilton and Others, Plaintiff, v. Ferral C. Dininny, Jr., Defendant."]
+source_url: "https://static.case.law/ny-sup-ct/88/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4738791
+---
+
+# Hamilton v. Dininny
+
+## Majority (Parker, J.:)
+
+Parker, J.:
+Certain leading facts are established by the pleadings. Briefly stated they are, that Walter Hamilton, either for himself or as trustee for others, on the 3d day of January, 1890, agreed, in consideration of the sum of $12,000, to sell the defendant 150 $1,000 bonds of the Virginia Tide Water Coal Company, and 3,350 shares of the capital stock of said company.
+Defendant promised to pay $7,000 in cash or its equivalent, and give his promissory note for the remaining $5,000, payable in four months.
+He paid the $7,000 and obtained possession of the bonds and stock, which he still retains. He refused to either give his note for the $5,000 or pay any part of it, and this action was commenced to recover such sum, with interest. Defendant by his answer alleged that Hamilton contracted to do .something more than deliver to him the certificates for the 3,350 shares of stock then in his possession, viz.: That he would deliver to the defendant new certificates therefor to be issued by the company, and that Hamilton failed to perform this part of his contract, which constituted a condition precedent to his right to demand defendant’s note for $5,000. What may be the real merits of the controversy suggested by the pleadings in such respect we are not advised by the record.
+Before that stage of the trial had been reached which would call upon the defendant to present the evidence, the complaint was dismissed on the ground that plaintiff had not proved that Walter Hamilton, as trustee of his children, was the owner of the stock and bonds which were the subject of the contract.
+That the evidence then before the court warranted the decision made is beyond question. If, then, there was no previous error to which the plaintiff excepted, the judgment must stand.
+Before counsel had opened the case on behalf of the plaintiff, counsel for defendant moved to dismiss the complaint, asserting that, according to its allegations, Hamilton personally claimed to have been the owner of the securities and entitled to recover their value, and as he had died since the commencement of the action, it could not be prosecuted further until his executor or administrator should be substituted as plaintiff.
+The objection being overruled, the following dialogue between the court and defendant’s counsel ensued :
+“ Counsel.— Does your honor hold that the complaint is brought by the plaintiff in his capacity as trustee %
+“The Court.— Yes.
+“ Counsel.— That is the manner in which the case is to be tried; on that theory ?
+“The Court.— Yes. If the word ‘as’ had not appeared before the word ‘ trustee,’ your position would then be sound. It would be a mere deseriptio personae.”
+Thus, at the very commencement of the trial, it was determined that the complaint sufficiently alleged the trusteeship of Walter Hamilton. Whether it did or not, the plaintiff is entitled to have the questions presented disposed of as if the averments of the complaint were sufficient in that respect, because but for the ruling an opportunity would have, been afforded to make a motion to amend it.
+Immediately after this determination by the court, the plaintiff, in order to establish his case, called a witness who testified to a conversation, in which the defendant in substance admitted that the stock and bonds had been delivered to him.
+, The amount of interest due was then proved and plaintiff rested.
+Defendant moved to dismiss the complaint upon the ground that the plaintiff had failed to prove the contract alleged in the complaint. Plaintiff insisted that it was admitted by the answer. The court ruled, and, as we think, rightly, that the answer did not admit that the' balance of the purchase price was to be paid upon delivery to the defendant of the stock then in Hamilton’s possession, but, on the contrary, that such allegation was put in issue. An application to reopen the case having been made and granted, the plaintiff introduced in evidence an affidavit made by the defendant, which proved prima facie at least, that the contract was as alleged .in the complaint. Plaintiff again rested, and defendant’s counsel in his motion to dismiss the complaint assigned as a reason that the plaintiff “ has shown no trusteeship as alleged in the complaint.” This position the court held to be well taken, and the plaintiff was compelled to attempt to make proofs of trusteeship. This was error if the allegations of the complaint touching the trusteeship of Hamilton were not put in issue, for it was the right of the plaintiff to rely upon the pleadings as establishing that proposition in his favor, and to omit making preparation to prove the fact.
+"While there is opportunity for debate as to whether the answer did create an issue in that respect, a reasonable construction of it would seem to require a determination that the pleader did not intend to raise such an issue, and that he did not in fact. In its statement of the contract it does not differ in substance with the complaint, except in so far as it alleges that Hamilton’s contract was to deliver new stock certificates, which he had not done. It alleges that on the very day of the making of the contract Hamilton produced the certificates for 3,350 shares of stock, every share of which except four stood in the name of Hamilton as trustee. The next paragraph alleges that Hamilton represented the title to the stock to be good, and that his title as trustee protected him from his creditors, and agreed to deliver new certificates issued by the company.
+Thus it appears from the answer that at the time of the negotiations defendant knew that the legal title was in Hamilton as trustee, and lie undertook to provide against any possible litigation over the shares by requiring Hamilton to obtain from the company new certificates of shares. Nor did the answer anywhere assert that plaintiff was not as trustee entitled to recover such sum, if any, as-should be found due.
+But while we are inclined to the view that plaintiff could have safely rested at that point, and that a dismissal of the complaint had he done so would have been error, plaintiff’s counsel was apparently not of that opinion, for he omitted to take an exception to the ruling of the court, and instead proceeded in an effort to prove the trusteeship. After some further testimony had been taken, the plaintiff again rested, and the motion to dismiss was renewed upon the same ground. In response to the motion, the court announced that “ the plaintiff must prove the possession as trustee of all the stock, and the delivery of all the stock, before he is entitled to recover anything.”
+To this ruling plaintiff took no exception, and by permission of the court again proceeded in the attempt to prove that plaintiff had possession as trustee of the stock, and that'lie made delivery of it.
+The result of the last effort was the introduction of evidence which we have already taken occasion to say required the decision of the court that plaintiff’s trusteeship had not been established.
+Had plaintiff relied upon the pleadings or taken an exception to the ruling of the court, a different situation would be presented.
+But, as he acquiesced in the construction which the court gave to the pleadings, he has not now any legal ground of complaint.
+The plaintiff’s exceptions should be overruled and judgment ordered for defendant, with costs.
+Yan Brunt, P. J., concurred.
+Exceptions overruled and judgment ordered for defendant, with costs.
