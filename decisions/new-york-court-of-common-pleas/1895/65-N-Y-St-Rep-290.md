@@ -1,0 +1,23 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1895-02-04"
+citations: ["65 N.Y. St. Rep. 290", "32 N.Y.S. 161", "11 Misc. Rep. 377"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Weiss, Resp’t, v. Edwin F. Ashman, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/65/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2107216
+cites_cases: ["40 N. Y. Super. Ct. 432", "49 N. Y. Super. Ct. 307", "5 Abb. N. C. 149", "54 How. Pr. 380", "7 Rob. 490"]
+---
+
+# Weiss v. Ashman
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+In October, 1893, the plaintiff instituted supplementary proceedings against the defendant, who was from time to time examined under said order, and the proceedings were adjourned until December 5th of the same year, when they were dismissed by reason of plaintiff’s default. Notwithstanding this dismissal, the defendant, at plaintiff’s request, attended in court on the 19th January, 1894, and signed the examination, but did not verify it, the court being engaged at the time ; whereupon defendant claims the plaintiff abandoned the proceedings. Thereafter plaintiff obtained an order to show cause why the defendant should not verify the testimony given and signed by him, and for other relief. Afterwards, on a presentation of all the facts, this motion was denied, and thereafter, and on the same day, the judge who denied the order granted a new order for the examination of the defendant in supplementary proceedings. The affidavit upon which it was granted stated, with more or less accuracy, the previous proceedings in the matter. When this order was served upon him, the defendant made a motion to vacate it, which was denied, and from the order denying the motion, this appeal is taken. Defendant contends that the dismissal of the first order, and the subsequent refusal of the court to revive the proceedings, were res judicata, and that plaintiff cannot a second time seek to enforce the same remedy on the same state of facts. But the authorities cited by him do not sustain this contention. It cannot be argued that a dismissal of an order of this kind would have any greater force than the dismissal of a complaint in an action not on the merits, and a judgment of dismissal is not final and conclusive, in the sense that a plea of res judicata may be founded on it. 21 Am. & Eng. Enc. Law, 265, and cases cited. The refusal of the judge who heard the motion to revive, added nothing to the force of the dismissal. It was doubtless granted on the theory that, where the plaintiff has made default, the injunction and all proceedings under the order fall and cannot be revived. That he did not regard it as res judicata is clear, because he immediately and on the same day, granted the second order in supplementary proceedings.
+rBut defendant further contends that section 2435 of the Code restricts the plaintiff to a single examination of the judgment debtor. There is nothing in the language of the section itself which supports this contention. All that can be fairly drawn from it is that but one order can be instituted at a time. The fact that 10 years is the limit fixed by the section within which such proceedings can be commenced would seem to preclude the idea of but a single examination during all that time, and so the courts have uniformly held. Book Concern & Co. v. Hudson, 1 How. Pr. (N. S.) 517 ; Shults v. Andrews, 54 How. Pr. 380; Hamilton v. Morange, 2 N. Y. Monthly Law Bul. 58 ; Carter v. Clarke, 7 Rob. 490; Jurgenson v. Hamilton, 5 Abb. N. C. 149; Rallings v. Pitman, 49 Super. 307; Goodall v. Demarest, 2 Hilt 534. But they have also held that where under one order the debtor has-been fully examined, no subsequent examination should be allowed, unless the moving affidavits show that he has subsequently acquired property, or an alias execution has been issued and returned nulla bona, or that .new facts have come to the knowledge of the applicant. Irwin v. Chambers, 40 Super. 432. As it does not appear from the papers in this case that any new property of the debtor has been discovered, but it does appear that his former examination was completed and signed by him, but not verified, we think that the order denying the motion to vacate the second order should be modified by providing that, if the debtor will appear before one of the judges of this court and duly make oath to his examination in the former proeedings, the motion to vacate the order for the second examination should be granted; otherwise denied.
+Ho costs of this appeal to either party.
+All concur.
