@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1877-06-25"
+citations: ["11 Jones & S. 18", "43 N.Y. Super. Ct. 18"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS E. FAIRFAX, Plaintiff and Respondent, v. THE NEW YORK CENTRAL AND HUDSON RIVER RAILROAD COMPANY, Defendant and Appellant."]
+source_url: "https://static.case.law/ny-super-ct/43/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1659184
+cites_cases: ["56 N. Y. 658"]
+---
+
+# Fairfax v. New York Central & Hudson River Railroad
+
+## Majority (By the Court.—Freedman, J.)
+
+By the Court.—Freedman, J.
+—Upon substantially the same facts as those appearing upon the last trial the court of appeals held that plaintiff’s portmanteau was taken in charge by the defendant and transported to New York and there deposited by it in its baggage-room; that the defendant thus incurred the responsibility of a warehouseman, at least; and that upon'the evidence the question of defendants’ negligence was one of fact which should have been submitted to the jury. If there is any material difference, it is in my judgment in favor of plaintiff’s position, for it now appears' for the first time upon defendant’s own showing that, there was an arrangement between defendant’s company and the Grand Trunk Railway, under which the latter was authorized to sell tickets and check baggage over defendant’s road, and that the defendant depended on the agent of the Grand Trunk Railway at Montreal for properly checking the baggage.
+It is true that prior to the last trial the answer was amended by adding an allegation to the effect that the carriage of the portmanteau for the loss of which the action was brought, was obtained without compensation and by fraud and misrepresentation. But the same questions were argued and considered on former occasions, and the evidence wholly fails to show either fraud or misrepresentation. There is no pretense that any communication passed between plaintiff and the defendant or any of its agents at the time the portmanteau passed into the possession of the defendant, and it is conceded that the plaintiff personally committed no fraud, nor did he intend any. It is claimed, however, that under the arrangement existing between defendant and the Grand Trunk Railway the defendant was not to carry baggage, except as an incident to the carriage of the passenger from whom it would receive a ticket, whereon it could collect compensation for such carriage; that by the manner in which plaintiff’s portmanteau was delivered by the agent of the Grand Trunk Railway to the train baggage-man of the defendant, though no communication was made to him beyond the delivery of the baggage, the latter was warranted in the belief that the owner of the baggage accompanied it with a ticket, that but for such belief he would not have received it, and that the inducement of such belief contrary to the real fact constituted fraud upon and misrepresentation to the defendant. The answer to this claim is that such belief was induced by the act of the agent of the Grand Trunk Railway at Montreal, upon whom the defendant relied to affix the proper check. He was in no sense the implied agent of the plaintiff, but the implied agent of the defendant under its arrangement with the Grand Trunk Railway. If he made a mistake by affixing a wrong check, defendant’s remedy is against him or the Grand Trunk Railway.
+Defendant having incurred, by its acts, the responsibility of a warehouseman, at least, the non-delivery of the property was sufficient to raise a presumption of negligence. This the defendant was bound to remove by proof showing that sufficient ordinary care had been bestowed upon the property, and, in order to establish such sufficient ordinary care, the proof should show, affirmatively, that the loss, however it may have occurred, was not caused by any want of proper care and diligence on its part. If the proof comes fully up to this requirement, the question of negligence may be determined as matter of law. But if, in respect to such question, the fair and legitimate inference from the evidence is favorable to plaintiff’s cause of action, or reasonable minds may differ as to the proper inferences to be thus drawn from the evidence, the question is one of fact, and it must be determined as such (Coleman v. Livingston, 36 N. Y. Superior Ct. [4 J. & S.] 37; reargued, Id. 231; and affirmed, 56 N. Y. 658; Burnell v. N. Y. Central R. R. Co., 45 Id. 184).
+The court of appeals having decided in the case at bar, that upon the evidence, the question of defendant’s negligence should be left to the jury, it was submitted to them as a question of fact, in a manner quite favorable to the defense, and the jury determined it against the defendant.
+numerous exceptions were taken to the refusal of the court to dismiss the complaint, to the charge as ■delivered, and the refusal of the court to charge, as requested by defendant’s counsel, but on examination, I failed to discover any which call for a new trial.
+The judgment and order should be affirmed, with costs.
+Speir, J., concurred.
