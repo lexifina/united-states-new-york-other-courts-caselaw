@@ -1,0 +1,47 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1874-03"
+citations: ["8 N.Y. Sup. Ct. 61"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE ex rel. J. WM. McGOWAN, Appellant, v. WILLIAM J. HAVEMEYER and others, Respondents. THE PEOPLE ex rel. JAMES DUNPHY, Appellant, v. THE SAME, Respondents. THE PEOPLE ex rel. A. J. FULLERTON, Appellant, v. THE SAME, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/8/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1906842
+cites_cases: ["49 N. Y., 243"]
+---
+
+# People ex rel. McGowan v. Havemeyer
+
+## Majority (Daniels, J.:)
+
+Daniels, J.:
+As the claims made by the relators all accrued by the 1st day of May, 1873, the latest of them should have been included in the estimate of county expenses for that year.
+By chapters 573 and 583, of the Laws of 1871, the county expenses for the years 1871 and 1872, were required- to be estimated and apportioned within twenty days after the first day of May of the first year, and on the first day of May of the second year. But this date was afterward extended as far as the 20th day of May, 1872. By section 2 of chapter 573, of the Laws of 1871) the estimates of each year, after 1872, were required to be made by the first day of December of the preceding year. By force of these statutes, and the provisions contained in them, requiring the estimates to comprehend the yearly county expenses, for which each should be made, as a portion of those expenses, the relators’ salaries should have been included in the estimates, made before the enactment of chapter 779, of the Laws of 1873, creating the board constituted by the respondents. So much of the salaries as would accrue and become payable in any one year ought, under the provisions of the law relating to that year, to have been included in the estimate made for its expenses.
+That was plainly the duty of the officials required to make those estimates. When the new board was created, on the 14th of June, 1873, all the estimates had been made into which the relators’ salaries should have entered. And the persons required to make them, had neglected to estimate any amount for the payment of those salaries. It was to supply the omission arising out of that neglect, that the present proceedings were instituted.
+For the purpose of sustaining them, it was shown that two of the relators, on the 18th day of July, and the other, on the 11th of August, 1873, made demands, in writing, on the respondents that they should forthwith convene, audit, allow and apportion the amount due to each of them, respectively, for their unpaid salaries.
+These demands must have been designed to require the respondents to allow and include these salaries in the 'estimates already made by the preceding board for the year 1873, for they were not required to make their estimates, for the year 1874, until the 1st of December in the year 1873. For that purpose, they could not be required to convene, as the relators demanded they should. And if the demands were designed and understood to require the respondents to convene, and enter upon the making of their estimates for the year 1874, the fact that the time had not then arrived Avhen they were required by the statute to do that, would constitute a complete answer to the demands served.
+There is no good reason for supposing that to have been the relators’ purpose, or the understanding the respondents had of it.
+If that had been the purpose of the demands, they would simply have required the respondents, to include the unallowed salaries in the estimates which should be made by the board for the year 1874.
+The object which the relators undoubtedly designed to secure, by requiring the respondents forthwith to convene for the purpose mentioned by them, was the incorporation of their claims in the estimates, made by the preceding board for the year 1873. But for that purpose, their demands were made at too late a period. For while the act of 1873 empowered the board, constituted by the respondents, to reconsider, revise and redetermine the estimate previously made for that year, it only allowed that to be done at some time prior to the 1st day of July, 1873. The language of the section is such as to show that the time mentioned in it, was intended to form a limit beyond which the estimate made in the preceding year, should not be interfered with.
+They were allowed to act upon this subject from time to time, and at any time prior to the first day of July, clearly implying that it was not intended that they should take any action in that respect after that time. The nature of the proceedings • was such as to render the time mentioned important, as a limitation upon the exercise of the authority conferred over the preceding estimate. For that was afterward to be certified by the comptroller to the board of supervisors, to be levied and collected in the year 1873, upon the real and personal estate within the city and county of New York. These subsequent proceedings contemplated that the duties of the respondents with that estimate, would be completed by the time mentioned in the section. Any other construction would permit the indefinite extension of the time, within which they might reconsider, revise and redetermine the preceding estimate.
+If they could so far extend the time, as to comply with the demands made by the relators, they could continue to do so in order to comply with other demands, until no part of the year would be left, within which the the estimate could be certified to the supervisors, for the purpose of enabling them to proceed in levying and collecting the taxes.
+In this proceeding, time must have been intended as an essential attribute of the act allowed to be performed. For, in no other view, could the purposes provided for, be certainly accomplished. The statute not only permitted the respondents to reconsider and revise the estimate made for the year, but it required that to be done, if done at all, by the first day of July. That the time prescribed was intended to be a positive limitation of the power to be exercised, is further shown by the act of 1872, already referred to.
+For, by the preceding act of 1871, the board was required to meet and make estimates, for 1872, on the first day of May of that year. An extension of that time was, for some reason, found to be desirable, and the legislature made it for a period of twenty days.
+It would be unreasonable to' suppose that legislation would have been resorted to for the purpose of extending the time, if that which had been previously specified, had not been intended to define the period, within which the estimate was required to be made.
+These acts all relate to the same subject-matter, and a consideration of all their provisions is proper, for the purpose of ascertaining and determining the intent of each particular enactment. The language of the act of 1873, the proceedings afterward to be taken on the estimate within that year, as well as this legislative construction of the previous provision as to the time within which another estimate should be made, combine to support the conclusion that no reconsideration or revision of the estimate could be made by the respondents, after the time prescribed for that purpose had passed. For that reason, the respondents had no power to comply with the demands made upon them by the relators.
+They could not then lawfully convene to audit, allow and apportion the relators’ unpaid salaries, and the motions made by them were properly denied.
+The same disposition was made of á similar application, against the respondents, by both the Special and General Terms of the Court of Common Pleas of the city of blew York, in the case of Patrick McMullen. And no reason appears to exist for doubting the propriety of that decision.
+If the relators have the legal right to have the amounts due to them, which should have been included in preceding estimates, incorporated in the estimate of the respondents, they must be provided for by an estimate hereafter to be made.
+The orders appealed from appear to have been made on the 12th day of December, 1873, when, if the writs applied for had been awarded, the respondents had no power to obey their mandate.
+For, by that time, their power over the estimate of 1873 had expired by lapse of time, and the estimate for 1874 had been completed, if the duty prescribed by the statute had been observed.
+And it may be presumed to have been performed as the law required it should be, since nothing to the contrary appears in these cases.
+The orders were right, and they should be affirmed.
+Davis P. J., and Lawrence, J., concurred.
+Orders affirmed.
+Vol. 1, Laws of 1872, 1050, § 2.
+Laws of 1873, 1186, § 2.
+Vol. 2, Laws of 1871, 1269, § 3.
+Vol. 1, Laws of 1872, p. 1050, § 2.
+Clark v. Norton, 49 N. Y., 243.
