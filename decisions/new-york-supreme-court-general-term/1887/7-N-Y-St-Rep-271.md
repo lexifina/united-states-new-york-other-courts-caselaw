@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-03-03"
+citations: ["7 N.Y. St. Rep. 271"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Annie R. Fox, App’lt, v. Richard K. Fox, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/7/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1987326
+cites_cases: ["80 N. Y., 1"]
+---
+
+# Fox v. Fox
+
+## Majority (Brady, J.)
+
+Brady, J.
+The defendant appeared in this action, but did not interpose any defense. He contested the amount of alimony chiefly upon the ground that before- the commencement of the action he and the plaintiff had entered into articles of separation which provided for the amount the plaintiff should receive for the maintenance of herself and four of the six children of the marriage. It appears that there were two male children and the expense of their education and maintenance was provided for independently of the sum allowed the plaintiff. The learned judge in signing the decree adopted the amount which was agreed upon in the articles of separation and substantially repeated its provisions. It also appears that the motion that a reasonable provision for the support of the plaintiff and the maintenance and education of the children out of the property of the defendant, was made at the Same time the motion to confirm the report of the referee was made, and it appears from the affidavits of the plaintiff that the defendant’s income arising from his business was very large, indeed munificent and justified a much larger allowance than that agreed upon by the articles of separation. Those articles were not conclusive upon the plaintiff inasmuch as the court of appeals in Collins v. Collins (80 N. Y., 1)," declared that on a final decree of divorce the sufficiency of such provisions might be considered, although if they were adequate the wife was entitled to nothing more, but if inadequate the deficiency might be made up. It is true that the defendant was in Europe at the time the application was heard and had no opportunity, therefore, personally to make a statement; but the general manager of his business made an affidavit in which he attempted to make an exposition of the defendant’s business, but which for that purpose must be regarded as extremely unsatisfactory, and, therefore, unsuccessful.
+On the statements made it would seem that by the articles of separation the sum of $2,600 per annum in money was to be paid to the plaintiff. She was also to have the rental of three dwelling houses (one of which she occupies) free from the payment of interest, taxes and insurance. The rental value of the two houses not occupied by her is estimated by the respondent’s counsel at $1,800; but in the .affidavit of the plaintiff it is stated that those two houses rent for forty dollars a month each, which would make the rental $960, and as this is the best evidence on the subject contained in the record it must be assumed to be correct. The money received therefore by the plaintiff for her own support and that of her four children, which includes clothing, fuel, food, gas, and other indispensable expenditures for housekeeping, would be the rental of the houses already stated, and the allowance which united amount to $3,560. . This sum under all the facts and circumstances appearing-in this case seems to us to be too small. The amount should, we think, be increased and the sum of $2,600 contained in the decree, enlarged to the sum of $6,000. But if the defendant be dissatisfied ■ with this, and therefore will not consent to this modification of the decree, an order of reference wifi, be entered for the purpose of ascertaining what would be a proper sum to allow for the purposes indicated, and the sum suggested in this opinion shall not be permitted to restrict the referee in the exercise of his judgment as to the amount to be allowed inasmuch as upon ex animation he might regard that as altogether too small, The suggestions in this opinion of the increase of the allowance only to the sum of $6,000 is based upon some statements contained in the affidavit of the defendant’s manager, from which the inference may be drawn that his income is much less than it was in 1882, arising from the outlay and increased expenses of a new and extensive business which has not yet been firmly established.
+Ordered accordingly with the usual costs and disbursements to the appellant.
+Daniels, J.—The alimony allowed by the judgment is ample for the wants as well as luxuries of the plaintiff and the children who will be dependent upon her. If it should at any time prove insufficient then she will be at liberty to apply for an additional amount, but as no deficiency now appears the judgment should be affirmed, without costs.
+Van Brunt, P. J., concurs, with Brady, J.
