@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1819-08"
+citations: ["17 Johns. 46"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bronson against Woolsey"]
+source_url: "https://static.case.law/johns/17/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064680
+cites_cases: ["1 Wheat. Rep. 387", "10 Johns. Rep. 172", "2 Cranch, 133", "2 Cranch, 179", "3 Cranch, 458"]
+---
+
+# Bronson v. Woolsey
+
+## Majority (Spescer, Ch. J.,)
+
+Spescer, Ch. J.,
+delivered the opinion of the court.
+The only ground on which the defendant can be held responsible, is this; that he gave directions to an inferior officer to take charge of the plaintiff’s schooner, and, in case the enemy should succeed in carrying the fort, to sink her, with the cargo; and that event having occurred, the schooner was sunk. The gravamen is, that she was sunk in too shallow water, so that the enemy raised her, and took her off as a prize; and that, had the plaintiff’s master continued to keep charge of her, she would have been so sunk, as to prevent her being raised, and thus she would have been preserved to the plaintiff.
+Was the defendant authorized, under the circumstances of the ca.se, to order the schooner to be sunk ; and if he was, would he be responsible for the imperfect execution of his orders ?
+The defendant was a captain in the navy of the United, States, and was, at the time of the injury complained of, at or near Oswego, superintending the forwarding and transportation of ordnance and military stores, from Oswego to Saelcctfs Harbor, and had with him, under his command, several officers and sailors. The plaintiff’s schooner was loaded, under the defendant’s directions, with heavy guns, shot, &c. The schooner was navigated by the plaintiff’s master and crew, without any interference from the defendant, and she had performed immediately before, several *trips between Oswego and Sackeifs Harbor, in transporting property of the United States.
+There is proof in this case, that the fort of Oswego, having been taken by the enemy, the vessel was sunk, under the defendant’s orders, by a midshipman; and it appears that she was thus sunk in shoal water, and was afterwards raised and carried off by the enemy; and it is rendered quite probable, as far as the opinion of witnesses can ascertain, that had she been left under the management of the master, she might and would have been so sunk as to have escaped capture.
+It has not, and cannot be pretended, that the defendant was influenced, in giving the orders, by any other motives than those proceeding from a laudable zeal for the public service, and with the sole intention of preventing the ordnance and munitions of war on board the plaintiff’s schooner, from falling into the hands of the enemy. The schooner, being in the transport service of the United States, was subject to the defendant’s orders and control, as much as if she had been navigated by officers and men in the service of the United States, In the case of the Commonwealth of Pennsylvania v. Sparhawk, (1 Dallas’s Rep. 382.) Ch. J. M’Kean very justly observes, “ the transaction, it must be remembered, happened flagrante bello, and many things are lawful in that season which would not be permitted in time of peace.” Again, he says, “ it is a rule, however,'that it is better to suffer a private mischief, than a public inconvenience; and the rights of necessity form a part of our law.” In time of war, bulwarks may be built on private ground, because it is for the public safety. In the present case, the vessel was not ordered to be sunk, to deprive the owner of his property, or to appropriate it to the defendant’s use, but she was ordered to be sunk, from the paramount consideration of the public welfare; it was to secure her from capture by the enemy ; that the vessel, after-wards, fell into their hands, was an event involuntary, and perfectly accidental.
+In this case, the public property, which the defendant was bound to preserve from capture, was placed on board the plaintiffs vessel. Was the defendant to fold *his arms, and suffer this property, so necessary to the United States, to be preserved, or not, at the option of the plaintiffs master? It seems to me the answer must be, that he had a right, in order to secure the ordnance and munitions in the vessel, to command her, either to proceed to a place of safety, or to be sunk : and that he was not bound to rely on the discretion of the plaintiffs master to do this or not. The orders given did not deprive the master of a right to aid and advise, as to the best course to be pursued ; and, although the witnesses seem to suppose that she might and could have been sunk in such a way as to baffle all attempts to raise her by the enemy, it is extending speculation too far, to pronounce that she would have been so sunk.
+The defendant gave his orders under a pressing exigenc>. when there was no time to wait for the directions of the pres-klent; and, according to the law of nations, he represented the sovereign or executive power, by virtue of an authority tacitly given by his commission. (Vattel, b. 3. ch. 2. s. 7.) Had the president of the United States been present, and given the order which the defendant gave, it will hardly be insisted that he would have been a trespasser.
+It would seem, according to Vattel, (b, 3. s. 232.) that this act being done voluntarily, and by precaution, the damages are to be made good to the owner by the sovereign power ; because the party suffering, in such case, should bear only his quota of the loss. Rut we are clearly of opinion that the defendant is not responsible. There must be a new trial; the costs are to abide the event of the suit
+New trial granted.
