@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1843-05"
+citations: ["5 Hill & Den. 56"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hill vs. Gibbs."]
+source_url: "https://static.case.law/hill/5/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2174701
+cites_cases: ["1 Hill, 234", "1 Hill, 476", "1 Johns. Rep. 471", "1 Wend. 380", "11 Mass. Rep. 419", "13 John. 286", "15 John. 479", "2 Mass. Rep. 509", "6 Johns. 108", "7 Mass. Rep. 135", "8 Cow. 304"]
+---
+
+# Hill v. Gibbs
+
+## Majority (By the Court, Bronson J.)
+
+By the Court, Bronson J.
+As the two wives were tenants in common of the land on account of which the money was received, the plaintiff insists that he may sue for his share without joining Bennett. But the general rule in relation to suits by tenants in common, against third persons, is this: When the action is in the realty, they must sue separately; when in the personalty, they must join. The action is not in the realty merely because it has some relation to land. Thus, debt for rent, and covenant for not repairing, upon a joint demise, are personal actions, and tenants in common must join. So too they must join in actions for a trespass or nuisance to the land. The Tlnglish cases say they may, ours, that they must join. (Litt. § 311, 312, 315—317; Kitchin v. Buckley, T. Ray. 80., 1 Lev. 109, S. C. ; Austin v. Hall, 13 John. 286; Decker v. Livingston, 15 John. 479; Sherman v. Ballou, 8 Cow. 304; Chamier v. Plestow, 5 M. & S. 64; 1 Chit. Pl. 13, 75, ed. of ’37, and cases cited.) If the plaintiff sues as a tenant in common he must fail, because this is a personal action in which the co-tenant should have been joined as plaintiff.
+But the tenancy in common has little to do with the case, except by way of making out the plaintiff’s title. Still I think Bennett should have been joined as a co-plaintiff, and that the action in its present form cannot he maintained. The securities were placed in the defendant’s hands as the joint act of the plaintiff and Bennett, and the defendant was to receive the money on their joint account. The defendant's contract was with both— not with each severally—and he ought not to he subjected to more than one action. And besides, the plaintiff did not show what share or proportion of the money belonged to him. It was proved that the plaintiff was not entitled to so much as Bennett; but there was no evidence from which their respective interests in the fund could be ascertained. The plaintiff had already received $1250, and the burden lay upon him of showing that he still had money in the defendant’s hands. It was not enough to show an interest in the fund, without showing the extent of that interest.
+As the proof stood, I think the referees were right in reporting against the plaintiff.
+Motion denied.
+See also Brotherson v. Hodges, (6 Johns. 108;) Bradish v. Schenck, (8 id. 151;) Thompson v. Hoskins, (11 Mass. Rep. 419.) So in other personal actions sounding in damages—e. g. trespass or trover for taking or converting a chattel, (Wheelwright v. Depeyster, 1 Johns. Rep. 471, Putnam v. Wise, 1 Hill, 234.) case for diverting water (Rich v. Penfield, 1 Wend. 380) or for destroying title deeds, (Daniels v. Daniels, 7 Mass. Rep. 135 ;) but, as to replevin, see Hart v. Fitzgerald, (2 Mass. Rep. 509.)
+In respect to the mode of taking advantage of the non-joinder, the following distinction is to be observed between actions ex delicto and actions ex contractu, viz: In the former, if one of several tenants in common sue where the others ought to be joined, the defendant should plead the nonjoinder in abatement; and if he omit to do so, though it maybe proved at the trial for the purpose of preventing the plaintiff from recovering more than his aliquot share or interest, it cannot be urged as a ground for defeating the action. (Wheelwright v. Depeyster, 1 Johns. Rep. 471; Brotherson v. Hodges, 6 id. 108; Bradish v. Schenck, 8 id. 151; Thompson v. Hoskins, 11 Mass. R. 419 ; 1 Phill. Ev. 210 ; Rich v. Penfield, 1 Wend. 380, 385, 6; Bleaden v. Hancock, 4 Carr & Payne, 152; 1 Chitty’s Pl. 74 et seq. Am. ed. of 1833.) Nor can it be taken advantage of by demurrer, motion in arrest, or writ of error, though the defect appear on the face of the declaration. (Addison v. Overend, 6 T. R. 766; Scott v. Godwin, 1 Bos. & Pull. 74, 5; Rich v. Penfield, 1 Wend. 380, 385, 6.) If one of two tenants in common sue in such case, and the defendant neglect to plead in abatement, the other tenant may afterwards sue alone; and, in the latter suit, the defendant cannot plead the non-joinder in abatement. (Sedgworth v. Overend, 7 T. R. 279.)
+In actions ex contractu, however, the non-joinder by the plaintiff of a co-contrac. tor need not be pleaded in abatement, but may be taken advantage of at the trial under the general issue. (1 Phill. Ev. 210 ; Cowen Hill's Notes to Phill. Ev. 515, 516, and the cases there cited.) Or, if the defect appear on the face of the declaration, the defendant may demur; and this, though it be not shown whether the party omitted is still living or otherwise. (Burgess v. Abbott, 1 Hill, 476, 478, per Bronson, J.)
