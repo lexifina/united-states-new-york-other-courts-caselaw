@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1812-10"
+citations: ["9 Johns. 318"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jackson, ex dem. Schermerhorn and others, against Murch."]
+source_url: "https://static.case.law/johns/9/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 372374
+---
+
+# Jackson ex dem. Schermerhorn v. Murch
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The judge expressed an opinion at the circuit, that the defendant was entitled to a verdict. This opinion having been submitted to then, the court is now called upon to review it, and to determine whether the jury would not have been warranted in deciding in conformity to it.
+The only question for our consideration relates to the running of the seventh course in the Cambridge patent. Is it to be run from the most westerly corner of the Walloomschack patent, ascertained by running two courses from the site of Gerrit Cornelius Van Ness’s dwelling-house; or is that course to be run from the termination of the sixth course of that patent, ascertained by running the previous courses and distances, without reference to the Walloomschack corner ? We are of opinion that, as the sixth course in the Cambridge patent calls for the most westerly corner of the Walloomschack patent, that corner being ascertained by running two courses from Van Ness’s dwelling-house, must be the point to which the sixth course in the Cambridge patent is to be run, and that the seventh course,north 1,092 chains to the middle of Battenkill, must be run from the terminating point of the preceding course thus ascertained.
+Van Ness’s house is precisely shown, and although there is no monument to be found at this day, designating the most westerly corner of the Walloomschack, it is fairly inferrible, from the facts in the case, that Campbell’s line, run between forty and fifty years ago, was run from a monument then existing, and well known as such corner. The principle that a course and distance shall be rejected, when a monument is to be run to, applies to the point now under consideration. That principle is founded on the facts, that compasses vary, that surveyors are liable to mistake, and that, in the progress of settlement, as lands are cleared, ob« sructions removed, there would scarcely ever be a correspond-(Slice in the length of chain between a survey at the granting of a patent and a resurvey after a lapse of-years. The monument is preferred for the greater certainty; and, on the same principle, as it requires, in this cause, but two courses to be run from Van Ness's house to ascertain the most westerly corner of the Waloomschack patent, that point, thus ascertained, is more certainly the true westerly corner, than the point attained after running out six courses in the Cambridge patent.
+We have been pressed with the circumstance, that the westerly corner of the Walloomschack patent is thus found in a meadow, and within the bounds of the Hoosick patent. The dates of the Walloomschack and the Hoosick patents are not stated. We know not, therefore, which is the eldest; but admitting Hoosick patent to be the eldest, and that they interfere, that circumstance would not prevent the Cambridge patent’s running to the corner of the Walloomschack, as a point from which to start in the location of -that patent. The plaintiff ought not to be allowed to draw an argument, from the non-existence of a known corner of that patent, when, in all probability, the recollection of it has been lost by the, lapse of time.
+Much stress was placed on the survey of the patent by John R. Bleecker, under the inspection and with the assistance of A. J. Lansing, they being patentees. There is no evidence in the ease that the other patentees ever assented to that line; their number exceeded sixty, and it cannot be contended that the acts of part of the patentees can control the rights of those who did not assent to that act. So far from their having assented, we find Campbell’s line, which ivas coiemporaneous with Bleecker's, and coinciding with the line run by Webster from the most westerly corner of the Walloomschack patent, ascertained in the manner already mentioned,. That Campbell’s line was run as the easterly boundary of the Cambridge patent, and by the patentees of that patent, cannot be doubted: it is impossible to account for the existence of that line in any other way. When, therefore, we consider that Campbell’s is an ancient line, that the plaintiff has not shown a single foot of land to have been possessed to the west of that line, for a considerable number of years, and that even such parts as have been possessed were predatory possessions, we cannot but consider the opinion given at the trial as correct, and we accordingly deny the motion.
+Motion denied.
