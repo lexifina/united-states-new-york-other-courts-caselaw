@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1843"
+citations: ["1 Hill & Den. 55"]
+reporter: "hill-den"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gough vs. Dennis."]
+source_url: "https://static.case.law/hill-den/1/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2182948
+cites_cases: ["16 Wend., 651"]
+---
+
+# Gough v. Dennis
+
+## Majority (Cowes, J.)
+
+By the Court,
+Cowes, J.
+The defendant stated, without qualification, what clearly conveyed the idea that Calder had offered to take the bill at five per cent discount. This was a false account of the conversation, calculated to mislead the plaintiff’s clerk; and it had the effect to mislead him. The representation was false in another respect. It should have been accompanied with the qualification, not only that the bills of the Millington bank had been' explicitly condemned by Calder; but that they had also been condemned, and the bill in question rejected by other brokers. The case presented more than mere naked silence. The defendant alleged positively what, if he had told the whole truth, could not have deceived for a moment. He artfully disguised facts known to himself, and unknown to the plaintiff’s clerk. What more effectual assertion of the bill being marketable at five per cent discount, than to say that Calder, a respectable broker, had agreed to take it at that 1 or to say, in the version given by Marsh, that 0alder had, but a little while before,- given that for a like bill ? This was but another form of asserting that the bill was worth 95 dollars on the hundred. Suppose the defendant had said so directly, knowing that it had been condemned and rejected by four experienced brokers; no one would doubt that such would have been a fraud for which he would have been legally answerable. He can not escape because he has adopted a more artful or indirect mode of conveying the same idea. Such representations are not tested by the rules of certainty-required in special pleading; In any possible construction of what the defendant said, either according to Gough or Marsh, he violated the obligation to speak the truth, which means the whole truth. (Gough v. St. John, 16 Wend., 651, and the cases there cited.) It is not- necessary to say what would be the legal consequence of mere- silence in such a case. Even this would be a clear moral fraud; and I should be lath to suppose that the law would look upon it with indifference. But clearly when a man who desires to put off his goods undertakes to recommend them in any way, knowing of a secret defect which destroys their value in the market, he can not be said in law to make a true representation, unless he discloses the defect; Suppose a man, desirous of selling his horse, to represent that an experienced horse dealer had offered him a sound price, concealing at the same time that the horse itself was unsound, he either knowing or having strong reason, founded on credible information, to believe that the horse was in fact unsound. Should he succeed in his purpose of putting off the horse at the price mentioned, the transaction would form an obvious case for an action of deceit. He speaks with a view to influence the conduct of the purchaser ; and is bound to communicate his knowledge or the information that raises a probability of unsoundness.
+, The question of variance between the declaration and proof does not arise.
+Nor is it necessary to decide whether, where a witness for the plaintiff professes to recollect different forms of expression, the jury are, as a matter of course, bound to adopt the alternative most favorable to the defendant. It strikes me that it should be put to the jury as open for them to find which among the several forms is the true one, making, to be sure, such distinction in favor of the defendant as may be due from the apparent causes of bias against him. A direction to this effect would, in the case at bar, have perhaps come to about the same as the direction in fact given.
+We should be unwilling to grant a new trial upon what would, perhaps, in the respect last mentioned, amount to v.ery little more than a turn of expression, substantially right when applied to the particular case. But the learned judge went farther. After assuming that one of the forms of representation was to be taken, he made a doubt whether the form most favorable to the defendant might not have communicated the truth, adding that the defendant was not bound to bring forward the knowledge he had derived from other brokers, if he was literally correct as far as he went. Under the circumstances we .think that in'neither form of expression could the representation have been true in a legal sense; and that the omission to disclose what other brokers had said, was a fraudulent suppression of the truth for which the defendant is answerable. ‘
+On these grounds a new trial is granted, costs to abide event.
