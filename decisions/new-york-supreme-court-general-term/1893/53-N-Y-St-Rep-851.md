@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1893-07-28"
-citations: ["53 N.Y. St. Rep. 851", "53 N.Y. St. Rep. 852"]
+citations: ["53 N.Y. St. Rep. 851"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["Charles Greite, Resp’t, v. Charles Henricks et al., App’lts."]
 source_url: "https://static.case.law/ny-st-rep/53/cases/0851-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 685900
-cites_cases: ["106 N. Y., 473", "11 N. Y. Supp., 504", "11 St. Rep., 47", "113 N. Y., 476", "23 St. Rep., 263", "47 N. Y., 40"]
+cites_cases: ["106 N. Y., 473", "11 St. Rep., 47"]
 ---
 
 # Greite v. Henricks
