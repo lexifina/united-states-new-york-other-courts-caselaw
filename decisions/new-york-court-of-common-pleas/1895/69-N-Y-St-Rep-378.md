@@ -1,0 +1,20 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1895-08-22"
+citations: ["69 N.Y. St. Rep. 378"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Boston and Providence Dispatch Express Company, Resp’t, v. Metropolitan Street Railway Company, App’lts."]
+source_url: "https://static.case.law/ny-st-rep/69/cases/0378-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2119350
+---
+
+# Boston & Providence Dispatch Express Co. v. Metropolitan Street Railway Co.
+
+## Majority (Giegerich, J.)
+
+Giegerich, J.
+This action was brought to recover the value of a horse which was injured so as to be worthless in a collision with a Broadway cable car. 'The plaintiff’s servant was driving the horse, which was attached to an express wagon at the time, eastward along Bleecker street, and the accident happened just as the horse was upon the easterly or so-called “ up track ” of the Broadway line. The jury brought in a verdict for the plaintiff in the sum of $250, the full amount claimed. Mo explaination was given by the driver of the'plaintiff’s wagon why he failed to see the approaching car, except the remarkable one that “this car was going so fast that it would be impossible to see it.” This, taken in connection with his statement 'that he waited for a down-town ■car to pass before he attempted to cross, and the testimony of the gripman of the upward-bound car which caused the injury, and of the passenger Miller, who was riding on the front platform, that the horse appeared suddenly upon the track before them immediately after the down-town car had passed, convinces us that the driver did not exercise such care in looking for the approach of cars as prudence demands at such a dangerous crossing us this intersection of two busy thoroughfares is conceded to be. From the facts shown it is plain that he hastened immediately behind the downward-bound car, and had driven his horse upon the up track before either he or the gripman of the approaching car had .any opportunity to perceive that a collision was impending. This -contributory negligence should, of course, preclude any recovery ¡by the plaintiff.
+For these reasons the judgment should be reversed, and a new trial ordered, with costs to the appellant to abide the event.
