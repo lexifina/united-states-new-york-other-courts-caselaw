@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1844-12-03"
+citations: ["11 Paige Ch. 321"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Boughton vs. Allen."]
+source_url: "https://static.case.law/paige-ch/11/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11280980
+cites_cases: ["1 Bland, 292", "1 Wash. C. C. 517", "10 Wheat. 152", "11 Wend. 329", "13 Wend. 335", "15 John. Rep. 571", "2 Verm. Rep. 171", "21 Wend. Rep. 316", "4 John. Rep. 359", "4 Munf. 369"]
+---
+
+# Boughton v. Allen
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The bill in this case was not properly framed to obtain the relief sought by the complainant. Simmons, who had a joint and common interest with him, in the claim to have Allen’s judgment set aside, cancelled and annulled, if the allegations in the bill were true, should have been made a complainant also; unless some sufficient excuse was stated, in the bill, for omitting to make him a complainant. But even if such an excuse had been stated in the bill, he should have been made a defendant. If he was an actual party to the suit, it would not be very material, except as a question of form, whetherhe joined in the suit as a complainant, or was made a defendant therein; under the usual allegation in the bill, in such cases, that he would not consent to join in the suit as a complainant. For in neither case could he be a witness to sustain a claim to have the judgment against him and the complainant set aside, annulled and cancelled. A decree against that claim, in a suit in which he was a party, would be a bar to any future suit to be instituted by him, or by Boughton, for similar relief. And the object of requiring all personshaving a joint and common interest with the complainant, in the relief sought, to be made parties, is that the decision, if in favor of the real defendant, shall be final; so that he may not be compelled to litigate the same matter in several suits with parties having a joint and common interest in the claim set up by the bill. But if a bill like the present can be sustained, and one of the parties, having a common interest with the nominal complainant, can be a witness for him to sustain the claim of such witness in the suit, the one who is now the witness, may afterwards file a similar bill, in his own name only, and may use the former complainant to prove the usury, if he is willing to testify to the same. Any device by which such a result could be produced, especially under the provision of the revised statutes which enables the complainant to deprive his adversary of the benefit of an answer on oath responsive to the allegations in the bill, would in many cases be productive of great injustice as well as of perjury; and it caunot be encouraged or sanctioned. I think the bill in this case, therefore, was bad in substance; because Simmons, who had a joint interest with the complainant in the relief sought, was not joined with him, and no excuse is shown for not making him a party, either as complainant or defendant. (See Bailey v. Inglee, 2 Paige’s Rep. 279; Savage v. Todd, 9 Id. 578; Vilas v. Jones, 10 Id. 78.) The defence which was sought to be established in the case of Miller v. McCan, (7 Paige's Rep. 459,) was one, which was personal to the complainant only, and in which the principal debtor had no interest; as he was liable upon the note in any event. That case, therefore, has no analogy to the one which is now under consideration.
+Having arrived at the conclusion that the complainant was not entitled to relief on this bill, and that if Simmons had been a party his testimony could not have been received, to prevent a decision in favor of Allen, which would have been a bar to any future suit instituted by Simmons to set aside this judgment, it is unnecessary to examine the other questions in this case. The decree appealed from must be reversed, and the complainant’s bill must be dismissed with costs; but without prejudice to the complainant’s rights in any future litigation. And neither party is to recover costs against the other upon this appeal.
