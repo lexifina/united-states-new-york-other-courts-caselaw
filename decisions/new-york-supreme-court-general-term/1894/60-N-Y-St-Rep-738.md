@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05-18"
+citations: ["60 N.Y. St. Rep. 738"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert M. G. Walford, Resp’t, v. Frank C. Harris, Individually and as Trustee, etc., et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/60/cases/0738-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1982486
+cites_cases: ["139 N. Y. 608", "52 St. Rep. 560", "54 St. Rep. 929", "68 Hun, 535"]
+---
+
+# Walford v. Harris
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action having been commenced, among other things, to obtain an accounting by the defendant Harris, as the attorney in fact of the plaintiff and the defendant Bailey, in respect to the liquidation of certain claims belonging to a firm of which the defendant Harris, the defendant Bailey, and the plaintiff were members, a judgment was entered declaring that the said Harris, in liquidating the affairs of the firm, acted in a fiduciary capacity, and that an application of a certain sum of money to his own use by said Harris was a conversion of the same, notwithstanding that there had been no settlement of the copartnership accounts; and he was directed to pay over the same to a receiver. Not having done so, this application was made to commit him for contempt, which being granted, from the order thereupon entered this appeal is taken.
+It is clear that prior to the present Code, in a proceeding such as this, no commitment cquld issue to enforce the collection of a money judgment, but the same must bo by execution. It is undoubtedly true that by the Code, § 1241, the old rule has been modified to some extent. By the fourth subdivision of that section, it is provided that a judgment may be enforced against a party refusing or willfully neglecting to pay it, by punishing him for á contempt of court, where the judgment requires the payment of money into court, or to an officer of the court, except where the money is due upon a contract, express or implied, oras damage for nonperformance of a contract. Therefore, unless the liability sought to be enforced by this judgment comes within the exception, the court had the power to make the order appealed from.
+We think, upon an examination of the judgment roll, that it appears that the sole liability which-was to be enforced was that of a partner to his copartner; and such liability arises out of the contractual relations existing between them, and is not of that fiduciary character which was claimed to be established. It is true that by the judgment it was declared to be fiduciary; but, when it appears upon the face of the judgment roll that such is not the fact, the mere calling the relation “fiduciary ” cannot authorize the plaintiff to imprison the defendant. It is sought to liken the case at bar to that of Gildersleeve v. Lester, 68 Hun, 535; 52 St. Rep. 560, affirmed in the court of appeals, 139 N. Y. 608; 54 St. Rep. 929, where a commitment was issued to enforce a judgment compelling a trustee of a corporation to account for the property of the corporation wrongfully appropriated by him, and to pay over the value thereof, in money, to a receiver of the corporation, appointed by the court for that purpose. But that case is not in any respect like the one at bar. The act of the trustee in that case was a grand larceny, and was so held by the court. It did not arise out of any contract, and therefore was not within the exception, and consequently the power to issue the commitment existed. But in the case at bar the defendant has not committed any crime by the retention of this money. He has not embezzled it, lie has not committed grand larceny, and he is only insisting upon his contractual rights. Such being the case, it seems to come within the exception, and the power to issue the commitment did not exist. The order should be reversed, with. $10 costs and disbursements, and the motion of commitment denied, with $10 costs.
+All concur.
