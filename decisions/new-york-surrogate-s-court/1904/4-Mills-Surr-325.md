@@ -1,0 +1,28 @@
+---
+court: "New York Surrogate's Court"
+decided: "1904-05"
+citations: ["4 Mills Surr. 325"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Probate of the Last Will and Testament of Margaret Wendell, Deceased."]
+source_url: "https://static.case.law/mills-surr/4/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1069881
+cites_cases: ["34 N. Y. 190", "43 Misc. Rep. 560"]
+---
+
+# In re the Probate of the Last Will & Testament of Wendell
+
+## Majority (Church, S.)
+
+Church, S.
+The will offered for prohate was made in October, 1901; the testatrix died February, 1904. The will was drawn by a well-known lawyer and witnessed by himself and his brother. It appears that the deceased was a German, and that it was necessary to have the services of an interpreter. The deceased’s brother acted as such interpreter, first telling the lawyer what the deceased wanted, and then repeating to the deceased, while the lawyer read the will, the contents-of the will, and asked the necessary questions attending the execution of the same. This brother has since died, and so the manner of his interpretation cannot be explained, but it appears that the deceased evidently understood enough English to gather the general drift "of the questions as she assented to the same.
+■So I am satisfied that the will was properly executed and published.
+The contestant, however, claims that the deceased was mentally incompetent to make a will. The testimony by the contestant as to the general condition of this woman, by witnesses who are not medical experts, is very slight, and falls far short of establishing the incompetency of this woman. But the contestant has placed on the witness stand her attending physician, Dr. Boils, and he testifies that she had senile dementia. This disease, as defined by him and the other expert, is a complete breaking down of the brain tissues in every respect, the patient never recovers, and the disease is slowly progressive.
+•If Dr. Boils was correct in this diagnosis the deceased at the time was far advanced in the disease and never could have been any better; but it appears by the evidence of a large number of witnesses, outside of the subscribing witnesses, that the deceased was competent, and attended to many affairs, including certain transactions in regard .to her property.
+There is a great distinction between the testimony of a non-expert witness in" a case of this kind and in a case where the party has some particular hallucination or delusion; in the latier case the non-expert evidence amounts to little. Clapp v. Fullerton, 34 N. Y. 190; Matter of Long, 43 Misc. Rep. 560.
+But in a case of such dementia the evidence of those surrounding the testator is of great importance, as if the person is suffering from that disorder they must have many visible symptoms.
+In this case to hold that the testatrix was incompetent would be equivalent to deciding that these witnesses had committed perjury; these witnesses impressed me with their truthfulness and candor, and I believe that the doctor must have made a mistake in his diagnosis.
+Let findings and decree be prepared admitting will to-probate.
+Probate decreed.
