@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-05-23"
+citations: ["32 N.Y. St. Rep. 190"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Patrick McCormack, App’lt, v. Stephen B. French et al., Police Commissioners, Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039705
+cites_cases: ["110 N. Y., 494"]
+---
+
+# People ex rel. McCormack v. French
+
+## Majority (Barrett, J.)
+
+Barrett, J.
+This case comes directly within the principle of The People ex rel. Masterson v. French, 110 N. Y., 494; 18 N. Y. State Rep., 231. The relator’s intoxication was clearly proved by a large number of witnesses. His defense was that his condition resulted from the taking of medicine prescribed by a physician. The prescription was not produced, but the physician certified that “ several days ” before the relator’s trial he had prescribed “for the bearer, Mr. McCormack,” a mixture containing chloroform.” It seems that th.e physician had never seen McCormack, but that the prescription and certificate were given to one McGuire, who was an acquaintance of McCormack’s, and who undertook to procure medical assistance for him. The entire story about the prescription and the proof with regard to the administration of a mixture containing chloroform were too vague and even suspicious to carry conviction, and we think the commissioners were entirely justified in disregarding the attempted explanation on that head. They were also justified in rejecting the relator’s testimony in view of its evident incorrectness with regard to matters of detail as to which the accusing witnesses could have been mistaken. These witnesses all testified that when McCormack was brought to the station house his clothing was dirty and dusty, and that he presented the appearance of a man who had been engaged in a fight. Yet the relator declared that all this was untrue, and that his clothing was then as clean as it was at the time of his trial.
+The preponderance of testimony was decidedly against the relator, and the proceedings should be affirmed.
+Van Brunt, P. J., and Bartlett, J., concur.
