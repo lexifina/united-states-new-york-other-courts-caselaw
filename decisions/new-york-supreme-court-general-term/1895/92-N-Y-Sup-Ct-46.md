@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-02"
+citations: ["92 N.Y. Sup. Ct. 46", "32 N.Y.S. 665", "66 N.Y. St. Rep. 49"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Martin and Merwin, JJ., concurred."]
+parties: ["William D. Halsey, Appellant, v. Ebenezer H. Hart, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/92/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5775830
+cites_cases: ["12 N. Y. Supp. 42", "23 Wkly. Dig. 97", "34 N. Y. St. Repr. 774", "34 St. Rep. 774", "45 N. Y. 549", "70 N. Y. 177", "78 N. Y. 287", "92 N. Y. 491", "94 N. Y. 253"]
+---
+
+# Halsey v. Hart
+
+## Majority (Hardin, P. J. :)
+
+Hardin, P. J. :
+Plaintiff derived possession of the cutter in the year 1885 or 1886 from Mrs. Harmon. When he visited her house the cutter was in her possession. He entered into negotiations with her for the purchase thereof, and consummated it by paying her three dollars and fifty cents. She, by her conversations and declarations, made contemporaneous with the sale to him, asserted her ownership of the cutter. She had had possession of it for a considerable length of time. Undoubtedly the evidence discloses that the cutter was once the property of the defendant’s father. There is no direct and positive evidence that the father of the defendant did not sell or give the cutter to Mrs. Harmon. Her possession of it was prima faeie evidence of the ownership of it. If she owned it at the time she sold it io the plaintiff, of course he acquired an absolute title to it. As bearing upon the theory that she was the owner, and that she, by her sale to the plaintiff, conferred upon the plaintiff an ownership 'in the cutter, are the declarations made by her, and her actual sale thereof to him, to which may be added the fact that the evidence discloses that for some time after the defendant acquired knowledge that the plaintiff had possession of the cutter, the defendant acquiesced in the possession of it by the plaintiff.' At least he delayed for some period of time after lie derived such information his efforts to gain possession of the cutter. It was for the jury to determine, upon all the evidence presented by the plaintiff, as well as the testimony presented by the defendant, whether the plaintiff was the owner of the cutter at the time this action was commenced in February, 1893. It is true the defendant was sworn as a witness and gave testimony quite inconsistent with the theory upon which the plaintiff sought to maintain his ownership and right to possession of the property. The defendant, however, being a party in interest, the jury may have disbelieved his testimony, as, under the rules laid down frequently by courts, it had the right to do. (Elwood v. Western Union Tel. Co., 45 N. Y. 549; Kavanagh v. Wilson, 70 id. 177; Koehler v. Adler, 78 id. 287; Wohlfahrt v. Beclcert, 92 id. 491; Honegger r. Wettstein, 94 id. 253; Bean v. Van Hostrand, 23 Wkly. Dig. 97.) According to the usual rule applied to verdicts taken in Justices’ Courts where there is a conflict in the evidence, the verdict is regarded as controlling unless it is manifestly and clearly against the weight of evidence. We are not prepared to say this is such a case as requires the verdict to be disturbed on that ground.
+(2) It is insisted in behalf -of the plaintiff that he remained in possession of the cutter more than six years next preceding the commencement of the action, and more than six years next preceding the seizure of it by defendant, and, therefore, that the defendant’s right to take from him the possession of the cutter is barred by the Statute of Limitations. (See §§ 380, 382, 397, Code Civ. Proc.) Some of the evidence would seem to indicate, although not very clearly, that the plaintiff had possession of the cutter, to the knowledge of the defendant, more than six years prior to the 4th of February, 1893, when the defendant took the same out of the possession of the plaintiff. Possibly the evidence may have led the ¡jury to And that the plaintiff had had possession of the property for more than six years prior to the taking of the same from his possession by the defendant, and if the facts were thus found, the verdict may have been predicated upon the idea that the defendant’s right was barred by the Statute of Limitations. (Duryea v. Andrews, 34 N. Y. St. Repr. 774.) However, without passing definitely upon this phase of the case, if the position stated in the first branch of this opinion is correct, the judgment of the County Court should be reversed, and the verdict and judgment of the Justice’s Court sustained.
+Martin and Merwin, JJ., concurred.
+Judgment of the County Court reversed, with costs, and the judgment of the Justice’s Court affirmed, with costs.
