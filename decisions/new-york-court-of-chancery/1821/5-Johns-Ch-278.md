@@ -1,7 +1,7 @@
 ---
 court: "New York Court of Chancery"
 decided: "1821-06-13"
-citations: ["5 Johns. Ch. 278", "5 Johns. Ch. 276"]
+citations: ["5 Johns. Ch. 278"]
 reporter: "johns-ch"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Fullerton, an infant, &c. against Jackson and others, executors, &c."
 source_url: "https://static.case.law/johns-ch/5/cases/0278-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1980795
-cites_cases: ["4 Johns. Ch. Rep. 183"]
 ---
 
 # Fullerton v. Jackson
