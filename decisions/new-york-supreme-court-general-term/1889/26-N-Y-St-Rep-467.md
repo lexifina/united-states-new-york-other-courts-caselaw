@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-10-19"
+citations: ["26 N.Y. St. Rep. 467", "7 N.Y.S. 266"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Milo Webster and Wife, App’lts, v. Ann Gray et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/26/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2027232
+---
+
+# Webster v. Gray
+
+## Majority (Dwight, J.)
+
+Dwight, J.
+The action was for the partition of the real estate mentioned in the second clause of the will of Charles Webster, late of Eidgway, in the county of Orleans. That clause, after giving to his four children, Fanny, Ann, Lucius and Milo, the farm in question, and all the personal property except what had, by a previous clause, been given to his wife, proceeds: “The above bequest to my children of the farm and personal property is to be so divided that same equal division shall be made between my children above named by charging each of my children above named with what I have heretofore advanced to them and each of them, and compound interest on such advancements so that with such advancements and compound interest their respective amounts shall be equal. * * * In order to determine the advancements made to my children above set forth, reference shall be made to my book or books in which I have charged over to my children such advancements made them, and the time such advancements were made.”
+The will was made in 1877. The testator died ten years later. Before the execution of his will he had made to his three children, Fanny, Ann and Lucius, advancements, varying in total -amounts from $1,300 to $2,300, all of which were charged in detail as matter of account in the book or books referred to by the testator in his will. Two years after the execution of the will the testator had entered at the foot of each of the three accounts a memorandum of a settlement of such account in full This was done with the undoubted intention of cancelling and discharging the account and demand in favor of his estate against each of such children; and so the accounts stood cancelled and discharged at the time of the death of the testator.
+The facts were so found by the referee, and the conclusion of law that no advancements were chargeable to either of the devisees for the purpose of the division of the real estate in questian, but that they took their several shares therein without-deduction by reason of such advancements. Exceptions, to this, conclusion of law and to the refusal to find otherwise as requested, furnish the ground of the plaintiff’s appeal. His contention is that the entries in the book or books of account, referred to in the will, existing at the time the will was executed,, and capable of certain identification as the matters referred to, were made by such reference a part of the will, because engrafted upon and a material element in the testamentary disposition of the real estate in question, and as such could not be revoked or changed except with the formalities requisite to a testamentary act.
+We think the contention cannot be sustained. The answer to it is that the will speaks only from the death of the testator, and the estate disposed of is that only of which he dies seized and possessed. The effect of the provision of the will was to give to the four children the claims against the three to bo equally divided between them with other property, real and personal. Another disposition of these claims by the testator, in his lifetime, has the effect of an ademption of the legacy so far as-the claims for advancements are concerned. It may be conceded that the entries in the books of account became, by the reference thereto in the will, a part' of the will; but the case is not. different from what would have existed if the claims had been promissory notes of his children, particularly described in the: body of the will. That it would have been competent for the-testator in his lifetime to accept payment of the notes, or to surrender or discharge them notwithstanding the other disposition indicated by his will which had not yet taken effect, will hardly be questioned.
+The argument of counsel for the appellant proceeds upon the-theory that the act of the testator was a revocation of a part of his will. But such is the case only as an ademption of a specific legacy is a revocation of it. Even the devise of the farm itself might have been, in that manner, revoked by a valid conveyance executed and delivered in the lifetime of the testator, and no one will contend that such a conveyance would have required, in its execution, the formalities of a will, to render it valid Indeed it is plain that the acts affecting the disposition of a will which require to be executed with the formalities of a testamentary act are those which are in their nature testamentary acts, i. e., which are to take effect, only on the death of the testator. A man’s disposition of his property in his life time is not in any manner controlled, nor his right to dispose of it limited, by any testamentary disposition of it which he has previously indicated. A will is not a contract, and the devisee takes no vested rights until his devisor is dead
+We regard the conclusions of the referee as correct.
+The judgment should be affirmed.
+Interlocutory judgment affirmed, with costs to be paid out of the fund.
+Barker, P. J., and Macomber, J., concur.
