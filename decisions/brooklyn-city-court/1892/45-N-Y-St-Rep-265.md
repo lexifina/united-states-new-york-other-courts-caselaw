@@ -1,0 +1,22 @@
+---
+court: "Brooklyn City Court"
+decided: "1892-03-28"
+citations: ["45 N.Y. St. Rep. 265", "18 N.Y.S. 442"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Sloane, Resp’t, v. The Lockwood Chemical Co., Limited, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/45/cases/0265-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2081208
+---
+
+# Sloane v. Lockwood Chemical Co.
+
+## Majority (Van Wyck, J.)
+
+Van Wyck, J.
+Plaintiff sues to recover §600 for two steam, generators adjusted to defendant’s boilers, at the request and on the promise of defendant to pay that sum therefor. The answer was a general denial. The verdict was for the plaintiff, and from the judgment entered thereupon and order denying the motion for new trial on the minutes, this appeal is taken. The plaintiff testified to the effect that William Lockwood, president of defendant, expressly agreed to pay him $600 for these two generators, if plaintiff would put them in its factory and adjust them to the boilers in the month of June ; that he did so put them in and adjust them in June, and that several times thereafter he demanded payment, and was put off by the excuse that it would he more convenient to pay later. William Lockwood testified to the effect that they were put in only for the purpose of seeing whether they would work to his satisfaction. William S. Lockwood, his son, and secretary of defendant, testified to the same effect as his father. The counsel for appellant expressly states that there are only two points for our consideration : First, an exception to the refusal of the court, at the end of plaintiff’s case, to dismiss the complaint on the ground that the proof did not conform, to the pleadings. What we have already stated disposes of this point, and it seems to us that the counsel, in making this motion, wisely said he did so, “ presuming that your honor will, of course, deny that motion.” We will not further discuss this, except so far as our views on the second point will apply thereto; for if, at the end of the testimony on both sides, the motion should not have prevailed, then error cannot be predicated upon the ruling. The second point, and the one most earnestly pressed by appellant’s, counsel, is that the motion for new trial, on the ground that the verdict was contrary to or against the weight of evidence, should have been granted. Whether the generators were sold and delivered to the defendant, at its request, and upon its promise to pay for same, or were delivered to defendant at its request for trial only, was fairly and clearly submitted to the jury without objection, and. without request to take the question from the j ury or direct a verdict for the defendant We have carefully read and weighed all the testimony contained in the appeal book, and do not feel called upon to disturb the verdict.
+The plaintiff, on one side, testifies to the sale, and Lockwood,, president, and son, treasurer of defendant, on the other side, testify that there was no sale, there being circumstances in the testimony of each side given by these interested witnesses , which might be properly claimed to have corroborated both contentions. The consideration, on appeal, of the denial of a motion to dismiss the complaint for the want of sufficient proof, or of a new trial on the ground that the verdict is contrary to evidence, requires that all the evidence presented to the trial judge and to the jury sliould be before the appellate court. This being so, we think the omission from the case of three letters from defendant’s president and principal witness to the plaintiff, on the subject of this transaction, which were admitted in evidence, and were considered by the jurors and actually carried into the jury room by them, if not fatal to, must at least militate against the granting of appellant’s, request to this court to reverse, on the ground of insufficiency of evidence, the decision of the trial judge that there was sufficient to carry the question to the jury, and the decision of the jury that-there was sufficient to convince them of the facts constituting plaintiff’s cause of action. These letters may have turned the case in favor of the plaintiff.
+Judgment and order must be affirmed, with costs.
+Osborne, J., concurs.
