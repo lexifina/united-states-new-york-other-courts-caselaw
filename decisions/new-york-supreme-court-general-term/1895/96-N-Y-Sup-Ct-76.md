@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-07"
+citations: ["96 N.Y. Sup. Ct. 76"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman and Pratt, JJ., concurred."]
+parties: ["George H. Passey, Respondent, v. Horace Craighead, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/96/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8592828
+cites_cases: ["23 Hun, 273", "64 N. Y. 236"]
+---
+
+# Passey v. Craighead
+
+## Majority (Brown, P. J.:)
+
+Brown, P. J.:
+The facts in this case are not before the court for review. "While the notice of appeal purports to be from an order denying a motion for a new trial, there is no such order in the case. The record states that a motion for a new trial was made upon the judge’s minutes, and denied, and there is an exception to that ruling. That exception is not, however, available to the appellant on an appeal from the judgment. The facts can only be reviewed upon an appeal from an order denying a motion for a new trial, and to give the court jurisdiction to hear such an appeal, the order denying the motion must be duly entered. (Ehrman v. Rothschild, 23 Hun, 273; Boos v. World Mut. Life Insurance Company, 64 N. Y. 236, 242.)
+None of the exceptions to the rulings of the court are well taken. The action was to recover damages sustained from the bite of a dog. The plaintiff testified to a conversation with the defendant which, if believed, showed the dog to be vicious, and that the defendant was aware of its character. This testimony required the submission of the case to the jury, and the exception to the denial of the motion to dismiss the complaint cannot be sustained.
+The counsel has called our attention to many circumstances tending to weaken the plaintiff’s testimony, but their consideration was all for the jury and affects only the weight of the evidence. As we are confined in our review of the case to the consideration of legal questions, the argument is without weight.
+We have examined the exception to the rulings upon the admission of evidence and to the charge of the court, but none of them require the reversal of the judgment.
+The judgment must be affirmed, with costs.
+Dykman and Pratt, JJ., concurred.
+Judgment affirmed, with costs.
