@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1877-05"
+citations: ["17 N.Y. Sup. Ct. 537"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J., and Boardman, J., concurred."]
+parties: ["ANNA ELIZA GOODYEAR and SAMUEL S. BURNSIDE, Executors, etc., Respondents, v. JOHN C. DE LA VERGNE and NATHANIEL D. HALE, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/17/cases/0537-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4446329
+cites_cases: ["13 Abb., 1", "2 Barb.' Ch., 583", "2 Barb., 494", "2 Duer, 26", "2 Sandf. Ch., 78", "25 N. Y., 170", "6 Barb., 451", "60 N. Y., 630"]
+---
+
+# Goodyear v. De La Vergne
+
+## Majority (Bookes, J.:)
+
+Bookes, J.:
+The learned judge on the trial held that the proof, supplemented by the admissions in the defendants’ answer, established the plaintiffs’ right of action, and directed a verdict for the latter for the amount claimed in the complaint.
+It may be well first to see precisely how the parties stood on the pleadings. The complaint contained two counts: In the first, it was alleged that the plaintiffs caused their butter to be forwarded to the defendants at New York, to be sold on commission; that the defendants received and sold it, realizing therefor $261, but refused to pay the plaintiffs therefor. The second count charged a simple sale and delivery of the butter by the plaintiffs to the defendants, and a refusal to pay.
+The defendants, by their answer, admitted, (1) that they were partners; (2) that they received a quantity of butter from T. Sabin & Son, to be sold on commission, which butter they believed to be the same mentioned in the complaint; (3) that they sold the butter for T. Sabin & Son and paid them the net proceeds of the sale ; (4) and that the money had been demanded of them, and that they had not paid it over save to said T. Sabin & Son; and they denied every allegation in the complaint, said admissions excepted. The answer, when analyzed, amounts to this: A full denial of the complaint, with an admission —or, more properly, an averment — that they (the defendants) received the butter in suit from T. Sabin & Son for sale on commission; sold it for them and paid them the net avails. The plaintiffs were, therefore, put to full proof of their case, save as they should accept the admissions or averments in the answer in their aid. But if they accepted a part of such admissions or averments as proof they must accept them in their entirety. (Albro v. Figuera, 60 N. Y., 630; Rouse v. Whited, 25 id., 170.) The proof was to the effect that the butter was the property of the plaintiffs, and was delivered at the railroad station directed to the defendants in New York, and that it was worth the amount claimed. The proof, standing alone, was insufficient to authorize a recovery. The proof failed to show that the butter was received or sold by the defendants. Now, if we bring in the admission or averments in the answer, that the defendants received and sold it, we must also accept the whole statement connected therewith, which would bring in also the alleged fact that the butter was received from T. Sabin & Son to be sold on commission; that it was sold for them and that they had been paid the avails. Connect these admissions or averments with the oral proof, and consider the case thus made, and it is apparent that the case was one for the jury on the facts. The evidence is that one of the plaintiffs had talked with one of the Sabins in regard to the latter’s receiving the butter ; then directed it to be carried to them, with the statement that they would know what to do with it. It was taken to them; they marked it to the defendants, and directed that it be taken and delivered at the railroad station, to be forwarded to the defendants, and it also appeared that they (Sabins) were commission merchants at Oneonta, the place where the butter was sent them by the plaintiffs. Now, supplement the admissions in then- answer (of part of which the plaintiffs claim the benefit), to wit, that the defendants received the butter from T. Sabin & Son, sold it for them, and paid them the avails, and two serious questions of fact would arise : .(1) "Whether, on the proof and admissions considered together, there was not a sale of the butter by the plaintiffs to Sabin & Son; and (2) whether the plaintiffs did not make T. Sabin & Son their agents to forward the butter for sale to the defendants, in which case payment to them on sale would have been good payment on their part. Either of these questions found in favor of the defendants would bave defeated tbe action. Very manifestly, as I tbink, these questions were for tbe jury, as tbe case stood wben tbe verdict was ordered for tbe plaintiff by tbe court. Accept nothing, as admitted by tbe answer, and tbe oral proof was insufficient to show that tbe defendants received or sold tbe butter. Accept tbe admissions or statements in tbe answer in their entirety, and consider them in connection with tbe oral proof, and tbe two questions of fact above suggested instantly arise.
+Tbe learned judge was in error, as I tbink, in directing a-verdiet for tbe plaintiffs as tbe case stood before him.
+Judgment reversed, new trial ordered, costs to abide tbe event.
+Learned, P. J., and Boardman, J., concurred.
+Judgment and order reversed and new trial granted, costs to abide event.
