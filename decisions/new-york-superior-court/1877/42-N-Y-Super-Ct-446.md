@@ -1,0 +1,27 @@
+---
+court: "New York Superior Court"
+decided: "1877-06-25"
+citations: ["10 Jones & S. 446", "42 N.Y. Super. Ct. 446"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES N. BLACK, Trustee, &c., Plaintiff and Respondent, v. SAMUEL B. WHITE, Defendant and Appellant."]
+source_url: "https://static.case.law/ny-super-ct/42/cases/0446-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1652448
+cites_cases: ["1 N. Y. 377", "14 Johns. 378", "18 Johns. 451"]
+---
+
+# Black v. White
+
+## Majority (By the Court.—Sedgwick, J.)
+
+By the Court.—Sedgwick, J.
+In the hurry of the trial, I think the learned judge, did not scrutinize the language of plaintiff’s request. The jury could take it to mean, that, if outside of the conflict as to what was the express arrangement, they were satisfied that the defendant as assignee took the money and then used it, there was, as matter of law, an implied promise to repay it. I do not think that proof of delivery of money, of receiving it, and using it, is proof of an obligation to return, and is therefore not proof of an implied promise.
+Greenleaf gives (vol. 2, § 112), the law: “In proof of the count of money lent, it is not sufficient merely to show that the plaintiff paid money or a bank-check to the defendant, f Or this, prima facie, is only evidence of the payment by the plaintiff of his own debt, antecedently due to the defendant. He must prove that the transaction was essentially a loan of money.” A very slight circumstance may show that it was a loan or that it was given at the request of the receiver, but there must be that circumstance to overthrow the legal presumption (Bogert v. Morse, 1 N. Y. 377). If there were such circumstances in this case, the attention of the jury was withdrawn from a consideration of it, inasmuch as the charge said that the law implied an' obligation from the receipt and use of money.
+In this case, to make an implied promise from the receipt of the money, it should have appeared that the money was paid upon the request of the defendant, either an express or implied request. If the plaintiff gave the money at his own instance, it was nothing more than a gift. If he gave it at the instance of others, that would not create an obligation against defendant. So far as a request could be implied from the subsequent express promise, the jury might not have found that there was one, as the charge told them, that the receiving of money and profiting by it created an obligation, aside from the conflict as to the express promise. And indeed, the circumstance generally, outside of the arrangement in which the alleged express promise was made, do not conclusively show an actual or implied request. There was no express request, and there were no facts from which the law will imply one (Lampleigh v. Brenthwart, 1 Smith L. C. 222). The case Doty v. Wilson, 14 Johns. 378, cited in Lampleigh v. Brenthwart, says, “the benefit to the defendant connected with his express promise to pay, must be deemed equivalent to a previous request.”
+I am of opinion that on the case as presented by the plaintiff, he could not recover except upon the express promise, as to which there was a conflict; but if he could, the defendant had a right to ask that the jury should pass upon what was the express arrangement, if he gave proof as to one, expressum facit cessare taciturn. A man may recover on a general assumpsit, provided he could recover if there had been no special agreement, although one in fact was made. As in this case, although there was an express promise, as alleged by plaintiff, the latter could have recovered without satisfying the jury of the promise, provided he showed a request on the part of the defendant that the money should be advanced.
+If there was a special agreement, and he could not recover on that, he cannot recover on a general assumpsit (Robertson v. Lynch, 18 Johns. 451; Tuttle v. Mayo, 7 Id. 132). Here the defendant gave evidence as to the circumstances under which the money was actually advanced by the plaintiff. If the defendant were correct in his recollection, this would have showed that the money was advanced upon the personal promise of the members of the insolvent firms to repay it ; therefore the defendant must have succeeded, although perhaps, as matter of fact, the defendant received the money as assignee, and profited by it as assignee or creditor. Perhaps other construction of the arrangement might have been made. But outside of this, the evidence would bear the inference that the money was voluntarily paid, upon no request or promise of defendant, but that the plaintiff was to look only to the result after payment of debts. The jury could have made an inference from the defendant’s testimony, which would have shown that there was no implied promise, but an express arrangement under which he could not be liable. Therefore, I think it was error to charge that they might disregard defendant’s testimony, provided outside of it there was an implied promise to repay the money.
+I am of opinion, that from the character of the plaintiff’s agency, as shown in his testimony, he could maintain this action.
+For the reasons assigned, however, the judgment and order appealed from should be reversed with costs to appellant t,o abide event, and a new trial had.
+Speir and Freedman, JJ., concurred.
