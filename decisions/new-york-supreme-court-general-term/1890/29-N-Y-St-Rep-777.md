@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02-15"
+citations: ["29 N.Y. St. Rep. 777"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People, Resp’ts, v. Daniel Upton, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0777-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664465
+cites_cases: ["19 Wend., 419", "49 Barb., 87", "9 Wend., 62"]
+---
+
+# People v. Upton
+
+## Majority (Hardin', P. J.)
+
+Hardin', P. J.
+We think the warrant was sufficient in form and that there was no error in overruling the objections taken to the sufficiency thereof. Section 151 of the Code of Crim. Pro. It stated an offence in respect to which the magistrate has authority to issue a warrant and as to which he has jurisdiction. Section 152 of the Code of Crjm. Prg. It was not necessary to set up in the warrant the circumstances of the offense. Atchinson v. Spencer, 9 Wend., 62; Kilmer v. Wilson, 49 Barb., 87.
+Section 56 of the Code of Criminal Procedure confers jurisdiction upon courts of special sessions to hear and determine charges of misdemeanors, and among other crimes enumerated as prescribed in subdivision 18 of the section, viz.: “ Malicious trespass on lands, trees or timber, or injuring any fruit or ornamental or shade trees.” (The amendment to this subdivision in ,1889 cannot relate to the question in this case.)
+By § 640 of the Penal Code, it is provided that “ a person who willfully * * * (subdivision 9) intrudes * * * within the limits of any lot or piece of land within any incorporated city or village, without the consent of the owner, or within the boundary of any street or avenue within such city or village," is punishable by imprisonment not exceeding six months, or a fine not exceeding $250, or both.
+By § 646 of the Penal Code, it is provided, viz. : “A person who maliciously injures or destroys any standing crops, grain, cultivated fruits or vegetables, the property of another, in any case for which punishment is not otherwise prescribed by this Code, or by some other statute, is guilty of a misdemeanor.”
+In the People v. Smith, 5 Cowen, 258, it was held, viz.: “Acts, injurious to private persons which tend to excite violent resentment, and thus produce a disturbance of the peace, are indictable."
+In Loomis v. Edgerton, 19 Wend., 419, it was held, viz.: “ Malicious mischief done to any kind of property, is a misdemeanor, and the party doing the injury may be prosecuted criminally.” The two cases which we have last cited were approved and followed in the People v. Moody, 5 Parker’s Criminal Reports, 568.
+2 Bishop on Criminal Law, says, §264, volume 1, page 302, viz. : “ Where several persons unite for the accomplishment of one object, all are responsible for what is done in concert. Therefore many may be criminal together, for a thing performed by the physical volition of one.”
+We think the evidence given upon the trial was entirely sufficient to connect the defendant with the acts constituting the offense complained of. It was competent to give the incidents, details and circumstances of the acts with a view of establishing the intent in the perpetration of the principal acts constituting the offense.
+8. In the course of the examination of Jeremy Smith in chief, he stated, that when the young men came upon the premises, he was by them “rotten egged,” and that he was on that occasion upon his own premises. Thereupon an objection was made in respect to the evidence, and the defendant “ asked it to be stricken out,” thereupon the court remarked, viz.: “I will strike it out,” and when the further question was made in respect to that circumstance, it was objected to and the objection was sustained. We think the ruling eliminated that circumstance from the case.
+4. In the course of the charge delivered by the justice to the jury, he remarked, viz.: “A malicious trespass, gentlemen, is the entering upon another man’s property, or property that he is in possession of, with a wilful malicious intent to do injury ; so that the charge we are here to try against this defendant is, that he has entered upon the lands of the complainant, Mr. Smith, and has committed an injury to his property, and has done it with the intent to injure him.” At the close of the charge the defendant’s counsel took an exception in the following language, viz: “I desire to except to that part of your honor’s charge where you define trespass that it was entering upon the land of another with malicious intent.” The language of the exception is not specific and accurate in its enumeration of the language used in the charge. Considering the language of the charge in connection with the language specified in the exception, in connection with all the language found in the body of the charge, we think the defendant’s rights were not prejudiced by the charge, and that the exception taken was not sufficiently definite and specific.
+In reviewing the judgment of the court of special sessions, it is the duty of the court of sessions of the county to “give judgment Without regard to technical errors or defects which have not prejudiced the substantial rights of the defendant.” Code Criminal Procedure, §§ 764, 542.
+Judgment of the court of sessions of Tompkins county affirmed, and the clerk directed to enter judgment and remit a certified copy thereof with the return and decision of this court to the court of sessions of Tompkins county, pursuant to §§ 547 and 548 of the Code of Criminal Procedure.
+Mastín and Mebwin, JJ, concur.
