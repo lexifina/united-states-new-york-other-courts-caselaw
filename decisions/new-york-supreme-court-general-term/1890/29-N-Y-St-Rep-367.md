@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-01-24"
+citations: ["29 N.Y. St. Rep. 367"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Henry Woltman, Resp’t, v. Theodore W. Myers, Comptroller, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0367-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664272
+---
+
+# People ex rel. Woltman v. Myers
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The writ of certiorari has been issued to review the proceedings by which the relator has been removed from the office of clerk of the markets. This removal has been objected to as unlawfully made. By the return to the writ, the statement has been made that the comptroller caused a communication to-be conveyed to the relator calling his attention to charges previously mentioned which had been made against him, and which were stated to be so serious as to require explanation. And it is.1 a copy of this communication that the order has directed to be-added to the return. The relator was liable to removal from his. office only after he was informed of the cause of his proposed removal, and allowed an opportunity for making his explanation. Laws 1882, chap. 410, § 48. This communication will be of importance upon the hearing to be had in the proceeding, for upon it will depend the fact of a compliance with this section of the law.
+The order should, therefore, be affirmed, with ten dollars’ costs and also disbursements to the relator.
+Yam Brunt, P. J., and Brady, J., concur.
