@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1847-05"
+citations: ["4 Denio 453"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Rich and another vs. Hogeboom."]
+source_url: "https://static.case.law/denio/4/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 485377
+---
+
+# Rich v. Hogeboom
+
+## Majority (By the Court, Beardsley, J.)
+
+By the Court, Beardsley, J.
+The only question of any moment in this case is, whether the judgment declared on was void, as having been rendered in an action of which the justice who assumed to render it had no jurisdiction. If, as is alleged, the judgment was rendered in an action for an assault and battery, it is clear the justice acted without authority, and the judgment was utterly void. Upon this point we have nothing to guide us but what appears in the transcript given in evi dence, for no other proof was furnished by either party. The transcript shows that the action was, in form, trespass, and that the declaration contained, what the parties and the justice regarded, as two counts—(1.) “ For the tearing plaintiff’s coat and other clothes.” (2.) “ The plaintiff also avers that the defendants assaulted and beat the plaintiff and tore his clothes.” A plea to the jurisdiction of the court was interposed, which being overruled, the general issue was pleaded. The cause was then adjourned, and was subsequently tried, both parties being present. On the day of the trial, but at what stage of the case does not appear, the plaintiff withdrew the second count, although this was objected to by the defendants. Judgment was rendered for the plaintiff in said cause.
+It is not improbable that the trial of the cause last referred to, showed the matter in controversy to have been an assault and battery, accompanied by an ordinary concomitant, a tearing of clothes on the person. If such was the case tried by the justice, he had no jurisdiction of the injury in the mass, or of any of its parts. The injury, in such a case, would be an assault and battery, aggravated by tearing the clothes, but the justice could no more take cognizance of the damage to the apparel than of that to the person: neither would be within his jurisdiction, whatever form might be given to the declaration. But we have nothing before us to show that this was really such a case, although the form of the declaration and the withdrawal of the second count may induce the suspicion. We however cannot act on such ground merely. The defendants might have shown by evidence, what the case for which judgment had been rendered, really was, and they cannot now complain if the cause is disposed of upon what appears in the transcript, without indulging in any strained presumption in their favor.
+Looking then at the transcript alone, it will be seen that the first count was an ordinary charge for trespass to personal property, and contains no intimation that the person had been injured, or that the property was endamaged while on the person. This count was plainly within the jurisdiction of a justice. But the second count was for an assault and battery, and was as plainly without his jurisdiction. The plea to the jurisdiction was to both counts, and went to the entire action. I think it was for that reason bad. It cannot be said to follow that the justice has not jurisdiction of an action of trespass, because one count charges an assault and battery, while the other merely charges an ordinary trespass to personal property. Had the plea gone to the second count only, it would have been good in law; but being to both counts, it was, in my opinion, properly overruled. So far the justice had jurisdiction of the action; but had the judgment been rendered on both the counts, it must have been held to be void, the cause of action alleged in one count being without the jurisdiction of the j ustice. The second count, however, was withdrawn, and, as far as appears, the judgment was rendered for an injury to personal property and nothing more. If such was not the case, it should have been shown by evidence. We must take it to have been as disclosed by such evidence as was given, and according to that there was no defect of jurisdiction, and the judgment on which the action was brought was valid. The nonsuit was erroneous, but that the common pleas corrected.
+Judgment affirmed.
