@@ -1,0 +1,32 @@
+---
+court: "New York Surrogate's Court"
+decided: "1900-12"
+citations: ["2 Mills Surr. 79", "33 Misc. 322"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement of the Account of Martin Eichman et al., as Executors, etc., of Samuel Lewis, Deceased. Matter of the Petition of Martin Eichman et al., as Executors, etc., of Samuel Lewis, Deceased, for Leave to Sell the Real Estate of said Samuel Lewis, Deceased, for the Payment of his Debts."]
+source_url: "https://static.case.law/mills-surr/2/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8822671
+cites_cases: ["47 App. Div. 229"]
+---
+
+# In re the Judicial Settlement of the Account of Eichman
+
+## Majority (Abbott, S.—)
+
+Abbott, S.—
+On November 5, 1898, the claimant Mary Augusta Lewis filed a claim against tbe executors of Samuel Lewis for tbe sum of $4,786, with interest.
+On November 16, 1898, tbe executors served upon Mary Augusta Lewis, personally, and upon Messrs. Goodrich, Whitney & Hagen, her attorneys, the following written notice:
+“ Please take notice, that we, the executors of the last will and testament of Samuel Lewis, deceased, doubt the justice of the claim of Mary Augusta Lewis, and of the whole thereof, against the estate of said Samuel Lewis, and we do hereby offer to enter into an agreement in writing with the claimants to refer the matter in controversy to one or more disinterested persons to be approved by the surrogate, pursuant to section 2718 of the Code of Oivil Procedure.”
+Thereafter Mary Augusta Lewis and the executors signed a consent, dated May 25, 1899, that the matter in controversy be referred to Thomas E. Magner, Esq., as sole referee, to hear and determine the same. This agreement was approved by the surrogate on July 20, 1899, and an order was entered thereon in the Supreme Court appointing Mr. Magner the referee.
+No proceedings were ever taken under this order of reference.
+It is contended in behalf of the claimant that the claim has not been disputed and rejected in the manner contemplated by section 1822 of the Code of Civil Procedure and, therefore, stands admitted by the executors. I am of the opinion that there is no force in this contention. Matter of Edmonds, 47 App. Div. 229.
+On the other hand, it is contended in behalf of the executors that the short Statute of Limitations prescribed by section 1822 of the Code of Civil Procedure has run, and that the claim is now outlawed and cannot be enforced against the executors. This contention presents a more difficult question. If it be true that the written notice above quoted constitutes a dispute and rejection of the claim, the claim is undoubtedly, barred by the six months’ statute.
+It is provided by section 2718 of the Code of Civil Procedure that, “ If the executor or administrator doubts the justice of any such claim, he may enter into an agreement in writing with the claimant to refer the matter in controversy to one or more disinterested persons, to be approved by the surrogate,” and on filing such agreement, approved by the surrogate, an order may be entered by the clerk of the Supreme Court. The controversy thus referred to thereupon becomes an action in the Supreme Court, and costs upon the determination of the matter referred are governed by sections 1835 and 1836 of the Code of Civil Procedure.
+Prior to the amendment of section 1822 in the year 1895, there may have been some force in the contention that sections 2718 and 1822 were to be read and construed together. Section 1822 then provided “ unless the claim is referred as prescribed by law, the claimant must commence an action for the recovery thereof . . . within six months after the dispute or rejection.” Under the amendment of 1895 this provision of section 1822 is entirely omitted and no mention is made of the reference provided for in section 2718. Section 1822 in its present form is to be read and construed in connection with section 2743 and not 2718. It now provides that when an executor disputes or rejects a claim, “ Unless a written consent shall be filed by the respective parties with the surrogate, that said claim may be heard and determined by him upon the judicial settlement of the account of said executor or administrator as provided by section twenty-seven hundred and forty-three, the claimant must commence an action for the recovery thereof against the executor or administrator, within six months after the dispute or rejection.”
+Sections 2718 and 1822 now treat of entirely separate and independent subjects. Section 2718 provides for the case of a doubt in the executor’s mind as to the validity of a claim, not sufficiently well established to justify its absolute rejection, and enables him, under such circumstances, to notify the claimant that be doubts the justice of his claim, for the purpose of efféct-. ing an agreement to refer the same. Eor this purpose, there is no limit of time and the agreement may be made at any time between the parties. If an executor desires to set in operation the short Statute of Limitations, his attitude towards the disputed claim must not be susceptible of any doubt in the mind of the claimant, and his dispute or rejection of the claim must be in the most absolute and unqualified terms.
+A mere statement by the executor, no matter how formally made, that he doubts the justice of a claim and invites a reference of it, is not the dispute or rejection which is contemplated by section 1822 of the Code of Civil Procedure.
+I am, therefore, of the opinion that the claim in question has never been so disputed or rejected as to set in motion the short Statute of Limitations.
+Decreed accordingly.
