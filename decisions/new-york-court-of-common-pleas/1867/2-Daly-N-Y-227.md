@@ -1,0 +1,26 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1867-06"
+citations: ["2 Daly (N.Y.) 227"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Kelly v. The Emigrant Industrial Savings Bank."]
+source_url: "https://static.case.law/daly-ny/2/cases/0227-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1300064
+cites_cases: ["21 N. Y. 543", "5 Duer, 71"]
+---
+
+# Kelly v. Emigrant Industrial Savings Bank
+
+## Majority (Cardozo, J.)
+
+Cardozo, J.
+The by-laws by which the defendants claim , to protect themselves for payments made, under any circumstances, to the person who has possession of the deposit book, if they bear that construction, are, I think, void, as not being within the power granted by their charter.
+Section 6th of the defendant’s charter (Session Laws of 1850, chap. 290, p. 633) provides, among other things, “ that the deposits shall be repaid to each depositor when required, and at such times, and with such interest, and under such regulations as the board of managers shall from time to time prescribe.” That section contains the only power under which the defendants claim to make the fourth and twelfth by-laws ; by the former of which “ possession of the pass-book ” is declared to “ be sufficient authority to the bank to warrant any payment made and entered in it,” and by the latter of which “ all payments to persons producing the pass-books issued by the bank ” are to “ be valid payments to discharge the bank.”
+The 6th section of the charter fully authorizes the bank to pass by-laws prescribing, within reason, such guarantees of the identity of the depositor, as may be necessary for its protection, before it can be required to return the deposit ( Warhus v. Bowery Savings Bank, 21 N. Y. 543). But it cannot go beyond that (see same case, 5 Duer, 71). It is authorized to prescribe regulations under which the money shall be returned to the depositor; and it may require proof of his identity— production of the pass-book, or an account of it, if it cannot be produced—and any other evidence which may be reasonable to satisfy the bank that the claimant is the person entitled to the deposit. But a by-law which declares that, although the claimant be not the right party, yet, if he has possession of the passbook, even though feloniously obtained, a payment to him shall protect the bank, is not a regulation for the return to the depositor of his money, but is a provision by which, in effect, he is to forfeit his money in a certain event, as to the happening of which he may have been wholly innocent. It is an attempt, without authority, to change the rule of law, which would otherwise exist, and to strip the business of the defendants of that risk which from its nature is inherent, and to shift it upon the depositor. This the defendants cannot do. They may exact satisfactory evidence that they are paying the right person, but if, after all, they should be deceived, they must bear the consequences of the error, if the depositor has not contributed to it.
+If there were nothing else in this case, I should think this judgment right. But it appears that the plaintiff knew of the loss, and probably suspected that the pass-book had been stolen, as early as the 5th of July. He was then in Philadelphia, and a letter or a telegram would have readily reached the defendants before the 6th of July, when they made the payment, and would have enabled them to avoid the loss, and to guard against the thief and forger. But instead of promptly advising the defendants of the theft of the book, as it was his duty, and as good faith toward them required he should do, the plaintiff rested quietly until the 10th of July, before giving any notice, to them of the loss he had sustained. This negligence upon his part enabled the thief to practise a fraud upon the defendants, and to procure from them the money of the plaintiff, and he should not be permitted to recover when his own negligence, so-gross as almost to amount to bad faith, has contributed to the misfortune. For this reason I think the judgment below erroneous, and that it should be reversed.
+Brady, J. I think the agreement on the part of the plaintiff with the defendants was, that payments to persons producing the pass-books should be valid payments to discharge them (12th section “ By-laws of the Business of the Bank ”). If it was not an agreement it was a regulation of which, being printed in the pass-book, he must be charged with notice, and subjected to the duty of giving notice to them promptly of the loss of the book. It does not appear in this case that the payment was made upon the draft alone, or that the draft was regarded as of any importance. If we give to regulation just- referred to, the weight which it seems entitled to, then the draft was really of little importance, inasmuch as the person who presented it had the pass-book, and that was the voucher upon which the bank was justified in acting. The result of these views is, that the plaintiff loses his money by negligence. He should have advised the bank at once of his loss, as suggested, by Judge. Cardozo.
+Daly, F. J., concurred.
+Judgment reversed..
