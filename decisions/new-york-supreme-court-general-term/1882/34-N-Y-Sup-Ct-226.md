@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1882-05"
+citations: ["34 N.Y. Sup. Ct. 226"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Landon, J., dissenting."]
+parties: ["The People of the State of New York ex rel. Pauline Friedlander and others, v. Albert F. Mitchell and others, Trustees, etc."]
+source_url: "https://static.case.law/ny-sup-ct/34/cases/0226-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4468678
+---
+
+# People ex rel. Friedlander v. Mitchell
+
+## Majority (Boardman, J.;)
+
+Assessment vacated, with fifty dollars costs and disbursements. Opinion by
+Boardman, J.;
+Landon, J., dissenting.
