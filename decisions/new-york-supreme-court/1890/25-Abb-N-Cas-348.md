@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1890-10"
+citations: ["25 Abb. N. Cas. 348"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HARDING v. FISKE."]
+source_url: "https://static.case.law/abbn-cas/25/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1966197
+cites_cases: ["119 N. Y 101"]
+---
+
+# Harding v. Fiske
+
+## Majority (Lawrence, J.)
+
+Lawrence, J.
+Under the case of Varnum v. Hart (119 N. Y 101), I think that the preliminary injunction should be continued until the cause can be tried. Although that case holds that the provisions of the Revised Statutes* prohibiting an insolvent corporation or any of its officers from, assigning or disposing of its property for the payment of a debt, and prohibiting any assignment or transfer in contemplation of insolvency, do not impose upon the officers of an insolvent corporation the duty to take measures to procure a disposition of its property without preference among all its creditors; it also holds that its purpose of preventing an unjust discrimination was sought to be accomplished, not by securing affirmative action, but by restraining the action of the corporation or its officers.
+It appears • by the papers of the defendant, Fiske, that there are other creditors who are pressing the corporation, and, as he is an officer of the corporation, he should not be allowed to secure a preference for his own claim against those creditors.
+$10 costs to the plaintiff to abide the event. Settle order on notice.
