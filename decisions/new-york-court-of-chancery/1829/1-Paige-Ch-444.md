@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1829-03-03"
+citations: ["1 Paige Ch. 444"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*In the Matter of the Petition of Sylvanus Miller v. the Receiver of the Franklin Bank."]
+source_url: "https://static.case.law/paige-ch/1/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2178482
+---
+
+# Miller v. Receiver of the Franklin Bank
+
+## Majority
+
+'-The Chancellor :—The legal and equitable rights of the petitioner remain as they did at the time the injunction was served on the officers of the bank. ISTo payments which he has made as public administrator out of his own moneys since that time can give him the right of set-off; and if such right then existed, it was not divested by the appointment of the receiver. The question then arises, whether the bills of the bank in his hands, and the moneys deposited to his credit as public administrator, at the time the bank stopped payment, could have been off set either at law or in equity, against the demand due the bank, if it had continued to do business.
+It is undoubtedly a general rule that demands to be off set at law, must be due to or from the same persons, and in the same right. But they are considered due in the same right where the plaintiff may sue, and the defendant may be sued, in their own names, without setting out or specifying any representative character, and where the party to the suit has a lien upon, or a legal right to the application or distribution of the fund when collected. Thus, a surviving partner is, in equity, only a trustee for himself and the representatives of the deceased partner. Yet he may sue or be sued in his own name, and debts due to or from him in own right may be off set against debts due to or from him as surviving partner. (Slipper v. Stidstone, 5 Durnf. & East, 493; French v. Andrade, 6 id. 582.) And in Shipman v. Thompson, (Willes’ Rep. 103,) it was held, that an executrix might recover in her own name for moneys received to her use as executrix.
+But this is a much stronger case. The petitioner does not administer by virtue of his office as public administrator, but by virtue of a regular letter granted to him as administrator of the estate in each particular case. He cannot sue or be sued as public administrator; but suits in his representative capacity are brought by or against him as the administrator of the particular estate to which such suit relates. If a suit was brought for this deposit in his name ot public administrator, the addition would only be descriptive of the person, *but would not alter the rights of either party to the suit. There was no law directing or authorizing the public administrator to deposit moneys in the bank. As between him and the bank, he stands in the same situation that an attorney or solicitor would, who had deposited in the bank for safe keeping the moneys collected for different clients, in one general account, in his name as attorney or solicitor, to be drawn out on his own checks when called for. In neither case could the bank object to pay the money to the depositor, or to allow it to be off set against a demand in favor of the bank, unless they had notice from the persons having an equitable claim thereon not to pay it. Neither would the right of off-set depend upon the question whether the depositor was personally liable, in case of loss by the failure of the .bank. It is the duty of the petitioner, whether he is personally liable for the loss or not, to do every thing in Ms power to protect the rights of those who may be interested in different portians of the moneys deposited; and if he had a legal right of off-set against the debt due from him to the institution, he must stand in the same situation here as he did before the appointment of the receiver. The equities of all creditors of the institution being equal, the legal right must prevail.
+I shall therefore direct the receiver to allow the petitioner to set off against the debt due from him to the bank the balance standing to his credit on the books of the institution at the time it stopped payment, either in his own name or as public administrator; and also the bills of the bank held by him at that time, provided the receiver is satisfied the petitioner is still the owner of the certificate given for those bills.
+A. law has since been enacted on this subject. See 2 R. S. (4th ed.) 309, see. 36.
