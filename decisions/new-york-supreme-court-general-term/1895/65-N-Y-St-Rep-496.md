@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-02-11"
+citations: ["65 N.Y. St. Rep. 496"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary E. Bates, as Administratrix, etc., App’lt, v. New York Central and Hudson River Railroad Company, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/65/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2107514
+---
+
+# Bates v. New York Central & Hudson River Railroad
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is an appeal from a judgment entered upon a nonsuit at the circuit. The action was for the recovery of damages resulting from the death, of the plaintiff’s intestate, which was caused by a train of cars upon the railroad of the defendant. The course of the railroad at the place of the accident is substantially north and south, and the highway which crosses it there runs nearly east and west.. The deceased was drawing ice in a lumber box wagon drawn by two horses. He was coming with a load of ice from the west, walking on the north side of bis wagon, near the forward end, holding the horses’ lines in his left hand, and resting his right hand on the side of the wagon, and holding his whip in his right hand also. As he approached the track, he looked both ways, and continued to drive on. When he was upon the track, which is single at that place, an engine with a pay car came from the south, struck the deceased, and inflicted injuries upon him, from which he died in a few days. The complaint of the plaintiff was dismissed at the trial of the close of the testimony on her behalf, upon the ground that the evidence failed to show freedom from contributory negligence on the part of the deceased. The facts seem to justify such dismissal. The deceased was walking, and thus had entire control of his own movements. He could stop and recede instantaneously at his volition. One of the witnesses for the plaintiff testified that she saw him first when his horses’ front feet were just stepping upon the track. Of course, he was then about 10 feet from the track. The witness went out of her house, and waved a towel at the deceased, and said “Keep backbut she could not attract his attention. She heard the train, and another witness heard it also. It is impossible, in view of that testimony and the other facts and circumstances, to escape the conclusion that the deceased went heedlessly upon the track, and brought the calamity upon himself. He could see a considerable distance down the track, and could have heard the noise of the approaching train. That he did not do so is proof of negligence. The judgment should be affirmed, with costs.
+All concur.
