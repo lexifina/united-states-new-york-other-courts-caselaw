@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1888-12-17"
+citations: ["20 N.Y. St. Rep. 12"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Farrell, Pl’ff, v. The Mayor, Etc., Def’ts."]
+source_url: "https://static.case.law/ny-st-rep/20/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2014860
+cites_cases: ["12 Daly, 462", "18 Abb. N. C., 123", "27 N. Y., 188", "59 How., 277", "59 How., 333"]
+---
+
+# Farrell v. Mayor
+
+## Majority (Lawrence, J.)
+
+Lawrence, J.
+This action is brought to obtain an injunction perpetually enjoining and restraining the defendants, the mayor, aldermen and commonalty of the city of New York, the commissioner of public works and the superintendent of incumbrances, from removing, tearing down or in any manner whatever interfering with the plaintiff’s awning, erected in front of his premises, Nos. 73 and 75 Bowery, in the city of New York. An injunction was obtained in the first instance, and a motion is now made to vacate the same.
+I have read the numerous affidavits on the part of the plaintiff, tending to show that the awning in question is not a nuisance, and does not interfere with the public use of the street, but I fail to find any justification in law for its existence.
+It is claimed that the awning was originally erected or constructed in accordance with a permit given by the commissioner of public works,' some time in the year 1873, but no authority is shown in the commissioner to grant any permit for such a purpose. Subdivision 10, section 21, of the charter of 1870, vested in the common council the power to regulate the use of the streets and sidewalks for signs, sign-posts, awnings, awning-posts and horse troughs. This provision is continued in subdivision 8, section 86, of the consolidation act. The plaintiff does not claim that any ordinance or resolution of the common council was ever passed authorizing him to erect the awning in question, nor delegating to the commissioner of public works the right to grant a permit therefor. And even if such a delegation had been shown, no power was vested in the common council to make it. Anderson v. The Equitable Gas-Light Co., 12 Daly, 462, and cases cited.
+Furthermore, it may well be doubted whether the common council would have the power, by ordinance or resolution, directly passed for that purpose, to permit the erection of such an awning as is referred to in the affidavits in this case. See People v. Kerr, 27 N. Y., 188; Davis v. The Mayor, etc., 14 id., 506; Kellinger v. The Forty-second St. R. R., 50 id., 206.
+In Trenor v. Jackson (15 Abb. N. S., 115) the superior court held that the corporation of the city has no power to sanction the erection for private purposes of awnings upon the sidewalks, which obstruct the public use of the way; that any person who sustained a private injuiy from the erection or continuance of a public nuisance may maintain an action therefor, and that a structure which, though not hurtful to health or noxious to the senses, interferes with the comfortable enjoyment of life or property, is a nuisance within this rule.
+It will be observed that at the time of that decision, the provision of the charter of 1870, above referred to, was in force.
+In People ex rel. Bentley, etc. v. The Mayor, etc., of New York (18 Abb. N. C., 123), a mandamus was granted on the application of a relator, occupying adjoining premises, compelling the respondent to remove show cases placed upon the side-walk in front of business premises, extending beyond the house line, and to that extent covering the sidewalk appropriated to the public use.
+Mr. Justice Barrett, in his opinion in that case, refers approvingly to the cases of The People ex rel. Le Boutillier v. The Mayor, etc.; Gerrity v. The Mayor, etc., and Hearn v. The Mayor, etc., all of which sustain the same principle. Those cases are reported in the Daily Register of April 23, August 27 and March 12, 1884.
+See, also, Ely v. Campbell (59 How., 333), in which Justice Van Vorst wrote an elaborate opinion, denying the right of the common - council to give a valid permission to any one to occupy the streets or side-walks with continuing erections, or other obstructions, without express power conferred by statute. To the same effect is the case of The People ex rel. O’Reilly v. The Mayor, etc., and the then Commissioner of Public Works and Superintendent of Incumbrances (59 How., 277), in which Mr. Justice Daniels holds that the common council, of the city have no powér or right to authorize the placing or continuing of any obstruction upon any street or sidewalk, except the temporary occupation thereof during the erection or repair of a building on the lot opposite the same.
+In view of these decisions and numerous others not necessary to refer to, it appears quite clear that the plaintiff’s awning is a nuisance and an unauthorized obstruction of the street which the commissioner of public works and superintendent of incumbrances were in duty bound to remove, and that therefore no right exists in the plaintiff to restrain them from the performance of their duty. The point which is made by the counsel for the plaintiff, that as the plaintiff’s premises are not situated in that part of the city which was laid out under the act of 1813, and that therefore the cases cited by the defendant are not applicable to this case, I do not deem of force, for the reason that under the doctrine laid down by the court of appeals in Story v. The New York Elevated Railroad (90 N. Y., p. 122), and Lahr v. The Metropolitan Elevated Railroad (104 N. Y., p. 268; 4 N. Y. State Rep., 340), the plaintiff’s awning is a nuisance which the corporate authorities are not authorized to permit. The motion to dissolve the injunction is, therefore, granted.
