@@ -1,0 +1,43 @@
+---
+court: "New York Supreme Court"
+decided: "1862-04"
+citations: ["23 How. Pr. 69"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William A. Ketteltas, receiver, &c., appellant agt. Lewis O. Wilson and others, respondents."]
+source_url: "https://static.case.law/how-pr/23/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2214913
+---
+
+# Ketteltas v. Wilson
+
+## Majority (Leonard, Justice.)
+
+By the court,
+Leonard, Justice.
+The plaintiff seeks to have an assignment for the benefit of creditors declared fraudulent and void, first, for the reason that the provisions of the instrument itself are illegal, and second, on account of the fraudulent intent of the assignors, as matter of fact, appearing from the parol evidence taken in the action. There are two provisions which the plaintiff alleges to be objectionable.
+1. A trust to pay the legal and necessary expenses of the assignees, with a salary to each of them at the rate of two thousand dollars per year, while actually engaged in executing the trust, if that compensation do not exceed what the laws of the state allow to executors or administrators ; if it should exceed that amount, then at the rate so prescribed for executors and administrators. ■
+2. The fourth ■ trust, whereby the assignees are directed, after having satisfied the preceding trusts, to pay all persons who had theretofore become bail or surety for L. 0. Wilson & Co. (the assignors,) such sums as they may have paid and as may he legally chargeable to L. 0. Wilson & Co., by reason of the liability devolving on such bail or surety, or to pay such sums as are requisite in law for the discharge of such bail or surety.
+The next provision directs the payment of all other creditors in full, if the estate is sufficient; if not, then they are to be paid pro rata.
+The referee has found adversely to the plaintiff, both as to the questions of law involved from the provisions of the assignment, and as to the facts arising on the evidence of alleged fraud, not apparent from the face of the instrument.
+In this respect we entirely concur with the referee, for the reasons assigned by him.
+The provisions in respect to the compensation of the assignees is a limitation, and not an enlargement of their legal claims.
+The liability of bail or sureties is one eminently of a confidential character, and the right of the assignors to prefer any legal obligation is undoubted.
+The question of fact arising from the evidence showing an intent on the part of the assignors tó hinder and delay creditors, by the intervention of the assignment, and the provision therein for the payment and indemnity of persons who have become bail or surety for the assignors, gives rise to very serious doubts as to the bona fides of the assignment.
+After a careful consideration of the evidence, my mind is irresistibly drawn to the conclusion that the intention of the assignors was fraudulent in the respect indicated.
+Neither the assignors nor the assignees knew who were the persons preferred or the extent of the liability, at the time the assignment was executed, nor had they ascertained at the time of the trial.
+The assignors were urgently pressed by their creditors with suits to recover their debts, but up to the day the assignment was executed, they were opposed to the mea-sure. The resort to an assignment, with the preference in favor of bail and sureties, was made at the suggestion of a third party, on account of the rough urgency of creditors, for the declared object of effecting a delay of several years by the operation of this clause.
+One of the assignors testifies that he knew the assignment would produce such delay, as a matter of course, by reason of the clause preferring the bail and surety.
+The same assignor also testifies that he made the assignment with the intent of putting off creditors and gaining time. ■ He was asked this question, viz: “ Did you make the assignment in question with the object and intent of putting off your creditors and gaining time to enable you in the mean time to compromise with them?” To which inquiry he answered “• Yes.” The witness afterwards states, on cross-examination by counsel for the assignees, that he made the assignment under the advice of counsel, whose attention was called to the provision, for bail, and who advised that it was right.
+I think the advice of counsel cannot prevent the natural effect of the previous evidence that the assignment was made to prevent creditors from getting their pay until they would accept the debtor’s terms of compromise, and not for the sole purpose of providing for the payment of creditors.
+An insolvent is permitted by law to create- a trust for the payment of his creditors, and to prefer any of his legal liabilities in the order of payment; but it must be made honestly for the sole object of providing for the payment of his debts.
+The debtor is expressly forbidden to make transfers of his- property to hinder or delay his creditors, and every such transfer is declared by law to be fraudulent and void. In opposition to these considerations we have not failed to observe that the facts found by a jury are not to be disturbed where there is any doubt, or where there is a confiict of evidence. We know also that courts are astute to sustain the verdicts of juries and the reports of referees in their conclusions of fact from the evidence.
+In the present case there is no suspicion of any collusion by the witness (one of the assignors) with the creditors, or to his entertaining «feelings or objects adverse to the assignees. It appears to me that there is a plain confession by the witness, who is the principal- of the insolvent firm, of an intent, in executing the assignment, which the law pronounces fraudulent. There is no conflict of evidence.
+The result which the assignors contemplated, according to the evidence, has been produced.
+At the trial more than three years had elapsed, and neither assignors nor assignees were able to state the extent, of the liabilities or the names of the persons embraced in the provisions of the fourth preference.
+The assignees considered it improper to pay the creditors in the next class, who. constituted the greater number and largest amount, because the extent of the liability of the fund to pay the claims of bail and surety had not been ascertained. And so the fund must remain for an indefinite period—perhaps twenty years—Unless the creditors are willing to accept such terms of compromise as the debtors choose to offer. A debtor has no right, legal or moral, to apply any coercion to his creditors. Yet such is the effect of this provision.
+Not a dollar has-been paid to any person for liability, as bail or surety for the assignors, so far as the evidence shows, and none, perhaps, will ever be required. If this result were not accompanied by the intent, clearly and unequivocally proven, that delay to' creditors should ensue from the assignment, it would pass, probably, as' an honest transaction, which, although operating hardly upon the general creditors, must nevertheless be upheld.
+I. think the referee erred in finding that the assignment was not made to'hinder, delay or defraud creditors, and, in his conclusion, that it was not void as against the plaintiff and other creditors of the assignors.
+The judgment should be reversed, the report set aside, and the case sent back to the referee for a new trial, with costs to abide the event..
