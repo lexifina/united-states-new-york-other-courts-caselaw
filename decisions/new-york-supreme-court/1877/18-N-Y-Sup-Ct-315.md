@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court"
+decided: "1877-07"
+citations: ["18 N.Y. Sup. Ct. 315"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman, J., concurred; Barnard, P. J., not sitting."]
+parties: ["OLIVER W. BARNES, Appellant v. GEORGE H. BROWN and others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/18/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4449122
+cites_cases: ["42 Barb., 169", "45 N. Y., 22", "47 N. Y., 225", "52 Barb., 348"]
+---
+
+# Barnes v. Brown
+
+## Majority (Gilbert, J.:)
+
+Gilbert, J.:
+The illegality of the transaction between the plaintiff and Brown and Seligman, does not consist of the mere fact that the plaintiff was incapacitated from acqiiiring an interest adverse to the corporation in the contract between the corporation and Byrne, but in the tendency of that transaction to a perversion of the property and effects of the corporation, and the consequent injury of its innocent stockholders and its creditors. It is not requisite that such should necessarily be the result of the transaction in order to make it illegal. It is enough that such is the tendency of it. The contract with Byrne is not before us, but the minutes of the meetings of the directors of the corporation, at which the plaintiff was present, in connection with the complaint, sufficiently reveal its general character and show that the compensation to Byrne was a gross sum for land damages, the construction and equipment of the railway, and expenses of conducting the affairs of the corporation, to be paid in' the stock and bonds of the corporation. We think the directors of the corporation were not authorized to enter into such a contract. The act of incorporation makes the corporation subject to the provisions of the general railroad act. (1 Laws of 1868, 465, chap. 230, § 3.) The directors thereof are required by the act of incorporation to open books of subscription for the capital, and to distribute the shares pro rata among the subscribers. (Id., 472, § 14.) Neither the act of incorporation nor the general railroad act confers any
+authority upon the directors, to receive any thing but cash in payment for subscriptions to stock. Assuming, however, that the taking of moneys-worth, in a form equally beneficial to the corporation as cash, inpayment for subscriptions, would be legal (see Ang. and Ames’ Oorp. [10th ed.], § 517, n. 0.), certainly, the agreement with Byrne whereby the corporation agreed to issue stock to him, in a lump, for work unperformed, and the value of which could not have been known, was not founded upon an actual receipt of moneys-worth, nor upon an agreement that moneys-worth should be thereafter received. The capital stock of the corporation is a trust fund for the payment of its debts, and the directors of the corporation will not be permitted to waste it, either directly by releasing subscribers from their subscriptions, or by receiving payment for stock in the form of property or services, at more than a sum which a faithful trustee, in the honest exercise of his judgment, might deem the just value thereof. (Story’s Eq. Jur., § 1252; Upton v. Tribilcook, 1 Otto, 45; see, also, Boynton v. Hatch, 47 N. Y., 225 ; Schenck v. Andrews, 57 id., 133.) The history of this case shows the abuses which would flow from an opposite rule. Here the corporation, by the contract with Byrne, is despoiled of its stock — forty-five per cent of which is then shared with the plaintiff, who was a director ; then the plaintiff sells his share to Brown and Seligman, who immediately become directors. The agreement of Brown and Seligman, to deliver stock to the plaintiff, was to be performed by them after they should have become directors of the corporation, and was simply an agreement to deliver the stock as a homes to the plaintiff for the transfer of Ms interest in the contract with Byrne,an interest wMch could .be made available to plamtiff only through' a violation of Ms duty to the corporation, and which, when transferred by him to Brown and Seligman, could be realized by them only in violation of their duty to the corporation. It needs no argument to show that such a transaction is illegal, for it could not be earned out without a palpable and flagrant violation of trusts and duties wMch each of the parties owed to the corporation, its stockholders and its creditors. (Bliss v. Matteson, 52 Barb., 348, and cases cited; S. C., 45 N. Y., 22.)
+It was no doubt a part of this transaction that the control of the corporation should be transferred to the defendants, although no stipulation to tbat effect was inserted in tbe mitten contract between tbe plaintiff and Brown and Seligman. Tbat, also, was illegal. (Fremont v. Stone, 42 Barb., 169.)
+Tbe plaintiff not bemg entitled to tbe aid of tbe court, in compelling tbe delivery of mvy stock, by reason of bis own illegal acts, it is useless to inquire whether tbe stock delivered to him corresponded with tbe description contained in bis contract witb Brown and Seligman, or whether tbe defendants, or either of them, were guilty of tbe fraudulent conspiracy alleged.
+Tbe judgment and order denying a new trial must be affirmed, witb costs.
+Dykman, J., concurred; Barnard, P. J., not sitting.
+Judgment and order denying a new trial affirmed, witb costs.
