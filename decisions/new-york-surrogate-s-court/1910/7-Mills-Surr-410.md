@@ -1,7 +1,8 @@
 ---
 court: "New York Surrogate's Court"
 decided: "1910-02"
-citations: ["7 Mills Surr. 410", "66 Misc. 409", "7 Mills Surr. 407", "66 Misc. 406"]
+decided_precision: "month"
+citations: ["7 Mills Surr. 410", "66 Misc. 409"]
 reporter: "mills-surr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Matter of the Final Judicial Settlement of the Accounts of Odell Corn
 source_url: "https://static.case.law/mills-surr/7/cases/0410-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1075952
-cites_cases: ["125 App. Div. 619", "177 N. Y. 75", "24 App. Div. 58", "48 N. Y. 106", "53 Hun, 466", "90 N. Y. 512"]
+cites_cases: ["125 App. Div. 619", "24 App. Div. 58", "90 N. Y. 512"]
 ---
 
 # In re the Final Judicial Settlement of the Accounts of Butler
