@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court"
+decided: "1858-01"
+citations: ["6 Abb. Pr. 33"]
+reporter: "abb-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILSON a. BRITTON."]
+source_url: "https://static.case.law/abb-pr/6/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2373042
+cites_cases: ["1 Barb., 552", "14 Wend., 237"]
+---
+
+# Wilson v. Britton
+
+## Majority (Ingraham, J.)
+
+Ingraham, J.
+The motion in this case is to discharge an attachment, issued against the defendant upon the ground that he was about to dispose of his property to defraud his creditors. The affidavit upon which the attachment was granted stated the indebtedness, and threats of the defendant to make an assignment of his property, and that plaintiff would get nothing, and to put his property out of his hands sooner than pay more than one-third of his debts; and on the plaintiff’s refusing to take less than the amount of his claim, the defendant threatened to go home and put his property out of his hands.
+Unless this affidavit is sufficient to sustain the attachment, it cannot be upheld by the other affidavits used in this motion. They are to be received for the purpose of explaining or contradicting the affidavits on which the defendant moves for a discharge of the warrant.
+The defendant in his affidavits denies that he made any other threats than to say that he would make an assignment for the benefit of his creditors. Such an assignment the law allows him to make, and also to give preferences to one creditor to the exclusion of another. A threat to do what the law allows cannot be sufficient evidence to warrant the conclusion of an intent to make a fraudulent disposition of his property; and unless the affidavit of the plaintiffs shows an intent to do more than this, the motion must he granted.
+The words used in the amended section of the Code are similar to those used in the act to abolish imprisonment, and are to receive the same construction. They are, where the defendant is about to assign or dispose of, &c.
+There may be fraud in an assignment of property, as well as in any other disposition of it, and so the Legislature intended by using the word “ assign” in that connection. It was not qualified by calling the assignment in this case one for the benefit of creditors, or by so stating to the plaintiffs, but it was a general threat to assign, and to put his property out of his hands, to compel a creditor to take less than the debtor owed him. Such a threat must always be looked upon with suspicion, and a debt- or who resorts to it, should be careful to use words that will show his intent to be an honest one, if he would avoid the presumption of fraud, which such attempts naturally suggest.
+I am not satisfied that the defendant’s intentions were merely to execute an assignment for the benefit of creditors. The words used do not express such an intention, and the reasonable understanding of them would be far more extended ; and the more so when we take in connection with them the other remark made by him, that he would go home and sell his goods, and would do nothing for his creditors until compelled to.
+I cannot but conclude that the defendant intended to be understood as saying that he would make such a disposition of his property as to prevent the plaintiffs from recovering any thing, in order to force them into a compromise.
+I cannot attach much weight to the fact that he subsequently made an assignment for the benefit of all his creditors, because that was made after he had notice of the attachment, and of course after he had been warned of the danger attending the course he had previously taken.
+It is urged, however, for the defendant, that threats to do such acts merely, without proof of any attempt to put these threats into effect, are not sufficient to convict the defendant of intended fraud ; and that there must be in addition some act showing an intention to carry out these threats.
+The degree of evidence necessary to prove such intent has been referred to by the Supreme Court in Smith v. Luce (14 Wend., 237). Chief-justice Savage says : “ Had the affidavit stated positively that the defendant had declared his intention to remove his property to avoid the payment of his debts * * * such an affidavit would be proof upon which the justice could act judicially, and draw his own conclusion, whether the defendant was about to do the acts which would authorize the issuing an attachment.” • I
+Under the act to abolish imprisonment, the practice was general, to treat the declarations of the debtor as sufficient evidence of his intent, without waiting for acts tending to put that intent to effect. Bo better-evidence of a man’s intent can be obtained than that intent expressed by himself in language; and if a court is required to wait for acts before such intent can be inferred, there would be but few cases, if any, in which the intent would not have been consummated by the act, before judicial proceedings could be commenced, and the provisions of the statute allowing a creditor to interfere and prevent the consummation of fraudulent intentions, would be of no avail.
+In Fulton v. Heath (1 Barb., 552), the proof of the debtor’s intended departure from the State with intent to defraud his creditors, consisted of an affidavit which stated that the debtor said he was going to leave the county and go to Canada.” This was held sufficient evidence of the intended departure, and coupled with the affidavit of the creditor, that he believed the debtor was about to leave with intent to defraud, was held sufficient to sustain an attachment.
+Although I should hesitate as to the sufficiency of an affidavit of the creditor, that he believed the intent to be fraudulent, yet the case may be cited as authority to show that declarations of the debtor were sufficient to prove his intent without any act being shown towards carrying out such intention. Justice Paige says : “ The affidavit states that Heaton was about to depart from the county where he last resided. This fact Fulton states positively on the declaration of the debtor, and then adds his belief, &c., of intent to defraud his creditors. It states positively all the facts and circumstances necessary to be stated to entitle Fulton to an attachment.
+There are many other cases arising under the non-imprisonment act and the act relating to non-resident debtors, where similar decisions have been made. The cases above cited, however, are sufficient to show that the declarations of the debtor are competent without other proof to establish his intention to do an act forbidden by laws -which authorize the issuing of attachments. The same rule is applicable to affidavits for the purpose of ordering an arrest.
+The motion is denied, with $10 costs.
