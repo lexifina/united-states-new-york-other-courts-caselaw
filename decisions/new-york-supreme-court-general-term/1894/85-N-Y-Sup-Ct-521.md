@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["85 N.Y. Sup. Ct. 521"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Bradley, JJ., concurred."]
+parties: ["In the Matter of the Judicial Settlement of the Accounts of George S. Young and Another, as Executors, etc., of Amos Hurlbutt, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4719233
+cites_cases: ["44 Hun, 548", "71 N. Y. 92", "76 N. Y. 133"]
+---
+
+# In re the Judicial Settlement of the Accounts of Young
+
+## Majority (Haight, J. :)
+
+Haight, J. :
+The testator died December 10, 1882, leaving a last will and testament which has been duly proved and admitted to probate, the second clause of which provides as follows:
+“ I hereby ordain and require the sale of my farm as soon after my decease as it can be done without undue sacrifice, and out of the proceeds of such sale $4,000 are to be reserved for the use of my aforesaid wife in the purchase of another home, or if she shall choose not to so purchase, or choose a place of less value, then the whole of the money, or balance left after purchase, shall be placed at interest and the profits arising therefrom shall he hers during life, and after her decease this amount of $4,000, or the premises my said wife may purchase with any balance of money left after purchase, shall, after her decease, be equally divided among my children, Amos J. Hurlbutt, Mary Tift and Ellen Close.”
+The testator left him surviving Mary ITurlbutt, his widow, and the three children named in his will. The farm was sold in accordance with his direction, and of the money derived therefrom,$4,000 was reserved and invested in a mortgage for the benefit of the-widow during her life. She died on the 9th day of September, 1893, but before her death, and in the year 1890, Mary Tift died, leaving a will, in which she devised and bequeathed all of her property to her husband, John Tift. The sole question presented in this case is as to whether John Tift is entitled to any portion of the $4,000, and this is dependent on the question as to whether that fund vested in the legatees on the death of the testator, or upon the death of the widow. The question thus presented is not free from difficulty, and there may be some trouble in harmonizing the cases upon the subject.
+The primary canon of construction of a will is that the intention of the testator shall be ascertained and followed. Subordinate to this canon are certain rules which have been formulated to aid the courts in ascertaining such intent, among which is one invoked by the appellant, to the effect that where there is no language importing a gift except in the direction to convert the real estate into money and make distribution, time is annexed to the substance of the gift, and the vesting is postponed until the time of payment. (Leake v. Robinson, 2 Merr. 387 ; Warner v. Durant, 76 N. Y. 133-136 ; Delaney v. McCormack, 88 id. 174-183 ; Smith v. Edwards, Id. 92; Bowditch v. Ayrault, 138 id. 222: Delafield v. Shipman, 103 id. 463-467.)
+Under this rule it is claimed that the testator has not in express language or words given the $4,000 to his children; that he has only directed its division among them after the decease of his widow. If the provision contained nothing more the appellant’s contention must prevail. But the rule invoked has exceptions and limitations, one of which it becomes necessary to consider, and that is, that although the will contains no other gift than as indicated by ■ the direction to payor distribute in the future, yet if the enjoyment of the legacy is postponed to accommodate the estate, or to enable it to meet another burden first imposed upon it, the legacy will be regarded as vested as of the date of the testator’s death. (1 Jarman on Wills, 835 ; Packam v. Gregory, 4 Hare, 396 ; Loder v. Hatfield, 71 N. Y. 92-100; Coit v. Rolston, 44 Hun, 548-550.)
+Under the will the testator disposed of all of his property. That which was not given or set apart for the use of the widow was given to the children. The $4,000, as we have seen, was reserved for the use of the widow during her life. If it was not invested in a home for her it was to be placed at interest and the interest during her life was given to her; and after her decease the principal was to be divided among the children. We thus have a postponement of the enjoyment of the fund by the children during the life of the widow; iu other words, a postponement to meet another , burden first imposed upon it. Under this rule the testator must be deemed to have intended that the $4,000 should vest in his children subject to the life use thereof by the widow, and that the payment thereof was postj>oned until her decease so as to enable the estate to first meet that burden.
+The decree appealed from should be affirmed, without costs of this appeal to either party.
+Dwight, P. J., Lewis and Bradley, JJ., concurred.
+Decree of the Surrogate’s Court of Cayuga county appealed from affirmed, without costs of this appeal to either party.
