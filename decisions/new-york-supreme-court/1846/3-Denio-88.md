@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1846-05"
+citations: ["3 Denio 88"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People vs. Payne."]
+source_url: "https://static.case.law/denio/3/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2187542
+---
+
+# People v. Payne
+
+## Majority (By the Court, Bronson, Ch. J,)
+
+By the Court, Bronson, Ch. J,
+The question is, whether the indictment should not have stated the object or purpose for which the lottery was made or carried on. The 27th section of the statute against raffling and lotteries, (1 R. S. 665,) provides, that “ no person, unauthorized by special laws for that purpose, shall, within this state, open, set on foot, carry on, promote, or draw, publicly or privately, any lottery, game, or device of chance of any nature or kind whatsoever, or by whatever name it may be called, for the purpose of exposing, setting to sale, or disposing of any houses, lands, tenements, or real estate, or any money, goods, or things in action." The 28th section prohibits the publishing an account “ of any such illegal lottery, game or device.” Then comes the 29th section, upon which this indictment was framed. It provides, that no person shall vend, sell or barter any ticket, or part or share of a ticket, or any paper or instrument purporting to be a ticket, or part of a ticket, “ of any such lottery, device or game of chance, not expressly authorized by law." By the words “ such illegal” in the 28th section, and “ such” in the 29th, we are, I think, referred to the 27th section for a description of the prohibited lottery; and to the whole of the description contained in that section. The lottery must not only be opened, or carried on by an “ unauthorized” person; but it must be done “for the purpose of exposing, setting to sale, or disposing” of some kind of property. The reference cannot be restricted to “ unauthorized” lotteries, without entirely rejecting the word “ such” in the 29th section. That we are not at liberty to do. A statute must, if possible, be so construed as to give effect to all the words which it contains; and that can be done without difficulty in this instance.
+The district attorney in his able argument reads the word “ lottery” in the 27th section, without any qualification in relation to “ the .purpose” to be accomplished by it; and restricts that qualification to a “ game or device of chance.” But in grammatical construction, the lottery, as well as the game or device, must be for the purpose of disposing of some kind of property. And such must have been the intention of the legislature. The object was, to prevent gambling, or gaming for some valuable thing; and not to punish a lottery made or drawn for mere amusement: or the determination by lot of some matter involving no right of property. The class to which a senator belongs, which fixes the duration of his office, is sometimes determined by lot; and so of a justice of the peace. And there is an annual lottery in the Assembly, for the purpose of determining what seat each member shall occupy. It is true that the word “lottery” is not often used in such a sense; nor to designate any innocent amusement; and Webster defines it—“a scheme for the distribution of prices by chance, or the distribution itself;” and he gives no other definition, except “ allotment,” which he says is “ not used.” But the first definition given by Johnson is, “ a game of chance:” which is not indictable, unless it is played for some wager or stakes. If the word lottery does not necessarily include the idea of a disposition of property by chance or lot, there was then the same reason for specifying “ the purpose” when speaking of a lottery, as there was when speaking of a “ game or device of chance;” and the legislature has so used the qualifying words that they evidently apply alike to both classes of cases.
+It is said that the reference in the 29th section may be to the 26th, which declares every unauthorized lottery a common and public nuisance, without saying any thing concerning the purpose for which the lottery was made. But the different branches of this law must be construed together; and when we see by one section that the legislature only intended to suppress and punish gambling lotteries, general words in another section must be read and understood with a like qualification.
+■ As none of the counts allege that the lottery was opened &c. “ for the purpose of exposing, setting to sale or disposing” of money, or any other valuable thing, the indictment cannot be supported.
+Judgment affirmed.
