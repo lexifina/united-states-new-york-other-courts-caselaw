@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-02"
+citations: ["74 N.Y. Sup. Ct. 311"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’BeieN and Follett, JJ., concurred."]
+parties: ["PETER BALEN, Respondent, v. EMMA L. JACQUELIN, Appellant, Impleaded with Others."]
+source_url: "https://static.case.law/ny-sup-ct/74/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8593727
+---
+
+# Balen v. Jacquelin
+
+## Majority (YaN BeuNt, P. J.:)
+
+YaN BeuNt, P. J.:
+This is an action to partition certain real estate, in which the plaintiff claims to be seized of one-ninth share, as tenant in common, by inheritance from his deceased daughter, Mary E. Balen; and the question involved in this action is whether the said Mary E. Balen, having died before the determination of a precedent life estate, could transmit, by inheritance, that portion of the estate of which, if she had been living at the termination of the life estate, she would have been entitled to possession. We might very well leave the determination of this question upon this appeal to the grounds stated in the opinion of the court below; but there is one circumstance which seems to indicate, so plainly, the intention of the testator, that, we think, we ought to call attention to the same. It is one of the prevailing principles in the construction of wills, that the intention of the testator is to govern, and, therefore, as no two wills are exactly alike, and the surroundings of testators are always different, the interpretation given to provisions in one will affords but little aid in the construction of the provisions of another will, except so far as certain meanings have been given to certain terms and phrases in particular connections.
+By the third clause of the will the testator gave, devised and bequeathed to his wife, for and during the period of her natural life, “the income, rents and profits of all my real estate.” And by the tenth clause, at and after the decease of his wife, he gave, devised and bequeathed to his two daughters, naming them, and to the children of his deceased daughter, Mary A. Balen, all his real estate, one-third to each of his said two daughters, and the remaining third part thereof to the children of his deceased daughter, to be held, owned and enjoyed by them respectively, and by their respective heirs and assigns forever.
+It is to be observed that by the terms of this will, only tne rent, issues and profits of the real estate were devised to the wife of the testator. He, therefore, evidently intended that the fee should be vested in some other person than his wife, even during her life, subject to her right to the rent, income and profits thereof. And in view of the subsequent provisions of the will giving the complete enjoyment of this real estate to the persons named in the tenth clause after the decease of his wife, he evidently intended that such fee should vest at his death in those persons to be held by them respectively, and by their respective heirs and assigns forever. There evidently was no intention, upon the part of the testator, to defer the complete vesting of the entire title of this real estate beyond his own death, and that he did not intend that the absolute title of any portion of this real estate should be held in abeyance during the lifetime of his wife. The appellants claim that the devise to the children of his deceased daughter was a devise to a class the extent of which class could only be determined by the death of his wife seems to be contrary to the whole scope of the will. It is evident that the testator intended by the devise in question to invest the children of his deceased daughter with precisely the same title that he vested in his surviving daughters; and it will not be claimed but what the daughters living at the death of the testator took an absolute remainder, which could be transmitted by conveyance or by inheritance and - which would upon death, during the period of the wife’s life, be transmitted to his daughters’ legal representatives. This being the'intention of the testator and there being no indication that he intended that the estate should descend differently, we can see no reason why the plaintiff, upon the death of his daughter, did not take the interest claimed by inheritance.
+It is also claimed that the complaint in this action was defective, because there was no sufficient allegation of possession upon the part of the plaintiff. But we think that the allegations in the ninth clause of the complaint are amply sufficient to meet the requirements of the Code, in that it is alleged that the plaintiff and the defendants are seized and possessed of all those certain lots and pieces of land, etc. The allegation that the defendants have received all the rents, issues and profits from said real estate and have neglected and refused to the plaintiff his share is no allegation that they claim under a title hostile to the plaintiff.
+We, think, therefore, that the judgment should be affirmed, with costs.
+O’BeieN and Follett, JJ., concurred.
+Judgment affirmed, with costs.
