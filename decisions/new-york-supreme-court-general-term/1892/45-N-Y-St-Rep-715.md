@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-04-13"
+citations: ["45 N.Y. St. Rep. 715"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stillman E. Pratt, Adm'r, Resp’t, v. The Lake Shore & Michigan Southern Railway Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/45/cases/0715-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2080816
+---
+
+# Pratt v. Lake Shore & Michigan Southern Railway Co.
+
+## Majority (Lewis, J.)
+
+Lewis, J.
+The deceased was employed by the defendant as a brakeman, and, on the 10th day of June, 1890, it became necessary for him, in discharging his duties as a brakeman, to set a brake upon one of the cars of the defendant, and in so doing it broke, he was precipitated from the car to the ground, and was killed by the train of cars passing over him. It was found upon examination that the brake was defective, in that four of the six spokes which connected the hub and rim of the wheel of the brake were broken off where their ends had joined the rim. The ends thus broken were rusty, showing that they had been broken for a long time. Of the two sound spokes broken off when the deceased attempted to set the brake the broken ends were bright, showing that they were freshly broken. The defective condition of the brake caused the accident. There was abundant evidence tending to establish that the defendant was guilty of negligence in failing to ascertain by a proper inspection the defective condition of the brake. The defendant’s negligence became a question of fact for the jury.
+The defendant introduced in evidence an agreement signed by the deceased on the 18th day of December, 1884, which provided that having been employed by the defendant, he acknowledged the receipt of printed rules and regulations of the company. The agreement further stated, “ I do hereby agree in consideration of paying me the wages stipulated, that I will, so long as I remain in the service, faithfully respect and obey all said orders, roles and regulations and all others which may be adopted and of which I may have notice ; and I do further agree that I will for myself, ;in all cases, before exposing myself in working or in being on the tracks or grounds of the company or in working wifh or being in any manner on or with its cars, engines, machinery or tools, examine for my own safety the condition of all machinery, tools, tracks, cars, engines or whatever I may undertake to work upon or with, before I make use of or expose myself to or with the same, so as to ascertain so far as I reasonably can their condition and soundness. * * * The object of this agreement being first, to protect me from suffering personal injury from any cause ; that while the company will be responsible to me for any fault or neglect of its own or of its board, of directors or general officers, which are the proximate cause of the injury, yet it will not be responsible to me for the consequences of my own fault or neglect. * * * It being expressly agreed on the part of the company that it is my right and duty under all circumstances to take sufficient time before exposing myself and to make such examination as I have here agreed to; and to refuse to obey any order which would expose me to danger.”
+It is the contention of the defendant that the deceased was guilty of negligence himself in not having discovered the defective condition of the brake before using it. There was evidence "showing that the defendant employed experts whose special duty it was to examine the machinery, tools, etc., used by the defendant The deceased was a brakeman simply. There was no evidence in the case that he was an expert in the examination of machinery. It is quite clear that it would not have been practicable for the deceased to have performed the duty of an expert examiner before using the machinery of the cars he,was required to use in the discharge of his duties. The cars composing the trains he was required to work on were frequently changed in making up trains. The exigencies of the business prevented that deliberation which would obviously be necessary to "a proper examination of the machinery. He was required to be attentive and vigilant in the discharge of his duties, to discover defects in the machinery, and to refrain from using machinery if he learned it was in a defective condition; and that we think was the extent of the requirements of the agreement.
+The evidence tended to show that it required an expert to have discovered the defects in this brake. The question of the deceased’s negligence was properly submitted to the jury.
+We fail to find any reason for the reversal of the judgment.
+The judgment and order appealed from affirmed.
+Dwight, P. J., and Macomber, J., concur.
