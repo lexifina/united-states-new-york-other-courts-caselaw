@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1882-10"
+citations: ["35 N.Y. Sup. Ct. 112"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["JBrady, P. J., and Barker, J., concurred."]
+parties: ["ANDREW J. BATES and Others, Respondents, v. SAMUEL PLONSKY and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/35/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1921332
+cites_cases: ["24 Hun, 257", "50 N. Y., 80"]
+---
+
+# Bates v. Plonsky
+
+## Majority (Daniels, J.:)
+
+Daniels, J.:
+The action has been brought to secure the priority of the plaintiff’s right under attachments issued against the defendant, Samuel Plonsky, over an assignment executed by him for the benefit of his creditors, and over executions issued upon judgments confessed by him in favor of others of the defendants. The attachments issued on behalf and for the plaintiffs were levied upon the stock in trade of boots, shoes and fixtures of the debtor, and the executions upon the confessed judgments were also levied upon the same property. These judgments, as well as the general assignment, are alleged to have been made and entered with the intent to hinder, delay or .defraud the creditors of the debtor, and for that reason the plaintiffs claim priority over the general assignee and the creditors in the judgments confessed, although their attachments were after-wards, in point of time, levied upon the property. Whether such an action can be maintained by them under these circumstances is the point upon which the appeal has been placed in the argument. It is entirely clear that no such suit could be maintained for the vindication and establishment of the rights of the attaching creditors, if the property seized under the attachments had not been of a tangible nature. (Smith v. Longmire, 24 Hun, 257.) This disability results from the circumstance that such property, after having been assigned or transferred, even though that may have been done fraudulently, cannot be made subject to an attachment as long as such transfer remains in force. But, where the property is not of that character, but is capable of being taken into the manual possession of the sheriff, there this disability does not exist.
+Notwithstanding the fraudulent transfer, such property may still, be seized by virtue of the attachment; and the propriety of the seizure may be sustained when that is brought in question by showing that the transfer itself was fraudulent and inoperative as against creditors. This right to assail such a disposition of the. debtor’s property results from the fact that the creditor is entitled to have it seized by virtue of his attachment, and after that to maintain the propriety of such a seizure of it. The Code has provided that the levy may be made upon property capable of manual delivery by taking the same into the sheriff’s actual custody. (Code Civ. Pro., § 649, sub. 2.) This provision is so general in its character as to include no exception, and consequently property, the title to which may have been fraudulently transferred, may be made the subject of the seizure the same as though the title to it remained unquestionably in the debtor.
+To render such a seizure. entirely effectual, the creditor may show in vindication of it, that while the title to the property had been in form transferred, that it was done to defraud creditors, .and in that manner annul and aVoid it. (Thurber v. Blanck, 50 N. Y., 80; Frost v. Mott, 34 id., 253.) This case has been brought within this principle, for the complaint shows an actual attachment of the property, and that it was all property which could be taken' into the manual possession of the officer. Upon the basis of the lien created in that manner, no good reason seems to stand in the way of an action of this nature, brought to establish the right of the attaching creditors to appropriate it through the instrumentality of the attachments, to the payment of any judgments they may recover in the action; and that really is all that is intended to be accomplished by the present suit. The injunction extends no further than to protect the creditors’ rights during the pendency of the action, in case they shall ultimately appear to be entitled to this relief.
+For it simply, in the meantime, restrains the payment of any of the proceeds of the property of the debtor to the defendants, or either of them, upon the executions issued to collect the judgments confessed by the debtor, and it included only the property seized by virtue of the plaintiff’s attachments. Even this restraint is more formal than real, for the reason that the .direction given to the sheriff requiring him to. deposit with the chamberlain the amount of such proceeds, subject to the final determination of this action, would practically accomplish the same result.
+And such an order as that would very much, as a matter of course, have been made, upon a mere motion, where a contest of this nature existed, as to the right to the proceeds, between the several parties proceeding against the property. The appeals taken from the order cannot be sustained, but it should be affirmed, with ten dollars costs, besides the disbursements.
+JBrady, P. J., and Barker, J., concurred.
+Order affirmed, with ten dollars costs and disbursements.
