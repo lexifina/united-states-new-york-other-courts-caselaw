@@ -1,0 +1,32 @@
+---
+court: "County Court of New York, Westchester County"
+decided: "1973-11-07"
+citations: ["77 Misc. 2d 8"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Merck, Sharp & Dohme, A Division of Merck & Co., Inc., Plaintiff, v. Annie Whitted, Defendant."]
+source_url: "https://static.case.law/misc2d/77/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1274217
+cites_cases: ["34 A D 2d 985", "46 Misc 2d 392", "47 Misc 2d 626", "67 Misc 2d 687"]
+---
+
+# Merck, Sharp & Dohme v. Whitted
+
+## Majority (Harold L. Wood, J.)
+
+Harold L. Wood, J.
+Motion by plaintiff for an order striking defendant’s answer and for entry of judgment because of defendant’s failure and refusal to sign and return the transcript of her examination before trial.
+Plaintiff has sought to impose the sanctions outlined in CPLR 3126 (subd. 3) for this conduct of the defendant. This court has had occasion in the past to hold that a motion to strike an answer is not, in its opinion, the proper remedy for failure of a defendant to sign and return an examination before trial. (Navaho Frgt. Lines v. Supro Neon Corp., N. Y. L. J., Dec. 5, 1972, p. 21, col. 6.)
+Counsel for the movant takes issue with the court’s position and in support thereof refers the court to the cases of Marsh v. Lee & Sons, 34 A D 2d 985; Dorset Caterers v. Nassau & Suffolk Dining Car & Rest. Assn., 67 Misc 2d 687.
+In Marsh (supra) the Supreme Court, Queens County, on motion, struck out defendant’s answer because of his failure to execute his examination before trial. On appeal the Appellate Division held merely that “ it was an improvident exercise of [the lower court’s] discretion to strike appellant’s answer, since the requested material was furnished prior to the hearing on the motion.” It would appear, then, that only the question of abuse of discretion was before the appellate court and its ruling was limited to that issue alone. No attack was made in the lower court as to the propriety of the remedy and, accordingly, that question was never reached by the appellate court.
+In Dorset (67 Misc 2d 687, supra) plaintiff moved to strike defendant’s answer for failing and refusing to sign the transcript of his examination before trial. Defendant asserted, as its reasons for that position, that (1) many questions asked of it and answered by it were not in the record and (2) it was improper for the stenographer employed by plaintiff’s counsel to take the testimony.
+The court held that defendant’s refusal to sign was not the proper procedure to be followed by it. It set forth what defendant should do and gave it 20 days to comply with the court’s directions, failing which the motion to strike would be granted. Here again, the specific issue as -to the regularity of the motion was not before the court and not dealt with in its decision.
+Weinstein-Korn-Miller in their treatise dealing with New York Civil Practice state, with reference to this problem (in vol. 3, par. 3116.08): “ Section 302 of the former^ Civil Practice Act provided for the imposition of damages if a witness unreasonably refused to sign his deposition; where a party refused to sign, the court could also strike out his pleadings. Such penalties are not required under the CPLR [Abramowits v. Voletsky, 47 Misc 2d 626; Fields v. Johnson, N. Y. L. J., March 23, 1964, p. 13, col. 1 (answer may not be stricken because of witness’ refusal to sign deposition); Duffy v. Lebrio, N. Y. L. J., April 2, 1964, p. 16, col. 6] CPLR 3124 and 3126 have no application because the deponent has disclosed information at his examination.
+“ Nevertheless, the court has power, pursuant to CPLR 2308(a), to hold a witness in contempt for refusing to sign his deposition [Dale Factors Corp. v. Jay Kay Metal Specialties Corp., 46 Misc 2d 392].”
+CPLR.3116 (subd. [a]) states that “ if the witness fails to sign the deposition, the officer before whom the deposition was taken shall sign it ’ ’.
+Of course this presupposes that the officer was present during the entire examination for if he were not he obviously could not sign the deposition. But even if the officer were present during the entire examination, ‘ ‘ it should be only in the unusual situation that the officer carries out this signing function. ’ ’ (McKinney’s Cons. Laws of N. Y., Book 7B, CPLR 3116, Practice Commentary C 3116:1, pp. 475-476.)
+The commentary goes on to say that “ if the officer does so in his [defendant’s] place and the transcript is sought to be used at the trial as evidence-in-chief of any fact it contains, see CPLR 3117, it may then become necessary to call the officer as a witness to attest to the fact that this is the deponent’s deposition and perhaps even to testify as to the accuracy of the questions and answers * # * the extra trouble to which the party who took the deposition may be put at the trial when it is the officer who signs the transcript * * * suggests that judicial power should be brought to bear in the usual case to compel execution by a resisting deponent. Absent good cause shown by the deponent for his omission to sign, a court order directing him to peruse and execute the transcript would seem all that is necessary to bring it about, especially with the contempt punishment standing by.”
+In this connection, it is wise to point out that the remedy of contempt for failure to obey an order of the court directing the signing of the transcript is not available if the officer is ready, willing and able to sign it. (Moreo v. Asprea, N. Y. L. J., Sept. 12,1963, p. 14, col. 1.) In fact, it has been held that a showing that such officer is not available to sign is a prerequisite to a motion to punish for contempt. (Little Joseph Realty, N. Y. L. J., Aug. 16,1973, p. 14, col. 2 [Sup. Ct., Suffolk County, Lazer, J.].)
+For the reasons hereinabove set forth, the motion to strike is denied. There being no opposition to the motion, however, the court, in its discretion will consider the application as one to compel defendant to execute the transcript and directs her to sign and swear to the examination before trial heretofore sent to her attorney and return the same to the attorneys for plaintiff within 10 days after service of a copy of the order, to be entered hereon, with notice of entry, upon the attorney for defendant. Failure to comply therewith may subject defendant to an application by plaintiff to punish for contempt should it be so advised.
