@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-07-18"
+citations: ["32 N.Y. St. Rep. 924"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the matter of the collateral inheritance tax upon the estate of Sarah Pelton, deceased."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0924-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040380
+---
+
+# In re the Collateral Inheritance Tax Upon the Estate of Pelton
+
+## Majority (Barnard, P. J. Pratt, J.)
+
+Barnard, P. J.
+The district attorney of Orange county had jurisdiction to enforce the payment of any tax which he had reason to believe to be payable under the collateral inheritance act, chapter 713, Laws 1887, § 17.
+Proceedings were commenced by him to enforce the payment of a tax due from the estate of Sarah Pelton. James H. Pelton was the executor and the sole legatee. The citation to James. H. Pelton, executor, was issued 25th of July, 1889, and it was returnable>5th of September, 1889. The executor appeared by his attorney and disputed the liability to pay any tax, and asked for a time in the future to be fixed for adjournment to prepare his answer. The adjournment was to the 19th day of September, 1889. Then the executor failed to appear. A notice was then served on the executor to appear on the 5th of December, 1889, to show cause as to the proceedings taken for the collection of the tax. The executor did not appear and a citation was issued on the 10th of December, 1889, returnable December 12, 1889, why the district attorney should not have such order as he was entitled to in the premises, and be punished for a contempt. The executor was served. On the 12th December, 1889, the executor appeared by counsel and made no excuse for his refusal to pay the tax. The surrogate adjudged him. guilty of contempt and fined him fifteen dollars, which the executor paid subsequently. The executor was bound to pay the tax without approvement if the facts were admitted. Whether an approval was made depended upon extrinsic facts. If a gift of money was made by deceased to the executor and he was outside of the degree of kin, not subject to tax, his duty was to pay the money due the state without further order. It was to the end that proceedings might be taken to compel payment of the tax that the executor was cited. He owed obedience to the surrogate as executor, and a failure to appear and answer was properly punishable as for contempt. Code, § 2481.
+The order should, therefore, be affirmed, with costs and disbursements.
+Pratt, J.
+The defendant in this proceeding was adjudged guilty of contempt for refusing to obey an order of the surrogate of Orange county citing him to appear and show cause, etc.
+Ho appearance was made in person before the surrogate and no defense suggested to the charge of contempt. It was not for not paying the collateral inheritance tax or not taking proceedings for ascertaining the same, but for failing to appear before the surrogate and showing cause as required by the surrogate’s order.
+It was the duty of the defendant to obey the surrogate when cited to appear and a refusal to do so was a contempt; in fact his whole conduct is characterized by a total disregard of the surrogate’s orders and a lack of good faith.
+Ho question seems to be raised as to the power of the surrogate to punish for contempt.
+Order affirmed, with costs and disbursements.
+Dykman, J., concurs.
