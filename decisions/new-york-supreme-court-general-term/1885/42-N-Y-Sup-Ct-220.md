@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1885-01"
-citations: ["42 N.Y. Sup. Ct. 220", "42 N.Y. Sup. Ct. 232"]
+decided_precision: "month"
+citations: ["42 N.Y. Sup. Ct. 220"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["In the Matter of the Petition of the NEW YORK, LACKAWANNA AND WESTERN
 source_url: "https://static.case.law/ny-sup-ct/42/cases/0220-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2370475
-cites_cases: ["11 Gray, 139", "19 Hun, 38", "39 N. Y. 175", "46 N. Y., 555", "6 Hun, 27", "66 N. Y., 409", "72 N. Y., 245", "77 N. Y., 557", "80 N. Y., 27", "92 N. Y., 324", "93 N. Y., 616", "95 N. Y., 175", "96 N. Y., 227"]
+cites_cases: ["11 Gray, 139", "39 N. Y. 175", "46 N. Y., 555", "6 Hun, 27", "66 N. Y., 409", "72 N. Y., 245", "80 N. Y., 27", "92 N. Y., 324", "93 N. Y., 616", "95 N. Y., 175", "96 N. Y., 227"]
 ---
 
 # In re New York, Lackawanna & Western Railway Co.
