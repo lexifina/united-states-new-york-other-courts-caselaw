@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03"
+citations: ["84 N.Y. Sup. Ct. 30"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Bradley, JJ., concurred."]
+parties: ["Mary W. Merrick, as Executrix, etc., of Melzer F. Merrick, Deceased, Respondent, v. Sarah J. Hill and Another, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/84/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1928195
+cites_cases: ["36 N. Y. 459", "66 Hun, 563"]
+---
+
+# Merrick v. Hill
+
+## Majority (Haight, J.:)
+
+Haight, J.:
+This action was, brought to recover the sum of $130, being the amount of rent due upon a lease of real estate.
+On April 1, 1890, Moses Merrick leased to one Edward P. ITill certain premises in the city of Rochester and town of Tates for one year next ensuing at the annual rental of $215, payable quarterly on the first days of July, October, January and April. Indorsed upon the lease is the following: “ For value received we do hereby guarantee the payment of rent of the foregoing premises as herein-before agreed to be paid by said lessee, Edward P. Hill; ” dated Rochester, April 1, 1890, and signed by the defendants in this action.
+Upon the trial the plaintiff introduced -in evidence an instrument hearing date October 15, 1891, signed by Moses Merrick, in which, •after certain recitals, is the following: “Now, therefore, in consideration of the premises and for value received, I hereby sell, assign and transfer to said Melzer F. Merrick all right and interest I may have in and to the said lease and guaranty and the rent thereby secured, if any interest I may have therein.”
+The trial court awarded judgment in favor of the plaintiff for the .amount of rent due.
+It is now contended that the assignment should not have been received in evidence for the reason that it was not alleged in the ■complaint. The complaint does allege a transfer of the interest of Moses Merrick in the lease to Melzer F. Merrick, but it was alleged to have been by a deed and no mention is made of the ‘.assignment. But no objection was made to its reception upon this ground. It was only objected to as incompetent and immaterial. The attention of the. trial court was in no way called to the fact that it was not covered by the pleading, and consequently error cannot now be predicated upon its reception in evidence.
+After the reception in evidence of the assignment, the defendant introduced a judgment roll in which Moses Merrick was plaintiff, and the defendants in this action were defendants, in which it appears that Moses Merrick had, previous to the assignment, brought an action against the defendants for the same rent which is sought to be recovered by the plaintiff in this action. In that action the judgment was for the defendants. It is now contended that it determined the rights of Moses Merrick, and that he had no interest in the lease which he could transfer to Melzer F. Merrick. But in that action the defendants introduced a deed in evidence, dated August 13, 1890, in which Moses Merrick conveyed to Melzer F. Merrick, in fee, the leasehold premises. It appeared that all of the rent due upon the lease accrued and became due after such conveyance. The trial court entered a judgment of nonsuit in that action. We presum'e, therefore, that the trial judge disposed of the case upon the theory that Moses Merrick having conveyed his interest in the real estate, that the rent thereafter accruing passed to his grantee. But whether this be so or not we deem it immaterial, for a nonsuit is not a determination of a cause of action upon the merits, and does not become a bar to another action. (The People v. Vilas, 36 N. Y. 459.)
+Upon the trial the plaintiff introduced in evidence a certified copy of the deed alluded to. This was objected to as incompetent and immaterial, and not the best evidence; that it is an attempt to prove title which is controverted, and that the court has no jurisdiction. The deed was, however, received, and after the plaintiff rested the defendant moved to dismiss the complaint on the ground that, on the plaintiff’s own showing, the title to real estate is in question and disputed. This motion was denied.
+The answer was a general denial and a plea of payment. The defendants claimed that, by the introduction of the deed in evidence, it was made to appear upon the trial by the plaintiff’s own showing that the title of real property was in question, and that it operated to oust the justice of jurisdiction. (Code Civ. Proc. § 2956.)
+And to sustain this claim, our attention is called to the case o£ Lane v. Young (66 Hun, 563).
+On the other hand, it is claimed that the title to real property was not put in issue by the answer; that rent reserved under a lease could be transferred to a person other than the owner of the fee, and that it was' competent upon the trial for the plaintiff to show that Melzer F. Merrick had become the owner and entitled to recover the rents accruing upon the lease, and that this could be done by any instrument in writing which showed the fact, whether it was a deed, assignment or other instrument, and that the title of real estate was not necessarily brought in issue. But we do not. deem it necessary to now determine this question, for even if it should be conceded that the deed was improperly received and should be regarded as stricken out, the plaintiff’s right to recover would still remain unimpaired, for the assignment alluded to of October 15, 1891, is undisputed, and, therefore, conclusive upon the question of the ownership and of the' right to recover the rents due and owing.
+The judgment appealed from should be affirmed, with costs.
+Dwight, P. J., Lewis and Bradley, JJ., concurred.
+Judgment of the County Court of Monroe county appealed from affirmed, with costs.
