@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-01"
+citations: ["62 N.Y. Sup. Ct. 419"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Beady and DaNiels, JJ., concurred."]
+parties: ["GEORGE MUNRO, Respondent, v. ORMOND G. SMITH, GEORGE C. SMITH and CORA A. SMITH, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/62/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4602744
+---
+
+# Munro v. Smith
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+This action was brought to restrain by injunction, the use of a certain picture as well as the phrase “ Old Sleuth, the Detective ” or the word “ Sleuth.”
+Upon the trial it was held that the plaintiffs were not entitled to the exclusive use of the name “ Old Sleuth,” and that the defendants were entitled to its use. The court also held that the picture of Old Sleuth upon -the first number of the “ Old Sleuth Library, ” published by the plaintiff, was .a trade-mark of the plaintiff, and that be bad tbe exclusive right to tbe use of sucb picture; and that tbe acts of tbe defendants in publishing tbe said picture constituted an infringement of tbe plaintiff’s trade-mark, and a reference was ordered to ascertain tbe damages sustained by tbe violation of tbe trade-mark in tbe picture. And from tbe final judgment entered upon tbe coming in of tbe referee’s report this appeal is taken. Tbe main question presented, then, is : Had tbe plaintiff a trademark in tbe said picture ? A trade-mark has been defined to be a symbol, emblem or mark which tbe tradesman puts upon or wraps or attaches in some way to tbe articles be manufactures or causes to be manufactured for tbe purpose of distinguishing them from tbe productions of other manufacturers.
+There is no question but that tbe plaintiff could have obtained a trade-mark in tbe picture in question for tbe purpose of distinguishing tbe series of books which be chose to call tbe “ Old Sleuth Library.” But it does not appear upon an examination of these publications that tbe picture in question was in any way intended to be a trade-mark or a symbol distinguishing this particular library. It is spoken of in tbe complaint as an illustration — as the frontispiece of tbe story; and in tbe subsequent publications it would appear that some peculiarities of this picture were represented by one of tbe figures among many appearing in pictorial illustrations of scenes depicted in these publications.
+We fail to see upon what theory a trade-mark can arise out of tbe circumstances which are here mentioned. Tbe illustrations were different in character, representing different scenes, and simply contained, as a more or less important feature, some of tbe peculiarities of the figure represented in tbe frontispiece of tbe series. In tbe other pictorial illustrations in which tbe character appeared, it was in connection with different characters, objects and scenes, and, therefore, appears to have been used as an illustration merely in tbe other stories of tbe Old Sleuth Library.
+The picture or design which appeared as tbe frontispiece of tbe first story published never was attached to any other book or story, but in all instances was used as a frontispiece for tbe same book or story, and seems only to have been an illustration of that particular story. It never was used in connection with the subsequent numbers of tbe said library or any other stories, except, as has already been stated, in pictorial illustrations, in wliicb tbis same character appeared in connection with different characters, objects and scenes.
+Now, it is clear, it seems to us, that no trade-mark can be established by any such proof as this. The whole design is changed with the requirements of each particular story, for the purpose of illustrating some incident of that story, and merely because a particular character may have been in each one of these stories in no manner changes the fact that these pictorial designs were intended as illustrations, and illustrations alone.
+In order that a party may claim property in a trade-mark it must be a symbol or a design which in itself characterizes and distinguishes the particular goods to which it is attached. If it is so changed in general appearance, by reason of its surroundings, that it bears no longer any resemblance to the original symbol or design, it loses its characteristic as a trade-mark, because it loses its distinguishing features. It might as well be claimed that if ail author put a felt hat upon a figure which was used as an illustration in one story, and used a similar felt hat for the covering of figures used in illustration of other stories written by him, nobody would have a right to use a felt hat upon a figure appearing in an illustration, because this was a trade-mark of this author tending to designate his particular work. And this is substantially all that is done or claimed to have been done by the plaintiff in this action. In the first story of the series he represented a figure in a particular dress. In subsequent stories he introduced a figure bearing some slight resemblance to it, in a different attitude, with different surroundings and conveying an entirely different impression; and he insists that he has the right to call that figure his trade-mark. ¥e cannot see that upon any principle which governs the rights of parties to trade-marks the plaintiff can establish a trade-mark in illustrations in a book or story which he publishes. That must be protected by copyright, if at all.
+The judgment must be reversed and a new trial ordered, with costs to the appellant to abide the event.
+Beady and DaNiels, JJ., concurred.
+Judgment reversed and new trial ordered, with costs to the appellants to abide event.
