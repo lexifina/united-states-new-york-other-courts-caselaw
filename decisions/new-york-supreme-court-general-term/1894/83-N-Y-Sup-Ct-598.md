@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03"
+citations: ["83 N.Y. Sup. Ct. 598"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and IIaight, JL, concurred."]
+parties: ["Floyd C. Shepard and Others, Appellants, v. Watson C. Squire and Another, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/83/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4720107
+cites_cases: ["133 N. Y. 442"]
+---
+
+# Shepard v. Squire
+
+## Majority (Bradley, J.:)
+
+Bradley, J.:
+The defendants were at the time of the commencement of the action and are residents of the State of Washington. The subject of the action is land situated in that State. The plaintiff King is and has for several years been a resident of the State of Minnesota. The place of residence of the other plaintiffs is Ilion in the county of Herkimer, N. Y. This action comes within those to which is applicable the statute which provides that an action “ must be tried in the county in which one of the parties resided at the time of the commencement thereof.” (Code Civ. Proc. § 984.) And because none of the parties resided in the county of Monroe, and two of the plaintiffs then resided in the county of Herkimer, the demand for the change to the latter as the proper county was made. .
+The defendants’ attorney not being served with written consent thereto, gave within due time notice of motion founded upon his third demand for such change of the place of trial.
+The fact that the defendants were non-residents of the State does not deny to them the benefit of the statute referred to for the purpose of proceeding in the manner so provided for changing the place of trial to the proper county.
+Nor are the words “ one of the parties ” in section 984 entitled to such construction as to necessarily embrace all the plaintiffs or all the defendants, when they respectively consist of more than one person. In that case each one of the persons is a party plaintiff or defendant, and the import of the language used is, in view of its pulpóse, the same as if it read that amaction must be tried in the county in which one of the persons, who is a party, resided. Although the phraseology of the section differs somewhat from that of section 135 of the prior Code, no material change in its meaning was intended as appears by Tliroop’s notes, and its appiarent effect is no different. The right to the change of the pilace of trial to the piroper county is absolute when the piroceedings to accomplish it are duly taken and pursued. But it is urged on thepiart of the plaintiffs that the third demand did not constitute a basis in supipiortof the motion, because it was served before the defendants answered the amended complaint and after the answer to the original complaint. It is conceded that they may have effectually served a demand with the answer to the amended compilaint. It may be observed that when it was served the amended one became the only compilaint in the action as effectually as if none had preceded it, and for the piuipose of proceeding to require and obtain a change of the pilace of trial the defendants were at liberty to so treat it. The demand made before answering it was, therefore, effectual to supipiort their motion made in due time thereafter.
+In Penniman v. F. & W. Co. (133 N. Y. 442) the demand served with an amended answer to the compilaint was held sufficient basis for a motion like the one in question. That case does not aid the plaintiffs.
+Here the amended one was the complaint, within the meaning of the statute referred to, and before answering as well as with it the defendants may properly have demanded the change of the place of trial.
+There was no waiver by any proceedings taken prior to the service of this demand of the right of the defendants to proceed upon it. They had before the service of the amended complaint persistently sought to obtain the change. It is difficult to see that one such demand would be waived by another of like character preceding or following it.
+In the present case the proceeding was instituted by a demand permitted and authorized by the service of the amended complaint, and the motion was properly granted.
+The.order should be affirmed.
+Dwight, P. J., Lewis and IIaight, JL, concurred.
+Order granting motion to change place of trial appealed from affirmed, with ten dollars costs and disbursements.
