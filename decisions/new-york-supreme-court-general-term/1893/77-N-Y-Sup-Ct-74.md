@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-06"
+citations: ["77 N.Y. Sup. Ct. 74"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, Macomber and Haight, JJ., concurred."]
+parties: ["Teresa Rice, Appellant, v. Thomas H. Groves, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/77/cases/0074-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4680608
+---
+
+# Rice v. Groves
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+Tbe action was to compel tbe satisfaction and discharge of record of a mortgage executed by tbe plaintiff to tbe defendant, on tbe ground that tbe indebtedness which it was given to secure was paid.
+Tbe condition of tbe mortgage was as follows: “ This grant is intended as security for tbe payment at maturity of a certain promissory note of $1,350, made by the party of tbe first part and John Rice, Ellen Rice, William H. Rice and Katherine Rice, and indorsed by said Thomas H. Groves, dated March 26,1890, due three months after date, at Merchants’ Bank, Rochester, N. Y., and of any renewal or renewals thereof, and for tbe payment of any indebtedness of tbe said party of tbe first part, or of tbe makers of said note, or either of them, which now exists or which may hereafter exist, to said second party; and to save said second party harmless from loss, cost or damage, by reason of said indorsement, or for any indorsement hereafter for said parties or either of them; which said note and indebtedness, principal and interest, the said party of the first part hereby covenants and agrees to pay in the manner and at the time aforesaid.” It appeared by undisputed evidence that the particular note of $1,350, mentioned in the mortgage, was paid, but that further indebtedness to. a considerable amount had arisen upon notes of John and William Rice, indorsed and paid by the defendant, and was owing at the time of the commencement of this action.
+The only question in the case was whether such indebtedness was within the security of the mortgage executed, as- above, by the plaintiff; and the only other fact which requires to be considered in that connection is the circumstance that the particular note of $1,350, which is described in the mortgage as made by the party of the first part (the plaintiff) and John and Ellen and William and Katherine Rice, was in fact, when it came to be indorsed by the defendant, signed by the plaintiff alone. In view of this fact, it is contended on the part of the plaintiff that the application of the security is limited to such indebtedness as arises >upon paper signed by the plaintiff herself. The language of the mortgage in this respect is, as we have seen, “ any indebtedness of the party of the first part, or of the makers of said note, or either of them,” and “any indorsement hereafter for said parties or either of them.” Some testimony was given on the part of the plaintiff which suggests an attempt to make a case of fraud or mistake in connection with the execution of the mortgage; but that purpose is expressly disclaimed on her behalf, and there is no. allegation to that effect in the complaint. She stands upon the strict reading of the security and contends that the phrases “the makers of'the note or either of them” and “said parties or either of 'them,” must be construed to cover only the actual maker of the note referred to and not the persons named in the mortgage as the makers .of the note.
+It seems clear that this contention is a mistaken one. It is •apparent that the mortgage was drawn before the note was signed, when it was expected that it would be signed by the parties who ¡are named in the mortgage as its makers, and that, being once named as tbe makers of tbe note, they were subsequently referred to by that designation to avoid the repetition of then names.
+In other words, when the mortgage speaks of “ the makers of the note or either of them,” the reference is to the persons therein before named as the makers of the note, and in the corresponding phrase, “ the said parties or either of them,” the reference is the same.
+This obvious interpretation of the language of the mortgage is in harmony with what appears incidentally in the case in respect to the occasion and purpose of the execution of that security. It seems that one Edward J. Rice, being an insolvent and having — as it was expressed by one of the counsel here — lost the use of his name, was doing business as a contracting plumber, in the name of his brothers, John and William Rice, under the style of Rice Brothers, and that he was the financial manager of the business. He was also-the agent of his wife, in whose name the real estate covered by the mortgage was held. Having occasion to procure assistance for the firm by the indorsement of the defendant, he offered him security on the real estate mentioned, and himself procured his wife to execute the mortgage, which she did with knowledge of its terms and without fraud or mistake. The note of $1,350 was the first to be indorsed by the defendant on the credit of the mortgage, and was expected to be signed by the brothers John and William and their wives as well as by the plaintiff. It was made for the benefit of the firm, as were also the subsequent notes indorsed by the defendant, which were made by the ostensible members of the firm.
+The findings of fact of the court at Special Term were based upon substantially uncontradicted evidence, and they support the conclusions of law which are in accordance with the views above expressed.
+The complaint was properly dismissed and the judgment appealed from should be affirmed, with costs.
+Lewis, Macomber and Haight, JJ., concurred.
+Judgment appealed from affirmed, with costs.
