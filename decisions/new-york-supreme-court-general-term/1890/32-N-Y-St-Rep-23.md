@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-06-19"
+citations: ["32 N.Y. St. Rep. 23"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Smith, Resp’t, v. Norman Sheridan, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039571
+---
+
+# Smith v. Sheridan
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+This action, which was brought to recover for wages under a contract of hiring, was tried before a justice of the peace and a jury, and resulted in favor of the plaintiff. The judgment entered upon such verdict having been affirmed by the county court, an appeal was taken by the defendant to this court. The proposition relied upon to sustain this appeal is that the justice erred in excluding evidence offered in behalf of the defendant. The plaintiff relied upon an affirmative contract of hiring at current wages. The defendant, under a general denial, set up a different contract, namely, that the plaintiff was to work for such compensation as the defendant saw fit to make to him. This issue presented a question of fact for the jury, and their determination must be deemed to be conclusive upon the rights of the parties, unless the exclusion of the evidence above-mentioned is error for which the judgment should be reversed. Upon the question of quantum meruit, many witnesses were examined, a large majority of whom gave evidence which clearly sustained the sum awarded the plaintiff as compensation for his labor. The question propounded to the witness Lambert, namely: “What was-the custom with regard to hiring the plaintiff in your neighborhood ? ” was clearly irrelevant to any issue presented by the pleadings or the proof. An answer to it would not have diminished the force of the evidence establishing the contract as claimed by the ¡ilaintiff, nor would it have supported the claim made by the defendant. Both parties relied upon a special contract, but differed as to the terms of such contract. Under-these circumstances what the jjlaintiff had received in the neighborhood, if such indeed was what was designed to bring out by the question, when working without a special contract, was wholly irrelevant, and was. properly excluded by the justice.
+The judgment appealed from should be affirmed, with costs.
+Dwight, P. J., and Corlett, J., concur.
