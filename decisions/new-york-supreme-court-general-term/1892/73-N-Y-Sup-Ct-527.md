@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-12"
+citations: ["73 N.Y. Sup. Ct. 527"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Barrett, J., concurred."]
+parties: ["JACOB SCHMIDBERGER, Appellant, v. JOHN BLONER and GEORGE BLONER, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/73/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2396270
+---
+
+# Schmidberger v. Bloner
+
+## Majority (O’Brien, J.:)
+
+O’Brien, J.:
+This action was brought to recover damages from the defendants for alleged forcible entry and detainer. Upon the trial it appeared that the plaintiff had hired from one of the defendants, and entered into possession of, a plot of land iii Westchester, which he utilized in raising “ garden truck.” It further appeared that on July 29,. 1890, the defendants, who were upon the land by permission of the-plaintiff constructing for him a house, engaged with him in a quarrel concerning money paid for some potatoes which had been raised upon the premises and sold to a grocery. The money which it is claimed the defendants so received, the plaintiff demanded of them, which they refused to give; to quote the plaintiff’s language, he' then said: “ The place belongs to me, and to-morrow morning-nobody can come into my gate again, neither groceryman nor you can come into my gate to-morrow morning, not if I have to stand, there with a pitchfork to guard my potatoes.”
+Plaintiff further testified that thereupon “they came downs from this house; they ran after me and picked up stones and 1 knocked back two stones with a.pitchfork, and I saw they were: coming too close with me, with great big stones in their hands, and', threw stones at me, and I went out of the gate and they acted likes wild men; they said, ‘Kill that dog’; they said, ‘He is no good,, anyhow; ’ I went inside of my house; I went into the house that I had rented; it was about two hundred yards away from the place-where I had rented rooms, and I went into those rooms; I have never returned to this farm.”
+Besides the plaintiff, two other witnesses were examined; one his. wife, who, in addition to stating that her husband had correctly given what had occurred between himself and the defendants, testified that the defendants said: “ If he comes in again in the place-there will be murder, and he shall never go in again;” “and then I told my husband never to come in again.” The other witness, was the father of Mrs. Schmidberger, the last witness, who testified to a conversation which he had with John Bloner, one of the defendants, and his wife in their house. He stated that they told him that the plaintiff and his wife should not go back to that place, otherwise there would be murder; and this the witness was directed, to state to the plaintiff. It does not appear, however, that he communicated this to the plaintiff, and the conversation itself appears, to have occurred after the plaintiff had abandoned the place as the* result of the quarrel which had been detailed.
+"We think that the statement we have given of the principal facts'testified, upon which the plaintiff relied to support the action, will demonstrate that it was insufficient, and that the disposition made-by the trial judge in dismissing the complaint was correct. Because,, in the first place, there was no forcible entry by the defendants, they having gone there, at the invitation and by the permission of" the plaintiff, to assist him • in constructing a house, and all the testimony as to what occurred shows that there was a quarrel, resulting in bad blood and the threatened killing of the plaintiff with stones, which, in the heat of the quarrel, the defendants had taken up from ■the ground, and with which they had driven the plaintiff off the premises. After this the plaintiff did not return to the premises, and, so far as the testimony would show, neither did the defendants. With the exception of one little piece of testimony on the part of" the wife, who states that she saw the wagons of the defendants go-upon the land at sometime after the quarrel, the case is entirely barren of any evidence to show that the defendants thereafter ever went upon the premises; and on the occasions referred to by her, it may have been for the purpose of completing the house which was then in course of erection, or for some other lawful purpose,, and in tlie absence of testimony showing that the plaintiff had denied the right to the defendants of entering upon the land, this cannot be construed into a forcible detainer.
+It will thus be seen that the elements of trespass and holding possession by force, which are essential attributes of an action for forcible entry and detainer, are wanting. As already stated, neither of these were shown upon the trial. The original entry was lawful, and in the absence of testimony showing that the defendants, by force, prevented the plaintiff from regaining possessiomof the land, a recovery for forcible entry and detainer could not be sustained. The most that was shown was an altercation, followed by an assault by the defendants upon the plaintiff, which resulted in driving him, for the time being, from the land. But this testimony was not sufficient to go to the jury, nor would it have sustained a recovery upon the ground assigned in the cause of action.
+¥e are of opinion, therefore, that the judgment appealed from should be affirmed, with costs.
+Yan Brunt, P. J., and Barrett, J., concurred.
+Judgment affirmed with costs.
+Cas.es DETERMINED IN THE FIFTH DEPARTMENT AT GENERAL TERM, pmumj, 1893.
