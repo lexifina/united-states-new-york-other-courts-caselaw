@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court"
+decided: "1841-08"
+citations: ["1 Hill & Den. 649"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Burt vs. Mapes,"]
+source_url: "https://static.case.law/hill/1/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674616
+cites_cases: ["13 John. Rep. 139"]
+---
+
+# Burt v. Mapes
+
+## Majority (By the Court, Cowen, J.)
+
+By the Court, Cowen, J.
+No legal merits are sworn to in the defendant’s affidavit; and if we set aside the default, it must be on the ground that the proceedings in this cause are irregular by reason of the injunction. But this was not much insisted on by the counsel for the defendant. Where the defence is hopeless at law, and based entirely upon equitable considerations set up in a bill for' an injunction, it is, in general, proper, that the suit at law should proceed to judgment, in order that the plaintiff may at once have execution according to his legal right, if the defendant should ultimately fail to establish the alleged equity. Indeed, the injunction itself almost uniformly provides that the suit may so proceed. (Rule 33 of N. Y. Chancery.) It is difficult to see from the papers before us, why ■the injunction in question did not contain such a provision. It seems, however, not to have done so; and had the defendant sworn to merits, we might have allowed the state of things in chancery as an excuse for not pleading, and let him in on terms. We can not, however, regard the injunction as, per se, rendering the plaintiff’s proceedings irregular, like the order of a judge or commissioner.
+As to staying proceedings, no case is produced wherein the courts of law have lent their aid to enforce injunctions from chancery, nor am I aware of any. In Hoyt v. Gelston, (13 John. 139,) an application was made to set aside a verdict which was alleged to have been taken in violation of an injunction; but the writ appeared to have been dissolved, and the motion was denied for that reason. It is true, the court go on to say that, as a general rule, they would notice an operative injunction, for the purpose of promoting the ends of justice, and of preserving harmony between the courts. With the greatest deference, however, I should think any notice which we can take of an injunction as influencing our own practice in the cause to which it relates, would rather constitute an exception than a general rule. We should of course allow it, under circumstances, as an excuse for delay, or for omitting some step in the cause; and so save the party enjoined from the effect of forbearing to sue out execution, from a default or judgment of non pros, or judgment as in case of nonsuit, &c. (Vid. Tidd’s Pr. 318, 319, 327, 328, 625, 1006, Am. ed. of 1807. Mitchell v. Cue, 2 Burr. 660. Eden on Inj. Am. ed. of 1839, p. 163 to 166. 3 Woodd. Lect. 398. Powis v. Powis, 6 Moor. 517. 2 R. S. 282, 2d ed. § 5.) But we can not receive it as rendering proceedings irregular, because contrary to it; and above all, cannot enforce it in the manner we are now called upon to do. The act of bringing the second suit was either a violation of the injunction, or it was not. If a violation, the vice chancellor' has power to administer the appropriate redress, While we have not. If it be not a violation, of course neither court should interfere.
+There are several considerations of expediency which forbid our interference by way of enforcing an injunction. When the chancellor is called on to aid" the courts of law, he has the means of inquiring into the merits of the application, and rendering his aid efficient. But we have no such means with respect to proceedings in his court. The in-. junction depends, on facts to be collected from bill and answer; if is commonly temporary, and its continuance dependent very much on his discretion. Though in force to-day, it may be dissolved to-morrow, and a stay here till the suit before him is ended, might come in direct collision with his purpose. To order a stay till he should dissolve the injunction, would be an act of very little use, to say the least, while the propriety of doing so on the merits, might often be very difficult of settlement upon a motion made here.
+It is many times a nice question, whether the injunction have been violated or not, depending on a reference to volumipous papers which can not be examined here, nor even seen by us perhaps in their proper connection; at all events, not without great expense to the parties. The decisive objection is, however, that our assistance is not required by the chancellor, because his power to enforce ah injunction and render it effectual to its proper end, is, in all respects, complete, while ours is unknown, and must remain so unless we are prepared to usurp a new jurisdiction.
+Motion-denied.
