@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1875-03"
+citations: ["6 Thomp. & Cook 197", "10 N.Y. Sup. Ct. 706"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Speyers v. Fisk."]
+source_url: "https://static.case.law/thomp-cook/6/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2436893
+cites_cases: ["1 Pet. 316", "1 Wend. 524", "1 Wend., 524", "10 Johns. 226", "15 Barb. 524", "15 Barb., 524", "16 Barb. 33", "16 Barb., 33", "17 N. Y. 354", "18 Johns. 459", "18 Johns., 459", "28 N. Y. 169", "28 N. Y., 169", "3 Cai. 4", "3 Denio, 577", "3 Johns. Ch. 507", "46 How. 294"]
+---
+
+# Speyers v. Fisk
+
+## Majority (Beady, J.)
+
+Beady, J.
+The proposition upon which the learned justice at special term sustained the demurrer in this case is undoubtedly correct. “All contracts with partners are joint and several, every partner is liable to pay the whole debt,” as said by Lord Masefield; but their responsibilities are not joint and several, so as to subject each to a separate action. Robertson v. Smith, 18 Johns. 459; Van Tine v. Crane, 1 Wend. 524. Each partner is bound for the whole until the debt is paid.
+The plaintiff alleges that at the request of James Fisk, Jr., and one' Jay Gould, he rendered services for their benefit and on their account for which they jointly and severally promised and agreed to pay him his brokerage. There is no allegation that they were partners. The charge is that each agreed to pay for the service rendered to both, and each became liable for the whole debt as soon as the service was performed. If it were otherwise there would be no vitality in the separate promise, and the plaintiff’s remedy and the defendant’s liability would be dependent upon the rules governing joint obligations. The plaintiff would then, James Fisk, Jr., having died, be obliged to exhaust his remedy against Jay Gould, unless he were insolvent, before he could resort to the representatives of the deceased joint debtor.
+Where the contract was joint and several, under the system which prevailed prior to the Code, the right of action existed against either or both. The plaintiff was at liberty to proceed against the parties jointly or each separately, though their interest was joint (1 Chitty on Pl. 49), but if the action were brought against both the plaintiff was, by a common-law principle, held to have elected to consider the demand joint, and must have failed if he did not establish the joint promise. Parker v. Jackson, 16 Barb. 33, and cases cited. This rule was abrogated by sections 136 and 274 of the Code, which provided that judgment might be taken against any of the several defendants if the plaintiff would be entitled to judgment, had the action been against him alone. Parker v. Jackson, supra; McIntosh v. Ensign, 28 N. Y. 169; Brumskill v. James, 11 id. 294; Marquat v. Marquat, 12 id. 336; Harrington v. Higham, 15 Barb. 524.
+The contractors, Fisk and Gould, being, by the terms of the contract, separately liable, the action could be brought against either, or the personal representatives of the one dead, and the order made at special term was, therefore, erroneous and should be reversed.
+Order reversed.
+The following is the opinion delivered at special term:
+Van Vorst, J. This action is brought against Lucy D. Fisk as executrix of the last will and testament of James Fisk, Jr., deceased, to recover the sum of $14,875, for services alleged to have been performed by the plaintiff, a gold broker, in and about the purchase of $11,900,000, gold coin, for James Fisk, Jr., in his life-time, and one Jay Gould, at their request and for their benefit, and on their account. The legal effect of such averment is to constitute a joint liability on the part of Fisk and Gould. This follows from the statement that the services were rendered, at their request, for them, and on their account. True, it is afterward stated in the complaint that Fisk and Gould jointly and severally promised and agreed to pay for the services. But a joint debt is the obligation of each contractor, and each is liable to pay the same. In Rice v. Shute, 5 Burr. 2613, Lord Mansfield said: All contracts with partners are joint and several, every partner is liable to pay the whole debt.” But notwithstanding such promise to pay, if Fisk were living it would not have been proper to have sued him alone for these services, as long as the joint contractor was also in being. But being dead, there is no propriety in suing his legal representative. There is no authority for such action. All actions brought in respect of any contract entered into by or on behalf of partners, or joint contractors in the case of the death of one of them, ought to be brought by or against the surviving partner or contractor alone. The representatives of the deceased cannot be sued in respect of such contract. Carrere v. Spofford, 46 How. 294. Upon an allegation of the insolvency of the survivor, it may be that the representative of the deceased might be joined as a defendant. But it is not' necessary to decide that here. The complaint fails to show a cause of action against this defendant, and judgment is awarded the defendant on the demurrer with costs.
