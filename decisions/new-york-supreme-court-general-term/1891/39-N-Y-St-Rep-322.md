@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-06-12"
+citations: ["39 N.Y. St. Rep. 322"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isidore S. Korn et al., Resp’ts, v. New York El. Railway Co. et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061991
+cites_cases: ["39 Hun, 47", "51 Supr. Ct Rep., 1", "53 N. Y., 154"]
+---
+
+# Korn v. New York Elevated Railway Co.
+
+## Majority (Patterson, J.)
+
+Patterson, J.
+—There are numerous exceptions to the rulings of the trial judge presented by this record. Yone require consideration except three, which were insisted upon on the argument of this appeal.
+The first claim made by the appellants is that the plaintiffs having acquired title to the premises after the railroad was built, and paying a diminished price for that reason, has not sufficient equity to entitle them to an injunction or to the relief sought by the complaint This question has been decided adversely to the appellants’ contention-in several cases, beginning with that of Glover v. Manhattan R. Co., 51 Supr. Ct Rep., 1. That decision has been followed in subsequent cases which are collected in the opinion of the general term of the court of common pleas in Werfelman v. Manhattan R. Co., 32 N. Y. State Rep., 683.
+It is not necessary to discuss the principles upon which these cases proceeded, as they undoubtedly proclaim the rule of law as now understood applicable to this case upon the facts as they appear.
+The second exception requiring consideration relates to the damages awarded to the plaintiff for depreciation in rental value of the premises. The learned judge below held that the plaintiff, as owner of the fee, was entitled to recover damages to rental value, notwithstanding the premises were in the possession of a lessee, from whom b.e received the rent stipulated in the lease. This lease was made in 1886, and extended by agreement until May, 1890. The plaintiff acquired title to the premises in June, 1887; that is, after the lease was first made and while it was in operation.
+The award of damages to rental value, of course, proceeded upon the principles upon which such damages would be allowed in a common action for trespass; and at the common law, perhaps, the owner of the reversion would not be entitled to maintain such an action. But § 1665 of the Code of Civil Procedure provides that a person seized of an estate in remainder or reversion may maintain an action for an injury done to the inheritance, notwithstanding any intervening estate for life or for years.
+It was clearly proven that the rental value of the property was reduced by the occupation of the street by the elevated railroad structure and by the trespass committed by the defendants upon the plaintiffs’ property; and the difference in rental value caused by the presence of this structure was fully proven. This subject was well considered in the case of Mortimer v. Manhattan Ry Co., 29 N. Y. State Rep., 262, and the reasoning in that case applies to this, unless it is to be considered that the plaintiff having become the owner of the property during the running of the lease could not maintain an action to recover for the loss of rents. But it seems to be quite clear that the owner is entitled to sue for trespass resulting in damage to the reversion, and during the whole period covered by this lease the rental value was diminished by reason of the existence of the structure and the operation of the defendants’ railroad. As was said in the case cited, the rule is settled in this state “ that the proper measure of damages for a trespass upon real estate or for the maintenance of a nuisance is the difference in rental value free from the trespass or nuisance and subject to it; and the rule has been applied, although the property was not rented but was occupied by the owner.” Francis v. Schoellkopf, 53 N. Y., 154; Michel v. Supervisors, 39 Hun, 47; Wiel v. Stewart, 19 id., 272.
+If, therefore, the plaintiff has the right to recover for the trespass, the recognized rule of damage would be the difference in the rental value; and the application of the rule does not depend upon either the actual receipt of rent, the occupation of the property by the owner, or the premises standing idle. It is the one rule of damage which is applicable ordinarily to such cases, and in the absence of any proof of special damage.
+It is further contended that it was error in the court 'below to refuse to recognize special benefits conferred upon this property by the advantages alleged to have accrued to it by the building and operation of the Elevated Railroad. In the Newman Case, 30 N.Y. State Rep., 36, which was a common law action, it was decided that special benefits must be taken into consideration in the ascertainment of the right of the plaintiff to recover damages. But on looking over this record, even supposing that the Newman case applies to a suit in equity for an injunction where the defendant is allowed to pay a sum of money, the value of the easement, to prevent the issuance of an injunction, as to which we express no opinion, the proof in this case was not at all sufficient to justify any finding that this property was benefited in such a way as to cause any reduction in the estimate of the fee value which was made by the learned judge in the court below. There was no evidence of any special benefit that could be set off against the inconveniences resulting from the maintenance and operation of the road.
+The conclusions arrived at as to the value of the easement and the rental value of the premises were entirely justified by the •evidence, and there being no error the judgment should be affirmed, with costs.
+Barrett, J., concurs.
