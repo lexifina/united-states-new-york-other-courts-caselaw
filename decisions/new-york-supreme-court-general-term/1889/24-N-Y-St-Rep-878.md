@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-09"
+citations: ["24 N.Y. St. Rep. 878"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Beary, App’lt, v. John G. Hoster, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/24/cases/0878-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2024331
+---
+
+# Beary v. Hoster
+
+## Majority (Dwight, J.)
+
+Dwight, J.
+The order seems to have been made on the ground that the defense being of an equitable nature, the* cause could not be tried by a jury. But both causes of action stated in the complaint were purely legal, and the only defense to the first was a general denial. Without examining the pleadings further it is manifest that upon this issue, at least, the plaintiff had the constitutional right to a trial by jury.
+It is objected that the order is not appealable because it does not affect a substantial right. Of course it is not contended that the right of trial by jury is not a substantial right, but it is said that that right is not affected, because the plaintiff may still, if he desires it, have issues framed, and the questions of fact determined by a jury. The difficulty with this proposition, is that the framing of issues, in an equity cause, is not a right, but rests entirely in the discretion of the court. So that by the order in this case the plaintiff was deprived of his absolute right to a trial" by jury.
+The order was therefore both erroneous and appealable, and should be reversed.
+All concur.
+Order reversed with ten dollars costs and disbursments.
