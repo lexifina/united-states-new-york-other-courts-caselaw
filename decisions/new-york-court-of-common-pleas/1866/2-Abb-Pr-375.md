@@ -1,0 +1,22 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1866-12"
+citations: ["2 Abb. Pr. 375"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PINE against ORMSBEE."]
+source_url: "https://static.case.law/abb-pr-ns/2/cases/0375-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1954282
+---
+
+# Pine v. Ormsbee
+
+## Majority (Cardozo, J.)
+
+Cardozo, J.
+I am of opinion that a partnership such as the jury found in this case—that is, one for no definite period—is dissolvable by either party—mere notice by one party to the other would terminate it. I think, also, that a dissolution may be implied from circumstances, and that the withdrawal of a partner, and his refusal to go on with the business of the partnership, justifies such an inference. (See Story on Part., §§ 269, 272; Collyer on Part., § 109).
+. The allegation of the bill .here is, and, according to my recollection, the proof was, that Mr. Pine withdrew from the partnership on the 2d of February, 1865, and never afterward took any part in it. This, I think, clearly brings the case within the rule that a dissolution by implication should be inferred from the withdrawal of a partner, and his refusal to proceed with the business, but this does not absolutely dispose of the question as to the period to be covered by the accounting. If Mr. Ormsbee had then put aside Mr. Pine’s share of the proceeds, and kept it sepai’ate and distinct from the moneys with which he carried on business subsequent to the dissolution, I think that period would terminate Mr. Pine’s right to an account. But it is perfectly settled that if either partner uses the partnership property (even after dissolution, before final accounting and distribution), and makes profit out of it, he must account for that profit as partnership property, or he may be charged with interest.
+Probably at this day no one would question this rule or its applicability if this partnership were an ordinary one in which the partners were interested in the stock. But the fact that they were only interested in the proceeds, can make no difference on principle. If by the use of the proceeds, in which Pine was interested, Ormsbee has made any profit, that profit must be decreed to be partnership property. Mr. Ormsbee could have prevented this consequence either by setting apart, as I have said, Mr. Pine’s share, and not using it at all, or by accounting regularly with him, if not by amicable arrangement then by filing his bill in equity for that purpose, and, if he omitted to take either of these methods, and used the partnership funds, he must be treated as doing so as a trustee, and required to account accordingly.
+The interlocutory decree should therefore, I think, be something special. It ought to provide absolutely for an accounting from FTov. 24, 1864, to February 2, 1865, and declare Pine’s interest in that, and it should also direct the referee to inquire and report whether Mr. Ormsbee had used the proceeds or any part thereof, in which he and Pine were jointly interested, in carrying on business since the 2d of February, and if not how he separated them from his other money; and the referee should also take and state an account of the business subsequently to Feb. 2, and down- to the time of his report, which will be for the information of the court, so that when it makes a final decree it will be able to say whether Mr. Pine has the right to an account to Feb. 2, only, or to the date of the report; and to fix the amount to which he may be entitled without the trouble of any further reference,'according as upon the referee’s report, and the pleadings,' proofs, and verdict, the court may be of opinion that the one or the other period is to control. The order should also provide that the referee ascertain and report, whether any orders given before February 2, 1865, were filled after that date, and take, an account of those transactions separately, as well as in the -general account after February 2, because probably, even if Mr. Ormsbee should show such a state of facts as would exempt him from general liabilities after February 2, he might still be bound to account for the proceeds of such transactions. At all events, the whole matter will be before the court; and the final decree can be made without further inquiries being ordered. The proposed interlocutory decree should be conformed to these views, and will be settled on notice to Mr. Ormsbee’s attorney.
