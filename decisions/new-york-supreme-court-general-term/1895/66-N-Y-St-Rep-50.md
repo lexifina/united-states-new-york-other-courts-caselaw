@@ -1,0 +1,19 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-02"
+citations: ["66 N.Y. St. Rep. 50"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Susie Sheldon, App’lt, v. Cornelia Mott et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/66/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2110214
+---
+
+# Sheldon v. Mott
+
+## Majority (Pur Curiam.)
+
+Pur Curiam.
+On the 9th day of April, 1894, an order was made in the above-entitled action, dismissing plaintiff’s complaint, and judgment entered thereon. The plaintiff thereafter appealed therefrom to this court. Pending such appeal, and on the 27th day of November, 1894, an order was made at a special term of this court, whereby Alonzo P. Strong was substituted as the plaintiff’s attorney of record in this action, in place of Frank H. Short, from which order Mr. Short appealed to this court. On the 21 day of December, 1894, Justice Martin granted an order staying “all proceedings on behalf of the plaintiff herein, or by and on behalf of Alonzo P. Strong, as attorney or otherwise, on the order granted by a special term of this court [being the order of substitution referred to], until the decision of the general term upon the appeal taken from such order by the appellant, Frank H. Short.” Thereafter, on the 4th day of February, 1895, the said Frank H. Short was served with affidavits and notice of a motion to be made at this term of the court to dismiss the appeal from the order herein granted on the 9th day of April, 1894, dismissing the plaintiff’s complaint in this action, “and for such other relief as may be just, with costs of motion against Frank H. Short personally.” The notice of motion was signed, “ Alonzo P. Strong, Appearing as Attorney for Susie Sheldon, Plaintiff, for the Purposes of this Motion.” It is unnecessary to discuss the merits of the.motion, or allude to the contents of the affidavits upon which the motion is founded. The motion is made by Alonzo P. Strong as attorney for the plaintiff. He has heretofore been substituted as attorney for the plaintiff, but an order has been granted by a justice of this court, prohibiting him from acting upon such order until the hearing and determination of the appeal therefrom. His claim is that he is not violating such stay, because the stay prohibits him from taking any proceedings on that order ; and he professes that he is not appearing for the plaintiff pursuant to such order, that-his appearance is for the purposes of this motion only. This seems to us merely an evasion. The stay cannot be nullified by a special appearance. The order appointing an attorney for the plaintiff appoints him as attorney in this action. If he succeeds in this motion now before us, the action will be finally ended and disposed of; everything that can be accomplished by an attorney of record, will have been accomplished. He will have acted as attorney for the plaintiff in this action, and will have accomplished all that an attorney could do. He will have discharged those functions which the order of the special term substituting him as an attorney of record was intended to enable him to discharge, and that despite the order of Justice Martin prohibiting him from so doing. We do not think that we should permit orders of justices of this court to be thus trifled with or evaded. The proper course to pursue is to endeavor to have the stay vacated or modified. The motion is therefore denied, with $10 costs, to be paid by Mr. Strong personally, without prejudice, however, to the renewal of the motion upon the vacation or modification of the stay of proceedings herein referred to.
