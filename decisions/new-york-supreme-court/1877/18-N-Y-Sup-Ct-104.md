@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1877-05"
+citations: ["18 N.Y. Sup. Ct. 104"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, P. J., concurred. .", "Present- — Davis, P. J., Brady and Daniels, JJ."]
+parties: ["HENRY M. BRADHURST, Appellant, v. MARY A. TOWNSEND and others, Executors, etc., Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/18/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4448914
+---
+
+# Bradhurst v. Townsend
+
+## Majority (Daniels, J. :)
+
+Daniels, J. :
+This action was brought to set aside the assignment and to obtain a reassignment of two bonds and mortgages, assigned by Henry Nicoll, acting under a power of attorney from the plaintiff, to himself and the other two defendants, as executors of the estate of Isaac Townsend, deceased, and for the recovery of the moneys which had in the meanwhile been collected upon them. The answer denied certain of the material allegations of the complaint, and then, by way of counter-claims, set forth that Nicoll and two other persons empowered to act with him as attorneys of the plaintiff, had in their possession three other bonds and mortgages, with authority to assign them, and that they did, for the consideration of $15,000, assign them to the defendants as such executors. It was further alleged that the plaintiff had afterwards acquired possession of them and refused to deliver them to the defendants. Similar allegations were made concerning the assignment of two other bonds and mortgages which were alleged to have been afterwards assigned to the plaintiff, who refused to assign or deliver them to the defendants. It was shown by the answer that these bonds and mortgages were each assigned to the defendants at different times from that when the assignment, complained of by the plaintiff as unlawfully made, was executed and'delivered; and that since then Nicoll had resigned his position as one of the executors and trustees under the will of Isaac Townsend.
+The transaction forming the ground of the plaintiff’s complaint was alleged to have taken place on the 4th of November, 1870, while those upon which the counter-claims have been predicated did not occur until January and October, 1873; and they were in no respect connected with the assignment or the other bonds and mortgages assigned, as they were described and set forth in the complaint. If the plaintiff shall prove himself entitled to recover, he will secure a reassignment of the bonds and mortgages mentioned in his complaint, and receive the interest which the defendants have collected upon them; and if the defendants succeed in maintaining their right to the bonds and mortgages assigned to them, they will be entitled to a similar judgment, but only for the delivery of those securities. Both the determinations required under the pleadings to be made,-if they should all be made, will be distinct and separate. They will be entirely independent of each other. One, in no legal sense, can qualify or affect the other; and fully to hear and determine either will require no reference to or knowledge of the other. The fact that they resulted from the existence of the same power over the plaintiff’s property has not in any way united or identified them ; they are still just as separate and distinct as they would have been if a special power had been created for the disposition of each of them.
+If the foundation of the different claims made be conceded to have been that of contract, the position of the defendants will be in no way advanced by it, for the contracts existing in their favor have no relation whatever to that sought to be annulled by the plaintiff; they were made at different times, for the purchase of distinct securities and upon different and dissimilar termsand they are equally as distinguishable from and disconnected with each other, as the answer has described them, as they both are from the transaction set forth in the complaint.
+It has not been, as it could not with any propriety be, claimed, that the plaintiff’s action is upon contract, as that term has been used in the provision made concerning counter-claims. But it has been insisted that the answer was proper because the counter-claims alleged arose out of the contract or transaction set forth in the complaint as the foundation of the plaintiff’s claim, or that it was connected with the subject of the action. Either of those attributes would render the counter-claims proper. (Code, § 150.) But neither has been shown to exist in the defendant’s favor. What does appear by the pleadings are distinct and separate causes of action in equity, having no relation to or connection with each other. The object of one is to vacate and set aside the transaction out of which it has arisen, and of the other to secure a specific performance of the acts necessary to complete assignments shown to have been made. The demurrer was proper, and it should have been sustained. Eor that reason the order should be reversed, with costs, and the demurrer sustained.
+Davis, P. J., concurred. .
+Present- — Davis, P. J., Brady and Daniels, JJ.
+Order reversed with costs ; demurrer sustained.
