@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-07-26"
+citations: ["69 N.Y. St. Rep. 21"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kate Foley, App’lt, v. Manhattan Elevated Railway Company, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/69/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2119421
+---
+
+# Foley v. Manhattan Elevated Railway Co.
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is an action'for damages for injuries sustained By the plaintiff upon a stairway leading to the elevated railroad station of the defendant. At the close of the testimony the complaint of the plaintiff was dismissed, and she has appealed from the judgment of dismissal.
+The testimony on the part of the plaintiff is very unsatisfactory in respect to the precise cause of her injury. She says that she entered the car at Twenty-third street and Third avenue, and left at Sixty-seventh street. She started downstairs, and, after descending about'five steps, her feet were held fast in the rubber, and she was thrown downstairs. She says her feet were caught in the rubber which was on the stairs. She says both her feet were caught in the rubber, and she fell down. She could not say how she came to fall all the way down, but that her feet were held fast. She says her niece had preceded her, and returned, took her by the hand, and turned her over, and then she fell to the bottom; then her feet got loose, and she rolled down to the platform. On her cross-examination she said she put both her feet on the same step at the same time. The niece of the plaintiff, who was with her at the time, was called, and she testified, after she missed her aunt, she went back and took her by the shoulder, and turned her, and she loosened her from the rubber, and then she slipped down the remainder of the stairs to the bottom. The plaintiff fell to the bottom of the stairs when she loosened her from the rubber. Then site said that after she loosened her from the rubber she fell about two steps, and then rested on the platform. After she had fallen two steps, she went to the bottom, and then the ticket man came down and took her upstairs in the waiting room, and she stayed there. Then the station agent of the defendant at Sixty-seventh street was called as a witness, and lie said there were two flights down the stairway—seventeen steps at the top flight and twelve on the bottom—and that the top flight was the one upon'which the plaintiff fell. He says that before the plaintiff fell he wrent upstairs and down the stall's and examined them, and they were in a good condition at that time, and there were no holes in the rubber. The following question was asked him: “Q. Was there anything the matter,— holes worn, frayed, cut, or torn ? A. Nothing whatever, sir.” Then he went on to say that he examined every step of the stairs after the accident, and found everything in good order, about two or three minutes after the accident, as soon as he could do it. Then .the porter of the defendant at Sixty-ninth street was called, and he said that lie knew the condition of the stairs on that day. and found them in good order, and the rubbers nailed on, and there was nothing loose, and no nails sticking out. He put his hand on the stairs where the lady was, and found nothing loose, neither nails nor screws.
+It thus appears that the testimony respecting the accident was so unsatisfactory and uncertain that it was insufficient to charge the defendant with negligence. The plaintiff says that both her feet were on the same step at the same time, and that they were both caught in the rubber. She says further that the heels of both her shoes were torn off. This state of affairs would seem.to be impossible for the testimony of the employes of the defendant; but, even if it should be assumed that they were at the time out of order, so that the plaintiff’s shoes would be caught under the rubber, that state of affairs could not have existed for a sufficient length of time to justify a charge of negligence against the defendant for their condition. If they were out of order, it was for a very few moments, during which time the defendants had no notice of their condition, and no time or opportunity for their reparation. The law would not justify an inference of negligence against the defendant for a defect in these stairs, or the rubbers upon them, which had existed but for a few moments, and of which the defendant had no notice.
+Our conclusion is that the complaint was properly dismissed, and the judgment must be affirmed, with costs.
+All concur.
