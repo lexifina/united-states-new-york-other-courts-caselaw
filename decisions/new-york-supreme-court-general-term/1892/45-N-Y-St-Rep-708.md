@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-04-13"
+citations: ["45 N.Y. St. Rep. 708"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Kiefer, Adm’rx, App’lt, v. The Grand Trunk Railway Co. of Canada, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/45/cases/0708-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2081403
+---
+
+# Kiefer v. Grand Trunk Railway Co. of Canada
+
+## Majority (Lewis, J.)
+
+Lewis, J.
+This action was commenced in January, 1884, to recover for the negligent killing of the plaintiff’s intestate.
+On January 31, 1890, on motion of the plaintiff, an order was made that an open commission issue to Walter S. Jenkins, of Buffalo, authorizing him to examine witnesses to be produced on the part of the plaintiff and any witnesses that might be produced on the part of the defendant, on or before the 7th day of April, 1890, in the city of Toronto, Canada. On March 22, 1890, the attorneys entered into a written stipulation extending the time within which the commissioner was directed to execute the commission to September 20, 1890, and an order was duly entered on March '24, 1890, so extending the time. From July 8, 1890, down to October 23,1891, the proceedings in the action were stayed by various orders obtained by the defendant, with the exception of intervals of a very few days. Shortly after October 23, 1891, the plaintiff’s attorney applied to the defendant’s attorney for a stipulation extending the time within which the commissioner might make his report. The defendant’s attorney requested the plaintiff to wait a few days for a final answer to the request, and on November 16, 1891, 'the defendant was again requested to make .a stipulation for the taking of the testimony, which request was declined, and thereupon this motion was made for the order appealed from. The special term granted the order extending the time to take the testimony to and including January 25, 1892, upon condition, however, that the plaintiff pay to the defendant’s .attorney within ten days from the entry of the order, §107.72, together with interest thereon from December 15, 1887, and also $10 motion costs. These sums had been theretofore directed to be paid by an order of the Erie special term May 14, 1890, as a condition of opening a default taken by the defendant dismissing the plaintiff’s complaint The plaintiff never complied with the order of May 14, 1890, so far as the actual payment of the sums of money named. But it was held by this court in the decision of ■an appeal from an order made in the action after the order of May 14th,11890, that the payment of these sums as a condition of opening the default had been waived by the defendant, and that ¡the plaintiff was relieved from a compliance with that part of the •first order. The question presented by this appeal is whether the terms upon which the order was granted were proper.
+The order granting the open commission we must assume was ■proper, and while it appears that the plaintiff allowed considerable ■time to elapse after the granting of the -order, without taking the testimony, before the expiration of the time the defendant stipulated to extend it to September 20th, following. The plaintiff’s attorney was not thereafter guilty of loches, for he took steps looking to the taking of the testimony as soon as the stay was removed. The date originally fixed as the limit for the taking of the testimony having passed, it became necessary to fix another day. Section 897, Code of Civil Procedure.
+No reason was shown by the defendant at the hearing of the motion why the commission should not be executed, and to that end another date fixed for the taking of the testimony, and there would seem to be no reason for imposing any terms as a condition of granting the order appealed from. It certainly was not proper for the court to impose such onerous conditions on granting the order. The stay orders mentioned were orders staying all proceedings in the action, and prevented the taking of the testimony during the life of the orders. The plaintiff is indebted to the defendant in the sums fixed as conditions for the granting of the order, but that furnishes no reason for requiring their payment as a condition for granting the order appealed from.
+The order should be reversed, with ten dollars costs and disbursements of the appeal.
+Dwight, P. J., and Macomber, J., concur.
