@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1891-04-16"
-citations: ["37 N.Y. St. Rep. 431", "14 N.Y.S. 28", "36 N.Y. St. Rep. 921", "14 N.Y.S. 386"]
+citations: ["37 N.Y. St. Rep. 431", "14 N.Y.S. 28"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
