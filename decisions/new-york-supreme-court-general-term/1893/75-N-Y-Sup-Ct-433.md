@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-04"
+citations: ["75 N.Y. Sup. Ct. 433"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["O’Brien and Pollett, J.J., concurred."]
+parties: ["Alfred Hopcraft, Respondent, v. Henry Lachman and Albert Lachman, as Sole Surviving Partners of the Firm of S. Lachman & Company, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/75/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2381638
+---
+
+# Hopcraft v. Lachman
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+This action was brought to recover damages for the defendants.” breach of a contract according to which the plaintiff was to manufacture 500 ornamental signs, and the defendants were to pay him four dollars and fifty cents each for them.
+The main question presented upon this appeal is whether the evidence was sufficient to justify the jury in finding a verdict in favor of the plaintiff. It must be conceded that upon the oral testimony-given upon the trial a case upon the part of the plaintiff was made out. But it is claimed that certain correspondence between the plaintiff and the defendants was so far at variance with and in contradiction of the testimony of the plaintiff’s witnesses, that it showed that such testimony was unreliable, untrustworthy and insufficient to justify the jury in basing a verdict upon it.
+It is to be observed that the plaintiff in respect to the material parts of the contract in question, was unable to testify in consequence of the death of one of the members of defendants’ firm with whom such contract was made, consequently the letters in question were not relied upon as in contradiction of the testimony of the plaintiff himself, but of witnesses who testified as to conversations had between the plaintiff and the deceased partner in their presence.
+It seems to be true that there are contradictions between some of the expressions contained in these letters and the version of the transaction as given by the witnesses upon the part of the plaintiff. But we do not think that these contradictions are of such a character as to call upon us for a reversal of the verdict of the jury. The jury heard the witnesses testify, heard the correspondence read, and had their attention called to the contradictions; and, notwithstanding, found a verdict in favor of the plaintiff. We find no sufficient reason suggested upon the part of the appellant for disturbing that verdict.
+It is not necessary in the consideration of this appeal to rehearse in detail the testimony and the letters.
+The principal controversy between the parties related to the question as to who was to approve of the plans of the work proposed to be done, it being claimed upon the part of the plaintiff, that such approval was to be made, and was made by Samuel Bachman, the deceased partner, leaving only a few immaterial parts thereof to be approved by his son Albert, and the contention of the defendants being that the whole plan, of the work was to be approved by the son Albert. This issue was distinctly submitted to the jury, and their attention called to the testimony and to the letters which had been offered in evidence. And the question submitted was whether the contract was such as claimed by the plaintiff, or as claimed by the defendant. And they were instructed by the court that if the contract was as claimed by the plaintiff, tli(e plaintiff was entitled to a verdict; but if, on the other hand, the contract was as claimed by the defendants, the plaintiff was not entitled to recover; and upon this issue, plainly presented, the jury found a verdict in favor of the plaintiff.
+"Various exceptions to the charge are called to our attention, and urged as matter of error upon this appeal. It will be found, however, upon an examination of the pase, that the court charged all that tbe defendants were entitled to. And where the court has covered 'a point in its original charge, it is not required to repeat the same ; and it is not error to refuse so to charge. If a party is not satisfied with a point clearly and squarely covered by the charge, he must take the effect upon the jury of a direct refusal to repeat the charge if he makes a request.
+The requests in regard to the right of the jury to reject any and all evidence as to conversations between Samuel Lacliman and the witnesses, was entirely covered by the statement of the court that he left it to the jury to judge of the value of the testimony and its probative force, even if the request had not been previously covered by the language of the court in its charge.
+The claim that the court charged that the decorations were one of the immaterial parts of the work, is not well taken, because the court did not so charge. "What the court did say, was that such was the testimony offered upon the part of the plaintiff, and did not charge it as a fact.
+The objections taken to the admission and exclusion of testimony, are not of sufficient importance to need special comment.
+The judgment should be affirmed, with costs.
+O’Brien and Pollett, J.J., concurred.
+Judgment affirmed, with costs.
