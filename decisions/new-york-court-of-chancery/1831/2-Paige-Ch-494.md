@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1831-07-19"
+citations: ["2 Paige Ch. 494"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dias vs. Merle and others."]
+source_url: "https://static.case.law/paige-ch/2/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2179925
+---
+
+# Dias v. Merle
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+There can be no doubt that the misconduct of the complainant in breaking open the parts of the books which were sealed up in the master’s office, was, at common law, punishable as a contempt. (Burrow’s case, 8 Ves. 535, Bateman v. Conway, 5 Bro. P. C. 84.) Upon my first examination of the revised statutes, I was inclined to think that the section which defines criminal con-tempts, (2 R. S. 278, § 10.) had deprived the court of the power of punishing the improper conduct complained of here. But on further examination, I am satisfied this case is provided for, in the second and eighth subdivisions of the first section of the title relative to “ proceedings as for contempts, to enforce civil remedies, and to protect the rights of parties in civil actions.” (2 R. S. 534.) It was an abuse of the proceedings of the court; it was also a case in which the rights of the adverse party were materially involved. While the course of judicial investigation frequently requires a party to produce parts of his books in which the adverse party has an interest, for the inspection of the latter, it may frequently be of great importan-e to the former that his accounts and transactions with other persons should not be exposed to the examination of strangers, and particularly of an enraged adversary. Where his books are subjected to inspection, it is the uniform practice of the court to permit a party to seal up those parts which do not relate to the subject of litigation. (Gerard, v. Penswick, 1 Wils. Ch. R. 222. Cambell v. French, 1 Cox’s Ca. 288.) And it has been the practice of courts of record to protect suitors against any unwarrantable interference by the adverse party with rights of this description, by proceeding against the offender as for a contempt.
+Although the complainant might not have been aware that he was subjecting himself to punishment, as for a contempt of the court, by secretely breaking open and examining these private entries of the defendant, there can be no doubt that he knew he was doing wrong. The fact that he had brought in his own books with a part thereof sealed' up under oath, in the same manner, and that he took advantage of the temporary absence of the master to effect an improper purpose, are strong circumstances against him. Besides, in consequence of a former complaint against him for making marks, &c. on the books, the order had in terms directed that he should only have the right to examine the books in the presence of the master, even as to those facts in which he was interested.
+As this is a case in which the defendant has been put to expense for counsel fees, &c, beyond the amount of the taxable costs in consequence of this unjustifiable act of the complainant, an attachment must issue against him, unless he does within ten days after service of a copy of the taxed bill pay to the defendant Merle, or to his solicitor, his costs on this application, together with reasonable counsel fees as between counsel and client, to be settled and taxed with such costs by the vice chancellor of the first circuit. And to guard against any further abuse of the privilege, the complainant is not to be permitted to examine any part of the books, except in the presence of his own counsel and the master, during office hours; and he must allow and pay to the master, the usual fee for attending on a reference, for each day the master is compelled to attend personally on such examination. The parts of the books which have been unsealed must be sealed up again by the master, and the complainant must be prohibited from disclosing what is contained therein, to any person, and from using any information or extracts - obtained therefrom, in any way, without the written permission of the de- - fendant Merle, or the special leave of this court, upon pain of contempt.
