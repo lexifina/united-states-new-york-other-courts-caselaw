@@ -1,7 +1,8 @@
 ---
 court: "Brooklyn City Court"
 decided: "1880-05"
-citations: ["8 Abb. N. Cas. 83", "8 Abb. N. Cas. 76"]
+decided_precision: "month"
+citations: ["8 Abb. N. Cas. 83"]
 reporter: "abbn-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["LUNT v. LUNT."]
 source_url: "https://static.case.law/abbn-cas/8/cases/0083-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 622849
-cites_cases: ["1 Hun, 92", "10 N. Y. 51", "13 How. Pr. 458", "16 Hun, 317", "2 Hill, 322", "20 N. Y. 437", "20 N. Y. 439", "21 N. Y. 197", "26 N. Y. 525", "28 Ohio, 231", "29 How. Pr. 92", "43 How. Pr. 176", "43 How. Pr. 196", "45 Barb. 269", "47 How. Pr. 533", "47 N. Y. 360", "47 N. Y. 366", "49 N. Y. 266", "51 N. Y. 454", "56 N. Y. 674", "64 N.C. 60", "71 Mass. 403", "72 N. Y. 196", "72 N. Y. 198", "80 Mass. 195", "9 Hun, 648"]
+cites_cases: ["13 How. Pr. 458", "16 Hun, 317", "20 N. Y. 437", "20 N. Y. 439", "21 N. Y. 197", "28 Ohio, 231", "47 N. Y. 360", "47 N. Y. 366", "51 N. Y. 454", "56 N. Y. 674", "64 N.C. 60", "71 Mass. 403", "80 Mass. 195"]
 ---
 
 # Lunt v. Lunt
