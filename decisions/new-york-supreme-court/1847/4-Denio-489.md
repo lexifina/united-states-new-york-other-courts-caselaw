@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1847-05"
+citations: ["4 Denio 489"]
+reporter: "denio"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The President, &c. of the Bank of Rochester vs. Jones."]
+source_url: "https://static.case.law/denio/4/cases/0489-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 485438
+cites_cases: ["12 John. 403", "12 Pick. 297", "2 Hill, 147"]
+---
+
+# President of the Bank of Rochester v. Jones
+
+## Majority (By the Court, Beardsley, J.)
+
+By the Court, Beardsley, J.
+This being an action of trover, the plaintiffs were bound to show a complete property, general or special, in the flour, or they could not recover. (1 Ch. Pl. 7th Am. ed. p. 170; 2 Saund. 47 a, note 1; Browne on Actions at Law, 426; Dillenback v. Jerome, 7 Cowen, 294; Hotchkiss v. McVickar, 12 John. 403.)
+Foster was the sole and absolute owner of the flour on the day when the plaintiffs’title or right, if any they had, was acquired. But on that day, and before the plaintiffs had any pretence of claim to the flour, it had been delivered by Foster to Hannaghs to be sent by him without delay to the defendant at Albany, subject to the payment of freight by him. A receip for the flour was given by Hannaghs, which also contained his agreement to forward it to the defendant, as has been stated; and which agreement was performed on the same day by a shipment of the flour on board a canal boat, consigned, as appears by the bill of lading, to the defendant at Albany. At this time the defendant was under an engagement with Foster to accept his drafts to a certain amount on flour shipped to the defendant, and was then largely in advance to him for moneys previously paid on such acceptances.
+We need not now inquire what, as between themselves, were the respective rights of the defendant and Foster, in and to this flour, on its delivery to Hannaghs, or after it had been shipped by him to the defendant. Let it be conceded that Foster still remained absolute owner, and as such, might dispose of the flour by sale or otherwise, as he thought proper, although if deemed material the concession would hardly be made. (Grosvenor v. Phillips, 2 Hill, 147.) But concede the point, and it does not follow that what took place between Foster and the cashier of the plaintiffs, had the effect of transferring to them either the general or a special property in the flour.
+1. There was no sale of the flour to the plaintiffs. Waiving all question as to the capacity of such a corporation as the plaintiffs to deal in the purchase and sale of flour, here was nothing which looked to such a contract between Foster and the plaintiffs. No price was agreed upon or spoken of; no purchase money was paid; nor was there any thing like a delivery, actual or symbolical, of the property. In fact, neither party contemplated a sale or purchase, for nothing like it was so much as spoken of or intimated.
+2. Nor was the flour mortgaged to the plaintiffs by Foster. No mortgage or writing of any description was executed by him. All he did was to deliver the receipt of Hannaghs, the forwarder, to the plaintiffs’ cashier, and to engage at the same time, by parol, that the flour should be held as security for the acceptance of the draft by the defendant. It may be admitted that the receipt was delivered and the engagement made, with a view to create such a lien upon the flour, but it does not fol low that any property, general or special, was thereby transferred to the plaintiffs. An absolute sale was not contemplated, nor was there a conditional sale, no mortgage being executed. It will hardly be pretended that a mere parol agreement, that a cargo of flour then on its way to Albany, shall be held as security for the acceptance of a draft of nine hundred and fifty dollars, there being nothing like a change of possession or a delivery of the flour, constitutes a valid mortgage of the flour for that sum. Nothing like this was pretended on the argument, and such a position would be wholly indefensible.
+3. Such a lien as was claimed in this case, may be created by a pledge of personal property, but for that, delivery of possession is indispensable. (4 Kent, 138, 5th ed.; Story on Bailment, 286, 287, 3d ed.; Bouvier’s Law Dic. Pledge; Cross’ Law of Lien, 71, 72; 1 Pow. on Mort. by Rand, p. 3, and notes.) Here the flour was not delivered to the plaintiffs, and they had none of the rights of a pledgee.
+By the general law of the land, the delivery of the forwarder’s receipt to the plaintiffs, (which having been performed was mere waste paper,) and the parol engagement of Foster, wrought no change in the title to the flour. That remained as it was before, in Foster or the defendant. It would be useless to inquire in which of these parties the title was vested, for the question here is as to the plaintiffs’ property, not theirs.
+The case of Allen and others v. Williams and others, (12 Pick. 297,) was cited by the counsel for the plaintiffs, but I am unable to see that it has any bearing on the question to be decided. In that case, without going into a .detailed statement of the facts, the plaintiffs claimed to be consignees of certain property, under a bill of lading which made the property deliverable to the bearer of that instrument. The bill of lading had been transferred to the plaintiffs and was held by them. Such being the facts, the court held that their right was clear, and they succeeded in the action. I see no analogy between that case and the one at bar, nor any principle there stated which has any bearing on the point in contest here.
+These plaintiffs, in my view of the case, failed to show that they had the general, or any special, property in this flour, and they should have been nonsuited on the trial.
+New trial granted.
