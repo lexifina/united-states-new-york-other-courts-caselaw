@@ -1,0 +1,26 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1886-12-06"
+citations: ["3 N.Y. St. Rep. 560", "14 Daly (N.Y.) 73"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Finley Smith v. Robert A. Joyce."]
+source_url: "https://static.case.law/ny-st-rep/3/cases/0560-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1978596
+cites_cases: ["13 How. Pr. 118", "21 How. Pr. 34", "21 Hun 509", "21 Hun., 509", "3 Edw. Ch., 415", "56 N. Y. 522", "56 N. Y., 522", "62 N. Y. 628", "62 N. Y., 628"]
+---
+
+# Smith v. Joyce
+
+## Majority (Daly, J.)
+
+Daly, J.
+The first question in the case arises upon the construction of section 763 of the Code of Civil Procedure, which provides: “If either party to an action dies, after an accepted offer to allow judgment to be taken, or after a verdict, report or decision, or an interlocutory judgment, but before final judgment is entered, the court must enter .final judgment, in the names of the original parties, unless the offer, verdict, report or decision or the interlocutory judgment is set aside.” The question is whether, in an action for the foreclosure of a mortgage, where all the defendants, except infants, have made default, and the latter have interposed the usual general answer, by guardian, ad litem, the report of a referee appointed “to compute the amount due to the plaintiff for the principal and interest upon the bond and mortgage, set forth in the plaintiff’s complaint, and also to take proof of the facts and circumstances stated in the plaintiff’s complaint, and to examine the plaintiff, or his agent on oath, as to any payments which have been made,” is a report within the above quoted section of the Code.
+In this case it was the plaintiff who died, after the filing of the report, and before the entry of final judgment, and final judgment was entered upon the motion of the plaintiff’s attorney of record.
+The second question submitted is, whether the sale of the premises under such judgment, was valid without a revivor by the personal representative of the deceased plaintiff; and the whole controversy is, whether the title of the purchaser at such sale, (who was the mortgager and a defendant in the action, and who had no notice of the death of the plaintiff) is affected by the omission to revive the action, either before or after judgment. The deceased plaintiff left a last will and testament, appointing executors, to whom letters were issued after the sale.
+The title of a purchaser upon a judicial sale is not affected by the defects in the proceedings, which rendered the judgment irregular, and m consequence of which it might have been set aside. . De Forest v. Farley, 62 N. Y., 628. I am inclined to the opinion that the report of a referee appointed to compute, take proof, etc., in a foreclosure suit, is not the "report meant by section 163 of the Code above quoted, but that that provision contemplates a decision by a referee, which determines the rights of the parties to a controversy, as they would be determined by a verdict, decision of a judge, or interlocutory judgment. It has been held by the supreme court, that the section does not embrace judgments by default, and I think the conclusion correct. Grant v. Griswold, 21 Hun., 509, 513.
+The action should have been revived by the personal representatives of the plaintiff because he died before any decision in the action (Gerry v. Post, 13 How. Pr. R, 118), but the omission to take this step was an irregularity merely, and did not render the judgment void, because it was in favor of the deceased party. It is only where a party against whom the judgment is rendered dies before the verdict, decision or report against him, that the judgment is absolutely void. Code Civ. Pro., § '765. This express provision for the particular case excludes the construction that the judgment in any other case is absolutely void. If not absolutely void, it is voidable only because irregular, and, therefore, under the decision in Be Forest v. Farley, above cited, the title of the purchaser is not affected. The view of the learned justice in the special term, case of Gerry v. Post, above, to the effect that the judgment and sale are void, must be deemed to be in conflict with the latter decision of the court of appeals.
+The proceedings to sell under the judgment without the revival by the personal representatives of the plaintiff is also a mere irregularity, and that only because of the irregularity of the judgment, not otherwise. Had the death of the plaintiff occurred after the judgment, and before the sale, it would not have affected the sale. Lynde v. O'Donnell, 21 How. Pr. R., 34. Even upon the death of the defendant, the mortgagor, after decree and before its enrollment, it would not be necessary to revive the action before the sale. Harrison v. Simons, 3 Edw. Ch., 415, cited and approved in Hays v. Thomae, 56 N. Y., 522. The answers to the second, third and fourth questions sub-' mitted in the case must be answered in the negative, and judgment upon the agreement rendered in favor of Joseph "Finley Smith without costs.
+Larremore, 0. J., and Yak Hoesen, J., concur.
