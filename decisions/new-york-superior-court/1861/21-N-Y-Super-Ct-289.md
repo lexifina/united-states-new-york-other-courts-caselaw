@@ -1,0 +1,38 @@
+---
+court: "New York Superior Court"
+decided: "1861-06-01"
+citations: ["8 Bosw. 289", "21 N.Y. Super. Ct. 289"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Before Bosworth, Ch. J., and Hoffman and Woodruff, J. J.)"]
+parties: ["Marx Rothschild et al., Plaintiffs and Respondents, v. Julius Schuberth, impleaded with A. Van Berkie, Defendant and Appellant."]
+source_url: "https://static.case.law/ny-super-ct/21/cases/0289-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1320504
+cites_cases: ["21 Wend., 557", "4 Wend., 354"]
+---
+
+# Rothschild v. Schuberth
+
+## Majority (By the Court—Bosworth, Ch. J.)
+
+By the Court—Bosworth, Ch. J.
+The defendant is sued as indorser of a note made by the defendant, A. Van Berkie, dated August 1, 1856, payable to the order of Messrs. J. Schuberth & Co., two months after its date, for the sum of $200. The complaint alleges that “ Messrs. J. Schuberth & Co.” mean the defendant Schuberth; that he indorsed the note; that it was duly protested, and is owned by the plaintiffs, and is unpaid.
+The answer denies that the defendant indorsed the note, and denies the allegation of its due presentment and protest, or that the defendant was notified thereof.
+The note purported to be indorsed, “ J. Schuberth & Co., E. Schuberth, Att’y.” Passing over the question of the power of E, Schuberth to indorse it, no one proves that he in fact indorsed it, or that the indorsement is in his handwriting.
+The only witness testifying in respect to that fact is E. 0. Sanderson. He says that in the summer of 1856 he went to defendant’s store with “ a note,” “ purporting to be made by A. Van- Berkie, and to be indorsed by J. Schuberth & Co., E. Schuberth, Att’yshowed it to a person there who said his name was E. Schuberth, “ and laid it on the desk with the indorsement up, and asked him if he had signed that note as attorney; he said that he had, that that signature was his signature.”
+The note in suit being shown to the witness, he further testified: “I should say that was the signature, as near as I can judge of signatures. I mean the signature of the indorsement of J. Schuberth & Co., Att’y E. Schuberth ; I would not like to swear to it, but it looks like it, and I think is the same signature; I consider myself a judge of signatures, and have had a great deal to do with such matters* and have had occasion to become familiar with the examination of signatures ; I have no doubt it is the same signature.”
+E. Schuberth testified thus : Sanderson “ made inquiry in regard to a note in July, 185G; he inquired about a $500 note; Sanderson never brought to me the note in suit. * * Sanderson never produced to me 'any note but the $500 note.”
+We think it quite clear that Sanderson, in expressing his belief that the note in suit was “.the same signature,” was understood as testifying to his belief that the note in suit was the very note he presented to E. Schuberth, and which the latter admitted he indorsed..
+If understood as testifying to his belief of the genuineness of the signature upon the note in suit, from its resemblance to that which he presented, the testimony of E. Schuberth would be wholly irrelevant. So understood, he did not affirm that he presented the note in suit, nor intimate that he ever saw it before. The only point of E. ¡Schuberth’s testimony is, that the note in suit was never presented to him; that only one note was presented by ¡Sanderson, and that Avas a note for $500. He was not .asked by either party whether he indorsed it. The defendant objected to the evidence of Sanderson being received, '(it being contained in a deposition,) on the ground that “ what E. Schuberth the attorney said ” was not competent ■evidence.
+The Court allowed it to be read, in connection with the other papers offered with it, and the defendant excepted. We think it must have been admitted, on the ground that the alleged admission related to the note-in •suit, and that it was indorsed by virtue of the power of attorney which the plaintiffs were seeking to- prove , by .■secondary evidence.
+If the admission was understood to. have been made Avith reference to another note, in no way connected with ■that in suit, we think it incompetent as an item of evidence to prove that the note in suit was indorsed by the attorney. Viewed as an admission relating to another note, Sander-son must be understood as testifying that from seeing a signature which E. Schuberth admitted to be genuine, he believed the one in suit was genuine.
+The equivocal language of Sanderson, “I consider myself a judge of signatures, and have had a great deal to do with such matters, and have had occasion to become familiar with the examination of signatures; I have no doubt it is the same signature,” when viewed in the light of the other evidence given, and of the proceedings had at the trial, must be understood as used to express his reasons for being able to identify the signature upon the note in suit, as the same signature which E. Schuberth admitted to be genuine.
+In this view of the evidence, it was not sufficient to establish the fact of indorsement by the attorney. E. Schuberth testified that this note was never shown to him by Sanderson, but stated what note was, and the latter was not recalled to prove that he never presented or had in his possession a note for $500, thus indorsed, nor to deny that he presented the note he did present, in July, 1856, whereas the note in suit is dated August 1, 1856.
+It is not entirely clear that the admission of E. Schuberth was competent evidence to prove that he indorsed the note.
+The objection is, that the admission relates to a past transaction; and that although what an agent says during a transaction within the apparent scope of his authority and forming part of the res gestee, is admissible; yet what he says at a period subsequent to its conclusion is not evidence. (4 Wend., 354.) Thus it has been held, that the declarations of one who had been an agent- to make a contract, after he made it, though he was still agent to make like contracts for the same party, were inadmissible to affect his principal in respect to the terms or construction of the former contract, for they were not part of the res gestee. (Haven v. Brown, 7 Greenl., 421 ; Cow., Hill & Edw. Notes, vol. 1, 512.)
+But the act of making the indorsement being proved, if it was shown, by way of defense, that the note was one which, in fact, the attorney had no right to indorse, yet being one which, on its face, was apparently within the power, a plaintiff might show that before taking it, he applied to the attorney for information as to its character, and his representations of its being of the character which the power apparently embraced, and that the plaintiff took it and paid value, relying on such representations. Such a holder might, probably, show the admissions by the agent of the genuineness of the indorsement, proving that it was a representation on which he had acted. Such admissions, when admissible, operate by way of estoppel, and may bind the principal, though false in fact. (Farmers' and Mechanics' Bank of Kent Co. v. Butchers' and Drovers' Bank, 16 N. Y. R., 135, et seq.)
+But this case, at the trial, raised no such question. The only questions in this regard were, whether the note, on its face, was one which the terms of the power apparently authorized the attorney to indorse, and whether he in fact indorsed it.
+We think the defendant was entitled to a nonsuit upon the evidence, as the case presents it.
+The judgment must be reversed and a new trial granted, with costs to abide the event.
