@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court"
+decided: "1892-04-13"
+citations: ["10 N.Y. Crim. 196", "45 N.Y.St.Rep. 100"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. NATHAN COLEGROVE."]
+source_url: "https://static.case.law/ny-crim/10/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1172768
+cites_cases: ["29 Hun, 47", "45 St. Rep. 100"]
+---
+
+# People v. Colegrove
+
+## Majority (MACOMBER, J.)
+
+MACOMBER, J.
+The order of filiation was fd'ade &ghinSt 'the defendant by justices of the peace of Livingston -county on the 4th day of December, 1888. The conviction was, on appeal, affirmed by the court of sessions, where a new trial was had, and such determination of the court of sessions wa-s affirmed by the general term of this court in January, 1891. -
+Soon after the decision of. this court a motion for a new. trial wa.s made in the court of sessions upon the ground of newly discovered evidence. The court did mot look info the papers offered on such motion, but upheld the objection made by the district attorney that the application had been made too late, and that that court had no power to grant the relief asked for. Prom the order entered on that decision this appeal is taken,
+By section 465 of the Code of Criminal Procedure, when it is made to appear by affidavit that upon another trial the defendant can produce evidence such as, if before received, would probable have changed the verdict, a new trial may be granted, provided such evidence has been discovered since the trial, is not cumulative, and a failure to produce it on the trial was not owing to want of diligence. By section 466 of that Code such application must be made within one year.
+This provision of the statute seems to be conclusive against the appellant in this instance, unless, as is contended for by his counsel, the case is not of a criminal nature and falls within the provisions of the Code of Civ. Pro., where there seems to be no such limitation as to the time in which an application of this nature must be made.
+In the ease of the People ex rel. Fuller v. Carney, 29 Hun, 47, it was held that proceedings of this character were criminal and not civil, and that the provisions of the Code of Civil Procedure, as they then stood, relative to appeals, had no application to appeals in bastardy proceedings, but that such proceedings can only be reviewed by a common law writ of certiorari.
+The power vested in the court of sessions is derived solely from the statute, and no common law power in that court can be resorted to in order to enable it to grant a new trial under these circumstances. ¡
+For this reason we think the order appealed from should be affirmed. ;
+There are other reasons why this 'conclusion would be reached, but it is not deemed necessary or advisable to state them, for we 'think that the court of sessions placed its decision upon the proper ground. »
+It follows that the order appealed from should be affirmed. ;
+Order appealed from affirmed, and the case remitted, <
+DWIGHT, P.J., and LEWIS, J., concur.
