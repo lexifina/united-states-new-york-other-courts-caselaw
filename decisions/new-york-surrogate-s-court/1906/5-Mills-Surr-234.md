@@ -1,0 +1,31 @@
+---
+court: "New York Surrogate's Court"
+decided: "1906-01"
+citations: ["5 Mills Surr. 234", "49 Misc. 280"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Final Accounting of the Estate of Frederick Marx, Deceased."]
+source_url: "https://static.case.law/mills-surr/5/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1071273
+cites_cases: ["117 App. Div. 890"]
+---
+
+# In re the Final Accounting of the Estate of Marx
+
+## Majority (Church, S.)
+
+Church, S.
+The question of the construction of the will of the deceased is raised upon this accounting. The deceased was in copartnership for many years with one Frederick Rawolle, who was also named as one of the executors under the will. By •the copartnership agreement (a copy of which is annexed to the ■acount) provision had been made for the conduct of such business in ease of the death of either partner, and, by the will of the deceased, provision had also been made for the carrying on of •such copartnership by the executors in pursuance of and in conformity with the copartnership agreement. On the 1st of December, 1901, which was the first of the month following the death of the testator, the books of the copartnership were duly balanced and the interest of the deceased was fixed at $299,-•574.23.
+In pursuance of the provisions of the copartnership contract ■and the will, the executrix continued the business until July 6, 1905, and the business earned a profit during that time •amounting to the sum of $125,639.39. Upon the interpretation of the will of the deceased depends the question of what is to become of this sum of money and how- the same is to be treated. The paragraph of the will under consideration which is the subject of dispute is the fifth. Briefly stated, the testator directs his executors to sell all the residuum of his etsate.
+He then provides as follows: “ To receive the proceeds thereof, and also the proceeds of my said copartnership business when wound up and the net income thereof, and I give and bequeath the same as follows.” He then provides that to his wife there shall be given “ one-third' thereofthat to his executors in trust “ one-sixth thereof,” the income to be given to his wife, remainder to certain relatives of the wife; to his executors another “ one-sixth thereof,” income to his wife, remainder to certain relatives of the deceased; the remaining “ one-third thereof ” to be divided among certain relatives of the deceased. As some-of the persons mentioned in this paragraph predeceased the testator, he made a codicil to his will, which has also been duly admitted to probate, which directs a further division “ thereof ” and also creates certain trusts out of such sum.
+The objectors contend that the corpus of the fund which is thus to be split up in the manner described consists of the amount realized from the sale of the residuum of the testator’s estate, the amount realized from the sale of the copartnership business and. the $125,000, the amount of profits made during the conduct of such business by the executrix; and that, by dividing the total of these amounts, the sum directed to be paid or held in trust under the various subdivisions of the fifth section can be ascertained.
+The executrix,-on the other hand, 'argues that the continuance-of the business of the copartnership is to be regarded as an investment by the trustees under the provision of this section and that the amount of profits of such business, therefore, or the- “ net income thereof ” is to be treated as the return from the trust investment and should thus be distributed, and not considered in determining the corpus of the general fund.
+I am unable to accept this contention of the executrix as a correct interpretation of the section of the will in question. The-said fifth paragraph distinctly mentions three separate funds the aggregate of which is to be the sum divided into thirds or sixths. This is not expressed in any ambiguous language, as such section distinctly says: “ The proceeds of the residuum, the pro-
+ceeds of the copartnership business and the net income thereof and that “ the same ” is to be the amount thus divided. If the' interpretation of the executrix is to control, then the words, “ the net income thereof ” in the above quoted paragraph must be completely ignored. The executrix urges that such a construction would constitute an illegal accumulation of income and that where there is doubt as to the meaning of a testator’s will such a iconstruction will be adopted as will make the same legal rather than a construction which will make it illegal. As a statement of a general legal principle this is undoubtedly true, but this rule is to be applied only when there is ambiguity in the provisions of the will. Where the meaning of the will, is perfectly plain, then it makes no difference whether such meaning may lead to a legality or an illegality, but it must be construed in accordance with its evident intent.
+It is neither necessary nor proper for me to consider the question of whether this is or is not an unlawful accumulation of income, as, under the condition of the case at the present time, the determination of that proposition is not required in order to •dispose of the questions raised on this accounting.
+As the theory upon which the executrix has, therefore, handled -these funds and also drafted her account is an incorrect one, the decree herein will practically reform the entire account. The •different interests which each of the persons hereto will then receive under the same will be simply a matter of arithmetic and it is not necessary for me to calculate the same or state them in this opinion.
+Objection has also been raised to the executrix’s paying the Federal inheritance tax. It appears that the executrix paid this ■some timé after the act in- question was repealed, although the deceased had died prior to such repeal. In my judgment, the estate was not subject to such tax, and, the payment of the same by the executrix being improper, she should be surcharged with the same.
+Let a decree reforming the account , in accordance with the views herein expressed be presented.
+Decreed accordingly.
