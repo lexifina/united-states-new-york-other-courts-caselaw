@@ -1,0 +1,22 @@
+---
+court: "New York Superior Court"
+decided: "1895-07"
+citations: ["69 N.Y. St. Rep. 113", "13 Misc. 515", "34 N.Y.S. 947", "13 Misc. Rep. 515"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James H. Brady, App’lt. v. Nathan Hutkoff, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/69/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2119426
+cites_cases: ["1 N. E. 404", "108 N. Y. 87", "12 St. Rep. 790", "128 N. Y. 628", "138 N. Y. 468", "14 N. E. 829", "141 N. Y. 340", "142 N. Y. 134", "28 N. E. 512", "34 N. E. 193", "36 N. E. 388", "36 N. E. 808", "38 N. Y. 28", "39 N. Y. Super. Ct. 1", "39 Supr. Ct. Rep. 1", "40 St. Rep. 353", "51 N. Y. 150", "52 St. Rep. 904", "57 St. Rep. 429", "58 St. Rep. 615", "61 N. Y. 653", "67 N. Y. 237", "94 N. Y. 134", "99 N. Y. 149"]
+---
+
+# Brady v. Hutkoff
+
+## Majority (Freedman, J.)
+
+Freedman, J.
+The principal question litigated upon the trial was whether the contract for the work upon which the plaintiff brought his action was made by the defendant with James H. Brady, the plaintiff, or with James Brady, the father of the plaintiff. The referee, upon conflicting testimony, fouud that the contract was not made with the plaintiff, and that the plaintiff neither performed work nor' furnished materials at defendant’s request This finding is sufficiently sustained by evidence, and should not be disturbed, if this defense is available to the defendant The plaintiff insists that under the amended answer in this case the defendant stands precluded from litigating the question, and that the referee erred in admitting evidence upon the point, and in ultimately determining it as he did. True, a defendant who formally and explicitly admits by his pleading that which establishes the plaintiff’s right, will not be suffered to deny its existence, or to prove any state of facts inconsistent with that admission. Paige, v. Willett, 38 N. Y. 28; Schreyer v. Mayor, etc., 39 Supr. Ct. Rep. 1; Donovan v. Board of Education, 44 id. 53; Quackenbos v. Edgar, 61 N. Y. 653; Dunham v. Cudlipp, 94 id. 134. But the rule applies only where the admission is clear. In every one of the cases referred to the admission was explicit, and the pleading contained no denial at variance with the admission. The difficulty with the case at bar is that the alleged admissions, of the amended answer to which the plaintiff has called attention are vague and ambiguous, and that they are preceded by an express denial that the contract was made with the plaintiff, and that the plaintiff did anything at defendant’s request. For this reason the authorities cited do not apply. Fiske v. Bailey, 51 N. Y. 150, does not help the plaintiff, because in that case the denial was so insufficient as not to raise an issue. Nor can the plaintiff derive any benefit from Dale v. Gilbert, 128 N. Y. 628; 40 St. Rep. 353, in which case it was held that an admission in an undertaking may be withdrawn,, and that the court has power to grant leave to substitute a new undertaking without the admission. Taking the amended answer as a whole, and considering the circumstances under which it was. amended, as shown by the case, I think that under it the defendant was entitled to prove that the contract sued upon was not made with the plaintiff, but was in fact made with James Brady, and that all the dealings of the defendant in relation to the work were with James Brady. Under a general denial a defendant may controvert by evidenceanything which theplaintiff is bound to prove in the first instance to make out his cause of action, or anything that he is permitted to prove for that purpose under his complaint. Field v. Knapp, 108 N. Y. 87; 12 St. Rep. 790; Milbank v. Jones, 141 N. Y. 340; 57 St. Rep. 429; Roemer v. Striker, 142 N. Y. 134; 58 St. Rep. 615. I am further of the opinion that the denials of the amended answer in this case were not impaired by the allegations of new matter subsequently set forth, because a defendant may put his defense upon distinct, and even inconsistent, grounds. Bruce v. Burr, 67 N. Y. 237; Goodwin v. Wertheimer, 99 id. 149; Societa Italiana Di Beneficenza v. Sulzer, 138 id. 468; 52 St. Rep. 904. The record discloses no error which calls for reversal and a new trial.
+The judgment should be affirmed, with costs,
+All concur.
