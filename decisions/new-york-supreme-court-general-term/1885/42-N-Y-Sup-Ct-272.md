@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1885-01"
+citations: ["42 N.Y. Sup. Ct. 272"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barker, Bradley and Lewis, J J., concurred."]
+parties: ["In the Matter of the Judicial Accounting of ASA H. BAKER, as Administrator with the Will Annexed and Trustee under the Will of CYRUS A. BAKER, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/42/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2363106
+cites_cases: ["29 Hun, 7", "78 N. Y., 535"]
+---
+
+# In re the Judicial Accounting of Baker
+
+## Majority (Haight, J.:)
+
+Haight, J.:
+Cyrus A. Baker died, leaving a last will and testament in wbicb he named a certain person as executor and trustee. The person so named resigned and refused to serve, the surrogate thereupon appointed Asa H. Baker administrator with the will annexed and successor trustee May 25, 1882. Baker entered upon bis duties as such administrator and trustee, and continued to act until December 26, 1883, when bis letters were revoked by the- surrogate on account of his failure to provide new sureties on bis bond in the1 place of those who had been released on their application. Prior to bis removal be bad bis accounting as administrator and trustee, and on such accounting commissions were allowed him on the estimated value of the real estate left by the testator, which was estimated at the sum of $12,750. Subsequent to- the removal of Baker, Oscar Tryon was appointed administrator and trustee. On the 23d of April, 188é, the new administrator and trustee moved the Surrogate’s Court to open the decree of settlement in so far as it related to the commissions allowed Baker on the real estate. The surrogate thereupon issued citations to the parties interested, and on the return day thereof, and on the consent of the counsel for Baker, ordered that a rehearing be bad and allowed on the merits. After such rehearing the surrogate by another decree ordered and adjudged that the former decree be modified by deducting the sum of two dollars and eighty-one cents therein erroneously allowed, but ordered and adjudged that the sum allowed as commissions upon the real estate be retained by Baker. From this last decree appeal is now taken to this court.
+The only question presented for review is as to whether or not the surrogate properly allowed Baker commissions on the estimated value of the real estate. The will of Cyrus A. Baker, deceased, after nominating and appointing an executor and trustee, gave, granted, bequeathed and devised all of his real estate to the executor so named, in trust and for the purposes named in- his will. No question was raised upon the argument but that the surrogate had power, under the provisions of the Code of Civil Procedure, to appoint a trustee possessing the like powers of the trustee named in the will. Under the Revised Statutes, trustees are entitled to the sainé commissions as allowed by law to executors and administrators. Where, however, the person is both executor and trustee in respect to the same fund at the same time, he is entitled to receive commissions in one capacity only. (Hall v. Hall, 78 N. Y., 535.) Was he then entitled to receive commissions as trustee upon the real estate ? In the case of the petition of Allen for leave to resign as trusteee, etc. (reported in 29 Hun, 7), the question of commissions was -the subject of consideration by this court. It was then held that where the trustee petitioned to be relieved from the duties of his trust, before finally executing the same, that he was not entitled to commissions on the capital of the estate. It was also held that, although he had received the capital, the one-half commission given by statute for receiving, could not be allowed him, for the reason that they are allowed only on the accounting when the trust is finished and the fund is to be finally paid over and the trustee discharged. That if, for any reason, the trustee does not perform the duty of his trust, his right to commissions is not complete.
+The case under consideration is distinguishable in this regard. Baker was removed oh account of his failure to furnish proper sureties upon his bond, instead of being relieved upon his own request. We are of the opinion, however, that this distinction does not help his claim. When he entered upon his duties as administrator and' trustee, he was aware that the statute and the Surrogate’s Court required him to give and maintain security for the discharge of his duties, failing in this it was the plain duty of the surrogate to remove him. The removal was on account of his own neglect to comply with, the order of the surrogate. He had not completed his trust. Under the circumstances of the case it appears to us that the case of Allen (supra) is controlling and should be followed.
+So much of the order as is appealed from should be reversed and the decree of the surrogate modified,'by deducting therefrom the commissions allowed Baker upon the real'estate, with costs'of this appeal, to be paid by the respondent Baker.
+Barker, Bradley and Lewis, J J., concurred.
+So ordered.
