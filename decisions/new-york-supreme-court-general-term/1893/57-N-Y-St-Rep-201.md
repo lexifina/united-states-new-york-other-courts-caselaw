@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-12-15"
+citations: ["57 N.Y. St. Rep. 201"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Eunice A. Roberts, Deceased. In the Matter of Samuel C. Mott et al. In the Matter of Patrick J. Smith."]
+source_url: "https://static.case.law/ny-st-rep/57/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 702149
+cites_cases: ["10 N. Y. Supp., 41", "10 N. Y. Supp., 717", "103 N. Y., 156", "103 N. Y., 470", "104 N. Y., 103", "104 N. Y., 648", "11 N. Y. Supp., 160", "125 N. Y., 732", "14 N. Y. Supp., 899", "29 St. Rep., 759", "3 St. Rep., 1", "3 St. Rep., 643", "32 St. Rep., 631", "35 St. Rep., 450", "39 St. Rep., 234", "45 Hun, 108", "5 St. Rep., 501", "5 St. Rep., 668", "6 St. Rep., 592", "9 St. Rep., 441"]
+---
+
+# In re the Estate of Roberts
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+A petition having been presented by one Smith to the surrogate to obtain an accounting from the executrix and executor, and the prayer of the petition having been granted, and an accounting ordered, the same was referred to a referee, among other things, to examine the account of the executors, and the objections of the petition thereto, and to hear and determine all questions arising upon the settlement of such account. Thereafter, the referee made his report, and, upon the motion to confirm the same, it was modified as to a single item of $68.10, which, by the final decree of the surrogate, was directed to be paid to the petitioner, and the account of the executors was in other-respects approved and settled. The decree, in addition, allowed the petitioner the sum of $128.87 for his costs, counsel fees and disbursements in the proceeding. Requests to find were presented to the referee, and passed upon by him, and, to his refusal to find certain of the requests presented by the petitioner, exceptions were filed. The modification of the referee’s report is to be found only in the final decree; no requests having been made or passed upon by him, and no exceptions having been filed to the modification, the appellant confining himself to a notice of appeal. In view of the small amount involved, it was of doubtful benefit, in any event, to the estate, to have the executors appeal; but, whether they are right or not in the questions sought to be presented as to the surrogate’s conclusion with respect to the $63.10, we think the point well taken by the respondent that there is-nothing before us for review, and that his statement is correct The surrogate made, and was requested to make, no findings or decision; and there is not an exception by the appellants to any findings or refusal to find either of surrogate or referee. Under these circumstances, their appeal brings up no question for review. The point has been decided over and over again. In re Sprague, 125 N. Y., 732; 35 St. Rep., 450 (by the court, Earl, J.):
+“ The surrogate did not make any findings, as required by § 2545 of the Code, and the recprd does not contain any exceptions to the findings, or to the decision of the surrogate. Therefore, the general term did not have jurisdiction, on the appeal to it, to review the surrogate’s decision upon the facts, and neither has this court. If the appellant desired to bring to the general term or to this court questions of fact or of law involved in the accounting, and to review the decisions of the surrogate in reference thereto, he should have procured findings of fact and of law, and should have made proper exceptions thereto. Hewlett v. Elmer, 103 N. Y., 156, 164; 3 St. Rep., 1; In re Kellogg, 104 N. Y., 648; 5 St. Rep., 668; Angevine v. Jackson, 103 N. Y., 470; 3 St. Rep., 643.” (Decree affirmed.) In re Kellogg, 104 N. Y., 648; 5 St. Rep., 668 ; In re Marsh, 45 Hun, 108 ; 9 St. Rep., 441; In re Falls’ Estate, 10 N. Y. Supp., 41; 29 St. Rep., 759 ; In re Front’s Estate, 11 N. Y. Supp., 160; In re Moulton’s Estate, 10 N. Y. Supp., 717; 32 St. Rep., 631; Otis v. Hall, 6 St. Rep., 592; In re Peck, 14 N. Y. Supp., 899 ; 39 St. Rep., 234; In re Hood, 104 N. Y., 103, 106; 5 St. Rep., 501; Angevine v. Jackson, 103 N. Y., 470; 3 St. Rep., 643.
+The appeal should, therefore, be dismissed, with ten dollars costs and disbursements to respondent.
