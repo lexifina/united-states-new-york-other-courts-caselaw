@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-11"
+citations: ["11 N.Y. St. Rep. 853"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Maria G. Winne, App’lt, v. The Ulster County Savings Institution, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/11/cases/0853-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990411
+cites_cases: ["37 Hun, 349"]
+---
+
+# Winne v. Ulster County Savings Institution
+
+## Majority (Learned, P. J.)
+
+Learned, P. J.
+—This is an action of ejectment, brought to recover a narrow gore of land. The parties are adjoining owners, and the defendant’s building covers the disputed gore of land or a large part thereof. The exact width of the gore at its widest point seems to be uncertain under the evidence. According to the proof most favorable to the plaintiff it seems to be about four feet; and it runs to a point. The compMnt in form describes the whole of what is called the Winne lot.
+Both of the parties take title under a partition action, and by the several deeds executed by the referee to the persons from whom they respectively claim.
+The deed to plaintiff’s remote grantor, Edward Davison, describes a piece of land which is a part of the partitioned premises. The deed to plaintiff’s remote grantor, Cornelius Pruyn, describes all the partitioned land, excepting the piece aforesaid, by the same description. These deeds were executed in 1861. The land, which was partitioned, belonged to the heirs of one Peter Davison, who died in 1858.
+The defendant offered in evidence a deed of full covenant from Cornelius Schoonmaker to Peter Davison, made and recorded in 1825. Peter Davison was in possession of the land therein conveyed as early as 1849. It covers a part, at least, of the property of Peter Davison, which was conveyed by the referee severally to Edward Davison and Cornelius Pruyn, under whom, respectively, the parties claim. And it appears to cover the part in dispute in this action.
+The plaintiffs objected to the admission of that deed. And the principal question here is whether its admission was error. The importance attributed to this deed arises principally from the circumstances that in the description of the property conveyed thereby it mentions a post fifty-six links north of the corner of the stone house. And it is claimed by defendants that they have been able to identify that post and that it furnished strong evidence in favor of the correctness of the line claimed by them. Whether or not that post was identified as being one now or lately existing was a question for the jury. Each party claimed under Peter Davison’s title. Because each claimed under a deed executed in a partition sale in an action between his heirs. Neither party therefore was a stranger in estate to the title of Peter Davison. The deed therefore under which he claimed this land was in the line of the title of each. It sufficiently appeared that this was the title under which Peter Davison held. No contradiction of this was given. And the description of the land evidently seemed to those familiar with it to correspond with the latter descriptions, although the language was not identical.
+If Peter Davison had not in his lifetime conveyed to these respective parties, or to those under whom they claim, we see no reason why his title deed might not be given in evidence in a controversy between them. If anything in its description would tend to identify and fix points in the description of their respective deeds, it would be admissible. And so in the present case. We think therefore that there was no error in the admission of the deed.
+The plaintiff asked the court to" charge that there was no proof which ’identified any post as that mentioned in the Schoonmaker deed. The court said that it would leave that to the jury. Looking at the case, we find that Van Burén, a witness, speaks of the old post which is spoken of in the deed. He describes the post as a little post very much even with the ground, and as about three inches square at the top. He states where it stood when he saw it; and gives the distances from the post as he found it to various points. Now it is true that we are not referred to any witness who remembers the post as it existed in 1825, and" who identifies it with the post found by Van Burén. But the request to the court was substantially that the court should say that there was nothing to justify the jury in believing this to be the post referred to in the deed. Something, however, is due to the fact that a post was found in the p^ce. Just as when by a description a line is run to a stake and stones, and many years after a stake and stones are found at the place where the line is thought to come, it would be proper to believe that they might be the stake and stones mentioned, although no one could by direct testimony assert that they were so. We think there was no error in the charge in this respect.
+The plaintiff urges that the evidence is strongly preponderating in her favor. The question before the jury was certainly not free from doubt, and the testimony was conflicting. Some weight may have been given by the jury to the circumstance (claimed by defendant to be controlling) that one Van Buren, through whom plaintiff derives title, was actually present frequently while the defendant was erecting the building which plaintiff now claims to be an encroachment on her premises, and said that the building was on the line and that only the gutter and cornice overhung. Corkhill v. Landers, 44 Barber, 218; Cornish v. Abington, 4 Hurl. & N., 549.
+It appears further that plaintiff did compel the defendant to take down the gutter and cornice which was held to have projected over her lot by mere license. Winne v. Ulster County Savings Inst., 37 Hun, 349.
+On the whole, we think there is no reason why the verdict of the jury should be set aside. They were the proper tribunal to try this question. And they, on hearing and seeing the witnesses, could form a more just idea of the merits than we can.
+Judgment affirmed, with costs.
+Landon and Williams, JJ., concur.
