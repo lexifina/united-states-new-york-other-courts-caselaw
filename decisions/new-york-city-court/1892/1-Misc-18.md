@@ -1,0 +1,22 @@
+---
+court: "New York City Court"
+decided: "1892-10"
+citations: ["1 Misc. 18"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Logan v. Berkshire Apartment Association,"]
+source_url: "https://static.case.law/misc/1/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 682972
+cites_cases: ["101 N. Y. 387"]
+---
+
+# Logan v. Berkshire Apartment Ass'n
+
+## Majority (Van Wyck. J.)
+
+Van Wyck. J.
+The complaint alleges that plaintiffs agreed to make a hot-water-pressure tank of certain dimensions, for, and deliver the same to defendant on foundation in cellar; that the same was so made and delivered; that an alteration was required by defendant, which plaintiffs made, and that defendant retained and still has possession and use of the same, but refuses to pay therefor, although payment has been demanded of him. The answer contained only a general denial. The plaintiffs at the trial, proved the contract fuller in detail than they had alleged it in the complaint, and this they had the right to do. The contract provided that the work was to be done “ to defendant’s entire satisfaction.” Several of appellant’s objections are founded upon what he contends was error for the court to charge the jury; “ that plaintiffs were bound to furnish this work in such a manner that it complied substantially with the contract, and if you find that the contract was substantially performed, the defendant is bound to pay.” This was not error against the defendant. Duplex Safety Boiler Co. v. Garden., 101 N. Y. 387. The contract was simply to make for and deliver to defendant a chattel, which was done September 1890, and defendant had ever since retained and was still using it, for the purpose for t which it was made, in May, 1892, the time of trial. Mr. Moran, the defendant’s superintendent, who made the contract, and concededly had full authority to act for defendant, testifies at folio 120 as follows: “ This tank is in our house now, and we are still using it. This tank was put upon the foundation in this way, and with the exception that we lowered the foundation a little, it is now pretty near as it was delivered to us in the first place, with the manhole still up.” The contract provided that this manhole should be on the side, whereas it was made on the top of the tank, but plaintiffs testified that this mistake was easily remedied with defendant’s consent, and without altering the tank, by lowering the foundation, which would lower the tank so as to leave sufficient space between the ceiling of the cellar and the top of the tank to permit of a man entering it through this manhole, and Moran says that the foundation was so lowered. It is true that it was testified that defendant had been necessarily compelled to have some new flanges attached, by another machinist, to the tank, and it is equally true, that plaintiffs testified that the flanges which were attached by them, were perfect and complete, and hence that what defendant had caused to be done in this regard, was entirely unnecessary. Remembering that defendant had not counterclaimed for the costs of these extra flanges, would it not seem that plaintiffs were entitled to a direction in their favor upon Mr. Moran’s evidence? However, the court refused to so charge as requested by plaintiffs at folio 163, and notwithstanding the acceptance, retention and use of the chattel by defendant for nearly two years, the court was indulgent to defendant, and charged that before the jury could find for plaintiffs, they must decide from all of the evidence, that plaintiffs had substantially performed their contract. The defendant’s complaint in reference to this charge, is of no avail, and the verdict of a jury which decrees payment for a tank which was retained and used for nearly two years after its delivery must be sustained, unless some error of law was committed. The defendant’s exceptions do not seem substantial in the view which has been taken of the pleadings and proof, and the judgment is affirmed with costs.
+McCarthy, J., concurs.
+Judgment affirmed.
