@@ -1,0 +1,27 @@
+---
+court: "New York Superior Court"
+decided: "1872-05-04"
+citations: ["2 Jones & S. 436", "34 N.Y. Super. Ct. 436"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES ROWE, Plaintiff and Appellant, v. SALMON S. STEVENS, Defendant and Respondent."]
+source_url: "https://static.case.law/ny-super-ct/34/cases/0436-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1417325
+cites_cases: ["14 Johns. 378", "24 How. Pr. 58", "27 Barb. 529", "27 Barb. 540", "29 Barb. 218", "29 Barb. 226", "29 N. Y. 494", "33 Barb. 347", "45 N. Y. 632", "9 Abb. Pr. 45"]
+---
+
+# Rowe v. Stevens
+
+## Majority (By the Court.—Freedman, J.)
+
+By the Court.—Freedman, J.
+The learned judge presiding at the trial charged the jury in effect that although as a general rule a broker cannot act for both parties and collect a fee from each, yet there may be. circumstances under which he may rightfully be employed by both parties to do a joint service upon an agreement that he should be paid equally by them, but that this must be fully understood. He left it to the jury to find whether the case, according to the evidence, did or did not come within the exception referred to, and charged them that, before they could render a verdict for the plaintiff, they had to find from the evidence, as not only that defendant employed -plaintiff, but also that it was understood by all the parties interested— Hunt and Winters on the one side and the defendant on the other—that plaintiff was to act as a broker for both sides, and to be paid accordingly.
+The defendant, who had previously and'unsuccessfully moved for a dismissal of the complaint on the sole and specific ground that a broker cannot take a commission from both parties, did not request the court to charge otherwise, and took no exception to the charge as made. Consequently, he acquiesced in it, and the charge, as delivered, must be assumed to embody the true rule of law applicable to defendant’s case upon the present appeal by plaintiff.
+The only question, then, before us is, whether the court below erred in setting aside the verdict. The motion was made on the judge’s minutes. Section 264 of the Code prescribes three distinct grounds upon which the judge who tries the cause may entertain such motion, namely, 1. Upon exceptions; 2. For insufficient evidence; and, 3. For excessive damages. The defendant moved upon the sole ground that the verdict was contrary to the evidence ; and unless it was clearly so, the motion should have been denied.
+Upon an examination of the proceedings had upon the trial, we find that, when plaintiff rested, no motion was made by defendant for a. dismissal of the complaint for the reason that plaintiff had failed to prove a cause of action; and that, at the close of the evidence on both sides, the defendant again omitted to move for such dismissal, or the direction of á verdict in his. favor, upon the ground of the insufficiency of the evidence to sustain a verdict against him. The defendant, therefore, by not objecting to submit the case to the jury upon the questions of fact .involved in them, conceded that there was sufficient evidence to carry the case to the jury, and he consented to a decision of these questions by that tribunal. Having taken his chance of a favorable verdict, which would have concluded the plaintiff upon the facts, and there being a clear conflict of testimony between the parties, who had appeared as witnesses on their own behalf, the defendant should not afterwards have been permitted to allege that the verdict is without evidence, or insufficiently supported by evidence, and, for that reason, against law (Barrett v. Third Av. R. R. Co., 45 N. Y. 632).
+Moreover, it appears that there really was sufficient evidence to authorize the jury to find as they did, and the case, therefore, belongs to a class of cases in which the rule is that the court will not set aside the verdict merely because the court is of the opinion that it would have come to a contrary conclusion upon the same evidence.
+The policy of the law is not only to do justice between the parties, but also to end the legal strife after each of them has had a reasonable opportunity for the full presentation of his side of the case. The law, therefore, prescribes certain forms according to which justice is uniformly administered, and very wisely holds that during the progress of an action certain benefits can be claimed and secured only in a certain form and at a particular stage of the proceeding, and are waived, unless so applied for. In many instances a party has. his free choice, which, however, when made, will bind him to abide by it with all its consequences. By electing one mode for the assertion and investigation of his rights, he is deemed to have waived others which are inconsistent therewith. If the practice were otherwise, litigation would be indeterminable. According to these fundamental principles, there is neither injustice nor hardship in holding a defendant who has, either carelessly or designedly, seen fit to omit making Ms motion, concluded upon the facts established by the verdict of the jury.
+The order appealed from should be reversed, with costs.
+Barbour, Ch. J., and Sedgwick, J., concurred.
