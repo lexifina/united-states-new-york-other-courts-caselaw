@@ -1,0 +1,29 @@
+---
+court: "New York Surrogate's Court"
+decided: "1886-08-19"
+citations: ["5 N.Y. St. Rep. 339"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Estate of Caroline Rosenfield, deceased."]
+source_url: "https://static.case.law/ny-st-rep/5/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8711010
+cites_cases: ["1 Dem., 80", "16 N. Y., 257", "2 Johns, Ch., 614"]
+---
+
+# Estate of Rosenfield
+
+## Majority (Rollins, S.)
+
+Rollins, S.
+-The will of Caroline Rosenfield was admitted to probate in August, 1884. On April 2d, 1886, Jacob Wallack, claiming to be a creditor of her estate, commenced proceedings under title 5, of chapter XVIII. of the Code of Civil Procedure for the disposition of her real property.
+He alleged in his petition the death of the testatrix, her indebtedness, bis commencement of an action against ber in lifetime on account of that indebtedness, tbe pendency of sucb action at ber decease, its subsequent revival against ber legal representatives, and tbe recovery of a judgment against tbem for about $2,500. He further alleged that tbe amount of personal property of tbe decedent in tbe bands of ber executors was insufficient to satisfy sucb judgment, and prayed for a decree directing tbe disposition of so much of tbe real property of which tbe testatrix died seized as would be-sufficient for tbe payment of ber debts. To this petition answers have been interposed by the executors and by one of the legatees. It is alleged by sucb answers that the petitioner’s judgment against tbe executors was not obtained after a trial upon tbe merits, and it is denied that the personal estate is inadequate to satisfy the just and legal claims of creditors. It is also alleged that there is now pending before a referee an accounting proceeding, in tbe course of which it is expected that tbe last named allegation will be fully demonstrated.
+Among the provisions of decedent’s will are the following : “ After all my just debts and funeral expenses are paid out of my estate by my executors hereinafter named, I give and bequeath,” etc. Thén follows a list of certain pecuniary legacies amounting in all to $8,500. Then, “ I give, devise and bequeath unto my daughter, Dora, one-half part of all tbe rest, residue and remainder of'my estate, both real and personal, to have and to bold the same to her own proper use and as her own separate estate and to ber heirs and assigns forever. I give, devise and bequeath unto my said daughter Dora and to ber husband, Simon Moses, the remaining one-half part of my estate, both real and personal, after'the payment, division and bequests as aforesaid, in trust nevertheless * * to pay, the rents, income, etc. * * * unto my son, David, for his own proper use, support and maintenance for his life,” with remainder, etc.
+The tenth clause of the will is as follows: 1 hereby authorize and empower my said executors to mortgage or otherwise encumber my said estate, real or personal, if they deem it for its interest so to do, and in their discretion to sell or dispose of the whole or any part of my real and personal estate, and to execute and deliver good and sufficient deeds of conveyance therefor to the purchaser or purchasers thereof, and I order and direct my said executors to invest the moneys arising from the proceeds of such sale, or sell any such securities, as in their judgment and discretion may seem most proper for carrying into effect the provisions of this will and the trusts thereby created.”
+It is insisted by counsel for the executors, and by the special guardian of certain infant legatees, that upon the above stated facts the petition should be dismissed for several reasons — •
+- 1st. It is claimed tbat as half of tbe residue of tbe estate is given to tbe executors, tbe judgment obtained against tbem as executors, is a ben against tbe decedant’s real estate within tbe meaning of section 2750 of tbe Code. I think otherwise. Tbe lien referred to in that section is such a lien as attached during tbe life of tbe decedent herself. Tbe mere entry and docketing of tbe petitioner’s judgment is not of itself, therefore, a bar to this proceeding.
+2d. It is urged tbat tbe judgment in question was not rendered after a trial upon tbe merits within, tbe meaning of section 2756. This contention I think unsound. Tbe papers show tbat an inquest was taken and tbe plaintiff must have been required to prove all tbe material abegations of bis complaint which were denied by tbe answer. This would constitute a trial on tbe merits.
+3d. Tbe respondents suggest tbat, under tbe circumstances here disclosed, tbe granting of tbe petition should in any event be delayed until tbe determination of tbe pending accounting proceeding. If I did not feel bound to deny tbe application altogether, I should adopt this suggestion. Section 2759, subdivision 5, provides that a decree directing the disposition of a decedent’s real property shall not be entered until the surrogate shah have been made satisfied tbat all tbe personal property “ which could have been applied to tbe payment of debts has been so applied.” There is no better or more expeditious way of ascertaining tbe facts in this regard than by pushing to a close tbe proceeding for accounting.
+4th. But I am convinced, upon full consideration of these matters, tbat by tbe terms of the will tbe property sought to be disposed of is expressly charged with tbe payment of debts, and is subject to a valid power of sale for tbat purpose (White v. Kane, 7 Civ. Pro. Rep., 267; Dennis v. Jones, 1 Dem., 80; Lupton v. Lupton, 2 Johns, Ch., 614: Reynolds v. Reynolds, 16 N. Y., 257, and cases cited).
+Under section 2759 of the Code this petition must therefore be dismissed altogether.
