@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1843-10-17"
+citations: ["10 Paige Ch. 348"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jones vs. Grant and others."]
+source_url: "https://static.case.law/paige-ch/10/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 482474
+---
+
+# Jones v. Grant
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+It is the constant practice of the court to make a decree between co-defendants, according to the justice and equity of the case, founded upon the pleadings and proofs between the complainant and such defendants ; and such was the decision of the house of lords in the case of Chamley v. Lord Dunsany, (2 Sch. & Lef. Rep. 718,) where the decree of Lord Redesdale was affirmed, It is also competent for the court to make a decree between co-defendants for contribution, or a decree over in favor of one defendant against another, founded upon facts stated in the complainant’s bill, and which are admitted by the defendant, sought to be charged by his co-defendant, either by his suffering the bill stating such facts to be taken as confessed against him, or by a direct admission in his answer. Such was the decree in this case, between Grant and the executors of Cole; as it appeared from the bill, and which was not denied by either party, that Grant and Cole gave the bond and mortgage jointly, and were therefore prima facie liable to contribution as between themselves in payment of the deficiency, although the debt, at law, survived as against Grant. But no such decree can be properly made between co-defendants, founded upon matters not stated in the bill, nor in the litigation between the complainant and the defendants or either of them. (Elliott v. Pell, 1 Paige’s Rep. 263.) Here the answer of the executors did indeed set up the alleged agreement between their testator and their co-defendants Robinson and Allen 5 and it was properly set up for the purpose of having a provision inserted in the decree reserving their rights in relation to those co-defendants. But as Allen and Robinson knew nothing of that answer, and had only admitted the facts stated in the bill by suffering such bill to be taken as confessed, and the new matter set .up did not affect the complainant’s rights, in any way, and was not put in issue, no decree in favor of the executors could be founded upon that answer. Nor did the court profess to make any such decree in this case; but merely reserved to them the right to apply to the court upon, the footing of the decree made in the cause, for payment in such manner as they might be advised.
+If the payment had actually been made in this case, in conformity to the terms of the decree, after the remedy against Grant'had been exhausted by the return of án execution unsatisfied, and there had been no dispute as to the fact of the alleged guaranty, I am not prepared to say that this court could not, upon motion or petition, have given the proper relief; without the necessity of filing a supplemental bill, in the nature of a cross bill, against Allen and Robinson and against Grant. But the relief sought for in this case arises partly upon a new state of facts, founded on an agreement made between the petitioners and Smith, the purchaser at the master’s sale. And although the arrangement which they have made appears to be more beneficial to Allen and Robinson, if they were in fact bound to indemnify the executors against the whole claim of the mortgagee for the deficiency, than the actual payment of the money would have been, it does not appear to be a proper case to grant the relief prayed, upon a summary application by petition.
+The petition must therefore be dismissed; but without prejudice to the rights of the petitioners to proceed either by a suit at law, or by a bill in equity, founded upon the decree in this cause and the matters stated in their petition, to recover compensation in damages, or to carry into effect the alleged agreement between their testator and Allen and Robinson. And neither party is to have costs as against the other upon this application.
+A decree will not be made between co-defendants upon matters which are entirely distinct, and have no immediate connection with the subject mat-tor of the complainant’s suit. (Morrice v. Sanford, in House of Lords, September, 1844; 8 Lond. Jur. Reports, 967.)
