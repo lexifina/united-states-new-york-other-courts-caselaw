@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-12"
+citations: ["90 N.Y. Sup. Ct. 234"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dykman, J., concurred; Brown, P. J., not sitting."]
+parties: ["Emil Schopen, Respondent, v. Homer R. Baldwin, Appellant, Impleaded with Another."]
+source_url: "https://static.case.law/ny-sup-ct/90/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1930772
+cites_cases: ["11 Johns. 547", "15 Johns. 230", "31 Barb. 534", "41 N. Y. 113", "75 N. Y. 150", "9 Cow. 57", "92 N. Y. 209"]
+---
+
+# Schopen v. Baldwin
+
+## Majority (Cullen, J.:)
+
+Cullen, J.:
+This is an appeal from a judgment for the plaintiff, entered on the verdict of the jury. The action is brought by a physician to recover for professional services, and the complaint presents the claim in a double aspect, both for an agreed price and also on a qucmtum meruit. ■
+The answer admits the services, but denies the special contract as to price, and also denies the value alleged, averring that the services were not worth more than the sum of $1,000, more than which sum had been paid to the plaintiff. The court submitted the claim to the jury in both aspects, and as the jury found a verdict for a sum less than that claimed it may be assumed that the plaintiff recovered on a quantum meruit.
+There is but one substantial objection raised on this appeal. On the cross-examination of the plaintiff he was asked whether the bones of the patient’s forearm still protruded. Objection being made to the question, the counsel for defendant stated that he would show that the plaintiff’s treatment of the arm was not proper. The court held that there was no defense of the kind pleaded, and excluded the evidence. The question is, therefore, presented whether, under an answer putting in issue the value of the services of the physician, it is competent to prove unskillful treatment as affecting such value.
+It seems at one time in this State to have been doubtful whether malpractice could be proved under the general issue. In Runyan v. Nichols (11 Johns. 547) Judge Van Ness first thought that the evidence was inadmissible under that plea, but, on reflection, doubted the correctness of his opinion, and the decision finally proceeded on the ground that notice should have been given. In Sill v. Rood (15 Johns. 230) the case of Runyan, v. Nichols was distinguished. In Gleason v. Clark (9 Cow. 57) it was held that malpractice, if given in evidence to entirely defeat the plaintiff’s claim, was admissible under the general issue without notice; if merely to reduce the claim, then notice should be given. In Blair v. Bartlett (75 N. Y. 150) Judge Forger states the tenor of these authorities without declaring the rule under the Code, as the case did not involve the question. In Chatfield v. Simonson (92 N. Y. 209) it was held that proof of misconduct of the plaintiff as attorney for the defendant was admissible under a general denial as a bar to the action. The result of these authorities is, that had the defendant denied any value to the plaintiff’s services, the evidence would have been clearly admissible.
+But the defendant admitted in his answer that the services were valuable. Does that concession necessarily bar any claim of improper treatment or malpractice ? It is settled law that a recovery by a physician for services bars an action by the patient for malpractice. (Blair v. Bartlett, supra ; Gates v. Preston, 41 N. Y. 113 ; Bellinger v. Craigue, 31 Barb. 534.)
+In these cases are to be found statements that recovery to any extent is inconsistent with malpractice. It is said by Judge Forger in Blair v. Bartlett, in speaking of the effect of a recovery for services as establishing their value: “ But if of value they could not have been useless; and if of use they could not have been harmful; and if not harmful there could not have been mala praxis in the performance of them.” If this is to be considered as asserting that any malpractice is inconsistent with the recovery for any amount it can hardly be a correct exposition of the law. If there can be no malpractice that will merely reduce the recovery, not defeat it, why the old rule of pleading that notice of such malpractice must be given with a plea of the general issues ? The contract of a physician is like other contracts. It is usually' an entire contract, but so are many others. A recovery on the contract necessarily bars a cross-action for its non-perfórmance. This is the case with all entire contracts, except where there are independent covenants, such as warranties, which survive the contract. Still, in all suits on entire contracts the defendants may recoup damages for unskillful performance.
+If the plaintiff had relied only on the specific contract set forth in the complaint, the issues would have then been limited to the existence of a contract and its performance, but he also claimed to recover on a qitcmtum meruit; that is, the sum that his services were fairly and reasonably worth. The defendant denied that the services were of the value claimed, and this raised an issue as to such value. Under this issue it would seem competent for the defendant to show that the services were unskillfully performed, as well as for the plaintiff to show that they displayed great skill. These facts would affect the value of the services. Such evidence would be competent in other actions on a quantum meruit, either for services or goods sold (see note to Runyan v. Nichols, supra), and, unless we can distinguish actions by physicians or lawyers from other actions for services, the same rule must obtain.
+The judgment and order denying a new trial should be reversed and a new trial ordered, costs to abide event.
+Dykman, J., concurred; Brown, P. J., not sitting.
+Judgment and order reversed, new trial granted, costs to abide the event.
