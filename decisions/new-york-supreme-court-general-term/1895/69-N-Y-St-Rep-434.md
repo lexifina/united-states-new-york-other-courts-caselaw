@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1895-07-26"
-citations: ["69 N.Y. St. Rep. 434", "69 N.Y. St. Rep. 432"]
+citations: ["69 N.Y. St. Rep. 434"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
