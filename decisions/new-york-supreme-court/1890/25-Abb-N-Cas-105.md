@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1890-07"
+citations: ["25 Abb. N. Cas. 105"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VANDERVEER v. McKANE."]
+source_url: "https://static.case.law/abbn-cas/25/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1966172
+cites_cases: ["112 N. Y. 299", "20 Abb. N. C. 447", "52 N. Y. 332"]
+---
+
+# Vanderveer v. McKane
+
+## Majority (Bartlett, J.)
+
+Bartlett, J.
+This is a suit for the construction of thewillof Aletta M. Vanderveer, who died in Brooklyn in February, 1887, within two months after the execution of such will, leaving her father surviving her. The controversy relates to the eleventh and twelfth articles of the will. By the eleventh article, the testatrix bequeaths her executors the sum of $5,500, to be paid over by them as therein directed j-$500 each to the pastors of certain Roman Catholic churches therein named, in the city of Brooklyn, city of New York and village of Monticello in Sullivan county, and $25 ) each to the pastors of certain other Roman Catholic churches therein named in the city of Brooklyn.
+The testatrix directs these payments to be made for-masses to be said in each of said churches for the repose of her own soul and the souls of her mother, brother and aunt.
+By the twelfth article, the testatrix bequeaths to her-executors the sum of $13,000 to be paid over by them to-the Roman Catholic churches, schools and institutions-named in said article, in the sums therein specified. By the-same article she also bequeaths to the Right Rev. Johni Loughlin, Roman Catholic bishop of the diocese of Long Island, the sum of $5000, “to be expended by him in the erection of a school-house to be attached to the church of' the Guardian Angels, at Coney Island, and for the maintenance of a Catholic school therein.”
+The bequests made in these two articles are attacked in-the complaint on two grounds only, and I shall consider no-other objection to them. The first ground is that they are void as being in contravention of chapter 360 of the Laws of 1860, which provides that no person having a husband wife, child or parent, shall by 1ns or her last will and testament, devise or bequeath to any benevolent, charitable, literary, scientific, religious or missionary society, association or corporation, in trust or otherwise, more than one-half part of his or her estate, after the payment of his or her debts.
+The second objection is that the bequests to such of the-corporations named as legatees as are incorporated under-chapter 319 of the Laws of 1848 are void under the provision of that statute, which declares that no devise or bequest to any corporation formed thereunder shall be valid in any will which shall not have been made and executed at least two-months before the death of the testator (2 R. S. 7 ed. 1702)..
+Considering the second objection first, I am of the opinion that the bequests to such of the different corporations as. are organized under the act of 1848 must be deemed void, inasmuch as the testatrix died less than two months after the time when she executed her will.
+As to the first objection, I do not regard the bequests to-the pastors of the various Homan Catholic churches specified in the eleventh article as bequests to the corporations-at all They are simply legacies to the several persons who,, when the will took effect, should be exercising the pastoral, functions in the several designated churches. (See Cottman v. Grace, 112 N. Y. 299, 308). Neither is the bequest to the Homan Catholic bishop of Long Island in the twelfth clause, a bequest to a corporation within the meaning of the act of 1860. Omitting legacies to the pastors and' the bishops, it is clear that the bequests to the corporations-mentioned in the twelfth article do not aggregate more than half of the estate of the testatrix. Hence chapter 360 of the Laws of 1860 does not apply.
+As to the defendant, the sisters of charity of St. Vincent de Paul, I think the testatrix intended to designate the corporation as a recipient of her bounty by her bequest in the-twelfth article to the Academy of Mount St. Vincent on the-Hudson.. I find no denial by this defendant in the copy of the answer furnished to me, of the allegation in the complaint that Aletta Vanderveer died fifteen days after the-execution of her will; and that averment being taken as-true, the bequest to the corporation fails, unless it was incorporated otherwise than under the act of 1848.
+The will of Aletta Vanderveer must be construed according to the conclusions, and a decree must be prepared and -submitted for signature in conformity therewith. I see no reason, however, for calling the executor to account in this «court, since proceedings for an accounting by them are pending in the surrogate’s court, and may just as well be «concluded there. The question of costs will be passed upon •on the settlement of the form of the judgment, which must be upon notice.
