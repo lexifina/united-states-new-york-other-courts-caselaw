@@ -1,0 +1,29 @@
+---
+court: "New York Superior Court"
+decided: "1878-01-14"
+citations: ["11 Jones & S. 282", "43 N.Y. Super. Ct. 282"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALBERT G. WOODRUFF, et al., Plaintiffs and Respondents, v. SAMUEL A. BEEKMAN, Defendant and Appellant."]
+source_url: "https://static.case.law/ny-super-ct/43/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1659130
+cites_cases: ["37 N. Y. 405", "4 Denio, 320", "47 N. Y. 576", "5 Wend. 506"]
+---
+
+# Woodruff v. Beekman
+
+## Majority (By the Court.—Curtís, Ch. J.)
+
+By the Court.—Curtís, Ch. J.
+—The action is to recover damages for injury alleged to have been caused by the defendant to the plaintiffs’ stock of goods, by cutting large holes through the floors and ceilings of plaintiffs’ store. The defendant pleaded in answer, that he opened the apertures under a license from the plaintiffs, and as he lawfully might thereunder, and without injury to the business or property of the plaintiffs.
+The evidence at the trial, as to whether a license was granted to the defendant, and as to the nature Of the injuries, was conflicting.
+The defendant excepted ,to this portion of the judge’s charge to the jury: “You will disregard all that has been said by counsel of irrelevant matter, and try and do justice between these parties.” If counsel present and discuss irrelevant matter in summing up to a jury, it may be the duty of a judge to warn and instruct them to disregard it. If the defendant considered that he was prejudiced by this instruction of the judge, he should have called the attention of the court specifically to the irrelevant matter, that had been spoken of by counsel, or caused the same to appear in the case, so that the appellate court could have had some means of knowing whether this instruction complained of by the defendant afforded any just ground for an exception. In the form in which it is presented by the case, this exception is not tenable (Ayrault v. Pacific Bank, 47 N. Y. 576).
+The jury were instructed, “ that, as a question of law, if the defendant had the license, and went into these premises by permission of the plaintiffs, but was guilty of depreciating the value of the plaintiffs’ goods, he is still liable for the whole damage he has done.” This part of the charge was excepted to by the defendant.
+If the jury found that there was no license given to the defendant to open the apertures, the remaining question in the case became one simply of the assessment of the plaintiffs’ damages, if any.' But if they found that there was a license, then the question arose for their consideration, whether there were injuries to the property of the plaintiffs, other than such as would necessarily result from the licensed acts of the defendant.
+If the plaintiffs’ goods were necessarily damaged by the acts of the defendant, which the plaintiffs had seen fit to permit him to perform, no action can be maintained by the plaintiffs to recover for such damages. The loss to the plaintiffs is, in such cases, the necessary sequence to the permission given by them. But for all injury to the plaintiffs’ goods beyond such as was necessary in a careful and prudent opening of the apertures, if the jury found there was a license, the plaintiffs are entitled to recover. On this subject the evidence is conflicting. The defendant testified that after the boards were removed, the lathing was sawed off, and that the portion sawed off and the plaster, as it came down, was received by his men, who stood on boxes below, thus making very much less dust, and avoiding bruising the floor. The plaintiffs, on the contrary, testified to an accumulation of dust and debris in his store and upon his goods, entirely inconsistent with the careful and prudent mode of proceeding stated by the defendant. It is apparent that the presence of some dust and some debris in the plaintiff’s store was a necessary result of opening these apertures in accordance with the permissibn claimed to have been given.
+In this condition of evidence there was a question of fact, as to whether any unnecessary damage was done by the defendant acting under the license. If the jury found that there was not, while the defendant was so acting, there was an end of the plaintiff’s case. It is therefore possible that in view of this, the defendant may have been prejudiced by the instruction of the court to the jury, that if the defendant went into the premises by permission of the plaintiff, but was guilty of depreciating the value of his goods, he •was liable for the whole damage he had done. The damage for which the defendant was liable, was in reality, that part of it, if any, which was unauthorized by the license and was tortious. The exception to this portion of the charge should be sustained, unless the defendant by his course at the trial conceded that the whole damage to the plaintiffs’ goods was not a necessary result of his acts. But no such concession was made by the defendant. He testified to having the work done in such a way as to very much diminish the dust, but the subtle and pernicious action of lime dust upon goods of the character of the plaintiffs, even when very moderately diffused in a store, is shown by the proofs (Green v. White, 37 N. Y. 405).
+There are one or two other exceptions, to which the attention of the court was directed, but they are not of a character to call for a new trial, but the exception to the instruction that the defendant, if he had the license, was liable for the whole damage, appears to be such as entitles the defendant to a new trial.
+The judgment appealed from should be reversed, and a new trial granted, with costs to the defendant to abide the event.
+Sandeord and Freedman, JJ., concurred.
