@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-12-10"
+citations: ["21 N.Y. St. Rep. 897"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John C. Provost, Res’pt, v. Thomas F. Donohue, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0897-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017871
+---
+
+# Provost v. Donohue
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+The evidence in this case is ample to sustain the verdict of the jury, and the only questions raised relate-to the rulings of the judge who presided at the trial.
+There are many exceptions but the decision must turn upon the question whether the portions of the answer-stricken out, and the items of evidence excluded, constituted any defence to the plaintiff’s claim.
+That the plaintiff was the owner of the premises that they were occupied by the defendant, and that there was a failure to pay for use and occupation,' there is no dispute.
+It is also clear that, if there was any renting, that the rent reserved was at the rate of twenty dollars per month.
+We think it was error to strike out the answer of the defendant. Among other matters, the defendant alleged that the identical subject matter as stated in the plaintiff’s petition had been brought and tried before a justice of the peace of the county wherein the premises were situated, which resulted in a judgment in favor of the defendant, and that the same was in force and unsatisfied.
+. This matter was sufficiently pleaded, and, if proved, would constitute a bar to plaintiff’s proceeding.
+The defendant also set up an agreement whereby he claimed to occupy the premises, to the effect that his occupancy was that of equitable owner, and that he was to pay all claims and demands of the plaintiff out of moneys accruing from a sale of the property agreed to be sold by the plaintiff.
+There may be some question whether this part of the answer is sufficiently definite and certain to raise an issue, but this point was not raised by the plaintiff. Where a party alleges an agreement, and the terms are set out, the law presumes it a valid agreement, i. e., if the matter relates to real estate, and to be valid, it must be in writing; in the absence of any statement that it is verbal merely, the law presumes it is in writing, so that taking the pleading as it appears on record, the defendant pleaded facts utterly inconsistent with the plaintiff’s allegation that defendant was his tenant at an agreed rent of twenty dollars per month.
+It is true that the issue in this class of cases is whether there exists the relation of landlord and tenant,' and the amount of rent due; but in contesting this issue a defendant is not restricted to a mere denial of the tenancy, but he may prove any fact having a direct tendency to disprove the allegations of the petition.
+The plaintiff was permitted to state what conversations lie had with the defendant about the latter’s occupancy of the premises, and it is difficult to see why the defendant was not allowed to state his version of what took place in reference to the same matter.
+What the defendant attempted to allege and prove was not strictly an equitable defence, but a denial and rebuttal of the plaintiff’s petition and proof.
+If these views are correct, it follows that the judgment must be set aside.
+Judgment reversed with costs.
+All concur.
