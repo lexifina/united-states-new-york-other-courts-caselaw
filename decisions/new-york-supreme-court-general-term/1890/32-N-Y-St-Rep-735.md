@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-06-19"
+citations: ["32 N.Y. St. Rep. 735"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas B. Dunn, Resp’t, v. John K. Hunt, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0735-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040244
+cites_cases: ["76 N. Y., 614"]
+---
+
+# Dunn v. Hunt
+
+## Majority (Corlett, J.)
+
+Corlett, J.
+On the 1st day of February, 1884, an agreement in writing was entered into between the plaintiff and E. H. Dickenson & Go., composing the firm of Dickenson and John K. Hunt. The material parts of the agreement are to the effect that Dunn should manufacture and deliver globe "package dyes at $4.75 per package, provided the cost did not exceed that sum; also, that if he could manufacture and deliver at less cost than $4.75, reckoning his own services at $20 per week, he would do so, and that his statement of the cost should be conclusive upon the other party. The agreement was to last five years, and the appellants were to take from Dunn during the first two years 100 gross packages per month on the average; after that during the term 166 packages per month, and, in addition to the gross sum above stated, pay twenty-five cents on every gross package. The $4.75 should be paid at the end of every month, and the other twenty-five cents additional at the end of every three months.
+The action was commenced in February, 1886. The complaint -contained three counts. The first was to recover for package^ delivered under the agreement. The second was to the effect that the defendants refused to receive the 100 packages per month, and that the number not received during the two years was 978 packages and a fraction, for which the plaintiff sought to recover damages to the amount of $1,500. The third was to recover damages for refusing to employ the plaintiff to prepare samples.
+The answer put in issue the material allegations of the complaint, and the cause was referred. In May, 1889, the referee reported in favor of the plaintiff for $760.40, upon which judgment was entered, and the defendant appealed to this court.
+The referee found that the defendant had overpaid on account of dyes delivered the sum of $332.23. He also found “ that by reason of the failure and neglect of the defendants to order and take said 978 76-144 gross packages of said dyes the plaintiff was damaged in the sum of $1,092.69and found as conclusion of law, “ that the plaintiff is entitled to recover from the defendants to be collected out of the joint property of both defendants, and the separate property of the defendant Hunt, the sum of $760.40.”' Hunt was the only defendant personally served. The amount for which judgment was ordered was the sum found for damages, less the amount overpaid.
+The defendant excepted to the third finding of fact above quoted, and states as a reason for the exception, “ that the same is not a finding of fact as no facts are stated therein, and that the same is an opinion or conclusion.” The defendant also excepted to the third conclusion of law, which is as follows: “ That the defendant Hunt is not entitled to recover any sum whatever against, the plaintiff upon the cause of action set up in his answer as a counterclaim.” The defendant also excepted to the fourth con- • elusion of law above quoted, and after the exception states various-reasons for it. '
+Ho case was made. So it comes before this court on the referee’s-findings, and the exceptions thereto. It will be noticed that the only questions before this court are upon the findings of fact.above-quoted and the conclusion of law awarding to the plaintiff the-amount for which judgment was entered. Ho errors appear upon the record. The referee distinctly finds the amount of damages-sustained by the plaintiff by reason of the defendant’s default. The appellant insists that the finding is defective because it fails to state-the facts. The evidence upon which the finding is based occurred on the trial, and if the appellant believed the proof was not sufficient, to warrant this finding, he should have prepared a case; then the merits of his contention could be considered. As it is, it must be-assumed that there was evidence to sustain the referee’s findings-The conclusion based upon it was the legal result.
+■ The learned counsel for the appellant cites numerous authorities-to show the true rule of damages. The difficulty with his position is that the record shows no errors. The appellant’s argument is seemingly based upon the opinion of the referee. But it is hot a part of the record, and is not before the court. Van Tassel v. Wood, 76 N. Y., 614; Verplanck v. Member, 74 id., 620.
+But an examination of the opinion of the learned referee fails to disclose any errors. The judgment must be affirmed.
+Dwight, P. J., and Macomber, J., concur.
