@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1867-12"
+citations: ["3 Abb. Pr. 339"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COOKE against THE STATE NATIONAL BANK OF BOSTON."]
+source_url: "https://static.case.law/abb-pr-ns/3/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1955819
+---
+
+# Cooke v. State National Bank of Boston
+
+## Majority (Ingraham, J.)
+
+Ingraham, J.
+Two questions have been submitted on this motion, viz.: Whether the Rational Banks created under the act of Congress can be> sued in a State court out of the county or city in which the bank is located; and whether such a co? - poration is a foreign corporation within the meaning of the laws of the State of Rew York..
+The first question arises under section 57 of the act of Congress of June 3, 1864, authorizing the creation of Rational Banks, which enacts “ that suits, actions and proceedings against any association under this act may be had in any circuit, district or territorial court of the United States, held within the district in which such association may be established, or in any State, county or municipal court in the county or city in which such association may be established.” By section 8 it is declared that such corporation may “ sue and be sued, complain and defend in any court of law or equity as fully as natural persons.” It is contended on behalf of the defendants that these corporations, being financial agents of the government, cannot be sued in State tribunals, except so far as the act of Congress permits. Even admitting the correctness of this rule as contended for by the defendant’s counsel, there are two answers to it in the present case. One is that there is nothing in the papers on which this motion is founded to show that this bank is, or ever has been, a financial agent of the government. It by no means follows that because she bank, if so employed, would be exempt from such actions while so acting, that it would be so exempt if never employed to act for the United States. Ror does the receipt of their bills by the United States, in payment of taxes and other payments, operate to create any such exemption; any more than a provision authorizing the receipt of notes of State banks for such purposes would extend to them such exemption. In the second place, section 8 above cited shows the intent to be that these banks may sue and be sued as fully in any court of law or equity as natural persons might maintain actions. This provision would remove all difficulty on this question unless the provisions of section 57 shall be considered as controlling and modifying the provisions of section 8. I do not give so extended a construction to this section. It is true where the provisions of the statute mean to impose a duty, there the use of the word “ may ” is to be understood as imperative, but in other cases it is merely discretionary. No duty or obligation is included in this provision. In many cases, actions against the bank could not, without this provision, have been maintained in the courts of the United States. The difference in the use of language in the same section shows that the legislative power used the word “ shall,” where it was intended to make the limitation imperative, in limiting proceedings to enjoin the comptroller to actions in the courts of the United States. Such a construction would enable a bank located in one State, by removing its funds to another, to place them beyond the reach of any action that could be brought against the corporation. .
+The second question is whether a National Bank, organized under the act of Congress, is a foreign corporation within the meaning of our statutes. By the Code a foreign corporation is defined to be a corporation created by or under the laws of any other State, government or country. (Code of Pro., § 227). The word “ other,” as there used, means any other State or government than that of this State. In a case lately decided in another district, it has been held that a bank, organized under this act and doing business in this State, is still to be considered a foreign corporation and subject to the proceedings by way of attachment. I think there can be no doubt on this question where the corporation is located in another State, and is foreign both in its origin and its location.
+The motion to vacate the attachment is denied with costs.
