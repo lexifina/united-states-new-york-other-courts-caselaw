@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-05-23"
+citations: ["32 N.Y. St. Rep. 480"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Obed A. Seely, Resp’t, v. Amos D. Shaffer, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039974
+cites_cases: ["22 N. E. Rep., 1132", "63 Barb., 185", "79 N. Y., 470", "85 Hun, 53"]
+---
+
+# Seely v. Shaffer
+
+## Majority (Martin, J.)
+
+Martin, J.
+When the subject of this action arose, the plaintiff and defendant were owners of adjoining premises situated in the town of Xewfield, Tompkins county, ÍT. Y. The farms of both were on the east side of a public highway which ran north and south. The defendant’s farm was higher than the plaintiff’s. The action was for damages for the defendant having wrongfully collected, diverted and discharged water upon the plaintiff's farm.
+The plaintiff claimed that the defendant obstructed the sluices across the highway and destroyed the headings that turned the water into them, and thus caused the water which flowed from the lands west of the highway to accumulate and run down on that side until it reached a point opposite the plaintiff’s farm, when it was discharged through a sluice or culvert onto the plaintiff’s land. The plaintiff also claimed that a stream known as Baker’s Creek ran onto the defendant’s farm for some considerable distance and then disappeared from the surface of the ground, but appeared again on the defendant’s premises in the form of a marsh or swamp; that the defendant so drained or ditched this swamp or marsh as to cast the waters therefrom, which included the waters of Baker’s Creek, upon the plaintiff’s land in a manner and to an extent different and greater than the natural flow thereof. The plaintiff likewise claimed that his farm was greatly injured by reason of such wrongful acts of the defendant, and that he sustained substantial damage.
+These claims of the plaintiff were denied by the defendant. Much evidence was given upon the issues thus made. The evidence thereon was conflicting. The jury found for the plaintiff.
+While it must be admitted that the plaintiff’s evidence upon the first branch of the case was not as full and conclusive as might well be desired, still we think it was sufficient to justify the court in submitting that branch of the case to the jury. It may perhaps be properly observed in passing that this case has been three times tried before a jury, and upon each trial when the jury have agreed its verdict has been for the plaintiff. Moreover, the last trial occurred more than fifteen years since, and a new trial under such circumstances should not be hastily or improvidently granted, and the parties required to retry the case under the embarrassment that must necessarily arise from death or the frailty of human recollection. We think the verdict was fairly sustained by the evidence, and that under the circumstances it ought not to be disturbed, unless there was some error in the charge or rulings on the trial.
+The charge of the learned trial judge contained a clear, full and impartial statement of the evidence, and an accurate and plain exposition of the law applicable to the questions involved, and we have found no valid exception to it
+The appellant, however, claims that the case was submitted to the jury upon an erroneous theory, and hence the judgment should be reversed, although no proper exception was taken. “ When a case has been submitted to a jury at circuit upon a theory which is wholly erroneous, the general term has power, and it is its duty, to grant a new trial because of the erroneous instruction, though an exception was not taken.” Whitaker v. D. & H. C. Co., 22 N. Y. State Rep., 409, and cases cited in opinion. In this case we find no occasion for the application of that rule. We think the case was submitted upon a correct theory, and that the legal principles applied on the trial in the submission of the case to the jury are well sustained by the authorities. Vernum v. Wheeler, 85 Hun, 53 ; aff’d 22 N. E. Rep., 1132; Mitchell v. N. Y., L. E. & W. R. R. Co., 36 id., 177 ; Moran v. McClearns, 63 Barb., 185; Noonan v. City of Albany, 79 N. Y., 470.
+We have also examined the various rulings on the reception and rejection of evidence to which our attention has been called by the appellant, but have found none that would justify a reversal of the judgment, or that we think requires special discussion. Judgment and order affirmed, with costs.
+Hardin, P. J., and Merwin, J., concur.
