@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02-10"
+citations: ["29 N.Y. St. Rep. 204"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John J. White, App’lt, v. Horace K. Thurber, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664622
+---
+
+# White v. Thurber
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+The covenant of quiet enjoyment was not broken by the landlord entering upon the premises to make needful repairs. That covenant is directed to an eviction by title superior to that of the landlord, and is not violated by an unlawful trespass.
+But in this case the entry was not unlawful. It was m obedience to a high duty owed to society, viz.: to keep the building in repair that it would not injure people by its fall:
+The refusal of the tenant to permit the repairs to be made does not affect the legal right
+It was proven without dispute that the landlord acted upon the requirement and notice of the department of buildings, and the evidence is to the effect that due care was taken to avoid interfering with the business of the tenant Such injury as was caused to plaintiff’s business was rendered necessary by the insecure condition of the premises, and cannot be recovered for by action.
+Judgment affirmed, with costs.
+Barnard, P. J., and Dykman, J., concur.
