@@ -1,0 +1,29 @@
+---
+court: "New York Superior Court"
+decided: "1880-12-06"
+citations: ["14 Jones & S. 455", "46 N.Y. Super. Ct. 455"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COTTON W. BEAN, Respondent, v. GEORGE W. EDGE, Appellant."]
+source_url: "https://static.case.law/ny-super-ct/46/cases/0455-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666580
+cites_cases: ["10 Wend. 349", "3 Abb. Ct. App. Dec. 42", "31 N. Y. 490", "7 Cow. 736"]
+---
+
+# Bean v. Edge
+
+## Majority (Bv the Court.—Sedgwick, Ch. J.)
+
+Bv the Court.—Sedgwick, Ch. J.
+The answer in this action admits that the defendant’s intestate, who was in being at the time of the answer, caused the goods to be appraised, under the statute, and the testimony shows that he thereafter received the proceeds of the sale. This, besides other reasons that need not be specified, establishes the fact that he was responsible for the taking of the goods.
+The answer, also, after setting out the statute of New Jersey, was that the goods taken were the property of Moses H. Bean, and were distrained for rent due by Moses H. Bean. It is not avowed that they were the goods of Moses H. Bean’s lessee,—that is, of Ely, dis-trained for rent due by Ely; so that any argument that Ely was the owner of the goods would not, under the New Jersey statute, justify their being distrained for rent due by Moses H. Bean. But the defendant, perhaps, has a right to maintain in this action, that the plaintiff did not own the goods at the date of the distress, and is not entitled to recover for their value, but that Ely did. That position calls for examination.
+The plaintiff claimed to show his ownership of the goods, by bis proof that Moses H. Bean had assigned and transferred them to him a year before the distress warrant was issued. Assuming that the defendant had a status that would enable him to impeach the bill of sale, as fraudulent against the landlord, that question was.not, in fact, litigated upon the trial; it was not presented to the referee upon the trial; nor ,was any request made concerning it. On the trial, the contest was that Moses W. Bean’s bill,of sale did not transfer the goods to the plaintiff, because Ely’s interest in them was of a kind that amounted to a title, or in some way took the title out of Moses W. Bean.
+It cannot be questioned that if, at the time of the distress, the goods seized were not the goods of the tenant, Moses W. Bean, but had theretofore been so transferred to the-plhin tiff that they had become his goods, the distress was forbidden by statute of Hew Jersey, and was a trespass.
+The remaining matter to be examined then is, was Ely’s interest in the goods such that Moses W. Bean could not transfer them to the plaintiff % There is no doubt that before Moses W. Bean’s lease to Ely, the former was the owner of. the goods, and had unlimited power of disposition over them. That lease did not convey the goods. On the contrary, it expressly provided for a bill of sale to Ely at the end of the term, on condition, that at that time there should be no default by Ely in payment of rent or- performance of covenant. Ely’s rights as to the goods did not extend to his becoming the owner of them, under any other, circumstances. If they should be burned, and he had performed his covenant to insure them, he would be ' entitled to an interest in the insurance money. If there were default in the rent, the lessor, Moses H. Bean, might, at. his option, repossess himself of the goods and sell them at public auction, and from the proceeds pay the rent due, and pay the rest to Ely. All this gave no title to Ely. Whatever was the exact nature of Ely’s interest, including a right to possession, the title and the property remained in Moses H. Bean. The transfer of that title would not affect the rights of Ely, so long as the person having title was ready to use it as Ely’s right required it should be used. Ely would enforce his right, not by reason of any interest in the property or power of disposition over it, but simply by reason of the personal obligation of Bean or his transferee, to do the things covenanted to be done. This is perhaps taking an extreme view of the obligations of Bean’s assignee. I see no reason to doubt that Ely’s interest did not operate to deprive Moses H. Bean of his right or power to sell the property to the plaintiff, and therefore the referee was correct in finding that the plaintiff was the owner of the property that had been taken by the intestate’s distress warrant, as the property of Moses H. Bean.
+No doubt is thrown upon the operation of the bill of sale, as transferring the property, by the fact that manual delivery of the property was not made. Actual delivery could not be made, as it was in the possession of Ely rightfully. It may be said further that in such case there was no presumption of fraud, it not being in the actual possession of the vendor.
+If the propositions already made are sound, the declarations of Ely that were admitted as evidence on defendant’s exception were immaterial, and did not injure the defense. On the undisputed evidence, it appeared that Moses H. Bean had been the owner of the goods. The declarations of Ely did not affect the testimony that Bean had made the bill of sale to the plaintiff. They only tended to show that Ely had voluntarily abandoned his interest, and that interest, we have held, did not impair the plaintiff’s title or the title of Moses H. Bean.
+I think it sufficiently appears that the defense made no objection to the referee’s reserving his decision, upon the motion of plaintiff to be allowed to amend the complaint so that it should demand interest, and that his allowance of the amendment was in time, being made in his findings.
+Judgment is affirmed, with costs.
+Speir and Russell, JJ., concurred.
