@@ -1,0 +1,43 @@
+---
+court: "New York Supreme Court"
+decided: "1870-04-07"
+citations: ["39 How. Pr. 97"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Erastus W. Clark agt. Peter A. Wise and Henry Horton."]
+source_url: "https://static.case.law/how-pr/39/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4458765
+cites_cases: ["31 N. Y., 401"]
+---
+
+# Clark v. Wise
+
+## Majority (By the court, Mullin, J.)
+
+By the court, Mullin, J.
+In deciding cases submitted mnder § 372 of the Code, the court is to draw from the facts (Stated, such conclusions as a jury would be warranted in < drawing, if the case was on trial before them.
+(Cases may arise in which a sale by an insolvent debtor of call his property, upon credit, may not be fraudulent. But, as a general proposition, such a sale, to a purchaser cognizant of the vendor’s insolvency, is fraudulent, as the necessary- effect of it is to hinder and delay creditors.
+If a failing debtor may sell on a credit of one, two, or three years, why not on a credit of four, six or eight years?
+Who "is to say that the one term of credit is honest and' fair, and the other fraudulent. Who shall draw the line between sales on credit that do, and such as do not, hinder and delay creditors.
+If any term of credit is allowed, the parties must in every case go before a court and jury, in order to have its validity determined. Aside altogether from authority, the public interest is promoted by declaring all such fraudulent.
+There seems to be a conflict of opinion in the supreme court on the question. But I think the weight of authority in that court is against the validity of such sales.
+It would seem that the court of appeals have decided the very question in Mott agt. Shapley, cited by plaintiff’s counsel. If that case holds, as it is said by counsel that it does, it is decisive of the question.
+The cases in the 31 and 34 N. T., merely hold that the question of frand, in such cases, is one of fact for the jury, and not of law for the court. Neither holds that if the jury on the evidence, had found the sale fraudulent, it would have been disturbed by the court.
+The plaintiff should have judgment declaring the sale fraudulent, appointing a receiver, and for payment of the judgment from the proceeds of the goods
+
+## Dissent (Morgan, J. dissenting.)
+
+Morgan, J. dissenting.
+In my opinion the facts contained in the statement submitted, do not render the sale fraudulent in law. The transaction will admit of an honest interpretation, and in that class of cases, the question is one of fact to be submitted to the jury, or to the court, if the trial is by the court without a jury.
+Nothing is said in the statement of facts as to the intention of Wise. The fact that he afterwards fraudulently concealed and appropriated some of. the notes to his own use, may be pertinent evidence to submit to the jury, to prove his original fraudulent intention, but it is not necssarily inconsistent with an original purpose on his part to convert the notes into money, and pay his debts with the proceeds.
+We ought not to give a construction to the statute of frauds, which will interfere with sales when the debtor obtains a fair price for his goods, and takes securities readily convertible into money, unless the evidence shows that it was his abject to convert the securities to his own use, instead of paying his creditors.
+The fact that he afterwards converted them to his own . use, and omitted to convert them into money to pay his debts, as they matured, would doubtless authorize the conclusion, without a satisfactory explanation, that he originally intended to defraud his creditors; but such a conclusion would be one of fact to be derived from all the circumstances of the transaction and not a conclusion of law, to be pronounced by the court.
+When the transfer is in writing and the terms of it will not admit of but one • interpretation and that a fraudulent one, the court may pronounce the transfer ftaudulent as a question of law. (See Edgall agt. Hunt, 9 N. Y. R., 213). This, however has been denied by several judges, and may perhaps be still open to further discussion and review. (See Griswold agt. Sheldon, 4 Comst., 583; Mathews agt. Rice, 31 N. Y., 401; Weight, J. and Edgall agt. Hunt, supra).
+But when the transfer will admit of an honest interpretation like the case at- bar, the mere fact that the debtor took1 notes on time, in payment for the goods sold, will not of itself be sufficient to make the sale fraudulent in law.
+The case is not a proper one for this court, to base a final judgment upon, as between these parties. We are not asked to pass upon it as a matter of fact; and yet in my opinion it is a question which can only be determined as a question of fact, in view of all the circumstances attending the transaction, taken in connection with the subsequent contract of the parties.
+The submission under section 372, should present only questions of law. I think this submission is not authorized by that section, and we cannot with propriety order judgment either for the plaintiff or defendant, as it involves simply a question of fact.
+But if we are authorized to pass upon questions of fact, we should be put in possession. of the evidence which is relied upon to prove the facts, and in a case of alleged fraud in the sale of property, all the circumstances attending the transaction should be set out in detail before we could safely pronounce a judgment.
+In my opinion the case should be dismissed without costs to either party.
+Judgment for plaintiff.
