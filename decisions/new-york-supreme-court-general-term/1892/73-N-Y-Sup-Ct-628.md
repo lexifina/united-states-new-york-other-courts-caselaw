@@ -1,0 +1,19 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-11"
+citations: ["73 N.Y. Sup. Ct. 628"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles J. Webb and Harry E. Lincoln, Appellants, v. J. Melvin Thomas, William T. Pettengill and William J. Kline, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/73/cases/0628-24.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2379532
+---
+
+# Webb v. Thomas
+
+## Majority (Putnam, J.)
+
+Judgment affirmed,with costs. Opinion by
+Putnam, J.
