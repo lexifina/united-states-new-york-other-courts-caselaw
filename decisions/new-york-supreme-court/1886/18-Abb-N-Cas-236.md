@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1886-03"
+citations: ["18 Abb. N. Cas. 236"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MILK v. WAITE"]
+source_url: "https://static.case.law/abbn-cas/18/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 635363
+cites_cases: ["2 Hill, 216"]
+---
+
+# Milk v. Waite
+
+## Majority (Childs, J.)
+
+Childs, J.
+The undertaking executed by Waite and his sureties required the defendant Waite to at all times render himself amenable to any mandate which might be issued to enforce a final judgment against him in the action, or any mandate of the court, during the pendency of the action. When Waite, with the intent not to render himself amenable to such mandate of the court, but with intent to avoid the same, absconded from this State and kept himself secreted beyond the jurisdiction of the court, he was guilty of such a breach of the condition of the undertaking as fixed the liability of the plaintiff and Judd upon the undertaking, and made them liable to •pay the amount of any recovery had by the plaintiff in the action against Waite. Milk and Judd, by the execution and delivery of the undertaking, had become the custodians of Waite with the right to at any time surrender him to the custody of the sheriff in their own exoneration as bail. Code Civ. Pro., §§ 591, 592, 593.
+This was the only means within their reach for their protection as the sureties of Waite; unless they should elect to permit the action against Waite to proceed to judgment in his absence and discharge such' judgment, having recourse only to their mortgage security. They elected to pursue the former course, and in causing such arrest and surrender the plaintiff Milk was obliged to expend the sum of three hundred dollars, which sum the plaintiff now seeks to recover by the foreclosure of the mortgage referred to and a sale of the premises therein described.
+The execution of the undertaking by Waite, jointly with his said sureties, was an agreement on the part of Waite that he •would at all times render himself amenable to any mandate which might be issued to enforce a final judgment against him ; and an agreement upon which his sureties liad the right to rely, and one which materially affected the risk assumed by such sureties in becoming jointly obligated with Waite for the purpose of securing his release. And it may well he that, but for the reliance upon such agreement, these parties would not have assumed the responsibility attaching to their position as sureties for Waite, for reasons which are apparent. The property mortgaged may not have been of sufficient value to indemnify the sureties in case they were called upon to pay the judgment recovered against Waite. Or their pecuniary condition may have been of such a character as that they could not pay such recover}’, looking to the mortgage security for reimbursement, ,without danger of distressing themselves pecuniarily. The act of Waite in absconding and secreting himself beyond the jurisdiction of the court, with the intent alleged, was gross bad f faith to his sureties, and justified them in adopting any means within their power to protect themselves from loss or injury by reason thereof.
+It is, however, contended by the defendant Waite that the expenditure incurred by the plaintiff in procuring his arrest and surrender in exoneration is not secured to the plaintiff within the terms of the condition contained in the mortgage security; that such condition cannot be enlarged, and that, al. though Waite should be held liable to the plaintiff for the money thus expended, yet that the sum is not secured by the mortgage in suit.
+H. General Term, October, 1886.
+From the interlocutory judgment on the demurrer the defendant Waite appealed to the General Term (James C. Smith, P. J., Babkee, Haight, and Beadley, JJ.), which affirmed the judgment with costs upon the opinion of the Special Term, with leave to defendant Waite to withdraw the demurrer and answer within twenty days on payment of the costs of the demurrer and of the appeal.
+The parties must be deemed to have entered into the relation created by the execution of the undertaking and mortgage with the full understanding of all the legal rights, duties and obligations created thereby; among which was the right of plaintiff to arrest and surrender the defendant, which would be, in case that were done, necessarily accomplished at the expense of the plaintiff; and the expense so incurred would create an obligation in favor of the surety against Waite which could be enforced by action. Harp v. Osgood, 2 Hill, 216.
+This being so and the plaintiff having incurred the expense sought in this action to be recovered, in the exercise of an undoubted legal right, and one which must be deemed to have been within the contemplation of the parties at the time of the execution and delivery of the security set forth in the complaint, and the language of the condition aptly expressing and securing such liability, the complaint does state facts sufficient to constitute a cause of action.
+The plaintiff must therefore have judgment on the demurrer with costs, with leave to the defendant to answer on the merits within twenty days after the entry and service of a copy of the interlocutory judgment, on payment of costs of the demurrer; and in case of the failure of the defendant to answer as herein provided, final judgment may be entered by the plaintiff for the relief demanded in the complaint, after the expiration of such time to answer.
