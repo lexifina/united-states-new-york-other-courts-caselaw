@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-12-08"
+citations: ["35 N.Y. St. Rep. 274"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert E. Smith, Resp’t, v. Theresa B. Collins et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/35/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 673738
+---
+
+# Smith v. Collins
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+The plaintiff agreed with Theresa B. Collins and her husband to furnish on or before September 30, 1887, “All wooden screens, standing trim and panel backs, water closet seats, panels to stairs, dressers, drawers, window sashes, doors, blinds and all inside wood and glass work required for twenty buildings,” which the owner proposed to erect in Brooklyn.
+The houses were separate, six being in Prospect Place, four in Ninth street, and ten in Sixth street. The first payment was to' be made “when the sash and standing trim panel backs is delivered in Prospect Place houses, $2,400.” Only $1,590 of this payment was made. The plaintiff seeks to enforce a lien for the value of the property delivered and the owner asserts that the contract was not performed so as to entitle the contractor to the first payment. v
+The .evidence shows that the parties disagreed as to the kind of glass to be furnished and this was submitted to arbitrators, who decided in favor of the claim of the owner.
+Before the award was made the first payment was demanded and the dispute seems to turn on the sole question whether the word sash includes the headlights over the doors.
+The specification to the contract under the term sash provides for the material and the glass and the manner of glazing and'includes the glazing and glass of the headlights over the doors. The doors are included in the second payment.
+The vestibule doors are to be glazed with a particular glass and in a particular way. The specification cannot, therefore, include the vestibule sash nor the front doors under the term sash within the meaning of the clause regulating the first payment. The fact does not appear whether the head lights are part of the door; if it be such it is not included in sash for the first payment. If it be a separate frame over the door it was not properly sash, neither does sash include the glass as commonly understood. The agreement does not clearly include the glass in the term sash. It is not a necessary result, from the specification that all sash shall be glazed, to so read it that'the glazing shall be done before the sash is delivered. The payment being due, the owner was bound to pay it, and if she was wrong in refusing payment the contractor could stop the execution of the contract and recover for what he had delivered.
+The proof was conflicting as to the value of this property. There is no such preponderance of proof as to call for a reversal of the judgment for that reason. On the contrary, the evidence of those who would be most likely to be informed of the value fully supports the finding.
+The judgment should, therefore, be affirmed, with costs.
+Dykman and Pratt, JJ., concur.
