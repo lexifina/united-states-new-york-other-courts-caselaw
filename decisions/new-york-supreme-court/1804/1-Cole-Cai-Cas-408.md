@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1804-11"
-citations: ["1 Cole. & Cai. Cas. 408", "1 Cole. & Cai. Cas. 399", "1 Cole. & Cai. Cas. 406", "1 Cole. & Cai. Cas. 409"]
+decided_precision: "month"
+citations: ["1 Cole. & Cai. Cas. 408"]
 reporter: "cole-cai-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
