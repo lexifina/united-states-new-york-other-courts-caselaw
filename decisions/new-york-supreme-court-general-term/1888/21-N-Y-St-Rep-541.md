@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-14"
+citations: ["21 N.Y. St. Rep. 541"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry C. Shoemaker, Resp’t, v. The New York Central and Hudson River Railroad Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0541-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017680
+---
+
+# Shoemaker v. New York Central & Hudson River Railroad
+
+## Majority (Follett, J.)
+
+Follett, J.
+Appeal from a judgment entered on a verdict and from an order denying a motion for a new trial made on the minutes and heard in this court on a case which contains all the evidence.
+Defendant’s freight house at Rome is on the north side of its railroad, and on the east side of Ridge street, which extends across the railroad. For at least three years before the accident lift gates had been kept on both sides of the railroad, .and one Gfilbo was charged with the duty of lowering them across this street upon the approach of trains. Five tracks cross this street, four traffic tracks numbered from the south to the north, 1, 2, 3, 4, and a side track, known as the “scale track,” which is next north of No. 4.
+On July 15, 1887, three or four cars stood on the scale track just east of Ridge street, the west car standing across the east sidewalk, the west end of it being about three feet west of the sidewalk, and, to that extent, in the street. On the date named the plaintiff started from the freight house with a load of goods, passed on to Ridge street, and as he was crossing the tracks, the cars above mentioned were struck by a train which was backing west on the scale track, forced across the street, striking and overturning plaintiff’s wagon, on which he was riding. It is conceded that the horses and wagon were somewhat injured,' and the plaintiff alleges that he was seriously hurt.
+All the witnesses agree that the gates were not lowered and that no notice, by bell, whistle or otherwise, was given of the intention to push these cars across Ridge street. The plaintiff testified, and he was not disputed, that the rear or west car extended across the east sidewalk about three feet into the street.
+The jury found that leaving this car standing partly in the street, and pushing it and the cars attached across the-street without notice, were negligent acts, which caused the injury, and that the plaintiff did not contribute, by negligent acts, to his injury. This finding we are not disposed to disturb. These facts being found upon sufficient, evidence, the court did not err in refusing to nonsuit.
+The plaintiff testified that his damages, caused by the-injury to his horses, harness and wagon, were $124, though his witness, Marriott, places the damage caused by the injury to the team at $100, less than the amount testified to by the plaintiff. The contest at circuit was largely over the extent of plaintiff’s personal injuries. That he was thrown from the wagon and somewhat bruised is not disputed. The accident occurred July 15,1887, and March 22, 1888, a verdict for $2.500 was rendered.
+On the trial the plaintiff exhibited a running sore near the left ankle, which he swears was caused by the injury, and that by reason of - such injury, and of an injury to his back and head, he was unable to work, lie on his back or read, beyond a short time. Shortly after the accident he exhibited to Dr. West an abrasion near his left ankle, which was prescribed for. The evidence gives much occasion for doubting that the injuries sustained are as serious as claimed, but if the plaintiff’s evidence is true, the damages are not excessive. Whether true or false was for the jury, and, besides, the experienced trial judge refused to disturb the verdict upon the ground that the damages were excessive. He' heard the evidence and saw■ the plaintiff, and, while the case is a close one, we do not think this court should set aside the verdict on this ground.
+Nothing remains for discussion but the exceptions taken to the rulings upon the admissibility of evidence.
+The exception at folio 116 is untenable for the reason stated by the trial judge, and, immediately after, the witness answered the question which had been excluded. The question at folio 150, which the witness was not permitted to answer, was argumentative and was properly excluded. Dr. West had not testified that, in his opinion, the condition of plaintiff’s ankle at the time of the trial was caused by the injury received in this collision. He testified that the condition could be caused by such an injury as the plaintiff testified he received.
+It does not appear that the doctor’s opinion was asked upon this subject, but if it was, he did not give one. Had he testified that, in his opinion, the present condition of the ankle was caused by the injury, it would have been competent to have shown, upon cross-examination, by such questions (as are found at folios 154-158), that his opinion had no certain foundation, and was of little or no value. The court told defendant’s counsel that he might ask for the opinion of the doctor as to whether the present condition of the ankle was caused by the injury received in the accident, and he, in effect, gave the evidence previously excluded. No exception to the rulings striking out the evidence at folio 222, and besides the answer was irrelevant. The fact called for by the question at folio 245 was irrelevant, and the ■exception at folio 246 presents no error.
+The judgment and order are affirmed, with costs.
+Hardin, P. J., and Martin, J., concur.
