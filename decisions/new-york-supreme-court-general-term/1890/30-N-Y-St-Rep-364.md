@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02-10"
+citations: ["30 N.Y. St. Rep. 364"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Greenwood Lake Improvement Co., App’lt, v. The N. Y. & Greenwood Lake R. R. Co. et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669310
+---
+
+# Greenwood Lake Improvement Co. v. N. Y. & Greenwood Lake R. R. Co.
+
+## Majority (Dykman J.)
+
+Dykman J.
+The object of this action is to restrain the defendant from entering upon and using the land in question, and for the recovery of $1,000 damage for wrongfully using the land for railroad purposes.
+The trial was without a jury before a judge, and he has rendered a judgment in favor of the defendant, from which the plaintiff has appealed.
+The trial judge found the facts in favor of the defendant, and found that the company was in lawful occupation and use of the premises in question to the extent that the same had been used and occupied by the defendant.
+Such findings required a judgment for the defendant, and they are all supported by the evidence and justified by the law.
+The judgment should, therefore, be affirmed, with costs.
+Pratt, J., concurs.
