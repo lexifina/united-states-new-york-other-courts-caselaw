@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1806-08"
+citations: ["1 Johns. 414"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mumford and others against McPherson and others."]
+source_url: "https://static.case.law/johns/1/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2128229
+---
+
+# Mumford v. McPherson
+
+## Majority (Kent, C. J. Thompson, J.)
+
+Kent, C. J.
+You do not show any express authority, that where you have reduced a contract to writing, and the previous conversations- are thereby merged in the written instrument, you can bring an action on such pre. w ° v vious conversations.
+T. A. Emmet, for the defendants.
+All the cases which have been cited are those of deceit, where the gist of the action is tort. It may be true, that an action would lie for the false affirmation or fraud ; but it does not follow that the party can have an action grounded on the warrant:;, dehors the written contract. The different actions in regard to sales, were, 1. deceit; 2. -warranty ; 3. assumpsit. The change that has taken place in later times, has been from xvarranty to assumpsit, and not by substituting the latter for the action of deceit. Assumpsit has been resortedto, in order to enable the plaintiff to add the money-counts, and to incorporate warranty with assumpsit. The contract for the sale of this vessel, is one and indivisible ", it has been reduced to writing under the hands and seals of the parties. An attempt is now made to prove another contract under a special warranty; fora contract with one warranty is quite different from a contract with two warranties. The case cited from Teherton is not in point; it is law only>in regard to an action of deceit-, what is said about warranty is a mere obiter dictum. If a man will make a foolish or imprudent assertion, and the party insists on a warranty, he shall have his action of warranty. For he cannot maintain an action of deceit for, a mere assertion. The case from Peake, is one of a latent ambiguity in a deed, which, it is agreed, may be explained by parol; but here the plaintiffs wish to set up a particular warranty not contain ,d in the deed. The distinction about the sale of a ship is not well founded. This species of property has from very early times been transferred by written instruments. It is a well settled and safe mode of conveyance, prescribed by law; and when the parties have thought proper to follow this mode, and to make use of a deed to express their contract, that deed must contain all the stipulations between them. In this bill of sale there is but one warranty; and it is a new doctrine that there can be a warranty in writing, and a J warranty by parol, in the same contract.
+Benson, in reply.
+A bill of sale is merely symbolical of the delivery of the ship. The property in a vessel will pass without any written instrument. Suppose a sale of a mere hulk, not intended for future navigation, and the vendor should, at the time, affirm or warrant that she contained a certain number of bolts ; and there should be a receipt or memorandum of the sale, without expressing the warranty, would not an action lie on such parol affimation, or warranty, which must have been an inducement to the purchase ? The bill of sale is merely to identify the vessel, and the register is inserted for that purpose, and to establish her national character. These bills of sale are printed forms used for the' sake of convenience, and to enable vessels to enjoy the privileges conferred by the statutes on American bottoms. The cases relating to real estates do not apply. They always pass by deed, and you may protect yourself by covenants. As the vendee may examine the title, or rely on the covenants, the maxim is caveat emptor.
+Thompson, J.
+delivered the opinion of the court. This is an application to set aside a nonsuit granted at the trial. The warranty alleged to have been made is, that the ship ■was completely copper-fastened. Upon the trial the bill of sale was produced, which, contained no such warranty. The plaintiff then offered to prove by parol, that one of the defendants, after the hill of sale was executed, and before it was delivered, did, to a question put by one of the plaintiffs express himself to the effect of the warranty contained in ■ the declaration. The plaintiffs also offered to prove, that the defendants, in advertising this ship for sale, had described her as composition-fastened, complete for coppering. This testimony was overruled, and the question now presented is, whether it ought to have been admitted, and was sufficient to maintain the action ?
+The plaintiffs were rightly nonsuited. It is not pretended that there was any fraud in this case : the action is founded upon a supposed warranty. Had the plaintiffs5 claim rested on a deceit in the sale, the advertisement offered might have been admitted, as a cii cumstance tending to establish the fraud ; but it could have no relevancy to the establishment of a warranty that depended upon the contract between the parties. But admitting a parol warranty to have been fully proved, no action could have been maintained upon it. The contract between the parties was reduced to writing, and contained in the bill of sale, and recourse must be had to that instrument to ascertain its extent. It cannot be a safe or salutary rule to allow a contract to rest partly in writing, and partly in parol. Wherever it is reduced to writing, that is to be considered as the evidence of the agreement, and every thing resting in parol becomes thereby extinguished. The plaintiffs must, therefore, take nothing by their motion.
+Judgment of nonsuit.
+2 Caines, 161. 5 Viner, 515, 517.
+2 Caines, 48. Seixas v. Woods.
