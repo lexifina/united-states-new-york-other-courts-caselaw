@@ -1,0 +1,24 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-03-31"
+citations: ["7 N.Y. St. Rep. 403"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louise S. Cowen, Resp’t, v. Arthur C. Ferguson et al., and D. Rogers Noble, Appl’ts."]
+source_url: "https://static.case.law/ny-st-rep/7/cases/0403-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1987172
+---
+
+# Cowen v. Ferguson
+
+## Majority (Brady, J.)
+
+Brady, J.
+An application was made for an order mider section 871, of the Code requiring D. Rogers Noble, as a witness, after issue joined, and before trial in this case to appear before a referee, and it was granted by Judge Bocices. The time appointed for his examination being the 23d of September, 1886, at 2 p.m. A copy of the order was duly served upon the witness, but it was not served upon the attorney for the defendants. The witness did not appear before the referee, and an order was obtained requiring him to show cause before one of the justices of this court, why he should not be punished for contempt. On the return day of that order Mr. Bullard appeared and presented an affidavit in which it was stated that no copy of the order had been served upon him, and that for that reason, he had advised the witness that the plaintiff had no right to examine him, and that he was not bound to submit to an examination under the order served upon him. It is conceded that no copy of the order was served by the plaintiff’s attorney upon Mr. Bullard, who was the defendant’s attorney. The motion to punish was granted and an order entered requiring the witness to pay the plaintiff’s attorney within four days after the personal service of the order upon him, the sum of $18, as, and for the motion costs, ■ referee’s fees and disbursements necessarily incurred, which sum was imposed upon him as a fine. The order provided, also, that upon his failure to make the payment at the time and manner mentioned, application might be made to the court for a commitment This order is appealed from.
+It is only necessary to say in regard to it that when an order requiring a witness to appear under the provisions of the section mentioned is obtained, it is required by section 875 not only that á copy of the order shall be served upon the attorney for the opposite party, but also- the affidavit upon which it was granted in like manner as a paper in the action; and by section 876 it is declared that upon proof by affidavit that service of a copy of the order and affidavit has been duly made as directed, in the order the judge Or referee must proceed to take the deposition of the witness at the time and place specified in the order. The order for the examination of the witness did not require that service should be made upon any person other than the witness himself, and perhaps that was a compliance with section 876. But taken in connection with section 875, it is quite clear that service upon the defendants’ attorney was an absolute prerequisite to the right to examine the witness; and that being so, the advice which was given to the witness by Mr. Bullard was quite justifiable. For these reasons we think that the order adjudging the party to be in contempt was erroneously made. It may be said in addition that there was clearly no intention to defeat in any way the administration of justice by the witness himself, for the reason that his absence from the place where he would have been, if he had obeyed the order of the court, was in consequence of the advice of the defendants’ attorney; advice which, as already stated, was quite justifiable. If the course adopted by the plaintiff’s attorney should be sanctioned, the witness might be examined, notwithstanding that the defendants had appeared, during their absence and statements extracted which, without explanation such as would result from a cross-examination, be secured to the prejudice of the parties if not to the prejudice of the witness himself. Such a ' practice is not contemplated, and is expressly prohibited by the requirement that the order and affidavits shall be served upon the adverse party.
+In regard to the second order the disposition made of. that was correct.
+The motion seems to have been predicated of a difference between the order as proposed and the order as entered, and the application should have been made to the justice who decided the motion for a re-settlement of the order, and a re-settlement only, and not to have it set aside on the ground of irregularity. So that it would seem that not only the plaintiff’s, but also the defendants’ attorney has erred in his practice in this case.
+The result is that the order of Andrews, J., should be reversed, and the order of Van Brunt, J., affirmed, without costs to either party.
+Daniels, J., concurs.
