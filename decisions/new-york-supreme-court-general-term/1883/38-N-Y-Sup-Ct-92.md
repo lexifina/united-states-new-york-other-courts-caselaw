@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1883-12"
+citations: ["38 N.Y. Sup. Ct. 92"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt and Dykman, JJ., concurred."]
+parties: ["DARIUS H. JOHNSON and JEFFERSON B. CONLEY, Appellants, v. CAROLINE H. MEEKER and Others, Executors, etc., of WILLIAM H. MEEKER, Deceased, Respondents, Impleaded with JOSEPH F. DEAN."]
+source_url: "https://static.case.law/ny-sup-ct/38/cases/0092-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4484552
+---
+
+# Johnson v. Meeker
+
+## Majority (Barnard, P. J.:)
+
+Barnard, P. J.:
+The proper disposition of this case was not made at the trial.
+The plaintiffs were owners of a barge. Meeker and Dorn, who are represented by the defendants, were coal dealers. It was part of their business to transport coal from Hoboken to Fall river. The season, so called, for this business was from about first of March to about first December. The scrap of writing, with the evidence and pleadings, make plain what. the contract was. The plaintiffs were to furnish this barge, properly supplied with captain and crew for this purpose, from the 1st of March, 1876, to 1st January, 1877, at $300 per month, for two trips per month. As no more trips than two in each month were made, it is immaterial what was intended by the clause in the paper as to dividing the excess equally. It probably meant that for a third trip in one month only half price was to be called for, seventy-five dollars per trip in excess of two. The answer does not deny that the agreement was for a term of months, but the defense made is that the plaintiffs represented the barge able to carry 600 tons of coal around Point Judith, in the season of transportation, so called, and 575 tons during the winter. Also, that the towing could be and would be furnished at $175 per trip. That the barge could not carry 600 tons, and the towing costs :$250 per trip, and that after three trips, defendants declined to •employ the barge further. After the three trips the barge lay idle until the latter part of September, 1376, when the plaintiffs gave notice to the defendants that they would employ the barge in other business, and hold the defendants responsible for the loss, if any. This act was held by the court to annul the contract after that date. This was so held upon the ground that the defendants were in the possession of the barge, and that the taking it therefore was an •eviction. Although the complaint avers, and one of the plaintiffs testifies that the barge was in possession of the defendants, the fact is plain that there was no such possession in defendants as to make the employment of the barge, under the circumstances, wrongful.
+A contract once made is to be performed according to its spirit. The plaintiffs agreed to furnish a boat and men with which the defendants could freight coal. They were to keep the barge constantly ready to perform. After a refusal to receive performance by defendants the plaintiffs were at liberty to use their property so as to relieve the defendants from all unnecessary damage. They were not bound to keep men in idleness and to have their barge suffer from disuse and exposure, such as the evidence details, and sue finally upon the contract as if performed. The contract was broken when the defendants refused to perform. All after that became a mere •question of damages. If the defendants upon receiving the notice, that the plaintiffs would use the vessel on their account to the best •advantage possible thereafter, had spoken, a different question would have been presented. They did not speak, but as it now appears Telied upon a legal excuse for repudiating the contract altogether. This defense required proof and none was furnished.
+In contracts for labor it has always been the rule, that upon a refusal to receive the" labor the employed is bound to seek other ■employment and reduce the damage. The old rule required him to prove his effort and failure. Now after refusal to secure labor it is incumbent upon the employer to prove that the employed could have obtained employment and refused. As to lands, to secure the lessee there must be proven a surrender which implies a determining of possession and an acceptance and discharge of the tenant from his obligation. We think there is no case which holds that an employment of the men and vessel under circumstances similar to those presented in this case works an abrogation of the contract, On the contrary, we deem the law to be otherwise. That the plaintiffs only did their duty.
+The question of the bar of the former judgment is not so clear. When a contract is entire, as this one was, there can be but one action for the breach. If the contract was rescinded before the former action was brought the judgment would be a bar. No reason is apparent until the defendants gave notice of a refusal to perform it. The complaint in the former action was for monthly earnings of the crew and boat. The defendants -had and used it. A breach on the first of October would still entitle the plaintiffs to recover the damages sustained after the breach.' As the case stands there is no bar by the former judgment; that.action was based upon an actual performance.
+The exceptions should, therefore, be sustained and a new trial granted, costs to abide event.
+Pratt and Dykman, JJ., concurred.
+Exceptions sustained and new trial granted, costs to abide event
