@@ -1,0 +1,48 @@
+---
+court: "New York Superior Court"
+decided: "1859-06-10"
+citations: ["4 Bosw. 609", "17 N.Y. Super. Ct. 609"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Moffatt v. Van Doren et al."]
+source_url: "https://static.case.law/ny-super-ct/17/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1342057
+cites_cases: ["2 Bosw., 694", "2 Duer, 642", "6 Duer, 169"]
+---
+
+# Moffatt v. Van Doren
+
+## Majority (Bosworth, Ch. J.)
+
+Bosworth, Ch. J.
+The facts alleged in the answer constitute no defense to the plaintiff’s action. Assuming all of them to be true, the plaintiff is entitled uo the relief prayed for. -The alleged pledge, of the pension certificate was wholly void by act of Congress, and gave the defendants no lien thereon. (Payne v. Woodhull, 6 Duer, 169.)
+Do they constitute a counterclaim? The action is one for equitable relief, and is not one arising on contract. íf the facts stated constitute a. counterclaim, it must be for the reason that they make such a case as is defined by subdivision 1 of section 150 of the Code.
+Do they constitute a cause of action arising out of the transaction “ set forth in the complaint as the foundation of the plaintiff’s claim?”
+The whole transaction set forth in the complaint as the foundation of the plaintiff’s claim, is, the grant to the plaintiff of the pension certificate, and the possession and wrongful detention of it by the defendants.
+Proof of a grant of the certificate to the plaintiff) that it is in the possession of the defendants, and that, upon a demand made upon them to deliver it to the plaintiff, they refused to do so, not only entitles the plaintiff to recover, but makes a ease which renders it impossible, in the nature of things, for the defendants to-prove any facts which can operate as a bar to the action, or modify in any respect the plaintiff’s right to the whole relief sought.
+• All this is set out in the complaint, except the particular facts constituting the alleged wrongful detention. The answer admits them all to be true, and then states the matters which (as the defendants aver) constitute the alleged wrongful detention. Those matters make a case of wrongful detention, and therefore, upon tile complaint, answer and demurrer, the plaintiff is entitled to the whole of the precise relief prayed for; and there are no facts stated . in- the answer which can affect, in any manner, the nature or extent of the relief to which the plaintiff would be otherwise entitled.
+In the Xenia Branch Bank v. Lee, (2 Bosw., 694, and 7 Abb. Pr. R., 372,) proof óf the plaintiff’s claim, as alleged in the complaint, would disprove the alleged counterclaimand proof of the alleged counterclaim would disprove the plaintiff’s alleged cause of-action.
+The transaction detailed in the complaint, put the paper title of the bills of exchange in question in the defendant.
+The defendant’s counterclaim (in that case) literally arose out of the transaction detailed in the complaint. In other words, he claimed title to the bills, and sought to charge the plaintiffs as indorsers of them, by reason of the several indorsements and transfers of the bills detailed in the complaint.
+The allegation in the complaint, that the defendant took them with notice of the plaintiff’s title, and of his own immediate indorser’s breach of duty, and as collateral security for a precedent debt, the answer denied. But whether he thus took them, or took them in good faith, without the notice imputed, and for value, were the matters to be determined to ascertain what, in truth, was the precise transaction which the complaint assumed to detail with accuracy, as to its several particulars.
+As they should be determined the one way or the other, the plaintiffs or the defendant would be entitled to recover, and the right of either to recover, as thus established, would rest upon the transaction which the complaint purported to describe, and which it professed to set forth, as the foundation of the plaintiff’s claim.
+In the present case, the only cause of action in favor of the defendants against the plaintiff, which can arise upon the facts stated in the answer, is for goods sold and delivered, and the utmost relief the defendants can have, is a judgment for the balance due to them. All the facts essential to the establishing of this cause of action are, the sale and delivery of goods by the defendants to the plaintiff, at his request, upon a credit which had expired before this suit was commenced, and that there was then a balance due therefor of $100.57, which still remains due and unpaid.
+All else which the answer states, is irrelevant to this cause of action, because it in no way tends to prove it. This cause of action is not and cannot be affected by the consideration that the goods were sold on the security of this certificate, or by the consideration that the certificate was left as security after the goods had been sold and delivered, or that they had been sold and delivered without any security of any kind.
+All the details stated in the answer, besides those mentioned as essential to all the 'cause of action the defendants have, are doubtless stated upon the theory, that all the facts alleged, (if admitted or proved to be true,) would entitle the defendants to all the affirmative- relief which their answer demands. But con' ceding that it is settled by Payne v. Woodhull, (supra,) that the most they are entitled to is a judgment in personam, for the balance due, then it must be admitted that' the averments as to the agreement for pledging the certificate as security, and selling goods upon the security of it, are irrelevant, and in no sense form any part of the facts essential to or which constitute the defendant’s cause of action.
+They are not set forth in the complaint as any part of the transaction in which the plaintiff’s claim is founded. No one of them need be proved to establish the plaintiff’s case. Proving a part or all of them cannot add to or detract from the strength of the plaintiff’s claim.
+It is not true, therefore, that the only and whole cause of action which the allegations of the answer (if true) establish in favor of the defendants against the plaintiff, arises wholly or in part out of any transaction which is set forth in the complaint.
+Nor is it true that proof of any one fact or incident which is necessary to establish it, need be given to prove the plaintiff’s case.
+All the claim and cause of action which the defendants have, is for goods sold and delivered on a credit which had expired before this suit was commenced.
+The plaintiff’s whole claim rests, and in the complaint is alleged to rest on the facts; that a pension certificate has been granted to him under an act of Congress, which is in the defendants’ possession; and that they wrongfully detained it from the plaintiff. -j
+I conclude, therefore, that the only cause of action which the answer describes, does not arise out of the transaction set forth in the complaint, as the foundation of the plaintiff’s claim.
+Nor is it a cause of action “ connected with the subject of the action.” The subject of the action is the pension certificate.
+The defendants’ cause of action is in no way connected with that. It is in no way dependent upon or affected by it; nor does it create any lien upon or right to it, or present any ground for relieving the defendants from any liability which the facts stated in the complaint, (if uncontradicted,) would impose upon them:
+I do not think the Legislature intended or imagined that anything could be set up as a counterclaim under subdivision 1 of section 150, which, when established, would not, either at law or in equity, affect in any way the plaintiff’s right to the whole relief which the facts stated in his complaint would entitle him to demand.
+I think it was the object of that section to enable a party defendant to have all the causes of action in his favor against the plaintiff, growing out of a transaction set forth as the foundation of the plaintiff’s claim determined, in one action, whether those claims on behalf of the defendant under the preexisting system, were claims to equitable relief, or at law or in equity constituted a partial defense or total bar.
+But if the cause of action on the part of the defendants, when established, could not affect the plaintiff’s right to have a judgment, granting to him affirmatively all the relief to which, on proof of the facts stated in his complaint, he would be entitled, I do not think it was intended by that subdivision to allow such a claim to be set up as a counterclaim. (Gleason v. Moen, 2 Duer, 642, 643.)
+. But it is possible that human transactions may present a case in which a defendant may have a counterclaim, according to the definition of it given by subdivision 1 of section 150, and that such counterclaim, when established, will not, according to the present rules of law, or of equity jurisprudence, affect the affirmative relief to which the facts stated in a complaint, (if proved as set forth,) would entitle the plaintiff.
+However that may be, I think the answer neither states a defense legal or equitable, nor sets up a cause of action in favor of the defendants against the plaintiff, arising “ out of the transaction set forth in the complaint as the foundation of the plaintiff’s claim,” within the meaning of subdivision 1 of section 150 of the Code.
+Judgment will, therefore, be entered in favor of the plaintiff against the defendants, upon the demurrer.
+Ordered accordingly.
