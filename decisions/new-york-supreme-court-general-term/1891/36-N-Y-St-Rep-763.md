@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-02-20"
+citations: ["36 N.Y. St. Rep. 763"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Giles Everson, Resp't, v. Fred C. Eddy, Rec’r of the Syracuse Screw Co., Impl’d, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/36/cases/0763-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050807
+cites_cases: ["26 Hun, 643", "31 Hun, 333", "9 N. Y., 593", "90 N. Y., 618", "96 N. Y., 476"]
+---
+
+# Everson v. Eddy
+
+## Majority (Hardin, P. J.)
+
+Hardin, P. J.
+Upon filing the referee’s report with the clerk it was regular to enter a judgment in accordance therewith. Section 1228 of the Code of Civil Procedure provides: “ Where the whole issue is an issue of fact, which was tried by a referee, the report stands as a decision of the courtand that section provides that upon filing the report, judgment upon such report “ may be entered by the clerk, as directed therein, upon filing the decision or report.”
+(2) The Syracuse Screw Company, on the 30th day of June, 1885, made, executed and delivered a mortgage to the plaintiff to secure the sum of $10,000. It was acknowledged or proven on the 21st of July, 1885. Appended to the mortgage and accompanying the same was the consent of stockholders in the corporation, “ owners of more than two-thirds of the capital stock of said corporation,” which consent was acknowledged on the 21st day of July, 1885, and recorded, in connection with the mortgage, December 28, 1885. We think the consent was valid. In Rochester Savings Bank v. Averell, 96 N. Y., 476, affirming 26 Hun, 643, it was said: “ The consent of stockholders is the important and essential thing. * * * Would the corporation be heard to allege as a defense to a mortgage that, although assented to, the evidence of the assent was not recorded ? We think not.” Applying the doctrine of that case to the one in hand, we are of the opinion that the contention made by the receiver, that the “ proper statutory steps were not taken in the execution of the mortgage, and that the assent of the stockholders must first be filed in the clerk’s office of the proper county,” must be overruled.
+(3) . The appellant contends that the mortgage in question was void at the time of its execution and delivery, and he relies in support of his position upon § 4, title 4, chap. 18, part 1 of the Revised Statutes. In Brouwer v. Harbeck, 9 N. Y., 593, it was said, viz: “ So long as insolvency neither exists nor is contemplated, the corporation, like an individual, can appropriate its means to the payment of its debts in such order and in such amounts and proportions as the directors please.”
+The referee has found: “ That at the time of the making, execution, acknowledgment, delivery and recording of said mortgage, the said defendant, the Syracuse Screw Company, was not insolvent, and that said mortgage was not made in contemplation of insolvency.” Evidence was given upon the hearing tending to support the finding just quoted. That finding presents for our consideration a case quite unlike Kingsley v. First Nat. Bank of Bath, 31 Hun, 333, as in that case there was clear evidence of the insolvency, and in the course of the opinion it was said: “ The purpose of all the parties participating in this transaction cannot be disguised.” And it was further stated that the insolvency of the corporation was clearly made out Again it is found by the referee in the case before us, that “ Every debt in existence against the defendant, The Syracuse Screw Company, was fully paid prior to the appointment of the defendant as receiver,” and “ That said receiver does not represent a single creditor whose debt was in existence when the said plaintiff’s mortgage and the assent thereto was made, executed, acknowledged, delivered and recorded.”
+In Sheldon H. B. Co. v. Eckemeyer H. B. Co., 90 N. Y., 618, where a somewhat similar question was before the court under the provisions of the Revised Statutes already referred to, it was said: “ Ho creditor, or person representing a creditor, seeks to impeach such transfer. If the section has any application to this case, there are no findings or requests to find which can raise the question.” It may be observed in passing that the mortgage in question as a lien had ceased to be operative as the property covered by it had been sold and delivered by virtue of a decree in foreclosure upon prior mortgages, and the proceeds of the sale apparently were insufficient to satisfy those mortgages, and the . beneficial effect of the judgment in favor of the plaintiff brought here by this appeal seems to rest in the provisions establishing a debt against the corporation.
+(4) We see no occasion to disturb the order confirming the report of the referee. As already observed the reference was of all "the issues, and to the referee to hear and determine. As to this appellant the decision of the referee was the decision of the court. Ho question was made upon the argument as to the order granting an additional allowance to the plaintiff, hence we need spend no time in considering the propriety of that order.
+Judgment and orders affirmed, with costs to the respondent payable out of the fund.
+Martin, J., concurs ; Merwin, J, concurs in result.
