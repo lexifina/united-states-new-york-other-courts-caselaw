@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1882-09"
+citations: ["34 N.Y. Sup. Ct. 480"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J., and Bockes, J., concurred."]
+parties: ["In the Matter of CALEB DEMELT, a Supposed Lunatic."]
+source_url: "https://static.case.law/ny-sup-ct/34/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4482788
+cites_cases: ["1 Barb., 436"]
+---
+
+# In re Demelt
+
+## Majority (Boardman, J.:)
+
+Boardman, J.:
+The alleged lunatic and two of his children appeal from an order confirming the inquisition, whereby Caleb Demelt is found to be a lunatic, and to have been so a lunatic for three years then last past, which order also appoints a committee of the person and estate of said Caleb Demelt. The appellants also propose to bring up for review an intermediate order denying tneir application to set aside the order appointing a commission in this matter under which the inquisition was found.
+The objection to the latter order arises from the neglect to give notice to one or more of the relatives of the alleged lunatic of the presentation of the petition, and the neglect to show any sufficient reasons for dispensing therewith as is required by section 2325 of Code of Civil Procedure. The language of that section requires such notice to be given, unless sufficient reasons are shown in the petition or affidavits to excuse it. It was not done in this case. Was such neglect jurisdictional or a simple irregularity which could be cured or disregarded. We think it is not jurisdictional. The old Court of Chancery had the care and custody of all lunatics, and it was the duty of the chancellor to provide for their safe keeping and maintenance and to see that their property was not wasted or destroyed. (2 B,. S., 52, § 1.)
+This jurisdiction was, upon the abolition of the Court of Chancery, conferred upon the Supreme Court, and is continued by section 2320 of the Code of Civil Procedure. The jurisdiction thus possessed by the courts could be exercised without restriction or limitation. (In re Mason, 1 Barb., 436, 441; Parsee Merchant's case 11 Abb. [N. S.], 217.) The modes of proceeding devised by the courts or enacted by the legislature are in aid of the exercise of the power of the court and to guard against wrong or injustice. The history of this jurisdiction and the mode of its exercise is fully illustrated by the learned Chief Judge Daly in the Parsee Merchant's case (supra, 216, etc.), where it is said that the interests of the heirs and next of kin will not' be considered in considering what is most conducive to the interests of the lunatic either in the care of his person or in the management of his estate.
+The new provision of "the ^ Code is doubtless introduced for the protection of the court against imposition and the alleged lunatic against wrong. The court has the power, for reasons satisfactory to the judge, to waive' the notice, which would not be reasonable if service of the notice -went to the jurisdiction.
+In the present case a motion was made by the alleged lunatic to set aside the order. appointing the commission. All his children were then heard by their affidavits and the motion was denied. The reasons for the denial are not given, but it may be assumed it was because the court was satisfied that no wrong had been done in ordering the commission, and that if it had been a hearing on the original presentation of the petition no reason was shown why a commission should not be appointed as had theretofore been doné. It was, in effect, a waiver of the service of the notice as required and an excuse of the irregularity complained of. While the language of the Code is not, we think, mandatory, the requirement is so prudent and reasonable that courts should never permit a default by reason of a disregard of its provisions, except in extreme instances. In this case the default was opened and the lunatic and his two daughters appeared to resist the application against the son, who was the petitioner.
+The order of confirmation and the inquisition are, however, erroneous in one respect. By section 2335 of Code the inquiry must be confined to the competency of the alleged lunatic at the time when the inquisition is taken. This is a new provision and varies from the former practice where the inquiry was also made and found as to the length of time the lunacy had existed. (2 Barb. Ch. Pr., 234.) This may not now be done, and so far as the inquisition finds that Caleb Demelt has been in a state of lunacy for the space of three years last past before such inquisition, and during that time has made contracts or disposed of his property, it is erroneous and the findings are unauthorized by law. In these respects the motion to confirm the inquisition should have been denied. The change of the law was doubtless overlooked and the entire finding confirmed. For this reason the order of confirmation must be reversed so far as it relates to the lunacy, mental capacity and acts of Caleb Demelt prior to the date of the inquest, and the 'findings on those subjects contained in the inquisition must be stricken out as unwarranted, illegal and improper. In other respects - the order of confirmation is affirmed. Costs-are not allowed to either party. If counsel do not agree on form of order the same shall be settled by Boardman, J.
+Learned, P. J., and Bockes, J., concurred.
+Order denying motion to set aside order affirmed. Order confirming inquisition modified as stated in opinion, and as modified affirmed; no costs. Orders to be settled by Boardman, J.
