@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court"
+decided: "1865-09"
+citations: ["1 Abb. Pr. 343", "31 How. Pr. 30"]
+reporter: "abb-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRINK against THE HAMPDEN INSURANCE COMPANY."]
+source_url: "https://static.case.law/abb-pr-ns/1/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4646783
+cites_cases: ["14 Abb. 398", "14 Abb. Pr., 398", "14 Abb., 398", "17 N. Y., 391", "17 N. Y., 427", "19 N. Y., 179", "20 Barb. 340", "20 Barb., 340", "23 N. Y., 516", "26 N. Y., 423", "26 N. Y., 425", "5 Wend. 202", "5 Wend., 202", "8 Cush. 133", "8 Cush., 133"]
+---
+
+# Frink v. Hampden Insurance
+
+## Majority (By the Court.—Miller, J.)
+
+By the Court.—Miller, J.
+It is not claimed that the plaintiff had any insurable interest in the property insured, but it is insisted that he was the appointee of Hurst, the insured, to receive the loss, if any was incurred, and hence is entitled to maintain this action.
+In Grosvenor v. The Atlantic Fire Ins. Co. (17 N. Y., 391) the action was brought by the mortgagee, to whom the loss was payable, and it was held that he could not recover, because of a breach of the conditions of the policy by the mortgagor. The learned judge in this case held that the plaintiff was the appointee of the party insured, to receive the money that ¿\ight become due from the insurers upon the contract. He says, “ The undertaking to pay the plaintiff, was an undertaking collateral to, and dependent upon the principal undertaking to insure the mortgagor. The effect of it was, that the defendants agreed that whenever any money should become due to' the mortgagor upon the contract of insurance, they would, instead of paying it to the mortgagor himself, pay it to the plaintiff.
+“ The mortgagor must sustain a loss for which the insurers were liable, before the party appointed to receive the money would have a right to claim it. It is the damage sustained by the party insured, and not by the party appointed to receive payment, that is recoverable from the insurers (Macomber v. The Cambridge Mutual Fire Ins. Co., 8 Cush., 133).” He then proceeded to state that, “ The insurance being upon the interest of the mortgagor, and he having parted with that interest before the fire, no loss was sustained by him, and of course, none was recoverable by his assignee or appointee.”
+The effect of, and the irresistible inference to be drawn from these observations, is, that but for the fact that the mortgagor had parted with his interest, and had sustained no loss, the plaintiff could have recovered as his appointee (see also Bidwell v. Northwestern Ins. Co., 19 N. Y., 179, 183).
+The case above cited (17 N. Y., 391), establishes that the loss being payable to another party instead of the insured, was merely a designation of the person to whom it was to be paid after it had accrued, and was not an assignment of the policy because payable to another.
+In the case at bar it was an insurance of Hurst, and the plaintiff was the appointee to receive the money in the event of a loss by fire. It was only an agreement collateral to, and dependent upon the original undertaking, that after a loss liad occurred and not before, the money should be paid over to the plaintiff, and was not an assignment of the policy before any loss. If the case of G-rosvenor u. The Atlantic Fire Ins. Co. is a reliable authority, then it was not necessary for the plaintiff to allege in his complaint that he had an insurable interest, and the plaintiff to whom the loss was payable as appointee, can maintain this action, and unless there is some authority that overrules the doctrine, laid down, it must be considered as conclusive in favor of the plaintiff’s right to recover.
+The defendants’ counsel insists that there is such authority, and our attention has been particularly directed to the case of Freeman v. The Fulton Ins. Co. (14 Abb., 398) which is ■mainly relied upon to sustain an adverse theory. In that case, one Stetson was the owner of the steamer “ Cataline,” at the time of the issuing of the policy, and the defendants insured the plaintiffs, or whom it might concern, cmd the loss, if cmy, was payable to the plaintiffs.
+It was held that the complaint was demurrable, and that in order to recover upon a fire insurance policy for the amount of the loss, it must allege that the plaintiffs had an interest in the thing insured at the time of the. loss; unless the claim was assigned to him afterwards, or he sues as trustee of an express trust, and if he sues as trustee or agent, the complaint should allege the existence of such trust, and show his authority to collect the amount insured.
+To make the case cited parallel to the one at bar, Stetson should have been the insured party, and the loss payable to the plaintiffs. As it stands, the plaintiffs, or whom it might concern, were the parties insured. The plaintiffs had no insurable interest, and Stetson was not insured, nor did it appear that the- plaintiffs had acted as the trustees or agents of Stetson, the owner.
+Entirely'a different question was presented from the one now considered, and I think the authority last cited is not in conflict with 17 N. Y. And although referred to approvingly in Fowler v. The N. Y. Indemnity Ins. Co. (26 N. 7., 425), yet I understand it was only for what it actually did' decide, and not as sustaining a doctrine adverse to the former case.
+The facts presented by the complaint here, do not show an assignment before loss to a party who had no interest in the property within the principle of several cases to which we have been referred (Peabody v. Washington Ins. Co., 20 Barb., 340 ; Fowler v. Hew York Indemnity Ins. Co., 26 N. Y., 423 ; Ruse v. Life Ins. Co., 23 N. Y., 516 ; Hooper v. Hudson River Ins. Co., 17 N. Y., 427 ; Granger v. Howard Ins. Co., 5 Wend., 202), but a case where the relation of insurer and insured existed between the defendant and Hurst, the owner of the property, until a loss had taken place, when the plaintiff, as the appointee of the insured, steps in and claims under the agreement that the defendants should pay the money to him.
+There are several other points urged by the defendants’ counsel, that cannot be upheld, if the views already expressed are sound and maintainable, and hence a discussion of them is not required.
+My opinion is that the case of Grosvenor v. The Atlantic Fire Ins. Co. is a decisive authority upon the question discussed, and that the demurrer to the plaintiff’s complaint was not well taken.
+The order overruling the demurrer must be affirmed with costs, with leave to withdraw the demurrer, and put in an answer upon the usual terms. ¡
+Present, Hogeboom, Miller and Ingalls, JJ.
