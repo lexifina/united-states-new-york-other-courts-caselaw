@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1852"
-citations: ["7 How. Pr. 173", "7 How. Pr. 282"]
+decided_precision: "year"
+citations: ["7 How. Pr. 173"]
 reporter: "how-pr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,6 @@ parties: ["In the matter of the application of Benjamin Welch Jr. agt. James M. 
 source_url: "https://static.case.law/how-pr/7/cases/0173-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2193242
-cites_cases: ["3 Hill, 43", "5 Hill, 625"]
 ---
 
 # Welch v. Cook
