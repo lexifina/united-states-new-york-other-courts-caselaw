@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1889-12-09"
-citations: ["27 N.Y. St. Rep. 951", "28 N.Y. St. Rep. 77"]
+citations: ["27 N.Y. St. Rep. 951"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["Stephen B. M. Stokes, Trustee, Resp’t, v. Eleanor Amerman, Impl’d
 source_url: "https://static.case.law/ny-st-rep/27/cases/0951-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2030757
-cites_cases: ["100 N. Y., 372"]
 ---
 
 # Stokes v. Amerman
