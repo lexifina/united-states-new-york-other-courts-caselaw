@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-01-22"
+citations: ["43 N.Y. St. Rep. 902", "17 N.Y.S. 275"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Maroney et al., App’lts, v. Margaret Boyle and Frank W. Davis, Impl’d, Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/43/cases/0902-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2078199
+cites_cases: ["58 Barb. 224", "58 Barb., 224"]
+---
+
+# Maroney v. Boyle
+
+## Majority (Macomber,)
+
+Macomber,
+form, this action is for the purpose of establishing and enforcing a lien for the. purchase money of the lands described in the complaint, which were sold by the plaintiffs to the defendant, Margaret Boyle, August 28, 1887, for a consideration expressed at $2,500. These lands consist of a lot situated on the reservation of the Seneca nation of ISTew York Indians, subject to an annual rental and have a store building thereon.- The purchaser paid in cash the sum of $500 at the time of the conveyance, and gave her note for the residue. Soon thereafter, she conveyed the lands to the defendant, Edward D. Boyle, who, when this action was brought, had paid upon such purchase the sum of $500, in sums of $80 and $420 in cash, and the balance by a discharge of the purchaser’s interest in the estate of Peter Boyle, deceased, which was represented by Margaret Boyle as administratrix, and certain other items of account amounting to about $150.
+The deed to Margaret Boyle ran to her as the administratrix of the estate of Peter Boyle, and the notes which she gave for the unpaid purchase moneys were signed by her in such representative capacity. The defendant, Edward D. Boyle, became embarrassed in business, and numerous judgments were rendered against him, which became liens on the property so conveyed, and these lands were, upon executions issued upon such judgments, sold to the defendant, Frank W. Davis, by the proper sheriff, and a certificate of such sale given. At the time of such purchase, the defendant, Frank W. Davis, had no knowledge or notice that the plaintiffs had, or claimed to have, any lien upon the premises for the unpaid purchase moneys. There is evidence, also, to show that when the plaintiffs sold and conveyed the land to Margaret Boyle, they had reason to believe that the purchase was made by her for the purpose of conveying the same to Edward D. Boyle, who was to, and who did in fact, make improvements upon the lands.
+Upon the whole evidence the court at special term decided, as a matter of fact, that the plaintiffs in making the deed and accepting the note relied on the individual responsibility and pecuniary ability of the defendant, Margaret Boyle, for the payment of the unpaid portion of the purchase moneys; and that the purchaser never had any notice, knowledge or information until after he had purchased the judgments, and received the sheriff’s certificate of sale, and had fully paid for the same, that the plaintiffs, or either of them, ever had, or claimed to have, a lien upon or interest in these lands after the same was conveyed by them to the defendant, Margaret Boyle. That the plaintiffs had, as between them and the purchaser, an equitable lien upon the real estate for the unpaid purchase moneys, admits of no doubt, and is not contested by t he respondents. This is a familiar rule in equity jurisprudence, and requires the citation of no .authorities to support it. But the facts disclosed at the trial of this case show that other rights have intervened, namely, those of a purchaser in good faith for value, and without notice of the plaintiffs’ lien. On principle it would seem to be clear that a purchaser at a sheriff’s sale, made under a judgment of a competent court, and who advanced his moneys in good faith in the purchase of what he believed to be an unincumbered title in fact, as well as on the record, must be held to have a title paramount in law to'the unrecorded and secret lien for a part of the unpaid purchase moneys of the vendor, who had conveyed the real estate to the judgment debtor. He must be deemed to be a purchaser for a valuable consideration without notice. Such was the decision in the case of Hulett v. Whipple, 58 Barb., 224.
+It is argued by the learned counsel for the appellant that the case before us is distinguishable from that of Hulett v. Whipple, supra, because when this action was brought the defendant had not received the sheriff’s deed under this sale, but only held the certificate of the sale; whereas, in Hulett v. Whipple, it is claimed that the deed had actually been delivered. But to our minds this fact, even though it actually existed, would make no difference in our conclusions, because the essential thing upon which the court acted in the case cited, and upon which we base our judgment in this case, is that the purchaser at a judicial sale had actually paid . his money, in good faith, without knowledge or notice to put him upon inquiry, such as might lead to the disclosure of an unrecorded, and hence secret, lien for the unpaid purchase moneys.
+For this reason, we think the judgment appealed from should be affirmed.
+Judgment appealed from affirmed, with costs.
+Dwight, P. J., concurs; Lewis, J., not sitting.
