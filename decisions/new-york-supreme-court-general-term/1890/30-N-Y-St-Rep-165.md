@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02-10"
+citations: ["30 N.Y. St. Rep. 165"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Harrison Mills, Resp’t, v. James M. Mills et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0165-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669288
+cites_cases: ["88 N. Y., 448"]
+---
+
+# Mills v. Mills
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+In April, 1881, Hezekiah D. Mills, now deceased, made a conveyance of certain land to his son, James M. Mills. There was included a piece of fifteen acres of wood land, which the plaintiff claims to be a mistake upon the part of the grantor. The evidence of a mistake, while it is very conflicting, seems to support the finding that there was such a mistake made' in the deed.
+The grantor was the father of Harrison Mills and James M„ Mills. He had a farm which was near the farm of the plaintiff.. Between the two farms there was a fifty-five acre wood lot belonging to Hezekiah Mills, deceased.
+In January, 1844, the deceased fenced off the fifteen acres nearest to plaintiff’s farm by a solid stone fence. The evidence conflicts as to possession of this piece since, but the probability is in favor of the occupancy of the plaintiff since that time. The testator made a will in 1868, and described the sixteen acres as “now occupied by my son Harrison.”
+When the deed to James M. Mills was given, the whole fifty-five acres was inserted, and it was stated by the grantor that he thought it covered the piece given to the plaintiff. James M. Mills, who was present, stated that it did not, and that he would correct it if it was so included. The testimony of the attorney, who drew the deed, is very direct and positive, and if credited the fifteeen or sixteen acres was inserted in the deed to James by mistake. His testimony is borne out by the long occupancy of Harrison of the piece, by the will, and by the fact that the fifteen acres is a part of the fifty-five acre tract, all of which was intended to be conveyed, except this piece, long before fenced off and occupied by Harrison Mills. As has been stated, the old will recognized the occupancy of Harrison. The defendant, James M. Mills, was permitted to deny that he gave any direction to the attorney in respect to the deed to himself from his father.
+He was also permitted to deny that his wife was present, as testified to by Stoddard, and • that one Hill, who was present, made no suggestion to Stoddard. These were contradictions to Stoddard. James M. Mills was asked if he had stated that if the deed included the fifteen acres he would correct the mistake by deceased. This was properly denied. There are cases which permit a party to testify to facts which tend to contradict an uninterested witness as to a transaction between a deceased person and himself. He could say he was not there if the witness testified he was. He could testify that there was no endorsement on certain bonds when it was testified to that there were such endorsements. . A party can testify that he took securities before a disinterested witness testifies that he did. Pinney v. Orth, 88 N. Y., 448; Lewis v. Merritt, 98 id., 206; Wadsworth v. Heermans, 85 id., 639.
+In the present case the testimony called for the transaction itself and what took place at it by James M. Mills, who took the deed from the deceased grantor. Section 829 was designed to forbid the reception of this testimony.
+' Judgment affirmed, with costs.
+Dykman, J.,
