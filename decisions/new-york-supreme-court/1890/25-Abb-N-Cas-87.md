@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1890-06"
+citations: ["25 Abb. N. Cas. 87"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FROWEIN v. LINDHEIM."]
+source_url: "https://static.case.law/abbn-cas/25/cases/0087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1966179
+cites_cases: ["53 Hun, 40"]
+---
+
+# Frowein v. Lindheim
+
+## Majority (Ingraham, J.)
+
+Ingraham, J.
+The plaintiffs reside in Holland, and whatever books of account they have are there. It is obviously impossible that defendant should have any personal knowledge as to whether the plaintiff, as matter of fact, did keep books of account or not, or if any such books were kept, whether or not they contained any entries that would show whether or not plaintiff had sold goods to other persons in this country. It would be manifestly absurd to order the plaintiffs to produce all of their books of account, or certified copies of them, and yet, from the petition, it would be impossible to make an order directing that any particular book be produced, or that a copy of any particular entry be furnished. The defendant may imagine that plaintiffs keep books of account, because merchants generally do, but until some satisfactory evidence that they do keep such books of account, and that some entries in such books would furnish the evidence that the defendant requires, it would be manifestly improper to order a discovery. See Cornish v. Wormser, 53 Hun, 40.
+Motion denied, with $10 costs to abide the event.
