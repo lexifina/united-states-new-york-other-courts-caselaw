@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-05"
+citations: ["15 N.Y. St. Rep. 930"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Springfield Iron Company, Resp’t, v. David M. Kelley Impleaded with Another, App’lts."]
+source_url: "https://static.case.law/ny-st-rep/15/cases/0930-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2001699
+---
+
+# Springfield Iron Co. v. Kelley
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+—It appears from the evidence that on the 15th of January, 1880, the plaintiff and defendants entered into a written contract, by which the former was to furnish and the latter to pay for two thousand tons of iron rails, to be delivered during the months of May and June, of that year, on board cars at the works of the plaintiff, at Springfield, in the state of Illinois, in equal quantities in each month, together with certain fist-plates or splice-bars for the iron rails.
+By a subsequent agreement between the parties, the time for the delivery of the iron rails and of the fist-plates was extended from May and June, 1880, to June and July of that year, but there was no other modification of the original agreement made by the parties. Subsequently to this time, certain negotiations were entered into between the parties with a view, on the part of the defendants, of an extension for a considerable time of the period in which the iron should be delivered. The main contention on the part of the learned counsel for the defendant is that these negotiations resulted substantially in an agreement by which the delivery should be had in equal parts on the 15th day of October and the 15th day of November, 1880. If this contention were true, as matter, of fact, it would follow that this action could not be maintained, because it was begun before the ldth day of October, 1880, and consequently before the time in which the defendant was required, by virtue of the subsequent agreement, to receive and pay for the property. Upon an examination of the evidence, however, it is ascertained that the preponderance thereof is in favor of the conclusion reached by the referee, namely, that such negotiations for a postponement of the time of delivery until October and November, did not culminate in any agreement'between the parties, but rested only in negotiations, and that at last the plaintiff made a final demand that the defendant should receive the property within a reasonable time after about the twelfth day of August of that year. At the utmost it may be said that the plaintiff considered the proposition of the defendants for a delivery at those times only upon the assumption that security other than was required by the original agreement should be furnished by the defendants for the faithful performance of the contract of payment on their part. This was never done. Hence it is that the plaintiff had clearly the right, the subsequent negotiations failing, to demand that the defendants fulfill their part of the agreement by receiving the iron and paying therefor within a reasonable time.
+The evidence shows the fact to be that the defend ants, in violation of their agreement, failed to permit the. iron to be delivered to them and failed to make any payment therefor, either within the time limited by the original agreement or within the period by which the time of the fulfillment of the original agreement was extended by consent, or within a reasonable time after being notified so to do. They also failed to comply with the plaintiff’s peremptory demand of performance made early in October following. Such being the fact as found by the referee and as conclusively established by the evidence, the only other question was the amount of damages to which the plaintiff was entitled.
+The testimony upon this subject, which is given by numerous witnesses, is quite uniform and we think the learned referee was justified in his conclusion as to the amount of damages which should be awarded to the plaintiff, based upon the proper measure adopted by him, which was the difference between the contract price and the actual value of the property at the time of the beginning of this action which was the 12th day of October, 1880.
+We are unable to see that the defendants have any right to counter-claim against the plaintiff, damages by reason of the alleged failure of the plaintiff to deliver 390 tons of iron named in another contract. That contract was not with the defendants although possibly'they may have had some interest as stock-holders in the Bail way construction Company, so-called, with which the contract'was made. No privity is shown between the defendants and the plaintiff in regard to that contract which would enable the former to claim damages against the latter by reason of any failure on its part to deliver that amount of iron.
+We have examined the several exceptions to the reception and rejection of evidence as well as the exceptions to the requests and refusals to find in accordance with the defendants’ views of the case, and find in these no error which would warrant us in reversing the judgment.
+The judgment should be affirmed, with costs.
+Van Brunt, P. J., and Bartlett, J., concur.
