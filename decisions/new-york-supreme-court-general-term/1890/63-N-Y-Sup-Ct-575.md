@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-05"
+citations: ["63 N.Y. Sup. Ct. 575"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bartlett, J., concurred."]
+parties: ["PIERCE S. MARX, Respondent, v. THE MANHATTAN RAILWAY COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/63/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4623781
+cites_cases: ["104 N.Y., 352", "111 N. Y., 220"]
+---
+
+# Marx v. Manhattan Railway Co.
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+This action was brought to recover damages for injuries claimed to have been sustained by the plaintiff, to his eye, while standing beneath the defendant’s railway in the Bowery, from coal falling from one of the defendant’s engines. The trial resulted in a verdict for the plaintiff, and from the judgment thereupon entered and an order denying a motion for a new trial this appeal is taken.
+Yarious exceptions are brought up upon this record, but in the disposition of this appeal it will be only necessary to consider those taken to the exclusion of the evidence of Dr. Knapp, a witness called on behalf of ■ the defendant. The plaintiff when examined upon his own behalf testified that he had visited Dr. Knapp two or three times to consult him about his eye; that Dr. Knapp did not examine him ; that he merely looked at his eye; examined his eye; asked him no questions; did not ask him a word, and that he told him nothing, and upon the third visit Dr. Knapp told the plaintiff to get examined by a doctor.
+Dr. Knapp was» then called as a witness by the defendant for the purpose of showing that the plaintiff had not truly stated what took place between the doctor and himself. The counsel for the plaintiff objected to the doctor’s giving any evidence of anything said or done by him upon the ground that the plaintiff had consulted him in a professional capacity, and that the doctor was prevented by section 834 of the Code from testifying as to anything which took place between them. The court sustained the objection and the evidence was excluded. This, we think, was error. It is, undoubtedly, true that the plaintiff occupied the relation of patient to Dr. Knapp, and the physician was precluded from giving evidence of what took place between them by section 834 of the Code, unless the privilege was waived. Section 834 reads as follows:
+“A person duly authorized to practice physic or surgery shall not be allowed to disclose any information which he acquired in attending a patient in a professional capacity, and which was necessary to enable him to act in that capacity.”
+Section 836 provides for exceptions to the rule. It is as follows: “ The last three sections apply to every examination of a person as a witness, unless the provisions thereof are expressly waived by the person confessing, the patient or the client.”
+It has been well settled that this express waiver may be inferred from circumstances. Thus the provisions of the Code in respect to an attorney are the same as those relating to physicians, and it has been held that where a testator lias asked his attorney to become a witness to his will, he has expressly waived his privilege. (In re Coleman, 111 N. Y., 220.) In the case of McKinney v. Grand Street, etc., Railroad Company (104 N.Y., 352), it was held where the plaintiff had examined a physician, who had attended him in a professional capacity upon a previous trial, upon a new trial the defendant might call and examine the same witness, against the objection of the plaintiff, the court saying “ the patient cannot use this privilege both as a sword and a shield, to waive when it enures to her advantage and wield when it does not.”
+The plaintiff upon his direct-examination in the case at bar had pretended to give all that took place between himself and Dr. Knapp. Had opened the door of the consultation-room to the jury, and had pretended to give them a statement of what had occurred between himself and Dr. Knapp. Can it be that, having done this, when Dr. Knapp is called to give his version of what took place, that his mouth is shut and the truth cannot be laid before the jury. Can it be that a patient can distort the features of a consultation with his physician so as to do the physician the greatest of injury, and the physician be prohibited from defending himself? Clearly not. The patient may keep the door of the consultation-room closed, but he cannot be permitted to open it so as to give an imperfect and erroneous view of what has taken place there, and then close the door when the actual facts are about to be disclosed. This would be allowing a plaintiff to "manufacture evidence for himself in cases of this description, and prevent the defendant from resorting to the only means to elicit the truth.
+The legislation in question was not intended to be the means of such injustice; and it may be claimed with great force that as the section in question was intended to prevent the disclosure by a physican of his patient’s condition, either physical or mental, when such condition comes in question, and physicians are examined at the instance of the plaintiff in respect thereto, the privilege is waived and the opposite party has a right to resort to the same class of evidence.
+In the case at bar the evidence offered related to the same interview as to which the plaintiff had testified, and to the occurrence of which he had pretended to give an account. It* seems to us clear that, having thus himself gone into the privileged domain to get evidence upon his own behalf, he cannot prevent the defendant from assailing such evidence by the only testimony available for that purpose. In construing this legislation we must consider the object which was sought to be attained, viz., the greatest freedom in eonfessions to minister or priest, and consultations with attorney or physician. The reason for the rule no longer exists where the party himself pretends to give the circumstances of the privileged interview.
+The judgment and order appealed from should be reversed, with costs to appellant to abide event.
+Bartlett, J., concurred.
+Judgment and order reversed, with costs to appellant to abide event.
