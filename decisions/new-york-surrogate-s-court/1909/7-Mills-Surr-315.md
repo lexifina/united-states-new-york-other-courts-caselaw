@@ -1,0 +1,32 @@
+---
+court: "New York Surrogate's Court"
+decided: "1909-11"
+citations: ["7 Mills Surr. 315", "65 Misc. 135"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement of the Account of Thomas Martinus, as Trustee under the Last Will and Testament of Martin Schramm, Deceased."]
+source_url: "https://static.case.law/mills-surr/7/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1076018
+cites_cases: ["16 App. Div. 438", "41 App. Div. 434"]
+---
+
+# In re the Judicial Settlement of the Account of Martinus
+
+## Majority (Ketcham, S.)
+
+Ketcham, S.
+The will requiring construction contains in ■its third paragraph a well-expressed devise of the residue, in trust, to collect the income and to pay the same over “ unto my daughter, Ottilie Scherzenger, for and during the term of her natural life.” The will then proceeds, as follows:
+“ Fourth. Upon the death of my said daughter, Ottilie Scherzenger, I do give, devise and bequeath all the rest, residue and. remainder of my estate, both real and personal of whatever name and nature and' wheresoever the same may be situate, unto all of my grandchildren, who shall survive me, in fee simple, absolutely and forever, equally share and share alike, and I direct my said trustee to pay over the share of each grandchild as soon as they arrive at the age of twenty-one years.
+“ Fifth. In the event of the death of any of my grandchildren before they arrive at the age of twenty-one years leaving lawful issue, him or her surviving, it is my will that such lawful issue shall receive the share that their parent would have taken if living; in the event of the death of any of said grandchildren before they arrive at the 'age of twenty-one years without lawful issue, him or her surviving, it is my will that in such event, the share of the one so dying without lawful issue as aforesaid, shall go and be distributed among my surviving grandchildren equally share and share alike.”
+The decedent left him surviving, interested in his will, the daughter named in the third paragraph and the grandchildren, Alvina Herrmann and William Scherzenger. The daughter died May 25, 1909. Alvina Herrmann was twenty-one years old at the inception of this proceeding. William Scherzenger is still an infant.
+The sole question is whether or not, as to one-half of the estate payable to William Scherzenger as soon as he arrives at the age of twenty-one years, the trust shall prevail until he attains the said age or shall sooner die.
+There was a sound trust for the benefit of Ottilie Scherzenger during her life, and for that period the trustee held the legal estate. This trust once instituted could not cease upon the death of the life tenant, unless at that time there was a person who had the right to immediate ownership1 and possession.
+One-half of the fund is liberated from the trust, for there is la person entitled to that portion. As to' the other one-half, there is no such person, since, if it be paid to anybody, it may turn out to have been paid to the wrong person. Unless the trust beyond the first life is invalid, the fund must remain in the hands of the trustee until William shall attain his majority and become entitled to receive the principal fund or, upon his earlier death, it be determined that the payment shall be made to his lawful issue or to the grandchild who shall then survive him.
+It is sought to bring this trust within the rule that the disposition of property to one in trust for another is invalid if it be intended that the beneficiary shall have the right both to possession and profits (Real Prop. -Law, § 73; Snedeker v. Congdon, 41 App. Div. 434); but the disposition in this case is to one grandchild in one event and to another in the alternative, and cannot be controlled by a statute clearly limited to a passive trust for a person intended to have the whole and absolute use.
+The trust is attacked upon the further claim that it provides for an accumulation of income which, though primarily for the infant William Scherzenger, during minority, may possibly be for the benefit of a surviving grandchild who is adult. There is no express requirement that the income shall be accumulated, and the mere fact that there is no disposition of the income by the terms of the will cannot impose upon the testator’s scheme a feature which would result in its destruction.
+If the trust be otherwise valid, the rents instead of accumulating would go to “ the person presumptively entitled to the next eventual estate; ” and the will is to be regarded as if it embodied a direction to that effect. Smith v. Farmer Type Founding Co., 16 App. Div. 438, 444.
+Under this view the one-half is to be held somewhere in suspense until its ultimate owner shall be determined by the death, or majority of William, and, in the meantime, the income is to be paid to him. By whom can this fund be held pending this determination, unless it shall remain in the hands of the trustee under the trust to pay the income ?
+The decree of distribution should accordingly provide that, as to one-half of the residue, it shall be held and administered by the trustee and its income paid to William Scherzenger.
+Decreed accordingly.
