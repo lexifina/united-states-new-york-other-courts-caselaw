@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-01-23"
+citations: ["35 N.Y. St. Rep. 730"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Will of George A. Bartholick, Dec’d."]
+source_url: "https://static.case.law/ny-st-rep/35/cases/0730-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674089
+cites_cases: ["113 N. Y., 62", "121 N. Y., 575"]
+---
+
+# In re the Will of Bartholick
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The writer of the will wrote himself a of $15,000; and although there was some evidence tending to show that he copied the instrument in ¡Dart from a former draft of a will, the provisions of which were substantially dictated by the testator, it does not satisfactorily appear what changes were made by the writer of the new will, nor, in the absence of the testimony hereafter mentioned, whether the will, as executed, was ever read to, nor how far its provisions were understood by the testator, who at the time of its execution was much enfeebled in mind and body by old age and disease.
+The principal witness for the proponents, upon both the questions of testamentary capacity of the testator and of undue influence or deceit, was another legatee, for the sum of $5,500, who also stood in a confidential .relation to the testator, as his housekeeper and personal attendant, and she was permitted to testify, under objection of the contestants, to many transactions and communications, especially in immediate connection with the execution of the will, seen and heard by her.
+The objections to the testimony of this witness were overruled upon the ground that such transactions and communications were not personal to herself, but only in her presence. The law now seems to be settled that this testimony was inadmissible. In re Eysaman, 113 N. Y., 62; 22 N. Y. State Rep., 136; In re Dunham, 121 N. Y., 575; 31 N. Y. State Rep., 858. Such being the case we have felt called upon, in our .consideration of this appeal, to reject the testimony of the witness (Lizzie Wiggins), referred to; and, in its absence, as already intimated, a case upon the facts is not made, to our satisfaction, for the admission of this will to probate.
+We have, therefore, reached the conclusion that the decree of the surrogate should be reversed, upon a question of fact, and that a trial by jury should be had of the material questions of fact arising upon the issues between the parties. Code of Civ. Pro., § 2588.
+So ordered. Order to be settled by the presiding justice.
+Dwight, P. J., Macomber and Corlett, JJ., concur.
