@@ -1,0 +1,23 @@
+---
+court: "New York Superior Court"
+decided: "1893-10"
+citations: ["31 Abb. N. Cas. 73", "27 N.Y.S. 640"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAFFORD v. SAFFORD."]
+source_url: "https://static.case.law/abbn-cas/31/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1974028
+cites_cases: ["1 Johns. Ch. 389", "11 N. Y. 228", "114 N. Y. 109", "124 N. Y. 589", "21 N. E. 106", "27 N. E. 383", "33 How. Pr. 490", "34 N. Y. 643", "76 N. Y. 78"]
+---
+
+# Safford v. Safford
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+A marriage, invalid to all intents and purposes, no matter in what proceeding or in what court the question arises, is a void marriage (14 Am. & Eng. Encl. of L. 483). Thus, if a man being already married marries ■another woman, his marriage is invalid to all intents and purposes without any judgment declaring it void, for a man cannot have at the same time two wives, or a woman two husbands (Ib. 499, Amory v. Amory, 6 Robt. 514; s. c., 33 How. Pr. 490; Spicer v. Spicer, 16 Abb. Pr. N. S.. 112; Cropsey v. Cropsey, 11 N. Y. 228; Haviland v. Halsey, 34 Id. 643; People v. Baker, 76 Id. 78; In re Hetherington, 25 Weekly Dig. 4). This is modified by the statute making certain marriages voidable only. It provides in substance, that a second marriage, contracted in-good faith, where the former husband or wife has absented himself or herself for the space of five successive years, without being known to the other party to be living during that period, shall be voidable merely, and shall only be considered void from the time its nullity shall be decreed by a court of competent authority (2 Birdseye's R. S. 1401, § 6; Penal Code, § 299; Code of Civ. Pro. § 1745). This provision was to protect the party from penal consequences (Williamson v. Parisien, 1 Johns. Ch. 389), and to save the legitimacy of the children (Spicer v. Spicer, supra).
+The defendant herein intermarried with the plaintiff,, while the husband of a former marriage was living, but she acted in good faith (114 N. Y. p. 109), and under the-mistaken belief that he was dead. She had not seen or heard of him for more than five years prior to her marriage with the plaintiff, and did not know that he was living. It now appears that the first husband is alive, and the-defendant in consequence loses all property rights under her marriage with the plaintiff, such as dower (Price v. Price, 124 N. Y. 589), and the second marriage must be annulled.
+One child was born of the marriage,'a son, now two-years old. What is to be done with this child ? Both parents claim the custody. The statute declares that the-child shall be deemed legitimate and that the innocent party must be awarded the custody of it (Code Civ. Pro. § 1745). The innocent party is generally regarded as the parent who is compelled to resort to legal proceedings for annullment, but in this instance the plaintiff voluntarily cohabited with the defendant after suit brought, and the-strange anomaly is presented of a plaintiff seeking to annul a marriage on the ground that the defendant is the wife of another person, and yet he deliberately cohabited with that other person’s wife, knowing the fact. Neither person can be regarded as the innocent party in view of this misconduct, and the court will leave the custody where it is. While the marriage to the plaintiff continued in force, the defendant’s conduct did not furnish cause for absolute divorce (Price v. Price, supra), yet on moral grounds, cohabitation should have ceased when it was discovered that the first husband was living. The court may upon final decree award the custody to either parent as the interests and welfare of the child require (5 Am. & Eng. Encl. of L. 833). It is matter of judicial discretion, and the tendency of the courts is in the direction of giving the younger children and female children of all ages to the mother, and if the interest of the infant demands such a course, the custody may be awarded even to a third party (Ib. 835, 836; 2 Bish. on M. & D. 6th ed. § 562).
+All things considered, it is apparent that the welfare of the- child would not be improved by any change of control. There must be judgment declaring the plaintiff’s marriage void, and leaving the custody of the child where it now is, i. e., with the mother, against whose character nothing has been proved except the indiscretion in respect to which the plaintiff is particeps criminis. The decree must provide that the plaintiff be permitted to visit the child at reasonable times to be therein specified.
