@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1875-03"
+citations: ["6 Thomp. & Cook 59"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bowery Savings Bank v. Richards."]
+source_url: "https://static.case.law/thomp-cook/6/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2438794
+---
+
+# Bowery Savings Bank v. Richards
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The contempt for which the punishment of the appellant has been directed, consisted in the collection of rent by him, arising out of the occupancy of mortgaged property, for which a receiver had been appointed during the pendency of an action for the foreclosure of a mortgage.
+The appellant claimed the rent as assignee of the owner of the equity of redemption, under an assignment made subsequent to the execution and recording of the mortgage, and before the appointment of the receiver, and it was probably subordinate to the rights of the plaintiff under his mortgage. But that question it is neither necessary nor proper to consider, or decide, for the purpose of disposing of the present appeal. The appellant was not a party to the suit, nor to the proceeding in which the order was made appointing the receiver, and that order never appears to have been served upon, or exhibited to, him.
+The most that was done in that respect was to inform him that the appointment had been made, which information was accompanied with an offer to exhibit to him a certified copy of the original order. That however was not done, apparently for the reason that Hine claimed that he was not bound by the order, and. was entitled to collect and receive the rents under the assignment made to him.
+The affidavits made as the foundation of the orders appealed from are exceedingly barren in their disclosure of the facts upon which the proceeding was instituted on behalf of the receiver. They simply show his appointment, notice of it' to Hine, and that he, by virtue of summary proceedings for the dispossession of the tenant, collected the rent due, after the latter had been informed of the appointment, and that the receiver claimed the rent of him. They do not show that the tenant ever undertook to pay him the rent, or in any other possible way attorned to him in his capacity of receiver. The subject-matter of this proceeding consequently was never brought within the power or control of the receiver, nor subjected to the power of the court, so far as to be within its protection by means of its power- to punish the appellant for contempt. He had an assignment of the rent, apparently, for a fair consideration as between himself and the owner of the equity of redemption, and, so far as possession could be predicated of an intangible thing, it seems to have been acquired by him. The receiver never secured possession or control, and he took no measures to compel an attornment of the tenant to him.
+He was not therefore disturbed by Hine in the enjoyment or exercise of his official functions, so far as to render him subject to process of the court for contempt.
+To bring him within the reach of the power of the court to punish him in that manner the receiver should have secured the attornment of the tenant, or the action should have been extended by amendment so far as to make Hine a party to it. The rule upon this subject was declared by the Chancellor to be as follows: “ If the property is in the possession of a third person, who claims the right to retain it, the receiver must either proceed by suit in the ordinary way, to try his right to it, or the complainant should make such third person a party to the suit, and apply to have the receivership extended to the property in his hands, so that an order for the delivery of the property may be made which will be binding upon him, and which may be enforced by process of contempt if it is not obeyed.” Parker v. Browning, 8 Paige, 388, 390.
+The proper practice in a case of this description, where the tenant is not a party to the action for the foreclosure of a mortgage, is to compel him to attorn to the receiver. Then the court can protect the person paying, as well as the officer claiming, the rent, from the improper interference of all other persons. But where the tenant is not a party to the action, and no attornment to the • receiver has. taken place, the jurisdiction over the subject byway of process for contempt cannot be maintained. Sea Ins. Co. v. Stebbins, 8 Paige, 565.
+In a case where levies had been made by sheriffs on property claimed by a receiver, the court held that “if the tenants had attorned to the receiver, or had agreed to account to him for a share of the crops, etc.,-belonging to the landlord, before the sheriffs levied their executions thereon, the appellants were not authorized to disturb such constructive possession of the receiver. And they may be compelled to restore the property, or the value of it, in this summary way. On the other hand, if the receiver was not in possession either by himself or his tenants by attornment, or by his agents, he .cannot • enforce a- delivery of this property to him, by proceedings as for a contempt against the sheriffs who have levied thereon, although he may have an equitable right to recover' the same by bill in this court founded upon the previous order to appoint a receiver.” Albany City Bank v. Schermerhorn, 9 Paige, 372, 377.
+The facts shown in support of the application made were not sufcient to justify the orders for the punishment of Hine, the appellant, within the principles maintained by these authorities.
+They should consequently be reversed with $10 costs besides disbursements, and the motion denied with $10 costs, without prejudice to any further proper proceedings for the recovery of .the fund in disputé.
+Ordered accordingly.
