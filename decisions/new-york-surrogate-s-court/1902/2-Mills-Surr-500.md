@@ -1,0 +1,26 @@
+---
+court: "New York Surrogate's Court"
+decided: "1902-02"
+citations: ["2 Mills Surr. 500"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Application of the People’s Trust Co., as General Guardian of Thomas J. Kells, an Infant, to Remove William E. Kells, as one of the Executors and Trustees under the Last Will and Testament of Thomas Kells, Deceased."]
+source_url: "https://static.case.law/mills-surr/2/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8825680
+---
+
+# In re the People's Trust Co.
+
+## Majority (Church, S.)
+
+Church, S.
+— -This is a motion to punish William E. Kells for bis refusing to obey an order of this court, dated December 4, 1901, requiring him to file an account of bis proceedings as executor of Thomas Kells, deceased.
+It appears that in tbe administration of tbis estate an agreement was entered into by tbe various parties interested, inelud-ing a -special guardian of an infant, providing for the conduct of certain matters appertaining thereto.
+It is contended by the executor herein that that agreement supplemented his work -as executor, that he is no longer 'acting as executor, and that, therefore, this court has no power over his conduct of the matter.
+It is a sufficient answer to this contention of the executor to state that this argument should have been properly addressed to the court at the time the motion was made requiring him to file his account, and the court having made an order requiring him to so account has passed adversely to this claim of the executor.
+Although the executor makes this contention as a reason for not accounting he has pretended to obey this order of the court by filing a printed blank, such as is prepared for executors desiring to account, in which he has written the words “ Nothing in each of the various schedules of such printed blank.
+This pretended compliance with the order is plainly a sham, made for the purpose of delaying. the proceeding, and it is apparent that the disobedience of this executor has tended to defeat, impair, impede or prejudice the rights of the parties hereto, and I decide that he has -been guilty of contempt, and that he should be fined the sum of $250, and stand committed to the county jail until he has purged himself of such contempt.
+Let an order accordingly be entered upon notice.
+Decreed accordingly.
