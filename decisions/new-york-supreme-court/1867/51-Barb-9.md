@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court"
+decided: "1867-09-16"
+citations: ["51 Barb. 9"]
+reporter: "barb"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter S. Wooden vs. Jeremiah Austin, President of the Albany and Canal Line of Tow Boats."]
+source_url: "https://static.case.law/barb/51/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2246495
+cites_cases: ["12 N. Y. Rep. 107", "13 Wend. 387", "14 Barb. 524", "35 N. Y. Rep. 9", "7 Hill, 533", "8 N. Y. Rep. 379"]
+---
+
+# Wooden v. Austin
+
+## Majority (By the Court, Ingalls, J.)
+
+By the Court, Ingalls, J.
+The defendants were not common carriers, and hence not insurers. (Wells v. Steam Navigation Co., 2 Comst. 204. Caton v. Rumney, 13 Wend. 387.) The defendants were certainly liable, if guilty of gross carelessness, if not for a failure to exercise ordinary care in the management of the steamer and the tow. The decisions of the courts, in this state, have not been uniform in regard to the degree of negligence to be established, to render liable the owner of a vessel used for towing only. The following cases bear upon the question: Alexander v. Greene, (7 Hill, 533;) Wells v. Steam Nav. Co. (8 N. Y. Rey. 375 ;) Dorr v. New Jersey Steam Nav. Co. (11 id. 485;) Mercantile Mutual Ins. Co. v. Calebs, (20 id. 173;) Bissell v. N. Y. Central R. R. Co., (25 id. 442;) Moore v. (Evans, 14 Barb. 524;) Waite’s Law and Prac. (vol. 1, p. 357.)
+The provision of the. contract “ at the risk of the master and owner of the vessel towed” had reference to the perils of navigation, simply, and can not properly be construed to excuse the negligence of the defendants or those in charge of their propeller; for, to give it any other effect would encourage careless and even reckless misconduct. In Wells v. Steam Navigation Company, (8 N. Y. Rep. 379,) Mason, J. considering a similar contract, remarks: “ The parties undoubtedly had reference to those perils of navigation which were not the result of the contractor’s own negligence, when they provided that the boat should be towed at the risk of the master and owners.”
+The question of negligence is peculiarly a question of fact to be determined by the jury, and the case must be very clear which will justify the court in withholding it from their consideration. (Ernst v. Hudson River Railroad Co., 35 N. Y. Rep. 9.) We think it can hardly be said that the evidence, in the case under consideration, renders it so clear that the defendants were not guilty of a degree of negligence required to establish a liability, as to justify the court in nonsuiting the plaintiff. In determining this question, the evidence must be considered most favorably to the plaintiff, as by the course pursued he has been deprived of a right which he claimed upon the trial. From a careful examination of the evidence we conclude that the nonsuit should have been withheld. The defendants, by their contract, agreed to transport the plaintiff’s boat to Yew York, and were bound to do so, unless prevented by causes to which at least gross negligence’ on their part did not contribute. (Harmony v. Bingham, 12 N. Y. Rep. 107. Wells v. Steam Nav. Co., (8 id. 375.) The defendants, as a consideration for entering into the agreement, received the money of the plaintiff, with a knowledge of the season of the year, the condition of navigation, the capacity of their steamer, and the extent of the tow. The plaintiff’s boat was taken in tow late in the afternoon of the day the propeller started for Yew York, and after proceeding three or four' miles, the hawser of the defendants broke, and set adrift ten canal boats, including the plaintiff’s. And the evidence discloses no effort on the part of the defendants to regain the tow; nor was there any explanation offered by the defendants, in respect to the strength of the hawser, or the immediate cause of its breaking; or in regard to the management of the steamer; or why an effort was not made to again take the plaintiff’s boat in tow. The rope whieh attached the plaintiff’s boat to the hawser was not severed; nor is there the slightest evidence showing mismanagement on the part of the plaintiff or those on board of his boat. There is evidence showing that the defendants’ steamer was a staunch boat, of considerable power, and well calculated to contend with the obstacles to navigation. The plaintiff’s boat drifted, by force of the current alone, down the river some fourteen miles, and the defendants’ steamer, with two barges, reached Yew York. There is also evidence to the effect that there was no difficulty in the propeller taking the entire tow through to New York. Under the circumstances of this case, the conduct of those in charge of the defendants’ steamer is inexplicable, and indicates a total disregard of the contract, and the rights of the plaintiff. It is apparent from the case that the learned judge reluctantly consented to take the case from the jury, and we are satisfied that upon reflection he would have declined to do so, as the case was one proper for their consideration.
+[Albany General Term,
+September 16, 1867.
+Miller, Ingalls and Hogehoom, Justices.]
+We conclude that a new trial should be granted.
