@@ -1,0 +1,18 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-04-13"
+citations: ["52 N.Y. St. Rep. 936"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Superintendent of the Poor of the County of Cattaraugus v. The Superintendent of the Poor of the County of Erie."]
+source_url: "https://static.case.law/ny-st-rep/52/cases/0936-10.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 682177
+---
+
+# Superintendent of the Poor of the County v. Superintendent of Poor of County
+
+## Majority
+
+Motion for leave to appeal to the court of appeals granted.
