@@ -1,0 +1,42 @@
+---
+court: "New York Supreme Court"
+decided: "1893-07"
+citations: ["78 N.Y. Sup. Ct. 104"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnard, P. J., and Pratt, J., concurred."]
+parties: ["Miriam J. Quinby, Appellant, v. The New York Life Insurance Company, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/78/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8593083
+cites_cases: ["26 N. Y. 460"]
+---
+
+# Quinby v. New York Life Insurance
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+This is an appeal from a judgment and order denying a motion for a new trial.
+The action is upon a policy of insurance upon the life of William D. Quinby, the husband of the plaintiff. The complaint alleges that on or about the 22d day of June, 1892, William D. Quinby insured his life in the defendant company; that by the policy of insurance issued by the company, it promised and agreed to pay to the plaintiff the sum of $5,000, upon receipt of proofs of the death of the insured during the continuance of the policy; that the insured died on the 16th day of August, 1892; that proofs of death were served, and the defendant refused to pay the amount of the policy to the plaintiff.
+The answer of the defendant denies that any policy of insurance in favor of the plaintiff on the life of her husband was ever issued to him, and denies that he ever insured his life for the benefit of the plaintiff. The answer sets up other defenses, to which attention may be given later on.
+The action was tried at the Circuit before a jury, and at the close of the case a verdict was directed in favor of the defendant. There is no substantial dispute about the facts.
+Upon the trial, the plaintiff produced the policy of insurance, and testified that she received it from her husband, and admitted that she had never paid any premium upon it.
+The defendant then put in the testimony of the agent, William O. B. Clifford, who wrote -the application of Mr. Quinby. He testified that the first premium had never been paid, and further that he delivered the policy to his brother for delivery to Mr. Quinby, and gave his brother a receipt to QuiDby, provided he paid the money.
+The defendant called the brother, F. W. Clifford, as a witness, and he testified that he was a clerk for William O. B. Clifford; that his brother handed him the policy at the office; that he delivered it to Quinby, and that Quinby read the policy through, and asked him numerous questions as he proceeded, and then said that he hadn’t the money at present, but that if Clifford would call after the first of July, he would have the money for him. Clifford then told Quinby that he was instructed by his brother to leave the policy for inspection, and that the policy was not in force until the first premium was paid. Although he went many times to see Quinby, he was unable to obtain the policy from him or procure payment of the first premium.
+It was conceded also upon the trial in order to obviate the necessity of an adjournment, that a witness, a clerk in the home office of the defendant would testify that no payment had been received of the first premium at the home office of the company.
+A letter from the agent, Clifford, to Quinby was put in evidence by the defendant, in which he says, “ You will greatly oblige me by mailing check for the amount agreed upon, or, if such is impossible, return the policy at once.”
+It seems to have been the reliance of the plaintiff, that the possession of the policy was prima facie proof that the first premium had been paid. It is ordinarily true that the production by the plaintiff of a policy of insurance is prima facie evidence of the payment of the first premium, for the reason that the policy which is in the assured’s possession contains an admission of such payment, as ordinarily a policy reads, in consideration of the sum of blank dollars to-them in hand paid at the office of the company, and such a statement in the body of the policy is as- good as a similar statement contained in a separate paper which constitutes a receipt for the first premium.
+In this case, however, the corresponding clause in the policy is as follows: “ In further consideration of the sum of $67.50 to be paid in advance.” So that the language here does not constitute an admission that the premium has been paid.
+In this State the acknowledgment in the policy of the actual payment of the first premium is only prima facie evidence of its payment.
+In the case of Sheldon v. The Atlantic Fire & Marine Insurance Company (26 N. Y. 460), it is said, “ In any case, the delivery and possession of a policy, containing a receipt for the premium, affords evidence of its payment, or of a waiver of its prepayment, but is not conclusive.”
+This shows that it is not the mere possession of a policy, but the possession of a policy containing the receipt for the premium, upon which the courts rely for the presumption. Plainly, therefore, there in a substantial distinction between the phrase in the old policy forms and the phrase in the policy in the case at bar. And the mere fact that the policy in the new form is in the hands of the plaintiff is no evidence that the first premium has been paid. But even if the possession of the policy in this action did raise the presumption that the first premium had been paid, the presumption has been mot and overcome by conclusive evidence.
+There is no necessity for resort to presumptions to ascertain the true nature of the transaction concerning the issuance of the policy in this case. The testimony of the agent shows that the policy never had any inception as an active policy of insurance; that it never was delivered with the expectation that it was in operation or would be so, or would be effectual as a valid operative policy until the first premium had been paid.
+It is to be said further, that there is no evidence tending tó show that the payment of the first premium had ever been waived.
+The reliance of the plaintiff is solely upon the fact that the policy was delivered to Clifford, and from that alone she argues that the payment of the first premium was waived, but, as we have seen, the circumstances attendant upon the delivery show plainly that the policy was not in force, or intended so to be, until the first premium was paid.
+If under these circumstances the case had been submitted to the jury, and a verdict had been found in favor of the plaintiff, it would have been the duty of the trial judge to have set it aside.
+There have been decisions in this State to the effect that the delivery of a policy of insurance, without receiving payment of the premium, is a waiver of the possession therein, but, as we have already seen, that class of cases can have no application to this case. The policy was never delivered with any expectation that it would become effectual, and, therefore, never had any legal inception.
+The judgment and order denying the motion for a new trial should be affirmed, with costs.
+Barnard, P. J., and Pratt, J., concurred.
+Judgment and order denying new trial affirmed, with costs.
