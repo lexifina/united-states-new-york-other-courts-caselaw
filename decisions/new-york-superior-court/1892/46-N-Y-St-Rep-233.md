@@ -1,0 +1,23 @@
+---
+court: "New York Superior Court"
+decided: "1892-05-02"
+citations: ["46 N.Y. St. Rep. 233"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shaarai Berocho, a Religious Society, Resp’t, v. The Mayor, etc., of New York, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0233-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084286
+cites_cases: ["113 N. Y., 187", "119 N. Y., 91", "22 St. Rep., 952", "23 St. Rep., 827", "28 St. Rep., 257", "52 Hun, 507"]
+---
+
+# Berocho v. Mayor of New York
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The facts are not in dispute, and the single question of law involved is whether the premises, during the period mentioned, were exclusively used for purposes of public worship within the meaning of the statutes exempting such property from taxation. Consol. Act, 1882, § 827. It is urged by the appellant that the premises were not used exclusively for public worship, because, as they assert, part of the top floor was occupied by the janitor of the church for residential purposes. The objection is technical and without merit. The janitor paid nothing for the use of the rooms, was not a tenant, had no proprietary interest or estate in any part of the premises, was removable at will, and was there ' simply because his presence, by night as well as day, was required as a care-taker of the property.
+He was also required to heat, open, light and close the premises. He had. no possession distinct from that of the plaintiff, which, being a corporation, could care for its property and perform its mission only through the necessary agents and servants required to accomplish the praiseworthy end in view. The position of janitor was incidental to the purpose of the corporation, but his presence on or absence from the premises in no manner affected the right to impose taxes on the plaintiff’s property, if otherwise exempt from the taxing power. The property was not used for pecuniary gain, as in Congregation, etc., v. The Mayor, etc., 52 Hun, 507; 23 St. Rep., 827; nor was the principal use applied to other than religious purposes, as in Y. M. C. A. v. The Mayor, etc., 113 N. Y., 187; 22 St. Rep., 952; nor is the right of the plaintiff to exemption open to the want of incorporation which was the ground of objection sustained in Church of St. Monica v. Mayor, 119 N. Y., 91; 28 St. Rep., 257; so that the cases relied on by the defendant do not reach the vital point at issue here. The object of the statute was to foster incorporated religious societies, and it must be reasonably construed according to its spirit in furtherance of the legislative intent. It cannot be frustrated by a technicality so finely drawn as that" urged against the plaintiff’s right to exemption. Effect must be given to the principal thing the legislature had in view, the policy that dictated the act. These should not be subordinated to mere incidents required to give it efficacy and life. The former control; the latter follow.
+The judgment was right and must be affirmed, with costs.
+Sedgwick, Ch. J., and Freedman, J., concur.
