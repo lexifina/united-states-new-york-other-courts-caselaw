@@ -1,0 +1,22 @@
+---
+court: "New York Superior Court General Term"
+decided: "1891-07-02"
+citations: ["39 N.Y. St. Rep. 369"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Paul W. Latham, Resp’t, v. Patrick B. Delaney, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2062112
+cites_cases: ["12 N. Y. Supp., 463"]
+---
+
+# Latham v. Delaney
+
+## Majority (Freedman, J.)
+
+Freedman, J.
+—This action was brought in 1889 to recover upon a judgment alleged to have been obtained against the defendant in 1884, in the circuit court of Rockingham county, in the state of Virginia The plaintiff claims that the judgment was obtained after due service of process, and the voluntary appearance of the defendant The defendant, on the other hand, claims that the court of Virginia never acquired jurisdiction because he,, the defendant, was not served with process according to the laws of Virginia, and did not appear or authorize an appearance. Upon these issues both parties gave proof, in accordance with the decision of this court upon a former appeal (see 12 N. Y. Supp., 463; 35 N. Y. State Rep., 462), and all the questions arising thereon were submitted to the j ury under a charge which carefully guarded every right which the defendant had. There was no error in the charge, or the refusals to charge otherwise. It would have been error to dismiss the complaint, and it cannot be maintained that the verdict is against evidence or the weight of the evidence. The jury were not bound by the number of the witnesses, but had the right to determine the questions submitted to them, according to the facts- and circumstances established by the testimony which they believed. There were several admissions by the defendant which greatly damaged the effect of his denials, and undoubtedly had great weight with the jury. Ror can I find any error in the admission of evidence which, under all the circumstances, calls for a reversal.
+The judgment and order should be affirmed, with costs.
+Dugro and Gildersleeve, JJ., concur.
