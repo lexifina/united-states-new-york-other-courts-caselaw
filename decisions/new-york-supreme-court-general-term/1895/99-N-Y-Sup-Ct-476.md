@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-12"
+citations: ["99 N.Y. Sup. Ct. 476"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, Bradley and Ward, JJ\"., concurred."]
+parties: ["The People of the State of New York ex rel. John Laird, Respondent, v. John W. Hannah, as Sheriff of the County of Monroe, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/99/cases/0476-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4805651
+---
+
+# People ex rel. Laird v. Hannah
+
+## Majority (Adams, J.:)
+
+Adams, J.:
+Section 619 of the Code of Criminal Procedure makes a refusal to testify a criminal contempt, the punishment for which is provided by section 852 et seq. of the Code of Civil Procedure. It is likewise provided by section 2034 of the Code of Civil Procedure that upon a return to a writ of habeas corpus the judge or court shall not inquire into the legality of any mandate, judgment, decree or final order; but subdivision 2 of section 2032 expressly excepts from the operation of the former section an order to punish for contempt, and the criminal contempt defined in section 8, and referred -to in subdivision 3 of section 2032, relates only to courts of record. The judge was, therefore, at liberty to inquire into the validity of the proceeding before the magistrate in which the relator was committed, and a careful examination of the record shows very clearly that the information upon which the justice acted was wholly insufücient to confer jurisdiction upon him, and that consequently he was without authority either to subpoena the relator or compel him to testify, or to commit him for contempt. This feature of the case is ■commented upon so fully by the learned judge who granted the ■order as to leave no opportunity for this court to add anything thereto.
+The order appealed from should be affirmed, with ten dollars costs and disbursements.
+Lewis, Bradley and Ward, JJ"., concurred.
+Order affirmed, with ten dollars costs and disbursements.
