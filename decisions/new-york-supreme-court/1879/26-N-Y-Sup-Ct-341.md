@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1879-12"
-citations: ["26 N.Y. Sup. Ct. 341", "26 N.Y. Sup. Ct. 349"]
+decided_precision: "month"
+citations: ["26 N.Y. Sup. Ct. 341"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
