@@ -1,0 +1,44 @@
+---
+court: "New York City Court"
+decided: "1893-10-20"
+citations: ["55 N.Y. St. Rep. 506", "25 N.Y.S. 517", "5 Misc. Rep. 352"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alice Watson, Resp’t, v. John H. Russell, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/55/cases/0506-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 694632
+cites_cases: ["19 Abb. N. C. 271", "19 Abb. N. C., 271", "21 N. Y. Supp. 995", "21 N. Y. Supp., 995", "51 St. Rep., 585", "61 N. Y. 362", "61 N. Y., 362", "9 St. Rep., 521"]
+---
+
+# Watson v. Russell
+
+## Majority (McCarthy, J.)
+
+McCarthy, J.
+This action is for damages for defendant’s breach of a written contract by which plaintiff was to serve him as an actress for thirty weeks at thirty dollars per week.
+It was agreed at the trial that were the plaintiff entitled to recover in full, her recovery with interest then would be $485.46. This is salary for thirty weeks, less what plaintiff was able to earn in that period. The answer contains as follows : (1) A denial of the making of the contract sued on, and of the plaintiff’s compliance with the terms thereof, also a denial of her damages, and an allegation that defendant was willing to make such a contract. (2) A counterclaim for breach of said contract by plaintiff, and that in consequence defendant had to hire another actress in her place for thirty weeks at an increased cost of $235.
+The reply to the counterclaim is a denial. The contract, signed by defendant, was handed to plaintiff in duplicate 8th July, 1891. The defendant’s signature was written by his agent, Biddle, but the contract so signed was delivered by defendant.
+At bis request she signed it at her home and mailed it to him, together with her address at which she might be notified for rehearsals.
+She never was notified, except on receiving contract from defendant he told her to report for rehearsal about 15th August. Having no other word from defendant, she came from Chicago and reported for rehearsals at his theatre, this city, Saturday, August 15th, but found no one there.
+In the interval she had refused other employment. On the next Monday she found defendant’s agent, Biddle, at the theatre, who told her it was a “ mistake ; ” that he was “ sorry; ” that he would try to get her other employment; that he had never received the contract, and that plaintiff’s place had been filled. He gave plaintiff a letter to get another position.
+She earned what she could during the contract period of thirty weeks, and sues for the balance, $485.46.
+The defendant moved the court to direct a verdict of sixty dollars for the plaintiff under a clause of her contract given below.
+This the court denied, and by direction there was a verdict for the agreed sum of $485.46, and from which the defendant appeals.
+Ho evidence was given or offered in behalf of the defendant, nor a request to go to jury upon any fact.
+By the motion to direct a verdict for sixty dollars damages the defendant conceded his liability and that the plaintiff had proven a cause of action against him in damages to the extent of sixty dollars.
+The trial justice having denied the motion, the only question to consider is, what was the proper measure of damage in such a case.
+The appellant contends that the clause, “ It is further agreed that the said John H. Russell may cancel this contract at any time on giving the party of the second part one week’s notice and paying one week’s additional salary, the party of the second part agrees to accept one week’s notice of cancellation at any time,” limits the plaintiff’s damage to the two weeks’ salary, and cites in approval of this view the case of Fisher v. Monroe, 21 N. Y. Supp., 995; 51 St. Rep., 585; Peverly v. Poole, 19 Abb. N. C., 271; and Parry v. Am. Opera Co., id., 270; 9 St. Rep., 521.
+We think that this case is clearly distinguishable from these, even conceding for the argument that they are correct. .
+In all these cases the parties had entered on the performance of the contract and thus left the defendant to act under the same, either by notice or without, subject to such rights possessed by the plaintiffs.
+But no such contention is made here. It is purely and simply that there was no contract.
+There is no evidence of his admission of the contract and notice or intent to cancel. It being proved that there was a contract such as claimed, the mere fact of the defendant having employed some one else to perform the same service under a misapprehension will not be said to be an act performed by him under the terms of the same.
+He could, if he saw fit, have continued both persons to perform these services alternately, or in any other manner satisfactory to himself.
+It could not be the intention of the parties that the defendant was to relieve himself of the effect of his liability or limit the same by claiming that there was no contract.
+This clause was not intended as liquidated damages, but rather as a penalty, and where there is any doubt as to whether the damages are liquidated, the general rule of damages will apply.
+We think that this case comes under that of Howard v. Daly, 61 N. Y., 362, and similar cases, in which the rule of damages is the full compensation under the contract less the amount earned in other employment during the term thereof.
+The case of Parry v. Am. Opera Co., referred to by the appellant, is not in point; there the plaintiff was hired for twenty-five weeks and was discharged after eight weeks’ service. He then sued and recovered judgment for the damages sustained for the two weeks following his discharge.
+It was there held, that this barred any further action for damages for the remainder of the term for which he was hired. The judgment so recovered being a complete bar to any further recovery on the same breach.
+Bor these reasons judgment should be affirmed, with costs.
+Hewburger, J., concurs.
