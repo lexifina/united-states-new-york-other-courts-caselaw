@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court"
+decided: "1888-08"
+citations: ["17 N.Y. St. Rep. 976"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Phillip W. Smith v. Harry Fitchett."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0976-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008223
+cites_cases: ["3 Lans., 143"]
+---
+
+# Smith v. Fitchett
+
+## Majority (Mayham, J.)
+
+Mayham, J.
+The referee appointed to hear and determine this action, reports that from the 25th day of March, 1876, to about the 21st day of May, 1884, plaintiff and defendant were equal partners in maintaining and operating a ferry between the city of Albany and Bath on the Hudson, each required to furnish one-half of the capital, and pay one-half of the charges and expenses of operating the same, and that the defendant was to and did, have the principal management of said business, for which he was to receive compensation at the rate of $75 per month; that each of said partners furnished considerable sums of the capital, and each withdrew from the same considerable sums. That certain debts of said copartnership remain owing and unpaid, and certain property and assets remain uncollected. That an accounting has been had before the referee, as to the moneys received and paid out by the respective parties, and as to the amount which each of the parties should be debited and credited on account of the copartnership and the business carried on thereby down to the 14th of January, 1888.
+That by reason of such uncollected and uncontroverted property and assets, and by reason of such unpaid debts, no full and final account or complete determination of the rights of the respective parties can now be made.
+And as a conclusion of law the referee finds that the plaintiff is entitled to an interlocutory judgment directing the appointment of a receiver herein of the property and and assets of said co-partnership with the usual powers of a receiver and directing that each of the parties hereto deliver to such receiver on demand all the property, assets, books of account and papers of said co-partnership in his possession or under his control, and that on the final account of such receiver, a further hearing and accounting be taken before said referee and a final judgment and distribution be had thereon.
+Upon this report the plaintiff applies to this court for the appointment of a receiver and for the interlocutory judgment provided for in said report.
+The defendant objects to such interlocutory judgment and to the appointment on the ground, among other things, that there is no claim in the complaint for the appointment of a receiver.
+Prior to the adoption of the Code of Procedure the practice of the court of chancery to appoint some competent and disinterested person to hold the fund in dispute or collect and receive the same and hold it for the benefit of the one ultimately entitled to it had become well established. Van Santvoord Equity, 123. See also Edwards on Receivers.
+By section 713 of the Code of Civil Procedure it is provided that a receiver of property which is the subject of the action, may be appointed by the court, before final judgment on the application of a party who establishes an apparent right to or interest in the property * * * and there is danger that it will * * * be lost, materially injured or destroyed.
+It does not very clearly appear, by the referee’s report, that there is danger of loss, etc., contemplated by this section, and yet it does appear that there could be no final decree determining the rights of the parties until the assets are marshalled and converted into money, and I think it may be reasonably inferred from the finding of the referee that the fund or property in dispute is in danger of loss or waste if not disposed of, collected and converted into money.
+In the present condition of the property there is no officer of the court charged with the duty of marshalling the assets, or converting them into money, nor is there any power in the court or referee to compel the parties having possession of the assets to convert them into money for distribution in this action.
+The only method open to the court to convert the assets so as to enable it to make a final decree is through the agency of a receiver.
+The plaintiff’s complaint contains such allegations as show that an accounting between partners is necessary, and also contains a prayer for an accounting.
+An accounting such as will enable the court to make a final decree requires the conversio.n of all property into money, and also the collection of all debts due the firm.
+In Short v. Barry (3 Lans., 143) the court in an action similar to this hold that “A receiver should have been appointed to collect or sell the uncollected assets. And the final judgment should dispose of all accounting between the. parties as to such remaining assets.”
+This course is followed by the learned referee in his report in this case. It directs the appointment of a receiver to collect and convert into money the outstanding assets of the firm. And then a final accounting before the referee and a distribution of the surplus by the final judgment.
+The complaint does not allege the insolvency of the defendant or of either of the parties, nor does the report disclose any such fact. There is therefore no reason apparent in the case for the payment to the receiver of any money collected by or remaining in the hands of the defendant or plaintiff ; such money can be reached and disposed of on the final accounting and decree.
+There should be an interlocutory judgment directing the appointment of a receiver to take into his possession all property, books, accounts, papers and effects belonging to said partnership (except money), and also directing said parties and each of them, and all persons acting for them, to deliver to said receiver all property, books, accounts, papers and effects of said firm (except money) in the possession or under the control of said parties, or either of them.
+That upon the rendition and passing of the accounts of such receiver a further final hearing and accounting herein be had before the referee, and upon such final hearing and the report of the referee, final judgment upon all the evidence be given and awarded.
