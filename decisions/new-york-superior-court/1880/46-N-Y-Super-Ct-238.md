@@ -1,0 +1,26 @@
+---
+court: "New York Superior Court"
+decided: "1880-06-18"
+citations: ["14 Jones & S. 238", "46 N.Y. Super. Ct. 238"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM B. CANFIELD, et al, Respondents, v. THE BALTIMORE & OHIO R. R. CO., Appellant."]
+source_url: "https://static.case.law/ny-super-ct/46/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1666585
+cites_cases: ["1 Wall, 637", "19 Mo. 360", "20 Wis. 344", "21 Md. 186", "27 Md. 277", "34 Iowa, 375", "37 N. Y. 405", "40 Miss. 374", "49 Penn St. 186", "53 Cal. 56", "55 N. Y. 579", "75 N. Y. 144", "90 Ill. 612"]
+---
+
+# Canfield v. Baltimore & Ohio Railroad
+
+## Majority (By the Court.—Freedman, J.)
+
+By the Court.—Freedman, J.
+The action' was brought to recover the value of certain jewelry and silver plate which the plaintiffs alleged they delivered to the defendant in a box, at Washington, D. C., to be carried to New York, but which, through the defendant’s alleged negligence, were abstracted from the box while in the custody of the defendant.
+Upon the trial it was admitted that on May 13, 1872, at Washington, the defendant received from the plaintiffs, for transportation to New York, eighteen boxes and one barrel, and that these packages arrived in New York and were delivered to the plaintiffs’ consignees, Sackett, Davis & Co. The- contested questions of fact were : 1. Whether the missing goods were contained in one of the boxes at the time of their delivery to the defendant for transportation; and, 2, if they were, whether they were abstracted therefrom before the duty of the defendant for their safe-keeping had ended. Upon both these questions the burden of proof was upon the plaintiffs.
+A former verdict in favor of the plaintiffs was set aside by the court of appeals (75 N. Y. 144), on the ground of error in the charge, and for the further reason that, although there was sufficient evidence to authorize the jury to find that the missing goods were delivered to the defendant at Washington, the whole evidence, in the absence of proof showing what care was taken by plaintiffs’ consignees of the box alleged to have contained the goods, after its arrival in New York, was as consistent with the loss of the goods after delivery to plaintiffs’ consignees at New York, as with their loss while in the defendant’s custody.
+Upon the last trial, the plaintiffs sought to obviate the defect in the proof by showing not only that all the packages were safely carried from the landing place in New York to the store of Sackett, Davis & Co., and that within a few days thereafter the goods in controversy were found missing from one of the boxes, of which immediate notice was given to the defendant, but also, that, while at said store, all the boxes were kept and guarded in such a way that the missing goods could not well have been abstracted there. Upon an examination of the evidence bearing upon this point, which is quite voluminous, I think sufficient care was shown to carry the case to the jury.
+Upon the question, however, whether the missing goods were contained in one of the boxes at the time of their delivery to the defendant for transportation, the jury were instructed that upon the evidence adduced the presumption of law was that they had been thus delivered, and that under the ruling of the court of appeals the evidence was sufficient to justify them so to find. In this the learned judge below erred. The evidence was substantially the same as upon the trial which was reviewed by the court of appeals, and all that that court decided with regard to it was, that it permitted the jury to find a delivery. This conclusion was reached with some hesitation. But the court did not hold that upon a re-trial the jury should be deprived' of the privilege of considering the weight and credibility of the evidence. Under this ruling the question of delivery should have been submitted as an open one, and the jury should have been left free to determine it upon their own view of the true weight to be given to the evidence which bore upon it. True, the learned judge below, upon the conclusion of the charge, in response to specific requests, added that the burden of proof was on the plaintiffs to show both that the missing goods were in the box when it was delivered to the defendant at Washington, and that they were not in the box when the box was delivered to Church, the carman, at New York ; and also, that on the evidence in the case it was a question of fact for the jury whether the missing goods were delivered to the Baltimore & Ohio Railroad at Washington, and if they believed such to be the fact, that they should'find that they were so delivered. But these additional instructions did not cure the error alluded to. They did not withdraw or modify the prior erroneous statement as to the presumption of law and the sufficiency of the evidence, as matter of law, to establish the fact, and the jury were thus left under the impression that after all the plaintiffs had sufficiently established the delivery of the missing goods.
+The judgment and order should be reversed and a new trial ordered, with costs to appellant to abide the event.
+Curtis, Ch. J., and Sedgwick, J., concurred.
