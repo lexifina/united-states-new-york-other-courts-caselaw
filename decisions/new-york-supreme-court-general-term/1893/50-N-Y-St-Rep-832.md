@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-02-23"
+citations: ["50 N.Y. St. Rep. 832"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eliza Dering, Adm'rx, App'lt, v. The New York Central & Hudson River Railroad Co., Resp't."]
+source_url: "https://static.case.law/ny-st-rep/50/cases/0832-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2096171
+cites_cases: ["103 N. Y., 667", "106 N. Y., 512", "106 N. Y., 518", "11 St. Rep., 26", "112 N. Y., 230", "116 N. Y., 629", "119 N. Y., 193", "128 N. Y., 659", "18 N. Y., 534", "20 St. Rep., 569", "27 St. Rep., 760", "28 St. Rep., 957", "3 St. Rep., 679", "38 St. Rep., 561", "40 St. Rep., 979", "63 N. Y., 449", "63 N. Y., 643", "66 N. Y., 243", "98 N. Y., 198"]
+---
+
+# Dering v. New York Central & Hudson River Railroad
+
+## Majority (Hardin, P. J.)
+
+Hardin, P. J.
+Plaintiff’s evidence failed to show any specific act or definite omission on the part of the defendant which warranted a finding that the injury was occasioned solely by the negligence of the defendant towards its employees. Morrison v. The N. Y. C. & H. R. R. R. Co., 63 N. Y., 643.
+In Dobbins v. Brown, 119 N. Y., 193; 28 St. Rep., 957, in speaking of actionable negligence, it was said that it “ must be proved, either by direct evidence or the proof of facts from which the inference of negligence can be legitimately drawn by the jury. It cannot be supported by mere conjecture or surmise, but must be made referable by the proof to some specific cause or defect. It has been held that the mere fact that an accident occurred which caused an injury is not generally, of itself, sufficient to authorize an inference of negligence against a defendant. Curtis v. R. & S. R. R. Co., 18 N. Y., 534.”
+In Powers v. The N. Y. C. & H. R. R. R. Co., 38 St. Rep., 561; S. C. affirmed, 128 N. Y., 659; 40 St. Rep., 979, it was said by Martin, J., speaking for this court, viz.: “ While it must be admitted that negligence is generally a question for the jury, still it is only when the facts would authorize a jury to find it that it should be submitted to them. Sutton v. The N. Y. C. & H. R. R. R. Co., 66 N. Y., 243,” and that learned judge in his opinion used language and stated numerous authorities that are pertinent to the question now under consideration.
+(2) Plaintiff was called upon to prove by affirmative evidence, or to produce facts and circumstances, coupled with the occurrence of the accident, which would indicate or tend to establish a freedom of the deceased from contributory negligence, and that the deceased used care and prudence preceding and at the time the injuries occurred. Tolman v. S., B. & N. Y. R. R. Co., 98 N. Y., 198. It is true, as claimed by the appellant, that in considering this motion we must give the most favorable construction of and inference that can be reasonably drawn from, the evidence to the plaintiff. Galvin v. Mayor, etc., of New York, 112 N. Y., 230; 20 St. Rep., 569. With that rule in mind we are unable to say that the facts proved fairly tended to support an affirmation that the plaintiff’s intestate was free from negligence. Cahill v. Hilton, 106 N. Y., 512; 11 St. Rep., 26.
+The deceased had been in the employ of the defendant, engaged in the business which occupied his attention on the day he received his injuries, for many years, and was conversant with all the incidents and dangers surrounding the occupation. And in Gibson v. Erie Railway Co., 63 N. Y., 449, it was said of an employe, viz.: “ If he accepts service with knowledge of the character and position of structures from which employes might be liable to receive injury, he cannot, * * * in case of injury, hold him liable.” The same doctrine has been repeated in numerous cases. See Cahill v. Hilton, 106 N. Y., 518; 11 St. Rep., 26; Shaw v. Sheldon, 103 N. Y., 667; 3 St. Rep., 679. And in Powers v. The Central Road, supra, Martin J., said: “ Where a servant enters upon an employment from its nature necessarily hazardous, he assumes the usual risks and perils of the service, and also those that are known to him or which are apparent to ordinary observation.”
+In Williams v. D., L. & W. R. R. Co., 116 N. Y., 629; 27 St. Rep., 760, the rule was adverted to and stated in the following language : “ The rule is, that a servant who enters upon employment from its nature hazardous, assumes the usual risks and perils of the service, and of the open, visible structures known to him, or of which he must have known had he exercised ordinary care and observation.”
+(3) When Walyers, a witness who was near the scene of the accident,- was being examined, he testified as follows: “ I found him with his right arm cut off, and his right leg and his left foot was right under the tank of the engine when I found him; the engine had to slack ahead a little to let him out; his left foot was smashed through his boot when I found him; he asked me then how he got there, and I couldn’t tell him.” This last expression was objected to, and the court remarked, “Leave that out.” An exception was taken. We think the exception presents no error. First, it was a declaration of the deceased sought to be given in favor of the plaintiff; second, if it had been allowed to remain in the case, it is not apparent that it would have produced a different ruling upon the motion for a nonsuit than the one that was made at the circuit. We. think the trial judge committed no error in his rulings at the circuit, and that the nonsuit there granted must be allowed to remain.
+Judgment affirmed, with costs.
+Martin, J., concurs; Merwin, J., not sitting.
