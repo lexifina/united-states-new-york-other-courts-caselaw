@@ -1,0 +1,31 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1850-11"
+citations: ["1 E.D. Smith 67"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ogden Haggerty and others v. William H. Simpson."]
+source_url: "https://static.case.law/ed-smith/1/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1280557
+---
+
+# Haggerty v. Simpson
+
+## Majority (By the Court. Woodruff, J.)
+
+By the Court. Woodruff, J.
+The plaintiffs having obtained an order for the examination of the defendant in a proceeding supplementary to execution, the defendant moved to vacate that order, and from the refusal of the judge to do so, (the order containing such refusal being first entered with the clerk,) the defendant appealed.
+It appears by the papers submitted, that the plaintiffs, in 1848, recovered a judgment against the defendant for $3,216 87. That on the 26th June, 1849, the plaintiffs received from the defendant his eleven notes for $150 each, payable, the first at six months and the others successively, one in every three months thereafter. And also a note made by Mm and endorsed by J. B. Simpson, for $117, at three months; in all, amounting to $1,767, or about fifty per cent, of the amount, then due; and agreed that if all of the notes were paid as they respectively became due, they would acknowledge satisfaction of the judgment, or assign it to the defendant, Simpson; but if either of the notes should not be paid at maturity, the sums which had then been actually paid should be credited on the judgment, and the judgment should be and remain in full force for the balance of the amount thereof. That no proceedings should he had on the said judgment until default in the payment of some one note, and that the force, validity and effect of the judgment should not be impaired by the agreement.
+This was a valid agreement, upon a sufficient consideration, and it secured to the defendant the opportunity and privilege of exonerating himself from the payment of a much larger sum which was due to the plaintiffs, and which at law and in equity he was bound to pay in full.
+There would be no inequity in holding the plaintiffs to a strict performance of the agreement voluntarily made by them; and there is no greater inequity in holding the defendant to the like strict performance.
+The benefit to the defendant was two fold—First, a lengthened period of credit. Second, an ultimate release from what he owed. But these benefits were yielded to him only on condition, namely, that the notes, and each of them, were paid as they fell due. In the clearest terms, time of payment was made a part of the condition, and was agreed to be an essential part.
+I am at a loss to discover upon what ground a court of equity can be called upon to say that it shall (notwithstanding the agreement of the parties) be dispensed with, and the defendant having made default, the plaintiffs be, nevertheless, restrained from executing their judgment.
+It does not appear that the note for §117, due at three months, has ever been paid. The note due at six months after date was not paid at maturity, but by accepting payment in the terms of the receipt given therefor, the plaintiffs waived the breach. The note due nine months after date was not paid at maturity, but the plaintiffs subsequently received $57 88 thereon, and gave him the further privilege of paying it on or before the 5th of May thereafter, without being prejudiced by his failure to pay it when due. The note not being paid, the plaintiffs, about the 1st June, 1850, obtained this order for the examination of the defendant, which the defendant endeavored to vacate, by showing that after such order was made, and on the 12th June, he offered to pay the balance due on the note and the costs.
+I am not aware of any principle of law or equity upon which it can be reasonably urged that the plaintiffs were not at full liberty to treat the privilege theretofore enjoyed by the defendant as at an end, and no precedent or authority in a like case is furnished us for such a claim.
+The agreement was a liberal one towards the defendant, and its strict enforcement is in no sense penal. He owed the whole debt—in law and in equity he still owes the whole debt, save the payments already made.
+The defendant’s counsel regards the enforcement of the contract as a penalty, and insists that he should be permitted to pay after the day, and so avoid it.
+But the enforcement of this contract is not a penalty, nor in the nature of a penalty in any just legal sense. The defendant suffers no punishment; at most he only fails to obtain an advantage for which he has paid nothing which he was not bound to pay independent of the agreement. Here is no hardship nor oppression to be relieved against. In a very qualified sense the defendant may be said to be subjected to a forfeiture; but it is not a forfeiture of money or property which he has parted with in anticipation of an equivalent, and which is lost to him if the terms of the contract are insisted upon. All he pays goes in extinguishment of his debt, and if he fails to receive the release which he anticipated, it is his own fault. The agreement is still an act of liberality and not of justice, and if the opportunity to avail himself of the plaintiffs’ liberality is gone, they are, nevertheless, just, though they collect the whole balance due. The condition on which they agreed to be generous is broken, and justice is all he can ask. Besides, the ground on which courts of equity interfere to relieve against forfeitures is not, that if such interference he withheld, the anticipated profits of an agreement will not he realized. But it is, that otherwise the party will suffer an unconscionable loss. The courts interfere to prevent oppression, which it is against equity and good conscience to allow, and not to restrain what, independent of the broken contract, is just in itself.
+These views are elementary, and, as it seems to me, require no support by citation of cases. They are discussed in Story Eq. Jur. c. 34, at length.
+The order appealed from must be affirmed, with costs.
