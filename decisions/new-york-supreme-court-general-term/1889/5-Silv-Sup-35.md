@@ -1,0 +1,34 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-12-11"
+citations: ["5 Silv. Sup. 35", "28 N.Y. St. Rep. 20"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alice M. Sheehan, Appellant, v. The Albany and Bethlehem Turnpike Company, Respondent."]
+source_url: "https://static.case.law/silv-sup/5/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2041241
+cites_cases: ["1 Sil. (Sup. Ct.), 1", "28 N. Y. St. Rep. 156", "51 Hun, 375", "54 Hun, 639"]
+---
+
+# Sheehan v. Albany & Bethlehem Turnpike Co.
+
+## Majority (Learned, P. J.)
+
+Learned, P. J.
+The practice of examining a party before trial at the instance of the opposite party should be carefully guarded by the court, so that it may not be productive of evil. When it is evident that the party asking for the examination is sufficiently acquainted with the facts of the case to obtain the proof which he needs, and that, in fact, he desires the examination only to discover to what his opponent will testify, then the order should not be granted, or, if it has been granted, should be set aside.
+The provisions for such examination are not intended to enable a party to discover what his opponent’s testimony will be, so that he may obtain witnesses to contradict it. Experience shows that if a party discovers what his opponent’s testimony will be, and has time enough, he is often successful in discovering also witnesses for contradiction.
+Now in the present case it is plain that the defendant knows all the circumstances which it needs to prepare its defense. The place where the accident took place is distinctly specified in the complaint. Furthermore, one of the defendant’s witnesses, named in the affidavit to change the place of trial, was present at the accident. Another saw the marks of the wagon wheels and the horse lying at the side of the road. Four others were at the house to which plaintiff immediately went, and are well acquainted with the condition of the road at the place where the accident occurred.
+All of those persons also must know the condition of the weather and atmosphere at the time.
+As to the age of the person driving with plaintiff, and the condition of both of them, the defendant has stated that by two other witnesses he expects to prove that plaintiff’s companion, naming him, had been drinking, and was unfit to drive.
+As to the extent of the injuries, the defendant has already stated that it expects to prove this by two physicians, whom it named.
+We are unable to understand, after reading the affidavit used to obtain a change of the place of trial, how the affiant could make a subsequent affidavit that no witness could be found who was acquainted with the facts as to which the examination was denied, although diligent inquiry had been made.
+We think that this application is strikingly of the kind called “ a fishing excursion,” and which is condemned in many cases, among them that of Colin v. Mooers, decided at this present term.
+Order reversed, with ten dollars costs and printing disbursements, and order of examination vacated, with ten dollars costs.
+Landon, J. concurs.
+Mote.
+An examination of the defendant before trial will not he directed, to discover whether or not a cause of action exists against the defendants or any of them. Churchman v. Meritt, 51 Hun, 375.
+An order for the examination of the plaintiff before trial will not he granted, to ascertain whether he is a party or privy to a crime. Franks v. Riemer, 28 N. Y. St. Rep. 156.
+An order will not he granted to ascertain what the adverse party will testify to on the trial. Golin v. Mooers, 54 Hun, 639.
+See note in 1 Sil. (Sup. Ct.), 1.
