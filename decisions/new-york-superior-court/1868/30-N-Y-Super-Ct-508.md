@@ -1,0 +1,32 @@
+---
+court: "New York Superior Court"
+decided: "1868-12-31"
+citations: ["7 Rob. 508", "30 N.Y. Super. Ct. 508"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emily Fowler Ford, plaintiff and appellant, vs. August Belmont, et al. defendants and respondents."]
+source_url: "https://static.case.law/ny-super-ct/30/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1393338
+cites_cases: ["1 Barb. 560", "11 N. Y. Rep. 315", "12 How. 39", "12 How. 445", "13 Wend. 524", "14 John. 226", "14 N. Y. Rep. 235", "14 N. Y. Rep. 464", "15 Abb. 177", "15 N. Y. Rep. 475", "16 Barb. 150", "19 Wend. 175", "19 Wend. 367", "2 Barb. 613", "2 Barb. Ch. 596", "2 Rob. 621", "2 Sandf. Ch. 494", "24 N. Y. Rep. 607", "28 Barb. 342", "29 Barb. 25", "29 Barb. 9", "3 Abb. 246", "3 Duer, 121", "3 Sandf. 502", "4 Sandf. 156", "5 Denio, 385", "5 Duer, 666", "6 Bosw. 191", "6 Bosw. 600", "6 Hill, 453", "7 Barb. 221", "7 How. 305", "9 Abb. 414"]
+---
+
+# Ford v. Belmont
+
+## Majority (By the Court, Barbour, J.)
+
+By the Court, Barbour, J.
+As I understand this case, it stands thus:
+First. The power of attorney, and the agreement between Bruen and Clarke) vested in the latter the entire equitable estate and ownership of the former in the premises, upon condition that the contemplated compromise should be affected; and that condition was complied with by the agreement to compromise, and the subsequent payment of §200,000 by the Dysons, under their agreement with Clarke.
+Second. By Clarke’s agreement with the Dysons and Bruen’s deed to Dunbar S. Dyson, and the payment of the $200,000, D. S. Dyson became vésted with the entire legal estate; but, only, for the purpose of enabling him to repay to himself and Robert Dyson the §200,000 by them advanced, (together with §25,000 as a compensation for raising the money,) out of the proceeds of such lands as it should be necessary to use for that purpose, and, after that, for the further purpose of enabling him to divide and, by his deed, distribute, the remaining lands between himself, Robert Dyson and Clarke, or, to sell and convey the same.
+Third. The entire estates and interests of Clarke and the Dysons, respectively, in the property, after the payment by the latter of the §200,000, stood thus :
+1. The two Dysons were, in equity, the owners of a charge upon the land for §225,000, (being the §200,000 which they had paid out, and §25,000 for their services,) which was the first lien thereupon; and they were, also the equitable owners of one third of all the land and of its proceeds, subject to that charge.
+2. Clarke was the equitable owner of two thirds of all the land, or its proceeds, subject, in like manner, to such prior lien or charge.
+3. The entire legal estate was vested in D. S. Dyson for the purpose of enabling him to satisfy that charge by a sale and conveyance of so much of the lands as should be necessary to accomplish that object, and of making a distribution of the remaining lands or their proceeds, either by a conveyance to Robert Dyson and Clarke of their shares, or by means of a sale and conveyance to others.
+Fourth. The entire estate of Dunbar S. Dyson, both legal and equitable, including and subject to the charge, which also ran with the land, was vested in Wardell, as receiver, by the decree in bankruptcy and the assignment to him.
+If, then, the assignee had sold the entire estate and interest of Dunbar S. Dyson in the property, to one man, it would, manifestly, have been the duty of the purchaser, upon the demand of Clarke or Robert Dyson, to sell enough of the lands to pay off the charge, and, after satisfying the same, to divide the remaining lands, or sell them and divide the proceeds, in the proportions above mentioned, as should be agreed upon between Clarke, Robert Dyson and himself; and it is easy to see that the rights and duties of any number of separate or joint purchasers, collectively, as between themselves and Robert Dyson and Clarke, or their representatives, are precisely the same as would be those of the one purchaser in the case supposed. The relative rights of such parties, inter se se, to shares in the final distribution, must, of course, depend upon the extent of their respective purchases.
+As the plaintiff and the defendants’ grantor purchased, the one a third, and the other the remaining two thirds of the estate and interest of Dyson, in severalty, such plaintiff and defendants have full power and authority, under and by virtue of the several conveyances through which they derive their title, to sell and convey sufficient of the lands to satisfy their charge upon the same, if they can agree to do so; and, in case either shall refuse, it is quite probable that the. other may, in a proper action, compel such sale and conveyance. So, too, the persons who are parties to this action, after the charge upon the lands shall be thus satisfied, may, by and with the consent of the representatives of Clarke and Robert Dyson, divide between themselves and such representatives the lands that shall then remain, in the proportion, in value, of two thirds to Clarke’s representatives, one sixth to Robert Dyson, one eighteenth to the plaintiff, (being the one third of the real interest of Dunbar S. Dyson in the premises which passed by the deed of the assignee in bankruptcy,) and one ninth to the defendants; (being the remaining interest of D. S. Dyson;) or, they may sell such remaining lands, and so divide the proceeds:
+But the lands, as the matter is now situated, cannot be partitioned between the plaintiff and the defendants, without the consent of Robert Dyson and the representatives of Clarke. For, their interest extends to and covers every lot and parcel thereof; and each parcel is also bound for the satisfaction of'the charge of $225,000, as an entirely. ¡Not only, therefore, are Robert Dyson and Clarke’s representatives necessary parties to an action of this character, but, even if they were in as parties defendants, the decree in partition prayed for could not properly be granted if opposed by them.
+For .these reasons, I am of opinion that the judgment should be affirmed, with costs.
+The denial of the motion to insert new parties in the pleadings after the action had been tried and submitted, was not only discretionary with the court, but was so obviously right and proper, that it is unnecessary to spend ' a moment upon it. The order should also be affirmed
