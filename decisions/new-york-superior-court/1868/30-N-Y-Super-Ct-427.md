@@ -1,0 +1,22 @@
+---
+court: "New York Superior Court"
+decided: "1868-05"
+citations: ["7 Rob. 427", "30 N.Y. Super. Ct. 427"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roswog, plaintiff, vs. Seymour, defendant."]
+source_url: "https://static.case.law/ny-super-ct/30/cases/0427-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1393326
+---
+
+# Roswog v. Seymour
+
+## Majority (Jones, J.)
+
+Jones, J.
+This section does not in terms require a bond for the absolute delivery, nor the security to be in an amount equal to the value of the property directed to be assigned; nor does it require security in all cases. Neither is such its spirit and intent. The design is to leave it to the sound discretion of the court whether to require any security, and if any, then to fix the form of the security, and the amount, according to the circumstances of each particular case. Thus, if the property consisted solely of demands against third persons not evidenced by any writing, there would be nothing capable of delivery, and it would be absurd to require a bond conditioned for the performance of an act incapable of being performed. Again, if the property consisted solely of goods in the possession of a third person claiming title thereto adversely to the applicant, then to require a bond in the value of the goods, conditioned for the absolute delivery thereof, would be to require the performance of an act not presently in the power of the applicant to perform, and which by reason of an adverse legal decision or a recovery of damages by the assignee it might never be in his power to perform.
+In the present case the applicant, prior to being charged in execution, was declared a bankrupt. The effect of this, under the provisions of the bankrupt act, is to place his property in custodia legis and impound it for the benefit of the creditors proving their claims under that act. It is then out of his power to make personal delivery of this property, and he should not be required to give a bond to do so. . Whether it will ever be in his power to make delivery would depend on whether there is any property - remaining after the termination of the bankruptcy, and might also depend upon a solution of the question whether a bankrupt can without, or with, the consent of the creditors, discontinue bankruptcy proceedings, and have his property restored to him, and whether the court of bankruptcy can dismiss an application and direct the property to be restored. I do not think it necessary for me to decide these questions on this application. There is. sufficient question about them to justify me in requiring, as section 10 authorizes, a bond with a condition covering these contingencies. If the applicant had filed his petition in bankruptcy subsequent to his arrest and final process in this action, his so doing might perhaps have been regarded as a voluntary disposition of his property made in fraud of the act under which he applies for his discharge, and with intent to destroy the efficiency of its provisions, which are intended to compel the application of the property owned by the imprisoned debtor at the time he was charged in execution, to the payment of the debt for which he was" imprisoned, so far as he is not prevented by in invitum proceedings. But there is no principle by which the mere fact, that one is liable to arrest on final process, renders invalid a voluntary disposition of his property for the benefit of his creditors, which would b'e otherwise valid. If, then, prior to being charged in execution, he makes such valid disposition, the fact óf his having so done will not bar his discharge, nor can he be required to assign more -than his contingent interest in the property appropriated to the benefit of his creditors in the event of its being more than sufficient for that purpose. In this case the applicant, hy filing his petition before being charged in execution, stands substantially in the attitude of one making a valid assignment, with, perchance, this contingency only, viz. that perhaps the bankruptcy proceedings may be dismissed or discontinued in such manner as to annul ah initio any effect the bankruptcy proceedings theretofore had, may have had on the title of the property in question. •
+The condition , of the bond may be made to meet this contingency.
+Ordered accordingly. •
