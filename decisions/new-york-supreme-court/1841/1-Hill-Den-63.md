@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1841-01"
+citations: ["1 Hill & Den. 63"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ratcliff vs. Wales."]
+source_url: "https://static.case.law/hill/1/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 674531
+cites_cases: ["11 Mass. R. 441"]
+---
+
+# Ratcliff v. Wales
+
+## Majority (By the Court, Bronson, J.)
+
+By the Court, Bronson, J.
+For the purpose of promoting a perfect union of interests, and securing mutual confidence between husband and wife, the courts have generally refused to admit the wife, as a witness against the husband, even after the marriage contract was at an end, when she was called to speak of any matter which happened during the continuance of the marriage, and which might affect the' husband either in his pecuniary interest or character. In Monroe v. Twisleton, (Peake's Ev. (Norris) Append. 29, also now reported in Peake's Add. Cas. 219,) the action was assumpsit, and Mrs. Sandon was called to prove- the defendant’s promise; but it appearing that she was the wife of the defendant at the time the contract was made, she was rejected, although she had since been divorced by act of parliament. Lord Alvanlejr said, to prove any fact arising after the divorce, this lady is a competent witness, but not to prove a contract or any thing else which happened during coverture. She was at that time bound to secrecy; what she did might be in consequence of the trust and confidence reposed in her by her husband, and miserable indeed would the condition of a husband be, if, when a woman is divorced from him, perhaps for her. own misconduct, all the occurrences of his life,, entrusted to her while the most perfect and unbounded confidence existed between them, should be divulged in a court of justice. He added, it never shall be endured that the confidence which the law has created while the parties remained in the most intímate of all relations, shall he broken, whenever" by the mis-* conduct of one party, that relation has been dissolved. In Doker, executor, v. Hasler, (Ryan & M. 198,) the widow of the testator was called by the defendant to prove facts going to defeat the action, and her evidence was rejected on the authority of Monroe v. Twiselton. Best, Ch. J., said he was satisfied with the propriety of that decision, and thought the happiness of the marriage state required that the confidence between man and wife should be kept forever inviolable. In another nisi prius case tried the same year, before Abbot, Ch, J., and involving the same principle, the widow was admitted. (Beveridge v. Minter, 1 Car. & Payne, 364.) The case of Monroe v. Twiselton, seems not to have been mentioned, and the chief justice put the admission of the witness on. the ground that she appeared against her own interest. (See Aveson v. Ld. Kinnaird, 6 East, 188, and 192, 193, remarks of Lord Ellenborough upon the case of Monroe v. Twiselton.) In State v. I. N. B., (1 Tyler’s (Vt.) R. 36,) the wife who had been divorced a vinculo matrimonii, was admitted as a witness to prove a forgery committed by the husband during the coverture. But that case was expressly overruled by the same court, in State v. Phelps, (2 Tyler’s R. 374.)
+In the case at bar, the witness was not called against her former husband, nor was she asked to betray any trust or confidence which he had reposed in her during the coverture. The fact which she was offered to prove, did not even come to her knowledge in consequence of the marriage relation. And although she was called by the husband, yet as the marriage had been dissolved, she had no interest to speak in his favor. I see no principle on which the testimony could have been rejected.
+In bastardy cases, where the mother is a married woman, it has been uniformly held, that the wife was not a competent witness to prove the non-access of the husband; but from the necessity of the thing, she has been constantly admitted to prove the criminal intercourse by which the child was begotten. (The King v. Reading, Cas. Temp. Hardw. 79. The King v. Inhabitants of Bedell, Andr. 8. The King v. Luffe, 8 East, 193. The King v. Inhabitants of Kea, 11 id. 132. See also Goodright v. Moss, Cowp. 594; Canton v. Bentley, 11 Mass. R. 441.) If the wife was properly admitted, in these cases, to prove her criminal intercourse with the defendant, and that too, when called without the consent of the husband, I do not see how she could properly be rejected here, where she was called to prove the same fact, and with the assent of the husband.
+New trial denied.'
