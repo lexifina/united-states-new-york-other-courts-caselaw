@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["86 N.Y. Sup. Ct. 176"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Haight, JJ., concurred."]
+parties: ["In the Matter of the Real Estate of Samuel Lawrence, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/86/cases/0176-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2397564
+---
+
+# In re the Real Estate of Lawrence
+
+## Majority (Bradley, J.:)
+
+Bradley, J.:
+The appeal is from so much of the surrogate’s decree as directs that the farm in Ontario county be first charged with the payment of the debt due to the petitioner, and on the part of the appellants it is insisted that such direction is in violation of the statute, which provides: “ Where the decree directs the sale of two or more distinct parcels of real property, of which the decedent died seized, * * * the decree may direct the sale to be made in the order which the surrogate deems just, unless it appears that one or more distinct parcels, of which the decedent died seized, have been devised by him or sold by his heirs, in which case the several distinct parcels must be sold in the following order:
+“ (1) Property which descended to the decedent’s heirs and has not been sold by them.
+“ (2) Property so descended which has been sold by them.
+“ (3) Property which has been devised and has not been sold by the devisee.
+“ (4) Property so devised which has been sold by the devisee.” (Code Civ. Proc. § 2763.)
+The testator died seized of two parcels only of real property. As neither of them descended to his heirs, the first and second clauses of that section have no application to the present case.
+The farm in Ontario county was devised to the son, Isaac J. Lawrence. He by mortgage conveyed it to the appellant, William Mott. For that reason it is urged that it is taken from the operation of the third clause and comes within the fourth, and that it is not chargeable with the payment of the debts of the decedent until after the Wayne county premises have been sold and the proceeds of the sale found to be insufficient to pay the debts. By the will the testator intended to give his daughter, Mrs. Werne, and her next of kin the benefit of the Wayne property, and for that purpose he directed that it and all his estate, other than the Ontario farm, be sold, and the proceeds, to the amount of $4,000, be held by his executor in trust, as there directed, for his daughter and her next of kin.
+And although this direction to sell the Wayne property for the purposes of the trust was an equitable conversion of it into personalty, the daughter and her next of kin were made the beneficiaries of the will as to that property as effectually as if it had been devised to them. The grant of the house and lot by the executor to secure the payment of his debt was not within the power of sale given to him. The Ontario county farm devised to the son was conveyed by him within the meaning of the statute. And the question arises whether it is entitled to such construction as to primarily charge the Wayne premises with the payment of the debts of the decedent. Such effect given to the statute would seem to work injustice, and as the consequence might charge the burden upon one of the several devisees if he alone had not conveyed property devised to him, as he could then have only the personal liability of the other devisees for indemnity, and such remedy might be of no value for that purpose. The section of the Code referred to is a substitute for the previous statute, which provided that the order should specify the lands to be sold, and the surrogate might direct the order in which several tracts should be sold, and should order that the part descending to heirs be sold before that devised, “ and if it appear that any lands devised' or descended have been sold by the heirs or devisees, then the lands remaining in their hands unsold shall be ordered to be first sold.” (2 R. S. 103, § 20.)
+While the language of section 2763 of the Code may, be susceptible of a construction somewhat different from that of the provisions of the Revised Statutes, it may be supposed that the intent was that it should in its purpose and effect be substantially the same. The fair and equitable construction of the statute would seem to be such as to import that the property referred to as devised and not sold is that remaining unsold of the particular devisee, who may have conveyed a portion only of the estate devised to him, and not that of the other devisees, who have pot conveyed the property devised to them. This is a reasonable view of the construction of the statute and was that taken of such provision of the Revised Statutes in Matter of Clark (3 Redf. 225).
+Any other construction of the present statute might, as has been observed, have the effect to primarily charge the entire debts of a. decedent upon the property devised to one of several devisees. This it cannot be assumed was in the contemplation of the statute,, nor does its language necessarily require a construction which may be promotive of such injustice in its practical operation.
+There is a further consideration which equity will recognize as between the beneficiaries of the two properties.
+The debt upon which the petition is founded is that of Isaac J. Lawrence, the devisee of the Ontario county farm. The liability of ‘the decedent arose from his relation as accommodation indorser of the note by which the debt is evidenced.
+Upon equitable principles applicable to such relation the property devised to Isaac J. Lawrence should be primarily charged with the debt in this proceeding. And in the view taken of the statute it was within the power of the surrogate to determine that the sale of the lands be made in the order directed by the decree.
+The decree of the surrogate should, therefore, be affirmed.
+Dwight, P. J., Lewis and Haight, JJ., concurred.
+Decree of the Surrogate’s Court of Wayne county appealed from affirmed, with costs to the respondent.
