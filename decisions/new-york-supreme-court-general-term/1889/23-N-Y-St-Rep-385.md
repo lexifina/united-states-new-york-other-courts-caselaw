@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-03-29"
+citations: ["23 N.Y. St. Rep. 385"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Mayor, etc., of the City of New York, App’lt, v. Matthew H. Moore et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/23/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 653652
+cites_cases: ["46 Hun, 269"]
+---
+
+# Mayor of New York v. Moore
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action was brought upon a bond conditioned for the faithful performance of a contract for the construction of a sewer in the city-of New York. The defendant, Moore, the contractor, is the principle of the bond, and the defendants, Donovan and McManus, are the sureties.
+The contract, for the faithful performance of which the •bond was given, contained the following provision:
+“The said party of the second part (meaning the contractor) further agrees that if the work under this agreement shall be abandoned, or if at any time the said commissioner shall be of the opinion, and shall so certify, in writing, that the said work, or any part thereof, is unnecessarily delayed, or that said contractor is wilfully violating any of the conditions or covenants of this contract, or executing the same in bad faith, he shall have the power to notify the aforesaid contractor to discontinue all work or any part thereof under this contract, and thereupon the said contractor shall discontinue said work, or such part thereof, and the said commissioner shall have the power to-complete the contract and charge the expense of the completion against ‘ ‘ such moneys as may be then due, or may at any time thereafter grow due to the said contractor under and by virtue of this agreement, or any part thereof. And in case such expense shall exceed the sum which would have peen payable under this contract if the same had been completed by said contractor, he shall pay the amount of such excess to the parties of the first part on notice from the said commissioner, of the excess so due.”
+Upon the trial the complaint was dismissed, upon the ground that the plaintiff had not proved notice to the contractor to discontinue the work. The evidence which the plaintiff offered on this point tended to prove that a written notice had been left at the house of the defendant, Moore, with a woman of mature age, who answered the bell when the person having the notice to serve went to the house of Mr. Moore, the contractor, for that purpose.
+The service of this notice seems to have been entirely ample under the case of McCoy v. The Mayor (46 Hun, 269; 11 N. Y. State Rep., 504). In that case it was held that the service of a notice by mailing the same in a postpaid envelope. raised a presumption of service sufficient to raise a question of fact upon which to go to the jury. This presumption was based upon the principle settled in many well adjudicated cases resting upon the fact that the postal service is a governmental agency adopted by the government and the people as a means of communication, and therefore a means of communication known to all, and as the government is supposed to do its duty, it is presumed that a letter placed in the mail is properly sent and properly left at the place to which it was directed. The case at bar is sought to be distinguished from the one cited, by the fact that the plaintiff has proved more than he would have been required to prove had the notice been served-by mail. He has not limited his proof by evidence that a letter has been deposited in a mail box and then rested upon the presumption that the government officials have-done their duty, but he has shown that the notice had been delivered to a person in the house occupied by the defendant, and that all has been done that could have been doné had the letter been deposited in the post office, and proof given that the government had done its duty, instead of relying upon the presumption. Under these circumstances, therefore, the evidence of the service of the notice was clearly sufficient if a deposit in a post office was sufficient; and it is a somewhat significant fact that although the defendant was put upon the stand, yet he was not asked by his counsel whether he had received the notice or not.
+It was urged upon the argument that this is a circumstance to be taken as against the plaintiff. The plaintiff was not bound to ask this question and make the defendant its witness upon this point, giving him credit which he would not otherwise receive.
+Objection upon this appeal has been taken to the sufficiency of the notice. There may be some question in that regard; but this question of the sufficiency of the notice does not seem to have been taken upon the trial below, and it is possible that had such an objection been taken, the service of the previous notice would also have been proved upon the part of the plaintiff. The sole question upon which the case seems to have been determined was that the proof of the service of the notice of the forfeiture of the contract was insufficient, no question being raised as to the form of the notice itself. In this, we think, the learned court below' erred, and for that reason the judgment should be reversed, and a new trial ordered, with costs to appellant to abide the event.
+Beady and Daniels, JJ., concur.
