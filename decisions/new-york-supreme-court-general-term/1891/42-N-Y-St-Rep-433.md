@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-12-31"
+citations: ["42 N.Y. St. Rep. 433"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Mayor, etc., of New York, Pl’ff, v. The Twenty-Third Street Railroad Co., Def’t."]
+source_url: "https://static.case.law/ny-st-rep/42/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2071519
+---
+
+# Mayor v. Twenty-Third Street Railroad
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+The question presented by this submission is whether the defendant must pay to the plaintiff a license fee of $25 or a license fee of $50 upon each of a large number of cars-run by the defendant in the city of New York during the years 1881 to 1885, both inclusive.
+The franchise under which defendant runs its cars was conferred by chap. 514 of the Laws of 1860, which provided that the railroad should be subject to the payment to the city of the same license fee annually for each car run thereon as was then paid by other city railroads in said city. In 1858 a city ordinance was passed which provided that:
+“ Bach and every passenger railroad car running in the city of New York below One Hundred and Twenty-fifth street, shall pay into the city treasury the sum of fifty dollars annually, for a license, a certificate of such payment to be procured from the mayor, except the small one-horse passenger cars, which shall each pay the sum of twenty-five dollars annually, for said license, as aforesaid.”
+After said ordinance was passed and from then until April 17, I860, and for many years thereafter the city railroads in said city ran two classes of cars, to wit, a class of cars drawn by two horses and which were in length about sixteen feet and both the front and rear platforms were used by passengers, and another class of cars usually drawn by one horse, in length about twelve feet and one foot narrower between the benches, and which had their front platforms closed, and never used by passengers.
+These latter cars were commonly known and spoken of as small, one-horse passenger cars. From January, 1859, until some years after April 17, 1860, and down to the day of this submission, the city railroads in said city other than the road referred to in said act of 1860 and thereby authorized to be run, have paid .annually license fees, into the city treasury on each of the large two-horse cars such as above described run by them the sum of •fifty dollars each, and on each of the smaller passenger cars such as above described, whether drawn by one or two horses, the sum of twenty-five dollars. Subsequent to April 17, 1860, and until the year 1881 all the cars run upon the defendant’s road were of the dimensions and capacity of the smaller passenger cars above ■described, and were as a rule drawn by one horse, and, never paid for any of such cars any greater license fee than twenty-five dollars a year. In the year 1881 this defendant being then the lessee of said railroad and engaged in operating the same or a portion of the same, commenced to have said smaller cars run by it which had theretofore as a rule been drawn by one horse, drawn habitually by two horses, and all of the cars above mentioned were of the dimensions and capacity of the smaller passenger cars above ■described and were in fact the same cars which had theretofore been run and drawn as a rule by one horse only. The plaintiff claims that these cars were subject to an annual license fee of fifty dollars when drawn by two horses, and the defendant claims that said cars were subject to a license fee of only twenty-five dollars when drawn by two horses; and the question submitted is whether the defendant is liable to pay the higher license fee.
+We think that clearly no such obligation rests upon the defendant. The license fee in the resolution above referred to seems to be predicated upon the size of the cars run. It provides that ■each and every of such railroad cars running in the city of New' York below One hundred and twenty-fifth street shall pay into "the city treasury fifty dollars annually for a license, except the small one-horse passenger cars, which shall each pay the sum of twenty-five dollars annually for said license.
+Therefore a car which was known at the lime of the passage of this ordinance as a one horse passenger car was subject to the payment of a license fee of $25 only, even though it might be drawn ~hj more than one horse.
+It appears from the case that there was a style of car commonly known and spoken of as small one-horse passenger cars; and it is the cars which are taxed and not the motive power. It is immaterial in the consideration of the ordinance as to how the cars are moved, provided they are of the character commonly known as small one-horse passenger cars. These are the cars which were intended to be excepted, naturally because of their less capacity to carry passengers, and consequently less ability to pay the larger license.
+Judgment should therefore be rendered for the plaintiff for $5,175, and interest on $1,075 thereof from June 1, 1881,- on $1,000 from January 1, 1882, on $1,000 from January 1, 1883, on $1,000 from January 1, 1884, and on $1,100 thereof from January 1, 1885.
+Barrett and Daniels, JJ., concur.
