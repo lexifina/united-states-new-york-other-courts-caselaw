@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-06-28"
+citations: ["25 N.Y. St. Rep. 330", "2 Silv. Sup. 5"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard D. Alliger, Resp’t, v. The Brooklyn Daily Eagle, Appl’t."]
+source_url: "https://static.case.law/ny-st-rep/25/cases/0330-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 657705
+---
+
+# Alliger v. Brooklyn Daily Eagle
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Malice was presumed in this case from the conceded falsity and libelous character of defendant's publication concerning plaintiff. The reporter’s testimony, that he wrote the article without malice, did not, as matter of law, refute this presumption. A question of fact arose on this reporter’s testimony, as to his credibility, although it was not contradicted by the testimony of any other witness, and besides that, there was conflict between his story and the presumption of malice which arose from the char- • acter of his act. Hence the learned trial judge very properly submitted the questions both of malice and damage to the jury. It was an even question, under the circumstances of this case, whether the first so-called retraction did not make matters worse. When reporters are so industrious in reading up other publications for their employers, they and their employers, too, ought, at least, to be equally industrious in ascertaining whether or not they are true, and in reading up and publishing the corrections made by the original publishers, when they are concededly false. The publications in the other papers bore on this point and on the damage which plaintiff had sustained, showing how far and in what way plaintiff had been acquitted of the original charge. The plain truth is that when men engage in a business involving the publication of libelous matter, they must bear the legitimate risks of their business and the consequences of their mistakes. Gross carelessness in publishing such matter, or in making prompt, full and ample retraction, are facts which a jury not only may, but ought to consider in cases of this character. It would be a meagre mitigation for one falsely defrauded in his good name and reputation, to be told that the reporter was very sorry that he had done the wrong; that he had believed the falsehood to be true, and published it to others as true. Displayed libels, conspicuously published, are not very much mitigated by fine type retractions and corrections. A stiff verdict may be pretty severe on the individual newspaper publisher who has to pay it, but, in these days, when newspapers are rendered “spicy” in proportion as their articles are personal, it is not strange that justices should render what may seem severe verdicts. The courts are powerless to prevent this unless the verdict is so large as to indicate passion, prejudice or corruption.
+The jury were the proper judges of the damages which plaintiff had suffered. This verdict was pretty large, but so was this false charge. The jury, probably, took that view of the case, and it cannot be said that the verdict shocks the average sense of justice, in view of inferences which might, and doubtless were, drawn by the jurymen.
+The judgment should be affirmed, with costs.
