@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-03"
+citations: ["59 N.Y. Sup. Ct. 95"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Daniels, J., concurred; Yan Brunt, P. J., concurred in the result."]
+parties: ["FELIX DREYFUS, Appellant, v. WILLIAM C. CASEY, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/59/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2370726
+cites_cases: ["15 Abb. Pr., 254", "44 Hun, 55", "90 N. Y., 237"]
+---
+
+# Dreyfus v. Casey
+
+## Majority (Brady, J.:)
+
+Brady, J.:
+This action, which was of claim and delivery, was brought to recover several cases of goods, which were then" in the storage warehouse of the defendant, and the sheriff took possession of the property, which he still retained when the motion to interplead was made. The receiver claimed the property on the ground that it had been fraudulently disposed of by Lillenthal, and, therefore, authorized the application on behalf of the creditors whom he represented.
+The application seems to have been made in good faith, without collusion with the defendant or anyone else, and in the discharge of a duty imposed upon him by his appointment as receiver. It was resisted upon the ground that it was not shown, as it should have been by appropriate evidence, that tbe claim interposed against the plaintiff would probably be successful, and that its merits should have been examined for the purpose of determining that question; and, further, that if the merits had been examined upon the facts and the law, the result would have been a denial of the remedy sought. The argument on behalf of the appellant, although elaborate, seems to have overlooked the peculiar provisions of section 820 of the Code of Civil Procedure, and the effect of it where adverse claims are made in an action kindred to this. JBy that section it is provided that a defendant against whom an action to recover a chattel is pending, at any time before answer upon proof by affidavit that a person not a party to the action makes a demand against him for the same property, without collusion with him, may apply to the court, upon notice to that person and the adverse party, for an order to substitute that person in his place and to discharge him from liability to either by delivering possession of the property, or its value to such person as the court directs. And it further provides that the court may, in its discretion, make such an order. This section was considered and interpreted in Bowery National Bank v. The Mayor (reported in 4 New York State Reporter, 565); and it was there declared that the right of the defendant to succeed in an application made under its provisions was not restricted to- demands which might probably be made successfully against the subject of the controversy. It was only necessary for the defendant to show, in order to avail himself of its provisions, that a person not a party to the action makes a demand for the same debt or property, without collusion with him. The section, it will be observed, applies only to proceedings by motion and by a defendant, as is said in the case of the Baltimore and Ohio Railroad Company v. Arthur (90 N. Y., 237).
+The facts required by the section under consideration having been established, and the judge in the court below having, in the exercise of his discretion, made the order asked for, it cannot be disturbed unless it appears that the discretion exercised was abused. There is nothing in the case to justify such a conclusion. The effect of the section, it must also be observed, is to create a distinction under its provisions and an action in the nature of an interpleader, for the reason that in the latter it is necessary to show that the claim interposed is substantial and will probably be successful, in order to entitle the plaintiff to maintain his action as illustrated by the case of the Nassau Bank v. Yandes (44 Hun, 55 and the cases cited). The decision in Vosburgh v. Huntington, made at Special Term (15 Abb. Pr., 254), is not in conflict with the views herein expressed, but if by any interpretation it may be regarded as in conflict, it is sufficient to say of it, as suggested by the learned judge in the court below, that it is overruled by the case of the Bowery Savings Bank v. The Mayor (supra,). And it may be further observed with regard to it, that it does not consider the precise question herein discussed as paramount in importance.
+We have, therefore, presented to us as responsive to this appeal, the section to which reference has been made, its interpretation by this court, the statement of the necessary facts by the defendant to invoke its aid under that section, and, therefore, the order granted must be declared to have been properly directed in that respect. It is, nevertheless, incumbent upon us to say, further, that the order entered upon the application is deficient in not stating what shall be done with the property during the pendency of the action. This may be supplied on application, however, to amend, and does not affect file propriety of the order allowing the substitution ordered.
+For these reasons the order appealed from should be affirmed, but we think, under the circumstances disclosed, without costs.
+Daniels, J., concurred; Yan Brunt, P. J., concurred in the result.
+Order affirmed, without costs.
