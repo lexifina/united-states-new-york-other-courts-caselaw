@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1894-02"
-citations: ["82 N.Y. Sup. Ct. 497", "82 N.Y. Sup. Ct. 512", "82 N.Y. Sup. Ct. 492"]
+decided_precision: "month"
+citations: ["82 N.Y. Sup. Ct. 497"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["Caroline R. Garczynski, Appellant, v. Dorr Russell and Another, Respo
 source_url: "https://static.case.law/ny-sup-ct/82/cases/0497-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11279031
-cites_cases: ["1 Hun, 41", "104 U. S. 519", "113 N. Y. 619", "121 N. Y. 156", "134 N. Y. 313", "16 Daly, 528", "19 N. Y. Supp. 100", "19 Neb. 444", "22 N. Y. St. Repr. 149", "30 Minn. 140", "34 N. Y. St. Repr. 261", "4 Neb. 569", "5 Ohio St. 140", "56 Hun, 463", "59 Mich. 355", "7 Wall. 506", "73 Hun, 437"]
+cites_cases: ["16 Daly, 528", "34 N. Y. St. Repr. 261", "56 Hun, 463"]
 ---
 
 # Garczynski v. Russell
