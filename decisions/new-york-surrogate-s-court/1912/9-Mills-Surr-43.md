@@ -1,0 +1,25 @@
+---
+court: "New York Surrogate's Court"
+decided: "1912-01"
+citations: ["9 Mills Surr. 43", "75 Misc. 434"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Proving the Lost Will of Fannie Ascheim, Deceased."]
+source_url: "https://static.case.law/mills-surr/9/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1080294
+cites_cases: ["110 N. Y. 481", "110 N. Y. 486", "167 N. Y. 163", "19 Misc. Rep. 333", "201 N. Y. 123", "25 N. Y. 9", "4 Barb. 28", "54 Barb. 274"]
+---
+
+# In re Proving the Lost Will of Ascheim
+
+## Majority (Fowler, S.)
+
+Fowler, S.
+This is a proceeding pursuant to section 2621 of the Code of Civil Procedure to probate a lost or destroyed will. The proceeding is governed by the provisions of the Code relative to actions in the Supreme Court to establish a will. Code Civ. Pro., §§ 1861, 1865; Matter of Kennedy, 167 N. Y. 163, 168. The children of Mrs. Ascheim oppose such application to probate the lost will.
+In limne it will be found that the testimony taken before the surrogate does not establish the incapacity of Mrs. Ascheim at any time to revoke her will. It will be conceded that an act of revocation of a testamentary instrument requires the same degree of capacity as is required for testamentation. In other words, one who is intestabilis, although the want of capacity to testaméntate supervenes the making of the will, is thereby rendered incapable of an act of revocation. Delafield v. Parish, 25 N. Y. 9, 59, 60; Smith v. Wait, 4 Barb. 28; Matter of Waldron, 19 Misc. Rep. 333; Matter of Forman’s Will, 54 Barb. 274.
+That Mrs. Ascheim on July 29, 1904, executed in conformity with the law of this State a last will and testament was sufficiently established on the hearing, and the contents of such instrument were also established. But at her death such will, which was last in her own custody, to all intents and purposes, was not found. In such a state of facts the presumption of law is that the will was destroyed by the testatrix herself animo revocandi. Collyer v. Collyer, 110 N. Y. 481; Matter of Kennedy, 157 id. 163, 168; Matter of Cunnion, 201 id. 123, 126. No doubt such a presumption of revocation may be rebutted by sufficient evidence to the contrary. Matter of Cunnion, 201 N. Y. 123. But the burden of overcoming such presumption by adequate proof is on those who maintain the continuation of the will as an inceptive legal instrument, and it is not sufficient for them to show that persons interested in its destruction had an opportunity to destroy it, as the law does not presume fraud. Collyer v. Collyer, 110 N. Y. 486. Fraud of all tortious acts provable in a civil court must be made out with technical precision, as the procedural law safeguards persons against mere constructive wrong-doing.
+No good purpose would be subserved by a review of all the extended evidence offered to rebut the presumption of destruction by testatrix animo revocandi. Petitioner offered perhaps the best evidence obtainable, but it was insufficient to exclude every possibility of such destruction by the testatrix herself, unless I had also found a want of capacity to revoke. It is apparent in the record that there was a period when the testatrix might have visited the probable repository of the will, and at such time she had it in her power to take the will away with her, if she chose. It was necessary for petitioner to exclude every possibility of a destruction of her will by testatrix herself. The petitioner has not excluded every opportunity of the testatrix to destroy her will, and, therefore, has not overcome the presumption denoted above, and this was incumbent on the petitioner for probate. I should have to presume for petitioner and stretch the evidence should have to pre opuupu petitioner and stretch the evidence in order to find for petitioner, and this I cannot do.
+The probate sought will be denied and the decree will be .accordingly.
+Probate denied.
