@@ -1,0 +1,42 @@
+---
+court: "New York Supreme Court"
+decided: "1893-12"
+citations: ["60 N.Y. St. Rep. 599", "29 N.Y.S. 669", "8 Misc. Rep. 468", "8 Misc. 468"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. Wesley Walker, Pl’ff, v. Aaron Gardener, as Executor, etc., Def’t. Alman D. Mather, Pl’ff, v. Aaron Gardener, as Executor, etc., Def’t. Adelaide M. Van Tuyl, Pl’ff, v. Aaron Gardener, as Executor, etc., Def’t."]
+source_url: "https://static.case.law/ny-st-rep/60/cases/0599-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1982517
+cites_cases: ["103 N. Y. 680", "11 N. Y. Supp. 509", "110 N. Y. 568", "111 N. Y. 577", "117 N. Y. 411", "119 N. Y. 621", "15 Abb. N. C. 452", "16 Abb. N. C. 208", "16 N. Y. Supp. 725", "18 N. E. 368", "18 St. Rep. 373", "19 N. E. 273", "19 N. Y. Supp. 91", "20 St. Rep. 130", "22 N. E. 1029", "22 St. Rep. 563", "23 N. E. 176", "27 St. Rep. 449", "28 St. Rep. 675", "3 St. Rep. 642", "30 St. Rep. 456", "32 Hun, 481", "33 St. Rep. 807", "40 Hun, 72", "40 St. Rep. 764", "45 St. Rep. 485", "5 N. Y. Supp. 105", "52 Hun, 100", "54 St Rep. 863", "56 Hun, 272", "56 Hun, 274", "58 Hun, 172", "64 Hun, 90", "67 How. Pr. 202", "7 How. Pr. 208", "72 Hun, 456", "9 N. E. 56", "9 N. Y. Supp. 591"]
+---
+
+# Walker v. Gardener
+
+## Majority (Forbes, J.)
+
+Forbes, J.
+This is a motion for the confirmation of the referee’s report in each of the foregoing entitled actions, in favor of the executor,. dismissing the claim, and awarding disbursments and referee’s fees to the executor, the prevailing party.
+With the motion for a confirmation of the report is also made a motion for costs in each of said actions, to be awarded to the defendant, the executor, as the prevailing party, as a matter of right under § 3229, Code of Civil Procedure. The question is the same in each case.
+It is submitted, on the part of the executor, that, because he has'defeated the claim which was referred under the statute', he is entitled to costs under § 3229 of the-Code of Civil Procedure, as of course.
+This is a special proceeding, a reference under the statute of a disputed claim rejected and referred. Hallock v. Bacon, 21 Civ. Proc. Rep. 255; 40 St. Rep. 764; 64 Hun, 90; 45 St. Rep. 485; Hendricks v. Isaacs, 52 Hun, 100; 22 St. Rep. 563; reversed on other grounds, 117 N. Y. 411; 27 St. Rep. 449 ; Denise v. Denise, 110 N. Y. 568; 18 St. Rep. 373. Many cases have been cited in the briefs of counsel for the respective parties where the contest was determined in favor of the claimant, and in each case it has been held that, unless the claim was unreasonably resisted, or payment thereof neglected, and a certificate to that effect was made by the court or the referee, the only recovery which could be had was for referee’s fees and disbursements in favor of the party so prevailing.
+No cases have been cited by either counsel, so far as I have been able to examine the cases cited, in which the executor succeeded in entirely defeating the claim of the claimant. Yet in each of the cases cited the court practically held that costs were not recoverable as under the Code of Civil Procedure, but could only be recovered under the provisions of the Revised Statutes, or in harmony with §317 of the Code of Procedure, as that section formerly existed before the adoption of the Code of Civil Procedure. Miller v. Miller, 32 Hun, 481; Agar v. Tibbets, 56 id. 274; 30 St. Rep. 456; In re McQueen, 58 Hun, 172; 33 St. Rep. 807; Hallock v. Bacon, 64 Hun, 90; 45 St. Rep. 485..
+In the Hallock Case, Hardest, P-. J., wrote an elaborate opinion, collecting and reviewing all of the cases decided up to' the April term, 1892.
+Of the same character are the cases of Hopkins v. Lott, 111 N. Y. 577; 20 St. Rep. 130; Hawxhurst v. Ritch, 119 N. Y. 621; 28 St. Rep. 675.
+In each of these cases it was distinctly held that costs cannot be awarded against an executor or administrator, except under the Revised Statutes, unless the certificate required by § 1836 of the Code of Civil Procedure has been made, so that all of those cases may be taken as authorities direct that no other provision for costs is made upon a reference under the Revised Statutes when the plaintiff succeeds in establishing his claim.
+Some of the earlier authorities hold that § 317 of the Code of Procedure and the Repealing Act of 1880 destroy the right to costs and disbursements under the statute in references of this character, but that doctrine seems to have been overruled and established to the contrary. Larkins v. Maxon, 103 N. Y. 680; 3 St. Rep. 642, in which case Krill v. Brownell, 40 Hun, 72 ; Sutton v. Newton, 15 Abb. N. C. 452; Overheiser v. Morehouse, 16 id. 208 ; Hall v. Edmunds, 67 How. Pr. 202, are cited and approved.
+Were no other cases reported to aid us in the construction of the statute in reference to a recovery of costs, in defeating the claim, in a proceeding of this character when the executor or administrator -succeeds, the cases of Hall v. Edmunds, 67 How. Pr. 202; Sutton v. Newton, 15 Abb. N. C. 452; Overheiser v. Morehouse, 16 id. 208; Krill v. Brownell, 40 Hun, 72 ; Larkins v. Maxon, 11 Civ. Proc. Rep. 298; 103 N. Y. 680 ; 3 St. Rep. 642 ; and Hallock v. Bacon, 21 Civ. Proc. Rep. 255; 40 St. Rep. 764, might be deemed sufficient in themselves to determine that question.
+In each of these cases it is distinctly held that, “Upon a reference, under the statute, of a claim against the estate of a deceased person, the prevailing party is entitled to recover his necessary disbursements. ”
+These cases seem to unite with those first cited in establishing the fact that costs are not given upon references of this character under any section of the Code of Civil Procedure.
+It may be that the proceeding is intended to be a friendly one, in which a reference is consented to by the stipulation of the parties, upon the order of the court, for the purpose of settling a disputed claim without the hazard or risk of an expensive litigation.
+I find at least one case, the case of Van Sickler v. Graham, 7 How. Pr. 208, affirming the theory advanced by the line of authorities last cited, and holds: “ Where administrators successfully litigate a claim against the estate, referred under the statute, that they are not entitled to costs by the Code, only to disbursements, ^
+The case of Hall v. Edmunds, 67 How. Pr. 202, holds that: “ The Repealing Act, Laws 1880, page 875, subdivision 8, provides that the repeal by that act shall not affect the right of the prevailing party to recover the fees of the referee, witnesses and his other disbursements, upon the reference of a claim against a decedent, under the repealed provisions of the Revised Statutes.” This doctrine is affirmed in the case of Larkins v. Maxon, 103 N. Y. 680; 3 St. Rep. 642.
+To aid this construction, it will be seen by a reference to the foot notes, under § 1836, in Stover’s Hew York Code of Civil Procedure, edition 1893, pages 1705 and 1706, under references “ 1” and “ c,” the following summaries are made:
+“ 1. Where the administrators successfully resist a claim against the estate they are not entitled to an additional allowance or percentage. They are not entitled to costs as in an action given by the Code; they are entitled only to disbursements.”
+“ c. The prevailing party is entitled to recover his necessary disbursements upon a reference under the statute, of a claim against the estate of a deceased person.”
+The case of Van Sickler v. Graham, 7 How. Pr. 208, and many other cases are cited as holding these propositions.
+I am not asked to exercise a discretionary power to award costs, but they are claimed as matter of law. See Babbage v. Webster, 72 Hun, 456 ; 54 St Rep. 863, which seems not to be in harmony with the line of cases heretofore cited.
+The report of the referee in each of these proceedings is, therefore, confirmed, with ten dollars costs of the motion in each case, together with the referee’s fees and disbursements in each case, to be taxed by the clerk of Cortland county, and orders may be prepared accordingly, with leave to the defendant to renew this motion, asking foran allowance of costs in the discretion of'the court.
+The case of Agar v. Tibbets, 56 Hun, 272; 30 St. Rep. 456, is not applicable to the facts in this case. There, costs were asked as a favor to discontinue the action; the application in that case was addressed to the discretionary power of the court.
+Ordered accordingly.
