@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-02-15"
+citations: ["5 Silv. Sup. 525"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Judicial Settlement of Daniel Falls, as Administrator, etc., Respondent, v. Scott G. Falls, Appellant."]
+source_url: "https://static.case.law/silv-sup/5/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2041187
+cites_cases: ["103 N. Y. 157", "103 N. Y. 471", "104 N. Y. 103", "87 N. Y. 550"]
+---
+
+# Falls v. Falls
+
+## Majority (Hardin, P. J.)
+
+Hardin, P. J.
+Section 2545 of the Code of Civil Procedure provides that “ An exception may be taken to a ruling by a surrogate upon the trial by him of an issue of fact, including a finding, or a refusal to find, upon a question of fact, in a case where such an exception may be taken to the ruling of a court upon a trial without a jury of an issue of fact, as prescribed in article 3, of title 1, of chapter 10 of this act. * * * Upon such a trial the surrogate must file in his office his decision in writing, which must state separately the facts found and the conclusions of law. Either party may, upon the settlement of the case, request a finding upon any question of fact, or a ruling upon any question of law, and an exception maybe taken to such a finding or ruling, or to a refusal to find or rule accordingly. An appeal from a decree or an order of the surrogate’s court brings up for review bjr each court to which the appeal is carried each decision to which an exception is duly taken by the appellant as prescribed in this section.”
+In Hartwell v. McMaster, 4 Redf. 389, Surrogate Coffin recognizes the duty of a surrogate to observe the provisions of § 2545 in respect to a separate statement of facts found, and the conclusions of law reached thereon.
+In Angevine v. Jackson, 103 N. Y. 471, it appears that certain findings of fact were made by the surrogate, and conclusions of law thereon, and after referring thereto, Fixch, J., said: “ No exception was taken to any of these findings. The case recites an exception to the surrogate’s degree, and each and every part of it. We have repeatedly pointed out the uselessness of such an exception. Ward v. Craig, 87 N. Y. 550; Hepburn v. Montgomery, 97 Id. 617. It indicates no specific error; it directs attention to no finding, and leaves court and counsel in the dark as to the precise cause of complaint. The case further shows a series of findings which the surrogate was requested to make, and which requests were refused. There was no exception to the refusal.
+“ The contestants appealed, and upon this case, which contained no exception raising any question of fact or law, and in which no errors in the admission or rejection of evidence are even claimed to exist, the general term reversed the decree of the surrogate and ordered issues to be tried by a jury, entirely disregarding the provisions of the Code.
+“ Those provisions point out the practice to be followed with care and precision. Section 2545. The surrogate is required to file in his office his decision, stating separately the facts found and the conclusions of law. Either party may except to the findings of fact or of law, and upon the settlement of the case may request findings, and take exceptions to a refusal, and the appeal brings up for review in the appellate court any question of fact or law thus raised by exceptions taken. The purpose was to assimilate the practice upon appeals from a surrogate’s decree in the prescribed cases to that which regulated appeals from a judgment rendered by a court or a referee, and to substitute a system which would point out specific errors and evolve the exact questions intended to be reviewed. Nothing of this kind was before the general term, and without some exception to some ruling or determination, that tribunal was powerless to reverse.”
+In Hewlett v. Elmer, 103 N. Y. 157, the practice upon the trial by a surrogate’s court is considered, and it is stated that hy § 2545 “ the practice upon a trial hy a surrogate’s court of a question of fact, and the preparation of papers on which an appeal should he heard, are assimilated to the proceedings on and after trial of an action hy the court.” The court of appeals again, in Matter of Hood, 104 N. Y. 103, referred to the practice prescribed by § 2545 of the Code of Civil Procedure, and said, viz.: “ It is the duty of the party appealing to procure to he made such findings or refusals as will present, through appropriate exceptions, the question he desires to argue; if he omits to do this, no question is presented for review.” At page 106 Finch, J., says: “ If he suffers this necessary step to he omitted he will find himself Avithout the means of revieAving the rulings of which he complains.
+Having found the appellant’s practice irregular, we are constrained to allow him an opportunity to apply to the surrogate for a “ decision in Avriting which must state separately the facts found and conclusions of Hav,” in accordance with the requirements of § 2545 of the Code of Civil Procedure. We think the formula for disposition of this case should be the same as that Avliich Ave adopted in Dwight v. Elmira, Northern & Cortland Railroad Company, decided at this term.
+Case sent back for such action and proceeding as counsel may deem advisable.
+Merwin, J., concurs; Martin, J., not voting.
