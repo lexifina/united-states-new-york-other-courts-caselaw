@@ -1,0 +1,57 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-05-09"
+citations: ["46 N.Y. St. Rep. 154", "19 N.Y.S. 123"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John J. Campbell, Resp’t, v. William Ernest, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084230
+cites_cases: ["16 N. Y. Supp. 668"]
+---
+
+# Campbell v. Ernest
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is an action upon a judgment obtained by the plaintiff against the defendant in the supreme court on the 7tli day of July, 1875, for $142.27.
+On the 12th day of September, in the year 1891, Benjamin "McOlung, one of the attorneys for the plaintiff, presented to one of the justices of this court an .affidavit made by himself, in •which he recited the procurement of an order to show cause why the plaintiff should not have leave to sue upon the judgment, and the appearance of the defendant in opposition to the injunction which was then sought to restrain him from any disposition of his,property pending the action, the presentation of an affidavit of the defendant at that time, of which a copy was annexed, the prevalence of the application before the justice who made and signed an order in the action granting permission to the plaintiff to bring this aetiou upon the judgment, and also an injunction restraining the defendant from making any transfer or disposition of his property until the determination of this action; the appeal of the defendant from so much of the order as restrained him from transferring his property, and that such appeal would be argued and disposed of at the general term of the court in Brooklyn, on the 14th of that month. Be uses the following language: “That deponent believes, after reading the said affidavit of William Ernest, a copy of which is heieto annexed, as aforesaid, that should the plaintiff in said action (the plaintiff herein) not be successful in obtaining the affirmance at said general term of the injunction order -referred to in said- former action, that the said "William Ernest, defendant herein, will, during the pendency of this action, dispose of his property referred to in hb said affidavit, with intent to defraud the plaintiff herein, and to render nugatory any proceedings or effort by this plaintiff to obtain payment of his claim in this action.”
+The annexed affidavit of the defendant to which reference is made is as follows:
+JOHN J. CAMPBELL '
+against
+WILLIAM ERNEST.
+OouNTYoF ORANGE,
+ss.:
+City of Hewburgh,
+William Ernest, being duly sworn, says: I. That he is a married man, residing at the city of Newburgh, Orange county, N. Y.
+II. That he cannot remember that a summons was ever served upon him m the above-entitled action, although he cannot deny the fact on oath at the present time.
+III. That he is a sick man, unable at the present time to perform work and engage in business, being afflicted with a serious lung trouble. That deponent’s father died on the 9th day of June, 1891, at Newburgh, N. Y., leaving a very small property in which deponent has a third interest, and in which his wife claims her right of dower. That a partition suit has been brought against deponent to partition or sell said property, and in deponent’s opinion his interest in the property left bv his-said father will not exceed from two to three hundred dollars. The real estate left by his father is mortgaged for $1,500, and consists of a small house and lot in the city of Newburgh, about eighteen feet front and rear by 100 feet deep, and worth not to exceed $2,500.
+IV. That deponent’s said interest in his father’s estate is all the property he has in the world, and includes everything he has for his support, and to keep him in sickness. That deponent’s physician says that he is suffering from consumption; deponent has a severe and constant cough, great weakness, and has been unable to labor since the middle of February last
+V. That it would be a great hardship and affliction to this deponent if the court should restrain him from the use of his property, or make any order that would prevent him from applying it to his necessities during the pendency of the action which the plaintiff herein asks leave to bring.
+William Ernest.
+Subscribed and sworn to before me,)
+this 13th day of August, 1891, f
+F. W. Tompkins,
+Commissioner of Deeds, Oity of Newburgh.
+Upon those affidavits and the pleadings, which are not printed in the appeal papers, but which means only as we assume an ordinary complaint upon a judgment, an order was made requiring the defendant to show cause at a special term of this court at Poughkeepsie on the 19th day of September, 1891, why an order should not be made and entered enjoining the defendant from removing or disposing of his property, or making any disposition of the same during the pendency of this action, not exempt by law from execution, or in any manner to interfere therewith until further order in the premises, and the order also contained a temporary stay until the determination of that motion.
+Upon the return day of that order to show cause the motion was heard and granted, and an order was made enjoining and restraining the defendant from removing or disposing of his property not exempt from execution or making any disposition of the same during the pendency of this action, or in any manner interfering therewith until further order in the premises.
+The defendant has appealed from the order, and we are required to ascertain whether it can be sustained.
+The rule of law by which the validity of the order must be tested is this : “ Where it appears by affidavit that the defendant during the pendency of the action is doing or procuring or suffering to be done, or threatens or is about to do or procure or suffer to be done, an act in violation of the plaintiff’s rights respecting the subject of the action, and tending to render the judgment ineffectual, an injunction order may be granted to restrain him therefrom.
+“ Where it appears by affidavit that the defendant during the pendency of the action, threatens, or is about to remove or dispose of his property, with intent to defraud the plaintiff, an injunction order may be granted to restrain the removal or disposition.” Code of Civil Procedure, § 604, subds. 1 and 2.
+This statute authorizes the interposition of the court and the issuance of an injunction order to restrain the action of a defendant where it appears by affidavit that during the pendency of the action he is doing or procuring or suffering to be done, or threatens or is about to do or procure or suffer to be done an act in violation of the plaintiff's rights respecting the subject of the action, and tending to render the judgment ineffectual; also where it appears by affidavit that the defendant during the pendency of the action threatens, or is about to remove or dispose of his property with intent to defraud the plaintiff.
+It was the design of the law to empower the court to enjoin the commission of some particular act which the defendant was,doing or procuring or suffering or threatening in violation of the rights of the plaintiff respecting the subject of the action, or where he was about to remove or dispose of his property with intent to defraud the plaintiff But it never was intended to authorize the restraint of all sales of property.
+Moreover before any act can be restrained it must be violative of the rights of the plaintiff respecting the subject of the action,, and we may pause here to say that the property of the defendant is not the subject of this action, and no act of the defendant in relation thereto can violate any rights of the plaintiff respecting the same for that reason, and for the additional reason that the plaintiff has no rights in such property and claims none.
+In short, this statute has no application to an action of this character where a monied judgment only is sought It was designed to provide a short and easy method for the procurement of injunctions in equitable actions for relief where the defendant, if unrestrained, would do or suffer some act in violation of the rights of the plaintiff respecting the subject of the action, which would tend to render the judgment ineffectual and nugatory.
+But plainly it applies and can be utilized only in an action involving the rights of the parties to something which constitutes the subject of the action in respect to which the plaintiff claims some rights, and seeks some special relief.
+In no proper or legal sense can a defendant do or permit any act in violation of the plaintiff’s rights respecting the subject of the action in an action on contract for the recovery of money only.
+The plaintiff in such an action has no rights as against the property of the defendant until he obtains a judgment, and until then he has no legal right to interfere with the defendant in the use and sale of the same.
+It would be a new and dangerous innovation to hold that a plaintiff, upon the commencement of an action on an account against a merchant, could procure an order of the court restraining him from selling his goods pending the ¡suit because such sales would diminish the chances for the collection of the judgment when obtained, and yet such is the logical result of the doctrine which would sustain this order.
+Turning now to the affidavit upon which the order was based we find it entirely insufficient to sustain it in any view. It states no fact, and merely says that after reading the affidavit of the defendant the deponent believes he will dispose of the property referred to during the pendency of this action with intent to defraud the plaintiff, and render nugatory any effort of his to obtain payment of his claim in this action.
+How he could imbibe such a belief after reading the affidavit it is impossible to conjecture. Certainly there is nothing in the affidavit tending to. induce such a conviction. The defendant said there that it would be a great hardship to him if the court should restrain him from the use of his property or make any order that would prevent him from applying it to his necessities.
+There is no expression of a desire or intention to sell or dispose of the property, and no statement from which such intention can fairly be inferred.
+But even though the affiant did entertain such belief after he read the affidavit, he could not transfer his credulity to the judge who made the order. That official required facts to convince the judicial mind and upon which he could find that the defendant entertained an intention to make a fraudulent disposition of his property, and it is idle to claim jhat the affidavit contained any statement to justify such a conclusion or upon which the judge could base any action.
+The order should be reversed, with ten dollars costs and disbursements.
+Pratt, J., concurs; Barnard, P. J., not sitting.
