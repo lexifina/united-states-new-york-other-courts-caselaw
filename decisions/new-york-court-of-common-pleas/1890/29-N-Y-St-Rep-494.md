@@ -1,0 +1,26 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1890-02-10"
+citations: ["29 N.Y. St. Rep. 494", "8 N.Y.S. 643", "16 Daly (N.Y.) 15"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary Anderson, App’lt, v. William Cullen, Resp't."]
+source_url: "https://static.case.law/ny-st-rep/29/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 664677
+cites_cases: ["18 Ind. 308", "18 Ind., 308", "23 Ala. 127", "47 N. Y. 134", "47 N. Y., 134", "55 N. Y. Super. Ct. 346", "59 N. Y. 212", "59 N. Y., 212", "96 N. Y. 456", "96 N. Y., 456"]
+---
+
+# Anderson v. Cullen
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+In the court below, the plaintiff tried the action on the common law doctrine that a husband is bound to supply necessaries for his wife, and if he failed to do this she could procure the same on his credit, and that the persons furnishing them could maintain an action for their value against the husband. This doctrine proceeds upon the theory that credit for such purchases is given to the husband, but the complaint in the action avers that the plaintiff, at the request of the wife, loaned and advanced to her the sum of fifty dollars to enable her to pay for these necessaries which it alleges the husband had refused to furnish, and that the money was so spent. This negatives any idea of credit being given to the husband; it was given to the wife and not to him. Since 1884, Laws 1884, chap. 38l, a married woman has been empowered to make all contracts, the same as a feme sole.
+In the many cases decided in this state affirming the wife’s right to contract debts for necessaries in her husband’s name, we do not find any in which a recovery was permitted for moneys loaned to her to buy such necessaries, but the contrary has been expressly held in England and in states adopting the common law, Knox v. Bushell, 3 C. B., N. S., 334; Paule v. Goding, 2 F. & F., 585; Jenner v. Morris, 3 De Gex, F. & J., 45, 52; Zeigler v. David, 23, Ala., 127, 138; Gilbert v. Plant, 18 Ind., 308; and we think the complaint might well have been dismissed in the court below "upon this ground.
+But in that court the defendant set up as a defense to the action, that Eliza Cullen, the wife of defendant, had commenced divorce proceedings against him in 1883, in the superior court of this city, and there obtained a divorce a mensa et thora. In granting the decree, the court for some'reason declined to award her alimony, but inserted at the end of the judgment a provision that in the event of the pecuniary circumstances of the defendant be■coming materially changed an application might be made on the foot of the judgment for such modification of the judgment touching the support of the plaintiff as might be just.
+In 1887, Mrs. Cullen made such a motion, which was granted .at special term, but upon appeal that order was reversed at general term, on the ground that the court had no jurisdiction to award alimony after a final decree had been entered. This decision was clearly right, under Kamp v. Kamp, 59 N. Y., 212; Erkenbrach v. Erkenbrach, 96 N. Y., 456. The latter case arose in this court, although erroneously reported to have been a proceeding in the supreme court, and was for a divorce a mensa et thora, and the general term of this court held that there was no power to grant alimony to the wife after the final decree, although they allowed a provision for the support of the children. On an elaborate review .of the legislation in regard to this matter, and the various decisions under it, the court of appeals affirmed the-order as made by this court.
+But the appellant contends that, notwithstanding this, the husband is still liable for necessaries furnished his divorced wife. In Griffin v. Griffin, 47 N. Y., 134, it is said: “ The wife, when-abandoned by her husband, if she does not resort to an action for divorce, she must rely upon the right which the common law gives her, to obtain necessaries on his credit; ” thus implying that, if she does resort to an action for divorce, she cannot rely upon that common law right, for she has made her election to proceed under the statute, and all questions that might have been determined in that action, including the right of support, are conclusive. And the same thing is implied in Erkenbrach v. Erkenbrach, supra. It is well settled that an allotment of alimony in a divorce proceeding reheves the husband from any liability for necessaries, furnished the wife; and we think it is equally true that where no. allotment of alimony is made in view of all the circumstances of the case, the husband is also relieved from paying for necessaries procured by the wife. However this may be as to parties entirely ignorant of the divorce proceeding, we think it is certainly true-as to the plaintiff in this action, who admitted on the- trial that, she knew the divorce proceeding had been instituted by the wife#, that she was living separate and apart from her husband,.and that, she did not know the husband, from which it follows'that,she. could have given no credit to him.
+We think, therefore, the judgment should be affirmed, with costs.
+Bischoff, J., concurs.
