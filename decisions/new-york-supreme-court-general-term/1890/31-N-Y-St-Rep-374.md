@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-05-26"
+citations: ["31 N.Y. St. Rep. 374"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John A. McDonald, Resp’t, v. The Trojan Button Fastener Co. et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/31/cases/0374-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2036308
+cites_cases: ["47 How. Pr., 532", "79 N. Y., 490"]
+---
+
+# McDonald v. Trojan Button Fastener Co.
+
+## Majority (Learned, P. J.)
+
+Learned, P. J.
+There are two appeals before us in this case. The first is from the injunction order granted by Mr. Justice Fursman; the second from the refusal to appoint a receiver in the motion made before Mr. Justice Edwards.
+Upon a consideration of all the facts before us we think that the injunction order was properly granted and should be affirmed, with costs.
+In regard to the refusal to appoint a receiver, the court required the plaintiff to give security to the amount of $20,000. The court probably considered that the plaintiff, being one of the partners, should, under the circumstances, be allowed to close up the partnership business, on giving proper security.
+.The defendants, however, insist that they could not with any convenience control the action of the plaintiff in such closing up the business, if he should not act properly; that if a receiver were appointed his action would be under control of the court.
+We might, perhaps, appoint the plaintiff receiver and thus obviate the defendants’ objection to the present situation. But there might be this difficulty, viz., that on any sale of the partnership property made by the plaintiff in his capacity of receiver, he would be unable to be a purchaser in his private capacity. He would, therefore, be unable to protect himself against loss on such a sale. ¡1
+Having this in consideration, we think it will be best not tt> ap- • point the plaintiff receiver, and not at the present time to appoint' any receiver. The partnership is ended, and it remains now the duty of the plaintiff, in whose control the property is, to close up the business as expeditiously as may be with due regard to the interests of all concerned.
+In case the plaintiff shall neglect -to perform this duty or shall perform it improperly, it will be the privilege of the defendants to move again, on showing such facts, for the appointment of a receiver.
+Each of the orders appealed from is affirmed, with ten dollars costs and printing disbursements, but with the privilege to defendants, on showing plaintiff’s neglect of duty in closing up the partnership, to renew the motion for the appointment of a receiver and with privilege also to the plaintiff to make the same motion. ■
+Landón and Mayhám, JJ., concur.
