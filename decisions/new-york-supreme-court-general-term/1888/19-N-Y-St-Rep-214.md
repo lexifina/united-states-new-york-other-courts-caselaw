@@ -1,0 +1,37 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-24"
+citations: ["19 N.Y. St. Rep. 214"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alvah Fowler et al., App’lts, v. Ada Ingersoll et al,, Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650608
+---
+
+# Fowler v. Ingersoll
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This controversy involves the construction of the will of one Mary Elizabeth. Henry, which it is claimed by the appellants unlawfully suspends alienation.
+The only portions of the will to which it is necessary to call attention are the ninth, tenth and eleventh clauses, which are as follows:
+Ninth. In the event of my said husband' not surviving me, then and in that event, I give and devise all my real estate that I may own or be entitled to at my decease, situated outside of the city and county of New York, to my said cousins, Ada Ingersoll, Mary and Grace Emeline Ingersoll, and the remainder of my property I will and devise as is hereinafter mentioned and provided, and I then appoint (my husband being dead) Ada Ingersoll and Mary Ingersoll executrices of this my last will and testament, and after provision shall be made for the payment of taxes, assessments and repairs, as provided for in the preceding clauses of this will, then said net income from said New York city property shall be disposed of as follows: ten per cent of the amount of rents collected shall be paid to Ada Ingersoll as and for her trouble and commissions for collecting said rents.
+The said Ada Ingersoll is to have the sole supervision of collecting rents, and of the care, control and management of the property, and said Ada shall be entitled to one-fourth of the remainder of the net rents received, which shall be in lieu of all commissions as executrix of this will. Three-eighths of the remainder of said net reuts shall be paid to Mary Ingersoll, which shall also be in lieu of any commissions that she might be entitled to as executrix of this will, and the remaining three-eighths of said net rents shall be paid over to Grace E. Ingersoll.
+Tenth. In case either of said cousins shall die, the share of the rents of such one or more dying shall be paid over to the survivors for life.
+Eleventh. Upon the death of said cousins one-third of my real estate shall go to the children of Mary Ingersoll, one-third to the children of Ada Ingersoll, and the remaining one-third to the children of Grace E. Ingersoll, and should either of said cousins die without children then the share of such cousin dying shall go to the children of the survivor.
+The husband of Mrs. Henry having died before her these clauses became operative.
+It is a well settled rule in the construction of wills that the intention of the testator must govern and that such intention must be gathered from the will itself and the situation of the testator.
+Citations of authority are of but little avail except so far as such cases establish general rules of interpretation, because no will ever has its fellow.
+It is claimed in the case at bar that the death referred to in the tenth and eleventh clauses of the will referred to death in the lifetime of the testatrix, and that, therefore there was no unlawful suspension of the power of alienation, and this the court below held.
+In arriving at this conclusion we do- not think that the court gave due effect to the language of the eleventh clause of the will. If the provisions in the tenth clause had not been followed by those in the eleventh, the will might have borne the construction put upon it, but the provisions of this last named section show conclusively that the testatrix intended that the estate should not descend until all her cousins were dead.
+By the tenth clause she provides that in case either of said cousins (being three in number) should die, the share of the rents is to go to the survivor for life.
+By the eleventh clause she provides that upon the death of said cousins, one- third of her real estate shall go to the children of each, but if either of the cousins should die without children, then her share should go to the children of the survivor.
+It is plain, taking these two sections together, that there was not intended to be any division until all the cousins were dead. The language is that upon the death of the cousins the real estate shall go, etc.
+There had previously been a disposition of the income during the life-time of all the cousins, and hence during their lives the power of alienation was suspended.
+Taking the two clauses together, the intention of the testator is reasonably apparent, that the cousins were to enjoy this real estate as long as they lived, and then that it should go to their children.
+There is no more reason that the time of death in the tenth clause should refer to during the life-time of testatrix than there is for the words in the eleventh clause to refer to the same time. Yet it is evident that the testatrix did not mean that upon the death of her cousins during her life-time, that their children should inherit, and the words imply that inheritance immediately follows death. The language is upon the death of said cousins, my real estate shall go, etc. Not in case they shall die, but when they die it shall go, which words can only be applicable to death after that of the testatrix.
+The judgment should be reversed and a new trial ordered, with costs to appellants to abide event.
+Daniels and Bartlett, JJ., concur.
