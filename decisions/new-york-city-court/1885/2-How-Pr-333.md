@@ -1,0 +1,28 @@
+---
+court: "New York City Court"
+decided: "1885-09"
+citations: ["2 How. Pr. 333"]
+reporter: "how-pr-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jacob F. Wyckoff agt. John B. Devlin."]
+source_url: "https://static.case.law/how-pr-ns/2/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2290651
+---
+
+# Wyckoff v. Devlin
+
+## Majority (Hall, J.)
+
+Hall, J.
+It is conceded for the purposes of this motion that the plaintiff does not reside in the state of Hew York, but has an office or place in the city of New York where he regularly transacts business in person, and plaintiff claims that under the provisions of section 3268, Code of Civil Procedure, as modified and limited by section 3160, he cannot be •required to give security for costs in an action in this court. Section 3268 provides that the defendant in an action brought •in a court of record may require security for costs to be given ■* * *' where the plaintiff was, when the action was commenced, either: “1. A person residing without the state, or if the action is brought in the marine (now city) court of New York * * * residing without the city or county * * * wherein the court is located.”
+The clear meaning of this provision would seem to be that in actions in courts of record not specially designated, security can be required only when the plaintiff is a non-resident of the state, but in the courts designated by name (including this court), security may be required where the plaintiff is a nonresident of the city or county over which such courts have jurisdiction, without regard to non-residence in the state, and except for the limitation contained in section 3160, no question could arise as to defendant’s right in this action to require plaintiff to give security.
+Section 3160 provides, among other things, that “a plaintiff, who has an office for the regular transaction of business in person within the city of New York is deemed a resident of that city within the meaning of section 3268 of' this act.”
+The language of this section is peculiar; the words “a plaintiff ” mean any plaintiff, without regard to his place of residence. There is no restriction in this regard, and the intention of the legislature seems to have been to treat persons carrying on business in New York city, without regard to their place of residence, precisely the same as residents, so far as allowing them to commence and prosecute actions in this court. And such a construction is no innovation upon •the practice in this court as it existed for several years before the Code of Civil Procedure.
+Prior to 1876 the practice was entirely regulatéd by the Revised Statutes (tit. 2, part 3, chap. 10), which, in general terms, required security to be filed, upon demand, by any plaintiff residing outside of the jurisdiction of the court in which the action was commenced.
+But chapter 136 of the Laws of 1876 (specially applicable to this court), section 51, provides “ where a suit shall be commenced in the court — 1, for a plaintiff not residing within the city and county of Pew York * * * the defendant may require the plaintiff to file security for the payment of the costs,” &o. But subdivision 13 of that section provides : “ The provisions of this section shall not apply to plaintiffs who have a place of business or of stated employment within the city of Pew York, who, for the purposes of this section, shall be deemed residents.” And6 this exemption was without regard to whether or not the plaintiff was a resident of the state; that is provided for by subdivision 14 of the same section.
+It will thus be seen beyond a doubt that at least from 1876 down to the time the Oode took effect a plaintiff having a regular place of business in Pew York, who sued in this court, was not obliged to give security, although a non-resident plaintiff suing in any other court of record was obliged to give such security. This act of 1876 and also the provisions of the Revised Statutes were repealed by the general repealing act (Bliss' Code [vol. 2], 1058 and 1059), but it seems to me a perfectly reasonable conclusion that the legislative intention was substantially to re-enact the provisions of the act of 1876 in regard to actions in this court, and to extend and continue the immunity of that act to all persons doing business regularly in this city.
+If, as contended by defendant’s counsel, the exemption provided by section 3160 was intended to apply only to residents of this state, they have been singularly unfortunate in the use of language; but I do not think that such was the intention,' .as a reference to section 3169 applicable to attachments in this court (sub. 3) will show there was no difficulty in finding language to express the idea contended for by defendant. That subdivision provides “ that the defendant, being a resident of the state, is not a resident of the city of New York, and has not an office within that city where he regularly transacts business in person,” but no such restriction as to residence in the state is found in section 3160. The case of Stephenson agt. Hanson (4 Civil Pro. Rep., 104) has no application ; in that case plaintiff was a resident of Brooklyn.
+I am therefore clearly of opinion that a non-resident of the state of New York, who has an office in the city of New York where he regularly transacts business, in person, cannot be required to give security for costs in an action in this court.
+The motion to set aside the order requiring plaintiff to file security must be granted, with ten dollars costs to plaintiff to abide the event.
