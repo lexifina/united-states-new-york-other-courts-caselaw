@@ -1,0 +1,18 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1881-05"
+citations: ["31 N.Y. Sup. Ct. 661"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Darley Randall, v. The Mayor, etc., of the City of New York."]
+source_url: "https://static.case.law/ny-sup-ct/31/cases/0661-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1916029
+---
+
+# Randall v. Mayor of New York
+
+## Majority
+
+Motion granted, unless appellants file the papers required by rule forty-four with the clerk within forty days and pay fen dollars costs of motion.
