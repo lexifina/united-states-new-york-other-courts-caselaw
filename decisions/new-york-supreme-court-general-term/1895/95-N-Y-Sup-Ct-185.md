@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-06"
+citations: ["95 N.Y. Sup. Ct. 185"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["DyKMAN, J., concurred; BROWN, P. J., dissented."]
+parties: ["Henry A. Powell, as Assignee of John C. Provost, Respondent, v. John P. Schenck, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/95/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8593281
+---
+
+# Powell v. Schenck
+
+## Majority (Peatt, J.:)
+
+Peatt, J.:
+The complaint is on six promissory notes. The answer is that the notes were given to accommodate the payee, who was at the time selling goods to the maker; that the balance of indebtedness was to be adjusted by an accounting, and that the maker had paid more of the notes than the amount of goods delivered.
+Thereupon the plaintiff moves that defendant serve a bill of particulars of the goods delivered, etc.
+We are not able to see that plaintiff requires any bill of particulars. If defendant is not able to prove the notes to be accommodation the plaintiff will get judgment for their face. If defendant proves them to be accommodation the plaintiff will reply by showing the amount of goods delivered. In that case a bill of items from plaintiff might be convenient, but that is not asked.
+Moreover, it is sliown that plaintiff has full books of account, and that defendant did not keep accounts of the transactions, but relied upon those of the other party.
+Order appealed from reversed and motion for bill of particulars, denied, with ten dollars costs and disbursements of appeal.
+DyKMAN, J., concurred; BROWN, P. J., dissented.
+Order reversed and motion denied, with ten dollars costs and disbursements.
