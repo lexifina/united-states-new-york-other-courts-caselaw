@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1892-04"
-citations: ["28 Abb. N. Cas. 190", "28 Abb. N. Cas. 183"]
+decided_precision: "month"
+citations: ["28 Abb. N. Cas. 190"]
 reporter: "abbn-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["HALLOWAY v. DELANO. [Action No. 2.]"]
 source_url: "https://static.case.law/abbn-cas/28/cases/0190-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1970251
-cites_cases: ["101 N. Y. 411", "102 N. Y. 171", "118 N. Y. 219", "122 N. Y. 1", "25 N. Y. 529", "27 Hun, 439", "58 N. Y. 267", "60 N. Y. 609", "60 N. Y. 610", "64 N. Y. 65", "64 N. Y. 71", "68 N. Y. 252", "90 N. Y. 122", "92 N. Y. 262"]
+cites_cases: ["101 N. Y. 411", "102 N. Y. 171", "122 N. Y. 1", "27 Hun, 439", "58 N. Y. 267", "64 N. Y. 65", "90 N. Y. 122", "92 N. Y. 262"]
 ---
 
 # Halloway v. Delano
