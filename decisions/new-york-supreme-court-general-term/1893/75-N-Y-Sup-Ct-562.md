@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-04"
+citations: ["75 N.Y. Sup. Ct. 562"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Wan Brunt, P. J., and Ingraham, J."]
+parties: ["In the Matter of the Application of The Board of Street Opening and Improvement of the City of New York, Relative to the Opening of One Hundred and Twenty-seventh Street from the Boulevard to Manhattan Street. On the Petition of James Baird, Appellant; John Lang and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/75/cases/0562-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2387716
+---
+
+# In re the Board of Street Opening & Improvement
+
+## Majority (Per Curiam :)
+
+Per Curiam :
+The question presented here is as to the ownership of an award made in this proceeding to open One Hundred and Twenty-seventh street in the city of New York from the Boulevard to Manhattan street.
+Thomas Lang was the owner in fee of certain real estate in the city of New York, including two lots of land designated on a map of Manhattanville, made by Adolphus Loss, as lots Nos. 104 and 106. All his estate, both real and personal, he devised to his children by will, which was duly admitted to probate. The children of said Thomas Lang having agreed to make partition of all the real estate of which he died seized, and to convey to each their respective shares, and having agreed that the two lots in question should be conveyed to one of the children' named John Lang, the other children executed a deed, dated the 30th of June, 1875, conveying to him the two lots in question by the following description :
+“ All those two certain lots or parcels of ground situate, lying and being at Manhattanville and known and distinguished on a map of Manhattanville aforesaid, made by Adolphus Loss, City Surveyor, September 15, 1806, by the numbers 104 (one hundred and four) and 106 (one. hundred and six), on the southwesterly side of Manhattan street, bounded northeast in front by Manhattan street, southeast by lot number 108 (one hundred and eight), southwest in the rear by Blackberry alley, and northwest by lot number 102 (one hundred and two).
+“ Being the same premises conveyed to Thomas Lang by Joseph Hussen by deed dated February 1, 1850, and recorded on the same day in the office of the Register of the City and County of New York, in Liber 533 of Conveyances, page 457, excepting therefrom, however, so much of said lots as has been taken for the opening of One Hundred and Twenty-seventh street and the widening of Manhattan street.”
+John Lang and Annie, his wife, by deed dated the 25th day of January, 1877, conveyed the said two lots by the same description to James Baird, the appellant herein.
+At the time of these 'Conveyances, a portion of the lots, as shown upon the Loss map, had been taken for the widening of Manhattan street; and prior to the time of those deeds, One Hundred and Twenty-seventh street, between Manhattan street and the Boulevard, was laid out by the. commissioners of streets and roads on a map filed by them on the 1st of April, 1811, under' and pursuant to chapter 115 of the Laws of 1807, but no proceedings had been taken to condemn the land included in One Hundred and Twenty-seventh street, or to actually appropriate it for street purposes. Subsequently this proceeding was commenced to condemn the land included in One Hundred and Twenty-seventh street, which embraced a portion of these two lots in question, and an award was made to the owners of such portion of these two lots as was included in One Hundred and Twenty-seventh street, and the order appealed from gave to the heirs at law of Thomas Lang, the testator, the award thus made.
+The question to 'be determined is, whether, by the deed from the heirs at law of Thomas Lang to John Lang, the portion of the two lots in question included within the bounds of One Hundred and Twenty-seventh street was excluded from that conveyance. The court below held that it was excluded. from the conveyance, and remained vested in the heirs at law of Thomas Lang.
+We think, however, it was not the intention of the parties to that deed that any portion of the two lots Nos. 104 and 106 on the Loss map, to which they still had title, should be excepted from the conveyance; that all that was intended to be excepted was those portions of the lots to which they had lost title by reason of the proceedings of the city in actually taking them for 'street purposes. The language used clearly implies that the exception was to relate only 'to so much of the lots as had been, before the execution of the conveyance, actually taken for the opening of these streets, and not to any portion of the property which might in the future be taken for the opening of the streets in question. There was nothing to show that the grantors had any intention to reserve these small pieces of land that in the future would be necessarily taken for One Hundred and Twenty-seventh street. So far as appears, they owned no property in the vicinity to which these pieces of land could be useful, and in the face of the clear language used, we fail to see how any other intention could be implied.
+The order appealed from should, therefore, be reversed, and the amount of the award directed to be paid to the appellant, with costs and disbursements in the court below, and ten dollars costs on this appeal and disbursements.
+Present — Wan Brunt, P. J., and Ingraham, J.
+Order reversed and the amount of the award directed to be paid to the appellant, with costs and disbursements in the court below.
