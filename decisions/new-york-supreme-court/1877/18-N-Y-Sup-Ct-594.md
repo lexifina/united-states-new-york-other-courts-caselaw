@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1877-09"
+citations: ["18 N.Y. Sup. Ct. 594"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["LeaeNed, P. J., concurred ; BoardmaN, J., taking no part."]
+parties: ["ISAAC D. SLEIGHT, Respondent, v. THE CITY OF KINGSTON, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/18/cases/0594-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4449512
+cites_cases: ["16 N. Y., 161", "3 N. Y., 463", "36 N. Y., 54", "37 Barb., 292", "7 Lans., 459"]
+---
+
+# Sleight v. City of Kingston
+
+## Majority (Bockes, J.:)
+
+Bockes, J.:
+That tbe plaintiff bad tbe right to use tbe slip or landing-place described in tbe complaint for tbe purposes of bis ferry cannot be denied, and it is also indisputable that be was in such use at tbe time and times bis right was interfered with and injuriously affected by tbe opening of tbe new sewer. Tbe learned judge before whom tbe case was tried finds, upon sufficient evidence, that a great quantity of dirt, sand and graTel was carried down in tbe new sewer just aboTe tbe plaintiff’s slip, and, by tbe natural action of tbe water thereon, created a bar or obstruction across its entrance, wbicb hindered and preTented him at times from entering it with .bis-ferry boat for tbe reception and discharge of freight and passengers according to bis custom. His right to ferry at this place was sufficiently proTed. He was in tbe actual and undisputed exercise of such right, and bad so exercised it uninterruptedly for a great number of years. Tbe fact that tbe stream crossed by bis ferry was a public highway raised no presumption against bis right to ferry, for be was entitled to use this highway in common with all others for all public and lawful purposes. He might run bis boat on tbe stream, and, with tbe privilege to land, bis right to ferry became complete, on compliance, of course, with tbe law as to license. Actual occupation of the banks of the stream raised a presumption of right to use them for the purpose of the ferry. No attempt was made on the trial to overcome this presumption. But superadded to sucb presumption of right, the plaintiff established his title to the slip alleged to have been injuriously affected by the defendant’s acts by positive grant. The plaintiff’s right to maintain his ferry, and to make landings at the point in controversy, seem well established.
+Thé question then is, whether the defendant unlawfully interfered with the plaintiff’s property and rights.
+There was, as it seems, a diversion of the water from its natural current into and through the new sewer; and there was also a collection of the surface water to some extent, which was turned into it and somewhat increased the volume of its discharge. The waters so gathered were conducted through the sewer and discharged into the creek at a point just above, and in close proximity to, the plaintiff’s slip. Those waters carried down with them great quantities of dirt, sand and gravel, which, from natural causes, were deposited at and across the entrance to the slip, to an extent which at times prevented the plaintiff from entering with his ferry boat to receive and land passengers and freight. Thus were his rights impaired by a serious interruption of his business.
+The city authorities, in the exercise of municipal power could not divert from its natural channel and turn a stream of water upon the plaintiff’s land with impunity. (Bradt v. City of Albany, 12 N. Y. Sup. Ct. Rep. [5 Hun], 592; Thompson v. Allen, 7 Lans., 459 ; Byrnes v. City of Cohoes, 12 N. Y., Sup. Ct. Rep. [5 Hun], 602.) In the last case cited, it was laid down that although public officers should be fully protected in the proper discharge of their' duties, yet when they go so far as to create a nuisance on the land of another, they stand in the same position as private individuals, and it was there further said that if the effect of turning the water on another’s lands, was to destroy his cultivated fields, then it created a private nuisance.
+The same rule of liability would obtain in case surface water arising from rains and snows, was collected into a single channel and cast in large volume upon the premises of another. (Bastable v. City of Syracuse, 15 N. Y., Sup. Ct. Rep. [8 Hun], 581.) The law applicable to misfeasance and non-feasance of municipal corporations and to public officers who may exercise both judicial and ministerial powers, was well considered in this case, and need not be bere further considered. (See Rochester White Lead Co. v. City of Rochester, 3 N. Y., 463 ; Conrad v. Village of Ithaca, 16 id., 158; Richardson v. City of Boston, 19 How. [U. S.], Rep., 263 ; Barton v. City of Syracuse, 37 Barb., 292 ; in Ct. of App., 36 N. Y., 54.) In the case in 3 Comstock, it was said, in substance, that it was tbe duty of a municipal corporation to construct its sewers so that they should not become nuisances ; and in West v. Village of Brockport (16 N. Y., 161, note) the same doctrine is fully enunciated. So, too, Judge Grier says, in Richardson v. City of Boston (supra), that it may be the duty of the city to make drains along or under the streets, but they cannot be so constructed as to create nuisances to the adjoining owners. Within the authorities cited, and there are others of the same import, the learned judge was well authorized to hold the defendant liable on the facts found in this case.
+We are of the opinion that the record discloses no error of which the defendant can justly complain. Judgment affirmed, with costs.
+LeaeNed, P. J., concurred ; BoardmaN, J., taking no part.
+Judgment affirmed, with costs.
