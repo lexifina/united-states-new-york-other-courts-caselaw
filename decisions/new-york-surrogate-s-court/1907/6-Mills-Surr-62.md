@@ -1,0 +1,32 @@
+---
+court: "New York Surrogate's Court"
+decided: "1907-02"
+citations: ["6 Mills Surr. 62", "53 Misc. 201"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement Under the Last Will and Testament of Henry Harteau, Deceased."]
+source_url: "https://static.case.law/mills-surr/6/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1073490
+cites_cases: ["104 N. Y. 618", "111 App, Div. 882", "111 App. Div. 882", "125 App. Div. 710", "82 Hun, 602", "86 App. Div. 303", "95 N. Y. 103"]
+---
+
+# In re the Judicial Settlement Under the Last Will & Testament of Harteau
+
+## Majority (Church, S.)
+
+Church, S.
+By the will of the deceased a trust is created of his entire estate, the income from which is to he paid as therein directed; and, upon the termination of the trust, the money is to he used for the erection of a statute to General Lafayette. Among the property left by the deceased were 160 shares of stock of an insurance corporation. The trustees account for 320 shares of stock, and the life tenant contends that 160 shares, of this stock should be regarded as income of the -estate and not as principal.
+The means by which this stock was doubled are briefly as follows:
+The corporation had in its treasury a surplus of about $200,-000 in cash. For the purpose of embarking in new lines of business, for which it became necessary to increase the amount, of the capital stock, a meeting was held and it was resolved to double the same. Inasmuch as under the statute this stock could only be issued for value, however, it was also resolved that there should be paid to all the stockholders of record a dividend of 100- per cent, in cash out of the surplus and undivided profits; and the various stockholders thereupon with such, money, which was, of course, the exact amount of the new stock issue, purchased the new stock.
+This question is not a new one but has been before the courts-on many occasions. The leading case on the subject is that of" Sproule v. Bouch, L. R., 29 Ch. Div. 635, 653, in which this rule is laid down: “ When a testator or settlor directs or permits the subject of his disposition to remain as shares or stock in a company, which has the power either of distributing its, profits as a dividend, or of converting them into capital, and the company validly exercises this power, such- exercise of its power' is binding on all persons interested under him, the testator or' settlor, in the shares, and consequently what is paid by the company as dividend goes to the tenant for life, and what is paid by the company to the shareholders as capital, or appropriated as an increase of the capital stock in the concern, enures to the-benefit of 'all who are interesed in the capital. In a word, what' the company says is income shall be income, and what it says is capital shall be capital.”
+This decision was followed in this State in Matter of Kernochan, 104 N. Y. 618, and Matter of Rogers, 161 id. 108.
+A recent case is Robertson v. de Brulatour, 111 App, Div. 882, in which the court sums up the rule thus (p. 889) : " I think it is now established that when the profits or surplus of a corporation which it has earned or realized in the management of its business are paid to its stockholders by way of dividends, whether such profits or surplus has been earned before or after the creation of the trust, so long as the amount that is actually -distributed is actual surplus earned, or income or profits made by the corporation in its business and distributed as such, it "is income or profits which go to the life tenant.”
+This case disposes of the claim of the trustee that, as the .amount of this undivided surplus had been earned previous to the death of the testator, it was to be regarded as capital when paid to the stockholders. Therefore, 160 shares of the insurance stock in question have been improperly treated as capital of the estate instead of being handled as income.
+A question also arises here whether under the will there exists an unlawful accumulation, and if so what its effect is upon the rights of the respective life tenants. By the provisions of the will the widow is given a life estate in the realty left by the deceased. At his death he held a mortgage on land owned by his wife, and he directed that no interest should be collected on the mortgage during her lifetime. It is claimed that this constitutes an unlawful accumulation of interest. I am unable to agree with this contention, as it seems to me that the effect is precisely the same as if this mortgage were given to a stranger "to hold in trust and to pay the interest thereon to the widow.
+From the residuum of the estate the trustees are directed to pay a certain 'amount to the widow during her life and also a certain amount to the niece and to the contestant herein. It appears that the sum to be so paid is considerably less than the net income of the estate; and the contestant, therefore, argues that there is an unlawful accumulation.
+Where the provisions of a will are lawful and complete in themselves and the. accumulation arises in consequence of the fact that the income is larger than the sum directed to be paid by the testator, which fact may be occasioned either by the mistake of the testator or by the enhanced income derived from the capital, such direction will not be declared invalid, but -the courts will simply order that the accumulations be paid over to the persons entitled thereto. Tweddell v. New York Life Ins. Co., 82 Hun, 602. The most recent case on this subject is Reeves v. Snook, 86 App. Div. 303. This decision not only upholds the foregoing rule, but declares that the accumulated income shall go “ to the persons presumptively entitled to the next eventual estate.” To the same effect is Cook v. Lowry, 95 N. Y. 103.
+In the case at bar, under the peculiar language of the will, there is no person of whom it can be said that he is entitled to the next eventual estate; and it follows, therefore, that the accumulated surplus should 'be regarded as a fund as to which the decedent died intestate.
+Let findings and decree be submitted in accordance with this opinion.
+Decreed accordingly.
