@@ -1,0 +1,37 @@
+---
+court: "New York Surrogate's Court"
+decided: "1896-04"
+citations: ["2 Gibb. Surr. 54"]
+reporter: "gibb-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Margaret Seitz, Deceased."]
+source_url: "https://static.case.law/gibb-surr/2/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8821790
+cites_cases: ["31 Hun, 458", "98 N. Y. 511"]
+---
+
+# In re the Estate of Seitz
+
+## Majority (Marcus, S.)
+
+Marcus, S.
+Margaret Seitz, who was the executrix of the last will and testament of Charles L. Mary, died in 1895, at Buffalo, N. Y., and Frank P. Manhart was appointed adminis .rtrator of her estate, and also administrator with the will annexed de bonis non of the estate of Charles L. Mary.
+Thereafter an application was made for the removal of said Manhart as administrator of the estate of Margaret Seitz, and .said application was granted, and William B. Frye appointed administrator de bonis non, on the 18th day of February, 1896.
+The administrator de bonis non now seeks to compel the removed administrator to render and settle his account and pay over and deliver all moneys and property which came to his hands.
+, An account has been filed by said Manhart, which .states that no real or personal, property of any kind or nature was left by Margaret Seitz. The administrator de bonis non of Margaret Seitz seeks to charge the removed administrator with the sum of '-$6,857.92 now on deposit in the Erie County Sayings Bank and the Buffalo Savings B'ank of this city.
+It is admitted that upon the death of Charles L. Mary, Margaret Seitz changed the deposits above mentioned to her individual name, Margaret Mary, in 1873; tha't thereafter she was married in 1875 to one Joseph Seitz, and aga.in changed the a.c- ; count to her individual name, the moneys in said banks standing to the credit of. the estate of Margaret Seitz at this time.
+That upon the death of said Mary, she took possession of his property, which consisted of a farm, farm stock, cash, notes and mortgages, which, after being gradually realized on, resulted in the moneys now in the banks,- in addition to a bond and mortgage made by Frank P. Manhart to the deceased, Margaret Seitz.
+. The counsel for Manhart contends that if the property which-came into his hands was property left by Charles.- L. Mary to Margaret Seitz, and which, under the will .of said Mary, he gave to her “to have and to hold the same during her natural life, .with power and authority to sell and dispose of.the same as she shall see fit, or think it to her interest to do so, but at her death whatever property remains, after paying all expenses, shall be -divided into three equal partp, one of these.parts, to. go to her Heirs, and two parts to. my heirs,” then, Margaret Seitz, being-only a life tenant, the remaindermen, or representatives of the Estate of the original testator, are entitled to possession, the title 'vesting in them at once; therefore, the administrator of Margaret Seitz would be accounting i^: this proceeding-without a purpose, and to a court without jurisdiction, the letters upon the-estate of Charles L. Mary having been granted in Genesee-county.
+' It would seem that the controlling question to be determined is, whether the property in the Seitz estate has been fully administered. Are theré creditors with claims against the Seitz estate-in existence ? Has the time for creditors to present their claims-.expired? Can it be said, assuming debts are in existence, contracted by Margaret Seitz in her lifetime, that there are no assets-in this estate from which said creditors could be paid, or would the will of Charles L. Mary, directing one-third part of the remaining amount after the death of Margaret Seitz, which- waste go to her heirs, control to the extent of compelling creditors to present their claims to the administrator de bonis non of the-éstate of Charles L. Mary ?
+■ To whom should Manhart pay the amount loaned of Margaret Seitz upon the bond and mortgage, in which Margaret Seitz is-named as mortgagee individually ?
+Under the ruling in the case of Caulkins v. Bolton, 31 Hun, 458; S. C., 98 N. Y. 511, he could not pay it to himself as administrator de bonis non of the Mary estate, but it would have to be paid to the administrator de bonis non of the Seitz estate, that is, to her personal representatives.
+Who could execute a legal discharge of the mortgage but the-present administrator de bonis non of the. estate of Margaret 'Seitz ? Can there be a question but that the estate of Charles X. Mary is'indebted to Margaret Seitz f;or .commissions allowed her-'“by law in her capacity as executrix, and -who -is to receive the 'same ?
+‘ If it were held that the present administrator de bonis non of the Seitz estate was not entitled to the moneys now in the banks, who could draw tbe same ? Surely, not Manhart, who is removed and without standing, nor could Manhart, in his capacity as administrator with the will annexed, de bonis non, of the Charles L. Mary estate, since the moneys on deposit are to the credit of the estate of Margaret Seitz.
+If the banks with whom the moneys are now deposited refuse to pay the same to any one but the personal representatives of Margaret Seitz, on the theory that the money is credited to the “Estate of Margaret Seitz/’ and, therefore, payable only to her personal representatives, would not their action be upheld within 'the case of O’aulkins v. Bolton, already cited ?
+Assuming that Margaret Seitz had but a life interest in the-estate of Charles L. Mary, of which there can be no doubt, the remaindermen can only take title after proper administration, and it cannot be said that the representatives of Margaret Seitz áre foreigners to this remainder, in its entirety, with the property standing in the name of Margaret Seitz. ,
+The question as to the ownership of these assets is not now to- . be disposed of, and while I have no doubt that the legal representatives of the Margaret Seitz estate may have to account to-the legal representatives under the will of Charles L. Mary be- ' fore the court which issued the letters upon that estate, I am satisfied that the more proper and regular way to relieve Man-hart of any liability would be to have him account and deliver-all money and property to his successor.
+This accounting does not determine any .questions affecting-the Mary estate. They may all be raised between the representatives of both estates in the proper forum.
+A decree may, therefore, be entered, directing Erank P. Man-hart to charge himself with the sum of three thousand six hundred and fifteen ($3,615) dollars, now on deposit in the Erie County Savings Bank, to the Credit of the estate of Margaret -Seitz, and with the sum of three- thousand two hundred and forty-two and ninety- two one hunidred'ths"‘’l('$-3,242.9i2) dollars, now- on deposit' in the Buffalo Savings -Bank, to the-credit of the estate of Margaret Seitz, together with accumulated interest on said sums, if any, and to deliver same to William- B. Erye, the present administrator de bonis non, together with the bond and mortgage executed by him to Margaret Seitz, and now in his possession.
+Ordered accordingly.
