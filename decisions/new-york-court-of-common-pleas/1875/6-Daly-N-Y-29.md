@@ -1,0 +1,28 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1875-04"
+citations: ["6 Daly (N.Y.) 29"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frances Gilbert against Robert Simpson."]
+source_url: "https://static.case.law/daly-ny/6/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1306595
+cites_cases: ["21 How. 356", "3 McCord, 518", "5 Denio, 343", "5 Hill, 182", "6 Whart. 284", "9 Cow. 94"]
+---
+
+# Gilbert v. Simpson
+
+## Majority (Daly, Chief Justice.)
+
+Daly, Chief Justice.
+The object of requiring the witness Charles Gilbert to sign his name, was for the purpose of submitting his signature to an expert, that the expert might compare it with the signature to the document subscribed by the person to whom the ring was given, that the expert might be afterwards called and asked whether the handwriting in both were the same. It has been held in many cases in this State, that such evidence is not admissible ( Wilson v. Kirkland, 5 Hill, 182; People v. Spooner, 5 Denio, 343 ; Jackson v. Phillips, 9 Cow. 94; Jackson v. Van Dusen, 5 Johns. R. 155; Tilford v. Knott, 2 Johns. Cases, 211). In Haskins v. Stuyvesant (Anth. N. P. 132, 2d ed.), the acknowledged signature of the defendant was offered for the purpose of comparison, and although many witnesses had previously sworn that the signature to the note was genuine, and many that it was a forgery, the court would not allow the evidence offered for the purpose of comparison. In Ellis v. The People (21 How. 356), a comparison with a signature admitted to he genuine was not allowed, and in The King v. Eaton (4 Esp.), the court would not allow evidence of a comparison with the acknowledged handwriting of the defendant; and to the same general effect are the English cases of Doe v. Newton (5 A. & E. 514) ; Doe v. Suckermore (Id. 703); Eagleston v. Kingston (8 Ves. 773); Gannel v. Alexander (4 Esp. 37).
+In the cases referred to in this State, the English authorities have been followed; but in many of the States this kind of evidence has been held to be admissible, although in New Hampshire and South Carolina it is limited to the purpose of turning the scale in doubtful cases, and in Pennsylvania to papers conceded to be genuine or concerning which there is no doubt (Baker v. Haines, 6 Whart. 284; The State v. Carr, 5 New Hamp. 367; Boman v. Plunkett, 3 McCord, 518; Duncan v. Beard, 2 Nott & McCord, 401). In reference to the rule generally prevailing in this country, Greenleaf remarks that “ the admissibility of some evidence of this kind is now too well established to be shaken” (1 Greenleaf Ev. § 576).
+The reasons that have been given for the total exclusion of this kind of evidence are that, 1, the jury may be too illiterate to judge of evidence of this description ; 2, that selected specimens of the party’s handwriting may be unfairly chosen; and 3, that the proof of the genuineness of the specimen offered may be contested and lead to a multiplicity of collateral issues (Jackson v. Phillips, 9 Cow. 94; 1 Greenleaf Evidence, §§ 576, 580), reasons that to my mind are wholly unsatisfactory. Evans, in his edition of Pothier on Obligations (vol. 2, p. 184), whilst admitting that it is settled by the English cases, that the comparison of an admitted writing with a disputed writing cannot be allowed, even with the assistance of persons skillful in the examination of handwriting, remarks, that where a comparison is made with an undisputed original, applied with the skill and experience of persons habitually devoted to such inquiries, it is a matter of technical caution, and that it is a violation of a party’s rights to reject the assistance which such an investigation may naturally be expected to afford. “ The anxiety,” says Mr. Anthon, “ of jurors to compare acknowledged with alleged spurious signatures, in cases of supposed forgery, and their manifest dissatisfaction when such testimony is excluded, cannot fail to have made a strong impression on the mind of every advocate ” (Anthon’s Nisi Prius, 134, 2 ed.), and I will add, as the result of my own long experience in trials, that the total exclusion of such evidence, tends rather to defeat than to promote the ends of justice. In England the rule excluding it has been abolished by act of Parliament (17 and 18 Vic. c. 125, C. L. P. Act of 1854, § 27), and comparison of writings proved to the satisfaction of the judge to be genuine, may not only be made by witnesses, but both the writings and the evidence in respect to the comparison may be submitted to the jury. I do not find that the exclusion of it has ever received the sanction of the highest court of authority in this State; but the cases in which it has been rejected are too numerous and have been too long adhered to to be questioned in this court. If they are to be overruled, it must be in the Court of Appeals.
+This being the rule in this State, it would not have availed the defendant, even if the witness had written his name, as the evidence for which it was to serve as a foundation, the comparison of handwriting, would not have been admissible.
+The judgment of the justice, however, should be reversed for his finding in respect to the value of the ring.
+[The Judge here analyzed the evidence as to the value of the ring, and showed that the justice should not have found the value of it to be more than six dollars, and continued:]
+The judgment should be reduced to six dollars, and affirmed for that amount, without costs to either party.
+Eobinbon and Labbemobe, JJ., concurred.
+Ordered accordingly.
