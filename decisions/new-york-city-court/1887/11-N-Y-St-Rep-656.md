@@ -1,0 +1,34 @@
+---
+court: "New York City Court"
+decided: "1887-10"
+citations: ["11 N.Y. St. Rep. 656"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Hillis, App’lt, v. Edward Hine et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/11/cases/0656-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1990184
+cites_cases: ["101 N. Y., 547", "80 N. Y., 46", "81 N. Y., 206", "95 N. Y., 546"]
+---
+
+# Hillis v. Hine
+
+## Majority (McAdam, C. J.)
+
+McAdam, C. J.
+—The complaint having been dismissed, every legitimate inference must be made in the plaintiff’s favor in construing the evidence, for where different inferences are to be drawn it is the province of the jury, and not the court, to determine which are to prevail. Acting upon this rule, we must assume, for the purpose of this appeal, that the plaintiff’s evidence is true, and we are to determine from it whether the plaintiff made out a prima facie case sufficient to require the submission of the action to the jury. The plaintiff established the following facts:
+On March 1, 1881, the plaintiff, who was then seventeen years of age. was in the employment of the defendants, working a machine stamping covers for tin paiJs. The accident complained of happened at half-past nine in the morning. Before the occurrence the plaintiff had difficulty with the press and complained to the foreman who undertook to repair it, and, on his assurance that the press was all light, the plaintiff resumed work upon it, and, in a short time thereafter, met with the accident of which he now complains. He describes the occurrence as follows:
+“I was putting my hand in to put a cover in the press to stamp it when it came down. The punch came down and mashed my fingers. * * * At that tíme I hadn’t my foot near the treadle.”
+It appeared that the press was worked with a treadle. No movement of the foot was required to make the stamp go up. It went up automatically. It required an active movement of the foot to bring it down with sufficient force to impress the mould upon the covers to put them in proper shape. Contrary to the proper and usual working of the machine, the stamp on this occasion dropped down of its own weight while the plaintiff was in the act of putting a cover in the mould, thereby causing the damage to his hand before described. Other.theories of the cause of the injury were assigned and attempted to be shown by the defendants, but we cannot assume that it did not occur in the manner described by the plaintiff or we are met with the unananswerable objection that the different theories were proper subjects for submission to the jury.
+The trial judge, however, disposed of the contention without submitting the question involved, holding in effect that even on the plaintiff’s own showing he had no cause of action. We think this was error.
+The expert Wilson testified that if the machine had been in good order the dye could not have fallen upon the plaintiff’s fingers if he did not touch the treadle, so that the faE must have been caused by some defect in the machine itself. It is .fair to assume from the plaintiff’s testimony that he did not know, tiE the time of the injury, that the defect which caused the injury existed, or that the accident was likely to happen, for the defendant’s foreman had hilled him into a sense of security by the assurance that the defects which he had previously pointed out had been remedied. It is by no means clear from the plaintiff’s evidence that the defect was of that obvious character that was at once patent to the eye and observable by the exercise of ordinary care on his part, and we cannot infer that the plaintiff, by his own act, exposed himself to an injury which maims him for life.
+Upon these facts and inferences to be drawn from them, negligence in the use of the machine by the plaintiff can hardly be imputed to him as of course.
+The evidence made out a prima facie case of negligence on the part of the defendants for failure to furnish good and sufficient machinery for use in the prosecution of their business, and for failure to keep the same m proper order, and repair. Cone v. Del. L. and W. R. R. Co., 81 N. Y., 206; Pantzar v. Mining Co., 99 id., 368; 2 Thomp. on Neg., 944.
+Ignorance by the master of the defects m the instrumentalities used by his servants in performing his work is no defense to an action by the employee who has been injured by them, when, by the exercise of proper care and inspection, the master could have discovered and remedied the defects or avoided the danger incident therefrom. Benzing v. Steinway, 101 N. Y., 547.
+Wilson, the foreman who repaired the machine immedi- ' ately prior to the accident, was émployed by the defendant for the express purpose of making such repairs to their machinery whenever needed, and Wilson stood in the defendant’s place in discharging this duty, and for his neglect therein the defendants are responsible. Benzing v. Steinway, supra; Pantzar v. Mining Co., supra.
+The rule exempting a master from the consequences of an injury caused by the negligence of a fellow workman is inapplicable to the facts of this case. The duty of maintaining machinery in proper repair for the protection of employees, operating it devolved upon the master, and he is liable for injuries resulting from a failure to perform it. This duty cannot be delegated so as to excuse the master from liability for an injury to the servant caused by an omission to perform it, or by its negligent performance; and this, whether the misfeasance or non-feasance is that of a superior or inferior officer, agent or servant to whom the doing of the act or the performance of the duty has been committed. Fuller v. Jewett, 80 N. Y., 46.
+Where an injury to an employee is caused partly by the negligence of another employee and partly by failure of the master to provide proper and suitable apparatus, the negligence of the co-servant will not exonerate the master from the consequences of his own default. Ellis v. N. Y., L. E. and W. R. R. Co., 95 N. Y., 546.
+Applying the principles stated to the case at bar, the evidence offered by the plaintiff was sufficient to send the questions of negligence and contributory negligence to the jury for their determination. They may adopt the theory of the accident which the defendants present, and may find that the defendants performed their full duty in the premises, and were guilty of no act of neglect, or may, perhaps, find that the injury was caused by the plaintiff’s own indiscretion in the use of the machine, but the trial judge had no right to decide these questions.
+It follows that the judgment appealed from must be reversed and a new trial granted, with costs to abide the event.
+Nehrbas, J., concurs.
