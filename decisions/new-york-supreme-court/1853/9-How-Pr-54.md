@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1853-07"
+citations: ["9 How. Pr. 54"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Corning agt. Powers and others, Executors, &c."]
+source_url: "https://static.case.law/how-pr/9/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2195583
+---
+
+# Corning v. Powers
+
+## Majority (Harris, Justice.)
+
+Harris, Justice.
+I am inclined to think that the decision entered in May, 1851, is too imperfect and uncertain to be allowed to stand, without amendment, as the “final determination of the rights of the parties.” It having been referred to the court, at a general term, to give such judgment in the case as ought to have been given at the circuit, it was the duty of that court so to declare that judgment as that the clerk could properly enter it. It should have had all the certainty requisite in a verdict. Suppose, instead of withdrawing the case from the consideration of the jury, it had been submitted to them, with directions to find a general verdict, and to assess the damages, if such verdict should be for the plaintiff, would it be enough for the jury to say that they had found a verdict for the plaintiff, and had assessed his damages at $5,000 and interest from demand ? How could judgment be perfected upon such a verdict 1 Who should determine the amount of the recovery 1 In this case, what amount of interest shall be added to the verdict 1 The maxim, id cerium est, quod certiim reddi potest, cannot apply to such a case. There is nothing by which the clerk can determine, with certainty, what amount of interest the court intended to award. It would not be for him to look into the case to find out, if he could, what the court intended; or, if he had, he would have found merely that the demand to which the court probably referred was made some time within a year preceding the commencement of the suit, and that the suit was commenced some time in the month of May, 1848. To say nothing of the defect in the title of the cause, I regard the directions filed in May, 1851, as entirely insufficient, without amendment, to enable the clerk to perfect a judgment. They do not contain “ a final determination of the rights of the parties.”
+But whether this order should be amended by correcting the title and specifying the amount to be recovered by the plaintiff, thus depriving the defendants of the right to appeal, or whether it should be vacated and a new order entered, is a question which ought not, I think, to be decided at a special term.
+The 27th rule of this court requires all non-enumerated motions, except when otherwise directed by law, to be heard at a special term. I have no doubt of the authority of the court, at special term, to determine questions of practice, even though they involve the regularity of proceedings at the general term. It was no unusual thing in the old supreme court to apply at special term for relief against a rule obtained at a general term. It was only when the relief sought affected the adjudication which had been actually made, that it was deemed necessary to apply for such relief at the general term.' If, in this case, the application had been made to correct the error in the title of the cause, or had involved, any other question not affecting the judgment which had been prono.unced, I do not see that the power or propriety of giving effect to that judgment, by an order at special term, could be questioned. But when, as in this case, the application is to vacate the order directed by the general term, and to declare what was, in fact, the judgment which the general term intended to render in the case, such application should he made at a general term. Even if the special term has jurisdiction—and it may be that it has—it would appear a little unseemly for a court held by a single judge thus to intermeddle with an adjudication made by a court composed of three judges. To avoid this unseemliness, if for no other reason, I think the better practice would be to apply at a general term only for relief against the proceedings had at a general term. Following this suggestion I shall deny this motion, but without costs, and with liberty to the defendants to renew it at the next general term.
+Note.—Application was subsequently made at a general term, and the rule for judgment was vacated, and judgment rendered for the plaintiff for $5,000, with interest from the first day of June 1848.
