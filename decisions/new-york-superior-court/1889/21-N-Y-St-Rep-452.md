@@ -1,0 +1,29 @@
+---
+court: "New York Superior Court"
+decided: "1889-01-07"
+citations: ["21 N.Y. St. Rep. 452"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Ledgerwood Manufacturing Company, App’lt, v. John C. Rogers et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/21/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2017736
+---
+
+# Ledgerwood Manufacturing Co. v. Rogers
+
+## Majority (Ingraham, J.)
+
+Ingraham, J.
+The appellant based his application in the court below, upon the' fact that in consequence of the death of the official stenographer, he had been unable to obtain a. copy of the minutes of the trial, and that he had forgotten the testimony of the witnesses, and was therefore unable to make up the case on appeal, and therefore asked that the-verdict be set aside, and a new trial granted.
+It is within a comparatively short time that stenographers have been used for the purpose of taking notes of the evidence given on trials of actions, and before their use was adopted, counsel for the parties were compelled to prepare the case and bill of exceptions from their notes or recollection of the testimony of the witnesses, and.the proceedings-on the trial, and it is very, certain that no court would have entertained an application for a new trial, on .the ground that in consequence of the failure of counsel to remember the testimony they were unable to properly prepare the case or bill of exception.
+Ho authority is cited to us to show that a new trial was ever granted for such a reason. It was not necessary to insert m the case on appeal all the testimony.
+The questions of fact must be assumed to have been disposed of by the verdict of the jury, and the only question of law that counsel on the argument could state was involved in the case, viz.: that the machinery to recover the purchase price of which the action was brought was accepted and used by the defendant, without objection, for upwards of one month, can be presented to the court on appeal, without the insertion in the case of all the testimony.
+It was the duty of the appellant to make the case, inserting so much of the evidence as he considered material to present the questions involved on the appeal. If the case, as proposed by him, did not fairly present the testimony, the respondent could then propose amendments, and it was then the duty of the trial judge to settle the case.
+That this could have been, so as to preserve all the substantial rights of the appellant, is clear, and this is especially true as so far as appears, there was no exception taken at the trial, either to the admission or rejection of evidence or to the instructions given to the jury.
+This case is very different from the cases cited by the appellant where in consequence of the death or disability of the trial judge the bill of exceptions could not be settled or sealed, and thus the defeated party lost the right to present the case to the appellate court.
+In this case no such result follows from the failure of the appellant to obtain testimony. The appellant’s right to appeal from the judgment still exists, and the only result of the inability to obtain a transcript of the notes of the stenographer was to give the parties a little more trouble in preparing the case on appeal.
+To set aside a verdict on such grounds would be an act of great injustice to the respondent.
+The order appealed from should therefore be affirmed, with ten dollars costs and disbursements.
+Sedgwick, Ch. J., and Freedmam, J., concur.
