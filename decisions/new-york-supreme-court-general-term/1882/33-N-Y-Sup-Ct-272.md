@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1882-01"
+citations: ["33 N.Y. Sup. Ct. 272"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Learned, P. J\\, and Eumsey, J., concurred."]
+parties: ["HARVEY HUNTER, Respondent, v. JAMES HERRICK and Others, Executors, etc., Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/33/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4468629
+cites_cases: ["16 Johns., 89", "5 Hill, 82", "7 Hun, 20", "79 N. Y., 415"]
+---
+
+# Hunter v. Herrick
+
+## Majority (Osborn, J.:)
+
+Osborn, J.:
+This action is brought on a promissory note made by L. Yandenburgh & Co. The complaint alleges that defendant’s testator, Castle W. Herrick, was a partner with Lucas Yandenburgh and Abram Bartlett under the firm name of L. Yandenburgh & Co., and as such was one of the makers of said note; that the partnership property of the firm of L. Yandenburgh & Co., has been exhausted, and that there are no effects of the firm to pay. the balance unpaid on said note; that Castle W. Herrick is dead, and the defendants are the executors, etc., of his last will and testament; that the surviving members of said firm are insolvent. The answer admits the due appointment of defendants as executors, etc., of Castle W. Herrick, deceased, and denies generally every other allegation in plaintiff’s complaint. It also denies specifically that Castle W. Herrick, Lucas Yandenburgh and Abram Bartlett were at any time copartners under the firm name of L. Yandenburgh & Co.
+Upon the trial it appeared that the plaintiff had obtained judgment upon the note in suit against Yandenburgh and Bartlett as survivors of the firm of L. Yandenburgh & Co., and that execution had been issued thereon and returned unsatisfied.
+Lucas Yandenburgh was called as a witness by plaintiff and interrogated as to a conversation between himself and defendants’ testator in reference to the formation of the alleged copartnership between Bartlett, defendants’ testator, and himself. The defendants’ counsel objected to any testimony by Yandenburgh concerning a personal transaction or communication between himself and defendants’ testator tending to show that deceased was a member of the firm of L. Yandenburgh & Co., on the ground that such testimony was inadmissible under section 829 of the Code of Civil Procedure. The court held that such testimony was admissible and overruled the objection, to which the defendants’ counsel excepted. Under this ruling and objection Yandenburgh testified in detail to the agreement between himself and Castle W. Herrick, deceased.
+The appellants’ counsel insists that such testimony was inadmissible, and that the ruling of the court below was error for which the judgment should be reversed. Was Yandenburgh a “person interested in the event” of this action, and consequently within the prohibition of section 829 of the Code of Civil Preeedure ? We think he was within the letter and the spirit of the statute, and that the testimony objected to should have been excluded.
+Our statute in removing the disqualification of parties and persons interested in an action, makes special exceptions as stated in section 829 of the Code of Civil Procedure; hence in such exceptional cases we must adopt the common-law rule as to what is sufficient interest in the event of an action to disqualify a witness.
+In Marquand v. Webb (16 Johns., 89), the action was to recover for repairs performed by the defendants in error upon a certain privateer, of which the plaintiff in error was charged to be a part owner. On the trial one Gomez, a part owner of ,the vessel, testified for plaintiff that defendant was also a part owner. On this ground the judgment was reversed. The court says: “ lie (Gomez) was undoubtedly interested to render the burthen upon himself as light as possible and to throw it on the defendant in part. * * * The witness (Gomez), being confessedly, by his own admissions on-the voir dire, a part owner, would be answerable in contribution, and his interest in making the defendant below an owner was promoted by increasing the number of those chargeable and thereby mitigating his own loss.”
+In Pierce and another v. Kearney (5 Hill, 82), the action was to chaise the defendant as a stockholder of the Rossie Galena Company for a demand contracted by the company. The action was under a provision of the charter of the corporation, which makes the stockholders ultimately liable, jointly and severally, for a demand contracted by the corporation. On the trial one Gilbert, who was president of the company, was offered as a witness by the plaintiffs and objected to by the defendant on the ground that he was a stockholder and interested in the event of the action. The objection was overruled, and Gilbert testified to facts tending to prove defendant a stockholder. Held, error.
+Nelson, Ch.- J., says: “The witness (Gilbert) being jprima facie liable for the whole debt, is called for the purpose of bringing in another to share in that liability ; whereas, for aught that appears, without his testimony the plaintiff would fail, and the whole liability devolve upon the witness. And there is this further reason in the case of a joint demand, viz.: that the recovery would extinguish the original liability and cut down that of the witness to a simple claim of contribution.”
+In the case cited, the authorities on a disqualifying interest are carefully reviewed, and seem by analogy to hold that one in the position of Yandenburgh is within the common-law prohibition, and hence within the provision of our statute. Andrews v. National Bank of North America (7 Hun, 20); Le Clare v. Stewart (8 id., 127); Richardson v. Warner (13 id., 13); Rill v. Hotchkin (23 id., 414); Wilkins v. Baker (24 id., 32); Church v. Howard (79 N. Y., 415), are the more recent authorities cited by the learned .counsel for the appellant, and which hold substantially the same doctrine.
+The testimony of Yandenburgh is the only positive proof that the defendant’s testator was a member of the firm of L. Yandenburgh & Co. Yandenburgh was of necessity “ interested in the event” of the action, in that it might establish a liability on the part of the defendants to contribute towards the discharge of the indebted-' ness of the firm of L. Yandenburgh & Co., of which he, Yandenburgh, was a member. His interests were hostile to the defendants.
+The judgment and order should be reversed, and a new trial granted, costs to abide event.
+Learned, P. J\, and Eumsey, J., concurred.
+Judgment and order reversed, new trial granted, costs to abide event.
