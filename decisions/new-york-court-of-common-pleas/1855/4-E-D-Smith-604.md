@@ -1,0 +1,33 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1855-12"
+citations: ["4 E.D. Smith 604"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Mayor, Aldermen and Commonalty of the City of New York v. William C. Rice."]
+source_url: "https://static.case.law/ed-smith/4/cases/0604-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 884958
+cites_cases: ["1 Denio, 540", "1 Hill, 469", "12 Johns. 122", "13 Wend. 325", "14 Ohio, 586", "24 Pick. 352", "5 Cow. 540", "9 Wend. 577", "9 Wheat. 1"]
+---
+
+# Mayor of New York v. Rice
+
+## Majority (Ingraham, First J.)
+
+By the Court.
+Ingraham, First J.
+(After referring to the facts.)—There can be no doubt, that laying out of view the exclusive rights granted to the lessees, the dockmaster had a right, by the ordinance, to give the order, and a refusal to obey exposed the defendant to the penalty. The ordinance imposing the penalty requires the person having charge of any vessel or small craft, in any of the public slips, when ordered so to do by the dockmaster, to remove the same out of the slip, or from one part of the slip to another, within a certain time.
+Under this ordinance the party in charge of the craft was bound to comply with the direction of the dockmaster, if the order was given in compliance with the ordinance. The dock-master was undoubtedly required to give the defendant a reasonable time within which to comply; but no question is raised upon the legality of the order in this respect.
+It is urged by the defendant that the object of requiring the removal was to put in the slip a sea vessel, which is forbidden by the statute of 1813. (Davies’ City Laws, p. 557.) Whether that was so or not, it furnished no excuse to the defendant for disobeying the order. He had no right to judge of the propriety of the use intended to be made of the slip after the removal had taken place. If the law was violated it imposed a penalty for the offence, but did not authorize the violation of the order to remove by the defendant. It does not appear from the evidence that the bark was either a registered or sea vessel, and if not, then the prohibition does not apply. Although we may suppose she was intended for such use, yet the defendant should have shown that fact by proof, and not left it to mere presumption,
+The main question in this case, however, is, whether the granting of an exclusive use of a slip by lease, deprives the common council of the power of enforcing the ordinances which apply to the public slips of the city.
+I think there can be no doubt that the lease conveyed, not only the exclusive use of the piers, but, by express grant, also, Coenties slip. The meaning of the term slip was defined to be an opening between wharves or piers, by the Supreme Court, in The Corporation of New York v. Scott, 1 Caines, 548; by the Superior Court, in Thompson v. The Mayor, &c., 3 Sand. 498; and by this court, in Marshall v. Vultee, 1 E. D. Smith, 301; and if the mere grant of the exclusive use of this property prevented the legislation of the common council from being operative, then there was sufficient in this lease to prevent the enforcement of the order in this case.
+In disposing of this question, it is necessary to separate the powers of the plaintiffs in regard to their property from the legislative authority which they possess as the municipal legislature. In grants of their real or personal estate they act with the same rights and powers that an individual does in regard to his property, and subject to the same rules; but such acts cannot, in my opinion, interfere with the proper exercise of their legislative powers, nor prevent the operation of general laws which in their judgment are necessary for the well being and good government of the city. These questions were fully examined in the case of the Presbyterian Church v. The City of New York, 5 Cowen, 538. The judge there says, “ They had no power, as a party, to make a contract which should control or embarrass their legislative powers or duties. Their enactments in their legislative capacity are to have the same effect upon their individual acts as upon those of any other persons or the public at large, and no other effect.” In Coates v. The Mayor, &c., of New York, 7 Cowen, 585, the same doctrine is fully asserted.
+Whatever, therefore, may he the rights of the defendant, or of the company, in the property in question, it is not freed by any grant of the plaintiffs from liability to the operation and control of the ordinances of the common council any more than the property of individuals acquired from other sources. They all hold their property subject to this legislation, and the source of the grant to them makes no difference in the liability.
+There is authority vested in the common council to grant the exclusive use of the slips, wharves and piers for the exclusive use of steamboats, or any other class or description of ships or vessels. (Davies’ Laws of N. Y. p. 705.) But that statute does not authorize granting such exclusive use to an individual for his own purposes; nor can the power there conferred be executed by a grant of a lease for that purpose. The statute requires that it shall be done by passing laws or ordinances, or, in other words, by the common council, in their legislative capacity, and not by the corporation in the management of their real estate. This legislation took place by ordinance, and this slip was thereby appropriated to vessels or small craft belonging to persons residing in New York, New Jersey or Connecticut, and trading to this city. (Rev. Corp. Ords. p. 337.)
+The provisions of the statute, and the ordinance in pursu anee of it, cannot be rendered nugatory by any exclusive grant to an individual made by the corporation, but not in their legislative character, nor by ordinance or law; and whatever grant is so made by them, must be taken subject to the general legislation, or relating thereto.
+I forbear expressing any opinion as to the power of the common council to grant to individuals the exclusive use of the piers and slips for their private purposes. It is not necessarily involved in this case further than to say, it cannot be done by a grant of such use by deed, in any way to avoid the operation of their general laws.
+Whether they could, in any event, make such a grant by a law or ordinance, need not now be decided, inasmuch as no ordinance to that effect has been shown by the defendant ever to have been passed.
+Judgment affirmed.
+The defendant proceeded to trial in the court below, without counsel— Rep.
