@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-03"
+citations: ["84 N.Y. Sup. Ct. 71"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, Haight and Bradley, JJ., concurred."]
+parties: ["Martin D. Chace, Appellant, v. The Kerr Salt Company, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/84/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1928115
+---
+
+# Chace v. Kerr Salt Co.
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+The action was for a perpetual injunction to restrain the defendant from maintaining a certain dam or obstruction to the waters of Allen’s creek in the town of Gainesville in Wyoming county, and from diverting the waters of said stream from their natural channel, and from doing any act by which those waters shall be prevented from flowing in their natural channel to the plaintiff’s mill.
+The plaintiff is the owner of a small grist mill situated on Allen’s creek in the town of Warsaw; the defendant’s salt works are situated in the town of Gainesville higher up on the same stream. There are, under the surface of the earth at that point, immense deposits of rock salt, in strata of from fifteen to fifty feet thick, and at the depth of more than 2,000 feet. These are the sources of the defendant’s supply of raw material, and the means employed in raising it to the surface is the forcing of fresh water down to the deposit through wells bored for the purpose, and pumping it out again when saturated with salt. The brine thus obtained is evaporated in pans heated by steam, and the motive power of the entire works is derived from steam, all of which is produced from the water of the creek.
+These are the several uses which are made of the waters of Allen’s creek as it passes through the premises of the defendant, of which the plaintiff complains, and it is contended on the part of the plaintiff that by such uses the water of the creek has been sensibly and materially diminished in its flow to and upon the premises of the plaintiff, to the prejudice of his rights as a riparian proprietor and to his loss and damage.
+If these facts were established a question might possibly arise whether, under all the circumstances of the case — in view of the character and importance of the enterprise in which the defendant is engaged, and of the fact that none of the water of the stream is diverted into other channels, or in any manner carried away for use elsewhere than upon the premises through which it naturally flows — the use made of the water by the defendant is not a reasonable use, and whether the loss of water to the plaintiff is not dcmvrwm absque vryjuria.
+But the referee has refused to find that - any such effect as that complained of results to the stream from the use made of the water by the defendant, and he has found as follows: “ It is not proven that in and by such use the defendant has perceptibly or materially diminished the natural flow of the waters of said creek as the same were wont to flow through or past the plaintiff’s premises, or the motive power in use by him for the operation of his said mill, or that the defendant in such use has in any manner unlawfully diverted the waters of said stream to the injury or prejudice of the plaintiff.” Of course, this finding is conclusive against the plaintiff’s case and leaves no further question open for discussion if it is to be sustained; and a careful review of the evidence satisfies us that it cannot be set aside. We think that the further finding of the referee to the effect that, substantially, all the water which is withdrawn from the stream on the premises of the defendant is returned to the stream on the same premises, is well supported by* the evidence. As the referee remarks in the brief memorandum of his views of the case, the direct evidence on the part of the plaintiff of a diminished flow of water to his mill, caused by the use of the water above, by the defendant, is of a very indefinite and unsatisfactory character, and the plaintiff is forced to rely mainly in support of his allegation upon the argument that there must be a considerable waste of water in the processes to which it is subjected on the defendant’s premises. But we think this inference is not necessarily to be drawn from the facts established. It is undisputed that all the water withdrawn from the stream by the defendant is either converted into steam in the boilers or evaporated in the process of making salt; and we think that the conclusion of the referee is well founded, that substantially all the steam and vapor of water thus produced is recondensed • on the premises, and either directly conducted, or, in obedience to natural laws, finds its way back into the stream before the premises of the plaintiff are reached.
+Ye think the judgment appealed from must be affirmed, with costs.
+Lewis, Haight and Bradley, JJ., concurred.
+Judgment appealed from affirmed, with costs.
