@@ -1,0 +1,26 @@
+---
+court: "New York Surrogate's Court"
+decided: "1975-01-28"
+citations: ["81 Misc. 2d 9"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Alfred E. Mirsky, Deceased."]
+source_url: "https://static.case.law/misc2d/81/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1287577
+cites_cases: ["187 App Div 87", "2 Misc 2d 191", "205 Misc 962", "264 NY 226", "285 App Div 1149", "309 NY 981", "32 Misc 2d 985"]
+---
+
+# In re the Estate of Mirsky
+
+## Majority (Millard L. Midonick, S.)
+
+Millard L. Midonick, S.
+The proponent of the will moves to strike objections in a probate proceeding and to strike the objectant’s demand for a jury trial.
+Proponent moves to strike paragraphs 5 through 12 of the objections on the ground that the objection is barred by the Statute of Frauds (EPTL 13-2.1) and additionally because the objection, which refers to an agreement to make a will, is not a bar to probate of a subsequently executed will that conflicts with the agreement.
+The court notes that paragraphs 5 through 12 of the objections are based on an alleged agreement to make a will. The court will not at this time- decide the issue of whether or not the objection is barred by the Statute of Frauds; however, the court will grant the application to strike paragraphs 5 through 12 of the objections on the ground that such matter is not properly raised in a probate proceeding. The decision whether there has been a breach of an agreement to make a will must await the ultimate settlement of the account where such matter may be properly raised (Matter of Felter, 32 Misc 2d 985). Under SCPA 1408 the Surrogate is required to admit a will to probate when satisfied as to the genuineness of the instrument and the validity of its execution. This is so, even though the provisions of the will may be inoperative for one reason or another. (Matter of Higgins, 264 NY 226; Freiberger v O’Toole, 2 Misc 2d 191.) The petitioner’s application to strike paragraphs 5 through 12 of the objections is granted without prejudice to the objectant’s right to assert her claim on the accounting or in a civil suit.
+With respect to the motion to strike the demand for jury trial it appears that the objections served on the proponent on October 8, 1974 did not contain a demand for a jury trial. Thereafter, on October 21, 1974, the objectant’s attorney mailed another copy of the objections to the proponent’s attorney with the demand for a jury trial. Proponent alleges that the objectant has failed to comply with SCPA 502 (subd 2) which reads: "Demand for jury, (a) Cases initiated in the court. Each respondent demanding a jury trial must do so in his answer or objections”. Under SCPA 502 (subd 5, par [a], cl [i]) a party waives the right to jury trial by "failing to make a demand under subdivision 2”. Objectant relies on Matter of Beatty (205 Misc 962, revd on other grounds 285 App Div 1149, affd 309 NY 981), in asking the court to deny the application stating that the court pointed out that the demand for a jury trial is not really an amendment to the objections but is a procedural matter which the court can correct separately and apart from the objections. Under the provisions of CPLR 4102 (subd [e]) "Relief by court. The court may relieve a party from the effect of failing to comply with this section [demand for jury trial] if no undue prejudice to the rights of another party would result.”
+The facts show there was no intention to waive a jury trial and that the failure to demand a jury trial at the time of serving objectant’s answer was due to oversight. The delay involved in attempting to exercise the right to a jury trial is negligible and there is "no undue prejudice” to the proponent’s rights. The right of a party to a contested probate proceeding to a trial by jury is a substantial right which should not be lost by mere inadvertence. The motion to strike the demand of contestant for a jury trial is denied. (Matter of Allaway, 187 App Div 87.)
+More generally CPLR 2001 provides: "At any stage of an action, the court may permit a mistake, omission, defect or irregularity to be corrected, upon such terms as may be just, or, if a substantial right of a party is not prejudiced, the mistake, omission, defect or irregularity shall be disregarded.”
+SCPA 502, trial by jury, says: "Each respondent demanding a jury trial must do so in his answer or objections”. (Emphasis supplied.) Nevertheless, Professor David D. Siegel in his Practice Commentary to this section (McKinney’s Cons. Laws of N. Y., Book 58A, SCPA 502, p 420) notes: "See and note CPLR 4102 subd e, however, presumably applicable in the court; it permits the court to relieve a party from an omission timely to demand trial by jury. Reliance on 4102 (e) leaves the matter, essentially, to the discretion of the court, and may therefore not be regarded as any source of automatic relief from an omission to make the jury demand.” The objectant is deemed to have timely filed her demand for a jury trial as of October 17,1974, when objections to probate were filed.
