@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-03-14"
+citations: ["30 N.Y. St. Rep. 834"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Emma Foley v. George Stone, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0834-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669233
+---
+
+# Foley v. Stone
+
+## Majority (Brady, J.)
+
+Brady, J.
+On the 6th of September, 1887, the above-named defendant and respondent Stone was arrested in this action, in. which the appellant Hughes appeared as attorney for the plaintiff. The action was brought to recover damages for an assault, and William H. Ottman and Charles A. Bergemann were the sureties-in the undertaking upon which the order of arrest was obtained and they justified, the former as a householder and the latter as-a freeholder. The summons issued was set aside for irregularity, and subsequently an action was brought on the undertaking and a judgment by default recovered against the plaintiff and one of the sureties, it was supposed, William H. Ottmann, who alone was served with process, the plaintiff being unable to find the other surety at the place named as his address in the undertaking, or elsewhere. In that action a judgment was obtained by default, and an order supplementary for examination of the plaintiff and the surety named.
+There seem to have been two Ottmans, father and son, and the father upon whom the summons was served gave the papers to his attorney Mr. De Castner with directions to appear for him, inasmuch as he did not sign any such instrument as that referred to in the summons and complaint This action Mr. Hughes undertook to defend for Mr. Ottmann upon whom the process had been served and in this he seems to have failed. An investigation by the defendant’s attorney of the facts and circumstances characterizing the commencement of the action and its continuance as far as it went impressed him with the conviction that the defendant Hughes had been engaged in procuring and offering irresponsible sureties upon the undertaking to which reference has been made, with knowledge thereof, and such proof of that charge was made at the .special term as not only warranted but required his punishment, which was accomplished by the imposition of a fine for the amount of the judgment and which was imposed upon the plaintiff, her attorney and the two sureties.
+Upon a reargument of the motion a change was made in the order, but in no wise beneficially affecting the appellant, whose conduct in the opinion delivered by the learned judge on that occasion was censured. Indeed it stated that the affidavits demonstrated on the part of the plaintiff or her former attorney, or both, such a wanton disregard for truth and the sanctity of an oath as should subject the guilty party to criminal prosecution.
+A careful perusal of the testimony leads to the conclusion that -the charge against Hughes was established by the evidence. It is not deemed necessary to go into details; such a course would ■only make the charge more palpable.
+The learned justice in the second opinion delivered felt disposed to extend clemency to both the plaintiff and her attorney, saying he was willing to give them an opportunity to purge themselves of contempt by assisting the defendant to recover from the sureties or otherwise indemnifying him, or in default of doing what was suggested, to be imprisoned. This extended to them all the consideration they were entitled to claim.
+The order appealed from should be affirmed, with ten dollars costs and disbursements.
+Yajst Brunt, P. J., and Daniels, J., concur.
