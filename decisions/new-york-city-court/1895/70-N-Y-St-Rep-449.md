@@ -1,0 +1,20 @@
+---
+court: "New York City Court"
+decided: "1895-10-29"
+citations: ["70 N.Y. St. Rep. 449", "35 N.Y.S. 715", "14 Misc. Rep. 252"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sarah Lynch, Resp’t, v. George W. Lauer, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/70/cases/0449-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2121841
+cites_cases: ["74 N. Y. 531"]
+---
+
+# Lynch v. Lauer
+
+## Majority (Fitzsimons, J.)
+
+Fitzsimons, J.
+All agreements made between the parties hereto concerning improvements to be made upon the demised premises were merged in the lease as signed. Wilson v. Deen, 74 N. Y. 531. Therefore the proposed testimony tending to show such agreement was properly excluded by the trial judge. A mere-threat to evict is not duress, within the.contemplation of the law, and the objection to the question at folio 76 was properly sustained. Besides, it appears that the defendant remained in possession of the premises, and paid rent therefor to plaintiff, for three years after the alleged fraud and duress were perpetrated. In our judgment, it was then too late for the defendant to take advantage of such alleged wrongs. It was not the duty of the landlord to-keep the premises in repair, particularly in this instance, because the lease expressly imposed upon the tenant that obligation. The fact that the defendant was served with papers in a dispossessory proceeding by some person claiming title to the premises in question did not relieve him from payment of rent, for it in no way established that a superior title was in some person other than plaintiff, nor did it authorize defendant to question the title of his. landlord. As to the alleged surrender and acceptance of the lease, that question was fairly submitted, on sufficient testimony, to the jury, and decided against the defendant. Finding no error, the-judgment must be affirmed, with costs.
