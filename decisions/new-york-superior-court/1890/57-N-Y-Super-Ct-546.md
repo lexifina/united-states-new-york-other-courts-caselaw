@@ -1,0 +1,27 @@
+---
+court: "New York Superior Court"
+decided: "1890-03-04"
+citations: ["25 Jones & S. 546", "57 N.Y. Super. Ct. 546"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LUCIEN B. TERRY, et al., Respondents, v. HENRY BANGE, Appellant."]
+source_url: "https://static.case.law/ny-super-ct/57/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1691546
+cites_cases: ["10 How. 560", "115 N. Y. 655", "13 Hun, 374", "13 Hun, 382", "18 N. Y. 592", "2 Abb. N. C. 442", "20 Hun, 26", "21 How. 469", "22 Hun, 226", "26 Barb. 569", "28 N. Y. 652", "33 N. Y. Super. Ct. 596", "35 Hun, 367", "4 Abb. 435", "4 Hun, 178", "5 Hun, 446", "51 Hun, 423", "8 N. Y. 260"]
+---
+
+# Terry v. Bange
+
+## Majority (By the Court.—Sedgwick, Oh. J.)
+
+By the Court.—Sedgwick, Oh. J.
+The order that the motion below asked to be set aside was made in 1862. The principal objection to it was that it* did not appear that the judge allowing the order had jurisdiction to make it. The argument was based upon the assertion that the face of the order did not recite the existence of facts necessary to jurisdiction. The moving papers did not set out the whole of the record of the supplementary proceedings. The order alone was set out. In some portions of those papers, and in the opposing papers, it appeared that the jurisdictional facts had existed at the time of the making of the order. In the opposing papers, it was shown that the whole of the record disclosed that the necessary facts existed and had been properly averred. The power of the judge was derived from section 298 of the Code of Procedure. The judge having power and jurisdiction to appoint a receiver, all other directions given in the order as to bond and its character, and matters of a like kind, were to be reviewed if they were erroneous, by appeal, or if irregular, by motion. The appellant has been unsuccessful in his former attacks upon the order so far as he has appealed. The irregularity as to the bond was corrected by the order now appealed from.
+Soon after the order was made the receiver began an action to set aside as fraudulent a transfer made by the judgment debtor to third parties. The judgment debtor was made a defendant. He had in that action an opportunity to contest, if not the appointment of the receiver, yet whether by the terms of the order or from what had been done or omitted to be done the receiver had become vested with the cause of action or the right to begin an action upon it. It may be taken for granted that he did not ask, by his motion below, that the receiver should do those things which, being done, would give him the right to bring the action. So far as he asked that the appointment should be set aside he was not entitled to succeed.
+It is not a substantial objection to the order that the title of the action named, “TheN. Y. Superior Court,” instead of “ The Superior Court of the city of New York.” The words used, as they were used in the papers identified the court.
+I do not find that, by the Code of Procedure, notice to the judgment debtor was a condition precedent to the exercise of the power to appoint.
+Whether or not the judgment has been paid is a matter to be determined in the action of the receiver who obtained by his complaint a lien upon such equitable assets as were described in it.
+If it be assumed that the receiver is not a resident, and that is a reason why he should be removed, there should be no removal without that being accompanied by a substitution of a qualified receiver in his. place.
+The order should be affirmed with costs.
+Truax and Dugro JJ., concurred.
