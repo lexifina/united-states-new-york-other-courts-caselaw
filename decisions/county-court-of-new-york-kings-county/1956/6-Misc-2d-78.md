@@ -1,0 +1,21 @@
+---
+court: "County Court of New York, Kings County"
+decided: "1956-11-07"
+citations: ["6 Misc. 2d 78"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People of the State of New York, Plaintiff, v. Angelo Antonelli, Defendant."]
+source_url: "https://static.case.law/misc2d/6/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1011689
+cites_cases: ["2 A D 2d, 776", "276 App. Div. 1087", "279 App. Div. 936"]
+---
+
+# People v. Antonelli
+
+## Majority (Hymah Babshay, J.)
+
+Hymah Babshay, J.
+The defendant pleaded guilty to the crime of criminally receiving stolen goods and on November 22, 1937 was sentenced to a term of imprisonment of not less than 4 and not more than 20 years. He now moves to vacate that sentence and to be resentenced on the ground that he was induced to enter a plea of guilty upon the express promise of the court to sentence him to a term of imprisonment of not more than 5 to 10 years; that he relied on such promise and was deceived by the court’s failure to keep it (People v. Farina, 2 A D 2d, 776).
+At a hearing, granted and held on consent of the District Attorney, the facts adduced disclosed that during the trial, a conference was held among the court, assistant district attorney and counsel for the defendant, at which time the court promised that if the defendant pleaded guilty to the crime of criminally receiving stolen goods, he would receive a sentence of not more than 5 to 10 years and in reliance on that promise, he pleaded guilty accordingly. Thereafter on November 22, 1937, the court imposed the sentence complained of. The defendant’s present confinement in State prison at Auburn, New York is the result of a subsequent conviction. In the case of People v. Farina (supra) the defendant pleaded guilty to burglary in the third degree in reliance on the court’s promise that he would receive a sentence of from 10 to 20 years. Thereafter, he was sentenced to a term of imprisonment of 14 to 20 years and the defendant made an application in the nature of a writ of error coram nobis to vacate the judgment of conviction. After a hearing, the court granted the application to the extent of vacating the sentence but denied his motion to withdraw his plea of guilty and thereafter resentenced the defendant to a term of from 10 to 20 years as originally promised. The defendant objected, claiming he was entitled not only to vaeature of the sentence, but also to the withdrawal of his plea so that he could replead and stand trial. In reversing the County Court, the Appellate Division held, “ ‘While we do not imply that appellant was tricked into entering a plea of guilty, or that the promise made at the time of the entry of that plea was consciously violated, the result, insofar as appellant is concerned, was the same. Such a result, whether caused by inadvertence or design, is inconsistent with due process of law, and the conviction cannot stand.’ (People v. Sullivan, 276 App. Div. 1087, 1088; see, also, People v. Strecker, 279 App. Div. 936.) It is our opinion that in such a case as this a defendant should be given the right either to withdraw his plea and stand trial or else to let his plea stand and accept the sentence originally promised. In this case, appellant objected to imposition of the sentence originally promised and insisted on his right to withdraw his plea and stand trial. As he was entitled to withdrawal of his plea, the resentence was without legal basis and, consequently, was unauthorized (see Code Crim. Pro., § 471).” Here, the defendant merely seeks to be resentenced. This case comes squarely within the rule laid down in the Farina case (supra). The motion for resentence is, therefore, granted. The warden of the institution at Auburn, New York, wherein the defendant is presently confined, is hereby directed to deliver the defendant in civilian clothes to the department of correction of the City of New York, where he shall be confined in the custody of the commissioner of correction who shall produce the defendant before me on December 3, 1956 for resentence. Submit order.
