@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1889-07"
+citations: ["60 N.Y. Sup. Ct. 451"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bartlett, J., concurred."]
+parties: ["CHARLES WOOD, Appellant, v. WILLIAM MITCHELL, Respondent. THOMAS G. MITCHELL, GEORGE M. MITCHELL, MARY H. MITCHELL and TERESA A. MITCHELL, Respondents, v. WILLIAM MITCHELL, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/60/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4577214
+---
+
+# Wood v. Mitchell
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+We cannot concur in the conclusion to which Mr. Justice. Macomber has arrived in this case. It is not necessary to determine-whether, under any circumstances, a confession of judgment might or might not be entered in favor of an infant, or whether the-appointment of a guardian ad litem, nune fro tuno, six months after the entry of the judgment, in any way altered the status of the judgment. It is, however, clear that the plaintiff in the confession might accept or reject the same, more especially in a case* such as the one at bar, where the acceptance of the confession would work a waiver of a tort which the plaintiff, in the confession, had suffered at the hands of the defendant in the confession. The result-would be that, in the case.of an infant, a person who had become, liable on a tort to an infant might confess a judgment in favor of the infant as upon a contract, and place this judgment in the way of other creditors pursuing their remedies against his property,, which judgment the infant plaintiff could repudiate upon attaining, his majority. Such results should not be permitted unless the law expressly authorizes them; and as no. such inference is to be drawn, in favor of confessions for liabilities arising under circumstances such as the one under consideration, the motion to set aside the •confession in the case at bar should have been granted.
+The order should be reversed, with ten dollars costs and disbursements, and the motion granted.
+Bartlett, J., concurred.
+
+## Dissent (Macomber, J.)
+
+Macomber, J.
+(dissenting):
+The appellant, Charles Wood, recovered his judgment against the respondent, William Mitchell, on the 8th day of March, 1888. The judgment in favor of T. G. Mitchell and others, which was upon confession, was entered February 23, 1888, against this defendant. It is urged upon us that the judgment entered by confession should give way in precedence of lien to the judgment entered in favor of Charles Wood, upon the ground of dishonorable practice adopted by William Mitchell in procuring extensions of time and in postponing, by dilatory action, the time of the entry of the judgment against him. But procuring, by stipulation and by orders, time to answer a complaint cannot be deemed a cause for invalidating the lien procured by other parties by confession of judgment or otherwise. It is further claimed that the confession was for moneys owing upon a contract, while the relation of William Mitchell to Thomas G. Mitchell and others was that of a trustee, and that the moneys due them were held by William Mitchell in trust for their benefit, and that, consequently, he had been guilty of a tort in not paying them over. Inasmuch, therefore, it is argued by counsel as there can be no confession of judgment for tort, the judgment assailed is void for the reason above mentioned. A sufficient answer to this contention is that if the cesttA gue trust saw fit to waive the tort and to take a judgment as upon an indebtedness arising upon contract only, they clearly had the right to do so.
+It is further urged that the confession of judgment was void for the reason that the persons in whose favor the judgment was confessed had no legal capacity to take the judgment because they were infants for whom no guardian ad TAtem had been appointed.
+The Code of Civil Procedure does not appear to have provided, specially for the entry of a judgment by confession in favor of infants. Section 469 is as follows: “Before a summons is issued, in the name of an infant plaintiff, a competent and responsible person must be appointed to appear as his guardian for the purpose of the action, who shall be responsible for the costs thereof.” Technically, therefore, it would seem that the Code of Civil Procedure does not exact the appointment of a guardian ad litem for an infant plaintiff except in cases where summonses are issued. The court, however, doubtless has the power in any legal proceeding, irrespective of this provision of the Code, to appoint suitable persons to take charge of the interests of infants in any case, whether instituted against them or in their favor. At what period of the proceeding, in cases of confession of judgment, it would be proper to apply, to the court for the appointment of such guardian, may be a question upon which there might exist a difference of opinion. .But there is no reason apparent why such appointment should precede the making and the filing of the statement under oath of the judgment-debtor which forms the basis of future proceedings. It would appear to me to be a timely application to the court for the appointment of a guardian ad litem in such cases, to apply after the filing of the statement, and at a time before any steps are taken to enforce the judgment which the clerk is required to enter upon filing the sworn statement. Up to this period there would seem to be no particular purpose for the appointment of a guardian, and certainly no liability for costs or otherwise would attach to the infant before a step had been taken to enforce the voluntary judgment record made by the judgment-debtor alone. But there was actually a guardian appointed for the infants on the 3d day of July, 1888. The order appointing such guardian was directed to be entered nunc pro tunc as of February 11, 1888, the date of the statement of the judgment by confession. This order supplied any defect that might have existed in the original proceedings. The failure to appoint a guardian ad Utem was a mere irregularity at best, and could be remedied by a subsequent order of the court. (Rima v. Rossielron Works, 11 Ilun, 153.) •
+The order appealed from should be affirmed, with ten dollars costs and disbursements.
+Order reversed, with ten dollars costs and disbursements, and the motion granted.
