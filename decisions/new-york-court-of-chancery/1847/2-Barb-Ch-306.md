@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1847-06-29"
+citations: ["2 Barb. Ch. 306"]
+reporter: "barb-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Baldwin vs. Latson and others."]
+source_url: "https://static.case.law/barb-ch/2/cases/0306-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1995756
+---
+
+# Baldwin v. Latson
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The statute makes it a criminal offence for an attorney, counsellor or solicitor, to buy any bond, bill, promissory note, bill of exchange, book debt, or other thing in action, for the purpose of bringing any suit thereon. And this provision of the statute unquestionably applies to the purchase of a chose in action for the .purpose of instituting a suit theyeon in equity, as well as to the purchase with the intention of. bringing a suit thereon at law. The case of Hall v. Gird, (7 Hill’s Rep. 586,) only decides that the particular remedy given to the defendant, by a subsequent section of the statute, does not apply to suits in chancery. In this court the suit must be brought in the name of the real owner of the chose in action. And if it has been purchased in violation of a positive prohibition of a statute, the only defence which can be set up here, founded upon such prohibition, is, that the title to the . chose in action did not pass to the complainant by the illegal purchase.and assignment thereof to him. I am inclined to think tha.t would have been a good defence in this case, if this bond and mortgage had been in fact purchased in violation of the statute.
+If the facts are a,s stated in. the affidavit on the part of the complainant, however, I think, the purchase of this bond and mortgage was not an indictable offence within the statute, and that the assignment passed the title to the complainant. The ■ purchase, although within the letter, was not within the spirit and intent of the statute. The object of the statute was to prevent attorneys and solicitors from purchasing debts, or other things in action, for the purpose of obtaining costs by a prosecution thereof, and was never iritended to prevent the purchase for the honest purpose of protecting some other important right of the assignee. Here the fact that the complainant had no interest whatever in the costs of the foreclosure, for his own benefit, and that he was advised by his counsel in the other suit that the purchase and foreclosure of this bond and mortgage were essential to the preservation of the interest which he previously claimed in the mortgaged premises, show that the case was not within the mischief which this statute was intended to guard against. Under the former statute on this subject, which absolutely prohibited' the purchase by an attorney or solicitor, except for certain specific purposes, (Laws of 1818, p. 278, § l,) the supreme court-held "that the purchase of-a judgment for the purpose, of protecting another debt which the . purchaser had against the defendant in the judgment, was not within the mischief of the statute; and that the title to" the judgment passed to him by the assignment. (Van Rensselaer v. The Sheriff of Onondaga, 1 Cowen’s Rep. 443.) There are no reasonable grounds to believe, therefore, that thé defendant would succeed in establishing that thé title of this' bond and mortgage did not pass to 'the ‘complainant by the assigiiment from Reed, even if the decree coüld be opened and "the testimony taken in this cause.
+Again; it is very doubtful, at the least, whether the chancellor has any power to set alside a decree which has been regularly made by the assistant vice chancellor, and to let in the defendant to make out a new case by proof. Thé remedy of the defendant appears to have been, after the order of reference was regularly entered by default, owing to the inadver- ’ tence of counsel, to get the' assistant vice chancellor to stay the hearing of the cause, until an application could "be made to the chancellor to open the order of reference, and the order to close the proofs, and to permit thé testimony to be taken in the'cause. The motion of the defendant must be denied, with costs.
