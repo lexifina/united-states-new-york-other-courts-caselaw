@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-05-23"
+citations: ["32 N.Y. St. Rep. 168"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ann Farmer, Adm’rx, Resp’t, v. Annie E. Devlin, Impl’d, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2039695
+---
+
+# Farmer v. Devlin
+
+## Majority (Van Brunt, P. J.)
+
+Van Brunt, P. J.
+This action was brought by the plaintiff as administratrix of one Henry Fitzsimmons, deceased, of Pennsylvania, to recover from the defendant, The Emigrant Industrial Savings Bank, a balance standing to the credit of the deceased upon the books of the bank.
+The bank having petitioned the court, the defendant Annie E. Devlin was brought in as party defendant, and set up a claim for said moneys under a gift causa mortis from said deceased.
+The issues in the action were referred to a referee, who reported that the defendant Devlin had not established a gift causa mortis and gave judgment in favor of the plaintiff, and from the judgment thereupon entered the defendant Devlin has appealed.
+The main ground of the appeal is based upon alleged errors in the referee’s findings of facts.
+This point might be disposed of upon the ground that as the case does not state, so far as we have been able to discover, that it contains all the evidence, questions of fact cannot be considered, but as no such point is raised by the respondent and questions of fact are discussed upon tlie briefs of both parties, we will consider these alleged errors upon their merits.
+The only evidence tending to establish the alleged gift is that of the husband of the appellant, and possibly somewhat supported by the witness Mary Duffy.
+The story told by the appellant’s husband was disbelieved by the referee, and as he had the witness before him and heard him testify, and could therefore best judge of his credibility from his demeanor upon the stand, his conclusion should not be interfered with unless we should have good reason to think that he erred.
+It is claimed by tlie appellant that no witness having contradicted the appellant’s husband, the referee should have found the gift as established.
+The story of the witness was that in 1874, when the alleged donor was sick with his last illness, he had a conversation with him in his, the witness’ wife’s presence; that he told him he was going to die and told the appellant to bring him a parcel and gave her the key to the trunk; that she brought down the parcel and handed it to the deceased, who took the parcel and opened it and took out the bank books in question and gave them to the appellant. She asked, What am I to do with them ? He said, You keep them; they are for you. He said he thought he was going to die and he wanted everything that was there to belong to her, and in case he recovered he knew that she would give them back to him. The witness further testified that the appellant and her husband, the witness, came back to New York, bringing the books with her, and that they have since been in the possession of herself or her attorney.
+Upon cross-examination, the witness stated that he had had charge, to a certain extent, of his wife’s financial affairs ; that he had never talked over that matter with his wife; never talked over this case with her; never had spoken a dozen words to her about it; that he had never made a memorandum of the amounts shown in the books, and that he never spoke to anybody about, these books until after Father Carew’s (who was the administrator of. the deceased in Pennsylvania) death, which took place in 1886.
+The appellant states that she brought the books in with her; that she had no conversation about them with her husband on the train; did not figure how much there was in the books on the train or ever at. any other time. ' From 1874 up to the year 1888 or 1889, had no conversation with her husband in regard to the books; that she never made any inquiries as to the amounts in the books, and that in her business matters her husband generally acted for her. Thus the appellant kept concealed her possession of these books for nearly fourteen years, speaking to nobody about them except her attorney, not even to her. husband, from the time she received them. It is not at all remarkable that the referee refused to credit this remarkable story. In many of its features it is so palpably incredible that it would be indeed surprising if any intelligent mind could possibly give credence to it.
+There are many other features of the testimony of these witnesses which tend to discredit them, but which we cannot refer to here. Suffice it to say that a reading of the testimony shows that unless the referee was bound to believe the statement of an interested party, which he clearly is not, there is no reason for disturbing his finding that a gift causa mortis was not established. The corroborating evidence, if it may be so called, of Mary Duffy is of little value, as her statements upon her direct and cross-examination show a material variance. Upon her direct she says that when she gave the deceased a drink on one occasion he said, “I gave Annie the books and if I want them back she will give them.” Upon cross-examination the witness states the conversation as follows: “ Annie has got the books and ■ she will dó what is right with them, and she will give them back to me.” Hot the slightest suggestion of a gift, but merely a deposit for safe keeping, can be inferred from this language, even if it be held to refer to the bank books in question at all.
+The whole case being so full of suspicious circumstances we see no reason for disturbing the findings of the referee. Many exceptions to the exclusion of evidence are called to our attention, but most of them relate to the exclusion of declarations of persons deceased or proof of transactions by the appellant with the deceased, and the rulings were proper.
+We have not by any means stated- all the considerations which lead us to the conclusion to which .we have arrived, but enough has been stated to justify such result.
+The judgment appealed from should be affirmed, with costs.
+
+## Concurrence (Barrett, J.)
+
+Barrett, J.
+I concur. ■ The referee, upon all the facts, was justified in declining to give that full credit to the claimant’s husband which was essential to a finding of fact in favor of the gift. It seems to me most extraordinary that the party claiming these bank-books should, if she had faith in her case, have imperiled her rights by the long delay. She knew, as did her husband, that her success depended upon the latter’s testimony, and that his death would leave her substantially without hope. It is a grave thing to refuse credit to an uncontradicted witness, but the circumstances here are so peculiar and unusual that it was not without justification.
+Bartlett, J., concurs.
