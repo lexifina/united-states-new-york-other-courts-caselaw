@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1862-02"
+citations: ["23 How. Pr. 93"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People agt. Simon Katz."]
+source_url: "https://static.case.law/how-pr/23/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2214928
+cites_cases: ["3 Denio, 190", "4 Hill, 133"]
+---
+
+# People v. Katz
+
+## Majority (Sutherland, Justice.)
+
+By the court,
+Sutherland, Justice.
+In indicting, trying and punishing persons who commanded or procured a murder or felony to be committed by another, and were absent when the crime was committed, the common law did not recognize or adopt the principle or relation of principal and agent, but that of principal and accessory, when the person or agent who actually committed the crime was criminally responsible for the crime. (1 Hale, 233, 615; Barb. Cr. L., 2d. ed., 281-2; Wheaton's Cr. L., 4th ed., 112, sec. 134.) This common law principle, and the distinction between principals and accessories before and after the fact, is recognized by the Revised Statutes. (2 R. S., 698, § 67, 1st ed.; id., 727, §§ 48, 49; id., 665, § 31; see also People agt. Bush, 4 Hill, 133; People agt. Adams, 3 Denio, 190; (S. C. 1 Comst. 173.) In misdemeanors, the act or crime may be charged as the act or crime of the party procuring or commanding it to be done without reference to the agency.
+An accessory before the fact is one who procures or commands the felony to be committed, though not present at the time of its commission. (1 Hale, 615.) Although an accessory before the fact, upon conviction, is liable to be punished in the same manner as the principal in the first degree, (2 R. S., 698, § 6,) yet the distinction between principals and accessories is not one of form merely, but is material and founded on principle, and relates to the regularity of criminal proceedings, and therefore one indicted as principal cannot be convicted on testimony showing him to have been only accessory before the fact. (1 Bish. Cr. L., 542; 1 Arch. Cr. Pr. & Pl., 2d ed., 73; Wharton’s Cr. L., § 114; Baron agt. People, 1 Parker Cr. R., 250; Norton agt. People, 8 Cowen, 137.)
+The plaintiff in error in the present case was indicted as a principal' for arson in the first degree. The indictment charged that he, on the 29th day of October, 1860, in the night-time, set fire to an inhabited dwelling-house in the city of New York. Louis Katz, a boy then in his seventeenth year, and a nephew of the prisoner, testified that between ten and eleven o’clock on the night of the 29 th of October, he, in pursuance of instructions of the prisoner, and in his absence, set fire to the building in question, the lower part of which was occupied by the prisoner as a grocery store—the upper part was used as a dwelling. All the testimony showed that the prisoner was absent when the premises were fired. It was proved, on the part of the people, that the prisoner left his store at eight o’clock that evening, and did not return there again that night. There was no evidence that the boy Katz, who actually fired the building, was insane or otherwise criminally Irresponsible for the crime. The judge substantially charged that, although the prisoner was absent at the time of the fire, yet if he instigated Katz to commit the crime in his (the prisoner’s) absence, he (the prisoner) might be convicted under the indictment. Indeed, the whole charge was upon the theory that the prisoner might be convicted as principal, though absent, if he procured or directed the boy Katz to commit the crime. To this charge the prisoner’s counsel excepted. The counsel for the prisoner also requested the court to charge that under the indictment the prisoner could not be convicted unless the evidence showed that he personally fired the building, or Was present aiding or abetting. The judge refused so to charge, and the prisoner’s counsel excepted.
+It is plain on the testimony in this case, that the boy Katz was criminally responsible, and might have been indicted, tried and. convicted as principal. He was sixteen years old, and from aUght that appears from the testimony, of ordinary intelligence. He had but recently arrived in this country, and no doubt, under the ■ circumstances, was very likely to be influenced by his uncle, the prisoner ; but he would not be permitted to plead ignorance of the law, or his uncle’s influence or authority, in bar of an indictment. Although he may have been ignorant of the extent of the punishment for the crime, yet it appears from his own testimony that he knew he was doing wrong; that the act would endanger the lives of others, and that he hesitated about its commission.
+It follows that the prisoner was an accessory before the fact merely, and could not be convicted under the indictment against him as principal, and that the judgment of the oyer and terminer should be reversed.
