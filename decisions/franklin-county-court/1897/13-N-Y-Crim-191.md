@@ -1,0 +1,22 @@
+---
+court: "Franklin County Court"
+decided: "1897-12"
+citations: ["13 N.Y. Crim. 191"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE ex rel. ARCHIBALD McLANE v. EDGAR A. WHITNEY, As Sheriff."]
+source_url: "https://static.case.law/ny-crim/13/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1180041
+---
+
+# People ex rel. McLane v. Whitney
+
+## Majority (BEMAN, J.)
+
+BEMAN, J.
+It appeal’s by the return of the defendant in this matter that he holds the prisoner, the relator, in custody by virtue of a “certificate of conviction,” signed and certified by the magistrate, and which appears to be in due form of law, and in full compliance with section 721 oí the Code of Criminal Procedure. It serves the dual purpose of a certificate of conviction and a commitment of the relator to the custody of the defendant, as sheriff of the county and keeper of the common jail The return shows, in addition, that “ a judgment of conviction was rendered against the defendant, of which said certificate is a copy.” This return is traversed by the relator, and thus two questions are raised for the consideration of this court-It will not be necessary to discuss the question of the sufficiency of the commitment Tiie judgment being assailed, we must consider whether the magistrate had jurisdiction to impose the sentence of imprisonment on the relator.
+It appears that a jury trial was demanded by the relator, and was had before the magistrate, but that the venire issued by him for the purpose of procuring a jury as provided by law was delivered, not to a constable, as required by Code Civ. Proc. § 2993, but to a deputy sheriff, having no authority to execute the same or to summon the jurors. This may not have been fatal, although the action of the justice was irregular in delivering the venire to a person other than a constable; and, had the defendant (relator) deemed it proper to submit to a trial by a jury as drawn and impaneled by the justice without objection, he might not be permitted to avail himself of such irregularity in this proceeding; but inasmuch as he did object to the authority of the justice to draw and impanel the jury, to his jurisdiction, and to all of the proceedings before trial, he fully placed himself in a position to ask relief under this writ. It clearly appears by the records of the magistrate that the relator was deprived of the right of a trial by a legally constituted and constitutional jury, and any conviction under such circumstances must be taken as without his consent; but, in the face of his specific objections, it was error, and his conviction and sentence to imprisonment were without authority of law.
+In view of these facts, it is my opinion that the writ should be sustained, and the relator discharged from further confinement in the jail of the county.
+Ordered accordingly.
