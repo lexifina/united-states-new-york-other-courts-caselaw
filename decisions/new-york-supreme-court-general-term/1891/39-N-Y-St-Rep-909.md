@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-07-02"
+citations: ["39 N.Y. St. Rep. 909"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Judicial Settlement of the Account of Henry R. Gordon, Adm’r with the will annexed of Cuthbert C. Gordon, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0909-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061952
+---
+
+# In re Judicial Settlement of the Account of Gordon
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+—Without a recitation of the facts which led up to his appointment, it is sufficient to say now that Henry R Gordon became the administrator with the will annexed of his father Cuthbert C. Gordon, deceased, after the death of his mother and brother who were named as executors in the will After his appointment as such administrator, Henry R. Gordon applied for an accounting, and the only person entitled to a notice of the application was O. Gordon Bogert, exeeutor of Cuthbert 0. Gordon, deceased. Cuthbert 0. Gordon was a half brother of Henry B. Gordon, being the son of his father by a former wife, but not the son of Henry’s mother, who was .his father’s second wife.
+Bogert appeared in the proceedings and filed objections to the account, and a referee was appointed who examined the same and made a report, which was affirmed by the surrogate, and from that decree we have this appeal.
+But two questions were argued before us, and we assume that the other questions presented by the objections to the account have been abandoned.
+It was insisted before the surrogate, and the same insistence is made here, that the administrator is chargeable with the amount of certain insurance money paid to the widow of the deceased on two policies of insurance upon his life, and also that he is chargeable with certain bank stock.
+The referee found upon the evidence that the life of the testator was insured for $5,000 for the use of his wife Harriet L. Gordon, the mother of Henry, and that the policies contained a covenant to pay the amount to the assured. After the death of the testator, the amount due on the policies, $5,995.93, was paid to the assured, Harriet L. Gordon. She delivered the same to her son Henry on the 5th day of February, 1884, and on the same day he deposited the money in the bank in his own name as agent.
+This statement of the case is sufficient to show that the money derived from the insurance company belonged to the wife of the testator, and never constituted any part of his estate, and as a consequence that Henry E. Gordon did not hold the money as the administrator of his father, but held and owned the same as the sole heir at law of his mother after her death.
+The next question relates to the ownership of the bank stock, and it is sufficient to say upon that subject that soon after the death of his mother Henry ascertained that the bank stock belonged to her, and that he was entitled to the same as her only heir. That claim was laid before his brother Cuthbert and he acknowledged its justice and made a voluntary transfer of the stock to Henry and allowed him a credit for certain shares which had been paid off.
+A question was raised also respecting some Brooklyn bonds, but as it appears that they were purchased with funds received from the insurance company, it follows that they formed no part of the estate of the testator.
+It was the contention of the appellant that the conduct of the parties in respect to the insurance moneys indicated their understanding and belief that they belonged to the estate of the testator, and the claim finds support in the evidence and circumstances, but we find nothing which amounts to a waiver of the rights of the respondent.
+Our conclusion is that the decree should be affirmed, with costs.
+Barnard, P. X, and Pratt, J., concur.
