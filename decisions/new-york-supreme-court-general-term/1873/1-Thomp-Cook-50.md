@@ -1,0 +1,40 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1873-06"
+citations: ["1 Thomp. & Cook 50"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Vandewalker v. Osmer, appellant."]
+source_url: "https://static.case.law/thomp-cook/1/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 299847
+cites_cases: ["1 N. Y. 305", "102 Mass. 220", "11 Cush. 348", "13 Wall. 383", "19 N. Y. 464", "2 Allen, 212", "23 Pick. 256", "3 Sandf. 437", "30 N. Y. 655", "30 N. Y. 682", "32 N. Y. 275", "35 Barb. 241", "41 Barb. 454", "46 Barb. 570", "48 N. Y. 132", "5 Hill, 303", "5 Hill, 69", "5 Wend. 30", "62 Barb. 131", "62 Barb. 84", "7 Barb. 64"]
+---
+
+# Vandewalker v. Osmer
+
+## Majority (Justice Nelson Mullen, P. J.)
+
+Justice Nelson
+delivered the opinion of that court, and says: “ The evidence shows nothing beyond the expression of an opinion on the part of the defendants in respect to the character and quality of the farm in question,” and he then comments upon the facts and adds: “ Ho man of ordinary intelligence could or would regard this as the assertion of a fact which should influence him in the purchase—it did not imply knowledge.” He then proceeds to liken it to the case of a mere expression of .a value of a term, and reaches the conclusion that the facts of the case did not, establish a fraudulent statement of a fact, and for that reason a cause of action had not been shown. “To the extent of the doctrine there decided, there is no case that has qualified or changed the rule which has been claimed to apply to this case.” “ The defendant’s learned counsel next cites Clark v. Baird, 7 Barb. 64, and claims that the doctrine of that case is applicable here. That case was tried a second time and resulted in a verdict for the plaintiff, and was then considered in the court of appeals, and is found reported in 5 Selden, page 183.
+Johnson, J., in his opinion, at page 197, says: “The material injury is as to the fraud and damage, and not as to particular species of property as to which it has been perpetrated,” and cites Whitney v. Allaire, 1 N. Y. 305.
+Gardiner, J., in the case of Whitney v. Allaire, says, the rule in regard to real estate “harmonizes with the law in relation to personal property — requires fair dealing from the vendor in each case, and permits the vendee without a penalty upon his credulity to trust to declarations of material facts within the knowledge of the other party—in a word to treat with the vendor upon the presumption that he is an honest man.” The case of Tallman v. Greene, 3 Sandf. 437, and the case of Leonard v. Pitney, 5 Wend. 30, are substantially overruled by the cases already quoted, and such was the opinion of Allen, J., in respect to them in 35 Barb. 241. The law given to the jury in this case is substantially as stated in ths very able opinion of Justice Mullin in Smith v. Countryman, 30 N. Y. 655. See 32 N. Y. 275. The question, as to whether the vendee was actually deceived, Avas left to the jury by the terms of the charge, and the qualifications in respect to caveat emptor given to the jury in substance as it is laid down in the opinion of Mabvim", J., in Clark v. Rankin, 46 Barb. 570.
+Mullen, P. J.
+There is no error in the charge. The jury were properly instructed as to the law relating to fraud in the sale of property.
+The request to charge presents the question, whether a representation made by a vendor relieves the vendee from the exercise of that care, and caution and observation that he would be bound to exercise if no representation was made, and it seems to me that it may. Reliance is and must be placed in the statements that men make to each other, and there are occasions when they are required to speak, and to speak truthfully, and, notAvithstanding the degeneracy and depravity of the race, there are those who will put reliance on another’s word. And I trust the time is far distant xvhen the courts will be compelled to assume that “all men are liars” and that they must not depend on any thing they may say.
+If reliance is placed on a representation made during the negotiation for the sale of property, it necessarily leads the other party to be less careful than he would be if the representation had not been made.
+The object in asking for the statement of the vendor, as to the quality of property, is to obtain an assurance that it is as the purchaser desires it to be, and not unfrequently for the purpose of being relieved from making the examination which he would otherwise be obliged to make.
+And it is for this reason that the laAV steps in and makes the vendor liable to the vendee for such damages as he may sustain should the statement turn out to be false.
+While it is true that the purchaser may, by relying on the representations of the vendor, be misled, and omit to make that careful examination of the property that a prudent man would and should make, yet a jury should require the clearest proof that the purchaser was induced, by the representation, to omit to examine the property.
+It will not do to permit a vendee having the property before him, and defects in it plainly discernible, to close his eyes and ears and omit to use his senses, and pretend that he relied on the representations and Avas thereby misled.
+In. cases of warranty, an obvious defect is not covered by the warranty, and it is because the law requires the purchaser to examine the property with that degree of care and" skill that men generally are capable of exercising in respect to property they are proposing to purchase.
+The same principles ¡should apply in cases of false representation If the property is not present, the purchaser may rely on the representation ,- but if the property is present and nothing is said or done by the vendor to induce the purchaser not to examine it, and the falsity of the representation is palpable to the senses, the purchaser cannot be permitted to omit examination and justify his omission by the representation.
+Had the plaintiff made the purchase of the farm on the representation made in Watertown, and without going upon the farm, he could, with great propriety, say he relied upon the representation; but when he went on to the farm and had an opportunity to ascertain whether there were daisies upon it, and did not give the slightest attention to them, he ought not to be permitted to recover unless it be true, the daisies could not then be discovered by reason of the drouth or having been eaten b.y the cattle.
+Had the representation been that there was a fine, large, brick house upon it, but in fact it was a log hut, and before completing the purchase the plaintiff had gone to the farm and into the house, would a verdict in his favor for damages by reason of the falsity of the representation be permitted to stand ? I do not think that the evidence in regard to the difficulty in plaintiff’s way of ascertaining whether there were daisies on the farm should be permitted to excuse the plaintiff from the duty to examine in order to discover whether there were or were not daisies upon it. He says he did not, when on the farm, attempt to ascertain whether there were daisies on it because the subject did not occur to his mind, and yet he says, that on two occasions while at the farm he inquired of defendant in relation to them because he “ wanted to be certain; ” “ lie wanted, it strong enough so as to have it all right.”
+The plaintiff admits that he could have seen the daisies in the plowed land, if he had thought to look for them, and such is the evidence in the case.
+I cannot resist the conclusion that -the verdict is, on this branch of the case, without evidence to support it, and it should for that reason be set aside. "
+I do not discover any error in the charge of the court.
+The judgment should be reversed and a new trial ordered, costs to abide the event.
+Talcott, J., dissents.
+So ordered.
