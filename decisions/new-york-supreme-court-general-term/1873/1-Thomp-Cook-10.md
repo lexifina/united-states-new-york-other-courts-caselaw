@@ -1,0 +1,42 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1873-06"
+citations: ["1 Thomp. & Cook 10"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Root v. The Great Western Railway Co., appellant."]
+source_url: "https://static.case.law/thomp-cook/1/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 299918
+cites_cases: ["1 Wend. 394", "10 Bosw. 447", "11 Wend. 127", "12 Barb. 573", "16 Wend. 586", "17 How. Pr. 16", "2 Hill, 537", "2 Sandf. 719", "21 N. Y. 272", "28 N. Y. 153", "30 Barb. 159", "30 Md. 483", "30 N. Y. 497", "31 N. Y. 121", "40 Barb. 119", "48 N. Y. 239", "5 Bosw. 716", "6 Hill, 297", "9 Barb. 601"]
+---
+
+# Root v. Great Western Railway Co.
+
+## Majority (Mullin, P. J.)
+
+Mullin, P. J.
+The new modes of transportation of property that have been brought into use within the last few years have rendered it more difficult than it was before, for an owner to recover of the carrier for the loss of or damage to property received for transportation.
+Before railways were used for the carriage of goods, it was comparatively of rare occurrence that they were required to be transported from one line to another in order to be carried to their destination, and hence the owner was not required to look beyond the carrier to whom he delivered his goods for any loss or injury he might have sustained.
+When the Erie canal was completed and boats were placed upon it to carry property to and from the west, and to run in connection with steamboats on the Hudson river and the lakes, the difficulty which the owners encountered to fasten the responsibility for loss or injury to his goods really began. It is true that the same difficulty theoretically existed when goods were carried by wagons and had to be transferred from one wagoner to another, or from one steamboat to another, but the number of persons through whose hands property was required to pass, and the personal interest each carrier had to protect himself from liability for the misconduct of others, rendered it comparatively easy to fasten liability upon the carrier who should be charged with it.
+But since the business of carrying property passed to corporations and associations. organized for the purpose of transporting goods, not only has the risk of'loss and damage greatly increased, but there is a constantly increasing difficulty to fasten liability upon any company into whose custody property may pass.
+The employees have no personal interest in the protection or prompt dispatch of the goods; facilities for theft have multiplied. These, with the temptation that there is to cover up the wrong in order to protect employers as well as themselves, render it difficult in all cases, and impossible in some, for the injured party to obtain redress.
+The regulations of all companies engaged in the carriage of property require their servants to take from a connecting company a receipt for all property delivered to them, and, by the aid of these receipts, owners ought to be able to ascertain in the possession of which of them the loss or injury occurred. But if these receipts are lost, or destroyed, or withheld, it becomes almost impossible to ascertain which of the companies is properly chargeable. By changing the persons employed in a,ny department of the business of these companies, all means of discovery whether property has been received or forwarded are gone, and the company may laugh at the clamor of the indignant but helpless owner.
+A still greater difficulty lies in the way of the man whose property has been stolen or injured, but the package in which it was inclosed furnishes externally no evidence that it has been opened or the property injured.
+Each. carrier receives it as it comes, and if he delivers it in the condition he receives it, his or its duty is performed. Under these circumstances the owner would be utterly without remedy, were it not for section 67 of the general railroad law (2 R. S. 5 th ed. .693), that provides, that when two or more railroads are connected together, either of the companies receiving freight to be transported to any place on the line of either of the others shall be liable as common carriers for the delivery of such freight at such place. The company so made liable may recover of any other company that was actually liable for the loss or injury.
+This section is so framed as to meet but few of the cases, if it Shall be strictly construed, in which the owner may sustain injury or loss.
+In view of difficulties in the owner’s way in his efforts to obtain relief, it becomes necessary that the courts should so modify the rules of evidence as to render redress possible, while the defendant is not exposed to be charged when liability is not established with reasonable certainty.
+If the same degree of certainty in proof should be required to charge a railroad company with the loss of goods that is required to entitle a plaintiff to recover in ejectment, owners would be, in a large majority of instances, remediless.
+The course of business adopted by connecting lines of railway must be received as competent evidence on the question of the receipt or delivery of property by the one to the other. If books are kept by the agents of a company, in which are entered the receipt and delivery of property by such company, such books, when shown to belong to the company, of which the use by the agent in the company’s business is prima facie evidence, are competent evidence prima fade of the entries therein, and it is'not necessary to prove that an entry is in the handwriting of any agent or servant of the company, provided it be made to appear that the entries have been made in the same handwriting for such a length of time as to satisfy a jury that the persons making the entries were recognized agents of the company, and as such authorized to make such entries. If the entries in the book put in evidence are competent evidence, the receipt of the property by the defendant is satisfactorily established. If, in this case, it was received at Detroit, it must have been taken by the New .York Central Railroad from Victor to Suspension Bridge, and there delivered to the defendant.
+Having received it, it devolved on the defendant to show its delivery to the Michigan Southern, which it has failed to do, and it must be held liable for its value.
+There is nothing in the case to show how the defendant was got into court, whether by attachment of its property and leave given to it to appear, or by service of summons by publication, or personally on one of the officers of the defendant. 3 R. S. (5th ed.) 756, § 13, etc.
+If it appeared after leave granted, it cannot afterward be heard to deny its corporate existence. It must be an existing corporation to be entitled to apply for leave; and if there was service on an officer, or by publication, and there was any irregularity, it should have moved to set it aside. If it appears in the action and answers, it cannot thereafter require the plaintiff to prove its incorporation.
+If, however, the plaintiff was obliged to prove defendant’s incorporation, the laws of Canada were sufficient for that purpose.
+Our statute does not permit a non-resident of the State to sue in our courts a foreign corporation, unless the cause of action shall have arisen, or the subject of it be situated within this State. Code, § 427.
+The plaintiff must be deemed to be a resident of Burr Oaks, Michigan, and the cause of action, the breach of the contract to carry and deliver to the Michigan Southern Railroad, which is implied from the course of business between the connecting roads, occurred in Canada or Detroit.
+In this condition of things the action could not be brought in this State. Cantwell v. Dubuque Western Railroad Co., 17 How. Pr. 16; Brewster v. Michigan Central Railroad Co., 5 id. 183; The Cumberland Coal Co. v. Hoffman Steam Coal Co., 30 Barb. 159.
+It was held in Downes v. Phœnix BanTo, 6 Hill, 297, that the non-residence of the plaintiff, in an action against a foreign corporation, is matter in abatement merely, and is waivéd by appearing and pleading in bar.
+No question was made on the trial that the plaintiff was a nonresident.
+It might be that the plaintiff could prove himself a resident of the State had the question been raised.
+The judgment must be affirmed.
