@@ -1,0 +1,24 @@
+---
+court: "New York Superior Court"
+decided: "1892-07-05"
+citations: ["47 N.Y. St. Rep. 937"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick Michel and Walton Townsend, App’lts, v. James B. Colegrove, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/47/cases/0937-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2087128
+---
+
+# Michel v. Colegrove
+
+## Majority (Gildersleeve, J.)
+
+Gildersleeve, J.
+—In May, 1886, the defendant had and controlled an option for the purchase of a certain mining property, in Colorado, known as the V Caledonia,” at a stipulated sum. It was the purpose of the defendant to find a purchaser for the property before the expiration of the option, at a price that would yield him a profit. Before the option expired, the property was sold to the “ Caledonia Gold Syndicate, Limited,” a corporation organized under the laws of Great Britain, having its place of business in the City of London, England. The plaintiffs bring this action upon an alleged agreement, which, they claim, was entered into between them and the detendant, by which the three became jointly interested in the sale of said mining property. The complaint alleges that it was understood and agreed that each one of them should give his time and attention and best efforts to accomplishing the sale of said mining property, and that all profits and gains, over and above actual and necessary disbursements, should be divided into three equal parts, and that the plaintiffs and defendant should each receive one of said parts. The complaint further alleges that the gains and profits, over and above all necessary and actual expenses attending said sale, amounted to the sum of sixty thousand dollars, which sum the defendant received on behalf of plaintiffs and himself, and it demands judgment that the defendant account to the plaintiffs for said $60,000, and be directed to turn over to the plaintiffs such portions of said profits as they are entitled to receive under the conditions of the aforesaid agreement. The answer denies all the material allegations of the complaint, and sets up a counterclaim for moneys loaned to plaintiffs and services rendered to them. The counterclaim does not appear from the record to have been litigated.
+The case was tried at special term, and, after an exhaustive trial, at which a large amount of evidence was introduced by both sides, the court below ordered judgment i;i favor of the defendant, dismissing the complaint upon the merits. From this judgment the plaintiffs appeal.
+The complaint sets forth a good cause of action and the right of the plaintiffs to recover depended entirely upon the evidence. After a careful examination of the record, the most that can be said on behalf of the plaintiffs is, that there was a conflict of evidence.
+The trial court on the questions of fact found adversely to the plaintiffs; and we are of opinion that the conclusions are fully sustained by a strong preponderance of evidence. _ The learned counsel for the appellants urges several exceptions to the admission or exclusion of evidence as valid; but an examination of the questions raised by these exceptions fails to disclose any error prejudicial to plaintiffs.
+The judgment appealed from should be affirmed, with costs.
+Freedman and Dogro, JJ., concur.
