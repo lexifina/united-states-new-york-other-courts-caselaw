@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court"
+decided: "1875-01"
+citations: ["5 Thomp. & Cook 234"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hinman v. Bowen."]
+source_url: "https://static.case.law/thomp-cook/5/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4463018
+cites_cases: ["20 N. Y. 268", "23 Wend. 309", "55 N. Y. 270", "7 N. Y. 227"]
+---
+
+# Hinman v. Bowen
+
+## Majority (Westbrook, J.)
+
+Westbrook, J.
+Upon the trial of this cause, which took place at the New York circuit held by Mr. Justice Barrett, on the 18th day of April, 1872, the plaintiff claimed to recover the sum of $2,000 with interest, which he had loaned about the 15th day of August, 1867, to the defendant Jason M. Bowen, who was then engaged in the business of importer of fancy goods at No. 43 Maiden lane, ■ in the city of New York. The right to recover against the defendant Nichols was predicated upon a subsequent partnership agreement between Bowen and Nichols, by which the new firm assumed to pay the debts of Bowen, of which this was one:
+The plaintiff was not a party to the contract between Bowen and Nichols, but claimed to recover upon the promise which had been made to Bowen when the partnership was formed.
+Upon the trial the defendant Nichols insisted that he had aright to prove that he was deceived by Bowen as to the assets which were turned over to the partnership, and that if he made any promise, it was void on account of fraud perpetrated by Bowen. This evidence the court excluded, and ruled that any agreement between Bowen and Nichols, or any fraud that was perpetrated by Bowen on Nichols, even if proved, would not under the circumstances operate to prevent the plaintiff from recovering.
+The cause was evidently tried upon the theory that if the debts of Bowen were assumed by the new firm, then the plaintiff could recover without regard to the equities" existing between Bowen and Nichols. The learned judge in charging the jury said: “The simple question for you to determine in this case is, whether there was an agreement between Mr. Bowen and Mr. Nichols in entering into this partnership that J. M. Bowen & Co. should take the assets of Mr. Bowen which he had in the business then existing, and in consideration of taking the assets from him should pay the liabilities of the business then existing. If that agreement was made then the plaintiff is entitled to recover here.”
+It will be observed that the right to recover is not put upon the ground of the adoption and ratification of the contract by Nichols after the discovery of the fraud, if any such fact existed, but upon the simple ground of the original promise.
+Doubtless the court was influenced by the case of Lawrence v. Fox, 20 N. Y. 268, in which it is held that an action lies on a promise made by the defendant upon valid consideration to a third person for the benefit of the plaintiff, although the plaintiff was not privy to the consideration. It would seem to be a corollary from this proposition that a cause of action having accrued' to this plaintiff, he alone could discharge it, and that he should not be held responsible for any fraud in procuring a promise to which he was no party.
+In the recent case, however, of Merrill v. Green, 55 N. Y. 270, the Court of Appeals held that when a partner had given a bond to pay the debts of the firm on receiving its assets, upon an action brought upon such bond by a creditor of the firm to whom it had been assigned, that such obligation and promise not having been made to the creditor bringing the action, but to the other partner-it was subject to the equities existing between the parties to it. In that case it was held that a note given to and owned by the partner assuming to pay the debts by the one to whom the bond was given, was a valid counter-claim against the claim of the creditor suing upon the bond.
+I am unable to distinguish the principle of that case from the one before us. The court in that action held that the bond was subject to the same defense against the plaintiff that it was in the hands of Roberts at the time of the assignment. The good sense of this rule is apparent. There can be no sound reason to hold a party to a promise made for a third person’s benefit, when such promise was procured by fraud any more than to one made directly to another when obtained by the same means. No one should profit through a fraud practiced upon another even though he is no party to it. In all cases, of a promise to A for the benefit of B, the consideration proceeding from A, that consideration should be' a legitimate subject of inquiry. And as the plaintiff in this case relies upon a promise made to another, whatever would be a defense to an action brought by the party to whom the promise was made will also be a defense against this plaintiff. As the case was not tried upon this theory but upon its exact opposite, there must be a new trial.
+Indeed it is very doubtful (see remarks of Grover, J., in Merrill v. Green, supra, upon page 273,) whether an action can be maintained by the plaintiff upon the promise at all. Without, however, passing upon that question it is quite clear that there must be a new trial, for the reason above stated, with costs to abide event.
+Judgment reversed and new trial ordered.
