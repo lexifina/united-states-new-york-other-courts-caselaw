@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1881-04"
+citations: ["31 N.Y. Sup. Ct. 360"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Davis, F. J., concurred.", "Fresent — Davis, P. J., and Daniels, J."]
+parties: ["MARGARET MANNING, Administratrix, etc., Appellant, v. THE QUICKSILVER MINING COMPANY and WILLIAM H. MARSTON, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/31/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1916642
+cites_cases: ["56 N. Y., 553", "6 Ohio, 489", "8 Hun, 459"]
+---
+
+# Manning v. Quicksilver Mining Co.
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The complaint in this action alleged that Jameson, Smith & Cutting were the duly registered owners, on the books of the Quicksilver Mining Company, of certain shares of its preferred stock, and that they were the owners of these shares in May, 1813. It also alleged that S. J. Drake in the same manner owned other shares of that stock on the days mentioned in the complaint. After that time it was stated that Jameson, Smith & Cutting and S. J. Drake sold, assigned and transferred to purchasers all of their preferred shares of such stock, and delivered the certificates for the same to the purchasers, and since then that the defendants Kemp & Marsden had succeeded to or represented such purchasers. It was then averred, after stating the appointment of the plaintiff as administratrix, that after the assignments made of the shares themselves, Jameson, Smith & Cutting and Drake, by separate instruments in writing, assigned and set over to the plaintiff as administratrix all their right, title and interest in and to the interest due upon the shares of stock which they had so previously owned.
+This was followed by the allegation that the plaintiff had demanded an accounting and payment of the amount due from the quicksilver company, which had neglected to account for or pay any part of the amount demanded. By the terms of the certificates held for the stock, the company agreed to pay interest upon it on the 1st day of May, 1871, and annually thereafter out of its net earnings, at the rate of seven per cent per annum for each year, provided so much in the year preceding had been earned.
+It is not stated in the complaint that any separation of this interest from the other funds, income or earnings of the company had ever taken place, or that the earnings or any part of them had been in any form appropriated or assigned to the payment of the interest. The complaint in substance simply showed the assignment of the shares to one party, and the assignment of the interest after that had been done to the plaintiff in this action. This was held by the Special Term not to be sufficient to entitle the plaintiff to maintain this action.
+The interest which had accrued at the time when the shares were assigned was simply an incident or accessory of the shares themselves. The right to it depended wholly upon the title to the shares, and as no moneys had been appropriated in any form for its payment, the authority to demand it was wholly dependent upon that title. In this respect the case was not distinguishable from that of interest unpaid upon a contract, and the right to recover that has been held to be dependent upon the title to the debt itself. (Clarke v. Alexander, 8 Scott’s New Repts., 147, 165; Florence v. Drayson, 1 Com. Bench [N. S.], 584.)
+■ The same rule has been applied to the determination of the right to the undivided earnings of corporations from which dividends should be made for the benefit of the owners of their stock. As long as those earnings continue to be but a portion of the funds of the company without any division or appropriation of them to the payment of the dividends, it has been held that the right to the money has no separate existence from the title to the shares (City of Ohio v. Cleveland & Toledo R. R. Co., 6 Ohio, 489), and this right has been maintained and sanctioned to the same extent by the consideration which has been given to it in the courts of this State. Where an actual division of the earnings has taken place and an appropriation of them has been made to pay the dividends, the owner of the share at that time is entitled to receive them. The right to the money is after that separated from, and for that reason capable of being recovered by the owner of the shares, even though they may be afterwards transferred to another person. (Hill v. Newichawanick Co., 8 Hun, 459.) But where no such division or appropriation has been made, there the earnings constitute a part of the general property of the company in which the owner of the shares is entitled to participate only by virtue of his title to the shares themselves. (Hyatt v. Allen, 56 N. Y., 553; People v. Assessors, 76 id., 202.)
+This subject has since been further examined in the case of Boardman v. Lake Shore and Michigan Southern Railroad Company, not yet reported. In that case it was held by the Court of Appeals that the assignment of the shares themselves transferred to the purchaser the right to the dividends upon them which had then been earned, as long as they had not been declared by the corporation. This is a decided authority against the right of the plaintiff to maintain this action. For if the right to such undivided earnings would pass to a purchaser of the shares, certainly the same result attended the assignments of the certificates upon which the interest is claimed by the plaintiff in this action. The determination from which this appeal has been taken is right, and the judgment should be affirmed.
+Davis, F. J., concurred.
+Fresent — Davis, P. J., and Daniels, J.
+Judgment affirmed.
