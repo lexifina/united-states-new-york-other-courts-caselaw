@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1881-10"
+citations: ["32 N.Y. Sup. Ct. 385"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brady and Daniels, JJ., concurred."]
+parties: ["WILLIAM WARD, Appellant, v. MARGARET REYNOLDS and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/32/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1918817
+cites_cases: ["37 N. Y., 502", "62 N. Y., 483", "9 Bosw., 502"]
+---
+
+# Ward v. Reynolds
+
+## Majority (Davis, P. J.:)
+
+Davis, P. J.:
+This action was brought for the recovery of real property by and on behalf of one Henry Bretzfield, in the name of William Ward his grantor, against the respondents who were in possession of the property claiming to hold the same adversely at the time of the execution of a deed thereof from William Ward to said Bretzfield, and it is claimed to be brought in conformity to the provisions of section 111 of the Code. Upon an order requiring the attorneys to produce their authority for bringing the action, the facts were presented by affidavit to the court, and the court at a Special Term in July 1880, held the authority sufficient and vacated the order. Afterwards Henry Bretzfield died leaving a last will and testament whereby he devised all his estate to his widow, Mary Bretzfield, and appointed her and two other persons his executrix and executors. Mrs. Bretzfield, as devisee under said will, applied for leave to continue the action, and her motion was denied by the Special Term. Erom such denial an appeal is brought. The appeal is brought in the name of William Ward the plaintiff on the record, and the point is made that it is not brought on behalf of Mrs. Bretzfield, but in the name of a party who is not injured by the order. This point we think is not well taken. If a legal right existed to bring the action in the name of William Ward, he is to be regarded, for the purpose of proceedings in the action, as a party in interest. The action did not abate by the death of Henry Bretzfield, but continued to exist for the benefit of the party who succeeded to the title or interest held by the deceased. The deed of Ward as between himself and his grantee was good, and conveyed all of the grantor’s right, title and interest in the premises.
+It was only void as against parties holding and claiming title adversely; and in such a case an action to recover possession may be maintained by the grantee in the name of the grantor. (Code of Pro., § 111; Hamilton v. Wright, 37 N. Y., 502; Lowber v. Kelly, 9 Bosw., 502; Hasbrouck v. Bunce, 62 N. Y., 483.) The action in that form may doubtless be continued, with leave of the court, in the name of the decedent’s grantee or devisee for his or her benefit.
+The motion was, therefore, a proper one and ought to have been granted by the court below.
+The order should be reversed, with ten dollars costs besides disbursements, and an order entered permitting the continuance of the action by the appellant on her complying with the requirements of the practice in such cases.
+Brady and Daniels, JJ., concurred.
+Order reversed, with ten dollars costs and disbursements. Order entered as directed.
