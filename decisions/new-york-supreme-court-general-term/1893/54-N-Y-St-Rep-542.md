@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-09-23"
+citations: ["54 N.Y. St. Rep. 542"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joanna Fealy, Resp’t, v. John Bull, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/54/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 689587
+---
+
+# Fealy v. Bull
+
+## Majority (Merwin, J.)
+
+Merwin, J.
+We find no exceptions in this case upon which a reversal can be properly based. The objection that plaintiff by reason of the payee’s death could not testify to the transaction between her and the payee at the time of the delivery to her of the check, under § 829 of the Code, came too late, even if tenable at all. The defendant claimed not under McCarthy but under Hare. The question to defendant, “ How did you first learn that the plaintiff claimed to own this check?” was properly excluded. At the close of the cáse a nonsuit was asked for on certain specific grounds which related to the effect of certain portions of the evidence. The motion was properly denied. No point is made as to the charge.
+The main issue litigated at the trial was whether the plaintiff was the owner in good faith of the check. It is quite clear, and it does not seem to be denied, that as between Hare and McCarthy, Hare was the owner or entitled to receive the check. McCarthy was the tenant upon the farm and the check was given for butter produced upon the farm. By the agreement between Hare and McCarthy the title of all property raised or produced was to be and remain in Hare until the fulfillment of the contract. At the time the check was given the contract had not been fulfilled.
+The.court charged that if the plaintiff, at or before the time she purchased the check, had knowledge of circumstances which ought to have put her upon inquiry as to the rightful ownership of the check by Mr. McCarthy, she could not recover. The jury in effect found that she was a purchaser in good faith for full value and without knowledge of circumstances which ought to have put her upon inquiry. The defendant claims that this finding is against the evidence.
+The-plaintiff was the sister of the wife of the tenant, Mr. McCarthy, and she lived in his family from the June previous to the giving of the check. Mr. McCarthy was sick all the summer and died in December following. The plaintiff knew that Mr. Hare owned the farm and that the check was given for butter produced upon it. She testifies that she purchased the check three or four days after it was given. This, being before it was presented for payment, does not necessarily subject the purchaser to the equities existing against it as dishonored paper, but it is a circumstance to be considered in determining whether the purchaser acted in good faith and with due caution. 2 Parsons on Notes & Bills, 271.
+The butter was sold and the check is dated November 23. On the 24th Mr. Hare was at the house of Mr. McCarthy and demanded the check of Mrs. McCarthy. The plaintiff testifies that she heard Mr. Hare ask for the check, but that she cannot tell the date and does not remember what was said. Mrs. McCarthy, a witness for plaintiff, testifies that at the request of her sister she presented the check at the bank for payment and that this was three or four days or a week after it was given. Payment was refused by the bank, as the defendant had previously at the request of Hare stopped payment on it.
+Mr. Hare testifies that a few days before the butter was taken away he was at the house and said to Mrs. McCarthy, in the presence of plaintiff, that the check for the price must be payable to him. As to this the plaintiff testifies : “ I do not remember that Mr. Hare told Mrs. McCarthy that the check should be made payable to him nor anything of the kind. I will not say it did not occur, but I don’t remember. My memory is good.”
+The McCarthy family were .in need of money,-as the plaintiff knew. She presumptively knew that if the check was good thejr could draw the money on it immediately, and that if the transaction was honest, there was no reason whatever for their waiting a single day, or for calling on plaintiff to advance the money. The plaintiff would receive no benefit, if not taken for a prior debt, and if it was, that would be fatal to her position. The fact that they did wait and did call on one in the position of plaintiff to raise the money would naturally lead one, though not very wise or prudent, to-think there was some trouble about it. The bank was some miles from where they lived but there -was no reason why Mrs. McCarthy couldn’t go and present it, as she actually did do it within two or three days after. The plaintiff was at some inconvenience in raising the money and her evidence leaves it a little uncertain as to when she obtained it.
+■ The whole transaction was unusual. A careful consideration of the evidence leads us to the conclusion that the verdict, as it involves the proposition that the plaintiff did not have knowledge of circumstances that ought to have put her upon inquiry as to the rightful ownership of the check by Mr. McCarthy, is against the -weight of the evidence. Upon this ground a new trial should be granted upon the usual terms in such cases.
+Judgments and order reversed and a new trial ordered upon the payment by the appellant of the'costs of the trial and without costs of this appeal to either party. In case such costs are not paid within twenty days then judgments and order -affirmed, with costs.
+Hardin, P. J., and Parker, J., concur.
