@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-11"
+citations: ["88 N.Y. Sup. Ct. 593"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Brunt, P. J., and Parker, J., concurred."]
+parties: ["Emma Keller, Respondent, v. Henry Feldman, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/88/cases/0593-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4739034
+cites_cases: ["3 Cow. 120"]
+---
+
+# Keller v. Feldman
+
+## Majority (O’Brien, J.:)
+
+O’Brien, J.:
+In this action it was sought to replevin two savings bank books which had been given by plaintiff to defendant to secure to him the payment of $403.14. This amount was part of the consideration of the purchase of premises by plaintiff from defendant. • Subsequently plaintiff brought another action to rescind the contract for such purchase and to recover the whole purchase money, and succeeded. It thus appears that in the second action, which was the first tried, the plaintiff obtained a judgment for the entire purchase money, including the sum covered by the bank books, and in addition has another judgment in this action for an amount of money which was included in the first judgment. The question presented is, can the plaintiff recover twice for the same indebtedness ?
+This is an action m rem to recover possession of the bank books, which called for $132.34, together with the accrued interest on $521.14, over and above the amount for which the appellant held the books. The latter could not draw the amount of money for which the books were delivered to him as security, for the reason that payment was stopped thereon by notice to the banks. Upon the trial the record in the equity action to rescind was introduced by the plaintiff herself, and it was made to appear that she succeeded not only in having the contract rescinded, but in obtaining a judgment for the money she had paid to the defendant, including the amount represented by the bank books.
+There can be no question that upon such judgment being recovered, had the defendant served a supplemental answer setting forth the fact of such recovery, it would be a bar to this action unless, upon the trial, the plaintiff consented to permit the. defendant to draw the $403.14 for which she had obtained judgment against him. It might be that such former judgment, if not pleaded, would not be admissible, but, having been introduced by the plaintiff herself, we must give effect to the settled law that “ the judgment of a court of concurrent jurisdiction directly upon a point is conclusive between the same parties upon the same matter coming directly in question in another suit. And this whether it be pleaded or given in evidence under the general issue.” (Gardner v. Buckbee, 3 Cow. 120.)
+In the demand and application for judgment in the equity action the plaintiff might have included only the moneys actually paid by her, and left out the amount represented by the bank books; but having elected to sue for the entire consideration, and treated the money represented by the bank books as actually paid, and having got a judgment against the defendant for an amount which included the moneys represented by the bank books, she was not entitled to have a judgment in addition for the whole sum in the banks.
+This judgment should be reversed and a new trial ordered, with costs to appellant to abide 'event.
+Van Brunt, P. J., and Parker, J., concurred.
+Judgment reversed, new trial ordered, with costs to appellant to abide event.
