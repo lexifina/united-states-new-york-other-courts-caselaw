@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1891-10-16"
-citations: ["40 N.Y. St. Rep. 689", "40 N.Y. St. Rep. 690"]
+citations: ["40 N.Y. St. Rep. 689"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["The Union Distilling Co., Resp’t, v. Henry Ruser, App’lt."]
 source_url: "https://static.case.law/ny-st-rep/40/cases/0689-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2065295
-cites_cases: ["76 N. Y., 599"]
 ---
 
 # Union Distilling Co. v. Ruser
