@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court of Judicature"
+decided: "1811-08"
+citations: ["8 Johns. 277"]
+reporter: "johns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Corp and others against The United Insurance Company. Same against The Same. Same against The Phoenix Insurance Company."]
+source_url: "https://static.case.law/johns/8/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2134496
+cites_cases: ["6 Johns. Rep. 226", "7 Johns. Rep. 363"]
+---
+
+# Corp v. United Insurance
+
+## Majority (Van Ness, J.)
+
+Van Ness, J.
+This case cannot be materially distinguished from that of Craig v. The United Insurance Company. (6 Johns. Rep. 226.) The voyage was voluntarily abandoned at Gibraltar, from fear of capture by French and Spanish cruisers, if the ship proceeded on her voyage to Leghorn. This is stated by the captain to have been the cause of breaking up the voyage ; and it is a clear and well settled principle in the law of insurance, that the fear of loss is not the loss itself, and is no justifiable cause for abandonment. Nor was the apprehension of seizure and confiscation at Leghorn, under the Milan decree, (if any such apprehension existed,) sufficient to create a loss of the voyage. There is no evidence in the case that Leghorn was blockaded, or that neutral trade with that port was interdicted ; and it was, at least, very doubtful, notwithstanding the decree, whether the ship in question could not have safely entered and discharged her cargo at Leghorn. She had not “ submitted to be searched,” within any just and equitable construction of the Milan decree ; for the object in boarding her, by the British cruiser, appears in this case, as it did in the case of the Amiable Matilda., (Craig v. The United Insurance Company,) to have been only to warn the vessel not to enter any port in France, or of her allies. The British cruisers were directed by the orders in council of the 11th November, 1807, to give such warning. If the belligerent right of search had been exercised in this case, the fact would undoubtedly have appeared in a more explicit and decided manner. The warning or notice according to the endorsement on the register, is the only evidence we have of the object of the visit, and that object the British vessels of war were at that time bound to pursue, in all cases, though no search might have been intended or required. If being boarded and warned brought the ship within the Milan decree, it might with equal propriety have been deemed so, if the ship had only been hailed at a distance, and interrogated and warned not to proceed. f°r the papers appears to have been only foithe purpose of making the endorsement, so as to leave fixed and conclusive proof of the fact of notice. No other motive appears, or is left to be inferred. The captain states no fact of any interrogation or inquiry in relation to search, nor what papers in particular were produced. The words of the Milan decree, in order to check its severity as much as possible, are to be taken in the strictest sense, as referring to an actual and perfect exercise of the right of search into the character and quality of the neutral vessel, and her cargo ; and we are to presume that all maritime tribunals would have given them that construction. The plaintiffs, then, had no right to break up the voyage, and throw the loss of it upon the insurers, if the peril of loss at Leghorn rested (as most clearly it did) in mere apprehension and uncertainty.
+Nor can the vessel be considered as under the “ restraint of princes” while at Gibraltar. She was at liberty to depart when she pleased. No clearance was requisite. The captain was only threatened with danger of capture from British cruisers, if he proceeded to an.y other than a British port. This was a mere threat, without any legal authority to support it. There was nothing to hinder the ship from returning to America.
+There was no present or existing restraint. The captain ' was only menaced with danger in transitu. The voyage to Leg horn was, therefore, voluntarily abandoned at Gibraltar, and the voyage to England voluntarily undertaken, from mere prudential considerations, witZi which the insurer had no concern. When the voyage to Leghorn was broken up, without any justifiable cause of abandonment, the defendants were discharged, and the sailing to England was the commencement of a new voyage.
+The plaintiffs have not, therefore, shown a right tore-cover; and it has become unnecessary to decide another point raised upon the argument, which was, whether the return of the ship from the Mediterranean to Gibraltar was, or was not, a justifiable deviation under the circumstances in which the ship was placed. It was, at least, a very extraordinary cause of deviation, and it would be difficult to maintain that the cause assigned for it was sufficient. I am, therefore, of opinion, that the defendants are entitled to judgment.
+Kent, Ch. J. Thompson, J. Spencer, J. and Yates, J. were also of the same opinion.
+Judgment for the defendants.
