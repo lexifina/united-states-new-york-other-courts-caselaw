@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court"
 decided: "1895-02"
-citations: ["70 N.Y. St. Rep. 886", "70 N.Y. St. Rep. 887"]
+decided_precision: "month"
+citations: ["70 N.Y. St. Rep. 886"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
