@@ -1,0 +1,57 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-05"
+citations: ["85 N.Y. Sup. Ct. 196"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pratt, J., concurred; Hyicman, J., not sitting."]
+parties: ["Isaac Bell and Another, Appellants, v. The City of Yonkers, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4720000
+cites_cases: ["35 Hun, 613", "67 N. Y. 528", "74 N. Y. 183", "89 N. Y. 530"]
+---
+
+# Bell v. City of Yonkers
+
+## Majority (Brown, P. J.:)
+
+Brown, P. J.:
+This action was brought to set aside an assessment made upon plaintiffs’ land for the construction of a sewer. Many defects in the assessment proceedings are alleged in the complaint, and the case before us contains seventy-three exceptions to the findings of the court and to its refusal to find as requested by the plaintiffs.
+The grounds, however, upon which the plaintiffs have based their claim to relief upon the argument before this court are comprehended in three general propositions:
+First. That the assessment district, which by the charter of the defendant it was made the duty of the common council to fix, included land omitted from assessment.
+Second. That the notice of the time when the common council would act in relation to the proposed sewer did not correctly describe the assessment district as fixed by the common council.
+Third. That the assessors’ notice of the completion of their report and of the time when they would meet to review the same was not in the form required by the charter.
+The sections of the charter of the city to which we are referred, so far as they are important to he considered in connection with the questions presented, are contained in chapter 19 of the Laws of 1887, and are as follows:
+Sec. 17. “ Prior to contracting for any such work a plain and accurate specification of the work proposed to be constructed must be prepared. * * *
+“ The common council shall then fix a district of assessment, beyond which the assessment shall not extend, and cause to be published in one or more of the official city newspapers a notice that on a day therein to be named * * * it will act in relation to the work proposed to be constructed. * * *
+“ A description of such district shall form a part of such notice.” Sec. 19. “ The assessors shall make a report in writing of the assessment so made, and deposit the same with the city clerk, and cause to be published * * * a notice that the report has been completed and so deposited, and that they will meet at a time and place therein to be specified * * * to review their report.”
+It is not denied that plans and specifications were prepared, and an assessment district fixed^ and the work of construction directed by the common council in the manner provided by the charter.
+The charge that the assessment district included land not assessed rests upon the following facts:
+The communication from the water commissioners and the plans and specifications were referred by the common council to the street committee.
+The report of that committee was prepared by the city clerk. The description of the assessment district to be recommended by the committee was on a printed slip pasted to the report.
+The clerk in reading over this description thought there was an error, and he drew a line with pen and ink through and eliminated one course of the description, and the effect of this was to add to the district the rear portion of a considerable number of lots.
+He then found that it was correct as printed, and he intended, before the report was presented, to attach a new slip to it, but omitted to do that, and the report as presented to the common council contained the lines stricken out in the manner stated.
+In reading the report to the committee, however, he stated to its members that the description should be as if no erasure had been made from the printed matter. And when the report was presented to the common council it was read as if there had been no erasure, and as so read it ivas adopted on May 12,1890, and a resolution Avas passed fixing the assessment district. The description of the district, hoAvever, Avas not actually inserted in the resolution until May seventeenth, when a printed slip, cut from the notice of the time when the common council would meet to act upon the proposed sewer, was pasted into the minutes of the meeting.
+The description so inserted was not an exact copy of that in the report, but contained tAvo errors which will be hereafter noticed.
+The appellants claim fliat the district, as fixed by the common council, Avas that described in the report, with the erasures I have referred to, while the trial court has found that it Avas fixed as described in the report as if no erasures had been made.
+• I have been referred to no provision of the charter that makes the report, or the resolution of the common council, conclusive evidence of what the council’s action Avas.
+Hndoubtedly, either the report, in connection with the resolution adopting it, or the resolution fixing the district as it appeared in the minutes of the common council, Avould be prima facie evidence of the council’s action. But Avhat that body did was a question of fact, and, as the evidence from the record was not conclusive, parol evidence was admissible to show the fact; and it appears without contradiction, from the evidence of the city clefik, that the erasure was his act, and that neither the committee nor the common council adopted it. The description was read, to the council as if no erasure had been made, and, upon the report as read, that body acted, and the legal effect of its action was to fix the assessment district according to the printed description as if no erasure had been made to it.
+The argument that the common council must be presumed, in adopting the report, to have adopted it as printed, and not as read, has no force in the presence of competent and uncontradicted evidence showing a contrary result.
+The finding of the trial court was, therefore, in accordance with the evidence.
+The changes from the description of the district, as adopted and as printed in the official newspapers in the notice of the meeting of the common council to act upon the proposed sewer, were immaterial and deceived no one. They were erroi's merely that were obvious to any one reading the notice.
+In the district as adopted the description was “ to the southwesterly corner of lot 145 Riverdale avenue; thence easterly on a line parallel with and twenty-five feet southerly from the southerly line of Ilerriot street.”
+In the printed notice the words “ twenty-five ” were made to read “ fifty ” in one paper and “ fifty-five ” in another. But as the course started at the southwesterly corner of lot No. 145, and ran “ thence easterly on a line parallel with Ilerriot street,” it was of no consequence what the distance of that line from Ilerriot street was stated to be. It was controlled by fixed monuments, and the description in the notice did not vary the district from that fixed by the common council, and did not have the effect of including in it additional land.
+The other change was of the same character. The description ran to the northwesterly corner of lot 13 Hawthorne avenue; thence along the rear line of lots fronting on the westerly side of Hawthorne avenue. In the printed notice it .ran to the northwesterly cornel* of lot 72 Hawthorne avenue, which was upon the opposite side of the street, and from which the course along the rear line of lots fronting on the westerly side of said street could not be run. The error was obvious to any one reading the description. But in considering the legal effect of the errors in the notice, assuming that they did change slightly the boundaries of the district, I fail to see how that fact is available to the plaintiffs. The object of making a description of the assessment district a part of the notice was that every landowner within the district should know that his land was liable to be assessed. It was not a part of the proceedings to fix the district. It was addressed 'to every person within the district as fixed, and its object was to afford to such persons the constitutional right of an opportunity to be heard before the assessment was imposed. (Stuart v. Palmer, 74 N. Y. 183.)
+And if it fulfilled that purpose and met that constitutional requirement, the assessment cannot be held to be void, because the notice was addressed to or reached parties outside of the district.
+The effect of describing the first course I have alluded to was apparently to include in the district two lots on Riverdale avenue. But the plaintiffs had no right to have the assessment spread on that property, and they suffer no loss because it has not been done. If ■the effect of the change was to leave out property lying in the district as fixed a different question would be presented. The plaintiffs’ complaint comes to this, that notice of the hearing before the common council was served upon persons whose land was not within the district as fixed and who were not liable to be assessed for the improvement. This clearly did not injure the plaintiffs. Every one within the district had notice, and all jurisdictional requirements to every person liable to be assessed have been complied with, and it is apparent without further argument that the error in ■ the notice as published did not affect, in the slightest degree, any of the plaintiffs’ legal rights.
+The notice of the filing of the assessors’ report and fixing a grievance day substantially complied with the statute. The charter required a notice that the report had been' “ completed and so deposited.” The notice stated that the assessors had “ assessed, the expense” of extending the sewer, “made a report in writing,” which was the manner in which they were required to make it, and had “ deposited the same witli the city clerk,” the officer with whom the charter required they should deposit it.
+The statute required a notice of the time and place to be fixed by them to “ review their l^iort.” The notice stated the time and place when and where “ the parties interested can be heard.”
+No valid criticism can be made upon this notice as it contained the substance of all that the statute required. Literal compliance with the law was not necessary.
+This being an action equitable in its character, it was incumbent upon the plaintiffs to establish some substantial error in the assessment proceedings by which they were actually prejudiced. Otherwise they are not entitled to be released from the assessment upon, their lands. (Morse v. City of Buffalo, 35 Hun, 613; In re Mutual Life Ins. Co., 89 N. Y. 530.)
+And while an omission to assess ¡iroperty situated within an assessment, district is ground for declaring the assessment void (Hassan v. City of Rochester, 67 N. Y. 528 ; Elwood v. City of Rochester, 122 id. 236), that rule cannot be applied to this case.
+None of the errors claimed here to exist affected the plaintiffs or prejudiced them in the slightest degree. And no land has escaped assessment that the common council or its committee ever intended should be included in the assessment district.
+The judgment must be affirmed, with costs.
+Pratt, J., concurred; Hyicman, J., not sitting.
+Judgment affirmed, with costs.
