@@ -1,0 +1,30 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1855-12"
+citations: ["4 E.D. Smith 466"]
+reporter: "ed-smith"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Carroll v. Francis Shields."]
+source_url: "https://static.case.law/ed-smith/4/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 884980
+cites_cases: ["10 Wend. 473", "4 Sandf. 79"]
+---
+
+# Carroll v. Shields
+
+## Majority (Woodruff, J.)
+
+By the Court.
+Woodruff, J.
+The defendant in this action having become insolvent, his creditors, among whom was the witness, John Stewart, entered into an agreement of compromise, reciting his insolvency and inability to pay his debts in full, and in consideration thereof they agreed with him and with each other, to accept thirty cents on the dollar upon the amount of their respective demands in satisfactory paper, in full satisfaction and discharge of their respective demands.
+The indebtedness of the defendant to Stewart was then one hundred and ten dollars. Stewart testifies, that at the time that he signed the agreement of compromise there was an agreement between himself and Shields, the defendant, that Shields should not only give him the satisfactory paper for the thirty per cent, therein stipulated, but that he should also pay him the balance, and that the note now in suit was, after the signing of the agreement of compromise and on the same day, in pursuance of the understanding upon which and by which he was induced to sign off, given to him for the said balance of seventy cents on the dollar of the original debt. Stewart kept the note until after it became due and was protested, after which it came into the hands of the present plaintiff.
+There is no question in this case regarding the right of a tona, fide holder of such a note, who has received it for value before maturity, without notice of any defect or invalidity, since the present plaintiff is in no sense such a holder.
+The facts above stated are clearly established by the oath of Stewart, the only witness who was examined on the trial; and there is no uncertainty or conflict in relation to these facts. We are not, therefore, called upon to review a finding upon doubtful, obscure or conflicting evidence.
+Upon the facts above stated, the justice rendered judgment for the plaintiff, and in this he misapprehended the rule of law which, I think, is well settled both in this state and in England, viz., that such a note is invalid, and imposed no obligation upon the defendant. The principles of the cases of Bruce v. Lee, 4 J. R. 410; Waite v. Harper, 2 ib. 386; Wiggin v. Bush, 12 ib. 306, and numerous cases there cited, and among them Payne v. Eden, 3 Caines, 213; Tuxbury v. Miller, 19 J. R. 311, and especially Russell v. Rogers, 10 Wend. 473, are full and explicit on this subject.
+The agreement under which this note was given, and the note itself, given in pursuance of that agreement, were a fraud upon the creditors who signed the composition deed. Nelsosr, Justice, in the case last referred to, says that “ so scrupulous are courts in compelling creditors to the observance of good faith towards one another in cases of this kind, that any security taken for an amount beyond the composition agreed upon, or even for that sum, better than that which is common to all, if unknown at the time to the other creditors, is void and inoperative.”
+The doctrine that a defendant shall not aver his own fraud as a reason for not performing his promise, has no application to such a case. The creditor practiced the fraud in endeavor ing to secure to himself better terms, while he was holding himself out to the other creditors as releasing the debtor for thirty cents on the dollar, and thereby not only inducing them to release upon the like terms, but in impairing the debtor’s means of paying the thirty cents. He held the debtor in a species of duress, to wring from him the note in question, as the condition upon which he would sign the paper by which the other creditors were to be deceived into the belief that he was uniting in the compromise, when in truth he was giving up nothing. Such unfairness is in the highest degree fraudulent, and it is against public policy to sustain securities given under these circumstances.
+In the case of Breck v. Cole, 4 Sandf. 79, this subject is discussed with much ability by Justice Dube, and his reasoning is entirely conclusive against the validity of such a note. In the opinion there given, the English cases are reviewed at length, and it is quite sufficient to say in this case, that I agree fully in the conclusion, that “ every agreement or arrangement by which an advantage is secured to any one of the creditors, which is withheld from the others, is a fraud upon the creditors from whom it is concealed, even though it never has had nor can have the effect of depriving them of any portion of the amount which they agreed to receive, and an additional security or agreement for security so made or given is illegal and void. Indeed, the cases in England appear to go the length of holding that money paid in pursuance of such an arrangement may be recovered back. (See the English cases cited in the opinion in the last case, and in the opinion of Justice Nelson, in 10 Wend., and cases also in the note in 4 J. R. p. 412.)
+Nor is the present case altered by the circumstance that the note was delivered after the act of signing the composition. The condition of the signing by Stewart was the payment of the remaining seventy per cent., and the note was given in pursuance of that agreement. The note was in no sense a new promise in consideration of a former indebtedness, made by the debtor from a sense of justice to his former creditor, who had consented to a release, but it was given in pursuance of and in execution of a corrupt and fraudulent agreement, void as a fraud, and against public policy, extorted by a species of duress, and had no greater validity than the agreement, in pursuance of which it was given.
+Judgment reversed.
