@@ -1,0 +1,22 @@
+---
+court: "New York Court of General Sessions"
+decided: "1889-06"
+citations: ["7 N.Y. Crim. 71"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEOPLE v. REINITZ."]
+source_url: "https://static.case.law/ny-crim/7/cases/0071-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 801677
+---
+
+# People v. Reinitz
+
+## Majority (Martins, J.)
+
+Martins, J.
+I have given the case some consideration since last evening, and have examined such authorities as have been suggested to me, and such as I could find upon1 this question. There has also been called to ltiy attention a memorandum of Lord Chief Justice Coleridge upon granting this extradition, and, of coarse, I felt in duty bound to examine that and see if that threw any light upon this question. I am Sony to say it does not, nor indeed do I believe that if all the facts had been presented to the Lord Chief Justice that are now presented to me, he would have granted the warrant. The facts presented to him were two: Ffist, that the defendant had power and authority to use these checks under two conditions; one was that the defendant was to purchase goods for Baez and fill in the vendor of the goods and the amount. There is no proof here of any such thing, and, of course, if that were the fact, no one could dispute that the position of the Lord Chief Justice was the correct one. The other was that Baez should draw bills on Reinitz, and he should raise money by check in order to meet the bills. There is proof that Baez was to draw bills, but there is no suggestion of that further condition under which he was to be authorized to fill up checks for his own benefit, or if he desired to use any money for his own purposes. If that third condition had been before him, I doubt whether the action of the Lord Chief Justice would have been as" it was, and I believe under these circumstances the defendant would have been still under that jurisdiction. The purpose of the pleader, in pleading this as a case of forgery, is -manifest. This defendant could not have been brought from that jurisdiction unless it had been so pleaded. But that should not alter the situation here, and should not make a case of forgery unless it be one.
+Let us see. Is it a case of forgery ? I am entirely with the proposition of the people that a person who exceeds his authority in filling up a paper of this character would be guilty of forgery. If he has specific authority and exceeds it,—to wit, if he had authority to fill up a check to pay a certain bill and he filled it up to pay another, or if he liad authority to fill up a check for a certain amount and filled it up for a larger amount,—either of those circumstances would make it forgery. There are a good many other circumstances under which it might be forgery. But, did the defendant exceed his authority \ The people say “ Tes,’5 because lie filled this cheek up to his own order, and at the time had a fraudulent intent.
+The ease is a very narrow one. It stands upon a razor’s edge, in effect. I am inclined to the belief that the contention of the people is not a proper one, and that it would not be safe to hold that where-a person gives to another an authority at any time he may see fit to fill up a blank draft or order fpr the payment of money in his own name and for his own purpose, he may found a charge of forgery on the use he may make of that authority given to him. At first blush I was inclined to the belief that there might be a question for this jury whether or not it was forgery, if the defendant had a fraudulent intent at the time of filling in that check. But on the whole case, and in view of the positive and .definite statement of the witness Baez, in which he says'that the defendant had authority to fill up the-check for his own benefit, that the understanding was that they were to accommodate each other, I don’t think there is a case for the jury. Of course I don’t pretend to say that there was an arrangement existing between these people which might make them partners in any sense, but even then it could- not be a forgery by one partner as against another. But upon this whole testimony I am satisfied that it would be error to hold this to be a case of forgery, in view of this positive authority given by this witness to this defendant.
+I shall, therefore, advise the jury to acquit the defendant.
