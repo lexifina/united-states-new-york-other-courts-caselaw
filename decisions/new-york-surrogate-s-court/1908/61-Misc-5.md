@@ -1,0 +1,36 @@
+---
+court: "New York Surrogate's Court"
+decided: "1908-10"
+citations: ["61 Misc. 5", "7 Mills Surr. 6"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement of the Account of Albert D. Welch, as Executor of the Last Will and Testament of Mary F. Welch, Deceased."]
+source_url: "https://static.case.law/misc/61/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 380972
+cites_cases: ["124 App. Div. 312", "6 Misc. Rep. 189"]
+---
+
+# In re the Judicial Settlement of the Account of Welch
+
+## Majority (Ketcham, S.)
+
+Ketcham, S.
+Upon a motion to confirm the report of a referee, by which the account of this executor was settled, it is' claimed that the referee erred in holding that a former decree in this court affecting this estate was res adjudieata.
+The account did not charge the executor with certain bonds.
+The objeetant claims that these bonds belonged to the decedent and formed part of the estate which was committed to the care of the executor. The objection in this respect has been overruled by the referee, on the ground that it was adjudged in a former proceeding that these bonds at the death of the decedent did not belong to her, but did belong to the executor in his own right.
+That proceeding was brought upon the petition of the present objeetant, praying for the removal of the executor. The sole ground set forth in the petition was that the executor had conducted himself with respect to the bonds in a manner which would be unfaithful to his trust if the bonds belonged to the decedent’s estate, but which would be beyond reproach if he were himself the owner of the bonds. The whole complaint of the objeetant was based upon the allegations which he made, that the bonds belonged to the estate.
+The answer, as the executor’s sole defense to the accusation of misconduct, denied that the bonds belonged to the decedent at the time of her decease and alleged that they were given to him by the decedent prior to her death and had ever since remained his own individual property.
+The issue thus raised was tried, and the objectant offered his evidence thereon. The court found that the bonds were not owned by the decedent at the time of her death and formed no part of the assets of her estate, but that they' belonged to the executor individually. Upon this finding the court concluded and decreed that the executor was not guilty of misconduct and should not be removed.
+“ The judgment is conclurive only as to facts directly and distinctly put in issue, and the finding of which must be necessary to uphold the judgment. * * * It is conclusive upon every matter actually and necessarily decided in the former suit, though not then" directly the point in issue. If the facts involved in the second suit are so cardinal that without them the former decision cannot stand, they must'be taken as conclusively settled in the first suit. * * * The judgment is final as to every fact litigated and decided in the action having such a relation to the issue that its determination was necessary to the determination of the issue.” These are the tests which in varying language all converge to the point involved in the case at bar. Shearer v. Field, 6 Misc. Rep. 189, and cases cited.
+The adjudication here involved was. reached in a special proceeding, determinable not as a motion, upon affidavits, but upon "evidence. Matter of McGoughran, 124 App. Div. 312. The rules respecting judgments in actions, therefore, apply.
+Whether it was necessary to the solution of the questions presented on the removal proceeding to determine that the bonds belonged to the executor need not be regarded. It is enough that there could have been no determination in that case without an answer to the question, Did the bonds belong to the decedent at death? and a judgment embodying such answer is final and conclusive as to the litigants there engaged.
+It is said that the surrogate “had no jurisdiction to render any findings or enter any decree determining the title to the bonds,” and the objeetant invokes the obvious principle that a judgment for which there is no jurisdiction is not a bar.
+This proposition is to be considered solely in its relation to the former inquiry, so far as it resulted in a finding that the bonds did not belong to the estate, for it is possible that the finding as to the specific ownership was not material to that inquiry.
+To show the whirl of unreason to which the objectant’s suggestion tends, it is enough to say that, if the objection to jurisdiction be sound, he himself, upon his petition to remove, would have been forbidden to make proof that the bonds belonged to the estate, and that if his present resistance to the former adjudication was not made or should be overruled he would be met by his own objection, if upon the accounting he should attempt to prove the ownership of the decedent as a ground for surcharging the account. The very question of fact to which the objeetant, both in the former and in the present proceeding, claims the right to direct his proof would be excluded.
+But the jurisdiction rests upon express grant of the Code. The surrogate has jurisdiction to revoke letters testamentary (Code Civ. Pro., § 2472, subd. 2) ; to administer justice, in all matters relating to the affairs of decedents, according to the provisions of the statutes relating thereto (Id., § 2472, subd. 6); and to exercise such incidental powers as are necessary to carry into effect the powers expressly conferred (Id., § 2481, subd. 11).
+Under the provision last quoted the surrogate, while having no primary power to construe a will of real estate, is granted ample jurisdiction to determine the meaning of such will where such determination is essential to the settlement of accounts or in the consideration of the conduct of executors. In the same grant the surrogate, though devoid of jurisdiction to assay and measure all the rights and liabilities which depend upon an accusation of larceny, forgery or murder, has the duty, in cases easily recalled, of passing upon the existence of any one of these crimes, wherever necessary to carry into effect the powers which are known to reside in the court.
+In the ease at bar, though the former surrogate could not try a title to the bonds in question and could not give a possessory decree, it was still his duty to find whether the bonds formed part of the estate, in order to determine whether or not the executor’s conduct merited the revocation of his letters. And so far as his finding in that regard was essential to his disposition, it is a bar to any re-examination in this proceeding.
+The referee’s report should be confirmed.
+Decreed accordingly.
