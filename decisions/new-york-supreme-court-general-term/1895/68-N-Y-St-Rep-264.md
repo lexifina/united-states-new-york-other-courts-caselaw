@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-07-05"
+citations: ["68 N.Y. St. Rep. 264"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of an Application to compel an Accounting by Joseph Rettig et al., as Executors, etc., of Frank Keinz, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/68/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2115883
+cites_cases: ["111 N. Y. 687", "24 N. Y. 169", "32 Hun, 320"]
+---
+
+# In re an Application to compel an Accounting by Rettig
+
+## Majority (Hardin, P. J.)
+
+Hardin, P. J.
+— On the 31st of October, 1888, the testator •made 'and published his will, in which he named as his executors-Joseph Rettig and F. L. Faass, and also appointed them guardians of his minor children, “and trustees for the purposes of this will and the trust thereby created.” He authorized and empowered the executors “to manage, lease, or sell real estate, * * * and to do all things required to give to the purchaser or purchasers thereof good title thereto.” The will contained the following, viz.: “They to use the income, and if need be, the principal, for or towards the support, education, etc., of my daughter Anna Walba rger Keinz, and of my son George Keinz, until said GeorgeKeinz shall become of the age of twenty-one years, using for each of said children so much thereof as in their or the survivor’s judgment is needed, and not being required to use equal parts for each ; it being my will that my said executors, and the survivor of them, exercise discretion as to what each will be benefited by, and provide or give same to him or her.” .
+He also provided that upon the arrival of George at the age of twenty-one years all that remained of the real estate and personal estate and increase of each “ shall be divided between my three children, John Andrew Keinz, Anna Walburger Keinz, and George Keinz, equally, share and share alike.” Under the provisions of the will the executors were also named as trustees, and were authorized to use the income of the testator’s estate, “and if need be, the principal,” for the support and education of the daughter and the son George until he should arrive" at the age of twenty-one years. It was for the executors to use so much for each of said children as in their judgment, or that of the survivor,, should be needed; and they were not required to use equal parts for each. The discretion of the executors conferred by the testator was exercised from time to time, as appears by their accounts and the evidence produced upon the accounting. We do not see that the surrogate has committed any error-in adjusting the accounts. Nor do we think the surrogate erred in refusing to revoke the letters testamentary issued to the executors. The testator understood the capacity of the executors, when he named them, and apparently they discharged their duties, without fraud or bad faith, according to their understanding of their duties, and in good faith. The evidence did not satisfy the surrogate that the objection to the executors was established, and he did not err in refusing to remove them. Code Civ. Proc. §§ 2685, 2687. The surrogate had a discretion, and, being satisfied with the direction he took, we should not disturb his action. MacGregor v. Buel, 24 N. Y. 169; In re Chase, 32 Hun, 320; In re West, 40 id. 291-297 ; affirmed, 111 N. Y. 687; Freeman v. Kellogg, 4 Redf. Sur. 218, opinion by Calvin, S., and cases cited ; Martin v. Duke, 5 Redf. Sur. 599. The executors had a discretion as to expenditures to be made for the support and education of the minor children, and the will declares, “ the income, and, if need be, the principal of the real estate is to be used, in the discretion of said executors, for or towards their support.” The decree declared the minors were entitled to receive their entire support, education, etc., from the testator’s estate, and that their earnings should not be used for that purpose. We think the clause .should be modified so it shall be provided in the decree that the executors and trustees, in their discretion, may use the income, and, if need be, the principal of the estate for the education and ■support of the minor children. The commissions to the executor should be stricken out. The decree is therefore modified to conform to the foregoing views.
+Decree modified to conform to the views stated in the opinion, and, as modified, affirmed, with costs to guardian respondents, payable out of the estate.
+All concur.
