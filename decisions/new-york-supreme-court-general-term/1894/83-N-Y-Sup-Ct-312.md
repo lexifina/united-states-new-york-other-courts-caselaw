@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-02"
+citations: ["83 N.Y. Sup. Ct. 312"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Follett, J\"., concurred."]
+parties: ["William J. Quinlan, Jr., Respondent, v. John E. Fairchild, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/83/cases/0312-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4718501
+---
+
+# Quinlan v. Fairchild
+
+## Majority (O’Brien, J. :)
+
+O’Brien, J. :
+The action was on a promissory note given by the defendant to plaintiff. At the opening of the trial, before any evidence was taken, the plaintiff moved for the direction of a verdict in his favor on the pleadings, which motion was granted, and the defendant excepted.
+The complaint is the usual one upon a promissory note, setting forth a copy of the note which it is alleged the plaintiff received for value. The parties to the note are the parties to this action, and by the answer the defendant denies that it was given for value, asserting that he delivered it under a mistake and misapprehension arising from the following facts :
+That one Washington Quinlan in his lifetime had certain obligations of the defendant which came into plaintiff’s possession ; that the plaintiff made demand on defendant for the payment of such obligations, and that defendant, “ believing the plaintiff to be the administrator or executor of the said Washington Quinlan, in order to liquidate the claim upon him of the estate of said Washington Quinlan ” upon the obligations mentioned, gave to plaintiff the note in suit.
+Then follows a denial that the plaintiff is such executor or administrator or personal representative of Washington Quinlan, or that the obligations belonging to the latter had ever been indorsed or transferred to plaintiff, who, it is alleged, was in no way entitled to receive payment on account thereof.
+Tlie plaintiff’s motion for a direction was, in effect, a demurrer to tlie answer, and in testing the correctness of the disposition made by the court of such motion, all the facts alleged must be taken as true.
+We think that in an action between the original parties to the note, where the defense, as - here, is that there was no consideration passing between the parties, and no value given for the note, but that it was delivered under a misapprehension and mistake, such facts, if proven, would be a good defense. If the answer had alleged that the obligations claimed to have belonged to Washington Quinlan had been surrendered, or if there had been any allegation from which it would appear that there was a consideration moving from the plaintiff to the defendant, it would be otherwise. But, so far as appears, the defendant gave this note to discharge obligations which were due to the estate of Washington Quinlan, and it does not appear that these obligations were • surrendered or delivered to defendant.
+Our conclusion is that it was error to direct a verdict on the pleadings, and that the judgment, therefore, should be reversed and a new trial ordered, with costs to appellant to abide the event.
+Yan Brunt, P. J., and Follett, J"., concurred.
+Judgment reversed and new trial ordered, with costs to appellant to abide event.
