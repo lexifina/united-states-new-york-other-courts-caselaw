@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-06-03"
+citations: ["46 N.Y. St. Rep. 704"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The First National Bank of Jersey City, Resp’t, v. John Lindenmeyr, Impl’d, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0704-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2084194
+cites_cases: ["42 St. Rep., 98", "78 N. Y., 158"]
+---
+
+# First National Bank of Jersey City v. Lindenmeyr
+
+## Majority (O’Brien, J.)
+
+O’Brien, J.
+This action was brought to recover upon a number of promissory notes, for the amount which it was claimed that the firm of P. Lenk & Company was liable. The fact of the indebtedness of P. Lenk & Company is admitted, and the question presented is, whether or not the defendant Lindenmeyr was a special or general partner in that firm. The determination of this question is dependent upon whether the certificate under the limited partnership act was true, which stated that, in addition to an amount contributed by one Huber as special capital, the defendant Lindenmeyr had actually, and in good faith, paid in in cash the sum of $20,000.
+To establish the fact of the 'falsity of the certificate, one Weller, a book-keeper, was examined in respect to the entries made in the books of a former firm of P. Lenk & Company, of which firm the defendant Lindenmeyr was not a member and in no way connected or related. That such evidence was clearly improper and incompetent was directly passed upon by the court of appeals' in the case of Kohler v. Lindenmeyr, 42 St. Rep., 98, in the following language : “We are of the opinion that the entries in the books of the old firm, made prior to the time when the new partnership was to commence, and which, so far as appears, was not known to Lindenmeyr, were inadmissible against him.”
+The case of Kohler was against this same defendant, and the ■entries objected to in this case and admitted in evidence from the books of the old firm of P. Lenk & Company were in the Kohler case held ground for error sufficient to require a reversal of the judgment
+It is insisted, however, that a distinction can be made between this and the Kohler case, by reason of the claim advanced that, in addition to such incompetent evidence, there was sufficient other evidence justifying the direction of the court in favor of the plaintiff, and that if we exclude the incompetent evidence the judgment can be supported by a sufficiency of competent proof. ~We are thus asked to apply the rule laid down in Foote v. Beecher, 78 N. Y., 158, which states as follows: “An error in receiving incompetent evidence, if properly excepted to, can only be disregarded when it can be seen that it did no harm. If the evidence is slight or irrelevant, * * * or if without it the fact is conclusively established by other evidence, * * * it may be disregarded, because it could not have injured the other party.”
+Applying this rule most favorably to the contention of the respondent, we fail to see how this judgment can be upheld. The evidence objected to was incompetent, and was neither slight nor irrelevant, and its admission undoubtedly had weight in the disposition made by the learned trial judge of the case. An examination of the testimony of Weller will show that when asked as to whether or not the $20,000 was paid by the defendant into the firm of Lenk & Company in the month of November, 1885, he states, “ Not to my knowledge.”
+In determining whether the knowledge of this witness was any or conclusive evidence upon the fact of the payment, reference must be had to the testimony for the purpose of determining "the extent of his knowledge. He did not claim or pretend to have been present at any of the interviews or transactions between the members of the firm about to be formed, or to have any personal knowledge whatever in reference to any of .the transactions as to which entries were made in the books and as to which he was permitted to testify. It is true that he had knowledge, because he handled the two sums of $7,000 and $13,000 received from the defendant prior to the formation of the new firm of •which Lindenmeyr became a member.
+It is evident, however, that all the evidence given by this witness, and the extent of his knowledge in respect to the transactions relating to the formation of the new firm of P. Lenk & Company, was information derived entirely from the books, which he was allowed to refer to, use and read in evidence against defendant Lindenmeyr, and against his objection and exception. And except his statement that the $20,000 was not actually paid in in •cash to his knowledge, the case is barren of evidence to establish the falsity of the certificate. In effect, the witness was permitted to testify that the $20,000 was paid in to the old firm months prior to the formation of the special partnership, as appeared by the entries in the books of the old firm, which were clearly incompetent, as already shown; and thence the witness was allowed to deduce the conclusion, and testify to it, that the sums thus credited in the old books which were not repaid to the defendant Lindenmeyr, and which he testified were the same amount with which Lindenmeyr was credited, “ went into the new firm through this operation.”
+It is difficult to separate the competent from the incompetent evidence; and we are of opinion that a judgment in a case of this kind which apparently is supported to a great extent upon incompetent evidence should not be allowed to stand.
+We are. of opinion, therefore, that the judgment should be reversed, with costs to appellant to abide event
+Van Brunt, P. J., and Barrett, J., concur.
