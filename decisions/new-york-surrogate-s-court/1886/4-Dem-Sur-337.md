@@ -1,0 +1,31 @@
+---
+court: "New York Surrogate's Court"
+decided: "1886-02"
+citations: ["4 Dem. Sur. 337"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Banning v. Gunn. In the matter of the estate of Charles W. Berry, deceased."]
+source_url: "https://static.case.law/dem-sur/4/cases/0337-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1140813
+cites_cases: ["1 Barb. Ch., 409", "11 Mo. App., 168", "28 Me., 41", "33 Me., 552", "4 Sandf. Ch., 623", "47 Penn. St., 509", "72 Mo., 253", "84 N. Y., 321", "98 N. Y., 610"]
+---
+
+# Banning v. Gunn
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+This testator died in 1882, leaving a will whereby he appointed his brother John H. Berry and another executors and trustees of his estate, and William C. Banning the guardian of his daughter. In June last, Mr. Banning filed a petition praying—
+1. That the executors and trustees be directed to account.
+2. That they be directed to pay Over to him, from time to time, the income of the ward’s estate, and such part of the principal as might be adjudged to be necessary and proper for her support and education.
+3. That he be reimbursed out of his ward’s estate for expenses incurred by him as testamentary guardian, in and about her support, maintenance and education.
+By the will of this testator, his entire estate is given to his executors, in trust to apply all the income to the use of his daughter Helen during her life. The will contains this further provision: “ And I authorize and empower my said executors..... in their discretion to apply, if necessary for her support, such part of the principal as they may think necessary, but not exceeding $500 in any one year.” At the daughter’s death, the unexpended principal of the estate is given to her issue, and if none are alive to take, then to the testator’s brothers and sisters.
+To the guardian’s petition, the respondents have filed an answer, wherein they allege that the entire estate in their hands is of less value than $3,000; that they have already applied for the support and maintenance of the infant a larger sum than the income thus far earned; that they do not think it necessary or prudent that any further encroachment" ■ be made upon the principal, and that they have exercised the discretionary authority conferred upon them by the testator in declining to make application of any of the remaining principal to the infant’s use.
+The account of the executors and trustees was filed on October 20th last. On November 10th, the guardian interposed objections. He now asks that the referee, to whom the issues of the accounting are about to be submitted, be directed to take proof and report whether any portion of the principal of the ward’s estate, and if any, then what portion, is needed for her support. The respondents insist that such a direction is improper, and that under the will their discretion to apply or to refuse to apply a portion of the principal of the estate to the use of the testator’s daughter is in no wise subject to control or review.
+The respondent’s contention is unsound. The testator has not vested them with absolute authority in the premises. They cannot exercise their powers arbitrarily or whimsically, or for the gratification of malice or spite, or in disregard of the facts and circumstances which fairly belong to a proper consideration of the matter which the testator has put in their charge. Their decision and action can be reviewed by the Surrogate to the extent, at least, of ascertaining whether they have exercised their discretion honestly and in good faith (Mason v. Mason, 4 Sandf. Ch., 623; Bryan v. Knickerbacker, 1 Barb. Ch., 409; Erisman v. Directors of the Poor, 47 Penn. St., 509; Forman v. Whitney, 2 Keyes, 165; Ireland v. Ireland, 84 N. Y., 321; Feltham v. Turner, 23 Law Times, 345). Such powers as courts of equity have been wont to exercise in this regard are now possessed also by the Surrogate (Hyland v. Baxter, 98 N. Y., 610).
+In Ireland v. Ireland (supra) it was held by the Court of Appeals that, by virtue of its general jurisdiction over trustees, a court of equity could, upon a proper state of facts, direct how a trustee’s discretion should be exercised and how the trust fund should be administered. “ But when,” said Eakl, J., pronouncing the opinion of the court, “ a trustee is acting in administering his trust within the limits of a fair and reasonable discretion, a court of equity cannot intervene except for very peculiar reasons calling for the exercise of this jurisdiction.”
+The authority to intervene, wherever it has been exercised by a court of equity, seems to have been referable to its general jurisdiction to prevent abuses of trust, rather than to its right to direct and control the conduct of executors and trustees.
+In cases where discretionary authority, such as is conferred by the will before me, is given to persons selected by the testator himself as trustees, the Surrogate is powerless to overrule the decision of such trustees, except upon proof that they have abused their discretion, and that their conduct has been inconsistent with the honest and faithful discharge of their duties (Costabadie v. Costabadie, 6 Hare, 410; French v. Davidson, 3 Madd., 396; Walker v. Walker, 5 id., 424 ; Collins v. Vining, 1 C. P. Cooper, 472; Morton v. Southgate, 28 Me., 41; Hawley v. James, 5 Paige, 318, at p. 485; Littlefield v. Cole, 33 Me., 552; Haydel v. Hurck, 72 Mo., 253; Ames v. Scudder, 11 Mo. App., 168).
+In the case at bar, the petitioner has not charged the respondents with lack of good faith. He simply claims that they have reached an erroneous conclusion as to the ward’s necessities. I must, therefore, decline to send to a reference the question sought to be raised by the petitioner. It is of no importance to ascertain what sum is needed, in the estimation of a referee, or in the estimation of the Surrogate, for the support and maintenance of this testator’s daughter. The question whether the conclusion reached by the trustees was reached in the exercise of their honest judgment will be considered, in case that question shall be properly presented.
