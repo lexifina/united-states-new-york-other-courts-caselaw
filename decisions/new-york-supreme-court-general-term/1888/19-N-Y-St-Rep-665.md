@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-07"
+citations: ["19 N.Y. St. Rep. 665"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Esmond, Resp’t, v. Lucia C. Kingsley, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0665-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650631
+cites_cases: ["51 N. Y., 124", "53 N. Y., 615", "55 N. Y., 319", "61 N. Y., 415", "63 N. Y., 445", "83 N. Y., 378", "85 N. Y., 618", "88 N. Y., 671"]
+---
+
+# Esmond v. Kingsley
+
+## Majority (Martin, J.)
+
+Martin, J.
+This was an action to recover the plaintiff’s commission as a real estate broker for the sale of a house and lot situated in the city of Syracuse.
+The plaintiff claimed, and on the trial introduced evidence which tended to show that the defendant’s husband was her agent; that he in the presence of the defendant employed the plaintiff to sell the property in question for an agreed commission of two per cent; that in pursuance of such employment the plaintiff made diligent efforts to sell the property to several persons, among whom was one Danziger; that he had several negotiations with him in regard to selling him the plaintiff’s house and lot, in each of which he expressed a desire and purpose to purchase it if the amount of the purchase price could be. agreed upon; that these negotiations continued up to within one week of the sale, wlien the defendant, without withdrawing the property from the plaintiff’s hands, or in any way withdrawing from or terminating the agreement between them, sold the property to' Danziger for $12,000; that Danziger purchased it through Cowie & Copeland; who were acting as agents for him in making such purchase; that the defendant’s knowledge of the desire of Danziger to purchase this property was derived from the plaintiff, who stated to the defendant, or her husband, that he was trying to effect a sale of the property to Danziger and informed him of the negotiations had between them in relation to it.
+These several claims of the plaintiff were denied by the defendant, and she gave evidence which tended to disprove them and to contradict the evidence given by the plaintiff.
+The court submitted to the jury the questions :
+First. Whether the defendant’s husband was the authorized agent of the defendant in the matter of the sale of this property and the employment of the plaintiff.
+Second. Whether the employment of the plaintiff continued until the time of the sale.
+Third. Whether the efforts of the plaintiff were the procuring cause of the sale to Danziger. Upon all these questions the jury found in favor of the plaintiff upon evidence sufficient to sustain their verdict.
+The charge of the learned judge was full, fairly presented to. the jury the questions to be decided by them, and correctly stated the law applicable to the case. There was, we think, no error in his refusal to charge, or in his modified charge of the requests submitted to him by the defendant. He had already charged properly upon all the matters referred to in such requests, and was not required to charge the same, propositions a second time, or to charge in the particular language of the defendant’s requests. Conley v. Meeker, 85 N. Y., 618 : Raymond v. Richmond, 88 N. Y., 671.
+The recovery in this case is, we think, fully sustained by the cases of Lloyd v. Matthews (51 N. Y., 124), Martin v. Silliman (53 N. Y., 615), Sussdorff v. Schmidt (55 N. Y., 319), and not in conflict with any doctrine established by the cases of Wylie v. Marine National Bank (61 N. Y., 415), Fraser v. Wyckoff (63 N. Y., 445), or Sibbald v. Bethlehem Iron Co. (83 N. Y., 378).
+A careful examination of the evidence and exceptions in this case has failed to disclose any error which requires or would justify a reversal of the order and judgment appealed from.
+Order and judgment affirmed, with costs.
+Follett, J., concurs.
