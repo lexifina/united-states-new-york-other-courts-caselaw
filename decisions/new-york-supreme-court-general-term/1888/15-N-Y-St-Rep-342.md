@@ -1,7 +1,7 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1888-03-28"
-citations: ["15 N.Y. St. Rep. 342", "15 N.Y. St. Rep. 339", "1 N.Y.S. 538"]
+citations: ["15 N.Y. St. Rep. 342", "1 N.Y.S. 538"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
