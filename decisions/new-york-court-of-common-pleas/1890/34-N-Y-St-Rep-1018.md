@@ -1,0 +1,19 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1890"
+citations: ["34 N.Y. St. Rep. 1018"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter A. Broe, Resp’t, v. Alfred Setan, Jr., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/1018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2046829
+---
+
+# Broe v. Setan
+
+## Majority
+
+Appeal from first district court.
+Ordered, that the judgment be reversed, with costs.
