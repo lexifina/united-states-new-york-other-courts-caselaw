@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-24"
+citations: ["19 N.Y. St. Rep. 338"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George S. Smith, App’lt, v. M. Edwin Servis, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650589
+---
+
+# Smith v. Servis
+
+## Majority (Daniels, J.)
+
+Daniels, J.
+The action is to recover damages for the incomplete performance of an agreement to construct counters, tables and show cases by the defendant for the plaintiff. A contract in writing was^made for the manufacture, completion and delivery of the'articles. This contract was made at the city of Rochester, and the work was to be, and was in fact, there performed and the articles were delivered on board of cars at that city, as the contract provided they should be, .for the plaintiff. But in support of his action he has alleged in the complaint that these articles were not completed as the contract required them to be, and were not put up and packed securely and properly in the cars in which they were placed, and in consequence of the alleged failures of the defendant to perform the agreement in “these respects he was subjected to expense in finishing the tables and show cases, and loss of the use of the premises in which the business was to be carried on by means of these articles, and expenditures to which he was subjected by the alleged default of the defendant, and also of profits which he otherwise would have made in the course of his business. The answer denied these alleged defaults of the defendant, and relied upon a complete performance of the agreement which had been entered into.
+In support of the motion to change the place of trial, a large number of witnesses are stated in the defendant’s affidavit to be material and necessary for him, who reside in the city of Rochester. A still larger number of witnesses are named in the plaintiff’s affidavit, residing in the cities of New York and Brooklyn, who are stated to be material and necessary to enable the plaintiff to present his case at the trial. It is quite evident, however, that each of these parties has probably overstated the number of witnesses that will be required either in the prosecution or defense of the action, and the affidavits for that reason are not entitled to be literally followed in the disposition of this appeal. It is, however, probable, inasmuch as the articles were made and finished in the city of Rochester, and there delivered to the plaintiff by being placed upon cars to be transported to Jersey Oity by the Erie Railway Company, that the preponderence of witnesses will be found there whose testimony it will be material to have upon the trial.
+The witnesses residing here or in the city of Brooklyn, who were employed upon the articles after their arrival at Jersey City, and inspected and observed those articles, will be equally material. But these are comparatively few in number, less in fact than those whose testimony is shown by the defendant’s affidavit and the probability of the case to be material and necessary for him, and residing in the city of Rochester. If the fact shall be maintained that the contract was not performed, then the evidence as to the extent of plaintiff’s loss, not obtainable from the class of witnesses already mentioned, will depend mostly upon his own testimony, and certainly not more than two or three of the other witnesses named by him. Eor as to those facts the case will be confined wholly to the evidence produced by the plaintiff. For they are not facts concerning which the defendant will be able to produce testimony, if in truth the contract has not been performed. And in this state of the case as the probabilities are decidedly in favor of the greater number of important witnesses being found in the city of Rochester, the order changing the place of trial was justified, and as no objection was made to the sufficiency of the defendant’s affidavit of merits, either on the hearing of the motion, or in the briefs submitted upon the appeal, the order should be affirmed notwithstanding the fact that this part of the defendant’s affidavit was defective. But to promote the plaintiff’s convenience, it should be made dependent upon the defendant stipulating that plaintiff may take the evidence of any of his witnesses which he may desire to take, before a referee in the city of New York, to be read on the trial, with the same effect as though the witnesses were personally present. If such a stipulation shall not be given within ten days after notice of the decision of the appeal, then the order should be reversed, and the motion denied. Brit if such stipulation be given, then the order should be affirmed, together with the usual costs and disbursements ta abide the event of the action.
+Van Brunt, J., concurs.
+
+## Concurrence (Bartlett, J.)
+
+Bartlett, J.
+I concur. Indeed, I think the order might well be affirmed, without imposing any conditions upon the respondent.
