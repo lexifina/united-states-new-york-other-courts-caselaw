@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-04"
+citations: ["93 N.Y. Sup. Ct. 464"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MaktiN and MebwiN, JJ., concurred."]
+parties: ["Angeline Frier, Respondent, v. The President, Managers and Company of the Delaware and Hudson Canal Company, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/93/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4777192
+cites_cases: ["142 N. Y. 11", "142 N. Y. 19", "49 N. Y. 420"]
+---
+
+# Frier v. President of the Delaware & Hudson Canal Co.
+
+## Majority (HaediN, P. J. :)
+
+HaediN, P. J. :
+Assuming that the evidence sufficiently shows that the damages sustained by the plaintiff in the loss of her fence were occasioned by the fire communicating from the premises of the defendant to the premises of the plaintiff, according to the doctrine laid down in Webb v. Rome, W. & O. R. R. Co., (49 N. Y. 420), it was incumbent upon the plaintiff to give evidence to establish the allegation of the complaint that the defendant had been guilty of negligence in causing the fire upon its own premises. In the Webb case it was said there was abundant evidence to require the submission to the jury of the question relating to the defendant’s negligence upon its own premises, and it was, therefore, held in that case that where the fire spread to the immediate adjacent premises of the plaintiff, the defendant was liable for the damages caused thereby. This brings us to the inquiry as to whether the evidence given at the trial was sufficient to warrant the jury in finding negligence on the part of the defendant in causing the fire which spread from its premises to the plaintiff’s. The evidence fails to indicate any particular engine of the defendant which ignited the material upon the defendant’s premises. The defendant had a right to operate its railroad by means of engines traversing its tracks and was only required to use reasonable care and prudence in the operation of the same; and it was incumbent upon the plaintiff to establish, by evidence, that in its operation of its engines it had failed to exercise such care and prudence.
+The witness Smith testified that when passing near the railroad he “ saw a train go up, and soon saw a fire start up on this farm, and also on Mr. Guernsey’s farm along the railroad lands; ” and after such observation he went home to eat his dinner and returned and found the stump fence on Frier’s place on fire in a number of places; and he adds: “ The field where the stump fence was on fire extended to the railroad lands,” and that he had not noticed any fire that day until that time either on the railroad or on the farm. In the course of his cross-examination he says that it was a freight train going east on the railroad, and that there was a pusher on this train, and that he was not able to tell the number of the “ lead ■engine ” or of the pusher, and that he was unable to give the number ■of the train, and that he first saw the fire on the company’s lands.
+The witness Irving Shear testified that he first saw the fire on the 5th of April, 1893, near the railroad at the Jeffers crossing.
+The witness Prentice, against the objection of the defendant, was permitted to testify that the fire, in his opinion, passed from the railroad to the lands of the plaintiff; and he adds : “ It was burned over from the railroad line clear up.”
+It appeared by the testimony given by the defendant that “ the grade along the Jeffers crossing is about sixty feet to the mile.”
+"We think the plaintiff’s evidence failed to sustain the allegation of negligence on the part of the defendant in causing the fire on its own premises. (Flinn v. N. Y. C. & H. R. R. R. Co., 142 N. Y. 11; Frace v. N. Y., L. E. & W. R. R. Co., 143 id. 182.)
+(2) The defendant offered to ¡Drove “that in going east over ■defendant’s road from the city of Binghamton, the grade of the road opposite this Frier farm is steep; that engines drawing trains up this grade are obliged to labor hard, and that on account ■of such labor the engines emit more sparks.” This was objected to as immaterial and the objection was sustained. We think it was ■error to reject the evidence offered.
+In Flinn v. N. Y. C. & H. R. R. Co. (142 N. Y. 19) it appeared that trains passing over an up grade emit from the engines sparks, and in speaking of that evidence Earl, J., says: “ The inference from this evidence is that the great emission of sparks was inevitable in drawing trains up such a steep grade, and if it was not inevitable it would have been easy for the plaintiff to have furnished some proof showing that it was due to the defective condition of the engines and to no other cause. Under such circumstances the fact of the emission of large quantities of sparks furnishes no evidence whatever to charge the defendant witli negligence. If there had been evidence that any particular engine emitted an unusual quantity of sparks of an unusual size that might, within the authorities cited, have furnished prima facie proof that the engine was out of repair, and the burden would have been cast upon the defendant to show that it was in proper condition and that the emission of sparks was inevitable, notwithstanding the use of any ordinary care.” Near the close of the opinion in that case it was said that the plaintiff, in order to recover against the defendant, “ must show that it violated some legal duty it owed him, and this he failed to do.” We are of the opinion that there was a failure in the case in hand to give evidence sufficient to warrant a finding of negligence on the part of the defendant in causing the fire upon its own premises which spread to the premises of the plaintiff, and we also think it was error to exclude the evidence offered already mentioned.
+The foregoing views lead to a reversa,!
+MaktiN and MebwiN, JJ., concurred.
+Judgment of the County Court and of the Justice’s Court reversed, with costs.
