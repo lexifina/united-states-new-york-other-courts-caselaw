@@ -1,0 +1,34 @@
+---
+court: "New York Surrogate's Court"
+decided: "1916-05-05"
+citations: ["17 Mills Surr. 396"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Transfer Tax upon the Estate of Frederick Townsend Martin, Deceased. The Comptroller of the State of New York, Appellant, v. Metroplitan Trust Company, as Executor, etc., of Frederick Townsend Martin, Deceased, Respondent."]
+source_url: "https://static.case.law/mills-surr/17/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1095870
+cites_cases: ["192 N. Y. 238", "192 N. Y. 250", "86 Misc. Rep. 364", "94 Misc. Rep. 81"]
+---
+
+# In re the Transfer Tax upon the Estate of Martin
+
+## Majority (Smith, J.—)
+
+Smith, J.—
+This order held that the estate of the decedent Martin was not liable to a tax in Few York on its transfer on the ground that he was not a resident of the State.
+Frederick Townsend Martin was born in Albany in 1849 and remained there until 1885, when he removed to Few York city and rented a house there. Some time previous to 1890 he gave up this house and thereafter when in Few York he visited his sister or lived at the Murray Hill Hotel, and from 1907 on he occupied a suite of rooms at the Plaza. He always had the same rooms, and kept a few belongings there, but only paid for the suite during actual occupancy. Hp to February, 1913, Mr. Martin always spent the winter, with the exception of an occasional trip to Palm Beach, in Few York city. During the summer he went abroad, stopping in London hotels, and while in Paris living at an apartment which appears to have been furnished and maintained by Mr. Martin and his intimate friend, Mr., Sands.
+In February, 1913, while Mr. Martin was in Few York city, his brother, Bradley Martin, died in London and Mr. Martin went over, returned to Few York in April, but went back to England again in July and remained there until his death in London in March, 1914. In December, 1913, his friend, Mr. Saqds, died leaving Mr. Martin his personal effects and $25,000 cash. Mr. Martin immediately gave np the Paris suite and purchased a house in England, to which he removed Mr. Sands. and his own furniture and which he proceeded to fit up as a residence.
+The surrogate in reaching his conclusion that Hr. Martin died resident abroad (See 94 Misc. Rep. 81), relied almost solely on the circumstances of the purchase and outfitting of this house in London as a residence. Undoubtedly this London house was meant to be his residence in the sense that Mr. Martin intended to lodge there- when in London. It is also true, as was said by the learned surrogate, that in many instances there is a difference between the' legal intendment of the terms “ residence'” and “domicile” (Matter of Newcomb, 192 N. Y. 250), but in the matter of succession and transfer taxes the theory of the action of -the taxing power renders the terms synonymous. In the case of succession the intestate’s personalty is distributed according to the Statute of Distributions of the State' of the domicile. Therefore, that State which permits the inheritance is entitled to impose a duty on that privilege irrespective of the “ residence ” -— using the term' in its loose sense of temporary lodging-—- of the intestate. The same principle-governs transfer uider a will, as the law of the State of the domicile of the testator determines the validity 'of the will as a distribution of personalty.
+Although in regard to other statutes - the courts have often declared that the terms “ residence ” and “ domicile ” were synonymous, the question of'the proper interpretation of the word “ resident” in the Transfer Tax Law (Tax Law [Consol. Laws, chap. 60; Laws of 1909, chap; 62], art: 10, as ámd.; Id. '§ 220, as amd. by Laws of 1911, chap. 732; since amd.). does' :not seem to have been decided, but in numerous cases under -the statute the surrogates have determined' a- person’s residence by applying the principles of domicile- and -by relying on authorities as to domicile. (Matter' of Rothschild, 86 Misc. Rep. 364; Matter of Wise, 84 id: 663; Matter of Rutherford,. 188 id. 414; Matter of Crosby, 85 id. 679.)
+■ It is clear that Mr. Martin’s domicile up to the purchase of this London house was New York, and the burden of proof rests on the party desiring to show a different one. (Matter of Newcomb, 192 N. Y. 238.) The only fact tending to show another is the purchase of the London house,' • and there are' a number of circumstances to explain or offset the significance of this fact. -
+In the first place, Mr. Martin seemed to consider himself under a duty to provide a home for Mr. Sands’ collection, and in his letter of December 19, 1913, he refers to the London house as purchased solely for that purpose. The unfinished letter written just before his death to Mrs. Dewey is very significant as to his attitude toward his London hguse. It reads in part as follows:
+“ You will understand so well that it was a frightful disappointment to me to be forced by sickness to give up my winter in my beloved Land. * * *
+“ I have bought the lease of a house in London for eight years, as Mr. Sands, who was my dear, devoted friend from boyhood, died in Paris last Eovember, quite suddenly and left me a legacy to buy the lease of a house where I could keep all the furniture and pretty things that we had bought together during the long years of our friendship. I look upon it as only a storehouse to keep these things in, as nothing would induce me to live in Paris after his death. My home is in Eew York, where I am happier than in any other city in the world. * * *
+“ But just think of it, that I, an American, should have brought out a book that was the book of ’the year in England.”
+Then, on another occasion he wrote: “ I think "it is better for you to enter 6, Great Cumberland Place, as my permanent address, as Trustee to Lord Craven,” thus indicating that he considered it his permanent house only for a limited purpose.
+Mr. Martin- did nothing to transfer any - of his business interests, etc., to London, and he allowed to stand his will previously made, which gave his residence as Rew York. On the whole, the evidence seems definitely to show that Mr. Martin still considered Rew York city as his domicile, and,-taking into consideration Mr. Martin’s wealth and habits of life, the purchase of a private residence in a city where he was accustomed to spend a considerable portion of his time does not have the significance that would attach to a like action by a person of a less cosmopolitan character.
+The order should be reversed, with costs, and matter remitted to the surrogate for the purpose-of fixing the amount of the transfer tax.
+Clarke, P: J., McLaughlin, Scott and Davis, JJ., concurred.
+Order reversed, with costs, and matter remitted to surrogate as stated in opinion.
