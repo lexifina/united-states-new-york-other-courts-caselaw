@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-03"
+citations: ["92 N.Y. Sup. Ct. 380"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and O’Brien, B, concurred."]
+parties: ["Joseph C. Hand, Respondent, v. Ferral C. Dinniny, Jr., Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/92/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5775853
+cites_cases: ["31 N. Y. 113"]
+---
+
+# Hand v. Dinniny
+
+## Majority (Parker, J.:)
+
+Parker, J.:
+Tlie plaintiff alleged the making of a promissory note for $5,346.25, payable to the order of D. A. Loring, who indorsed it without recourse and delivered it so indorsed.to the plaintiff, who became and still is the holder and owner thereof for value.
+The answer admitted the making and delivery of the note; denied that the plaintiff was the owner and holder thereof for value, and alleged that it was given to the payee, together with the sum of $Y,000 in cash, under a written agreement that the payee would deliver to the defendant in consideration therefor the yacht Aztec in perfect order and ready for use on or before the 10th day of May, 1894; that Loring, the payee, failed to perform his contract in part, in that he did not deliver the yacht at the time agreed upon, nor in a condition provided for by the terms of the contract, so that defendant was compelled to, and did, lay out for the purpose of putting the yacht in the condition Loring agreed she should be in when delivered, the sum of $'T23.4'T, which sum, together with items aggregating $610 in addition, the defendant set up by way of counterclaim. .When the plaintiff rested the trial court was of the opinion, rightly, we think, that the evidence established prima, facie at least, that the plaintiff was the owner and holder of the note for value, and for the purpose of shortening the trial the court inquired of defendant’s counsel whether he intended to show that the plaintiff had notice of the special facts relied upon by him in support of the counterclaim- alleged in the answer.
+The reply of counsel was such as to justify the court in ruling that it would decline to receive defendant’s proofs relating to the counterclaim. But we think there was error in refusing to allow the defendant to cross-examine the plaintiff with reference to the consideration of the note surrendered by the plaintiff when he received defendant’s note from Loring.
+We have said that when plaintiff rested he had established prima facie that lie had paid full value for the note in question, and this assertion is based upon the testimony of the plaintiff that at the time of the transfer of the note to him he held a note for $5,000 made by D. A. Loring which became due in July, 1892, and that he surrendered this note to Loring, and paid him seventy-eight dollars in cash for defendant’s note, which sum, together with the interest due on tlie note, equaled the face value of the note in controversy. The surrender to a party of his own promissory note, if valid and enforcible, and the taking in lieu thereof a negotiable note, made by a third party, before its maturity, constitute the party a bona fide holder for value. (Brown v. Leavitt, 31 N. Y. 113; Pratt v. Coman, 37 id. 440.)
+But the note surrendered must be a valid obligation in order’ to constitute the party a bona fide holder for value. Its existence constitutes prima facie evidence of the fact, but it may be overborne by proof that it was void for want of consideration.
+After the plaintiff had testified to the existence of the note and his surrender of it to Boring, defendant’s counsel undertook to cross-examine him in relation to the consideration of the note surrendered. We quote from the record: “ Q. What was the consideration for the former note of $5,000? A. What was it for? Q. Yes? [Objected to.] The Court. — I do not see that that is of any consequence. 'defendant’s Counsel. — 'Suppose there was no consideration for it. The Court.— I will not go into that. Defendant excepts.”
+Clearly it was a mistake to hold, as the court did in effect, that an entire absence of consideration for the Boring note would necessarily not affect the question whether plaintiff was a purchaser for value of this note. It may well be that the testimony of the witness would have shown that there was ample consideration, but we cannot so assume as the evidence was excluded on plaintiff’s objection.
+The judgment should be reversed and a new trial granted, with costs to the. appellant to abide the event.
+Yan Brunt, P. J., and O’Brien, B, concurred.
+Judgment reversed, new trial granted, costs to appellant to abide event.
