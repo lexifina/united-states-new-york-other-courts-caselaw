@@ -1,0 +1,24 @@
+---
+court: "New York Superior Court"
+decided: "1848-12-09"
+citations: ["2 Sandf. 223", "4 N.Y. Super. Ct. 223"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Parker v. Ellis and others."]
+source_url: "https://static.case.law/ny-super-ct/4/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1360113
+---
+
+# Parker v. Ellis
+
+## Majority (By the Court. Vanderpoel, J.)
+
+By the Court. Vanderpoel, J.
+It does not appear from the return, that the plaintiff contracted on his own behalf exclusively for the gas for which he paid, and on the strength of which payment he brought this action before the justice. The evidence is, that there were at least twenty members of the company, besides the three parties to the suit. The defendant Ellis was lieutenant, Gilhooly treasurer, and Ballou a private. Two questions arise:
+1st. Can the plaintiff maintain any action against the defendants, or either of them ?
+2d. Can he single out these three, and maintain a joint action against them; or must he sue each separately ?
+It does not appear that the plaintiff, when he made the payment, required any subrogation; still he is not wholly remediless. I have not found in any common law compiler or commentator so clear, full and satisfactory an exposition of the rule which is to govern cases of this description, as is to be found in Pothier. (1 Poth. on Ob. 145, Phil. Ed. of 1824.) He says, that although a debtor in solido has omitted, at the time of payment, to require a subrogation, he is not, therefore, destitute of all redress, but has on his own account, an action against each of his co-debtors for the repetition of their several proportions ; that when the debt is contracted by several persons for a common affair, the debtor who has paid the whole has against each of the others, the action pro soeco. He has this action against each of them for the share which they respectively had in the common subject, which is the foundation of the debt. This is the rule of the common law also. In equity, however, if any one is insolvent, he who has paid the whole, has likewise a claim against each of those who are solvent, to pay the proportion which they ought, respectively, to bear of the loss arising from such insolvency; for, as Pothier justly remarks, insolvency of any One is a loss to the body at large, which ought consequently to fall upon each of the members in proportion to his share.
+The case of Cowell, Adm'r. v. Edwards, (2 Bos. & Pul. 268,) has a direct bearing upon the present case. John Cowell, the plaintiff’s intestate, having entered into a joint and several bond with seven other persons, two of whom were principals, and five others, as well as himself, sureties, was, together with his co-sureties, called upon to pay the sum engaged for. The defendant and two of the other sureties, paid each a part of that sum, but the plaintiff’s intestate paid the residue. Upon this, the plaintiff, considering the defendant and one of the two sureties who had already contributed, as the only solvent sureties, called upon them to pay their proportion, and then brought his action to recover from the defendant such a sum of money as, when added to what had already been paid by him, would make up one third of the whole sum paid to the obligees, deducting only what had been contributed by the fourth surety, not called upon in that suit. Lord Eldon, Ch. J., said that he had conversed with Lord Kenyon on this subject, who was also of opinion that no more than an aliquot part of the whole, (one sixth,) regard being had to the number of co-sureties, could be recovered at law by the defendant, though if the insolvency of all the other parties were made out, a larger proportion might be recovered in a court of equity. In Child v. Mosely, (8 T. R. 614,) Lord Kenyon speaks approvingly of a case in Rolle’s Abridgment, where a party met to dine at a tavern, and after dinner, all but one of them went away without paying their quota of the reckoning, and that one paid for all the rest; and it was held, that he might recover from the others their aliquot proportions. If each party is liable for his aliquot proportion, no joint promise to the plaintiff here can be implied, so as to enable him to maintain a joint action against three of the twenty odd members of the company. Each is liable for his proportion. The plaintiff surely cannot on any principle, recover the whole from those three, with the exception of his own share. If he can recover the shares of three in a joint action, he may in other suits, join two, three, or four, at his option, a proceeding which would be wholly inconsistent with the most familiar principles of the common law. We are of opinion that the justice very properly gave judgment for the defendants.
+Judgment affirmed.
