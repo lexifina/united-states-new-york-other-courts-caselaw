@@ -1,0 +1,33 @@
+---
+court: "New York Surrogate's Court"
+decided: "1895-10"
+citations: ["1 Gibb. Surr. 408"]
+reporter: "gibb-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Appraisal of the Estate of Sophia Gage Burr, Deceased."]
+source_url: "https://static.case.law/gibb-surr/1/cases/0408-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1146147
+cites_cases: ["127 N. Y. 80", "23 N. Y. 228", "97 Pa. St. 179"]
+---
+
+# In re Appraisal of the Estate of Burr
+
+## Majority (SiIíKman, S.)
+
+SiIíKman, S.
+This is an appeal by the county treasurer from the report of the appraiser appointed by this court to value the property of decedent within this State for the purpose of taxation under chapter 399' of the Laws of 1892.
+Decedent died in January, 1895, a resident of West Chester, in the State of Pennsylvania, in which State her will was proved and principal administration had. Her husband, Rushton D. Burr, died in Germany in May, 1893, but was at the time of his death a resident of the State of Massachusetts. By his will he gave his property to his wife. Among his assets' were certain funds deposited in savings banks located in the cities of New York and Yonkers. After his death, and in the year 1894, Mrs. Burr transferred such bank accounts to her individual name. It does not appear by the evidence that she used these accounts by depositing and drawing money, but counsel for respondent upon the argument conceded that she did. These accounts at the time of her death aggregated $8,584.73. Decedent also had in the hands of Duncan Smith, her legal adviser, who resides in- this county, the sum of $2,500', and had also a bond for $10',000, secured by a mortgage upon real estate ini the city of New York.
+The appraiser finds that the decedent made and retained the savings bank deposits “ merely for her temporary convenience, and with, the intention of withdrawing the same therefrom as soon as she could find a satisfactory investment therefor; that in making such deposits she never intended to invest the said moneys within this State.” But there is nothing in the record before me that justifies or sustains such a finding or conclusion.
+The fact that her legal adviser resided in this State, as well as both of her executors, and the fact that she had already made investments in this State, would lead to the opposite conclusion.
+The appraiser finds that only the bond for $10,000; secured by a mortgage upon New York City real estate, is taxable in this State, while the county treasurer claims that the savings bank deposits and the money in the attorney’s hands is also taxable.
+I cannot see upon what principle the bond and mortgage is taxable, and not the savings bank deposits and the money in the hands of the attorney. I should be inclined to the opinion that, the property being intangible, its situs was that of the domicile of the owner, were it not for the decision of the Court of Appeals in Matter of Romaine, 127 N. Y. 80, in which case it was held that deposits in savings banks of this State, made by non-residents, were taxable here.
+Counsel for respondent undertook to distinguish the Eomaine case from the one at bar, upon the ground that it appeared in the Eomaine case the securities were “habitually kept ” within the State, and that in the case at bar the funds were left on deposit in this State temporarily only, awaiting investment.
+The principle upon which such property is taxable is that it is under the protection of our laws and should, on that account, pay a share of the expenses of the government. The money in the savings banks was there drawing interest, and protected by the laws of the State; among others that creating a banking department, which department is carried on at a great expense to the State, and was enacted for the particular protection of depositors. It is only in cases of property actually or constructively in transit from one State to another through this State that an exception is made, and the property is not considered-to be within the State.
+This case is one of some hardship, for the reason that the whole estate of the decedent is taxable in Pennsylvania (Laws of Pennsylvania 1887, p. 79), and if the property referred to is taxable here; the right of succession to it will cost ten per cent, of its value.
+The Pennsylvania statute was evidently passed in view of the decisions in Orcutt’s Appeal, 97 Pa. St. 179; Appeal of Commonwealth of Pennsylvania, 11 Wkly. Notes Cas. 492, which followed decisions in the United States Supreme Court upholding in effect the legal fiction or maxim, “ Mobilia personam sequuntur; ” but it was not long ago decided in this State that such fiction was not of universal application, and does not apply to laws relating to taxation. Hoyt v. Commissioners of Taxes, 23 N. Y. 228.
+Judge Comstock, however, in the decision in that case, limited its application to personal property that was visible and tangible; but the logic of the decision in the Romaine case is that the maxim does not apply in any case where the securities representing the property or documentary evidence of property are within the State.
+It is unfortunate that the laws of the different states relating to succession taxes are not uniform, and framed to prevent double taxation; and it is .also unfortunate that a construction of the law should be given which makes it easy for the law to be evaded, as it could have been in this case. The foreign executors could have disposed of all the property within this State, and have given good title by assignment thereto, although they would not have any standing in the courts of this State to sue for the same. But with. misfortunes we have nothing to do. We must execute the law as we find it, and as it has been interpreted by the higher courts.
+The decree assessing the tax heretofore entered will be opened and modified to include all the property referred to in the appraiser’s report, with ten dollars costs to the appellant.
+Ordered accordingly.
