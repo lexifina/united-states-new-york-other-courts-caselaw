@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court"
+decided: "1893-05"
+citations: ["76 N.Y. Sup. Ct. 484"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Mayham, P. J., and Herrick, J., concurred."]
+parties: ["In the Matter of the Judicial Settlement of the Accounts of the Executrix and Executors, etc., of Frederick D. Hodgman, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/76/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4681185
+cites_cases: ["106 N. Y. 663", "113 N. Y. 115", "40 Cal. 463", "5 Cow. 719", "8 Md. 297"]
+---
+
+# In re the Judicial Settlement of the Accounts of Hodgman
+
+## Majority (Putnam, J.:)
+
+Putnam, J.:
+It does not require an argument or citation, of authorities to show that the legacy of $50,000 bequeathed to the appellant in the will of Frederick D. Hodgman, deceased, was not specific, and hence that she was not entitled to the dividends which accrued on the bank stock or bonds mentioned in the will.
+Nor do we think appellant entitled to be allowed on the accounting for interest on said legacy. First. The receipt shows that she received the $50,000 in full. This paper is an admission that said sum without interest was what she was entitled to. It shows that she and her co-executors settled on that amount as due her. After having so voluntarily received $50,000 as “ the amount of the legacy left me by the will■ of said Hodgmcvn,” she cannot recover interest. Second. On the evidence and facts of the case the surrogate was authorized to find that the legacy of $50,000 to appellant, being given in lieu of dower and thirds, were paid to her as soon as she elected to receive it. Until such election it would not draw interest.
+We are also of the opinion that the surrogate did not err in not allowing the appellant fees other than had already been paid her. Her receipt was as follows : “Also received from the same $353, my fee as Executn-ix of said estate? The parties, as the surrogate finds, seem to have intended to settle their accounts as executors between themselves, and pursuant to the arrangement appellant gave the receipt for $353, her fees as executrix. This voluntary settlement of the amount of appellant’s fees, made about fifteen years before the accounting and during the lifetime of Hitchcock, we think, should not be disturbed. The parties having acted upon it and distributed the estate, the surrogate was right in refusing to reopen the matter.
+The two lapsed legacies clearly went to the residuary legatees. (Riker v. Cornwell, 113 N. Y. 115 ; Matter of Crossman, Id. 509, 510; Matter of Bonnet, Id. 524.) Therefore, the appellant was not entitled to any interest therein as widow, and was not injured personally by the direction in the decree in reference thereto.
+We conclude that the surrogate in his decree has not erred in .any way affecting the interests of appellant. If any error has been committed in the conclusions and rulings of the surrogate other than above considered they are such only as affect the residuary legatees under the will in question, who were parties to the proceedings^ with the right of appeal, but who have not taken any exceptions to the rulings of the surrogate or any appeal from his decree. We think the executrix and appellant, having brought the residuary legatees before the surrogate and made them parties to the accounting, on the entry of the decree of the surrogate, has no interest in the decree as far as it settles, determines or affects the rights of the legatees who were parties to the proceeding, and who might except or appeal. If they made no complaint of the rulings of the surrogate or of his decree it is not for the executrix to do so. (Bates v. Ryberg, 40 Cal. 463 ; Estate of Stephen A. Wright, 49 id. 550; Reid v. Vanderheyden, 5 Cow. 719; Salmon, Trustee of Boon, v. Pierson, 8 Md. 297; Stewart, as Trustee, v. Codd, 58 id. 86; Hyatt v. Dusenbury, 106 N. Y. 663 ; Bryant v. Thompson, 128 id. 426.)
+The appellant, on the accounting before the surrogate, did not represent the legatees. After she had brought them into court their interests and hers conflicted, as in case of a plaintiff and defendants. Nor does she represent them on the appeal.
+We do not, therefore, feel called upon to examine and discuss the .very many other rulings of the surrogate to which exceptions are taken by the appellant, because such rulings only affect the residuary legatees, and are, therefore, of no concern to the appellant, and the residuary legatees make no objection. The executrix is not aggrieved by such ruling. (Civil Code, § 2528.)
+The decree provides that $2,932.26 in the hands of Alfred C. Hodgman and $500 in the hands of appellant be paid to respondent Wing. As neither Alfred C. Hodgman or either of the residuary legatees complain of this direction as to the said $2,932.26 appellant has no canse to complain. The $500 in the hands of appellant being the lapsed legacy which, as. we have seen, should go to the residuary legatees, and which appellant holds for them as trustee, said legatees not objecting to the direction of the surrogate requiring said sum to-be paid to respondent, appellant has no cause to complain of such order and disposition of the fund.
+Under all the circumstances of the case, we have doubts as to the correctness of the conclusion of the surrogate that there was a balance due Wing as executor from the estate of Frederick D. Hodgman, deceased, of the sum of $13,456.40, and were there any appeal in behalf of the legatees, we would consider this matter, but as the only persons affected by the error of the surrogate, if any was committed, acquiesce in his conclusions, we are not called upon to discuss this question.
+We are of opinion that tlie surrogate should have allowed the appellant the amount paid by her to her attorney for services of the accounting. The bill seems reasonable; she was compelled to employ counsel, and she has in her hands, as we have seen, $500 of the assets of the estate. The decree should be modified by allowing' apjiellant the amount paid her attorney, $350, and providing that the balance in her hands, $150, be paid to the respondent, instead of $500, and, as so modified, affirmed, without costs to either party.
+Mayham, P. J., and Herrick, J., concurred.
+Decision modified and, as modified, affirmed, without costs.
