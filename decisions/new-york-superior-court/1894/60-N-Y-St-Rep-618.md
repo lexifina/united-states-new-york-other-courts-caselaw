@@ -1,7 +1,8 @@
 ---
 court: "New York Superior Court"
 decided: "1894-06"
-citations: ["60 N.Y. St. Rep. 618", "60 N.Y. St. Rep. 619"]
+decided_precision: "month"
+citations: ["60 N.Y. St. Rep. 618"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
