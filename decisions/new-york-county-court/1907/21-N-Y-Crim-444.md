@@ -1,0 +1,31 @@
+---
+court: "New York County Court"
+decided: "1907-10"
+citations: ["21 N.Y. Crim. 444", "56 Misc. 250"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. HERBERT S. SEWELL."]
+source_url: "https://static.case.law/ny-crim/21/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1192240
+cites_cases: ["23 Misc. Rep. 428"]
+---
+
+# People v. Sewell
+
+## Majority (Grant, J*.)
+
+Grant, J*.
+The indictment was found by the grand jury of Delaware county on the 21st day of May, 1906, and recites that the acts constituting the crime charged were committed on or about February 10, 1899.
+The defendant moved to dismiss the indictment upon the grounds: First, that five years had elapsed after the alleged crime was committed and before the indictment was found; and, second, that improper evidence was received before the grand jury.
+To determine the questions involved in this case necessitates a construction of sections 142 and 143 of the Code ofi Criminal Procedure, which are as follows:
+“ § 142. Limitation of five years.—An indictment for a felony, other than murder, must be found within five years after its commission, except where a less time is prescribed by statute. And an indictment for a misdemeanor must be found within two years after its commission.”
+“ § 143. Defendant out of state.—If, when the crime is committed, the defendant be out of the state, the indictment may be found within the term herein limited after his coming within the state; and no time during which the defendant is not an inhabitant of, or usually resident within, the State, or usually in personal attendance upon business or employment within the State, is part of the limitation.”
+The position of the defendant is that the exception contained in section 143, relating to absence from the State, only applies to cases where the defendant was out of the State when the crime was committed, and has no application to cases where the defendant was in the State when the crime was committed.
+The district attorney, answering the contention of the defendant’s attorney, urges that the absence from the State, mentioned in section 143, has a general application to all crimes, not only those mentioned in section 143, but those mentioned in section 142 as well.
+The question seems to be a new one, and I have been unable to find any case reported which sheds any light unless it may be the case of the People v. Linderborn, 23 Misc. Rep. 428, in which Mr. Justice Fursman, in writing the opinion, in effect held that the exceptions contained in section 143 had a general application to all cases; but, as the questions involved in the case under consideration were not in the case decided, I do not consider it controlling, hence it is necessary to examine sections 142 and 143, and, if possible, ascertain their meaning.
+Under the criminal statute relating to limitations, as it existed prior to the enactment of the Code of Criminal Procedure in 1881, what are now sections 141, 142 and 143 were embodied in a single section, under which there could be no question but that absence from the State would prevent the Statute of Limitations from running; and whether, by the codification of this provision, dividing the former section into separate sections, separately numbered and with separate headings, the Legislature intended to establish a different rule, must be determined from an examination of these sections. It will be observed that section 143 commences with the conjunctive words, “ if when,” showing it to be a dependent sentence, depending upon something that has preceded it to determine its meaning. Another reason why it would seem to be clear that section 143 was not an independent sentence, but dependent upon section 142, is the fact that the limitation period is alone mentioned in section 142, yet in section 143 the words, “ within the term herein limited,” are used, which must refer to the term mentioned in section 142. Prom these facts it would seem to be clear that the codifiers intended that title II of the Code of Criminal Procedure, relating to the time of commencing criminal actions, should be considered the same as a single section, or, in any event, as relating to a single subject matter; and, if such was their intention, as it would seem to be, it is apparent that the clause, “ and no time during which the defendant is not an inhabitant of, or usually resident within, the State, or usually in personal ¿ttendance upon business or employment within the State, is part of the limitation,” applies, not only to section 143, but to section 142 also, and in such event the indictment was found in due time.
+I have also examined the evidence taken before the grand jury when the case was before it for consideration, and do not find any illegal evidence which would warrant the dismissal of the indictment.
+Motion to dismiss the indictment is, therefore, denied.
+Motion denied.
