@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-12"
+citations: ["99 N.Y. Sup. Ct. 521"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: [". Lewis and Bradley, JJ., concurred."]
+parties: ["Susan Magennis, as Administratrix, etc., of Edward Magennis, Deceased, Appellant, v. Nicholas A. Scheid, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/99/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4801541
+cites_cases: ["136 N. Y. 505"]
+---
+
+# Magennis v. Scheid
+
+## Majority (Ward, J. :)
+
+Ward, J. :
+The plaintiff in her complaint alleges that her intestate, Edward Magennis, and the defendant had been carrying on the business of rendering grease, tallow, bones and fertilizers at Clieektowaga in Erie county; that after the death of the intestate the defendant had carried on the business, and had possession of the plant and property connected therewith, claiming to be the surviving partner of the intestate, and had refused to let the plaintiff have access to the business and property in question, and demanded that an account be taken of all the dealings and transactions between the defendant and the intestate, and that it be determined whether a partnership existed, and for other relief.
+The defendant answering alleged the existence of a co-partnership between the deceased and the defendant in the said business, and that they were jointly interested therein, and as such co-partners were the owners of the plant and appliances and assets connected therewith, and that as survivor he was entitled to close up the business of the firm and distribute its assets.
+The trial court found the facts showing that a co-partnership existed between the deceased and the defendant, and that they had carried on as such the rendering business, and in the third finding of fact appears this statement: “ That the precise interest of each of said partners in said business, and to what property it related, was left uncertain.” The court found as a conclusion of law, first, that the deceased and defendant were co-partuers in tlié business, and carried on such business as co-partners, and, second, as follows: “ I direct that a referee be appointed to take and state the condition of the co-partnership accounts; the interest of each of said co-partners in the firm assets and the property to which such co-partnership related, and the liabilities against said company. Said judgment will direct said referee to take proof of all of said facts and report the same with all convenient speed to this court with his opinion thereon.”
+The defendant filed exceptions to the conclusions of law, and appealed from the interlocutory judgment rendered upon the findings of the court, and he insists here : First, that the facts found do not sustain the conclusion of the court that a partnership existed between the plaintiff’s intestate and the defendant; and, second, that the court had no powe.r to direct a reference to take and state the interest of the plaintiff and of the defendant in the firm assets or in the property, that being one of the questions raised by the pleadings in the case, nor did the court have the power to direct a reference to take proof of said facts and require the referee to report such proofs to the court with his opinion thereon.
+The evidence taken before the court as to the existence of the co-partnership does not appear in the appeal books, and is not before us. We have simply the facts found by the court and its legal con-¡ elusions. As to the first point we can, therefore, only inquire whether the facts found were sufficient to justify the. legal conclusions reached. Taking the findings of fact altogether there is. enough to justify the conclusion as to the co-partnership between the intestate and the defendant, but not to determine the exact position of each party in that co-partnership or his interest in the property; indeed, the court finds that- that question is left uncertain. It is manifest, therefore, that, before the accounts can be taken -and stated as between the former partners, the interest of each, or the share of each, in the business and property must be ascertained.
+The trial court, instead of ascertaining that as one of the questions at issue in the case, makes a reference for that purpose, and that is the other point of error alleged by the appellant.
+The only authority that can be claimed for this reference is section 1015 of the Code of Civil Procedure, which is as follows: “The court may likewise of.its own motion, or upon the application of either party without the consent of the other, direct a reference to take an account and report to the court thereon, either with or without the testimony, after interlocutory or final judgment, or where it [is] necessary to do so for the information of the court, and also to determine and report upon a question of fact arising in any stage of the action upon a motion or otherwise, except upon the. pleadings.”
+That part of the order of reference referring to the referee to take and state the interests of the partners in the firm assets, and the property to which such co-partnership related, cannot be sustained ; that question arose upon the pleadings and was at issue in the action, and it was the duty of the court to decide that question upon testimony taken before it where the court could have the benefit of seeing the witnesses, and observing their appearance and manner of testifying. This was a right that the parties could insist upon, and the duty of taking this testimony could not be relegated to a referee.
+Had the court ascertained the exact interests of the partners in the firm property and determined that interest, then a reference to state the partnership account would have been proper and ia authorized by the Code.
+In Doyle v. Metropolitan El. R. Co. (136 N. Y. 505) the court, against the defendant’s objection, appointed a referee to take testimony as to the value of any easement or property taken or interfered with by the defendant and as to the amount of the rental loss that the plaintiff had sustained, and to report the same with his opinion thereon. It was held that the court had no power to direct such a reference; that case is controlling here.
+The interlocutory judgment should be reversed and a new trial ordered, with costs to abide the final award of costs.
+. Lewis and Bradley, JJ., concurred.
+Interlocutory judgment reversed, and a new trial granted, with costs to abide the final award of costs.
