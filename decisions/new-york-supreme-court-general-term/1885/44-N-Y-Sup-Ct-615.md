@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1885-10"
-citations: ["44 N.Y. Sup. Ct. 615", "44 N.Y. Sup. Ct. 623"]
+decided_precision: "month"
+citations: ["44 N.Y. Sup. Ct. 615"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["ELLEN O’DONNELL, Respondent, v. ROBERT McINTYRE Appellant."]
 source_url: "https://static.case.law/ny-sup-ct/44/cases/0615-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8596114
-cites_cases: ["1 Mich., 338", "10 Tex., 546", "12 Abb. N. C., 1", "14 N. Y., 456", "15 Barb., 590", "15 N. Y., 316", "21 Ill., 165", "22 Hun, 253", "22 Wend., 121", "23 Penn. St., 131", "3 Barb., 589", "34 How., 323", "35 N. Y., 462", "35 N. Y., 471", "39 Am. Dec., 71", "4 Cush., 355", "4 Hill, 76", "4 N. Y., 126", "4 Watts & Serg., 188", "48 N. Y., 486", "49 N. Y., 355", "5 Cow., 124", "5 N. Y., 395", "5 Wend., 246", "51 Am. Dec., 95", "53 Am. Dec., 419", "55 N. Y., 1", "58 Barb., 434", "6 Wend., 666", "60 Am. Dec., 219", "69 N. Y., 1", "7 Cow., 636", "7 N. Y., 517", "73 N. Y., 529", "97 Mass., 105"]
+cites_cases: ["12 Abb. N. C., 1", "14 N. Y., 456", "15 N. Y., 316", "22 Hun, 253", "34 How., 323", "35 N. Y., 462", "4 Hill, 76", "48 N. Y., 486", "49 N. Y., 355", "55 N. Y., 1", "58 Barb., 434", "7 N. Y., 517"]
 ---
 
 # O'Donnell v. McIntyre
