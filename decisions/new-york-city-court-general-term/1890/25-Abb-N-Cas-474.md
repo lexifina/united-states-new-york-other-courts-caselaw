@@ -1,0 +1,26 @@
+---
+court: "New York City Court, General Term"
+decided: "1890-10"
+citations: ["25 Abb. N. Cas. 474"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ESDAILE v. WUYTACK."]
+source_url: "https://static.case.law/abbn-cas/25/cases/0474-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1966190
+cites_cases: ["112 N. Y. 257", "41 Penn. St. 102", "45 N. Y. 545", "78 Cal. 540"]
+---
+
+# Esdaile v. Wuytack
+
+## Majority (By the Court.)
+
+By the Court.
+The action did not involve the investigation or settlement of the co-partnership affairs or accounts of the parties. The partners had dissolved their copartnership relations, divided their assets and property,, and, for all that appears to the contrary, the claims paid by the plaintiff effectually and forever closed the partnership-business. There was nothing to collect, and the only thing-left open was the payment of the partnership obligations paid by the plaintiff, one-half of which the defendant was bound to contribute. It is an action of which a court of equity would not have jurisdiction, and the plaintiff must, find his remedy in a court of law, or he is remediless.. Equity does not invite suits between partners, and entertains them only where an accounting is necessary, or some equitable relief required.
+In Jepson v. Peck (78 Cal. 540) the court held that where-a partnership is dissolved by mutual consent, and an accountingis had between the members, and an agreement is entered into that the firm debts shall be paid equally, one of the partners who collects all the available partnership assets, ■and applies them to the payment of the firm indebtedness, ■and pays the balance with his-own funds, may maintain an action against the other to recover his proportion of the indebtedness so paid, although no definite balance has been ■agreed upon between them. The rule is well settled that one partner cannot maintain an action against another to recover an amount claimed by him by reason of partnership transactions, until there has heen a final settlement of ■ the. affairs of the concern, by discharging its liabilities, collecting its assets, and definitely ascertaining the surplus to a share of which he is entitled.. The. reasons for this rule have been variously stated, but this case, as 'we view it, is not within any of them. The complaint shows (inferentially at least) that there are no outstanding demands against the partnership, and no outstanding debts to be collected, or that can be ■collected, so that the judgment to be rendered herein will be' a final settlement between the partners.
+In Ferguson v. Baker (112 N. Y. 257) the court held vthat although ordinarily one partne'r may not sue his co-partner at law in respect to partnership dealings, if the cause -of action is distinct from partnership accounts, and does not involve their consideration, it is maintainable. In that case, the complaint alleged, in substance, that the parties were formerly copartners ; that the partnership had been dissolved and a settlement made; that the defendant had agreed to collect the debts due the firm, amounting to a sum specified, and as soon as collected to pay over to the plaintiff his share, i. e., one-half thereof ; that defendant had collected ■said amount, but had not paid as agreed, and .judgment was demanded for the one-lialf.. It was held, that the action was maintainable upon the facts alleged.
+There is no rule forbidding one partner from suing ■another at law, in respect of a debt arising out of a partnership transaction, if the obligation or contract, though relating to the partnership business, is separate and distinct from all other matters in question between the partners, and can be determined without going into the partnership accounts-(Crator v. Binninger, 45 N. Y. 545). In Wright v. Cumpety (41 Penn. St. 102) the plaintiff and defendant dissolved partnership, but before the formal and public dissolution, the defendant contracted debts in the name of the old firm, which the plaintiff paid, and it was held that the plaintiff might recover the amount in an action against the defendant, as money paid to 1ns use, no accounting being necessary.
+In Johnson v. Kelly (4 Supra. Ct. [T. & C.] 417) the complaint stated that plaintiff and defendant entered into partnership for a year; that, by the partnership agreement, the plaintiff was to furnish the capital and the plaintiff and defendant were to share the profits and losses equally, and that a loss accrued at the expiration of the partnership, foione-half of which a money judgment was demanded. It was held on appeal that such a complaint in an action at law was not' demurrable. So, through the books the rule is followed that where the cause of action is distinct from partnership accounts, and does not involve their consideration,, nor require their examination, a court of law may proceed with the action.
+Viewed in the light of these authorities, the complaint states a cause of action of which this court has jurisdiction. It was error, therefore, to dismiss the complaint, and the judgment entered on such dismissal must be reversed and a new trial ordered, with costs to the appellant to abide the. event.
+McAdam, Ch. J., and Ehklich, J.
