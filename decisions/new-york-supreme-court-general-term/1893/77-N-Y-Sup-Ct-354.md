@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-06"
+citations: ["77 N.Y. Sup. Ct. 354"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barrett, J., concurred; Eollett, J., dissented."]
+parties: ["Roger M. Sherman Appellant, v. Irving Grinnell and Others, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/77/cases/0354-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4679581
+---
+
+# Sherman v. Grinnell
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+This action was brougnt to recover damages for false imprisonment, the claim being that the plaintiff was taken into custody, under an execution unlawfully issued at the instance of the defendants. The difficulties into which the plaintiff has fallen have arisen entirely from the fact that he has alleged much more than was necessary for the proper setting forth of his cause of action.
+But such surplusage in no way affected the force of the proof attempted to be offered and which was excluded.
+The complaint alleged, amongst other things, that on the 27th of February, 1889, the defendants, under the color of authority of an execution issued against the person of this plaintiff, which they' had illegally issued to the sheriff of the county of New York upon said judgment (judgment having been previously referred to) at the city of New York, maliciously, unlawfully and without legal authority, assaulted the plaintiff, arrested this plaintiff, and detained and unlawfully deprived him of his liberty for the space of six months thereafter. This was the gravamen of the complaint; and in order to prove this allegation, the plaintiff offered in evidence an execution, wherein it was recited that a judgment had been obtained on the 23d of November, 1886, in an action in the City Court, between-Irving Grinnell and J". S. Bowdoin, executors plaintiffs, and Eoger M. Sherman, defendant, in favor of said Grinnell and Bowdoin against the said Sherman 'for the sum therein stated, etc., together with proof of the handwriting of the defendant Hardon upon such, execution, and with testimony that it was the execution under which. The plaintiff was arrested.
+This execution was objected to upon the ground that it appeared upon its face that it was not an execution such as was complained of in the complaint, but in a wholly different action, by .different persons not at all identical with the defendants in this suit or any of them. The court thereupon excluded the execution.
+We think this objection was entirely untenable. The allegation in the complaint was that on the 27th of February, 1889, the plaintiff was arrested under an execution issued upon a judgment obtained in favor of the defendants, Grinnell and Bowdoin, on the 23d November, 1886, which is precisely the judgment described in the execution in question. The introduction of the word “ executors ” in the execution in the manner in which it is introduced was entirely surplusage and meant nothing. The judgment is not recited to have been obtained by them as executors, but they are simply stated to be executors — of what or of whom, there is no statement.
+The plaintiff had a right to introduce this paper in evidence for the purpose of showing the connection of the defendants with this arrest, and then it became necessary for the defendants to justify the issuing of the execution by showing the existence of a proper judgment as a foundation therefor. Rut in the very commencement of the proof, the evidence of the plaintiff, by which he sought to connect these defendants with the act of the sheriff, is shut out. This, we think, was error which calls for a reversal of the judgment.
+It is difficult to see upon what theory the defendants, Grinnell and Bowdoin, could be sued as executors for a wrong, if any, committed against the plaintiff, even if they did the wrong in the administration of the estate. It is a well-settled principle that for all acts of executors, they are liable individually and not in then representative capacity; and, therefore, even if the process was issued in their name as executors and was improperly issued, they would be only individually liable only for the wrong.
+Certain other evidence was attempted to be offered upon the part of the plaintiff, which was excluded. And the court thereupon directed a verdict for the defendant, and granted the exorbitant allowance of $1,000. ¥e cannot see upon what theory the court directed a verdict in favor of the defendants, because for failure of proof the most that could have been done under such circumstances was to dismiss the complaint.
+The judgment should be reversed and a new trial ordered, with costs to appellant to abide the event.
+Barrett, J., concurred; Eollett, J., dissented.
+Judgment reversed and new trial ordered, with costs to appellant to abide event.
