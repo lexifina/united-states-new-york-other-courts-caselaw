@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["86 N.Y. Sup. Ct. 226"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis, Haig-i-it and Bradley, JJ., concurred.'"]
+parties: ["In the Matter of the Application of Uriah Harmon for Leave to Issue Execution against the Real Estate of David L. Hallock, Deceased."]
+source_url: "https://static.case.law/ny-sup-ct/86/cases/0226-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2396905
+---
+
+# In re Harmon
+
+## Majority (Dwight, P. J.:)
+
+Dwight, P. J.:
+The proceeding was by petition in the Surrogate’s Court of Cayuga county to obtain a decree, under section 1380 of the Code of Civil Procedure, granting leave to the plaintiff to issue an execution against real property of David L. Hallock, deceased, situate in that county, for the enforcement of a judgment in favor of the plaintiff, claimed to be a lien thereon. The only question presented is whether the judgment was a lien on the property mentioned at the time of the application.
+The judgment in question was a judgment of the Supreme Court, recovered in Wayne county, and the judgment roll was filed and the judgment docketed in that county August 27, 1873. A transcript of the judgment was filed and the judgment docketed in Cayuga county November 1, 1883. The judgment debtor, David L. Hallock, died April 11, 1884, seized of the real estate described in the petition, and leaving four children his sole heirs at law, who, with the administrator of his estate, were brought into this proceeding by citation. No one appeared to contest the granting of the petition, except the respondent Martha A. Russell. She is not mentioned by that name in the petition nor in the citation, though one of the heirs is named in both as Martha A. Miller, and it may be that she has’ changed her name since the citation was issued; otherwise, we are not informed how or why she became a party to the proceeding. There is a statement in the printed brief of her counsel that she became a purchaser of the real estate in question at a judicial sale in 1888, but there is no evidence to that effect in the record before us.
+The duration of the lien of a judgment on real property has always been the subject of statutory regulation in this State. Under the Revised Statutes the duration of such lien was limited to ten years after the filing of the judgment roll, as to the subsequent purchasers and incumbrancers only, and not as to the judgment debtor or his heirs or devisees. (2 R. S. 359, §§ 3 and 4; 2 Edm. 371.) The effect of this provision was not changed by that of the original Code of Procedure of 1848 (§ 237) nor by that of the Code of Procedure of 1849 (§ 282), as it was originally enacted. But by the amendment of that section in 1851 the limitation of teii years was made general, without restriction to purchasers and incumbrancers, thus, apparently, terminating the lien of a judgment at the end of “ ten years from the time of docketing the same in the county where the judgment roll was filed ” as to all persons interested in the real estate affected. And such, is, undoubtedly, the effect of the provision of the Code of Civil Procedure (§ 1251) as to all judgments thereafter rendered.
+The judgment in question here was rendered before the enactment of the Code of Civil Procedure, and the duration of its lien was, therefore, not regulated by the provision last mentioned, but it was, undoubtedly, regulated by the provision of the Code of Procedure (§ 282, supra), as amended in 1851, and that is, it seems, equally fatal to this proceeding.
+As we have seen, the Revised Statutes limited the duration of the lien to ten years only as to subsequent purchasers and incumbrancers. The original Codes of 1848 and 1849, while they prescribed the mode of docketing a judgment and obtaining a lien, imposed no limit to the duration of such lien, but left that to be regulated by the provision of the Revised Statutes. On the other hand, the amendment of 1851 re-enacted the limitation of ten years, but omitted the restriction of such limitation to the case of purchasers and incumbrancers. The new enactment covered the whole ground, and must be held to have superseded, and by implication repealed, the provisions of the Revised Statutes. After the amendment of 1851 the only provision of statute which gave to any judgment a lien on real estate was section 282, as amended; and it gave such lien, in any case, only for the period of ten years after the original docketing.
+It follows that the judgment sought to be enforced in this proceeding had ceased to be a lien on the real estate described in the petition before the proceeding was commenced, and the application was, therefore, properly denied.
+The decree appealed from must be affirmed.
+Lewis, Haig-i-it and Bradley, JJ., concurred.'
+Order of the surrogate of Cayuga county appealed from affirmed, With ten dollars costs and disbursements.
