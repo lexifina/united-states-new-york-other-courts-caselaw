@@ -1,0 +1,30 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1877-06-18"
+citations: ["7 Daly (N.Y.) 283"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Isaac C. Noe, Respondent, against George Gregory, Appellant."]
+source_url: "https://static.case.law/daly-ny/7/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1308144
+cites_cases: ["26 N. Y. 117", "52 N. Y. 494", "53 N. Y. 467"]
+---
+
+# Noe v. Gregory
+
+## Majority (Van Hoesen, J.)
+
+Van Hoesen, J.
+The complaint is in writing, and is in substance the ordinary quantum meruit count in assumpsit; the plaintiff claiming to recover the reasonable value of his services as a cutter, and tailor rendered to the defendant.
+The answer sets up that the services sued for were performed under a sealed agreement entered into and executed by the plaintiff, and by one E. Quinn, for whom the defendant signed as attorney in fact. The answer further alleges that the plaintiff was discharged for unskilfulness at the end of' a few weeks’ service, though the period of employment was one year, and that the only compensation provided for in the agreement was, that plaintiff should receive one-half of the net profits of the business; and the answer further avers that no profits had accrued.
+The justice gave judgment for the plaintiff for two hundred and fifty dollars.
+The evidence disclosed the fact that the plaintiff was informed that E. Quinn was the person in whose name filie business was conducted, and that the defendant was acting as Quinn’s agent. In consequence-of the defendant acting as agent for Quinn, the plaintiff, whose son drafted the articles of agreement, caused the contracting parties to be described as Isaac C. Noe of the one part, and 'G-. Gregory, attorney, of the other part. The agreement is signed and . sealed in the following manner: Isaac C. Noe (seal); E. Quinn per G. Gregory (seal).
+Taking the entire instrument together, there is no doubt that the defendant executed it, not as principal, but as the agent of Quinn; and that the contract is in no sense the contract of the defendant.
+Upon the trial, the • plaintiff attempted to show, by his cross-examination of the defendant and the defendant’s son, that there was no such person as Quinn ; and I think it probable that'the justice rendered judgment in favor of the plaintiff, because he had doubts as to the existence of Quinn.
+Parsons in his work on Contracts, vol. 1, xnarg. p. 58, says that an agent may be reached in assumpsit if work and labor be done for him under a supposed contract, which he was not authorized to make for his pretended principal. The writer cites no authority to sustain his -position ; more recent text books state the law differently. Thus in Wait’s Law of Actions and Defenses, vol. 1, p. 258, it is said that “ If a person falsely represents himself to be the agent of another, and to have authority to contract for him, and he does so contract without authority, the only remedy is by an action against him for the fraud or deceit.” Wait further states that if an agent innocently assumes to act as such, believing himself authorized to contract for his principal, he is liable, not for deceit, but upon an implied warranty of authority. In the first quotation I have made from Wait, he is not sustained by the dicta of Judge Selden in White v. Madison (26 N. Y. 117) or of Judge Andrews in Dung v. Parker (52 N. Y. 494) and in Baltzen v. Nicolay (53 N. Y. 467), for those judges say that the agent is liable upon an implied warranty of authority, whenever, whether innocently or fraudulently, he assumes, without authority, to make a contract in another’s name. If the question must not be considered as settled in this State, I should be inclined to adopt the view, that the only action against the pseudo agent who knowingly acts without authority, should be deceit. The later decisions in this State seem to me to leave no doubt as to the incorrectness of Mr. Parson’s statement, that a self-styled agent may be sued in assumpsit upon a quantum meruit for work and labor done under a contract made by such pretended agent in the name of another. I think the law of New York now is, that the pretended agent is only liable to an action of deceit, or to an action for the breach of warranty as to his authority. Either form of action will ap- • prise him that the question to be litigated is his authority to act for the person whom he represented to be his principal; and he may come prepared to try that issue.
+In the case at bar, the question as to his right to represent Quinn seems to have been sprung upon the defendant at the trial. Upon the cross-examination of .the defendant, various questions were put with a view to elicit answers from which an argument might be drawn that Quinn was so inattentive to the business that it was improbable. that he had any interest in it. This was all the plaintiff proved, to sustain the position he took that the real principal was the defendant. Even if the defendant were liable in assumpdit for the reasonable value of the plaintiffs services rendered in pursuance of the agreement, the burden rested upon the plaintiff of proving that the defendant assumed without authority to act as the agent of Quinn. This proof the plaintiff did. not furnish. Conscious that he had not done so, he contended upon the argument of the appeal that the burden lay upon the defendant of showing that he was in fact Quinn’s agent. The law did not cast any such onus on the defendant, but, on the other hand, it was of the very substance of the plaintiffs case to prove that the defendant was ■acting without authority. There was an utter failure to prove that the defendant assumed without authority to be the agent of Quinn. The decision of the justice was doubtless influenced by the mass of irrelevant testimony, which, under one pretence or another, was dragged into the case.
+The judgment should be reversed.
+Charles P. Daly, Ch. J., and Joseph F. Daly, J., concurred.
+Judgment reversed.
