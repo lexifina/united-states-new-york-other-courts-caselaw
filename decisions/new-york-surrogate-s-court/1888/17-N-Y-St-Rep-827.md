@@ -1,0 +1,24 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-07-21"
+citations: ["17 N.Y. St. Rep. 827"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Estate of David Haig, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0827-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008402
+---
+
+# In re the Estate of Haig
+
+## Majority (Ransom, S.)
+
+Ransom, S.
+This proceeding was brought by the executor of the will of the decedent for the disposition of his; real estate for the payment of his debts. It is claimed in behalf of certain of the parties interested in such real estate that the proceedings are defective in certain particulars, which I proceed to consider and ‘dispose of as follows:
+First. The claim that the petition is defective by reason of its omission to state when the letters testamentary were-issued is unfounded. While failing to show the precise date of their issuance, the petition ayers their issuance, and states facts showing that the present proceeding was commenced within three years after they were issued. This is. sufficient. Section 2750, Code C. P.
+Second. The will of the decedent shows that the property sought to be disposed of is not subject to a valid power of sale for the payment of the debts or funeral expenses, and there is nothing in the law that requires the petition to-contain an allegation of this fact. Section 2752, Code of C. P.
+Third. Thomas Haig, the brother of the decedent, who was a party to this proceeding and is referred to in the petition as one of his heirs, and as a person upon whose death, without issue, the decedent would have become entitled to-an additional interest in certain of the real estate in the petition mentioned, has died since the commencement of the-proceeding. It is alleged, and not disputed, that his heirs; are parties thereto. The statute (section 2778 Code of Civil Procedure) recognizes the power of the court to vest in a purchaser such interest in the estate disposed of as the decedent had at the time of his death, and makes no provision with respect to the disposition of any estate or interest subsequently acquired. It is, therefore, unnecessary to inquire whether or not such interest or estate has been so-acquired. The death of the decedent’s brother has, therefore, no effect on the regularity of this proceeding.
+Fourth. The objection to the omission to make a party to the proceeding the holder of a mortgage upon the property is of no effect. It does not appear that such holder was a creditor of the decedent at the time of his death, and the allegations of the petition negative the notion that he was. It is stated on behalf of the petitioner and not demied by the contestants, that the mortgage was a lien upon the property when acquired by the decedent and the other parties in interest. Any disposition which may be made of .such property under the decree which shall be entered .herein, would be subject to the lien of the mortgage. The holder is an unnecessary party hereto.
+The petitioner is entitled to a decree.
