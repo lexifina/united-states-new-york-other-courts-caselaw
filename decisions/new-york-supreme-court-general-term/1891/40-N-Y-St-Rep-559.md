@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-10-23"
+citations: ["40 N.Y. St. Rep. 559"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert H. Shannon et al., App’lts., v. John W. Pickell et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/40/cases/0559-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2065150
+---
+
+# Shannon v. Pickell
+
+## Majority (Dwight, P. J.)
+
+Dwight, P. J.
+The interlocutory judgment in an action for partition directed a sale of the premises and that the rents and profits for which the six defendants in question were held to account should be offset against their respective shares of the proceeds of the sale. On the accounting the amount of such rents and profits was found to exceed the amount of such shares. The ■question of the liability of those defendants for such rents and profits, with interest thereon, was one of the issues joined and tried in the action, and all the issues were decided adversely to them.
+After the determination of the issues a reference was made to Oscar Craig, Esq., “ to settle the form of the final judgment, and .also to report what, if any, costs and additional allowances should be granted to the attorneys for any of the parties.” The referee Teported that the plaintiffs having succeeded on the trial of the issues were entitled to costs of course under § 3238 of the Code, .and that none of the defendants were entitled to costs under that section. But he reported, in effect, that under § 1579 of the Code it was competent for the court to allow some taxable costs and additional allowances to parties who, though defeated on the issues, had contributed, by their appearance and their watchfulness, to the correct result of the proceedings. Accordingly he allowed to the six defendants “taxable costs to be adjusted by the •clerk,” and an additional allowance of $200. To this report the plaintiffs filed exceptions; first, in. that it did not determine that -the costs recoverable by the defendants should not include the •costs of the. trial of the issues joined in the action; second, in that it did not specify the costs to which the defendants were entitled. The report of the referee was confirmed by the court at special term
+Under the order thus made the defendants procured their costs to be taxed by the clerk at the sum of $758.84, which included the costs and disbursements of two trials and of one appeal to the general term. To these items the plaintiffs objected as not being properly allowable under the report of the referee, Mr. Craig, and, those objections being overruled, they moved for a re-taxation of the defendants’ costs; and from the order of special term denying that motion the first of these appeals was taken. Later, and for greater caution, the plaintiffs also appealed from the order which overruled their exceptions to the report of Mr. Craig on the question of costs, and confirmed that report.
+We think the latter appeal was unnecessary for the reason that, upon examination of that report, it seems not to bear the construction given to it by counsel for the defendants, and by the clerk upon the taxation of the defendants’ costs, but rather to support the contention of the plaintiffs in respect to the costs properly allowable to the defendants.
+•In his report when he states that-he allows taxable costs to the defendants to be adjusted by the clerk the referee says: “But I am of opinion that such taxable costs cannot embrace costs of either trial or appeal, for the reason that, as already stated, no defendant was a party to the issues tried or argued on appeal, except the said six defendants, the heirs of John Pickell, deceased, against whom the judgment on such issue is rendered. I am of ■opinion that § 1579 should not be construed with § 3228 so as to extend to any of the defendants in this suit the costs expressly given to the plaintiffs only.”
+It is to be observed also that the order of the general term on the first appeal from the interlocutory judgment, which reversed that j udgment for a supposed error in the admission of evidence on the first trial, granted a new trial with costs to abide the event; and the event of the new trial and of the second appeal was the final judgment in favor of the plaintiffs on all the issues in the action.
+We think the effect of the report of the referee on the question ■of the defendants’ costs was clearly misapprehended by the clerk, and that the taxation of those costs should have been limited to ■those not objected to by the plaintiffs, which included the costs before notice of trial, the amount paid by them to the referee, Mr. Oraig, and the additional allowance of §200, aggregating the .sum of $289.60.
+The order first appealed from, denying plaintiffs’ motion for retaxation, should be reversed and the judgment modified as above indicated, with costs of this appeal to the plaintiffs against the defendants, and the appeal from the order confirming the report of the referee should be dismissed without costs of such appeal to either party.
+Appeal from the order confirming the report of referee dismissed, without costs to either party. Judgment modified by striking out from the costs taxed in favor of the six defendants, heirs ■of John Pickell, all except the sum of $289.60, and as so modified affirmed, with ten dollars costs and the disbursements of the .•appeal to be paid by the said six defendants.
+Macomber and Lewis, JJ, concur.
