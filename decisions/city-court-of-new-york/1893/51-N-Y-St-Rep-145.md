@@ -1,0 +1,36 @@
+---
+court: "City Court of New York"
+decided: "1893-02-08"
+citations: ["51 N.Y. St. Rep. 145"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bernard A. Martin, App’lt, v. Louis Raffin, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/51/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 678061
+---
+
+# Martin v. Raffin
+
+## Majority (Fitzsimons, J.)
+
+Fitzsimons, J.
+This is an appeal from an order vacating and setting aside the summons herein and the service thereof upon defendant.
+The defendant resides in Tremont; the process server called there twice to serve him with the summons herein, and some other papers.
+On his second visit he found the defendant actually in the shelter of his wife’s petticoats, he having sought that means of protection for the purpose of avoiding service of the summons herein.
+While in that position he was invited to accept service of the said summons, which he refused to do.
+The summons and other legal papers were then laid upon his shoulder and he shook them to the floor.
+The appeal is based upon two points.
+I. That the service as above described involved an assault upon defendant’s person.
+IL That it was affected by a trick, viz.: concealing the process among a number of other papers entitled in another action or proceeding.
+I cannot imagine how the service in question involved an assault upon defendant; even the defendant swears that the papers served upon him were laid upon his shoulder.
+No violence or force, or even show of violence or force, was used to accomplish the service.
+He refused to receive them in his hand, and, therefore, in my opinion, the manner of service adopted was the only other way left to make service, and was certainly justifiable; in fact, the entire conduct of defendant was disrespectful to and exhibited a contempt for courts and legal process, which should not be encouraged by setting aside the service of the summons herein ; in fact, his conduct was so reprehensible, that it would please me to punish him for contempt if possible.
+To say that a person may avoid service of legal papers by refusing to accept the same, is to degrade the law and courts in the eyes of persons like defendant
+As to second point, that the service was effected by a trick, the mere recital of the means of service herein is a sufficiént refutation of that claim.
+No trick was used, and the summons might easily have been seen and read by defendant if he chose to do so.
+It was not concealed among the other papers served upon defendant at the time of the service of said summons.
+The service herein, under the circumstances related, was proper.
+The order appealed from is reversed, with costs, with leave to defendant to appear within three (3) days after service of order entered hereon upon defendant’s attorneys.
+McG-own and Van Wyck, JJ., concur.
