@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-12-14"
+citations: ["41 N.Y. St. Rep. 472"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Francis Dent, App’lt, v. The Society of the Friars Minor of the Order of St. Francis, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/41/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2068093
+---
+
+# Dent v. Society of Friars Minor of Order of St. Francis
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is an appeal from an order of the special term disallowing certain. cross-interrogatories to witnesses to be examined on commission at Rome, in Italy.
+The action is for the recovery of damages for the deprivation of the plaintiff of his support and maintenance as a priest and of his rights and privileges as a member of the Custodia of Buffalo of the Order of Friars Minor of the Strict Observance, incorporated as the Society of Friars Minor of the Order of St. Francis, and a perusal of the pleadings shows plainly that the rejected interrogatories are immaterial to any question which can be litigated upon the trial of this action.
+Under the provisions of the Code either party must be allowed to insert in the interrogatories to be annexed to a commission for the examination of witnesses any question pertinent to the issue which he proposes, and the converse of this rule is easily deduced, that a party must not be allowed to insert in such interrogatories any question not pertinent to the issue.
+It is true the question of relevancy and materiality might be reserved until the trial, but it is equally true that impertinent and irrelevant interrogatories should never be propounded.
+An examination of the questions disallowed at the special term shows them to be objectionable in many respects, and we thinlc they were properly rejected. ,
+The order should be affirmed, with ten dollars costs and disbursements.
+Barnard, P. J., and Pratt, J., concur.
