@@ -1,0 +1,56 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-04"
+citations: ["17 N.Y. St. Rep. 911"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Horace H. Eldred, Resp’t, v. Mattle S. Eames, as .Executrix, etc., of Frederick W. Eames, Deceased, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0911-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008300
+cites_cases: ["1 Lans., 450", "106 N. Y., 114", "15 N. Y., 399", "42 Hun, 164", "88 N. Y., 453", "98 N. Y., 388"]
+---
+
+# Eldred v. Eames
+
+## Majority (Martin, J. Hardin, P. J.)
+
+Martin, J.
+This is an appeal from an order denying a motion for a new trial and confirming the. report of a referee, and from the judgment entered herein. The reference was of a claim against the estate of a deceased person. The claim was for a balance alleged to be due the plaintiff for money lent, paid out and advanced to and for the defendant’s testator, and interest thereon.
+._ On the trial the plaintiff was permitted to withdraw one item of his claim, in which he charged the testator’s estate with $37,998.98, and credited it with $4,506.96. To this the defendant objected'and excepted to the ruling of the referee permitting it. The referee by his report found that the defendant, as executrix, was indebted to the plaintiff in the sum of $5,032.30 on said claim, and that the plaintiff was entitled to judgment against her as such executrix for that amount. The defendant claims that in this the referee erred: First, because the evidence was that the money found by him to have been paid and advanced to and for the defendant’s testator was not, in fact, for him, but for some sydicate or company, and second, if for him, a settlement had been had between the parties, whereby the plaintiff’s demand against the estate of the testator had been discharged. We think the evidence in this case was sufficient to justify the conclusion of the learned referee, that the items allowed by him were loaned, paid and advanced to and for the defendant’s testator and not to any syndicate or company It was at least a question of fact, and with his determination of it we are satisfied.
+There was no evidence of any settlement or accord and satisfaction between the parties, which would have justified the referee in finding or Folding that the plaintiff’s claim against the estate of the defendant’s testator was discharged or satisfied. •
+The defendant contends that it was error for the referee to allow the plaintiff to amend his claim by withdrawing a portion thereof, which included a credit as well as an item of indebtedness. The statute by which such a reference is authorized, provides that the referee shall have the same powers as if the reference had been made in an action in which the court might by law direct a reference. 3 R. S. (7th ed.), 2300, § 37.
+In an action a referee would have power to allow such an amendment. Price v. Brown, 98 N. Y., 388, 393; Williams v. Davis, 7 Civil Pro. R, 282, 286.
+_We think the referee had power to permit the plaintiff to withdraw this portion of his claim, and that he committed no error in allowing him to do so. Case v. Pharis, 106 N. Y., 114; 8 N. Y. State Rep., 548.
+But it is said that when the statute was passed under .which this proceeding was instituted, a referee appointed in an action possessed no power to allow amendments, and hence, that the referee in this proceeding possessed no such power. This claim is based upon the theory that the powers conferred upon such a referee are only such as were possessed by a referee in an action in 1828, when the statute was passed. In effect the claim is, that the statute must be construed as though it read, “a referee shall have the same powers as if the reference had been made in an action at the time of the passage of this act.” Such is not, however, the language of the statute, nor do we think such to be a proper construction of it. By this statute a referee appointed under it is given the same power as if he had been appointed in an action. The time to which this statute relates is the time when the appointment is made, and not the time when the statute was passed. We think that a proper construction of this statute leads to the conclusion that a referee appointed under it possesses the same powers, is entitled to the same compensation and subject to the same control as though he had, at the time of his appointment, been appointed a referee in an action instead of a referee under this statute.
+The claim of the defendant that the referee erred in allowing the plaintiff interest cannot be sustained. The rule must be considered, as established m this state, that upon money advanced by one person for the use of another, interest is recoverable from the time of the advance, m the absence of any express agreement upon the subject, unless it appears from the circumstances under which, and the purposes for which, the advance is made, and the relations existing between the parties, either that it was their intention that interest should not be paid or that it would be inequitable to exact it. Gillet v. Van Rensselaer, 15 N. Y., 399; Smith v. Bodine, 74 id., 30, 37.
+There is nothing in this case to show that it was not intended that interest should be paid. So far as the evidence goes it tends to show that it was intended that interest should be paid. Nor is there anything inequitable in requiring the defendant to pay it.
+From these considerations it follows that the judgment and order appealed from should be affirmed, with costs.
+Hardin, P. J.
+By section 37 (2 R S. [Edm. ed.], 91), it is provided that referees, in proceedings like the one before us, “shall.have the same powers” as if the reference had been in an action.
+By section 1018 of the Code of Civil Procedure it is declared that referees exercise “the same power as the court to allow amendments to the summons or to the pleadings.” Both statutes must be considered and an interpretation given in accord with the spirit and letter of each. Where a reference is had under the statute the claim and stipulation stand in the place and stead of and for the pleadings. Such a reference is a special proceeding. Bucklin v. C hapin, 1 Lans., 450; Hatch v. Stewart, 42 Hun, 164.
+These views lead me to concur in the result reached in the opinion of Martin, J., sustaining the power allowed by the referee in allowing the amendment.
+
+## Dissent (Follett, J.)
+
+Follett, J.
+(dissenting)—The debit side of the referred claim amounted to $56,943.48, the credit side to $9,693.24, leaving a remainder of $47,250.24 claimed to be due from the estate. Among the items making up these amounts were the following:
+Estate, Dr.
+March 5, 1882, to cash paid to Societe du frein
+avide Eames, 62,500 francs................ $12,062 50
+910 days interest............................ 1,811 48
+$13,873 98
+April 25, 1882, to par value of stock of Societe du frein avide Eames, 125,000 francs...... 24,125 00
+Cr.
+April 22, 1882, by cash received from Societe du frein avide Eames, account disbursements,
+20,418.85 francs...............
+862 days interest, at six per cent.
+$37,998 98
+$3,940 82 566 14
+--- 4,506 96
+$33,492 02
+Upon the trial the claimant asked leave to abandon these three items. To this the executrix objected bn the grounds: (1.) “ That the account, agreement and order of reference constitute the pleadings, and an amendment cannot be made to the same in this manner. (2.) She is not prepared to give proof of the credit as it was admitted in the pleadings.” The objections were overruled, the amendment allowed and items withdrawn, to which the executrix excepted. This was error. This mode of determining claims against decedents’ estates was first provided for by the Revised Statutes, and section 37 of title 3 of chapter 6, part 2 of the Revised Statutes (vol. 2, p. 89), which prescribes the powers of referees and regulates the procedure upon reference of claims against decedents’ estates, has remained unchanged since its adoption in 1828. Under the Revised Statutes, referees were without power to amend the pleadings in actions referred to them, and they remained without this power until 1857, when it was conferred by an amendment to section 272 of the Code of Procedure. It has not been understood that the enlarged’ powers of referees under the Codes were, by implication, conferred by the Codes upon referees appointed under the Revised Statutes to determine disputed claims against decedents’ estates.
+Title 2 of chapter 10 of the Code of Civil Procedure confers many powers upon referees authorized to hear and determine actions, not possessed by such referees under the Revised Statutes. Referees in actions may now punish for contempt, amend pleadings, direct the entry of judgments upon their reports and, in short, exercise the powers of a court upon the trial of an action. Prior to the amendment in 1857 of section 272 of the Code of Procedure, judgments could not be entered upon the reports of referees in actions until after confirmation by the court and judgments ordered. Before, and since this amendment, it has been uniformly held that judgments cannot be entered upon reports of referees appointed to determine claims against decedents’ estates without an order of the court. If the power to allow amendments is conferred by implication upon referees appointed under this statute, it is difficult to see why all of the powers possessed by referees in actions are not conferred by implication. Such has not been the understanding of the courts or of the profession. In Mowry v. Peet (88 N. Y., 453), it was held that a referee could not award a judgment for the representatives and against the claimant for a sum found due the estate. This statute was designed to afford a simple, cheap and expeditious mode of determining the validity of small claims questioned by representatives. Not unfrequently the referees are laymen. Claims cannot be referred except by the agreement of the parties and the consent of the- surrogate. It may- be that this executrix would not have consented to a reference of a part of this claim, and so exposed the estate to the expenses and hazards of two litigations ; and it may be that the surrogate would not have approved of a reference of a part of the claim. If a referee may allow a claimant to amend his claim by withdrawing part, he might amend the claim by adding other items ; and thus a controversy would be referred which the parties had not agreed to refer, and which was not approved of by the surrogate.
+I think that under such a reference the referee is without power to amend the claim by adding to or subtracting from it any items ; and for this reason the judgment should be reversed, with costs. '
+Judgment and order reversed, with costs.
