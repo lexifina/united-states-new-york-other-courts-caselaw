@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-04"
+citations: ["75 N.Y. Sup. Ct. 551"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present- — Yan Brunt, P. J., O’Brien and Ingraham, JJ."]
+parties: ["Daniel McCarty, Respondent, v. The Altonwood Stock Farm and Others, Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/75/cases/0551-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2383972
+---
+
+# McCarty v. Altonwood Stock Farm
+
+## Majority (Per Curiam:)
+
+Per Curiam:
+The terms are no doubt stringent, but upon the facts appearing we cannot say that the discretion;vested in the court, and which was exercised in imposing such terms, has been abused. The defendants were alone responsible for their situation, which left them without their witnesses upon the trial and compelled the plaintiff, at great expense and inconvenience, to come from California for the purpose of trying the cause, which could have been obviated" by defendants consenting to an adjournment. This would have given them in addition time to secure the attendance of their witnesses or to have their testimony taken.
+Where, therefore, the fault was entirely on one side, and where, as here, the judge was of opinion that “ this action is not defended in good faith,” a situation ivas presented which might have warranted the denial of the motion to open the default. In granting it, however, the judge was no doubt impressed with the view that the plaintiff should be reimbursed to the extent that he was injured by the favor thus granted to defendants. To- this end the cause was directed to be placed again upon the calendar for trial, and in the event that the defendants should not be ready and a postponement of the case should result, necessitating the return of the plaintiff to California, provision was made for the expenses which he should incur through defendants’ fault in being obliged to come here, remain and return to his home. This expense the defendants can save by being ready for trial on the date as provided in the order; but if they ivish further time to procure the testimony of absent witnesses — which we think should have been given them — then the plaintiff ought, to the extent provided in the order, to be reimbursed.
+When we consider the object sought to be accomplished by the calling of the general calendar and the placing of causes on the day calendar certain for trial, it would be subversive of the whole plan if, as in this case, counsel for the. defendants, to the disadvantage of the plaintiff, could consent to the trial of the cause for a fixed day, and then, regardless of the trouble and expense to which such party and counsel might be put, move for an adjournment upon the ground that they never had been ready and had no assurance when they consented to have the cause set down for a day certain that they would be ready.
+We think, therefore, that we should not interfere with the order, only it should not be construed as depriving the judge calling the calendar from granting a postponement of the time to enable the defendants to get their testimony if a proper case is made out, provided such defendants consent to pay the disbursements referred to in the order appealed from.
+As thus modified, the order should be affirmed, without costs to either party upon this appeal.
+Present- — Yan Brunt, P. J., O’Brien and Ingraham, JJ.
+Order modified as directed in opinion, and, as modified, affirmed, without costs to either party upon this appeal.
