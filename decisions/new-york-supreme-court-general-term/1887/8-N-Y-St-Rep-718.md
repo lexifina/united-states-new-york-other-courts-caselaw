@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-05-19"
+citations: ["8 N.Y. St. Rep. 718"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["New York and Lake Champlain Transportation Co., Resp’t, v. John Hurd et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/8/cases/0718-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 640424
+cites_cases: ["1 N. Y. St. Rep., 374", "10 N. Y., 93", "20 Hun, 90"]
+---
+
+# New York & Lake Champlain Transportation Co. v. Hurd
+
+## Majority (Mayham, J.)
+
+Mayham, J.
+It is insisted, on the part of the appellant, that the admission of the original answer in evidence, under the objection of the defendant, was error, for which this judgment should be reversed. It is apparent that that evidence bore mpon a material part of the issue, and this court cannot assume that it did not affect the result, and if it was not competent evidence its admission would be error, for which the judgment should be reversed. But upon what principle can it be rejected as incompetent? It was a declaration by the defendant made with such deliberation and solemnity as to be conclusive upon him if the original answer had not been superseded by the amended answer. It is true that by the service of the amended answer it lost its conclusiveness as an answer and the party was no longer bound by it as such. But it nevertheless retained its character as an admission of a party and could be used as evidence against him, subject to being contradicted or explained by other evidence. There is no rule of evidence, nor do we perceive any principle of right that would be subserved by excluding a declaration of a party not privileged upon some rule of public policy, from being used against him as evidence, and this view seems to be sustained by authority.
+In Strong v. Dwight, Balcomb, J., in granting a motion, allowing the defendant to amend a verified answer, says: “I hold * * that the original answer in this case on file is not to be altered by the defendant’s amendment; and that the proposed amendment should be made by making, verifying and filing an entire new amended answer so that the plaintiff can use the existing original answer as evidence on the trial to prove the defendant’s admission that he now asks leave to have striken out. Strong v. Dwight, 11 Abb. N. S., 325.
+In Fogg v. Edwards two questions were raised, first, whether the plaintiff could use as evidence an original answer was superseded as a pleading by an amended answer, and, second, whether the plaintiff could use that part which operated in his favor as an admission of the defendant and disprove by other evidence that which operated against him, and the court say:
+“We think the original answer was properly received as evidence under the circumstances. While the service of the amended answer had the effect to supersede the original as a pleading, it did not have the effect to render it inadmissible as evidence; it could be received for the latter purpose but subject to explanation. Fogg v. Edwards, 20 Hun, 90; Bearss v. Copley, 10 N. Y., 93.
+Within these cases we think the original answer was competent as evidence of an admission of the defendant, and its reception as such by the referee was not error. Nor do we see any error in the rulings of the referee in his findings, or his refusals to find, for which the judgment in this case should be reversed. There was evidence in the case upon all the disputed questions of fact sufficient to sustain the findings of the referee, and although there was upon, some of the questions conflicting evidence, the referee having passed upon the same and found in favor of the plaintiff, this court will not in an evenly balanced case disturb the findings of the referee upon such disputed questions of fact. The chief controversy in the case arose over the freight on the boat “ Taft,” on which there was some, lumber consigned to Peck, Curtis & Shandly, and as to this freight Dunbar, the defendant’s agent, substantially con cedes in his letter to plaintiffs that it was properly chargeable to defendant, claiming, however, a small deduction on the ground that it should be charged at October, and not at November rates, under the contract.
+This declaration the referee had a right to take in connection with the original answer as bearing upon the amount of defendant’s indebtedness, and the only evidence which seems to controvert this theory was that of the defendant Plurd, who against these facts says that the lumber transported on the “ Taft,” should be charged to Peck, Curtis & Shandly. The referee, with this evidence before him, was not bound as matter of law to find in accordance with the testimony of Hurd, the defendant. It is true, as a general rule, that while the court is bound to believe a disinterested, unimpeached, and un contradicted witness, who gives evidence not in any way discredited, or in itself improbable or incredible, it is not bound to give credence to a witness who is interested in the result of the action, and whose evidence is impeachable by circumstances or is against common experience and observation. New York and Brooklyn Ferry Co. v. Moore. 1 N. Y. St. Rep., 374.
+In this case the referee heard the evidence, saw the deportment of the witnesses, and as his report has some evidence to support it, this court on appeal will not interfere to reverse the judgment.
+The judgment entered upon the report of the referee must be affirmed, with costs.
+Learned, P. J., and Landon, J., concur.
