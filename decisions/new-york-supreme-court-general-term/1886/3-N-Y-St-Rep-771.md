@@ -1,0 +1,45 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-12"
+citations: ["3 N.Y. St. Rep. 771"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lucas E. Schoonmaker et al., Resp’ts, v. Hiram B. Kelly, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/3/cases/0771-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1978668
+cites_cases: ["41 Barb., 216", "47 Barb., 276", "49 N. Y., 164", "81 N. Y., 394", "95 N. Y., 237", "96 N. Y., 567"]
+---
+
+# Schoonmaker v. Kelly
+
+## Majority (Lardon, J.)
+
+Lardon, J.
+The plaintiffs reclaimed from the general assignee of the fraudulent purchaser goods which they had sold him at the price of $235.52, but which the fraudulent purchaser had damaged to the extent of $35.52. It was stipulated that they were worth $200, when reclaimed. Plaintiffs tendered on the trial to the defendant, the general assignee, $26.61. If the defendant is to lose the amount of the depreciation, the tender was enough; if the plaintiffs should lose" it, the tender was too small by the $35.52. Why should not the defendant, whose assignor fraudulently obtained the goods, sustain this depreciation in value ? Suppose the goods had been fraudulently purchased for $200, defendant paying $100 upon their purchase price, had sold none, had damaged them $100. Defendant is bankrupt, and plaintiffs’ only practicable remedy is replevin. If they must tender $100, in order to rescind, they can only reclaim goods now worth $100, and thus lose all.
+The law adapts its remedies to accomplish justice. Code Civ. Pro., § 1122, allows the plaintiff to recover in actions of replevin damages for the injury or depreciation of value of a chattel, while in possession of defendant, but requires that the complaint shall set forth the facts. Thus the principle that the fraudulent purchaser ought to sustain such damages is recognized. Here, however, the plaintiffs did not seek an affirmative recovery for the depreciation, hut sought to have the amount allowed in diminution of the sum to be tendered. The plaintiffs, as we judge from the complaint, did not know that the goods had been damaged-. They found that out after they had taken possession of them. The defendant, as general assignee for the benefit of creditors, occupies no better position than his assignor. The court adapted the recovery to the proofs, no one was misled, and justice was done.
+Bockes, J., concurs.
+
+## Dissent (Learned, P. J.)
+
+Learned, P. J.
+(dissenting).—One Dimmick bought boots and shoes of plaintiffs to the value of $213.89, and paid $100. Soon after he made a general assignment to defendant. Thereupon plaintiffs replevied what they could find of the goods (viz.: $235.52 in value at the selling price) oh the ground of fraud in the pretended purchase. The actual value of the goods replevied was stipulated at $200. Plaintiffs never returned the $100 to Dimmick or any one. On the trial they offered to pay defendant $26.61. That is, the then value of the goods replevied, $200, and the money originally paid, $100, less the selling price of the whole goods, $213.39. Defendant refused to take the money. Plaintiff had a verdict for the goods.
+The questions presented are whether they could retake the goods without returning the money; whether they could return .on the trial; whether they tendered enough.
+In the first place it is said that the assignee of the fraudulent vendee cannot insist that the vendor should return what he had received, because the assignee was not the party to receive what was to be returned. Pearse v. Pettis, 41 Barb., 216. But that was not , the case of a general assignee. Here the defendant is the general assignee of Dimmick—of all his property except what is exempt. Hence, if money was to be returned by the plaintiff, the defendant was the person entitled to receive it. The $100 belonged to him if the plaintiffs were not entitled to it. This was in fact acknowledged by plaintiffs when they made a tender at the trial to the defendant.
+. The plaintiffs had three remedies:
+First. They could sue for the contract price.
+Second. They cotdd sue for the damages on the ground of the fraud.
+Third. They could rescind the contract and replevy.
+If they took the last (as they did), then the rights of all the parties “were the same as though there never had been any contract of sale, but the goods had been tortiously obtained.” Kinney v. Kierncm, 49 N. Y., 164, 168; Morris v. Rexford, 18 id., 552, 557.
+For this reason it has been repeatedly said that the party who would rescind must return all that has been received. Baird v. Mayor, 96 N. Y., 567, 599, and cases there cited; see also Bowin v. Mandeville, 95 N. Y., 237, 240. There it is said, “He may rescind the contract, and after restoring to the other party whatever may have been received thereon, sue for and recover back the entire consideration paid by him, or he may retain what he has received and sue for and recover such damages as he can establish have sustained by the fraud. But these remedies being inconsistent cannot both be prosecuted and maintained.” See also Lloyd v. Brewster, 4 Paige, 537.
+Again it is said in Guckenfieimer v. Angevine (81 N. Y., 394): “The rule that a party intending to rescind a contract for fraud must restore to the other party what he has received under it is firmly established by authority. The person defrauded cannot at the same time avoid the contract and retain anything received by virtue of it, of value-either to himself or to the party who committed the fraud. ”
+It is thought that the case of Ladd v. Moore (3 Sand., 589), asserted a different doctrine. That was an action for damages for traver. Plaintiff had been induced by defendants fraud to sell him $480 of goods, taking $200 in cash and a note. On the trial plaaintiff surrendered the note and recovered as damages the difference between $200 and $480 with interest. This was not an action of replevin, but to recover damages. The principal point discussed is whether a tender should have been made before trial. The money paid was allowed in reduction of the damages.
+In Pearse v. Pettis (47 Barb., 276), an action to recover property, it was stated that where there had been a purchase by fraud and the purchaser had paid $300 on the purchase price; and the purchaser had made as much as that sum by the use of the property, the vendor was under no obligation to restore anything. But the question was not really involved; because"it was held that the defendant not being the original vendee was not entitled to receive back anything.
+It seems to me that that ■ case is hardly consistent with the later cases in the court of appeals above cited; so far as it holds that there is no need to restore to the vendee.
+Now to apply the principles held by the court of appeals, the most favorable view to plaintiffs is to consider the goods purchased as separable. Now then Dimmick bought and paid for $100 worth of goods, and defrauded plaintiffs out of goods worth $173.39. They have replevied therefore goods which sold for $62.13 to which they were not entitled, and they offered to pay defendant for these $20.61.
+If the goods sold for $235.52, have depreciated to $200; that is plaintiffs’ loss, since they assert that the goods have always been theirs. Kelly has caused no damage to the goods and it is not liable for damage. None is alleged. Code, 1722.
+In another view, plaintiffs have retaken $235.52 out of the $273.39 in value which they sold. All, therefore, which they could lawfully retain out of the $100 received is the difference between $235.52 and $273.39, or $37.87. They should at least have paid the defendant $62.13.
+As the case now stands, the plaintiffs have all the goods they ever had, except some which they sold for $37.87 And they also have $100 which Dimmick paid them. So they have $62.13 for nothing.
+The fact is that this offer of plaintiff’s on the trial and the verdict thereon is really an affirmance of the contract of sale. The sum is computed upon the basis that plaintiff’s sold goods to the value of $273.39, for which Dimmick still owes them, and that they have received therefor in goods $200, and in cash $100, leaving balance due Dim-mick’s assignee, $26.61. So that in this action the plaintiff’s rescind the sale in order to replevy, and affirm it in order to retain their money. Thus the principle is overlooked that “the rights .of the parties were the same as if there never had been any contract of sale.” Kinney v. Kiernan, ut supra.
+The rights of the parties have been adjusted as if there had been a valid contract; and not as if “the goods had been tortiously obtained.” If the 'goods were tortiously obtained, then there is no consideration for plaintiffs to retain the $100, if the sale is treated as a whole. If it is treated as separable so that they can affirm it as to goods which they cannot find ($37.87 in value) then they should restore $62.13.
