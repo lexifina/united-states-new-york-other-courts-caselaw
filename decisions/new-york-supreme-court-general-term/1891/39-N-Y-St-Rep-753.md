@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-07-02"
+citations: ["39 N.Y. St. Rep. 753"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mary S. Behrman, Pl’ff, v. Metha Yon Heyn, Def’t."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0753-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061904
+cites_cases: ["12 N. Y., 394"]
+---
+
+# Behrman v. Heyn
+
+## Majority (Barnard,.P. J.)
+
+Barnard,.P. J.
+—Esther Mary Butler died in 1875, leaving-real and personal property. She left a husband and two children.
+By her will she made the following disposition of her property:
+“ I also hereby further give and bequeath unto my said husband the use, income and profit to be derived from all my real estate and the balance of my personal property for and during his lifetime, and on his decease the same to be divided between my children then living, if more than one, and if only one, such child to have and take the whole of my said estate and property; provided, however, that if any child dies leaving issue, then such issue to take the share his or their parents would have been entitled to have and take if then living."
+The will contained a provision that the executors should have full power “ to sell any and all my real estate at any time, and on such terms as they may deem best for the interest of my estate (provided my husband, if then living, shall consent thereto), and thereupon to -execute and deliver all necessary deeds and other instruments in writing requisite to convey a good and perfect title thereto.”
+The will provided that the executors invest the net proceeds of the sale, and pay to the husband during his lifetime.
+The executors sold a piece of land under the power to the plaintiff for its full value, and received the money.
+There was a mortgage on the property and unpaid taxes and assessments thereon, and these were paid. There was left $357.46, which was paid; $75 to the husband of deceased, and $282.46-to one of the children with the assent of the executors. The question is, whether Mrs. Behrman’s title thus acquired is good. We think it is. The executor’s deed passed the title. The deed of the sons which accompanied it conveyed nothing, as they had only a life estate, but it did not hurt the deed of the executor. The husband expressed his consent to the sale by the deed when the husband was' executor as well as husband, but he went further ; he joined in the deed with the sons, which conveyed his life estate.-
+The purchaser was not bound to follow the money, or to infer that it was not invested properly when she paid over the same as-directed by the trustee. Belmont v. O'Brien, 12 N. Y., 394.
+The judgment should be ordered for the plaintiff upon the submitted case, without costs.
+Dykman and Pratt, JJ., concur.
