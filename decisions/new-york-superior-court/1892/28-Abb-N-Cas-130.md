@@ -1,0 +1,22 @@
+---
+court: "New York Superior Court"
+decided: "1892-04"
+citations: ["28 Abb. N. Cas. 130", "19 N.Y.S. 244"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARTER v. SULLY."]
+source_url: "https://static.case.law/abbn-cas/28/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1970202
+cites_cases: ["12 Abb. N. C. 58", "19 Wend. 23", "22 Abb. N. C. 62", "3 N. Y. Supp. 533", "8 Daly, 328"]
+---
+
+# Carter v. Sully
+
+## Majority (GlLDERSLEEVE, J.)
+
+GlLDERSLEEVE, J.
+The plaintiff brought an action in this court against defendant as surety on a lease for rent that had accrued during the month of November, 1891. Subsequently he brought another action in this court against this defendant, on the same suretyship, for rent for the months of December, 1891, and January, February and March, 1892. These two actions were consolidated by an order entered on April 8, 1892, and .a new complaint in the consolidated actions was served on •that day. Thereafter, and on April 11, 1892, the plaintiff •commenced another action in the city court of New York, ¡founded on the same instrument, for the rent of the month of April, 1892. Defendant now moves to consolidate this city court action with the consolidated actions now pending in this court. Section 817 of the Code provides that where two or more actions in favor- of the same plaintiff against the same defendant, for causes of .action which may be joined, are pending in the same •court, the court may, in its discretion, consolidate any or all of them into one action. And section 818 provides that where one of the actions is pending in the supreme •court and another is pending in another court, the supreme court may, by order, remove to itself thé action in the other court and consolidate it with that in the -supreme court.
+The question presented on this motion is : “ Has the superior court the same right in this respect as the supreme court?” Section 3347 of the Code, subd. 6, provides that sections 817 to 819, inclusive, apply to all. courts of record. Section 267 of the .Code provides that, where-a superior city court has juridisction of an action, or special proceeding, it possesses the same jurisdiction, authority and power in and over the same, and in the-course of proceedings therein, which the supreme court, possesses in a like cáse ; and it may render any judgment, or grant any relief which the supreme court might render or grant in a like case. In the case of Sire v. Kneuker(22 Abb. N. C. 62), the court of common pleas, special term, held that the court had the power, under sections-. 818 and 3347 of the Code, to remove an action brought in a district court of New York city into the common pleas foi~ the purpose of consolidating the action with one pending;in the common pleas: In the case of McKay v. Reed (12 Abb. N. C. 58 n.), the city court of New York held that that court also could remove causes pending in district-courts to the city court for purposes of consolidation... Under the three sections of the Code, above cited, I. believe the court has power to grant this motion ; and it becomes a matter of discretion whether it should exercise-that power (Eleventh Ward Bank v. Hay, 8 Daly, 328, 331).. It appears that the causes of action are such as may be-joined in the same complaint, and that the questions which, will arise in both of the actions are substantially the same,, and that the defense will be substantially the same in both. If, therefore, it does not appear that the plaintiff will sufferany great delay or other prejudice, the motion should be-granted (Dunning v. Bank of Auburn, 19 Wend. 23). The-fact that the suits were brought at different times, and. that the second cause of action had not accrued at the-time the first suit was commenced, is no objection to the motion (Dunning v. Bank, supra). In'case of any prejudice to the plaintiff, terms may be imposed as a condition for granting the motion (Soloman v. Belden, 12 Abb. N. C.. 58); but I cannot see how plaintiff can be seriously inconvenienced by consolidating the actions.
+The motion is granted, without costs. The order must provide that the complaints in the two actions stand as the complaint in the consolidated action, and it must require the defendant to serve his answer in the actions thus con.solidated on or before April 28, 1892, the day upon which "the time to answer will expire in the action pending in .this court.
