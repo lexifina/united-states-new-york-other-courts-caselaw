@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court"
+decided: "1890-12"
+citations: ["65 N.Y. Sup. Ct. 428"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brady, J., concurred."]
+parties: ["HENRY HENTZ and Others, Respondents, v. ELIZABETH F. MINER, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/65/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4621227
+cites_cases: ["70 N. Y., 202", "74 N. Y., 307"]
+---
+
+# Hentz v. Miner
+
+## Majority (Van Brunt, P. J.: Daniels, J.:)
+
+Van Brunt, P. J.:
+The complaint in this action was for a sum due upon an account for money laid out and expended, and commissions in the purchase and sale of wheat and coffee by plaintiffs as the agents of the defendant. The defense alleged in the answer was a general denial.
+Upon the cross-examination of one of the witnesses on the part of the plaintiffs, who conducted the transactions out of which the alleged indebtedness arose, it was sought to prove that it was the understanding of- the parties, at the time the orders were given for the purchases in question, that no merchandise whatever was to be delivered, but that the purchases and sales were to be governed by the differences in the market-prices. This evidence was objected to upon the ground that it was incompetent, irrelevant and immaterial, and the same was excluded and an exception duly taken.
+There was no claim that the evidence could not be offered under the pleadings as they stood; but it was objected to generally and excluded apparently as affording no answer to the claim made by the plaintiffs.
+This, we think, was error. The defendant had a right to show, • as matter of fact, if such was the case, that it was the understanding and intention of the parties at the time of these alleged purchases and sales that no actual deliveries were to be made or were contemplated; and, therefore, the contract was simply a speculative contract depending upon the result of the market, and that it was never intended to purchase any merchandise, but that the contract should be settled according to the differences in the market-prices. This would be a wagering contract and contrary to the statute. That such is the case is expressly recognized in Bigelow v. Benedict (70 N. Y., 202) and Story v. Salomon (71 id., 420), and no recovery could be had for losses or supposed losses thereunder.
+It is urged upon the part of the respondents, however, that this was an affirmative defense which must be setup, and various authorities are cited which they claim establish this proposition. We have examined all those which were decided by the courts of this State, not thinking that authorities of a foreign State can construe the rules of pleading in this State authoritatively, and we find no such proposition whatever laid down in any of the cases.
+Under a-general denial of a complaint alleging a contract a defendant has a right to prove anything tending to''show that no valid contract was ever entered into. It is only in those cases where there is a confession and avoidance that it is necessary to plead the special facts constituting the defense. If the so-called contract forming the basis of the action never was in law a contract, because contrary to the law, a general denial authorizes the defendant to prove that fact. Therefore, in the case at bar, the defendant had a right to show that no valid contract for the purchase of merchandise was ever entered into between these parties, or ever contemplated in this transaction, and that they were merely wagering contracts intended to be settled by the payment, upon the one side or the other, of differences without the delivery of ahy merchandise. The evidence which defendant sought to introduce by the cross-examination of plaintiffs’ witness tended to show this, and thereby the defendant brought herself within the rule laid down in Bigelow v. Benedict and Story v. Salomon (supra), in which it was held that contracts were not to be presumed to be illegal, but it was necessary to prove it.
+We think, therefore, that because of the exclusion of this evidence, error was committed which calls for a new trial.
+The judgment should be reversed and a new trial ordered, with costs to appellant to abide event.
+Brady, J., concurred.
+Daniels, J.:
+The plaintiff did not object to the form of the questions intended to elicit answers showing that the business out of which the claim arose was made up of gaming transactions. Neither was the objection taken that this evidence was not admissible under the pleadings; when that objection is intended to be relied upon it must be presented at the trial. The general objection which was presented to these questions, that they were incompetent, irrelevant and immaterial, did not justify the exclusion of the evidence offered as not being within the issue. (Schwarz v. Oppold, 74 N. Y., 307.)
+The evidence was competent, relevant and material, and it could not be legally rejected as not being of that character. For these reasons the judgment should be reversed and a new trial ordered, as the opinion of the presiding justice concludes.
+Judgment reversed and new "trial ordered, with costs to appellant to abide event.
