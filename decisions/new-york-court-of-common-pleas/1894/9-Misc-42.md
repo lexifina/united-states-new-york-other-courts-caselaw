@@ -1,0 +1,29 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1894-06"
+citations: ["9 Misc. 42"]
+reporter: "misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Annie E. Smith, Respondent, v. Charles E. Maxfield,, Appellant."]
+source_url: "https://static.case.law/misc/9/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 314865
+cites_cases: ["3 Hill, 330"]
+---
+
+# Smith v. Maxfield
+
+## Majority (Bookstaver, J.)
+
+Bookstaver, J.
+This action was brought to recover eighty-two dollars, of which thirty-two dollars was claimed for rent for one month and fifty dollars as damages for injuries to the leased premises.
+The justice gave a judgment for forty-three dollars and seventeen cents, but the record does not show how the amount was made up. At the close of the plaintiff’s case a motion was made to dismiss the complaint, which was denied, and an exception taken. By the terms of the lease between the parties it expired on the 1st day of May, 1893. In April of that year, and before the end of that term, the plaintiff rented the property to one Fisher, who paid sixteen dollars on account for the month of May, and he was, therefore, entitled to the possession of the premises, and the plaintiff accepted him as tenant. This being the case, plaintiff could not recover from the defendant for the month of May. He could not have two tenants for the same property for the same time. Gardner v. Keteltas, 3 Hill, 330; Mechanics & Traders’ Fire Ins. Co. v. Scott, 2 Hilt. 550. The grounds upon which it was sought to hold the defendant for rent for the month of May arose from the fact that a few articles belonging to defendant were left in the premises, the facts in regard to which appear to be as follows: Prior to May the defendant gave notice to the
+plaintiff that he intended to move. On the morning of that day nearly all of the furniture of the defendant was removed from the premises, and the keys were delivered to the janitress, who received and retained them. At that time some one of defendant’s family told the janitress that they would come back for a crib and piano, which were left in the premises, to which she answered, “All right.” The latter testified that in similar cases articles of furniture were usually allowed to remain until they could be conveniently removed, to oblige tenants, and if they proved to be in the way they were removed to her own apartments or some other place. In this case they were no inconvenience to any one, as Fisher, the new tenant, did not move in. It would, therefore, seem to be clear that the defendant surrendered the premises to the agent of the plaintiff on May first, and that the articles which remained in the rooms after that date were allowed to remain by the agent of the landlord* and that this was pursuant to a custom recognized by the plaintiff and her agent in such cases. We, therefore, think there was no holding over, and that the court erred in allowing rent for a month, if that constituted ■any part of the sum of forty-three dollars awarded to the plaintiff.
+If, on the other hand, all of this sum was allowed for damages to the freehold, we think it was excessive. The evidence of the plaintiff was that she expended fifty dollars in repairing the apartments.
+But the case seems to have been tried by the plaintiff on the theory that any expenditure she might have seen fit to make was chargeable to defendant. The proof was that the house had been built about five years, and had been occupied by another tenant previous to the defendant, who had used it up to May 1,1892, when that tenant moved out. There were holes in the wall, caused by nails having been driven in. The wall j>aper was somewhat defaced, and it was thought sufficient to patch it by pasting pieces over the holes. There is no claim that new paper was put on defendant’s premises when he took them. The only evidence on the part of the plaintiff as to the condition of the flat in May, 1892, is that plaintiff’s husband thought it was in fairly good condition, and expended ten dollars or twelve dollars in touching up the hardwood polish and rubbing it down. After the defendant had occupied the apartments for another year with his family the repairs alleged to have been done by the plaintiff were very complete.
+The woodwork was all rubbed down, holes filled up with putty to match the woodwork; it was then varnished and cleaned and brought to a good finish. Hew gold paper was applied to two of the rooms, and the walls of the kitchen were painted, and in other respects the apartments were made as nearly new as possible, at an expense of fifty dollars, some portion of which was certainly chargeable to the damage caused by the former tenant, besides which some allowance ought to be made for the imperfect condition of the premises after the repairs.
+But the covenant in the lease on the defendant’s part was not to restore the premises to any better condition than he found them, but was only that he should repair and make good any damage occurring through any neglect on his part.
+The judgment, therefore, should be reversed and anew trial ordered, with costs to the appellant to abide the event.
+Bisohoff and Pryor, JJ., concur.
+Judgment reversed and new trial ordered, with costs to appellant to abide event.
