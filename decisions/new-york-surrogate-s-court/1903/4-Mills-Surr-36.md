@@ -1,0 +1,26 @@
+---
+court: "New York Surrogate's Court"
+decided: "1903-07"
+citations: ["4 Mills Surr. 36"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of Proving the Last Will and Testament of Fayette L. Eddy, Deceased."]
+source_url: "https://static.case.law/mills-surr/4/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1069866
+cites_cases: ["110 N. Y. 450", "28 Misc. Rep. 465", "45 Penn. St. 312"]
+---
+
+# In re Proving the Last Will & Testament of Eddy
+
+## Majority (Heaton, S.)
+
+Heaton, S.
+Application for probate contested by special guardian of infant children on the ground of undue influence. Testator’s wife died in Vermont about six years ago, leaving her husband and five minor children. The husband left Vermont and his children, and some time after was living in Troy in the same house with the sole legatee, who was a married woman, and who was known by the neighbors as his wife. It does not appear that testator contributed to the support of his minor children after the death of his wife. He had a little real estate in Vermont, and about six weeks before his death he made a sale of such property and executed a deed at his house in Troy. At the same time he made the will in question. The lawyer who was asked to come to the house and transact the business was one who had been employed by the sole legatee to procure for her a, divorce from her husband that she might marry the testator, and it has been urged that, because such lawyer drew the will, there is an additional presumption of undue influence, beyond that claimed to arise from the fact that the will cuts off the testator’s minor children, the natural recipients of his bounty and objects of his parental care and solicitude. The proof offered by the proponent is satisfactorily convincing that the execution of the will was the free, uninfluenced act of the testator, and, unless the fact that no provision is made for his minor children, and that everything is given to the married woman with whom he was living, is by law made affirmative evidence of undue influence, the will must stand.
+No matter how morally desirable it might be to have a statute that should prevent a parent from making a will which failed to provide adequate support for his minor children, yet the statute does not prohibit such action, except to the extent of about $300 in value of property required to be set off without regard to the terms of the will.
+Meretricious relations are insufficient to prove undue influence. Matter of Rand, 28 Misc. Rep. 465; Matter of Westerman, 29 id. 409.
+The doctrine of the case of Dean v. Negley, 45 Penn. St. 312, cited by contestant, it has been said by Ramson, S., in Matter of Jones, N. Y. L. J., Aug. 4, 1890, has never been adopted in this State.
+It is said that it is against public policy to allow a father to make a will which does not provide for the support of his minor children, since he can be compelled by law to support them during his life. The same reasoning would prevent a husband making a valid will which did not provide for the adequate support of his wife, and yet the statute permits a husband to take from his wife by will all his personal estate, except the set-off above mentioned. Matter of Mondorf, 110 N. Y. 450.
+In this case the father had not. supported his minor children for six years prior to his death, so that it cannot be said that his parental love had been overcome in his last days' by the influence of the sole legatee. Under the evidence in this case, where there is no proof of any influence exerted by the sole legatee and no suspicious circumstances shown, the mere fact that a father who had not carred for or contributed to the support of his children in life failed to provide for them in his will does not raise a sufficient presumption of undue influence to require the rejection of the will.
+Probate decreed.
