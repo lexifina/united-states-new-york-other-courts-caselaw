@@ -1,0 +1,33 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-01"
+citations: ["82 N.Y. Sup. Ct. 287"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., and Lewis, J., concurred."]
+parties: ["Mary A. Knope, Appellant, v. Joseph Nunn, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/82/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11278334
+cites_cases: ["117 N. Y. 111", "131 N. Y. 669", "16 N. Y. Supp. 306"]
+---
+
+# Knope v. Nunn
+
+## Majority (Haight, J.:)
+
+Haight, J.:
+The Code of Civil Procedure (§ 1013) provides that “ the court may, of its own motion, or upon the application of either party, without the consent of tbe other, direct a trial of the issues of fact, by a referee, where the trial will require the examination of a long account on either side, and will not require the decision of difficult questions of law.”
+The question raised for review is as to whether or not the trial will require the examination of a long account.
+The complaint in substance alleges that the plaintiff and defendant were the owners of a tract of land in the city of Rochester, and were in possession thereof as tenants in common; that the plaintiff owned an undivided one-third thereof, and the defendant the other two-thirds; that they sold the same to one Hirschfield for the sum of $5,000, which sum was paid to the defendant; that he thereby became indebted to the plaintiff in the sum of $1,(560.0(1, no part of which has been paid to the plaintiff, except the sum of $1,250, and judgment was demanded for the balance, $416.66, together with the interest which had accrued thereon.
+The answer denied that the defendant had received from Hirsch-field $5,000 in payment for the land sold to him, and alleged that but $1,000 thereof was paid in cash at the time of the delivery of the deed, and that the balance, $4,000, was secured by a mortgage upon the premises, payable in four years thereafter; that at the time this action was brought there was still due and owing upon the mortgage the sum of $3,000 and interest, and that the amount, if any, going to the plaintiff, was not yet due and payable, and, as a counterclaim, alleged that whilst the plaintiff and defendant were the owners and tenants in common of the land described in the complaint, the plaintiff collected the rents upon the premises, amounting to $1,275 ; that the defendant had paid for taxes, repairs and insurance upon the same the sum of $116.40, and that the plaintiff was indebted to him in consequence thereof in the sum of $850.
+The plaintiff in her reply to the defendant’s counterclaim denied that she had collected rents to the amount alleged, or that she was indebted to the defendant in the sum of $850, and alleged that all of the rents collected by her were by the direction of the defendant paid out for the support and maintenance of Mary A. Nunn, the mother of both the plaintiff and defendant in the action, and in the taxes levied and assessed against the premises, and she further alleged that the defendant had collected rents upon the jaremises to the amount of $189.
+It is apparent that the only issue raised in reference to the matter alleged in the complaint is as to whether the sum claimed had become due and payable, and that the only account which will require examination arises tinder the counterclaim set up in the answer as to tbe amount of rent collected by the plaintiff and the disposition made thereof by her.
+It is alleged that the rent was collected between July 24, 1884, and July It, 1889. Plaintiff concedes that she collected rents, but does not admit that they amounted to the sum stated, alleging that the defendant collected the sum of $189. She alleges that she paid the taxes and expended the balance in the support of her mother, under the direction of the defendant.
+We do not understand that these allegations constitute a long account within the meaning of the section of the Code referred to. (Randall v. Sherman, 131 N. Y. 669 ; Spence v. Simis, 131 id. 616 ; Cassidy v. McFarland, 139 id. 201.)
+It is true that the respondent in his moving affidavit states that “ the trial of this action will involve the examination of a long account, embracing, as I verily believe, upwards of one hundred and fifty items,” but no fact is stated from which this conclusion appears to be supported. "We do not understand such an affidavit to be sufficient to support an order of compulsory reference. (Cornell v. United States Illuminating Company, 16 N. Y. Supp. 306 ; Thayer v. McNaughton, 117 N. Y. 111.)
+The respondent in his brief states that it was agreed by the parties in open court that the case was a proper one for reference, but no such statement appears in the appeal book; on the contrary, the order entered contains the recital that the motion was opposed.
+The order appealed from should be reversed, with ten dollars costs and disbursements.
+Dwight, P. J., and Lewis, J., concurred.
+Order of Monroe County Court appealed from reversed, with ten dollars costs and disbursements.
