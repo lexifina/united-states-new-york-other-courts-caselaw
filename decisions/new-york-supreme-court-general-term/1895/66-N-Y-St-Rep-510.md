@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-03-19"
+citations: ["66 N.Y. St. Rep. 510"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Abram French Company, App’lt, v. Harris Shapiro, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/66/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2110216
+cites_cases: ["63 St. Rep. 407"]
+---
+
+# Abram French Co. v. Shapiro
+
+## Majority (Newburger, J.)
+
+Newburger, J.
+This is an appeal from an order granting leave to the defendant to serve a supplemental answer to the complaint. The action was commenced in November, 1893, and issue was joined on or about the 18th day of December, 1893. The case was duly noticed for trial, and appeared on the day calendar a number of times. On the 18th day of January, 1895,-13 months after issue was joined,—the defendant moved for leave to serve a supplemental answer to the complaint; setting up as an additional defense that the plaintiff, being a foreign corporation, has failed to file a certificate authorizing it to do business in this state. The defendant’s moving papers showed that the certificate was filed after the action was commenced. The motion was, however, granted, and from the order entered thereon this appeal is taken.
+The defendant was guilty of loches. It is claimed, however, by the defendant, in his affidavit, that at the time of joining issue he did not know that plaintiff had failed to file a certificate as required by chapter 687 of the Laws of 1892. The complaint alleges that the plaintiff was, and still is, a foreign corporation organized under the laws of the state of Massachusetts; and, if the defendant desired to take advantage of a failure on the part of the plaintiff to comply with any law of this state, it was his duty to inquire. He knew that the plaintiff was a foreign corporation, and he could have discovered in November, 1893, what he ascertained in January, 1895, by communicating with the secretary of state. It is claimed, however, by the learned counsel for the defendant, that he was misled by reason of several opinions found by him-upon questions similar to the one at bar. An examination of the authorities cited, Contracting Co. v. Del Genovese, 33 Supp. 10; Abram- French Co. v. Marx, 63 St. Rep. 407, fails to convince us'of any change in the law in reference to the filing of certificates ; and the two opinions cited are not opposed to each other,—one simply-holding that the failure on the part of a foreign corporation to file a certificate was good ground for a demurrer, and the other holding it could be raised by answer where it did not appear in the complaint. The defendant’s loches have not been properly explained. For these reasons the order appealed from must be reversed, with costs.
+All concur.
