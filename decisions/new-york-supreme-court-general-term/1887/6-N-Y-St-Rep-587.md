@@ -1,0 +1,54 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-01"
+citations: ["6 N.Y. St. Rep. 587", "50 N.Y. Sup. Ct. 98"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Accounting of Arthur Keef, Adm’r, and Sarah E. Keef, Adm’x, of the Estate of Richard Jerritt, deceased."]
+source_url: "https://static.case.law/ny-st-rep/6/cases/0587-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1984335
+---
+
+# In re the Judicial Accounting of Keef
+
+## Majority (Follett, J.)
+
+Follett, J.
+April 29,1877, Richard Jerritt died intestate, leaving two daughters, Sarah E. Keef (wife of Arthur Keef) and Ruth Spencer (wife of Daniel Spencer) sole heirs at law and next of kin.
+May 5, 1877, letters of administration were granted to Arthur and Sarah E. Keef.
+May 15,1877, the personal property was inventoried; May 16, 1877,. the daughters, by deeds of conveyance, divided between themselves all of the intestate’s real estate. The personal property of the intestate amounted to about $4,000. In May, or June, 1877, Daniel and Ruth Spencer claimed that certain property included in the inventory belonged to them, and their claim was allowed; and at the same time the sisters divided between themselves all of the property remaining upon the inventory except a pair of horses, four two-year-old heifers and five yearlings, of which it was agreed each should own half.
+March 20, 1868, Arthur Keef gave a mortgage to Richard Jerritt to secure the payment of $499 in five years, with annual interest. This mortgage was not on the inventory, and not divided in the division above referred to. Subsequently Daniel and Ruth Spencer each presented a claim against the estate for several hundred dollars, and the administrators made a counter-claim against each for several hundred dollars. Mrs. Keef also brought an individual action in the supreme court against Daniel Spencer.
+January 22, 1878, the parties agreed upon .two arbitrators to hear and determine all of their respective claims. March 8, 1878, the parties settled their litigations and entered into the following agreement:
+EXHIBIT “A.”
+“ In the settlement this daymade between Ruth Spencer, Daniel Spencer and . Arthur Keef, and Sarah E. Keef, individually, and as administrator and administratrix of the estate of Richard Jerritt, deceased, it is understood and agreed that Mrs. Spencer retains the horses, loan of $450, furniture, dairy utensils, vegetables, pork, etc., two cows set off to her in or about June 18, 1877, together with the other articles set off to her in a division of personal property between herself and her.sister, Mrs. Sarali E. Keef, made at that time; and also she is to have one-lialf of a certain mortgage for §800, or thereabouts, principal and interest, given by said Arthur Keef to the said deceased; and said Sarah E. Keef is to have the other half of said mortgage, and also to have the articles set off to her on the division above referred to.
+“It is further understood and agreed that there remains undivided of the stock on the farm of the said deceased the following articles, viz: One span of horses, four two-year-old heifers and five yearlings, which, it is understood, shall be divided between the said Sarah E. Keef and Ruth Spencer on or before April 1,1878; and any question of difference as to such division shall be submitted to the friendly arbitration of D. B. Van Burén and Schuyler Barker, Esqs., of New Haven.
+“ It is further understood that neither Daniel Spencer nor Arthur Keef shall bring any charge or account against the estate of the said deceased for any matters prior to the death of said deceased, the same having been settled in the settlement this day made between the parties hereto.
+“ ARTHUR ICBBF.
+“ SARAH E. KEEF (by Arthur Keef),
+“DANIEL SPENCER,
+“RUTH SPENCER (by Daniel Spencer).’’
+March 8, 1878, the administrators gave Daniel Spencer a receipt in full or all demands, and so did Sarah E. Keef. At the same time Mrs. Spencer and Mrs. Keef mutually exchanged receipts, and perhaps the administrators and Mrs. Spencer mutually exchanged receipts, though this does not very clearly appear, nor are the terms of the receipt given.
+Between the date of this settlement and the date of this accounting the undivided property mentioned in the agreement was divided between the sisters.
+In 1881, the administrators applied for a judicial settlement of their account, and citations were issued. Mrs. Spencer filed objections to the administrators’ account, and the matter was referred, pursuant to section 2546 of the :Code of Civil Procedure.
+Upon the coming in of the report, it was referred again to the referee to make a further report. Upon the two reports, the surrogate held that there was
+Due Morris L. Wright, an attorney, for services rendered to the administrators................ $504 00
+Due Andrew Coe on a judgment for costs recovered by him in an action brought against him by the administrators.................... 844 17
+Due the administrators for commissions......... 113 "57
+Due the administrators for the amount paid by them to the referee and stenographer on this accounting.................................. 255 92
+$1,217 66
+The surrogate’s court found that there was no property in the hands of the administrators applicable to the payment of these claims. It was assumed that one-half of the estate, which was in the hands of Sarah E. Reef, one of the admin - istrators was in her hands as next of kin, and not as an administrator, even as against the administrators’ creditors. Upon these facts, so found, it was decreed that Arthur Reef and Sarah E. Reef, pay to Morris L. Wright his claim, and also pay Andrew Coe his claim, and that Wright and Coe have executions for their claims. The.-decree does not provide that Arthur and Sarah E. Keef, shall pay, in their representative capacity, but that they shall pay, and executions shall run against them as individuals.
+The decree also provides that Ruth Spencer shall pay unto Arthur and Sarah E. Reef, as individuals, $608.83, one-half of said sum of $1,217.66, and that Arthur and Sarah E. Keef, as individuals have execution therefor.
+From this decree Ruth Spencer appeals and asks this court to reverse it, upon two grounds: 1. That the surrogate was without jurisdiction to make the decree, 2. That the decree is contrary to the evidence, because it appears that there were assets in the hands of the administrators.
+The jurisdiction of the surrogate’s court is purely statutory. There is no statute conferring jurisdiction upon the surrogate’s court to adjudge that the next of kin to whom the personal estate has been distributed shall pay the debts incurred by the administrators. This decree directs Arthur Reef individually, to whom no part of the estate has been distributed, and Sarah E. Reef individually, to whom one-half of the estate has been distributed, to individually pay the claims.
+Nor is there any statute conferring authority upon the surrogate’s court to adjudge that Ruth Spencer pay to Arthur and Sarah E. Keef, as individuals, one-half of said claims. Nor do we think that the court had power to order Ruth Spencer to pay one-half of said claims to Arthur Keef and Sarah E. Keef in their representative capacity.
+Administrators are not entitled to be credited for payments made by way of distribution to the next of-kin until all debts and expenses of administration have been paid. The referee and surrogate have disregarded this principle, and have allowed for payments made to or property distributed among the next of kin before all debts or expenses of administration have been paid; and so it is found by the referee that there is nothing remaining in the hands of said administrators to pay outstanding claims against said estate or the expenses in the report afterward mentioned.
+Hence, to correct the mistake made by the administrators an unwarranted attempt is made to settle and readjust the affairs of the next of kin and compel them, or one of them, to disgorge assets received under the agreement of 1878, and pay a part thereof back to the administrators, or rather, to pay same upon the debts and liabilities found existing against the estate.
+Notwithstanding the reference of the accounts under §2546, of the Code, we are not prepared to say that a simple confirmation of the referee’s report by the surrogate is a sufficient decision to answer the requirements of § 2545. Unless some authority can be found to the contrary, we think the safer practice would be for the surrogate to make an independent decision, with findings of fact and of law, accepting or rejecting the conclusions of the referee, as shall seem just. Exceptions can be filed to such findings and to subsequent refusals to find or findings in settlement of case, as provided in § 2545.
+It follows, that the decree of the surrogate must be wholly set aside and the proceedings must be remitted to the surrogate to make a decision with findings of fact and conclusions of law. That in such decision, and in the summary statement to be contained in the decree, the administrators should be charged with the whole amount of assets which has come in their hands. That they would be credited with funeral expenses, expenses of administration, debts and accounts paid, any losses from the inventory from property therein included, which did not belong to the intestate, and which was delivered up by the administrators to the true owner and claimant.
+From the balance, as so ascertained, the order or decree, as well as the decision should direct the administrators: 1. To allow and credit to themselves the amount for their commissions to which they are by law entitled, as found and established by the surrogate.
+Second. That the administrators pay such debts of the estate and costs and expenses of administration as are found to be properly chargeable against the estate by the decision of the surrogate.
+Third. That the administrators pay over the rest, residue and remainder after such payments-aforesaid in equal parts to Sarah E. Keef and Ruth Spencer, the only next of kin of said deceased; but as money or assets in excess of said amounts have already been received by said next of kin under and in pursuance of agreements made between them, or between them or one of them and the administrators, let the decision find, and the decree adjudge that such residue has been fully paid over to said next of kin, and to the extent thereof, the administrators are exonerated and discharged from any further payments thereon.
+The costs of tins appeal should be chargeable against the estate in the hands of the administrators under the second subdivision of the decision and findings as above specified.
+Hardin, P. J., and Boardman, J., concur.
