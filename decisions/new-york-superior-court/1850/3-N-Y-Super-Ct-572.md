@@ -1,0 +1,37 @@
+---
+court: "New York Superior Court"
+decided: "1850-04-20"
+citations: ["1 Sandf. 572", "3 N.Y. Super. Ct. 572", "3 Sandf. 572", "5 N.Y. Super. Ct. 572"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Before Deer, Mason, and Campbell, J.J.)"]
+parties: ["Franklin and others v. Pendleton and others."]
+source_url: "https://static.case.law/ny-super-ct/3/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6065098
+cites_cases: ["1 Wend. 551", "1 Wend. 557", "26 Wend. 502", "5 Hill 35"]
+---
+
+# Franklin v. Pendleton
+
+## Majority (MasoN, 3.-)
+
+By the Comer.
+MasoN, 3.-
+The right of the plaintiff to recover in this cause is denied principally on three grounds.
+I. It is alleged that the affidavit of the plaintiff, as an attaching creditor, presented to the judge who issued the warrant, is defective — that it does not state whether Driggs, at whose request the articles were furnished, was master, owner or consignee, but only that he was one or the other — that the articles are stated to have been furnished for the use of the vessel, and not for or towards the building, equipping or repairing &c., as required by the act; and that the facts and circumstance establishing the demand are not set forth.
+It might be a sufficient answer to these objections, to say th&t they should have been presented to the officer before whom the bond was taken, on a motion to discharge the vessel from the claim of this plaintiff, and that the voluntary execution of the bond is a waiver of the alleged defect, and an admission that the plaintiff had complied with the requisites of the statute, so as to entitle him to the benefit of the bond.
+But there is another and conclusive answer, and that is that the suit is now on the bond, which is executed in favor of the plaintiff, and is conditioned to pay all such claims as shall have been exhibited, which, shall be established to have been subsisting liens on the vessel. That a claim was exhibited by this plaintiff is evidenced by the execution of the bond in his favor— and the only questions now are, what was the nature and amount of .the claim, and was it a subsisting lien.
+Admitting the affidavit to have been defective as alleged, the question now is not on the sufficiency of the affidavit, but on the validity of the claim — and the plaintiff is not by reason of defects in the affidavit excused from any proofs, nor are the defendants shut out from any defence, affecting the merits of the action. The affidavit is a mere preliminary proceeding, and is rendered unimportant by the giving of the bond.
+II. It is said that the bond is void on its face — that it is a bond taken colore officii — and is wanting in the essential requisites of the statutory bond which is required to be conditioned for the payment of all such claims as shall have been exhibited, and which shall be established to have been subsisting liens at the time of exhibiting the same respectively, whereas the condition of the bond in question omits entirely all after the word “ Liens.”
+The case of Ring v. Gibbs, (26 Wend. 502,) completely answers this objection. In the bond in that case, the same words were omitted as in the bond before us, and also the words, “ as shall have been exhibited,” thus making it conditional, as was contended by the counsel, for the payment of all demands which should be established to have been subsisting liens at any time, whether the same had been exhibited to the officer or not. But the court of errors unanimously held that it was not a bond taken colore officii, for though taken by tke officer who issued the warrant, it was not a bond to himself, but was executed to and for the benefit of the parties suing out the warrant; and that the variance of the condition from the terms of the statute did not render the bond void.
+Another objection was, that it did not appear by the recitals, that the bond was taken before the officer who issued the warrant. But the statute does not require that fact to be inserted in the bond or in any recital to it. Besides, it was voluntarily executed by the obligors, without notice to the plaintiff, and has accomplished, as the defendant intended it should, the release of the vessel. It would, therefore, be the height of injustice, to allow the defendants to avoid a security thus voluntarily given by themselves, and which the plaintiff is bound to accept, on the ground of technical defects or informalities, which they themselves have committed. Tliey cannot get rid of their obligations by setting up their own negligence or fraud.
+III. The third objection is, that the steamboat Virginia was not a vessel, within the meaning of the statute.
+She was a vessel of the burthen of three hundred tons and upwards, was enrolled and licensed for the coasting trade, and therefore a vessel of the description to which it has been expressly held that the act applies, (Walker v. Blackwell, 1 Wend. 557; Marcy v. Noyes, 5 Hill 35.)
+The fact that she had a theatre erected on her deck did not render her less a vessel, or in any manner alter her character. She was to be employed, and was employed, in sailing from port to port, with the view of being profitable to her owners by theatrical exhibitions, instead of the usual mode of carrying freight or passengers; but she was as much a vessel, within the meaning of the act, when employed in the former as in the latter mode. The articles furnished by the plaintiff were ordered for the “ Steamboat Virginia,” and were charged to the “ Steamboat Virginia and the owners,” they were articles necessarily used in the repairing, fitting, furnishing or equipping the vessel, and the plaintiff" is not responsible for the misapplication of any of them by the defendants to other purposes. It is proved, however, that the greater part of them were actually used upon the vessel, as distinguished from the theatrS.
+As to the objection that the plaintiff did not prove the relation in which Driggs stood, whether owner, master or agent, we are of opinion that there was sufficient evidence on that point to go to the jury, and that the non-suit prayed for on that ground was properly refused. Die authority of Driggs, as master or agent, was however afterwards clearly proved by himself when he was called as a witness for the defendant.
+The same remark applies to several other exceptions taken to the ruling of the judge — such as the admission of proof of Driggs’s signature to the order for the articles furnished by the plaintiffs, and the refusal of the j udge to nonsuit for want of sufficient evidence. Even if his decisions were in these respects erroneous, the objections were afterwards obviated by further testimony.
+The defendants also excepted to the decision of the judge allowing the bond to be read in evidence, and also to proof of the items of the plaintiff’s claim without previous proof of the preliminary proceedings on issuing the attachment, so as to show that the officer granting the warrant had jurisdiction. The obvious answer to this is, that the bond itself admitted in terms the issuing of the attachment, and is against these defendants conclusive evidence of the jurisdiction of the officer and of the regularity of those proceedings.
+We think that none of the objections of the defendants were well taken, and that the plaintiff is entitled to judgment on Ms verdict.
+Judgment for the plaintiff.
