@@ -1,0 +1,24 @@
+---
+court: "New York Court of Chancery"
+decided: "1848-02-21"
+citations: ["2 Barb. Ch. 636"]
+reporter: "barb-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Moore vs. Des Arts."]
+source_url: "https://static.case.law/barb-ch/2/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1995774
+cites_cases: ["16 Wend. Rep. 460", "17 John. Rep. 384", "24 Wend. 505", "3 Caines' Rep. 266", "5 Munf. Rep. 183", "6 Wend. Rep. 290"]
+---
+
+# Moore v. Des Arts
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+It is not alleged in the bill in this case that the complainant, at the time of his purchase, was ignorant of .the fact that spelter,-or .zinc, or tutanag, .ortutenague as.it is sometimes spelt, was the same article that was exempted from duty, in the act of August, 1842, under the name of feutenegue. Nor does it-appear that it was an article which was usually exported; so that its value would have been materially increased from its being entitled to debenture. Or that the complainant intended .or -expected to export .it, or that he would have done so if it had in fact been entitled to drawback. All that is said, in .the bill, on that subject, is that at the timé of the publication of the decision of . the -secretary of the treasury, the article .remained in the complainant’s hands, -.and in a situation to be identified ,&>c. m the manner required by law to entitle the owner of debentured goods -t,o the benefit of drawback, provided they are exported within the time limited .by the statute. I apprehend the only real injury which the complainant .sustained by his ignorance of the law, was that he paid more for .the spelter than it was actually worth. And that by the subsequent decision -of the secretary of the treasury -while the article remained in his hands undisposed of, the value of spelter was reduced about twenty per cent in the market.
+The article not being dutiable, the alleged custom as to the sale .of articles entitled to debenture, at the long price, and the rights of the parties upon such a sale, has no application to this-case. For there i.s no allegation in the bill that the defendant, represented that the spelter was a dutiable article, -or that he had in fact paid duties thereon, or that the.duties, if paid, had not been paid under protest. It is impossible, therefore, out of the alleged custom and the mere fact that the sale was at long price, for this court to make an agreement for the defendant that the complainant shall have the benefit of debenture upon a sale of goods which are in fact free from duty; or an agreement that if the vendor succeeds in recovering back the amount which has been improperly claimed and received by the collector, the purchaser shall be entitled to the money thus recovered.
+It is a reasonable presumption that those who are dealing in articles of commerce, especially those who purchase by wholesale from the importers, are acquainted with the different names by which such articles are known to the commercial world. And if spelter was actually exempted from duty by the name used in the section of the statute relative to exempt articles, probably both parties to this sale had reason for believing that the claim made by the collector was unfounded; and that it would probably be reversed, and the. duties be refunded to the importer. If so, the purchaser should have made his contract with reference to that event; so as to secure to himself the benefit of the refunded duty in case it should turn out that the collector was wrong. But he could,.not do this by simply purchasing according to a custom which had no application to such a case. On the other hand, if the term teuteneque, as used in the act of August, 1842, was wholly unknown to commercial men, and did not in fact designate the article imported by the defendant under the name of spelter, that fact should have been distinctly stated in the bill, if the complainant wished to show that the receiving back of the duties had deprived him of a right of debenture which actually existed, and to which he was entitled under his purchase of the spelter at long price.
+In any view, therefore, which I have been able to take of this subject, I do not see that the complainant is entitled to the refunded duties, which the defendant has received under the order of the secretary of the treasury. Hence, it is unnecessary to examine the objection made in the demurrer, that the remedy of the complainant, if he had any, was only properly cognizable in a court of law.
+The order appealed from must be reversed; and the demurrer must be allowed, and the complainant’s bill dismissed witn costs. But under the circumstances of this case, I must leave each party to bear his own costs upon this appeal; except as to the costs of entering the final decree, and the subsequent proceedings thereon.
