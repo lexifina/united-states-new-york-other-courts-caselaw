@@ -1,0 +1,29 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-02-13"
+citations: ["37 N.Y. St. Rep. 41"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael O’Brien, Resp’t, v. Robert J. Smith, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/37/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2054386
+cites_cases: ["12 Wend., 529", "2 Barb., 618", "4 Abb. Ct. App. Dec., 464", "4 N. Y., 270", "46 N. Y., 633", "68 N. Y., 30"]
+---
+
+# O'Brien v. Smith
+
+## Majority (Barrett, J.)
+
+Barrett, J.
+This action was brought to recover the rent of a house in Brooklyn, under a lease executed by one Margaret Smith (plaintiff’s assignor.) to defendant. The term was five years from the 11th day of September, 1883, and the plaintiff claimed the unpaid rent for the ten months commencing on the 11th day of March, 1884. The defendant, in his answer, denied the execution of the lease, ignored the assignment from Margaret Smith to the plaintiff, alleged affirmatively, first, that the plaintiff is not the real party in interest, and, second, that Margaret Smith evicted him from the property before the time for which the plaintiff seeks to recover rent. He also pleaded a counterclaim for such eviction, and asked to set off the damages resulting therefrom against the rent claimed by the plaintiff. The counterclaim, however, was stricken out at special term, because of the defendant’s failure to comply with an order duly made on motion for a bill of particulars, and it need not, therefore, be noticed further. Upon the trial the plaintiff proved the lease and assignment. The defendant then gave some evidence tending to show that he only obtained possession of a part of the house and that the plaintiff withheld possession of the other part. He also gave evidence tending to estabish an eviction by the foreclosure of a mortgage upon the demised premises executed prior to the lease. The sale under the foreclosure judgment occurred on the 31st day of December, 1884, and the deed which the sheriff gave to the purchaser was Recorded on the 16th day of January, 1885. Under the lease, the rent was payable monthly in advance. Thus the rent sued for was due and unpaid at the time of the alleged eviction.
+It is well settled that rent due at the time of an eviction is recoverable, Giles v. Comstock, 4 N. Y., 270, and we need not, therefore, consider the question whether, as matter of fact, the defendant was evicted. The other point has also been settled adversely to the defendant’s contention. The rule is well stated by Judge McAdam, in his work on Landlord & Tenant (2d ed., p. 142), as follows:
+“ I. That if the tenant by any wrongful act or neglect of the landlord cannot get possession of the whole subject of the demise, he is not bound to accept a part thereof, and may by declining to take part plead the landlord’s wrongful act or neglect in defense of any action the landlord might bring to recover the rent.
+“II. If, however, the tenant accept part he enters under the demise, and is liable on his covenant for the whole rent, unless the covenant to pay is made dependent on receiving possession of the whole.
+“ HI. The tenant’s remedy is to recover his damages arising from the failure to receive full possession, either by way of counterclaim to the original action for rent or by way of an independent action.”
+This doctrine is supported by the authorities. “ An eviction,” as was said in Vanderpool v. Smith, 4 Abb. Ct. App. Dec., 464, “ consists in taking from a tenant some part of the demised premises of which he was in possession, not in refusing to put him in possession of something which by the agreement of the parties he ought to have enjoyed. The omission of a landlord, therefore, to perform such covenant does not amount to an eviction, and is no bar to the lessor’s claim for rent.' The lessee’s remedy is by an action to recover damages for a breach of the covenant.” The same language was used by Chief Justice Savage in Etheridge v. Osborn, 12 Wend., 529, and his opinion to that effect is quoted with approval in Vanderpool v. Smith. There can be no doubt that the defendant’s remedy, if he failed to receive full possession, was, as stated by Judge McAdam, by way of counterclaim or independent action. Having entered under the demise, he is liable on his covenant for the rent reserved.
+The point was taken at the trial that the lease being for five years should be under seal. This point is not pressed upon the appellant’s brief, and we need not refer to it further than to say that the lease being a chattel interest, and not a freehold estate, did not require a seal. Warren v. Leland, 2 Barb., 618 ; Stoddard v. Whiting, 46 N. Y., 633; and see Babcock v. Utter. 1 Abb. Ct. App. Dec., at page 36.
+The other point presented by the appellant is the claim of error in ruling out the question put to Margaret Smith, with regard to the assignment of the claim to the plaintiff. These questions were properly excluded upon the authority of Sheridan v. The Mayor, 68 N. Y., 30. The assignment was in writing and under seal, and it was a valid transfer as against the assignor. As was said by Church, Chief Justice, in the case cited, “the defendant had no legal interest to inquire further.”
+The verdict was properly directed. Bach party moved for a direction in his favor. Ho request was made to go to the jury. The facts simply justified the ruling of the learned judge, and the judgment should accordingly be affirmed, with costs.
+Van Brunt, P. J., and Bartlett, J., concur.
