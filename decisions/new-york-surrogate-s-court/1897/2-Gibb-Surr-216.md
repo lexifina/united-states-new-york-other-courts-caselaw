@@ -1,0 +1,38 @@
+---
+court: "New York Surrogate's Court"
+decided: "1897-05"
+citations: ["2 Gibb. Surr. 216", "20 Misc. 371"]
+reporter: "gibb-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Judicial Settlement of Eliza M. Heinze et al., as Executors of Konrad Heinrich Otto Heinze, Deceased."]
+source_url: "https://static.case.law/gibb-surr/2/cases/0216-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8822679
+cites_cases: ["135 N. Y. 137", "136 N. Y. 326"]
+---
+
+# In re the Judicial Settlement of Heinze
+
+## Majority (Abbott, S.)
+
+Abbott, S.
+Konrad Heinrich Otto Heinze died on November 1, 1891. His estate consisted entirely of personal property. By his will, dated May 10, 1889, he directed that his residuary estate be transferred by the executors to the United States Trust Co., as trustee, and directed such trustee to divide eighty one-hundredths thereof among legatees to whom he bequeathed the same absolutely.
+The executors named in-.the: will made' distribution of- such eighty one-hundredths of the residuary estate to the legatees-named without the intervention of the trustee, and, upon being furnished with proper releases by such legatees, all of whom are of full age, the United States Trust Co. will be satisfied with the disposition made of the eighty one-hundredths part of the residuary estate.
+By the third subdivision of paragraph “ second ” of the will the testator makes disposition of his property as follows:
+“ Twenty (20) one-hundredths part thereof I give, bequeath and devise to the said United States Trust Company of New-York, the trustee hereunder, in trust, to hold, manage, invest and reinvest the same, the net income, issues and profits thereof to collect and receive, and to pay over and apply such net income and profits ’ semi-annually to the'’ use of my -said wife, Eliza M. Heinze, during'her natural life. Upon the death of my said wife, I give, bequeath and devise the said twenty one-hundredths part of my residuary estate so directed to be held in trust for her to my children and the issue of any deceased child or children, to be equally' divided between them, such issue, however, to take by representation the share which! the parent would have taken if living.”
+In the fall of 1896, .after the commencement of this' proceeding by the United States Trust Company to compel an accounting by the executors of the will, all of the testator’s children, being of full age, executed and delivered to Eliza ‘M. ITeinze deeds purporting to convey and assign to her absolutely the remainder in the said trust fund, relying upon the authority of chapter 452 of the Laws of 1893. The said Eliza M. ITeinze also made and executed to herself an assignment of her interest in the trust fund and contends that by reason of such assignments the trust was terminated and that she became and now is the absolute owner of the trust fund.
+I am of the opinion that under the provision of the above-quoted portion of the will the remainder in the trust fund became vested in testator’s children at the time of his decease. Nelson v. Russell, 135 N. Y. 137.
+The more difficult question arises upon the claim that the trust provision for testator’s widow, Eliza M. Heinze, has been abrogated by the voluntary acts of the parties beneficially interested in the fund.
+At the time of the decease of the testator it is clear that such a result could not have been accomplished. Cuthbert v. Chauvet, 136 N. Y. 326.
+By chapter- 452 of the Laws of 1893 it was provided that whenever a person beneficially interested in the “ income of any trust heretofore or hereafter created for receipt -of the . . . . income of personal .property,” shall become entitled in his own right to the remainder in the trust fund, “ he may convey or release to himself ... all his or her right, title and interest in and to the income of such trust estate- . . . and thereupon -the estate- of the trustee . . . shall cease and determine, and the- trust estate for a life or lives or a shorter term . . . shall be and become forthwith merged in such remainder or reversion.”
+I am of the opinion that the provisions of the act in so far as they relate to personal property were in nowise affected by the provisions of the Real Property Law (chap. 547, Laws of 1896).
+The only remaining question is the constitutionality of the provisions of chapter 452 of the Laws of 1893, in so far as they are retroactive, and relate to trust estates already in existence at the time of the passage of the act.
+It is contended in behalf of the trustee that its effect is to permit the taking of property without due process of law.
+This contention cannot be sustained.
+The trustee has no beneficial interest whatsoever in the fund except the, right to receive compensation for services rendered by way of commissions. If the constitutional provision cited has any application whatever it would apply to the rights of the parties having a beneficial property interest in the fund. The legislative: enactment in question does not deprive such owners of any right of property or ownership in the fund without their consent. The owners in remainder have made an absolute assignment of their interest in the fund to the life beneficiary.
+The right of property of the cestui que trust to receive the income during her life has been changed by, a compliance with the terms of the statute to an absolute ownership of the fund. So far from depriving her of property, the effect of the statute and proceedings thereunder has been to confer upon her additional rights of property. The cases cited by the counsel for the trustee all relate to beneficial interests acquired under the wills in question in those cases.
+Inasmuch as the provisions of the statute were' not complied with until after the commencement of this proceeding, I am of the opinion that the trustee should be reimbursed its •expenses of this proceeding out of the trust fund.
+The objections to the account are overruled.
+Decreed accordingly.
+Note. — Chapter 452, Laws of 1893, was repealed. by the Personal'Property Law (L. 1897, ch. 417), but its provisions, so far as they relate to personal property, were incorporated in section 3 of the latter act; -
