@@ -1,0 +1,40 @@
+---
+court: "New York Superior Court"
+decided: "1863-05-30"
+citations: ["1 Rob. 55", "24 N.Y. Super. Ct. 55"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alonzo Van Deusen, plaintiff and respondent, vs: The Charter Oak Fire and Marine Insurance Company, defendants and appellants."]
+source_url: "https://static.case.law/ny-super-ct/24/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1399827
+cites_cases: ["1 Allen, 311", "1 Gray, 426", "11 John. 241", "13 Gray, 431", "14 Barb. 206", "14 Md. Rep. 285", "16 Barb. 254", "16 Wend. 400", "17 N. Y. Rep. 428", "2 Duer, 99", "20 Barb. 616", "23 Pick. 418", "25 Wend. 379", "3 Denio, 254", "3 Sandf. 26", "3 Sandf. 448", "30 Maine Rep. 414", "33 Penn. Rep. 397", "38 N. H. Rep. 232", "4 Bosw. 1", "4 N. Y. Rep. 497", "5 Duer, 587", "6 Cush. 342", "6 H. & J. 408", "7 How. Pr. 251", "9 John. 192"]
+---
+
+# Van Deusen v. Charter Oak Fire & Marine Insurance
+
+## Majority (By the Court, Bosworth, Ch. J.)
+
+By the Court, Bosworth, Ch. J.
+The objection that the preliminary proofs do not contain the certificate of a magistrate, as required by the eighth of the conditions annexed to the policy, can not be taken for the first time at the trial. (Bilbrough v. Metropolis Ins. Co., 5 Duer, 587. O’Niel v. The Buffalo Fire Ins. Co., 3 Comst. 128.)
+The objection to these proofs, taken on the motion to dismiss the complaint, was that “ the paper served on the defendants, as above, was not in compliance with the terms and conditions of the policy, as a prerequisite to the right to recover.” The terms of the objection not only do not raise any question whether the person on whom the service was made was a proper person for the purpose, but import that he was.
+The plaintiff had testified that “ either Bowers (the president of the City a Fire Insurance Company which had also insured the same property,) or Chapman (the defendants’ agent) asked for the proofs of loss, and I went and got them, and handed them to them, and they examined the proofs; * * two or three days afterward we had a conversation, and I then asked if there was any thing further that I could do ; any further proofs that I could show in the case; any thing further they wanted of me; they said there was not; if so they would let me know; ” * *
+The defendants, by their authorized agent, Elisha Peck, subsequently offered to settle and compromise the claim; but no complaint or intimation of the insufficiency of the preliminary proofs was1 at any time suggested.
+On such a state of facts, the rule stated in Bodle v. The Chenango Mut. Ins. Co., (2.Comst, 57, 58,) should be applied, and the defect be held to he waived.
+The only other question of substance relates to the effect of the giving of the chattel mortgage.
+The policy declares that “in case of any transfer or termination of the interest of the insured in the property, by sale or otherwise, * ® the policy shall be void.”
+The fourth condition declares that “in case of any sale, alienation, transfer or change of title in the property insured, * * or of any individual interest therein, such insurance
+shall be void. And 'the entry of the foreclosure of a mortgage, or the levy of an execution, or an assignment for the benefit of creditors, shall be deemed an alienation of the property.”
+The giving of the mortgage would not avoid the insurance, as being an “alienation, sale or transfer of title,” within the meaning of the policy. The mortgagee did not take actual possession, and had no right to do so until the plaintiff made default in payment of the moneys secured thereby. (Conover v. The Mutual Ins. Co. of Albany, 1 Comst. 290. Rice v. Tower, 1 Gray, 426.)
+Does the giving of the mortgage work a “ change of title,” within the meaning of the policy ? If it does, then if the goods were mortgaged when insured, payment of the mortgage before the loss, would also work “a change ef title.” Such a construction makes the words equivalent to alteration in, or modification of, the nature of the title.
+I think the words “ change of title,” as used in this policy, should be construed to mean some act which divests it absolutely, and thus permit the words, “ the entry of the foreclosure of a mortgage,” to have a natural, and not a forced application. ■
+Construing the whole as permitting the insured to mortgage, where he retains possession and has the right of possession, without avoiding-the policy, then the same effect is given to an entry to foreclose the mortgage, as to the levy of an execution, either of which the parties agree shall be deemed an alienation.
+Any other construction would restrict the application of the words, “ the entry of the foreclosure of a mortgage,” to goods mortgaged when the policy was issued, and would defeat the policy by reason of the mere fact of paying the mortgage prior to a loss.
+For whatever change of title is effected by the mere execution of a mortgage, a corresponding change is produced by satisfying it.
+Orrell v. Hampden Fire Ins. Co. (13 Gray, 431,) is not an authority to the point, that a mortgage is a change of title, within the meaning of a policy written like the present. The concluding part of the opinion is, that to constitute a breach of the condition of insurance, “ there must have been an actual sale or transfer of property, valid as between the parties.” All else that is said is qualified by the word C( perhaps,” and does not touch a point in judgment.
+In Abbott v. Hampden Mut. Ins. Co. (30 Maine Rep. 414,) one article of the defendants’ by-laws was, that the policy should be void if the assured should sell or alienate the property, in whole or in part, without consent of the company. The conveyances in that case were held to be an alienation in part. This case, therefore, has not much application to the case before us.
+In Edmands v. Mut. Safety Fire Ins. Co. (1 Allen, 311,) the by-laws provide that “ all alienations and alterations in the ownership, situation or state of the property insured by this company, in any material particular, shall make void any policy covering such property.” A subsequent mortgage of the property was said to be <£an alteration in the oionership. * * It introduces a new owner, to the extent of the sum secured by the mortgage, and to the same extent it takes away the direct interest of the assured.” That' case may be conceded to be correctly decided, upon the particular facts of the case, and yet not be an authority in support of the proposition that a mortgage, though not due, and not giving the mortgagee a right to the possession of the property, works “ a change of title/’ within the meaning of the policy, in the case at bar. In neither of the three cases last cited, does there appear to be any clause in -the by-laws to the effect that “ the entry of the foreclosure of a mortgage ” shall be deemed an alienation.
+Within the good sense and spirit of the terms of the body of the policy, and of the fourth condition, the words, “ any sale, alienation ox'transfer” should be construed as applying to acts which terminate the interest of the assured. By the body of the policy, property “sold, but not delivered,” is insured. This shows that “sale” means an executed contract of sale, which has transferred the title. Applying the maxim noseitur a sociis to the words “ change of title,” and keeping in mind the further provision, that “ the entry of the foreclosure of a mortgage” shall be deemed an alienation, the conclusion is reasonable, and I think clear, that the change of title -here meant, is a termination of it, and that the giving of the mortgage no more worked a change of title, within the meaning of the policy, than it did a transfer or alienation. That it is not an alienation, within the meaning of the policy, is settled.
+If these views are correct, the further questions involved in the other exceptions taken need not be considered, and the judgment should be affirmed.
+Ordered accordingly.
