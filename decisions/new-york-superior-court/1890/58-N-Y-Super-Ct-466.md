@@ -1,0 +1,30 @@
+---
+court: "New York Superior Court"
+decided: "1890-12-01"
+citations: ["26 Jones & S. 466", "58 N.Y. Super. Ct. 466", "11 N.Y.S. 697"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDWIN B. MEEKS, as Surviving Executor, etc., Respondent v. THE METROPOLITAN ELEVATED RAILWAY COMPANY, et al., Appellants."]
+source_url: "https://static.case.law/ny-super-ct/58/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1693342
+cites_cases: ["105 N. Y. 74", "113 N. Y. 1", "116 N. Y. 240", "118 N. Y. 12", "14 Wend. 323", "18 Abb. N. C. 82", "2 Barb. 534", "2 Barb. 537", "2 Edw. Ch. 559", "2 N. Y. 19", "20 Hun, 114", "20 N. E. Rep. 814", "23 N. Y. 377", "24 N. Y. 12", "3 Barb. Ch. 80", "32 N. Y. 326", "32 N. Y. 329", "45 N. Y. 723", "53 N. Y. 102", "53 N. Y. 359", "55 How. 494", "62 Barb. 295", "78 N. Y. 246", "85 N. Y. 53", "85 N. Y. 60", "89 N. Y. 225", "98 N. Y. 35"]
+---
+
+# Meeks v. Metropolitan Elevated Railway Co.
+
+## Majority (By the Court.—Ingraham, J.)
+
+By the Court.—Ingraham, J.
+The complaint alleges, that one Joseph W. Meeks died seized of certain property, therein described, leaving a last will and testament whereby the said property was devised to the plaintiff in trust for the purposes of and object of the will, and that by virtue thereof plaintiff became the lawful owner of said property with all the rights, easements and appurtenances thereto belonging, and the owner of any and all causes of action for damages thereto.
+These allegations are denied by the answer. The will of said Joseph W. Meeks was introduced in evidence, and to entitle plaintiff to judgment it must appear that the title to the property appropriated became vested in the plaintiff, as trustee, or that he was entitled to the possession and enjoyment of such property.
+If there is any intention clearly expressed in the will it is that the testator’s property shall not descend to his heirs at law. The executors are directed to sell the property and receive and distribute the proceeds thereof, and until the property is sold the executors are to receive the rents and profits, and to pay insurance, taxes and assessments. Under no circumstances can the heirs at law, as such, be entitled either to the proceeds of the sale of the property or to the rents and profits realized therefrom during the period that should elapse between the time of the death of the testator and the time of such sale.
+. If the defendants had taken the property under the right of eminent domain it is the plaintiff, as trasteé, who would have been entitled to the amount required to be paid for such property, and until the property was sold the plaintiff, as trustee, would be entitled to the possession of the property and to the rents and income realized from the use and occupation thereof.
+It is the plaintiff, as trustee, therefore, who could maintain an action for the use and occupation of the property, and for an injunction to restrain a trespass upon it. A conveyance by the trustee would convey a good title to the defendants under the power of sale contained in the will, and the heirs at law are not necessary parties either to this action to restrain a trespass thereupon, or to recover possession thereof, or to a conveyance of the property so as to vest a good title in the defendants.
+It is not, therefore, necessary to decide in this action whether the title to the real estate vested in the plaintiff, -as trustee, under the will, but if it were necessary to determine that question I think that, under the rule stated in Roberts v. Corning, 89 N. Y. 225, the executor took the legal title to the property. Andrews, J.—speaking for the court in that case said: “ The testator contemplated that the real estate might not be sold for some time after his death * * * The presence of the legal estate in the trustees pending a sale if not absolutely necessary to nable them to perform the duty imposed upon them to divide the net income and profits, is a convenient and natural arrangement, and. the vesting of the legal estate in the trustees by implication would not, as we construe the will, defeat or disturb any of its provisions, but would be in harmony with its scheme and dispositions. * * * There are many authorities tending to sustain the proposition, that a trust will be implied when the duties imposed are active and render the possession of the legal estate in the executors convenient and reasonably necessary, although it may not be absolutely necessary to accomplish the purpose of the will, and when such implication would not defeat but would sustain the disposition of the will.”
+These remarks apply to the will in question. There is, I think, a clear intention expressed in the .will that the executors should take the title to the real estate, collect the rents and profits until it should be sold, and then receive the proceeds of the sale and divide it among the legatees. An express trust may be created to sell lands for the benefit of legatees and to receive the rents and profits of lands and apply them to the use of any person, during the life of such person, and such a trust is created by the will as thus construed.
+Henderson v. Henderson, 113 N.Y. 1, does not apply, for there the direction to the executors is to partition, not to sell, and the will gives the share set off to each child by the executors under the power conferred, to the child to whom it is allotted. It was held that no express trust was created because it was not within the provisions of the statute; that the main purpose of the testator was to divide the residuary estate among his children and the power of sale was given for the better execution of that purpose ; but in this case the trust will be within the provisions of the statute as before stated.
+The other questions presented on this appeal have all been decided by this court adversely to the appellants and required no special mention.
+Judgment should be affirmed, with costs.
+Fbeedman, J., concurred.
