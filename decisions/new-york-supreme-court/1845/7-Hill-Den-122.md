@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court"
+decided: "1845-01"
+citations: ["7 Hill & Den. 122"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Trench and another vs. The Chenango County Mutual Insurance Company."]
+source_url: "https://static.case.law/hill/7/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2046145
+cites_cases: ["3 Hill, 501", "4 Hill, 329", "5 Hill, 188", "7 Wend. 270"]
+---
+
+# Trench v. Chenango County Mutual Insurance
+
+## Majority (Beardslet, J.)
+
+By the Court,
+Beardslet, J.
+At the close of the testimony the counsel for the defendants objected that the plaintiffs could not recover, on the ground that, when the application for insurance was made, and the policy executed, a dwelling house and plough shop stood within less than ten rods of the paper mill, and were not described or referred to in the application. The objection was sustained by the circuit judge, and the plaintiffs were nonsuited.
+The property insured is mentioned in the policy as an undivided half of a paper mill, and the machinery and stock therein ; and then follows this clause, “ reference being had to the application of said J. & T. Trench, for a more particular description, and the conditions annexed, as forming a part of this policy.” The conditions are thus undoubtedly made a part of the contract of insurance; as muph so as if embodied in the policy. (Burrett v. The Saratoga County Mutual Ins. Co., 5 Hill, 188.) But it is otherwise with the application. That, as it seems to me, is referred to for the mere purpose of describing and identifying the property insured, and not to incorporate its statements into the policy as parts thereof. The material question in the present case, however, would "not, in my judgment, be changed, if the application could be regarded as a part of the contract of insurance.
+One of the conditions thus inserted in the policy is in these words: “ All applications for insurance must be made in writing, according to the printed forms prepared by the company. Such application shall contain the place where the property is situated; of what materials it is composed; its dimensions, number of chimneys, fire-places and stoves; how constructed, and for what occupied; its relative situation as to other buildings; distance from each, if less than ten rods; for what purpose occupied ; and whether the property is encumbered ; by what and to what amount; and if the applicant has a less estate than in fee, the nature of the estate.”
+This condition constitutes part of the contract of insurance, and amounts to an express warranty by the assured that his application truly describes or indicates all the buildings within less than ten rods from the paper mill. In De Hahn. v. Hartley, (1 T. R. 343,) Lord Mansfield said : “ A warranty in a policy of insurance is a condition or a contingency, and unless that be performed, there is no contract. It is perfectly immaterial for what purpose a warranty is introduced; but being inserted, the contract does not exist unless it be literally complied with.” “ The very meaning of a warranty,” observed Ashhurst, J., in the same case, “ is to preclude all questions whether it has been substantially complied with : it must be literally so.” “ In a case of warranty it is perfectly immaterial whether the misdescription is the result of fraud or mistake: it is a condition precedent, and no excuse can be received for the non-performance of it.” (Per Sutherland, J., in Fowler v. The Ætna Fire Ins. Co., 7 Wend. 270; and see Snyder v. The Farmers’ Ins. and Loan Co., 13 id. 92; 16 id. 481, S. C.; Alston v. The Mechanics’ Mutual Ins. Co., 4 Hill, 329; Ellis On Ins. 28.)
+The application in this case describes some of the buildings standing within ten rods of the property insured,.but omits all mention of the plough shop and dwelling house. Here then is a violation of warranty on the part of the plaintiífs, and so far as respects the paper mill, and the machinery, if that should be regarded as part of the realty, I see no ground on which the defendants can be made liable.
+But this company may insure personal property as well as buildings; (Laws of 1836, p. 314, § 1;) and the present policy is upon both descriptions of property. The machinery insured may be so attached to the building as to be deemed a part thereof, although there is nothing in this case to show how that was; but the stock was unquestionably personal property. Now although the policy may be void as an insurance on the paper mill, including the machinery, if that was part of the mill, it still may"be valid as to the personal property. The condition relied on by the defendants refers exclusively to applications for insurance upon buildings. It requires the applicant to state where the property is situated; its materials, dimensions, construction, chimneys, fire-places and stoves; its distance from other buildings, and the purpose for which it is occupied. All this is sensible and intelligible, when understood in reference to buildings; but would be absurd and .unintelligible when applied to personal property.
+The attention of the circuit judge does not appear to have been called to the fact that this policy was upon personal property, as well as upon a building. Had it been, I apprehend he would not have nonsuited the plaintiffs for the breach of a condition which can have no possible reference to any thing but the insurance on the building. As to that, I agree that the objection was fatal; but the plaintiffs were, notwithstanding, entitled to recover the value of'the personal property insured.
+The nonsuit should be set aside, and a new trial ordered.
+Rule accordingly.
+See Roberts v. The Chenango County Mutual Insurance Co., (3 Hill, 501.)
+Thv eruditions contained also the following provision : "If any person insuring sirr; property iu this company shall make any misrepresentation or concealment in the application &c., such insurance shall be void and of no effect.” In regaid to the question of warranty, therefore, the case was in substance like that of Burritt v. The Sar. Co. Mut. Fire Ins. Co., (5 Hill, 188.)
