@@ -1,0 +1,23 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1895-11-04"
+citations: ["70 N.Y. St. Rep. 461"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James McLaughlin, Resp’t, v. John F. Harriott, as Property Clerk, etc., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/70/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2122122
+cites_cases: ["1 Misc. Rep. 161", "101 N. Y. 348", "138 N. Y. 70", "48 St. Rep. 685", "5 Daly, 283", "51 St. Rep. 710", "57 St. Rep. 539", "6 Bosw. 154", "7 Misc. Rep. 161", "8 Johns. 133"]
+---
+
+# McLaughlin v. Harriott
+
+## Majority (Gtegerich, J.)
+
+Gtegerich, J.
+The present case demonstrates the value of the rule that, upon an appeal from the judgment of a district court, this court may reverse upon the facts where injustice has obviously been done. Code Civ. Proc. §§ 3063, 3213; Curley v. Tomlinson, 5 Daly, 283 ; Brown v. Sullivan, 1 Misc. Rep. 161; 48 St. Rep. 685; Schumacher v. Waring, 7 Misc. Rep. 161; 57 St. Rep. 539. The action is conversion against the property clerk of the police department, founded upon his failure to return upon demand a sum of money taken from the person of one John O’Connell, at a time when the latter was arrested in this city for extradition on a charge of robbery. His trial in a criminal court of the state of Pennsylvania resulted in his conviction. The identical money in suit was made use of physically as evidence against him, and such money was by the judgement of the court declared to be the property of one David T. Slocum, the person robbed, and directed to be paid over to him. These facts are undisputed, and the judgment of the foreign court, duly authenticated, appears in evidence.
+The respondent’s counsel seeks to defend the recovery below through reliance upon the proof that plaintiff (O’Connell’s attorney at the time of the arrest) became the assignee of the sum in question, by assignment from O’Connell, after such sum had been forcibly taken from the person of the latter when arrested. The argument appears to be that a prima facie case of trespass was made out against the arresting officer, in' favor of the prisoner, O’Connell, and that the question of title to the money was immaterial. Kissam v. Roberts, 6 Bosw. 154. But, waiving the questians raised by the fact that such officer was not the defendant, that the act was done in performance of official duty, and that the trespass, if any, antedated the assignment of the cause of action to the plaintiff, it need only be said that the cause of action pleaded and sought to be proven was simply conversion, as in the detinet, in which action proof of title in a third party may be given under the general issue. Griffin v. Railroad Co., 101 N. Y. 348. That there was no substitution of causes of action by consent, through failure to object to the evidence, follows from the fact that such evidence was not objectionable under the pleadings, since possession by O’Connell when arrested bore upon the very material issue of title,—in fact, was all that was shown upon the question by the plaintiff. The inquiry resolves itself into a matter of fact, whether or not the defendant established his defense under the denial of plaintiff's title; and that plaintiff’s assignee had absolutely no title nor right of possession is beyond argument, upon the evidence adduced. In no way was thé judgment of the foreign court sought to be attacked, and it was to be accorded full faith and credit. Dunstan v. Higgins, 138 N. Y. 70; 51 St. Rep. 710; Taylor v. Bryden, 8 Johns. 133 ; Story, Confl. Laws, §§ 592, 593.
+The money taken from O’Connell was proven to be that produced before the foreign court by the testimony of the witness Nugent, the police officer who made the arrest and identified the money upon the criminal trial; and there was no ground upon which the uncontradicted testimony of that witness could reasonably have been disregarded by the justice below. The only conclusion to be reached was that plaintiff’s assignee had no right or title to or interest in the fund assigned, and we must hold that, from an affirmance of this judgment, a reckless perversion of justice would result.
+For these reasons, the judgment should be reversed, and the complaint dismissed, with costs.
