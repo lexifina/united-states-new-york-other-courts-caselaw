@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-06-02"
+citations: ["38 N.Y. St. Rep. 1000"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ludwick H. Carter, App’lt, v. William Stevens, App’lt; George Carnahan, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/38/cases/1000-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2058087
+---
+
+# Carter v. Stevens
+
+## Majority (Dwight, P. J.)
+
+Dwight, P. J.
+The action was replevin for personal property taken on execution by the defendant Stevens, as constable, as the property of the judgment debtor, one Delos Carnahan. The judgment creditor was the respondent, George Carnahan, who had indemnified the constable against costs and damages by reason of his taking the property.
+George Carnahan was thus the real party (defendant) in interest, and he employed the attorneys who appeared for the nominal party, Stevens, and put in the defense. The action being thus-pending, the plaintiff and the nominal party defendant made a collusive settlement of the action by an offer by Stevens and acceptance by the plaintiff, of judgment awarding the property to the plaintiff and adjudging its return to him; and such judgment, was accordingly entered in favor of the plaintiff, without the knowledge of the real party (defendant) in interest or of the attorneys who had appeared by his employment for the nominal defendant in the action.
+These facts being made to appear to the court at special term, on motion of the real defendant, that judgment was set aside, and it was ordered that the real defendant in interest, George Carnahan, have leave to continue the defense of the action in the name of the nominal defendant Stevens, “ upon his executing and filing a bond, with sufficient sureties, conditioned that the said George Carnahan shall keep and fully indemnify and save harmless, the said William Stevens, of and from all loss, costs and expense which he has already incurred in the defense of said action, and which may hereafter be incurred in the defense of said action.’’ The order further provided that if the said Carnahan should neglect to execute and. file such bond within twenty days after the entry of the order the motion should be denied. The appellants here appealed to this court from that order, and it was affirmed. 28 N. Y. State Rep., 646.
+The respondent, Carnahan, thereupon procured to be executed by three sureties, each of whom justified in the sum of $500, a bond in the penal sum of $500, conditioned in precise accordance with the order of special term above mentioned, and filed such bond in the office of the clerk of Cattaraugus county within the time limited by that order, and served a copy of the bond and notice of its filing on the attorneys for the plaintiff, who also appeared for the appellants on the appeal from that order and who now appear for the appellants here.
+Thereafter the attorneys for Carnahan, the respondent here, noticed the cause for trial and placed it on the calendar of the Cattaraugus circuit held in February, 1890; whereupon the plaintiff and nominal defendant united in the motion to strike the same from the. calendar, and from the order denying that motion this appeal is taken.
+There seem to be no merits in this appeal. The only grounds upon which it is urged are (1) that the bond filed did not comply with the requirements of the order because it specified a penal sum of $500 when no penal sum was specified in the order, and (2) because no notice of the filing of the bond was given to the nominal defendant. There is nothing in the last objection, because the order did not require that such notice should .be given, and as long as the order stood without modification, it must have effect according to its terms. In respect to the other objection, it is to be observed that the order required Carnahan to give “ a bond" and an essential part of a bona, conditioned otherwise than for the payment of a definite sum of money, is the specification of a penal sum in which the obligors are bound. It was necessary, 'therefore, to compliance with the order, that the obligation of the bond should be in a sum specified, and the only question for the court at the circuit, when called upon to determine whether the order of special term had been complied with, was whether the sum specified was reasonably sufficient to meet the condition of the bond. That question we regard as decided at the circuit in the exercise of a reasonable discretion and judgment as to the probable expense to the nominal defendant of the litigation which the real party in interest was permitted to defend, and with that discretion this court is not disposed, even if it has the power, to interfere.
+The order appealed from should be affirmed.
+Macomber, J., concurs.
+Order affirmed, with ten dollars costs and disbursements.
