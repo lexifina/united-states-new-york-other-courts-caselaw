@@ -1,0 +1,24 @@
+---
+court: "New York Court of Chancery"
+decided: "1835-10-21"
+citations: ["2 Edw. Ch. 631"]
+reporter: "edw-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Eagle Fire Insurance Company v. Pell, el al."]
+source_url: "https://static.case.law/edw-ch/2/cases/0631-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1986621
+---
+
+# Eagle Fire Insurance v. Pell
+
+## Majority (The Vice-Chancellor:)
+
+The Vice-Chancellor:
+So far as the testimony taken before the master goes to explain the transaction and the object of the complainants in taking the bond and mortgage of Alfred S. Pell for the one thousand eight hundred dollars, it appears not to have been considered a loan of money made to him, but an advance from necessity, to protect their original mortgage security, they applying the money themselves to the payment of the demands upon the property by the corporation and ex abundanti cautela taking Alfred S. Pell’s bond and mortgage in order to bind him personally for the amount, at the same time it was intended to be collateral to the original bonds and mortgages of Ferris Pell and by no means a relinquishment of any liability he might be under to them for the amount of the assessments, but an additional security for the same ; and that the complainants looked to the proceeds of the mortgaged premises, when the same should be sold, for the repayment of such advances.
+It is not shown, however, that Ferris Pell was consulted or ever agreed to consider the transaction in this light. Nor do I think there is enough to warrant the inference that he so understood it, although it appears that, at his solicitation, the master’s sale of the mortgaged premises under the decree was several times, postponed, in order that the property might sell to the greatest advantage “ as he would be personally liable for any deficiency.” But his apprehension on this subject may have arisen solely from the magnitude of the debt and the costs of the proceeding without taking taxes and assessments into the account. There seems to be no doubt, however, of the fact, as to the understanding of the complainants or the officers of the company that it was not to affect their right to reimbursement out of the proceeds of the; property and of their intention to hold Perris Pell, as well as Alfred S. Pell, personally liable, upon their respective bonds, for any deficiency, after the amount of the assessments were repaid.
+How then does it stand in point of law ? Taxes and assessments are a charge upon the estate ; and the lien thereby created takes precedence even of a prior mortgage, and, if not paid, may defeat the security of the mortgage. If, consequently, the mortgagor or owner of the equity of redemption refuses or neglects to pay, the mortgagee, for his own protection, is justified in paying the amount and may add it to his debt when he proceeds to a foreclosure and sale or when the mortgagor comes to redeem : Faure v. Winans, Hopk. C. R. 283.
+In the present case, it appears that the taxes and assessments upon the mortgaged premises had become greatly in arrear; and the circumstances justified the complainants in advancing the money for the purpose of exonerating the estate from such charges. In equity, the complainants are entitled to stand in the place of the corporation' and to be reimbursed the amount, with interest, out of the property or its proceeds ; and if, by taking such amount out of the proceeds when sold, there is not enough remaining to satisfy the principal and interest of the mortgage and the costs of the proceedings, it follows that the mortgagor is liable for the deficiency upon his bond or covenant. Prima facie such liability exists here ; and if it has been discharged by any acts of the complainants, the defendant, Ferris Pell, should show it. The taking of the fresh bond and mortgage of Alfred S. Pell is not, per se, a discharge. It was not taking security of a higher nature for the same debt or demand so as to merge or extinguish the former. The superadding of Alfred S. Pell’s personal liability, by virtue of the bond which he gave for the one thousand eight hundred dollars, to the liability of Ferris Pell which they already had and could resort to, if they should think proper, was rendering the one collateral to the other and not substitutional.
+Neither in law, nor, according to the evidence, is Ferris Pell discharged.. He is fairly chargeable personally with a deficiency; and I do not understand the amount, which has been reported, is objected to. The complainants may resort to him or to the estate of Alfred S. Pell or to both. If Ferns Pell should be compelled to pay, he will have his remedy over against the latter upon the covenant of indemnity.
+The exceptions to the master’s report must be overruled, with costs.
