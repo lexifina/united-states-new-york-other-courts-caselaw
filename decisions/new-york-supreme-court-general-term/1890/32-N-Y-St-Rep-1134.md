@@ -1,0 +1,18 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-09-20"
+citations: ["32 N.Y. St. Rep. 1134"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jeremiah Callaghan, Resp’t, v. The N. Y. C. & H. R. R. R. Co. and The Delaware, Lackawanna & Western R. R. Co., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/1134-17.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040415
+---
+
+# Callaghan v. N. Y. C. & H. R. R. R.
+
+## Majority
+
+Judgment and order affirmed, witli costs.
