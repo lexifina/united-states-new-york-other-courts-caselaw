@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-11-24"
+citations: ["19 N.Y. St. Rep. 160"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles T. Jackson, App’lt, v. William R. Appleton, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/19/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 650549
+---
+
+# Jackson v. Appleton
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+The action is to recover damages for a wrongful conversion of personal property. It is alleged in the complaint that the plaintiff’ s assignor was the owner of, and entitled to the immediate possession of, one twenty-eight dynamo of a certain value, and that the defendant, on the 28th of October, 1886, being in possession of the goods, unlawfully converted and disposed of the same to his own use and to the damage of the plaintiff.
+Were this the whole of the case, an apparent right of the arrest would seem to have been made out. But it appears from the moving affidavit that a part of the electric light machine was sold by the defendant on July 23, 1886, and the other part was to be delivered as soon as completed, and that at the same time the plaintiff’s assignor loaned the defendant the twenty-eight dynamo in'question, to be used by him until the delivery to him of the second portion of the electric light apparatus. The defendant having failed to pay for the machine delivered in July, an action was brought to recover damages therefor, which is still pending. The second part of the machine contracted to be delivered by the plaintiff’s assignor was not delivered, ostensibly for the reason that the defendant had not paid for the first portion contracted for,. It appears that the plaintiff faded to finish the second machine and to make a tender and delivery of it so as to mark the time of the return of a dynamo which had been loaned to the defendant. The contract of the second machine was a condition precedent to a demand or right of demand by the plaintiff upon the defendant. The defendant had a right to retain the dynamo which was loaned to him until the delivery, or the offer of delivery, of the machine to be manufactured by the plaintiff’s assignor. Where, by the contract, the seller’s delivery is a condition precedent to a performance by the defendant of another part of the contract, the failure to show the performance of the precedent obligation shows a failure of a cause of action, and consequently of any right of arrest of the defendant for his failure to perform his part of the agreement.
+It follows, therefore, that the order vacating the order of arrest be affirmed, with costs and disbursements.
+Van Brunt, P. J., and Bartlett, J., concur.
