@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1880-11"
-citations: ["29 N.Y. Sup. Ct. 612", "29 N.Y. Sup. Ct. 611"]
+decided_precision: "month"
+citations: ["29 N.Y. Sup. Ct. 612"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
