@@ -1,0 +1,39 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-10"
+citations: ["97 N.Y. Sup. Ct. 132"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lewis and Bradley, JJ., concurred; Ward, J., not sitting."]
+parties: ["Henry Miller, Appellant, v. William C. Young, Defendant. Mary L. Young, Individually and as Executrix, etc., of William C. Young, Deceased, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/97/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4795612
+cites_cases: ["4 N. Y. Supp. 898", "75 N. Y. 192", "75 N. Y. 194", "82 N. Y. 362", "83 N. Y. 596"]
+---
+
+# Miller v. Young
+
+## Majority (Davy, J.:)
+
+Davy, J.:
+This action was brought against William O. Young to restrain him from diverting and obstructing the water flowing from a certain spring belonging to the plaintiff and depriving him of the use of it.
+Tlie cause was partly tried at a Special Term of this court held in the county of Allegany in August, 1893.
+The defendant died before the case was finally submitted. Thereafter a motion was made at Special Term in May, 1894, for an order allowing the action to be revived and continued against Mary L. Young as sole executrix of the last will and testament of William O. Young, deceased, and against her individually, she being 'the sole residuary devisee named in the testator’s will. The motion was denied and the plaintiff appeals from that order.
+The plaintiff in liis complaint asks judgment that tlie defendant be restrained from diverting the water from the spring, and that it be restored, to its former condition, and that he be allowed $1,000 damages.
+The respondent contends that the action was clearly personal to William C. Young, and that it abated upon his death and could not be revived against his personal representatives.
+Johnson v. Elwood (82 N. Y. 362), relied upon by the learned counsel for the respondent, has no application to this case. In that proceeding the injunction was dissolved by stipulation upon the termination of another suit involving the title to the premises. Judgment of discontinuance was entered and an order of reference was granted to compute the amount of damages upon the undertaking. It was held that the undertaking provided for the payment of damages in the event only that the court should finally decide that the plaintiff was not entitled to the injunction. The court held that there had been no breach of tlie condition of the undertaking in this respect and that there had been no final determination which warranted the court in ordering a reference to compute the amount of damages; that the discontinuance of the action by stipulation was not equivalent to final decision of the court.
+The rule at common law was that actions of tort died with the person by whom or to whom the wrong was done. The Revised Statutes, however, have created a great change in reference to actions for tortious injuries to property which did not survive under the common law.
+The rule which must guide us in this case in determining whether the motion for substitution should be granted or not is found in sections 1 and 2 of 3 Revised Statutes (6th ed.), 732, m. p. 447, 448.
+Section 1 provides that actions for wrong done to the property rights or interests of another, for which an action might be maintained against the wrongdoer, such action may be brought by the person injured, or after his death by his executors or administrators against such wrongdoer, in the same manner and with the like effect in all respects as actions founded upon contract.
+Section 2 provides that the preceding section shall not extend to actions for slander, for libel, or to actions for assault and battery, or false imprisonment, nor to actions on the case for injuries to the person of the plaintiff, or to the person of the testator, or intestate of any executor or administrator.
+In the case of Cregin v. Brooklyn Crosstown R. R. Co. (83 N. Y. 596) Judge Finch says: “ The question whether the cause of action survived came before us on appeal. (75 N. Y. 192.) Its answer involved a construction of the statute relating to suits by and against executors and administrators. (3 R. S. [6th ed.] 732, §§ 1 and 2.) We held that it reserved the right of action for tortious injuries affecting pecuniary rights or interests, and by which the estate of the deceased was diminished, excepting, of course, the wrongs referred to in section 2 and particularly named.”
+In Drake v. Grant (4 N. Y. Supp. 898) it was held that, under the Revised Statutes, an action for a wrong done the property rights and interests of another for which an action might be maintained against the wrongdoer can be maintained after his death against his executors' or administrators in the same manner and with like effect in all respects as suits founded upon contract.
+This is clearly an action for injury to property. The diversion of the water from the natural spring and channel and depriving the plaintiff of the use of it was an injury to his land which would depreciate its value.
+It is true that more or less controversy has arisen in the courts relative to the word property right or interest as used in the first section of said statute. But there can be no question but what property may consist of land. In the broad sense, property may be considered any thing or things subject to ownership and any thing that may be possessed and enjoyed. Any obstruction, therefore, to the natural flow of the water from the plaintiff’s spring is an injury to his property, for which he has a right of action.
+Judge Rapallo, in Cregin v. B. C. R. R. Co. (75 N. Y. 194), in discussing this subject, said that “ the rights and interests for tortious injuries, to which this statute preserves the right of action, have frequently been considered and it is generally conceded that they must he pecuniary rights or interests, by injuries to which the estate of the deceased is diminished.”
+Construing the statute according to its plain meaning as interpreted by the courts, there can be no question but what the plaintiff is entitled to have this action revived and continued against the executrix for the wrong done to his property rights and interests by William C. Young, deceased.
+The order of the Special Term, therefore, must he reversed and the motion for substitution granted, with costs against the respondent.
+Lewis and Bradley, JJ., concurred; Ward, J., not sitting.
+Order reversed- and motion granted, with ten dollars costs and disbursements.
