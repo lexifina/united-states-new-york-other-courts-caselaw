@@ -1,0 +1,23 @@
+---
+court: "Brooklyn City Court"
+decided: "1892-04-25"
+citations: ["46 N.Y. St. Rep. 299"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Brooklyn Heights Railroad Co., Resp’t, v. The City of Brooklyn, Appl’t."]
+source_url: "https://static.case.law/ny-st-rep/46/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2083875
+---
+
+# Brooklyn Heights Railroad v. City of Brooklyn
+
+## Majority (Van Wyck, J.)
+
+Van Wyck, J.
+The plaintiff was duly incorporated, and acquired by purchase and by resolutions of the Brooklyn common council its franchise under and in pursuance of the provisions of the Laws of 1884, chap. 252, and Laws 1886, chap. 642. By the terms of the franchise and resolutions, express consent and authority were given to plaintiff to construct a cable road from Court street through Montague street to Wall street ferry, and also to construct “ connections, sidings, switches, turnouts and turn-tables * * * necessary for the housing and care of its ears,” in locations approved of by the commissioner of city works, in the following territory, viz.: In the streets adjacent to Montague street west of the crest of the hill leading to the ferry. This short road has been completed and in actual operation since July, 1891; it runs on a level street from Court street to the crest of the hill, and then down a heavy grade to the ferry, on a viaduct crossing over but one street (Furman street), at an elevation of some thirty or more feet above the level of that street. The power station and car-house were located west of the hill on State street, about 1270 feet from the line of the road, and also the necessary sidings, turn-tables, switches and turnouts to reach the same, with the due approval of the commissioner of city works.
+The city contends that, notwithstanding such locations with such approval, plaintiff has no right to connect with the car-house, because State street is not “ adjacent to Montague ” in the sense of touching that street. The road from Court street to the top of this hill runs through one of the finest residential portions of the city, which was doubtless the reason for the prohibition of the housing of cars east of the hill or the use of adjacent streets east of the hill for sidings, etc. The conformation of the ground and viaduct over which the road runs westerly from the top of the hill down to the ferry absolutely precludes the use of any locality for housing cars, except such as can be reached from the end of the road at the ferry, and as no street touches the road to Montague street at any point west of the hill, therefore, it seems to us, the word “ adjacent ” must be construed to mean the neighboring streets, or those near to the road west of the hill. If this is not so, then the authority and consent given by the resolutions to house cars and construct sidings and turnouts to reach the same in the location approved of by commissioner of city works would be an idle jumble of words. Such a restricted definition of the word “ adjacent ” will not be allowed to destroy the grant and consent intended to be conferred in respect to the housing of cars and the construction of turnouts for that purpose.
+The trial court has decided that the locations of the car-house and turnouts to reach it are the most practicable and the best adapted to prevent interference with residences that, could be found, and that they were approved of by the commissioner. The common council has given a permission to plaintiff to locate its car-house and turnouts to reach it, at such points in the designated territory as were approved by the commissioner of city works, and the subsequent ordinance of 1890 could not operate to withdraw this consent and require another consent from the common conncil. This plaintiff was organized, and acquired the right to build the road under the Laws of 1884, chap. 252, and 1886, chap. 642, and is, therefore, excepted from the provisions of the Laws of 1888, chap. 583, tit. 22, § 24, for it is expressly provided that they do not apply to roads then or thereafter authorized by law. Section 24 is simply a re-enactment (in the consolidation of local laws in the act of 1888) of a provision existing before the acts of 1884 and 1886, and does not repeal these acts, and besides, § 35 of Laws of 1888 provides that nothing in the repealing clause thereof shall modify, or in any manner affect, any general statute.
+For these reasons, we think the judgment should be affirmed, with costs.
+Osborne, J., concurs.
