@@ -1,0 +1,26 @@
+---
+court: "Buffalo Superior Court"
+decided: "1894-07"
+citations: ["61 N.Y. St. Rep. 701"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jacob Morgenstern, Pl’ff, v. J. Christ. Burkhardt et al., Def’ts."]
+source_url: "https://static.case.law/ny-st-rep/61/cases/0701-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2099560
+cites_cases: ["101 N. Y. 176", "60 How. 154", "86 N. Y. 602"]
+---
+
+# Morgenstern v. Burkhardt
+
+## Majority (Hatch, J.)
+
+Hatch, J.
+—The complaint alleges that defendants obtained contracts for the purchase of certain specified farms; that in and about the purchase plaintiff rendered valuable services at defendants’ request; that defendants were to take and hold said contracts in their name, and thereafter dispose of said premises at a profit; that after the contracts should be executed defendants would execute and deliver to plaintiff a written agreement, duly executed, expressing that plaintiff was to have an interest in the purchase of the premises, and upon a sale of the premises defendants would pay the plaintiff one-third of the net profits realized from the sale of the lands; that plaintiff has demanded the execution and delivery of said written agreement, which has been refused; that the lands have advanced in value since the purchase, and that plaintiff is fifty-five years old.
+The judgment demanded is that defendants be compelled to execute the written agreement, or that plaintiff have damages awarded him. It is quite evident from the allegations of the complaint that plaintiff has no interest in land; his interest is in the profits expected to be realized upon a sale. Nothing appears showing that defendants are bound to sell at any specified time, or that there shall be profits when sold, or that they do anything more than to refuse to recognize plaintiff’s claim to a writing and repudiate his interest in profits.
+If the writing be executed it would only evidence plaintiff’s right to profits, if any were ever made, and if there was a failure to pay the profits on a sale plaintiff would have his action at law for damages, which would afford him complete relief. Under such circumstances plaintiff cannot invoke the equitable aid of the court. Slauson v. Watkins, 86 N. Y. 602 ; Cushman v. Thayer Mfg. Co., 76 Id. 370.
+It is quite possible that plaintiff can make a case entitling him to an order of examination for the purpose of perpetuating testimony, even though his cause of action be not at the time perfect. Merchants’ Nat. Bank v. Sheehan, 101 N. Y. 176 ; Town of Venice v. Woodruff, 62 Id. 468; In re Ketchum, 60 How. 154.
+But he shows no ground for the' maintenance of this action. The demurrer should be sustained and judgment ordered for defendants, with costs.
+Titus, Oh. J., and White, J., concur.
+Demurrer sustained and judgment ordered for defendants, with costs.
