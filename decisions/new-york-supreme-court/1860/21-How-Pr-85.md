@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1860-04"
+citations: ["21 How. Pr. 85"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of James M. Gorsline."]
+source_url: "https://static.case.law/how-pr/21/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2212093
+cites_cases: ["6 Hill, 344"]
+---
+
+# In re Gorsline
+
+## Majority (Bonney, Justice.)
+
+Bonney, Justice.
+James M. Gorsline is brought before me on habeas corpus, with a return, showing he has been arrested and is detained under a bench warrant, dated 24th March, 1860, issued by the county judge of Fulton county, by which the officer is commanded to take this party, indicted in Fulton county court of sessions, for obtaining goods under false pretences, and bring him before said court, at the court house in said county, if in session; and if not in session, to deliver him to the keeper of Fulton county jail, to be kept until discharged by due course of law. The warrant is duly endorsed by one of the police justices of the city of New York. It is conceded that this warrant is in due form and regularly issued, but the counsel for the prisoner moves that he be discharged on bail, which he proposes to give in such amount as shall be required; and I am called upon to decide as to the power of a justice of the supreme court, in this city, to let this party to bail, after his arrest under said bench warrant, and before he has been taken to Fulton county. The Revised Statutes, in relation to this question, provide as follows: (5th ed., vol. 3, p. 956, §55,) That the punishment for the offence of obtaining goods by false pretences, shall be imprisonment in a state prison not exceeding three years, or in a county jail not exceeding one year, or fine, or both such fine and imprisonment. (Page 1020, 57, 58.) That a warrant for the arrest of any defendant indicted, may be issued by the court to which such indictment shall be presented, or any judge of the county court in that county, &c., directed to' the sheriff and constables of any county in this state, and when served in any county, other than that in which the indictment shall have been found, the same proceedings shall be had as on an endorsed warrant issued before the indictment, as prescribed by statute. (Page 993, §§4, 5.) That if the person against whom such warrant, before indictment is issued shall escape or be in any other county, it shall be the duty of certain magistrates referred to, (including justices of the police courts in New York,) within the county where such offender shall be, on proof of the handwriting of the officer subscribing the warrant, to indorse his name on the same, and thereupon the person bringing the warrant, or any other officer to whom it may have been directed, may arrest the offender in the county where the warrant was endorsed. (Page 994, \\ 11,12.) That if the offence charged in the warrant be punishable with death, or with imprisonment in a state prison, the officer making the arrest, shall convey the prisoner to the county where the warrant was originally issued, before some magistrate thereof, as in the statute prescribed; and that persons arrested under any warrant issued for any offence, shall, where no provision is otherwise made, be brought before the magistrate who issued the warrant; or, if he be absent, or his office be vacant, before the nearest magistrate in the same county, and the warrant, with a proper return, shall be delivered to such magistrate. By these statutes, the officer who arrested Gorsline, is clearly authorised and required to take him to Fulton county, and no justice of the supreme court, or other magistrate or officer out of that county, has authority, in my opinion, to take bail for his appearance and discharge him from custody. The case of Clark agt. Cleveland, (6 Hill, 344,) is authority for this decision.
+It is urged, however, that under the habeas corpus act, (3 R. S., 5th ed., p. 883, § 58,) this prisoner should now be let to bail. That section provides for a case where the party has been committed. Gorsline has not yet been committed, but is held under arrest by virtue of process, which requires that he be taken to Fulton county, where he may be committed, let to bail, or discharged according to law.
+The writ of habeas corpus is discharged, and the prisoner remanded to the custody of the officer holding the bench warrant.
