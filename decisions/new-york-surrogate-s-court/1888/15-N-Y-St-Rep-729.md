@@ -1,0 +1,25 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-02-06"
+citations: ["15 N.Y. St. Rep. 729"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of John H. White."]
+source_url: "https://static.case.law/ny-st-rep/15/cases/0729-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2001372
+cites_cases: ["1 Bradf., 267", "3 Dem., 597", "92 N. Y. 247"]
+---
+
+# In re the Estate of White
+
+## Majority (Ransom, S.)
+
+Ransom, S.
+—The rule is well settled that, where a payment is made by the executor for expense of administration and a voucher for the same is produced, showing upon its face the nature and character of the expenditure, and a reasonable statement of the facts rendering the same just and reasonable, a prima facie case for the executor is made out, and the burden of impeaching such expenditure is on the objector. If the charge be reasonable on its face and said to be necessarily contracted for the good and benefit of the estate, the presumption is that it is correct, and the burden is on the objectors. Matter of Accounting of Frazer, 92 N. Y. 247; Hoffman’s Masters in Chancery, 81; Metzger v. Metzger, 1 Bradf., 267; Fowler v. Lockwood, 3 Redf., 468; Valentine v. Valentine, 3 Dem., 597. These cases establish the justness and reasonableness of all the executor’s charges, and sustain all the exceptions to the referee’s report, unless the objectors have impeached them by testimony sustaining their objections.
+It is, therefore, important to look at the testimony to ascertain whether the objectors have overcome the prima facie case of the executrix. No witnesses were called by the objectors to impeach any of the charges of the executrix, but they relied on certain adjudicated cases, which seemed to them to cast the burden of showing the propriety of the charges upon her,notwithstanding the fact that by vouchers she had shown, within the doctrine of these same cases, as it seems to me, that the charges were just and reasonable, and must be allowed, unless overthrown by direct evidence. I cannot agree with the learned referee or counsel in this regard. A careful examination of the account of the executrix and the vouchers satisfies me that her expenses were just and reasonable, and should be allowed.
+Specially remarking the suggestions of the learned referee to the effect that certain items disallowed by him were for services which the executrix should have rendered herself, he is in error, I think, under well-settled rules of decision on this point, which are summed up in McWhorter v. Benson (Hopkins’ Ch. Rep., 28): “An executor is entitled in the settlement of his accounts to be allowed the reasonable charges paid by him to an agent employed in the management of the estate of which he is executor, if the circumstances of the estate rendered the employment of such agent, proper and justifiable.”
+The executrix, considering the circumstances of the estate, had a right to employ Mr. Hall and his firm as agents as well as attorneys and his and its services were necessary and proper and compensation therefor, is a righteous charge against the estate. As I have already said, there is no allegation here that the amount charged is excessive for these services; and from an inspection of the account and vouchers the amounts charged are reasonable and should be allowed.
+Without taking up each item of the account disallowed by the referee and discussing it in the light of his opinion, it is enough to say in disposing of them all, that no testimoney was given by the objectors; and whilst the learned referee had the right to exercise his own judgment, he could not do so uninfluenced by the uncontradicted evidence given by the executor, which clearly established th.e propriety of the charges. I, therefore, hold that the learned referee erred in making the reductions and disallowances. It is an undoubted fact that the tendency of all persons managing estates is toward extravagance and it is the duty of the surrogate and his referees to carefully guard against this disposition; and in this case, no doubt the learned referee was greatly influenced by this fact, and the further fact, which seems admitted here, that this estate is insolvent. Fully appreciating the force of this reason, I am satisfied that these charges were fairly made and that the affairs of the estate were wisely and economically administered.
+This brings me to the last question, viz.: As to the soundness of the referee’s ruling that the decree of November 13, 1879, only protected the executrix in respect of the $2,096.03, actually paid on account of the bill of Hall & McMahon. Considering my view on the merits of items, which make up the balance unpaid on that bill presented in 1879, it is not important that I should spend any time on this subject. It is enough to say that I entirely agree with the referee. Leviness v. Cassebeer, 3 Red., 491; Re Withers, 2 Civil Pro., 162; Estate of Stokes, 3 id., 384; Tucker v. Tucker, 4 Keyes, 136.
