@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1890-10"
+citations: ["65 N.Y. Sup. Ct. 140"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["\"Van Brunt, P. J., and Brady, J., concurred."]
+parties: ["ARCHIBALD C. HAYNES, Respondent, v. J. BLAKELEY CREIGHTON, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/65/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4620389
+---
+
+# Haynes v. Creighton
+
+## Majority (Daniels, J.:)
+
+Daniels, J.:
+This action is upon a promissory note made by the defendant, payable to his own order, and indorsed by him, for the sum of $4,500, and due in five months from its date. This note was shown to have been one of a series in the same form amounting to the sum of $16,500. They were made and indorsed -to replace bonds and stock delivered to Charles T. Russell, of Pittsburgh, upon what was represented to be a loan of that sum of money obtained from him for a company in which the defendant was the owner of both stock and mortgage bonds. The notes were delivered to A. D. Jones, the treasurer of the company, to be used for that object. But he used no more than $6,000 in amount in that manner. The residue he misappropriated and used for his own benefit, and the note in suit is one of this residue.
+The defendant applied for and obtained an order for the examination of the plaintiff to enable him to obtain such information as was necessary to frame his answer. As to the making, indorsement and diversion of the note no examination of the plaintiff was necessary, for these were facts within the knowledge of the defendant. But what the defendant desired to ascertain was information of the facts attending the transfer of the note to the plaintiff. Of those facts his affidavit not only showed him to be ignorant, but also that a knowledge of them could only be obtained from the plaintiff, and that such knowledge was necessary for him to frame and serve his answer. And the order which was made directed the examination to include answers to such questions as should be put to the plaintiff, touching the alleged transfer of the note to him, the date of the transfer, the parties to it, the consideration therefor, and such other matters as might be relevant or material thereto. It was restricted to the facts known to the plaintiff, and unknown to, and necessary for the information of, the defendant in answering the complaint. If the note had been transferred to the plaintiff under circumstances rendering him incapable of recovering upon it, and which it was necessary should be alleged by way of answer to entitle the defendant to make proof of them on the trial, he was entitled to that information from the plaintiff, and it could be obtained only by his examination. The consideration paid or allowed may have been such as to render the transfer usurious. But that could only become known in this manner. And without alleging it in the answer the defendant would not be permitted to prove it even by the plaintiff himself upon the trial. And that of itself was sufficient to authorize this examination. The defendant had been defrauded by his own agent, and he was entitled to avail himself of all such methods of redress as the law had provided for his protection. And this was one of them, by which he could be placed in the position requisite for the intelligent presentation of any defenses arising out of facts unknown to him, and which were necessarily within the knowledge of the plaintiff. It does not answer the application that the defendant may examine the plaintiff as a witness upon the trial. For that examination would then be restricted to the issue. What is necessary for him is to make the issue as broad as the facts will warrant it, and then he will be entitled to introduce whatever proof may be within his power and necessary for his own protection.
+The affidavit has fully complied with all that can be required under the rples referred to in Spero v. West Side Bank (27 N. Y. State Rep., 29). And as the essential information can be obtained by the defendant in no other way, he is entitled to this examination of the plaintiff. It has been said in the points that the defendant has, since the order was made, served his answer. But if such is the fact, it cannot be here considered, for it was not before the court when this order was made. Neither is it stated that the answer served includes the defenses expected to be made as the result of the examination of the plaintiff.
+The order should be reversed, with ten dollars costs and the disbursements, and the motion to vacate the order for the examination of the plaintiff denied.
+"Van Brunt, P. J., and Brady, J., concurred.
+Order reversed, with ten dollars costs and disbursements and the motion to vacate the order for the examination of the plaintiff denied.
