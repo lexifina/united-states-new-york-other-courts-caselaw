@@ -1,0 +1,29 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1884-05-22"
+citations: ["12 Daly (N.Y.) 450"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph H. Westerfield et al., Respondents, against William Radde et al., Appellants."]
+source_url: "https://static.case.law/daly-ny/12/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 913757
+cites_cases: ["7 Daly 326"]
+---
+
+# Westerfield v. Radde
+
+## Majority (Labbemoee, J.)
+
+Labbemoee, J.
+When this case was first heard upon appeal, this court held, upon the evidence then submitted (7 Daly 326), that the existence of a by-law of the company, forbidding its officers from incurring any debt unless duly authorized by its board of trustees, raised a presumption in favor of the non-liability of the company; that the testimony offered to offset such presumption—vis., a well recognized general course of dealing in the purchase of goods—should have been left to the jury; and that the direction of a verdict for the plaintiffs was error.
+Upon the second trial, the jury passed upon this question, and I think the evidence offered, although not entirely satisfactory, is sufficient to sustain the finding in plaintiffs’ behalf.-
+The General Term of this court, in Third Avenue R. R. Co. v. Ebling (ante, p. 99), clearly defined and distinguished the responsibility of a corporation for the act of its president of an ordinary character in its every-day business, and his acts as a merely presiding officer. The reasoning in that case appears to me to indicate that the evidence offered upon-this trial as to the authority of the president to purchase goods was properly submitted to the jury.
+The more serious question arises upon the fact that the annual report of January 20th, 1873, required by section 12 of the act of February 17th, 1848, was made by only two of the trustees, one of whom verified the same as the late acting vice-president of the company. It appears from the minutes of the board of trustees, May 4th, 1872, that the resignation of S. T. Meyer as trustee was received and •accepted. It was not shown by any official record that Bock, the president, or any other trustee, had resigned his office. The certificate of incorporation was signed by seven trustees (including the defendants), and acknowledged by nine trustees, April 10th, 1872, and duly filed in the office of the Secretary of State and the Clerk of the. City and County of New York.
+Section 12 of said act requires that a company incorporated thereunder shall annually, within twenty days from the first day of January, make a report which shall be published, etc., which shall be signed by the president and a majority of the trustees, and shall be verified by the oath of the president or secretary of said company and filed, .....“ and if any of said companies shall fail so to do, all the trustees of the company shall be jointly and severally liable for all the debts of the company then existing, and for all that shall be contracted before such report shall be made.”
+As before observed, there is no official record showing the resignation of either the president or secretary of the company. Nothing less than this should be allowed to defeat the provisions of a public statute intended to protect the interests of creditors who were without possible knowledge of the directorial acts of the company. The statute requires that the president or secretary shall verify the annual report, which must be signed by the president and a majority of the trustees. A refusal in either case could have been reviewed by the court and compliance with the requirements of the statute enforced. The report filed did not satisfy the provisions of the statute. Two trustees do not constitute a majority of either seven or nine. The resignations, if made, should have been shown by an official record. The loose statements of the witness Bleekwehn should not be allowed to supersede the well recognized principle that the records of a corporation are prima facie evidence of its official acts as well as those of its individual members. Any other theory would be subversive of justice. Three or more individuals might organize a company, incur a liability, and then by simply saying “ I will resign,” or by refusing to take part in any other proceedings, rid themselves of a responsibility which they had voluntarily assumed. This could not have been the intention of the act in question—to leave creditors for whose benefit it was enacted to the mercy of the incorporators. They must be held to a knowledge of their liability imposed by the statute, and if overreached or injured by any act or omission of their associates, must seek redress through the well known channels of the law.
+The resignation of the defendant Meyer was accepted before the present liability had been incurred, and he is therefore not chargeable with any neglect of duty.
+After examination of all the exceptions presented upon this appeal, I have reached the conclusion that the main question of fact in this case was decided by the jury, and that the judgment should be affirmed.
+J. F. Daly and Van Hoeseh, JJ., concurred.
+Judgment affirmed.
