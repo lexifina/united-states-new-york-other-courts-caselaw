@@ -1,0 +1,33 @@
+---
+court: "New York Superior Court"
+decided: "1890-02-06"
+citations: ["25 Jones & S. 505", "57 N.Y. Super. Ct. 505"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES PUTZEL, as Receiver, etc., Respondent, v. RICHARD L. SCHULHOFF, et al., Appellants."]
+source_url: "https://static.case.law/ny-super-ct/57/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1691555
+cites_cases: ["113 N. Y. 500"]
+---
+
+# Putzel v. Schulhoff
+
+## Majority (By the Court.—Ingraham, J.)
+
+By the Court.—Ingraham, J.
+This action was commenced by plaintiff as receiver of the choses in action, equitable assets and the property of Richard L. Schulhoff, appointed by the city court of New York in supplementary proceedings under section 2464 of the Code, to set aside the assignment made by said Schulhoff to one Lowe for the benefit of creditors, and a transfer by said Lowe to the defendant Krause and by Krause to the defendant Clara Schulhoff, of all the assigned estate, on the ground that the said assignments and transfers were made with intent to hinder, delay and defraud creditors.
+The action was tried at special term by the court without a jury, and the record shows that certain requests to find were presented by plaintiff and by the defendants. Such requests were passed upon by the court as required by section 1023 of the Code. No decision of the court appears to have been filed as required by section 1022 of the Code.
+That section requires that the decision of the court, or the report of the referee, upon the trial of the. whole issues of fact, must state separately the facts found and the conclusions of law, and it must direct the judgment to be entered thereupon.
+This section does not appear to have been followed. It appears by the record that a judgment was subsequently entered. It adjudges the assignment void, and it directs the defendants to forthwith account for, pay and deliver all the money and other property assigned to said Lowe, and subsequently transferred by a bill of sale to the defendants Krause and Schulhoff, and the value and proceeds thereof, and also the policies of insurance thereon, or any part thereof, to the plaintiff at his office, to the extent of the amount of the judgment recovered in the action in which plaintiff was appointed receiver.
+It also further directs, that the defendants, Richard L. Schulhoff and Clara Schulhoff, do forthwith account for, pay and deliver to the said receiver at his office, aforesaid, all the moneys alleged to have been saved by the defendant Clara Schulhoff out of allowances made to her by said defendant Richard L. Schulhoff for household expenses, and which savings she had in her possession at the time of the execution of said assignment, and which amounts to upwards "of $500, to the extent of the aggregate amount of said judgment with interest thereon, and with the legal fees of the plaintiff as receiver of the goods as aforesaid.
+It further orders that the plaintiff have a valid lien upon all such property and money in whosesoever hands the same may be; and the judgment also directs a personal judgment against defendants for the amount of the plaintiffs claim, with interest and costs.
+If the judgment was in a condition for review, we do not think that all of its provisions could stand. If the plaintiff is entitled to a judgment against the defendants jointly, an accounting is unnecessary and improper. If an accounting is necessary the judgment is interlocutory, and there should be no formal judgment until the accounting has been had.
+The judgment contains no provisions for an accounting before a referee or other officers appointed for that purpose, but by the judgment the plaintiff seems to occupy the position of plaintiff who is to receive the money, referee who is to pass upon the extent of the defendants’ liability, and receiver who is to execute the judgment; and all this by a formal judgment which provides for no report to the court nor method of review if the decision of the plaintiff in favor of himself should not be satisfactory to the defendants. I do not think this is in accordance with the practice in cases of this character.
+Nor do we think that the provisions of the judgment that the policies of insurance on the property transferred to the defendant Clara Schulhoff should be transferred to the plaintiff or are subject to the claim of the creditors, can be sustained. The policies were not taken out for- the benefit of the judgment debtors or his creditors were not paid for with his property.
+In Loos v. Wilkinson, 113 N. Y. 500, it was held that insurance taken out by a fraudulent transferee of property which was taken out for his own benefit, could not be enforced in favor of the creditors.
+Nor do we think that, on the evidence, the defendant, Clara Schulhoff, was liable to the plaintiff for the money that she had saved from the money given to her for household expenses. The evidence shows that money to have been given to her by her husband long before he was insolvent, and we think it belonged to her.
+Nor do we see any evidence to justify the provision that the plaintiff have a valid lien on all the property, etc., of the judgment debtors. We think, however, that there has been no decision of the case as required by Section 1022, and that we should not review the provisions of that judgment.
+Whether this judgment was entered by the court, or was entered by the clerk under Section 1228 of the Code does not appear, but in the absence of a decision of the court directing the judgment to be entered, it appears to be entirely unauthorized. I think, therefore, the judgment should be reversed with costs to the appellant to abide the event, and the case remanded to the special term to be decided, as provided for by Section 1022 of the Code.
+Sedgwick, Ch. J., and Fbeedhan J.. concurred.
