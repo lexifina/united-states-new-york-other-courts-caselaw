@@ -1,0 +1,29 @@
+---
+court: "New York Surrogate's Court"
+decided: "1890-09-22"
+citations: ["33 N.Y. St. Rep. 582"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Harriet Brown, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/33/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2043245
+cites_cases: ["1 Bradf., 100", "1 Dem., 9", "24 N. Y., 417", "35 Barb., 64"]
+---
+
+# In re the Estate of Brown
+
+## Majority (Coleman, S.)
+
+Coleman, S.
+Harriet Brown died December 10, 1889, a resident of this county, leaving a will, which has recently been ad mitted to probate, in and by which her sister, Dolly J. Brown, was made her sole legatee and sole executor. The sister survived the testatrix, but died before the will was admitted to probate. Applications for letters of administration with the will annexed have been filed by Leander L. Purdy, the administrator with the will annexed of the said Dolly J. Brown, deceased; by Charles G. Dill, the executor, etc., of Maria Brown, another deceased sister; by Gilbert Brown, the only brother of the said Harriet Brown, and by Effie A. Miller, a niece. There are other next of kin living, but none so nearly related to the testatrix as the brother Gilbert.
+Section 2643 of the Code of Civil Procedure provides who must be appointed by the surrogate. First residuary legatees, next principal or specific legatees, and next one or more of the next of kin.
+It is claimed on behalf of the applicant Purdy that, as the representative of the residuary legatee, he is first entitled to the appointment, and on behalf of the brother it. is claimed that the residuary legatee being dead and there being no other legatees, that the right to the administration belongs to the third class of persons designated by the section, the next of kin, and that in that class he is first entitled, the others being nephews and nieces or their descendents.
+The rule in English courts undoubtedly was and still is that “ where the residuary legatee survives the testator and has a beneficial interest, his representative has the same right to administra-' tian cum testamento annexa as the residuary legatee himself, and is therefore entitled to administration in preference to the next of kin, or to legatees.” Williams on Exrs., 465, orig. paging. So strong have been the efforts of those courts that the right of administration should follow the right of property, that in some cases where the statute expressly gave the right of administration to the next' of kin the courts have held that the spirit of the act excluded the next of kin where there is a residuary legatee. Id., 464. And the courts in this state were at first inclined to give the same construction to the statute designating who are entitled to administration and administration with the will annexed. Public Administrator v. Watts, 1 Paige, 382; Public Administrator v. Peters, 1 Bradf., 100; Willard on Exrs., 195 ; Dayton on Surrogates, 235. But in the case of Lathrop v. Smith, 35 Barb., 64, affirmed in 24 N. Y., 417, it was held that the next of kin were entitled under the-statute to administration, although not entitled to share in the distribution of the estate.
+And in Kircheis v. Scheig, 3 Redf., 277, the surrogate of Hew York county, upon the authority of Laihrop s. Smith, held the same way in the case of administration with the will annexed, and the same rule of construction was again applied in Butler v. Perrott, 1 Dem., 9.
+The counsel for Mr. Purdy claims that the case of Kircheis v. Scheig, supra, is not authority in this case, because the moving party in that case was the legatee of the deceased residuary legatee and not the deceased residuary legatee’s executor or administrator, and therefore not within the English rule, and further that a different rule applies in cases of administration with will annexed from that of ordinary administration.
+The only instance that I recall in this state where one occupying a representative capacity is entitled to administration upon another’s estate in the right of the person whom he represents, is in the case of a guardian of a minor, and then it is because of a statute giving that right. 4 R. S., 2553, § 33, 8th ed.
+At the time of the decision of Kircheis v. Scheig, in 1878, § 14, of 2 R. S., 71 was in force, and provided that letters with the will annexed shall be granted * * * “ in the same manner and under the same regulations as letters of administration in cases of intestacy.” This section was repealed by chapter 245 of the Laws of 1880, and provision was made by § 2643 of the Code of Civil Procedure regulating the issuing of such letters, which does not include any provision similar to that just quoted.
+However it seems to me that the same reasoning by which Judge Davis in the opinion in Lathrop v. Smith, supra, reached the conclusion that administration must be granted in the order mentioned by the statute, although by so doing it may, in some circumstances, give the letters to one who has no distributive interest in the estate, apply with equal force to this section of the Code, which provides that the surrogate must issue letters to the persons there designated in the order prescribed. And if it shall happen that there were none of the first class, or if there have been such, but who are not, at the time of the application, then the right passes to the next class, and not to the representatives of the deceased of the first class.
+Letters will, therefore, be granted Gilbert Brown.
