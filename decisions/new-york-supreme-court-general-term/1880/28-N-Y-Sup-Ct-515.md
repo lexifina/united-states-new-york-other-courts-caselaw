@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1880-06"
+citations: ["28 N.Y. Sup. Ct. 515"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Beady and Daniels, JJ., concurred."]
+parties: ["THE PEOPLE OF THE STATE OF NEW YORK ex rel. JOHN SAMMONS v. BENJAMIN C. WANDELL and others, composing the Court of Sessions of the City and County of New York."]
+source_url: "https://static.case.law/ny-sup-ct/28/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1912265
+cites_cases: ["2 Cow., 815", "3 Leigh, 743", "5 Wend., 251"]
+---
+
+# People ex rel. Sammons v. Wandell
+
+## Majority (Barrett, J.:)
+
+Barrett, J.:
+The guilt of the accused was clearly established. His possession of the property, shortly after the' taking; was a serious fact, and one calling for explanation. Unfortunately for the accused, the explanation was lame and suspicious. When intercepted by the police officer, he prevaricated as to where he found the cigars, and, although examined at the trial upon his own behalf, gave no account of the circumstances attending the finding. He simply says that his friends, with whom he had been conversing late at night, left him, and he then “ went up home ” and “ found the cigars.”
+The point that unanimity of the magistrates was essential to a conviction is not well taken. There is no provision of law requiring such unanimity either for conviction or acquittal. So long as the court had jurisdiction to try and condemn the offender, without tbe intervention of a jury, it proceeded upon the ordinary principle governing judicial action in bcmo, viz.: that the judgment of the majority is the judgment of the court. It is not questioned that the statute authorizing this mode of trial for certain petty offenses is constitutional. (Murphy v. People, 2 Cow., 815 ; People v. Goodwin, 5 Wend., 251.) Under it, the party elects to be tried by the Court of Special Sessions, and, to give effect to his election, expressly waives a jury trial. The court then, in legal contemplar tion, proceeds as a court, mid not as a jury. Were this otherwise, the proceedings might, at any moment, be obstructed and, indeed, summarily stopped. A single magistrate could prevent a ruling upon the admission or rejection of evidence, or upon a motion to dismiss. Even after conviction, non-concurrence as to the punishment would be sufficient to block the wheels of justice. It cannot be said that, in these matters of illustration, the magistrates act as judges, while in convicting they act as a jury. Their functions cannot be severed either in theory or practice. They act throughout as a court. What the law requires is, not the concurrence but the presence and deliberation of all three. (Laws of 1858, ch. 282, § 8.) And it evidently contemplates the exercise of judicial power, in general, by the majority, for we find a special provision requiring concurrence of all with regard to a particular matter, viz.: uthe remission of fines. (Laws of 1859, eh. 491, § 4.) A recognition of majority action will also be found in the general provisions concerning courts of special sessions (2 B. S., 716, § 31), where it is provided that the judgment shall be executed “ by virtue of a warrant under the hands of the magistrates who held the court, or a magorii/y of them.” By a subsequent . enactment, with reference to the Court of Special Sessions in this city, a warrant tested in the name of any one of the justices and signed by the clerk is sufficient. (Laws of 1859, eh. 491, § 2.) In proceedings in civil cases, it is expressly provided that a majority may exercise the power conferred upon three or more persons. (2 R. S., 555, § 27.) Upon the whole, testing this question by legal analogies, as well 'as by the implication to be drawn from the express provisions which have been referred to, we have no doubt, that the long prevailing practice, now questioned for the first time, is correct, and that the judgment of the court was lawfully pronounced by a majority of the magistrates who participated in the trial.
+The point as to the defendant’s inability to elect or waive is not up; the record does not disclose his minority. But we have no doubt, that the rule governing the infant’s civil relations has no bearing. If above the age when criminal responsibility attaches, the infant appears and defends in person or by attorney. It has even been held to be error to assign him a guardian, and to try the case upon a plea pleaded for him by the guardian. (Ward v. Commonwealth, 3 Leigh, 743.) His right to elect the mode of trial is an incident to the right to defend in person. As a further incident, the infant must plead, and consequently he may plead guilty. Indeed, such pleas are frequently accepted, and that without question. If he has capacity to plead guilty, a fortiori to elect how he shall be tried. The judgment must be affirmed.
+Beady and Daniels, JJ., concurred.
+Judgment affirmed.
