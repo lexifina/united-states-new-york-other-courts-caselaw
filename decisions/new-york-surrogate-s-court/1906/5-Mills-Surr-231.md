@@ -1,0 +1,37 @@
+---
+court: "New York Surrogate's Court"
+decided: "1906-01"
+citations: ["5 Mills Surr. 231", "49 Misc. 213"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Judicial Settlement of the Estate of Lemuel K. Tinney, Deceased."]
+source_url: "https://static.case.law/mills-surr/5/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1071285
+cites_cases: ["159 N. Y. 514", "39 Misc. Rep. 432"]
+---
+
+# In re the Judicial Settlement of the Estate of Tinney
+
+## Majority (Heaton, S.)
+
+Heaton, S.
+Upon this judicial settlement, it is necessary to construe a provision of the will of deceased.
+In' 1814, the testator caused his life to be insured for the sum of $2,000, payable to- his wife and three daughters, which insurance was all he ever procured; and the same was- in force at the time of his death, and has been paid to the beneficiaries named, equally.
+In 1891, -testator made his- will in which he provided as follows:
+“ Third. I give and bequeath to my wife, Mary E. Tinney,. $500 to be paid to her out of my life insurance and $500 to be-paid to her out of my estate other than life insurance.
+“Fourth. I give and bequeath to my daughter, Josephine Snyder, $1,000' to 'be paid to her out of my life insurance and also my organ and all music belonging to the same.
+“Fifth. I give and bequeath to my daughter, Marcia J„ MoKechnie, $250 to be paid to her out of my life insurance.
+“ Sixth. I give and bequeath to my daughter, Hattie Tinney,. $250 -to be paid to her out of my life insurance.”
+The daughter Hattie -alleges that the legacy to her is a demonstrative legacy, and, as the testator had no life insurance payable to his estate, that her legacy of $250 is payable from the general assets; notwithstanding the fact that she had already received from the insurance company her share of the insurance as one of the beneficiaries named in the policy.
+The evidence shows that the testator never had any insur*anee which was subject to his will, and there is no evidence that be ever contemplated having any such insurance.
+What, then, was the intention and effect of making four legacies aggregating $2,000 “ to be paid out of my life insurance ?”
+Clearly the intention was to indicate' the desire of the testator that the beneficiaries named in the policy should not have equal shares of the insurance money, as they would take under the policy as written, 'but that the widow -should take one-quarter, one daughter one-half, and the two. other daughters one-eighth, each.
+His personal estate did not equal in value $1,000' at the time the will was made or ,at the death of testator. He disposes of it all methodically and, in doing so, distinguished his general estate from his life insurance.
+The effect of making bequests “ to be paid out of my life insurance,” when the testator had made a contract that his life-insurance should never be subject to his disposition by will, was to make bequests which were void and of no effect, since he-had no life insurance upon which the bequests, could operate.
+What property may be bequeathed is well stated in the American and English Encyclopedia of Law (Vol. 18, p. 734, 2d Ed.) as all interests, legal or equitable, in real and personal estate, which, unless otherwise disposed of, descend or .devolve, on the death of the testator, to his heirs or personal representatives.
+There never was any life insurance which could fall within this definition; and we must, therefore, conclude that it was, not the intention of the testator to do more than .indicate his. desire as to how his life insurance should be divided among the beneficiaries named in the policy, and that the language used did not have the effect of creating valid legacies payable from the general estate.
+The contestant argues that the legacy to her was demonstrative, and the language used in the will indicates it. But there-.are two elements necessary in order to constitute such a legacy. There must be, first, a bequest in the nature of a general legacy and, second, it must point to a fund out of which the payment is to be made, partaking of the character of a specific legacy. Crawford v. McCarthy, 159 N. Y. 514.
+In this ease, the fund indicated never existed and never would exist as the property of the testator. He never had any “ life insurance ” and did not have at his death any “ life insurance ” which was subject to .his will; and, therefore, there was not, at testator’s death, and there never had been, during .his life, any fund, the existence of which at some time and in some form constitutes one of the essential elements of a demonstrative legacy. In this respect, Matter of Warner, 39 Misc. Rp. 432, relied upon by the contestant, differs materially.
+The objection is dismissed.
