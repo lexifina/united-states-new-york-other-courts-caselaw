@@ -1,0 +1,27 @@
+---
+court: "Brooklyn City Court"
+decided: "1888-10-22"
+citations: ["18 N.Y. St. Rep. 376", "2 N.Y.S. 337"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Goldman, App’lt, v. Joel W. Mason, and others, Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/18/cases/0376-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2011886
+cites_cases: ["101 N. Y. 385", "101 N. Y., 385", "4 N. E. Rep. 755"]
+---
+
+# Goldman v. Mason
+
+## Majority (Clement, Ch. J.)
+
+Clement, Ch. J.
+The plaintiff brought this action to recover damages for injuries sustained on November 26, 1886, while in the employ, as he claimed, of defendants, which allegation was denied, and testimony was given by the defendants tending to show that he was in the employ of Enoch Swain, and that said Swain was a contractor with defendants, and not their servant. The complaint was dismissed by the learned trial judge, and from the judgment of dismissal this appeal is taken. The counsel for plaintiff asked to have submitted to the jury the questions whether or not the relation of master and servant existed between plaintiff and defendant, and whether or not the same relation existed between the defendants and Enoch Swain. Counsel also asked that it be left to the jury to decide if the defendants were guilty of negligence in not instructing' the plaintiff how to use the machine on which he was working when he sustained his injuries; also that the question of contributory negligence be left to the jury. The requests were denied, and exception duly taken.
+We are of opinion that the question whether Enoch Swain" was a servant of or a contractor with the defendants should have been submitted to the jury. There was testimony on the part of plaintiff tending to show that he was employed by McDowell, the superintendent of defendant’s factory, and not by Swain. While it is true the testimony of plaintiff was contradicted by McDowell and Enoch Swain, yet there is no dispute that he sought work of McDowell and was taken by him to Swain, and the defendants concede that he received his pay from them, though they claim to have paid him as the agents of Swain.
+The plaintiff sought employment of defendants and was set to work in their factory by their foreman, and was paid by them, and if his testimony is true, thought, from the acts of defendants, that he was m their employ, and if, from their acts, he might so infer, it seems to us that the same acts should be passed upon by the jury for them to draw their inference. While we do not say or mean to intimate that the defendants and their witnesses did not tell the truth, yet to some minds the suspicion might arise that they attempted to contract out all their work on dangerous machinery to avoid liability for injuries sustained by employees. They certainly had a right to contract as to all their work, but whether they did or not in the present case was a question for the jury.
+Whether Enoch Swain was a contractor or employee of the defendants is to be determined by a rule laid down in a recent case in the court of appeals. Judge Miller, in the case of Hexamer v. Webb (101 N. Y., 385), says: “ The test to determine whether one who renders service to another does so as a contractor or not, is to ascertain whether he renders the service in the course of an independent oc cupation representing the will of his employer only, as the result of his work, and not as to the means by which it is accomplished.” The defendants admit that they furnished Swain with a room in their factory to work m, also with machinery and stock; and, if the testimony of plaintiff was true, with labor. And it appears that Swain did no work except for defendants, and was employed for no fixed time. There is also the fact that plaintiff received his pay from the defendants.
+Although the jury should find that Enoch Swain agreed with plaintiff as to his wages, we think there was other testimony in the case to require the submission of the question to the jury, whether Swain was a contractor or employee. While defendants might not have exercised power of control over the work of Swain, yet if they retained the right to exercise such power during the progress of the work, then, within the authorities, he was their servant, and not their contractor.
+The question of the negligence of the defendants was also one for the jury to decide. If Swain was their employee, then he was their foreman in charge of the work, and it was a question of fact, whether or not it was in the line of his employment to set plaintiff at work on the machine on which he was injured. If the jury should decide that he represented the defendants, in what he did, then, of course, they would be liable for his acts. The question of contributory negligence was also one of fact. It is unnecessary to review the testimony on this point. In reviewing the case, we have taken the testimony of plaintiff as true, as is the rule in the case of a non-suit, and disclaim any intention to express any opinion as to the facts, except to hold that as to certain facts, the testimony was conflicting, and that different inferences could be drawn from many of the facts which were not in dispute.
+Judgment reversed, and a new trial granted. Costs to abide the event.
+Van Wyck, J., concurs.
