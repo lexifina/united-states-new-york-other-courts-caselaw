@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-07-02"
+citations: ["39 N.Y. St. Rep. 801"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Probate of the Will of James Stewart, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0801-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061911
+---
+
+# In re the Probate of the Will of Stewart
+
+## Majority (Barnard, P. J.)
+
+Barnard, P. J.
+—On the 12th of March, 1887, the deceased made a will, and subsequently two codicils thereto. This will of 1887 contained a radical change in the disposition of testator’s property, and the question litigated on the trial was, whether the testator had capacity to execute the same and the codicils thereto. By the former will and .codicil the property had been divided equally between the testator’s three children. These papers were executed in 1881 and 1884. Between the dates of the codicils made in 1884 and the will of 1887, the testator had married Eleanor Ely, who had been provided for by a small annuity in the old will, and by the will of 1887 she takes one-fourth of the estate, some $75,000, in lieu of dower. The share of one of the sons is put in the hands of trustees for his benefit for life, with remainder to his children. The surrogate found that the testator had not sufficient capacity to execute the will of 1887 and "the codicils thereto, but admitted his will of 1881 and the codicils thereto of 1884. The widow appeals. The will of 1887 was executed in the presence of Paul H. Kretzschmar and Gustavus R Cooper. These witnesses were both called and examined. One had known the testator twelve years and the other for twenty years. The testator was eighty-four years -of age. The will was read over slowly to him, and he said to the witnesses that it was exactly as he wanted it He then signed the instrument, and declared it to be his last will, and requested the witnesses to sign it as such, which they did, in his presence and in the presence of each other. James E. Allaben, the attorney for the testator, was present at the time; also Mrs. Stewart, the widow. The codicils were executed in the following year, 1888, in the presence of John Murphy and 0. B. Skiff. Each of these witnesses were called and testified to a full and apparently free and capable execution of the codicils. A large number of witnesses were called by each party.
+The contestants show instances of loss of memory not at all unusnal for an old man entirely rational; instances of repetition; instances where the comprehension of the testator was not so quick as is usual with young men. His dress was not as neat and well ordered as it should be. Many of the contestants’ witnesses say there was nothing incoherent or disconnected in the testator; and all, or nearly all, say that the conversations were about business which he continued to do for himself until after the last codicil. The witnesses called by the proponents show an entirely rational and understanding testator who did his own business, made loans, collected money, examined houses and made repairs thereon. He remembered names and persons of old acquaintances whom he had not seen for a considerable time; he remembered engagements. He understood his business, and knew what he wished to accomplish.
+The evidence is such that the decree of the surrogate should be reversed, and issues properly framed and sent to a jury of Kings county. The question of costs to await the disposition of the trial by jury.
+Dykmah and Pratt, JJ., concur.
