@@ -1,0 +1,22 @@
+---
+court: "New York Marine Court"
+decided: "1875-06"
+citations: ["1 N.Y. City Ct. Rep. 104"]
+reporter: "ny-city-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BOWERY SAYINGS BANK against M. STADMULLER."]
+source_url: "https://static.case.law/ny-city-ct-rep/1/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1101576
+cites_cases: ["1 Hill, 604", "13 Johns. 424", "13 Wend. 33"]
+---
+
+# Bowery Sayings Bank v. Stadmuller
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The defendants executed an undertaking such as is required by section 222 of the Code, upon procuring an injunction against the Bowery Savings Bank. The injunction was obtained in the superior court of the city of New York, and upon the discontinuance of the action by the plaintiff a reference was ordered by that court, to ascertain the damages sustained by the bank by reason of such injunction (7 Abb. Pr. N. S. 37). The referee made his report, which was confirmed in the superior court, and the plaintiff thereupon brought this action to recover the damages assessed by the referee (2 Wait Pr. 125.); and the’defendants upon the trial objected that this court had no jurisdiction of the s.ubject matter, and based their objection upon subdivision 3 of section 3 of the act of 1872 (c. 629), which, in enumerating the cases of which the court has jurisdiction, provides that it shall have jurisdiction in “ all actions upon a surety bond or undertaking taken in the said court in any action or proceeding, but without said limitation of jurisdiction as to the amount of. claim or recovery thereon.” Section 1 of the same act continues the marine court with its former jurisdiction, except as otherwise prescribed, declared and enlarged by said act. Section 3 limits the jurisdiction of the court to $1,000. There is nothing in the act of 1872 .taking away the jurisdiction previously existing in the court in actions upon bonds, undertakings, and other such like obligations, and the only object or effect of subdivision 3. of section 3 in referring to such jurisdiction was to remove the restriction as to the amount of the recovery in actions upon bonds and undertakings taken in said court, so that in that particular class of cases, “ the limitation of jurisdiction as to the amount of claim or recovery therein ” applicable to other cases should not apply. The act of 1813 (2 R. L. 381, § 106) conferred upon the marine court jurisdiction to hear, try, and determine all actions ,of debt and of covenant, wherein the amount claimed was within the statutory limit. This old jurisdiction, enlarged as to amount of recovery, still remains in the court. The old action of debt was comprehensive enough to embrace the present case (1 Dunlap Pr. 8-10), and the action of covenant embraced specialties of all kinds. Besides this, subdivision 1 of section 3 of the act of 1872 (supra), in regard to jurisdiction, particularly enumerates all actions arising upon contract, paroi, or under seal, or for unliquidated damages therein conditioned. Under these various provisions there is no room to doubt the existence of the jurisdiction claimed. I am aware that in actions upon bail-bonds given in one court and prosecuted in another, that “ the courts in which they were prosecuted have, in some instances, for reasons disclosed upon special motion, declined jurisdiction by dismissing the proceedings and remitting the parties for relief to the court in which the bail-bonds were given. These cases are confined, however, to that peculiar class of obligations, for the assigned reason that each court has its own rules of practice, and is best able to judge of what terms should be granted to or imposed upon a defendant upon exonerating his bail (Burtis v. McCarty, 13 Johns. 424; Matthews v. Cook, 13 Wend. 33 ; Otis v. Wakeman, 1 Hill, 604), and these cases hold that even in regard to bail-bonds the question cannot be raised by plea or upon the trial, and that the appropriate remedy is by motion, and that the objection does not go to the jurisdiction of this court. The reasoning of the court in those cases demonstrates their inapplicability to the one under consideration.
+The objection to the jurisdiction was properly overruled, and furnishes no ground for interfering with the judgment.
+Motion for new trial denied and judgment sustained.
