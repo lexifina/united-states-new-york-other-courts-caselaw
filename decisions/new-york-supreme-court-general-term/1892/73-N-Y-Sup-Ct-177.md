@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-11"
+citations: ["73 N.Y. Sup. Ct. 177"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Present — Mayham, P. J., Putnam and Herrick, JJ."]
+parties: ["TIMOTHY CARPENTER, Respondent, v. GEORGE Y. CARPENTER, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/73/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2397156
+cites_cases: ["22 N. Y. St. Rep., 409", "55 N. Y., 592", "8 Barb., 412"]
+---
+
+# Carpenter v. Carpenter
+
+## Majority (Per Curiam .)
+
+Per Curiam .
+We think the rule of damages adopted below wrong. Plaintiff, having lived with and been maintained by defendant for about nine years under a verbal contract, by which the latter, in consideration of the services to be performed by the former, was to board and maintain him during the remainder of his life, on a subsequent breach of the contract, was suffered to recover the value of his services over the value of the maintenance furnished for the whole period he had lived with defendant.
+During said period the work done by plaintiff was paid for, as provided in the contract, by his board and maintenance.
+During two years, or about that period, prior to the commencement of the action defendant failed to board and maintain plaintiff pursuant to the contract. The rule of damages in such a case, under such a contract, is well settled. Plaintiff was entitled to recover the expíense of his support, which defendant had failed to furnish as provided by the contract before the commencement of the action, and the prospective expense for such maintenance during the balance of his life. (Shaffer v. Lee, 8 Barb., 412; Schell v. Plumb, 55 N. Y., 592.)
+We think this one of those instances of the submission of a case to the jury on an erroneous theory, where, although no exception was taken to the charge, a new trial should be granted. ( Whitaker v. D. and H. Canal Co., 22 N. Y. St. Rep., 409.)
+But on the trial the appellant did object to evidence offered to show the value of respondent’s services at the time he lived with appellant “ as not the piropier measure of damages.” The court overruled the objection and an exception was taken. We think the court erred in so ruling for the reason above stated. We have read carefully respondent’s supplemental brief, but are of opinion that said evidence as to tlie value of respondent’s services under the complaint, and the theory adopted by the plaintiff and the court on the trial, was incompetent for any purpose. >
+The judgment should be reversed and a new trial granted, costs to abide the event.
+Present — Mayham, P. J., Putnam and Herrick, JJ.
+Judgment reversed, new trial granted, costs to abide the event.
