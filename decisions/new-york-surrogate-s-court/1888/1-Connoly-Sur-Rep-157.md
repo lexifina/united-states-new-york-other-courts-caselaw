@@ -1,7 +1,8 @@
 ---
 court: "New York Surrogate's Court"
 decided: "1888-11"
-citations: ["1 Connoly Sur. Rep. 157", "1 Connoly Sur. Rep. 254"]
+decided_precision: "month"
+citations: ["1 Connoly Sur. Rep. 157"]
 reporter: "connoly-sur-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
