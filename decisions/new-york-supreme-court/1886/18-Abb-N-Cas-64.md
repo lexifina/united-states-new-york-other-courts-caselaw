@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court"
+decided: "1886-07"
+citations: ["18 Abb. N. Cas. 64"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CENTRAL TRUST CO. v. N. Y. CITY & NORTHERN R. R. CO."]
+source_url: "https://static.case.law/abbn-cas/18/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 635377
+cites_cases: ["86 N. Y., 433"]
+---
+
+# Central Trust Co. v. N. Y. City & Northern Railroad
+
+## Majority (Andrews, J.)
+
+Andrews, J.
+The authorities cited by the counsel for the plaintiff, and for the defendant, Scott, do not seem to me to be applicable, for they are all cases in which, after a trial, it was held that the mortgage was valid, and that the plaintiff was entitled to a judgment of foreclosure and salej and the reference was merely to compute the amount due. The defense set up in this action by the Railroad Company and the Loan and Improvement Company was, that the bonds had been fraudulently issued, and that for this reason the mortgage could not be enforced. After a trial it was field that the bonds and the entire stock of the railroad company had been issued, and the mortgage had been executed under such circumstances that the bonds and mortgage were void or voidable, and could not be ■enforced as contracts. It appeared, however, from the evidence, that the railroad company had received certain property and moneys for such bonds and stock, and it was further held that it could not avail itself of the defense set up, except on condition that it should restore what it had received or its equivalent. After reaching this conclusion it would have been competent for the court itself to have proceeded to take such further testimony as was considered necessary to enable it to make a final decision of the case. With the view, however, of relieving the court and the parties to the litigation from the loss of time and inconvenience which would necessarily be caused by taking such testimony in open court, it was suggested in the opinion which was delivered that a reference to take such testimony would be ordered. It ivas not considered that this ivould be a reference similar to one which might be ordered, after a triad, to compute the amount due upon a mortgage adjudged to-be valid, but ivould be a reference to ascertain the facts necessary to enable the court to decide upon what terms the defendant railroad company should be relieved from liability under the mortgage. I have not been referred to nor have I been able to find any reported decision, nor any work upon practice, in which the proper method of procedure in a case like the present one is laid down; but it does not seem to me that, as matters now stand, any judgment can be entered, or that any decision containing findings of fac.t and conclusions of law can now be made; and the decision in Camp v. Ingersoll (86 N. Y., 433) seems to hold that the court has the power to order a reference of the description above mentioned. Until the amount which the defendant railroad company must pay, as a condition of relief from the mortgage ha's been ascertained, it cannot make a tender of payment. Non constat if such amount shall be ascertained, it will be tendered and accepted, or the railroad company will fail to make such .tender, within a time to be fixed by the judgment, and the plaintiff will then be entitled to have the property sold. The happening of the former contingency will certainly, and of the latter will probably, end the litigation. The trial and the proceedings so far had in the action have not yet placed the railroad company in a position where it can exercise the election which it has been held the company has the right to make ; nor can it be placed in that position until further testimony has* been taken, either in open court or before a referee ; and I am of the opinion that the application to pass upon the findings already submitted, and to fix a day for the submission of findings by other parties, must be denied.
