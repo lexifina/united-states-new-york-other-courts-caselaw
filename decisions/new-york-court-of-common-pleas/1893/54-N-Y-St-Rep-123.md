@@ -1,0 +1,27 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1893-08-09"
+citations: ["54 N.Y. St. Rep. 123", "24 N.Y.S. 559", "4 Misc. Rep. 519"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Julius Kugelman, Resp’t, v. David Levy et al., App’lts."]
+source_url: "https://static.case.law/ny-st-rep/54/cases/0123-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 689535
+cites_cases: ["1 Hun, 282", "59 N. Y. 67", "59 N. Y., 67"]
+---
+
+# Kugelman v. Levy
+
+## Majority (Giegerich, J.)
+
+Giegerich, J.
+The plaintiff, sold to the defendants a quantity of tobacco then on storage in plaintiff’s name. Defendants gave to the plaintiff broker’s notes for the amount agreed upon for the purchase price, but, as plaintiff was in need of funds with which to pay the banker’s credit upon the goods, which payment was prerequisite to the delivery, it was agreed that the goods should remain on storage until the maturity of the notes or until actual cash payment was made by the defendants either for the whole amount of the tobacco or for portions thereof as they might require it.
+The goods were subsequently delivered at maturity of the notes, and plaintiff now sues for the amount expended by him for the storage and insurance of the same during the period between the sale and delivery.
+Evidence as to the custom of the trade, with regard to the payment of storage and insurance charges where goods remain on storage after the sale in such a case as the one at bar, was given by defendants’ expert witnesses to the effect that the vendor was responsible for such charges. To contradict tiffs evidence plaintiff called one King, who testified that he was engaged in the East India importing trade. His testimony was, in effect, directly opposed to that of defendants’ witnesses, who were engaged in the tobacco trade, and was objected to as incompetent upon the ground that said King was not an expert with reference to the question.
+The evidence was admitted under defendants’ exception, and' our conclusion is that this exception points to reversible error. There was no proof that the witness, King, was competent to testify to the particular usage in dispute; he was not engaged in the tobacco trade, and the admission of his testimony upon the question was in contravention of the rule that a witness, by whose testimony a usage is sought to be shown, must know the usage. Griffin v. Rice, 1 Hilt., 184; Marine National Bank v. National City Bank, 59 N. Y., 67; Gallup v. Lederer, 1 Hun, 282. Tffat this witness knew the custom of tobacco traders with reference to the storage of goods sold but not delivered does not appear by the slightest proof.
+But for this incompetent evidence, the usage as shown by defendants’ witnesses would have been unquestioned and a contrary decision from that arrived at should have resulted, the evidence adduced being of that character which the court could not justly have disregarded. Jacks v. Darrin, 8 E. D. Smith, 558.
+Aside from the question of usage, the item for insurance should have been disallowed. By the contract in evidence, it appears that the goods are stated to be fully insured by plaintiff. Ho reasonable interpretation of this contract could support the view that any one other than the plaintiff was chargeable with the payment of the premiums of such insurance. Moreover, in -the absence of clear proof of a contrary usage of trade, the liability of the seller for the storage charges, in such a case as that before us, rests upon sound legal principle.
+The judgment should be reversed and a new trial ordered, with costs to abide the event.
+Bischoff, J., concurs.
