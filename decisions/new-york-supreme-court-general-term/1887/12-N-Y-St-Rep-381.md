@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1887-12"
+citations: ["12 N.Y. St. Rep. 381"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People ex rel. Henry Russell, Resp’t, v. The Board of Canvassers of the County of Albany, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/12/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1992776
+---
+
+# People ex rel. Russell v. Board of Canvassers
+
+## Majority (Landon, P. J.)
+
+Landon, P. J.
+The inspectors of election for the eleventh district of Watervliet, did, at the close of the election, make and sign in duplicate, two statements of the result of the-election in that district, respecting the votes cast for the office of senator; one of these statements they delivered to the town clerk and one to the county clerk to be filed.
+They ought to have delivered one of these statements to the supervisor of the town instead of the town clerk, and have filed a copy in the town clerk’s office, but they failed to do so. Six days thereafter two of the inspectors made and signed what purported to be a copy of these original, statements, but differing from them, in that it was stated, therein that Henry Russell received forty-five votes less,, and Norton Chase forty-five more for the office of senator, than was certified and determined by the inspectors, and set forth in the two original statements. This change of determination and statement was not within their power or jurisdiction to make, and was wholly invalid as an efficient and legal change of their first determination and statement. The law contemplates that the duties of the inspectors shall in these respects be as promptly performed as possible, for this purpose among others, that the result may be determined and declared without any bias arising from a knowledge of its effect upon the aggregate result, or from exposure to subsequent influences; like the verdict of a jury, when once regularly delivered, the jurors, themselves, cannot overthrow or defeat it.
+This paper these two inspectors caused to be delivered to the supervisor of the town. The supervisor receiving this paper, in the absence of any evidence exciting his suspicion in regard to its regularity and genuineness, would naturally regard it as the original statement which the law requires-to be'delivered to him.
+He presented it to the board of county canvassers, and that body proceeded to take action upon it. Some question is made as to the proof respecting the determination of that board to receive it as an original and genuine return. The affidavits submitted show that that body has laid it before a committee of their body,-charged with making a preliminary statement of the votes cast at the election, and that its statements were entered in a tabulated statement prepared by that committee for the final adoption of the board as their determination of the result of the canvass. Ho evidence is submitted leading us to doubt that the board of canvassers were in the act of embodying its statements in the canvass about to be declared by them.
+Indeed, as that body has only ministerial and not judicial duties to perform, it could not enter upon a judicial investigation to ascertain the genuineness of a return which the law required one of that body to return to them. This paper was favored by the presumption of official honesty and regularity. A case was, therefore, presented in which it was proper to invoke the aid of the court, to the end that the true nature of this irregular paper might be judicially investigated and declared. An application was thereupon made to the special term under chapter 460, "Laws of 1880, for a mandamus to compel the board of supervisors not to canvass the irregular returns. The affidavits there submitted showed the facts above stated, and no attempt was made to show that the irregular paper delivered to the supervisors was made otherwise than as above stated. The special term, as we think, properly granted a mandamus directing the board of county canvassers not to canvass the returns stated in this irregular paper. Such an order, we think, was regularly granted upon a state of facts which fully justified and required it.
+The time had come when it was proper for the court to use its judicial functions to correct and direct the board as to the proper return or paper upon which the latter should exercise its ministerial functions.
+Counsel for the respective parties agree that the order of the special term is defective in not directing what return the board of county canvassers should canvass. Under these circumstances there can be no doubt that the return filed in the county clerk’s office should be canvassed by the board. That is the original verdict of the inspectors, and was made and filed as the law directs.
+Chapter 460 of the Laws of 1880 provides that in a proceeding like this, the court may compel the board to correct the errors which it has committed. It has committed an error in using the irregular return for any purpose. The order of the special term should be affirmed, with the further direction that the board of county canvassers shall substitute the return filed in the county clerk’s office for the irregular return aforesaid, and use the same in their further proceedings as the genuine return.
+Fish and Parker, JJ., concur.
