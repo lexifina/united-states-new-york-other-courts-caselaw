@@ -1,7 +1,8 @@
 ---
 court: "New York Supreme Court, General Term"
 decided: "1876-05"
-citations: ["14 N.Y. Sup. Ct. 260", "14 N.Y. Sup. Ct. 255"]
+decided_precision: "month"
+citations: ["14 N.Y. Sup. Ct. 260"]
 reporter: "ny-sup-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["WILLIAM H. BOOTH and others, by Guardian, Appellants, v. WILLIAM K. K
 source_url: "https://static.case.law/ny-sup-ct/14/cases/0260-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 624985
-cites_cases: ["1 Barb. Ch., 302", "1 Barb. Ch., 452", "1 Bradf. 290", "1 Bradf., 433", "1 Edw. Ch., 266", "1 Hall, 382", "1 Hoff. Ch., 1", "1 Hoff. Ch., 10", "1 Johns. Ch., 438", "1 Phil., 199", "1 Tuck., 135", "11 Wend., 237", "15 Abb. Pr., 12", "17 Barb., 236", "2 Bradf., 90", "2 Bradford, 90", "22 Barb., 175", "22 N. Y., 472", "24 N. Y., 46", "3 B. 8", "3 Barb. Ch., 477", "3 Bradf., 39", "41 Barb., 491", "6 N. Y., 190", "6 N. Y., 447", "7 Johns., 581", "9 Pet., 180"]
+cites_cases: ["1 Barb. Ch., 302", "1 Barb. Ch., 452", "1 Bradf. 290", "1 Bradf., 433", "1 Hall, 382", "1 Phil., 199", "1 Tuck., 135", "15 Abb. Pr., 12", "17 Barb., 236", "2 Bradf., 90", "22 Barb., 175", "24 N. Y., 46", "3 B. 8", "3 Bradf., 39", "41 Barb., 491", "6 N. Y., 447", "7 Johns., 581"]
 ---
 
 # Booth v. Kitchen
