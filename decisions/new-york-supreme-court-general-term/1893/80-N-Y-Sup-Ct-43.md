@@ -1,0 +1,31 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-11"
+citations: ["80 N.Y. Sup. Ct. 43"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Parker, J., concurred."]
+parties: ["The People of the State of New York ex rel. Robert Taggart, Appellant, v. Theodore W. Myers, as Comptroller of the City of New York, Respondent."]
+source_url: "https://static.case.law/ny-sup-ct/80/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4699246
+cites_cases: ["56 N. Y. 534"]
+---
+
+# People ex rel. Taggart v. Myers
+
+## Majority (Van Brunt, P. J.:)
+
+Van Brunt, P. J.:
+This was an application for a peremptory writ of mandamus to compel the respondent to pay the relator the sum of $380, the balance of an award made to liim for the opening of Bethune street from Greenwich to Hudson, which was retained by the respondent as rent of premises occupied by the relator. The order confirming the report of the commissioners of estimate and assessment was entered on the 6th day of December, 1892, and the report of the referee awarded to the relator for the lot and building known as 593 Hudson street, occupied by him, the sum of $16,797.75. The comptroller was not prepared to make payment until April 1,1893; and on that day, when the relator went to the comptroller’s office to receive his money, the comptroller presented a claim and demanded payment or the right to retain from the award the sum of $380 for rent of the premises from the date of the order confirming the report to April first, the date of payment. The relator disputed the legality of the claim, and upon the comptroller refusing to pay the whole award, accepted the balance of the award, leaving the amount in question to be determined upon a proper application to compel its payment. The relator remained in possession of the pi’emises until the award was paid. The improvement upon the street was not commenced until after the first of April, the date when the payment was made, and the last day for which the city seeks to charge the relator rent. ,
+Upon these facts the relator applied to the court for a writ of mandamus, and as an answer thereto the respondent presented the affidavit of one Rapp, who swore that he was one of the collectors employed by the department of city revenue of the city of New York, and that on the day of the confirmation of the report, in pursuance of instructions received by him, he called at the relator’s place of business, and had a conversation with his son, who was the general overseer and superintendent of his father’s business. Rapp further averred that he informed the son that he called for the purpose of notifying him that the city had acquired title to said property, and was vn full possession thereof, and also that the bureau for the collection of city revenue had fixed the rent of the premises occupied by the relator at $100 a month. Rapp further averred that the son stated that he was acquainted with the fact that the city had acquired title to the premises, but he did not think his father was under any obligation to pay the rent demanded until the award made to him had been paid. Rapp further averred that the son was fully advised by bim that it was tbe intention of the mayor, etc., to take immediate possession of said premises, and the notification was given by deponent to said Taggart as an indication upon the part of the city that it did by an affirmative act acquire possession of the premises, and also that it was its intention to collect rent for the same in case the relator desired to remain in possession.
+Rapp further averred that the son stated that his father would have to stay, as it was impossible for him to evacuate the premises, etc.
+Upon this affidavit the court denied the motion for a mandamus.
+It is difficult to see upon what theory the corporation of the city of New York can claim rent for the premises in question. In the affidavit of the affiant Rapp there is not the slightest authority shown from any person having the right to give such authority for his rnaking the visit which he did. And his affidavit is as inconsistent in its statements as it is defective in its law. In one part of his affidavit he states that he notified the relator’s son that the city was in full possession of the premises, and in another that it was the intention of the mayor, etc., to take immediate possession of said premises.
+The fact is apparent that the city was not in possession at all, and took no steps whatever to acquire possession. Now, the corporation was only authorized to take possession of this property at this time for the purpose of proceeding with the improvement. (Hamersley v. The Mayor, 56 N. Y. 534; Detmold v. Drake, 46 id. 318.) It had no power to take possession for the purpose of renting. In fact there is no evidence that it ever did take possession for that purpose, or that it ever attempted to do so.
+The department of the city which is charged with the duty of making this improvement is the department of public works and not the comptroller; and the comptroller had no more authority to take possession of these premises on behalf of the city than the corporation counsel would have had. He is not clothed with any such duty and could confer no such authority. Indeed, it may be said that if the comptroller had authority, the affidavit of Rapp contains no statement that he. went by authority of the comptroller.
+It seems to be clear, therefore, that even if this son could bind his father as a tenant of the city, in respect to which there is not the slightest evidence (although this man Rapp attempts to swear to that fact also, but it is evident that he had no knowledge on the subject, but was simply swearing to the results of his own imagination), the facts and fancies set out in Rapp’s affidavit do not constitute the shadow of a defense to the claim presented by the relator, and he should have had the relief asked for.
+The order appealed from should be reversed, with costs, and the motion for mandamus granted, with costs.
+Parker, J., concurred.
+Order reversed, with costs, and the motion for mandamus granted, with costs.
