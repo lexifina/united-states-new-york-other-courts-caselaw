@@ -1,0 +1,37 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-10"
+citations: ["88 N.Y. Sup. Ct. 343"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., concurred: Lewis, J., not sitting."]
+parties: ["Sarah A. Burtis, Plaintiff, v. Thomas V. Dickinson and Another, Defendants. Charles D. Marshall, Plaintiff, v. Thomas V. Dickinson and Another, Defendants. Ludwig Nissen and Alexander C. Chase, Plaintiffs, v. Thomas V. Dickinson and Another, Defendants. German-American Bank, Plaintiff, v. Thomas V. Dickinson and Another, Defendants."]
+source_url: "https://static.case.law/ny-sup-ct/88/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4741015
+cites_cases: ["136 N. Y. 252", "14 Abb. 109", "20 Johns. 296", "21 Wend. 316", "27 N. Y. 596", "4 Sandf. Ch. 565", "51 N. Y. 519", "79 Hun, 134", "9 Wend. 442"]
+---
+
+# Burtis v. Dickinson
+
+## Majority (Bradley, J.:)
+
+Bradley, J.:
+The defendants, husband and wife, were engaged on March 27, 1894, as partners in the sale of jewelry at the city of Buffalo. On that day judgments in the above-entitled actions were entered against them upon their confession, and executions upon three of them were issued to the sheriff of Erie county, who levied them upon the stock of goods, etc., in the store occupied by the defendants. On the same day an execution issued upon a judgment recovered by action against them by the Queen City Bank was also delivered to the sheriff and by him levied upon the property.
+The execution upon the judgment of the German-American Bank was delivered to the sheriff March 31,1894. The property was by him sold’by virtue of the executions April 3, 1894, for the sum of $15,000. The appellants, Ludwig Nissen & Go., afterwards commenced an action against the same defendants, and on May 3, 1894, a warrant of attachment was issued therein and delivered to the same sheriff, who declined to levy it upon the property for the asserted reason that the title to it had by such execution sale passed to the purchaser.
+The appellants founded their motion upon the charge:
+(1) That the statements of confession were defective and insufficient to support the judgments entered thereon.
+(2) That the defendant Matilda J. Dickinson, being a manned woman, was incapable of making effectual confession of the judgments.
+(3) That the judgments so entered are fraudulent and void as against the appellants.
+All the judgments were entered in this court. And the validity of the Queen City Bank judgment is not questioned.
+For the purposes of the question the motion may have such treatment as an action brought by the appellants for a like purpose would be entitled to. If the attachment had been levied upon the property, it is clear that they would be j)erniitted to defend their asserted right to the lien of it upon the ground of fraud or for any reason which would tend to support it against the claim of others. (Hall v. Stryker, 27 N. Y. 596; Rinchey v. Stryker, 28 id. 45; Thurber v. Blanck, 50 id. 80.)
+• The mere lien of attachment before judgment does not support an action by the creditor at large to set aside as fraudulent a prior charge upon or apparent title to property. Nor is such remedy essential for the protection of the attaching creditor, because the officer in such case has the custody of the property, and affirmative action is with those asserting title or claim adverse to the lien, of the attachment.
+In Mechanics', etc., Bank v. Dakin (51 N. Y. 519) the plaintiff had’ not only the levy of his attachment, but also judgment and execution. And in People ex rel. Cauffman et al. v. Van Buren (136 N. Y. 252) the relators had caused an • attachment to be levied upon the property in question which had been levied upon and advertised for sale by virtue of executions of judgment creditors. Thereupon, in an action commenced by the relators against the sheriff and such judgment creditors, an injunction order was made and served restraining them from selling or disposing of the property during the pendency of the action. For proceeding to dispose of the property in violation of the injunction, they were held to have been in contempt, and subjected to a fine in consequence. The court held that an action for such injunctive purposes is maintainable.
+To create a specific lien by attachment it is essential that it be levied upon property. (Van Camp v. Searle, 79 Hun, 134.) In the present case the property in question was not in the custody of the sheriff at the time the attachment was delivered to him, nor was the attachment levied upon it, nor did the appellants have any judgment against the debtors, and, therefore, could have no action in aid of an execution.
+The appellants’ counsel cited Falconer v. Freeman (4 Sandf. Ch. 565) in support of the purpose of the motion. But the attachment there was issued under the Revised Statutes, and was necessarily for the benefit of all the creditors of the debtor. And there an injunction was issued to enable the plaintiff to have the attachment levied. The injunction was alleged to be necessary to restrain the defendants from disposition of the proceeds of. the sale which was then advertised of the property.
+In view of the situation so presented, the motion to dissolve the injunction was denied, although, as a rule, an action for the other purposes of the relief sought could not generally be maintained before trustees were appointed. (Wintringham v. Wintringham, 20 Johns. 296; Fort v. Fort, 9 Wend. 442.)
+At that time the proceeding by attachment was treated as a suit, and the trustees appointed in it were, by the statute, deemed vested with the estate, real and personal, of the debtor, with power to sue, etc. (2 R. S. 41, §§ 6, J; In re Brown, 21 Wend. 316.) The Fal-' coner case has no necessary application to attachment proceedings under the present statute. The creditor makes use of it for his benefit alone. His right, by virtue of his attachment to contest .adverse claims upon the property, is dependent upon a specific lien acquired by the levy of it thereon. And such levy may be made although there has been an apparent transfer of it by the debtor. (Skinner v. Oettenger, 14 Abb. 109.)
+Without the consideration of any other question the conclusion follows that there is no support for the motion, and the oi’def should be affirmed.
+Dwight, P. J., concurred: Lewis, J., not sitting.
+Orders in all of the cases affirmed, with but a single bill of costs of ten dollars and disbursements.
