@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-07-02"
+citations: ["2 Silv. Sup. 585"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Final Accounting of Cornelius Swart et al., Executors."]
+source_url: "https://static.case.law/silv-sup/2/cases/0585-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2169928
+---
+
+# In re the Final Accounting of Swart
+
+## Majority (Ingalls, J.)
+
+Ingalls, J.
+We have given to this case careful consideration, and have reached the conclusion that considering all the facts and circumstances involved, that the decree of the surrogate is just and defensible. The executors, from the commencement of their administration of the estate, under the will of Lydia Casey, deceased, seem to have disregarded the duties which the law imposed upon them as such executors, in the proper and orderly management of the estate, and in the distribution of the fund. In some instances legacies which were mere bounties have been paid in full, in preference to debts against the estate. In other instances liabilities have been created by the executors for professional services, and otherwise, and which they sought to have allowed to them in their account against the estate by the surrogate, without proof, either that they were reasonable in amount, or necessary for the protection of the estate. The surrogate was called upon to allow such items, in the face of the fact that the executors had not even paid such claims. It appears that after rejecting the claim of John O. Becker against the estate, that the executors instituted an action against him, and prosecuted the same to a result which was adverse to the estate, and a judgment for costs was entered upon in his favor for $264.34, October 25th, 1887.
+By their own showing, the executors, with a full knowledge of the nature of the action against Mr. Becker, and in which they assumed the risk of a judgment against the estate for costs, proceeded to disburse the funds of the estate by satisfying in full legacies created by the will of Lydia Casey, to the prejudice of claimants who had debts against such estate.
+It is a well recognized principle of law that debts- and the proper expense of administration are to be first paid, and in that particular they take precedence of legacies, and an executor who reverses the order of payment, does so at his risk. Nagle v. McGinnis. 49 How. P. Rep. 193. Matter of Dorr, 22 N. Y. State Rep. 124. The decree of the surrogate shows that he carefully examined the accounts of the executors, and has adjusted them in accordance with the legal rights of the parties interested in the estate. In doing so he was compelled to disapprove of the manner the executors had manipulated the funds of the estate, and to change the order of preference, which the executors had adopted, and to disallow many of the items contained in their account, some because the indebtedness had been created without authority, and in other instances for the reason that they were excessive in amount. In regard to some of the larger items claimed by the executors, and included in their account, they failed to furnish satisfactory evidence to the surrogate, that it was necessary or proper, to create such indebtedness. And in some instances the claims had not been paid by them, to the parties who had rendered the services upon the retainer of the executors. The decree of the surrogate shows unmistakable evidence that he has patiently and intelligently considered the matter, and has, as far as possible, considered the manner the executors have conducted the administration of the estate, adjusted their account so as to conform to the requirements of the law, and as far as possible, to protect the rights of all concerned. It would seem that the executors, with the amount of legal advice which their account indicates that they sought, would have been able to avoid the entanglement which the history of their administration exhibits. We are convinced that the decree of the surrogate is correct, and should be affirmed, with costs. We are not satisfied that the executors have acted in bad faith, but have rather failed to understand the duties and obligations required of them, and therefore should not be charged with costs, personally.
+Learned, P. J. and Landon, J. concur.
