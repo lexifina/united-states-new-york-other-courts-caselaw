@@ -1,0 +1,25 @@
+---
+court: "Brooklyn City Court"
+decided: "1890-11-24"
+citations: ["34 N.Y. St. Rep. 118"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James Walker, App'lt, v. The Atlantic Ave. R. R. Co., Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0118-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2046913
+---
+
+# Walker v. Atlantic Ave. Railroad
+
+## Majority (Van Wyck, J.)
+
+Van Wyck, J.
+This action was brought to recover damages alleged to have been sustained through the negligence of defendant. At the close of the testimony on both sides the court dismissed the complaint The only question presented to us on this appeal is whether or not there was sufficient evidence to carry the case to the jury on the alleged negligence of defendant. A liberal intendment of the evidence should be given in favor of plaintiff in the consideration of this question.
+There is testimony which shows, if true, that plaintiff while a passenger was riding in an open horse car, sitting on the left hand side of the second double seat in the outside seat from the front, facing in that direction; that along each side of the car there is a long platform about twelve inches wide running along the entire length of the car, which is used as a step to get on and off the car. There is no other step and the seats run across the car. While he was so riding and while the car was moving at a rapid speed, it approached a pair of horses in the track in front of the car team going in the same direction, a man riding on one of the horses and leading the other; as the car approached this pair of horses, this man riding on one and leading the other commenced to get them out of the way of the car team, and while in the act of leaving the track and getting a sufficient distance from the car and team to avoid a collision, the driver of the car, without slacking his speed, and before the horse so being led could or did get sufficiently out of the way, ran the car (the front end side of this step) against the legs of this horse, when he gave a start and kicked up and hit the plaintiff upon his knee, inflicting serious injury to the knee and leg. There was no contention on the argument of this appeal that if the testimony to the foregoing effect was true, then it was for the jury to say whether such conduct of the driver was negligence.
+Defendant chiefly rested its claim to a nonsuit upon the ground that the testimony of plaintiff to a collision between the car and horse was contradicted by all the other witnesses, seven in number, and was further weakened by the circumstances that plaintiff testified that both the front end and side of this stop collided with the horse. It does not seem improbable that the front and side of the step should have hit the horse, and that he was hit explains his kicking, Plaintiff’s testimony is not so weakened by contradictions or inconsistencies as to call upon the court to pronounce it unreliable, though the jury might do so.
+Let us see if the testimony relating to the alleged collision given by the other seven witnesses is so free from interest, bias, and innate weakness as to call upon the court to pronounce the testimony of plaintiff unworthy of credit, and false in respect to the asserted collision. Malone and MchTerney, two of the seven, were both in the employ of defendant, the_ former as driver, and the other as conductor of this very car, and the former is charged by plaintiff with the negligent acts of which he complains. Sutton was reading his paper, and the noise of the kick attracted his attention, and he saw plaintiff take hold of his leg and say “ It is broken.” Donnelly cannot say whether the car struck the horse or not. Whitlock locates the horses at a different point from all the other witnesses. Payne says he is not certain he was not sitting with his back to the driver; if he did, of course be did not see the collision. . Oliver says he knew nothing of the position of the horses before the kicking.
+We do not believe the court, as a matter of law, on the motion for a nonsuit, was called upon to pronounce the story of the collision by the plaintiff false, or insufficient to sustain a verdict in his favor, because of the conflict between him and the other witnesses above referred to. Fair preponderance does not mean the largest number of witnesses, but requires evidence of such weight and character as will convince the minds of rational and reasonable jurors.
+We are of the opinion that judgment herein should.be reversed, and a new trial ordered, with costs to abide the event.
+Osborne, J., concurs._
