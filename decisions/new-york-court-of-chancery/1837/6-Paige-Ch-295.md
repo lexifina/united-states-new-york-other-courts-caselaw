@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1837-03-07"
+citations: ["6 Paige Ch. 295"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["P. B. & J. B. Manchester vs. Dey."]
+source_url: "https://static.case.law/paige-ch/6/cases/0295-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2181712
+---
+
+# Manchester v. Dey
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+Although the complainant in an injunction bill waives an answer on oath from the defendant, the latter may put in an answer on oath for the purpose of obtaining a dissolution of the injunction. And the injunction will then be dissolved, as in other cases, upon the coming in of an answer denying the whole equity of the bill, unless the allegations in the bill on which the right to the injunction depends are verified by the affidavit of a credible and disinterested witness, according to the provisions of the 87th rule. And whether the bill is sworn to by one or more complainants can make no difference, as the answer of the defendant is entitled to the same credit as the bill of the complainants.
+The counsel for the complainants is also wrong in supposing that the giving of a bond, to secure the payment of the amount of the verdict or judgment in the suit at law, entitles a complainant to a continuance of the injunction, after the whole equity of the bill is fully denied by the answer. The object of the statutory provision, requiring the complainant to bring the money into court, or to give security for its payment, before he can have an injunction to stay the proceedings upon a verdict or judgment, was not to enable him to retain his injunction after the equity of the bill was fully denied. It was to protect the rights of the adverse party against an improper use of this important and very useful process, which was frequently resorted to for the mere purpose of delay. The party who has obtained a verdict or judgment at law is prima facie entitled to the money thus recovered. And one object of the statute was to give him the possession of the fund while the right to the same is in litigation in this court, upon his giving security to restore the amount if the party obtaining the injunction finally succeeds in showing that the verdict or judgment was illegal or inequitable. (See 2 R. S. 189, § 142.) But this object of the statute would be entirely defeated if the complainant, by merely giving a bond, instead of paying the money into court, could entitle himself to retain the injunction until the final termination of a protracted litigation, although the whole equity of the bill was fully denied in the answer. Such a result I am sure could never have been in the contemplation of the framers of these statutory provisions ; neither are the provisions themselves susceptible of such a construction. Where the money is paid into court by the complainant, and taken out by the defendant upon giving security to refund, the statute has made provision to secure the former against the collection of the money a second time, by authorizing the court to continue the injunction or to compel a satisfaction of the judgment to be entered of record. (2 R. S. 189, § 143.) And in accordance with the principle of this section of the statute, perhaps the court would be authorized to continue the injunction, where the money was actually brought into court, although the defendant should have neglected or refused to furnish the necessary security and take out the money thus deposited. But where the money is not actually brought into court, the defendant is entitled as of course to a dissolution of the injunction, upon the coming in of a full and perfect answer denying the whole equity of the bill upon which such injunction was obtained. The delivering up the bond for prosecution, however, is in the discretion of the court, and it may be retained until the final hearing of the cause, although the injunction is dissolved upon the coming in of the answer.
+In this case the defendant was entitled to a dissolution of the injunction, according to the settled practice of the court. The decision of the vice chancellor must, therefore, be reversed, with costs.
