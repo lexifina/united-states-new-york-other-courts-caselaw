@@ -1,0 +1,27 @@
+---
+court: "New York Superior Court"
+decided: "1864-12-31"
+citations: ["3 Rob. 647", "26 N.Y. Super. Ct. 647"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Laura E. Bolton and Angelina T. Arthur, plaintiffs, vs. Elizabeth M. Taylor et al. defendants."]
+source_url: "https://static.case.law/ny-super-ct/26/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1423669
+cites_cases: ["1 N. Y. Leg. Obs. 266", "2 Sandf. 632", "6 N. Y. Rep. 176", "7 Abb. 326", "7 Abb. Pr. 326", "7 N. Y. Leg. Obs. 314"]
+---
+
+# Bolton v. Taylor
+
+## Majority (By the Court, Monell, J.)
+
+By the Court, Monell, J.
+The language of the statute (2 R. S. 620, § 1,) is that “when a suit shall be commenced in any court, for a plaintiff not residing within the jurisdiction of such court, or for several plaintiffs who are all non-residents, the defendants may require the plaintiffs to give security for costs.”
+The question arising upon this appeal must be regarded as settled, in this court, by a long line of decisions, (Gardner v. Kelly, 2 Sandf. 632; Blossom v. Adams, 7 N. Y. Leg. Obs. 314; Hicks v. Payson, 7 Abb. Pr. 326; Phenix v. Townshend, 2 Code R. 2,) unless the acts of 1840, 1844 and 1847, in respect to issuing executions into other counties, and the collection of interlocutory costs, can be regarded as enlarging the jurisdiction of the court by implication.
+.. All the cases cited hold that the jurisdiction is territorially limited to the city of New York, and a plaintiff who does not reside therein may be required to give the security. The acts above referred to were not, however, noticed in any of the cases. The acts of 1840 and 1844, (Laws of 1840, p. 334, ch. 386, § 29; Id. 1844, p. 91, ch. 104, §§ 6, 7,) provide for the docketing of the judgments of this court in any county in the state, and for the issuing of executions thereon to the sheriff of such county, giving to the court the same jurisdiction and power over such dockets as is possessed by the Supreme Court. The act of 1847, (Laws of 1847, p. 491, ch. 390, §§ 2, 3,) relates to the payment and collection of interlocutory costs. The object of the statutes of 1840 and 1844 was to provide a more speedy and inexpensive mode of collecting judgments recovered in the local courts than by actions upon such judgments.
+There is nothing in the language of the statute which indicates an intention to alter or enlarge the jurisdiction of such courts, either over the persons or the parties, or the subject matter of the litigation. This court, like the common pleas and county courts, has no original jurisdiction. Its powers are conferred upon it by statute, and it can exercise no other than such as are expressly given, or are necessarily incident to their performance. The act organizing the court, (Laws of 1828, p. 141, ch. 137,) prohibited the sending of any process into any other county, except the process of subpoena, and attachment for disobedience thereof. Although the jurisdiction. of the court, over the persons of defendants, has been enlarged in specified cases, by subsequent legislation, I am not aware of any statute which has removed the original prohibition against sending its process into other counties, except the acts before referred to, concerning executions. And in respect to executions to collect interlocutory costs, it will be seen that there is no provision, applicable to this court, for sending them, into another county. This court in 1843, in Kane v. Van Sandt, (1 N. Y. Leg. Obs. 266,) denied an application for an order directing the sheriff of Queens county to bring into this court moneys collected under an execution issued out of the court upon a judgment docketed in that county. It was denied, under a doubt of the power of the court to enforce obedience to the order by attachment. The effect of the act of 1840, as conferring the power incidentally, was considered, and the power very much doubted. The court say: “ The omission of the legislature to provide expressly, in the recent act, for the enforcement, by attachment,.of an execution issuing out of a county court, to the sheriff of another county, may have been intentionally made, in view of the serious inconvenience which would result from the exercise of such a power by the numerous county courts in the state.”
+The case of Frees v. Ford, (6 N. Y. Rep. 176,) was decided in 1852, where it is held that a county court is not a court of general jurisdiction ; and that to all such courts the rule universally applies, that their jurisdiction must appear on the record—such courts having, by statute, jurisdiction of actions where all the defendants reside in the county.
+Courts therefore of limited jurisdiction can exercise no power not conferred upon them by statute, nor can they send their process, when not expressly authorized to send it. And it cannot, I think, be said, that because provision is made for enforcing their judgments in other counties, their jurisdiction is thereby enlarged by implication, as it clearly is not by any express words.
+But if I had any doubt on the question, I should, without approving of the reasoning of Justice Bosworth, in Hicks v. Payson, (7 Abb. 326,) agree with him that it is our duty to conform to the decisions already made by this court.
+The order appealed from should be affirmed, with $10 costs.
