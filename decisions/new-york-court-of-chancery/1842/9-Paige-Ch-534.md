@@ -1,0 +1,22 @@
+---
+court: "New York Court of Chancery"
+decided: "1842-04-05"
+citations: ["9 Paige Ch. 534"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McLachlan vs. McLachlan and others."]
+source_url: "https://static.case.law/paige-ch/9/cases/0534-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1893841
+---
+
+# McLachlan v. McLachlan
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+The principal question in this case is whether the condition annexed to the devise to the testator’s grandson Robert, that he should settle and reside on the farm, was a condition precedent to the vesting of the estate ; or was a condition subsequent, the non-performance of which was to divest an estate to which he was previously entitled under the will. Taking the whole provisions of the will together, I have no doubt that the testator intended to give to his grandson an immediate interest in the farm, and in the personal estate, farming utensils and stock thereon j subject to the interest therein of his son William for the eight years in the nature of a lease for that term reserving an annual rent to the grandson of $50. He in terms calls the annual sum to be paid to Robert, for the use of the farm, a rent. And he undoubtedly intended it should be paid to Robert to enable him with that, and whatever more was necessary for the purpose to be raised by his own exertions, to pay off the legacies ; all of which, except the legacy to James, would become payable at or before the expiration of the leasehold interest of the complainant in the property.
+The legacies were a personal charge upon the grandson in respect to the estate devised, so far at least as the rents of the premises were insufficient to pay the same ; and this was sufficient to give him an estate of inheritance in the premises. Having accepted of the estate devised, by the receipt of the rent reserved to him, as it became due and payable, he was bound to pay off the legacies charged upon him personally, although they were more than the amount of the rent. And the testator could not have intended to charge the grandson, who appears to have been the principal object of his bounty, with the payment of $150 out of his own funds during the first three years, and then that his heirs should receive no equivalent therefor in case of his death. Upon the settled principles of law on this subject, even before the revised statutes had rendered words of perpetuity in a grant or devise unnecessary, this must be considered as a devise of an estate of inheritance.
+An estate in fee in the farm having vested in the grandson at the death of the testator, subject to the right of William to occupy the farm for eight years at an annual rent of $50 to be paid to such grandson, the estate was not divested by the non-performance of the condition subsequent, that the devisee should settle and reside on the farm, at the end of the eight years or upon the sooner termination of William’s interest therein. For it is a settled rule of law that where the condition which is to divest an estate becomes impossible by the act of God, the condition is discharged. (Covent. Read. Ed. of Coke, 206, (a). Pey ton v. Bury, 2 Peer Wms. 626. Thomas v. Howell, Skin. Rep. 301, 319.) The whole farm, therefore, belongs to the defendant John McLachlan, as the heir at law of his son the devisee ; subject in equity to the payment of the legacies, if the personal estate of the devisee is not sufficient to pay the same.
+This bill is not properly framed for the purpose of a decree for the payment of the legacies. It is strictly a bill for partition, although the fact that Robert, the grandson of the testator, died without paying the legacies is incidentally mentioned. Besides, the personal estate of Robert McLachlan is the primary fund to pay those legacies, and his administrator is not before the court. It also appears that he left personal estate. For the complainant states in his bill that the stock, farming utensils and other property, which were to be left on the farm by him at the end of the eight years, are still in his hands. The bill must therefore be dismissed, with costs to such of the defendants as have appeared and answered ; leaving the legatees or their representatives to take such proceedings for the recovery of their legacies as they may think proper, if the personal representative or the heir at law of Robert does not voluntarily pay the same.
