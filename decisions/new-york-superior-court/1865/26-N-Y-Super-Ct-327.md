@@ -1,0 +1,22 @@
+---
+court: "New York Superior Court"
+decided: "1865-06-24"
+citations: ["3 Rob. 327", "26 N.Y. Super. Ct. 327"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George W. Staples, plaintiff, vs. Catharine Anderson, defendant."]
+source_url: "https://static.case.law/ny-super-ct/26/cases/0327-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1423661
+cites_cases: ["25 Wend. 669"]
+---
+
+# Staples v. Anderson
+
+## Majority (By the Court, Moncrief, J.)
+
+By the Court, Moncrief, J.
+The plaintiff, upon the argument of the exceptions of the defendant’s counsel, urged that the matters stated in the answer are not the proper subject of defense as counter-claim. The plaintiff did not demur to the allegations set up by the way of counter-claim, nor object to the amendment of the answer upon the trial, making “ the facts proved available as a defense.” We must assume that the motion for judgment upon the pleadings was correctly decided and properly denied, and that there was no error of law committed, as against the plaintiff; the verdict being in his favor, he is bound to sustain the rulings and direction of the judge, and the verdict rendered against the defendant.
+The matter set up in the answer may be the subject of defense or counter-claim. .(Westlake v. DeGraw, 25 Wend. 669, 672.) It was held in Smith v. Marrable, (11 M. & W. 5,) where a tenant was sued for rent under the lease of a furnished house alleged to be so infested with bugs as to be unfit for the occupation of a respectable family, that it was proper to let the jury say whether, under all the circumstances of the case, the alleged grievance amounted to a nuisance, or was merely made a pretext for leaving the house.
+The evidence in the present case tended to show that the plaintiff represented that the premises were “a good place” for the defendant to let out rooms furnished to gentlemen. The defendant had stated to him her object in wishing to hire the house, and that she had plenty of good'*friends who would help her, and that was the only means she had of doing any thing for herself, after her husband’s death. There was also some evidence tending to show that the plaintiff knew that his house was not fitted for the purpose for which he was advised the defendant desired to use it; that the suggestion that it was “a good place” to let out furnished rooms to gentlemen was untrue ; and that the house was in such repute as to be an improper residence for respectable people. In Cornfoot v. Fowke. (6 Mees. & W. 359,) it is said: “It.must also be admitted that if the plaintiff knew of the nuisance (a brothel next door) but purposely employed an agent, suspecting that a question would be asked from him, and at the same time believing and suspecting that it would, by reason of such ignorance be answered in the negative, the plaintiff would undoubtedly be guilty of a fraud and the contract would be avoided ; for then the representation of the agent, which he intended to be made, would be the same as his own; and his own representation, coupled with his knowledge of its falsehood, would doubtless be a fraud. But whether the facts in the case would warrant an inference that such a fraud was committed, it is unnecessary to inquire, as if they would, this question should have been “submitted to the jury.” The agent in that case had been asked if there was any objection to the house, and he answered there was not. The defendant in this action testified that she never would have taken the house if she had known its character; that no respectable gentlemen would come into the house ; that she did not know any thing of the character of the house, or of its former inmates, before she took it; the plaintiff knew that his house had some bad repute, and he did not disclose the fact in his conversation with the defendant prior to her taking possession. The question of fact as to the character of the house at the time of the letting being known to the plaintiff, and his false representation or fraudulent concealment thereof from the defendant, we think should have been submitted to the jury. The direction to find a verdict against the defendant was therefore erroneous, and the exception to such direction must be held to have been well taken. A new trial is ordered, with costs of the argument of the exceptions to the defendant to abide the event of the action.
