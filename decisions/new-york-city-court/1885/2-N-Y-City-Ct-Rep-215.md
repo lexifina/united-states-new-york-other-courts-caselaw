@@ -1,0 +1,27 @@
+---
+court: "New York City Court"
+decided: "1885-12"
+citations: ["2 N.Y. City Ct. Rep. 215"]
+reporter: "ny-city-ct-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN G. R. REINERS, Plaintiff and Appellant, against GEORGE K. DAVIS, et al., Defendants and Respondents."]
+source_url: "https://static.case.law/ny-city-ct-rep/2/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1104243
+cites_cases: ["2 Hill, 425", "21 Gratt. 6", "38 N. Y. 289", "43 N. Y. 93", "53 Barb. 23", "6 Cow. 486"]
+---
+
+# Reiners v. Davis
+
+## Majority (McAdam, Ch. J.)
+
+McAdam, Ch. J.
+The action is on a bank check drawn by the defendant, Davis, to the order of and indorsed by the defendant, Fuller, and by him delivered to the plaintiff. It is dated May 6, .1884, and is for $327.66. The defendants answered separately. Davis claimed that he made the check to accommodate Fuller. Fuller pleaded a counter-claim for $275, but subsequently withdrew it, and both defendants rested their defense on the delay in presenting the check for payment, and in serving the necessary notices of dishonor. For this apparent neglect, the complaint was dismissed as to both defendants, and from the judgment entered on the dismissal, the present appeal is taken. The check, as before suggested, was made May 6, 1884, and it was presented for payment September 21, 1885, a delay of over sixteen months.
+We will first consider the effect of such delay upon, the parties to a bank check, and then refer to the evidence relied upon to excuse the apparent neglect. In the first-place, there is an important distinction as to the extent of the legal consequences of neglect and delay in presentment and notice, between bills of exchange and checks. It is true that the indorsers of such instruments stand on the same footing in reference to the effect of delay or failure in making presentment or giving notice. They are absolutely and entirely discharged, if presentment be not made within a reasonable time, and due notice given.
+But the drawer of a bill stands upon a different footing from the drawer of a check. In the case of a bill of exchange, negligence in respect to presentment or notice, absolutely discharges the drawer. But the drawer of a check is regarded as the principal debtor, and the check purports to be made upon a fund deposited to meet it. and negligence of the holder, in not making due presentment, or not giving him notice of the dishonor, does not absolutely discharge him from liability, unless he has suffered some loss or injury from such negligence, and then only to the extent of such loss or injury. He is at most entitled only to such presentment and notice as will save him Rom loss. Were it otherwise, the drawer would profit by a neglect which could do him no injury.
+These principles, laid down by Daniel in his work on Negotiable Instruments, § 1587, are sustained by other elementary writers (Byles on Bills, marg. p. 20; Edwards on Bills, §§ 549, 551), and by the courts in Murray v. Judah, 6 Cow. 486; Little v. Phoenix Bank, 2 Hill, 425; Bell v. Alexander, 21 Gratt. 6; Emery v. Hobson, 63 Maine, 32, and other cases.
+The next question to be considered is as to the burden of proof. The present action being on the check, the plaintiff was bound to prove that the drawer was not injured by the delay (Little v. Phoenix Bank, supra). If the action had been brought on the precedent debt, the onus of proving loss would have been shifted on the drawer (Bradford v. Fox, 38 N. Y. 289). The plaintiff, by way of excusing the delay, testified upon the trial: “I had a conversation with Mr. Fuller about holding this check, and afterwards with Mr. Davis; the first conversation in regard to this check I had with Mr. Davis was about July, 1885; at that time I Requested payment of another note of Mr. Davis which I held; the check I have here now was a matter of Mr. Fuller’s; I told Davis I had his obligation, and he stated, ‘Give me time until I collect the money of Mr. Fuller.’ ” Davis did not express surprise nor allege injury by delay, but asked further time. This testimony as to a fact peculiarly within the knowledge of Davis, was evidence from which the jury would have been authorized to infer, in the absence of explanation or contradictory proof, that no injury had resulted to him from the delay. The plaintiff also testified that Fuller, the indorser, met him and asked if the check had been deposited, and when the plaintiff answered in the negative, Fuller said: “You Hold it and you can draw interest upon it.”
+This testimony proved that Davis wanted the plaintiff to wait until Davis collected the money from Fuller, and Fuller wanted the plaintifi to wait, and, as an inducing argument, said that the check drew interest. This proof was uncontradicted, and, in our judgment, negatived the idea of loss or injury, and amounted to a waiver of an earlier presentation and notice (Sheldon v. Horton, 53 Barb. 23; affirmed, 43 N. Y. 93). This conversation agrees with the answer of Davis, alleging that he drew the check to accommodate Fuller, for it implies that Fuller, and not Davis, should provide for its payment. Upon the entire proofs, we think the plaintiff made out a prirnafacie case, and that it was error in the trial judge dismissing the complaint.
+For these reasons, the judgment appealed from will "be reversed, and a new trial ordered, with costs to the appellant to abide the event.
+Hall, J., concurred,
