@@ -1,0 +1,40 @@
+---
+court: "New York Surrogate's Court"
+decided: "1915-05"
+citations: ["14 Mills Surr. 369"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Estate of Sarah W. Kathan, Deceased."]
+source_url: "https://static.case.law/mills-surr/14/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1090424
+cites_cases: ["1 Johns. Ch. 329", "141 N. Y. Supp. 705", "159 N. Y. 514", "3 Edw. Ch. 83", "79 N. Y. 327", "92 N. Y. 239"]
+---
+
+# In re Estate of Kathan
+
+## Majority (Fowleb, S.)
+
+Fowleb, S.
+— This is a proceeding under section 2615, Code Civil Procedure, to construe the will of testatrix, which was admitted to probate by this court on June 7, 1913. Letters testamentary were granted to the petitioners, who have paid over and delivered all the legacies bequeathed under said will, excepting those- as to which questions have arisen, due to the presence in the will of certain provisions which it is alleged are doubtful in meaning and admit of two or more construci tions.
+At the time testatrix’s will was offered for probate the proponents propounded several torn sheets of paper purporting to be a codicil to said last will and testament. The probate of the alleged codicil was contested. After a hearing the will was admitted to probate, and probate of the codicil refused (141 N. Y. Supp. 705.) Accordingly the decree entered admitting the will to probate provided that, although the codicil had been revoked by the testatrix animo revocandi, it was genuine and had been duly executed. The codicil was given effect in so far as it revoked certain provisions in the will, and the will so modified was admitted to probate.
+The questions which occasion this application for construction relate to the second, third, fourth and fifth paragraphs of the will of testatrix.
+Under paragraph 3 of the will there was bequeathed to Adele Sibley Cootes a certain clustered diamond ring and an interest in remainder in a certain table-cloth; to Adele. Sibley Cootes and Alice Sibley Whann a certain long diamond chain. These legacies were specific legacies (Crawford v. McCarthy, 159 N. Y. 514, 519), and were all revoked by the codicil.
+After making the several specific bequests in the initial clauses of paragraph 3 as indicated testatrix adds in a separate clause in the same paragraph the following:
+“ I give and bequeath my remaining jewelry to the persons hereinafter in this clause of my will named and in the following order, viz.:
+(1) To my husband, Eeid A. Kathan, any one piece of my remaining jewelry which he may select, he to have the first choice. * * *
+(11) To ¡Margaret A. Finch, any one remaining piece of my jewelry, she to have eleventh choice.”
+The codicil also revoked a leg’acy to Alice Sibley Whann of “ any one remaining piece of my jewelry, she to have second choice.”
+In the closing clause of the third paragraph of the will testatrix added a residuary clause, as follows:
+“All the rest, residue and remainder of my jewelry and other articles of personal use and adornment, together with my silverware, I give and bequeath to my executors hereinafter named, with the request that they shall give and divide the same to and among such of my friends as they may select and see fit to bestow the same upon.”
+This residuary clause I find refers solely to whatever jewelry remained after the payment of the specific legacies and the several legatees had made their choice from the “ remaining jewelry.” The restricted residuary clause is limited, as indicated, and is not capable to pass the legacies which have failed because of the revocation of the codicil. (King v. Woodhull, 3 Edw. Ch. 83 ; Kerr v. Dougherty, 79 N. Y. 327, 345.)
+The fifth paragraph provides as follows:
+“ Fifth. Should any of the gifts and bequests made by me in the first, second and third paragraphs of this my will lapse or fail for any reason, I direct that the bequest so lapsing or failing shall go to and form part of my residuary estate and be disposed of under and in accordance with the provisions of the fourth paragraph of this my will.”
+The fourth paragraph of the will makes Henry W. Butler the sole residuary legatee. The fifth paragraph of the will is definite in its provisions, and was expressly intended by testatrix to intercept from intestacy any legacy or bequest which would have lapsed or failed for any reason. The specific legacies revoked by the codicil pass therefore to Henry W. Butler under the fifth paragraph of the will, the purport and intent of testatrix being to substitute Mr. Butler as the legatee in each instance of failure or lapse.
+Another question concerns the significance of the term “ furniture ” in paragraph 2 of the will. Paragraph 2 reads in part as follows:
+“ I give, devise and bequeath to my trustees hereinafter named * * * also all furniture, pictures, except family portraits and certain furniture hereinafter mentioned, contained in my residence in Mew York City.”
+Testatrix left certain rugs, draperies and- furnishings in the apartment which she occupied at the time of her death. These chattels were not specifically disposed of by her will. It is to be noticed that the disposition of the household furniture contained in the country house at Oyster Bay and disposed of by the first paragraph of the will plainly segregates that particular property from the rest of the personal property of the testatrix, and this whether the same is of like character or otherwise.
+The question here is whether the term “ all furniture ” includes the rugs, draperies and furnishings of testatrix’s apartment in Mew York city. The disposition of testatrix’s furniture under paragraph 2 is general and comprehends whatever is classed as furniture. The authorities tend to attach a broad meaning to this term so as to include in a general bequest of furniture such as this all that goes to furnish an abode. By the term “ household furniture ” all personal chattels are included which contribute to the use or convenience of the householder and to the ornament of the house, as plate, linen, china, both useful and ornamental, and pictures. (Kelly v. Powlett, Ambl. 605 ; Bunn v. Winthrop, 1 Johns. Ch. 329.) Generally a bequest of “ furniture ” means the same as one of “ household furniture.” “ Household property ” in testator’s house has been held to include the fuel .in a house and a gun which might be used for defense. (Matter of Frazer, 92 N. Y. 239.) I will hold, therefore, that the term “ all furniture ” in the second paragraph of the will comprehends and includes the rugs, draperies and furnishings contained in testatrix’s apartment and pass to the executors as trustees.
+In the third paragraph of the will testatrix bequeathed a gold purse and aqua marine chain to Mrs. Car lie W. Sibley, who predeceased her. The question of the disposition of these lapsed legacies was not propounded by the petition, .but counsel have intimated a willingness that the surrogate pass upon the disposition of these two bequests. Without saying more, I think that in view of my opinion, already expressed, these lapsed legacies pass under paragraph 5 of the will to Mr. Butler.
+Decreed accordingly.
