@@ -1,7 +1,8 @@
 ---
 court: "Recorder of New York City"
 decided: "1822-09"
-citations: ["1 Wheel. Cr. Cas. 18", "1 Wheel. Cr. Cas. 38"]
+decided_precision: "month"
+citations: ["1 Wheel. Cr. Cas. 18"]
 reporter: "wheel-cr-cas"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
