@@ -1,0 +1,20 @@
+---
+court: "New York Supreme Court"
+decided: "1901-03"
+citations: ["15 N.Y. Crim. 391", "34 Misc. 285; 103 St. Rep. 618"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. THOMAS J. O'NEILL"]
+source_url: "https://static.case.law/ny-crim/15/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1183431
+cites_cases: ["103 St. Rep. 618", "34 Misc. 285"]
+---
+
+# People v. O'Neill
+
+## Majority (McAdam, J.)
+
+McAdam, J.
+The defendant was arrested on a warrant issued by a city magistrate on an information in the form of a complaint, wherein it is charged that the defendant, on July 25, 1 goo, at the city of New York, did, with intent to procure the miscarriage of Cora Vivian, complainant, supply, administer, and cause her to take a certain medicine, drug, or substance, in violation of subdivision 1 of section 294 of the Penal Code. It is further charged that the complainant became criminally intimate with the defendant in the early part of June, 1900; that in the latter part of July she informed the defendant that she believed she was pregnant with child; and that on said 25th day of July, 1900, the defendant gave her a pill, and made her swallow the same, telling her that the pill and "other pills which he had in a box, which he gave to the complainant, would bring on her miscarriage. If the complaint be true, it is apparent that both the complainant and defendant acted on the belief that she was pregnant with child, and that the medicine was administered by the defendant and taken by the complainant for the express purpose of causing a miscarriage. The allegations certainly make out a prima facie case against the defendant, although the same strictness is not required in an information as on an indictment. People v. Robertson, 3 Wheeler, Cr. Cas. 180. Such offenses are seldom set forth with more particularity; and if, before issuing warrants, magistrates were required to learn every detail of the evidence essential to convict, few, if any, warrants would be issued. The complaint complies substantially with all legal requirements, and the examination before the magistrate, which now stands adjourned to April 9, 1901, must proceed according to prescribed practice.
