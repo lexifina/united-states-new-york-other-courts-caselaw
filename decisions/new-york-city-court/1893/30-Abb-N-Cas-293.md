@@ -1,0 +1,30 @@
+---
+court: "New York City Court"
+decided: "1893-05"
+citations: ["30 Abb.N. Cas. 293"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN DOUGLAS CO. v. MOLER."]
+source_url: "https://static.case.law/abbn-cas/30/cases/0293-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1973004
+cites_cases: ["22 Abb. N. C. 305", "37 Hun, 275", "88 N. Y. 258"]
+---
+
+# John Douglas Co. v. Moler
+
+## Majority (Robert A. Van Wyck, J.)
+
+Robert A. Van Wyck, J.
+The complaint alleges a cause of action on contract for goods sold by plaintiff to defendant.
+The answer contains a general denial, sets up a counterclaim on contract for services rendered to plaintiff by defendant, upon which he demands an affirmative judgment, and interposes as a defense, consisting of new matter, that this defendant in an action now pending in the supreme court sued this plaintiff for the same services for which he counterclaims in this action, and that this plaintiff, who is the defendant in that action, can and should counterclaim therein for the goods sued for by him in this action.
+This plaintiff demurred to the counterclaim and defense consisting of new matter set forth in the answer herein. To the counterclaim under section 495 of the Code, which permits demurrer to counterclaim when defendant demands affirmative judgment, and it appears that there'is another action pending between the same parties for'the same cause; and to the defense consisting of new matter under section 494, which allows demurrer to a defense consisting of new matter, contained in the answer, on the ground that it is insufficient in law upon the face thereof.
+The defense demurred to is undoubtedly insufficient in law, for there is no rule of law or practice that requires a person, who may have a claim on contract against another to counterclaim for the same whenever such other may, as plaintiff, bring an action on contract against him; but he can defend such action either under denial or plea in abate, ment, and, whether successfully or not, still hold his right of action for such claim against such person. Section 507 of the Code permits, but does not command, a defendant to counterclaim.
+In the allegation of the answer herein setting up the defense consisting of new matter it is specifically set forth that the cause of action alleged in the complaint in the supreme court action, by this defendant as the plaintiff therein, is the same cause of action as that contained in the allegation of his answer constituting his counterclaim herein. Thus it appears by positive allegation upon the face of the answer that the defendant here seeks to counterclaim on the same cause of action upon which he, as plaintiff, has already sued in the supreme court the plaintiff herein, as defendant therein. This he is not allowed to do under the prevailing rule of practice (Ansorge v. Kaiser, 22 Abb. N. C. 305).
+Under section 495 a demurrer by plaintiff is permitted where it “ appears on the face of the counterclaim ” that there is another action pending between the same parties for the same cause, and defendant’s counsel contends that “ appears on the face of the counterclaim ” must be strictly construed, and that, so construed, it means that it must appear within the very allegation of the answer which is labeled counterclaim, and that although the defendant specifically alleges in another part of his answer demurred to that his cause of counterclaim set up in the paragraph of his answer labeled counterclaim, is the same cause of action upon which, as plaintiff, he has sued this plaintiff as defendant in the supreme court action now pending, still the demurrer is not maintainable, because this fact does not appear on the face of and wholly within his plea as so labeled. If this contention was the. rule of practice, a cause could be forced to trial at Circuit, and the court and jury would be compelled to listen to defendant’s proof of the specific allegation of his answer, only to be immediately followed by a direction .of a verdict against such defendant.
+When the defendant specifically alleged in his answer that the cause of action sued upon by him in the supreme court was the same as his cause of counterclaim set up in his plea labeled counterclaim, he made such allegation a part of such plea (Cragin v. Lovell, 88 N. Y. 258).
+After the court below sustained plaintiff’s demurrers, and the interlocutory judgment thereon was entered, this cause was tried at Circuit upon the issues raised by defendant’s general denial, and resulted in a verdict directed for plaintiff, and upon which judgment was entered, from which defendant appeals ; but there is no record before us to review the same, as no case seems to have been made and settled.
+To enable the General Term to review upon appeal a judgment entered upon the verdict of a jury directed by the court, a case must be prepared and settled as required by section 997 of the Code (Delano v. Harp, 37 Hun, 275).
+McGown and Fitzsimons, JJ., concurred.
+Judgments affirmed, with costs.
