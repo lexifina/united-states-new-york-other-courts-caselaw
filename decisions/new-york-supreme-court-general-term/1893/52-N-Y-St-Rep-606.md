@@ -1,0 +1,48 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-05-08"
+citations: ["52 N.Y. St. Rep. 606"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application for a writ of certiorari to The Board of Sewer Commissioners of the Village of Port Richmond."]
+source_url: "https://static.case.law/ny-st-rep/52/cases/0606-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 682489
+---
+
+# In re Board of Sewer Commissioners
+
+## Majority (Dykman, J.)
+
+Dykman, J.
+This is a certiorari to the board of sewer commissioners of the village of Port Bichmond, on Staten Island, to review their action in relation to the construction of certain sewers in that village.
+Boards of sewer commissioners in the incorporated villages of this state are organized, and their powers and duties are defined by chapter 375 of the Laws of 1889, and chapter 316 of the Laws of 1891 amendatory thereof.
+Under those statutes the boards of sewer commissioners derive authority to construct sewers in two modes, or, in other words, those statutes specify two methods by which the boards of commissioners of sewers obtain authority for the construction of sewers.
+One by a special election for the purpose of determining by a vote of the electors whether sewers shall be constructed according to a plan proposed by the board, and the other by a petition.
+As the proceedings under review were instituted by the latter method, it will be unnecessary to examine or discuss the former further than to say that a general plan of sewerage was submitted to the people at such an election and rejected.
+Subsequent to such rejection a petition, signed by the owners of more than one-half of the lands fronting on more than five hundred lineal feet of South avenue, one of the public streets of the village through which a sewer was projected on the plan of the sewerage system of the village which was rejected, was presented to the board of sewer commissioners, requesting the board to construct a sewer through South avenue from the rapid transit railroad running north to Newark bay.
+Thereupon the board proceeded in the manner specified in § 8 of the statute in respect to notices and hearing persons in favor of and against the construction of that portion of the sewer system, and thereafter determined to construct a sewer not only through South avenue, but also through Arlington place and Arlington avenue.
+To provide funds for the payment for the sewers the board issued certificates, of indebtedness.
+It is now insisted by the relator that the board has exceeded its jurisdiction, and that it had no authority to construct a sewer except in South avenue.
+After the rejection of the general plan by the people the board was destitute of authority to construct a sewer, until it was set in motion by a petition under § 8.
+That section, as amended, provided that whenever a petition should be presented to the board signed by the owners of at least 500 lineal feet of any of the lands fronting on any street, lane or alley through which a sewer was projected on the plan of the sewerage system of such village for the construction thereof, to be paid for wholly by the owners of the lands specially benefited, then the board should give notice in a certain manner specified of a time and place when the board would meet and hear persons interested, for and against the construction of such portion of the sewer system.
+At such meeting the board was required to take proof as to the persons signing the petition being the owners of a sufficient quantity of lands-fronting on said street as therein required, and their conclusion upon that question was made final.
+If after such hearing the board determined to construct such portion of the system of sewerage they were to proceed and do so.
+The question is whether the board could do more under the petition than construct a sewer in South avenue, and that is to be determined by a construction of § 8, as amended.
+The section itself is not free from obscurity, but a general view of its object, and the office, it was designed to perform, renders its meaning and intention reasonably certain.
+Its purpose was to provide a method by which the property owners upon a street could procure the construction of a sewer therein disconnected from the general plan.
+Two contingencies might have been in the contemplation of the law makers, either that the general plan might be rejected, as it was, or the growth of the village might build up new streets in which sewers would be necessary.
+In either case the petitioners would ask for what they wanted, and the board in its action thereon would be confined to the prayer of the petitioners, either to grant or refuse it, and would be without power or jurisdiction to do more than the petition requested.
+Upon general principles the petition lies at the foundation of the proceedings and is the basis of the jurisdiction of the board.
+Moreover, the language of the section plainly contemplates such restriction. The notice required is to be given to the owners of land fronting on such portion of the street as the petition describes, and the hearing is confined to persons interested in such portion of the sewer system, meaning, evidently, that portion described in the petition. Then again, if the board determines to construct such portion of the system of sewerage, it shall do so, meaning always, by the word such, the portion described in the petition.
+Again, the statute requires a petition from the owners of land fronting upon the street through which a sewer has been projected, and the fair inference is that their ownership must be upon the street through which they desire the sewer to run.
+Upon any other construction, the owners of five hundred feet upon any street might defeat the intention of the voters, and the board might construct sewers in any other street contrary to the wishes of the people, of their own volition, without request from any quarter.
+In short, the board has no power or discretion to construct sewers of its own volition, and when it is set in motion it can proceed no further than its authority extends.
+The last clause of § 8 applies only to the case of a petition for the construction of a sewer through different streets, and has no application to this case.
+The question respecting the issuance of certificates to pay for this ■sewer is by no means free from difficulty.
+The first part of § 10 of the original act reads as follows: “ For the providing of funds for the payment of the expenses authorized by this act, and for the construction and completion of such system of sewerage in any village, the board of sewer commissioners thereof is hereby authorized and empowered to issue its certificates of indebtedness or bonds, from time to time, and to pledge the faith and credit of said village for the payment of work, materials famished, lands taken and other expenses of said work.”
+We think that provision was intended to apply only to the execution and completion of the general system of sewerage, which was rejected by this village, and that the expenses of constructing a sewer under a petition are to be collected under the following provision of § 8 of the amendatory act: “ If, after hearing had in accordance with such notice, the said board shall determine to construct such portion of said system of sewerage, the said board shall proceed to enter into contracts therefor in the manner prescribed by the sixth section of this act, and to apportion and assess the expenses thereof upon the property especially benefited thereby in like manner and with like effect as herein provided in the seventh section of this act.”
+This view seems to harmonize with and give effect to the following language in the fore part of § 8: “To be paid for wholly by the owners of the lands specially benefited.” The language refers to the construction of the sewer prayed for in the petition, and the section plainly contemplates its incorporation into the petition for such construction, but it was not so incorporated in the petition in this case.
+In this view, the issuance of certificates was unauthorized, and the proceedings of the board were irregular and unauthorized, and should be reversed.
+Barnard, P. J., and Pratt, J., concur.
