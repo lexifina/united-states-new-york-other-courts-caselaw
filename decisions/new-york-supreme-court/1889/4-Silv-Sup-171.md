@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court"
+decided: "1889-10-19"
+citations: ["4 Silv. Sup. 171"]
+reporter: "silv-sup"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry W. Wedge, Respondent, v. Thomas Spencer, Appellant."]
+source_url: "https://static.case.law/silv-sup/4/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2171074
+---
+
+# Wedge v. Spencer
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+The action is for trespass for the cutting and removal from the plaintiff’s lands of 1,014 forest trees ■of the value of fifty dollars each.
+One Leach had made a contract with McMahon, by which the former sold to the latter the sawing timber in question, and McMahon in turn let the contract to the defendant to cut and remove the timber for him. The defendant removed what was supposed to be the timber belonging to Leach, and the same was paid for in full. The boundary line between the premises of the plaintiff and Mr. Leach was not accurately defined, and resort was had, in order to prevent mistakes and accidental trespasses, to the practice of blazing the trees to indicate the line beyond which the workmen should not go. If there was any trespass, it was accidental and unintentional. There was no purpose disclosed either on the part of McMahon, or of this defendant to commit larceny of this timber. No motive for taking the plaintiff’s timber is disclosed, for they have paid Mr. Leach all that they bargained for. Yet if the defendant did actually remove the timber from the plaintiff’s land, whether designedly or accidentally, he is liable therefor.
+The evidence in behalf of the plaintiff consists largely of ' the testimony of two witnesses by the names of Barstow and Fellows. The witness Barstow was permitted to testify, •apparently without objection, that after the controversy had arisen between the parties to this action, he, with the plaintiff and others, was upon the premised when he pointed out to the plaintiff the place where he cut the timber.
+The plaintiff afterwards testified that the place which Barstow so pointed out to him was his (the plaintiff’s) land. The witness Fellows was also permitted to testify, without objection, that he went upon the ground about the same time that Barstow did, in company with others, and pointed out to the plaintiff the place which he drew the timber from, which the plaintiff in turn testifies was his land. So far as the testimony of this witness is concerned, it is shown by some witnesses that the timber may have been drawn from the plaintiff’s lands, though the same was not cut thereon. The defendant’s explanation is that, after this timber was cut, they drew it up the hill and skidded it onto the plaintiff’s land for the purpose of more convenient removal. The witness, Barstow, when called to the stand as to the actual place where he, with others, cut the timber now claimed to belong to the plaintiff, fails to give any intelligent description that would locate it upon the plaintiff’s premises. He was aware of the blazing of the trees, and claims that he did not pass beyond the line of such blazing. .
+The testimony in behalf of the defendant tended to show quite conclusively that there was no actual trespass upon the plaintiff’s land, yet the case was submitted to the jury mainly upon the evidence of Barstow and Fellows, to the effect that, they pointed out to the plaintiff and others where they had previously cut the timber, and the plaintiff’s testimony to»the effect that those places so pointed out were upon the plaintiff’s lands. This is not such testimony as should overcome the positive assertions of the witnesses who speak of facts with which they are acquainted, and who give something beyond mere hearsay testimony.
+Under these circumstances, we think that the jury erred in their verdict, and that a new trial should be granted upon the ground that the verdict was against the weight of the evidence, and that the question was properly presented on the motion for a new trial. It is so ordered, upon the payment by the defendant of the costs of the circuit at which it was tried.
+Barker, P. J., and Dwight, J., concur.
