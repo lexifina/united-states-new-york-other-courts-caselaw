@@ -1,0 +1,30 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-02-09"
+citations: ["38 N.Y. St. Rep. 321"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Perry, App’lt, v. Euphemia W. Bedell et al., Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/38/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2057806
+cites_cases: ["24 N. Y., 623", "81 N. Y., 584"]
+---
+
+# Perry v. Bedell
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+This case involves little but a question of fact. The vital issue was whether the conveyance in question was made to hinder, delay and defraud creditors, and the judge who tried the case and saw and heard the witnesses testify was in a better position to judge of their credibility than the court at general term.
+We cannot say that this finding is so clearly against the weight of evidence as to require a reversal; indeed, the judge might well have found that the conveyance had a sufficient consideration to support it in the acknowledged debt due from the' defendant to his wife.
+The point that the deed could not have been made at the time it bears date is rightfully disposed of upon the evidence. The defendant and his wife and son each swear positively that it was made in 1870, and that is supported by the fact that it was then acknowledged. The recollection of the before named witnesses seems clear, specific and reasonable, and it is a matter upon which they could not be honestly mistaken; besides, the notary, who, so far as appears, was a stranger to all the parties, could not have dated the acknowledgment back without committing the crime of forgery.
+We think it much more reasonable that by some mistake the figure 6 was inserted in the imprint instead of the figure 5, or that there was a mistake in the removal of Gould from 158 to 168 Nassau street
+That the deed was not recently made is proved by the fact that Thomas Berdell died in 1877. The defendant, however, seems to concede that the conveyance was voluntary, and the court has so found, and such must now be assumed to be the fact; but that does not render the conveyance void unless it was made with fraudulent intent. Carr v. Breese, 81 N. Y., 584; Van Wyck v. Seward, 6 Paige, 62; Babcock v. Eckler, 24 N. Y., 623.
+It is unnecessary to quote cases upon this point, as it is too well settled to require citation or comment.
+The judge who tried the case has found that at the time of the said conveyance the defendant had ample property to pay all his debts, and from the proof we cannot see how he could have found in any other way.
+It is claimed that the defendant remained in the possession of the property after the sale. That might be regarded as a badge of fraud were it not for the fact that his wife was the owner. '
+It is also claimed that the deed was not recorded, and that defendant Bedell remained as the ostensible owner, and gained credit thereby; but the trial court has held, under all the circumstances, that there was no intent to defraud, and that no credit was fraudulently obtained thereby.
+We think the case was decided correctly, but as the plaintiff had sufficient apparent grounds to bring "his action, and there are some features of hardship in the case, the affirmance must be without costs.
+Barnard, P. J., concurs; Dykman, J., not sitting.
