@@ -1,0 +1,25 @@
+---
+court: "New York Court of Chancery"
+decided: "1816-01-15"
+citations: ["2 Johns. Ch. 29"]
+reporter: "johns-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*Holridge against T. and T. B. Gillespie."]
+source_url: "https://static.case.law/johns-ch/2/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1178205
+cites_cases: ["5 Johns. Rep 272"]
+---
+
+# Holridge v. Gillespie
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+[* 34 ]
+The bill filed by the plaintiff is in the nature of a bill to redeem, and the plaintiff is entitled to redeem the whole of the premises contained in the lease, and to have the entire advantage of the new lease, on such redemption. The renewed lease enures for the benefit oí the mortgagor. According to the cases of Manlove v. Bale, and of Rakestraw v. Brewer, (2 Vern. 84. 2 P. Wms. 511.) the additional term comes from the same old root, and is subject to the same equity of redemption, otherwise hardship and oppression might be practised upon the mortgagor. It is analogous, in principle, to the case of a trustee holding a lease for the benefit of the cestui que trust. Courts of equity have said, that if he makes use of the influence which his situation enables him to exercise, to get a new lease, he -shall hold if for the benefit of the cestui que trust. (1 Dow. 269. 1 Ch. Cas. 191. 1 Bro. Ch. Cas. 198.) So, if a guardian takes a renewed lease for lives, the trust follows the actual interest of the infant, and goes to his heirs, or executor, as the case may be. (18 Vesey, 274.) Indeed, it is a general principle, pervading the cases, that if a mortgagee, executor, trustee, tenant for life, &.C., who have a limited interest, gets an advantage by being in possession, “ or behind the back ” of *the party interested in the subject, or by some contrivance in fraud, he shall not retain the same for his own benefit, but hold it in trust. (Lord Manners, in 1 Ball & Beatty, 46, 47. 2 Ball & Beatty, 290. 298.) The doctrine has been uniform from the decision of Lord Keeper Bridgman, above referred to, in 1 Ch. Cas. 191., down to the most recent decisions. Nor do I think that the agreement of August, 1809, ought to form an obstacle to the redemption of the whole. That agreement bears the mark of undue influence growing out of the first assignment; and contracts of that kind, made with the mortgagor, to lessen or embarrass the right of redemption, are regarded with jealousy, as they are very apt to take their rise in unconscientious advantages assumed over the necessities of the mortgagor. (1 Vern. 8. 2 Vern. 520. 2 Atk. 495. 2 Ball & Beatty, 278.) The general principle is, “ once a mortgage, always a mortgageand though, no doubt, the equity of redemption may be released upon fair terms, yet the fairness and value must distinctly appear. In this case, there was no satisfactory consideration for an abandonment by the plaintiff of one half of his farm. The agreement was false on its face, for the consideration was not paid. A payment of the annual rent to the landlord, was no compensation to the plaintiff for half of his farm; and if we can credit the subsequent declarations of the defendants, they regarded the whole farm as still subject to redemption. But without placing reliance on sayings of this kind, the paper itself, accompanied with the admission that the consideration was never paid to the plaintiff, is enough to justify me in not regarding that agreement as a valid obstacle to the original right of redemption.
+[* 35 ]
+I shall, therefore, direct a reference to a master to take and state an account between the parties, in which the plaintiff is to be charged with the 74 dollars and 12 cents, mentioned in the original defeasance, with interest from that time, and is, likewise, to be charged with all sums of money justly due to the defendants for goods sold, or advances *by them, or either of them, made to and for his use, and on his account; and that the plaintiff is to be credited with all payments made, or articles of produce delivered, or work, labor, and services, rendered to the defendants, or either of them; and that the defendants are to be charged with the net yearly value of the premises possessed by them, or either of them, during the time of their possession, after deducting the rent and taxes accruing and paid during that period; and that the pleadings and proofs taken in the cause (the deposition of John Connolly, excepted,) be received as evidence before the master, and that the question of costs, and all. other questions, be' reserved, until the coming in,of the report.
+Decree accordingly.
+An objection was made to his deposition being read, on the ground, that having been convicted of a statute perjury, though pardoned by the governor, his competency as a witness was not restored; (2 Salk. 689. Peake’s Evi. 127. Phillips’s Law of Evi. 28;) the statute having made the total disability to become a witness, a part of the punishment until the conviction is reversed. (1 N. R. L. 171. sess. 24. ch. 74. s. 1.)
