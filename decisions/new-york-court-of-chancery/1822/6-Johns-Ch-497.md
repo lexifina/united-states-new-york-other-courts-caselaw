@@ -1,0 +1,27 @@
+---
+court: "New York Court of Chancery"
+decided: "1822-12-30"
+citations: ["6 Johns. Ch. 497"]
+reporter: "johns-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. Livingston against E. P. Livingston."]
+source_url: "https://static.case.law/johns-ch/6/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1982852
+---
+
+# Livingston v. Livingston
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+This is not the case of a stranger entering upon the land, as a trespasser, without pretence of right, and cutting down timber. In such a case, Lord Thurlow, in Mogg v. Mogg, (Dickens’ Rep. 670.) refused to interfere by injunction. This is analogous to a case before Lord Camden, referred to by the counsel in Mogg v. Mogg, and which Lord Tkurlow seemed to approve ot. It was, where a defendant claimed a right to estovers, and, under that right, cut down timber; there was a claim of right, and, until it was determined, it was proper to stay the party from doing an act, which, if it turned out he had no right to do, would be irreparable. So, also, in Harson v. Gardiner, (7 Vesey, 305.) the injunction was granted, where the defendant claimed common of pasture and estovers ; and, in that case, Lord Eldon observed, that the law, as to injunctions, had changed very much, and they had been granted much more liberally than formerly. They were granted in trespass, when the mischief would be irreparable, and to prevent a multiplicity of suits.
+In Mitchell v. Dors, (6 Ves. 147.) the defendant, in the process of taking coal, had begun to work into the land of the plaintiff, and though this was strictly a trespass, yet the injunction was granted, because irreparable mischief would be the consequence if the defendant went on. In Hamilton v. Worsefold, and in Courthope v. Mapplesden, (10 Ves. 290, and note, ibid.) injunctions were granted against a trespasser entering with permission, or by collusion with the tenant, and cutting timber.
+Lord Eldon repeatedly suggested the propriety of extending the injunction to trespasses, as well as waste, and on the ground of preventing irreparable mischief, and the destruction of the substance of the inheritance. The distinction, on this point, between waste and trespass, which was carefully kept up during the time of Lord Hardwiche, was shaken by Lord Thurlow, in Flamang,s case, respecting a mine, and seems to be almost broken down and disregarded, by Lord Eldon. This protection is now granted in the case of timber, coals, lead ore, quarries, &c.; and “the present established course,” as he observed in Thomas v. Oakley,(18 Ves. 184.) 66 was to sustain the bill fertile purpose of injunction, connecting it with the account, in both cases, and not to put the plaintiff to come here for an injunction, and to go to law for damages.”
+Injunctions grantedagainst trespasses, as well as against waste, under special circumstances.
+The injunction was granted in Crockford v. Alexander, (15 Ves. 138.) against cutting timber, when the defendant had got possession under articles for a purchase; and in Tworl v. Tworl, (16 Ves. 128.) against cutting timber between tenants in common 5 and in Kender v. Jones, (17 Ves. 110.) where the title to boundary was disputed 5 and in the case of Earl Cowper v. Baker, (17 Ves. 128.) against taking stones of a peculiar and valuable quality at the bottom of the sea, within the limits of a manor 5 and in Gray v. Duke of Northumberland, (17 Ves. 281.) against digging coal upon the estate of the plaintiff; and in Thomas v. Oakley, (ubi supra,) against exceeding a limited right to enter and take stone from a quarry. In all these cases, the injury was considered a trespass, and in two of them it was strictly so ; and the principle of the jurisdiction was to preserve the estate from destruction. But I can safely allow the injunction in the present case, without going to the extent of these latter cases, or following the habit, as Lord Eldon termed it, in Field v. Beaumont, (1 Swanston, 208.) of the English Chancery, in granting injunctions in cases of trespass as well as of waste. Here has been one action of law, in which the claim of the defendant to estovers in the lands of the plaintiff has received a decision against him, and there is another suit at law still depending, in which the same question arises. It is just and necessary to prevent multiplicity of suits, that the further disturbance of the freehold should be prevented, until the right is settled and the case decided by Lord Camden, is a sufficient authority for the interposition asked for in this case.
+Cases of trespass, in which injunctions have been granted, in order to preserve the estate from destruction»
+The recent decision by the Vice-Chancellor, in Garstin v. Asplin, (1 Madd. Ch. Rep. 150.) shows, that it is not the general rule, that an injunction will He in a naked case of trespass, where there is no privity of title, and where there is a legal remedy for the. intrusion. There must he something particular in the case, so as to bring the injury under the head of quieting possession, or to make out a case of irreparable mischief, or where the value of the inheritance is put in jeopardy.
+An injunction is not granted in case of mere trespass, and where there is a legal remedy for the intrusion
+Injunction granted.
