@@ -1,0 +1,42 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1893-11"
+citations: ["80 N.Y. Sup. Ct. 169"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Yan Brunt, P. J., and Parker, J., concurred."]
+parties: ["Oliver W. Barnes, Respondent, v. Francis C. O’Reilly and Another. Appellants."]
+source_url: "https://static.case.law/ny-sup-ct/80/cases/0169-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4699128
+---
+
+# Barnes v. O'Reilly
+
+## Majority (Follett, J.:)
+
+Follett, J.:
+This action is for the recovery of $9,000, with interest thereon from February 16, 1887, which is claimed to be due pursuant to the following contract:
+“ This memorandum or agreement, entered into this 16th day of February, A. D. 1887,
+“ "Witnesseth:
+“ That, whereas, the parties of the first and second parts hereto, have entered into a contract to construct fifty miles of the Duluth, South Shore & Atlantic Railroad, it being agreed and understood that the interests of the said parties hereto shall be share and share alike; that is, each shall be entitled to and be responsible for a one-third interest in said contract, the party of the first part hereunto being Oliver W. Barnes, and the party of the second part, Francis C. O’Reilly and Joseph U. Crawford.
+“ It is agreed and understood by and between the parties hereto, that, in consideration of the said party of the first part having procured said contract and allowing said parties of the second part to share with him in the same, as herein stated, the said parties of the second part hereby agree to pay to the said party of the first part the sum of ten thousand dollars ($10,000), one thousand dollars of which has heretofore been paid on the 27th day of January, 1887, and,
+“ It is hereby further agreed and understood, that the said parties of the second part assume to furnish all the capital that is necessary for the prosecution of the work, and to carry on the same to completion, in accordance with the original contract made on the 27th day of January, 1887, and they further agree that they shall give their personal attention to the construction and completion of said work in accordance with said contract, and,
+“ It is further agreed and understood, that the said party of the first part shall not be required to furnish either capital or personal attention in the management, construction or completion of said work as provided for in said contract, further than that he will hold himself ready from time to time to give the firm the benefit of his professional knowledge and counsel in the management of said work as may be desired. B
+“ It is further agreed and understood, that the said work shall be commenced forthwith, and prosecuted diligently to completion, in compliance with the terms of the contract for the same, and to the best advantage to the parties of the first and second parts.
+“ It is further agreed and understood, that the said work shall be prosecuted and the business carried on under the firm name of F. O. O’Reilly & Co.
+“ It is further agreed and understood, that the said F. O. O’Reilly is hereby designated to take charge of the financial business associated with the construction of said work, and that the firm shall have a clerk to keep proper books of account of the business of said firm.
+“ In witness whereof we have hereunto subscribed our names and affixed our seals, at New York, this 16th day of February, A. D-1887.
+“ OLIVER W. BARNES, [l. s.]
+“F. O. O’REILLY, [l. s.]
+“ JOSEPH H. CRAWFORD, [l. s.] ”
+The defendants by their answer admitted the execution of the contract, and that the sum of $9,000 had not been paid, and alleged that before the execution of the contract it was orally agreed between the litigants “ That the interests of the said pai’ties were to' be share and share alike, i. e., the plaintiff and the defendants were each to receive one-third (-J-) of the profits and to be responsible for one-third (-J-) of the losses.
+“ That the defendants were to pay the plaintiff for his work in. procuring said contract the sum of ten thousand dollars, and that said sum was to be paid out of the profits derived from said contract before any division was made.”
+It is also alleged that “ By a mistake mutual on the part of both of the parties thereto the said agreement failed to contain a clause providing that the sum of ten thousand dollars to be paid to the plaintiff for having procured said contract should be paid out of the profits derived therefrom, and that the sum of one thousand dollars theretofore paid should be deemed a payment on account of said profits.”
+Tlie defendants alleged that no profits were earned by the construction of the railroad, but that the firm sustained a loss of $39,473.51, for one-third of which the plaintiff was liable. It was .also alleged in the answer, and found by the referee,'that on June 30, ■1888, the firm was dissolved by an instrument in writing signed by the three partners.
+• The defendants demand, among other relief, that the contract be reformed to correspond with the agreement entered into. On the trial the defendants offered to prove the allegations contained in their answer, but the evidence was rejected under the objection of the counsel for the plaintiff. This was error.
+It is also urged that the referee erred in rejecting the contract of-January 27, 1887, referred to in the contract of February 16, 1887, ■on which the action was brought. The rejected contract is not contained in the record, and it may have appeared to be irrelevant on its face. "When the appellate court is asked to determine whether the rejection of a document offered in evidence was error, the instrument rejected, or a sufficient statement of its contents, should be contained in the record to enable the court to decide the question. Many of the important dates in the record are clearly erroneous and so confusing that we might well refuse to decide this case and send it back for resettlement, but the error committed is •so patent that we have concluded to decide the appeal on the present record.
+The judgment should be reversed and a new trial ordered before another referee to be appointed on settlement of order herein, with •costs to the appellant to abide the event.
+Yan Brunt, P. J., and Parker, J., concurred.
+Judgment reversed and new trial ordered before another referee to be appointed on settlement of order herein, with costs to the appellant to abide the event.
