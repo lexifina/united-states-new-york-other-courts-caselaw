@@ -1,0 +1,22 @@
+---
+court: "New York Supreme Court"
+decided: "1844-01"
+citations: ["6 Hill & Den. 318"]
+reporter: "hill"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allen vs. Coit and others, impleaded &c."]
+source_url: "https://static.case.law/hill/6/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2176216
+---
+
+# Allen v. Coit
+
+## Majority (By the Court, Cowen, J.)
+
+By the Court, Cowen, J.
+Conceding that the defendants are not liable as parties to the bill, and I think they are not, this does not preclude the plaintiff from showing that he in fact endorsed for the accommodation of the defendants who owned and did business under the name of the Troy and Erie Line. The proof was quite decisive that the drawers, who were the agents of the defendants at Rochester, had, with the privity of the defendants, been accustomed to obtain moneys for them, by a discount of drafts like this. Several of the parties to the draft were OAvners in the line, who, on the evidence, must I think be considered as partners. But whether so or not, the drawers, with the assent of the line, and as their agents, requested the plaintiff to endorse, which he did on the credit of the line ; and on this endorsement they obtained the money, and applied it, as they told the plaintiff they should, in the business of the line. This very transaction was afterwards entered on the line books as raising a debt against it. The bill was not paid at the bank, and the plaintiff was obliged to take it up. It is said, the names of other firms, and not that of the Troy and Brie Line, were on the bill, and the drawers or acceptors only can be charged. That would be true, if the plaintiff were obliged to rest his right of recovery on the bill alone. But he may pass by that, under the circumstances. He may regard it as a mode in which the defendants requested him to endorse and pay money for them. We may, for the purposes of this question, consider all the defendants as actually present, and joining in the request that the plaintiff would, in this form, procure money for them from the bank, to be applied in their business; for what they did through Griffith & Fish, they did themselves. They say, “Sir, get us money on the draft of our agents or, in other words, “ Pay money for us on the draft of our agents.” They thus make themselves principal debtors for the money paid; and the draft is a mere collateral security. Such I take to be the construction which the law places on this transaction. It is not, as the defendants’ counsel supposes, money obtained on the credit of Griffith & Fish, and used by them as their own money; they paying it out for the defendants. The whole begins, progresses and ends on the credit of the defendants. I do not see that the mere mode adopted by the defendants can make any difference. Suppose they had requested the like favor on a bond and mortgage or a judgment of their agents, it would still be, not only in legal effect, but literally, money paid at their request. The plaintiff, therefore, made out a case of money paid for the defendants’ use under the general count. There are several cases in point. •(Denton v. Rodie, 3 Camp. 403; Ex parte Bolitho, Buck's Cas. 100; and see Bank of South Car. v. Case, 8 Barn. & Cress. 427.) The proof was entirely convincing, and there was no question for the jury.
+As to the entry in the books of the defendants, they must all be taken to have had constructive knowledge of it; and it appears they probably had knowledge in fact. As members of the firm, they were affected by the entry, whether made by themselves or their agent Thornton. They must moreover be presumed to have understood its true import. Indeed, the knowledge of their agent was, in this respect, their own knowledge; and the judge was right in allowing him to explain the meaning of the entry, if there was any thing in it which could be considered obscure. That there was any thing wanting explanation, it is difficult to see.
+Whether the draft had been credited to G. P. Griffith & Co. or not, was quite immaterial. The point was, its entry on the defendants’ book as a draft for which they were liable; a draft which entered into their business, and which was recognized as a debt of the Troy and Erie Line in the agreement of the 13th of January. That, connected with the testimony of Fish, the agent, made out a case quite satisfactory in favor of the plaintiff.
+New trial denied.
