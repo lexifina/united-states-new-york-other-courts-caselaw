@@ -1,0 +1,22 @@
+---
+court: "New York Superior Court"
+decided: "1895-01-21"
+citations: ["66 N.Y. St. Rep. 21"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Susan Walther, App’lt, v. American District Telegraph Company, Resp’t."]
+source_url: "https://static.case.law/ny-st-rep/66/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2110686
+cites_cases: ["4 Barb. 438", "49 St. Rep. 629", "59 N. Y. 309", "6 Hun, 516"]
+---
+
+# Walther v. American District Telegraph Co.
+
+## Majority (Gildersleeve, J.)
+
+Gildersleeve, J.
+This is an action for damages for personal injuries sustained by plaintiff by reason of the alleged negligence of defendant in permitting a wire on the roof of Ho. 207 East Fourteenth street, in this city, to become loose from its fastenings, and permitting it to remain in that unsafe condition. The facts of the case, as fairly established by the evidence, are as follows: On or about the 3d day of April, 1889, the plaintiff, who was the janitress of the Flathouse building Ho. 207 East Fourteenth street, went upon the roof of said building, as she had a lawful right to do, about five o’clock in the afternoon, to take in clothing which had been spread upon the clotheslines by the washerwoman dur< ing the day. As she stepped upon the roof, she heard a knock upon the dumb-waiter shaft, which apparently was used as a signal by some of the tenants. The plaintiff started across the roof to see if the signal was intended for her, and, in doing so, she tripped over a fallen wire, and fell heavily, and was severely injured. Upon the trial the jury rendered a verdict in favor of plaintiff.for $4,200; and from the judgment entered thereon, and from the order denying defendant’s motion for a new trial, the defendant appeals to the general term.
+The defendant contends that there is not sufficient evidence to connect the defendant with the accident; that there is no proof of the ownership of the wire by defendant, or of the responsibility of defendant for keeping it in proper condition. It is also contended that plaintiff was guilty of contributory negligence. It seems to us, however, that there is certainly sufficient testimony on the question of the ownership and control of the wire by defendant to call for an explanation from the defendant; and that, in the absence of such explanation, a conclusion is warranted that the defendant did own and control the wire that caused the accident. See Elze v. Baumann, 2 Misc. R. 72; 49 St. Rep. 629 ; Brooks v. Steen, 6 Hun, 516. The information on the ownership of the wire was peculiarly within the knowledge of the defendant, and its neglect to offer any evidence on that point may be taken as suspicious, in view of the plaintiff’s allegations and proof,' and the jury might reasonably and properly infer that the testimony, if offered, would have been adverse to the defendant. See Brooks v. Steen, supra; People v. Mc Whorter, 4 Barb. 438; Bleecker v. Johnston, 59 N. Y. 309, 313. The plaintiff’s evidence indicates that but ohe wire ran from the Flathouse in question, in which was a messenger call, to the building occupied by the defendant’s office, in which building there was no other messenger call offie'e than that of defendant. From that evidence, undenied and unexplained by any testimony offered by defendant, who was certainly in a position to know, the only reasonable conclusion must be that the wire was owned or controlled by the defendant. It therefore seems to us that there was evidence enough to go to the jury on this question of ownership and control of the wire, and that the "jury were justified in their conclusions that the wire was owned and controlled by the defendant, and that the defendant was negligent in permitting the wire to remain in a defective" and unsafe condition. It also seems to us that the plaintiff’s evidence fairly shaw's an absence of contributory negligence. The defendant offered no evidence tending to show any contributory negligence on the plaintiff’s part. This necessary fact to plaintiff’s recovery may,- therefore, be said to be established. We do not find any eriors in the rulings or in the charge that are of sufficient importance to warrant a reversal of .the judgment. The judgment and order appealed from must be affirmed, with costs,
+All concur.
