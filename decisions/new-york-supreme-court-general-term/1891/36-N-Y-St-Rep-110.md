@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-02-20"
+citations: ["36 N.Y. St. Rep. 110"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Henry Griffin, Resp’t, v. Duane C. Jackson and Josephine, Jackson, App’lts."]
+source_url: "https://static.case.law/ny-st-rep/36/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2050760
+cites_cases: ["28 N. Y., 71", "44 Barb., 123", "54 N. Y., 366", "6 Pet., 29"]
+---
+
+# Griffin v. Jackson
+
+## Majority (Hardin, P. J.)
+
+Hardin, P. J.
+Plaintiff before the justice in a complaint in-writing declared “ that the defendants are indebted to him in the sum of $13.25, being for a balance due to him from the defendants for work and labor done and performed for them at their request within six years last past, no part of which has been paid, and for which he demands judgment and costs.” Pleadings are to be liberally construed; especially so in a justice’s' court. The complaint alleges the defendants are “indebted to him,” and states what the sum of that indebtedness is, and also states that it is for balance due to him from the defendants for “ work and labor” done and performed for them at their request. In United States v. State Bank of N. C., 6 Pet., 29, the word “ due” found in a pleading was considered, and Judge Story stated that it was used to express the state of the indebtedness, and that when it was so used it was equivalent to the words “ owed” or “ owing,” and he added that it was sometimes used to express the fact that the debt had become payable. This construction was involved in the court of appeals in Allen v. Patterson, 3 Selden, 480. This case was cited approvingly in Blackmar v. Thomas, 28 N. Y., 71, in the opinion of Balcom, J., in which opinion he said: “The same-strictness in pleading is not required under the Code that was exacted by the courts under our former system of practice.”
+We agree with the learned counsel for the appellant that upon the default of the defendants or their failure to appear before the justice, it became incumbent upon plaintiff to prove his cause of .action by legitimate and sufficient evidence. Armstrong v. Smith, 44 Barb., 123.
+Section 2891 of the Code, relating to justices’ courts, is as follows: “ If a defendant fails to appear and answer, the plaintiff cannot recover without proving his case.” It is insisted in behalf of the appellant that- the plaintiff’s evidence did not make out even aprima facie case. We think otherwise. The plaintiff testified as a witness, viz.: “ I have a claim against the defendants for labor, commencing 28th day of February, 1889, until 17th day of June, 1889; this labor was performed at their request; they have paid me some on the work; there remains due me now on .said labor $13.25, no part of which has been paid; I have demanded the said balance.” In our view the evidence is entirely sufficient to sustain the judgment rendered by the justice.
+In Schoonmaker v. Spencer, 54 N. Y., 366, it was said, viz.: It is the uniform practice of the courts, in reviewing proceedings had before a justice of the peace, if possible, to sustain them by -every'reasonable and warrantable intendment.”
+(2.) It seems the original summons was issued and dated June 22, 1889 ; it was made returnable June 29, 1889. The same was personally served upon the defendants. We do not regard the ■circumstance that the copy served bore, by a clerical mistake, the erroneous date of the summons as of June 29, 1889, of any importance. The body of the summons required the defendants to appear before the justice on the 29th of June. The original summons was correct as to its date, and the clerical error made upon the date of the copies served did not mislead the defendants. We think, for the reasons suggested by the learned county judge in his opinion, that the clerical error was properly disregarded; besides, § 3063 requires the county court, as well as this court, to disregard technical errors which do not affect the merits. We think the judgment of the justice was properly affirmed by the county court, and we must, therefore, sustain its action.
+Judgment of the county court of Lewis county, affirming justice’s judgment, affirmed, with costs.
+Martin and Merwin, JJ., concur.
