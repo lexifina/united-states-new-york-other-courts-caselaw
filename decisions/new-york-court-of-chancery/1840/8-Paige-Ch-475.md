@@ -1,0 +1,21 @@
+---
+court: "New York Court of Chancery"
+decided: "1840-08-04"
+citations: ["8 Paige Ch. 475"]
+reporter: "paige-ch"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mandeville, executor, &c. appellant, vs. Mandeville, respondent."]
+source_url: "https://static.case.law/paige-ch/8/cases/0475-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 480850
+---
+
+# Mandeville v. Mandeville
+
+## Majority (The Chancellor.)
+
+The Chancellor.
+I think the surrogate erred in this case, in supposing that the circumstances of the appellant were so precarious as not to afford adequate security for his due administration of the estate of the decedent; according to the true construction of the provision of the revised statutes under which this proceeding was instituted. (2 R. S. 72, § 18.) It certainly could not have been the intention of the legislature, to prohibit the granting of letters testamentary to any executors except such as are possessed of property, of their own, to the full value of the estate which the testator has authorized and appointed them to administer ; or that an executor should be superseded in his trust, or required to find security, whenever his property was reduced below that of the decedent. Such a construction of the statute would render it almost impossible for a man of a large property to select an executor who would be both able and willing to assume the execution of the trust. The obvious meaning of the statute is, that an executor may be required to give security, whenever the surrogate is satisfied that his circumstances are such as to render it doubtful whether the property will be safe in his hands; to be disposed of, or administered, as directed by the will.
+Here the testimony shows that the executor is a prudent and discreet man in the management of his own affairs ; that he has a farm of 173 acres, with only an incumbrance of $200 on it; which farmland his other visible property, including his own share of his father’s estate, are nearly equal to the whole amount of the trust fund which can by any possibility come into his hands to be administered,. And he is not engaged in any business which will be likely to endanger the trust fund. He is worth at least $6000, after paying the very small amount of debts which he owes; that is, more than twice the amount of the personal estate which will remain for distribution among his brothers and sisters, after offsetting their debts against their respective shares. Also, by the express directions of the will, the funds are not to remain in his hands for any length of time after they shall have been received by him; as he is required to distribute the same as often as he receives to the amount of $50. And as the real estate will unquestionably be sold upon credit, for a part of the purchase money at least, there is no reason to suppose the executor will ever have in his hands at one time funds of the estate, undistributed, to the amount of $2000. Taking the whole testimony together, I do not think there is the least ground for supposing that the trust fund is in any danger ; either from the improvidence of the executor or from any want of pecuniary responsibility. The case of Wood v. Wood, (4 Paige’s Rep. 299,) was entirely different in this respect. There, the executor had no visible property except a contingent interest in the estate itself ; and the trust, as to the greater portion of the fund, was to continue for a very great length of time. He was also in that case about to remove, with the fund, out of the jurisdiction of the state. But none of those grounds for the interference of the court exist in the present case. I think the surrogate, therefore, instead of requiring the executor to give security, should have dismissed the petition.
+For these reasons, the order or decree of the surrogate which is appealed from must be reversed, with costs to be paid by the respondent; and the petition to the surrogate for security must be dismissed. The executor must also be .permitted to retain his costs and expenses of the proceedings before the surrogate, out of the estate in his hands; as a necessary disbursement by him in the discharge of his trust.
