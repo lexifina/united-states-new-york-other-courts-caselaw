@@ -1,0 +1,42 @@
+---
+court: "New York Surrogate's Court"
+decided: "1890-12-08"
+citations: ["34 N.Y. St. Rep. 626"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Last Will, etc., of Benjamin E. Birdsall, Dec’d."]
+source_url: "https://static.case.law/ny-st-rep/34/cases/0626-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2047020
+cites_cases: ["10 Hun, 472", "21 Mich., 141", "26 Wend., 255", "3 Den., 37", "35 N. Y., 559", "38 Mich., 238", "45 Barb., 92", "50 Mich., 448", "52 Mich., 361", "72 N. Y., 269", "77 N. Y., 536"]
+---
+
+# In re the Last Will of Birdsall
+
+## Majority (Adlington, S.)
+
+Adlington, S.
+This decedent died in the town of Mendon in this county on the 22d day of April, 1890, at the age of eighty years.
+His first wife died in 1870. His three daughters were at that time all married and living in separate homes of their own. In 1873 he married his second wife, who survives him.
+Before his secohd marriage he had given to his three daughters $3,000 each. At his death his estate consisted of a farm worth, about $10,000, and some personal property of little value. .
+At about the time of his second marriage he said that he intended to settle on his wife the sum of $5,000; and that amount, was bequeathed to her in a will made by him in 1887, and in the-one now offered for probate, made in 1889, which is similar to the first in all respects excepting a correction in the name of one or more of his grandchildren, who were the residuary legatees.
+His surviving daughters contest his will, and allege that he was mentally incompetent to make it, and that it was procured by the undue influence of his wife.
+" There is not a word in the 450 pages of testimony to sustain the charge of undue influence. Nor is there any evidence that Mrs. Birdsall attempted to exert such influence in her own favor as a wife may fairly and legitimately use.
+The law is well settled that a wife or child may justly influence the making of a husband’s or father’s will in her or his favor, so long as no fraud is practiced upon the testator and he is not deprived of his free agency. Fair argument or persuasion is not obnoxious to the law. Latham v. Udell, 38 Mich., 238; Pierce v. Pierce, id., 421; Blanchard v. Nestle, 3 Den., 37; Ewen v. Perrine, 5 Redf., 642; Tyler v. Gardiner, 35 N. Y., 559.
+The contestants insist also that the provision for Mrs. Birdsall is unreasonably large, and that the will is unnatural in that respect, but I do not so regard it. For nearly seventeen years Mrs. Birdsall had been a faithful wife and helpmeet. She had cared for him in sickness and in health, and appears to have managed well the affairs of his household.
+Three hundred dollars a year would not seem to be an extravagent compensation for such services, considered simply from a pecuniary point of view, and, certainly, $5,000 is a very moderate sum tó provide for the comfortable support and maintenance in old age of an affectionate and faithful wife.
+There remains therefore only the allegation of testamentary incapacity. c,
+There is sufficient basis of fact to make this claim plausible, though not enough to sustain it.
+About thirty years ago Mr. Birdsall had been confined for a short time in an asylum, on account of an acute attack of insanity, from which -he soon recovered. Not far from 1880 he had suffered what the witnesses called “ a stroke,” probably of an apoplectic nature, which affected his vocal organs so that thereafter he could not speak as easily or distinctly as before. For the last five or six years he had also been suffering from a form of progressive paralysis, which had its seat in the spinal cord and so affected his lower limbs as to make walking somewhat laborious for him, and occasionally causing him to stumble and fall. There was also the gradual weakening of the physical and mental powers incident to old age.
+Mr. Birdsall continued, however, to attend to his .business affairs, leased his farm from time to time, sold his crops, made contracts for the sale of standing timber, and for transfer of a part of his land, and executed and delivered a conveyance thereof at about the time this will was executed.
+None of his family ever seems to have regarded him as incapable of carrying on his business, or to have made any attempt to have him judicially declared incompetent to manage his affairs ; but now that he has died leaving a will that displeases them, they insist that for years before his death he was demented and imbecile.
+There is an erroneous impression largely prevalent among laymen, and to some extent among lawyers, also, that though an infirm old man has abundant capacity to make contracts and to manage his ordinary business, he may yet be much too feeble mentally to make a valid will
+Such doctrine, however, finds no countenance in law.
+In the celebrated case of Stewart v. Lispenard, 26 Wend., 255-306, it was said that a man's capacity may be perfect to dispose of his property by will, and yet very inadequate to the mmagement of other business, as, for instance, to make contracts for the purchase or sale of property; and while it is safe to say that the courts of this state would not assent to the soundness of that, proposition to-day, still one’s ability to transact his ordinary business affairs with judgment and discretion, and to manage his-property with reasonable prudence would be considered very strong, if not conclusive, evidence of testamentary capacity, Coit v. Patchen, 77 N. Y., 536; Horn v. Pullman, 10 Hun, 472; aff’d, 72 N. Y., 269 ; Pilling v. Pilling, 45 Barb., 92 ; Crolius v. Stark, 64 id., 112.
+The supreme court of Michigan has taken a view of this question similar to that held by our courts, and has been somewhat more positive and precise in its statement of the rule than our own court of appeals.
+In Kempsey v. McGinniss, 21 Mich., 141, the court says : “ The rule settled by the weight of authority undoubtedly is that a less degree of mind is requisite to execute a will than a contract.” This doctrine was in substance reiterated in Rice v. Rice, 50 Mich., 448-456, in an opinion concurred in by the learned counsel for these contestants, and in which it is further said that “ a will is not to be set aside merely because, its maker was weak or sometimes foolish, or lacked the average mental capacity of his. neighbors.”
+In Horan v. Piquette, 52 Mich., 361, in an opinion also concurred in by the same learned counsel, the principle is enunciated in the following language: “In law one who is competent to deal in property on the basis of contract is competent to dispose of property by will. With surviving relatives there if often a different rule, and persons who have gone through an active life with business competency unquestioned are denied testamentary capacity the moment, a will is produced which does not meet their desires or expectations.” - The same rule prevails in many other states.
+The testimony of the subscribing witnesses shows clearly the testamentary capacity of Mr. Birdsall at the time when this instrument was executed, and in this they are strongly corroborated by the testimony of various persons who had business transactions and conversations with him at about the same period.
+I am of the opinion that Mr. Birdsall was competent to make the will in controversy and that it is a valid instrument..
+There may be a decree entered on five days’ notice.
