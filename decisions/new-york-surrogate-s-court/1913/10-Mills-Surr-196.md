@@ -1,0 +1,26 @@
+---
+court: "New York Surrogate's Court"
+decided: "1913-03"
+citations: ["10 Mills Surr. 196"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of Catherine Brown, Administratrix of Edward J. Brown, Deceased, for a Decree Directing the Disposition of His Real Property for the Payment of His Debts."]
+source_url: "https://static.case.law/mills-surr/10/cases/0196-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1082805
+---
+
+# In re Brown
+
+## Majority (Ketcham, S.)
+
+Ketcham, S.
+In this proceeding, for the sale of decedent’s lands for the payment of debts, the administratrix, pursuant to the decree, has sold the lands at auction and has received earnest money from the purchaser.
+She now asks that the sale be set aside, that a resale be directed and that the amount received by her from the purchaser be repaid.
+The circumstances disclosed are such that the application would be granted if the court could find power to entertain it. Such power is denied by the only known authority on the subject. Matter of Bridgeport Brass Company, App. Div. Second Department, February, 1913.
+The result is harsh and injurious. Human life would be happier and, no doubt, executors and administrators charged with the sale of lands for the payment of debts would find a larger peace and safety if the statutes could only be so construed as to invest the surrogate with the power to control such sales.
+The present condition is, for the present, bad; but no power has yet been given to any human agency to find a law to be other than it is because the law would be better if it were not; This court, however personally fond of ethical justice, cannot usurp the splendid irresponsibility of saying that the refusal of jurisdiction, which is manifest in the written law, must at once be read as if it were a grant of jurisdiction if only it can appear that a truly good and lofty end will be served by the judicial perversion.
+It has been said in the Court of Appeals that the people of the state of New York have not yet been willing to invest their surrogates with all the powers of a chancellor. It is at least equally certain that the people have not committed to this limited court the right to read the law contrary to its obvious meaning. That dread faculty has never been held to belong to anybody except the people themselves.
+The motion must be denied.
+Motion denied.
