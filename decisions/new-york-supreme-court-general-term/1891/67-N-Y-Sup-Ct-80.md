@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-04"
+citations: ["67 N.Y. Sup. Ct. 80"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Daniels and Lawrence, JJ., concurred."]
+parties: ["In the Matter of the Application of GEORGE W. McLEAN, as Receiver of Taxes in the City of New York, Respondent, v. NEW YORK AND SOUTH BROOKLYN FERRY AND STEAM TRANSPORTATION COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/67/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2380048
+---
+
+# McLean v. New York & South Brooklyn Ferry & Steam Transportation Co.
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+This proceeding was instituted to punish the appellant for its misconduct in neglecting and refusing to pay a tax imposed upon its personal property. The petition upon which the order to show cause was founded alleged the imposition of the tax, demand of payment, refusal, return of warrant issued to marshal unsatisfied, and that the tax is still unpaid. The appellant admits non-payment of tax; avers want of knowledge of return of warrant unsatisfied; denies demand and refusal to pay, and avers that at all times it had goods and chattels belonging to and in its possession upon which said tax might have been levied by distress and sale according to law. In answer to the denial of demand, the respondent, the receiver of taxes, averred that on the 16th of January, 1889, a warrant was. issued to one of the marshals of the city of New York for the= collection of said tax, and which had been returned unsatisfied, and. also submitted the affidavits of one John Long to the effect that he1 was the cashier and clerk of said marshal, and while said warrant was in said marshal’s possession in force and unreturned, he, acting for said marshal, duly demanded from the president of the appellant the amount of the said tax.
+Upon these facts the court fined the appellant for its alleged misconduct, the amount of the tax and interest and the costs of these proceedings, and from the order thereupon entered this appeal is taken. The consolidation act, section 818, provides: “The said receiver (meaning receiver of taxes) shall demand payment of all taxes assessed on incorporated companies in the said city from the president or proper officer of such companies, and if not paid, shall proceed in the collection and payment thereof, in the same manner as in other cases, and his receipt shall be evidence of the payment of said tax.”
+Section 853 provides for the issuance of his warrant by the receiver of taxes for the collection of unpaid taxes. It seems to be clear that before the receiver can issue his warrant under section 853, against a corporation which has neglected to pay a tax imposed upon it, the demand required by section 848 must be made. The only proof of demand is that made by the clerk of the marshal, whose whole authority, if he had any, to make the demand sprang from the warrant issued to the marshal. This warrant was void because no demand for payment required by section 848 had been made, and consequently, being void, could confer no authority to make a demand of any kind.
+"Without passing upon the questions as to whether this demand could be made by any other person, duly authorized, than the receiver of taxes or his deputy, or whether a marshal could authorize a deputy to execute a warrant duly issued to him, we are of the opinion that there is no proof that the demand contemplated by section 848 has ever been made, and that the court had no jurisdiction to entertain this application.
+The order appealed from should be reversed, with costs, and the motion denied, with costs.
+Daniels and Lawrence, JJ., concurred.
+Order reversed, with costs, and the motion denied, with costs.
