@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1874-11"
+citations: ["5 Thomp. & Cook 105"]
+reporter: "thomp-cook"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Weed v. Aldrich."]
+source_url: "https://static.case.law/thomp-cook/5/cases/0105-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4464363
+cites_cases: ["1 Bradf. 314", "25 Wend. 118", "25 Wend. 119", "4 Edw. 664", "52 N. Y. 118"]
+---
+
+# Weed v. Aldrich
+
+## Majority (Bockes, J.)
+
+Bockes, J.
+We are of the opinion that the court at special term was right in the exposition then given of the will here brought under examination. It is evident that the testator intended to give' but a life estate in the property to his widow. Such intent, we think, is plainly derivable from the language employed in the instrument. The material part of the will is contained in a single paragraph, which, stripped of all tautology and unimportant verbiage, reads substantially as follows: “After all my just debts are paid, I give and bequeath to my wife Myriam all my estate, both real and personal, for and during her natural life; and at and after her decease, such estate to be equally divided between my two children, William and Mary.” There was also a power of sale of the real property conferred upon the wife, Myriam, with the right, in case of sale, to the use of the proceeds, the same as above expressed. It is very evident that the testator did not intend to give the entire and absolute estate to his wife, but only its use during her life. The terms employed are unmistakable; they are “for and during her natural life”— “ to have, use and enjoy the same, and all proceeds thereof during her natural life.” (“ Proceeds,” referring to the avails of sale, in case of a sale pursuant to the power.) And on her decease disposition was made of the estate to the two children, William and Mary. Not of a portion, or what might remain of the estate after an apprcprition of a part of it by the wife, but, in the language of the instrument, “it is my will that all my estate, either real or personal, be equally divided between my two children, and to the survivor or survivors, share and share alike.” We must assume that the testator understood and intended the fair and legal import of the language he employed to express his purpose. So it was the use and enjoyment of his property that he gave to his wife; and at her decease the same (“all my estate”) was to be equally divided between his two children.
+.. The court at special term was right in holding that the widow was entitled to the use and income of the property, and to no other or greater interest.
+We are also of the opinion that the court correctly held that the two children, William and Mary, took a vested interest at the testator’s death.
+The language of the will is, that at and after the termination of the life estate, all his, testator’s, estate be equally divided between his two childen, William and Mary, “ and to the survivor and survivors, * - * * * * and to their heirs them surviving.” Very similar language to that here employed received construction in Moore v. Lyons, 25 Wend. 119. In this case the rule was laid down that in a devise to one for life, and from and after his death to others or to the survivors or survivor of them, their heirs and assigns forever, the remaindermen take a vested interest at the death of the testator; and further, that in such case words of survivorship refer to the death of the testator and not to the death of the tenant for life, unless from other parts of the will it be manifest that the intent of the testator was otherwise. The case of Moore v. Lyons received a very careful examination, and many decisions are cited fully sustaining the conclusion there declared; and the rule has been repeatedly recognized and followed since. Livingston v. Greene, 52 N. Y. 118; Manice v. Manice, 43 id. 303; McKinstry v. Sanders, 2 N. Y. Sup. 181; affirmed in court of appeals Sept. 22, 1874; Hopkins v. Hopkins, 3 id. 527; Chinn v. Keith, 4 id. 126.
+This subject has been so elaborately discussed in these and other cases, that nothing remains to be suggested. Nor can it be maintained that there is any thing in the will under consideration which should relieve it from the rule of construction above alluded to. On the contrary, it seems the plain intention of the testator, derivable from a full reading of the instrument, that his two children should have his property, subject to its use and enjoyment by his wife during her life. Such is the meaning and legal signification of the instrument in its entirety, with no indication or suggestion of a different intent.
+So, the words “at and after her decease” must be deemed to relate to the period of the enjoyment of the estate, and not to the time of its vesting in interest.
+The views above expressed, if sound, substantially dispose of this case. The right of the deceased daughter to the property passed under her will to the plaintiff, her husband, who was her sole devisee and legatee. He, therefore, holds her position in regard to the property. It will be also readily observed, on looking into the evidence given on the trial, that the court was right in the finding that there was danger of loss of the property devised and bequeathed. Hence, the plaintiff was entitled to the protection of the court in the form decreed.
+The judgment should be affirmed with costs of appeal against the appellants personally. This is not a case,.as we think, where continued litigation should be permitted at the expense of the estate.
+Judgment accordingly.
