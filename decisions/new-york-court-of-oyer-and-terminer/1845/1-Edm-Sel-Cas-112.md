@@ -1,0 +1,31 @@
+---
+court: "New York Court of Oyer and Terminer"
+decided: "1845-05"
+citations: ["1 Edm. Sel. Cas. 112"]
+reporter: "edm-sel-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The People v. John M. Jones."]
+source_url: "https://static.case.law/edm-sel-cas/1/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 201373
+---
+
+# People v. Jones
+
+## Majority (The Court:)
+
+The Court:
+Our statute on this subject goes no farther than to say that persons of any religious denomination, whose opinions are such as to preclude them from finding any defendant guilty of an offense punishable with death, shall not be compelled or allowed to serve as jurors on the trial of an indictment for any offense punishable with death, but is silent as to those who entertain such sentiments without belonging to any religious denomination, and equally silent as to those whose repugnance to capital punishment is not strong enough to preclude their finding a verdict of guilty, but is yet so strong as to bias and warp their judgment.
+Those cases are left open to the general rule of law, which excludes from the jury all who cannot render a verdict according to the evidence.
+The principle sanctioned by this enactment would seem to determine the question, though the statute is vaguely worded, for it is not very clear whether “whose opinions” refers to the religious denomination, or to the individual member of it. But be that as it may, the original provision which found its way into our statute many years ago, was, “ that no quaker or reputed quaker shall be compelled to serve as a juror upon the trial of any indictment for treason or murder,” and the revisers, in recommending the law as it now stands, did so for the purpose Of extending it to “ all persons having the same scruples, which many other sects entertain.” And the present law goes farther than the former did, and not only enacts that they shall not be compelled to serve, but declares they shall not be allowed to serve, and gives the public prosecutor a light to challenge on that account.
+This would seem to indicate plainly enough what was the intention of the law.
+But if this shall not be deemed a legitimate source from whence to seek for knowledge of the meaning of the statute,- and I am aware that some of our judges think it is not—an opinion, by the way, with which I do not accord—still the general principles governing the formation of juries—which principle is recognized in this statute—would lead to the same result. The object is to have an unbiassed tribunal, not necessarily one entirely ignorant of the matter in hand, but one whose mind is so unbiassed, so free from any preconceived-opinion calculated to warp its judgment, as to enable it to be entirely impartial and perform its whole duty, by rendering a verdict, not according to those preconceived opinions, but according to the evidence.
+It is the duty of courts to see to it that both litigant parties—be they public bodies or private individuals—have such a jury.
+Would it bé a discreet performance of that duty to have a Mormon, with his belief in many wives, serve as a juror on a trial for bigamy? To have one who believes in taking life for only a verbal insult, sit as a juror in the case of a homicide growing out of offensive language? Such a line of action would be a mockery of justice.
+It is true that the jury have nothing to do with the punishment awarded on a criminal conviction. They are simply to ■ certify the fact to the court, and it is exclusively for the court to pronounce judgment and award the punishment. And it is improper for the jury, in such a case, to suffer their verdict to be influenced by any such consideration, for in doing so they usurp the powers of both the judicial and executive branches of government, whose province it is to pronounce-judgment and grant pardons. But in this instance now before me, the juror would not only be guilty of this impropriety, but he would suffer that impropriety to warp his judgment from its even balance, and to disregard his obligation to go> solely according to the evidence.
+. I think he must be set aside, and my decision is that he is not indifferent.
+There was nothing else of interest in this case except the following:
+The prisoner was an inoffensive man, and a journeyman mechanic, and he sometimes indulged in drinking ardent spirits. Late one night he was returning from his washerwoman with a bundle of clothes. He was somewhat intoxicated, and met two negroes, who fell upon him and robbed him of his bundle and his pocket-book. When he arose from the ground they had fled, and in his pursuit of them he found a negro man leaning against a lamp-post, whom he supposed was one of his assailants. He demanded of him a return of his things, and, on a denial that he had them, he got into a quarrel with the negro, in the course of which he struck the negro in the neck with his knife, from which death ensued in a very few minutes. The man thus slain had had nothing to do with the robbery, but, being sick, had left his sick room and crawled out into the street to get some fresh air.
+Without waiting to see what was the result, the prisoner went directly to the nearest watch-house and entered a complaint that he had been robbed, and told the police that he had stabbed one of them, who, he guessed, would never rob any body else. The watchmen paid little or no attention to him, except to tell him he shouldn’t get drunk, then, and finally, after he had remained at the watch-house more than an hour, pressing his case upon their attention, he was turned out of doors because his importunity disturbed them. He then retired to his boarding-house, where he awoke his room-mate and told him the story. He remained in town several days, openly going about and telling his story, until, on the third day, being told that a large reward was offered for the discovery of the murderer, he removed to Philadelphia, where, after the lapse of several months, he was arrested and brought to Hew York for trial.
+He was convicted of manslaughter*, for a homicide with a dangerous weapon, without an intention to kill; and the watchman was, by order of the judge, arrested and indicted, for neglect of duty.
