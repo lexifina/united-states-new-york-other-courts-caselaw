@@ -1,0 +1,25 @@
+---
+court: "New York Surrogate's Court"
+decided: "1888-07-06"
+citations: ["17 N.Y. St. Rep. 836"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Estate of William Bradley, Deceased."]
+source_url: "https://static.case.law/ny-st-rep/17/cases/0836-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2008315
+---
+
+# In re the Estate of Bradley
+
+## Majority (Ransom, S.)
+
+Ransom, S.
+The report and supplemental report of the referee in this proceeding, with exceptions to both, are now presented for final disposition. The only question referred back to the referee was as to the actual value of the services rendered by Mr. Stuart, the attorney for the administrator, in the suit against the city, When the report of the referee herein was first presented, it was decided that the sum of $206.32, which had been received by Mr. Stuart, attorney for the administrator, as and for his taxable costs in the suit against the city, should have been charged by the administrator to himself in his account; and, of course, it follows that, as Mr. Stuart received that sum and presumably was entitled to more, the administrator should have been credited therewith.
+The referee now holds that the value of Mr. Stuart’s services as attorney in said suit against the city is $500, and an examination of the testimony seems to fully sustain the referee, and his report is confirmed in that regard. The • fact is that Mr. Stuart, in addition to $206.32, was paid by the administrator $500, and of this amount the administrator must be charged $206.32.
+Consideration of other exceptions to the report of the referee was reserved until the coming in of the supplemental report, and are disposed of as follows:
+The second exception is to the second finding, whereby the administrator is charged with interest at the rate of two and one-half per cent per annum, amounting to $15.61. The testimony shows that he withdrew the principal sum from the trust company and kept it idle for about a year, because he feared it might be attached, and that this was done without legal advice. The exception is overruled.
+The third exception is to the third finding, whereby the amount of the fee of $250 paid to M. J. Murphy is reduced to $50. The testimony offered on this point is conflicting and voluminous. It appeal’s that Mr. Murphy was employ ed and served the administrator both as administrator and individually, and that there is some difficulty in separating the services performed for him as administrator from those performed for him individually. In all cases the report of the referee will be confirmed, unless it be plainly against the weight of evidence or without any evidence to support it. The exception is overruled.
+The fourth exception is directed to the fourth finding, whereby the claim of the administrator against the estate was held not to have been proved. After a careful reading of the testimony and cases cited by counsel, I must sustain the finding. The exception is overruled.
+The fifth exception is overruled.
