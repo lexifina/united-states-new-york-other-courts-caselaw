@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court"
+decided: "1874-12"
+citations: ["10 N.Y. Sup. Ct. 3"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HOLLIS S. POWERS, Respondent, v. JOHN TRENOR, Impleaded, etc., Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/10/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2356998
+cites_cases: ["1 Barb, Ch., 173", "37 N. Y., 502", "9 Wend., 499"]
+---
+
+# Powers v. Trenor
+
+## Majority (Daniels, J.:)
+
+Daniels, J.:
+The motion made to set aside the judgment in this action, was chiefly placed upon the ground, that the attorneys who appeared for the defendant, did so without, authority, and without the service of process upon him. That the summons was not served upon him, either personally or otherwise, is not denied. But it is claimed that the appearance was hy virtue of the authority he had previously conferred upon his son, as his attorney in fact. The clause which created the authority, if indeed that was broad enough for that purpose, is that which was inserted in the power . of attorney, executed in 1868, by which the defendant empowered his son to exercise the general control, supervision and management over all his lands, tenements and hereditaments ; to keep the same in proper repair, and pay all legal assessments and taxes imposed on the same, and all other and necessary expenses in and about the care and management of the same, giving and granting unto his said attorney full power and authority to do and perform all and every act and thing whatsoever, requisite and necessary to be done in and about the premises, as fully to all intents and purposes as he himself might or could do if personally present. Two later powers were produced in answer to the motion, but the authority conferred by them was to perform specific acts, and attend to business particularly described, not including authority to appear in any civil action for the defendant. • And it may well be doubted whether the more comprehensive clause recited, should not receive the same construction. For, although the terms used are general, the authority conferred by them may fairly be assumed as being limited to the particular things the attorney was previously authorized to do.
+But notwithstanding this defective authority, the person so authorized did employ attorneys to appear for the defendant in this action, upon the apparent supposition that his authority was sufficient for that purpose. And they in good faith appeared for the defendant while he was absent from the State, securing, by doing so, all the time which would have been required for the service of the summons under an order of publication. It is not pretended that these attorneys are insolvent, or that the defendant cannot receive ample redress by proceeding against them for any injury he may have sustained by means of their unauthorized appearance, even if that should be in the end determined to be its character. And for that reason, as their appearance was in form regular, the court acquired jurisdiction of the person of the defendant by means of it, and the plaintiff was entitled to proceed upon it, in the action. Under these circumstances, the judgment recovered was regular between the parties to it, and the settled practice of the court is opposed to setting it aside for the mere reason that the appearance was in fact unauthorized. Upon this subject the rule is uniform in courts both of law and equity.
+This was an action in equity to foreclose a mortgage, and sell the premises described in it to pay the debt secured by it. In such an action, the settled practice has been against setting aside a regular default, simply upon affidavits excusing it, accompanied with an affidavit of merits, although in ordinary cases at law the rule is different. The advantages of delay have been deemed sufficient to justify the adoption of more stringent practice than that in this class of cases. In Hunt v. Wallis, it was held to be the settled practice of the Court of Chancery, not to set aside a regular order to take a bill as confessed in a foreclosure suit, or in any other case, where the defendant has any interest or inducement to delay the proceedings, upon a simple affidavit of merits, although an excuse is given for such default. But in such cases the defendant must either produce the sworn answer which he proposes to put in, so that the court may see that he has merits, or must, in his petition or affidavit, state the nature of his defense, and his belief in the truth of the matters constituting such defense; so far, at least, as to enable the court to see that injustice will probably be done, if the order to take the bill as confessed be permitted to stand. And as this rule is not inconsistent with any provision made by the Code of Procedure, it is still continued in force, The application which the defendant made to be relieved from the default taken against him on the merits, was not sufficiently sustained to meet what was required by this rule to render it successful, for, upon all the papers produced, it seemed to be quite certain that no defense existed against the mortgage debt in his favor. The motion therefore was properly denied, and the order appealed from should be affirmed with ten dollars costs, besides disbursements.
+Davis, P. J., and Lawbenoe, J., concurred.
+Ordered accordingly.
+Adams v. Gilbert, 9 Wend., 499; Hamilton v. Wright, 37 N. Y., 502; Brown v. Nichols, 42 id., 26; Am. Ins. Co. v. Oakley, 9 Paige, 496.
+6 Paige, 371.
+Id., 377; Winship v. Jewett, 1 Barb, Ch., 173; Goodhue v. Churchman, id., 596.
+Code, § 469, and Rule 97 of this court.
