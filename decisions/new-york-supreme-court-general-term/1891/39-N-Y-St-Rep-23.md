@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1891-05-11"
+citations: ["39 N.Y. St. Rep. 23"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Amanda Palmeri, Resp’t, v. The Manhattan Elevated Railway Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/39/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2061915
+cites_cases: ["90 N. Y., 77"]
+---
+
+# Palmeri v. Manhattan Elevated Railway Co.
+
+## Majority (Barnard, P. J)
+
+Barnard, P. J
+—The rule is established by the court of appeals that a carrier of passengers undertakes to protect the passengers against the neglect and. wilful misconduct of its servants while engaged in performing the duty which the carrier owes to the passengers. Lynch v. Metropolitan Elevated R. R., 90 N. Y., 77 ; Stewart v. Brooklyn, etc., R. R., id., 588 ; Dwinelle v. N. Y. Central R. R., 120 id., 117 ; 30 N. Y. State Rep., 578.
+The facts proven were that the plaintiff purchased a ticket of one Dayton, the agent of the defendant, at its station at Forty-seventh street and Third avenue, New York. She paid the agent a quarter of a dollar and received twenty cents change. She had some trouble in getting the change as her right to it was disputed by the agent and finally it was given so rudely that part of. it fell upon the floor. The plaintiff picked it up and deposited her ticket in the box and went upon the platform. The agent then went to her and demanded another quarter alleging 'that the one she had given him was counterfeit. She asserted her belief in its being good coin and refused to return the change. The agent then detained her for over half an hour and during this interval called her a counterfeiter and a passer of bad coins and that she was a common prostitute. Assuming these facts to be true the plaintiff can maintain her action against the company. The jury has passed upon the facts and the evidence given by the agent and two other persons who were present is not such as to call for a reversal. The agent states the plaintiff’s money was bad and that she was detained “ from ten to fifteen minutes.” The money was not produced the agent testifying that he “ threw it into the stove.”
+One of the persons who were present did not see the plaintiff give the quarter to the agent. The other witness, Olson, testifies that the agent told the plaintiff when she left the quarter that it was not good, and she said it was good and received the ticket. All the other witnesses agree that she received the change and ticket before any objection was made to the genuineness of the "money.
+The principle established by the cases is broad enough to include not only the false imprisonment but the language used while she was under duress. The injury is one; it grew out of the same transaction; it happene'd at the same time. The arrest was made by the same agent who uttered the bad- language, and this was spoken, while the plaintiff was detained against her will and helpless. The cases above cited, and the cases cited in the opinion, include insult as well as actual violence. The complaint therefor properly set forth the arrest and the incidents thereto, and the proof given on the trial, which included this bad language, was properly received. The cases cited therefor, which show that a corporation cannot utter slander unless it authorizes slander, or the same is spoken by an agent within the general scope of bis authority, have no relevancy to the case presented by the appeal.
+There was a contract for the carriage of the plaintiff as a passenger. The jury had found that she’paid her fare and was given a ticket by which she was allowed to go upon the platform to be carried when the train came. She was prevented solely by the unwarranted act of the agent of the defendant Dayton was a witness for defendant. He was asked if he had not requested one Murphy “ to help him out,” and to that end to give in his name as a witness to the defendant or to the agent Murphy was permitted to so testify, and this -was properly received as an impeaching question. When a witness states a fact, he may be asked if he has not made a statement at war with his testimony upon a particular occasion and to a particular person. If he deny it, or "if he do not remember it, proof may be given that the witness did make such statement. Thus the witnsss goes to the jury with his evidence weakened, it may be, by the impeachment. This rule of evidence is applied in a large proportion of trials of issues of fact. The proof that the plaintiff was a habitual litigant was properly rejected. It was not an issue in the action, and it can only be admitted as tending to impeach the plaintiff as a witness. A love of litigation is not recognized as an impeachment of a witness. It cannot be assumed without proof that the numerous litigations which the plaintiff has had with parties other than the defendant were not meritorious. An admission of such testimony would involve an inquiry into each litigation, and even then the evidence would be inconclusive. A party may bring an action without merit, and that fact of itself would involve no turpitude.
+The judgment should therefore be affirmed, with costs.
+Dykman and Pratt, JJ., concur.
