@@ -1,0 +1,38 @@
+---
+court: "New York Supreme Court"
+decided: "1881-06"
+citations: ["10 Abb. N. Cas. 351"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOCKMAN v. REILLEY."]
+source_url: "https://static.case.law/abbn-cas/10/cases/0351-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 626302
+cites_cases: ["2 Abb. N. C. 404", "20 Hun, 267", "20 Hun, 282", "20 Hun, 537", "42 N. Y. 531", "66 N. Y. 468", "68 N. Y. 227", "77 N. Y. 518", "8 Abb. N. C. 102", "80 N. Y. 320"]
+---
+
+# Lockman v. Reilley
+
+## Majority (Potter, J.)
+
+Potter, J.
+This action is brought to recover the balance of the stipulated purchase-price of certain real estate situated in the city of New York, under a written contract to sell, to purchase, and to pay for at a specified time.
+The complaint alleges that the plaintiff was the owner in fee and possessed of the premises, and that he entered into a contract to convey the same to the defendant for the sum of $18,500, and the defendant agreed to purchase and pay said sum at a time and place specified; and that defendant paid $1,000 thereon, and that plaintiff tendered a deed at said time and place, and demanded payment of the balance of the purchase-price pursuant to the contract; and that the defendant refused to accept the deed and to pay the price.
+All these allegations, except that plaintiff was the owner in fee, are admitted by answer, and the answer denies plaintiff’s title.
+The only question therefore is : “ Had the plaintiff good title to the premises at the time of the tender ?” The only objection to the title is, that it was derived by the plaintiff under a decree of foreclosure of a first mortgage held by plaintiff, and sale under the decree and purchase by the plaintiff, and that the grandchildren of Wm. H. Raynor were not made parties to the foreclosure action.
+It is contended on the part of the plaintiff that they were not necessary or proper parties to cut off the equity of redemption. Their relation to the title rests upon these facts, to wit : Wm. H. Raynor held a second mortgage on these premises. He made his will, by which he gave the residue of his estate, after making several specific legacies, to his widow as executrix and William R. Stewart, John H. Morris and Jonathan Edgar, as executors, in trust, with power to receive the rents and profits of the same and to sell, dispose of, and convey the same at such times and in such manner as to them shall seem proper and best for my estate, and to invest and keep invested thfe proceeds of such sale in United States bonds or bonds of the State of Hew York, or of the city of Hew York, or in first bonds and mortgages.
+He gave and bequeathed, and directed his executors to apply, two sixth parts of said residue to the use of his wife during her natural life, and after her death he gave said two sixth parts of said residue of his estate to any of his children then living, and to the children of those of his children who shall have 'died.
+He then gave to each of his four children, and directed his executrix and executors to apply to the use of each of his said children,the income of one sixth part of said residue during his or her natural life, and after his or her decease he gave said one sixth part of said residuary estate to the child or children- of his deceased child and their issue, with a devise of the share given to each child, upon failure of issue, to his surviving children, or their children surviving.
+The mortgage so held by the testator was foreclosed after his death in the name of his widow as executrix, the other persons named not having qualified, and was bid off by her in her name as executrix and trustee.
+In the action to foreclose the first mortgage, and sale under the decree, the widow and others named in the will as executors, were made defendants as trustees, but none of the children or grandchildren of Wm. H. Raynor were made parties to the foreclosure action. Were they necessary parties in order to cut off the equity of redemption?
+The bond and mortgage held by the testator was clearly personal property. His executrix foreclosed the mortgage and purchased the mortgaged premises at the foreclosure sale, and took the referee’s deed therefor in her name as executrix of the testator’s estate.
+These premises were held by- her as executrix and as personal estate ; and she could convey and transfer the same as personal property (Valentine v. Belden, 20 Hun, 537, and authorities there cited).
+In Valentine v. Belden an administrator had bid off in his individual name, premises covered by a mortgage which he held and foreclosed as such administrator. He contracted to sell the same, and it was held that he could convey a perfect title as administrator, and the vendee should be adjudged to pay the purchase-money and accept the deed.
+The view thus far taken of the question arises upon the simple fact of the purchase by the éxecutrix uncle a foreclosure of a mortgage held by the testator, but there is another view which may be taken of the question arising under the will. Assume that these premises were at the time of the. death of the testator real estate belonging to Mm. By the terms of the will all the testator’s estate, both real and personal, were given to the widow and the others in trust, with power and directions to'converl the same into money and to invest the same into specified securities and to receive and apply the income thereof.
+There was no qualification .or restriction upon the exercise of this power of sale. It was to be done at all events. Here there was the creation of a valid trust, and the legal estate was in the trustee.
+By the terms of the will, at the death of the testator, all the real estate of the testator was converted into personalty, and there was no equity of redemption in the grandchildren of the testator (Fisher v. Banta, 66 N. Y. 468; Morse v. Morse, 23 Alb. L. J. 473; 12 Weeldy Dig. 259; Kinnier v. Rogers, 42 N. Y. 531).
+I am referred to the case of Argall v. Raynor (20 Hun, 267), by the defendant. That was a motion to compel the purchaser at foreclosure sale to pay the bid and complete the purchase. In that case a foreclosure sale had been made under a mortgage covering the premises owned in part by this same testator, and his grandchildren had not been made parties to the foreclosure action. The court did not in that case hold that there was an equity of redemption or any legal estate in the grandchildren. The court, following the opinion of the court of appeals in Jordan v. Poillon, 77 N. Y. 518, simply declined to pass upon the question of title on a mere motion, when all the parties, who might at some future time raise the question, were not before the court, and of course dot bound by the decision.
+But I apprehend that when the question is raised in an action between the vendor and vendee at a private and voluntary sale, the court cannot pass by or avoid deciding the question.
+The parties have made a contract: the one to give a title in fee, and the other to pay a stipulated price for it. The plaintiff claims he has tendered what the defendant agreed to purchase of him, viz. : a title in fee to the subject of the contract, and the court must and should decide whether the allegation is true. The plaintiff is entitled to have the judgment of the court, that what the plaintiff agreed to convey he is able to convey, and that the defendant must pay what he agreed to pay.
+Plaintiff should have judgment for the purchase-price, interest and costs.
