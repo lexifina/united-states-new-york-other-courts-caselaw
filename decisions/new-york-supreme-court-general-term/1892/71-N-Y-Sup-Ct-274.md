@@ -1,0 +1,35 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1892-05"
+citations: ["71 N.Y. Sup. Ct. 274"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VICTOR S. FLECHTER, Respondent, v. GILBERT E. JONES, as Treasurer of “The New York Times,” Joint-Stock Association, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/71/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4654723
+---
+
+# Flechter v. Jones
+
+## Dissent (O’Brien, J. Van Brunt, P. J.:)
+
+O’Brien, J.
+(dissenting):
+This action is brought to recover damages for the publication of a libel which is set out at length in the complaint. The answer contains, first, a general denial; second, a further and separate 'defense is set up, prefaced by the statement that the defendant repeats and makes part of this defense the denial contained in the first defense, and avers. There then follows in this defense various allegations, evidently intended as a justification because not stated as a partial defense. To this plaintiff demurred, on the ground that the same was insufficient in law upon the face thereof and constitutes no defense.
+In sustaining the demurrer the learned judge below correctly stated the rule to be applied in determining the sufficiency of a defense in an action of this character: “ It is thoroughly settled that the justification must be as broad as the charge made, and of the very charge sought to be justified.” Leaving, therefore, out of consideration the first paragraph of this second defense, which contains a reiteration of the denials which form the first defense, the first question to be determined is as to whether or not the justification set forth in the second defense is as broad as the charge made.
+The libel complained of charges, among other things, that one Bendix brought suit against Flechter for having obtained money under false pretenses; that, morally, Bendix won the suit, for Flechter at no time attempted to prove that the instrument was anything more than a base counterfeit. The justification alleges the sale of a violin by plaintiff to Bendix under fraudulent statements, but says nothing about the suit, or that Flechter did not attempt to prove that the instrument was anything more than a base counterfeit: So in respect to the libel complained of, that in a suit for libel brought by plaintiff against one Prof. Franko, a musical director, who called him a liar and a thief, the answer seeks to justify this charge by alleging the prosecution of Franko for the writing of a letter, which, it is stated, might sustain the charge that plaintiff is a liar, but not that he is a thief. So in respect to the charge that certain witnesses testified that they would not believe the plaintiff under oath, it is not claimed that one of them named Banner ever so testified. Another instance of the failure to make the justification as broad as the charge is to be found in respect to that part of the article which charges the plaintiff with smuggling and with perjury.
+It is unnecessary, however, for us to particularize or point out in the voluminous pleadings, such as are here presented for the consideration of the court, the instances wherein there is a failure to make the justification as broad as the charge — which is required in order to have it constitute a complete defense ■— enough having been already stated to show that the test thus applied to the answer will demonstrate that the defense, as a justification, is not sufficient under the rule which requires that the matter alleged in support of the charge must be as broad as the charge and must cover the precise charge.
+The only question, therefore, that is presented for our determination is, whether the general denial which is set forth in the first defense, and which precedes, in the second defense, the allegations referred to and to which objection has been made by the demurrer, saves the pleading from the result that otherwise must follow of being obnoxious to demurrer. In other words, will the fact that the second defense contains a general denial, which is a reiteration of a first defense where the other facts set up as a justification are insufficient, prevent a demurrer lying to the entire defense.
+By the first defense "the defendant availed himself of his right to interpose a; general denial. And, it seems to us, that to permit the defendant, in a pleading of several pages in length, which is otherwise open to demurrer, by merely repeating, in introducing a second defense, a general denial, to escape the effect of a bad pleading, would be to regard the form rather than the substantial requirements of the Code and of common sense in reference to pleadings. The effect would be to allow the denial which" is contaihed in and used as a first defense, by repeating it, to be made available as a second defense, and thus have the same thing twice repeated as two defenses to a cause of action set forth in a complaint. Such a practice, if permitted, would justify the insertion, coupled with a general denial, of any statements however insufficient as either a partial defense or a justification, and thus take away a right given by the Code of testing the sufficiency of a pleading by demurrer.
+"We do not think, in a case of this character and in reference to a pleading such as the answer here set forth, that the plaintiff should be compelled, either to wait until the trial of the action and avail himself of his objection when evidence was offered to sustain the defense, or to resort to a motion to strike out the objectionable portions of the answer as irrelevant or redundant. The defendant had the right either to plead justification, or to set forth facts which would constitute a partial defense in mitigation of damage?; but in tbe latter case they should be accompanied by an allegation showing the purpose for which such facts were stated. Where, therefore, a defendant attempts to set forth, as. a defense in justification, facts which might be available, if stated to be for that purpose, as a partial defense in mitigation, objection may be taken by demurrer.
+We think, therefore, that the judgment was right and should be affirmed, with costs, and with leave to the defendant to withdraw -and amend or answer over.
+Van Brunt, P. J.:
+I do not think that with a general denial ineorporaxeu in a defense, no matter how often repeated, can such defense be demurrable. 'The evils pointed out by Mr. Justice O’Brien from such a form of pleading can be remedied by a motion to strike out the excessive denial as redundant but no part of a pleading can be stricken out •on demurrer.
+
+## Concurrence (Andrews, J.:)
+
+Andrews, J.:
+I concur in the opinion of the presiding justice, that a defense which contains a general denial is not demurrable. The judgment should be reversed, with costs.
+Judgment reversed, with costs.
