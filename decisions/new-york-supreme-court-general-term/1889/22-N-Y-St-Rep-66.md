@@ -1,0 +1,25 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1889-02-11"
+citations: ["22 N.Y. St. Rep. 66"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of Opening Marine Avenue in the Town of New Utrecht."]
+source_url: "https://static.case.law/ny-st-rep/22/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2020622
+---
+
+# In re Opening Marine Avenue
+
+## Majority (Pratt, J.)
+
+Pratt, J.
+—It is a sufficient answer to appellant’s contention that the point made now was not raised below when the report of the commissioners was presented for confirmation.
+The appellant did contend that there was an insufficiency and inequality in the assessments and awards which were-duly answered by the commissioners and passed upon by the court, but the precise point that lot 167a was not-assessed at all was not raised and upon well settled principles he is precluded from raising that question now.
+But he utterly fails to show that this lot was not assessed. Such a fact is not stated in any affidavit while the commissioners state in their report that they 16 did assess the-amount thereof, together with the expenses attending. •such award and assessment upon the land and premises which, in their judgment, would be benefited by the opening of said avenue in proportion to the benefit accruing to them by reason thereof and extending to the distance of 350 feet on each side thereof.
+It is plain from this language that the lot marked 167a "was assessed with the lot 167, or rather the assessment was included in the latter lot as one piece of land, as in fact it was, the line upon the map dividing the same being imaginary.
+The appellant therefore fails upon the facts presented to show any error committed by. the commissioners in the matter of awards and assessments.
+Order affirmed.
+Dykman, J., concurs; Barnard, P. J., not sitting.
