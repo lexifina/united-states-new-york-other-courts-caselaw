@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-04-11"
+citations: ["30 N.Y. St. Rep. 713"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Clement, Resp’t, v. The New York Central & Hudson River R. R. Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/30/cases/0713-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 669586
+cites_cases: ["70 N. Y., 410"]
+---
+
+# Clement v. New York Central & Hudson River R. R. Co.
+
+## Majority (Macomber, J.)
+
+Macomber, J.
+This action was brought to recover the value of 160 barrels, belonging to the plaintiff, which were shipped from Georgetown, D. C., to him at Lockport, N. Y. The cargo arrived in Lockport safely, but instead of being delivered to the plaintiff it was delivered by the defendant’s agent to other parties.
+The answer avers that such delivery was made to other persons than the plaintiff through mistake, and that other barrels of equal value were offered to be delivered to the plaintiff, which offer was refused by him. It also sets up a tender to the plaintiff of the sum of $176 before action, and a deposit of the same since the action was brought, with notice of such deposit. It also puts in issue the value of the barrels as alleged in the complaint.
+The defense has no -merits except upon the question of the value of the property! It is contended by the learned counsel for the appellant that there was no proof of such value except the general proof of the value of other carloads of barrels sold at about the same time. This point, however, overlooks the important evidence in the case of the plaintiff, on his cross-examination, where he says that the particular carload of barrels in question was worth $1.20 a barrel.
+It is further contended that the action for conversion of property cannot be maintained against this defendant, because the loss of the barrels was through the involuntary mistake or negligence of the defendant. The conversion of property, however, is abundantly established by the fact that the defendant, as a common carrier, received it in good order at its place of destination, properly consigned to the plaintiff, and, on demand of the delivery of the same refused to deliver it. These facts constitute a conversion of property. The case of Magnin v. Dinsmore, 70 N. Y., 410, is not applicable to the facts here disclosed.
+It is further argued, that the question of wrongful and intentional delivery to a third party should have been submitted to the jury. But the answer is a complete refutation of this proposition, because it alleges affirmatively the receipt by the defendant, at Lockport, of 160 barrels, and the delivery of them by their agents to Densrnore Bros., and not to the plaintiff. It is true that the answer seeks to elude responsibility on the ground that such delivery was an inadvertence and a mistake, but the law governing common carriers does not permit any such evasion of responsibility. It was the duty of the defendant either to deliver this identical property so received by it in good order at its destination, or to pay its full value. The tender made by the defendant is not warranted by § 731 of the Code of Civil Procedure. The action was not to recover “ damages for a casual or involuntary injury to property.”
+The judgment and order appealed from should be affirmed.
+Dwight, P. J., concurs; Corlett, J., not sitting.
