@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-06-19"
+citations: ["16 N.Y. St. Rep. 776"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Harriet Morey."]
+source_url: "https://static.case.law/ny-st-rep/16/cases/0776-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2004655
+cites_cases: ["15 N. Y., 369", "63 N. Y., 234", "74 N. Y., 482"]
+---
+
+# In re the Estate of Morey
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The respondent alleges in her petition that, she is a legatee under the will of Henry Morey, which has. been duly admitted to probate, and also that there is justly due to her from the estate of the decedent for services rendered to her in her lifetime the sum of $1,349.22, for which a judgment was duly rendered against the executor of the decedent, Harriet Morey, and prays for a judicial settlement, of the account of the. executor, for. the payment of the judgment and also the legacy. Upon this petition a citation was issued requiring the executor to show cause why he should not render a satisfactory account of his proceedings, why a decree should not be made requiring him to pay to the petitioner the amount of her legacy under the will and also the amount of her judgment against the estate.
+The answer alleges in reference to the claim, the recovery of the judgment mentioned and also that the legacy in the will was as follows:
+“I give and bequeath to Elizabeth De Witt, of the city of New York, which she is to accept and receive in place of all claims that she may have against me.”
+The proceedings resulted in the decree which granted so much of the petition only as prayed for the payment of the legacy, with leave to renew the application for the payment of the judgment, when the proceedings to review it had been completed, it having been alleged that proceedings to review it had been adopted.
+The legacy, it will have been observed, was given in pay-of all claims against the decedent, and the intention of the testatrix was therefore clear and beyond doubt that only $100 was intended as a payment of any such claim. The courts have held that a legacy to a creditor is not to be deemed a satisfaction of his claim unless so intended by the testator (Boughton v. Flint, 74 N. Y., 482; Phillips v. McCombs, 53 id., 496; Reynolds v. Robinson, 82 id., 107), inasmuch as a legacy implies a bounty, and not a payment. But when it appears that the legacy is intended as a payment of all indebtedness, the legatee accepting must conform to all its provisions, and renounce every right inconsistent with it. Havens v. Sacketts and Havens, 15 N. Y., 369.
+Courts of equity proceed upon the rule that there is an implied condition that he who accepts a benefit under the instrument, shall adopt the whole, and conform to all its provisions, and renounce every right inconsistent with it. Chipman v. Montgomery, 63 N. Y., 234. Section 2718 of the Code declares that the surrogate, in a proceeding to enforce the payment of a legacy, must dismiss the petition without prejudice to an action or an accounting in behalf of the petitioner, where the executor or administrator files an answer duly verified, setting forth facts which show that it is doubtful whether the petitioner’s claim is valid and legal, and denying its validity and legality absolutely or upon information and belief.
+Applying the principles enunciated by the cases cited, it is the duty of this court to reverse the order of the court lie-low, directing the payment of the legacy, unless the respondent petitioner stipulates to satisfy the judgment, in which case the order will be affirmed without costs; otherwise the decree appealed from must be reversed, with costs of the appeal and disbursements.
