@@ -1,0 +1,24 @@
+---
+court: "New York Surrogate's Court"
+decided: "1892-01"
+citations: ["29 Abb. N. Cas. 117", "21 N.Y.S. 102", "1 Pow. Surr. 243"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LANG v. HOWELL."]
+source_url: "https://static.case.law/abbn-cas/29/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1971256
+cites_cases: ["1 Connoly, 313", "10 Pick. 507", "117 N. Y. 471", "21 Abb. N. C. 231", "22 N. E. Rep. 1120", "4 Dem. 227", "4 Hun, 406", "53 Hun, 511", "6 N. Y. Supp. 133", "6 N. Y. Supp. 276", "74 N. Y. 539", "9 N. Y. Supp. 457"]
+---
+
+# Lang v. Howell
+
+## Majority (COFFIN, S.)
+
+COFFIN, S.
+The portion of the will supposed to be-especially bearing upon the question as to what the decree should provide, under the circumstances, appears to-be as follows: “All the remainder of my possessions I give to my nearest relative Cecilia A. Howell; at her death the property to be divided equally between her three daughters.”
+The rule, as I understand it, is that where the gift to-the first taker is absolute in its terms, the gift will be deemed an absolute one, and a gift over would be void for repugnancy (2 Jarm. 53 ; Bell v. Warn, 4 Hun, 406; 2 Washburn on Real Prop. ch. 7, § 5, sub’d. 11; Merrill v. Emery, 10 Pick. 507, 512). However this may be, as there was no trust created by the will, and no debts, as alleged, Mrs. Howell could receive the legacy, even if it were for life only, and it was in the discretion of the executor and for his protection to exact from her a proper receipt or security. The surrogate has no authority to require from a life tenant security for the remaindermen, after the legacy has been paid, even if he can before (see Matter of Shipman, 53 Hun, 511). That may be done by some court, of general jurisdiction on the application of a remainder-man, where .the circumstanc.es seem to require it (Ib.; Fernbacher v. Fernbacher, 4 Dem. 227, and cases cited; Redf. Law & Pr., 597, and cases cited [4th ed.]). But the' dis. posal of the case does not wholly depend upon the determination of these questions.
+The executor, Lang, seems to have had the sole management of the estate. He, in his account of proceedings filed, charges himself with the whole amount of the inventory, and then proceeds to credit himself, in detail, with the legacies paid—such legacies exactly amounting to the sum of the inventory. The daughters of Mrs. Howell were of full age, had been cited, and made no objection to the credit claimed for the legacy he had paid to their mother. He states in Schedule “ A,” “ that all the property of Eliza Stringer was given or devised as hereinafter stated,” and then says “ there were no debts, except the money due from the savings banks stated in said inventory, which were delivered to the legatee, Cecilia A. Howell, by me.” Then in Schedule “ B,” he states that “ all the articles mentioned in said inventory, were delivered to the legatees ” (among which were the bank pass-books) of which he received, in value $265.45, and his daughter $40. Beside this, the executor was, by. the will, made devisee of a part of the real estate for the term of five years. The value of the personal estate, so delivered to Mrs. Howell as legatee, appears to have been about $6,200. She was, undoubtedly, right in receiving it, and, as it was paid to her by him with, of course, a full knowledge of his actual or pretended claim against the deceased, this court has no power to compel her to refund any part of it in order to satisfy his claim, his commissions, costs and expenses of the accounting, or the like. Such relief as he claims must be sought in some other form. It would be an unprecedented proceeding, where the executor had paid out all of the assets to the legatees, to decree that they should refund sufficient to pay his commissions and expenses of accounting ; and equally so, to satisfy any other claim of his (Adair v. Brimmer, 74 N. Y. 539-558; In re Underhill, 1 Connoly, 313, affirmed by the General Term of third department, and by the court of appeals in 117 N. Y. 471). In the last case the court says: “ When it is determined that an overpayment has been made by the executor, in legal contemplation, the excess is in his hands.” Although executrix, Mrs. Howell’s position as legatee is the same as that of any other legatee, and the effort of the executor is, in effect, to recover back a part of the legacy he claims to have paid her in excess of what he should have paid. For this purpose he must resort to some other forum as already stated.
+The decree should direct that the executor should be awarded the several sums as fixed and claimed by him, to be paid, however, out of any assets remaining in his hands, or that may hereafter be received by him.
+See note in 21 Abb. N. C. 231.
