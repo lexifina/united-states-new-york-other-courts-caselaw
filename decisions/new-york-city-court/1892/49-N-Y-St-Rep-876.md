@@ -1,7 +1,7 @@
 ---
 court: "New York City Court"
 decided: "1892-12-07"
-citations: ["49 N.Y. St. Rep. 876", "20 N.Y.S. 898", "49 N.Y. St. Rep. 878", "20 N.Y.S. 899"]
+citations: ["49 N.Y. St. Rep. 876", "20 N.Y.S. 898"]
 reporter: "ny-st-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["David S. Paige, App’lt, v. Nathan A. Chedsey et al., Resp’ts."]
 source_url: "https://static.case.law/ny-st-rep/49/cases/0876-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2093515
-cites_cases: ["5 Hill, 560", "60 N. Y. 648", "60 N. Y., 648"]
 ---
 
 # Paige v. Chedsey
