@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1895-03"
+citations: ["92 N.Y. Sup. Ct. 367"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Follett and Parker, JJ., concurred."]
+parties: ["M. Jacoby & Company (Limited), Appellant, v. George D. Payson and Another, as Executors, etc., of Elisha J. Denison, Deceased, Respondents."]
+source_url: "https://static.case.law/ny-sup-ct/92/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5775568
+cites_cases: ["1 Sweeny, 64"]
+---
+
+# M. Jacoby & Co. v. Payson
+
+## Majority (Yan Brunt, P. J.:)
+
+Yan Brunt, P. J.:
+The submission of this question to the jury was duly excepted to, and the question presented upon this appeal "is whether upon the conceded facts there was anything to go to the jury upon any such issue.
+In the determination of this appeal it is not necessary to pass upon the question as to whether an agent entitled to collect moneys on behalf of his principal has authority to indorse for purposes of collection such commercial paper as may come into his possession as such agent. . It is undoubtedly the established rule that such agent has no authority to make an indorsement which imposes any liability upon his principal. This seems to have been the rule which pervaded the cases cited in the case of Holtsinger v. National Corn Exchange Bank (1 Sweeny, 64). We find in each of the authorities cited to sustain the conclusion of the court that there was a negotiation of bills received by the agent and indorsed in the name of the principal by the agent, thereby creating an obligation upon the part of the principal to pay in case of a failure upon the part of the makers of the paper to provide for its payment. It has not, however, been authoritatively determined that where an agent receives commercial paper in the course of the collection which he is authorized to make for his principal, he may not indorse such paper for the purpose of collection, and for the purpose of collection only, it being suggested that such an indorsement is not creating any liability in the name of his principal, but is simply the gathering in of the money which the agent is authorized to receive and remit to his principal.
+In the case at bar, however, this feature in respect to the indorsement seems to have been absent. Although the question as to Dennison’s good faith was submitted to the jury, and seems to have been resolved in his favor, the conceded facts of the case show that he received this check belonging to the plaintiffs, indorsed in their name by their agent, for the purpose at least of partially paying the agent’s debt to him. He, therefore, knew at the time that this check was received bearing this indorsement, that in paying his individual debts with that check the agent was not acting in his master’s business. It was apparent that the agent was not acting within his authority. There was nothing in the relations between the'principal and the agent which authorized the agent to apply his principal’s money towards the liquidation of his own debt. And as has already been suggested, when Dennison received this check, indorsed as it was by the agent, he knew that the agent was violating his authority, because at best he only had the right to receive the money for the purpose of transmission to his principal.
+It is true that there was some attempt upon the trial -to show that there was some indebtedness from the principal, to the agent on account of commissions. But no definite • evidence in that regard was given. There was no proof that any of this money was due to this agent on account of .commissions. There was some pretense that some commissions were due, but that certainly is not sufficient to justify an appropriation to his own use of a principal’s money by an agent; and a party who aids an agent in a scheme of that description cannot be said to be acting in good faith. Therefore, as matter of law, it would appear that Dennison did not receive this check in good faith, as he knew that the agent was misapplying at least a portion of the proceeds. This misapplication to the knowledge of the party advancing the money, or rather the balance of the money, necessarily tainted the whole transaction and charged him with knowledge that the agent in making the indorsement was not acting on behalf of his principal.
+Under such, circumstances it would seem that there was no question for the jury, there being no dispute in regard to the facts, and that Dennison, as matter of law, could not be held to have accepted the check in good faith relying upon an apparent authority.
+The judgment and order should be reversed and a new trial granted, with costs to the appellant to abide .the event.
+Follett and Parker, JJ., concurred.
+Judgment and order reversed, new trial granted, costs to appellant to abide event.
