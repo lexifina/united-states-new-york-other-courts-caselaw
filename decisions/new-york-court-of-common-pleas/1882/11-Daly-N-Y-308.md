@@ -1,0 +1,36 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1882-12-04"
+citations: ["11 Daly (N.Y.) 308"]
+reporter: "daly-ny"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jacob New, Respondent, against Jacob Fisher et al., Appellants."]
+source_url: "https://static.case.law/daly-ny/11/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1604861
+cites_cases: ["1 Denio 281", "1 Denio 317", "15 N. Y. 587", "16 Abb. Pr. 221", "2 Edw. 94", "3 Edw. 458", "3 Hill 564", "3 Park. Cr. 73", "44 N. Y. 415", "45 N. Y. 102", "52 N. Y. 306", "55 N. Y. 235", "59 N. Y. 89", "6 Abb. Pr. 70", "6 Hill 144", "63 N. Y. 176", "8 Abb. Pr. 234", "80 N. Y. 364", "81 N. Y. 370", "82 N. Y. 339"]
+---
+
+# New v. Fisher
+
+## Majority (Van Brunt, J.)
+
+Van Brunt, J.
+[After stating the facts as above.]—It seems to me clear that under the stipulation referred to, the defendant Bernheimer is precluded from taking this appeal. He stipulated with the plaintiff, in order to be allowed to remain in possession of the mortgaged property, that should the mortgage be determined to be a valid lien by the judgment or decree of a court of competent jurisdiction, he would pay to the plaintiff or his assigns out of the proceeds of the mortgaged property so much of the amount of the mortgage debt with interest as should be directed to be paid by such judgmént or decree. A decree has been made directing a certain sum to be paid. This was a judgment or decree of a court of competent jurisdiction, and Bernheimer therefore under his stipulation is bound to pay.
+It is true that there is no express waiver of a right to appeal from the judgment to be entered, but that it was the understanding of the parties that the determination of a court of competent jurisdiction that the mortgage was valid should end the contest is evidenced from the whole tenor of the stipulation.
+Mr. Bernheimer having received the advantage which he deemed important, of remaining in possession of the mortgaged property and selling the same with the other assigned property, now must be held to his part of the stipulation, viz:—that he would pay upon the determination of a court of competent jurisdiction that the mortgage was valid. He cannot be allowed to receive the benefits of the stipulation and then not be bound by its terms when it restricts his legal rights. The stipulation did not provide that the payment should be contingent upon the final judgment or decree of a court of competent jurisdiction, but its language and spirit were fulfilled when a judgment* or decree of a court of competent jurisdiction establishing its validity was affirmed.
+A court of appeal has a right to enforce such an agreement between the parties.
+In Townsend v. Masterson (15 N. Y. 587), it was expressly held that the Court of Appeals would not entertain an appeal where there had been a stipulation not to appeal; and it seems to us that the stipulation in question upon the part of Bernheimer is in spirit an agreement not to appeal.
+This disposition of the case as to Bernheimer, however, does not affect the question raised upon the appeal by Fisher. Fisher’s defense was usury. He swore to facts from which if true usury might have been found by the court. The plaintiff is examined and contradicts the evidence of Mr. Fisher, tending to support the plea of usury. Upon cross examination the plaintiff is asked the following question:—
+“ Llave you at any time received from the defendant Fisher more than the rate of 6 per cent, per annum for any money that you have loaned to him?” Ans: “I have not received any money from Mr. Fisher; I only received some notes where he put on his interest.”
+A motion was made by the defendants to strike out the answer as not responsive, and the answer was allowed to stand. The counsel for the defendants then stated that if the witness makes the objection or refuses to answer upon the ground that he may criminate himself, then the witness may be excused from answering. The witness then states that he refuses to answer that question. The defendants’ counsel then put the question : “ Why did you refuse to answer that question?” This question was objected to, and the court stated that he would not compel the witness to answer that question, and an exception was taken by defendants. Then the counsel for defendants asked the witness; —“ The reason why you refuse to answer that question, is it because the answer may criminate you ? ” This question was objected to, the objection sustained, and the defendant excepted; and the court stated that he would not compel the witness to answer.
+It would seem, if the counsel for the defendants had the right to pursue the line of examination which he was entering upon by way of cross-examination, that the record shows no sufficient reason for the witness not answering the question.
+Where the answer to a question may tend to criminate or degrade a witness, it is undoubtedly the privilege and duty of the court to instruct the witness as to his legal rights, and the witness then has the right to claim his privilege ; but the party seeking the evidence has the right to make the witness claim his privilege, and to the statement by the witness that he refuses to answer because the answer may criminate or degrade him. The privilege is entirely personal, and must be claimed as such by the witness.
+In the case at bar upon the record there is simply the refusal of the witness to answer the question—for what reason is not disclosed. Such refusal may have been based upon the idea that the answer would criminate or degrade him. As far as the record discloses it may have been because the witness thought that it would suit his purpose better to Refuse to answer the question than to answer it. This was not bringing the refusal of the witness within the rule respecting privilege, and if it was a proper question for the defendants’ counsel to put, its exclusion was error.
+As has been said, the issue between the plaintiff and defendant Fisher was usury. Fisher had given evidence tending to prove the usury: the plaintiff had denied the usury, and upon cross-examination he was asked this question.
+I know of no reason why the defendant had not a right to pursue this line of interrogation. It is true that it was collateral, and that the defendant would have been bound by any answer which the witness might make ; but it is also true that in view of the nature of the testimony of the witness, the evidence which this question might bring out, that the plaintiff had been in the habit, in the loans which he made to Fisher, of taking more than the legal interest, might have tended to discredit his evidence in reference to the transaction under investigation.
+Under these" circumstances we cannot see but that, the defendants were deprived of testimony which they were entitled to get from the plaintiff upon cross-examination.
+The appeal of the defendant Bernheimer must therefore be dismissed with costs of motion, and the judgment as to Fisher reversed and a new trial ordered, with costs to abide the event.
+Beach, J., concurred.
+Order accordingly.
