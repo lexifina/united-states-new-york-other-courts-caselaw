@@ -1,0 +1,28 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1883-12"
+citations: ["38 N.Y. Sup. Ct. 125"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnard, P. J., concurred; Pratt, J., concurred in the result."]
+parties: ["THE PEOPLE OF THE STATE OF NEW YORK ex rel. JETHRO W. WHEELER, Respondent, v. THE LONG ISLAND RAILROAD COMPANY, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/38/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4480188
+---
+
+# People ex rel. Wheeler v. Long Island Railroad
+
+## Majority (Dykman, J.:)
+
+Dykman, J.:
+This is an appeal from a judgment in favor of the plaintiff awarding a peremptory writ of mandamus commanding the defendant to increase its railroad facilities and run passenger trains over its railroad running between the stations of Jamaica and Springfield via the stations of Locust avenue, in Queens county, and stop the same at Locust avenue in such manner as to furnish reasonable facilities to the public to proceed from said station at Long Island City in the morning, and to return from Long Island City to said station of Locust avenue at night at hours having a reasonable regard to the usual business hours of'the day in the city of New York, and to furnish all necessary and reasonable railroad facilities to the public at Locust avenue station and in traveling thereto and therefrom. ¡
+When this judgment was made there was a freight train with a passenger car attached running eastward from Long Island City, stopping at Locust avenue station in the morning and on its return in the evening, but no train from that station in the morning or to it in the evening. The number of houses at that station occupied by persons doing business in New York or Brooklyn in May, 1882, was five, and the number of houses built there since the construction •of the railroad is four. The number of commuters from the station in May, 1882, was five, and the receipts of the road at this station have been gradually diminishing from $274.69, in 1877, to $1.98.23, in 1881. The extra expense for maintaining the road-bed for full passenger travel would be about $1,500. During the sixteen months prior to the change complained of, from six or seven trains ■each way daily to one, the average number of passengers from this station was less than one each way daily. The station at Jamaica ■on this road, where all the trains stop, is about two miles from Locust station, and the relator can take the trains there by going about a mile and a-half.
+These are the main facts and it will be seen that the defendant has not abandoned its line of road via Locust avenue station. It operates one train daily each way over this line, and has not abandoned the exercise of its corporate powers and’privileges. No action could be maintained to annul the franchise on the ground of non-user.
+Is xhis, therefore, a case where the court should interfere to compel the defendant to impart further facilities to the station in question ? Railroad companies are trading corporations clothed with piublic functions in the sense that their ownership of property is private and their management is for the advantage of the corporation, yet in many essential particulars they differ from ordinary private corporations. Power is conferred on them to invoke the exercise of the right of eminent domain and they are endowed with franchises which they hold in trust for the public good. Their roads are public highways and the land over which they are constructed is condemned for a public use. They, therefore, owe a duty to the public to exercise the franchise granted them by the State.
+But, while it is quite true that by the railroad law of the State, all railroads constructed under it are maintained for the public use, and the duty is imposed on them to furnish accommodations for the transportation of all persons and property on payment of fare, yet the law does not prescribe the times or manner of the performance of that obligation. On the contrary the railroad corporations have themselves the power to regulate the times and manner in which .passengers and property shall be transported. (Chap. 133, Laws 1880, sec. 2, subd. 9.) This provision of law vests these corporations with discretion respecting the mode of exercising their franchises, and so long as their operations are not suspended and their duties are not unperformed, the courts should not interfere, especially on the application of a private individual, to regulate the exercise of their discretion; without refusal or neglect to perform the duties of carrier, the courts should not so interfere.
+Besides all this, who shall say what accommodations are reasonable. Railroad companies are expected to transport passengers, especially with great speed, and it is not practicable to stop all their trains at all places, or to establish stations to accommodate all persons. Many persons are compelled to go longer distances than this relator to take the cars, and it would be a great hardship to compel the railroad companies to establish and maintain stations and stop their trains to save travel for all in taking their trains. Another very serious question is whether the whole question does not belong in the field of legislation instead of the domain of jurisprudence, but we will not examine or discuss the question now.
+Our view is that a case is not presented for the interference of the court, and that the judgment should be reversed, with costs.
+Barnard, P. J., concurred; Pratt, J., concurred in the result.
+Judgment reversed, with costs.
