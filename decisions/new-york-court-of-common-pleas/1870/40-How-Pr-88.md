@@ -1,0 +1,20 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1870-11"
+citations: ["40 How. Pr. 88"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barnet Silverman agt. Delphine Henant."]
+source_url: "https://static.case.law/how-pr/40/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1883330
+---
+
+# Silverman v. Henant
+
+## Majority (Larremore, J.)
+
+Larremore, J.
+An order was made in above action upon proceedings supplementary to execution for the examination of the plaintiff, who failed to appear for examination, and a motion is now made to punish him for contempt. It appears from the affidavit upon which the original order was made that the judgment upon which these proceedings are founded was recovered in the marine court against the plaintiff for costs, April 21, 1870, and a transcript thereof was filed on the same day in the office of the clerk of the city and county of New York. That on the same day, an execution upon said judgment against the property of the plaintiff was issued to one of the marshals of the city of New York, where said plaintiff resided, and that said marshal had returned said execution wholly unsatisfied. It was insisted on the argument, (among other objections raised,) that the issuing of the execution to said marshal and his return thereon did not confer jurisdiction to grant the order for said examination. Section 3, chapter 400, of the laws of 1865, (under which it is claimed that the authority of the marshal is derived,) provides that any summons, warrant, attachment, execution, or other process issued by any of the justices of the marine court of the city of New York, or by the clerk of said court, may be served by any marshal of said city, who shall be allowed the same fees therefor as the sheriff of the county of New York is allowed by law for like services; and the return of any of said marshals to any process directed to him for service or execution as aforesaid shall have Ihe same force and effect as the return of a sheriff to process issued out of courts of record. By section 4 of the act passed April 24, 1862, (entitled “an act in relation to the courts in the city and county of New York,” chapter 484, Laws, 1862,) the constables elected or appointed after the passage of that act, were to be denominated the marshals of the city of New York, with like powers and duties as said constables. Prior to the passage of this act, at the time of the passage of the act of 1865, all process (except the summons) issuing out of the marine court was by law to be directed and served by the sheriff of the city and county of New York. (See Laws 1857, chap. 295.) The said act of 1865, which is amendatory of the act of 1862, confers no additional power or authority upon said marshals, except the concurrent right to serve and execute all process issued out of said marine court, in like manner and with the same effect as said sheriff. Proceedings supplementary to execution can only be had under section 292 of the Code which requires an execution to be issued to and returned by the sheriff of the county where the debtor resides, or where the judgment roll, or a transcript of the judgment, is filed. This section was not amended by the third section of the said act of 1865, the provisions of which latter section have reference only to process and proceedings in the marine court. The ' issuing of the execution to the marshal and his return thereto, were wholly insufficient to sustain these proceedings.
+Note.—By the act of 1865, the return of a marshal upon an execution “ shall have the same force and effect as the return of a sheriff to process issued out of a court of record." The question, therefore is, what effect has the return (unsatisfied) of a sheriff upon an execution issued out of a court of record, in conferring jurisdiction upon the court or judge in granting an order of examination in supplementary proceedings ? The answer to the latter would seem to he aleo an answer to the former, as the return is to have the same force anct effect.—Rep.
