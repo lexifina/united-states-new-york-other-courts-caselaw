@@ -1,0 +1,26 @@
+---
+court: "New York Court of Common Pleas"
+decided: "1887-12-05"
+citations: ["12 N.Y. St. Rep. 132"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Cromwell et al., Resp’ts, v. George L. Burr, App’lt."]
+source_url: "https://static.case.law/ny-st-rep/12/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1992783
+---
+
+# Cromwell v. Burr
+
+## Majority (Larremore, C. J.)
+
+Larremore, C. J.
+In disposing of this appeal upon the re-argument heretofore ordered, the able and elaborate brief submitted by the learned counsel for the appellant has not been overlooked. The argument which it so forcibly conveyed was entitled to, and has been given serious consideration. I have, nevertheless, reached the conclusion that, upon the whole case, the action of the former general term was correct; and that the judgment appealed from should be affirmed.
+The learned judge, who tried the case, in effect, ruled in appellant’s favor on all the questions arising as to the form and validity of the proceedings in the bankruptcy court, by instructing the jury that the only question for them to pass upon was the question of tender. Defendant had offered a composition had under bankruptcy proceedings, and all the necessary steps leading thereto, in order to make the same binding and effectual, as a defense to plaintiff’s demand for the full amount of the original debt in. this action. Plaintiff s counsel had attacked the regularity and technical sufficiency of each successive step_ in the bankruptcy proceedings, and the effect of the direction given the jury was to overrule all of plaintiff’s objections on this point, and to hold, as defendant requested, that all the proceedings in the district court of the United States were in accordance with law.
+Defendant’s appeal is, therefore, based entirely upon the claim that the judge did not present the law governing the question of tender fairly and comprehensibly in his charge. Perhaps it must be conceded that the law might have been stated with greater clearness of expression and more regard for logical arrangement. Still, I think the whole law governing the subject was presented to the jury, and there is nothing to show that they were misled by anything that occurred on the trial. The judge charged that, defendant, in order to make good his defense, must prove an unqualified and unconditional tender, in money or its equivalent, of the three dividends payable to plaintiffs under the composition proceedings. He also charged them: “That if Mr. Oromwell, one of the plaintiffs, by his declarations or acts relieved the defendant of making a proper offer of this money to him, if he did there was no occasion for the defendant to make any further tender.” While this latter portion of the charge did not present the rule as succinctly as defendant's request to charge, I am, nevertheless, of opinion that it was a sufficient exposition of the law; and that the jury could not have been mistaken as to the court’s meaning. There was evidence, pro. and con., as to both these -propositions of law, on the question of tender, and we must regard the jury’s finding on the subject as final.
+Defendant’s principal objection is to that portion of the charge which relates to acts or alleged acts of the plaintiffs which would amount to such a refusal of their dividends under the composition proceedings as would relieve the bankrupt from making any tender.
+I do not think that the trial judge erred in this respect; nor is his charge insufficient, while, as above intimated, it might have been more direct. Defendant complains that in the judge’s informing the jury that the only thing for them to consider was the question of tender, they were erroneously instructed. I do not agree with him in this contention. “The question of tender” under the circumstances of this case was two-fold, including, first, the question whether a proper tender had been made; and' second, whether plaintiffs by their acts, had relieved the defendant from making any tender at all. Both of these matters relate exclusively to the matter of tender; and one is just as much comprehended in the judge’s expression “ question of tender” as the other. There had been other questions utterly foreign to this matter of tender, concerning which evidence had been given, on the trial; such as the technical sufficiency and binding force of the various proceedings in the bankruptcy court. When, therefore, the judge told the jury that they were to confine their consideration to the question of tender, he meant simply that all these other subjects which did not touch the “ question of tender ” in any form were to be disregarded.
+The judge’s disposition of defendant’s request to charge, was not error. A judge certainly has the right to prefer his own version of a proposition of law to one submitted by counsel; audit is noterror if the charge cover the whole ground, and be in fact correct. The court did not decline to charge this proposition; but charged, “as charged;” thus showing that the proposition had been embodied in the charge proper.
+The judgment appealed- from should be affirmed with costs.
+Daly and Van Hoesen, JJ., concur.
