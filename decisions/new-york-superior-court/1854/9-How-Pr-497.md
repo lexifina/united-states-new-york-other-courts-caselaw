@@ -1,0 +1,32 @@
+---
+court: "New York Superior Court"
+decided: "1854-05"
+citations: ["9 How. Pr. 497"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles S. Brown agt. William Ward, Joseph W. Ward, and David H. Ward."]
+source_url: "https://static.case.law/how-pr/9/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2195717
+---
+
+# Brown v. Ward
+
+## Majority (Hoffman, Justice.)
+
+Hoffman, Justice.
+The demurrer, admittedly, cannot be sustained. In order to raise the questionfully, it has been agreed upon the trial, that a notice given by the plaintiff to the defendants of the intended sale of the bonds at the Merchants’ Exchange for the 27th of April, 1854, unless the note was previously paid, should be considered as before the court; also the receipt of the plaintiff given upon getting the bonds, and an affidavit showing the sale, a previous notice of a week in several of the daily newspapers, and a sale at twenty-eight per cent, on their par value. The proceeds were about $1,120. The notes were payable at six months from their respective dates. And the agreement expressed in the receipt was, that they were to be returned to Ward, Brothers & Company upon the payment of the said notes, or a proportionate part as each was paid.
+In Wheeler agt. Newbold in this court, April, 1853, the action was for the recovery of' the sum of $611.73. Certain promissory notes had been deposited as collateral security for a loan of $2,000. The amount of the collaterals was $2614.13. The debt not being paid at maturity, the collaterals were sold at private sale for $2,020. Notice of his intention to sell was given by the holder.
+The plaintiff took the ground that the collaterals could only be sold at public auction after notice of the time and place.
+But chief justice Oakley held, for the purposes of the trial, that a loan upon the pledge of commercial paper did not give the lender the right to sell the paper at all. That if the loan was not paid at the time agreed upon, the lender might hold the paper until maturity, and collect and apply the money to the payment of the loan, and upon this ground directed the jury to find a verdict for the plaintiffs for the' excess of the collaterals over the amount of the loan and interest. But the judge stated that as the point was new, and of great practical importance in this city, he shoúld direct the judgment to be suspended until a case was made to be heard at the general term.
+The case was not carried up, but the decision was approved bv the judges upon consultation. ‘ ■
+But the court did not intend to question or modify the general law well established, as to the sale of securities of personal property, other than mercantile paper, pledged as collateral security for, a debt. Since the time of the case of Hart agt. Ten Eyck before chancellor Kent, (2 John Ch. Rep. 62,) the right of the pledgee to sell after the debt is due, upon reasonable notice, has been unquestioned; and a custom has grown upj and has been sanctioned by the courts, of selling stocks at the Merchants’ Exchange.
+The leading case of Tucker agt. Wilson, which was decided by the house of lords, reversing unanimously lord Harcourt’s decree, is strikingly similar to the present case. There was a loan secured by exchequer annuities, the transfer to be void upon payment at a particular day, without power to sell; a default of payment; notice of sale; a sale at the Exchange by a sworn broker, at the then fair value; and a bill to redeem. The only difference is, that the borrower desired a delay of a week in selling. (See Br. P. C. p. 384.)
+In Little agt. Barker,. (1 Hoffman’s Ch. Rep. 488,) fifty shares of stock of the Staten Island Bank were deposited as collateral security for a loan of money upon a note, with authority to sell on nonperformance of the promise. Afterward a receipt was given, taken as a, substitute for the note, which expressed that forty shares of such stock were received as collateral security for the $2,000, the amount of a note dated that day,<£ which I agree to convey on the prompt payment of the same.” The court considered the law to be, that if no notice had been given of the sale of stocks pledged, the pledgee could be called upon to replace them, paying the amount of the debt. But that the title of the purchaser could not be affected withou. proof of his personal knowledge of the loan and pledge.
+In Castello agt. the City of Albany, (1 Legal Observer, 25, 1842,) before me as assistant vice-chancellor, the question arose in this form : The hypothecation of stock was general, without any power to sell expressly given. The pledge was to secure a running account. Demand of the balance was repeatedly made. The pledgee then caused the stock to be offered at the board of brokers, where he offered it at the rate of fifty-three per cent., which he could not get. He afterward soldit at private sale, without notice of the time or place.
+The case of Wood agt. Hamilton in the superior court, and others, were referred to as deciding that a sale at the board of brokers of stock pledged could not be made without an express stipulation to that effect; and that a sale to be valid must be upon reasonable notice, and at public auction. And it was held that the defendant must replace the stock or allow for the difference in value on his debt.
+Applying these authorities to the present case, I consider that a right to sell stock held as collateral security follows the pledge, unless restricted by positive stipulation; that such right might be exercised, after the debt is due, upon a demand ■for payment, and notice of the time and place of sale at public auction, which in New-York may be at the Merchants’ Exchange. Any other mode of sale must rest upon express agreement.
+The distinction between the cases which I have cited, and that of Wheeler agt. Newbold is apparent. It would be most injurious in a mercantile community, where commercial credit is of so delicate a character, to allow the notes of a party to be exposed for sale before their maturity. But the stocks of a company, like those of a government, are the subjects of common transfer •and sale, without the possibility of such an objection attaching.
+The result is, that judgment must be entered for the plaintiff for the amount demanded, with interest and costs.
+On consultation, this decision was approved by a majority of the court.
