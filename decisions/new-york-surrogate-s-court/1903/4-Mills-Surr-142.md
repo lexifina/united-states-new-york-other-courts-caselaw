@@ -1,0 +1,35 @@
+---
+court: "New York Surrogate's Court"
+decided: "1903-12"
+citations: ["4 Mills Surr. 142"]
+reporter: "mills-surr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of the Probate of a Paper Writing Propounded as the Last Will and Testament of Albert L. Babcock, Deceased."]
+source_url: "https://static.case.law/mills-surr/4/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1069854
+cites_cases: ["11 App. Div. 208", "34 N. Y. St. Repr. 824", "6 App. Div. 211"]
+---
+
+# In re the Probate of a Paper Writing Propounded as the Last Will & Testament of Babcock
+
+## Majority (Silkmam, S.)
+
+Silkmam, S.
+The issues raised and tried are two-fold:
+First. Was the paper propounded executed by the testator and with the formalities required by law ?
+Second. Was the alleged testator competent at the time of the alleged execution to comprehend what he was doing, the. nature and extent of his property and his relationship to those-who would be the natural objects of bis bounty?
+As to the factum of the will, we find contradiction in the. evidence of the subscribing witnesses. Mr. Williams, who drew the paper propounded, and who is a competent attorney, testifies clearly to the signing of the paper by the testator, his asking testator whether he declared the paper to be his last will and testament, whether he desired the witness Buckhout and himself to sign as witnesses, that the testator assented, that the testator signed in the presence of both witnesses and that both 'Witnesses signed in the presence of the testator.
+The witness Buekhout failed to recollect these legal formalities, as lay witnesses frequently do; nevertheless, I have no doubt that Mr. Williams correctly states what transpired, and that the paper writing propounded was properly and lawfully executed, and I can certify in the language of section 2622 of the Code that I am “ satisfied with the genuineness of the will, and the validity of its execution.”
+We how come to the question of the competency of the testator. This issue is peculiarly one for the determination of a jury, and if the parties continue the controversy, that issue must sooner or later reach the ears of twelve good and true men.
+If before admitting the will to probate the surrogate were required to be satisfied that the testator had testamentary capacity at the time of the execution of the paper propounded, probate would have to be denied, because, taking all the facts and circumstances as they were brought out upon the trial, and considering the testimony from the view point of its credibility and probability, I think the evidence weighs against, rather than for, testamentary capacity.
+It is unnecessary to comment upon the details. In view of the satisfaction as to the factvm and doubt as to testamentary capacity, what is the duty of the court in the light of authority ?
+Section 2623 of the Code which provides, “ If it appears •to the surrogate that the will was duly executed; and that the testator, at the time of executing it, was in all respects competent to make a will, 'and not under restraint; it must be admitted to probate, as a will valid to pass real property, or personal properly, or both, as the surrogate determines, and the petition and citation require, and must be recorded accordingly,” taken in connection with the previous section indicates on the part of the Legislature an intention to give to the surrogate discretion to favor or reject probate where he is in doubt on the peculiarly jury issues of competency and undue influence.
+Where the surrogate rejects probate upon the ground of the incompetency of the testator, and. the record shows it to be a doubtful question, the appellate court will reverse and send the issue to a trial by a jury, without indicating in any way its opinion upon the facts as disclosed in the record. Matter of Van Orman v. Van Orman, 34 N. Y. St. Repr. 824; Matter of Van Houten, 11 App. Div. 208; Matter of Tompkins, 69 id. 474.
+In the latter case, Mr. Justice Jeitks says in an opinion which is concurred in by the entire court: “ We hesitate to state the reasons for our conclusion in this case lest expression might be taken to indicate an opinion upon the questions which await the determination of a jury, and thereby we might seem to prejudge. And, for the same reason, we are careful to say that this reversal, which is made necessary by our conclusion, does not indicate, in our opinion, that the learned and able surrogate positively erred in the result reached by him, but merely that such result on the evidence adduced before him and contained in the record now before us is not entirely satisfactory to this court.”
+The issues in the case were testamentary capacity, fraud and undue influence.
+I am dear that in the case at bar the appellate court would find the record sufficiently unsatisfactory to reverse and direct a trial before a jury upon the question of testamentary capacity, should probate be denied.
+In Matter of Beck, 6 App. Div. 211, which involved the issue of undue influence, the Appellate Division affirmed the decree admitting the will to probate nevertheless, Mr. Justice Ctjlmsn in an opinion in which all the justices concurred, after discussing the facts, adds: “ We think it proper to call the attention of the parties to the consideration, whether it is now worth while to prosecute such appeals as the present one. By section 2653a of the Code of Civil Procedure (added in 1892), any person interested in a will may cause the validity of the probate thereof to be determined by a jury, an action brought in the Supreme Court for that purpose. Should we reverse the decree of the surrogate on questions of fact in this case, the only' relief we could grant the appellants would be to direct the trial of the issues by a jury (§ 2588, Code). This relief or review the parties can obtain as a matter of right, under the section of the Code first cited, without an appeal. In fact, it can still be had in this case, as two years have not elapsed since the decree admitting the will to probate. It would seem that now an appeal from a decree of the surrogate, probating a will, is only profitable where the appeal is based solely on questions of law.”
+In view of the provisions of the Code, and of the authorities cited, I think the course to be pursued by a surrogate, where the > factum of the will is satisfactorily established, is to grant probate, unless want of testamentary capacity, fraud or undue influence is established beyond a reasonable doubt.
+Probate decreed.
