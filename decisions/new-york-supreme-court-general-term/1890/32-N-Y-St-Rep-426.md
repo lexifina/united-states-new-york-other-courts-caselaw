@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1890-05-23"
+citations: ["32 N.Y. St. Rep. 426"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lory C. Rand, Resp’t, v. The Rome, Watertown & Ogdensburgh Railroad Co., App’lt."]
+source_url: "https://static.case.law/ny-st-rep/32/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2040115
+---
+
+# Rand v. Rome, Watertown & Ogdensburgh Railroad
+
+## Majority (Merwin, J.)
+
+Merwin, J.
+This action was brought to recover for the work, labor and services of plaintiff as a conductor upon the defendant’s railroad from September 1 to October 21, 1888, at the agreed price of sixty-five dollars per month for working days and extra at same rate for other days, amounting altogether to $123. In defense, it was alleged that the plaintiff, during the time named and for a year prior thereto, was in the employ of defendant at the price named, under a contract, a part of which was that plaintiff should faithfully account for and pay to defendant all fares which he received in the course of his employment as conductor, and until that was done should not be entitled to his pay for services; that on the 7th August, 1888, he received for fares, $7.73, and on August 14, 1888, $3,55, which he did not pay over or account for and that, therefore, he should recover nothing on his present claim. A counterclaim was, also, set up for said sums and also for the sum of $150 alleged to have been in like manner received and not accounted for between October 21, 1887, and October 21, 1888, without specifying particular dates or amounts.
+At the trial the amount of plaintiff’s wages was not disputed. The contest was over the matters set up in defense as to whether or not the plaintiff was barred of his cause of action by reason of failure to account for fares collected. On the part of the defendant, there was the testimony of several persons employed on behalf of defendant as private' detectives, who were on the trains run by plaintiff on the 7th and 14th August, 1888, who testified to the plaintiff receiving fares that did not appear in the daily reports of the plaintiff to the company. There was also some evidence as to transactions upon the 12th September, but the court in its charge held it not to be sufficient to show any deficiency then and limited the jury to the consideration of the transactions in August. This was not objected to. The plaintiff denied any misappropriation and denied that he upon the dates named in August received any fares that he did not account for. His wages for August were paid.
+The claim of the defendant is that the verdict is against evidence ; that there was so great a preponderance of evidence in favor •of the proposition that the plaintiff had received fares that he did not account for, that upon that ground a new trial should be granted.
+The vital question in the case, as submitted by the court to the jury without objection or exception, was whether the plaintiff intentionally retained money which it was his duty to pay over. The verdict of the jury in favor of the plaintiff upon that question should not, under the circumstances of this case, be disturbed. The defendant, notwithstanding the information which it now says was obtained by its agents on the 7th and 14th August, paid the plaintiff his wages for August and did not discharge him till the' 21st October.
+It is further claimed by the defendant that the plaintiff, according to his own evidence, failed to perform his contract by omitting to punch the duplex tickets for passengers who paid their fares on the train at the time when they were paid, and that therefore plaintiff cannot recover, and the complaint should have been dismissed on that ground. This point was not taken in the answer or at the trial and there was no request to have it submitted to the jury. According to plaintiff’s evidence the rule was not invariable, and it cannot be said, as matter of law, that his failure to punch tickets in the manner testified to by him would be a bar to his recovery of wages.
+The rulings upon the admission of evidence to which our attention is called were not erroneous. The explanation of plaintiff as to his manner of doing business, given by him in rebuttal of the defendant’s evidence, to the extent admitted by the court, was not improper. Evidence was given by a witness, Samuel Bull, as to what occurred on another train in the presence of Mr. Parsons, the president of the defendant, with reference to the punching of duplex tickets. The only ground of objection was that it did not appear that Mr. Parsons knew what was going on. This objection was remedied, the witness stating that Mr. Parsons saw him collect fares and pass them by without punching the duplex.
+Ho sufficient reason for reversal is shown.
+Judgment and order affirmed, with costs.
+Hardin, P. J., and Martin, J., concur.
