@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1880-04"
+citations: ["9 Abb. N. Cas. 49"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BUTLER v. MANN."]
+source_url: "https://static.case.law/abbn-cas/9/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 624501
+cites_cases: ["1 Barb. 30", "18 Hun, 405", "21 Hun, 457", "59 N. Y. 176", "7 Daly, 485"]
+---
+
+# Butler v. Mann
+
+## Majority (Ingalls, J.)
+
+Ingalls, J.
+Section 531 of the Code of Civil Procedure provides: “The court may in any case direct a bill of particulars of the claim of either party to be delivered to the adverse party.” This provision confers upon the court a broad judicial discretion, and is declaratory of a practice which existed anterior to the adoption of the Code, but which was very sparingly exercised in this State (Tilton v. Beecher, 59 N. Y. 176). The power thus conferred should be prudently employed, with the view to enable parties to prepare their pleadings and evidence for the trial of the. real issues involved in an action, and not to impose unnecessary labor upon any party. This statute, if judiciously enforced, will be of great value; otherwise, it will prove mischievous and oppressive.
+An examination of the facts, disclosed by the papers, has convinced us that the defendants can, without risk or embarrassment, answer the complaint in some of the forms of pleading provided by section 500 of the Code. So far as preparing for the trial of the action is concerned, we do not discover that the plaintiff possesses facilities for ascertaining the facts desired by the defendants, superior to those which are possessed by the latter. It is not shown that any hostility exists between the principal to the bond and his sureties, and we should not infer that information is withheld by him from the defendants, in regard to the moneys received and disbursed by him, which constitute substantially the subject-matter of this action, and it would, therefore, seem that the defendants possess advantages for ascertaining the facts which they seek superior to those within the reach of the plaintiff. The action is upon a bond, and the breach assigned is in effect the failure of the principal thereto to account for the moneys which he has received belonging to the plaintiff. It is but reasonable to assume that the receipt and disbursement of the money by the principal to the bond, as alleged in the complaint, are within the knowledge of such principal, and that the defendants, the sureties, can procure from him information, in regard thereto, more reliable and accurate than anj^ statement which the plaintiff can furnish. In such case the defendants should not be allowed to impose upon the plaintiff the labor of furnishing particulars which are equally within the reach of the defendants (Powers v. Hughes, 7 J. & S. 482 ; Wigand v. De Jonge, 18 Hun, 405 ; Youngs v. De Mott, 1 Barb. 30). It was suggested upon the argument that, the plaintiff having brought the action, it should be assumed that he is in possession of the facts which constitute the cause of action. The plaintiff has set out in the complaint, the bond, and alleged wherein the condition thereof has been violated by the principal thereto, and the extent of his default so far as the knowledge and information of the plaintiff extends. This statute should not be construed and enforced in such manner as to create unnecessary perplexity and embarrassment, or prove a snare in the .prosecution of actions. It was obviously intended by this provision of the Code to enable a . party reasonably to protect himself against surprise, but not to place impediments in way of the prosecution of an action, or to unnecessarily increase the expense of litigation. Without stopping to discuss the various' decisions which have been made upon this subject, and bearing in mind that every case must be determined in accordance with the circumstances of the particular case, we conclude that the defendants in this action have failed to establish a state of facts entitling them to the bill of particulars which they seek, and that the motion must be denied, with costs.
