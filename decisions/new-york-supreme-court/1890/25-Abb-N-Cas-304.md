@@ -1,0 +1,21 @@
+---
+court: "New York Supreme Court"
+decided: "1890-06"
+citations: ["25 Abb. N. Cas. 304"]
+reporter: "abbn-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FLEISCHMAN v. TOPLITZ."]
+source_url: "https://static.case.law/abbn-cas/25/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1966192
+cites_cases: ["1 Daly, 424", "108 N. Y. 31", "111 Mass. 531", "115 N. Y. 556", "23 Wend. 306", "25 N. Y. 170", "30 N. Y. 164", "55 N. Y. 280", "55 N. Y. 289", "57 Hun, 534", "6 Duer, 126", "87 N. Y. 166"]
+---
+
+# Fleischman v. Toplitz
+
+## Majority (Brady, J.)
+
+Brady, J.
+The plaintiff was the lessee of the premises Nos. 43 and 45 West .Thirteenth street under a lease for five years, which would expire on November 1, 1887. On July 25, 1887, the premises were totally destroyed by fire. They were used by the lessee as a stable, and by the fire a number of horses, which were on the premises at the time it occurred, were destroyed, and formed a part of the debris. Immediately after the fire, a notice was served upon the defendant, as owner of the premises, requiring him to remove the same, the object of which seems to have been to dispose of the dead carcasses of the horses, which would become noisome. The parties hereto had a conversation in regard to that notice, and an understanding was arrived at between them by which the plaintiff was to proceed with the removal, and the defendant to repay him, provided he, and not the plaintiff, were bound to make the removal. The plaintiff proceeded to do as contemplated, and then insisting that the defendant was liable to refund.the amount expended, and, the defendant denying such obligation, this action was brought. The lease under which the plaintiff held contained a covenant on his part to surrender the premises at the expiration of the term in good order and repair, ordinary wear and tear and injury by the elements excepted, and. also, at his own proper costs, charges and expenses, to comply with all the rules, orders and regulations of the department of buildings and board of health of the city of New York. The defendant insists that under both of these covenants the plaintiff was bound to remove the carcasses mentioned. The plaintiff, on the contrarv, contends that no such obligation was imposed. The case is novel, and examination and research have not revealed a kindred case or guide to its decision on authority. The result of a consideration of all the facts and circumstances has resulted, nevertheless, in this conclusion, namely, that the obligations springing from the relations existing between the parties are Several. The plaintiff was bound to remove the offensive carcasses from the ground under his agreement to leave the premises in good state and condition, subject only to the impairment of reasonable use, and the defendant was equally bound to remove the debris, to enable the plaintiff to get at the same. This is a just and equitable disposition of the controversy. The general debris, being s, part of the premises rented, is the landlord’s, and subject to his control, the term having terminated. The carcasses, ■connected as they were with the occupation of the premises by the plaintiff and his business, the animals, of which they were the remains, having been employed therein, are his. The different amounts expended for the removal of the ■carcasses and debris should therefore be paid by the parties, the plaintiff paying for the former, and the defendant for the latter, namely, the plaintiff $83.43, the defendant $465.50; these amounts appearing to be undisputed on the record. No doubt is entertained that the plaintiff abandoned the possession of the premises after the fire, and that such was the understanding of the parties upon which they acted, and none of the exceptions, which have been fully examined, having any value, the only question requiring particular examination is the right of the plaintiff to recover for money expended for the defendant, and, if so, how much ? For these reasons the judgment must be modified as suggested, by deducting $83.43 from the judgment, and the interest charged thereon, and affirmed as to the balance, without costs to either party.
+Van Bkunt, P. J., and Daniels, J., concurred.
