@@ -1,0 +1,34 @@
+---
+court: "New York Surrogate's Court"
+decided: "1883-12"
+citations: ["2 Dem. Sur. 112"]
+reporter: "dem-sur"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Matter of Hall. In the matter of the judicial settlement of the account of George W. Campbell and another, as executors of and trustees under the will of George C. Hall, deceased."]
+source_url: "https://static.case.law/dem-sur/2/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1137228
+cites_cases: ["2 Sandf., 417", "3 Edw. Ch., 270"]
+---
+
+# In re Hall
+
+## Majority (The Surrogate.)
+
+The Surrogate.
+George C. Hall, by a codicil to his will, made the following provision: “I hereby give, devise and bequeath unto my mother, if she shall survive me, the interest upon the sum of ten thousand dollars, which sum I hereby direct my executors to set apart for that purpose, and which sum I hereby assign to the trustees in my said will appointed, and direct them well and securely to invest, and the income thereof to pay, as often as convenient, to my mother during her life, and upon her death the principal sum thereof to divide among my personal representatives as personal property.”
+The testator’s mother survived him. The sum of ten thousand dollars had been invested pursuant to the codicil, and the income paid to the testator’s mother during her life. She died May 29th, 1880. The executors now ask, on a judicial settlement of their account, for a construction of this codicil, as to the parties entitled thereto. The phrase “personal representatives” means executors or administrators (Bouvier, Law Dict.).
+But where it appears from the context of the will that the testator could not reasonably be presumed to make such a gift beneficial to the .executors, courts have sought to give efiiect to the testator’s intention by means of toe secondary sense of the term (2 Redf. on Wills, 79).
+It appears to me perfectly clear that the testator did not intend, by the use of the words personal representatives, to bequeath the ten thousand dollars to the executors for their own use. He directs them to divide it as personal property, and, in ascertaining what was his intention, it is necessary to examine the other provisions of the will, in order that we may properly construe the language here used. The testator left a widow and three children surviving him, his only next of kin and heirs at law. One child has died since the death of the testator’s mother, giving by his will all his estate to his mother and two sisters, in equal sha,res. The widow and her two daughters are still living. The only question for me to determine is—does the widow take one third of this fund as widow %
+It appears from the will that the testator intended to provide liberally for his wife, for by it he devises to her his farm at Brattleboro, Vermont, during her life, and directs that one fourth of the residuary be invested for her benefit during her life, or until such time as she remarries. It does not appear from the will that the testator intended that his executors should take any beneficial interest under it; they act simply in a fiduciary capacity, to preserve and protect the estate for the benefit of those to whom by the will the property is given. The language used in the codicil is not simply to divide or distribute, but to distribute as personal property.
+This phrase, “as personal property,” means something, else why add it \
+It appears to me that it is not susceptible of any other construction than that the testator intended to designate individuals answering the description of personal representatives, among whom it shall be distributed, as the laws of this State distribute the personal property of intestates. It is to be distributed among the personal representatives, meaning thereby those persons who would be entitled beneficially under the statute of distributions, which, in this case, would give to the widow one third, and the residue in equal shares to his three children.
+The testator by the residuary clause in his will gives the residue of his estate to his executors, in trust to divide so as to hold one share for his wife while she remained his widow, and distribute the rest among his children. By the first codicil, the ten thousand dollars in question was taken out of the residuary.
+It seems to me that it is not unreasonable- to assume' that the testator intended, when he said “ divide among my personal representatives as personal property,” that his wife should be entitled to share in the fund with his next of kin, the same as if he had died intestate.
+Personal representatives and legal representatives are, in most cases, identical in meaning (Kilner v. Leech, 10 Beav., 368).
+In the case of Drake v. Pell (3 Edw. Ch., 270), Vice Chancellor McCoux says, in respect to the words, legal representatives: “if the property transmitted be personal estate, the persons designated by, and answering to, this description are those who, by the statute of distributions, are known as the next of kin, and not the executors or administrators.” .So, also, in Watson v. Bonney (2 Sandf., 417), the court says: “the term, legal representatives, is not used.....in its ordinary sense.....executors or administrators. It is those legal representatives who are designated by the statute of distribution of intestates’ estates.”
+In reviewing the English authorities upon this point, I am satisfied that the widow of George C. Hall would take a third of this fund as widow. In the case of Cotton v. Cotton (2 Beav., 67), the testator directed certain funds to be divided between the gentlemen thereinafter named, or the legal representatives of such persons. One of the gentlemen named was John Cotton who died before the testator, leaving a widow and nine children, and the question was whether the phrase, legal representatives, included the widow. The Master of the Bolls held that legal representatives are those persons who would be entitled beneficially under the statute of distributions, and the decree gave one third to the widow. This case is cited with approval in many of the English cases.
+In Holloway v. Radcliffe (23 Beav., 164) and Wilson v. Pilkington (11 Jurist, 537), it was held that personal representatives means next of kin. Jarman on Wills (5th Am. ed. [R. & T.] vol. 2, p. 649), says that legal representatives and personal representatives have been construed as description of the persons taking the personal estate under the statute of distributions. See, also, Bridge v. Abbot (3 B. C. C., 224).
+I am, therefore, led to the conclusion that the words “ to divide among my personal representatives as personal property” means to divide the fund among the testator’s next of kin, and his widow, under the statute of distributions.
+Decreed accordingly.
