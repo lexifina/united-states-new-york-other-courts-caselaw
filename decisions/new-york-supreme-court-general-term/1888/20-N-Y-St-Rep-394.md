@@ -1,0 +1,27 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1888-12-31"
+citations: ["20 N.Y. St. Rep. 394"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Application of Certain Freeholders App’lts, v. The Commissioner of Highways of the Towns of Glen and Florida, Resp’ts."]
+source_url: "https://static.case.law/ny-st-rep/20/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2014796
+cites_cases: ["103 N. Y., 77"]
+---
+
+# Certain Freeholders v. Commissioner of Highways
+
+## Majority (Landon, J.)
+
+Landon, J.
+The application was made under chapter 639, Laws 1857. This provides that “whenever any adjoin-" ing towns shall be liable to make or maintain any bridge over any stream dividing such towns,” and the commissioners of highways refuse to rebuild it aftér proper request to do so, then a proceeding like this maybe instituted, “and the court or judge shall make such order thereon as the justice of the case may require.” In case the bridge is ordered to be rebuilt, the details of procedure are specified in the act.
+We think it was competent for the court upon the facts in this case, to have_ ordered this bridge to be rebuilt, if it had found that “ the justice of the case” required it.
+Clearly there is a highway crossing the creek. It was recorded in 1806, and has existed beyond living memory. When the bridge of 1807 was swept away, the public crossed the stream where they could, and as best they could. Finally, by the sufferance of the state they used the roundabout way of the canal aqueduct. But no lawful highway has existed there or can, under the present laws, exist there. Thus the highway has been practically diverted from its proper site to an improper and unauthorized one.
+If it were lawful for the public to cross the stream upon the aqueduct, we should have no difficulty in deciding that the public had voluntarily abandoned the highway leading to and over the old bridge, and had acquired the new way by the long disuser of the first and user of the second. But the abandonment of the old way was compulsory, and in the absence of the acquisition of ‘a new way is not conclusive of an intent to relinquish the old right. Horey v. Village of Haverstraw, 14 N. Y. State Rep., 498 ; Driggs v. Philips, 103 N. Y., 77 ; 3 N. Y. State Rep., 69.
+We do not think there is any practical difficulty in locating the site of the old bridge. If the order had directed the commissioners to rebuild the bridge upon the old site, as designated by the records, they would have had no difficulty in finding the site, unless they had employed two surveyors instead of one.
+Nevertheless, we conclude to affirm the order. It was, under all the circumstances, a matter of discretion. The bridge would cost at least $20,000. It may well be that the state has no valid reason, aside from the statute, to exclude the public from crossing up'on the aqueduct. The present condition of things has been tolerated for forty years. There does not appear to be any increase in population of the two towns or in'the volume of travel over the main highway. The stream is subject to violent freshets, and' great "care must be taken to preserve the bridge from destruction. There does not appear to be any great dissatisfaction with the present state of things. The local authorities can control such matters. Town of Kirkwood v. Newburg, 12 N. Y. State Rep., 420. And the court ought not to interfere unless the action of the local authorities seems to be' governed by other considerations than the public interests. In case of long continued strife, in which the passions are enlisted, the court may wisely interpose We prefer to dispose of this matter without prejudice to the public right to the old highway, or to the renewal of a similar application, if a changed condition of things should render it expedient.
+Order affirmed, with $10 costs and printing disbursements.
+Learned, P. J., and Ingalls, J., concur.
