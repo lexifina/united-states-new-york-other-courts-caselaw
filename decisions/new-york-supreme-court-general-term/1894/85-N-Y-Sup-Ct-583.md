@@ -1,0 +1,32 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1894-06"
+citations: ["85 N.Y. Sup. Ct. 583"]
+reporter: "ny-sup-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwight, P. J., Lewis and Bisad ley, JJ., concurred."]
+parties: ["Allen M. Burrell, Respondent, v. George Hollands, as Sheriff of Steuben County, Appellant."]
+source_url: "https://static.case.law/ny-sup-ct/85/cases/0583-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4722437
+---
+
+# Burrell v. Hollands
+
+## Majority (Haight, J.:)
+
+Haight, J.:
+This action was brought to recover money alleged to have been collected by the defendant upon the plaintiff’s execution.
+It appears that the plaintiff and one Leroy Riddell had each obtained a judgment against one Harvey G. Lason ; that each procured an execution to be issued upon his judgment and delivered the same to the sheriff of the county, who, by virtue thereof, levied upon and sold personal property of Lason and made thereon thirty dollars and twenty cents. Both plaintiff and Riddell claimed the money, and the only question to be determined in this case is as to which execution was first delivered to the sheriff.
+Riddell testified that he got his execution on the night of December 28, 1892, and went to Deputy Sheriff 'Williams’ office ; that he was not at home, and that the next morning he again went to his office, between nine and ten o’clock in the forenoon, and gave him the execution.
+Deputy Sheriff Williams, in his testimony, corroborates Riddell and states that he received his execution not later than ten o’clock in the forenoon of the 29th of December, 1892. This evidence is not disputed.
+The plaintiff introduced his execution in evidence, from which it appears that it was dated December 28, 1892, and indorsed thereon as received December 29, 1892, one p. M., by the sheriff per Williams, his deputy, and returned wholly unsatisfied February 24, 1893. He, however, testifies that Deputy Sheriff Williams is a butcher and keeps a meat market at the village of Canisteó, and that on the 28th of December, 1892, at about twelve o’clock noon, he went to Williams’ j>lace of business and inquired for him, and was informed by a man who worked in the market that Williams was not there; that thereupon he “ left the execution there at his place.”
+It does not appear whether he delivered it to the man who was _ working for Williams in the meat market, or whether he left it upon the table, desk, or in what particular place it was deposited. Williams testified that the execution was delivered to him December twenty-ninth, between eleven and twelve o’clock, by the plaintiff, and after the Riddell execution.
+The sheriff to whom an execution is directed and delivered, must, upon receipt thereof, indorse thereupon a memorandum of the day, hour and minute when he received it. (Code Civ. Proc. § 13G3.)
+Upon the plaintiff’s execution we find such an indorsement. It is, however, that it was received at one o’clock on December twenty-ninth. His deputy says that he received it between eleven and twelve o’clock of that day, but states that this was after the Riddell execution had been delivered to him. It thus becomes important to determine whether there was an earlier delivery of the execution to the sheriff. This-depends upon the testimony of the plaintiff as to what he did the day before. As we have seen, he took the execution, went to the meat market of Deputy Williams, found he was not there, and then left the execution “ there at liis place.” Was this a delivery to the sheriff ? If so, how could the sheriff perform his .statutory duty of indorsing thereon the day, hour and minute that it was delivered to him ?
+The sheriff of the county is required to keep an office in some proper place in the city or village in which the county courts of the -county are held, of which he shall file a notice in the office of the county clerk, and he shall keep the same open, except Sundays and other holidays declared by law, from eight o’clock in the morning until nine o’clock in the evening, and every notice or other paper required to be served upon any sheriff may be served by leaving the same at the office designated by him in such notice, during the days and hours which he is required to keep such office open. (Laws 1892, chap. 686, § 184.)
+Canisteo was the county seat or the place where the office of the sheriff was established. The place where the execution was left was but a meat market or store kept by one of the sheriff’s deputies. A delivery of an execution to the deputy in person, doubtless, would have been, in contemplation of law, a delivery to the sheriff. He then could make the indorsement required by the statute. But the leaving of it in some undescribed place in the meat market of one of his deputies is not a delivery to the sheriff. We are, therefore, of the opinion that it appears from the undisputed evidence in the case 'that the Riddell execution was first delivered to the sheriff, and" that the verdict is against the evidence.'
+The judgment of the County Court and that of the justice should be reversed, with costs in this and the courts below.
+Dwight, P. J., Lewis and Bisad ley, JJ., concurred.
+Judgment of the County Court of Steuben county and that of the justice reversed, with costs in this and the courts below.
