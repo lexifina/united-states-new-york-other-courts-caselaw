@@ -1,7 +1,7 @@
 ---
 court: "Saratoga Chancery Court"
 decided: "1841-03-16"
-citations: ["1 Sarat. Ch. Sent. 26", "1 Sarat. Ch. Sent. 25"]
+citations: ["1 Sarat. Ch. Sent. 26"]
 reporter: "sarat-ch-sent"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
