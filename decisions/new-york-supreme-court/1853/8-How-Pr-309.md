@@ -1,0 +1,23 @@
+---
+court: "New York Supreme Court"
+decided: "1853-07"
+citations: ["8 How. Pr. 309"]
+reporter: "how-pr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Churchill agt. Bennett and others."]
+source_url: "https://static.case.law/how-pr/8/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2194508
+---
+
+# Churchill v. Bennett
+
+## Majority (T. R. Strong, Justice.)
+
+T. R. Strong, Justice.
+The object of this action is to set aside an assignment, made by the defendant Samuel Bennett, a judgment debtor of the plaintiff, to the other defendants, as fraudulent as against the creditors of the assignor, and to obtain satisfaction of the plaintiff’s judgment out of the assigned pro-. perty. It is alleged in the complaint, upon information and belief, “ that ever since the said assignment, the said Samuel Bennett has had the actual possession of all the property as • signed,” &c.; “that he has, since said assignment, managed and controlled the said property assigned, in the same manner as before such assignment; and that the said assignees have not, nor has either of them, ever had the actual and continued possession of the property thus assigned, nor has there been any actual and continued change of the possession of the property assigned, since such assignment.” The defendants have answered the complaint, and in respect to the aforesaid allegations it is stated in the answer, “ that the said assignees of the said Samuel Bennett, immediately after the execution of the said assignment, and by virtue of the .same, took possession and control of all the notes, accounts, demands, choses in action, and real estate of the said Samuel Bennett, and commenced converting the same into money, to apply in payment of the debts of the said Samuel Bennett, pursuant to the terms of the said assignment,” &c. And the defendants “deny that the said Samuel Bennett, since-said assignment has managed and controlled the said property assigned, in the same manner as before such assignment, but on the contrary thereof, the said property assigned, has at all times since the said assignment, been under the exclusive direction, control, disposal and management of the said assignees,” &c. This, aside from a general denial that the assignment was or is fraudulent, and averments that it was made in good faith, and that the assigned property was “ Iona fide surrendered into the possession of the assignees, on the execution of the assignment, where the same has since remained, as hereinbefore specified,” is the whole of the answer to the portions of the complaint above given. It is obvious that the alleged facts, that since the assignment the assignor has had the actual possession of the assigned property; that the assignees have not at any time had the actual possession thereof; and that there has not been any actual and continued change of the possession of the property, are wholly unanswered. The assignees may have taken possession of the property, by the assignor as their agent, and yet no actual change of possession have taken place. The answer, in regard to the possession of the property, is entirely consistent with the complaint. The former may be true, having reference to a mere legal possession, and the complaint be equally true, as to the actual possession. As the complaint is not answered, in the particulars referred to, it must to that extent, be taken as true, and if true thus far, as no facts are presented, showing that the assignment was made in good faith, and without any intent to defraud creditors, the injunction ought not to be removed. (2 R. S. 136 § 5.) Griswold agt. Sheldon, (4 Com-stock, 581.) The evidence of fraud, from facts admitted, is not so far overcome by the general denial of fraud, as to warrant a dissolution of the injunction-
+This aspect of the case is not changed by the affidavit of McCoy, one of the assignees, on which the motion of the defendants is, in part, founded.
+It is contended, on the part of the defendants, that the complaint itself is not sufficient to sustain the injunction, as the allegations relating to fraud are upon information and belief, and the affidavit annexed to the complaint is fully answered. It is sufficient, in reference to this position, to say, that the objection to the complaint is obviated by the constructive admission before referred to, of portions of the complaint.
+It is unnecessary to express an opinion upon the other questions discussed upon the motion to vacate the injunction.
+The motion to vacate the injunction is denied, with ten dollars costs, and the motion for an order of reference to appoint a receiver, &c., is granted.
