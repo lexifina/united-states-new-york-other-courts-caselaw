@@ -1,0 +1,26 @@
+---
+court: "New York Supreme Court, General Term"
+decided: "1886-06-28"
+citations: ["1 N.Y. St. Rep. 187"]
+reporter: "ny-st-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jacobstein v. Abrams."]
+source_url: "https://static.case.law/ny-st-rep/1/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 637293
+cites_cases: ["16 How. Pr., 203", "30 Barb. 117"]
+---
+
+# Jacobstein v. Abrams
+
+## Majority (Brady, P. J.)
+
+Brady, P. J.
+The motion was to set aside judgments confessed in fraud of Otto Denecke, one of the creditors of the defendant Ahrams, and to enjoin him from selling or otherwise disposing of goods or property of any kind, levied upon by virtue of executions issued in the actions in which the judgments were confessed. The order to show cause was granted on the affidavit of one Heidenheimer, who stated that Otto Denecke in his behalf was the assignee of claims of many creditors of the defendant to the extent of about thirteen thousand dollars, and had a hen upon the merchandise in the defendant’s store; that on or about the 15th of December, 1885, the defendant confessed'judgment to the extent of about eighteen thousand dollars, which judgments were confessed by the defendant for the purpose and with the idea and preconceived design of cheating his creditors out of their respective demands; and that the defendant confessed and admitted to him that such confessions were made for the purpose of securing him, the defendant, and for no other purpose. It appeared that Denecke was neither a judgment nor an attaching creditor, but had commenced an action to recover the possession of certain goods of which he claimed to be the owner and to be entitled to, and which.had been seized by a proceeding in his action.
+In answer to the application the judgment creditors respectively made affidavits showing that their judgments were founded upon proper consideration, and sustaining them by proper allegations. The defendant denied that he had made the statement asserted by Heidenheimer, to the effect that the confessions of judgment were made for the purpose of securing him. He denied very emphatically ever having made such a statement, and asserted it to be absolutely false and untrue.
+The gravemen of the motion was the statement, alleged to have been made by the defendant Abrams, that the judgments were confessed for the purpose of securing him. Mr. Denecke had no lien whatever upon the property, except what was acquired by his action of replevin to recover certain goods of which he claimed to be the owner, and of which he obtained possession. He was not an attaching creditor nor a judgment creditor, and had no hen, therefore, of any kind whatever, except that suggested which was accomplished by his action, and which related, as we have seen, to certain goods claimed by; him, and did not extend to the other goods, if any, which were upon the premises of the defendant and subject to levy. It is not understood, therefore, on what principle he could move to set aside the judgments, having no hen by attachment or judgment or otherwise, as already indicated. There is no doubt of the right to vacate a judgment obtained^ by confession, upon motion, nor can there be any question that where facts are presented justifying such a proceeding, the court may refer the contention to a referee for his investigation and opinion. The practice is well established and well known. But no case has been found in which a mere creditor could make such a motion, and the cases referred to by the respondent on the subject do not sustain the contrary principle.
+In Norris v. Denton et al. (30 Barb. 117), it is said that the right to attack a void judgment, entered by confession, is not limited to judgment creditors. It may be attacked by a grantee or mortgagee of premises upon which such judgment is a hen, as well as by judgment creditors. The attacking person in such a case as that has a quite different status from that occupied by a mere creditor. In Marks v. Reynolds (12 Abbott, 403), the application to set aside the judgment was made by a subsequent judgment creditor.
+In Bridenbecker, President, etc., v. Mason (16 How. Pr., 203), the motion was made by a judgment creditor. And in the case of Kendall v. Hodgins (7 Abbott, 309), it was said to be settled that a judgment creditor may obtain relief against such a judgment as complained of here by motion, citing the cases. The question discussed was whether a bona fide purchaser was equally protected with the judgment creditor. And the court stated that the general rule was that no one except a judgment creditor could come into court to obtain relief against a transfer made or judgment confessed by his debtor, as being a fraud upon creditors; and further, that the general rule was not that a creditor at large could not obtain relief by motion which he might, in such a case, obtain by action, but that he could not be heard at all.
+For this reason, without further elaborating the point, the order should be reversed, with ten dollars costs nd the disbursements of the appeal.
+Daniels and Churchill, JJ., concur.
