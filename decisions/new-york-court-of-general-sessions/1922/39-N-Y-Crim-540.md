@@ -1,0 +1,25 @@
+---
+court: "New York Court of General Sessions"
+decided: "1922-06"
+citations: ["39 N.Y. Crim. 540", "118 Misc. 740"]
+reporter: "ny-crim"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE PEOPLE v. PETER BARBER."]
+source_url: "https://static.case.law/ny-crim/39/cases/0540-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1224766
+---
+
+# People v. Barber
+
+## Majority (Nott, J.:)
+
+Nott, J.:
+This defendant was indicted for subornation of perjury in that he procured one Valente to falsely swear that he had served a summons in a civil action upon one Sirio, the present defendant being the plaintiff in that civil action.
+Proof having been offered to the grand jury that Valente could not be found within the jurisdiction, his testimony taken in the Magistrate’s Court was read before the grand jury, pursuant to sections 8 and 221b of the Code of Criminal Procedure. According to that testimony Valente informed the defendant that he was unable to serve Sirio and thereafter the defendant procured him to sign and swear to an affidavit without reading the contents to him or letting him know what they were, and he swore that he was in ignorance that he had ever signed an affidavit of service upon Sirio.
+If Valente knowingly signed said affidavit, he is an accomplice of the defendant and his testimony required corroboration ; but if he signed in ignorance of the contents, and without perjurious intent, then he is not an accomplice and no corroboration of his testimony as such is required. Upon the testimony before the grand jury it is a question of fact whether or not he was an accomplice, which should be left to the jury.
+The further point, however, is raised that even if he were not an accomplice there is only his oath against that of the defendant on the fact that he informed the defendant that he had not served Sirio and that the defendant, therefore, knew that the affidavit was false, and that it is a well-known principle of law that upon a trial for perjury there must be more than an oath against oath.
+While that contention may involve a serious question on the trial of the action, it has no application to the proceeding before the grand jury, for the reason that the defendant did not appear and was not sworn there. Section 258 of the Code of Criminal Procedure provides as follows: “ The grand jury ought to find an indictment, when all the evidence before them, taken together, is such as in their judgment would, if unexplained or uncontradicted, warrant a conviction by the trial jury.” The grand jury, therefore, were hound in weighing the evidence to assume that it would he uncontradicted, in which case it would not he a question of oath against oath.
+The motion, therefore, is denied.
+Ordered accordingly.
