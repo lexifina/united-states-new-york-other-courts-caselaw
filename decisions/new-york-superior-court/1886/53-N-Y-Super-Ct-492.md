@@ -1,0 +1,32 @@
+---
+court: "New York Superior Court"
+decided: "1886-07-02"
+citations: ["21 Jones & S. 492", "53 N.Y. Super. Ct. 492"]
+reporter: "ny-super-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM KRAMER, Respondent, v. THE BOARD OF POLICE OF THE POLICE DEPARTMENT OF THE CITY OF NEW YORK, Appellant."]
+source_url: "https://static.case.law/ny-super-ct/53/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1684076
+cites_cases: ["15 N. Y. 362", "66 How. Pr. 318", "75 N. Y. 362"]
+---
+
+# Kramer v. Board of Police Department
+
+## Majority (Ingraham, J.)
+
+By the Court.
+Ingraham, J.
+—[After stating the facts as above.}—By section 250 of chapter 410 of the Laws of 1882, known as the Consolidation Act, it is provided that the government and discipline of the police department of the city of Hew York shall be such as the board of police may .from time to time, by rules and regulations prescribe, and by section 277 of the said act, “The several members of the police force shall have power and authority to immediately arrest, without warrant, and to take into custody any person who shall commit, or threaten, or attempt to commit, in the presence of such member or within his view, any breach of the peace, or offense directly prohibited by act of the legislature, or by any ordinance of the city. The members of the police force shall possess in the city of blew York, and in every part of this state, all the common law and statutory powers of constables. . .”
+By section 2010 of the said act it is provided : “It shall not be lawful to sell or furnish any wine, beer or strong or spirituous liquors to any person in the auditorium or lobbies of any place of exhibition or performance mentioned in section 1998, or in any apartment connected therewith by any door, window or other aperture and by section 2012 it is provided, that any person violating any of the provisions of section 2010, shall be deemed guilty of a misdemeanor.
+The selling or furnishing of any wine, beer or liquor in the auditorium or lobby of a place of exhibition or performance having been made a misdemeanor, it became the duty of the members of the police force to arrest the plaintiff, if he sold or furnished wine or liquor in the place prohibited by the statute, and the ground upon which the plaintiff requested the court below to grant the injunction was that the acts of the plaintiff and his servants were not in violation of the section referred to ; or, in other words, that they were not guilty of the misdemeanor for which the police threatened arrest. This was the only question discussed in the opinion below and in the briefs submitted by counsel for respondent on this appeal.
+The court below held that the plaintiff was not guilty of the crime, thus trying in a court of equity the guilt or innocence of a person accused of a crime on affidavit. There was no charge in the complaint that the police had threatened to make the arrest without a warrant or the authority required by law. The allegations are that plaintiff was accused of a crime ; that the police threatened to arrest him for committing such crime ; that he was innocent of the crime charged, and did not want to be arrested because it would injure his business ; and whether or not a court of equity has jurisdiction to determine such a question in this action, is presented.
+It is clear that the assumption of such jurisdiction by a court of equity would entirely subvert the method provided by law for the trial of criminal cases. If such jurisdiction should be upheld, every person accused of crime would have the right to apply to the court for an injunction restraining his arrest, and the court would be bound to entertain the application and to try the question of his guilt or innocence upon affidavits. Upon no principle could the jurisdiction be restrained to a particular class of crimes, and a person charged-with the crime of murder would be as much entitled to the remedy as a person charged with a violation of the section of the statute referred to.
+The tendency has been to greatly extend the remedy by injunction in civil cases, but certainly such remedy should be limited to civil cases, and criminal cases left to be disposed of in the criminal courts.
+The question was presented to the court of appeals in the case of Davis v. The American Society, &c. (75 N. Y. 362), where, as in this case, the plaintiff claimed that his acts were not in violation of the statute under which the officers of the defendant claimed the right to arrest, and it was there held that the action was absolutely without sanction in precedent cr principles of equity. The court say: “The only question for contestation was whether, as matter of fact, they were guilty or innocent, of such violation, and the determination of that question could not by such an action as this be drawn to a court of equity. Whether a person accused of a crime be guilty or innocent, is to be determined in a common law court by a jury, and the people as well as the accused have the right to have it thus determined.”
+But the order granted in this case went further than to restrain the arrest of the plaintiff and his employees. The defendants are “ enjoined from arresting or taking into custody any person engaged upon the premises of the plaintiff in the transaction of any business with the plaintiff, and from in any manner proceeding against any such person by arrest, or otherwise, in the conduct of said business upon plaintiff’s premises.”
+Such an injunction would give any person engaged upon the premises of the plaintiff in the transaction of any business, immunity from1 arrest for any crime, and practically nullify the statute which gives to the members of the police force power and authority to arrest and take into custody any person who shall commit or threaten or attempt to commit in the presence of such officer any offense prohibited by law.
+We do not decide whether or not the acts of the plaintiff were in violation of section 2010 of the Consolidation Act, but we are of the opinion that such questions cannot be determined by this court in this action.
+The order appealed from should therefore, be reversed, with ten dollars costs and disbursements, and motion for injunction denied, with ten dollars costs.
+Truax, J., concurred.
